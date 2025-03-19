@@ -7,7 +7,70 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-03-19T22:07:21Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-03-19T23:06:52Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>EU Adopts New ‘Interoperability’ Requirements for Apple Under DMA</title>
+	<link rel="alternate" type="text/html" href="https://ec.europa.eu/commission/presscorner/detail/en/ip_25_816" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w6t" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/19/eu-apple-interop-requirements" />
+	<id>tag:daringfireball.net,2025:/linked//6.41717</id>
+	<published>2025-03-19T23:06:52Z</published>
+	<updated>2025-03-19T23:06:52Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>The European Commission, today:</p>
+
+<blockquote>
+  <p>Today, the European Commission adopted two decisions under the
+Digital Markets Act (DMA) specifying the measures that Apple has
+to take to comply with certain aspects of its interoperability
+obligation. [...]</p>
+
+<p>The first set of measures concerns nine iOS connectivity features,
+predominantly used for connected devices such as smartwatches,
+headphones or TVs. The measures will grant device manufacturers
+and app developers improved access to iPhone features that
+interact with such devices (e.g. displaying notifications on
+smartwatches), faster data transfers (e.g. peer-to-peer Wi-Fi
+connections, and near-field communication) and easier device
+set-up (e.g. pairing).</p>
+</blockquote>
+
+<p><a href="https://9to5mac.com/2025/03/19/apple-says-eu-interoperability-requirements-enables-unfettered-access-to-the-iphone-risks-customer-security-and-privacy/">Benjamin Mayo, reporting for 9to5Mac</a>:</p>
+
+<blockquote>
+  <p>In a statement to 9to5Mac, Apple firmly rebuked the EU decision
+announced today about specific interoperability requirements the
+company must implement over the coming months.</p>
+
+<p>Apple said “Today’s decisions wrap us in red tape, slowing down
+Apple’s ability to innovate for users in Europe and forcing us
+to give away our new features for free to companies who don’t
+have to play by the same rules. It’s bad for our products and
+for our European users. We will continue to work with the
+European Commission to help them understand our concerns on
+behalf of our users”.</p>
+
+<p>In regards to customer privacy, Apple is especially concerned with
+the requirements surrounding opening up access to the iOS
+notification system. The company indicated these measures would
+allow companies to suck up all user notifications in an
+unencrypted form to their servers, sidestepping all privacy
+protections Apple typically enforces.</p>
+</blockquote>
+
+<p>My interpretation of the adopted decision is that the EU is requiring Apple to treat iOS like a PC operating system, like MacOS or Windows, where users can install third-party software that runs, unfettered in the background.</p>
+
+<p>Apple’s statement makes clear their staunch opposition to these decisions. But at least at a superficial level, the European Commission’s tenor has changed. The quotes from the Commission executives (Teresa Ribera, who replaced firebrand Margrethe Vestager as competition chief, and Henna Virkkunen) are anodyne. Nothing of the vituperativeness of the quotes from Vestager and <a href="https://daringfireball.net/linked/2024/09/16/breton-resigns">Thierry Breton</a> in years past. But the decisions themselves make clear that the EU isn’t backing down from its general position of seeing itself as the rightful decision-maker for how iOS should function and be engineered, and that Apple’s core competitive asset — making devices that work better together than those from other companies — isn’t legal under the DMA.</p>
+
+<div>
+<a  title="Permanent link to ‘EU Adopts New ‘Interoperability’ Requirements for Apple Under DMA’"  href="https://daringfireball.net/linked/2025/03/19/eu-apple-interop-requirements">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Sebastiaan de With’s iPhone 16e Camera Review: ‘The Essentials’</title>
 	<link rel="alternate" type="text/html" href="https://www.lux.camera/iphone-16e-camera-review-the-essentials/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w6s" />
@@ -2036,63 +2099,6 @@ surprised because Aqua looked cool and fun to me.</p>
 
     ]]></content>
   <title>★ A New System-Wide UI Look for iOS — Let Alone MacOS, Too — Would Be a Huge Deal</title></entry><entry>
-	<title>Aaron ‘Homeboy’ Tilley Among Those Laid Off From the WSJ’s Tech Staff Last Week</title>
-	<link rel="alternate" type="text/html" href="https://talkingbiznews.com/media-news/wsj-cuts-tech-staff-creates-tech-and-media-team/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w5k" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/11/wsj-tech-layoffs" />
-	<id>tag:daringfireball.net,2025:/linked//6.41672</id>
-	<published>2025-03-11T20:03:25Z</published>
-	<updated>2025-03-11T20:03:38Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Last week The Wall Street Journal laid off about a dozen tech reporters and editors — not on the fun side, where folks like Joanna Stern and Nicole Nguyen work, but on the straight news side. Chris Roush at Talking Biz News obtained a memo sent to the staff from WSJ editor-in-chief Emma Tucker, which concluded:</p>
-
-<blockquote>
-  <p>We’re also creating a new Tech &amp; Media enterprise team, reporting
-to Sarah, and we’re creating two new jobs on this team based in
-San Francisco. In the coming weeks, we’ll be reconfiguring beats
-on the tech team to give more of them a wide ambit. Fewer will
-focus narrowly on individual companies. We are also advertising
-for a new tech-focused job on Heard in New York.</p>
-
-<p>These changes do mean that some reporters and editors in San
-Francisco and New York will be leaving us. I want to thank them
-for their contributions to the Journal. I want to especially thank
-Jason Dean, who is departing, for his long and distinguished
-service.</p>
-</blockquote>
-
-<p>It was the reporters who focused on specific companies <a href="https://talkingbiznews.com/media-news/here-are-the-wsj-tech-journalists-laid-off-this-week/">who got laid off</a>, including the Journal’s beat reporter for Apple for the last 6 years, Aaron Tilley. Tilley was last in the news himself a month ago, when one of his former sources, a now-former Apple engineer named Andrew Aude, <a href="https://daringfireball.net/linked/2025/02/07/apple-settles-lawsuit-with-leaker">settled a lawsuit filed by Apple</a> (and who addressed Tilley in text messages as “Homeboy”) and <a href="https://x.com/andyaude1/status/1887639465574998500">issued the following public apology</a>:</p>
-
-<blockquote>
-  <p>I spent nearly eight years as a software engineer at Apple. During
-that time, I was given access to sensitive internal Apple
-information, including what were then unreleased products and
-features. But instead of keeping this information secret, I made
-the mistake of sharing this information with journalists who
-covered the company. I did not realize it at the time, but this
-turned out to be a profound and expensive mistake. Hundreds of
-professional relationships I had spent years building were ruined.
-And my otherwise successful career as a software engineer was
-derailed, and it will likely be very difficult to rebuild it.
-Leaking was not worth it. I sincerely apologize to my former
-colleagues who not only worked tirelessly on projects for Apple,
-but work hard to keep them secret. They deserved better.</p>
-</blockquote>
-
-<p>I have no idea whether this fiasco had anything to do with Tilley being laid off (perhaps not, given Tucker’s decision to have fewer reporters on staff who “focus narrowly on individual companies”) but it couldn’t have helped. It’s not exactly a ringing endorsement to have someone publicly declaring that they deeply regret ever having been a source for a Wall Street Journal reporter, and that doing so not only cost them their job but ruined their entire career.</p>
-
-<p>It also probably didn’t help Tilley’s case <a href="https://daringfireball.net/linked/2024/06/06/how-the-wall-street-journal-fell-behind-in-the-apple-is-behind-on-ai-arms-race">that he wasn’t very good at covering Apple</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Aaron ‘Homeboy’ Tilley Among Those Laid Off From the WSJ’s Tech Staff Last Week’"  href="https://daringfireball.net/linked/2025/03/11/wsj-tech-layoffs">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=RSS&amp;utm_campaign=q12025" />
 	<link rel="shorturl" href="http://df4.us/w5f" />
