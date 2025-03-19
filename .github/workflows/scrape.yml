@@ -2,6 +2,8 @@ name: Scrape latest data
 
 on:
   push:
+    paths:
+      - 'sources.json'
   workflow_dispatch:
   schedule:
     - cron: "6,26,46 * * * *"
