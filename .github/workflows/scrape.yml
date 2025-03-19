@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Check out this repo
         uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Fetch latest data
         run: |-
           chmod +x script.sh
