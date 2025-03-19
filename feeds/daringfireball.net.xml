@@ -7,14 +7,14 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-03-19T20:45:39Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-03-19T20:54:23Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>Apple Silicon Is Groundbreaking for AI</title>
 	<link rel="alternate" type="text/html" href="https://x.com/alexocheema/status/1899735281781411907?s=42" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w6r" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/19/apple-silicon-is-groundbreaking-for-ai" />
 	<id>tag:daringfireball.net,2025:/linked//6.41715</id>
 	<published>2025-03-19T20:44:22Z</published>
-	<updated>2025-03-19T20:45:39Z</updated>
+	<updated>2025-03-19T20:48:19Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -22,9 +22,9 @@
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
 <p>Alex Cheema is the founder of <a href="https://exolabs.net/">EXO Labs</a>, an AI company focused on “AI you can trust with your data” by making systems that run locally, on computers you own and control. Apple <a href="https://x.com/alexocheema/status/1899604613135028716">provided him with two M3 Ultra Mac Studios</a>, each maxed out with 512 GB of unified memory. Within a day, he had them linked together by Thunderbolt 5 and had the <em>full</em> DeepSeek R1 model running on his desk.</p>
 
-<p>Sure, that’s over $20,000 of computing hardware. But to my knowledge there is no other way in the world to run the full DeepSeek R1 model for even <em>close</em> to $20,000, let alone doing it on your desk rather than a data center. It’s an exclusive advantage, thanks to Apple Silicon’s general performance and the breakthrough of Apple’s unified memory architecture, that lets the GPU cores access the same RAM as the CPU cores.</p>
+<p>Sure, that’s over $20,000 of computing hardware. But to my knowledge there is no other way in the world to run the full DeepSeek R1 model for even <em>close</em> to $20,000, let alone doing it on your desk rather than a data center. It’s an exclusive advantage, made possible by Apple Silicon’s general performance and the breakthrough of Apple’s <a href="https://developer.apple.com/videos/play/wwdc2020/10686/">unified memory architecture</a>, which lets the GPU cores access the same RAM as the CPU cores.</p>
 
-<p>Apple has tremendous technical advantages to offer in AI. But instead they’re marketing Genmoji’s of hot dogs carrying briefcases.</p>
+<p>Apple has tremendous technical advantages to offer in AI. But they’re marketing Genmojis of hot dogs carrying briefcases.</p>
 
 <div>
 <a  title="Permanent link to ‘Apple Silicon Is Groundbreaking for AI’"  href="https://daringfireball.net/linked/2025/03/19/apple-silicon-is-groundbreaking-for-ai">&nbsp;★&nbsp;</a>
@@ -462,13 +462,13 @@ The Finder does the same thing when you duplicate a file.</p>
 
 	]]></content>
   </entry><entry>
-	<title>Om Malik on Apple Intelligence: ‘Fud, Dud, or Both’</title>
+	<title>Om Malik on Apple Intelligence: ‘FUD, Dud, or Both’</title>
 	<link rel="alternate" type="text/html" href="https://om.co/2025/03/13/apple-intelligence-fud-dud-or-both/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w6f" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/17/malik-fud-dud-or-both" />
 	<id>tag:daringfireball.net,2025:/linked//6.41703</id>
 	<published>2025-03-18T00:47:20Z</published>
-	<updated>2025-03-18T14:05:02Z</updated>
+	<updated>2025-03-19T20:54:23Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -502,12 +502,12 @@ flawed, are significantly better than Apple’s own offerings.</p>
 
 <p>Hardware inherently keeps a company honest in a way that software doesn’t. Hardware either works or it doesn’t. The only way to “upgrade” hardware is via installing newer software, or by taking the hardware apart and replacing physical components. It’s hard to think of a company, in any field, whose software is “better” than its hardware. Maybe Nintendo? But even with Nintendo, I’d say it’s more like their software is as good as their hardware. Also, an interesting thought that popped into my head reading Malik’s post just now: part of what makes Vision Pro so fascinating is that the software is better than the hardware. The hardware for immersive VR is so early-days that even the industry state-of-the-art — which is Vision Pro — stinks compared to where it’s going to be in even just five years. The 1984 Macintosh was a shitty computer with a 9-inch one-bit display, no hard drive, and an absurdly meager 128 kilobytes of RAM. But the software was amazing!</p>
 
-<p>But the bigger, better point Malik makes is that “good enough” is enough to make Apple’s software seem ahead of its competition. I tried to make this point all the way back in 2007 with “<a href="https://daringfireball.net/2007/11/apple_needs_a_nikon">Apple Needs a Nikon</a>”, and I think the problem is worse now than it was then. No other company is even vaguely in Apple’s league. But Apple <em>is</em> sliding toward mediocrity on the software side. It very open for debate how far they’ve slipped. I, for one, would argue that they haven’t slipped far, and with an honest reckoning — especially with regard to everything related to Siri and AI — they can nip this in the bud. <em>You</em> might argue that they’ve slipped tremendously across the board. But what I don’t think is arguable is that their competition remains below Apple’s league. That’s what gives credence to the voices in Cupertino who are arguing that everything’s fine. Apple’s the only team in the top tier for UI design.</p>
+<p>But the bigger, better point Malik makes is that “good enough” is enough to make Apple’s software seem ahead of its competition. I tried to make this point all the way back in 2007 with “<a href="https://daringfireball.net/2007/11/apple_needs_a_nikon">Apple Needs a Nikon</a>”, and I think the problem is worse now than it was then. No other company is even vaguely in Apple’s league. But Apple <em>is</em> sliding toward mediocrity on the software side. It’s very open for debate how far they’ve slipped. I, for one, would argue that they haven’t slipped far, and with an honest reckoning — especially with regard to everything related to Siri and AI — they can nip this in the bud. <em>You</em> might argue that they’ve slipped tremendously across the board. But what I don’t think is arguable is that their competition remains below Apple’s league. That’s what gives credence to the voices in Cupertino who are arguing that everything’s fine. Apple’s the only team in the top tier for UI design.</p>
 
 <p>The best thing that could happen to Apple would be for Google to ship an Android Pixel experience that actually makes iPhone owners insanely jealous. Google is incapable of doing that through UI design. They’re incapable of catching up to Apple on hardware. But maybe on the AI front they can do it. Apple needs a rival.</p>
 
 <div>
-<a  title="Permanent link to ‘Om Malik on Apple Intelligence: ‘Fud, Dud, or Both’’"  href="https://daringfireball.net/linked/2025/03/17/malik-fud-dud-or-both">&nbsp;★&nbsp;</a>
+<a  title="Permanent link to ‘Om Malik on Apple Intelligence: ‘FUD, Dud, or Both’’"  href="https://daringfireball.net/linked/2025/03/17/malik-fud-dud-or-both">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
