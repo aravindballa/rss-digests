@@ -7,7 +7,77 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-03-19T23:06:52Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-03-19T23:24:47Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Apple Intelligence Is Coming to iOS in the EU in April</title>
+	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2025/02/apple-intelligence-expands-to-more-languages-and-regions-in-april/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w6u" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/19/apple-intelligence-is-coming-to-ios-in-the-eu-in-april" />
+	<id>tag:daringfireball.net,2025:/linked//6.41718</id>
+	<published>2025-03-19T23:24:47Z</published>
+	<updated>2025-03-19T23:24:47Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>News from Apple that I let slip by a few weeks ago, but that seems apt again <a href="https://daringfireball.net/linked/2025/03/19/eu-apple-interop-requirements">today</a>:</p>
+
+<blockquote>
+  <p>Apple Intelligence, the personal intelligence system that delivers
+helpful and relevant intelligence, will soon be available in more
+languages, including French, German, Italian, Portuguese (Brazil),
+Spanish, Japanese, Korean, and Chinese (simplified) — as well as
+localized English for Singapore and India.</p>
+
+<p>These new languages will be accessible in nearly all regions
+around the world with the release of iOS 18.4, iPadOS 18.4, and
+macOS Sequoia 15.4 in April, and developers can start to test
+these releases today.</p>
+
+<p>With the upcoming software updates, iPhone and iPad users in the
+EU will have access to Apple Intelligence features for the first
+time, and Apple Intelligence will expand to a new platform in U.S.
+English with Apple Vision Pro — helping users communicate,
+collaborate, and express themselves in entirely new ways.</p>
+</blockquote>
+
+<p>Given that Apple Intelligence <a href="https://daringfireball.net/2025/01/siri_is_super_dumb_and_getting_dumber">isn’t exactly setting the world on fire</a>, I think in the grand scheme of things, it’ll wind up being filed away under “<em>Oh yeah, remember that?</em>” that the EU got it 4-5 months after it debuted. (Clean Up in Photos is often great, and I genuinely enjoy notification summaries and miss them now that they’re disabled for news apps; the rest I don’t use, and the most ambitious aspects of Apple Intelligence are (<a href="https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino">you may have heard</a>) <a href="https://daringfireball.net/2025/03/apple_is_delaying_the_more_personalized_siri_apple_intelligence_features">delayed for everyone</a>, not just the EU.)</p>
+
+<p>Apple was concerned that the EU’s hardline interpretation of the DMA was such that the European Commission considered it a violation of the DMA that Apple Intelligence wasn’t an interchangeable component. Like the way the EC forced Apple to open up iOS to alternative app marketplaces — <a href="https://daringfireball.net/2024/06/eu_reaping_what_it_sows">there was uncertainty</a> whether they’d demand the same for system-integrated AI. And if that’s what the EC had demanded, they simply wouldn’t have gotten system-integrated AI for years. But I’m not sure how to square up <a href="https://daringfireball.net/linked/2025/03/19/eu-apple-interop-requirements">today’s decisions</a> — requiring Apple to enable third-party alternatives to system-level features like AirPlay and AirDrop — with an interpretation that the EU will be fine with Apple Intelligence only offering Apple’s own AI (along with Apple’s approved partners, like OpenAI). </p>
+
+<p>I think the regime change at the European Commission has changed things to some degree, but quietly. Former competition chief Margrethe Vestager was a firebrand. Back in June last year, after Apple had announced that Apple Intelligence would be delayed indefinitely in the EU for iOS, <a href="https://9to5mac.com/2024/06/28/withholding-apple-intelligence-from-eu/">she made clear that <em>she</em> thought it was anti-competitive</a>:</p>
+
+<blockquote>
+  <p>“I find that very interesting that they say we will now deploy AI
+where we’re not obliged to enable competition. I think that is
+that is the most sort of stunning open declaration that they know
+100% that this is another way of disabling competition where they
+have a stronghold already.”</p>
+</blockquote>
+
+<p>But Vestager is gone, and until today we hadn’t heard a whit about DMA compliance from her successor, Teresa Ribera. In September, when the proceedings that resulted in today’s decisions opened, <a href="https://daringfireball.net/linked/2024/09/20/ec-apple-specification-proceedings">I wrote</a>:</p>
+
+<blockquote>
+  <p>Also worth noting: Margrethe Vestager is on her way out, <a href="https://www.politico.eu/article/teresa-ribera-brussels-ursula-von-der-leyen-europe/">about to
+be replaced</a> by <a href="https://www.ft.com/content/ad2db1a7-69e8-4369-9cf1-cc4896df4cc7">Spanish socialist Teresa
+Ribera</a>, a career climate expert (which, possibly, might
+give her an affinity for Apple, far and away the most
+<a href="https://www.apple.com/environment/">climate-friendly</a> large tech company) with no
+experience in competition law. To me that makes Ribera an odd
+choice for the competition chief job, but apparently that makes
+sense in the EU. It remains unclear to me whether Ribera supports
+Vestager’s crusade against the DMA’s designated “gatekeepers”. If
+she doesn’t, is this all for naught?</p>
+</blockquote>
+
+<p>Until today, that remained an open question. Now it appears the Commission’s crusading course is unchanged — it’s just no long accompanied by inflammatory commentary from the commissioners in charge.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Intelligence Is Coming to iOS in the EU in April’"  href="https://daringfireball.net/linked/2025/03/19/apple-intelligence-is-coming-to-ios-in-the-eu-in-april">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>EU Adopts New ‘Interoperability’ Requirements for Apple Under DMA</title>
 	<link rel="alternate" type="text/html" href="https://ec.europa.eu/commission/presscorner/detail/en/ip_25_816" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w6t" />
@@ -1985,40 +2055,6 @@ future software update.</p>
 
 <div>
 <a  title="Permanent link to ‘Apple Adds Disclaimers Regarding Delayed AI Siri Features’"  href="https://daringfireball.net/linked/2025/03/12/apple-adds-disclaimers-regarding-delayed-ai-siri-features">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Google Changes Chrome Extension Policies Following the Honey Link Scandal</title>
-	<link rel="alternate" type="text/html" href="https://www.theverge.com/news/627940/google-chrome-extensions-paypal-honey-affiliate" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w5n" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/12/google-chrome-extensions-honey-scam" />
-	<id>tag:daringfireball.net,2025:/linked//6.41675</id>
-	<published>2025-03-12T14:26:07Z</published>
-	<updated>2025-03-12T14:26:07Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jay Peters, The Verge:</p>
-
-<blockquote>
-  <p>Google has updated its affiliate ads policy for Chrome extensions
-after creators accused PayPal’s popular Honey browser extension of
-being a “scam.”</p>
-
-<p>Honey <a href="https://www.theverge.com/2024/12/23/24328268/honey-coupon-code-browser-extension-scam-influencers-affiliate-marketing">was accused</a> of taking affiliate revenue from the same
-influencers it paid for promotion by using its Chrome extension to
-swap in its own affiliate link before you checked out. According
-to the updated Google policy <a href="https://developer.chrome.com/docs/webstore/program-policies/affiliate-ads">posted today</a>, this isn’t
-allowed in most cases</p>
-</blockquote>
-
-<p>I wouldn’t say they were merely accused — they were <a href="https://www.youtube.com/watch?v=vc4yL3YTwWk">caught, red-handed</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Google Changes Chrome Extension Policies Following the Honey Link Scandal’"  href="https://daringfireball.net/linked/2025/03/12/google-chrome-extensions-honey-scam">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
