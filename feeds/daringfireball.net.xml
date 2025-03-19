@@ -7,14 +7,84 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-03-19T18:45:16Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
-	<title>Firefox Users on iOS Have Doubled in France and Germany</title>
+<updated>2025-03-19T19:05:08Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>On Apple Exclaves</title>
+	<link rel="alternate" type="text/html" href="https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w6m" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/19/on-apple-exclaves" />
+	<id>tag:daringfireball.net,2025:/linked//6.41710</id>
+	<published>2025-03-19T19:05:08Z</published>
+	<updated>2025-03-19T19:05:08Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Random Augustine has written a splendidly nerdy but very approachable overview of the evolution of Apple’s XNU kernel over the last decade:</p>
+
+<blockquote>
+  <p><em>2017 — Page Protection Layer</em></p>
+
+<p>With the release of the iPhone 8 and iPhone X containing the A11
+processor, Apple introduced a security feature known as the Page
+Protection Layer (PPL). This hardware+software feature isolated a
+small part of the kernel and gave it privileges to modify memory
+page tables — critical structures that manage memory access. The
+rest of the kernel lost the ability to directly modify these page
+tables. The PPL’s limited attack surface ensured that bypasses
+were infamously rare. While PPL added a layer of protection, it
+was only partly effective as the rest of the kernel still held
+most privileges required to compromise data without modifying
+page tables.</p>
+
+<p><em>2021–2023 — Secure Page Table Monitor</em></p>
+
+<p>Following PPL, the release of the iPhone 13 containing the A15
+processor introduced new functionality utilised in iOS 17: the
+Secure Page Table Monitor (SPTM). This replaced and improved upon
+the PPL by securing additional memory functions and dividing them
+into subsystems, further isolating small kernel components.
+Validation of code signatures, confirming that all code had been
+signed by Apple was also isolated.</p>
+
+<p>Around this time, oblique references to exclaves began to surface
+in XNU source code. These exclaves were speculated to be the
+subsystems managed by SPTM. Then 2024 happened…</p>
+
+<p><em>2024 — Exclaves: A major addition to XNU</em></p>
+
+<p>With the release of XNU source code supporting M4 and A18 based
+systems (such as the iPhone 16), the curtain was partly pulled
+back on exclaves. (Exclaves are not active on prior processors).</p>
+
+<p>It is now clear that exclaves are part of a much larger redesign
+of XNU’s security model.</p>
+</blockquote>
+
+<p>I am reminded of <a href="https://en.wikipedia.org/wiki/John_Gall_(author">Gall’s Law</a>): </p>
+
+<blockquote>
+  <p>A complex system that works is invariably found to have evolved
+from a simple system that worked. A complex system designed from
+scratch never works and cannot be patched up to make it work. You
+have to start over with a working simple system.</p>
+</blockquote>
+
+<p>(I also suspect that Siri — today’s Siri at least — might be a canonical example of “a complex system designed from scratch”. But that’s a different topic.)</p>
+
+<div>
+<a  title="Permanent link to ‘On Apple Exclaves’"  href="https://daringfireball.net/linked/2025/03/19/on-apple-exclaves">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Firefox Users on iOS Have Doubled in France and Germany, From a Very Small Number to a Slightly Less Small Number</title>
 	<link rel="alternate" type="text/html" href="https://pxlnv.com/linklog/firefox-france-germany/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w6l" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/19/firefox-ios-doubling-france-and-germany" />
 	<id>tag:daringfireball.net,2025:/linked//6.41709</id>
 	<published>2025-03-19T18:44:37Z</published>
-	<updated>2025-03-19T18:45:16Z</updated>
+	<updated>2025-03-19T18:52:24Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -33,8 +103,10 @@ the <a href="https://pxlnv.com/linklog/ios-eu-changes-default-apps/">power of de
 
 <p>Saying the daily users have doubled isn’t very meaningful when they don’t state the baseline. It’s a bit of <a href="https://x.com/jsnell/status/481863414180896769">a Bezos chart</a>. And what’s the proof that this growth is from happy users — users who, upon seeing the DMA browser choice screen on their iPhones, realized only they that they wanted to switch to Firefox? Surely <em>some</em> number of users who switched to Firefox via the choice screen did so by mistake, because they were confused.</p>
 
+<p>The best case scenario is that this growth for Firefox (and presumably for <a href="https://daringfireball.net/2024/09/the_ios_continental_drift_widens">other alternate browsers that qualified for the EU choice screens</a>) means that alternative browsers have gone from a tiny usage share to a twice-as-large-but-still-tiny share, and that most of the growth comes from happy users. I see no proof though that the growth hasn’t largely or at least significantly come from confused users who wonder what happened to Safari. And either way, the DMA’s mandatory choice screen has been ineffective overall.</p>
+
 <div>
-<a  title="Permanent link to ‘Firefox Users on iOS Have Doubled in France and Germany’"  href="https://daringfireball.net/linked/2025/03/19/firefox-ios-doubling-france-and-germany">&nbsp;★&nbsp;</a>
+<a  title="Permanent link to ‘Firefox Users on iOS Have Doubled in France and Germany, From a Very Small Number to a Slightly Less Small Number’"  href="https://daringfireball.net/linked/2025/03/19/firefox-ios-doubling-france-and-germany">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
@@ -2006,70 +2078,6 @@ cause of your choice.</p>
 
 <div>
 <a  title="Permanent link to ‘Kevin Drum, Pioneering Political Blogger and Columnist, Dies at 66’"  href="https://daringfireball.net/linked/2025/03/11/kevin-drum">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Front Page Tech on a New UI Style for iOS 19, Back on January 17</title>
-	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=HaP_q9W3AQE" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w5c" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/10/fpt-ios-19" />
-	<id>tag:daringfireball.net,2025:/linked//6.41664</id>
-	<published>2025-03-11T01:00:19Z</published>
-	<updated>2025-03-11T01:15:06Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jon Prosser, <a href="https://www.youtube.com/watch?v=HaP_q9W3AQE">in a YouTube video</a> with mocked-up animations showing exactly what he’s talking about, 51 days ago:</p>
-
-<blockquote>
-  <p>Today we have your very first exclusive look at the changes coming
-to iOS 19 — with a redesigned camera app and possibly ... a
-redesigned iOS.</p>
-</blockquote>
-
-<p>Basic idea is something very much akin to the look and feel of VisionOS, but brought to the Camera app, and perhaps throughout the entire system (or just parts of it) in iOS 19. Seems cool, seems fresh, and seems aligned with where Apple has been heading.</p>
-
-<p>Here’s Parker Ortolani, himself a talented designer with a particularly keen eye for trends, <a href="https://parker.micro.blog/2025/02/04/apple-invites-screams-that-an.html">writing on his blog February 4 after Apple Invites debuted</a>:</p>
-
-<blockquote>
-  <p>The rumored <a href="https://www.apple.com/newsroom/2025/02/introducing-apple-invites-a-new-app-that-brings-people-together/">Apple Invites</a> app has arrived. While I
-obviously haven’t had much time to play with it, I have quickly
-browsed through the UI and wanted to share some observations. The
-last new Apple app, Apple Sports, already felt out of place in iOS
-18. It has a more visionOS or watchOS-like design language
-utilizing colorful backgrounds, glassy floating UI elements,
-expanding buttons, and lots of layered shapes. Apple Invites takes
-it all even further. It’s got big beautiful cards, translucent
-cells, big bold buttons, and an emphasis on content. It feels so
-clearly like a hint of what is to come in a future iOS update.
-It’s almost screaming it in our faces. It seems awfully suspect
-that Apple’s two latest apps have a whole new design language that
-does not mesh with the rest of the OS.</p>
-</blockquote>
-
-<p>Now comes today, with <a href="https://www.bloomberg.com/news/articles/2025-03-10/apple-readies-dramatic-design-overhauls-for-ios-19-ipados-19-and-macos-16">Mark Gurman dropping this vagueness at Bloomberg</a>:</p>
-
-<blockquote>
-  <p>The revamp — due later this year — will fundamentally change the
-look of the operating systems and make Apple’s various software
-platforms more consistent, according to people familiar with the
-effort. That includes updating the style of icons, menus, apps,
-windows and system buttons. As part of the push, the company is
-working to simplify the way users navigate and control their
-devices, said the people, who asked not to be identified because
-the project hasn’t been announced. The design is loosely based on
-the Vision Pro’s software, they said.</p>
-</blockquote>
-
-<p>That’s it. No screenshots. No mockups. No specific description of the changes. Just “loosely based on the Vision Pro’s software”. Jon Prosser not only said this was coming, but commissioned full, realistic animations to illustrate it, <em>51 days ago</em>. And astute observers like Ortolani <a href="https://www.youtube.com/watch?v=RlDeXwQSay8">and others</a> have observed, for over a month, that Apple itself is starting to hint at this new design language in its own already-shipping new apps for iOS.</p>
-
-<p>I’m so old I remember when YouTubers made videos about months-old Gurman stories, not the other way around. There’s weak sauce, and then there’s eating paste.</p>
-
-<div>
-<a  title="Permanent link to ‘Front Page Tech on a New UI Style for iOS 19, Back on January 17’"  href="https://daringfireball.net/linked/2025/03/10/fpt-ios-19">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
