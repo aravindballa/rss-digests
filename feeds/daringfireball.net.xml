@@ -7,14 +7,56 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-03-19T19:45:33Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-03-19T20:02:23Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>‘A Delightful and Simple User Experience’</title>
+	<link rel="alternate" type="text/html" href="https://arstechnica.com/gadgets/2025/03/roku-says-unpopular-autoplay-ads-are-just-a-test/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w6p" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/19/roku-delightful-and-simple" />
+	<id>tag:daringfireball.net,2025:/linked//6.41713</id>
+	<published>2025-03-19T19:54:15Z</published>
+	<updated>2025-03-19T20:01:42Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Scharon Harding, writing for Ars Technica:</p>
+
+<blockquote>
+  <p>Reports of Roku customers seeing video ads automatically play
+before they could view the OS’ home screen started appearing
+online this week. A Reddit user, for example, <a href="https://www.reddit.com/r/Roku/comments/1jcuibl/question_about_ads/">posted</a>
+yesterday: “I just turned on my Roku and got an ... ad for a
+movie, before I got to the regular Roku home screen.” Multiple
+apparent users reported seeing an ad for the movie <em>Moana 2</em>.
+The ads have a close option, but some users appear to have not
+seen it.</p>
+
+<p>When reached for comment, a Roku spokesperson shared a company
+statement that confirms that the autoplaying ads are expected
+behavior but not a permanent part of Roku OS currently. Instead,
+Roku claimed, it was just trying the ad capability out. [...]</p>
+
+<p>“Our recent test is just the latest example, as we explore new
+ways to showcase brands and programming while still providing a
+delightful and simple user experience.”</p>
+</blockquote>
+
+<p>What I’d find delightful and simple is disconnecting my Roku box and throwing it out the window.</p>
+
+<div>
+<a  title="Permanent link to ‘‘A Delightful and Simple User Experience’’"  href="https://daringfireball.net/linked/2025/03/19/roku-delightful-and-simple">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Two New PebbleOS Watches</title>
 	<link rel="alternate" type="text/html" href="https://ericmigi.com/blog/introducing-two-new-pebbleos-watches" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w6o" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/19/repebble-watches" />
 	<id>tag:daringfireball.net,2025:/linked//6.41712</id>
 	<published>2025-03-19T19:42:45Z</published>
-	<updated>2025-03-19T19:44:49Z</updated>
+	<updated>2025-03-19T19:48:20Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -37,7 +79,7 @@ $225 and starts shipping in December.</li>
 
 <p>My advice would have been to return with just one watch. Make a decision: color or monochrome. I’d sort of lean toward black-and-white, to differentiate it from Apple Watch and other high-end smartwatches. They’re never going to out-color Apple on display quality, so why not go the other way and lean in on black-and-white utility and contrast?</p>
 
-<p>I would also suggest that <a href="https://ericmigi.com/blog/apple-restricts-pebble-from-being-awesome-with-iphones">whining about the fact that iOS doesn’t allow third-party devices</a> the sort of integration that Apple Watch offers isn’t the path forward. Instead of arguing that “Apple restricts Pebble from being awesome with iPhones”, lean into the ways that Pebble can be awesome because it isn’t an Apple Watch. 30-day battery life is awesome. I don’t think Apple Watch will ever offer that. Being able to run whatever apps — including watch faces — that you want on your own Pebble watch is awesome, and I know Apple Watch will never offer that. Lean into what Pebble watches <em>can</em> do that Apple Watches can’t.</p>
+<p>I would also suggest that <a href="https://ericmigi.com/blog/apple-restricts-pebble-from-being-awesome-with-iphones">whining about the fact that iOS doesn’t allow third-party devices</a> the sort of integration that Apple Watch offers isn’t the path forward. Instead of arguing that “Apple restricts Pebble from being awesome with iPhones”, lean into the ways that Pebble can be awesome because it isn’t an Apple Watch. 30-day battery life is awesome. I don’t think Apple Watch will ever offer that. Being able to run whatever apps — including watch faces — that you want on your own Pebble watch is awesome, and I know Apple Watch will never offer that. Lean into what Pebble watches <em>can</em> do that Apple Watches can’t. If the experience as a Pebble owner can be a lot better paired with an Android phone than an iPhone, lean into that. Compete.</p>
 
 <div>
 <a  title="Permanent link to ‘Two New PebbleOS Watches’"  href="https://daringfireball.net/linked/2025/03/19/repebble-watches">&nbsp;★&nbsp;</a>
@@ -106,7 +148,7 @@ predetermined by TikTok’s algorithms.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/19/on-apple-exclaves" />
 	<id>tag:daringfireball.net,2025:/linked//6.41710</id>
 	<published>2025-03-19T19:05:08Z</published>
-	<updated>2025-03-19T19:05:08Z</updated>
+	<updated>2025-03-19T20:02:23Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -153,7 +195,7 @@ back on exclaves. (Exclaves are not active on prior processors).</p>
 of XNU’s security model.</p>
 </blockquote>
 
-<p>I am reminded of <a href="https://en.wikipedia.org/wiki/John_Gall_(author">Gall’s Law</a>): </p>
+<p>I am reminded of <a href="https://en.wikipedia.org/wiki/John_Gall_(author)">Gall’s Law</a>: </p>
 
 <blockquote>
   <p>A complex system that works is invariably found to have evolved
@@ -176,7 +218,7 @@ have to start over with a working simple system.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/19/firefox-ios-doubling-france-and-germany" />
 	<id>tag:daringfireball.net,2025:/linked//6.41709</id>
 	<published>2025-03-19T18:44:37Z</published>
-	<updated>2025-03-19T19:45:33Z</updated>
+	<updated>2025-03-19T19:47:13Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -193,9 +235,9 @@ effect for smaller browsers and, conversely, also a reminder of
 the <a href="https://pxlnv.com/linklog/ios-eu-changes-default-apps/">power of defaults</a>.</p>
 </blockquote>
 
-<p>Saying the daily users have doubled isn’t very meaningful when they don’t state the baseline. It’s a bit of <a href="https://x.com/jsnell/status/481863414180896769">a Bezos chart</a>. And what’s the proof that this growth is from happy users — users who, upon seeing the DMA browser choice screen on their iPhones, realized only then that they wanted to switch to Firefox? Surely <em>some</em> number of users who switched to Firefox via the choice screen did so by mistake, because they were confused. Who are these users who are making an informed choice with this mandatory screen, but who weren’t previously aware they could install these browsers from the App Store?</p>
+<p>Saying the daily users have doubled isn’t very meaningful when they don’t state the baseline. It’s a bit of <a href="https://x.com/jsnell/status/481863414180896769">a Bezos chart</a>. And what’s the proof that this growth is from happy users — users who, upon seeing the DMA browser choice screen on their iPhones, realized only then that they wanted to switch to Firefox? Surely <em>some</em> number of users who switched to Firefox via the choice screen did so by mistake, because they were confused.</p>
 
-<p>The best case scenario is that this growth for Firefox (and presumably for <a href="https://daringfireball.net/2024/09/the_ios_continental_drift_widens">other alternate browsers that qualified for the EU choice screens</a>) means that alternative browsers have gone from a tiny usage share to a twice-as-large-but-still-tiny share, and that most of the growth comes from happy users. I see no proof though that the growth hasn’t largely or at least significantly come from confused users who wonder what happened to Safari. And either way, the DMA’s mandatory choice screen has been relatively ineffective overall.</p>
+<p>The best case scenario is that this growth for Firefox (and presumably for <a href="https://daringfireball.net/2024/09/the_ios_continental_drift_widens">other alternate browsers that qualified for the EU choice screens</a>) means that alternative browsers have gone from a tiny usage share to a twice-as-large-but-still-tiny share, and that most of the growth comes from happy users. I see no proof, though, that the growth hasn’t at least significantly come from confused users who now wonder what happened to Safari. And either way, the DMA’s mandatory choice screen has, thus far, been relatively ineffective overall.</p>
 
 <div>
 <a  title="Permanent link to ‘Firefox Users on iOS Have Doubled in France and Germany, From a Very Small Number to a Slightly Less Small Number’"  href="https://daringfireball.net/linked/2025/03/19/firefox-ios-doubling-france-and-germany">&nbsp;★&nbsp;</a>
@@ -2053,28 +2095,6 @@ and will remain.</p>
 
 <div>
 <a  title="Permanent link to ‘The New Yorker Modernizes a Few Words in Its Style Guide’"  href="https://daringfireball.net/linked/2025/03/11/new-yorker-style-modernizations">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>New MLB Caps Are So Fugly They Make MAGA Hats Look Well-Designed</title>
-	<link rel="alternate" type="text/html" href="https://www.sbnation.com/mlb/2025/3/10/24382064/mlb-new-overlap-hats-tetas-anaels-new-era" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w5g" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/11/new-mlb-caps" />
-	<id>tag:daringfireball.net,2025:/linked//6.41668</id>
-	<published>2025-03-11T15:55:12Z</published>
-	<updated>2025-03-11T19:16:04Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>If these caps were a <em>student project</em> it’d get an F. Who thinks you can print one logo on top of another? They look like mistakes, like caps that got run through the embroidery machine twice. The only good one <a href="https://daringfireball.net/misc/2025/03/ashos-cap.jpeg">is for the “ASHOS”</a>, which comes close to the actual word everyone uses for that team of cheaters.</p>
-
-<p><strong>Update, 3pm ET:</strong> It looks like maybe MLB and New Era (the hatmakers) <a href="https://www.mlbshop.com/?query=overlap&amp;_ref=p-HP%3Am-SEARCH">have put the whole lineup of caps out of their misery</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘New MLB Caps Are So Fugly They Make MAGA Hats Look Well-Designed’"  href="https://daringfireball.net/linked/2025/03/11/new-mlb-caps">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
