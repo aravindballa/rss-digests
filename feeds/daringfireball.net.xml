@@ -1,0 +1,2265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>Daring Fireball</title>
+<subtitle>By John Gruber</subtitle>
+<link rel="alternate" type="text/html" href="https://daringfireball.net/" />
+<link rel="self" type="application/atom+xml" href="https://daringfireball.net/feeds/main" />
+<id>https://daringfireball.net/feeds/main</id>
+
+
+<updated>2025-03-19T02:56:46Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Hyperspace 1.1</title>
+	<link rel="alternate" type="text/html" href="https://hypercritical.co/hyperspace/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w6i" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/18/hyperspace" />
+	<id>tag:daringfireball.net,2025:/linked//6.41706</id>
+	<published>2025-03-18T23:03:41Z</published>
+	<updated>2025-03-19T02:56:46Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>New (well, newish) Mac app from John Siracusa:</p>
+
+<blockquote>
+  <p><a href="https://apps.apple.com/us/app/hyperspace-reclaim-disk-space/id6739505345?mt=12">Hyperspace</a> searches for files with identical contents within
+one or more folders. If it finds any, it can then reclaim the disk
+space taken by all but one of the identical files — <em>without
+removing any of the files!</em></p>
+
+<p>You can <a href="https://hypercritical.co/hyperspace/#how-it-works">learn more</a> about how this is done, if you’re
+interested, but the short version is that Hyperspace uses a
+standard feature of the macOS file system: space-saving clones.
+The Finder does the same thing when you duplicate a file.</p>
+</blockquote>
+
+<p>I love everything about this app. I love the name — it “works” in like at least three ways. I love that it’s right up Siracusa’s alley. I love that Siracusa has talked about it, at wonderful length, on ATP and <a href="https://hypercritical.co/2025/02/25/hyperspace">expounded upon it on his blog</a>. I love that the premise sounds a little crazy but the explanation makes all the sense in the world. I love that this small, laser-focused utility is fully and splendidly documented. I love the way it looks. It’s got a great icon. I mean <em>of course</em> it would, but still, let’s celebrate how fun this is.</p>
+
+<div>
+<a  title="Permanent link to ‘Hyperspace 1.1’"  href="https://daringfireball.net/linked/2025/03/18/hyperspace">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Saturday Night Live’s Cue Cards</title>
+	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=3djg59JUrmc" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w6h" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/18/snl-cue-cards" />
+	<id>tag:daringfireball.net,2025:/linked//6.41705</id>
+	<published>2025-03-18T16:46:35Z</published>
+	<updated>2025-03-18T17:00:17Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Not new, but new to me, is this delightful 7-minute short with a behind-the-scenes look at SNL’s cue card team, led by longtime main cue card guy Wally Feresten. Sometimes you just can’t beat analog.</p>
+
+<div>
+<a  title="Permanent link to ‘Saturday Night Live’s Cue Cards’"  href="https://daringfireball.net/linked/2025/03/18/snl-cue-cards">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Chris Ware on Richard Scarry and the Art of Children’s Literature</title>
+	<link rel="alternate" type="text/html" href="https://yalereview.org/article/chris-ware-richard-scarry" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w6g" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/18/chris-ware-on-richard-scarry" />
+	<id>tag:daringfireball.net,2025:/linked//6.41704</id>
+	<published>2025-03-18T16:34:33Z</published>
+	<updated>2025-03-18T16:58:59Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>As a kid I loved Richard Scarry’s books. As an adult I loved (and love) Chris Ware’s graphic novels. As a parent I loved reading Scarry’s books, again, with my son. So of course this essay from Ware, commemorating <a href="https://www.amazon.com/Richard-Scarrys-Cars-Trucks-Things/dp/0593706307?tag=df-amzn-20">the 50th anniversary edition of Scarry’s <em>Cars and Trucks and Things That Go</em></a>, hit hard for me. Bet it will for you too.</p>
+
+<div>
+<a  title="Permanent link to ‘Chris Ware on Richard Scarry and the Art of Children’s Literature’"  href="https://daringfireball.net/linked/2025/03/18/chris-ware-on-richard-scarry">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Om Malik on Apple Intelligence: ‘Fud, Dud, or Both’</title>
+	<link rel="alternate" type="text/html" href="https://om.co/2025/03/13/apple-intelligence-fud-dud-or-both/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w6f" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/17/malik-fud-dud-or-both" />
+	<id>tag:daringfireball.net,2025:/linked//6.41703</id>
+	<published>2025-03-18T00:47:20Z</published>
+	<updated>2025-03-18T14:05:02Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Om Malik:</p>
+
+<blockquote>
+  <p>I have my own explanation, something my readers are familiar with,
+and it is the most obvious one. Just as Google is trapped in the
+10-blue-link prison, which prevents it from doing something
+radical, Apple has its own golden handcuffs. It’s a company
+weighed down by its market capitalization and what stock market
+expects from it.</p>
+
+<p>They lack the moral authority of Steve Jobs to defy the markets,
+streamline their product lineup, and focus the company. Instead,
+they do what a complex business often does: they do more. Could
+they have done a better job with iPadOS? Should Vision Pro receive
+more attention?</p>
+
+<p>The answer to all those is yes. Apple has become a complex entity
+that can’t seem to ever have enough resources to provide the real
+Apple experience. What you get is “good enough.” And most of the
+time, I think it is enough — because what others have on the
+market is worse. They know how to build great hardware; it’s the
+software where they falter. In the case of Apple Intelligence,
+they have been caught short because others’ AI products, even when
+flawed, are significantly better than Apple’s own offerings.</p>
+</blockquote>
+
+<p>Hardware inherently keeps a company honest in a way that software doesn’t. Hardware either works or it doesn’t. The only way to “upgrade” hardware is via installing newer software, or by taking the hardware apart and replacing physical components. It’s hard to think of a company, in any field, whose software is “better” than its hardware. Maybe Nintendo? But even with Nintendo, I’d say it’s more like their software is as good as their hardware. Also, an interesting thought that popped into my head reading Malik’s post just now: part of what makes Vision Pro so fascinating is that the software is better than the hardware. The hardware for immersive VR is so early-days that even the industry state-of-the-art — which is Vision Pro — stinks compared to where it’s going to be in even just five years. The 1984 Macintosh was a shitty computer with a 9-inch one-bit display, no hard drive, and an absurdly meager 128 kilobytes of RAM. But the software was amazing!</p>
+
+<p>But the bigger, better point Malik makes is that “good enough” is enough to make Apple’s software seem ahead of its competition. I tried to make this point all the way back in 2007 with “<a href="https://daringfireball.net/2007/11/apple_needs_a_nikon">Apple Needs a Nikon</a>”, and I think the problem is worse now than it was then. No other company is even vaguely in Apple’s league. But Apple <em>is</em> sliding toward mediocrity on the software side. It very open for debate how far they’ve slipped. I, for one, would argue that they haven’t slipped far, and with an honest reckoning — especially with regard to everything related to Siri and AI — they can nip this in the bud. <em>You</em> might argue that they’ve slipped tremendously across the board. But what I don’t think is arguable is that their competition remains below Apple’s league. That’s what gives credence to the voices in Cupertino who are arguing that everything’s fine. Apple’s the only team in the top tier for UI design.</p>
+
+<p>The best thing that could happen to Apple would be for Google to ship an Android Pixel experience that actually makes iPhone owners insanely jealous. Google is incapable of doing that through UI design. They’re incapable of catching up to Apple on hardware. But maybe on the AI front they can do it. Apple needs a rival.</p>
+
+<div>
+<a  title="Permanent link to ‘Om Malik on Apple Intelligence: ‘Fud, Dud, or Both’’"  href="https://daringfireball.net/linked/2025/03/17/malik-fud-dud-or-both">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Tesla’s Share Price Has Been Suspect Since Like Forever</title>
+	<link rel="alternate" type="text/html" href="https://www.ft.com/content/9cc311b7-676b-4539-a682-b3533a76b0fc" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w6e" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/17/tesla-suspect" />
+	<id>tag:daringfireball.net,2025:/linked//6.41702</id>
+	<published>2025-03-17T23:10:22Z</published>
+	<updated>2025-03-17T23:10:23Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Tesla’s share price has been having a <a href="https://stocks.apple.com/Am3FIcwVVSzeUAKbtyv3F1g">hard time of it</a> lately. The stock has lost about half its value since its all-time high back in December, and, since Musk took office alongside Donald Trump in January, <a href="https://www.cnbc.com/2025/03/07/tesla-shares-declined-every-week-since-elon-musk-went-to-washington.html">dropped for 7 consecutive weeks</a>, rebounding only ever-so-slightly last week, after Musk got the president of the United States to turn the White House lawn into a cheesy Tesla (<a href="https://www.instagram.com/thedailyshow/reel/DHHQ7xxBHgk/">sorry, <em>Tesler</em></a>) dealership. Tesla stock dropped another 5 percent today, on a day when the overall market was slightly up.</p>
+
+<p>I bookmarked <a href="https://www.ft.com/content/9cc311b7-676b-4539-a682-b3533a76b0fc">this Bryce Elder column at the Financial Times</a> back on January 31, and now seems like a good time to link to it:</p>
+
+<blockquote>
+  <p>The usual explanation for when Tesla trading resembles a Pump.fun
+shitcoin is: “because Elon talks a lot”. Here’s JPMorgan analyst
+Ryan Brinkman to expand on the theme:</p>
+
+<blockquote>
+  <p>It’s not clear to us why Tesla shares traded as much as +5%
+higher in the aftermarket Wednesday, although we have some
+leading theories. Perhaps it was management’s statement that it
+had identified an achievable path to becoming worth more than the
+world’s five most valuable companies taken together (i.e., more
+than the $14.8 trillion combined market capitalizations of Apple,
+Microsoft, NVIDIA, Amazon, &amp; Alphabet). Or maybe it was
+management’s belief that just one of its products has by itself
+the potential to generate “north of $10 trillion in revenue”. It
+may have even related to management guidance for 2026 (no
+financial targets were provided, but it was said to be “epic”)
+and for 2027 and 2028 (“ridiculously good”).</p>
+</blockquote>
+
+<p>Brinkman, who has a long-standing “underweight” rating on Tesla,
+is beginning to sound a bit exasperated:</p>
+
+<blockquote>
+  <p>[T]he company’s financial performance and Bloomberg consensus for
+   revenue, margin, earnings, and cash flow all keep coming down,
+   but analyst price targets and the company’s share price keep
+   going up. For instance, Tesla has missed Bloomberg consensus
+   EBIT in 9 of the past 10 quarters by an average of -16.3%.</p>
+</blockquote>
+
+<p>Consistently missing estimates is one thing. What Tesla has been
+doing is consistently missing <em>lowered</em> estimates. [...]</p>
+
+<p>Tesla’s biggest asset is hyperbole. The more extreme the
+hyperbole, the more valuable it gets. Maybe after-hours market
+participants understand the dynamics better than Tesla bears, so
+are primed to park fundamentals and trade on vibes. Or maybe
+something else entirely is going on.</p>
+</blockquote>
+
+<p>Sounds a lot like the other guy at the White House Auto Mall.</p>
+
+<div>
+<a  title="Permanent link to ‘Tesla’s Share Price Has Been Suspect Since Like Forever’"  href="https://daringfireball.net/linked/2025/03/17/tesla-suspect">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Michael Tsai’s Roundup of Links and Commentary on My ‘Something Is Rotten’ Piece Last Week</title>
+	<link rel="alternate" type="text/html" href="https://mjtsai.com/blog/2025/03/13/rotten/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w6d" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/17/tsai-rotten" />
+	<id>tag:daringfireball.net,2025:/linked//6.41701</id>
+	<published>2025-03-17T20:37:43Z</published>
+	<updated>2025-03-17T20:37:44Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>I’ve been commenting and expanding upon some of the commentary my piece prompted, and I have a few more coming, but it’s good to have Tsai collect a comprehensive overview.</p>
+
+<div>
+<a  title="Permanent link to ‘Michael Tsai’s Roundup of Links and Commentary on My ‘Something Is Rotten’ Piece Last Week’"  href="https://daringfireball.net/linked/2025/03/17/tsai-rotten">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Ray Maker on the Heart Rate Sensor of the Beats PowerBeats 2 Pro</title>
+	<link rel="alternate" type="text/html" href="https://www.dcrainmaker.com/2025/02/apple-beats-powerbeats-2-pro-sports-fitness-heart-rate-in-depth-review.html" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w6c" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/17/maker-powerbeats-pro-2-heartrate-sensor" />
+	<id>tag:daringfireball.net,2025:/linked//6.41700</id>
+	<published>2025-03-17T20:13:06Z</published>
+	<updated>2025-03-18T16:18:35Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Ray Maker, writing at DC Rainmaker:</p>
+
+<blockquote>
+  <p>This would not only be the first time Apple has created a
+non-watch heart rate sensor, but even more notably, the first time
+the company has enabled heart rate broadcasting over existing
+Bluetooth heart rate standards.</p>
+
+<p>The question then becomes: Is it accurate?</p>
+
+<p>Unfortunately, it turns out, that was not the question I should
+have started with. The real question to start with is: Is the
+heart rate function (accuracy aside), even usable? A lot of hours
+later, I have answers to both of those questions. And trust me,
+it’s a very mixed bag.</p>
+</blockquote>
+
+<p>The answer:</p>
+
+<blockquote>
+  <p>It’s clear that any movement (even on a stationary bike) quickly
+leads to either dropouts or inaccurate heart rate. And outdoors
+running, it’s even worse. Ultimately, I don’t see any value in the
+heart rate sensor in this product, because it’s simply not good
+enough to be useful, even for casual use.</p>
+</blockquote>
+
+<p>So maybe this feature is <a href="https://daringfireball.net/linked/2025/03/17/chance-miller-reviews-the-beats-powerbeats-pro-2"><em>not</em> soon coming</a> to AirPods? I think there’s <a href="https://mastodon.social/@_Davidsmith/114105204080909252">a good argument to be made</a> that these are better than no heart rate monitor at all but also not nearly as good as an Apple Watch or dedicated device.</p>
+
+<div>
+<a  title="Permanent link to ‘Ray Maker on the Heart Rate Sensor of the Beats PowerBeats 2 Pro’"  href="https://daringfireball.net/linked/2025/03/17/maker-powerbeats-pro-2-heartrate-sensor">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Chance Miller Reviews the Beats Powerbeats Pro 2</title>
+	<link rel="alternate" type="text/html" href="https://9to5mac.com/2025/02/11/powerbeats-pro-2-review/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w6a" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/17/chance-miller-reviews-the-beats-powerbeats-pro-2" />
+	<id>tag:daringfireball.net,2025:/linked//6.41698</id>
+	<published>2025-03-17T20:00:00Z</published>
+	<updated>2025-03-18T01:50:37Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>I’m a month late linking to it, but Chance Miller wrote a terrific review for 9to5Mac:</p>
+
+<blockquote>
+  <p>The last several releases from Beats, such as <a href="https://9to5mac.com/2023/05/17/beats-studio-buds-plus-review/">the Studio Buds
+Plus</a> and <a href="https://9to5mac.com/2024/04/30/beats-solo-4-hands-on-the-most-iconic-beats-headphones-just-got-better/">Solo 4 headphones</a>, have been powered by a
+custom Beats chip rather than an Apple-designed chip like what’s
+used in AirPods. For Beats, this has enabled better cross-platform
+support for Android users, but it’s also come at the cost of
+several popular features for Apple fans. For example, the Studio
+Buds Plus lack support for automatic in-ear detection, iCloud
+pairing, automatic device switching, personalized spatial audio,
+and more.</p>
+
+<p>With the Powerbeats Pro 2, Beats has gone back to its roots and
+opted for an Apple-designed chip. The Powerbeats Pro 2 are powered
+by Apple’s H2 chip, the same chip used by the latest-generation
+AirPods Pro 2 and AirPods 4. This means you get the full suite of
+Apple-focused audio features.</p>
+</blockquote>
+
+<p>The degree of shared engineering between Apple’s teams and Beats’s has always seemed odd to me. Sometimes it seems like Beats really is an independent subsidiary, focused on cross-platform headphones, and other times it feels like they’re making Apple products under a different brand label. The sweet spot seems to be about where they landed with these Powerbeats 2.</p>
+
+<blockquote>
+  <p>All of the aforementioned features and improvements make
+Powerbeats Pro 2 an incredibly compelling product, but Beats has
+one more thing: Powerbeats Pro 2 feature built-in heart rate
+monitoring.</p>
+
+<p>Each Powerbeats Pro 2 earbud has a built-in heart rate monitor
+comprised of four components. First, there’s an LED sensor that
+emits green LED light at a rate of over 100 pulses per second.
+This light is emitted through the skin and hits your red blood
+cells. The photodiode then receives the reflected light from the
+red blood cells that is modulated by the red blood flow. There’s
+an optical lens that helps direct and separate the transmitted and
+received light, along with an accelerometer to ensure accuracy and
+consistency in data collection.</p>
+
+<p>Beats adds that the Powerbeats Pro 2’s heart rate sensor
+technology is derived from Apple’s work on the Apple Watch.</p>
+</blockquote>
+
+<p>It’s weird, but cool, that Beats has delivered in-ear heartbeat monitoring before Apple’s own AirPods have. But now it seems like a lock that this will be a feature in AirPods Pro 3, right?</p>
+
+<p>What I always want in a review I read — and what I try to provide to readers through my own reviews — is a sense of whether a product is for me. Powerbeats Pro 2 aren’t for me — and I know it, because Miller’s review describes them so well. But they seem like a terrific product that a <em>lot</em> of people would prefer to AirPods Pro.</p>
+
+<div>
+<a  title="Permanent link to ‘Chance Miller Reviews the Beats Powerbeats Pro 2’"  href="https://daringfireball.net/linked/2025/03/17/chance-miller-reviews-the-beats-powerbeats-pro-2">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Michael Gartenberg on the Lessons Apple Learned (and Hopefully Has Not Forgotten) From MobileMe</title>
+	<link rel="alternate" type="text/html" href="https://x.com/Gartenberg/status/1900589068003491963" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w6b" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/17/gartenberg-apple-mobileme" />
+	<id>tag:daringfireball.net,2025:/linked//6.41699</id>
+	<published>2025-03-17T19:35:55Z</published>
+	<updated>2025-03-17T19:50:37Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Sebastiaan de With, on X, linking to my “Something Is Rotten” piece last week:</p>
+
+<blockquote>
+  <p>Ex-MobileMe team here. This was a brutal time.</p>
+
+<p>It was so bad that when he presented iCloud onstage, Steve said “I
+know what you’re thinking: why should I trust them? They’re the
+ones who gave us MobileMe!”</p>
+</blockquote>
+
+<p>Michael Gartenberg (who worked at Apple in product marketing for a few years at the tail end of the Jobs era), responded (across <a href="https://x.com/gartenberg/status/1900588567375540671">two</a> <a href="https://x.com/Gartenberg/status/1900589068003491963">tweets</a>):</p>
+
+<blockquote>
+  <p>When I was at Apple and Apple University was still around there
+was a whole course on MobileMe and how it was possible that things
+ended up the way they did. Fascinating to hear all the backstory.</p>
+
+<p>One of the lessons of the Apple University course was much of the
+MobileMe debacle was directly because Jobs didn’t care about it.
+He was too preoccupied with the newest iPhone at the time. He
+didn’t even introduce the product, a lot of the stuff crossed his
+desk that he ignored.</p>
+</blockquote>
+
+<p>Twitter-like social posts enforce brevity, but I suspect Gartenberg would agree that it wasn’t that Jobs didn’t care about MobileMe at all. It was that he didn’t think he had to care enough to devote his personal attention to it. Yes, Apple should offer web-based functionality for some online fundamentals (email, calendar, contacts...) and, more importantly, Apple should provide over-the-air Internet sync for that data between customers’ devices. And it should just work, in the way that a hard drive “just works” without Steve Jobs paying close attention to the current state of Apple’s file system team. But then it turned out MobileMe didn’t “just work”, and Jobs decided that he needed to pay laser-focused attention to starting over and building what we now know as iCloud (which is really quite good, very reliable, and I’d say long ago surpassed the “it just works” threshold). <a href="https://apple.fandom.com/wiki/Worldwide_Developers_Conference_2011">Steve Jobs’s final keynote</a> — at WWDC 2011 — was largely focused on the announcement of iCloud.</p>
+
+<p>Who’s got that role inside Apple today — someone with high standards, good taste, and clout within the company — for Siri and Apple Intelligence? Someone who is going to say <em>We didn’t care enough about this, but now we need to, and will.</em></p>
+
+<div>
+<a  title="Permanent link to ‘Michael Gartenberg on the Lessons Apple Learned (and Hopefully Has Not Forgotten) From MobileMe’"  href="https://daringfireball.net/linked/2025/03/17/gartenberg-apple-mobileme">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>‘Going National: The Drexel Microcomputing Project’</title>
+	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=1E9NsaSYWbY" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w69" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/17/going-national-the-drexel-microcomputing-project" />
+	<id>tag:daringfireball.net,2025:/linked//6.41697</id>
+	<published>2025-03-17T17:48:31Z</published>
+	<updated>2025-03-17T18:28:40Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>From Drexel’s YouTube channel:</p>
+
+<blockquote>
+  <p>But far less recognized is that Drexel made the very bold decision
+of committing all students to purchase a previously unreleased and
+untested computer from Apple. This was, of course, the Macintosh
+(introduced in January 1984), which was unlike any previous
+computer. Drexel’s commitment to the Mac was also of great benefit
+to Apple, helping to legitimize this brand-new platform, which
+helped make the Mac a successful product that continues to thrive
+in education 40 years later.</p>
+
+<p>This entire initiative, called the Drexel Microcomputer Project,
+was captured in a 1-hour documentary filmed by David Jones, Dean
+of the Pennoni Honors College from 2008 to 2014. The film
+premiered at Drexel in 1985.</p>
+</blockquote>
+
+<p>I was very fortunate not only to know Dave Jones (who <a href="https://drexel.edu/news/archive/2018/October/Sad-News-on-the-Passing-of-Former-Dean-Dave-Jones">died in 2018</a>) but to have him as a professor for several film criticism courses (one on westerns, and another on the works of Alfred Hitchcock). I was a computer science major, not a film major, but Jones didn’t care. He was also familiar with — dare I say, a fan of — my column in <a href="https://www.thetriangle.org/">The Triangle</a>, Drexel’s student newspaper. He took me to lunch my senior year and encouraged me to pursue writing as a career. He was a great teacher: thoughtful, kind, insightful, open-minded, and deeply knowledgeable.</p>
+
+<p>I saw a screening of <em>Going National</em> back in 2011, and sat on <a href="https://www.youtube.com/watch?v=0-vCnurOBf8">a panel discussion with Jones to talk about it</a>. It’s a good documentary, and he really captured the feel of Drexel’s campus at the time. It is a very <em>’80s</em> movie. It was gratifying that I got to tell him, then, that his advice to me back in 1996 had worked out pretty well.</p>
+
+<div>
+<a  title="Permanent link to ‘‘Going National: The Drexel Microcomputing Project’’"  href="https://daringfireball.net/linked/2025/03/17/going-national-the-drexel-microcomputing-project">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>‘40 Years Ago, Drexel Made Computer — and Apple — History’</title>
+	<link rel="alternate" type="text/html" href="https://drexel.edu/news/archive/2024/March/drexel-apple-40th-anniversary-macintosh-1984" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w68" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/17/drexel-macintosh-40-years" />
+	<id>tag:daringfireball.net,2025:/linked//6.41696</id>
+	<published>2025-03-17T17:25:10Z</published>
+	<updated>2025-03-17T19:49:48Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Alissa Falcone, in a good piece looking back at (my alma mater) Drexel University’s groundbreaking deal with Apple 40 years ago to provide deeply discounted Macintoshes to all students, and integrate them throughout the campus and curriculums:</p>
+
+<blockquote>
+  <p>Drexel was prepared to buy IBM computers — and had equipped its
+computer centers with IBMs for decades — but the cost came to
+more than $1,000 per unit. IBM’s young competitor Apple, on the
+other hand, was willing to give discounts, provided the University
+agreed to secret negotiations and discreet showings of its newest,
+unreleased personal computer.</p>
+
+<p>Bruce Eisenstein, PhD, Arthur J. Rowland Professor of Electrical
+and Computer Engineering in the College of Engineering, was the
+head of the Department of Electrical and Computer Engineering at
+the time, and had been the founding faculty adviser for the Drexel
+Computer Society started in 1972. He was Drexel’s choice to meet
+with an Apple representative to see the future Macintosh, which
+had never-before-seen properties like a mouse, icons on a screen
+and different fonts. This new Apple product was more powerful and
+easier to use than earlier personal computers; novices could
+supposedly master it in 30 minutes (without the need to memorize
+and type coded commands). And Apple agreed on the $1,000 price tag
+for a model that sold to the public for $2,495.</p>
+
+<p>“I went back to the selection committee and I said, ‘Listen, you
+have to forget the IBM. This new computer from Apple is the one
+you have to get. They are going to make it available to us for a
+thousand dollars — that’s all inclusive.’ And the first question
+was ‘Is it compatible with the IBM computer?’ Well, no. Was there
+software for it? No. Were there any programs for it, like a word
+processor? Not yet. So the committee justifiably kept saying,
+well, what’s the name of this? What’s it like? I couldn’t tell
+them. I had to say you just gotta trust me on this. So they took a
+vote and unanimously voted to adopt the unknown computer that
+turned out to be the Macintosh,” Eisenstein recalled in <em>Building
+Drexel: The University and Its City, 1891-2016</em>.</p>
+
+<p>Drexel chose the untested Macintosh even knowing that Apple
+wouldn’t announce it to the public until January 1984 and that the
+computers wouldn’t be ready until March, almost halfway through
+that momentous academic year.</p>
+</blockquote>
+
+<p>I never had the pleasure of meeting Eisenstein, but I’d sure like to thank him for his prescience. By the time I got to Drexel in 1991 the Mac was infused throughout campus.</p>
+
+<div>
+<a  title="Permanent link to ‘‘40 Years Ago, Drexel Made Computer — and Apple — History’’"  href="https://daringfireball.net/linked/2025/03/17/drexel-macintosh-40-years">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>My 2015 Interview With ‘Becoming Steve Jobs’ Authors Brent Schlender and Rick Tetzeli</title>
+	<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/podcast/brent-schlender-rick-tetzeli/id980487310?mt=2" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w67" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/17/my-interview-with-schlender-and-tetzeli" />
+	<id>tag:daringfireball.net,2025:/linked//6.41695</id>
+	<published>2025-03-17T16:32:24Z</published>
+	<updated>2025-03-17T17:04:08Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Ten years ago I played two small roles in the release of the aforelinked <em>Becoming Steve Jobs</em>. First, I got to <a href="https://daringfireball.net/linked/2015/03/02/becoming-steve-jobs">announce the book</a> here at Daring Fireball, after having been sent an advance copy a few weeks earlier. My praise for the book then was glowing, but in hindsight, I think I undersold just how good — and how essential — it is. At the time of its launch, the book remained in the shadow of Walter Isaacson’s Jobs biography. Ten years later, I refer back to <em>Becoming Steve Jobs</em> regularly; Isaacson’s book almost never.</p>
+
+<p>Second, the SoHo Apple Store in New York hosted a “Meet the Authors” event, and I had the pleasure of playing host for the interview. <a href="https://itunes.apple.com/us/podcast/brent-schlender-rick-tetzeli/id980487310?mt=2">It’s still available</a>, both as video and audio. <a href="https://daringfireball.net/linked/2015/03/27/schlender-tetzeli-interview">And as I wrote at the time</a>, “I’m kind of proud that it got flagged as ‘explicit’ — but that was Bill Gates’s fault.”</p>
+
+<div>
+<a  title="Permanent link to ‘My 2015 Interview With ‘Becoming Steve Jobs’ Authors Brent Schlender and Rick Tetzeli’"  href="https://daringfireball.net/linked/2025/03/17/my-interview-with-schlender-and-tetzeli">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>The Original ‘Something’s Rotten in Cupertino’ — Brent Schlender’s 1997 Story for Fortune</title>
+	<link rel="alternate" type="text/html" href="https://money.cnn.com/magazines/fortune/fortune_archive/1997/03/03/222710/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w66" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/17/the-og-somethings-rotten-in-cupertino" />
+	<id>tag:daringfireball.net,2025:/linked//6.41694</id>
+	<published>2025-03-17T16:22:58Z</published>
+	<updated>2025-03-18T15:43:40Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>During Friday’s episode of Dithering — <a href="https://dithering.passport.online/member/episode/being-real-points">a free listen</a> — Ben Thompson reminded me that my headline reference last week, alluding to the well-known line from <em>Hamlet</em>, had been used, to great effect, once before. Brent Schlender wrote a crackerjack piece for Fortune in March 1997 under the <a href="https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino">slightly-different-than-mine</a> headline “Something’s Rotten in Cupertino”.</p>
+
+<p>I should make very clear that I didn’t mean to allude to Schlender’s piece with mine. We both just riffed on the same idiom from Shakespeare. In my case, I’m writing about <a href="https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino">one initiative that’s gone awry</a> inside a very successful, well-functioning Apple. The timeframe for Schlender’s piece, on the other hand, was the most precarious and dysfunctional period in the history of Apple. Then-CEO Gil Amelio had just announced the acquisition of NeXT in December 1996. By June, most of the board would be replaced, Amelio fired, and Steve Jobs would return as an “advisor”, and, by the end of 1997, as “interim CEO”. Schlender was all over what was really going on:</p>
+
+<blockquote>
+  <p>At Apple’s headquarters in Cupertino, California, a power play is
+in progress that calls into question who’s really running the
+company and that may very well put Apple in play once again. So
+thick is this plot that it reaches into the homes of some of the
+most powerful CEOs in Silicon Valley. The delicious irony is that
+what triggered the soap opera is a move Amelio hopes is his
+masterstroke: Apple’s $400-million acquisition of Next, and the
+advisory services of Steve Jobs that come bundled with it.</p>
+
+<p>Amelio’s big deal is beginning to look more like a Next takeover
+of Apple. Never mind that Next Software was a boutique with
+revenues that would amount to less than a rounding error to Apple.
+Jobs, the Svengali of Silicon Valley, may have outdone himself
+this time: Not only did he collect $100 million and 1.5 million
+shares of Apple stock for his stake in Next, but his fingerprints
+are all over Amelio’s latest reorganization plan and product
+strategy — even though Jobs doesn’t have an operational role or
+even a board seat.</p>
+
+<p>To the Machiavellian eye, it looks as if Jobs, despite the lure of
+Hollywood — lately he has been overseeing Pixar, maker of <em>Toy
+Story</em> and other computer-animated films — might be scheming to
+take over Apple for himself. If anyone doubts he could do it, all
+you have to do is ask his best friend, Oracle CEO Larry Ellison,
+the richest man in Silicon Valley. Says he: “Steve’s the only one
+who can save Apple.”</p>
+</blockquote>
+
+<p>We all know today this is exactly how it played out. But in March 1997 none of it was obvious at all. It really wasn’t even clear whether Apple would still exist as an independent company by the end of the year. Just extraordinary reporting and storytelling by Schlender.</p>
+
+<p>Go ahead and re-read Schlender’s 1997 Fortune piece, which we should be thankful remains online at all, but which has been mangled, formatting-wise, by whatever series of CMS transitions have kept it online for 28 years. But if you want the best version of this saga, get yourself a copy of <em>Becoming Steve Jobs</em>, the 2015 biography Schlender co-authored with Rick Tetzeli. I just re-read chapter 8 over the weekend — the chapter covering Jobs’s momentous 1997 (in addition to the Apple-NeXT reunification, that was also the year he hammered out an aggressive new deal with Disney for five post-<em>Toy Story</em> feature films) — and it’s just <em>so good</em>. If you don’t already have a copy of <em>Becoming Steve Jobs</em>, get it <a href="https://amzn.to/4kwfeKC">at Amazon</a> or <a href="https://bookshop.org/p/books/becoming-steve-jobs-the-evolution-of-a-reckless-upstart-into-a-visionary-leader-brent-schlender/8629764?ean=9780385347426&amp;next=t">from Bookshop.org</a> or <a href="https://books.apple.com/us/book/becoming-steve-jobs/id936502684">Apple Books</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘The Original ‘Something’s Rotten in Cupertino’ — Brent Schlender’s 1997 Story for Fortune’"  href="https://daringfireball.net/linked/2025/03/17/the-og-somethings-rotten-in-cupertino">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Dithering: ‘Being Real Points’</title>
+	<link rel="alternate" type="text/html" href="https://dithering.passport.online/member/episode/being-real-points" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w65" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/16/dithering-being-real-points" />
+	<id>tag:daringfireball.net,2025:/linked//6.41693</id>
+	<published>2025-03-17T00:38:26Z</published>
+	<updated>2025-03-17T00:38:26Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p><a href="https://daringfireball.net/misc/2025/03/dithering-cover-mar-2025.png" class="noborder">
+  <img
+    src   = "https://daringfireball.net/misc/2025/03/dithering-cover-mar-2025.png"
+    alt   = "The March 2025 cover art for Dithering, showing a man, high atop a cityscape, precariously crossing a high wire."
+    width = 525
+  /></a></p>
+
+<p>A new feature in our membership CMS (<a href="https://passport.online/">Passport</a> — check it out) lets us make individual episodes of Dithering free for everyone to listen to. I can’t think of a better way to first use this new capability than to open up Friday’s episode, recapping my “<a href="https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino">Something Is Rotten in the State of Cupertino</a>” article, and the resonance with which it hit. Even the cover art — selected weeks ago — captures how I’ve felt this week.</p>
+
+<p>Give it a listen. <a href="https://dithering.fm/">Subscribe if you enjoy it</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Dithering: ‘Being Real Points’’"  href="https://daringfireball.net/linked/2025/03/16/dithering-being-real-points">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/03/a_postscript_on_the_singular_nature_of_mark_gurmans_reporting" />
+	<link rel="shorturl" href="http://df4.us/w64" />
+	<id>tag:daringfireball.net,2025://1.41692</id>
+	<published>2025-03-16T14:26:24Z</published>
+	<updated>2025-03-17T14:38:43Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">But I’d feel a lot better about our collective conventional wisdom regarding the nature of this particular all-hands Siri meeting if it had leaked to, and been reported on, by more than one reporter at more than one publication.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p><a href="https://daringfireball.net/linked/2025/03/14/all-hands-siri-team-meeting-leaks-to-bloomberg">My post Friday</a> commenting (read: <em>wise-cracking</em>) on Mark Gurman’s explosive report on an all-hands Siri team meeting at Apple was begging for a bit of meta commentary on the reporting itself. But I’ve been doing so much of that regarding Gurman lately that I thought it best to hold it for a postscript. Here’s that postscript.</p>
+
+<p>Both of these things are true:</p>
+
+<ul>
+<li>Mark Gurman is a singular reporter in the Apple media sphere. He publishes an extraordinary number of exclusives, both regarding leaks of upcoming products, and leaks <a href="https://www.bloomberg.com/news/articles/2025-03-14/apple-s-siri-chief-calls-ai-delays-ugly-and-embarrassing-promises-fixes">like this Siri team meeting</a>.</li>
+<li>Gurman <a href="https://daringfireball.net/linked/2021/09/14/prosser-flat-edge-watch">often</a> <a href="https://daringfireball.net/linked/2025/03/05/gurman-c1-modem-ipad">gets</a> <a href="https://daringfireball.net/linked/2025/03/05/gurman-ipads">things</a> wrong, and when he does, he never acknowledges those mistakes, let alone corrects them. He also tries to take credit for having called things <a href="https://daringfireball.net/linked/2025/03/05/your-source-for-scoops">he completely missed</a>. He’s not an oracle but presents himself as one. And he writes for a publication, Bloomberg, that shares his insistence on never acknowledging let alone correcting mistakes, <a href="https://daringfireball.net/linked/2021/02/12/bloomberg-big-con">even massive ones</a>. What gives me such joy pointing out his boners isn’t that he made them in the first place but that he refuses to acknowledge they happened, presenting an air of infallibility with a provably fallible track record.</li>
+</ul>
+
+<p>In short, I <a href="https://sixcolors.com/member/2025/03/the-pinata-of-apple-rumors/">do actually suspect</a> — but can claim zero sources familiar with the matter to confirm — that Gurman hangs his toilet paper in an improper underhand fashion.</p>
+
+<p>So let’s just examine how extraordinary and singular Gurman’s Friday report was. Nobody else reported on this meeting. <a href="https://www.techmeme.com/250314/p18#a250314p18">Every other article about it</a> — including mine — was commenting on Gurman’s exclusive report about the meeting. I’ve not seen one other report even confirming the meeting took place, let alone describing it in detail, replete with copious quotes from Siri senior director Robby Walker, who, according to Gurman, led the meeting. Not one. I’m not pointing that out to cast suspicion that the meeting did not take place or that Gurman’s report cast it inaccurately or that his direct quotations were not, in fact, direct quotations. I’m pointing out just how singular and extraordinary Mark Gurman is in this sphere. If it wasn’t for Gurman’s report we, outside Apple (and probably outside the Siri team inside Apple) wouldn’t even know the meeting occurred.</p>
+
+<p>How did Gurman not only get the scoop on this meeting, but copious direct quotes from Walker’s remarks to the team? Well, it was “according to people with knowledge of the matter, who asked not to be identified because the gathering was private”. In other words, more than one member of the Siri team, and at least one of which either recorded the meeting surreptitiously and slipped the recording to Gurman, or at least one of whom takes notes at the pace and accuracy of a court stenographer. Either way, these sources — plural — surely knew how the meeting would make Apple look if it were to leak.</p>
+
+<p>I’ve long made my opinions about Bloomberg’s institutional journalistic credibility  well known. But I don’t think they’re bereft of credibility — it’s the fact that they are deservedly well-regarded that makes their refusal to ever admit their own glaring mistakes so notable. When a Gurman reports says “people” that means “more than one” and, I believe, he must be able to confirm to his editors that he got this information from more than one source. If he’s reporting direct quotes, I think that means he’s heard a recording. That’s extraordinary.</p>
+
+<p>But I’d feel a lot better about our collective conventional wisdom regarding the nature of this particular all-hands Siri meeting if it had leaked to, and been reported on by, more than one reporter at more than one publication.</p>
+
+
+
+    ]]></content>
+  <title>★ A Postscript on the Singular Nature of Mark Gurman’s Reporting</title></entry><entry>
+	<title>WorkOS: Scalable, Secure Authentication</title>
+	<link rel="alternate" type="text/html" href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=RSS&amp;utm_campaign=q12025" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w5y" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/15/workos" />
+	<id>tag:daringfireball.net,2025:/linked//6.41686</id>
+	<published>2025-03-16T00:30:00Z</published>
+	<updated>2025-03-16T00:30:59Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks to WorkOS for sponsoring this week at DF. Modern authentication should be seamless and secure.  WorkOS makes it easy to integrate features like MFA, SSO, and RBAC.</p>
+
+<p>Whether you’re replacing passwords, stopping fraud, or adding enterprise auth, WorkOS can help you build frictionless auth that scales. Future-proof your authentication stack with the identity layer trusted by OpenAI, Cursor, Perplexity, and Vercel. Upgrade your auth today.</p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS: Scalable, Secure Authentication’"  href="https://daringfireball.net/linked/2025/03/15/workos">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>How to Generate a Report of Apple Intelligence Requests Sent to Private Cloud Compute</title>
+	<link rel="alternate" type="text/html" href="https://support.apple.com/guide/iphone/apple-intelligence-and-privacy-iphe3f499e0e/ios" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w63" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/15/how-to-generate-a-report-of-apple-intelligence-requests-sent-to-private-cloud-compute" />
+	<id>tag:daringfireball.net,2025:/linked//6.41691</id>
+	<published>2025-03-16T00:29:41Z</published>
+	<updated>2025-03-17T19:12:44Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>From Apple’s support documentation:</p>
+
+<blockquote>
+  <p>You can generate a report of requests your iPhone has sent to
+Private Cloud Compute.</p>
+
+<ol>
+<li><p>Go to Settings, then tap Privacy &amp; Security.</p></li>
+<li><p>Tap Apple Intelligence Report, then choose a report duration
+for the last 15 minutes (default) or last 7 days. Choose off to
+disable the report.</p>
+
+<p><em>Note</em>: The report may be empty if there haven’t been any
+  Private Cloud Compute requests since you changed the
+  duration.</p></li>
+<li><p>Tap Export Activity, choose a place to store the file, then tap
+Export.</p>
+
+<p>The report is saved as a file named
+  Apple_Intelligence_Report.json.</p></li>
+<li><p>Open the file with a text reader.</p></li>
+</ol>
+</blockquote>
+
+<p>These are the iOS instructions, but they’re exactly the same on MacOS 15 Sequoia. My first generated report was empty for the last 7 days, and it was empty again even after running the Writing Tools Proofread function on the text of my 4,000-word “<a href="https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino">Something Is Rotten in the State of Cupertino</a>” article from this week. But when I ran the Writing Tools Summarize feature on the same text, I wound up with a long entry that was sent to Private Cloud Compute. So, at the moment, Summarize seems like a good way to invoke Private Cloud Compute, even from a relatively powerful Mac.</p>
+
+<p><a href="https://daringfireball.net/misc/2025/03/something-is-rotten-in-cupertino-apple-intelligence-summary.text">Here’s the summary Apple Intelligence generated</a>. I have to say: it’s pretty good. It’s completely petty but also completely <em>me</em> to notice and object to the way it uses two spaces after periods — and worse, only <em>some</em> of the time. Also, the sentence “This raises concerns about the company’s ability to maintain its position as a leader in AI innovation” is, let’s say, off the mark.</p>
+
+<p><strong>Update:</strong> <a href="https://eclecticlight.co/2024/10/29/check-writing-tools-using-air/">Howard Oakley wrote a post</a> with a brief overview of the structure and contents of these reports back on October 29.</p>
+
+<div>
+<a  title="Permanent link to ‘How to Generate a Report of Apple Intelligence Requests Sent to Private Cloud Compute’"  href="https://daringfireball.net/linked/2025/03/15/how-to-generate-a-report-of-apple-intelligence-requests-sent-to-private-cloud-compute">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>New RCS Spec From GSM Association Adds E2EE; Both Apple and Google to Support It</title>
+	<link rel="alternate" type="text/html" href="https://www.theverge.com/news/629620/apple-iphone-e2ee-encryption-rcs-messaging-android" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w62" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/15/rcs-e2ee-apple-google" />
+	<id>tag:daringfireball.net,2025:/linked//6.41690</id>
+	<published>2025-03-15T22:08:35Z</published>
+	<updated>2025-03-16T18:41:42Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jess Weatherbed, reporting for The Verge:</p>
+
+<blockquote>
+  <p>iPhone and Android users will be able to exchange end-to-end
+encrypted (E2EE) RCS messages in the near future thanks to newly
+updated RCS specifications. <a href="https://www.gsma.com/newsroom/article/rcs-encryption-a-leap-towards-secure-and-interoperable-messaging/">The GSM Association announced</a> that the
+latest RCS standard includes E2EE based on the Messaging Layer
+Security (MLS) protocol, enabling interoperable encryption between
+different platform providers for the first time. [...]</p>
+
+<p>“End-to-end encryption is a powerful privacy and security
+technology that iMessage has supported since the beginning, and
+now we are pleased to have helped lead a cross industry effort to
+bring end-to-end encryption to the RCS Universal Profile published
+by the GSMA,” said Apple spokesperson Shane Bauer. “We will add
+support for end-to-end encrypted RCS messages to iOS, iPadOS,
+macOS, and watchOS in future software updates.” [...]</p>
+
+<p>“We’ve always been committed to providing a secure messaging
+experience, and Google Messages users have had end-to-end
+encrypted (E2EE) RCS messaging for years,” Google spokesperson Ed
+Fernandez told The Verge. “We’re excited to have this updated
+specification from GSMA and work as quickly as possible with the
+mobile ecosystem to implement and extend this important user
+protection to cross-platform RCS messaging.”</p>
+</blockquote>
+
+<p>This is nothing but good news. But it’s wrong to frame this along Google’s lines, that they’ve been there waiting for Apple to support E2EE for RCS. They’ve been <a href="https://daringfireball.net/2024/02/eu_rcs_imessage">waiting for Apple to support RCS <em>at all</em></a>, yes, and Google has also implemented their own <em>proprietary</em> E2EE layer for RCS. But until now, there was no E2EE specification in the open RCS spec. Now there is. That’s why it’s not just Android ↔︎ iOS RCS messaging that wasn’t able to use E2EE, but even Android ↔︎ Android, unless both devices were using Google’s own Messages app.</p>
+
+<p>I have also noticed recently that Google Messages and Apple Messages now do a pretty good job of supporting each other’s tapbacks. And that hasn’t done anything to really change the green/blue messaging dynamic. Both things are true: RCS makes cross-platform messaging way better <em>and</em> iMessage remains vastly superior to RCS.</p>
+
+<p>What I’m most interested about with Apple’s implementation of RCS encryption is how they’ll indicate it visually in chats. It’s not going to be with blue bubbles. Blue means “iMessage”, not “encrypted” — it just happens to be that iMessage started as a protocol based on end-to-end encryption. There’s no such thing as a non-encrypted iMessage — it’s part of the protocol, and always has been. But what happens when new/updated Android phones support the new RCS encryption spec, and older devices don’t? A lock icon for the encrypted chats? If it were up to me, iOS would drop support for non-encrypted RCS — iOS should use RCS with E2EE for every device that supports it, and fall back to dumb old no-encryption-at-all SMS for all devices that do not.</p>
+
+<div>
+<a  title="Permanent link to ‘New RCS Spec From GSM Association Adds E2EE; Both Apple and Google to Support It’"  href="https://daringfireball.net/linked/2025/03/15/rcs-e2ee-apple-google">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Apple Did Demo Swift Assist at WWDC Last Year, and Has Shown It, Under NDA, Since Then</title>
+	<link rel="alternate" type="text/html" href="https://www.macstories.net/news/a-look-at-code-completion-and-swift-assist-coming-in-xcode-16/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w61" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/15/swift-assist-voorhees" />
+	<id>tag:daringfireball.net,2025:/linked//6.41689</id>
+	<published>2025-03-15T18:54:01Z</published>
+	<updated>2025-03-16T00:31:53Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>In <a href="https://daringfireball.net/linked/2025/03/13/whither-swift-assist">an item earlier this week</a> observing that Swift Assist, the most ambitious Xcode-related Apple Intelligence feature shown at WWDC last year, not only hasn’t yet shipped but still is not in beta, I wondered whether Apple actually demoed it live last year. John Voorhees, writing for MacStories from WWDC last June, reports that they did:</p>
+
+<blockquote>
+  <p>Earlier today, I got the very first live demo of Swift Assist, one
+of the many <a href="https://www.apple.com/newsroom/2024/06/apple-empowers-developers-and-fuels-innovation-with-new-tools-and-resources/">developer tools introduced today</a> by Apple. I
+also saw code completion in action. It was an impressive demo, and
+although the tools seem like magic and will undoubtedly be
+valuable to developers, they do have their limitations, which are
+worth exploring. [...]</p>
+
+<p>The code completion demo also included a live demo of Swift
+Assist. Unlike code completion, Swift Assist requires an Internet
+connection because requests are sent to the cloud. As a result, it
+takes several seconds for Swift Assist to return results. The
+delay was noticeable compared to the speed of code completion, but
+it wasn’t a painfully long wait either.</p>
+</blockquote>
+
+<p>I heard this week from a third-party developer who was invited to Apple for a one-day hands-on session with Swift Assist late last year. Swift Assist was definitely working, but seemingly not working too well. From that source: “The UI is very much complete (just like Siri), but the results the LLM produces were not very good. It could make very basic demo apps with a prompt like ‘make an app that takes the NASA satellite JSON and shows the current satellites traveling overhead right now’, but not too much more than that. It fell apart on more complex tasks.”</p>
+
+<p>I remember the remote-inference-only aspect of the Swift Assist presentation from my Xcode briefing at WWDC: that because of its complexity, Swift Assist would not execute locally and would only run via Private Cloud Compute. My own notes on this from WWDC were mostly related to the privacy and security implications. That developers should feel safe using Swift Assist even with confidential code and projects because Private Cloud Compute would be guaranteed private. I also remember thinking, at the time, that I should be more skeptical about Apple’s claims about Apple Intelligence features that would execute locally, on-device, rather than the ones that would execute remotely, via Private Cloud Compute, because the way almost all “AI” features from other companies over the previous two years worked was entirely in the cloud. Apple’s statements that Apple Intelligence will perform much inference locally, on-device, seemed like the stretch goal.</p>
+
+<p>But now in March 2025 I’m beginning to think it’s the other way around. What features and aspects of Apple Intelligence run in Private Cloud Compute, today, in March 2025? Do any? I’ve been poking around for a few days and I don’t have any answers. Is Private Cloud Compute running in production yet? How would we know? If you know, <a href="https://daringfireball.net/contact/">let me know</a>.</p>
+
+<p><strong>Update:</strong> “<a href="https://daringfireball.net/linked/2025/03/15/how-to-generate-a-report-of-apple-intelligence-requests-sent-to-private-cloud-compute">How to Generate a Report of Apple Intelligence Requests Sent to Private Cloud Compute</a>”.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Did Demo Swift Assist at WWDC Last Year, and Has Shown It, Under NDA, Since Then’"  href="https://daringfireball.net/linked/2025/03/15/swift-assist-voorhees">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Imagine How Powerful Meta Might Be Today If Their PR Wasn’t Run by Sycophantic Morons</title>
+	<link rel="alternate" type="text/html" href="https://www.businessinsider.com/meta-book-mark-zuckerberg-defense-drawing-more-attention-2025-3" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w60" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/15/meta-tries-to-squash-book" />
+	<id>tag:daringfireball.net,2025:/linked//6.41688</id>
+	<published>2025-03-15T18:33:34Z</published>
+	<updated>2025-03-15T18:33:34Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Katie Notopoulos, writing at Business Insider (<a href="https://apple.news/AKBVv40CYTPea6iXqh-wl-A">Apple News+ link</a>):</p>
+
+<blockquote>
+  <p>It’s possible that this strident defense is backfiring — creating
+a “<a href="https://www.businessinsider.com/gina-rinehart-portrait-australia-national-gallery-lesson-in-streisand-effect-2024-5">Streisand Effect</a>” that’s publicizing the book even more.</p>
+</blockquote>
+
+<p>Notopoulos isn’t one to pull punches or hedge, normally, but there’s no question that Meta has Streisand Effected the hell out of <a href="https://amzn.to/4hGWXHH">Wynn-Williams’s <em>Careless People</em></a>. I’m on my way to buy a copy this afternoon and I hadn’t even heard of its existence a day ago.</p>
+
+<blockquote>
+  <p>Sarah Wynn-Williams worked at Facebook from 2011 to 2017 — and
+her <a href="https://www.businessinsider.com/mark-zuckerberg-board-game-careless-people-sarah-wynn-williams-2025-3">book, “Careless People</a>,” details what she said were a
+bunch of bad things the company did. It also contains allegations
+that Joel Kaplan — who is now Meta’s chief global affairs officer — sexually harassed her. (Meta said this week that Kaplan had
+been cleared of the harassment allegations in 2017 after it
+investigated Wynn-Williams’ complaint.)</p>
+
+<p>The book was released with hardly any pre-publishing fanfare: It
+was announced by its publisher, Flatiron Books, an imprint of
+Macmillan, only a few days before it came out Tuesday. That’s an
+unusually short timeline.</p>
+
+<p>Meta’s reaction has been emphatic and multi-pronged. The company
+created a <a href="https://about.fb.com/wp-content/uploads/2025/03/Sarah-Wynn-Williams-New-Book-Of-Old-News.pdf">page on its website</a> that detailed a series of
+the claims in the book. It said some of these — like claims
+about its ambitions in China or its alleged failure to act in
+Myanmar — have already been reported in the news media as far
+back as 2017 and have been acknowledged by the company publicly.
+The company lists seven “new” claims from the book and then
+offers links to past coverage and company responses — calling
+the claims “old news.”</p>
+
+<p>Meta’s strongest move was on Wednesday when it won <a href="https://www.businessinsider.com/meta-legal-win-bars-former-exec-promoting-book-careless-people-2025-3">a ruling in
+arbitration</a> that said Wynn-Williams could no longer promote
+the book because of a non-disparagement clause in a contract she
+signed as an employee. The ruling was granted on an emergency
+basis and is temporary pending the completion of the full
+arbitration process, The Washington Post <a href="https://www.washingtonpost.com/style/2025/03/13/careless-people-facebook-meta-arbitration/">reported</a>.</p>
+</blockquote>
+
+<p>“<em>Read the book that Meta not only doesn’t want you to read, but wants to prevent its author from even talking about</em>” is a hell of a marketing angle. What an own goal.</p>
+
+<div>
+<a  title="Permanent link to ‘Imagine How Powerful Meta Might Be Today If Their PR Wasn’t Run by Sycophantic Morons’"  href="https://daringfireball.net/linked/2025/03/15/meta-tries-to-squash-book">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>‘Ted Lasso’ Renewed for a Fourth Season</title>
+	<link rel="alternate" type="text/html" href="https://www.hollywoodreporter.com/tv/tv-news/ted-lasso-renewed-season-4-apple-tv-1236163347/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w5z" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/15/lasso-season-4" />
+	<id>tag:daringfireball.net,2025:/linked//6.41687</id>
+	<published>2025-03-15T18:06:06Z</published>
+	<updated>2025-03-15T18:06:07Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Rick Porter, The Hollywood Reporter:</p>
+
+<blockquote>
+  <p>After more than a year of speculation, Apple TV+ has ordered a
+fourth season of its Emmy-winning comedy Ted Lasso. The pickup
+comes after co-creator and star Jason Sudeikis closed a deal to
+reprise his role as the title character, the manager of the
+fictional AFC Richmond soccer club in London.</p>
+</blockquote>
+
+<p>I dig <em>Ted Lasso</em> but this is like 0.1 percent as interesting as <strong>When are we going to get <em>Severance</em> season 3?! Gimme gimme gimme.</strong> And we haven’t even gotten to next week’s season 2 finale yet.</p>
+
+<div>
+<a  title="Permanent link to ‘‘Ted Lasso’ Renewed for a Fourth Season’"  href="https://daringfireball.net/linked/2025/03/15/lasso-season-4">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Best vs. First</title>
+	<link rel="alternate" type="text/html" href="https://www.cnbc.com/2016/10/07/the-one-great-reason-apple-ceo-tim-cook-doesnt-care-about-being-first.html" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w5x" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/15/best-vs-first" />
+	<id>tag:daringfireball.net,2025:/linked//6.41685</id>
+	<published>2025-03-15T16:46:36Z</published>
+	<updated>2025-03-16T02:06:36Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>CNBC story from 2016:</p>
+
+<blockquote>
+  <p>At a recent public appearance at the Utah Tech Tour, in a
+conversation moderated by Utah’s Senator Orrin Hatch, Apple CEO
+Tim Cook pointed out that Microsoft had tablets on the market
+decades before Apple.</p>
+
+<p>Cook emphasized his company’s timing coming to market with new
+products to underscore the idea that it’s nearly impossible for a
+company to be the best, the first and to make the most of a given
+product. [...]</p>
+
+<p>“It doesn’t bother us that we are second, third, fourth or fifth
+if we still have the best. We don’t feel embarrassed because it
+took us longer to get it right,” says Cook.</p>
+
+<p>“For Apple, being the best is the most important and trumps the
+other two by far.”</p>
+</blockquote>
+
+<p>This has been one of Apple’s guiding mantras for decades, and it has served the company very well. But it stops holding water when <a href="https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino">they promise to be first</a>, but then aren’t first <em>and</em> aren’t the best.</p>
+
+<p>If you only ever promise A, B, and C — and never mention X, Y, or Z — even when competitors ship their versions of X, Y, and Z first, your silence speaks for itself. Either you don’t think X, Y, and Z are important, or, you think it’s worth taking more time to get them right. But if you promise A, B, C, X, Y, and Z, and then only ship A, B, and C, you just look lost when competitors ship X, Y, and Z.</p>
+
+<div>
+<a  title="Permanent link to ‘Best vs. First’"  href="https://daringfireball.net/linked/2025/03/15/best-vs-first">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>A Suggested Demo for Google I/O 2025 (May 20–21)</title>
+	<link rel="alternate" type="text/html" href="https://www.theverge.com/news/610508/google-i-o-2025-date" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w5w" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/15/a-suggested-demo-for-google-io" />
+	<id>tag:daringfireball.net,2025:/linked//6.41684</id>
+	<published>2025-03-15T16:06:22Z</published>
+	<updated>2025-03-15T23:55:24Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jay Peters, last month for The Verge:</p>
+
+<blockquote>
+  <p>Google’s next I/O developer conference will take place on May 20th
+and May 21st, the company <a href="https://blog.google/feed/google-io-2025-save-the-date/">announced today</a>. The event will be
+“open to everyone online” and will include “livestreamed keynotes
+and sessions,” <a href="https://io.google/2025/about?category=General">according to an FAQ</a>. Like past years, there
+will also be an in-person component at the Shoreline Amphitheatre
+in Mountain View, California.</p>
+</blockquote>
+
+<p>That’s still two months off but I got interested in the dates for I/O this week. After we recorded Friday’s <a href="https://dithering.fm/">Dithering</a> (on which we talked about my “<a href="https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino">Something Is Rotten in the State of Cupertino</a>” piece and, more so, the reaction to it, the resonance it seemed to strike), Ben Thompson and I were <a href="https://stratechery.com/2025/a-google-i-o-idea-the-smartphone-ai-value-chain-apples-developer-hang-ups/">spitballing</a>, and it popped into my head that Apple’s “more personalized Siri” delay is a marketing gift to Google.</p>
+
+<p>What I would do if I worked at Google is prepare a live demo of Google Gemini on a Pixel phone doing <em>exactly</em> <a href="https://www.youtube.com/live/RXeOiIDNNek?t=4934">what Apple showed in last year’s announcement at WWDC</a>, and <a href="https://daringfireball.net/linked/2025/03/08/apple-pulls-bella-ramsey-ad-that-promoted-vaporware-personalized-siri-feature">then again in the Bella Ramsey TV commercial</a> that Apple pulled from YouTube. Something like this:</p>
+
+<p><strong>Presenter:</strong> This is a live demo, on my Pixel 9. I need to pick my mom up at the airport and she sent me an email with her flight information. [<em>Invokes Gemini on phone in hand...</em>] Gemini, when is my mom’s flight landing?</p>
+
+<p><strong>Gemini:</strong> Your mom’s flight is on time, and arriving at SFO at 11:30.</p>
+
+<p><strong>Presenter:</strong> I don’t always remember to add things to my calendar, and so I love that Gemini can help me keep track of plans that I’ve made in casual conversation, like this lunch reservation my mom mentioned in a text. [<em>Invokes Gemini...</em>] What’s our lunch plan?</p>
+
+<p><strong>Gemini:</strong> You’re having lunch at Waterbar at 12:30.</p>
+
+<p><strong>Presenter:</strong> How long will it take us to get there from the airport?</p>
+
+<p><em>Gemini presents a Google Maps driving directions popup window showing it will take 21 minutes.</em></p>
+
+<p>Then do another live demo with the “What’s the name of the guy I had a meeting with a couple of months ago at Cafe Grenel?” example from Apple’s now-pulled Apple Intelligence commercial. The exact same demos, but real: live and on stage. These would be great demos even if Apple had never promised to deliver them. But given that Apple <em>did</em> promise them for this year, and has now delayed them until “the coming year”, they’re devastating if Google can show them <em>actually working</em> on Apple’s own original timeline.</p>
+
+<p>Stick to what Gemini can actually do, on actual Pixel phones running the new beta software — which <a href="https://www.threads.net/@charlesgivens/post/DHLxFjzTEOZ">by some accounts <em>already</em> includes the delayed personalized features of Siri</a>. The point should be showing Google AI technology, accessing personal data from Google cloud services, using Google devices, delivering on the promises made by Apple a year prior. But there’s no need for Google’s presenters to mention Apple or Siri, or even mention unnamed “competitors”. Everyone watching the I/O keynote will recognize those demo prompts and draw the competitive conclusions for themselves. Nothing comes across as confident like not even acknowledging, let alone naming, your competition. And nothing serves as proof like a live working demo.</p>
+
+<div>
+<a  title="Permanent link to ‘A Suggested Demo for Google I/O 2025 (May 20–21)’"  href="https://daringfireball.net/linked/2025/03/15/a-suggested-demo-for-google-io">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>All-Hands Siri Team Meeting Leaks to Bloomberg</title>
+	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2025-03-14/apple-s-siri-chief-calls-ai-delays-ugly-and-embarrassing-promises-fixes" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w5v" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/14/all-hands-siri-team-meeting-leaks-to-bloomberg" />
+	<id>tag:daringfireball.net,2025:/linked//6.41683</id>
+	<published>2025-03-14T21:23:56Z</published>
+	<updated>2025-03-14T22:40:17Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Mark Gurman, reporting for Bloomberg today:</p>
+
+<blockquote>
+  <p>Apple Inc.’s top executive overseeing its Siri virtual assistant
+told staff that delays to key features have been ugly and
+embarrassing, and a decision to publicly promote the technology
+before it was ready made matters worse.</p>
+
+<p>Robby Walker, who serves as a senior director at Apple, delivered
+the stark comments during an all-hands meeting for the Siri
+division, saying that the team was facing a bad period. Walker
+also said that it’s unclear when the enhancements will actually
+launch, according to people with knowledge of the matter, who
+asked not to be identified because the gathering was private.</p>
+</blockquote>
+
+<p>Robby Walker is not Apple’s “top executive overseeing its Siri virtual assistant”. Take your pick of whether that’s SVP John Giannandrea or CEO Tim Cook, but Walker reports to Giannandrea. Gurman, of course, knows this better than I do; I suspect he knows Apple’s entire org chart. But it makes Bloomberg’s headline — “Apple’s Siri Chief Calls AI Delays Ugly and Embarrassing, Promises Fixes” — misleading. Also somewhat misleading in that headline is that these comments from Walker were clearly <em>not</em> meant to leak. This is not a public apology, <a href="https://techcrunch.com/2012/09/28/tim-cook-apologizes-for-apple-maps-points-to-competitive-alternatives/">like the one Tim Cook wrote and signed in 2012</a> in the aftermath of the Apple Maps launch with iOS 6.</p>
+
+<blockquote>
+  <p>Still, he praised the team for developing “incredibly impressive”
+features and vowed to deliver an industry-leading virtual
+assistant to consumers.</p>
+</blockquote>
+
+<p>Those two words are the only direct quote in the first nine paragraphs of Bloomberg’s report, which is kind of crazy, because the second half of Gurman’s story is full of quotes. I suspect his editors did Gurman a disservice on this one. The quotes are juicy AF, but don’t really start until the 10th paragraph. Like, for example, <em>which</em> Siri features does Walker think are “incredibly impressive”? No snark, I’d love to know. Is it <a href="https://daringfireball.net/2025/01/siri_is_super_dumb_and_getting_dumber">Siri’s sports knowledge</a>? The new product knowledge feature, that gives <a href="https://mastodon.social/@gruber/114127816716893319">incomplete and/or incorrect instructions</a> for how to toggle preferences in Settings? OK I guess that’s some snark, but I sincerely and honestly would love to know which Siri features the senior director in charge of Siri considers “incredibly impressive”.</p>
+
+<blockquote>
+  <p>Walker told staff in the meeting that the delays were especially
+“ugly” because Apple had already showed off the features publicly.
+“This was not one of these situations where we get to show people
+our plan after it’s done,” he said. “We showed people before.”</p>
+
+<p>“To make matters worse,” Walker said, Apple’s marketing
+communications department wanted to promote the enhancements.</p>
+</blockquote>
+
+<p>Again, this meeting clearly was <em>not</em> intended to leak. (It’s perhaps another knock against the Siri team, in addition to the quality of their output, that they leak internal meetings.) But that comes across as Walker blaming marketing.</p>
+
+<blockquote>
+  <p>Walker also raised doubts about even meeting the current release
+expectations. Though Apple is aiming for iOS 19, it “doesn’t mean
+that we’re shipping then,” Walker said. The company has several
+more priorities in development, and trade-offs will need to be
+made, he said.</p>
+
+<p>“We have other commitments across Apple to other projects,” Walker
+said, citing new software and hardware initiatives. “We want to
+keep our commitments to those, and we understand those are now
+potentially more timeline-urgent than the features that have been
+deferred.” He said decisions on timing will be made on a
+“case-by-case basis” as work progresses on products planned for
+next year.</p>
+
+<p>“Customers are not expecting only these new features but they also
+want a more fully rounded-out Siri,” he said. “We’re going to ship
+these features and more as soon as they are ready.”</p>
+</blockquote>
+
+<p>The customers still haven’t gotten their appetizers, but it’s time to start the entrees, so the kitchen staff is working on those now. But don’t worry, they hope to get the appetizers out alongside dessert. But it’s OK because dessert might be late too.</p>
+
+<blockquote>
+  <p>As of Friday, Apple doesn’t plan to immediately fire any top
+executives over the AI crisis, according to people with knowledge
+of the matter.</p>
+</blockquote>
+
+<p>I’d be very curious to know just how many people could possibly be familiar with this particular matter. Because this particular matter comes down to what Tim Cook is thinking. I’m thinking it’s about six people he might discuss this with. Wait, no, I just thought of a seventh. I’m going to say seven, <a href="https://www.apple.com/leadership/">tops</a>. But maybe I’m wrong, and Tim Cook is the chatty sort, who openly talks with a large number of senior managers about whom he might fire.</p>
+
+<blockquote>
+  <p>Walker said the decision to delay the features was made because of
+quality issues and that the company has found the technology only
+works properly up to two-thirds to 80% of the time. He said the
+group “can make more progress to get those percentages up, so that
+users get something they can really count on.”</p>
+</blockquote>
+
+<p>It’s unclear exactly which features these are in reference to, but presumably they’re not the “incredibly impressive” ones. Because something that “only works properly up to two-thirds” of the time only seems regular impressive to me, not incredibly impressive. Maybe it’s the ones that work properly four out of five times that are incredible?</p>
+
+<blockquote>
+  <p>Walker compared the endeavor to an attempt to swim to Hawaii. “We
+swam hundreds of miles — we set a Guinness Book for World Records
+for swimming distance — but we still didn’t swim to Hawaii,” he
+said. “And we were being jumped on, not for the amazing swimming
+that we did, but the fact that we didn’t get to the destination.”</p>
+</blockquote>
+
+<p>I’d say it’s a little more like selling customers tickets for a cruise that includes a stop in Hawaii, then never actually getting to Hawaii, and hoping they didn’t notice when the ship returns to port to disembark.</p>
+
+<blockquote>
+  <p>He showed examples during the meeting of the technology working:
+It was able to locate his driver’s license number on command and
+find specific photos of a child. He also demonstrated how the
+technology could precisely manipulate apps via voice control. It
+embedded content in an email, added recipients and made other
+changes.</p>
+</blockquote>
+
+<p>That’s the biggest actual news in the report, and it’s in paragraph 23.</p>
+
+<blockquote>
+  <p>Walker said that some staffers may feel “relieved” over the
+delays. “If you were using these features in the build, you were
+probably wondering: Are these ready? How do I feel about shipping
+these to our customers? Is this the right choice?”</p>
+
+<p>He added that some employees “might be feeling embarrassed.”</p>
+</blockquote>
+
+<p>Again, I’ll reiterate that this was a private meeting, not meant to leak. Maybe it’s an inaccurate summary. I hope it is. But as reported by Gurman, this meeting reeks of <em>you-all-deserve-participation-trophies-to-reward-your-hard-work-and-it’s-OK-to-feel-embarrassed</em> vibes. What’s needed, quite obviously, is some “What is it supposed to do? / <a href="https://fortune.com/article/inside-apple/">So why the fuck doesn’t it do that?</a>” vibes.</p>
+
+<div>
+<a  title="Permanent link to ‘All-Hands Siri Team Meeting Leaks to Bloomberg’"  href="https://daringfireball.net/linked/2025/03/14/all-hands-siri-team-meeting-leaks-to-bloomberg">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>I Imagined It and Genmoji’d It</title>
+	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2025/03/14/the-legend-of-larry-owl" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w5u" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/14/imagined-it-genmojid-it" />
+	<id>tag:daringfireball.net,2025:/linked//6.41682</id>
+	<published>2025-03-14T16:18:37Z</published>
+	<updated>2025-03-14T16:26:52Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>As a postscript to that last item, it occurred to me that because we’re close friends,  I have a lot of photos of Paul Kafasis in my library. <a href="https://glass.photo/gruber/4efTgLWlUQaVaPqKLx3Xmy">Here’s one from a year ago</a> you can use as a reference. I wondered how Genmoji would do with “An owl who looks like Paul Kafasis, wearing a Celtics jersey, holding a basketball.” Here’s the best one, from my Mac running MacOS 15.3.1 Sequoia.</p>
+
+<p><img
+src = "https://daringfireball.net/misc/2025/03/paul-kafasis-celtics-owl.png"
+alt = "Genmoji output for “An owl who looks like Paul Kafasis, wearing a Celtics jersey, holding a basketball.”"
+/></p>
+
+<p>It does resemble Paul. Not sure about how owl-like it is, the “holding” part, the slopping of “Celtics”, or the quality of orthodontia over in Genmojiworld.</p>
+
+<div>
+<a  title="Permanent link to ‘I Imagined It and Genmoji’d It’"  href="https://daringfireball.net/linked/2025/03/14/imagined-it-genmojid-it">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>The Legend of Larry Owl</title>
+	<link rel="alternate" type="text/html" href="https://onefoottsunami.com/2025/03/14/the-legend-of-larry-owl/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w5t" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/14/the-legend-of-larry-owl" />
+	<id>tag:daringfireball.net,2025:/linked//6.41681</id>
+	<published>2025-03-14T14:57:22Z</published>
+	<updated>2025-03-14T16:11:16Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Paul Kafasis, on a seemingly local-to-Boston Genmoji billboard from Apple:</p>
+
+<blockquote>
+  <p>Eventually, though, the penny dropped. After my umpteenth time
+passing the billboard, while trying to distract myself from the
+single-digit temperatures and the brutal wind chill, I realized
+what I’d been missing. That’s not just a basketball-playing
+<s>foul</s> fowl.</p>
+
+<p>You see, the Last Tenement is located just a few hundred feet from
+TD Garden, home arena for the <a href="https://onefoottsunami.com/2024/06/18/by-the-numbers-the-celtics-2024-championship/">reigning NBA champion</a>
+Boston Celtics. The Celtics have had many <a href="https://onefoottsunami.com/2022/08/01/far-more-than-a-great-basketball-player/">great players</a>
+over the years, but only one had the last name “Bird”. Yes, this
+billboard is surely an allusion to the Hick from French Lick,
+<a href="https://en.wikipedia.org/wiki/Larry_Bird">Larry Bird</a>.</p>
+
+<p>It was obvious once I finally saw it, and I was so amused that I
+went by with my phone to snap the above pic. At that point, I
+noticed that the cartoon’s basketball jersey even seems to feature
+Larry Legend’s #33. It’s cut off, perhaps in the hopes of avoiding
+a lawsuit, but those numbers really can’t be anything else.</p>
+</blockquote>
+
+<p>I can’t believe Kafasis didn’t recognize the caricature immediately, but he’s a bit younger than me and didn’t grow up like I did, familiarizing myself with the early 1980s “<a href="https://daringfireball.net/misc/2025/03/familiar-birds-of-north-america.jpeg">Familiar Birds of North America</a>” illustrated guide from ... <em>checks notes</em> ... Playboy.</p>
+
+<div>
+<a  title="Permanent link to ‘The Legend of Larry Owl’"  href="https://daringfireball.net/linked/2025/03/14/the-legend-of-larry-owl">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>U.S. Lawmakers Urge U.K. Secretive Investigatory Powers Tribunal to Hold Public Hearing Regarding Demand for Secret iCloud Backdoor</title>
+	<link rel="alternate" type="text/html" href="https://techcrunch.com/2025/03/14/us-lawmakers-urge-uk-spy-court-to-hold-apple-backdoor-secret-hearing-in-public/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w5s" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/14/us-lawmakers-letter-to-ipt" />
+	<id>tag:daringfireball.net,2025:/linked//6.41680</id>
+	<published>2025-03-14T13:44:32Z</published>
+	<updated>2025-03-14T13:44:33Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Zack Whittaker, reporting for TechCrunch:</p>
+
+<blockquote>
+  <p>A group of bipartisan U.S. lawmakers are urging the head of the
+U.K.’s surveillance court to hold an open hearing into Apple’s
+anticipated challenge of an alleged secret U.K. government
+legal demand.</p>
+
+<p>U.S. Senator Ron Wyden, along with four other federal lawmakers,
+said <a href="https://www.wyden.senate.gov/news/press-releases/bipartisan-members-of-congress-to-uk-spy-court-uk-gag-orders-for-surveillance-backdoors-threaten-americans-security-and-privacy-impede-congressional-oversight">in a letter this week</a> to the president of the U.K.’s
+Investigatory Powers Tribunal (IPT) that it is “in the public
+interest” that any hearings about the alleged order are not held
+in secret.</p>
+</blockquote>
+
+<p><a href="https://www.wyden.senate.gov/news/press-releases/bipartisan-members-of-congress-to-uk-spy-court-uk-gag-orders-for-surveillance-backdoors-threaten-americans-security-and-privacy-impede-congressional-oversight">From the letter</a>, signed by Senators Ron Wyden (D-OR) and Alex Padilla (D-CA), and Congresspeople Zoe Lofgren (D-CA), Andy Biggs (R-AZ), and Warren Davidson (R-OH):</p>
+
+<blockquote>
+  <p>We write to request the Investigatory Powers Tribunal (IPT) remove
+the cloak of secrecy related to notices given to American
+technology companies by the United Kingdom, which infringes on
+free speech and privacy, undermines important United States
+Congress and U.K. parliamentary oversight, harms national
+security, and ultimately, undermines the special relationship
+between the United States and the United Kingdom. [...]</p>
+
+<p>Given the significant technical complexity of this issue, as well
+as the important national security harms that will result from
+weakening cybersecurity defenses, it is imperative that the U.K.’s
+technical demands of Apple — and of any other U.S. companies — be subjected to robust, public analysis and debate by
+cybersecurity experts. Secret court hearings featuring
+intelligence agencies and a handful of individuals approved by
+them do not enable robust challenges on highly technical matters.
+Moreover, given the potential impact on U.S. national security, it
+is vital that American cybersecurity experts be permitted to
+analyze and comment on the security of what is proposed.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘U.S. Lawmakers Urge U.K. Secretive Investigatory Powers Tribunal to Hold Public Hearing Regarding Demand for Secret iCloud Backdoor’"  href="https://daringfireball.net/linked/2025/03/14/us-lawmakers-letter-to-ipt">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Swift Assist Hasn’t Shipped, and Isn’t Yet in Beta</title>
+	<link rel="alternate" type="text/html" href="https://mjtsai.com/blog/2025/03/12/whither-swift-assist/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w5r" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/13/whither-swift-assist" />
+	<id>tag:daringfireball.net,2025:/linked//6.41679</id>
+	<published>2025-03-13T16:15:39Z</published>
+	<updated>2025-03-15T18:57:26Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Michael Tsai:</p>
+
+<blockquote>
+  <p>Swift Assist was <a href="https://www.reddit.com/r/Xcode/comments/1hcicwl/wheres_swift_assist/">supposed to arrive in 2024</a>, but it never
+even appeared in a beta. Apple <a href="https://www.reddit.com/r/swift/comments/1iypui2/will_we_ever_see_swift_assist_in_xcode16/">hasn’t announced</a> that it’s
+postponed or cancelled. It’s not even mentioned in the <a href="https://developer.apple.com/documentation/xcode-release-notes/xcode-16_3-release-notes">release
+notes</a>.</p>
+</blockquote>
+
+<p>Apple announced two AI-powered features for Xcode last year: <a href="https://lickability.com/blog/xcode-predictive-code-completion/">predictive code completion</a> and Swift Assist. Predictive code completion is basically getting suggestions for what you might intend to write next. Swift Assist is far more ambitious, runs only in the cloud (via Private Cloud Compute), and promises to write entire components for you. So much like the rest of Apple Intelligence, it’s the simpler thing that has shipped, and the more radical ambitious thing that has not.</p>
+
+<p>I looked into Swift Assist this week while researching, and checking my notes from WWDC, for <a href="https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino">my long piece yesterday</a>. I had an entire briefing with the Xcode team at WWDC last year, and alas, I was late for it (previous briefing, with a different team, had started late), so I missed some stuff and my notes are unusually terse. What I wanted to check my notes for is whether or not I was shown a live demo of Swift Assist last June. But my notes don’t say, and my own memory is completely unsure whether the demos I saw performed were only for predictive code completion, or included Swift Assist.</p>
+
+<p>If anyone else who was in those WWDC briefings remembers whether Swift Assist was actually demoed, <a href="https://daringfireball.net/contact/">please let me know</a>. I’m genuinely curious if Swift Assist was another thing — like all of “more personalized Siri” — that wasn’t even in demonstratable shape at WWDC.</p>
+
+<p><strong>Update, 15 March:</strong> “<a href="https://daringfireball.net/linked/2025/03/15/swift-assist-voorhees">Apple Did Demo Swift Assist at WWDC Last Year, and Has Shown It, Under NDA, Since Then</a>”.</p>
+
+<div>
+<a  title="Permanent link to ‘Swift Assist Hasn’t Shipped, and Isn’t Yet in Beta’"  href="https://daringfireball.net/linked/2025/03/13/whither-swift-assist">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino" />
+	<link rel="shorturl" href="http://df4.us/w5q" />
+	<id>tag:daringfireball.net,2025://1.41678</id>
+	<published>2025-03-12T23:37:14Z</published>
+	<updated>2025-03-18T16:05:51Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">Who decided these personalized Siri features should go in the WWDC keynote, with a promise they’d arrive in the coming year, when, at the time, they were in such an unfinished state they could not be demoed to the media even in a controlled environment? Three months later, who decided Apple should double down and advertise these features in a TV commercial, and promote them as a selling point of the iPhone 16 lineup?</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>In the two decades I’ve been in this racket, I’ve never been angrier at myself for missing a story than I am about Apple’s <a href="https://daringfireball.net/2025/03/apple_is_delaying_the_more_personalized_siri_apple_intelligence_features">announcement on Friday</a> that the “more personalized Siri” features of Apple Intelligence, scheduled to appear between now and WWDC, would be delayed until “the coming year”.</p>
+
+<p>I should have my head examined. </p>
+
+<p>This announcement dropped as a surprise, and certainly took me by surprise to some extent, but it was all there from the start. I should have been pointing out red flags starting back at WWDC last year, and I am embarrassed and sorry that I didn’t see what should have been very clear to me from the start.</p>
+
+<p>How I missed this is twofold. First, I’d been lulled into complacency by Apple’s track record of consistently shipping pre-announced products and features. Their record in that regard wasn’t perfect, but the exceptions tended to be around the edges. (Nobody was particularly clamoring for Apple to make a multi-device inductive charging mat, so it never generated too much controversy <a href="https://daringfireball.net/2025/03/apple_is_delaying_the_more_personalized_siri_apple_intelligence_features#fn1-2025-03-07">when AirPower turned out to be a complete bust</a>.) Second, I was foolishly distracted by the “Apple Intelligence” brand umbrella. It’s a fine idea for Apple to brand its AI features under an umbrella term like that, similar to how a bunch of disparate features that allow different Apple devices to interoperate are under the “<a href="https://www.apple.com/macos/continuity/">Continuity</a>” umbrella. But there’s no such thing, technically speaking, as “Continuity”. It’s not like there’s an Xcode project inside Apple named Continuity.xcodeproj, and all the code that supports everything from AirDrop to Sidecar to iPhone Mirroring to clipboard sharing is all implemented in the same framework of code. It’s a marketing term, but a useful one — it helps Apple explain the features, and helps users understand them.</p>
+
+<p>The same goes for “Apple Intelligence”. It doesn’t exist as a single thing or project. It’s a marketing term for a collection of features, apps, and services. Putting it all under a single obvious, easily remembered — and <a href="https://www.creativebloq.com/design/print-design-publishing/apples-new-billboard-ads-are-um-not-great">easily promoted</a> — name makes it easier for users to understand that Apple is launching a new initiative. It also makes it easier for Apple to just say “<em>These are the devices that qualify for all of these features, and other devices — older ones, less expensive ones — get none of them.</em>”</p>
+
+<p>Let’s say Apple were to quietly abandon the dumb Image Playground app next year. It just disappears from iOS 19 and MacOS 16. That would just be Apple eliminating a silly app that almost no one uses or should use. That wouldn’t be a setback or rollback of “Apple Intelligence”. I would actually argue that axing Image Playground would improve Apple Intelligence; its mere existence greatly lowers the expectations for how good the whole thing is.<sup id="fnr1-2025-03-12"><a href="#fn1-2025-03-12">1</a></sup></p>
+
+<p>What I mean by that is that it was clear to me from the WWDC keynote onward that some of the features and aspects of Apple Intelligence were more ambitious than others. Some were downright trivial; others were proposing to redefine how we will do our jobs and interact with our most-used devices. That was clear. But yet somehow I didn’t focus on it. Apple itself strongly hinted that the various features in Apple Intelligence wouldn’t all ship at the same time. What they didn’t spell out, but anyone could intuit, was that the more trivial features would ship first, and the more ambitious features later. That’s where the red flags should have been obvious to me.</p>
+
+<p>In broad strokes, there are four stages of “doneness” or “realness” to features announced by any company:</p>
+
+<ol>
+<li><p>Features that the company’s own product representatives will demo, themselves, in front of the media. Smaller, more personal demonstrations are more credible than on-stage demos. But the stakes for demo fail are higher in an auditorium full of observers.</p></li>
+<li><p>Features that the company will allow members of the media (or other invited outside observers and experts) to try themselves, for a limited time, under the company’s supervision and guidance. Vision Pro demos were like this at WWDC 2023. A bunch of us got to use pre-release hardware and in-progress software for 30 minutes. It wasn’t like free range “Do whatever you want” — it was a guided tour. But we were the ones actually using the product. Apple allowed hands-on demos for a handful of media (not me) at Macworld Expo <a href="https://www.macworld.com/article/186251/ihnatkoiphone.html">back in 2007 with prototype original iPhones</a> — some of the “apps” were just screenshots, but most of the iPhone actually worked.</p></li>
+<li><p>Features that are released as beta software for developers, enthusiasts, and the media to use on their own devices, without limitation or supervision.</p></li>
+<li><p>Features that actually ship to regular users, and hardware that regular users can just go out and buy.</p></li>
+</ol>
+
+<p>As of today — March 2025 — every feature in Apple Intelligence <a href="https://9to5mac.com/2025/02/26/this-is-every-apple-intelligence-feature-thats-available-now/">that has actually shipped</a> was at level 1 back at WWDC. After the keynote, dozens of us in the press were invited to a series of small-group briefings where we got to watch Apple reps demo features like Writing Tools, Photos Clean Up, Genmoji, and more. We got to see predictive code completion in Xcode. What has shipped, as of today, they were able to show, in some functional state, in June.</p>
+
+<p>For example, there was a demo involving a draft email message on an iPad, and the Apple rep used Writing Tools to make it “more friendly”. I was in a group of just four or five other members of the media, watching this. As usual, we were encouraged to interrupt with questions. Knowing that LLMs are non-deterministic, I asked whether, as the Apple rep was performing this same demo for each successive group of media members, the “more friendly” result was exactly the same each time. He laughed and said no — that while the results are very similar each time, and he hopes they continue to be (hence the laughing), there were subtle differences <em>sometimes</em> between different runs of the same demo. As I recall, he even used Undo to go back to the original message text, invoked Writing Tools to make it “more friendly” again, and we could see that a few of the word choices were slightly different. That answered both my explicit question and my implicit one: Writing Tools generates non-deterministic results, and, more importantly, what we were watching really was a live demo.</p>
+
+<p>We didn’t get to try any of the Apple Intelligence features ourselves. There was no Apple Intelligence “hands on”. But we did see a bunch of features demoed, live, by Apple folks. In my above hierarchy of realness, they were all at level 1.</p>
+
+<p>But we didn’t see <em>all</em> aspects of Apple Intelligence demoed. None of the “more personalized Siri” features, the ones that Apple, <a href="https://daringfireball.net/2025/03/apple_is_delaying_the_more_personalized_siri_apple_intelligence_features">in its own statement announcing their postponement</a>, described as having “more awareness of your personal context, as well as the ability to take action for you within and across your apps”. Those features encompass three main things:</p>
+
+<ul>
+<li>“Personal context” — Knowing details and information about you from a “semantic index”, built from the contents of your email, messages, files, contacts, and more. In theory, eventually, all the information on your device that you wish to share with Siri will be in this semantic index. If you can look it up on your device, Siri will be able to look it up on your device.</li>
+<li>“Onscreen awareness” — Giving Siri awareness of whatever is displayed on your screen. <a href="https://www.apple.com/apple-intelligence/">Apple’s own example usage</a>: “If a friend texts you their new address, you can say ‘Add this address to their contact card,’ and Siri will take care of it.”</li>
+<li><p>“In-app actions” — Giving Siri the ability, through the App Intents framework, to do things in and across apps that <em>you</em> can do, the old fashioned way (yourself) in and across apps. Again, here’s Apple’s own example usage:</p>
+
+<blockquote>
+  <p>You can make a request like “Send the email I drafted to April and
+Lilly” and Siri knows which email you’re referencing and which app
+it’s in. And Siri can take actions across apps, so after you ask
+Siri to enhance a photo for you by saying “Make this photo pop,”
+you can ask Siri to drop it in a specific note in the Notes app — without lifting a finger.</p>
+</blockquote></li>
+</ul>
+
+<p>There were no demonstrations of <em>any</em> of that. Those features were all at level 0 on my hierarchy. That level is called vaporware. They were features Apple <em>said</em> existed, which they <em>claimed</em> would be shipping in the next year, and which they <em>portrayed</em>, to great effect, in the signature “Siri, when is my mom’s flight landing?” segment of the WWDC keynote itself, <a href="https://www.youtube.com/live/RXeOiIDNNek?t=4934">starting around the 1h:22m mark</a>. Apple was either unwilling or unable to demonstrate those features in action back in June, even with Apple product marketing reps performing the demos from a prepared script using prepared devices.</p>
+
+<p>This shouldn’t have just raised a concern in my head. It should have set off blinding red flashing lights and deafening klaxon alarms.</p>
+
+<p>Even the very engineers working on a project never know exactly how long something is going to take to complete. An outsider observing a scripted demo of incomplete software knows far less (than the engineers) just how much more work it needs. But you can make a rough judgment. And that’s where my aforementioned hierarchy of realness comes into play. Even outsiders can judge how close a public beta (stage 3) feels to readiness. A feature or product that Apple will allow the press to play with, hands-on (stage 2) is further along than a feature or product that Apple is only willing to demonstrate themselves (stage 1).</p>
+
+<p>But a feature or product that Apple is unwilling to demonstrate, at all, is unknowable. Is it mostly working, and close to, but not quite, demonstratable? Is it only kinda sorta working — partially functional, but far from being complete? Fully functional but prone to crashing — or in the case of AI, prone to hallucinations and falsehoods? Or is it complete fiction, just an idea at this point?</p>
+
+<p>What Apple showed regarding the upcoming “personalized Siri” at WWDC was <em>not</em> a demo. It was a concept video. Concept videos are bullshit, and a sign of a company in disarray, if not crisis. <a href="https://daringfireball.net/2011/11/companies_that_publish_concept_videos">The Apple that commissioned the futuristic “Knowledge Navigator” concept video</a> in 1987 was the Apple that was on a course to near-bankruptcy a decade later. Modern Apple — the post-NeXT-reunification Apple of the last quarter century — does not publish concept videos. They only demonstrate actual working products and features.</p>
+
+<p>Until WWDC last year, that is.</p>
+
+<p>My deeply misguided mental framework for “Apple Intelligence” last year at WWDC was something like this: <em>Some of these features are further along than others, and Apple is showing us those features in action first, and they will surely be the features that ship first over the course of the next year. The other features must be coming to demonstratable status soon.</em> But the mental framework I should have used was more like this: <em>Some of these features are merely table stakes for generative AI in 2024, but others are ambitious, groundbreaking, and, given their access to personal data, potentially dangerous. Apple is only showing us the table-stakes features, and isn’t demonstrating any of the ambitious, groundbreaking, risky features.</em></p>
+
+<p>It gets worse. Come September, Apple held its annual big event at Apple Park to unveil the iPhone 16 lineup. Apple Intelligence features were highlighted in the announcement. Members of the media from around the world were gathered. That was a new opportunity, three months after WWDC, for Apple to demonstrate — or even better, offer hands-on access to the press to try themselves — the new personalized Siri features. They did not. No demos, at all. But they did promote them, once again, in the event keynote.<sup id="fnr2-2025-03-12"><a href="#fn2-2025-03-12">2</a></sup></p>
+
+<p>But yet while Apple still wouldn’t demonstrate these features in person, they did commission and broadcast a TV commercial showing these purported features in action, presenting them as a reason to purchase a new iPhone — <a href="https://daringfireball.net/linked/2025/03/08/apple-pulls-bella-ramsey-ad-that-promoted-vaporware-personalized-siri-feature">a commercial they pulled, without comment, from YouTube this week</a>.</p>
+
+<p>Last week’s announcement — “It’s going to take us longer than we thought to deliver on these features and we anticipate rolling them out in the coming year” — was, if you think about it, another opportunity to demonstrate the current state of these features. Rather than simply issue a statement to the media, they could have invited select members of the press to Apple Park, or Apple’s offices in New York, or even just remotely over a WebEx conference call, and demonstrated the current state of these features live, on an actual device. That didn’t happen. If these features exist in any sort of working state at all, no one outside Apple has vouched for their existence, let alone for their quality.</p>
+
+<h2>Duke Nukem Intelligence</h2>
+
+<p>Why did Apple show these personalized Siri features at WWDC last year, and promise their arrival during the first year of Apple Intelligence? Why, for that matter, do they now claim to “anticipate rolling them out in the coming year” if they still currently do not exist in demonstratable form? (If they <em>do</em> exist today in demonstratable form, they should, you know, <em>demonstrate them</em>.)</p>
+
+<p>I’m not trying to be obtuse here. It’s obvious why some executives at Apple might have <em>hoped</em> they could promote features like these at WWDC last year. Generative AI is the biggest thing to happen in the computer industry since previous breakthroughs this century like mobile (starting with the iPhone, followed by Android), social media (Meta), and cloud computing (Microsoft, Google, and Amazon). Nobody knows where it’s going but wherever it’s heading, it’s going to be big, important, and perhaps profitable. Wall Street certainly noticed. And prior to WWDC last year, Apple wasn’t in the game. They needed to pitch their AI story. And a story that involved nothing but table-stakes AI features isn’t nearly as compelling a story as one that involves innovative, breakthrough, ambitious personal features.</p>
+
+<p>But while there’s an obvious appeal to Apple pitching the most compelling, most ambitious AI story possible, the only thing that was essential was telling a story that was true. If the truth was that Apple only had features ready to ship in the coming year that were table stakes compared to the rest of the industry, that’s the story they needed to tell. Put as good a spin on it as possible, but them’s the breaks when you’re late to the game.</p>
+
+<p>The fiasco here is not that Apple is late on AI. It’s also not that they had to announce an embarrassing delay on promised features last week. Those are problems, not fiascos, and problems happen. They’re inevitable. Leaders prove their mettle and create their legacies not by how they deal with successes but by how they deal with — how they acknowledge, understand, adapt, and solve — problems. The fiasco is that Apple pitched a story that wasn’t true, one that <em>some</em> people within the company surely understood wasn’t true, and they set a course based on that. </p>
+
+<p>The Apple of the Jobs exile years — the Sculley / Spindler / Amelio Apple of 1987–1997 — promoted all sorts of amazing concepts that were no more real than the dinosaurs of <em>Jurassic Park</em>, and promised all sorts of hardware and (especially) software that never saw the light of day. Promoting what you <em>hope</em> to be able to someday ship is way easier and more exciting than promoting what you <em>know</em> is actually ready to ship. However close to financial bankruptcy Apple was when Steve Jobs returned as CEO after the NeXT reunification, the company was already completely bankrupt of credibility. Apple today is the most profitable and financially successful company in the history of the world. Everyone notices such success, and the corresponding accumulation of great wealth. Less noticed, but to my mind the more impressive achievement, is that over the last three decades, the company <em>also</em> accumulated an abundant reserve of credibility. When Apple showed a feature, you could bank on that feature being real. When they said something was set to ship in the coming year, it would ship in the coming year. In the worst case, maybe that “year” would have to be stretched to 13 or 14 months. You can stretch the truth and maintain credibility, but you can’t maintain credibility with bullshit. And the “more personalized Siri” features, it turns out, were bullshit.</p>
+
+<p>Keynote by keynote, product by product, feature by feature, year after year after year, Apple went from a company that you couldn’t believe would even remain solvent, to, by far, the most credible company in tech. Apple remains at no risk of financial bankruptcy (and in fact remains the most profitable company in the world). But their credibility is now damaged. Careers will end before Apple might ever return to the level of “if they say it, you can believe it” credibility the company had earned at the start of June 2024.</p>
+
+<p><em>Damaged</em> is arguably too passive. It was <em>squandered</em>. This didn’t happen to Apple. Decision makers within the company did it.</p>
+
+<p><em>Who</em> decided these features should go in the WWDC keynote, with a promise they’d arrive in the coming year, when, at the time, they were in such an unfinished state they could not be demoed to the media even in a controlled environment? Three months later, who decided Apple should double down and advertise these features in a TV commercial, and promote them as a selling point of the iPhone 16 lineup — not just any products, but the very crown jewels of the company and the envy of the entire industry — when those features still remained in such an unfinished or perhaps even downright non-functional state that they <em>still</em> could not be demoed to the press? Not just couldn’t be shipped as beta software. Not just couldn’t be used by members of the press in a hands-on experience, but could not even be shown to work by Apple employees on Apple-controlled devices in an Apple-controlled environment? But yet they advertised them in a commercial for the iPhone 16, when it turns out they won’t ship, in the best case scenario, until months after the iPhone 17 lineup is unveiled?</p>
+
+<p>When that whole campaign of commercials appeared, I — along with many other observers — was distracted by the fact that <em>none</em> of the features in Apple Intelligence had yet shipped. It’s highly unusual, and arguably ill-considered, for Apple to advertise <em>any</em> features that haven’t yet shipped. But one of those commercials was not at all like the others. The other commercials featured Apple Intelligence features that were close to shipping. We know today they were close to shipping because they were either in the iOS 18.1 betas already, in September, or would soon appear in developer betas for iOS 18.2 and 18.3. Right now, today, they’ve all actually shipped and are in the hands of iPhone 16 users. But the “Siri, what’s the name of the guy I had a meeting with a couple of months ago at Cafe Grenel?” commercial was entirely based on a feature Apple still has never even demonstrated.</p>
+
+<p>Who said “<em>Sure, let’s promise this</em>” and then “<em>Sure, let’s advertise it</em>”? And who said “<em>Are you crazy, this isn’t ready, this doesn’t work, we can’t promote this now?</em>” And most important, who made the call which side to listen to? Presumably, that person was Tim Cook.</p>
+
+<p>Even with everything Apple overpromised (if not outright lied about) at the WWDC keynote, the initial takeaway from WWDC from the news media was wrongly focused on their partnership with OpenAI. The conventional wisdom coming out of the keynote was that Apple had just announced something called “Apple Intelligence” but it was powered by ChatGPT, when in fact, the story Apple told was that they — Apple — had built an entire system called Apple Intelligence, entirely powered by Apple’s own AI technology, and that it spanned from on-device execution all the way to a new Private Cloud Compute infrastructure they not only owned but are powering with their own custom-designed server hardware based on Apple Silicon chips. And that on top of all that, as a proverbial cherry on top, Apple <em>also</em> was adding an optional integration layer with ChatGPT.</p>
+
+<p>So, yes, given that the news media gave credit for Apple’s own actual announced achievements to OpenAI, Apple surely would have been given even <em>less</em> credit had they not announced the “more personalized Siri” features. It’s easy to imagine someone in the executive ranks arguing “<em>We need to show something that only Apple can do.</em>” But it turns out they announced something Apple <em>couldn’t</em> do. And now they look so out of their depth, so in over their heads, that not only are they years behind the state-of-the-art in AI, but they don’t even know <em>what</em> they can ship or <em>when</em>. Their headline features from nine months ago not only haven’t shipped but still haven’t even been demonstrated, which I, for one, now presume means they <em>can’t</em> be demonstrated <em>because they don’t work</em>.</p>
+
+<h2>‘So Why the Fuck Doesn’t It Do That?’</h2>
+
+<p>In May 2011, <a href="https://fortune.com/article/inside-apple/">Fortune published an extraordinary look inside Apple by Adam Lashinsky</a>, at what we now know to be the peak, and (alas) end, of the Steve Jobs era. The piece opens thus:</p>
+
+<blockquote>
+  <p>Apple doesn’t often fail, and when it does, it isn’t a pretty
+sight at 1 Infinite Loop. In the summer of 2008, when Apple
+launched the first version of its iPhone that worked on
+third-generation mobile networks, it also debuted MobileMe, an
+e-mail system that was supposed to provide the seamless
+synchronization features that corporate users love about their
+BlackBerry smartphones. MobileMe was a dud. Users complained about
+lost e-mails, and syncing was spotty at best. Though reviewers
+gushed over the new iPhone, they panned the MobileMe service.</p>
+
+<p>Steve Jobs doesn’t tolerate duds. Shortly after the launch event,
+he summoned the MobileMe team, gathering them in the Town Hall
+auditorium in Building 4 of Apple’s campus, the venue the company
+uses for intimate product unveilings for journalists. According to
+a participant in the meeting, Jobs walked in, clad in his
+trademark black mock turtleneck and blue jeans, clasped his hands
+together, and asked a simple question:</p>
+
+<p>“Can anyone tell me what MobileMe is supposed to do?” Having
+received a satisfactory answer, he continued, “So why the fuck
+doesn’t it do that?”</p>
+
+<p>For the next half-hour Jobs berated the group. “You’ve tarnished
+Apple’s reputation,” he told them. “You should hate each other for
+having let each other down.” The public humiliation particularly
+infuriated Jobs. Walt Mossberg, the influential Wall Street
+Journal gadget columnist, had panned MobileMe. “Mossberg, our
+friend, is no longer writing good things about us,” Jobs said. On
+the spot, Jobs named a new executive to run the group.</p>
+</blockquote>
+
+<p>Tim Cook should have already held a meeting like that to address and rectify this Siri and Apple Intelligence debacle. If such a meeting hasn’t yet occurred or doesn’t happen soon, then, I fear, that’s all she wrote. The ride is over. When mediocrity, excuses, and bullshit take root, they take over. A culture of excellence, accountability, and integrity cannot abide the acceptance of any of those things, and will quickly collapse upon itself with the acceptance of all three.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn1-2025-03-12">
+<p>Image Playground would make a ton of sense not as a consumer-facing app, but as an example project for developers. Long ago, Apple <a href="https://developer.apple.com/library/archive/samplecode/TextEdit/Introduction/Intro.html">used to share the source code for TextEdit</a> as an example project for Mac developers. (TextEdit is actually a low-key great application, though. It’s genuinely useful, reliable, and understandable.) <a href="https://developer.apple.com/sample-code/wwdc/2024/">Apple shares tons of sample code at WWDC each year</a>. Image Playground would be a great sample project. The silly app icon even looks like something from a WWDC sample project. What Image Playground is <em>not</em> is a credible useful generative AI tool. Yet Apple keeps talking about it — and showing it off in new hardware demonstrations — like it’s something they should be proud of and that anyone might credibly use for real-world work or even personal purposes. Image Playground does exemplify just how state-of-the-art the generative AI features are in Apple Intelligence, but not in the way Apple seems to think.&nbsp;<a href="#fnr1-2025-03-12"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
+</li>
+
+<li id="fn2-2025-03-12">
+<p>Skip to <a href="https://www.youtube.com/live/uarNiSl_uh4?t=3184">the 53-minute mark of Apple’s September “It’s Glowtime” event</a> introducing the iPhones 16, and it’s Craig Federighi who says the following:</p>
+
+<blockquote>
+<p>“Siri will be able to tap into your personal context to help you in ways that are unique to you. Like pulling up the recommendation for the TV show that your brother sent you last month. And Siri will gain onscreen awareness. So when your friend texts you about a new album, you’ll be able to simply say, ‘Play that.’ And then you’ll be able to take hundreds of new actions in your apps, like updating a friend’s contact card with his new address, or adding a set of photos to a specific album. With Siri’s personal context understanding and action capabilities, you’ll be able to simply say, ‘Send Erica the photos from Saturday’s barbecue’, and Siri will dig up the photos and send them right off.”</p>
+</blockquote>
+
+<p>That’s about 40 seconds of keynote time I bet Federighi regrets — and that I suspect <a href="https://9to5mac.com/2025/03/09/siri-apple-intelligence-ios-18-development-went-wrong/">he was skeptical about</a> including. It’s telling though, that unlike WWDC, Apple didn’t <em>show</em> those features or spend even a full minute talking about at the iPhone 16 event — despite the fact that, ostensibly, those features should have been three months closer to shipping than they were in June. Federighi’s title is SVP of software, and Apple Intelligence and Siri are “software”, but John Giannandrea (SVP of machine learning and
+AI strategy) is Federighi’s peer, not subordinate, <a href="https://www.apple.com/leadership/">on the org chart</a> — both report directly to Tim Cook — and is responsible for Siri and Apple Intelligence. Why it was Federighi, not Giannandrea, pitching those features in the iPhone 16 event keynote almost certainly comes down to Federighi’s presentation skills and stage presence, not responsibility for the features themselves. But who’s going on camera to pitch these features and promise their future availability the next time?&nbsp;<a href="#fnr2-2025-03-12"  class="footnoteBackLink"  title="Jump back to footnote 2 in the text.">&#x21A9;&#xFE0E;︎</a></p>
+</li>
+
+</ol>
+</div>
+
+
+
+    ]]></content>
+  <title>★ Something Is Rotten in the State of Cupertino</title></entry><entry>
+	<title>Brazilian Court Gives Apple 90 Days to Allow Sideloading on iOS</title>
+	<link rel="alternate" type="text/html" href="https://9to5mac.com/2025/03/06/brazilian-court-apple-sideloading-ios/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w5p" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/12/brazilian-court-gives-apple-90-days-to-allow-sideloading-on-ios" />
+	<id>tag:daringfireball.net,2025:/linked//6.41677</id>
+	<published>2025-03-12T16:28:06Z</published>
+	<updated>2025-03-12T17:01:35Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Filipe Espósito, reporting last week for 9to5Mac:</p>
+
+<blockquote>
+  <p>As reported by Brazilian newspaper <a href="https://valor.globo.com/empresas/noticia/2025/03/06/exclusivo-trf-1-suspende-liminar-e-mantem-medida-preventiva-do-cade-contra-a-apple.ghtml">Valor Econômico</a> (via <a href="https://oglobo.globo.com/economia/tecnologia/noticia/2025/03/06/trf-1-confirma-decisao-do-cade-e-determina-que-apple-permita-lojas-de-apps-alternativas-no-ios.ghtml">O
+Globo</a>), a federal judge in Brazil ruled on Wednesday that
+Apple will have to open up the iOS ecosystem to third-party apps
+in Brazil just like the company did in the EU. The judge considers
+that the “limitations” imposed by the company on developers could
+jeopardize the entry of new competitors in the segment. [...]</p>
+
+<p>But now Judge Pablo Zuniga has ordered that Apple will have to
+implement the required changes in Brazil within the next three
+months. The judge states that, despite Apple’s claims, the company
+“has already complied with similar obligations in other countries,
+without demonstrating a significant impact or irreparable damage
+to its business model.”</p>
+</blockquote>
+
+<p>Presumably Apple will just roll out in Brazil the same compliance rules, policies, and APIs that they started offering last year in the EU. But will Brazilian users get access to EU third-party app marketplaces, and vice-versa? Or will Apple try to segregate these app marketplaces region-by-region, such that Brazilian users will only get access to Brazilian third-party app marketplaces, and EU users will remain limited only to EU third-party app marketplaces?</p>
+
+<p>I asked Riley Testut, the founder of <a href="https://altstore.io/">AltStore PAL</a>, if he knew the answers to those questions. His answer, via iMessage:</p>
+
+<blockquote>
+  <p>We haven’t heard anything from Apple (unsurprisingly), but I
+think it’ll be somewhere in the middle. It’s likely Apple will
+add some requirements for existing marketplaces to launch in
+Brazil like they did with EU (e.g. requiring us to have a
+subsidiary in Brazil) so we’ll all need to get approval again.
+But assuming marketplaces meet all requirements, I think users in
+both places will eventually be able use e.g. AltStore PAL and
+Epic Games Store.</p>
+</blockquote>
+
+<p>“In the middle” sounds about right from Apple’s perspective too. They’re not going to make this as easy as possible, but I don’t expect them to make it obstinately spiteful either.</p>
+
+<div>
+<a  title="Permanent link to ‘Brazilian Court Gives Apple 90 Days to Allow Sideloading on iOS’"  href="https://daringfireball.net/linked/2025/03/12/brazilian-court-gives-apple-90-days-to-allow-sideloading-on-ios">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Apple Adds Disclaimers Regarding Delayed AI Siri Features</title>
+	<link rel="alternate" type="text/html" href="https://9to5mac.com/2025/03/12/apple-adds-new-disclaimer-on-its-website-advertising-delayed-ai-siri-features/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w5o" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/12/apple-adds-disclaimers-regarding-delayed-ai-siri-features" />
+	<id>tag:daringfireball.net,2025:/linked//6.41676</id>
+	<published>2025-03-12T14:41:24Z</published>
+	<updated>2025-03-12T14:41:24Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Benjamin Mayo 9to5Mac:</p>
+
+<blockquote>
+  <p>Apple is still reeling from the last-week’s news that the most
+compelling new Apple Intelligence features for Siri have been
+indefinitely delayed. Over the weekend, it <a href="https://9to5mac.com/2025/03/07/apple-pulls-ad-that-showed-siri-being-useful-after-delaying-feature-that-could-make-siri-useful/">pulled a YouTube
+ad</a> showcasing personal context running on the iPhone 16. Now,
+it has updated the Apple website with a new disclaimer wherever
+the unreleased Siri features are mentioned on the iPhone marketing
+pages. [...]</p>
+
+<p>The new message to customers found on Apple’s website is
+different, but equally as vague. It reads:</p>
+
+<blockquote>
+  <p>Siri’s personal context understanding, onscreen awareness, and
+in-app actions are in development and will be available with a
+future software update.</p>
+</blockquote>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘Apple Adds Disclaimers Regarding Delayed AI Siri Features’"  href="https://daringfireball.net/linked/2025/03/12/apple-adds-disclaimers-regarding-delayed-ai-siri-features">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Google Changes Chrome Extension Policies Following the Honey Link Scandal</title>
+	<link rel="alternate" type="text/html" href="https://www.theverge.com/news/627940/google-chrome-extensions-paypal-honey-affiliate" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w5n" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/12/google-chrome-extensions-honey-scam" />
+	<id>tag:daringfireball.net,2025:/linked//6.41675</id>
+	<published>2025-03-12T14:26:07Z</published>
+	<updated>2025-03-12T14:26:07Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jay Peters, The Verge:</p>
+
+<blockquote>
+  <p>Google has updated its affiliate ads policy for Chrome extensions
+after creators accused PayPal’s popular Honey browser extension of
+being a “scam.”</p>
+
+<p>Honey <a href="https://www.theverge.com/2024/12/23/24328268/honey-coupon-code-browser-extension-scam-influencers-affiliate-marketing">was accused</a> of taking affiliate revenue from the same
+influencers it paid for promotion by using its Chrome extension to
+swap in its own affiliate link before you checked out. According
+to the updated Google policy <a href="https://developer.chrome.com/docs/webstore/program-policies/affiliate-ads">posted today</a>, this isn’t
+allowed in most cases</p>
+</blockquote>
+
+<p>I wouldn’t say they were merely accused — they were <a href="https://www.youtube.com/watch?v=vc4yL3YTwWk">caught, red-handed</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Google Changes Chrome Extension Policies Following the Honey Link Scandal’"  href="https://daringfireball.net/linked/2025/03/12/google-chrome-extensions-honey-scam">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/03/new_ui_look_ios_would_be_a_huge_deal" />
+	<link rel="shorturl" href="http://df4.us/w5l" />
+	<id>tag:daringfireball.net,2025://1.41673</id>
+	<published>2025-03-11T22:33:03Z</published>
+	<updated>2025-03-12T14:23:06Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">You either have taste or you don’t, and most people don’t, at least for judging something new and unfamiliar.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p><a href="https://9to5mac.com/2025/03/11/a-totally-new-look-for-ios-19-will-likely-have-a-bigger-impact-than-new-siri/">Ben Lovejoy, writing at 9to5Mac</a>:</p>
+
+<blockquote>
+  <p>Our editor-in-chief Chance Miller wryly commented that a radical
+new look would serve as a great way to distract from the
+ever-slowing progress on the new Siri. But in truth, I think many
+more Apple users will be wowed by a new look than would ever care
+about Siri.</p>
+</blockquote>
+
+<p>If that’s the way it works out — with a new visual look drawing attention from lackluster progress on the AI front — surely the timing will be coincidental, but some accidents are happy accidents, as Bob Ross used to say.</p>
+
+<blockquote>
+  <p>Sure, the new look introduced with iOS 7 was a massively
+controversial one, and many thought that then Apple design chief
+Jony Ive should never have been allowed anywhere near the software
+side of the business. But love it or hate it, you certainly
+couldn’t ignore it.</p>
+
+<p>The same will be true of a new 3D look, which might even include
+some (much more modern) skeuomorphic elements. Probably as many
+will hate it as love it when it’s first introduced, as that seems
+to be true of any significant change made by the company, but it
+will likely make more of a bang than any improvement to Siri the
+company may introduce, then or later.</p>
+</blockquote>
+
+<p>There should be no question that all of what Lovejoy is saying here is true. If Apple launches an all-new systemwide UI theme for iOS 19, something even half as radical a change as iOS 7’s theme was, it will be the <em>only</em> thing most users notice or opine about. Humans are fundamentally visual creatures and we notice visual changes. And, most humans are resistant to change. A lot of people simply dislike change, even changes for the better. (Honestly, I think that’s what the iOS 18 Photos complaints are about. Complaints about change itself.)</p>
+
+<p>Part of what makes Apple <em>Apple</em> is that the company is (or at least should be) led by people who both have great taste and trust their own instincts. No one’s taste is perfect. Even Steve Jobs pushed through a <a href="https://daringfireball.net/linked/2013/05/08/siracusa-ive">few</a> <a href="https://www.cultofmac.com/apple-history/flower-power-imac-blue-dalmatian">clunkers</a>. But if you have great taste and confidence, you’ll do what your gut says is right.</p>
+
+<p>When a company only pushes out changes that avoid controversy, it leads to paralysis. Then stagnation. Earlier today, <a href="https://social.panic.com/@cabel/114144740571928406">Cabel Sasser wrote</a>:</p>
+
+<blockquote>
+  <p>One of my strongest early developer memories was being in the “UI
+Feedback Forum” at WWDC after they introduced Aqua. Think of a
+live Q&amp;A, but developers giving notes to a team of Apple
+engineers.</p>
+
+<p>To these veteran Mac coders, the reaction to Aqua was universally
+negative. People were actively very angry. It’s a waste! It’s
+ugly! It’s confusing! How could you. It went on and on, and I was
+surprised because Aqua looked cool and fun to me.</p>
+
+<p>After that WWDC, they never did another Feedback Forum.</p>
+</blockquote>
+
+<p>It’s true. What a lot of Mac users wanted was a Mac OS X that looked like Mac OS 9.<sup id="fnr1-2025-03-11"><a href="#fn1-2025-03-11">1</a></sup> The Aqua look and feel was definitely polarizing. And Apple dialed back its most exuberant details with each subsequent Mac OS X update — less transparency, subtler pinstripes (pinstripes!), etc. But iOS 7 was equally polarizing, and its excesses also got dialed back (or perhaps better, said, dialed back up) with each successive iOS release — a little more depth, some subtle hints of texture.</p>
+
+<p>Either Apple is <em>never</em> going to ship an altogether new UI theme, or they’ll ship one and a large number of people will declare it utter garbage and proof that Apple has completely lost its way. Maybe it <em>will</em> be garbage and proof that Apple has lost its way! Or, maybe it will actually prove to be a great new look that starts a decade-long industry-wide trend that all other companies will soon follow — which is what happened with Aqua’s 3D “lickability”, and happened again with iOS 7’s austere flattening. But either way, you won’t be able to judge it by asking for a show of hands from the general population <a href="https://daringfireball.net/2025/02/fox_new_scorebug_graphic_design">when it’s unveiled</a>. You either have taste or you don’t, and most people don’t, at least when judging something new and unfamiliar.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1-2025-03-11">
+<p>Which is actually <a href="https://www.macintoshrepository.org/1449-mac-os-x-server-1-x-rhapsody-">what 1999’s Mac OS X Server 1.0 looked like</a>. It really was the best-looking version of the classic Platinum UI theme Apple ever released.&nbsp;<a href="#fnr1-2025-03-11"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
+</li>
+</ol>
+</div>
+
+
+
+    ]]></content>
+  <title>★ A New System-Wide UI Look for iOS — Let Alone MacOS, Too — Would Be a Huge Deal</title></entry><entry>
+	<title>Aaron ‘Homeboy’ Tilley Among Those Laid Off From the WSJ’s Tech Staff Last Week</title>
+	<link rel="alternate" type="text/html" href="https://talkingbiznews.com/media-news/wsj-cuts-tech-staff-creates-tech-and-media-team/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w5k" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/11/wsj-tech-layoffs" />
+	<id>tag:daringfireball.net,2025:/linked//6.41672</id>
+	<published>2025-03-11T20:03:25Z</published>
+	<updated>2025-03-11T20:03:38Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Last week The Wall Street Journal laid off about a dozen tech reporters and editors — not on the fun side, where folks like Joanna Stern and Nicole Nguyen work, but on the straight news side. Chris Roush at Talking Biz News obtained a memo sent to the staff from WSJ editor-in-chief Emma Tucker, which concluded:</p>
+
+<blockquote>
+  <p>We’re also creating a new Tech &amp; Media enterprise team, reporting
+to Sarah, and we’re creating two new jobs on this team based in
+San Francisco. In the coming weeks, we’ll be reconfiguring beats
+on the tech team to give more of them a wide ambit. Fewer will
+focus narrowly on individual companies. We are also advertising
+for a new tech-focused job on Heard in New York.</p>
+
+<p>These changes do mean that some reporters and editors in San
+Francisco and New York will be leaving us. I want to thank them
+for their contributions to the Journal. I want to especially thank
+Jason Dean, who is departing, for his long and distinguished
+service.</p>
+</blockquote>
+
+<p>It was the reporters who focused on specific companies <a href="https://talkingbiznews.com/media-news/here-are-the-wsj-tech-journalists-laid-off-this-week/">who got laid off</a>, including the Journal’s beat reporter for Apple for the last 6 years, Aaron Tilley. Tilley was last in the news himself a month ago, when one of his former sources, a now-former Apple engineer named Andrew Aude, <a href="https://daringfireball.net/linked/2025/02/07/apple-settles-lawsuit-with-leaker">settled a lawsuit filed by Apple</a> (and who addressed Tilley in text messages as “Homeboy”) and <a href="https://x.com/andyaude1/status/1887639465574998500">issued the following public apology</a>:</p>
+
+<blockquote>
+  <p>I spent nearly eight years as a software engineer at Apple. During
+that time, I was given access to sensitive internal Apple
+information, including what were then unreleased products and
+features. But instead of keeping this information secret, I made
+the mistake of sharing this information with journalists who
+covered the company. I did not realize it at the time, but this
+turned out to be a profound and expensive mistake. Hundreds of
+professional relationships I had spent years building were ruined.
+And my otherwise successful career as a software engineer was
+derailed, and it will likely be very difficult to rebuild it.
+Leaking was not worth it. I sincerely apologize to my former
+colleagues who not only worked tirelessly on projects for Apple,
+but work hard to keep them secret. They deserved better.</p>
+</blockquote>
+
+<p>I have no idea whether this fiasco had anything to do with Tilley being laid off (perhaps not, given Tucker’s decision to have fewer reporters on staff who “focus narrowly on individual companies”) but it couldn’t have helped. It’s not exactly a ringing endorsement to have someone publicly declaring that they deeply regret ever having been a source for a Wall Street Journal reporter, and that doing so not only cost them their job but ruined their entire career.</p>
+
+<p>It also probably didn’t help Tilley’s case <a href="https://daringfireball.net/linked/2024/06/06/how-the-wall-street-journal-fell-behind-in-the-apple-is-behind-on-ai-arms-race">that he wasn’t very good at covering Apple</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Aaron ‘Homeboy’ Tilley Among Those Laid Off From the WSJ’s Tech Staff Last Week’"  href="https://daringfireball.net/linked/2025/03/11/wsj-tech-layoffs">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Steal My Tesla</title>
+	<link rel="alternate" type="text/html" href="http://stealmytesla.com/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w5j" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/11/steal-my-tesla" />
+	<id>tag:daringfireball.net,2025:/linked//6.41671</id>
+	<published>2025-03-11T18:31:21Z</published>
+	<updated>2025-03-11T18:31:54Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>New service for disgruntled/embarrassed Tesla owners:</p>
+
+<blockquote>
+  <p>Our team at Steal My Tesla has years of experience in the
+automotive industry, with a special focus on luxury vehicles,
+premium wheels and rims, catalytic converters, and driver
+assistance systems. Trust us to handle your Tesla acquisition with
+professionalism and discretion.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘Steal My Tesla’"  href="https://daringfireball.net/linked/2025/03/11/steal-my-tesla">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Secretary of State Marco Rubio, in 2016, on Donald Trump as President: ‘This Is Not Going to End Well One Way or the Other’</title>
+	<link rel="alternate" type="text/html" href="https://youtu.be/0J08atDFR2c?t=476" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w5i" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/11/rubio-tapper-2016" />
+	<id>tag:daringfireball.net,2025:/linked//6.41670</id>
+	<published>2025-03-11T18:06:19Z</published>
+	<updated>2025-03-11T18:06:19Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>A clip from this 2016 interview with Marco Rubio — then a candidate for the Republican presidential primary, today Trump’s secretary of state — by CNN’s Jake Tapper is making the <a href="https://www.threads.net/@keithedwards/post/DHBlR9sh7q4">rounds</a> on <a href="https://x.com/jason_kint/status/1898914327882551312">social</a> media. It’s extraordinary. I’m linking here <a href="https://youtu.be/0J08atDFR2c?t=476">to the full video</a>, hosted on Rubio’s own YouTube account (for now — watch for this to go down the memory hole) starting at the 7:54 mark:</p>
+
+<blockquote>
+  <p><strong>Tapper:</strong> You compared Donald Trump to a third world dictator
+yesterday in an interview with The New York Times. How so?</p>
+
+<p><strong>Rubio:</strong> Well, I don’t know about a dictator. I said a third
+world strong man. You know, he’s running for president. So no
+matter what, he won’t be a dictator unless our republic completely
+crumbles, which I don’t anticipate it will. But, yeah, here’s what
+happens in many countries around the world: You have a leader that
+emerges and basically says, <em>Don’t put your faith in yourselves.
+Don’t put your faith in society. Put your faith in me. I’m a
+strong leader, and I’m going to make things better — all by
+myself.</em> This is very typical. You see it in the third world. You
+see it a lot in Latin America for decades. It’s basically the
+argument he’s making. That he, single-handedly, is going to turn
+the country around. We’ve never been that kind of country.</p>
+
+<p>We have a president. The president is an American citizen who
+serves for a period of time, constrained by the constitution and
+the powers vested in that office. The president works for the
+people, not the people for the president. And if you listen to the
+way he describes himself and what he’s going to do, he’s going to
+single-handedly do this and do that without regard for whether
+it’s legal or not.</p>
+
+<p>Look, I think people are going to have to make up their mind. I
+can tell you this. No matter what happens in this election, for
+years to come, there are many people on the right, in the media,
+and voters at large that are going to be having to explain and
+justify how they fell into this trap of supporting Donald Trump,
+because this is not going to end well one way or the other. He’s
+going to be the nominee, and he’s going to lose. Or, he’ll have
+thrown this party into its most chaotic and divisive period ever.
+And that’s unfortunate because the Republican Party is the home of
+the limited government free enterprise movement in America. And if
+it crumbles or divides or it splits apart, it’ll be very difficult
+to elect candidates that hold those views at any level of
+government until we can bring the party back together.</p>
+</blockquote>
+
+<p>Breathtakingly prescient and succinct.</p>
+
+<div>
+<a  title="Permanent link to ‘Secretary of State Marco Rubio, in 2016, on Donald Trump as President: ‘This Is Not Going to End Well One Way or the Other’’"  href="https://daringfireball.net/linked/2025/03/11/rubio-tapper-2016">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>The New Yorker Modernizes a Few Words in Its Style Guide</title>
+	<link rel="alternate" type="text/html" href="https://www.newyorker.com/newsletter/the-daily/the-new-yorker-house-style-joins-the-internet-age" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w5h" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/11/new-yorker-style-modernizations" />
+	<id>tag:daringfireball.net,2025:/linked//6.41669</id>
+	<published>2025-03-11T16:34:01Z</published>
+	<updated>2025-03-12T00:14:32Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Andrew Boynton, head of copy at The New Yorker:</p>
+
+<blockquote>
+  <p>Keen-eyed grammar fans may notice some changes in our pages — and
+in this newsletter. Last fall, David Remnick, the editor,
+suggested convening a group to talk about the magazine’s house
+style, to see if any rules might bear reëxamination. The group — comprising copy editors, current and former, and editors — met
+this past January and came up with a list of styles that might
+qualify for changes, and in a subsequent meeting the following
+month the director of copy and production and I came up with a
+limited list of proposals. It was decided that, while no one
+wanted to change some of the long-standing “quirky” styles
+(teen-ager, per cent, etc.), some of newer vintage could go. Along
+with a few other changes, “in-box” is now “inbox,” “Web site” is
+now “website,” “Internet” is now “internet,” and “cell phone” is
+now “cellphone” (though everyone acknowledges that the word “cell”
+in this context will soon disappear altogether).</p>
+
+<p>Some of you may lament the changes as being radically modern,
+while others are likely to greet them as long overdue. <em>Welcome to
+1995</em>, you may be thinking. (Italicized thoughts are new, too.)
+Regardless, it should be noted that the diaeresis (see that
+“reëxamination,” above) has overwhelming support at the magazine,
+and will remain.</p>
+</blockquote>
+
+<p>I’m in favor of all these changes except for lowercasing “Internet”. I actually started lowercasing it years ago — I think right around <a href="https://www.ap.org/the-definitive-source/products-and-services/ready-to-lowercase-internet-and-web/">when the AP changed its style</a> — but I was chatting post-<a href="https://dithering.fm/">Dithering</a> with Ben Thompson a week or two ago and he offhandedly mentioned that lowercasing “internet” is a pet stylistic peeve of his, because there’s only one Internet. He said that and I was like, <em>Yeah! — But so why did I start lowercasing it?</em> The Internet is a lot like the Earth. It’s everywhere. It is our universe, in a sense, from the human-scale perspective. But it’s a unique and distinct thing, thus deserving to be treated as a proper noun. (The universe doesn’t get capitalized because while it’s a one-off, it’s not a name. We speak of <em>the universe</em> like we speak of <em>the planet</em>, which is lowercase.) It’s almost <a href="https://www.cartoonstock.com/cartoon?searchID=CC145273">disrespectful</a> to lowercase it, and the Internet is one of the great achievements in the history of mankind.</p>
+
+<div>
+<a  title="Permanent link to ‘The New Yorker Modernizes a Few Words in Its Style Guide’"  href="https://daringfireball.net/linked/2025/03/11/new-yorker-style-modernizations">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>New MLB Caps Are So Fugly They Make MAGA Hats Look Well-Designed</title>
+	<link rel="alternate" type="text/html" href="https://www.sbnation.com/mlb/2025/3/10/24382064/mlb-new-overlap-hats-tetas-anaels-new-era" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w5g" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/11/new-mlb-caps" />
+	<id>tag:daringfireball.net,2025:/linked//6.41668</id>
+	<published>2025-03-11T15:55:12Z</published>
+	<updated>2025-03-11T19:16:04Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>If these caps were a <em>student project</em> it’d get an F. Who thinks you can print one logo on top of another? They look like mistakes, like caps that got run through the embroidery machine twice. The only good one <a href="https://daringfireball.net/misc/2025/03/ashos-cap.jpeg">is for the “ASHOS”</a>, which comes close to the actual word everyone uses for that team of cheaters.</p>
+
+<p><strong>Update, 3pm ET:</strong> It looks like maybe MLB and New Era (the hatmakers) <a href="https://www.mlbshop.com/?query=overlap&amp;_ref=p-HP%3Am-SEARCH">have put the whole lineup of caps out of their misery</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘New MLB Caps Are So Fugly They Make MAGA Hats Look Well-Designed’"  href="https://daringfireball.net/linked/2025/03/11/new-mlb-caps">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	
+	<link rel="alternate" type="text/html" href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=RSS&amp;utm_campaign=q12025" />
+	<link rel="shorturl" href="http://df4.us/w5f" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2025/03/workos_scalable_secure_authent" />
+	<id>tag:daringfireball.net,2025:/feeds/sponsors//11.41667</id>
+	<author><name>Daring Fireball Department of Commerce</name></author>
+	<published>2025-03-11T15:07:27Z</published>
+	<updated>2025-03-15T17:06:36Z</updated>
+	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
+<p>Modern authentication should be seamless and secure.  WorkOS makes it easy to integrate features like MFA, SSO, and RBAC.</p>
+
+<p>Whether you’re replacing passwords, stopping fraud, or adding enterprise auth, WorkOS can help you build frictionless auth that scales. </p>
+
+<p>Future-proof your authentication stack with the identity layer trusted by OpenAI, Cursor, Perplexity, and Vercel.  </p>
+
+<p>Upgrade your auth today. </p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS: Scalable, Secure Authentication’"  href="https://daringfireball.net/feeds/sponsors/2025/03/workos_scalable_secure_authent">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+	<title>[Sponsor] WorkOS: Scalable, Secure Authentication</title></entry><entry>
+	<title>Josh Marshall on Kevin Drum</title>
+	<link rel="alternate" type="text/html" href="https://talkingpointsmemo.com/edblog/remembering-kevin-drum" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w5e" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/11/marshall-drum" />
+	<id>tag:daringfireball.net,2025:/linked//6.41666</id>
+	<published>2025-03-11T14:43:51Z</published>
+	<updated>2025-03-11T14:44:10Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Josh Marshall:</p>
+
+<blockquote>
+  <p>I think more than anything I admired Kevin’s restraint and his
+caution. Blogging is a hustle and the incentives for hyperbole and
+breathlessness are endless. That makes most people easy to ignore.
+But Kevin — who had a whole career in the normal-person rat race
+before he started this — sweated the details. He had a serious
+mind for facts and numbers and he knew how to work with data. His
+posts were always overflowing with numbers and charts and levels
+of detail and nitty gritty I couldn’t pile into my brain because I
+was too scattered and unfocused. When he said something, you had
+to take it seriously. When he disagreed with you, you knew it was
+time to re-check your work. Kevin was almost all signal and very
+little noise. That was his defining mark.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘Josh Marshall on Kevin Drum’"  href="https://daringfireball.net/linked/2025/03/11/marshall-drum">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Kevin Drum, Pioneering Political Blogger and Columnist, Dies at 66</title>
+	<link rel="alternate" type="text/html" href="https://jabberwocking.com/health-update-100/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w5d" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/11/kevin-drum" />
+	<id>tag:daringfireball.net,2025:/linked//6.41665</id>
+	<published>2025-03-11T14:31:36Z</published>
+	<updated>2025-03-11T18:11:18Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Marian Drum, posting yesterday on Kevin Drum’s site:</p>
+
+<blockquote>
+  <p>With a heavy heart, I have to tell you that after a long battle
+with cancer my husband Kevin Drum passed away on Friday, March
+7, 2025.</p>
+
+<p>No public memorial services are planned.</p>
+
+<p>In lieu of flowers, please donate to the charity or political
+cause of your choice.</p>
+</blockquote>
+
+<p>He was writing right up until the end. No one, on either side of the political spectrum, better wrote about “<a href="https://jabberwocking.com/?s=dei">DEI</a>”. Just in the last week, he had posts on <a href="https://jabberwocking.com/trump-plans-to-halt-arms-to-ukraine-sanctions-on-russia/">Ukraine/Russia</a>, the LA Times’s <a href="https://jabberwocking.com/la-times-bias-meter-goes-live/">stupid new AI-generated “bias meter”</a>, the <a href="https://jabberwocking.com/smoke-and-mirrors-budgeting-is-everywhere/">looming congressional budget crisis</a>, <a href="https://jabberwocking.com/destruction-of-canada-begins-tomorrow/">Trump’s tariff crusade</a>. He remained on top of everything that’s going on, not only while cancer was killing him, but while he was stoically keeping his readers fully abreast of his declining health. I mean, Christ, <a href="https://jabberwocking.com/health-update-89/">read this update from February 12</a> — I thought that was it. Dying from cancer is harrowing. He knew the end was near, and as with everything he wrote in his long career, <a href="https://jabberwocking.com/health-update-99/">he had the numbers to back it</a>.</p>
+
+<p>I didn’t know Drum personally at all, but there’s a certain kinship amongst bloggers from the very turn of the century. I’ve read Drum’s site continuously for over 20 years and I don’t know anyone whose style and approach can fill the void he leaves. He was obviously a very kind and generous person, but his approach to policy was ruthlessly (and thus to me, admirably) data and evidence driven. Strong opinions, loosely held. He brimmed with curiosity. <em>Who</em>, <em>what</em>, <em>when</em>, and <em>where</em> are all good questions but <em>why</em> is the most interesting one, and Drum always wanted to figure out <em>why</em>. I sure didn’t get his love for cats, but I’m also so glad he shared stuff like that. His approach to actual politics could come across as wonky, but his personality was always there. As natural-born a blogger as anyone who’s ever done it.</p>
+
+<p>I miss his voice already.</p>
+
+<div>
+<a  title="Permanent link to ‘Kevin Drum, Pioneering Political Blogger and Columnist, Dies at 66’"  href="https://daringfireball.net/linked/2025/03/11/kevin-drum">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Front Page Tech on a New UI Style for iOS 19, Back on January 17</title>
+	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=HaP_q9W3AQE" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w5c" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/10/fpt-ios-19" />
+	<id>tag:daringfireball.net,2025:/linked//6.41664</id>
+	<published>2025-03-11T01:00:19Z</published>
+	<updated>2025-03-11T01:15:06Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jon Prosser, <a href="https://www.youtube.com/watch?v=HaP_q9W3AQE">in a YouTube video</a> with mocked-up animations showing exactly what he’s talking about, 51 days ago:</p>
+
+<blockquote>
+  <p>Today we have your very first exclusive look at the changes coming
+to iOS 19 — with a redesigned camera app and possibly ... a
+redesigned iOS.</p>
+</blockquote>
+
+<p>Basic idea is something very much akin to the look and feel of VisionOS, but brought to the Camera app, and perhaps throughout the entire system (or just parts of it) in iOS 19. Seems cool, seems fresh, and seems aligned with where Apple has been heading.</p>
+
+<p>Here’s Parker Ortolani, himself a talented designer with a particularly keen eye for trends, <a href="https://parker.micro.blog/2025/02/04/apple-invites-screams-that-an.html">writing on his blog February 4 after Apple Invites debuted</a>:</p>
+
+<blockquote>
+  <p>The rumored <a href="https://www.apple.com/newsroom/2025/02/introducing-apple-invites-a-new-app-that-brings-people-together/">Apple Invites</a> app has arrived. While I
+obviously haven’t had much time to play with it, I have quickly
+browsed through the UI and wanted to share some observations. The
+last new Apple app, Apple Sports, already felt out of place in iOS
+18. It has a more visionOS or watchOS-like design language
+utilizing colorful backgrounds, glassy floating UI elements,
+expanding buttons, and lots of layered shapes. Apple Invites takes
+it all even further. It’s got big beautiful cards, translucent
+cells, big bold buttons, and an emphasis on content. It feels so
+clearly like a hint of what is to come in a future iOS update.
+It’s almost screaming it in our faces. It seems awfully suspect
+that Apple’s two latest apps have a whole new design language that
+does not mesh with the rest of the OS.</p>
+</blockquote>
+
+<p>Now comes today, with <a href="https://www.bloomberg.com/news/articles/2025-03-10/apple-readies-dramatic-design-overhauls-for-ios-19-ipados-19-and-macos-16">Mark Gurman dropping this vagueness at Bloomberg</a>:</p>
+
+<blockquote>
+  <p>The revamp — due later this year — will fundamentally change the
+look of the operating systems and make Apple’s various software
+platforms more consistent, according to people familiar with the
+effort. That includes updating the style of icons, menus, apps,
+windows and system buttons. As part of the push, the company is
+working to simplify the way users navigate and control their
+devices, said the people, who asked not to be identified because
+the project hasn’t been announced. The design is loosely based on
+the Vision Pro’s software, they said.</p>
+</blockquote>
+
+<p>That’s it. No screenshots. No mockups. No specific description of the changes. Just “loosely based on the Vision Pro’s software”. Jon Prosser not only said this was coming, but commissioned full, realistic animations to illustrate it, <em>51 days ago</em>. And astute observers like Ortolani <a href="https://www.youtube.com/watch?v=RlDeXwQSay8">and others</a> have observed, for over a month, that Apple itself is starting to hint at this new design language in its own already-shipping new apps for iOS.</p>
+
+<p>I’m so old I remember when YouTubers made videos about months-old Gurman stories, not the other way around. There’s weak sauce, and then there’s eating paste.</p>
+
+<div>
+<a  title="Permanent link to ‘Front Page Tech on a New UI Style for iOS 19, Back on January 17’"  href="https://daringfireball.net/linked/2025/03/10/fpt-ios-19">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Yours Truly Guesting on ‘Upgrade’ With Jason Snell</title>
+	<link rel="alternate" type="text/html" href="https://www.relay.fm/upgrade/554" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w5b" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/10/yours-truly-guesting-on-upgrade-with-jason-snell" />
+	<id>tag:daringfireball.net,2025:/linked//6.41663</id>
+	<published>2025-03-10T22:26:56Z</published>
+	<updated>2025-03-10T22:26:56Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Upgrade:</p>
+
+<blockquote>
+  <p>It’s been a quiet week, so John Gruber briefly joins Jason to
+discuss Apple’s AI delay, new Macs, new iPads, and the future of
+Apple regulation worldwide.</p>
+</blockquote>
+
+<p>Recorded earlier today, so it covers, somehow, all of last week’s Apple news — and last week was a kind of crazy week in Appletown. I even squeezed in some parenting advice for Myke Hurley, who’s out on paternity leave.</p>
+
+<div>
+<a  title="Permanent link to ‘Yours Truly Guesting on ‘Upgrade’ With Jason Snell’"  href="https://daringfireball.net/linked/2025/03/10/yours-truly-guesting-on-upgrade-with-jason-snell">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>The Talk Show: ‘Putting a Stink on the Letter X’</title>
+	<link rel="alternate" type="text/html" href="https://daringfireball.net/thetalkshow/2025/03/08/ep-418" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w5a" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/08/the-talk-show-418" />
+	<id>tag:daringfireball.net,2025:/linked//6.41662</id>
+	<published>2025-03-09T01:41:00Z</published>
+	<updated>2025-03-09T01:41:01Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Craig Hockenberry returns to the show. Topics include Apple’s new hardware this week — M3 iPad Airs, A16 regular iPads, M4 MacBook Airs, and the M4 Max and surprising M3 Ultra Mac Studios. And we go deep on The Iconfactory’s years-in-the-making new app, <a href="https://usetapestry.com/">Tapestry</a> — a universal timeline for the Internet.</p>
+
+<p><audio
+    src = "https://traffic.libsyn.com/secure/daringfireball/thetalkshow-418-craig-hockenberry.mp3"
+    controls
+    preload = "none"
+/></p>
+
+<p>Exclusively sponsored by:</p>
+
+<ul>
+<li><a href="https://gemini.google.com/">Google Gemini</a>: Chat to supercharge your ideas.</li>
+</ul>
+
+<div>
+<a  title="Permanent link to ‘The Talk Show: ‘Putting a Stink on the Letter X’’"  href="https://daringfireball.net/linked/2025/03/08/the-talk-show-418">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/03/apple_is_delaying_the_more_personalized_siri_apple_intelligence_features" />
+	<link rel="shorturl" href="http://df4.us/w54" />
+	<id>tag:daringfireball.net,2025://1.41656</id>
+	<published>2025-03-07T16:32:00Z</published>
+	<updated>2025-03-12T23:28:33Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">This announcement is disappointing, but unsurprising. If it’s Apple’s general policy not to ship a product before it’s ready, that applies tenfold for a product involving LLM access to deeply private on-device information.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>Here’s a statement I got this morning from Apple spokeswoman Jacqueline Roy, verbatim:</p>
+
+<blockquote>
+  <p>“Siri helps our users find what they need and get things done
+quickly, and in just the past six months, we’ve made Siri more
+conversational, introduced new features like type to Siri and
+product knowledge, and added an integration with ChatGPT. We’ve
+also been working on a more personalized Siri, giving it more
+awareness of your personal context, as well as the ability to take
+action for you within and across your apps. It’s going to take us
+longer than we thought to deliver on these features and we
+anticipate rolling them out in the coming year.”</p>
+</blockquote>
+
+<p>This is a Friday sort of <em>wah-waaah</em> sad-trombone news drop, but it’s good that Apple is getting on top of it, and setting expectations accurately.</p>
+
+<p>Reading between the lines, and based on my PhD-level fluency in Cupertino-ese, what Apple is saying here is that these “more personalized Siri” features are being punted from this year’s OS cycle to next year’s: to iOS 19 and MacOS 16. Apple’s <em>years</em> in this context aren’t calendar years, but Apple’s OS product years. Those years effectively start at WWDC. The problem, from Apple’s perspective, messaging-wise, is that they don’t talk about future products. They haven’t officially acknowledged there is going to be an iOS 19 or MacOS 16. They haven’t even yet announced that there’s going to be a WWDC 2025. But they do want to set expectations accurately, especially for a feature as high profile — from Apple’s own marketing push — as Apple Intelligence. So here we are.</p>
+
+<p>It was already pretty obvious these features weren’t coming in iOS 18.4/MacOS 15.4, because they’re not in the developer betas that are already out. And if these features were coming in iOS 18.5/MacOS 15.5, or even iOS 18.6/MacOS 15.6, Apple wouldn’t have felt the need to issue this “It’s going to take us longer than we thought...” statement today. Delivering the “more personalized Siri” in iOS 18.5 or even 18.6 would have been delivering them on the originally announced schedule — the “coming year” that began with WWDC 2024. That would have been the tail end of that “year”, but within it. But Apple, being limited to the self-imposed opaque verbiage of Cupertino-ese, isn’t going to spell that out. But trust me, you can bank on it: what they’re announcing today is that these features are coming in iOS 19/MacOS 16.</p>
+
+<p>Siri <em>has</em> improved in several useful, but iterative, ways under the Apple Intelligence umbrella in this year’s OS cycle (iOS/iPadOS 18 + MacOS 15 Sequoia), but the big “more personalized Siri” that was shown at WWDC last June is the Siri-related Apple Intelligence stuff that people are, justifiably, most excited about. This is the “<a href="https://developer.apple.com/documentation/appintents/integrating-actions-with-siri-and-apple-intelligence">App Intents</a>” stuff — the features requiring Siri to have access to and, effectively, <em>understanding of</em> your personal information, in your apps, stored privately on your devices. These are the most helpful-sounding, most practical, most futuristic features of Apple Intelligence. And they’re the sort of features Apple is almost uniquely positioned to offer, alongside only Google, as the provider of a mobile platform and device ecosystem.</p>
+
+<p><a href="https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/">From Apple’s own announcement</a>, after the WWDC keynote:</p>
+
+<blockquote>
+  <p>Siri will be able to deliver intelligence that’s tailored to the
+user and their on-device information. For example, a user can say,
+“Play that podcast that Jamie recommended,” and Siri will locate
+and play the episode, without the user having to remember whether
+it was mentioned in a text or an email. Or they could ask, “When
+is Mom’s flight landing?” and Siri will find the flight details
+and cross-reference them with real-time flight tracking to give an
+arrival time.</p>
+</blockquote>
+
+<p>“When is Mom’s flight landing?” is easily understood, by we humans, and a really good example of the sort of Siri interaction that would be obviously useful. But you can also pretty easily see how complex it is on Apple’s side. Siri has long been able to do the “Mom” thing. Your spouse, your kids — you’ve long able to tell Siri to call or text those people by nickname like that. But getting your mom’s flight information out of your email (which I think was the premise of this demo in the WWDC keynote — that the flight info was stored in a message in Mail) or from text messages, and then knowing how to check for current flight status information for <em>that</em> flight, is something far beyond the ken of current Siri. Getting the information requires access to your most personal information — your own email and messages. Getting the <em>correct</em> information from your messages requires the common sense of understanding that you’re obviously asking about some sort of <em>current</em> trip your mom is taking, not, say, an email she sent you about a flight back in 2019, or one from 2022, or even one from December last year. The Siri we currently know <a href="https://daringfireball.net/2025/01/siri_is_super_dumb_and_getting_dumber">lacks that sort of common sense</a>. And then lastly, after getting the correct flight from your email, performing this task requires Siri to have the agency to go look up the current status of that particular flight — and get it right <em>every time</em> it provides an answer.</p>
+
+<p>If Siri answers, “Your mom’s flight is arriving at 4:30 this afternoon, and it’s currently showing an on-time arrival,” you really want that information to be correct if you’ve promised to pick her up at the airport. You’ll be annoyed if you drive to the airport and it turns out she’s not actually landing until 7:30. And you’ll be in <em>real</em> trouble if she’s landing at 1:30 and you show up three hours later, having banked on Siri’s answer being accurate.</p>
+
+<hr />
+
+<p>It’s very unusual, to say the least, for Apple to announce a product delay.<sup id="fnr1-2025-03-07"><a href="#fn1-2025-03-07">1</a></sup> The white iPhone 4 was supposed to debut alongside the black one in June 2010, but, bizarrely, was delayed several times (<a href="https://daringfireball.net/2010/10/anthropomorphized_white_iphone_4">which I had fun with</a> more than <a href="https://www.businessinsider.com/apple-writer-john-gruber-that-white-iphone-i-tweeted-about-was-a-toy-2010-11">once</a>) and wound up not shipping <a href="https://daringfireball.net/linked/2011/04/27/jobs-schiller">until the end of April the next year</a>, 10 months late. The original AirPods were announced alongside the iPhones 7 in September 2016, and were supposed to ship in October. They wound up being delayed until December. Apple’s statement in October 2016, regarding the AirPods being delayed, <a href="https://techcrunch.com/2016/10/26/apple-delays-airpod-rollout-dont-expect-them-in-october/">as given to Matthew Panzarino at TechCrunch</a>:</p>
+
+<blockquote>
+  <p>“The early response to AirPods has been incredible. We don’t
+believe in shipping a product before it’s ready, and we need a
+little more time before AirPods are ready for our customers.”</p>
+</blockquote>
+
+<p>This is exactly why Apple hews to an almost religious policy of not announcing products before they’re ready. When they <em>do</em> make exceptions — when they lapse, as it were, as cited above (<a href="#fn1-2025-03-07">and below</a>) — they often regret it. You can’t break a promise you never made, and you can’t miss a ship date you never announced. Even with talented teams and realistic managers, there’s often a long span between how long you expect a project to take and how long it actually winds up taking. Engineering schedules often slip even with predictable technologies, and the non-deterministic nature of LLMs makes their future inherently unpredictable.</p>
+
+<p>Most of Apple Intelligence has felt like Apple has pushed it out a year ahead of the company’s usual level of baked-ness. I’ve held all year long that if the entire industry — along with Wall Street — weren’t in the midst of a generative-AI/LLM mania, that “Apple Intelligence” wouldn’t have been announced until this year’s WWDC, not last year’s. Today’s announcement is disappointing, but to me utterly unsurprising. The Siri integration with personal data through App Intents has never felt like something that was going to be ready for real customer usage in this year’s OS cycle. And if it’s Apple’s general policy not to ship a product before it’s ready, that applies tenfold for a product involving LLM access to deeply private on-device information. It’s better to ship late, but ready, than to ship something unfinished or unreliable to hit a promised deadline. And with something like next-generation Siri, I’d say that’s downright essential. Apple can take the bad publicity today’s announcement is engendering; they cannot afford to squander the trust of their users.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1-2025-03-07">
+<p>The granddaddy of modern-era Apple product delays, of course, is <a href="https://daringfireball.net/search/airpower">AirPower</a> — the multi-device (iPhones, Apple Watch, AirPods) charging device that Apple pre-announced in September 2017, alongside the iPhone X and iPhone 8. When announced, Apple said AirPower would ship in “2018”. It wound up never shipping, but the plug wasn’t officially pulled (so to speak) <a href="https://daringfireball.net/linked/2019/03/29/airpower-canceled">until 29 March 2019</a>, an absurd 18 months after it was announced.&nbsp;<a href="#fnr1-2025-03-07"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
+</li>
+</ol>
+</div>
+
+
+
+    ]]></content>
+  <title>★ Apple Is Delaying the ‘More Personalized Siri’ Apple Intelligence Features</title></entry><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/03/abc_shuts_down_fivethirtyeight" />
+	<link rel="shorturl" href="http://df4.us/w50" />
+	<id>tag:daringfireball.net,2025://1.41652</id>
+	<published>2025-03-06T16:12:37Z</published>
+	<updated>2025-03-07T00:06:25Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">From the perspective of a company the size of Disney, it would cost veritable pennies to keep FiveThirtyEight’s website around forever. What a disgrace.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>Oliver Darcy, reporting at Status (paywalled, alas), <a href="https://www.status.news/p/abc-news-layoffs">on the sudden demise of FiveThirtyEight</a>:</p>
+
+<blockquote>
+  <p>On Wednesday morning, shortly after sending an all-staff memo
+announcing layoffs at ABC News, network president Almin
+Karamehmedovic joined a virtual meeting with the FiveThirtyEight
+team. The 15 staffers at the political analysis site owned by ABC
+News had learned the previous evening — via a Wall Street Journal
+report — that they were being let go. Now, they were hearing it
+from Karamehmedovic himself.</p>
+
+<p>But Karamehmedovic, like other managers carrying out mass layoffs
+at ABC News that day, had little to say about it. I’m told he
+appeared to be reading from a script as he delivered the
+devastating news. He offered no explanation for why the
+Disney-owned network had decided to shutter FiveThirtyEight, which
+it acquired in 2018 along with data whiz and then-editor Nate
+Silver. He took no questions. He simply thanked the employees for
+their work, told them a human resources staffer would follow up,
+and ended the meeting. The entire affair, I’m told, lasted about
+15 minutes. Soon after, employees had their access to ABC News’
+systems shut off and the FiveThirtyEight website was <a href="https://abcnews.go.com/538">pulled
+offline</a>. Just like that, it was over.</p>
+</blockquote>
+
+<p>Business is business, and layoffs and closures are never anything but traumatic. But there’s a right way to do things and a wrong way. And one of the wrong ways is having the staff find out they’re all fired by <a href="https://www.wsj.com/business/media/disney-to-cut-nearly-6-staff-across-abc-news-disney-entertainment-networks-8af04b40">reading it from The Wall Street Journal</a>. This guy Karamehmedovic sounds like a real Grade-A dickhead.</p>
+
+<p>And what is the deal with these companies that just unceremoniously pull the plug on websites when they close them? Why not keep the FiveThirtyEight site up and running — at least for a while, if not in perpetuity? It costs practically nothing to run a server for a static/archived website. I don’t get it. It betrays a profound level of disrespect for the work that the site hosted. It’s ABC’s business if they want to close FiveThirtyEight as an ongoing concern, but the years of work deserves to remain online, both out of respect for the people who made it <em>and</em> for the audience that might still want to refer to it. Disney didn’t burn the movies from now-closed subsidiary studios like <a href="https://en.wikipedia.org/wiki/Touchstone_Pictures">Touchstone Pictures</a>.</p>
+
+<p>There’s a vast gulf between the old world of print and the new world of online publishing. The difference is profound, but largely overlooked, because it’s human nature to just adapt to the nature of different forms of media and quickly accept current media forms as “normal”. With print, issues were largely ephemeral to the audience. You’d get a newspaper every day, and magazines every week or month, and you’d throw them out after you’d finished reading them. If you wanted to look back at what the paper had published about something a year, a month, or even just a few days ago, you were out of luck, in terms of being able to just look it up on the spot. Librarians did the yeoman’s work of archiving newspapers and magazines to microfilm, so nothing was truly gone or forgotten, but it was an enormous hassle to access microfilm archives. You pretty much had to know the dates of the issues you wanted to see, and you had to do the “searching” with your eyeballs, page by page. The ability of anyone, today, to just instantly access week-, month-, year-, and even decades-old stories is a breathtaking advantage of web publications. And for the last 15 years or so, we’ve had the ability to do this from little machines we all carry in our pockets everywhere we go. It’s truly remarkable.</p>
+
+<p>But the standard behavior when closing a web publication is to just pull the plug. When the whole company goes under, that’s one thing. But when there’s a parent company, especially a thriving one, there’s no justification for pulling the plug other than spiteful disregard for the work. From the perspective of a company the size of Disney, it would cost veritable pennies to keep FiveThirtyEight’s website around forever. What a disgrace.</p>
+
+
+
+    ]]></content>
+  <title>★ ABC Shuts Down FiveThirtyEight, and Pulls the Plug on Its Website</title></entry><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/03/why_cant_we_screenshot_frames_from_drm-protected_video" />
+	<link rel="shorturl" href="http://df4.us/w4a" />
+	<id>tag:daringfireball.net,2025://1.41626</id>
+	<published>2025-03-01T20:22:20Z</published>
+	<updated>2025-03-01T20:24:12Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">This “feature” accomplishes nothing of value for anyone, including the streaming services, but imposes a massive (and for most people, confusing and frustrating) hindrance on honest people simply trying to easily capture high-quality (as opposed to, say, using their damn phone to take a photograph of their reflective laptop display) screenshots of the shows and movies they’re watching.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>Nora Deligter, writing for Screen Slate in June 2023, “<a href="https://www.screenslate.com/articles/elegy-screenshot">Elegy for the Screenshot</a>”:</p>
+
+<blockquote>
+  <p>About five years ago, Catherine Pearson started taking screenshots
+of every bouquet featured on <em>The Nanny</em> (1993–1999), the
+six-season CBS sitcom that was then streaming on Netflix. She was
+just becoming a florist, and she found the arrangements — ornate,
+colorful, and distinctly tropical — inspirational. She now keeps
+them in a folder on her desktop, alongside screenshots of flower
+arrangements featured on <em>Poirot</em> (1989–2013), the British
+detective drama. A few months ago, however, Pearson suddenly found
+that when her fingers danced instinctively toward Command-Shift-3,
+she was greeted by a black box where her flowers used to be, a
+censored version of what she had meant to capture.</p>
+
+<p>It was around this time when streaming platforms like Netflix, HBO
+Max, Amazon Prime, and the Criterion Channel imposed a quiet
+embargo on the screenshot. At first, there were workarounds: users
+could continue to screenshot by using the browser Brave or by
+downloading extensions or third-party tools like Fireshot. But
+gradually, the digital-rights-management tech adapted and became
+more sophisticated. Today, it is nearly impossible to take a
+screenshot from the most popular streaming services, at least not
+on a Macintosh computer. [...]</p>
+
+<p>For PC users, this story takes a different, and happier, turn.
+With the use of Snipping Tool — a utility exclusive to Microsoft
+Windows, users are free to screen grab content from all streaming
+platforms. This seems like a pointed oversight, a choice on the
+part of streamers to exclude Mac users (though they make up a tiny
+fraction of the market) because of their assumed cultural class.
+This assumption isn’t unreasonable. Out of everyone interviewed
+for this article, only one of them was a PC user.</p>
+</blockquote>
+
+<p>Deligter’s essay has been sitting in my long (and ever-growing) list of things to link to ever since she published it back in 2023. I referenced it in <a href="https://daringfireball.net/linked/2025/03/01/green-imessage-disappearing-messages">my post earlier today</a> re: <a href="https://blog.cryptographyengineering.com/2025/03/01/dear-apple-add-disappearing-messages-to-imessage-right-now/">Matthew Green’s entreaty to Apple</a> to add “disappearing messages” to iMessage, and re-reading it made me annoyed enough to finally write about it.</p>
+
+<p>I’m not entirely sure what the technical answer to this is, but on MacOS, it seemingly involves the GPU and video decoding hardware. These DRM blackouts happen at such a low level that no high-level software — any sort of utility you might install — can route around them. I think Windows still offers easy screenshotting of frames from DRM video not because the streaming services somehow don’t care about what Windows users do (which, when you think about it, would be a weird thing <em>not</em> to care about, given Windows’s market share), but because Windows uses a less sophisticated imaging pipeline. Or perhaps rather than less <em>sophisticated</em>, it’s more accurate to say less <em>integrated</em>. These DRM blackouts on Apple devices (you can’t capture screenshots from DRM video on iPhones or iPads either) are enabled through the deep integration between the OS and the hardware, thus enabling the blackouts to be imposed at the hardware level. And I don’t think the streaming services opt into this screenshot prohibition other than by “protecting” their video with DRM in the first place. If a video is DRM-protected, you can’t screenshot it; if it’s not, you can.</p>
+
+<p>On the Mac, it used to be the case that DRM video was blacked-out from screen capture in Safari, but not in Chrome (or the dozens of various Chromium-derived browsers). But at some point a few years back, you stopped being able to capture screenshots from DRM videos in Chrome, too — <em>by default</em>. But in Chrome’s Settings page, under System, if you disable “Use graphics acceleration when available” and relaunch Chrome, boom, you can screenshot everything in a Chrome window, including DRM video. You can go to the magic URL <code>chrome://gpu/</code> before and after toggling this setting to see a full report on the differences — as you’d expect, it turns off all hardware acceleration for video encoding/decoding, compositing, and more. You wouldn’t want to browse like this all the time (certainly not on battery power), but it’s a great trick to know for capturing stills from videos.</p>
+
+<p>What I don’t understand is why Apple bothered supporting this in the first place for hardware-accelerated video (which is all video on iOS platforms — there is no workaround like using Chrome with hardware acceleration disabled on iPhone or iPad). No one is going to create bootleg copies of DRM-protected video one screenshotted still frame at a time — and even if they tried, they’d be capturing only the images, not the sound. And it’s not like this “feature” in MacOS and iOS has put an end to bootlegging DRM-protected video content. This “feature” accomplishes nothing of value for anyone, including the streaming services, but imposes a massive (and for most people, confusing and frustrating) hindrance on honest people simply trying to easily capture high-quality (as opposed to, say, using their damn phone to take a photograph of their reflective laptop display) screenshots of the shows and movies they’re watching.</p>
+
+
+
+    ]]></content>
+  <title>★ Why Can’t We Screenshot Frames From DRM-Protected Video on Apple Devices?</title></entry><entry>
+	
+	<link rel="alternate" type="text/html" href="https://workos.com/radar?utm_source=daringfireball&amp;utm_medium=RSS&amp;utm_campaign=q12025" />
+	<link rel="shorturl" href="http://df4.us/w3p" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2025/02/protect_your_app_with_workos_r_2" />
+	<id>tag:daringfireball.net,2025:/feeds/sponsors//11.41605</id>
+	<author><name>Daring Fireball Department of Commerce</name></author>
+	<published>2025-02-24T22:22:34Z</published>
+	<updated>2025-02-24T22:22:35Z</updated>
+	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
+<p>Does your app get fake signups, throwaway emails, or users abusing your free tier? Or worse, bots attacks and brute force attempts?</p>
+
+<p>WorkOS Radar can block all this and more. A simple API gives you advanced device fingerprinting that can detect bad actors, bots, and suspicious behavior.</p>
+
+<p>Your users trust you. Let’s keep it that way.</p>
+
+<div>
+<a  title="Permanent link to ‘Protect Your App With WorkOS Radar’"  href="https://daringfireball.net/feeds/sponsors/2025/02/protect_your_app_with_workos_r_2">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+	<title>[Sponsor] Protect Your App With WorkOS Radar</title></entry></feed><!-- THE END -->
