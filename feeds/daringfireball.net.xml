@@ -7,14 +7,14 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-03-20T14:08:47Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-03-20T14:10:04Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>HealthKit as a Model for an Open Semantic Index From Apple</title>
 	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2025/03/19/apple-needs-to-get-out-of-the-way-with-ai" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w6x" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/20/healthkit-as-a-model-for-an-open-semantic-index-from-apple" />
 	<id>tag:daringfireball.net,2025:/linked//6.41721</id>
 	<published>2025-03-20T14:08:11Z</published>
-	<updated>2025-03-20T14:08:47Z</updated>
+	<updated>2025-03-20T14:10:04Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -32,7 +32,14 @@ things an iPhone can track, but third-party apps and devices are
 welcome participants, in a private, easily-understood way.</p>
 </blockquote>
 
-<p>Nobody is suggesting Apple should give up on AI. Quite the opposite. They really need to go from being <a href="https://daringfireball.net/linked/2025/03/19/hey-siri-what-month-is-it">a joke</a> to being good at it, fast. But there’s no reason at all they should build out a strategy that relies on Apple doing it all of it themselves, and Apple users relying solely on Apple’s own AI. Do it like Health — a model that has proven to be profitable (for Apple itself, selling devices like Watches), popular (with users, who actually use it, understand it, and like it), and open to third-party developers, device makers, and medical service providers.</p>
+<p>Nobody is suggesting Apple should give up on AI. Quite the opposite. They really need to go from being <a href="https://daringfireball.net/linked/2025/03/19/hey-siri-what-month-is-it">a joke</a> to being good at it, fast. But there’s no reason at all they should build out a strategy that relies on Apple doing it all of it themselves, and Apple users relying solely on Apple’s own AI. Do it like Health — a model that has proven to be:</p>
+
+<ul>
+<li>profitable (for Apple itself, selling devices like Watches);</li>
+<li>popular (with users, who actually use it, understand it, and like it);</li>
+<li>private;</li>
+<li>and open to third-party developers, device makers, and medical service providers.</li>
+</ul>
 
 <p>(<a href="https://mastodon.social/@williamw/114191747428238280">Thanks to Bill Welense</a> for the suggestion.)</p>
 
