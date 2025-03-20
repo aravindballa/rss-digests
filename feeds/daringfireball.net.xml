@@ -7,7 +7,78 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-03-20T14:10:04Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-03-20T16:27:04Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Gurman: Tim Cook Has Put Mike Rockwell in Charge of Siri, Reporting to Craig Federighi</title>
+	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2025-03-20/apple-vision-pro-chief-mike-rockwell-named-siri-head-giannandrea-keeps-ai-role" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w6y" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/20/gurman-rockwell-siri" />
+	<id>tag:daringfireball.net,2025:/linked//6.41722</id>
+	<published>2025-03-20T16:26:42Z</published>
+	<updated>2025-03-20T16:27:04Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Mark Gurman, with a blockbuster scoop for Bloomberg:</p>
+
+<blockquote>
+  <p>Apple Inc. is undergoing a rare shake-up of its executive ranks,
+aiming to get its artificial intelligence efforts back on track
+after months of delays and stumbles, according to people familiar
+with the situation.</p>
+
+<p>Chief Executive Officer Tim Cook has lost confidence in the
+ability of AI head John Giannandrea to execute on product
+development, so he’s moving over another top executive to help:
+Vision Pro creator Mike Rockwell. In a new role, Rockwell will be
+in charge of the Siri virtual assistant, according to the people,
+who asked not to be identified because the moves haven’t been
+announced.</p>
+
+<p>Rockwell will report to software chief Craig Federighi, removing
+Siri completely from Giannandrea’s command. Apple is poised to
+announce the changes to employees this week. The iPhone maker’s
+senior leaders — a group known as the Top 100 — just met at a
+secretive, annual offsite gathering to discuss the future of the
+company. Its AI efforts were a key talking point at the summit,
+Bloomberg News has reported. [...]</p>
+</blockquote>
+
+<p>My quick take on this is that it’s a turf battle that Craig Federighi just won. It’s not just putting a new executive in charge of Siri, it’s moving Siri under Federighi’s group.</p>
+
+<p>How Gurman got this scoop before Apple had announced the changes — even internally — is rather unbelievable. It’s not “Bloomberg” that got this scoop. It’s Mark Gurman. And trust me, Apple PR did not leak this to him deliberately. I’m sure they’re now accelerating an announcement, at least internally, framing it on their own terms. I can only guess that Gurman hinted at his sourcing in the passage above: Tim Cook must have announced these changes at the Top 100 retreat this week, and at least two of those attendees leaked the news to Gurman. Unprecedented.</p>
+
+<p>Also:</p>
+
+<blockquote>
+  <p>Rockwell is currently the vice president in charge of the Vision
+Products Group, or VPG, the division that developed Apple’s
+headset. As part of the changes, he’ll be leaving that team and
+handing the reins to Paul Meade, an executive who has run hardware
+engineering for the Vision Pro under Rockwell.</p>
+</blockquote>
+
+<p>I don’t find it surprising at all that Rockwell was given this task.</p>
+
+<blockquote>
+  <p>Giannandrea will remain at the company, even with Rockwell taking
+over Siri. An abrupt departure would signal publicly that the AI
+efforts have been tumultuous — something Apple is reluctant to
+acknowledge. Giannandrea’s other responsibilities include
+oversight of research, testing and technologies related to AI. The
+company also has a team reporting to Giannandrea investigating
+robotics.</p>
+</blockquote>
+
+<p>This I find a little surprising.</p>
+
+<div>
+<a  title="Permanent link to ‘Gurman: Tim Cook Has Put Mike Rockwell in Charge of Siri, Reporting to Craig Federighi’"  href="https://daringfireball.net/linked/2025/03/20/gurman-rockwell-siri">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>HealthKit as a Model for an Open Semantic Index From Apple</title>
 	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2025/03/19/apple-needs-to-get-out-of-the-way-with-ai" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w6x" />
@@ -1794,62 +1865,6 @@ a lawsuit, but those numbers really can’t be anything else.</p>
 
 <div>
 <a  title="Permanent link to ‘The Legend of Larry Owl’"  href="https://daringfireball.net/linked/2025/03/14/the-legend-of-larry-owl">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>U.S. Lawmakers Urge U.K. Secretive Investigatory Powers Tribunal to Hold Public Hearing Regarding Demand for Secret iCloud Backdoor</title>
-	<link rel="alternate" type="text/html" href="https://techcrunch.com/2025/03/14/us-lawmakers-urge-uk-spy-court-to-hold-apple-backdoor-secret-hearing-in-public/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w5s" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/14/us-lawmakers-letter-to-ipt" />
-	<id>tag:daringfireball.net,2025:/linked//6.41680</id>
-	<published>2025-03-14T13:44:32Z</published>
-	<updated>2025-03-14T13:44:33Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Zack Whittaker, reporting for TechCrunch:</p>
-
-<blockquote>
-  <p>A group of bipartisan U.S. lawmakers are urging the head of the
-U.K.’s surveillance court to hold an open hearing into Apple’s
-anticipated challenge of an alleged secret U.K. government
-legal demand.</p>
-
-<p>U.S. Senator Ron Wyden, along with four other federal lawmakers,
-said <a href="https://www.wyden.senate.gov/news/press-releases/bipartisan-members-of-congress-to-uk-spy-court-uk-gag-orders-for-surveillance-backdoors-threaten-americans-security-and-privacy-impede-congressional-oversight">in a letter this week</a> to the president of the U.K.’s
-Investigatory Powers Tribunal (IPT) that it is “in the public
-interest” that any hearings about the alleged order are not held
-in secret.</p>
-</blockquote>
-
-<p><a href="https://www.wyden.senate.gov/news/press-releases/bipartisan-members-of-congress-to-uk-spy-court-uk-gag-orders-for-surveillance-backdoors-threaten-americans-security-and-privacy-impede-congressional-oversight">From the letter</a>, signed by Senators Ron Wyden (D-OR) and Alex Padilla (D-CA), and Congresspeople Zoe Lofgren (D-CA), Andy Biggs (R-AZ), and Warren Davidson (R-OH):</p>
-
-<blockquote>
-  <p>We write to request the Investigatory Powers Tribunal (IPT) remove
-the cloak of secrecy related to notices given to American
-technology companies by the United Kingdom, which infringes on
-free speech and privacy, undermines important United States
-Congress and U.K. parliamentary oversight, harms national
-security, and ultimately, undermines the special relationship
-between the United States and the United Kingdom. [...]</p>
-
-<p>Given the significant technical complexity of this issue, as well
-as the important national security harms that will result from
-weakening cybersecurity defenses, it is imperative that the U.K.’s
-technical demands of Apple — and of any other U.S. companies — be subjected to robust, public analysis and debate by
-cybersecurity experts. Secret court hearings featuring
-intelligence agencies and a handful of individuals approved by
-them do not enable robust challenges on highly technical matters.
-Moreover, given the potential impact on U.S. national security, it
-is vital that American cybersecurity experts be permitted to
-analyze and comment on the security of what is proposed.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘U.S. Lawmakers Urge U.K. Secretive Investigatory Powers Tribunal to Hold Public Hearing Regarding Demand for Secret iCloud Backdoor’"  href="https://daringfireball.net/linked/2025/03/14/us-lawmakers-letter-to-ipt">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
