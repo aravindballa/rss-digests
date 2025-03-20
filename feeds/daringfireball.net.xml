@@ -7,7 +7,65 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-03-20T13:30:59Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-03-20T14:08:47Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>HealthKit as a Model for an Open Semantic Index From Apple</title>
+	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2025/03/19/apple-needs-to-get-out-of-the-way-with-ai" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w6x" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/20/healthkit-as-a-model-for-an-open-semantic-index-from-apple" />
+	<id>tag:daringfireball.net,2025:/linked//6.41721</id>
+	<published>2025-03-20T14:08:11Z</published>
+	<updated>2025-03-20T14:08:47Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Here’s an update I just appended to my post yesterday, after linking to <a href="https://shapeof.com/archives/2025/3/how_apple_could_help_developers_with_ai_and_llms.html">Gus Mueller’s suggestion</a> that Apple open up a semantic index to third-party AI apps:</p>
+
+<blockquote>
+  <p>HealthKit already works a lot like what Mueller is suggesting here
+(for, say, “SemanticKit”). With explicit user permission — that
+can be revoked at any time — third party apps can both read from
+and write to your Health data. Apple does a lot of that itself,
+both through Apple Watch and from the various activity-related
+things an iPhone can track, but third-party apps and devices are
+welcome participants, in a private, easily-understood way.</p>
+</blockquote>
+
+<p>Nobody is suggesting Apple should give up on AI. Quite the opposite. They really need to go from being <a href="https://daringfireball.net/linked/2025/03/19/hey-siri-what-month-is-it">a joke</a> to being good at it, fast. But there’s no reason at all they should build out a strategy that relies on Apple doing it all of it themselves, and Apple users relying solely on Apple’s own AI. Do it like Health — a model that has proven to be profitable (for Apple itself, selling devices like Watches), popular (with users, who actually use it, understand it, and like it), and open to third-party developers, device makers, and medical service providers.</p>
+
+<p>(<a href="https://mastodon.social/@williamw/114191747428238280">Thanks to Bill Welense</a> for the suggestion.)</p>
+
+<div>
+<a  title="Permanent link to ‘HealthKit as a Model for an Open Semantic Index From Apple’"  href="https://daringfireball.net/linked/2025/03/20/healthkit-as-a-model-for-an-open-semantic-index-from-apple">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>The M1 MacBook Air Lives on at Walmart, Now Just $650</title>
+	<link rel="alternate" type="text/html" href="https://www.walmart.com/ip/Apple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage/715596133" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w6w" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/20/walmart-macbook-air" />
+	<id>tag:daringfireball.net,2025:/linked//6.41720</id>
+	<published>2025-03-20T13:53:04Z</published>
+	<updated>2025-03-20T13:53:05Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Last March, when Apple introduced the then new M3 MacBook Airs, they moved the base model 13-inch M2 MacBook Air into the magic $999 spot in their own lineup, replacing the M1 MacBook Air. <a href="https://daringfireball.net/linked/2024/03/15/macbook-air-walmart">But mid-March it was announced that Walmart would begin selling the M1 MacBook Air</a> — in one tech-spec configuration (8 GB RAM, 256 SSD), but three colors (gold, silver, space gray) for just $700.</p>
+
+<p>This year <a href="https://daringfireball.net/linked/2025/03/05/apple-announces-with-little-surprise-m4-macbook-airs">Apple replaced the entire lineup of MacBook Airs that it sells itself with M4-based models</a>, including the $999 starting-price model. Online, <a href="https://www.walmart.com/search?q=macbook">Walmart sells a handful of MacBook models now</a>, at, per Walmart’s brand, slightly lower prices than Apple itself. But the one only MacBook they seem to stock in their retail stores is the classic wedge-shaped M1 MacBook Air — now down to $650.</p>
+
+<p>It’s over four years old now, and yes, 8 GB RAM and 256 GB of storage are meager, but it’s almost certainly the best new laptop you can buy for that price. Assuming Apple thinks this partnership is a success, eventually they’ll have to replace this with a more recent MacBook Air. But I suspect the main reason it’s still the M1 Air (and hasn’t been replaced by, say, the M2 Air) is not about the specs or performance, per se, but rather simply how it looks. It looks like an older MacBook. Walmart might not get an updated MacBook with a more-recent-than-M1 chip until Apple refreshes the industrial design on its current MacBook Airs.</p>
+
+<div>
+<a  title="Permanent link to ‘The M1 MacBook Air Lives on at Walmart, Now Just $650’"  href="https://daringfireball.net/linked/2025/03/20/walmart-macbook-air">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘Hey Siri, What Month Is It?’</title>
 	<link rel="alternate" type="text/html" href="https://www.reddit.com/r/iphone/comments/1jehkpm/apple_intelligence_this_apple_intelligence_that/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w6v" />
@@ -225,7 +283,7 @@ iPhone camera experience according to Apple.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/19/apple-needs-to-get-out-of-the-way-with-ai" />
 	<id>tag:daringfireball.net,2025:/linked//6.41714</id>
 	<published>2025-03-19T20:16:55Z</published>
-	<updated>2025-03-19T20:23:01Z</updated>
+	<updated>2025-03-20T14:00:20Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -284,6 +342,8 @@ user, I’d love to be able to say “sure, capture what’s on the
 screen and scrape the text out of that, but nope - you better not
 track where I’ve been over time”.</p>
 </blockquote>
+
+<p>HealthKit already works a lot like what Mueller is suggesting here (for, say, “SemanticKit”). With explicit user permission — that can be revoked at any time — third party apps can both read from and write to your Health data. Apple does a lot of that itself, both through Apple Watch and from the various activity-related things an iPhone can track, but third-party apps and devices are welcome participants, in a private, easily-understood way.</p>
 
 <div>
 <a  title="Permanent link to ‘‘Apple Needs to Get Out of the Way With AI’’"  href="https://daringfireball.net/linked/2025/03/19/apple-needs-to-get-out-of-the-way-with-ai">&nbsp;★&nbsp;</a>
@@ -1787,41 +1847,6 @@ analyze and comment on the security of what is proposed.</p>
 
 	]]></content>
   </entry><entry>
-	<title>Swift Assist Hasn’t Shipped, and Isn’t Yet in Beta</title>
-	<link rel="alternate" type="text/html" href="https://mjtsai.com/blog/2025/03/12/whither-swift-assist/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w5r" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/13/whither-swift-assist" />
-	<id>tag:daringfireball.net,2025:/linked//6.41679</id>
-	<published>2025-03-13T16:15:39Z</published>
-	<updated>2025-03-15T18:57:26Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Michael Tsai:</p>
-
-<blockquote>
-  <p>Swift Assist was <a href="https://www.reddit.com/r/Xcode/comments/1hcicwl/wheres_swift_assist/">supposed to arrive in 2024</a>, but it never
-even appeared in a beta. Apple <a href="https://www.reddit.com/r/swift/comments/1iypui2/will_we_ever_see_swift_assist_in_xcode16/">hasn’t announced</a> that it’s
-postponed or cancelled. It’s not even mentioned in the <a href="https://developer.apple.com/documentation/xcode-release-notes/xcode-16_3-release-notes">release
-notes</a>.</p>
-</blockquote>
-
-<p>Apple announced two AI-powered features for Xcode last year: <a href="https://lickability.com/blog/xcode-predictive-code-completion/">predictive code completion</a> and Swift Assist. Predictive code completion is basically getting suggestions for what you might intend to write next. Swift Assist is far more ambitious, runs only in the cloud (via Private Cloud Compute), and promises to write entire components for you. So much like the rest of Apple Intelligence, it’s the simpler thing that has shipped, and the more radical ambitious thing that has not.</p>
-
-<p>I looked into Swift Assist this week while researching, and checking my notes from WWDC, for <a href="https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino">my long piece yesterday</a>. I had an entire briefing with the Xcode team at WWDC last year, and alas, I was late for it (previous briefing, with a different team, had started late), so I missed some stuff and my notes are unusually terse. What I wanted to check my notes for is whether or not I was shown a live demo of Swift Assist last June. But my notes don’t say, and my own memory is completely unsure whether the demos I saw performed were only for predictive code completion, or included Swift Assist.</p>
-
-<p>If anyone else who was in those WWDC briefings remembers whether Swift Assist was actually demoed, <a href="https://daringfireball.net/contact/">please let me know</a>. I’m genuinely curious if Swift Assist was another thing — like all of “more personalized Siri” — that wasn’t even in demonstratable shape at WWDC.</p>
-
-<p><strong>Update, 15 March:</strong> “<a href="https://daringfireball.net/linked/2025/03/15/swift-assist-voorhees">Apple Did Demo Swift Assist at WWDC Last Year, and Has Shown It, Under NDA, Since Then</a>”.</p>
-
-<div>
-<a  title="Permanent link to ‘Swift Assist Hasn’t Shipped, and Isn’t Yet in Beta’"  href="https://daringfireball.net/linked/2025/03/13/whither-swift-assist">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino" />
 	<link rel="shorturl" href="http://df4.us/w5q" />
@@ -1989,59 +2014,6 @@ AI strategy) is Federighi’s peer, not subordinate, <a href="https://www.apple.
 
     ]]></content>
   <title>★ Something Is Rotten in the State of Cupertino</title></entry><entry>
-	<title>Brazilian Court Gives Apple 90 Days to Allow Sideloading on iOS</title>
-	<link rel="alternate" type="text/html" href="https://9to5mac.com/2025/03/06/brazilian-court-apple-sideloading-ios/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w5p" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/12/brazilian-court-gives-apple-90-days-to-allow-sideloading-on-ios" />
-	<id>tag:daringfireball.net,2025:/linked//6.41677</id>
-	<published>2025-03-12T16:28:06Z</published>
-	<updated>2025-03-12T17:01:35Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Filipe Espósito, reporting last week for 9to5Mac:</p>
-
-<blockquote>
-  <p>As reported by Brazilian newspaper <a href="https://valor.globo.com/empresas/noticia/2025/03/06/exclusivo-trf-1-suspende-liminar-e-mantem-medida-preventiva-do-cade-contra-a-apple.ghtml">Valor Econômico</a> (via <a href="https://oglobo.globo.com/economia/tecnologia/noticia/2025/03/06/trf-1-confirma-decisao-do-cade-e-determina-que-apple-permita-lojas-de-apps-alternativas-no-ios.ghtml">O
-Globo</a>), a federal judge in Brazil ruled on Wednesday that
-Apple will have to open up the iOS ecosystem to third-party apps
-in Brazil just like the company did in the EU. The judge considers
-that the “limitations” imposed by the company on developers could
-jeopardize the entry of new competitors in the segment. [...]</p>
-
-<p>But now Judge Pablo Zuniga has ordered that Apple will have to
-implement the required changes in Brazil within the next three
-months. The judge states that, despite Apple’s claims, the company
-“has already complied with similar obligations in other countries,
-without demonstrating a significant impact or irreparable damage
-to its business model.”</p>
-</blockquote>
-
-<p>Presumably Apple will just roll out in Brazil the same compliance rules, policies, and APIs that they started offering last year in the EU. But will Brazilian users get access to EU third-party app marketplaces, and vice-versa? Or will Apple try to segregate these app marketplaces region-by-region, such that Brazilian users will only get access to Brazilian third-party app marketplaces, and EU users will remain limited only to EU third-party app marketplaces?</p>
-
-<p>I asked Riley Testut, the founder of <a href="https://altstore.io/">AltStore PAL</a>, if he knew the answers to those questions. His answer, via iMessage:</p>
-
-<blockquote>
-  <p>We haven’t heard anything from Apple (unsurprisingly), but I
-think it’ll be somewhere in the middle. It’s likely Apple will
-add some requirements for existing marketplaces to launch in
-Brazil like they did with EU (e.g. requiring us to have a
-subsidiary in Brazil) so we’ll all need to get approval again.
-But assuming marketplaces meet all requirements, I think users in
-both places will eventually be able use e.g. AltStore PAL and
-Epic Games Store.</p>
-</blockquote>
-
-<p>“In the middle” sounds about right from Apple’s perspective too. They’re not going to make this as easy as possible, but I don’t expect them to make it obstinately spiteful either.</p>
-
-<div>
-<a  title="Permanent link to ‘Brazilian Court Gives Apple 90 Days to Allow Sideloading on iOS’"  href="https://daringfireball.net/linked/2025/03/12/brazilian-court-gives-apple-90-days-to-allow-sideloading-on-ios">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/03/new_ui_look_ios_would_be_a_huge_deal" />
 	<link rel="shorturl" href="http://df4.us/w5l" />
