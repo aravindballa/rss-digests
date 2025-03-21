@@ -7,7 +7,58 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-03-21T14:42:50Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-03-21T15:15:53Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>iOS 18 Software Updates Keep Re-Enabling Apple Intelligence for Users Who Had Turned It Off</title>
+	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2025/03/11/ios-18-3-2-apple-intelligence-auto-on/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w71" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/21/ios-18-updates-reenable-apple-intelligence" />
+	<id>tag:daringfireball.net,2025:/linked//6.41725</id>
+	<published>2025-03-21T15:11:46Z</published>
+	<updated>2025-03-21T15:15:53Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Juli Clover, writing for MacRumors last week:</p>
+
+<blockquote>
+  <p>With new iOS software updates, Apple has been automatically
+turning Apple Intelligence on again even for users who have
+disabled it, a decision that has become increasingly frustrating
+for those that don’t want to use Apple Intelligence .</p>
+
+<p>After installing iOS 18.3.2, iPhone users have noticed that Apple
+Intelligence is <a href="https://forums.macrumors.com/threads/apple-releases-ios-18-3-2-with-bug-fixes.2452817/post-33793315">automatically turned on</a>, regardless of
+whether it was turned off prior to the update being installed.
+There is an Apple Intelligence splash screen that comes up after
+updating, and there is no option other than tapping “Continue,”
+which turns on Apple Intelligence .</p>
+
+<p>If you’ve updated to iOS 18.3.2 and do not want Apple Intelligence
+enabled, you will need to go the Settings app, tap on Apple
+Intelligence, and then toggle it off. When Apple Intelligence is
+enabled, it <a href="https://www.macrumors.com/how-to/save-up-to-21gb-storage-disable-apple-intelligence/">consumes up to 7GB</a> of storage space for local
+AI models, which is an inconvenience when storage space is
+limited.</p>
+</blockquote>
+
+<p>I’d been seeing complaints about this, including from some friends who are developers and/or had previously worked on iOS as engineers at Apple. A bunch of regular DF readers have written to complain about it too. I wouldn’t call it a deluge, but I’ve gotten an unusual number of complaints about this.</p>
+
+<p>I hadn’t experienced it personally because I have Apple Intelligence enabled on my iPhone. But my year-old iPhone 15 Pro was still running iOS 18.2. So I disabled Apple Intelligence on that phone, then updated it to 18.3.2. When it finished, Apple Intelligence was re-enabled. I also tried this on my iPhone 16e review unit, which was still running iOS 18.3.1 (albeit a version of 18.3.1 with a unique build number for the 16e). I turned Apple Intelligence off, upgraded to 18.3.2, and on that iPhone, Apple Intelligence remained off after the software upgrade completed.</p>
+
+<p>So I don’t know if this is a bug that only affects some iPhones, or a deliberate growth hacking decision from Apple to keep turning this back on for people who have explicitly turned it off. But it’s definitely happening.</p>
+
+<p>And while the 7 GB of storage space required for the model is a legitimate technical reason to turn it off, I think (judging from my email from DF readers) the main reason people disable Apple Intelligence is that they don’t like it, don’t trust it, and to some degree object to it. It could take up no additional storage space at all and they still want it turned off on their devices, and they are fucking angry that Apple’s own software updates keep turning it back on. Put aside the quality or utility of Apple Intelligence as it stands today, and there are people who object to the whole thing on principle or, I don’t know, just vibes alone. Feelings are strong about this.</p>
+
+<p>If it’s a bug, it’s a bug that makes Apple look like a bunch of gross shysters. If it’s not a bug, it means Apple is a bunch of gross shysters. I’d wager on bug — especially after seeing it not happen on my 16e review unit. I’m thinking it’s something where it’s supposed to be enabled by default, once, for people who’ve never explicitly turned Apple Intelligence on or off previously, but that for some devices where it <em>has</em> been turned off explicitly, somehow the software update is mistaking it for the setting never having been touched. Apple needs to get it together on this one.</p>
+
+<div>
+<a  title="Permanent link to ‘iOS 18 Software Updates Keep Re-Enabling Apple Intelligence for Users Who Had Turned It Off’"  href="https://daringfireball.net/linked/2025/03/21/ios-18-updates-reenable-apple-intelligence">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple Sued for False Advertising Over Apple Intelligence</title>
 	<link rel="alternate" type="text/html" href="https://www.axios.com/2025/03/20/apple-suit-false-advertising-ai-intelligence" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w70" />
@@ -1730,134 +1781,6 @@ in Mountain View, California.</p>
 
 <div>
 <a  title="Permanent link to ‘A Suggested Demo for Google I/O 2025 (May 20–21)’"  href="https://daringfireball.net/linked/2025/03/15/a-suggested-demo-for-google-io">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>All-Hands Siri Team Meeting Leaks to Bloomberg</title>
-	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2025-03-14/apple-s-siri-chief-calls-ai-delays-ugly-and-embarrassing-promises-fixes" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w5v" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/14/all-hands-siri-team-meeting-leaks-to-bloomberg" />
-	<id>tag:daringfireball.net,2025:/linked//6.41683</id>
-	<published>2025-03-14T21:23:56Z</published>
-	<updated>2025-03-14T22:40:17Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Mark Gurman, reporting for Bloomberg today:</p>
-
-<blockquote>
-  <p>Apple Inc.’s top executive overseeing its Siri virtual assistant
-told staff that delays to key features have been ugly and
-embarrassing, and a decision to publicly promote the technology
-before it was ready made matters worse.</p>
-
-<p>Robby Walker, who serves as a senior director at Apple, delivered
-the stark comments during an all-hands meeting for the Siri
-division, saying that the team was facing a bad period. Walker
-also said that it’s unclear when the enhancements will actually
-launch, according to people with knowledge of the matter, who
-asked not to be identified because the gathering was private.</p>
-</blockquote>
-
-<p>Robby Walker is not Apple’s “top executive overseeing its Siri virtual assistant”. Take your pick of whether that’s SVP John Giannandrea or CEO Tim Cook, but Walker reports to Giannandrea. Gurman, of course, knows this better than I do; I suspect he knows Apple’s entire org chart. But it makes Bloomberg’s headline — “Apple’s Siri Chief Calls AI Delays Ugly and Embarrassing, Promises Fixes” — misleading. Also somewhat misleading in that headline is that these comments from Walker were clearly <em>not</em> meant to leak. This is not a public apology, <a href="https://techcrunch.com/2012/09/28/tim-cook-apologizes-for-apple-maps-points-to-competitive-alternatives/">like the one Tim Cook wrote and signed in 2012</a> in the aftermath of the Apple Maps launch with iOS 6.</p>
-
-<blockquote>
-  <p>Still, he praised the team for developing “incredibly impressive”
-features and vowed to deliver an industry-leading virtual
-assistant to consumers.</p>
-</blockquote>
-
-<p>Those two words are the only direct quote in the first nine paragraphs of Bloomberg’s report, which is kind of crazy, because the second half of Gurman’s story is full of quotes. I suspect his editors did Gurman a disservice on this one. The quotes are juicy AF, but don’t really start until the 10th paragraph. Like, for example, <em>which</em> Siri features does Walker think are “incredibly impressive”? No snark, I’d love to know. Is it <a href="https://daringfireball.net/2025/01/siri_is_super_dumb_and_getting_dumber">Siri’s sports knowledge</a>? The new product knowledge feature, that gives <a href="https://mastodon.social/@gruber/114127816716893319">incomplete and/or incorrect instructions</a> for how to toggle preferences in Settings? OK I guess that’s some snark, but I sincerely and honestly would love to know which Siri features the senior director in charge of Siri considers “incredibly impressive”.</p>
-
-<blockquote>
-  <p>Walker told staff in the meeting that the delays were especially
-“ugly” because Apple had already showed off the features publicly.
-“This was not one of these situations where we get to show people
-our plan after it’s done,” he said. “We showed people before.”</p>
-
-<p>“To make matters worse,” Walker said, Apple’s marketing
-communications department wanted to promote the enhancements.</p>
-</blockquote>
-
-<p>Again, this meeting clearly was <em>not</em> intended to leak. (It’s perhaps another knock against the Siri team, in addition to the quality of their output, that they leak internal meetings.) But that comes across as Walker blaming marketing.</p>
-
-<blockquote>
-  <p>Walker also raised doubts about even meeting the current release
-expectations. Though Apple is aiming for iOS 19, it “doesn’t mean
-that we’re shipping then,” Walker said. The company has several
-more priorities in development, and trade-offs will need to be
-made, he said.</p>
-
-<p>“We have other commitments across Apple to other projects,” Walker
-said, citing new software and hardware initiatives. “We want to
-keep our commitments to those, and we understand those are now
-potentially more timeline-urgent than the features that have been
-deferred.” He said decisions on timing will be made on a
-“case-by-case basis” as work progresses on products planned for
-next year.</p>
-
-<p>“Customers are not expecting only these new features but they also
-want a more fully rounded-out Siri,” he said. “We’re going to ship
-these features and more as soon as they are ready.”</p>
-</blockquote>
-
-<p>The customers still haven’t gotten their appetizers, but it’s time to start the entrees, so the kitchen staff is working on those now. But don’t worry, they hope to get the appetizers out alongside dessert. But it’s OK because dessert might be late too.</p>
-
-<blockquote>
-  <p>As of Friday, Apple doesn’t plan to immediately fire any top
-executives over the AI crisis, according to people with knowledge
-of the matter.</p>
-</blockquote>
-
-<p>I’d be very curious to know just how many people could possibly be familiar with this particular matter. Because this particular matter comes down to what Tim Cook is thinking. I’m thinking it’s about six people he might discuss this with. Wait, no, I just thought of a seventh. I’m going to say seven, <a href="https://www.apple.com/leadership/">tops</a>. But maybe I’m wrong, and Tim Cook is the chatty sort, who openly talks with a large number of senior managers about whom he might fire.</p>
-
-<blockquote>
-  <p>Walker said the decision to delay the features was made because of
-quality issues and that the company has found the technology only
-works properly up to two-thirds to 80% of the time. He said the
-group “can make more progress to get those percentages up, so that
-users get something they can really count on.”</p>
-</blockquote>
-
-<p>It’s unclear exactly which features these are in reference to, but presumably they’re not the “incredibly impressive” ones. Because something that “only works properly up to two-thirds” of the time only seems regular impressive to me, not incredibly impressive. Maybe it’s the ones that work properly four out of five times that are incredible?</p>
-
-<blockquote>
-  <p>Walker compared the endeavor to an attempt to swim to Hawaii. “We
-swam hundreds of miles — we set a Guinness Book for World Records
-for swimming distance — but we still didn’t swim to Hawaii,” he
-said. “And we were being jumped on, not for the amazing swimming
-that we did, but the fact that we didn’t get to the destination.”</p>
-</blockquote>
-
-<p>I’d say it’s a little more like selling customers tickets for a cruise that includes a stop in Hawaii, then never actually getting to Hawaii, and hoping they didn’t notice when the ship returns to port to disembark.</p>
-
-<blockquote>
-  <p>He showed examples during the meeting of the technology working:
-It was able to locate his driver’s license number on command and
-find specific photos of a child. He also demonstrated how the
-technology could precisely manipulate apps via voice control. It
-embedded content in an email, added recipients and made other
-changes.</p>
-</blockquote>
-
-<p>That’s the biggest actual news in the report, and it’s in paragraph 23.</p>
-
-<blockquote>
-  <p>Walker said that some staffers may feel “relieved” over the
-delays. “If you were using these features in the build, you were
-probably wondering: Are these ready? How do I feel about shipping
-these to our customers? Is this the right choice?”</p>
-
-<p>He added that some employees “might be feeling embarrassed.”</p>
-</blockquote>
-
-<p>Again, I’ll reiterate that this was a private meeting, not meant to leak. Maybe it’s an inaccurate summary. I hope it is. But as reported by Gurman, this meeting reeks of <em>you-all-deserve-participation-trophies-to-reward-your-hard-work-and-it’s-OK-to-feel-embarrassed</em> vibes. What’s needed, quite obviously, is some “What is it supposed to do? / <a href="https://fortune.com/article/inside-apple/">So why the fuck doesn’t it do that?</a>” vibes.</p>
-
-<div>
-<a  title="Permanent link to ‘All-Hands Siri Team Meeting Leaks to Bloomberg’"  href="https://daringfireball.net/linked/2025/03/14/all-hands-siri-team-meeting-leaks-to-bloomberg">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
