@@ -7,14 +7,14 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-03-21T15:15:53Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-03-21T15:38:34Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>iOS 18 Software Updates Keep Re-Enabling Apple Intelligence for Users Who Had Turned It Off</title>
 	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2025/03/11/ios-18-3-2-apple-intelligence-auto-on/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w71" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/21/ios-18-updates-reenable-apple-intelligence" />
 	<id>tag:daringfireball.net,2025:/linked//6.41725</id>
 	<published>2025-03-21T15:11:46Z</published>
-	<updated>2025-03-21T15:15:53Z</updated>
+	<updated>2025-03-21T15:38:34Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -43,7 +43,7 @@ AI models, which is an inconvenience when storage space is
 limited.</p>
 </blockquote>
 
-<p>I’d been seeing complaints about this, including from some friends who are developers and/or had previously worked on iOS as engineers at Apple. A bunch of regular DF readers have written to complain about it too. I wouldn’t call it a deluge, but I’ve gotten an unusual number of complaints about this.</p>
+<p>I’d been seeing complaints about this, including from some friends who are developers and/or had previously worked on iOS as engineers at Apple. A bunch of regular DF readers have written to complain about it too. I wouldn’t call it a deluge, but I’ve gotten an unusual number of complaints about this. (And at CNet, <a href="https://www.cnet.com/tech/services-and-software/did-apple-intelligence-turn-on-again-after-the-last-ios-18-update-how-to-turn-it-off/">Jeff Carlson reports the same thing happening with MacOS 15.3.2</a>.)</p>
 
 <p>I hadn’t experienced it personally because I have Apple Intelligence enabled on my iPhone. But my year-old iPhone 15 Pro was still running iOS 18.2. So I disabled Apple Intelligence on that phone, then updated it to 18.3.2. When it finished, Apple Intelligence was re-enabled. I also tried this on my iPhone 16e review unit, which was still running iOS 18.3.1 (albeit a version of 18.3.1 with a unique build number for the 16e). I turned Apple Intelligence off, upgraded to 18.3.2, and on that iPhone, Apple Intelligence remained off after the software upgrade completed.</p>
 
