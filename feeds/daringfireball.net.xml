@@ -7,7 +7,41 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-03-22T16:33:03Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-03-23T17:24:10Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>The Talk Show: ‘Podcasting Technology Cadence’</title>
+	<link rel="alternate" type="text/html" href="https://daringfireball.net/thetalkshow/2025/03/23/ep-419" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w79" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/23/the-talk-show-419" />
+	<id>tag:daringfireball.net,2025:/linked//6.41733</id>
+	<published>2025-03-23T17:24:10Z</published>
+	<updated>2025-03-23T17:24:10Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>MG Siegler returns to the show to talk about the drama surrounding Siri and Apple Intelligence.</p>
+
+<p><audio
+    src = "https://traffic.libsyn.com/secure/daringfireball/thetalkshow-419-mg-siegler.mp3"
+    controls
+    preload = "none"
+/></p>
+
+<p>Sponsored by:</p>
+
+<ul>
+<li><a href="https://workos.com/">WorkOS</a>: The modern identity platform for B2B SaaS — free up to 1 million monthly active users. Check out their latest features from <a href="https://workos.com/launch-week/?utm_source=daringfireball&amp;utm_medium=RSS&amp;utm_campaign=q12025">Launch Week</a>.</li>
+<li><a href="https://betterhelp.com/talkshow">BetterHelp</a>: Give online therapy a try at BetterHelp and get on your way to being your best self.</li>
+<li><a href="https://theopencase.com/discount/TALKSHOW">OpenCase</a>: MagSafe perfected that’s thinner, lighter, and more secure. Save 10% with code <strong>TALKSHOW</strong>.</li>
+</ul>
+
+<div>
+<a  title="Permanent link to ‘The Talk Show: ‘Podcasting Technology Cadence’’"  href="https://daringfireball.net/linked/2025/03/23/the-talk-show-419">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Weekly Sponsorships Here at Daring Fireball</title>
 	<link rel="alternate" type="text/html" href="https://daringfireball.net/feeds/sponsors/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w78" />
@@ -1754,54 +1788,6 @@ who can save Apple.”</p>
 
 <div>
 <a  title="Permanent link to ‘WorkOS: Scalable, Secure Authentication’"  href="https://daringfireball.net/linked/2025/03/15/workos">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>How to Generate a Report of Apple Intelligence Requests Sent to Private Cloud Compute</title>
-	<link rel="alternate" type="text/html" href="https://support.apple.com/guide/iphone/apple-intelligence-and-privacy-iphe3f499e0e/ios" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w63" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/15/how-to-generate-a-report-of-apple-intelligence-requests-sent-to-private-cloud-compute" />
-	<id>tag:daringfireball.net,2025:/linked//6.41691</id>
-	<published>2025-03-16T00:29:41Z</published>
-	<updated>2025-03-17T19:12:44Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>From Apple’s support documentation:</p>
-
-<blockquote>
-  <p>You can generate a report of requests your iPhone has sent to
-Private Cloud Compute.</p>
-
-<ol>
-<li><p>Go to Settings, then tap Privacy &amp; Security.</p></li>
-<li><p>Tap Apple Intelligence Report, then choose a report duration
-for the last 15 minutes (default) or last 7 days. Choose off to
-disable the report.</p>
-
-<p><em>Note</em>: The report may be empty if there haven’t been any
-  Private Cloud Compute requests since you changed the
-  duration.</p></li>
-<li><p>Tap Export Activity, choose a place to store the file, then tap
-Export.</p>
-
-<p>The report is saved as a file named
-  Apple_Intelligence_Report.json.</p></li>
-<li><p>Open the file with a text reader.</p></li>
-</ol>
-</blockquote>
-
-<p>These are the iOS instructions, but they’re exactly the same on MacOS 15 Sequoia. My first generated report was empty for the last 7 days, and it was empty again even after running the Writing Tools Proofread function on the text of my 4,000-word “<a href="https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino">Something Is Rotten in the State of Cupertino</a>” article from this week. But when I ran the Writing Tools Summarize feature on the same text, I wound up with a long entry that was sent to Private Cloud Compute. So, at the moment, Summarize seems like a good way to invoke Private Cloud Compute, even from a relatively powerful Mac.</p>
-
-<p><a href="https://daringfireball.net/misc/2025/03/something-is-rotten-in-cupertino-apple-intelligence-summary.text">Here’s the summary Apple Intelligence generated</a>. I have to say: it’s pretty good. It’s completely petty but also completely <em>me</em> to notice and object to the way it uses two spaces after periods — and worse, only <em>some</em> of the time. Also, the sentence “This raises concerns about the company’s ability to maintain its position as a leader in AI innovation” is, let’s say, off the mark.</p>
-
-<p><strong>Update:</strong> <a href="https://eclecticlight.co/2024/10/29/check-writing-tools-using-air/">Howard Oakley wrote a post</a> with a brief overview of the structure and contents of these reports back on October 29.</p>
-
-<div>
-<a  title="Permanent link to ‘How to Generate a Report of Apple Intelligence Requests Sent to Private Cloud Compute’"  href="https://daringfireball.net/linked/2025/03/15/how-to-generate-a-report-of-apple-intelligence-requests-sent-to-private-cloud-compute">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
