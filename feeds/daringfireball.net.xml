@@ -7,7 +7,40 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-03-24T21:01:52Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-03-24T21:45:30Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Getting a Modern LLM Running on a 2005 PowerBook G4</title>
+	<link rel="alternate" type="text/html" href="http://www.theresistornetwork.com/2025/03/thinking-different-thinking-slowly-llms.html" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w7c" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/24/getting-a-modern-llm-running-on-powerbook-g4" />
+	<id>tag:daringfireball.net,2025:/linked//6.41736</id>
+	<published>2025-03-24T21:45:30Z</published>
+	<updated>2025-03-24T21:45:30Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Andrew Rossignol:</p>
+
+<blockquote>
+  <p>I have been diving into the world of large language models (LLMs),
+and a question began to gnaw at me: could I bring the cutting-edge
+of AI to the nostalgic glow of my trusty 2005 PowerBook G4? Armed
+with a 1.5GHz processor, a full gigabyte of RAM, and a limiting
+32-bit address space, I embarked on an experiment that actually
+yielded results. I have successfully managed to achieve LLM
+inference on this classic piece of Apple history, proving that
+even yesteryear’s hardware can have a taste of tomorrow’s AI.</p>
+</blockquote>
+
+<p>A fun project, well-explained. Even a great choice of computer to run it on — the 12-inch PowerBook G4 is the one of the best-looking computers ever made. (<a href="https://www.macrumors.com/2025/03/24/powerbook-g4-generative-ai/">Via Joe Rossignol</a>.)</p>
+
+<div>
+<a  title="Permanent link to ‘Getting a Modern LLM Running on a 2005 PowerBook G4’"  href="https://daringfireball.net/linked/2025/03/24/getting-a-modern-llm-running-on-powerbook-g4">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘On Tyranny’ by Timothy Snyder</title>
 	<link rel="alternate" type="text/html" href="https://timothysnyder.org/on-tyranny/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w7b" />
@@ -1767,61 +1800,6 @@ that momentous academic year.</p>
 
 <div>
 <a  title="Permanent link to ‘My 2015 Interview With ‘Becoming Steve Jobs’ Authors Brent Schlender and Rick Tetzeli’"  href="https://daringfireball.net/linked/2025/03/17/my-interview-with-schlender-and-tetzeli">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>The Original ‘Something’s Rotten in Cupertino’ — Brent Schlender’s 1997 Story for Fortune</title>
-	<link rel="alternate" type="text/html" href="https://money.cnn.com/magazines/fortune/fortune_archive/1997/03/03/222710/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w66" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/17/the-og-somethings-rotten-in-cupertino" />
-	<id>tag:daringfireball.net,2025:/linked//6.41694</id>
-	<published>2025-03-17T16:22:58Z</published>
-	<updated>2025-03-18T15:43:40Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>During Friday’s episode of Dithering — <a href="https://dithering.passport.online/member/episode/being-real-points">a free listen</a> — Ben Thompson reminded me that my headline reference last week, alluding to the well-known line from <em>Hamlet</em>, had been used, to great effect, once before. Brent Schlender wrote a crackerjack piece for Fortune in March 1997 under the <a href="https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino">slightly-different-than-mine</a> headline “Something’s Rotten in Cupertino”.</p>
-
-<p>I should make very clear that I didn’t mean to allude to Schlender’s piece with mine. We both just riffed on the same idiom from Shakespeare. In my case, I’m writing about <a href="https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino">one initiative that’s gone awry</a> inside a very successful, well-functioning Apple. The timeframe for Schlender’s piece, on the other hand, was the most precarious and dysfunctional period in the history of Apple. Then-CEO Gil Amelio had just announced the acquisition of NeXT in December 1996. By June, most of the board would be replaced, Amelio fired, and Steve Jobs would return as an “advisor”, and, by the end of 1997, as “interim CEO”. Schlender was all over what was really going on:</p>
-
-<blockquote>
-  <p>At Apple’s headquarters in Cupertino, California, a power play is
-in progress that calls into question who’s really running the
-company and that may very well put Apple in play once again. So
-thick is this plot that it reaches into the homes of some of the
-most powerful CEOs in Silicon Valley. The delicious irony is that
-what triggered the soap opera is a move Amelio hopes is his
-masterstroke: Apple’s $400-million acquisition of Next, and the
-advisory services of Steve Jobs that come bundled with it.</p>
-
-<p>Amelio’s big deal is beginning to look more like a Next takeover
-of Apple. Never mind that Next Software was a boutique with
-revenues that would amount to less than a rounding error to Apple.
-Jobs, the Svengali of Silicon Valley, may have outdone himself
-this time: Not only did he collect $100 million and 1.5 million
-shares of Apple stock for his stake in Next, but his fingerprints
-are all over Amelio’s latest reorganization plan and product
-strategy — even though Jobs doesn’t have an operational role or
-even a board seat.</p>
-
-<p>To the Machiavellian eye, it looks as if Jobs, despite the lure of
-Hollywood — lately he has been overseeing Pixar, maker of <em>Toy
-Story</em> and other computer-animated films — might be scheming to
-take over Apple for himself. If anyone doubts he could do it, all
-you have to do is ask his best friend, Oracle CEO Larry Ellison,
-the richest man in Silicon Valley. Says he: “Steve’s the only one
-who can save Apple.”</p>
-</blockquote>
-
-<p>We all know today this is exactly how it played out. But in March 1997 none of it was obvious at all. It really wasn’t even clear whether Apple would still exist as an independent company by the end of the year. Just extraordinary reporting and storytelling by Schlender.</p>
-
-<p>Go ahead and re-read Schlender’s 1997 Fortune piece, which we should be thankful remains online at all, but which has been mangled, formatting-wise, by whatever series of CMS transitions have kept it online for 28 years. But if you want the best version of this saga, get yourself a copy of <em>Becoming Steve Jobs</em>, the 2015 biography Schlender co-authored with Rick Tetzeli. I just re-read chapter 8 over the weekend — the chapter covering Jobs’s momentous 1997 (in addition to the Apple-NeXT reunification, that was also the year he hammered out an aggressive new deal with Disney for five post-<em>Toy Story</em> feature films) — and it’s just <em>so good</em>. If you don’t already have a copy of <em>Becoming Steve Jobs</em>, get it <a href="https://amzn.to/4kwfeKC">at Amazon</a> or <a href="https://bookshop.org/p/books/becoming-steve-jobs-the-evolution-of-a-reckless-upstart-into-a-visionary-leader-brent-schlender/8629764?ean=9780385347426&amp;next=t">from Bookshop.org</a> or <a href="https://books.apple.com/us/book/becoming-steve-jobs/id936502684">Apple Books</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘The Original ‘Something’s Rotten in Cupertino’ — Brent Schlender’s 1997 Story for Fortune’"  href="https://daringfireball.net/linked/2025/03/17/the-og-somethings-rotten-in-cupertino">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
