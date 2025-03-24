@@ -7,7 +7,55 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-03-24T22:20:08Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-03-24T22:53:19Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>‘Tim, Don’t Kill My Vibe’</title>
+	<link rel="alternate" type="text/html" href="https://irace.me/vibe" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w7f" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/24/irace-vibe-killing" />
+	<id>tag:daringfireball.net,2025:/linked//6.41739</id>
+	<published>2025-03-24T22:53:19Z</published>
+	<updated>2025-03-24T22:53:19Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Bryan Irace:</p>
+
+<blockquote>
+  <p>Barring a sharp correction, Apple looks increasingly likely to
+miss out on a generation of developers conditioned to first reach
+for tools like <a href="https://cursor.com/">Cursor</a>, <a href="https://replit.com/">Replit</a>, or <a href="https://v0.dev/">v0</a> — especially as Apple’s own AI tooling <a href="https://dimillian.medium.com/where-is-swift-assist-6ea348767cf3">remains notably absent</a>.
+This goes well beyond enabling new entrants to “<a href="https://x.com/karpathy/status/1886192184808149383">vibe code</a>” — experienced mobile developers who, despite history with Xcode
+and a predilection for building native apps, are begrudgingly
+swapping out their tools in acknowledgement of the inarguable
+productivity benefits. [...]</p>
+
+<p>App Review has always long been a major source of developer
+frustration. Authoritarian yet inconsistent policy enforcement
+aside, it’s simply too hard to distribute software <em>even to your
+own Apple devices</em>, let alone someone else’s. This isn’t new by
+any means, but as the time to build an app shrinks from
+weeks/months to hours/days, it feels more egregious — and thus
+like more of a liability — than ever before.</p>
+</blockquote>
+
+<p>This is a thoughtful and thought-provoking piece. I feel like Irace is onto something here that I haven’t seen anyone put their finger on before.</p>
+
+<p>The App Store, when it debuted, made developers deliriously happy. The UIKit frameworks (a.k.a. CocoaTouch), Objective-C, and Xcode were all way better ways to create apps for mobile devices than anything else at the time. And for distribution, going through Apple and the App Store was way easier, way more democratic, and 70/30 was way more generous to developers than anything from the various phone carriers around the world. You’d be lucky to get a 30/70 split from the carriers, and they’d only deal with large corporate developers. There were no indie or hobbyist mobile app developers before the App Store.</p>
+
+<p>17 years is a long time, though. And developers long ago stopped seeing the App Store as something that makes them happy, or that <em>reduces</em> friction and hassle from their lives. Instead they view it as a major source of friction and hassle. Apple should have focused on keeping the App Store as a thing that makes developers (mostly) happy all along, not (as things stand today) mostly miserable.</p>
+
+<p>Basically, the threat to Apple that the App Store poses is <em>not</em> regulators coming for it. That’s a distraction. The threat, as I’ve <a href="https://daringfireball.net/2021/06/app_store_the_schiller_cut">long tried to argue</a>, perhaps unsuccessfully, is that market forces will work against it eventually. Developers have long grown resentful toward the technical and bureaucratic hassles of publishing through the App Store, and the size of the purchase commissions Apple keeps for itself. Apple’s commission percentages haven’t grown over time, but a 70/30 or even <a href="https://developer.apple.com/app-store/small-business-program/">85/15 split</a> that in 2008 seemed remarkably generous today seems like a platform engaging in usury and abusive rent-seeking.</p>
+
+<p>AI might be the disruption that brings about the “eventually”, because now it’s coming for the developer tooling experience too. If Apple’s native programming frameworks and developer tools aren’t the best, most satisfying, most productive ways to create great apps, what’s left that makes developers happy to be creating for the iOS platform?</p>
+
+<div>
+<a  title="Permanent link to ‘‘Tim, Don’t Kill My Vibe’’"  href="https://daringfireball.net/linked/2025/03/24/irace-vibe-killing">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://lex.games/df" />
 	<link rel="shorturl" href="http://df4.us/w7e" />
@@ -1778,68 +1826,6 @@ premiered at Drexel in 1985.</p>
 
 <div>
 <a  title="Permanent link to ‘‘Going National: The Drexel Microcomputing Project’’"  href="https://daringfireball.net/linked/2025/03/17/going-national-the-drexel-microcomputing-project">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘40 Years Ago, Drexel Made Computer — and Apple — History’</title>
-	<link rel="alternate" type="text/html" href="https://drexel.edu/news/archive/2024/March/drexel-apple-40th-anniversary-macintosh-1984" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w68" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/17/drexel-macintosh-40-years" />
-	<id>tag:daringfireball.net,2025:/linked//6.41696</id>
-	<published>2025-03-17T17:25:10Z</published>
-	<updated>2025-03-17T19:49:48Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Alissa Falcone, in a good piece looking back at (my alma mater) Drexel University’s groundbreaking deal with Apple 40 years ago to provide deeply discounted Macintoshes to all students, and integrate them throughout the campus and curriculums:</p>
-
-<blockquote>
-  <p>Drexel was prepared to buy IBM computers — and had equipped its
-computer centers with IBMs for decades — but the cost came to
-more than $1,000 per unit. IBM’s young competitor Apple, on the
-other hand, was willing to give discounts, provided the University
-agreed to secret negotiations and discreet showings of its newest,
-unreleased personal computer.</p>
-
-<p>Bruce Eisenstein, PhD, Arthur J. Rowland Professor of Electrical
-and Computer Engineering in the College of Engineering, was the
-head of the Department of Electrical and Computer Engineering at
-the time, and had been the founding faculty adviser for the Drexel
-Computer Society started in 1972. He was Drexel’s choice to meet
-with an Apple representative to see the future Macintosh, which
-had never-before-seen properties like a mouse, icons on a screen
-and different fonts. This new Apple product was more powerful and
-easier to use than earlier personal computers; novices could
-supposedly master it in 30 minutes (without the need to memorize
-and type coded commands). And Apple agreed on the $1,000 price tag
-for a model that sold to the public for $2,495.</p>
-
-<p>“I went back to the selection committee and I said, ‘Listen, you
-have to forget the IBM. This new computer from Apple is the one
-you have to get. They are going to make it available to us for a
-thousand dollars — that’s all inclusive.’ And the first question
-was ‘Is it compatible with the IBM computer?’ Well, no. Was there
-software for it? No. Were there any programs for it, like a word
-processor? Not yet. So the committee justifiably kept saying,
-well, what’s the name of this? What’s it like? I couldn’t tell
-them. I had to say you just gotta trust me on this. So they took a
-vote and unanimously voted to adopt the unknown computer that
-turned out to be the Macintosh,” Eisenstein recalled in <em>Building
-Drexel: The University and Its City, 1891-2016</em>.</p>
-
-<p>Drexel chose the untested Macintosh even knowing that Apple
-wouldn’t announce it to the public until January 1984 and that the
-computers wouldn’t be ready until March, almost halfway through
-that momentous academic year.</p>
-</blockquote>
-
-<p>I never had the pleasure of meeting Eisenstein, but I’d sure like to thank him for his prescience. By the time I got to Drexel in 1991 the Mac was infused throughout campus.</p>
-
-<div>
-<a  title="Permanent link to ‘‘40 Years Ago, Drexel Made Computer — and Apple — History’’"  href="https://daringfireball.net/linked/2025/03/17/drexel-macintosh-40-years">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
