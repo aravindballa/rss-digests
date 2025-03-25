@@ -7,7 +7,42 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-03-25T21:00:17Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-03-25T21:43:36Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Notification Summary Miscues</title>
+	<link rel="alternate" type="text/html" href="https://onefoottsunami.com/2025/03/20/erroneous-notification-summaries/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w7o" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/25/notification-summary-miscues" />
+	<id>tag:daringfireball.net,2025:/linked//6.41748</id>
+	<published>2025-03-25T21:43:35Z</published>
+	<updated>2025-03-25T21:43:36Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Paul Kafasis:</p>
+
+<blockquote>
+  <p>Since they were first enabled last year, I have frequently found
+Apple Intelligence’s notification summaries for emails to be
+something less than helpful. Here are some I spotted in just the
+past few days.</p>
+</blockquote>
+
+<p>The first one of these is particularly interesting because it highlights a key area where LLMs are frustratingly stupid. Kafasis got a notification summary from Apple Intelligence claiming “Package shipped for $427 order” for a used book he’d purchased. The email from Amazon, from which Apple Intelligence gleaned the information, had the price formatted thus: $4²⁷ — omitting the decimal and putting the cents in superscript. That’s a centuries-old formatting idiom for prices that remains common — <a href="https://duckduckgo.com/?q=walmart+price+sign&amp;iax=images&amp;ia=images">e.g. at Walmart</a> — to this day. But Apple Intelligence just sees dollar-sign, four, two, seven, and thus $427.</p>
+
+<p>That’s just stupid.</p>
+
+<p>But where it really gets frustrating is that everyone has to learn this at some point. If you were at Walmart with a kid, and the kid asked why, say, dog food is so expensive, pointing to a sign that says it cost “$9⁹⁷” per bag, you’d explain it, once, and the kid would never forget it. “<em>Oh, that’s just another way of writing nine dollars and ninety-seven cents — they do it that way to emphasize the dollar amount and de-emphasize the cents, which really don’t matter.</em>” This would make intuitive sense to the child as well, because they know dog food probably costs about $10 per bag, not $1,000 per bag.</p>
+
+<p>There is no way to explain something like this to an LLM. You can’t teach it like we do with children.</p>
+
+<div>
+<a  title="Permanent link to ‘Notification Summary Miscues’"  href="https://daringfireball.net/linked/2025/03/25/notification-summary-miscues">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>OPSEC Isn’t Even the Worst Part of ‘SignalGate’</title>
 	<link rel="alternate" type="text/html" href="https://talkingpointsmemo.com/edblog/signalgate-is-bad-but-opsec-isnt-even-the-worst-part-of-it" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w7n" />
@@ -1863,26 +1898,6 @@ The Finder does the same thing when you duplicate a file.</p>
 
 <div>
 <a  title="Permanent link to ‘Saturday Night Live’s Cue Cards’"  href="https://daringfireball.net/linked/2025/03/18/snl-cue-cards">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Chris Ware on Richard Scarry and the Art of Children’s Literature</title>
-	<link rel="alternate" type="text/html" href="https://yalereview.org/article/chris-ware-richard-scarry" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w6g" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/18/chris-ware-on-richard-scarry" />
-	<id>tag:daringfireball.net,2025:/linked//6.41704</id>
-	<published>2025-03-18T16:34:33Z</published>
-	<updated>2025-03-18T16:58:59Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>As a kid I loved Richard Scarry’s books. As an adult I loved (and love) Chris Ware’s graphic novels. As a parent I loved reading Scarry’s books, again, with my son. So of course this essay from Ware, commemorating <a href="https://www.amazon.com/Richard-Scarrys-Cars-Trucks-Things/dp/0593706307?tag=df-amzn-20">the 50th anniversary edition of Scarry’s <em>Cars and Trucks and Things That Go</em></a>, hit hard for me. Bet it will for you too.</p>
-
-<div>
-<a  title="Permanent link to ‘Chris Ware on Richard Scarry and the Art of Children’s Literature’"  href="https://daringfireball.net/linked/2025/03/18/chris-ware-on-richard-scarry">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
