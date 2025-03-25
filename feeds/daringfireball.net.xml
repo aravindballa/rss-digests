@@ -7,7 +7,48 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-03-25T17:00:21Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-03-25T17:44:52Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>WWDC 2025 Dates: June 9–13</title>
+	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2025/03/apples-worldwide-developers-conference-returns-the-week-of-june-9/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w7i" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/25/wwdc-2025-dates-june-9-to-13" />
+	<id>tag:daringfireball.net,2025:/linked//6.41742</id>
+	<published>2025-03-25T17:44:51Z</published>
+	<updated>2025-03-25T17:44:52Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Apple Newsroom:</p>
+
+<blockquote>
+  <p>To celebrate the start of WWDC, Apple will also host an in-person
+experience on June 9 that will provide developers with the
+opportunity to watch the Keynote and Platforms State of the Union
+at Apple Park, meet with Apple experts one-on-one and in group
+labs, and take part in special activities. Space will be limited;
+details on how to apply to attend can be found on the <a href="https://developer.apple.com/wwdc25/">WWDC25
+website</a>.</p>
+</blockquote>
+
+<p>Right on time: in recent years, WWDC dates have been announced on:</p>
+
+<ul>
+<li><a href="https://www.apple.com/newsroom/2021/03/apples-worldwide-developers-conference-is-back-in-its-all-online-format/">Tuesday 30 March 2021</a></li>
+<li><a href="https://www.apple.com/newsroom/2022/04/apples-worldwide-developers-conference-returns-in-its-all-online-format/">Tuesday 5 April 2022</a></li>
+<li><a href="https://www.apple.com/newsroom/2023/03/apples-worldwide-developers-conference-returns-june-5/">Wednesday 29 March 2023</a></li>
+<li><a href="https://www.apple.com/newsroom/2024/03/apples-worldwide-developers-conference-returns-june-10-2024/">Tuesday 26 March 2024</a></li>
+</ul>
+
+<p>and now today, Tuesday 25 March 2025.</p>
+
+<div>
+<a  title="Permanent link to ‘WWDC 2025 Dates: June 9–13’"  href="https://daringfireball.net/linked/2025/03/25/wwdc-2025-dates-june-9-to-13">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/03/bluesky_being_right_points" />
 	<link rel="shorturl" href="http://df4.us/w7h" />
@@ -1844,52 +1885,6 @@ technology is derived from Apple’s work on the Apple Watch.</p>
 
 <div>
 <a  title="Permanent link to ‘Chance Miller Reviews the Beats Powerbeats Pro 2’"  href="https://daringfireball.net/linked/2025/03/17/chance-miller-reviews-the-beats-powerbeats-pro-2">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Michael Gartenberg on the Lessons Apple Learned (and Hopefully Has Not Forgotten) From MobileMe</title>
-	<link rel="alternate" type="text/html" href="https://x.com/Gartenberg/status/1900589068003491963" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w6b" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/17/gartenberg-apple-mobileme" />
-	<id>tag:daringfireball.net,2025:/linked//6.41699</id>
-	<published>2025-03-17T19:35:55Z</published>
-	<updated>2025-03-17T19:50:37Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Sebastiaan de With, on X, linking to my “Something Is Rotten” piece last week:</p>
-
-<blockquote>
-  <p>Ex-MobileMe team here. This was a brutal time.</p>
-
-<p>It was so bad that when he presented iCloud onstage, Steve said “I
-know what you’re thinking: why should I trust them? They’re the
-ones who gave us MobileMe!”</p>
-</blockquote>
-
-<p>Michael Gartenberg (who worked at Apple in product marketing for a few years at the tail end of the Jobs era), responded (across <a href="https://x.com/gartenberg/status/1900588567375540671">two</a> <a href="https://x.com/Gartenberg/status/1900589068003491963">tweets</a>):</p>
-
-<blockquote>
-  <p>When I was at Apple and Apple University was still around there
-was a whole course on MobileMe and how it was possible that things
-ended up the way they did. Fascinating to hear all the backstory.</p>
-
-<p>One of the lessons of the Apple University course was much of the
-MobileMe debacle was directly because Jobs didn’t care about it.
-He was too preoccupied with the newest iPhone at the time. He
-didn’t even introduce the product, a lot of the stuff crossed his
-desk that he ignored.</p>
-</blockquote>
-
-<p>Twitter-like social posts enforce brevity, but I suspect Gartenberg would agree that it wasn’t that Jobs didn’t care about MobileMe at all. It was that he didn’t think he had to care enough to devote his personal attention to it. Yes, Apple should offer web-based functionality for some online fundamentals (email, calendar, contacts...) and, more importantly, Apple should provide over-the-air Internet sync for that data between customers’ devices. And it should just work, in the way that a hard drive “just works” without Steve Jobs paying close attention to the current state of Apple’s file system team. But then it turned out MobileMe didn’t “just work”, and Jobs decided that he needed to pay laser-focused attention to starting over and building what we now know as iCloud (which is really quite good, very reliable, and I’d say long ago surpassed the “it just works” threshold). <a href="https://apple.fandom.com/wiki/Worldwide_Developers_Conference_2011">Steve Jobs’s final keynote</a> — at WWDC 2011 — was largely focused on the announcement of iCloud.</p>
-
-<p>Who’s got that role inside Apple today — someone with high standards, good taste, and clout within the company — for Siri and Apple Intelligence? Someone who is going to say <em>We didn’t care enough about this, but now we need to, and will.</em></p>
-
-<div>
-<a  title="Permanent link to ‘Michael Gartenberg on the Lessons Apple Learned (and Hopefully Has Not Forgotten) From MobileMe’"  href="https://daringfireball.net/linked/2025/03/17/gartenberg-apple-mobileme">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
