@@ -7,7 +7,109 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-03-25T20:19:50Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-03-25T20:38:59Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>OPSEC Isn’t Even the Worst Part of ‘SignalGate’</title>
+	<link rel="alternate" type="text/html" href="https://talkingpointsmemo.com/edblog/signalgate-is-bad-but-opsec-isnt-even-the-worst-part-of-it" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w7n" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/25/opsec-not-the-worst-of-it" />
+	<id>tag:daringfireball.net,2025:/linked//6.41747</id>
+	<published>2025-03-25T20:37:23Z</published>
+	<updated>2025-03-25T20:37:24Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Josh Marshal, writing at Talking Points Memo:</p>
+
+<blockquote>
+  <p>Especially in the national security domain, many things the
+government does have to remain secret. Sometimes those things
+remain secret for years or decades. But they’re not secrets <em>from</em>
+the U.S. government. The U.S. government owns all those
+communications, all those facts of its own history. Using a Signal
+app like this is hiding what’s happening from the government
+itself. And that is almost certainly not an unintended byproduct
+but the very reason for the use. These are disappearing
+communications. They won’t be in the National Archives. Future
+administrations won’t know what happened. There also won’t be any
+records to determine whether crimes were committed.</p>
+
+<p>This all goes to the fundamental point Trump has never been able
+to accept: that the U.S. government is the property of the
+American people and it persists over time with individual
+officeholders merely temporary occupants charged with
+administering an entity they don’t own or possess.</p>
+
+<p>Think this is hyperbole? Remember that when Trump held his
+notorious meeting with Vladimir Putin in Helsinki in 2019 he
+confiscated his translator’s notes and ordered him not to divulge
+anything that had been discussed. Remember that Trump got
+impeached over an extortion plot recorded in the government record
+of his phone call with President Zelensky. An intelligence analyst
+discovered what had happened and decided he needed to report the
+conduct. These aren’t hypotheticals. They’ve already happened. And
+he’s even been caught. Which is probably one reason there’s so
+much use of Signal.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘OPSEC Isn’t Even the Worst Part of ‘SignalGate’’"  href="https://daringfireball.net/linked/2025/03/25/opsec-not-the-worst-of-it">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>The Problem Is Far More Than Just Whether Signal Is ‘Secure’</title>
+	<link rel="alternate" type="text/html" href="https://www.politico.com/news/2025/03/25/signal-cybersecurity-trump-war-planning-00246881?cid=apn" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w7m" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/25/the-problem-is-far-more-than-just-whether-signal-is-secure" />
+	<id>tag:daringfireball.net,2025:/linked//6.41746</id>
+	<published>2025-03-25T20:34:18Z</published>
+	<updated>2025-03-25T20:34:19Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Maggie Miller and Dana Nickel, reporting for Politico:</p>
+
+<blockquote>
+  <p>The app’s security is viewed as fairly strong due to its robust
+privacy features and minimal data collection, as well as default
+end-to-end encryption of all messages and voice calls. The app
+also includes a function that deletes all messages from a
+conversation within a set time frame, adding an additional layer
+of data protection. But experts agree that it shouldn’t be used
+by government officials as an alternative to communicating
+through more secure, sanctioned government communications — which Signal is not.</p>
+
+<p>“It’s so unbelievable,” a former White House official, granted
+anonymity to discuss The Atlantic’s report candidly, said Monday.
+“These guys all have traveling security details to set up secure
+comms for them, wherever they are.”</p>
+</blockquote>
+
+<p>Signal’s encryption is more than just “fairly strong”. It’s very strong, arguably the gold standard in consumer-available communications. But that’s not the point. The point is it’s a consumer application. This whole fiasco happened because you can just mistakenly add the wrong person to a group conversation, which wouldn’t be possible if the Trump national security team were using appropriate channels.</p>
+
+<p>And the disappearing messages thing doesn’t add security. It adds some level of privacy, but it’s an additional factor that makes all of this completely illegal. But avoiding any future scrutiny is almost certainly one reason Trump’s kakistocratic cabinet is using Signal in the first place.</p>
+
+<blockquote>
+  <p>The former White House official pointed out that members of
+Trump’s Cabinet — including the vice president, Defense Secretary
+Pete Hegseth, and Director of National Intelligence Tulsi Gabbard,
+among others — were likely using personal devices, <a href="https://fedscoop.com/usaid-policy-signal-telegram-third-party-messaging-apps/">since in most
+cases</a>, Signal cannot be downloaded onto official federal
+devices. This alone creates a host of cybersecurity issues.</p>
+</blockquote>
+
+<p>Wrote one DF reader (who has professional experience in this area) to me today, “There is no legal way whatsoever that classified information can be communicated over the public Internet — private device, personally owned device, Chromebook, anything. It is all wildly illegal.”</p>
+
+<div>
+<a  title="Permanent link to ‘The Problem Is Far More Than Just Whether Signal Is ‘Secure’’"  href="https://daringfireball.net/linked/2025/03/25/the-problem-is-far-more-than-just-whether-signal-is-secure">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Days After the Trump National Security Team’s Signal Leak, the Pentagon Warned That Russian Hackers Are Using Phishing Attacks to Abuse Signal’s ‘Linked Devices’ Feature</title>
 	<link rel="alternate" type="text/html" href="https://www.npr.org/2025/03/25/nx-s1-5339801/pentagon-email-signal-vulnerability" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w7l" />
@@ -109,7 +211,7 @@ actions for both companies was coming in March.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/25/reuters-eu-apple-browser-choice-investigation" />
 	<id>tag:daringfireball.net,2025:/linked//6.41743</id>
 	<published>2025-03-25T19:42:14Z</published>
-	<updated>2025-03-25T19:42:15Z</updated>
+	<updated>2025-03-25T20:38:59Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -129,7 +231,7 @@ early next week, the people said.</p>
 
 <p>A win’s a win and a closed investigation’s a close investigation, but the browser choice screen never seemed like a problem for Apple. I follow this stuff closely, and have even written (<a href="https://daringfireball.net/2024/09/the_ios_continental_drift_widens">at times extensively</a>) about how <a href="https://daringfireball.net/linked/2025/03/19/firefox-ios-doubling-france-and-germany">dumb and ineffective</a> these mandatory browser choice screens are, and I didn’t realize this investigation was still open, because it seemed so clear Apple had done what they needed to for compliance.</p>
 
-<p>So, more interesting to me this is bit buried lower in the article, suggesting the EC is going fine Apple next week over non-compliance with the DMA’s anti-steering provisions:</p>
+<p>So, more interesting to me is this bit buried lower in the article, suggesting the EC is going fine Apple next week over non-compliance with the DMA’s anti-steering provisions:</p>
 
 <blockquote>
   <p>The Commission’s decision to close the investigation early next
@@ -1781,121 +1883,6 @@ The Finder does the same thing when you duplicate a file.</p>
 
 <div>
 <a  title="Permanent link to ‘Chris Ware on Richard Scarry and the Art of Children’s Literature’"  href="https://daringfireball.net/linked/2025/03/18/chris-ware-on-richard-scarry">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Om Malik on Apple Intelligence: ‘FUD, Dud, or Both’</title>
-	<link rel="alternate" type="text/html" href="https://om.co/2025/03/13/apple-intelligence-fud-dud-or-both/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w6f" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/17/malik-fud-dud-or-both" />
-	<id>tag:daringfireball.net,2025:/linked//6.41703</id>
-	<published>2025-03-18T00:47:20Z</published>
-	<updated>2025-03-19T20:54:23Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Om Malik:</p>
-
-<blockquote>
-  <p>I have my own explanation, something my readers are familiar with,
-and it is the most obvious one. Just as Google is trapped in the
-10-blue-link prison, which prevents it from doing something
-radical, Apple has its own golden handcuffs. It’s a company
-weighed down by its market capitalization and what stock market
-expects from it.</p>
-
-<p>They lack the moral authority of Steve Jobs to defy the markets,
-streamline their product lineup, and focus the company. Instead,
-they do what a complex business often does: they do more. Could
-they have done a better job with iPadOS? Should Vision Pro receive
-more attention?</p>
-
-<p>The answer to all those is yes. Apple has become a complex entity
-that can’t seem to ever have enough resources to provide the real
-Apple experience. What you get is “good enough.” And most of the
-time, I think it is enough — because what others have on the
-market is worse. They know how to build great hardware; it’s the
-software where they falter. In the case of Apple Intelligence,
-they have been caught short because others’ AI products, even when
-flawed, are significantly better than Apple’s own offerings.</p>
-</blockquote>
-
-<p>Hardware inherently keeps a company honest in a way that software doesn’t. Hardware either works or it doesn’t. The only way to “upgrade” hardware is via installing newer software, or by taking the hardware apart and replacing physical components. It’s hard to think of a company, in any field, whose software is “better” than its hardware. Maybe Nintendo? But even with Nintendo, I’d say it’s more like their software is as good as their hardware. Also, an interesting thought that popped into my head reading Malik’s post just now: part of what makes Vision Pro so fascinating is that the software is better than the hardware. The hardware for immersive VR is so early-days that even the industry state-of-the-art — which is Vision Pro — stinks compared to where it’s going to be in even just five years. The 1984 Macintosh was a shitty computer with a 9-inch one-bit display, no hard drive, and an absurdly meager 128 kilobytes of RAM. But the software was amazing!</p>
-
-<p>But the bigger, better point Malik makes is that “good enough” is enough to make Apple’s software seem ahead of its competition. I tried to make this point all the way back in 2007 with “<a href="https://daringfireball.net/2007/11/apple_needs_a_nikon">Apple Needs a Nikon</a>”, and I think the problem is worse now than it was then. No other company is even vaguely in Apple’s league. But Apple <em>is</em> sliding toward mediocrity on the software side. It’s very open for debate how far they’ve slipped. I, for one, would argue that they haven’t slipped far, and with an honest reckoning — especially with regard to everything related to Siri and AI — they can nip this in the bud. <em>You</em> might argue that they’ve slipped tremendously across the board. But what I don’t think is arguable is that their competition remains below Apple’s league. That’s what gives credence to the voices in Cupertino who are arguing that everything’s fine. Apple’s the only team in the top tier for UI design.</p>
-
-<p>The best thing that could happen to Apple would be for Google to ship an Android Pixel experience that actually makes iPhone owners insanely jealous. Google is incapable of doing that through UI design. They’re incapable of catching up to Apple on hardware. But maybe on the AI front they can do it. Apple needs a rival.</p>
-
-<div>
-<a  title="Permanent link to ‘Om Malik on Apple Intelligence: ‘FUD, Dud, or Both’’"  href="https://daringfireball.net/linked/2025/03/17/malik-fud-dud-or-both">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Tesla’s Share Price Has Been Suspect Since Like Forever</title>
-	<link rel="alternate" type="text/html" href="https://www.ft.com/content/9cc311b7-676b-4539-a682-b3533a76b0fc" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w6e" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/17/tesla-suspect" />
-	<id>tag:daringfireball.net,2025:/linked//6.41702</id>
-	<published>2025-03-17T23:10:22Z</published>
-	<updated>2025-03-17T23:10:23Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Tesla’s share price has been having a <a href="https://stocks.apple.com/Am3FIcwVVSzeUAKbtyv3F1g">hard time of it</a> lately. The stock has lost about half its value since its all-time high back in December, and, since Musk took office alongside Donald Trump in January, <a href="https://www.cnbc.com/2025/03/07/tesla-shares-declined-every-week-since-elon-musk-went-to-washington.html">dropped for 7 consecutive weeks</a>, rebounding only ever-so-slightly last week, after Musk got the president of the United States to turn the White House lawn into a cheesy Tesla (<a href="https://www.instagram.com/thedailyshow/reel/DHHQ7xxBHgk/">sorry, <em>Tesler</em></a>) dealership. Tesla stock dropped another 5 percent today, on a day when the overall market was slightly up.</p>
-
-<p>I bookmarked <a href="https://www.ft.com/content/9cc311b7-676b-4539-a682-b3533a76b0fc">this Bryce Elder column at the Financial Times</a> back on January 31, and now seems like a good time to link to it:</p>
-
-<blockquote>
-  <p>The usual explanation for when Tesla trading resembles a Pump.fun
-shitcoin is: “because Elon talks a lot”. Here’s JPMorgan analyst
-Ryan Brinkman to expand on the theme:</p>
-
-<blockquote>
-  <p>It’s not clear to us why Tesla shares traded as much as +5%
-higher in the aftermarket Wednesday, although we have some
-leading theories. Perhaps it was management’s statement that it
-had identified an achievable path to becoming worth more than the
-world’s five most valuable companies taken together (i.e., more
-than the $14.8 trillion combined market capitalizations of Apple,
-Microsoft, NVIDIA, Amazon, &amp; Alphabet). Or maybe it was
-management’s belief that just one of its products has by itself
-the potential to generate “north of $10 trillion in revenue”. It
-may have even related to management guidance for 2026 (no
-financial targets were provided, but it was said to be “epic”)
-and for 2027 and 2028 (“ridiculously good”).</p>
-</blockquote>
-
-<p>Brinkman, who has a long-standing “underweight” rating on Tesla,
-is beginning to sound a bit exasperated:</p>
-
-<blockquote>
-  <p>[T]he company’s financial performance and Bloomberg consensus for
-   revenue, margin, earnings, and cash flow all keep coming down,
-   but analyst price targets and the company’s share price keep
-   going up. For instance, Tesla has missed Bloomberg consensus
-   EBIT in 9 of the past 10 quarters by an average of -16.3%.</p>
-</blockquote>
-
-<p>Consistently missing estimates is one thing. What Tesla has been
-doing is consistently missing <em>lowered</em> estimates. [...]</p>
-
-<p>Tesla’s biggest asset is hyperbole. The more extreme the
-hyperbole, the more valuable it gets. Maybe after-hours market
-participants understand the dynamics better than Tesla bears, so
-are primed to park fundamentals and trade on vibes. Or maybe
-something else entirely is going on.</p>
-</blockquote>
-
-<p>Sounds a lot like the other guy at the White House Auto Mall.</p>
-
-<div>
-<a  title="Permanent link to ‘Tesla’s Share Price Has Been Suspect Since Like Forever’"  href="https://daringfireball.net/linked/2025/03/17/tesla-suspect">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
