@@ -7,7 +7,52 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-03-25T18:59:41Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-03-25T19:42:15Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Reuters Reports European Commission Will Decline to Fine Apple Over Browser Choice Screen, But Hints It Will Over Anti-Steering Provisions</title>
+	<link rel="alternate" type="text/html" href="https://www.reuters.com/technology/eu-set-close-investigation-into-apples-browser-options-sources-say-2025-03-25/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w7j" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/25/reuters-eu-apple-browser-choice-investigation" />
+	<id>tag:daringfireball.net,2025:/linked//6.41743</id>
+	<published>2025-03-25T19:42:14Z</published>
+	<updated>2025-03-25T19:42:15Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Foo Yun Chee, reporting for Reuters under the headline “Exclusive: Apple Set to Stave Off EU Fine Into Browser Options, Sources Say”:</p>
+
+<blockquote>
+  <p>Apple is set to stave off a possible fine and an EU order over its
+browser options on iPhones after it made changes to comply with
+landmark EU rules aimed at reining in Big Tech, people with direct
+knowledge of the matter said on Tuesday. The European Commission,
+which launched an investigation in March last year under the
+Digital Markets Act (DMA), is expected to close its investigation
+early next week, the people said.</p>
+</blockquote>
+
+<p>A win’s a win and a closed investigation’s a close investigation, but the browser choice screen never seemed like a problem for Apple. I follow this stuff closely, and have even written (<a href="https://daringfireball.net/2024/09/the_ios_continental_drift_widens">at times extensively</a>) about how <a href="https://daringfireball.net/linked/2025/03/19/firefox-ios-doubling-france-and-germany">dumb and ineffective</a> these mandatory browser choice screens are, and I didn’t realize this investigation was still open, because it seemed so clear Apple had done what they needed to for compliance.</p>
+
+<p>So, more interesting to me this is bit buried lower in the article, suggesting the EC is going fine Apple next week over non-compliance with the DMA’s anti-steering provisions:</p>
+
+<blockquote>
+  <p>The Commission’s decision to close the investigation early next
+week will come at the same time as it hands out fines to Apple and
+Meta Platforms for DMA violations and orders to comply with the
+legislation, the people said.</p>
+
+<p>In this second Apple case, the issue is whether the company
+imposes restrictions that hinder app developers from informing
+users about offers outside its App Store free of charge.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘Reuters Reports European Commission Will Decline to Fine Apple Over Browser Choice Screen, But Hints It Will Over Anti-Steering Provisions’"  href="https://daringfireball.net/linked/2025/03/25/reuters-eu-apple-browser-choice-investigation">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>WWDC 2025 Dates: June 9–13</title>
 	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2025/03/apples-worldwide-developers-conference-returns-the-week-of-june-9/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w7i" />
@@ -1823,70 +1868,6 @@ enough to be useful, even for casual use.</p>
 
 <div>
 <a  title="Permanent link to ‘Ray Maker on the Heart Rate Sensor of the Beats PowerBeats 2 Pro’"  href="https://daringfireball.net/linked/2025/03/17/maker-powerbeats-pro-2-heartrate-sensor">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Chance Miller Reviews the Beats Powerbeats Pro 2</title>
-	<link rel="alternate" type="text/html" href="https://9to5mac.com/2025/02/11/powerbeats-pro-2-review/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w6a" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/17/chance-miller-reviews-the-beats-powerbeats-pro-2" />
-	<id>tag:daringfireball.net,2025:/linked//6.41698</id>
-	<published>2025-03-17T20:00:00Z</published>
-	<updated>2025-03-18T01:50:37Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>I’m a month late linking to it, but Chance Miller wrote a terrific review for 9to5Mac:</p>
-
-<blockquote>
-  <p>The last several releases from Beats, such as <a href="https://9to5mac.com/2023/05/17/beats-studio-buds-plus-review/">the Studio Buds
-Plus</a> and <a href="https://9to5mac.com/2024/04/30/beats-solo-4-hands-on-the-most-iconic-beats-headphones-just-got-better/">Solo 4 headphones</a>, have been powered by a
-custom Beats chip rather than an Apple-designed chip like what’s
-used in AirPods. For Beats, this has enabled better cross-platform
-support for Android users, but it’s also come at the cost of
-several popular features for Apple fans. For example, the Studio
-Buds Plus lack support for automatic in-ear detection, iCloud
-pairing, automatic device switching, personalized spatial audio,
-and more.</p>
-
-<p>With the Powerbeats Pro 2, Beats has gone back to its roots and
-opted for an Apple-designed chip. The Powerbeats Pro 2 are powered
-by Apple’s H2 chip, the same chip used by the latest-generation
-AirPods Pro 2 and AirPods 4. This means you get the full suite of
-Apple-focused audio features.</p>
-</blockquote>
-
-<p>The degree of shared engineering between Apple’s teams and Beats’s has always seemed odd to me. Sometimes it seems like Beats really is an independent subsidiary, focused on cross-platform headphones, and other times it feels like they’re making Apple products under a different brand label. The sweet spot seems to be about where they landed with these Powerbeats 2.</p>
-
-<blockquote>
-  <p>All of the aforementioned features and improvements make
-Powerbeats Pro 2 an incredibly compelling product, but Beats has
-one more thing: Powerbeats Pro 2 feature built-in heart rate
-monitoring.</p>
-
-<p>Each Powerbeats Pro 2 earbud has a built-in heart rate monitor
-comprised of four components. First, there’s an LED sensor that
-emits green LED light at a rate of over 100 pulses per second.
-This light is emitted through the skin and hits your red blood
-cells. The photodiode then receives the reflected light from the
-red blood cells that is modulated by the red blood flow. There’s
-an optical lens that helps direct and separate the transmitted and
-received light, along with an accelerometer to ensure accuracy and
-consistency in data collection.</p>
-
-<p>Beats adds that the Powerbeats Pro 2’s heart rate sensor
-technology is derived from Apple’s work on the Apple Watch.</p>
-</blockquote>
-
-<p>It’s weird, but cool, that Beats has delivered in-ear heartbeat monitoring before Apple’s own AirPods have. But now it seems like a lock that this will be a feature in AirPods Pro 3, right?</p>
-
-<p>What I always want in a review I read — and what I try to provide to readers through my own reviews — is a sense of whether a product is for me. Powerbeats Pro 2 aren’t for me — and I know it, because Miller’s review describes them so well. But they seem like a terrific product that a <em>lot</em> of people would prefer to AirPods Pro.</p>
-
-<div>
-<a  title="Permanent link to ‘Chance Miller Reviews the Beats Powerbeats Pro 2’"  href="https://daringfireball.net/linked/2025/03/17/chance-miller-reviews-the-beats-powerbeats-pro-2">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
