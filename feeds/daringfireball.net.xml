@@ -7,7 +7,51 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-03-26T18:55:23Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-03-26T19:52:55Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>The Atlantic Has an Owner Committed to the Cause: Laurene Powell Jobs</title>
+	<link rel="alternate" type="text/html" href="https://www.status.news/p/atlantic-jeffrey-goldberg-signal-texts-war-plans" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w7t" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/26/the-atlantic-has-an-owner-committed-to-the-cause" />
+	<id>tag:daringfireball.net,2025:/linked//6.41753</id>
+	<published>2025-03-26T19:52:30Z</published>
+	<updated>2025-03-26T19:52:55Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Oliver Darcy, writing at Status (paywalled — great content, terrible CMS experience that keeps logging me out on all my devices and requires a stupid email magic link to get back in), in a brief interview with Atlantic editor-in-chief and man of the moment Jeffrey Goldberg:</p>
+
+<blockquote>
+  <p>It goes without saying that there are many ironies associated with
+this particular story. One of them is that Goldberg, a journalist
+who Donald Trump loathes for his past reporting (remember the
+<a href="https://www.theatlantic.com/politics/archive/2020/09/trump-americans-who-died-at-war-are-losers-and-suckers/615997/">“suckers and losers” piece</a>), somehow became the unintended
+recipient of high-level, real-time military intelligence from
+inside his own inner circle. One wonders whether any heads will
+roll as a result of the whole matter. On Monday, Trump again made
+his disdain for Goldberg known, blasting him at a press conference
+and absurdly claiming The Atlantic is “a magazine that is going
+out of business.”</p>
+
+<p>If anything, of course, publishing a story like the one Goldberg
+did on Monday proves how strong the outlet currently is. That type
+of muscular journalism requires skill, strong leadership, and the
+backing of a courageous publisher. I asked Goldberg about owner
+Laurene Powell Jobs’ role in the matter. He declined to comment
+specifically on this particular story, but offered words of
+praise: “Laurene Powell Jobs is a stalwart and brave publisher at
+a time when cowardice rules the day.”</p>
+</blockquote>
+
+<p>If it had been a Washington Post reporter who was inadvertently included on the Trump national security team’s Signal group chat, would they have run the story? No fucking way with that <a href="https://daringfireball.net/2024/12/journalism_requires_owners_committed_to_the_cause">abject lickspittle coward Jeff Bezos</a> running the show.</p>
+
+<div>
+<a  title="Permanent link to ‘The Atlantic Has an Owner Committed to the Cause: Laurene Powell Jobs’"  href="https://daringfireball.net/linked/2025/03/26/the-atlantic-has-an-owner-committed-to-the-cause">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple Now Selling PCs From Other Companies at Apple.com</title>
 	<link rel="alternate" type="text/html" href="https://www.apple.com/mac/lumon-terminal-pro/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w7s" />
@@ -1864,76 +1908,6 @@ predetermined by TikTok’s algorithms.</p>
 
 <div>
 <a  title="Permanent link to ‘Did TikTok Swing the Election to Trump?’"  href="https://daringfireball.net/linked/2025/03/19/did-tiktok-swing-the-election-to-trump">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>On Apple Exclaves</title>
-	<link rel="alternate" type="text/html" href="https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w6m" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/19/on-apple-exclaves" />
-	<id>tag:daringfireball.net,2025:/linked//6.41710</id>
-	<published>2025-03-19T19:05:08Z</published>
-	<updated>2025-03-19T20:02:23Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Random Augustine has written a splendidly nerdy but very approachable overview of the evolution of Apple’s XNU kernel over the last decade:</p>
-
-<blockquote>
-  <p><em>2017 — Page Protection Layer</em></p>
-
-<p>With the release of the iPhone 8 and iPhone X containing the A11
-processor, Apple introduced a security feature known as the Page
-Protection Layer (PPL). This hardware+software feature isolated a
-small part of the kernel and gave it privileges to modify memory
-page tables — critical structures that manage memory access. The
-rest of the kernel lost the ability to directly modify these page
-tables. The PPL’s limited attack surface ensured that bypasses
-were infamously rare. While PPL added a layer of protection, it
-was only partly effective as the rest of the kernel still held
-most privileges required to compromise data without modifying
-page tables.</p>
-
-<p><em>2021–2023 — Secure Page Table Monitor</em></p>
-
-<p>Following PPL, the release of the iPhone 13 containing the A15
-processor introduced new functionality utilised in iOS 17: the
-Secure Page Table Monitor (SPTM). This replaced and improved upon
-the PPL by securing additional memory functions and dividing them
-into subsystems, further isolating small kernel components.
-Validation of code signatures, confirming that all code had been
-signed by Apple was also isolated.</p>
-
-<p>Around this time, oblique references to exclaves began to surface
-in XNU source code. These exclaves were speculated to be the
-subsystems managed by SPTM. Then 2024 happened…</p>
-
-<p><em>2024 — Exclaves: A major addition to XNU</em></p>
-
-<p>With the release of XNU source code supporting M4 and A18 based
-systems (such as the iPhone 16), the curtain was partly pulled
-back on exclaves. (Exclaves are not active on prior processors).</p>
-
-<p>It is now clear that exclaves are part of a much larger redesign
-of XNU’s security model.</p>
-</blockquote>
-
-<p>I am reminded of <a href="https://en.wikipedia.org/wiki/John_Gall_(author)">Gall’s Law</a>: </p>
-
-<blockquote>
-  <p>A complex system that works is invariably found to have evolved
-from a simple system that worked. A complex system designed from
-scratch never works and cannot be patched up to make it work. You
-have to start over with a working simple system.</p>
-</blockquote>
-
-<p>(I also suspect that Siri — today’s Siri at least — might be a canonical example of “a complex system designed from scratch”. But that’s a different topic.)</p>
-
-<div>
-<a  title="Permanent link to ‘On Apple Exclaves’"  href="https://daringfireball.net/linked/2025/03/19/on-apple-exclaves">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
