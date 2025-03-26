@@ -7,7 +7,66 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-03-26T02:16:03Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-03-26T15:26:27Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Calling the White House’s Bluff, The Atlantic Releases the ‘Houthi PC Small Group’ Signal Text Thread</title>
+	<link rel="alternate" type="text/html" href="https://www.theatlantic.com/politics/archive/2025/03/signal-group-chat-attack-plans-hegseth-goldberg/682176/?gift=j9r7avb6p-KY8zdjhsiSZwFkSOi1GsFtx-t3XSS0Gew" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w7q" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/26/atlantic-releases-signal-thread" />
+	<id>tag:daringfireball.net,2025:/linked//6.41750</id>
+	<published>2025-03-26T15:26:26Z</published>
+	<updated>2025-03-26T15:26:27Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jeffrey Goldberg and Shane Harris, reporting once again for The Atlantic:</p>
+
+<blockquote>
+  <p>Ratcliffe said much the same: “My communications, to be clear, in
+the Signal message group were entirely permissible and lawful and
+did not include classified information.”</p>
+
+<p><a href="https://www.theatlantic.com/tag/person/donald-trump/">President Donald Trump</a>, asked yesterday afternoon about the
+same matter, said, “It wasn’t classified information.”</p>
+
+<p>These statements presented us with a dilemma. In The Atlantic’s
+<a href="https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/">initial story about the Signal chat</a> — the “Houthi PC small
+group,” as it was named by Waltz — we withheld specific
+information related to weapons and to the timing of attacks that
+we found in certain texts. As a general rule, we do not publish
+information about military operations if that information could
+possibly jeopardize the lives of U.S. personnel. That is why we
+chose to characterize the nature of the information being shared,
+not specific details about the attacks.</p>
+
+<p>The statements by Hegseth, Gabbard, Ratcliffe, and Trump — combined with the assertions made by numerous administration
+officials that we are lying about the content of the Signal texts — have led us to believe that people should see the texts in
+order to reach their own conclusions. There is a clear public
+interest in disclosing the sort of information that Trump advisers
+included in nonsecure communications channels, especially because
+senior administration figures are attempting to downplay the
+significance of the messages that were shared.</p>
+</blockquote>
+
+<p><a href="https://daringfireball.net/linked/2025/03/25/trump-has-surrounded-himself-with-idiots">I linked yesterday</a> to a quote from <a href="https://en.wikipedia.org/wiki/Hannah_Arendt">Hannah Arendt</a>, whom Wikipedia aptly describes as “one of the most influential political theorists of the twentieth century”. The quote I linked to was her observation that the ranks of authoritarian governments inevitably wind up being filled with “crackpots and fools” because they’re  the people whose loyalty is most assured. In some sense the Jedi mind trick is real — it works on the weak-minded. Regardless of one’s political beliefs, no intelligent person of integrity (as opposed to, say, a foreign mole) would participate in a discussion of obviously classified and highly sensitive war plans in a Signal chat. It’s jarring to see it so clearly but U.S. national security is now led entirely by morons.</p>
+
+<p>Most of the quotes on the Goodreads page I linked to, culled from Arendt’s seminal <em>The Origins of Totalitarianism</em>, are related to truth, not idiocy. Here’s one:</p>
+
+<blockquote>
+  <p>The outstanding negative quality of the totalitarian elite is that
+it never stops to think about the world as it really is and never
+compares the lies with reality.</p>
+</blockquote>
+
+<p>When The Atlantic’s initial story hit, everyone responsible just immediately began telling bald-faced lies about what happened, despite the fact that they <em>knew</em> Jeffrey Goldberg literally had the receipts to prove otherwise. That works, until it doesn’t.</p>
+
+<div>
+<a  title="Permanent link to ‘Calling the White House’s Bluff, The Atlantic Releases the ‘Houthi PC Small Group’ Signal Text Thread’"  href="https://daringfireball.net/linked/2025/03/26/atlantic-releases-signal-thread">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Of Course Trump Has Surrounded Himself With Idiots This Time Around</title>
 	<link rel="alternate" type="text/html" href="https://www.goodreads.com/work/quotes/23497-the-origins-of-totalitarianism" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w7p" />
@@ -1877,40 +1936,6 @@ the <a href="https://pxlnv.com/linklog/ios-eu-changes-default-apps/">power of de
 
 	]]></content>
 	<title>[Sponsor] WorkOS: Scalable, Secure Authentication</title></entry><entry>
-	<title>Hyperspace 1.1</title>
-	<link rel="alternate" type="text/html" href="https://hypercritical.co/hyperspace/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w6i" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/18/hyperspace" />
-	<id>tag:daringfireball.net,2025:/linked//6.41706</id>
-	<published>2025-03-18T23:03:41Z</published>
-	<updated>2025-03-19T02:56:46Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>New (well, newish) Mac app from John Siracusa:</p>
-
-<blockquote>
-  <p><a href="https://apps.apple.com/us/app/hyperspace-reclaim-disk-space/id6739505345?mt=12">Hyperspace</a> searches for files with identical contents within
-one or more folders. If it finds any, it can then reclaim the disk
-space taken by all but one of the identical files — <em>without
-removing any of the files!</em></p>
-
-<p>You can <a href="https://hypercritical.co/hyperspace/#how-it-works">learn more</a> about how this is done, if you’re
-interested, but the short version is that Hyperspace uses a
-standard feature of the macOS file system: space-saving clones.
-The Finder does the same thing when you duplicate a file.</p>
-</blockquote>
-
-<p>I love everything about this app. I love the name — it “works” in like at least three ways. I love that it’s right up Siracusa’s alley. I love that Siracusa has talked about it, at wonderful length, on ATP and <a href="https://hypercritical.co/2025/02/25/hyperspace">expounded upon it on his blog</a>. I love that the premise sounds a little crazy but the explanation makes all the sense in the world. I love that this small, laser-focused utility is fully and splendidly documented. I love the way it looks. It’s got a great icon. I mean <em>of course</em> it would, but still, let’s celebrate how fun this is.</p>
-
-<div>
-<a  title="Permanent link to ‘Hyperspace 1.1’"  href="https://daringfireball.net/linked/2025/03/18/hyperspace">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/03/a_postscript_on_the_singular_nature_of_mark_gurmans_reporting" />
 	<link rel="shorturl" href="http://df4.us/w64" />
