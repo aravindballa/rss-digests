@@ -7,7 +7,63 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-03-27T13:31:49Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-03-27T15:46:50Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>You’ll Never Guess Which Recent DF Article Was ‘Flagged’ at Hacker News</title>
+	<link rel="alternate" type="text/html" href="https://news.ycombinator.com/item?id=43489058" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w7v" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/27/youll-never-guess-which-recent-df-article-was-flagged-at-hacker-news" />
+	<id>tag:daringfireball.net,2025:/linked//6.41755</id>
+	<published>2025-03-27T15:46:49Z</published>
+	<updated>2025-03-27T15:46:50Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>“Flagging” isn’t what I was writing about yesterday, with regarded to Daring Fireball unexplained ghosting at Hacker News in recent years. If you look at <a href="https://news.ycombinator.com/from?site=daringfireball.net">the list of recent DF articles at HN</a>, <a href="https://news.ycombinator.com/item?id=43489058">only one is explicitly “flagged”</a>. Whoops, <a href="https://news.ycombinator.com/item?id=43491009">now it’s two</a>, but they’re both the same article.</p>
+
+<p><a href="https://cosocial.ca/@timbray/114232163652473173">Tim Bray</a>:</p>
+
+<blockquote>
+  <p>I’m really glad <a href="https://mastodon.social/@gruber">@gruber</a> posted this, because me too. Same timeframe, same behavior.</p>
+</blockquote>
+
+<p><a href="https://mastodon.social/@reichenstein/114233318059789911">Oliver Reichenstein</a> (from <a href="https://ia.net/">iA</a>):</p>
+
+<blockquote>
+  <p>Same for content from iA. Again and again our posts get to the top
+page and then someone ghosts them. Ghosting started around the
+same time as DF ghosting, I think. My take: It looks like someone
+that has enough access just doesn’t like us. ¯(ツ)/¯</p>
+</blockquote>
+
+<p>I’ve heard privately from a few other bloggers that they’ve seen similar ghosting at HN in recent years.</p>
+
+<p><a href="https://news.ycombinator.com/newsfaq.html">Near the top of Hackers News’s FAQ</a>:</p>
+
+<blockquote>
+  <p><em>How are stories ranked?</em></p>
+
+<p>The basic algorithm divides points by a power of the time since a
+story was submitted. Comments in threads are ranked the same way.</p>
+
+<p>Other factors affecting rank include user flags, anti-abuse
+software, software which demotes overheated discussions, account
+or site weighting, and moderator action.</p>
+</blockquote>
+
+<p>Hacker News presents itself as a forum that is primarily driven by the community, and that ranking and moderation are mostly, perhaps even overwhelmingly, transparent. And that “moderator action” is only a secondary or even tertiary factor. The core HN audience buys into this — the HN audience is comprised of people who view themselves as independent thinkers. Part of why they like and trust HN as an aggregator is that they believe they’re driving it, and that they know how the whole thing works.</p>
+
+<p>My thesis is that the above <a href="https://www.paulgraham.com/hackernews.html">might once have been an accurate summary</a> of how Hacker News functions, but hasn’t been for years, and that there now exists a cabal of moderator/admins with their thumbs on the scale, and their personal predilections are the primary steering force of what’s permitted to surface and what gets ghosted. This moderation cabal operates more <a href="https://news.ycombinator.com/posts?id=dang">or less</a> in secret. Their actions, and thus even their usernames, are invisible — lest the HN community discover that it’s steering things <a href="https://daringfireball.net/misc/2025/03/maggie.gif">about as much as Maggie Simpson is</a>.</p>
+
+<p>Read between the lines of the “<em>Hey, why</em> is <em>this post flagged?</em>” wonderment from genuinely openminded HN users <a href="https://news.ycombinator.com/item?id=43489058">in the comments on my now-flagged submission</a>, and you’ll catch a strong whiff of “Pay no attention to the man behind the curtain!”</p>
+
+<div>
+<a  title="Permanent link to ‘You’ll Never Guess Which Recent DF Article Was ‘Flagged’ at Hacker News’"  href="https://daringfireball.net/linked/2025/03/27/youll-never-guess-which-recent-df-article-was-flagged-at-hacker-news">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/03/the_website_hacker_news_is_afraid_to_discuss" />
 	<link rel="shorturl" href="http://df4.us/w7u" />
@@ -1933,61 +1989,6 @@ $225 and starts shipping in December.</li>
 
 <div>
 <a  title="Permanent link to ‘Two New PebbleOS Watches’"  href="https://daringfireball.net/linked/2025/03/19/repebble-watches">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Did TikTok Swing the Election to Trump?</title>
-	<link rel="alternate" type="text/html" href="https://politicalwire.com/2025/03/19/did-tiktok-swing-the-election-to-trump/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w6n" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/19/did-tiktok-swing-the-election-to-trump" />
-	<id>tag:daringfireball.net,2025:/linked//6.41711</id>
-	<published>2025-03-19T19:22:53Z</published>
-	<updated>2025-03-19T19:22:54Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Taegan Goddard, writing at Political Wire regarding <a href="https://www.nytimes.com/2025/03/18/opinion/ezra-klein-podcast-david-shor.html">pollster David Shor’s appearance on Ezra Klein’s podcast</a>:</p>
-
-<blockquote>
-  <p>His surveys indicate a clear causal relationship: People who
-relied on TikTok for news were much more likely to swing toward
-Trump than those who got their information from TV. His most
-striking data point:</p>
-
-<blockquote>
-  <p>When you zoom in on people who get their news from TikTok but
-don’t care very much about politics, this group is eight
-percentage points more Republican than they were four years ago — which is a lot.</p>
-</blockquote>
-
-<p>What remains unclear is why this shift happened. Was TikTok’s
-parent company, ByteDance, subtly adjusting its algorithm to
-undermine Democrats? Or was the platform simply reflecting broader
-anti-incumbent sentiment? Shor concedes:</p>
-
-<blockquote>
-  <p>You could tell a story that maybe just anti-incumbent stuff is
-going to do really well on TikTok, and Democrats are going to do
-great now. I don’t really know. But I think that, for whatever
-reason, this major shift really helped Republicans.</p>
-</blockquote>
-
-<p>It used to be that getting your message out required persuading
-reporters, editors, and gatekeepers — people trained to vet and
-verify information.</p>
-
-<p>Now anyone can make a short video, and if it’s compelling enough,
-it spreads like wildfire — except that it may be following a path
-predetermined by TikTok’s algorithms.</p>
-</blockquote>
-
-<p>I worry that the liberal/left response to this will be to declare, with exasperation, that people shouldn’t be getting their news or forming their political opinions by what they see on TikTok. You need to meet people where they are, and craft messages for the media they consume.</p>
-
-<div>
-<a  title="Permanent link to ‘Did TikTok Swing the Election to Trump?’"  href="https://daringfireball.net/linked/2025/03/19/did-tiktok-swing-the-election-to-trump">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
