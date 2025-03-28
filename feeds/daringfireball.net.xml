@@ -7,7 +7,70 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-03-28T16:14:43Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-03-28T16:33:15Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>ChatGPT 4o Adds Image Generation and It’s Fun as Hell</title>
+	<link rel="alternate" type="text/html" href="https://spyglass.org/openai-product-launches/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w7x" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/28/chatgpt-4o-adds-image-generation-and-its-fun-as-hell" />
+	<id>tag:daringfireball.net,2025:/linked//6.41757</id>
+	<published>2025-03-28T16:33:04Z</published>
+	<updated>2025-03-28T16:33:15Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>MG Siegler:</p>
+
+<blockquote>
+  <p>I’m not even talking about Apple and AI here. We’ve done that, <a href="https://spyglass.org/apple-ai-siri/">a
+lot</a>. Probably enough — for now (famous last words). I’m
+talking about Apple in general. <a href="https://www.youtube.com/live/2f3K43FHRKo?si=7lIWEBMSvCk-rxwG&amp;ref=spyglass.org">Watching this OpenAI video</a> — again, not an event, just a product walk-through with various
+team members (though this one happened to be “MC’d” by Sam Altman) — I had this old, familiar feeling as they walked through the new
+features: joy.</p>
+
+<p>As ridiculous as it may sound, I was almost giddy around what I
+was seeing. It’s a feeling that I recall well from many an Apple
+event back in the day.</p>
+
+<p>“Yes, this is <em>exactly</em> what I wanted! They did it!” That kind
+of thing.</p>
+
+<p>This will sound unfair or harsh to Apple, but I really don’t think
+that it is. I can really only speak for myself here, and perhaps
+I’m alone — but I suspect that I’m not — it has been a while
+since I’ve gotten that feeling from an Apple announcement. That
+loving feeling.</p>
+</blockquote>
+
+<p>I gave the updated ChatGPT the instruction “Create an image of the main characters from ‘Severance’ as Lego figures” and this is the first response it gave me:</p>
+
+<p><a href="https://daringfireball.net/misc/2025/03/severance-chatgpt-4o.png" class="noborder">
+  <img
+    width = 425
+    src = "https://daringfireball.net/misc/2025/03/severance-chatgpt-4o.png"
+    alt = "Four Lego figures who look like Mark, Helly, Dylan (maybe?) and Irving (even less maybe)."
+  /></a></p>
+
+<p>I gave Apple’s Image Playground, running on MacOS 15.3.2 Sequoia, the equivalent prompt — “The main characters from ‘Severance’ as Lego figures” — and it gave me this as its first response:</p>
+
+<p><a href="https://daringfireball.net/misc/2025/03/severance-image-playground.png" class="noborder">
+  <img
+    width = 425
+    src = "https://daringfireball.net/misc/2025/03/severance-image-playground.png"
+    alt = "Three Lego figures, two yellow, one red, which bear zero resemblance to anyone or anything from “Severance” whatsoever."
+  /></a></p>
+
+<p>One of the above images qualifies as “<em>Hey, that could be better but it’s pretty good for the first crack from a simple prompt</em>”, and the other qualifies as “<em>This bears zero resemblance to anyone or anything from</em> Severance”.</p>
+
+<p>Guess which one of the two Apple is actively promoting to users as something they should try?</p>
+
+<div>
+<a  title="Permanent link to ‘ChatGPT 4o Adds Image Generation and It’s Fun as Hell’"  href="https://daringfireball.net/linked/2025/03/28/chatgpt-4o-adds-image-generation-and-its-fun-as-hell">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Yours Truly on ‘Geared Up’</title>
 	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=O569FVCoPYc" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w7w" />
@@ -1928,48 +1991,6 @@ track where I’ve been over time”.</p>
 
 <div>
 <a  title="Permanent link to ‘‘Apple Needs to Get Out of the Way With AI’’"  href="https://daringfireball.net/linked/2025/03/19/apple-needs-to-get-out-of-the-way-with-ai">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘A Delightful and Simple User Experience’</title>
-	<link rel="alternate" type="text/html" href="https://arstechnica.com/gadgets/2025/03/roku-says-unpopular-autoplay-ads-are-just-a-test/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w6p" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/19/roku-delightful-and-simple" />
-	<id>tag:daringfireball.net,2025:/linked//6.41713</id>
-	<published>2025-03-19T19:54:15Z</published>
-	<updated>2025-03-19T20:01:42Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Scharon Harding, writing for Ars Technica:</p>
-
-<blockquote>
-  <p>Reports of Roku customers seeing video ads automatically play
-before they could view the OS’ home screen started appearing
-online this week. A Reddit user, for example, <a href="https://www.reddit.com/r/Roku/comments/1jcuibl/question_about_ads/">posted</a>
-yesterday: “I just turned on my Roku and got an ... ad for a
-movie, before I got to the regular Roku home screen.” Multiple
-apparent users reported seeing an ad for the movie <em>Moana 2</em>.
-The ads have a close option, but some users appear to have not
-seen it.</p>
-
-<p>When reached for comment, a Roku spokesperson shared a company
-statement that confirms that the autoplaying ads are expected
-behavior but not a permanent part of Roku OS currently. Instead,
-Roku claimed, it was just trying the ad capability out. [...]</p>
-
-<p>“Our recent test is just the latest example, as we explore new
-ways to showcase brands and programming while still providing a
-delightful and simple user experience.”</p>
-</blockquote>
-
-<p>What I’d find delightful and simple is disconnecting my Roku box and throwing it out the window.</p>
-
-<div>
-<a  title="Permanent link to ‘‘A Delightful and Simple User Experience’’"  href="https://daringfireball.net/linked/2025/03/19/roku-delightful-and-simple">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
