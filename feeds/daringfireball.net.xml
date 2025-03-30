@@ -7,7 +7,38 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-03-28T16:33:15Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-03-30T18:20:52Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>MacOS 15 Sequoia’s Annoying-as-Hell ‘Turn On Reactions’ Menu Bar Prompt</title>
+	<link rel="alternate" type="text/html" href="https://birchtree.me/blog/this-alert-must-die/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w7y" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/30/birchler-sequoia-turn-on-reactions" />
+	<id>tag:daringfireball.net,2025:/linked//6.41758</id>
+	<published>2025-03-30T18:20:51Z</published>
+	<updated>2025-03-30T18:20:52Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Matt Birchler:</p>
+
+<blockquote>
+  <p>I really thought that the screen recording notifications in macOS
+Sequoia would be the bane of my existence, but thankfully those
+have been changed quite a bit from the early betas last summer and
+they’re totally a non-issue in my book today. However, these god
+damned “turn on reactions” alerts have got to die in a fire, and
+they need to have done it yesterday.</p>
+</blockquote>
+
+<p>I understand why Apple decided to show this once. Why though, is it seemingly designed to reappear every time I start a video call? Who is <em>not</em> annoyed by this?</p>
+
+<div>
+<a  title="Permanent link to ‘MacOS 15 Sequoia’s Annoying-as-Hell ‘Turn On Reactions’ Menu Bar Prompt’"  href="https://daringfireball.net/linked/2025/03/30/birchler-sequoia-turn-on-reactions">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>ChatGPT 4o Adds Image Generation and It’s Fun as Hell</title>
 	<link rel="alternate" type="text/html" href="https://spyglass.org/openai-product-launches/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w7x" />
@@ -1917,80 +1948,6 @@ iPhone camera experience according to Apple.</p>
 
 <div>
 <a  title="Permanent link to ‘Apple Silicon Is Groundbreaking for AI’"  href="https://daringfireball.net/linked/2025/03/19/apple-silicon-is-groundbreaking-for-ai">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘Apple Needs to Get Out of the Way With AI’</title>
-	<link rel="alternate" type="text/html" href="https://shapeof.com/archives/2025/3/apple_needs_to_get_out_of_the_way_with_ai.html" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w6q" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/19/apple-needs-to-get-out-of-the-way-with-ai" />
-	<id>tag:daringfireball.net,2025:/linked//6.41714</id>
-	<published>2025-03-19T20:16:55Z</published>
-	<updated>2025-03-20T14:00:20Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Gus Mueller:</p>
-
-<blockquote>
-  <p>A week or so ago I was grousing to some friends that Apple needs
-to open up things on the Mac so other LLMs can step in where Siri
-is failing. In theory we (developers) could do this today, but I
-would love to see a blessed system where Apple provided APIs to
-other LLM providers.</p>
-
-<p>Are there security concerns? Yes, of course there are, there
-always will be. But I would like the choice.</p>
-
-<p>The crux of the issue in my mind is this: Apple has a lot of good
-ideas, but they don’t have a monopoly on them. I would like some
-other folks to come in and try their ideas out. I would like
-things to advance at the pace of the industry, and not Apple’s.
-Maybe with a blessed system in place, Apple could watch and see
-how people use LLMs and other generative models (instead of giving
-us Genmoji that look like something Fisher-Price would make). And
-maybe open up the existing Apple-only models to developers. There
-are locally installed image processing models that I would love to
-take advantage of in my apps.</p>
-</blockquote>
-
-<p>The analogy I used, <a href="https://daringfireball.net/linked/2025/03/10/yours-truly-guesting-on-upgrade-with-jason-snell">talking with Jason Snell during my guest stint on Upgrade last week</a>, was to the heyday of desktop publishing. The Mac was <em>the</em> platform for graphic design because it was the best platform for using design apps. Fonts worked better and looked better on the Mac. Printing worked better from Macs. Peripherals worked better. The apps themselves looked better on the Mac than they did on Windows. The Mac had taste and designers (hopefully) have taste. Graphic designers could understand how their machines worked, and maintain them themselves, in a way they couldn’t with PCs. </p>
-
-<p>But Apple didn’t make any of the actual apps. Companies like Adobe and Macromedia and Aldus did. Independent small developers made niche extensions for use inside apps like Photoshop, FreeHand, and QuarkXPress. When a new app came along like InDesign — which quickly ate Quark’s lunch — the Mac remained the dominant platform to use.</p>
-
-<p>Making a great platform where <em>other developers</em> can innovate is one of Apple’s core strengths. Apple got even <em>better</em> at it once Mac OS X hit its stride in the 2000s — the Cocoa APIs really did empower outside developers to make world-class apps providing experiences that couldn’t be matched on other platforms like Windows or Linux. Then it happened again, with a much bigger audience, with iOS. What desktop publishing was to the Mac in the 1990s, social media was to the iPhone in the 2010s. Apple didn’t make the apps — they made the best platform to use those apps.</p>
-
-<p>Apple should be laser focused on doing this for AI now. Where I quibble with Mueller is that I don’t want Apple to get out of the way. I want Apple to pave the roads to create the way. Apple doesn’t have to make the cars (<a href="https://www.npr.org/2024/02/27/1234315814/apple-cancels-electric-car">literally</a>) — just pave the best roads. Make the Mac <em>the</em> best platform for outside developers to create innovative AI systems and experiences. Make iOS <em>the</em> best consumer device to use AI apps from any outside developer. Work on APIs and frameworks for the AI age. No company has ever been better than Apple at designing and delivering those sort of APIs. Lean into that. It’s as useful, relevant, and profitable an institutional strength (and set of values) today as ever.</p>
-
-<p>In a follow-up post, <a href="https://shapeof.com/archives/2025/3/how_apple_could_help_developers_with_ai_and_llms.html">Mueller shows he’s thinking like I’m thinking</a>:</p>
-
-<blockquote>
-  <p>But off the top of my head, here’s one idea that I think could
-really help and reap benefits for both Apple and developers.</p>
-
-<p>Build a semantic index (SI), and allow apps to access it via
-permissions given similar to what we do for Address Book or
-Photos.</p>
-
-<p>Maybe even make the permissions to the SI a bit more fine-grained
-than you normally would for other personal databases. Historical
-GPS locations? Scraping contents of the screen over time? Indexed
-contents of document folder(s)? Make these options for what goes
-into the SI.</p>
-
-<p>And of course, the same would be true for building the SI. As a
-user, I’d love to be able to say “sure, capture what’s on the
-screen and scrape the text out of that, but nope - you better not
-track where I’ve been over time”.</p>
-</blockquote>
-
-<p>HealthKit already works a lot like what Mueller is suggesting here (for, say, “SemanticKit”). With explicit user permission — that can be revoked at any time — third party apps can both read from and write to your Health data. Apple does a lot of that itself, both through Apple Watch and from the various activity-related things an iPhone can track, but third-party apps and devices are welcome participants, in a private, easily-understood way.</p>
-
-<div>
-<a  title="Permanent link to ‘‘Apple Needs to Get Out of the Way With AI’’"  href="https://daringfireball.net/linked/2025/03/19/apple-needs-to-get-out-of-the-way-with-ai">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
