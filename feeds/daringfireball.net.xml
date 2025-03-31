@@ -7,13 +7,13 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-03-31T20:21:27Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-03-31T20:37:59Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/03/france_merde_decision_app_tracking_transparency" />
 	<link rel="shorturl" href="http://df4.us/w85" />
 	<id>tag:daringfireball.net,2025://1.41765</id>
 	<published>2025-03-31T19:46:31Z</published>
-	<updated>2025-03-31T20:21:27Z</updated>
+	<updated>2025-03-31T20:37:59Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -84,7 +84,7 @@ complex, as observed by the French data protection authority
 in a 2022 opinion issued at the request of the <em>Autorité</em>.</p>
 </blockquote>
 
-<p>It’s ostensibly “not necessary” because French and EU privacy laws are supposedly enough, and all that’s needed. And it’s unfair because now, under ATT, third-party surveillance advertisers who seek to track users across apps on iOS need to ask permission twice — first through the clear-as-a-bell “Ask App Not to Track” / “Allow Tracking” prompt required by Apple, and again through the byzantine but ultimately toothless permission requirements of France and the EU. ATT has had measurable effects because users understand it, and they prefer not to be tracked. EU and French privacy laws are largely ineffective because, in practice, they <a href="https://hep.physics.illinois.edu/home/g-gollin/1984_commercial_dialogue.html">bury users with confusion</a>. The bureaucratic hurdles they impose are to the benefit, not detriment, of the surveillance ad industry. That’s now proven out by industry groups — the ones ATT successfully tempered — successfully getting France’s regulators to penalize Apple. <em>Users</em> don’t know how to lobby government bureaucracies.</p>
+<p>It’s ostensibly “not necessary” because French and EU privacy laws are supposedly enough, and all that’s needed. And it’s unfair because now, under ATT, third-party surveillance advertisers who seek to track users across apps on iOS need to ask permission twice — first through the clear-as-a-bell “Ask App Not to Track” / “Allow Tracking” prompt required by Apple, and again through the byzantine but ultimately toothless permission requirements of France and the EU. ATT has had measurable effects because users understand it, and they prefer not to be tracked. EU and French privacy laws are largely ineffective because, in practice, they <a href="https://hep.physics.illinois.edu/home/g-gollin/1984_commercial_dialogue.html">bury users with confusion</a>. The bureaucratic hurdles they impose are to the benefit, not detriment, of the surveillance ad industry. That’s now proven out by industry groups — the ones ATT successfully tempered — successfully getting France’s regulators to penalize Apple. <em>Users</em> don’t know how to lobby government bureaucracies. What the <em>Autorité de la Concurrence</em> is saying, in so many words, is that two layers of consent is too much, and the only one that’s necessary is the one that advertising lobbying groups <em>don’t object to</em>, not the one they do (but which users understand and like).</p>
 
 <p>It’s clear that only one of these two things — Apple’s ATT or French/EU privacy regulations — was actually effective at reducing tracking: ATT. No one claimed that French or EU privacy laws resulted in Meta losing a fortune because they had to adjust their kleptomaniacal thievery of users’ privacy. But by all accounts, <a href="https://www.forbes.com/sites/danielnewman/2022/02/10/apple-meta-and-the-ten-billion-dollar-impact-of-privacy-changes/">including Meta’s own</a>, <a href="https://www.forbes.com/sites/kateoflahertyuk/2022/04/23/apple-just-issued-stunning-12-billion-blow-to-facebook/">ATT cost Meta billions</a>. And yes, ATT hurt small businesses too — small businesses that were built upon surreptitious tracking that users had neither awareness of nor control over. It’s like a consortium of sketchy pawn shops complaining to the authorities after a popular retailer successfully cracked down on an organized shoplifting/pickpocketing ring, and the authorities then fining the retailer for the damage to the pawnbrokers’ business fencing stolen goods — and for exposing the police as ineffective.</p>
 
@@ -100,7 +100,7 @@ in a 2022 opinion issued at the request of the <em>Autorité</em>.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/31/release-day-dot-four-versions" />
 	<id>tag:daringfireball.net,2025:/linked//6.41764</id>
 	<published>2025-03-31T18:23:39Z</published>
-	<updated>2025-03-31T20:07:20Z</updated>
+	<updated>2025-03-31T20:34:44Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -116,7 +116,7 @@ in a 2022 opinion issued at the request of the <em>Autorité</em>.</p>
 <li><a href="https://9to5mac.com/2025/03/31/tvos-18-4-now-available-with-new-design-changes-for-apple-tv-app/">tvOS 18.4</a> (UI tweaks to TV app).</li>
 </ul>
 
-<p>And the big new feature across all OSes: <a href="https://blog.emojipedia.org/apple-ios-18-4-emoji-changelog/">eight new emoji</a>.</p>
+<p>And the big new feature across all OSes: <a href="https://blog.emojipedia.org/apple-ios-18-4-emoji-changelog/">eight new emoji</a>. Also, <a href="https://webkit.org/blog/16574/webkit-features-in-safari-18-4/">lots of new WebKit features</a>.</p>
 
 <div>
 <a  title="Permanent link to ‘Release Day for Apple’s .4 OS Versions’"  href="https://daringfireball.net/linked/2025/03/31/release-day-dot-four-versions">&nbsp;★&nbsp;</a>
