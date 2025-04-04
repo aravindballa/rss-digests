@@ -7,7 +7,56 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-04-04T17:19:53Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-04-04T17:45:49Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Why Trump’s Tariffs Are Rattling Even Meta</title>
+	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2025/04/04/technology/trump-tariffs-meta.html" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w8m" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/04/04/trump-tariffs-meta" />
+	<id>tag:daringfireball.net,2025:/linked//6.41782</id>
+	<published>2025-04-04T17:43:34Z</published>
+	<updated>2025-04-04T17:45:49Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Mike Isaac, writing for The New York Times:</p>
+
+<blockquote>
+  <p>Apple, Dell, Oracle — which rely on hardware and global supply
+chains that are in the direct line of fire from tariffs — saw
+their shares go into free-fall. But there was another big tech
+company whose stock took a pummeling even though its core business
+has little to do with hardware: Meta. [...]</p>
+
+<p>The effect of tariffs on Meta’s ad business is simple. Many of
+its small and medium-sized advertisers are from all across the
+world. President Trump’s tariffs will instantly make it more
+expensive for them to sell their products to customers in the
+United States. [...]</p>
+
+<p>Last year, the company disclosed that 10 percent of <a href="https://www.nytimes.com/2024/03/06/business/google-meta-temu-shein.html">its revenue in
+2023 was from Chinese companies spending heavily</a> on advertising
+across Facebook and Instagram, an ad blitz aimed at garnering a
+foothold in lucrative Western markets.</p>
+
+<p>Much of that growth was fueled by the explosive expansion of the
+fast-fashion company Shein — which is based in Singapore but has
+a supply chain that is largely in China — and the e-commerce app
+Temu, a low-cost, Amazon-like company owned by the Chinese
+e-commerce conglomerate Pinduoduo. Temu was estimated to have
+spent $3 billion in marketing costs in 2023 alone, according to
+estimates from Bernstein Research.</p>
+</blockquote>
+
+<p>When the stock market began crumbling after Trump’s announcement, I didn’t get why Meta was being hit so hard. But it’s all interconnected. Meta makes devices, but it’s a side hustle, unlike Apple. Meta isn’t a retailer like Amazon. But Meta <em>is</em> a huge advertising destination for retailers.</p>
+
+<div>
+<a  title="Permanent link to ‘Why Trump’s Tariffs Are Rattling Even Meta’"  href="https://daringfireball.net/linked/2025/04/04/trump-tariffs-meta">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Nintendo Delays Switch 2 Preorders Over Tariff Concerns</title>
 	<link rel="alternate" type="text/html" href="https://www.theverge.com/news/643483/nintendo-switch-2-preorders-delayed-tariffs" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w8l" />
@@ -50,7 +99,7 @@ later date. The launch date of June 5, 2025 is unchanged.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/04/04/apple-cash-discover-visa" />
 	<id>tag:daringfireball.net,2025:/linked//6.41780</id>
 	<published>2025-04-04T17:09:15Z</published>
-	<updated>2025-04-04T17:09:15Z</updated>
+	<updated>2025-04-04T17:32:34Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -75,7 +124,7 @@ to forget it’s a Visa.</p>
 
 <p>So Apple Card is a credit card, with Goldman Sachs as the bank and Mastercard as the network. Apple definitely needs a new banking partner, <a href="https://daringfireball.net/linked/2023/07/03/goldman-apple-card-losses">as Goldman is exiting the consuming banking business</a>, and is rumored to be listening to offers from Visa and Amex to switch its network too.</p>
 
-<p>Apple Cash is a debit card, which launched on the Discover network but switched to Visa three years ago.</p>
+<p>Apple Cash is a debit card, which launched on the Discover network but switched to Visa three years ago — presumably with a nice kickback to Apple to get that Visa logo on the virtual cards in Wallet.</p>
 
 <div>
 <a  title="Permanent link to ‘Apple Cash Switched From Discover to Visa in 2022’"  href="https://daringfireball.net/linked/2025/04/04/apple-cash-discover-visa">&nbsp;★&nbsp;</a>
@@ -89,7 +138,7 @@ to forget it’s a Visa.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/04/04/costco-visa" />
 	<id>tag:daringfireball.net,2025:/linked//6.41779</id>
 	<published>2025-04-04T17:01:40Z</published>
-	<updated>2025-04-04T17:01:41Z</updated>
+	<updated>2025-04-04T17:29:17Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -97,7 +146,7 @@ to forget it’s a Visa.</p>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
 <p>I <a href="https://daringfireball.net/linked/2025/04/03/via-mastercard-apple-card">observed yesterday</a> that, in general, Visa and Mastercard credit cards are both accepted at the same locations. The most notable exception is Costco, which, as part of <a href="https://www.wsj.com/finance/banking/visa-wanted-a-vast-empire-first-it-had-to-beat-back-its-foes-3b3067f3?mod=article_inline">the deal to make its own credit card a Visa</a> (after long partnering with Amex), only accepts Visa credit cards at its physical retail locations and gas stations. They accept “most PIN-based debit/ATM cards”, but for credit, only Visa.</p>
 
-<p>Online, for reasons I don’t understand, Costco accepts Mastercard too (which they incorrectly style in camelcase — you’d think Costco, of all companies, would be sensitive to wrongly camelcased mid-name C’s).</p>
+<p>Online, for reasons I don’t understand, Costco accepts Mastercard too (which they incorrectly style in camelcase — you’d think Costco, of all companies, would be sensitive to wrongly camelcased mid-name C’s). Also, in Canada’s Costcos, it’s reversed, with Mastercard being exclusive in-store but Visa being accepted online.</p>
 
 <p>Another high-profile exception: <a href="https://www.olympics.com/ioc/news/visa-on-the-road-to-paris-a-commitment-to-diversity-inspiration-and-community">The Olympics</a>, which “proudly accepts only Visa for card and mobile payments, along with cash”.</p>
 
@@ -1948,39 +1997,6 @@ beat making, production, and mixing.</p>
 
 <div>
 <a  title="Permanent link to ‘Software Update for AirPods Max to Enable Lossless Audio and ‘Ultra-Low Latency’’"  href="https://daringfireball.net/linked/2025/03/24/airpods-max-lossless-audio-ultralow-low-latency">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Getting a Modern LLM Running on a 2005 PowerBook G4</title>
-	<link rel="alternate" type="text/html" href="http://www.theresistornetwork.com/2025/03/thinking-different-thinking-slowly-llms.html" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w7c" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/24/getting-a-modern-llm-running-on-powerbook-g4" />
-	<id>tag:daringfireball.net,2025:/linked//6.41736</id>
-	<published>2025-03-24T21:45:30Z</published>
-	<updated>2025-03-24T22:20:08Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Andrew Rossignol:</p>
-
-<blockquote>
-  <p>I have been diving into the world of large language models (LLMs),
-and a question began to gnaw at me: could I bring the cutting-edge
-of AI to the nostalgic glow of my trusty 2005 PowerBook G4? Armed
-with a 1.5GHz processor, a full gigabyte of RAM, and a limiting
-32-bit address space, I embarked on an experiment that actually
-yielded results. I have successfully managed to achieve LLM
-inference on this classic piece of Apple history, proving that
-even yesteryear’s hardware can have a taste of tomorrow’s AI.</p>
-</blockquote>
-
-<p>A fun project, well-explained. Even a great choice of computer to run it on — the 12-inch PowerBook G4 is one of the best-looking computers ever made. (<a href="https://www.macrumors.com/2025/03/24/powerbook-g4-generative-ai/">Via Joe Rossignol</a>.)</p>
-
-<div>
-<a  title="Permanent link to ‘Getting a Modern LLM Running on a 2005 PowerBook G4’"  href="https://daringfireball.net/linked/2025/03/24/getting-a-modern-llm-running-on-powerbook-g4">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
