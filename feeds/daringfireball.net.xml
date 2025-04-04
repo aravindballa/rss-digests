@@ -7,7 +7,52 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-04-04T16:02:14Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-04-04T16:31:53Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Bill Gates on the Creation of Microsoft, and the Source Code for Its First Product</title>
+	<link rel="alternate" type="text/html" href="https://www.gatesnotes.com/microsoft-original-source-code" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w8i" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/04/04/gates-microsoft-50-basic" />
+	<id>tag:daringfireball.net,2025:/linked//6.41778</id>
+	<published>2025-04-04T16:31:52Z</published>
+	<updated>2025-04-04T16:31:53Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Bill Gates, commemorating Microsoft’s 50th anniversary:</p>
+
+<blockquote>
+  <p>The story of how Microsoft came to be begins with, of
+all things, a magazine. The January 1975 issue of
+Popular Electronics featured an Altair 8800 on the
+cover. The Altair 8800, created by a small electronics
+company called MITS, was a groundbreaking personal
+computer kit that promised to bring computing power to
+hobbyists. When Paul and I saw that cover, we knew two
+things: the PC revolution was imminent, and we wanted
+to get in on the ground floor.</p>
+
+<p>At the time, personal computers were practically non-
+existent. Paul and I knew that creating software that
+let people program the Altair could revolutionize the
+way people interacted with these machines. So, we
+reached out to Ed Roberts, the founder of MITS, and
+told him we had a version of the programming language
+BASIC for the chip that the Altair 8800 ran on.</p>
+
+<p>There was just one problem: We didn’t.<br/>
+It was time to get to work.</p>
+</blockquote>
+
+<p>At the bottom Gates links to a printout of the original source code for the BASIC interpreter, in extensively commented assembly language. Amongst all of his other accomplishments, Bill Gates was one hell of a programmer.</p>
+
+<div>
+<a  title="Permanent link to ‘Bill Gates on the Creation of Microsoft, and the Source Code for Its First Product’"  href="https://daringfireball.net/linked/2025/04/04/gates-microsoft-50-basic">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>The Making of the Lumon Industries WoeMeter</title>
 	<link rel="alternate" type="text/html" href="https://make3.co/work/woemeter" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w8h" />
@@ -1991,32 +2036,6 @@ American personnel?</p>
 
 <div>
 <a  title="Permanent link to ‘The Talk Show: ‘Podcasting Technology Cadence’’"  href="https://daringfireball.net/linked/2025/03/23/the-talk-show-419">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Weekly Sponsorships Here at Daring Fireball</title>
-	<link rel="alternate" type="text/html" href="https://daringfireball.net/feeds/sponsors/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w78" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/21/weekly-sponsorship-here-at-daring-fireball" />
-	<id>tag:daringfireball.net,2025:/linked//6.41732</id>
-	<published>2025-03-21T22:38:27Z</published>
-	<updated>2025-03-22T16:24:59Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>How has your week been? My week was ... <a href="https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino">busy</a>. That includes a new episode of The Talk Show recorded yesterday, dropping in your favorite podcast app soon. Amidst all the writing (and talking) I’ve been doing, I’m also working on filling up open weeks on the sponsorship schedule for Q2.</p>
-
-<p>After a very full February and March, I’ve got a bunch of openings in the next few months — and openings for <s>the next two weeks, starting with this Monday</s>. <strong>Update:</strong> The coming week just sold, but the next week, starting March 31, remains open.</p>
-
-<p>Weekly sponsorships have been the top source of revenue for Daring Fireball ever since I started selling them <a href="https://daringfireball.net/feeds/sponsors/archive">back in 2007</a>. They’ve succeeded, I think, because they make everyone happy. They generate good money. There’s only one sponsor per week and the sponsors are always relevant to at least some sizable portion of the DF audience, so you, the reader, are never annoyed and hopefully often intrigued by them. And, from the sponsors’ perspective, they work. My favorite thing about them is how many sponsors <a href="https://daringfireball.net/feeds/sponsors/archive">return for subsequent weeks</a> after seeing the results.</p>
-
-<p>If you’ve got a product or service you think would be of interest to DF’s audience of people obsessed with high quality and good design, <a href="mailto:sponsors@daringfireball.net?subject=Feed%20Sponsorship">get in touch</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Weekly Sponsorships Here at Daring Fireball’"  href="https://daringfireball.net/linked/2025/03/21/weekly-sponsorship-here-at-daring-fireball">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
