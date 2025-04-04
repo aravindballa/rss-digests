@@ -7,13 +7,57 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-04-04T19:23:50Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-04-04T20:28:16Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>‘Floundering’</title>
+	<link rel="alternate" type="text/html" href="https://www.reuters.com/technology/will-trump-tariffs-make-apple-iphones-more-expensive-2025-04-03/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w8p" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/04/04/floundering-reuters" />
+	<id>tag:daringfireball.net,2025:/linked//6.41785</id>
+	<published>2025-04-04T20:28:00Z</published>
+	<updated>2025-04-04T20:28:16Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>From that same Reuters report by Akash Sriram <a href="https://sixcolors.com/post/2025/01/apples-reports-record-revenue-for-q1-2025/">that I just wrote about</a>, speculating that iPhone prices might rise dramatically under Trump’s tariffs:</p>
+
+<blockquote>
+  <p>However, other analysts noted that iPhone sales have been
+floundering in the company’s major markets, as Apple
+Intelligence, a suite of features that helps summarize
+notifications, rewrite emails and give users access to ChatGPT,
+has failed to enthuse buyers.</p>
+</blockquote>
+
+<p>Merriam-Webster defines <em><a href="https://www.merriam-webster.com/dictionary/flounder">flounder</a></em> thus:</p>
+
+<blockquote>
+  <p>: to struggle to move or obtain footing : thrash about wildly</p>
+</blockquote>
+
+<p>Here’s Jason Snell’s chart of iPhone sales <a href="https://sixcolors.com/post/2025/01/apples-reports-record-revenue-for-q1-2025/">through their most recent quarterly report</a> — a record-breaking quarter for the company overall — covering the last three calendar months of 2024:</p>
+
+<p><a href="https://daringfireball.net/misc/2025/04/iphone-revenue-q1-2025-six-colors.png" class="noborder">
+<img
+  src = "https://daringfireball.net/misc/2025/04/iphone-revenue-q1-2025-six-colors.png"
+  alt = "Chart showing remarkably flat, stable, consistent iPhone sales since 2022."
+/></a></p>
+
+<p>It’s certainly up for debate whether Apple Intelligence is an effective marketing driver for iPhone sales. I mean that with no snark. Maybe Apple Intelligence <em>is</em> driving iPhone sales. I don’t know why people have purchased new iPhones in the last six months. Neither do you, and neither do the “other analysts” (conveniently unnamed) cited by Reuters. But what we do know, because Apple reports the revenue numbers, is that iPhone sales have been remarkably flat, year-over-year, for the last 13 quarters.</p>
+
+<div>
+<a  title="Permanent link to ‘‘Floundering’’"  href="https://daringfireball.net/linked/2025/04/04/floundering-reuters">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/04/unchanging_prices_vs_nonsensical_tariffs" />
 	<link rel="shorturl" href="http://df4.us/w8o" />
 	<id>tag:daringfireball.net,2025://1.41784</id>
 	<published>2025-04-04T19:03:15Z</published>
-	<updated>2025-04-04T19:10:14Z</updated>
+	<updated>2025-04-04T20:16:23Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -24,14 +68,14 @@
 
 <blockquote>
   <p>Most iPhones are still made in China, which was hit with a 54%
-tariff. If those levies persist, Apple, opens new tab has a tough
-choice: absorb the extra expense or pass it on to customers.</p>
+tariff. If those levies persist, Apple has a tough choice: absorb
+the extra expense or pass it on to customers.</p>
 
 <p>Shares of the company closed down 9.3% on Thursday, hitting their
 worst day since March 2020.</p>
 </blockquote>
 
-<p>Apple shares are down another 5–6% percent so far today.</p>
+<p>Apple shares dropped <em>another</em> 7.3% percent today. Apple alone has lost 16.6% of its value in the last 48 hours; the S&amp;P 500 dropped 10%.</p>
 
 <blockquote>
   <p>The cheapest iPhone 16 model was launched in the U.S. with a
@@ -2021,38 +2065,6 @@ like more of a liability — than ever before.</p>
 
 	]]></content>
 	<title>[Sponsor] Lex.Games: Free Daily Word Games</title></entry><entry>
-	<title>Software Update for AirPods Max to Enable Lossless Audio and ‘Ultra-Low Latency’</title>
-	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2025/03/lossless-audio-and-ultra-low-latency-audio-come-to-airpods-max/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w7d" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/24/airpods-max-lossless-audio-ultralow-low-latency" />
-	<id>tag:daringfireball.net,2025:/linked//6.41737</id>
-	<published>2025-03-24T21:55:53Z</published>
-	<updated>2025-03-24T21:56:21Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Apple Newsroom:</p>
-
-<blockquote>
-  <p>Next month, a new software update will bring lossless audio and
-ultra-low latency audio to AirPods Max, delivering the ultimate
-listening experience and even greater performance for music
-production. With the included USB-C cable, users can enjoy the
-highest-quality audio across music, movies, and games, while music
-creators can experience significant enhancements to songwriting,
-beat making, production, and mixing.</p>
-</blockquote>
-
-<p>Apple also started selling <a href="https://www.apple.com/shop/product/MDV84AM/A/usb-c-to-35-mm-audio-cable-12-m">a new $40 USB-C to 3.5mm audio cable</a> — male USB-C on the side that goes into your AirPods Max, male headphone jack on the other side to go into the audio-out port on a Mac or, say, an airplane seat.</p>
-
-<div>
-<a  title="Permanent link to ‘Software Update for AirPods Max to Enable Lossless Audio and ‘Ultra-Low Latency’’"  href="https://daringfireball.net/linked/2025/03/24/airpods-max-lossless-audio-ultralow-low-latency">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/03/keyboard_maestro_hack_of_the_week_dont_paste_images" />
 	<link rel="shorturl" href="http://df4.us/w74" />
