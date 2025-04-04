@@ -7,7 +7,46 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-04-03T23:35:02Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-04-04T15:30:01Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Jason Snell’s M4 MacBook Air Review</title>
+	<link rel="alternate" type="text/html" href="https://sixcolors.com/post/2025/03/m4-macbook-air-review-am-i-blue/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w8g" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/04/04/snell-m4-macbook-air" />
+	<id>tag:daringfireball.net,2025:/linked//6.41776</id>
+	<published>2025-04-04T15:30:01Z</published>
+	<updated>2025-04-04T15:30:01Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jason Snell, last month:</p>
+
+<blockquote>
+  <p>The new M4 MacBook Air is the Mac most people should buy. [...]</p>
+
+<p>That’s why perhaps the most important change in the M4 MacBook Air
+is its base configuration, which starts at $999. When Apple
+introduced a winning new flat-with-rounded-corners Air design in
+2022, it had to keep selling older models in order to get down
+under a thousand dollars. Three years later, Apple is finally able
+to sell a brand-new Air — with a generous 16GB of unified memory — at that important price.</p>
+
+<p>So: No more quibbles about stepping back a generation or two to an
+older model with a lower price. Apple has done away with that
+strategy for the MacBook Air: The latest and greatest model is the
+one most people shopping for a Mac should buy, especially if
+they’re coming from an Intel model.</p>
+</blockquote>
+
+<p>I’d put off linking to Snell’s review for a few weeks while thinking about writing my own, but I’ve got nothing to add. The M4 MacBook Air is utterly unsurprising, but only in the best possible way. It’s the MacBook Air everyone wanted Apple to make. The $999 base model is now exceedingly recommendable. It even brings back the most notable feature that was lost in the transition from Intel to Apple Silicon — the ability to drive two external displays <em>and</em> its own internal display. Just aces all around.</p>
+
+<div>
+<a  title="Permanent link to ‘Jason Snell’s M4 MacBook Air Review’"  href="https://daringfireball.net/linked/2025/04/04/snell-m4-macbook-air">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>U.S. Transaction Shares for Visa, Mastercard, and Amex</title>
 	<link rel="alternate" type="text/html" href="https://www.wsj.com/finance/banking/visa-wanted-a-vast-empire-first-it-had-to-beat-back-its-foes-3b3067f3?mod=article_inline" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w8f" />
@@ -1967,44 +2006,6 @@ American personnel?</p>
 
 <div>
 <a  title="Permanent link to ‘WorkOS: Launch Week’"  href="https://daringfireball.net/linked/2025/03/21/workos-launch-week">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Ookla: ‘A First Look at How Apple’s C1 Modem Performs With Early Adopters’</title>
-	<link rel="alternate" type="text/html" href="https://www.ookla.com/articles/apples-c1-modem-early-adopters" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w76" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/21/ookla-16e-c1-modem-results" />
-	<id>tag:daringfireball.net,2025:/linked//6.41730</id>
-	<published>2025-03-21T22:34:29Z</published>
-	<updated>2025-03-22T15:43:41Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Ookla, the company behind the Speedtest download/upload bandwidth testing app:</p>
-
-<blockquote>
-  <p>Although it’s early in the adoption curve for the iPhone 16e, we
-analyzed the performance of the new device from March 1st through
-March 12th, and compared it to the performance of iPhone 16, which
-has a similar design and the same 6.1” screen. Both devices run on
-the same Apple-designed A18 SoC.</p>
-
-<p>When we compare Speedtest Intelligence data from the top 90th
-percentile (those with the highest performance experience) of
-iPhone 16e and iPhone 16 users from all three of the top U.S.
-operators, we see the iPhone 16 performing better in download
-speeds. However, at the opposite end, with the 10th percentile of
-users (those who experience the lowest performance) we see the
-iPhone 16e performing better than the iPhone 16.</p>
-</blockquote>
-
-<p>There are some differences, but overall the 16e’s cellular performance seems great for the frequencies it supports. And given the efficiency claims from Apple, it might be the better overall modem. (I also think the frequencies it <em>doesn’t</em> support don’t really matter all that much in real-world practice. If you know that you really make use of the crazy-high speeds of mmWave from Verizon, then you know the C1 modem is not for you.)</p>
-
-<div>
-<a  title="Permanent link to ‘Ookla: ‘A First Look at How Apple’s C1 Modem Performs With Early Adopters’’"  href="https://daringfireball.net/linked/2025/03/21/ookla-16e-c1-modem-results">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
