@@ -7,7 +7,46 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-04-05T22:00:13Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-04-05T22:16:31Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>The Pricing Stability of the iMac</title>
+	<link rel="alternate" type="text/html" href="https://sixcolors.com/post/2025/04/the-pinnacle-of-apples-price-stability-is-the-imac/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w8v" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/04/05/the-pricing-stability-of-the-imac" />
+	<id>tag:daringfireball.net,2025:/linked//6.41791</id>
+	<published>2025-04-05T22:16:30Z</published>
+	<updated>2025-04-05T22:16:31Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Dan Moren, writing at Six Colors:</p>
+
+<blockquote>
+  <p>In his piece, Gruber particularly calls out the trashcan Mac Pro
+sticking at $2999 throughout its existence, but I think an even
+more striking example is the iMac. Introduced in 1998 at a base
+price of $1299, today’s infinitely more powerful iMac M4 starts at
+… $1299.</p>
+
+<p>Granted, with inflation, those prices would be a little different.
+In researching the details, I came across <a href="https://www.perfectrec.com/posts/iMac-price-history">this great piece from
+PerfectRec</a> charting the iMac’s price history over the years,
+including adjusting for inflation. Impressively, while the iMac’s
+base price has dipped as low as $1099 in all that time, it’s never
+gone <em>over</em> $1299.</p>
+</blockquote>
+
+<p>What a great example. And bringing inflation into the mix is a key factor I neglected to make <a href="https://daringfireball.net/2025/04/unchanging_prices_vs_nonsensical_tariffs">yesterday</a>. Moore’s Law makes computers very strange manufactured goods. A Honda Civic LX cost about $15,000 in 1998, but now costs about $25,000. BMW 3-series sedans went from around $30,000 to $45,000. But the iMac still starts at $1,299.</p>
+
+<p>Pricing stability is a way that Apple keeps these two forces — Moore’s Law and inflation — in balance.</p>
+
+<div>
+<a  title="Permanent link to ‘The Pricing Stability of the iMac’"  href="https://daringfireball.net/linked/2025/04/05/the-pricing-stability-of-the-imac">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Perhaps the E.U. Took Mercy on Apple and Meta (and Investors) This Week</title>
 	<link rel="alternate" type="text/html" href="https://www.ft.com/content/c3933e2f-787e-453b-82eb-a981ddd48a31" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w8u" />
@@ -1917,60 +1956,6 @@ devices. This alone creates a host of cybersecurity issues.</p>
 
 <div>
 <a  title="Permanent link to ‘The Problem Is Far More Than Just Whether Signal Is ‘Secure’’"  href="https://daringfireball.net/linked/2025/03/25/the-problem-is-far-more-than-just-whether-signal-is-secure">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Days After the Trump National Security Team’s Signal Leak, the Pentagon Warned That Russian Hackers Are Using Phishing Attacks to Abuse Signal’s ‘Linked Devices’ Feature</title>
-	<link rel="alternate" type="text/html" href="https://www.npr.org/2025/03/25/nx-s1-5339801/pentagon-email-signal-vulnerability" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w7l" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/25/pentagon-signal-linked-devices" />
-	<id>tag:daringfireball.net,2025:/linked//6.41745</id>
-	<published>2025-03-25T20:19:15Z</published>
-	<updated>2025-03-25T21:00:17Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>NPR:</p>
-
-<blockquote>
-  <p>Several days after top national security officials accidentally
-included a reporter in a Signal chat about bombing Houthi sites in
-Yemen, a Pentagon-wide advisory warned against using the messaging
-app, even for unclassified information.</p>
-
-<p>“A vulnerability has been identified in the Signal messenger
-application,” begins the department-wide email, dated March 18,
-obtained by NPR. The memo continues, “Russian professional hacking
-groups are employing the ‘linked devices’ features to spy on
-encrypted conversations.” It notes that <a href="https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger">Google has
-identified</a> Russian hacking groups who are “targeting Signal
-Messenger to spy on persons of interest.”</p>
-</blockquote>
-
-<p>It’s not a weakness in Signal’s cryptography, it’s a hole in their device-mirroring setup. From that <a href="https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger">Google Threat Intelligence post</a>, published last month:</p>
-
-<blockquote>
-  <p>The most novel and widely used technique underpinning
-Russian-aligned attempts to compromise Signal accounts is the
-abuse of the app’s legitimate “<a href="https://support.signal.org/hc/en-us/articles/360007320551-Linked-Devices">linked devices</a>” feature that
-enables Signal to be used on multiple devices concurrently.
-Because linking an additional device typically requires scanning a
-quick-response (QR) code, threat actors have resorted to crafting
-malicious QR codes that, when scanned, will link a victim’s
-account to an actor-controlled Signal instance. If successful,
-future messages will be delivered synchronously to both the victim
-and the threat actor in real-time, providing a persistent means to
-eavesdrop on the victim’s secure conversations without the need
-for full-device compromise.</p>
-</blockquote>
-
-<p>You’d have to be a bit of a doofus to fall for such a phishing attack if you were in a national security leadership position, but, well, our national security leadership positions are <a href="https://daringfireball.net/linked/2025/03/24/trump-admin-included-goldberg-in-yemen-war-plan-signal-group">currently occupied</a> by what the Russians call “useful idiots”.</p>
-
-<div>
-<a  title="Permanent link to ‘Days After the Trump National Security Team’s Signal Leak, the Pentagon Warned That Russian Hackers Are Using Phishing Attacks to Abuse Signal’s ‘Linked Devices’ Feature’"  href="https://daringfireball.net/linked/2025/03/25/pentagon-signal-linked-devices">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
