@@ -7,7 +7,53 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-04-06T20:23:22Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-04-06T20:49:44Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Democracy</title>
+	<link rel="alternate" type="text/html" href="https://protectdemocracy.org/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w8y" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/04/06/democracy" />
+	<id>tag:daringfireball.net,2025:/linked//6.41794</id>
+	<published>2025-04-06T20:49:44Z</published>
+	<updated>2025-04-06T20:49:44Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My sincere thanks to The Ole Independence Hall Hooligans for sponsoring this past week at DF to promote democracy. That’s it. A real sponsorship, real money, raised by a group of readers who simply wanted the ad space on DF to promote, as they described it, “the enduring and aspirational project that is democracy.”</p>
+
+<p>In <a href="https://daringfireball.net/feeds/sponsors/2025/03/democracy">their sponsored RSS entry</a> to start the week, they quoted <a href="https://www.archives.gov/founding-docs/constitution-transcript">the preamble to the US Constitution</a>. I’ll go a decade earlier, and quote from <a href="https://www.archives.gov/founding-docs/declaration-transcript">the Declaration of Independence</a>:</p>
+
+<blockquote>
+  <p>The history of the present King of Great Britain is a history of
+repeated injuries and usurpations, all having in direct object the
+establishment of an absolute Tyranny over these States. To prove
+this, let Facts be submitted to a candid world.</p>
+
+<p>He has refused his Assent to Laws, the most wholesome and
+necessary for the public good. [...]</p>
+
+<p>He has made Judges dependent on his Will alone, for the tenure of
+their offices, and the amount and payment of their salaries. [...]</p>
+
+<p>For cutting off our Trade with all parts of the world:</p>
+
+<p>For imposing Taxes on us without our Consent:</p>
+
+<p>For depriving us in many cases, of the benefits of Trial by Jury:</p>
+
+<p>For transporting us beyond Seas to be tried for pretended
+offences:</p>
+</blockquote>
+
+<p>Sounds like someone in the news today (and yesterday, and alas, tomorrow). There is no greater threat to democracy itself than a delusional mad king, whether he wears a crown or a ridiculous ugly red cap. Take action and make your voice heard now — democracy in action is democracy’s only defense.</p>
+
+<div>
+<a  title="Permanent link to ‘Democracy’"  href="https://daringfireball.net/linked/2025/04/06/democracy">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Millions Attend ‘Hands Off’ Protests Across U.S. — and Europe — to Oppose Trump’s Agenda</title>
 	<link rel="alternate" type="text/html" href="https://www.theguardian.com/world/live/2025/apr/05/hands-off-protests-trump-administration" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w8x" />
@@ -1879,41 +1925,6 @@ guarantee of their loyalty.</p>
 
 <div>
 <a  title="Permanent link to ‘Of Course Trump Has Surrounded Himself With Idiots This Time Around’"  href="https://daringfireball.net/linked/2025/03/25/trump-has-surrounded-himself-with-idiots">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Notification Summary Miscues</title>
-	<link rel="alternate" type="text/html" href="https://onefoottsunami.com/2025/03/20/erroneous-notification-summaries/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w7o" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/25/notification-summary-miscues" />
-	<id>tag:daringfireball.net,2025:/linked//6.41748</id>
-	<published>2025-03-25T21:43:35Z</published>
-	<updated>2025-03-25T23:08:16Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Paul Kafasis:</p>
-
-<blockquote>
-  <p>Since they were first enabled last year, I have frequently found
-Apple Intelligence’s notification summaries for emails to be
-something less than helpful. Here are some I spotted in just the
-past few days.</p>
-</blockquote>
-
-<p>The first one of these is particularly interesting because it highlights a key area where LLMs are frustratingly stupid. Kafasis got a notification summary from Apple Intelligence claiming “Package shipped for $427 order” for a used book he’d purchased. The email from Amazon, from which Apple Intelligence gleaned the information, had the price formatted thus: $4²⁷ — omitting the decimal and putting the cents in superscript. That’s a centuries-old formatting idiom for prices that remains common — <a href="https://duckduckgo.com/?q=walmart+price+sign&amp;iax=images&amp;ia=images">e.g. at Walmart</a> — to this day. But Apple Intelligence just sees dollar-sign, four, two, seven, and thus $427.</p>
-
-<p>That’s just stupid.</p>
-
-<p>But where it really gets frustrating is that everyone has to learn this at some point. If you were at Walmart with a kid, and the kid asked why, say, dog food is so expensive, pointing to a sign that says it cost $9⁸⁷ per bag, you’d explain it, once, and the kid would never forget it. “<em>Oh, that’s just another way of writing nine dollars and eighty-seven cents — they do it that way to emphasize the dollar amount and de-emphasize the cents, which really don’t matter.</em>” This would make intuitive sense to the child as well, because they know dog food probably costs about $10 per bag, not $1,000 per bag.</p>
-
-<p>There is no way to properly explain something like this to an LLM (yet?). You can’t teach it like we do with children. Or at least you can’t do it in a way that jibes with our human sense of “learning” — it’s more like how the Guy Pearce protagonist “learns” in Christopher Nolan’s <em><a href="https://www.themoviedb.org/movie/77-memento?language=en-US">Memento</a></em>. <em>Here, tattoo another thing to remember on your arm.</em> But at least ChatGPT is <em>trying</em> to learn about us, albeit in its crude <em>Memento</em>-like way. With Apple Intelligence in particular, you can’t teach it <em>at all</em>. There’s no place in the system where you can correct the very simple, easily-explained mistake it made upon seeing <em>$4²⁷</em> in an email. The next time an email from Amazon comes with a price formatted like that, Apple Intelligence is likely to summarize it the exact same wrong way — off by a factor of 100 — again. And there’s nothing we can do about it.</p>
-
-<div>
-<a  title="Permanent link to ‘Notification Summary Miscues’"  href="https://daringfireball.net/linked/2025/03/25/notification-summary-miscues">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
