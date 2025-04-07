@@ -2073,9 +2073,4 @@ else
 
 <p>If the clipboard <em>doesn’t</em> contain an image, then Keyboard Maestro simulates a ⌘V shortcut and that gets passed to MarsEdit, and from my perspective as a user, it’s just like a normal paste of the text I expected. I have a few macros that work like this, where the macro is trigged by an application’s own keyboard shortcut, and the macro will (if certain conditions are met) pass through the same simulated keyboard shortcut to the application. When I first tried this, many years ago, I was half worried that it would trigger an infinite loop, where the simulated keystroke from the Keyboard Maestro macro would re-trigger the macro. I was wrong to worry — Keyboard Maestro is too clever for that.</p>
 
-<p>You almost certainly don’t have my particular problem with the occasional inadvertent pasting of images into MarsEdit. But I bet you have your own esoteric annoyances related to your own most-used apps and most-frequent tasks. Keyboard Maestro lets you effectively add your own little features to your favorite apps — often with no “scripting” at all. The best part is, while writing this very blog post, my new “Don’t Paste Images” macro saved me from seeing that cursed Upload Utility window once more, because I had the screenshot of the macro on my clipboard, when I thought I had copied the URL for it on my server.</p>
-
-
-
-    ]]></content>
-  <title>★ Keyboard Maestro Hack of the Week: Don’t Paste Images</title></entry></feed><!-- THE END -->
+<p>You almost certainly don’t have my particular problem with the occasional inadvertent pasting of images into MarsEdit. But I bet you have your own esoteric annoyances related to your own most-used apps and most-frequent tasks. Keyboard Maestro lets you effectively add your own little features to your favorite apps — often with no “scripting” at all. The best part is, while writing this very blog post, my new “Don’t Paste Images” macro saved me from seeing that cursed Upload Utility
