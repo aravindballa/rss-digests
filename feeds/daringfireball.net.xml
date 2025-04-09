@@ -7,7 +7,64 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-04-09T19:49:32Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-04-09T20:46:56Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/04/how_many_iphones_can_fit_on_a_freight_plane" />
+	<link rel="shorturl" href="http://df4.us/w93" />
+	<id>tag:daringfireball.net,2025://1.41799</id>
+	<published>2025-04-09T20:46:55Z</published>
+	<updated>2025-04-09T20:46:56Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">This sounds like one of those puzzles job interviewers often ask, but there’s a practical relevance at the moment.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>This sounds like one of those puzzles job interviewers often ask, but there’s a practical relevance at the moment: What’s a ballpark estimate for how many iPhones Apple might have hustled to ship into the US <a href="https://daringfireball.net/linked/2025/04/08/plane-of-iphones-from-india-and-china">on those five freight planes</a> ahead of the new tariffs? <a href="https://x.com/rjonesy/status/1909770872778338793">Ryan Jones tackled it in a post on X</a>:</p>
+
+<blockquote>
+  <p>A whopping 12 days of sales. At most.</p>
+
+<p>Math: <br />
+• B747 Freighter carries 300,000 lbs <br />
+• boxed iPhone is 0.9 lbs <br />
+= 350K iPhones per plane</p>
+</blockquote>
+
+<p>I like Jones’s ballpark math here. Let’s not worry about volume, just weight. If we’re wrong about the volume, it can only mean <em>fewer</em> new-in-box iPhones can fit per plane. There’s no way to (safely) exceed <a href="https://www.cargolux.com/fleet-equipment/aircraft/747-8f-specifications/">the weight limit of a plane</a>.</p>
+
+<p>Jones also estimates that Apple sells about 150,000 new iPhones in the US per day, at least in the typical April–June quarter — which I concur is a good ballpark figure. So each plane can carry a little over two days’ worth of US domestic iPhones. That means <a href="https://timesofindia.indiatimes.com/technology/mobiles-tabs/how-apple-flew-5-flights-full-of-iphones-from-india-and-china-in-3-days-to-beat-trump-tariffs/articleshow/120044321.cms">if the Times of India is correct</a> that Apple “transported five planes full of iPhones and other products from India to the US in just three days during the final week of March”, those five planes combined carried, at the most, about 12 days’ worth of new US iPhones.</p>
+
+<p>Now that’s just from India. And those are just the five planes the Times of India heard about. It seems safe to presume Apple might have hustled even more planes out of China and Vietnam. But again, at most, each plane full of Apple products carries about two days’ worth of products. We did our napkin math using iPhones, but “1 full plane = 2 days of inventory” can’t be far off the mark, no matter what the mix of product is in each plane’s cargo hold.</p>
+
+<p>350,000 iPhones packed onto a single plane is a lot of iPhones. Sending a few million units across a dozen (or more!) planes is, quite literally, tons of iPhones. But Apple sells about <em>50 tons</em> of new iPhones in the US alone every day. We all know that Apple’s iPhone business is huge. But when you start to consider it in practical terms like this it’s just staggering.</p>
+
+<p>There’s no way Apple can “beat” these Trump tariffs by having shipped products ahead of their taking effect. Could they hedge against two or three weeks of tumult? Maybe a month, tops? Yes, and it seems like maybe that’s what they did. But no matter how many planes they filled — or how many container ships they might have had the foresight to send a month or two ago — there are very practical limits to inventory, too. Apple’s warehouses are likely designed with one or two weeks of inventory in mind. You can’t just rent random warehouse space to hold billions of dollars worth of iPhones.</p>
+
+<p><a href="https://money.cnn.com/2011/08/24/technology/cook_apple.fortune/index.htm">From Adam Lashinsky’s 2008 profile of Tim Cook for Fortune</a>:</p>
+
+<blockquote>
+  <p>Almost from the time he showed up at Apple, Cook knew he had to
+pull the company out of manufacturing. He closed factories and
+warehouses around the world and instead established relationships
+with contract manufacturers. As a result, Apple’s inventory,
+measured by the amount of time it sat on the company’s balance
+sheet, quickly fell from months to days. Inventory, Cook has said,
+is “fundamentally evil,” and he has been known to observe that it
+declines in value by 1% to 2% a week in normal times, faster in
+tough times like the present.</p>
+
+<p>“You kind of want to manage it like you’re in the dairy business,”
+he has said. “If it gets past its freshness date, you have a
+problem.”</p>
+</blockquote>
+
+<p>Apple’s entire supply chain is rightly heralded as genius, a triumph of everything from component sourcing to assembly to transport. But the entire operation is premised on the continuous free flow of packaged products out of China. Apple never holds much inventory, of anything, anywhere in the world.</p>
+
+
+
+    ]]></content>
+  <title>★ How Many New iPhones Can Fit on a Freight Plane?</title></entry><entry>
 	<title>Trump Cuts Most Tariffs to 10% but Increases Tariffs on China to 125%</title>
 	<link rel="alternate" type="text/html" href="https://truthsocial.com/@realDonaldTrump/posts/114309144289505174" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w92" />
@@ -1990,48 +2047,4 @@ what it aspired to be. Bluesky might be that.</p>
 
 
     ]]></content>
-  <title>★ It Might Be Time for Me to Collect Some Being Right Points for My 2023 Bluesky Prediction</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/03/keyboard_maestro_hack_of_the_week_dont_paste_images" />
-	<link rel="shorturl" href="http://df4.us/w74" />
-	<id>tag:daringfireball.net,2025://1.41728</id>
-	<published>2025-03-21T19:37:49Z</published>
-	<updated>2025-03-22T16:31:39Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">I keep meaning to write more about Keyboard Maestro, and so I’m just going to start documenting all the little use cases I find for it. Here’s one from today.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>My number one tip for becoming a Mac power user is to get into <a href="https://www.keyboardmaestro.com/main/">Keyboard Maestro</a>. Using Keyboard Maestro feels like gaining superpowers. I keep meaning to write more about Keyboard Maestro, and so I’m just going to start documenting all the little use cases I find for it. Here’s one from today.</p>
-
-<p>I use <a href="https://redsweater.com/marsedit/">MarsEdit</a> to publish at least 99 percent of the posts on this site. (The other 1 percent are posts I create on my phone, using the web interface for Movable Type.) I use MarsEdit <em>a lot</em>. About once a week or so, I accidentally try to paste text in MarsEdit when I think I have text on my clipboard, but it’s actually an image. When you paste an image in MarsEdit, it’s not like pasting into Mail or Notes or TextEdit, where the image just goes into the text. So MarsEdit, trying to be helpful, opens its <a href="https://daringfireball.net/misc/2025/03/marsedit-upload-utility.png">Upload Utility window</a> — which, if I were using WordPress or some other CMS, might allow me to upload the image to my server for referencing from the HTML of the blog post. That’s not how my system works, and not how I want it to work, so every time this happens I have to close the Upload Utility window. And every time, I try to do this by hitting the Esc key on my keyboard. But the Upload Utility window isn’t a dialog box with a Cancel button that would be triggered by Esc. It’s a regular window. So after hitting the Esc key, which doesn’t do anything in this context, I then remember, once again, that I need to hit ⌘W instead. (I think I don’t naturally think to hit ⌘W because my instincts tell me ⌘W would try to close the blog window I’m writing in.)</p>
-
-<p>Today it happened again, and finally the notion occurred to me that I could fix this with Keyboard Maestro. My first thought was that I could create a macro that <em>would</em> close the frontmost window in MarsEdit if, and only if, the frontmost window was named “Upload Utility”. A second later it occurred to me that I could probably do better than that, and prevent the Upload Utility window from opening in the first place if I ever try to paste an image in MarsEdit.</p>
-
-<p>I was right. This wasn’t just super easy to create in Keyboard Maestro, it was super quick. I’ve spent 10× more time writing about this macro here than I did creating it. I think that’s why I so seldom write about my little hacks in Keyboard Maestro — they not only save me time and eliminate annoyances once they’re created, but they’re so easy to create that I just get back to whatever I was previously doing after making a new one.</p>
-
-<p>First, I have a group (think: folders) in Keyboard Maestro for every app for which I’ve created app-specific macros. You just create a new group and set it to only be available when one (or more) specific applications are active. Inside my group for MarsEdit, I created a new macro named “Don’t Paste Images”.</p>
-
-<p>It’s triggered by the hot key sequence ⌘V. That means every single time I paste in MarsEdit, this macro will run. Keyboard Maestro is so frigging fast that I’ll never notice. (Keyboard Maestro macros execute so fast that in some scenarios, you have to add steps to pause for, say, 0.2 seconds to keep the macro from getting ahead of the user interface it’s manipulating.)</p>
-
-<p>The macro executes a simple <a href="https://wiki.keyboardmaestro.com/action/If_Then_Else">if-then-else action</a> with the following pseudocode logic:</p>
-
-<pre><code>if the System Clipboard has an image
-    play a sound
-else
-    simulate the keystroke ⌘V
-</code></pre>
-
-<p>That’s the whole thing. And it worked perfectly the first time I tried it. <a href="https://daringfireball.net/misc/2025/03/km-dont-paste-images-marsedit.png">Here’s a screenshot of my macro</a>.</p>
-
-<p>So if <em>I</em> type ⌘V in MarsEdit, and the clipboard contains an image, I just hear a beep. (I could just default to the system beep, but I chose the standard MacOS “Bottle” sound just for this macro — I sort of want to know that it’s <em>this</em> macro keeping me from pasting whatever text I wrongly thought was on my clipboard, so I want a distinctive sound to play.) Nothing gets pasted, so MarsEdit’s Upload Utility window doesn’t appear.</p>
-
-<p>If the clipboard <em>doesn’t</em> contain an image, then Keyboard Maestro simulates a ⌘V shortcut and that gets passed to MarsEdit, and from my perspective as a user, it’s just like a normal paste of the text I expected. I have a few macros that work like this, where the macro is trigged by an application’s own keyboard shortcut, and the macro will (if certain conditions are met) pass through the same simulated keyboard shortcut to the application. When I first tried this, many years ago, I was half worried that it would trigger an infinite loop, where the simulated keystroke from the Keyboard Maestro macro would re-trigger the macro. I was wrong to worry — Keyboard Maestro is too clever for that.</p>
-
-<p>You almost certainly don’t have my particular problem with the occasional inadvertent pasting of images into MarsEdit. But I bet you have your own esoteric annoyances related to your own most-used apps and most-frequent tasks. Keyboard Maestro lets you effectively add your own little features to your favorite apps — often with no “scripting” at all. The best part is, while writing this very blog post, my new “Don’t Paste Images” macro saved me from seeing that cursed Upload Utility window once more, because I had the screenshot of the macro on my clipboard, when I thought I had copied the URL for it on my server.</p>
-
-
-
-    ]]></content>
-  <title>★ Keyboard Maestro Hack of the Week: Don’t Paste Images</title></entry></feed><!-- THE END -->
+  <title>★ It Might Be Time for Me to Collect Some Being Right Points for My 2023 Bluesky Prediction</title></entry></feed><!-- THE END -->
