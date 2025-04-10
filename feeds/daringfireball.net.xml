@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-04-10T01:42:42Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-04-10T19:23:04Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>‘American Disruption’</title>
 	<link rel="alternate" type="text/html" href="https://stratechery.com/2025/american-disruption/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w96" />
@@ -129,7 +129,7 @@ fantasy.”</p>
 	<link rel="shorturl" href="http://df4.us/w94" />
 	<id>tag:daringfireball.net,2025://1.41800</id>
 	<published>2025-04-09T23:11:05Z</published>
-	<updated>2025-04-09T23:44:21Z</updated>
+	<updated>2025-04-10T19:18:08Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -194,7 +194,7 @@ time, in Safari Technology Preview 216.</p>
 
 <p>With the new <code>text-wrap: pretty</code>, the entire paragraph for the first list item is noticeably wider than the subsequent ones (and noticeably wider than the one preceding the list). To me, there’s so much disparity between paragraph widths that it’s distracting, even though each paragraph, taken on its own, looks better. But you don’t take paragraphs on their own when reading.</p>
 
-<p>I suspect (informed by toying with <a href="https://codepen.io/jensimmons/full/xxvoqNM">Simmons’s fun interactive demo page</a> using STP 216) that this initial WebKit <code>text-wrap: pretty</code> layout algorithm works better with wider column widths than are currently specified on Daring Fireball. With a little more width to play with, there seems to be less back-and-forth change from paragraph to paragraph.</p>
+<p>I suspect (informed by toying with <a href="https://codepen.io/jensimmons/full/xxvoqNM">Simmons’s fun interactive demo page</a> using STP 216) that this initial WebKit <code>text-wrap: pretty</code> layout algorithm works better with wider column widths than are currently specified on Daring Fireball. When there’s a little more width to play with, there seems to be less back-and-forth change from paragraph to paragraph.</p>
 
 <p>So, for my purposes, this might be yet another improvement that will need to wait for the long-promised-but-who-knows-when-it-might-actually-happen-but-I-swear-I-think-about-it-quite-a-bit-and-a-few-years-ago-even-had-something-in-motion-but-then-let-the-project-drop layout modernization here. But, even with a nice responsive design, column widths on phones are inherently narrow, so I think this algorithm ought to be tweaked to render more consistent paragraph widths in narrow-ish columns.</p>
 
@@ -429,7 +429,7 @@ offences:</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/04/06/the-spectacle-of-incompetence" />
 	<id>tag:daringfireball.net,2025:/linked//6.41795</id>
 	<published>2025-04-06T20:45:00Z</published>
-	<updated>2025-04-06T23:46:36Z</updated>
+	<updated>2025-04-10T19:23:04Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -456,7 +456,7 @@ of reporters in the Oval Office.</p>
 
 <p><a href="https://daringfireball.net/linked/2021/05/03/thompson-no-vaxxers">These idiots think vaccines</a> — one of the great breakthroughs in the history of science and medicine — are a bigger health risk than the diseases they immunize against. Now there are unvaccinated American kids dying from measles, a disease that was effectively wiped out in the modern world by the time I was born.</p>
 
-<p>These idiots think the universe is 4,000 years old.</p>
+<p>These idiots think the universe is only 6,000 years old.</p>
 
 <p>Now they’re bringing the same sort of idiocy, unbound by critical thinking, history, or anything recognized as economic expertise, to trade policy.</p>
 
