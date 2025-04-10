@@ -7,7 +7,88 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-04-10T19:23:04Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-04-10T21:58:28Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Wayne Ma at The Information: ‘How Apple Fumbled Siri’s AI Makeover’</title>
+	<link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/apple-fumbled-siris-ai-makeover?rc=jfy0lk" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w97" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/04/10/wayne-ma-the-information-apple-siri-fumble" />
+	<id>tag:daringfireball.net,2025:/linked//6.41803</id>
+	<published>2025-04-10T21:58:28Z</published>
+	<updated>2025-04-10T21:58:28Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Blockbuster report by Wayne Ma for The Information (paywalled and pricey, alas):</p>
+
+<blockquote>
+  <p>But an equally important factor was the conflicting personalities
+within Apple, according to multiple people who worked in the AI
+and software engineering groups. More than half a dozen former
+Apple employees who worked in the AI and machine-learning group
+led by Giannandrea — known as AI/ML for short — told The
+Information that poor leadership is to blame for its problems with
+execution. They singled out Walker as lacking both ambition and an
+appetite for taking risks on designing future versions of the
+voice assistant.</p>
+
+<p>Among engineers inside Apple, the AI group’s relaxed culture and
+struggles with execution have even earned it an uncharitable
+nickname, a play on its initials: AIMLess.</p>
+</blockquote>
+
+<p>Ouch. Ma names names, and the report is full of scoops:</p>
+
+<blockquote>
+  <p>One Siri leader often criticized by colleagues was Walker, who
+joined Apple in 2013 and became responsible for its daily
+operations at the end of 2022. In the eyes of his critics, Walker
+was unwilling to take big risks on Siri and focused on metrics
+that didn’t move the needle much on its performance, rather than
+having a grand vision for overhauling the voice assistant.</p>
+
+<p>For instance, he often celebrated small wins such as reducing by
+minute percentages the delay between when someone asked Siri a
+question and when it responded, former Apple engineers said.
+Another pet Walker project was removing the “hey” from the “hey
+Siri” voice command used to invoke the assistant, which took more
+than two years to accomplish, they said.</p>
+</blockquote>
+
+<p>What Ma describes is a scenario where Walker missed the fact that whole forest sucked and didn’t work while focusing on one or two nice trees. Faster response times are a great win, no question, but marginally faster wrong or useless answers are not a win. (I’m almost not sure eliminating the requirement to use the verbal “hey” prefix was a win at all. It’s purely anecdotal and personal, but I think I get more unwanted invocations now than I did when “Hey Siri” was the required prompt. Like when I’m talking to someone and start a sentence with “Seriously …” Siri will kick in on one of my devices with a “Sorry, I didn’t catch that.”)</p>
+
+<p>One last nugget:</p>
+
+<blockquote>
+  <p>Other resentments also built up. Some in the software engineering
+group were annoyed by the higher pay and faster promotions their
+colleagues in the AI group were receiving. And they were bitter
+that some engineers in the AI group seemed to be able to take
+longer vacations and leave early on Fridays, while they faced
+more-punishing work schedules.</p>
+
+<p>Distrust between the two groups got so bad that earlier this year
+one of Giannandrea’s deputies asked engineers to extensively
+document the development of a joint project so that if it failed,
+Federighi’s group couldn’t scapegoat the AI team.</p>
+
+<p>It didn’t help the relations between the groups when Federighi
+began amassing his own team of hundreds of machine-learning
+engineers that goes by the name Intelligent Systems and is run by
+one of Federighi’s top deputies, Sebastien Marineau-Mes.</p>
+</blockquote>
+
+<p>Hundreds of engineers for a machine learning team outside Apple’s AI/ML division sounds like the definition of dysfunction. I really doubt Federighi has also assembled a large team of silicon engineers outside Johny Srouji’s division, because Srouji’s team is not merely functional, but rightly regarded as one the highest-functioning engineering divisions in any field in the world.</p>
+
+<p>I wish I could share a gift link to Ma’s report, but The Information’s gift links for subscribers only work for up to three people. The best I can do is <a href="https://www.macrumors.com/2025/04/10/chaos-behind-siri-revealed/">point to Hartley Charlton’s summary for MacRumors</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Wayne Ma at The Information: ‘How Apple Fumbled Siri’s AI Makeover’’"  href="https://daringfireball.net/linked/2025/04/10/wayne-ma-the-information-apple-siri-fumble">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘American Disruption’</title>
 	<link rel="alternate" type="text/html" href="https://stratechery.com/2025/american-disruption/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w96" />
@@ -1987,62 +2068,6 @@ loving feeling.</p>
 
 <div>
 <a  title="Permanent link to ‘Yours Truly on ‘Geared Up’’"  href="https://daringfireball.net/linked/2025/03/27/geared-up">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>You’ll Never Guess Which Recent DF Article Was ‘Flagged’ at Hacker News</title>
-	<link rel="alternate" type="text/html" href="https://news.ycombinator.com/item?id=43489058" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w7v" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/03/27/youll-never-guess-which-recent-df-article-was-flagged-at-hacker-news" />
-	<id>tag:daringfireball.net,2025:/linked//6.41755</id>
-	<published>2025-03-27T15:46:49Z</published>
-	<updated>2025-03-28T16:14:43Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>“Flagging” isn’t what I was writing about yesterday, with regard to Daring Fireball’s unexplained ghosting at Hacker News in recent years. If you look at <a href="https://news.ycombinator.com/from?site=daringfireball.net">the list of recent DF articles at HN</a>, <a href="https://news.ycombinator.com/item?id=43489058">only one is explicitly “flagged”</a>. Whoops, <a href="https://news.ycombinator.com/item?id=43491009">now it’s two</a>, but they’re both the same article.</p>
-
-<p><a href="https://cosocial.ca/@timbray/114232163652473173">Tim Bray</a>:</p>
-
-<blockquote>
-  <p>I’m really glad <a href="https://mastodon.social/@gruber">@gruber</a> posted this, because me too. Same timeframe, same behavior.</p>
-</blockquote>
-
-<p><a href="https://mastodon.social/@reichenstein/114233318059789911">Oliver Reichenstein</a> (from <a href="https://ia.net/">iA</a>):</p>
-
-<blockquote>
-  <p>Same for content from iA. Again and again our posts get to the top
-page and then someone ghosts them. Ghosting started around the
-same time as DF ghosting, I think. My take: It looks like someone
-that has enough access just doesn’t like us. ¯\(ツ)/¯</p>
-</blockquote>
-
-<p>I’ve heard privately from a few other bloggers that they’ve seen similar ghosting at HN in recent years.</p>
-
-<p><a href="https://news.ycombinator.com/newsfaq.html">Near the top of Hackers News’s FAQ</a>:</p>
-
-<blockquote>
-  <p><em>How are stories ranked?</em></p>
-
-<p>The basic algorithm divides points by a power of the time since a
-story was submitted. Comments in threads are ranked the same way.</p>
-
-<p>Other factors affecting rank include user flags, anti-abuse
-software, software which demotes overheated discussions, account
-or site weighting, and moderator action.</p>
-</blockquote>
-
-<p>Hacker News presents itself as a forum that is primarily driven by the community, where ranking and moderation are mostly, perhaps even overwhelmingly, transparent. And that “moderator action” is only a secondary or even tertiary factor. The core HN audience buys into this — the HN audience is comprised of people who view themselves as independent thinkers. Part of why they like and trust HN as an aggregator is that they believe they’re driving it, and that they know how the whole thing works.</p>
-
-<p>My thesis is that the above <a href="https://www.paulgraham.com/hackernews.html">might once have been an accurate summary</a> of how Hacker News functioned, but hasn’t been for years, and that there now exists a cabal of moderator/admins with their thumbs on the scale, and their personal predilections are the primary steering force behind what’s permitted to surface and what gets ghosted. This moderation cabal operates more <a href="https://news.ycombinator.com/posts?id=dang">or less</a> in secret. Their actions, and thus even their usernames, are invisible — lest the HN community discover that it’s steering things <a href="https://daringfireball.net/misc/2025/03/maggie.gif">about as much as Maggie Simpson is</a>.</p>
-
-<p>Read between the lines of the “<em>Hey, why</em> is <em>this post flagged?</em>” wonderment from genuinely openminded HN users <a href="https://news.ycombinator.com/item?id=43489058">in the comments on my now-flagged submission</a>, and you’ll catch a strong whiff of “Pay no attention to the man behind the curtain!”</p>
-
-<div>
-<a  title="Permanent link to ‘You’ll Never Guess Which Recent DF Article Was ‘Flagged’ at Hacker News’"  href="https://daringfireball.net/linked/2025/03/27/youll-never-guess-which-recent-df-article-was-flagged-at-hacker-news">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
