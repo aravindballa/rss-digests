@@ -4,11 +4,49 @@
 	<subtitle>Kushagra Gour- Creativity freak!</subtitle>
 	<link href="https://kushagra.dev/feed/feed.xml" rel="self"/>
 	<link href="https://kushagra.dev"/>
-	<updated>2024-06-06T00:00:00+00:00</updated>
+	<updated>2025-04-14T00:00:00+00:00</updated>
 	<id>https://kushagra.dev/feed/feed.xml</id>
 	<author>
 		<name>Kushagra Gour</name>
 	</author>
+	
+	<entry>
+		<title>Getting started with Chrome&#39;s Inbuilt AI</title>
+		<link href="https://kushagra.dev/blog/chrome-inbuilt-ai-getting-started/"/>
+		<updated>2025-04-14T00:00:00+00:00</updated>
+		<id>https://kushagra.dev/blog/chrome-inbuilt-ai-getting-started/</id>
+		<content type="html">&lt;p&gt;I recently wanted to tinker with Chrome&#39;s in-built AI, that uses the Gemini nano LLM. Though there are several articles/videos around getting started with it, I am still writing this guide post because most of them are dated now. Because the in-built AI is an experimental feature, it is undergoing very rapid iterations and so within a few months, all the information out there becomes old and invalid - even the official docs.&lt;/p&gt;
+&lt;p&gt;So if you want to get started with the in-built AI on Chrome (on Apr 14, 2025), follow along!&lt;/p&gt;
+&lt;h2 id=&quot;browser-version&quot;&gt;Browser version &lt;a class=&quot;bookmark&quot; href=&quot;#browser-version&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;In-built AI isn&#39;t limited to dev/carany channel anymore. You can try it on stable Chrome too.&lt;/p&gt;
+&lt;h2 id=&quot;the-experimental-flags&quot;&gt;The experimental flags &lt;a class=&quot;bookmark&quot; href=&quot;#the-experimental-flags&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Switch on the following 2 experimental flags from &lt;code&gt;chrome://flags&lt;/code&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;chrome://flags/#optimization-guide-on-device-model&quot;&gt;Enables optimization guide on device&lt;/a&gt; - Set it to Enable BypassPerPerfRequirement&amp;quot;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;chrome://flags/#prompt-api-for-gemini-nano&quot;&gt;Prompt API for Gemini Nano&lt;/a&gt; - Set it to &amp;quot;Enabled&amp;quot;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;And now relaunch your Chrome.&lt;/p&gt;
+&lt;h2 id=&quot;downloading-the-model&quot;&gt;Downloading the model &lt;a class=&quot;bookmark&quot; href=&quot;#downloading-the-model&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;If the model is downloaded or downloading, you would see &amp;quot;Optimization Guide On Device Model&amp;quot; listed on &lt;a href=&quot;chrome://components/&quot;&gt;chrome://components/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For me the model, didn&#39;t download automatically, so I saw nothing there. In that case, first check if the LLM is available to you or not. Open the developer tools, go to Console and run:&lt;/p&gt;
+&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;await&lt;/span&gt; ai&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;languageModel&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;availability&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;It should return &amp;quot;downloadable&amp;quot;. If yes, run the following:&lt;/p&gt;
+&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;await&lt;/span&gt; window&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;ai&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;languageModel&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;create&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;br&gt;  &lt;span class=&quot;token function&quot;&gt;monitor&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;br&gt;    m&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;addEventListener&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;downloadprogress&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;br&gt;      console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token template-string&quot;&gt;&lt;span class=&quot;token template-punctuation string&quot;&gt;`&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;Downloaded &lt;/span&gt;&lt;span class=&quot;token interpolation&quot;&gt;&lt;span class=&quot;token interpolation-punctuation punctuation&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;e&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;loaded &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt; e&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;total&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;token interpolation-punctuation punctuation&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;token template-punctuation string&quot;&gt;`&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;br&gt;    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;br&gt;  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This basically triggers the model to download on your machine and also adds a listener to the progress event of this process - so that you know when it has finished downloading.&lt;/p&gt;
+&lt;p&gt;Note: Even during download, if you visit &lt;a href=&quot;chrome://components/&quot;&gt;chrome://components/&lt;/a&gt;, you should now see &amp;quot;Optimization Guide On Device Model&amp;quot; listed.&lt;/p&gt;
+&lt;h2 id=&quot;using-ai&quot;&gt;Using AI &lt;a class=&quot;bookmark&quot; href=&quot;#using-ai&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Once the LLM has downloaded, you can verify it by running the following in the developer console:&lt;/p&gt;
+&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;await&lt;/span&gt; ai&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;languageModel&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;availability&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;and it should return &amp;quot;available&amp;quot;! ✅&lt;/p&gt;
+&lt;p&gt;Now, run a small example to test out the new AI:&lt;/p&gt;
+&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; _ai &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;await&lt;/span&gt; window&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;ai&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;languageModel&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;create&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;token keyword&quot;&gt;await&lt;/span&gt; _ai&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;prompt&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;a small poem in 100 chars about dog&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;https://kushagra.dev/images/2025/chromeai-example.png&quot; alt=&quot;&quot;&gt;
+    &lt;figcaption&gt;Running a small example to test Chrome AI.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;That is it! Have fun!&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Mistake - Making an async function sync</title>
