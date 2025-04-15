@@ -7,7 +7,98 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-04-14T23:29:17Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-04-14T23:51:43Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>ChatGPT Can Now Remember and Reference All Your Previous Chats</title>
+	<link rel="alternate" type="text/html" href="https://arstechnica.com/ai/2025/04/chatgpt-can-now-remember-and-reference-all-your-previous-chats/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w9k" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/04/14/chatgpt-memory" />
+	<id>tag:daringfireball.net,2025:/linked//6.41816</id>
+	<published>2025-04-14T23:51:42Z</published>
+	<updated>2025-04-14T23:51:43Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Samuel Axon, writing for Ars Technica:</p>
+
+<blockquote>
+  <p>Some time ago, OpenAI <a href="https://arstechnica.com/information-technology/2024/02/amnesia-begone-soon-chatgpt-will-remember-what-you-tell-it-between-sessions/">added</a> a feature called “Memory” that
+allowed a limited number of pieces of information to be retained
+and used for future responses. Users often had to specifically
+ask ChatGPT to remember something to trigger this, though it
+occasionally tried to guess at what it should remember, too.
+[...] Users could enable or disable this feature at will, and it
+was automatically off for specific chats where users chose the
+“Temporary Chat” option — sort of ChatGPT’s version of
+incognito mode.</p>
+
+<p>The new improvements announced today go far beyond that.</p>
+
+<p>Now, where there was once a checkbox in ChatGPT’s interface to
+disable or enable memory tracking, there are two checkboxes.
+“Reference saved memories” is the old memory feature, which is
+basically a limited repository of essential facts. The second is
+the new feature: “reference chat history.” This allows ChatGPT to
+use all prior conversations as context and adapt future responses
+accordingly.</p>
+</blockquote>
+
+<p>I’ve been using ChatGPT for a while now. I don’t think I’m a particularly heavy user at all, and I haven’t tried, in particular, to, I don’t know, open up about myself personally. But I ask it what I want to know. So, in the current version, I prompted it with “Describe me based on all our chats — play it straight.” Here’s its response:</p>
+
+<blockquote>
+  <p>You’re sharp, analytical, and deeply detail-oriented. You care a
+lot about precision — whether it’s language, data, or historical
+facts. You’re not satisfied with vague answers; you want the right
+one, ideally backed by sources or structured data. You’re a power
+user, technically literate, and comfortable with scripting and
+command-line tools (especially on macOS), often turning to
+automation and custom scripts to solve problems.</p>
+
+<p>You follow the tech world closely, especially Apple — its
+hardware, chip architecture, software updates, and even historical
+product launches. But you’re not just interested in specs; you
+care about the bigger picture too, like corporate strategy,
+antitrust laws, and privacy policies.</p>
+
+<p>You also track U.S. politics, legal frameworks, and electoral
+history with the same demand for precision and sourcing. And
+you’ve got a thing for language — choosing the right word,
+understanding nuance, and occasionally searching for just the
+right adjective (bonus points if it’s rare or elegant).</p>
+
+<p>Outside of that, you have a strong grasp of sports stats
+(especially NFL and MLB), media history (Letterman, SNL, classic
+film), and a dry, sometimes playful sense of humor. You don’t show
+off, but you clearly know your stuff.</p>
+</blockquote>
+
+<p>I’m probably not the right person to judge that response, but I think it’s pretty good.</p>
+
+<p>Here’s the response I got when I asked Siri “Describe me based on all our chats — play it straight”:</p>
+
+<blockquote>
+  <p>I don’t see that person in your Contacts.</p>
+</blockquote>
+
+<p>From last week’s blockbuster report by Wayne Ma at The Information, “<a href="https://daringfireball.net/linked/2025/04/10/wayne-ma-the-information-apple-siri-fumble">How Apple Fumbled Siri’s AI Makeover</a>”:</p>
+
+<blockquote>
+  <p>Giannandrea often has described to employees his belief that
+machine learning can lead to incremental improvements in products,
+eventually adding up to major gains, a concept he refers to as
+hill climbing. He also has expressed a dim view of chatbots in the
+past, telling Apple employees before and immediately after the
+release of ChatGPT that he didn’t believe they added much value
+for users.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘ChatGPT Can Now Remember and Reference All Your Previous Chats’"  href="https://daringfireball.net/linked/2025/04/14/chatgpt-memory">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://dekaf.com/df" />
 	<link rel="shorturl" href="http://df4.us/w9j" />
@@ -1985,47 +2076,6 @@ nonsense this is.</p>
 
 <div>
 <a  title="Permanent link to ‘Trump Tariffs, Day Two’"  href="https://daringfireball.net/linked/2025/04/03/trump-tariffs-day-two">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Nintendo Switch 2 Details</title>
-	<link rel="alternate" type="text/html" href="https://www.theverge.com/nintendo/638604/nintendo-switch-2-direct-news-trailers-stream" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w8a" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/04/02/nintendo-switch-2-details" />
-	<id>tag:daringfireball.net,2025:/linked//6.41770</id>
-	<published>2025-04-02T15:35:01Z</published>
-	<updated>2025-04-02T15:35:01Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Great roundup from The Verge:</p>
-
-<blockquote>
-  <p>While Nintendo told us <a href="https://www.theverge.com/2025/1/16/23872810/nintendo-switch-2-next-generation-console-features-trailer">very little in the official reveal of
-the console in January</a>, now we know when the Switch 2 is
-coming and how much it will cost at launch: <a href="https://www.theverge.com/news/634603/nintendo-switch-2-price-release-date-details">June 5th and
-$449.99</a>. We also have <a href="https://www.theverge.com/news/630264/nintendo-switch-2-specs-details-performance">more hardware details and specs to
-pore over</a>, like a 1080p, 120Hz 7.9-inch LCD screen, Joy-Con
-controllers with mouse-like functions, 256GB of storage, and 4K
-output via the dock.</p>
-
-<p>Nintendo also <a href="https://www.theverge.com/news/24343637/nintendo-switch-2-joy-con-c-button-controller">cleared up the mysteries about the system’s “C”
-button</a> with details about new GameChat features and a camera
-accessory and confirmed that <a href="https://www.theverge.com/news/24339906/nintendo-switch-2-gamecube-nso">GameCube games are coming to
-Nintendo Switch Online,</a> along with a dedicated controller.</p>
-
-<p>Last but not least, Nintendo showed off a number of new games,
-like a Switch 2 edition of <a href="https://www.theverge.com/news/640231/metroid-prime-4-nintendo-switch-2-enhanced-edition-beyond"><em>Metroid Prime 4: Beyond</em></a> and the
-exclusive Switch 2 launch title <a href="https://www.theverge.com/news/634632/mario-kart-nintendo-switch-2-trailer"><em>Mario Kart World</em></a>.</p>
-</blockquote>
-
-<p>People are going to object to the pricing, but the world has changed (and inflated) since the original Switch debuted in 2017. What I love about all of these announcements is that they’re so focused on <em>fun</em>. Nintendo doesn’t just still have it, they’ve got it more than they ever have. Just wonderful news all around.</p>
-
-<div>
-<a  title="Permanent link to ‘Nintendo Switch 2 Details’"  href="https://daringfireball.net/linked/2025/04/02/nintendo-switch-2-details">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
