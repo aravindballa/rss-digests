@@ -7,7 +7,66 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-04-16T18:00:26Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-04-16T18:56:53Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>DOGE Dingalings Cut Off Funding for CVE Program</title>
+	<link rel="alternate" type="text/html" href="https://www.theregister.com/2025/04/16/homeland_security_funding_for_cve/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w9n" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/04/16/dingalings-cut-off-funding-for-cve" />
+	<id>tag:daringfireball.net,2025:/linked//6.41819</id>
+	<published>2025-04-16T18:56:52Z</published>
+	<updated>2025-04-16T18:56:53Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jessica Lyons, reporting for The Register:</p>
+
+<blockquote>
+  <p>US government funding for the world’s CVE program — the
+centralized Common Vulnerabilities and Exposures database of
+product security flaws — ends Wednesday.</p>
+
+<p>The 25-year-old CVE program plays a huge role in vulnerability
+management. It is responsible overseeing the assignment and
+organizing of unique CVE ID numbers, such as <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-0160">CVE-2014-0160</a>
+and <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5754">CVE-2017-5754</a>, for specific vulnerabilities, in this
+case OpenSSL’s <a href="https://www.theregister.com/2014/04/09/heartbleed_explained/">Heartbleed</a> and Intel’s <a href="https://www.theregister.com/2018/01/02/intel_cpu_design_flaw/">Meltdown</a>, so
+that when referring to particular flaws and patches, everyone is
+agreed on exactly what we’re all talking about.</p>
+</blockquote>
+
+<p>The good news: they were ready. <a href="https://www.thecvefoundation.org/">Announcing the CVE Foundation</a>:</p>
+
+<blockquote>
+  <p>Since its inception, the CVE Program has operated as a U.S.
+government-funded initiative, with oversight and management
+provided under contract. While this structure has supported the
+program’s growth, it has also raised longstanding concerns among
+members of the CVE Board about the sustainability and neutrality
+of a globally relied-upon resource being tied to a single
+government sponsor.</p>
+
+<p>This concern has become urgent following an April 15, 2025 letter
+from MITRE notifying the CVE Board that the U.S. government does
+not intend to renew its contract for managing the program. While
+we had hoped this day would not come, we have been preparing for
+this possibility.</p>
+
+<p>In response, a coalition of longtime, active CVE Board members
+have spent the past year developing a strategy to transition CVE
+to a dedicated, non-profit foundation. The new CVE Foundation will
+focus solely on continuing the mission of delivering high-quality
+vulnerability identification and maintaining the integrity and
+availability of CVE data for defenders worldwide.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘DOGE Dingalings Cut Off Funding for CVE Program’"  href="https://daringfireball.net/linked/2025/04/16/dingalings-cut-off-funding-for-cve">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Figma Files to Go Public</title>
 	<link rel="alternate" type="text/html" href="https://www.figma.com/blog/s1-confidential-submission/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w9m" />
@@ -1966,62 +2025,6 @@ approached Amex to gauge its interest in taking over the card in
 
 <div>
 <a  title="Permanent link to ‘WSJ: Visa Offers Apple Roughly $100 Million to Switch Apple Card’s Network From Mastercard’"  href="https://daringfireball.net/linked/2025/04/03/via-mastercard-apple-card">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘Trump Declares a Trade War on Uninhabited Islands, US Military, and Economic Logic’</title>
-	<link rel="alternate" type="text/html" href="https://www.techdirt.com/2025/04/03/trump-declares-a-trade-war-on-uninhabited-islands-us-military-and-economic-logic/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w8d" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/04/03/trump-tariffs-techdirt" />
-	<id>tag:daringfireball.net,2025:/linked//6.41773</id>
-	<published>2025-04-03T20:37:36Z</published>
-	<updated>2025-04-03T20:37:37Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Mike Masnick has a great piece at TechDirt running down just how <em>stupid</em> everything about Trump’s tariff trade war is:</p>
-
-<blockquote>
-  <p>Whoever on the Council of Economic Advisers used this formula should turn in their econ degree, because this is not how anything works. Even if they then go on to <a href="https://ustr.gov/issue-areas/reciprocal-tariff-calculations">publish another version</a> of the formula that looks all sophisticated and shit.</p>
-</blockquote>
-
-<p>Brendan Duke, on X, shows that the fancier version of their formula — which is fancy in the way that <a href="https://daringfireball.net/linked/2025/03/30/vertu-still-selling-phones">Vertu phones</a> are “fancy” — <a href="https://x.com/Brendan_Duke/status/1907741651172311353">is even stupider</a>, because the two Greek letters they chose to glam it up just cancel each other out.</p>
-
-<p>Back to Masnick:</p>
-
-<blockquote>
-  <p>This is what happens when you ask ChatGPT to “make my wrong econ
-math look more scientific.” The document even admits that they
-couldn’t figure out the actual tariff rates, so they “proxied”
-them with this formula instead. That’s a bit like saying you
-couldn’t find your house keys, so you proxied them with a banana.</p>
-
-<p>The fundamental problem here isn’t just that the tariff numbers
-are wrong — though they absolutely are. It’s that the entire
-premise rests on treating trade deficits as if they were tariffs.
-They’re not the same thing. At all.</p>
-
-<p>Let’s back up for a moment and talk about trade deficits, because
-Trump has been getting this wrong for longer than some of his
-supporters have been alive. His logic appears to be:</p>
-
-<ol>
-<li>“Deficit” sounds bad</li>
-<li>Therefore, trade deficits must be bad</li>
-<li>Therefore, countries with whom we have trade deficits must be
-cheating us</li>
-<li>Therefore, we should punish them with tariffs to “level the
-playing field”</li>
-</ol>
-</blockquote>
-
-<p>This sounds like it must be an exaggeration for comic effect, but it’s not. That’s how Trump’s mind works. This is what Trump has been <em>saying</em> about trade deficits for decades. It’s like how he understands “asylum” to mean “insane asylum” and so when he talks about <em>political</em> asylum <a href="https://nymag.com/intelligencer/article/trump-hannibal-lecter-rant-origin.html">he starts talking about “the late great Hannibal Lecter”</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘‘Trump Declares a Trade War on Uninhabited Islands, US Military, and Economic Logic’’"  href="https://daringfireball.net/linked/2025/04/03/trump-tariffs-techdirt">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
