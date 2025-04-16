@@ -7,14 +7,50 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-04-16T19:54:04Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-04-16T20:26:21Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Google, Apple, and Snap Express Displeasure About Meta’s Poorly-Redacted Slides in Antitrust Trial</title>
+	<link rel="alternate" type="text/html" href="https://www.theverge.com/news/649834/meta-redactions-apple-google-snap-angry-ftc-antitrust-trial" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w9p" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/04/16/meta-redactions" />
+	<id>tag:daringfireball.net,2025:/linked//6.41821</id>
+	<published>2025-04-16T20:26:20Z</published>
+	<updated>2025-04-16T20:26:21Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Wes Davis, The Verge:</p>
+
+<blockquote>
+  <p>During <a href="https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp">Meta’s antitrust trial today</a>, lawyers representing
+Apple, Google, and Snap each expressed irritation with Meta over
+the slides it presented on Monday that <a href="https://www.theverge.com/news/648893/meta-redacted-documents-leak-ftc-antitrust-opening-statement">The Verge found to
+contain</a> easy-to-remove redactions. Attorneys for both Apple
+and Snap called the errors “egregious,” with Apple’s
+representative indicating that it may not be able to trust Meta
+with its internal information in the future. Google’s attorney
+also blamed Meta for jeopardizing the search giant’s data with the
+mistake.</p>
+</blockquote>
+
+<p>This yet another one of those situations where the botched redactions were just objects layered atop the supposed-to-be-redacted material in a PDF file. In 2025 you either have to be really bad with computers to do this, or you did it this way on purpose.</p>
+
+<p>You can properly redact a PDF digitally, but botched digital redactions are so commonplace (and at times disastrous and/or humiliating) that when then Attorney General William Barr released the Mueller Report in 2019, the DOJ printed the unredacted original, did the redactions on paper, <a href="https://pdfa.org/a-technical-and-cultural-assessment-of-the-mueller-report-pdf/">and then scanned it back in to create the redacted PDF</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Google, Apple, and Snap Express Displeasure About Meta’s Poorly-Redacted Slides in Antitrust Trial’"  href="https://daringfireball.net/linked/2025/04/16/meta-redactions">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>The WSJ Reports on How Elon Musk Manages His ‘Legion’ of Children and Harem of Mothers</title>
 	<link rel="alternate" type="text/html" href="https://www.wsj.com/politics/elon-musk-children-mothers-ashley-st-clair-grimes-dc7ba05c?st=prbiyB&amp;reflink=desktopwebshare_permalink" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w9o" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/04/16/wsj-musk-children" />
 	<id>tag:daringfireball.net,2025:/linked//6.41820</id>
 	<published>2025-04-16T19:34:26Z</published>
-	<updated>2025-04-16T19:54:04Z</updated>
+	<updated>2025-04-16T20:11:21Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -59,7 +95,7 @@ unfollowed her. That contributed to a fall in her engagement, and
 her earnings declined.</p>
 </blockquote>
 
-<p>This is just sick.</p>
+<p>There’s arguably an insinuation here that something crooked happened to Fong’s Twitter/X earnings after she declined Musk’s offer, but there doesn’t have to be for it to be sick. It’s just gross that Musk’s M.O. is to hit up suddenly popular women and ask if they’d like to have his children, and to lavish money-earning public attention on them while courting them.</p>
 
 <div>
 <a  title="Permanent link to ‘The WSJ Reports on How Elon Musk Manages His ‘Legion’ of Children and Harem of Mothers’"  href="https://daringfireball.net/linked/2025/04/16/wsj-musk-children">&nbsp;★&nbsp;</a>
@@ -1998,40 +2034,6 @@ they’re coming from an Intel model.</p>
 
 <div>
 <a  title="Permanent link to ‘Jason Snell’s M4 MacBook Air Review’"  href="https://daringfireball.net/linked/2025/04/04/snell-m4-macbook-air">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>U.S. Transaction Shares for Visa, Mastercard, and Amex</title>
-	<link rel="alternate" type="text/html" href="https://www.wsj.com/finance/banking/visa-wanted-a-vast-empire-first-it-had-to-beat-back-its-foes-3b3067f3?mod=article_inline" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w8f" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/04/03/us-transaction-shares-for-visa-mastercard-and-amex" />
-	<id>tag:daringfireball.net,2025:/linked//6.41775</id>
-	<published>2025-04-03T23:34:50Z</published>
-	<updated>2025-04-03T23:35:02Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Following up on <a href="https://daringfireball.net/linked/2025/04/03/via-mastercard-apple-card">the previous item</a>, here’s a WSJ report from October on Visa’s dominant position in the payments industry:</p>
-
-<blockquote>
-  <p>Visa, based in San Francisco, has built its network over more than
-60 years — going back to clunky manual credit-card readers and
-carbon-paper copies of receipts. It accounts for around 60% of the
-total dollar amount of U.S. debit-card purchases and about 50% of
-U.S. credit-card purchases, according to the Nilson Report, a
-trade publication. Its closest competitor, Mastercard, accounts
-for around 22% and 23%, respectively. Visa’s profit totaled $17.3
-billion in its 2023 fiscal year, after more than tripling in the
-last decade.</p>
-</blockquote>
-
-<p>Amex accounts for about 19% of U.S. credit card transactions (and doesn’t support debit), and Discover is down around 3 or 4%. I really thought Visa and Mastercard had comparable market share, but it turns out Visa is far bigger, and it’s Mastercard and Amex that are around the same size.</p>
-
-<div>
-<a  title="Permanent link to ‘U.S. Transaction Shares for Visa, Mastercard, and Amex’"  href="https://daringfireball.net/linked/2025/04/03/us-transaction-shares-for-visa-mastercard-and-amex">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
