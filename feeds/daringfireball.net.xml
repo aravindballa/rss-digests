@@ -7,14 +7,14 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-04-16T20:37:05Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-04-16T21:05:46Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>Meta Botches Redaction of Slides in Antitrust Trial, Angering Google, Apple, and Snap</title>
 	<link rel="alternate" type="text/html" href="https://www.theverge.com/news/649834/meta-redactions-apple-google-snap-angry-ftc-antitrust-trial" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w9p" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/04/16/meta-redactions" />
 	<id>tag:daringfireball.net,2025:/linked//6.41821</id>
 	<published>2025-04-16T20:26:20Z</published>
-	<updated>2025-04-16T20:37:05Z</updated>
+	<updated>2025-04-16T21:05:46Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -34,7 +34,7 @@ also blamed Meta for jeopardizing the search giant’s data with the
 mistake.</p>
 </blockquote>
 
-<p>This yet another one of those situations where the botched redactions were just objects layered atop the supposed-to-be-redacted material in a PDF file. In 2025 you either have to be really bad with computers to do this, or you did it this way on purpose.</p>
+<p>This is yet another one of those situations where the botched redactions were just objects layered atop the supposed-to-be-redacted material in a PDF file, leaving the original layer’s content intact but just visually occluded. In 2025 you either have to be really bad with computers to do this, or you did it this way on purpose.</p>
 
 <p>You can properly redact a PDF digitally, but botched digital redactions are so commonplace (and at times disastrous and/or humiliating) that when then Attorney General William Barr released the Mueller Report in 2019, the DOJ printed the unredacted original, did the redactions on paper, <a href="https://pdfa.org/a-technical-and-cultural-assessment-of-the-mueller-report-pdf/">and then scanned it back in to create the redacted PDF</a>.</p>
 
