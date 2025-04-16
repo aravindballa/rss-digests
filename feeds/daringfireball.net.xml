@@ -7,7 +7,66 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-04-16T21:33:47Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-04-16T22:26:18Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Wink Martindale Dies at 91</title>
+	<link rel="alternate" type="text/html" href="https://www.latimes.com/obituaries/story/2025-04-15/wink-martindale-dead-game-show-host-tic-tac-dough-gambit" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w9q" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/04/16/wink-martindale" />
+	<id>tag:daringfireball.net,2025:/linked//6.41822</id>
+	<published>2025-04-16T22:18:04Z</published>
+	<updated>2025-04-16T22:26:18Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Dennis McLellan, writing for the Los Angeles Times (<a href="https://apple.news/A9dkEvg1TRgmny9aNLdOi-w">News+ link</a>):</p>
+
+<blockquote>
+  <p>Over the decades, according to his website, Martindale either
+hosted or produced 21 game shows, including “Words and Music,”
+“Trivial Pursuit,” “The Last Word” and “Debt.” “That’s a lot of
+shows,” he acknowledged in a 1996 interview with the New York
+Daily News. “It either means everybody wants me to do their show
+or I can’t hold a job.”</p>
+
+<p>Martindale was best known for hosting “Tic-Tac-Dough,” the revival
+of a late 1950s show, which aired on CBS for less than two months
+in 1978 but continued in syndication until 1986.</p>
+
+<p>Unlike tic-tac-toe, in which two players simply try to get three
+Xs or three Os in a row in a nine-box grid, “Tic-Tac-Dough”
+required contestants to select a subject category in each of the
+nine boxes, everything from geography to song titles. Each correct
+answer earned the players their X or O in the chosen box.</p>
+
+<p>“Tic-Tac-Dough” achieved its highest ratings in 1980 during the
+88-game, 46-show run of Lt. Thom McKee, a handsome young Navy
+fighter pilot whose winning streak earned him $312,700 in cash and
+prizes and a spot in the Guinness Book of World Records.</p>
+</blockquote>
+
+<p>It’s funny what you remember from childhood. I was only seven then, but I remember McKee’s winning streak. He was like the proto Ken Jennings. There was some kind of gimmick on the show where if you won ten games in a row — which almost never happened — you also won a car as a bonus. So McKee won eight cars. As I recall it — I was seven, so I could be wrong — all eight cars he won were exactly the same model, because that was the show’s current promotional partner. I remember thinking that was absurd, and my dad explaining to me that he could just sell them.</p>
+
+<p>Anyway, in one of my programming classes in high school, we had to create a big final project. We had to work in pairs because there weren’t enough computers for every student in the class. My friend and I wrote a tic-tac-toe game in Applesoft BASIC. (To be honest, I wrote most of it, but he did the typing.) I remember three things about that game:</p>
+
+<ol>
+<li><p>We used the number pad keyboard layout for entering moves, with each numeral corresponding to a square on the board, which I thought (and still think) was a pretty clever UI for tic-tac-toe:</p>
+
+<pre><code>789
+456
+123
+</code></pre></li>
+<li><p>You could play two-player or against the computer, and while the computer was pretty good, it couldn’t play perfectly. I was very frustrated that while <em>I</em> could, of course, play perfect tic-tac-toe myself, I couldn’t figure out how to code an algorithm for unbeatable play in BASIC.</p></li>
+<li><p>Our name for the game: Wink.</p></li>
+</ol>
+
+<div>
+<a  title="Permanent link to ‘Wink Martindale Dies at 91’"  href="https://daringfireball.net/linked/2025/04/16/wink-martindale">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Meta Botches Redaction of Slides in Antitrust Trial, Angering Google, Apple, and Snap</title>
 	<link rel="alternate" type="text/html" href="https://www.theverge.com/news/649834/meta-redactions-apple-google-snap-angry-ftc-antitrust-trial" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w9p" />
@@ -1995,45 +2054,6 @@ wireless control failed.</li>
 
 <div>
 <a  title="Permanent link to ‘The Making of the Lumon Industries WoeMeter’"  href="https://daringfireball.net/linked/2025/04/04/lumon-industries-woemeter">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Jason Snell’s M4 MacBook Air Review</title>
-	<link rel="alternate" type="text/html" href="https://sixcolors.com/post/2025/03/m4-macbook-air-review-am-i-blue/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w8g" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/04/04/snell-m4-macbook-air" />
-	<id>tag:daringfireball.net,2025:/linked//6.41776</id>
-	<published>2025-04-04T15:30:01Z</published>
-	<updated>2025-04-04T15:30:01Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jason Snell, last month:</p>
-
-<blockquote>
-  <p>The new M4 MacBook Air is the Mac most people should buy. [...]</p>
-
-<p>That’s why perhaps the most important change in the M4 MacBook Air
-is its base configuration, which starts at $999. When Apple
-introduced a winning new flat-with-rounded-corners Air design in
-2022, it had to keep selling older models in order to get down
-under a thousand dollars. Three years later, Apple is finally able
-to sell a brand-new Air — with a generous 16GB of unified memory — at that important price.</p>
-
-<p>So: No more quibbles about stepping back a generation or two to an
-older model with a lower price. Apple has done away with that
-strategy for the MacBook Air: The latest and greatest model is the
-one most people shopping for a Mac should buy, especially if
-they’re coming from an Intel model.</p>
-</blockquote>
-
-<p>I’d put off linking to Snell’s review for a few weeks while thinking about writing my own, but I’ve got nothing to add. The M4 MacBook Air is utterly unsurprising, but only in the best possible way. It’s the MacBook Air everyone wanted Apple to make. The $999 base model is now exceedingly recommendable. It even brings back the most notable feature that was lost in the transition from Intel to Apple Silicon — the ability to drive two external displays <em>and</em> its own internal display. Just aces all around.</p>
-
-<div>
-<a  title="Permanent link to ‘Jason Snell’s M4 MacBook Air Review’"  href="https://daringfireball.net/linked/2025/04/04/snell-m4-macbook-air">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
