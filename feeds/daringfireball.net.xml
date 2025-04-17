@@ -7,7 +7,55 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-04-17T02:52:02Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-04-17T13:31:41Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Spending More to Get Less Is Good?</title>
+	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2025/04/15/technology/personaltech/trump-tariffs-iphone-cost.html?unlocked_article_code=1.AU8.L2Ko.yUXIIfzson-2&amp;smid=url-share" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/w9s" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/04/17/spending-more-to-get-less-is-good" />
+	<id>tag:daringfireball.net,2025:/linked//6.41824</id>
+	<published>2025-04-17T13:31:40Z</published>
+	<updated>2025-04-17T13:31:41Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Brian X. Chen, in a column at The New York Times headlined “Why a Tariff-Inflated $2,000 iPhone Is Nothing to Fear”:</p>
+
+<blockquote>
+  <p>Don’t panic. Even if tariffs did cause the iPhone’s price to
+surge, we would have plenty of cheaper options, like buying last
+year’s phone model instead of the latest and greatest.</p>
+
+<p>The most important lesson we can learn from the turmoil: The only
+consistent way to save money on tech is to use devices for as long
+as possible, which requires maintaining them as you would a car,
+and upgrading only when you must.</p>
+</blockquote>
+
+<p>This whole angle is no surprise coming from the tech columnist whose advice to readers who think their aging phone cameras don’t perform well in low light is “<a href="https://daringfireball.net/2019/09/you_could_always_just_use_flash">Just use flash</a>.” If phone prices go up because of Trump’s tariffs, <em>all</em> phone prices are going to go up, including those for older models, whether you’re buying new or used. There is no silver lining here. Spending more to get a years-old phone sucks too.</p>
+
+<blockquote>
+  <p>Take the iPhone 16 as an example. Its $800 price tag can easily
+inflate to $1,080, since you may also buy:</p>
+
+<ul>
+<li>An iPhone case for $50</li>
+<li>AirPods for $130</li>
+<li>256 gigabytes of storage for $100</li>
+</ul>
+</blockquote>
+
+<p>So if you buy things that aren’t an iPhone — like AirPods — the price of an iPhone goes up. Got it.</p>
+
+<p>The anti-“big tech” bias here is so obvious. Don’t hold your breath waiting for a similar article in the Times about how it’s no big deal, nothing to worry about, if the price of cars doubles under these tariffs.</p>
+
+<div>
+<a  title="Permanent link to ‘Spending More to Get Less Is Good?’"  href="https://daringfireball.net/linked/2025/04/17/spending-more-to-get-less-is-good">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Glenn Fleishman’s Kickstarter for ‘Six Centuries of Type &amp; Printing’</title>
 	<link rel="alternate" type="text/html" href="https://www.kickstarter.com/projects/glennf/six-centuries-of-type-and-printing" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/w9l" />
@@ -2011,50 +2059,6 @@ to forget it’s a Visa.</p>
 
 <div>
 <a  title="Permanent link to ‘Costco Only Accepts Visa Credit Cards’"  href="https://daringfireball.net/linked/2025/04/04/costco-visa">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Bill Gates on the Creation of Microsoft, and the Source Code for Its First Product</title>
-	<link rel="alternate" type="text/html" href="https://www.gatesnotes.com/microsoft-original-source-code" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w8i" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/04/04/gates-microsoft-50-basic" />
-	<id>tag:daringfireball.net,2025:/linked//6.41778</id>
-	<published>2025-04-04T16:31:52Z</published>
-	<updated>2025-04-04T20:35:20Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Bill Gates, commemorating Microsoft’s 50th anniversary:</p>
-
-<blockquote>
-  <p>The story of how Microsoft came to be begins with, of
-all things, a magazine. The January 1975 issue of
-Popular Electronics featured an Altair 8800 on the
-cover. The Altair 8800, created by a small electronics
-company called MITS, was a groundbreaking personal
-computer kit that promised to bring computing power to
-hobbyists. When Paul and I saw that cover, we knew two
-things: the PC revolution was imminent, and we wanted
-to get in on the ground floor.</p>
-
-<p>At the time, personal computers were practically non-existent.
-Paul and I knew that creating software that let people program the
-Altair could revolutionize the way people interacted with these
-machines. So, we reached out to Ed Roberts, the founder of MITS,
-and told him we had a version of the programming language BASIC
-for the chip that the Altair 8800 ran on.</p>
-
-<p>There was just one problem: We didn’t.<br/>
-It was time to get to work.</p>
-</blockquote>
-
-<p>At the bottom Gates links to a printout of the original source code for the BASIC interpreter, in extensively commented assembly language. Amongst all of his other accomplishments, Bill Gates was one hell of a programmer.</p>
-
-<div>
-<a  title="Permanent link to ‘Bill Gates on the Creation of Microsoft, and the Source Code for Its First Product’"  href="https://daringfireball.net/linked/2025/04/04/gates-microsoft-50-basic">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
