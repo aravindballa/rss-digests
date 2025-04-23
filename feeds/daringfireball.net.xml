@@ -7,7 +7,89 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-04-22T14:55:13Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-04-23T17:44:46Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>European Commission Fines Apple €500M and Meta €200M for Breaching Digital Markets Act</title>
+	<link rel="alternate" type="text/html" href="https://ec.europa.eu/commission/presscorner/detail/en/ip_25_1085" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wa3" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/04/23/ec-apple-meta-fines" />
+	<id>tag:daringfireball.net,2025:/linked//6.41835</id>
+	<published>2025-04-23T17:35:41Z</published>
+	<updated>2025-04-23T17:44:46Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>The European Commission:</p>
+
+<blockquote>
+  <p>Today, the European Commission found that Apple breached its
+anti-steering obligation under the Digital Markets Act (DMA), and
+that Meta breached the DMA obligation to give consumers the choice
+of a service that uses less of their personal data. Therefore, the
+Commission has fined Apple and Meta with €500 million and €200
+million respectively. [...]</p>
+
+<p><strong>Non-compliance decision on Apple’s steering terms</strong></p>
+
+<p>Under the DMA, app developers distributing their apps via Apple’s
+App Store should be able to inform customers, free of charge, of
+alternative offers outside the App Store, steer them to those
+offers and allow them to make purchases.</p>
+
+<p>The Commission found that Apple fails to comply with this
+obligation. Due to a number of restrictions imposed by Apple, app
+developers cannot fully benefit from the advantages of alternative
+distribution channels outside the App Store. Similarly, consumers
+cannot fully benefit from alternative and cheaper offers as Apple
+prevents app developers from directly informing consumers of such
+offers. The company has failed to demonstrate that these
+restrictions are objectively necessary and proportionate.</p>
+
+<p>As part of today’s decision, the Commission has ordered Apple to
+remove the technical and commercial restrictions on steering and
+to refrain from perpetuating the non-compliant conduct in the
+future, which includes adopting conduct with an equivalent object
+or effect.</p>
+
+<p>The fine imposed on Apple takes into account the gravity and
+duration of the non-compliance.</p>
+</blockquote>
+
+<p>This finding — and the scope of the fine (roughly $570M converted from euros) — was completely in line with (at least my) expectations. Apple booked about $184B in profit last year, so this fine is about 0.3% of that. Maybe Apple just considers this the new cost of doing business in the EU? It’s not nothing, but it’s about 1/80th of the theoretical maximum fine the EU could have assessed, $39B.</p>
+
+<p>Something, not nothing, but definitely not a big deal. Teresa Ribera, the EC competition chief, is clearly trying to thread a political needle here. Fines big enough to create the impression that the EU is asserting itself, but small enough not to actually be all that inflammatory amidst the Trump-initiated mad-king trade war.  Even Ribera’s job title — Executive Vice-President for Clean, Just and Competitive Transition — seems designed to de-escalate tensions. Margrethe Vestager was adamantly against American companies. Ribera is not.</p>
+
+<blockquote>
+  <p><strong>Non-compliance decision on Meta’s “consent or pay” model</strong></p>
+
+<p>Under the DMA, gatekeepers must seek users’ consent for combining
+their personal data between services. Those users who do not
+consent must have access to a less personalised but equivalent
+alternative.</p>
+
+<p>In November 2023, Meta introduced a binary ‘Consent or Pay’
+advertising model. Under this model, EU users of Facebook and
+Instagram had a choice between consenting to personal data
+combination for personalised advertising or paying a monthly
+subscription for an ad-free service.</p>
+
+<p>The Commission found that this model is not compliant with the
+DMA, as it did not give users the required specific choice to opt
+for a service that uses less of their personal data but is
+otherwise equivalent to the ‘personalised ads’ service. Meta’s
+model also did not allow users to exercise their right to freely
+consent to the combination of their personal data.</p>
+</blockquote>
+
+<p>The wild thing about this is that all sorts of companies in the EU <a href="https://daringfireball.net/linked/2024/04/19/meta-pay-only-eu">use the “pay or OK” model</a>. I get that the whole point of the DMA is that the named “gatekeepers” have to play by different rules because they’re “gatekeepers”, but back in 2018, no less an authority than former EC competition chief <a href="https://daringfireball.net/2024/03/more_on_the_eus_market_might">Margrethe Vestager said</a>, “I would like to have a Facebook in which I pay a fee each month, but I would have no tracking and advertising and the full benefits of privacy.” That’s exactly what Meta has offered. And it turns out, actual EU citizens don’t want that. They’d almost all rather use Meta’s products free of charge with targeted ads than pay a fair price to use them without tracking. So now the EC has moved the goalposts and insists Meta must, effectively, give away their products for pennies on the dollar.</p>
+
+<div>
+<a  title="Permanent link to ‘European Commission Fines Apple €500M and Meta €200M for Breaching Digital Markets Act’"  href="https://daringfireball.net/linked/2025/04/23/ec-apple-meta-fines">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>The Information: ‘Meta Asked Amazon, Microsoft to Help Fund Llama’</title>
 	<link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/meta-asked-amazon-microsoft-help-fund-llama" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wa2" />
@@ -1946,45 +2028,6 @@ charging for things at cost.</p>
 
 <div>
 <a  title="Permanent link to ‘The WSJ Estimates the Effect of Trump’s Tariffs on the iPhone’"  href="https://daringfireball.net/linked/2025/04/05/wsj-iphone-tariffs">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>The Pricing Stability of the iMac</title>
-	<link rel="alternate" type="text/html" href="https://sixcolors.com/post/2025/04/the-pinnacle-of-apples-price-stability-is-the-imac/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w8v" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/04/05/the-pricing-stability-of-the-imac" />
-	<id>tag:daringfireball.net,2025:/linked//6.41791</id>
-	<published>2025-04-05T22:16:30Z</published>
-	<updated>2025-04-05T22:16:31Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Dan Moren, writing at Six Colors:</p>
-
-<blockquote>
-  <p>In his piece, Gruber particularly calls out the trashcan Mac Pro
-sticking at $2999 throughout its existence, but I think an even
-more striking example is the iMac. Introduced in 1998 at a base
-price of $1299, today’s infinitely more powerful iMac M4 starts at
-… $1299.</p>
-
-<p>Granted, with inflation, those prices would be a little different.
-In researching the details, I came across <a href="https://www.perfectrec.com/posts/iMac-price-history">this great piece from
-PerfectRec</a> charting the iMac’s price history over the years,
-including adjusting for inflation. Impressively, while the iMac’s
-base price has dipped as low as $1099 in all that time, it’s never
-gone <em>over</em> $1299.</p>
-</blockquote>
-
-<p>What a great example. And bringing inflation into the mix is a key factor I neglected to make <a href="https://daringfireball.net/2025/04/unchanging_prices_vs_nonsensical_tariffs">yesterday</a>. Moore’s Law makes computers very strange manufactured goods. A Honda Civic LX cost about $15,000 in 1998, but now costs about $25,000. BMW 3-series sedans went from around $30,000 to $45,000. But the iMac still starts at $1,299.</p>
-
-<p>Pricing stability is a way that Apple keeps these two forces — Moore’s Law and inflation — in balance.</p>
-
-<div>
-<a  title="Permanent link to ‘The Pricing Stability of the iMac’"  href="https://daringfireball.net/linked/2025/04/05/the-pricing-stability-of-the-imac">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
