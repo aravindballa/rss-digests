@@ -7,7 +7,83 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-04-28T15:38:48Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-04-28T17:45:21Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/04/try_switching_to_kagi" />
+	<link rel="shorturl" href="http://df4.us/wae" />
+	<id>tag:daringfireball.net,2025://1.41846</id>
+	<published>2025-04-28T17:45:20Z</published>
+	<updated>2025-04-28T17:45:21Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">Paying for Kagi today feels a *lot* paying for HBO back in the cable TV heyday.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>Aaron Pressman, writing earlier this month in The Boston Globe, “<a href="https://www.bostonglobe.com/2025/04/01/business/google-search-problems-alternatives-kagi/">Why I Abandoned Google Search After 27 Years — and What I’m Using Instead</a>”:</p>
+
+<blockquote>
+  <p>The UK now requires travelers from America to obtain an electronic
+travel authorization, or ETA. I wasn’t sure of the exact name of
+the ETA, so I just searched “travel to UK.”</p>
+
+<p>The results were all about obtaining an ETA and I picked a link
+that looked like the official UK government site. It was not; the
+official site was lower, below an AI summary, some sponsored
+links, and other junk on the results page. Luckily for me, I did
+get a legitimate travel pass — but the site I picked overcharged
+me by about $70.</p>
+</blockquote>
+
+<p>I don’t know what the name for this sort of thing is, but it’s like a semi-scam. There are similar services to what Pressman ran into here for expedited passport renewals, for example — third-party companies that present themselves as official partners of the government that charge you extra for a service. But they just handle for you what you could just as easily do yourself, if you found the right place on the web to do it. A complete scam would be taking your money and giving you nothing (or a bogus document) in return. These semi-scams deliver the thing they’re promising, but charge you more than you should pay.</p>
+
+<p>I just tried searching for “expedited passport renewal” <a href="https://www.google.com/search?q=expedited+passport+renewal">in Google</a> and <a href="https://kagi.com/search?q=expedited+passport+renewal">in Kagi</a>. Kagi presents as its first response the US State Department’s “<a href="https://travel.state.gov/content/travel/en/passports/get-fast.html">How to Get my U.S. Passport Fast</a>” page. Google has that same link listed 7th, below the fold even on a desktop browser window on a 27-inch display, behind four sponsored links (all of which look pretty official but aren’t), an AI Overview (which itself includes, in its own AI Overview sidebar, another link to the same “How to Get my U.S. Passport Fast” page), and another U.S. State Department webpage with general instructions for applying for passport.</p>
+
+<blockquote>
+  <p>In the second case, last week, I needed to book a hotel for a
+Passover trip to my brother’s in Connecticut. I knew there was a
+cool hotel we had stayed at before near his house but I couldn’t
+remember the name. I asked Google for hotels in the town where my
+brother lives. Sure enough, one of the top results appeared on
+first glance to be the official site of the hotel I wanted to
+book. It was not. Once again, somewhat nefarious search engine
+optimization techniques allowed a hotel aggregation site to jump
+ahead in the results. And this time my error was even more costly,
+to the tune of several hundred dollars in extra charges for two
+hotel rooms.</p>
+
+<p>Google has worked hard to eliminate truly fraudulent websites from
+ending up in its results, and for that I am grateful. It is
+undeniable that, in both instances, I should have been a more
+careful consumer. But decades of relying on Google had taught me
+that I didn’t have to be.</p>
+
+<p>After I learned my lesson, I did some research in search of better
+search. People I trust on the Internet, including the <a href="https://daringfireball.net/linked/2024/01/19/bray-google-kagi">Apple
+blogger John Gruber</a> and <a href="https://pluralistic.net/2024/04/04/teach-me-how-to-shruggie/">novelist Cory Doctorow</a>,
+recommended a new search engine called <a href="https://kagi.com/">Kagi</a>.</p>
+
+<p>I gave it a few test runs. A search for “<a href="https://kagi.com/search?q=travel+to+uk">travel to UK</a>”
+brought up the UK government page to apply for an ETA as the first
+result. A search for a hotel in my brother’s town was topped by
+the official site of the hotel I wanted. So I switched all my
+default searches to Kagi.</p>
+</blockquote>
+
+<p>I keep trying to emphasize that I recommend switching to Kagi not because it’s more private (although it clearly is), not as a protest against Google (although for some, switching could be), not as a rejection of search ads dominating the top of Google’s results (although that’s true too), but simply because Kagi’s results are clearly better.</p>
+
+<p>Like, even if I <a href="https://udm14.com/">use the magic <code>&amp;udm=14</code> parameter</a> with Google search, <a href="https://daringfireball.net/linked/2024/05/23/udm14">to get “disenshittified” results from Google</a>, I find I get <em>better</em> results from Kagi. When I know there’s one right answer (say, a specific article I remember reading and want to find again), Kagi is more likely than Google to list it first. If it’s a years-old article, Kagi is <em>way</em> more likely than Google to find it at all. For me, Google (and, alas, DuckDuckGo too) have largely stopped working reliably for finding not-recent stuff on the web. Not true with Kagi.</p>
+
+<p>I used DuckDuckGo for years as my default search, and for those years, I found it largely on par with Google. But it felt like every once in a while — maybe, say, once or twice a month — DuckDuckGo would come up dry in its results. DuckDuckGo pioneered a trick <a href="https://duckduckgo.com/bangs">they call Bangs</a>. Include <code>!g</code> to any search terms, and instead of performing the search itself, DuckDuckGo will redirect that search to Google. They have a whole bunch of these Bangs — “!a” for Amazon search, “!nf” for Netflix. There are literally thousands of them (which of course they allow you to search for). The only one I ever really used though was <code>!g</code>, for redirecting my current search to Google because DuckDuckGo’s own results for the same terms was unsatisfying. My memory may not match with my actual usage, but like I said, I <em>feel</em> like I used this about once or twice a month for the several years I was using DuckDuckGo as my default search engine. Infrequently enough that it didn’t annoy me to the point of considering switching back to Google for default, but frequently enough that I was annoyed enough to remember that I needed to use it at all.</p>
+
+<p><a href="https://help.kagi.com/kagi/features/bangs.html">Kagi supports Bangs too</a>, including <code>!g</code> for Google web search. I can’t remember the last time I felt the need to try using it. It’s been months, many months. And, the last few times I’ve tried it, Google’s results were no more help than Kagi’s. Your mileage may vary, of course, but for me, unlike with DuckDuckGo, I effectively <em>never</em> find myself redirecting the same search to Google because I wasn’t happy with the results from Kagi. For context on my search usage, <a href="https://daringfireball.net/misc/2025/04/kagi-usage.png">my Kagi usage report</a> shows that I perform 300–500 web search per month. (Kagi counts how often you search, for billing purposes, but <a href="https://kagi.com/privacy">does not keep a history</a> of <em>what</em> you searched for.)</p>
+
+<p>Paying for Kagi today feels a <em>lot</em> paying for HBO back in the cable TV heyday. Part of the deal is that you are paying for ad-free service, yes. But you’re also paying for noticeably higher quality. There were no shows like <em>The Sopranos</em>, <em>The Wire</em>, and <em>The Larry Sanders Show</em> on “free” TV channels, albeit with commercial interruptions. With HBO you got commercial-free entertainment <em>and</em> higher-quality shows and movies. Kagi is like that. It’s that good. No ads, no unwanted AI (but very good AI results if you want — just end your query with a question mark), <em>and</em> better search results.</p>
+
+
+
+    ]]></content>
+  <title>★ Another Periodic Suggestion to Try, Just Try, Switching to Kagi for Search</title></entry><entry>
 	<title>60 Minutes on Executive Producer Bill Owens’s Resignation and Paramount’s Editorial Interference</title>
 	<link rel="alternate" type="text/html" href="https://www.cbsnews.com/video/bill-owens-60-minutes-video-2025-04-27/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wad" />
@@ -2173,84 +2249,4 @@ in a 2022 opinion issued at the request of the <em>Autorité</em>.</p>
 
 
     ]]></content>
-  <title>★ ‘The Studio’ Is Fantastic So Far</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/03/the_website_hacker_news_is_afraid_to_discuss" />
-	<link rel="shorturl" href="http://df4.us/w7u" />
-	<id>tag:daringfireball.net,2025://1.41754</id>
-	<published>2025-03-27T00:11:53Z</published>
-	<updated>2025-03-27T13:31:49Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">What bothers me isn’t so much that Daring Fireball is shitlisted at Hacker News. What bothers me is that it’s unexplained.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>Back in 2017, <a href="https://daringfireball.net/2017/09/iphone_x_event_thoughts_and_observations">the iPhone X was announced alongside the iPhones 8 and 8 Plus</a> in mid-September. The iPhones 8 shipped that month, and I published <a href="https://daringfireball.net/2017/09/the_iphones_8">a review of the iPhones 8</a> on September 19. The iPhone X, though, <a href="https://www.apple.com/newsroom/2017/09/the-future-is-here-iphone-x/">wasn’t available to order until October 27</a>, and didn’t start shipping to customers until November 3. It was an unusual iPhone release cycle that year, to say the least. Initial reviews of the much-anticipated iPhone X appeared on October 31, but I’d only had the phone for 24 hours when the embargo dropped, so I published <a href="https://daringfireball.net/2017/10/iphone_x_review_roundup">some initial impressions then</a>, but wound up not publishing my <a href="https://daringfireball.net/2017/12/the_iphone_x">full review of the iPhone X</a> until December 26.</p>
-
-<p>A few days later I wrote a follow-up regarding a specific new interaction design, “<a href="https://daringfireball.net/2017/12/side_button_to_confirm_payments_on_iphone_x">Pressing the Side Button to Confirm Payments on iPhone X</a>”, which I began thus:</p>
-
-<blockquote>
-  <p>Occasionally I notice a burst of traffic to Daring Fireball from
-Hacker News. It’s always short-lived, because for reasons I’ve
-never seen explained, Daring Fireball articles always get
-blacklisted from Hacker News once they hit their front page. It’s
-apparent that a lot of HN readers do not like my work on the basis
-that they see me as a shameless Apple shill, but it’s a shame the
-articles get deleted because I like reading the comments. I feel
-like it keeps me on my toes to read the comments from people who
-don’t like Daring Fireball.</p>
-
-<p>Even after being blacklisted from the Hacker News homepage,
-though, the comment threads still exist. I went through <a href="https://news.ycombinator.com/item?id=16014464">the
-Hacker News comments on my iPhone X review</a> today, and a few
-comments about how Apple Pay works on the iPhone X caught my
-attention.</p>
-</blockquote>
-
-<p>What I didn’t mention then was that DF’s buried status at HN was, at the time, a relatively new phenomenon. Hacker News <a href="https://techcrunch.com/2013/05/18/the-evolution-of-hacker-news/">started in early 2007</a> and for a yearslong stretch, Daring Fireball articles seemed more or less appropriately popular there. Articles that I would think would resonate with the HN readership would hit, and get what always seemed to me an appropriate number of comments. At some point in the mid-2010s though, it seemed like DF articles would get downvoted or flagged after hitting the HN front page. I’d been noticing this for some time when I wrote the above in December 2017.</p>
-
-<p>But even in 2017, DF articles would get active comment threads on HN occasionally. The Hacker News thread I referenced above, <a href="https://news.ycombinator.com/item?id=16014464">regarding my iPhone X review</a>, garnered 107 comments. In the years after that, DF articles went from being mysteriously disappeared <em>after</em> hitting the HN front page (and gaining some comment traction) to pretty much <em>never</em> hitting the HN front page (and thus never gaining any comment traction). I found this curious, and I couldn’t figure out <a href="https://news.ycombinator.com/newsfaq.html">why or how</a> this was happening — or who was doing it — but I didn’t mention it much.</p>
-
-<p>Two years ago, <a href="https://daringfireball.net/2023/02/making_our_hearts_sing#fn1-2023-02-01">I did mention it again in a footnote</a>, in a piece about the inexplicably poor state of Android apps from a design perspective:</p>
-
-<blockquote>
-  <p>It sounds a bit conspiratorial, but <a href="https://daringfireball.net/2017/12/side_button_to_confirm_payments_on_iphone_x">for several years
-now</a> it’s seemed clear to me that Hacker News has
-Daring Fireball in some sort of graylist. It’s not blacklisted,
-obviously, given the aforementioned <a href="https://news.ycombinator.com/item?id=34605535">two</a>
-<a href="https://news.ycombinator.com/item?id=34611552">threads</a> about yesterday’s piece, but nothing I
-write here ever gains any significant traction there. Ever. And
-the reason there are two threads for yesterday’s piece is that the
-first one disappeared from the home page soon after it was posted.
-I think? In <a href="https://news.ycombinator.com/from?site=daringfireball.net">this list of recent Hacker News threads for articles
-from DF</a>, going back four months, only three have
-more than 10 comments — and two of those are the threads from
-yesterday. I don’t know who I pissed off there or why, but I’ve
-never seen an explanation for this. <strong>UPDATE:</strong> <a href="https://news.ycombinator.com/item?id=34626587">HN commenter
-Michiel de Mare has quantified the apparent
-suppression</a>, based on the ranking of this very
-article. Exactly what I’ve noticed for years.</p>
-</blockquote>
-
-<p>You can see this yourself right now, with <a href="https://news.ycombinator.com/from?site=daringfireball.net">the current list of recent DF articles submitted to Hacker News</a>. Most of them have 0, 1, or 2 comments. Some got up to 3. “<a href="https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino">Something Is Rotten in the State of Cupertino</a>” is the most read, most commented upon thing I’ve written in a while. On Hacker News <a href="https://news.ycombinator.com/item?id=43348891">it got just 28 comments</a> before being shitlisted, which, I have to say, is just weird. That’s one piece I’d have thought would resonate with the HN audience, and make for good grist for discussion. Then, after the original thread was shitlisted, someone re-submitted it (perhaps confused that it wasn’t on the HN front page). That re-submission <a href="https://news.ycombinator.com/item?id=43355009">got 1 comment</a> before it too fell to the mysterious shitlist reaper.</p>
-
-<p>The one recent exception is “<a href="https://daringfireball.net/2025/03/why_cant_we_screenshot_frames_from_drm-protected_video">Why Can’t We Screenshot Frames From DRM-Protected Video on Apple Devices?</a>”, which somehow <a href="https://news.ycombinator.com/item?id=43223985">escaped the shitlist and garnered 208 comments</a>. These occasional exceptions to DF’s general shitlisting at HN have always made the whole thing more mysterious to me. There’s clearly no programmatic blacklisting that keeps Daring Fireball articles from being submitted, or from gaining a few comments. But once any traction occurs, <em>something</em> happens and poof, they’re gone from the Hacker News front page. It certainly doesn’t make any sense to me why my off-hand post griping about our inability to screenshot DRM video frames would be an order of magnitude more popular than “Something Is Rotten in the State of Cupertino” was.</p>
-
-<p>Today, though, I saw <a href="https://jasette.facil.services/@jerome/114229390677476922">a helpful mention on Mastodon</a> that pointed me to an interesting project. An author named Michael Lynch has written a tool to quantify “<a href="https://refactoringenglish.com/tools/hn-popularity/">the highest-ranking personal blogs of Hacker News</a>” since HN’s inception in 2007. According to Lynch’s all-time listing, Daring Fireball ranks #5, which I have to say surprised me, given its years of inexplicable (or at the very least, unexplained) shitlisting status. But Lynch’s tool lets you select date ranges. If you look at <a href="https://refactoringenglish.com/tools/hn-popularity/?start=2006-10-09&amp;end=2021-03-26&amp;limit=100">2007 through 2021</a>, Daring Fireball ranked #3, behind only <a href="https://paulgraham.com/">Paul Graham’s renowned eponymous blog</a> and Brian Krebs’s excellent (and also eponymous) <a href="https://krebsonsecurity.com/">Krebs on Security</a>. From <a href="https://refactoringenglish.com/tools/hn-popularity/?start=2006-10-09&amp;end=2013-03-26&amp;limit=100">2007 though 2013</a>, DF ranked #2, behind only Graham (who created Hacker News). But if you look at the last four years, from <a href="https://refactoringenglish.com/tools/hn-popularity/?start=2021-10-09&amp;end=2025-03-26&amp;limit=100">2021 through 2025</a>, Daring Fireball ranks #72.</p>
-
-<p>Maybe I’ve lost my fastball, and I just don’t write so good no more. Or maybe it’s not me, but the Hacker News audience that has changed in recent years.<sup id="fnr1-2025-03-26"><a href="#fn1-2025-03-26">1</a></sup> But it seems to me <a href="https://news.ycombinator.com/item?id=34626587">there’s something fishy going on</a>. What bothers me isn’t so much that Daring Fireball is shitlisted at Hacker News — even though I really did enjoy reading the commentary on my posts back when they regularly surfaced there, and <a href="https://news.ycombinator.com/user?id=jgruber">still do</a> when one slips through the cracks. What bothers me is that it’s unexplained. Which, ultimately, seems not so much censorial as just cowardly.</p>
-
-<div class="footnotes">
-<hr />
-<ol>
-<li id="fn1-2025-03-26">
-<p>You’d think there’d be a certain kinship between decades-old websites, typeset in small-point Verdana, which stubbornly refuse to update their general layout and design.&nbsp;<a href="#fnr1-2025-03-26"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
-</li>
-</ol>
-</div>
-
-
-
-    ]]></content>
-  <title>★ The Website That Hacker News Is Afraid to Discuss (You’re Reading It)</title></entry></feed><!-- THE END -->
+  <title>★ ‘The Studio’ Is Fantastic So Far</title></entry></feed><!-- THE END -->
