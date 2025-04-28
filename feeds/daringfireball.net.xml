@@ -7,7 +7,187 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-04-28T21:38:20Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-04-28T23:45:12Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	
+	<link rel="alternate" type="text/html" href="https://www.listenlater.net/?referrer=df" />
+	<link rel="shorturl" href="http://df4.us/wai" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2025/04/listenlaternet_1" />
+	<id>tag:daringfireball.net,2025:/feeds/sponsors//11.41850</id>
+	<author><name>Daring Fireball Department of Commerce</name></author>
+	<published>2025-04-28T23:41:49Z</published>
+	<updated>2025-04-28T23:41:49Z</updated>
+	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
+<p>Turn articles into podcasts and listen on the go. Email any article, and our AI transforms it into human-like narration, delivered straight to your private podcast feed. Whether it’s a long read or a quick blog post, enjoy it hands-free on any podcast app. Perfect for commutes, workouts, or just unwinding.</p>
+
+<p>Sign up for free and start listening today. New users get $2 in credits to try it out — no commitment.</p>
+
+<p>Built by an indie developer passionate about great audio experiences. Try it at <a href="https://www.listenlater.net/?referrer=df">Listen Later</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘ListenLater.net’"  href="https://daringfireball.net/feeds/sponsors/2025/04/listenlaternet_1">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+	<title>[Sponsor] ListenLater.net</title></entry><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/04/is_chrome_even_a_sellable_asset" />
+	<link rel="shorturl" href="http://df4.us/wah" />
+	<id>tag:daringfireball.net,2025://1.41849</id>
+	<published>2025-04-28T23:28:30Z</published>
+	<updated>2025-04-28T23:29:56Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">It’s hard to come up with a buyer who could afford to pay a high price for Chrome and who would pass regulatory muster as its new owner. And if Chrome is not worth a high price, or simply isn’t sellable at one, then why is the DOJ trying to force Google to sell it? They might as well try to force Google to sell the two o’s from its name.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>There are two ways to consider a forced divestiture of Chrome by Google, <a href="https://www.nytimes.com/2024/11/20/technology/google-search-chrome-doj.html">as the U.S. Department of Justice has, for months now, been requesting</a> after Judge Amit P. Mehta ruled that Google has illegally maintained its monopoly in web search. One is from a business perspective (which I believe is the only perspective considered by the DOJ). The other is from a technical perspective. I don’t think either makes any sense. I’m not talking about whether it’s fair or just that Google be forced to sell Chrome. I’m talking about whether it’s even possible in any practical sense.</p>
+
+<h2>The Business Perspective</h2>
+
+<p>The whole premise that forcing Google to sell Chrome would be an appropriate remedy for their illegal monopolizing is predicated on the notion that Chrome, in and of itself, is a valuable asset. Here’s an article from Bloomberg reporters Leah Nylen and Josh Sisco that asserts in its headline “<a href="https://www.bloomberg.com/news/articles/2024-11-18/doj-will-push-google-to-sell-off-chrome-to-break-search-monopoly">Google’s Chrome Worth Up to $20 Billion If Judge Orders Sale</a>”. Their source for this valuation, which, again, they simply state as fact in their own headline, is a Bloomberg Intelligence analyst”:</p>
+
+<blockquote>
+  <p>Should a sale proceed, Chrome would be worth “at least $15-$20
+billion, given it has over 3 billion monthly active users,” said
+Bloomberg Intelligence analyst Mandeep Singh.</p>
+
+<p>The price prospective buyers are willing to pay may depend on
+their ability to link Chrome to other services, said Bob O’Donnell
+of TECHnalysis Research. “It’s not directly monetizable,” he said.
+“It serves as a gateway to other things. It’s not clear how you
+measure that from a pure revenue-generating perspective.”</p>
+</blockquote>
+
+<p>3 billion users = $15–$20 billion is not real math. It’s just bullshit. The users are only valuable right now because they perform a lot of Google web searches within Chrome. Chrome users also make money for Google by using other Google properties that show ads, like Maps and Gmail. And Chrome encourages users, in general, to use Google properties and services like Docs. If you try to work out how valuable Chrome is to Google, it’s seemingly worth a veritable fortune. But that doesn’t mean Chrome holds any value of its own, on its own.<sup id="fnr1-2025-04-28"><a href="#fn1-2025-04-28">1</a></sup></p>
+
+<p>Google also makes money from showing search ads to users of other browsers, like Safari and Firefox, but with those browsers Google pays traffic acquisition fees to Apple and Mozilla (respectively). In 2021 those fees amounted to over $26 billion, almost $20 billion of which went to Apple alone. <a href="https://www.theverge.com/2023/10/27/23934961/google-antitrust-trial-defaults-search-deal-26-3-billion">David Pierce, writing for The Verge in 2021</a>:</p>
+
+<blockquote>
+  <p>Just to put that $26.3 billion in context: Alphabet, Google’s
+parent company, announced in <a href="https://www.theverge.com/2023/10/24/23929496/google-alphabet-q3-2023-earnings-ads-ai-sge">its recent earnings report</a>
+that Google Search ad business brought in about $44 billion over
+the last three months and about $165 billion in the last year. Its
+entire ad business — which also includes YouTube ads — made a
+bit under $90 billion in profit. This is all back-of-the-napkin
+math, but essentially, Google is giving up about 16 percent of its
+search revenue and about 29 percent of its profit to those
+distribution deals.</p>
+</blockquote>
+
+<p>A key point to remember is that Google doesn’t pay Apple or Mozilla to make Google the default search engine in Safari and Firefox. They pay Apple and Mozilla <em>per search that goes to Google</em> from those browsers. It may or may not be in their contracts that Apple and Mozilla <em>will</em> make Google the default search engine in their browsers, but even if it is, that’s not what Google is paying for. They pay per search. It seems widely understood that one of the remedies that will come out of the <em>U.S. v. Google</em> verdict is that Google will be banned from any agreements that make Google search the default in other browsers. But I think it’s pretty clear how that will play out.</p>
+
+<p>Option (a) would be that Apple (and Mozilla, and Samsung, and the handful of other companies that make browsers with sizable market share who currently set Google search as the default<sup id="fnr2-2025-04-28"><a href="#fn2-2025-04-28">2</a></sup>) continue to make Google the default for search, even though it would no longer be a contractual demand in the TAC agreement between Google and the browser maker. In other words, right now, I think the contract between Google and Apple for TAC is currently like this:</p>
+
+<p><em>Google will pay Apple $X per web search that goes to Google from Safari, and Apple will make Google the default search in Safari.</em></p>
+
+<p>After the dust settles on the DOJ case against Google, it might look like this:</p>
+
+<p><em>Google will pay Apple $X per web search that goes to Google from Safari, but Apple is under no obligation to make Google the default search in Safari.</em></p>
+
+<p>And then Apple will simply choose to keep Google as the default search in Safari, and the TAC payments will continue to flow unabated. Same for Mozilla and Samsung and any other browser with Google as the current default. The money is good, Google is still considered the best general purpose web search engine, and users expect those searches to go through Google.</p>
+
+<p>Even if Google is somehow forbidden from accepting default search engine placement in other browsers, I don’t think it would change the TAC situation. But such a ruling would be weird, right? It’s Google that lost a major antitrust lawsuit and now faces a remedy reckoning, so it seems reasonable that Google might be forbidden from any contract that requires Chrome to be the search default in another browser. Apple didn’t lose an antitrust case. (<a href="https://en.wikipedia.org/wiki/United_States_v._Apple_(2024)">Yet</a>?) Mozilla certainly didn’t. So how could Apple or Mozilla be forbidden from choosing, of their own volition, to keep Google as the default search engine in their browsers? But even if they were, they wouldn’t switch the default search in Safari and Mozilla to Bing or DuckDuckGo or whatever. They’d have no default search at all, and instead present a choice screen to new users, with Google as one of the handful of options, and the overwhelming number of users would pick Google, and very little would change. The DMA requires these choice screens in the EU and Google search <a href="https://gs.statcounter.com/search-engine-market-share/all/europe">still has over 90 percent share there</a>. It’s hard to fathom a US court ruling that browser makers aren’t allowed even to offer Google search as an option for built-in search. (Even the EU didn’t do that.)</p>
+
+<p>It would seem even more punishing to Apple and Mozilla and Samsung et al if the DOJ attempted to prevent Google from making TAC payments to browser makers, period. In that scenario Google would just get to keep all the money they’re currently paying to those companies for the traffic — it would be a reward to Google and a punishment to Apple. (And possibly a death sentence for Mozilla.)</p>
+
+<p>With Chrome, Google gets to show users ads without paying any sort of traffic acquisition fee to the browser maker, because they’re the browser maker. Chrome is extremely profitable for Google not because it makes any money on its own, but because every Google search that starts in Chrome is a search Google doesn’t have to pay a TAC fee for.</p>
+
+<p>If Google were forced to sell Chrome, and found a buyer, presumably the entire appeal to the buyer would be that they’d start collecting those TAC fees from Google, just like Apple does with Safari.</p>
+
+<p>Here’s MG Siegler, <a href="https://spyglass.org/google-chrome-spin-out/">spitballing last year on who might possibly buy Chrome</a>, if the U.S. Department of Justice is successful in its attempt to force Google to divest it:</p>
+
+<blockquote>
+  <p>It’s not clear who could pay what for Chrome. Bloomberg throws out
+the notion of OpenAI being one potential home, but would the
+government really want that? That would risk anointing — well,
+really entrenching — a king in a new field. OpenAI’s main
+benefactor, Microsoft could acquire it, especially now that their
+own Edge browser is all-in on Chromium. But they would probably
+just use it to bolster not just Bing but also their own AI
+products and services. And that would be <a href="https://spyglass.org/google-disrupted-microsoft/">extremely awkward for
+the government</a> as well.</p>
+
+<p>Apple wouldn’t want Chrome and shouldn’t be allowed to buy it for
+obvious reasons. Mozilla has built Firefox on completely different
+technologies, but with that company in some amount of peril,
+perhaps it would be worth the “hail mary” — but could they
+possibly afford it? And honestly, what would they really do with
+it? They famously don’t have their own search engine. And their AI
+work is nascent at best. So they buy Chrome and strike a deal with
+Bing or DuckDuckGo? Does anyone want such a Frankenstein product?
+Same story with Opera, etc.</p>
+</blockquote>
+
+<p>It’s hard to come up with a buyer who could afford to pay a high price for Chrome and who would pass regulatory muster as its new owner. And if Chrome is not worth a high price, or simply isn’t sellable at one because there’s no plausible buyer, then why is the DOJ trying to force Google to sell it? They might as well try to force Google to sell the two o’s from its name.</p>
+
+<h2>The Technical Perspective</h2>
+
+<p>Ryan Whitwam, writing for Ars Technica just last week, “<a href="https://arstechnica.com/ai/2025/04/chatgpt-head-tells-court-openai-is-interested-in-buying-chrome/">OpenAI Wants to Buy Chrome and Make It an ‘AI-First’” Experience</a>”:</p>
+
+<blockquote>
+  <p>The remedy phase of Google’s antitrust trial is underway, with the
+government angling to realign Google’s business after the company
+was <a href="https://arstechnica.com/tech-policy/2024/08/google-loses-dojs-big-monopoly-trial-over-search-business/">ruled a search monopolist</a>. The Department of Justice
+is seeking a plethora of penalties, but perhaps none as severe as
+<a href="https://arstechnica.com/tech-policy/2025/04/chrome-on-the-chopping-block-as-googles-search-antitrust-trial-moves-forward/">forcing Google to sell Chrome</a>. But who would buy it? An
+OpenAI executive says his employer would be interested. Among the
+DOJ’s witnesses on the second day of the trial was Nick Turley,
+head of product for ChatGPT at OpenAI.</p>
+
+<p>While Judge Amit Mehta has expressed some skepticism about the
+DOJ’s proposal to divest Chrome, the government claims the browser
+is core to Google’s anticompetitive conduct. Further, the DOJ team
+believes that selling Chrome would level the online playing field,
+but it has not been clear who would buy the browser.</p>
+
+<p>According to Turley, OpenAI would throw its proverbial hat in the
+ring if Google had to sell. When asked if OpenAI would want
+Chrome, he was unequivocal. “Yes, we would, as would many other
+parties,” <a href="https://www.theinformation.com/articles/openai-buy-chrome-executive-testifies">Turley said</a>.</p>
+
+<p>OpenAI has reportedly considered building its own Chromium-based
+browser to compete with Chrome. Several months ago, the company
+hired former Google developers Ben Goodger and Darin Fisher, both
+of whom worked to bring Chrome to market.</p>
+</blockquote>
+
+<p>This is the aspect of the US case against Google that most shows the DOJ has little real idea how anything actually works in tech. The non-Google aspects of Chrome are completely open source. No need for dick quotes around the “open” there. Just <a href="https://www.chromium.org/Home/">go to the Chromium project</a> and download the code, which includes all of Blink, Chromium’s web engine that <a href="https://blog.chromium.org/2013/04/blink-rendering-engine-for-chromium.html">Google forked from WebKit in 2013</a>. There’s even an open source project called <a href="https://github.com/ungoogled-software/ungoogled-chromium">Ungoogled Chromium</a> that delivers a completely Google-free Chromium experience. Everything about Chromium, the browser app, looks and feels like Chrome. Except it doesn’t have any of the integration with Google’s web services and your Google account (or accounts, plural, if you use profiles to manage multiple user accounts in Chrome).</p>
+
+<p>There are dozens of for-profit browsers built from the Chromium code base. Microsoft’s <a href="https://www.microsoft.com/en-us/edge">Edge</a>. <a href="https://brave.com/">Brave</a>. <a href="https://vivaldi.com/">Vivaldi</a>. Even the venerable <a href="https://www.opera.com/">Opera</a> — a browser that <a href="https://en.wikipedia.org/wiki/History_of_the_Opera_web_browser">first debuted in 1994</a>! — <a href="https://web.archive.org/web/20130214043259/http://my.opera.com/ODIN/blog/300-million-users-and-move-to-webkit">became a forked version of Chromium</a> a decade ago.</p>
+
+<p>We know the value of a Google-free version of Chrome. Nothing. Zero. You can install and use that browser today, including all of its source code, free of charge. And if a commercial entity wants to take that base and build its own proprietary layer on top of that, they can do it. Microsoft and Brave and the others already have. And we know how popular those browsers are — which is not very popular at all.</p>
+
+<p>If, <a href="https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.">back in the late 1990s</a>, Microsoft had been forced to sell off its Office suite of apps, or split into two separate companies, a Windows/OS company and an Office/apps company, you can see how there would have been value in both entities. Windows generated (and still generates) a lot of revenue on its own. Office generated (and still generates) a lot of revenue on its own. There was also tremendous technical value in the closed source code to both “divisions”. There’s no value like that at all with Chrome, independent of Google as a whole.</p>
+
+<p>What has value are the billions of users using the actual Chrome from Google. All of those users could be using Edge or Brave or Vivaldi — or just plain Chromium — instead. They’d be getting the exact same rendering engine and the exact same basic browser user interface. But they’re not. They’re using Chrome. For chrissake Microsoft still owns and controls Windows and has made Edge — which I repeat is just a fork of Chromium — Windows’s default browser and <a href="https://gs.statcounter.com/browser-market-share/desktop/worldwide">Edge has just 14% desktop market share and Chrome has 66%</a>.</p>
+
+<p>The DOJ can’t force Google to sell Chrome’s user base because they’re not Chrome users, per se, they’re Google users. In practical terms what the DOJ is asking is for Google to be forced to shut Chrome down, and then I guess sell off the husk of its remains. Chrome does hold incredible value, but that value is inherent to Google and to Google/Chrome’s users. It’s not a standalone product with any commercial value whatsoever. It’s just a software layer between Google and its users.</p>
+
+<p>The more I think about it, the more it looks to me like a complete fantasy that Google even <em>could</em> sell Chrome. It would be at least a somewhat different situation if Chrome were mostly closed source. But it’s not. In fact, it’s the opposite — it’s almost entirely open source. So what even is there to buy?</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn1-2025-04-28">
+<p>Given that Safari generates over $20 billion in revenue for Apple annually, almost all of it in TAC fees from Google, and that surely almost all of that revenue is profit, and that Chrome has more than 3× Safari’s global web browser market share (across all devices, desktop and mobile), surely Chrome saves Google at least, say, $20-30 billion in TAC fees that Google would be paying to another company if some other company owned Chrome. If Apple generates $20 billion in profit from TAC fees for Safari, surely Chrome would generate at least as much, if not more, for a hypothetical buyer of Chrome who somehow managed to keep Chrome, under its ownership, as popular as Chrome is under Google’s. But so that would mean Chrome, as a purchasable asset, would surely be worth far, far more than $20 billion. If you valued Chrome at 10× revenue, that would mean it’s worth like $200-300 billion. But of course it’s not worth that much as a standalone entity, because it would never work out that a new owner could keep Chrome as popular as it is today, as an integrated Google product.</p>
+
+<p>As a spitball thought exercise, consider what Safari is worth, if Apple were forced to sell it. We know Safari generates $20 billion per year. But Safari doesn’t generate that money because Safari is Safari. It generates that money because Safari is the integrated default browser on iPhones, iPads, and Macs. Safari is extremely valuable to Apple as an integrated part of Apple’s platforms, but it would hold relatively no value at all as an independent standalone web browser. It’s like trying to ask what the Apple logo is worth, on its own.&nbsp;<a href="#fnr1-2025-04-28"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;︎</a></p>
+</li>
+
+
+<li id="fn2-2025-04-28">
+<p>The only popular browser that ships with something other than Google as the built-in default for web search is Microsoft Edge, which, of course, defaults to Bing. <a href="https://gs.statcounter.com/browser-market-share">Statcounter pegs Edge’s global market share</a> at 5 percent overall, and 14 percent on desktop. That’s a minority share, to be sure, but it’s something. <a href="https://gs.statcounter.com/os-market-share/desktop/worldwide">Statcounter puts MacOS’s share of the desktop market</a> at 15 percent. So about the same percentage of desktop users are using Edge as their web browser as there are using Macs as their computer. There is <a href="https://www.microsoft.com/en-us/edge/download">a version of Edge for Mac</a>, but there is very little overlap between the 15 percent of desktop users on Macs and the 14 percent of desktop users using Edge as their browser.&nbsp;<a href="#fnr2-2025-04-28"  class="footnoteBackLink"  title="Jump back to footnote 2 in the text.">&#x21A9;&#xFE0E;</a></p>
+</li>
+
+</ol>
+</div>
+
+
+
+    ]]></content>
+  <title>★ Is Chrome Even a Sellable Asset?</title></entry><entry>
 	<title>The Actual Reason Facebook Renamed Itself</title>
 	<link rel="alternate" type="text/html" href="https://blog.om.co/2025/04/28/no-gruber-this-is-why-facebook-renamed-itself/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wag" />
@@ -78,7 +258,7 @@ the matter.</p>
 	<link rel="shorturl" href="http://df4.us/wae" />
 	<id>tag:daringfireball.net,2025://1.41846</id>
 	<published>2025-04-28T17:45:20Z</published>
-	<updated>2025-04-28T19:27:36Z</updated>
+	<updated>2025-04-28T23:45:12Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -141,7 +321,7 @@ default searches to Kagi.</p>
 
 <p>I used DuckDuckGo for years as my default search, and for those years, I found it largely on par with Google. But it felt like every once in a while — maybe, say, once or twice a month — DuckDuckGo would come up dry in its results. DuckDuckGo pioneered a trick <a href="https://duckduckgo.com/bangs">they call Bangs</a>. Include <code>!g</code> to any search terms, and instead of performing the search itself, DuckDuckGo will redirect that search to Google. They have a whole bunch of these Bangs — “!a” for Amazon search, “!nf” for Netflix. There are literally thousands of them (which of course they allow you to search for). The only one I ever really used though was <code>!g</code>, for redirecting my current search to Google because DuckDuckGo’s own results for the same terms was unsatisfying. My memory may not match with my actual usage, but like I said, I <em>feel</em> like I used this about once or twice a month for the several years I was using DuckDuckGo as my default search engine. Infrequently enough that it didn’t annoy me to the point of considering switching back to Google for default, but frequently enough that I was annoyed enough to remember that I needed to use it at all.</p>
 
-<p><a href="https://help.kagi.com/kagi/features/bangs.html">Kagi supports Bangs too</a>, including <code>!g</code> for Google web search. I can’t remember the last time I felt the need to try using it. It’s been months, many months. And, the last few times I’ve tried it, Google’s results were no more help than Kagi’s. Your mileage may vary, of course, but for me, unlike with DuckDuckGo, I effectively <em>never</em> find myself redirecting the same search to Google because I wasn’t happy with the results from Kagi. For context on my search usage, <a href="https://daringfireball.net/misc/2025/04/kagi-usage.png">my Kagi usage report</a> shows that I perform 300–500 web search per month. (Kagi counts how often you search, for billing purposes, but <a href="https://kagi.com/privacy">does not keep a history</a> of <em>what</em> you searched for.)</p>
+<p><a href="https://help.kagi.com/kagi/features/bangs.html">Kagi supports Bangs too</a>, including <code>!g</code> for Google web search. I can’t remember the last time I felt the need to try using it. It’s been months, many months. And, the last few times I’ve tried it, Google’s results were no more help than Kagi’s. Your mileage may vary, of course, but for me, unlike with DuckDuckGo, I effectively <em>never</em> find myself redirecting the same search to Google because I wasn’t happy with the results from Kagi. For context on my search usage, <a href="https://daringfireball.net/misc/2025/04/kagi-usage.png">my Kagi usage report</a> shows that I perform 400–800 web searches per month. (Kagi counts how often you search, for billing purposes, but <a href="https://kagi.com/privacy">does not keep a history</a> of <em>what</em> you searched for.)</p>
 
 <p>Paying for Kagi today feels a <em>lot</em> like paying for HBO back in the cable TV heyday. Part of the deal is that you are paying for ad-free service, yes. But you’re also paying for noticeably higher quality. There were no shows like <em>The Sopranos</em>, <em>The Wire</em>, and <em>The Larry Sanders Show</em> on “free” TV channels, albeit with commercial interruptions. With HBO you got commercial-free entertainment <em>and</em> higher-quality shows and movies. Kagi is like that.<sup id="fnr1-2025-04-28"><a href="#fn1-2025-04-28">1</a></sup> It’s that good. No ads, no unwanted AI (but very good AI results if you want — just end your query with a question mark), <em>and</em> better search results.</p>
 
@@ -2042,29 +2222,6 @@ problem.”</p>
 
     ]]></content>
   <title>★ How Many New iPhones Can Fit on a Freight Plane?</title></entry><entry>
-	
-	<link rel="alternate" type="text/html" href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=RSS&amp;utm_campaign=q12025" />
-	<link rel="shorturl" href="http://df4.us/w91" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2025/04/workos_scalable_secure_authent_2" />
-	<id>tag:daringfireball.net,2025:/feeds/sponsors//11.41797</id>
-	<author><name>Daring Fireball Department of Commerce</name></author>
-	<published>2025-04-08T22:04:08Z</published>
-	<updated>2025-04-08T22:04:09Z</updated>
-	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
-<p>Modern authentication should be seamless and secure.  WorkOS makes it easy to integrate features like MFA, SSO, and RBAC.</p>
-
-<p>Whether you’re replacing passwords, stopping fraud, or adding enterprise auth, WorkOS can help you build frictionless auth that scales. </p>
-
-<p>Future-proof your authentication stack with the identity layer trusted by OpenAI, Cursor, Perplexity, and Vercel.  </p>
-
-<p>Upgrade your auth today. </p>
-
-<div>
-<a  title="Permanent link to ‘WorkOS: Scalable, Secure Authentication’"  href="https://daringfireball.net/feeds/sponsors/2025/04/workos_scalable_secure_authent_2">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-	<title>[Sponsor] WorkOS: Scalable, Secure Authentication</title></entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/04/unchanging_prices_vs_nonsensical_tariffs" />
 	<link rel="shorturl" href="http://df4.us/w8o" />
@@ -2202,41 +2359,4 @@ in a 2022 opinion issued at the request of the <em>Autorité</em>.</p>
 
 
     ]]></content>
-  <title>★ France Fines Apple $162M for App Tracking Transparency, Taking the Side of Surveillance Advertisers Over Users</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/03/the_studio" />
-	<link rel="shorturl" href="http://df4.us/w7z" />
-	<id>tag:daringfireball.net,2025://1.41759</id>
-	<published>2025-03-30T19:38:28Z</published>
-	<updated>2025-03-31T15:31:36Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">Perhaps Apple’s leadership simply believes, as I do, that cinema is the grandest and greatest form of art the world has ever seen — one that encompasses acting, writing, photography and/or illustration, and music — and but that great cinema is expensive and delicate and needs, from deep-pocketed studios and their deeper-pocketed corporate parents, more than patrons, but *champions*.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>With season 2 of <em>Severance</em> complete (with a remarkable bang), Apple TV+ has slid right into a new prestige series, <em><a href="https://www.themoviedb.org/tv/247767-the-studio?language=en-US">The Studio</a></em>, starring (and co-created by) Seth Rogen as the newly-appointed chief of the fictional and dysfunctional Continental Studios in Hollywood.</p>
-
-<p>Two episodes in (out of 10 for the debut season), and it is fucking amazing. So far it feels a bit like a cross between <em>Entourage</em>, <em>The Larry Sanders Show</em>, <em>Boogie Nights</em>, and maybe a touch of <em>Curb Your Enthusiasm</em>. But the biggest influence and inspiration is clearly Robert Altman’s 1992 masterpiece <em><a href="https://www.themoviedb.org/movie/10403-the-player?language=en-US">The Player</a></em>, almost certainly the best Hollywood movie about Hollywood moviemaking that ever was or will be made.</p>
-
-<p>What <em>The Studio</em> and <em>The Player</em> share is that they’re about the struggle to create great cinematic art within a corporate studio world run by unartistic know-it-all  self-important status-obsessed dullards driven by formula and fads — and, simultaneously, they are themselves almost unfathomably complicated and intricate works of cinematic art. They <em>are</em> what they’re <em>about</em>. They achieve what the characters within them fear is no longer achievable. When you get to episode 2 of <em>The Studio</em>, just keep asking yourself “Wait, <em>how</em> are they getting this shot?” The lighting, my god. The whole thing is just an outpouring of homage to <a href="https://www.rogerebert.com/scanners/opening-shots-the-player">the opening shot of <em>The Player</em></a>, which of course itself calls back, <a href="https://filmotomy.com/quiet-on-the-set-breaking-down-the-opening-shot-in-altmans-the-player/">explicitly</a>, to Orson Welles’s <em>Touch of Evil</em>.</p>
-
-<p><em>The Studio</em> is, thus far, engaging, surprising, funny, gorgeous, clever, and cinematically ambitious. It’s really quite a thing. I have no idea what’s coming in episodes 3–10, so maybe this piece will look a bit premature, if not foolish, in two months. But if the rest of season one is anything like the first two episodes, <em>The Studio</em> is a classic in the making.</p>
-
-<p>The thought also occurs to me that this might be the don’t-over-think-it answer to <a href="https://daringfireball.net/linked/2025/03/21/apple-tv-spend-loss-or-cost">just what the hell Apple is doing making original shows and movies</a> in the first place. Perhaps Apple’s leadership simply believes, as I do, that cinema is the grandest and greatest form of art the world has ever seen — one that encompasses acting, writing, photography and/or illustration, and music — and but that great cinema is expensive and delicate and needs, from deep-pocketed studios and their deeper-pocketed corporate parents, more than patrons, but <em>champions</em>. And that in a media landscape where such champions of cinema-as-art and art-as-an-essential-public-good are fewer and fewer, it is Apple’s not just opportunity but <em>obligation</em> to step up to the plate.</p>
-
-<p>I’ve long thought that one of the minor tragedies of Steve Jobs’s second act is that the timing just didn’t work out to sell Pixar to Apple, instead of to Disney. But make no mistake, a love and appreciation for great cinema is not outside Apple’s DNA. No streamer has a higher hit rate for quality shows. Their movies mostly stink so far, but maybe that’s just the learning curve. <em>The Gorge</em>, for example, feels like an Apple TV movie because it’s so decidedly meh. Not horrible, but not good in any way beyond its intriguing elevator-pitch concept. <em>Wolfs</em> was better but still a grand disappointment given its pedigree. But when it comes to shows, no one is doing better. <em>Severance</em> deserves all its acclaim and attention, and Ben Stiller delivered a season 2 finale that’s arguably the best 78 minutes of filmmaking I’ve seen this decade. And <em>The Studio</em>, to me, <em>feels</em> like an Apple TV show — not because of how it looks, what it’s about, or who’s in it, but simply because it’s so good. Netflix almost never makes shows like this. Neither does HBO now that’s its been subsumed by “Max”. Peacock et al don’t even try.<sup id="fnr1-2025-03-30"><a href="#fn1-2025-03-30">1</a></sup></p>
-
-<div class="footnotes">
-<hr />
-<ol>
-<li id="fn1-2025-03-30">
-<p>One more A+ recommendation: <em><a href="https://www.themoviedb.org/tv/219971-the-agency">The Agency</a></em> on Paramount+. Michael Fassbender, Jeffrey Wright, Richard Gere, a breakout searing performance by Jodie Turner-Smith, and a great supporting cast in a super-smart, hyper-realistic-feeling spy-thriller/mystery/love story. Gorgeous cinematography too. Just so good in a “feels like it should have been on Apple TV+” way, sort of like how it was so obvious right from S1.E1 that HBO fucked up big-time by passing on <em>Mad Men</em>.&nbsp;<a href="#fnr1-2025-03-30"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
-</li>
-</ol>
-</div>
-
-
-
-    ]]></content>
-  <title>★ ‘The Studio’ Is Fantastic So Far</title></entry></feed><!-- THE END -->
+  <title>★ France Fines Apple $162M for App Tracking Transparency, Taking the Side of Surveillance Advertisers Over Users</title></entry></feed><!-- THE END -->
