@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-04-28T18:34:07Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-04-28T19:16:56Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>Meta Laid Off Over 100 Employees in Reality Labs</title>
 	<link rel="alternate" type="text/html" href="https://www.theverge.com/meta/655835/meta-layoffs-reality-labs-vr-supernatural" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/waf" />
@@ -48,12 +48,12 @@ the matter.</p>
 	<link rel="shorturl" href="http://df4.us/wae" />
 	<id>tag:daringfireball.net,2025://1.41846</id>
 	<published>2025-04-28T17:45:20Z</published>
-	<updated>2025-04-28T17:45:21Z</updated>
+	<updated>2025-04-28T19:16:56Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
-	<summary type="text">Paying for Kagi today feels a *lot* paying for HBO back in the cable TV heyday.</summary>
+	<summary type="text">Paying for Kagi today feels a *lot* like paying for HBO back in the cable TV heyday.</summary>
 	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
 <p>Aaron Pressman, writing earlier this month in The Boston Globe, “<a href="https://www.bostonglobe.com/2025/04/01/business/google-search-problems-alternatives-kagi/">Why I Abandoned Google Search After 27 Years — and What I’m Using Instead</a>”:</p>
 
@@ -113,7 +113,16 @@ default searches to Kagi.</p>
 
 <p><a href="https://help.kagi.com/kagi/features/bangs.html">Kagi supports Bangs too</a>, including <code>!g</code> for Google web search. I can’t remember the last time I felt the need to try using it. It’s been months, many months. And, the last few times I’ve tried it, Google’s results were no more help than Kagi’s. Your mileage may vary, of course, but for me, unlike with DuckDuckGo, I effectively <em>never</em> find myself redirecting the same search to Google because I wasn’t happy with the results from Kagi. For context on my search usage, <a href="https://daringfireball.net/misc/2025/04/kagi-usage.png">my Kagi usage report</a> shows that I perform 300–500 web search per month. (Kagi counts how often you search, for billing purposes, but <a href="https://kagi.com/privacy">does not keep a history</a> of <em>what</em> you searched for.)</p>
 
-<p>Paying for Kagi today feels a <em>lot</em> paying for HBO back in the cable TV heyday. Part of the deal is that you are paying for ad-free service, yes. But you’re also paying for noticeably higher quality. There were no shows like <em>The Sopranos</em>, <em>The Wire</em>, and <em>The Larry Sanders Show</em> on “free” TV channels, albeit with commercial interruptions. With HBO you got commercial-free entertainment <em>and</em> higher-quality shows and movies. Kagi is like that. It’s that good. No ads, no unwanted AI (but very good AI results if you want — just end your query with a question mark), <em>and</em> better search results.</p>
+<p>Paying for Kagi today feels a <em>lot</em> like paying for HBO back in the cable TV heyday. Part of the deal is that you are paying for ad-free service, yes. But you’re also paying for noticeably higher quality. There were no shows like <em>The Sopranos</em>, <em>The Wire</em>, and <em>The Larry Sanders Show</em> on “free” TV channels, albeit with commercial interruptions. With HBO you got commercial-free entertainment <em>and</em> higher-quality shows and movies. Kagi is like that.<sup id="fnr1-2025-04-28"><a href="#fn1-2025-04-28">1</a></sup> It’s that good. No ads, no unwanted AI (but very good AI results if you want — just end your query with a question mark), <em>and</em> better search results.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1-2025-04-28">
+<p>And in a way it’s even better. With HBO in the cable TV heyday, it wasn’t like you switched from regular commercial TV to HBO exclusively. You still had to watch all the shows you liked that were broadcast on other channels on those other channels. HBO was a respite of high-quality commercial-free content <em>in addition to</em> the commercial-ridden stuff. But when you switch from Google to Kagi for search, you more or less <em>switch</em>. It’s a full-on replacement.&nbsp;<a href="#fnr1-2025-04-28"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
+</li>
+</ol>
+</div>
 
 
 
