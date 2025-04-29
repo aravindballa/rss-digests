@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-04-29T01:11:17Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-04-29T14:30:27Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	
 	<link rel="alternate" type="text/html" href="https://www.listenlater.net/?referrer=df" />
 	<link rel="shorturl" href="http://df4.us/wai" />
@@ -34,7 +34,7 @@
 	<link rel="shorturl" href="http://df4.us/wah" />
 	<id>tag:daringfireball.net,2025://1.41849</id>
 	<published>2025-04-28T23:28:30Z</published>
-	<updated>2025-04-29T01:11:17Z</updated>
+	<updated>2025-04-29T14:30:27Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -45,7 +45,7 @@
 
 <h2>The Business Perspective</h2>
 
-<p>The whole premise that forcing Google to sell Chrome would be an appropriate remedy for their illegal monopolizing is predicated on the notion that Chrome, in and of itself, is a valuable asset. Here’s an article from Bloomberg reporters Leah Nylen and Josh Sisco that asserts in its headline “<a href="https://www.bloomberg.com/news/articles/2024-11-18/doj-will-push-google-to-sell-off-chrome-to-break-search-monopoly">Google’s Chrome Worth Up to $20 Billion If Judge Orders Sale</a>”. Their source for this valuation, which, again, they simply state as fact in their own headline, is a Bloomberg Intelligence analyst”:</p>
+<p>The whole premise that forcing Google to sell Chrome would be an appropriate remedy for their illegal monopolizing is predicated on the notion that Chrome, in and of itself, is a valuable asset. Here’s an article from Bloomberg reporters Leah Nylen and Josh Sisco that asserts in its headline “<a href="https://www.bloomberg.com/news/articles/2024-11-18/doj-will-push-google-to-sell-off-chrome-to-break-search-monopoly">Google’s Chrome Worth Up to $20 Billion If Judge Orders Sale</a>”. Their source for this valuation, which, again, they simply state as fact in their own headline, is a “Bloomberg Intelligence analyst”:</p>
 
 <blockquote>
   <p>Should a sale proceed, Chrome would be worth “at least $15-$20
@@ -77,7 +77,7 @@ distribution deals.</p>
 
 <p>A key point to remember is that Google doesn’t pay Apple or Mozilla to make Google the default search engine in Safari and Firefox. They pay Apple and Mozilla <em>per search that goes to Google</em> from those browsers. It may or may not be in their contracts that Apple and Mozilla <em>will</em> make Google the default search engine in their browsers, but even if it is, that’s not what Google is paying for. They pay per search. It seems widely understood that one of the remedies that will come out of the <em>U.S. v. Google</em> verdict is that Google will be banned from any agreements that make Google search the default in other browsers. But I think it’s pretty clear how that will play out.</p>
 
-<p>Option (a) would be that Apple (and Mozilla, and Samsung, and the handful of other companies that make browsers with sizable market share who currently set Google search as the default<sup id="fnr2-2025-04-28"><a href="#fn2-2025-04-28">2</a></sup>) continue to make Google the default for search, even though it would no longer be a contractual demand in the TAC agreement between Google and the browser maker. In other words, right now, I think the contract between Google and Apple for TAC is currently like this:</p>
+<p>Option (a) would be that Apple (and Mozilla, and Samsung, and the handful of other companies that make browsers with sizable market share who currently set Google search as the default<sup id="fnr2-2025-04-28"><a href="#fn2-2025-04-28">2</a></sup>) continue to make Google the default for search, even though it would no longer be a contractual demand in the Traffic Acquisition Cost (<a href="https://www.investopedia.com/terms/t/traffic-acquisition-cost-tac.asp">TAC</a>) agreement between Google and the browser maker. In other words, right now, I think the contract between Google and Apple for TAC is currently like this:</p>
 
 <p><em>Google will pay Apple $X per web search that goes to Google from Safari, and Apple will make Google the default search in Safari.</em></p>
 
@@ -102,7 +102,7 @@ distribution deals.</p>
 the notion of OpenAI being one potential home, but would the
 government really want that? That would risk anointing — well,
 really entrenching — a king in a new field. OpenAI’s main
-benefactor, Microsoft could acquire it, especially now that their
+benefactor, Microsoft, could acquire it, especially now that their
 own Edge browser is all-in on Chromium. But they would probably
 just use it to bolster not just Bing but also their own AI
 products and services. And that would be <a href="https://spyglass.org/google-disrupted-microsoft/">extremely awkward for
