@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-04-28T23:45:12Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-04-29T00:26:45Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	
 	<link rel="alternate" type="text/html" href="https://www.listenlater.net/?referrer=df" />
 	<link rel="shorturl" href="http://df4.us/wai" />
@@ -34,7 +34,7 @@
 	<link rel="shorturl" href="http://df4.us/wah" />
 	<id>tag:daringfireball.net,2025://1.41849</id>
 	<published>2025-04-28T23:28:30Z</published>
-	<updated>2025-04-28T23:29:56Z</updated>
+	<updated>2025-04-29T00:26:45Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -87,7 +87,7 @@ distribution deals.</p>
 
 <p>And then Apple will simply choose to keep Google as the default search in Safari, and the TAC payments will continue to flow unabated. Same for Mozilla and Samsung and any other browser with Google as the current default. The money is good, Google is still considered the best general purpose web search engine, and users expect those searches to go through Google.</p>
 
-<p>Even if Google is somehow forbidden from accepting default search engine placement in other browsers, I don’t think it would change the TAC situation. But such a ruling would be weird, right? It’s Google that lost a major antitrust lawsuit and now faces a remedy reckoning, so it seems reasonable that Google might be forbidden from any contract that requires Chrome to be the search default in another browser. Apple didn’t lose an antitrust case. (<a href="https://en.wikipedia.org/wiki/United_States_v._Apple_(2024)">Yet</a>?) Mozilla certainly didn’t. So how could Apple or Mozilla be forbidden from choosing, of their own volition, to keep Google as the default search engine in their browsers? But even if they were, they wouldn’t switch the default search in Safari and Mozilla to Bing or DuckDuckGo or whatever. They’d have no default search at all, and instead present a choice screen to new users, with Google as one of the handful of options, and the overwhelming number of users would pick Google, and very little would change. The DMA requires these choice screens in the EU and Google search <a href="https://gs.statcounter.com/search-engine-market-share/all/europe">still has over 90 percent share there</a>. It’s hard to fathom a US court ruling that browser makers aren’t allowed even to offer Google search as an option for built-in search. (Even the EU didn’t do that.)</p>
+<p>Even if Google is somehow forbidden from accepting default search engine placement in other browsers, I don’t think it would change the TAC situation. But such a ruling would be weird, right? It’s Google that lost a major antitrust lawsuit and now faces a remedy reckoning, so it seems reasonable that Google might be forbidden from any contract that requires Google search to be the search default in another browser. Apple didn’t lose an antitrust case. (<a href="https://en.wikipedia.org/wiki/United_States_v._Apple_(2024)">Yet</a>?) Mozilla certainly didn’t. So how could Apple or Mozilla be forbidden from choosing, of their own volition, to keep Google as the default search engine in their browsers? But even if they were, they wouldn’t switch the default search in Safari and Mozilla to Bing or DuckDuckGo or whatever. They’d have no default search at all, and instead present a choice screen to new users, with Google as one of the handful of options, and the overwhelming number of users would pick Google, and very little would change. The DMA requires these choice screens in the EU and Google search <a href="https://gs.statcounter.com/search-engine-market-share/all/europe">still has over 90 percent share there</a>. It’s hard to fathom a US court ruling that browser makers aren’t allowed even to offer Google search as an option for built-in search. (Even the EU didn’t do that.)</p>
 
 <p>It would seem even more punishing to Apple and Mozilla and Samsung et al if the DOJ attempted to prevent Google from making TAC payments to browser makers, period. In that scenario Google would just get to keep all the money they’re currently paying to those companies for the traffic — it would be a reward to Google and a punishment to Apple. (And possibly a death sentence for Mozilla.)</p>
 
@@ -258,7 +258,7 @@ the matter.</p>
 	<link rel="shorturl" href="http://df4.us/wae" />
 	<id>tag:daringfireball.net,2025://1.41846</id>
 	<published>2025-04-28T17:45:20Z</published>
-	<updated>2025-04-28T23:45:12Z</updated>
+	<updated>2025-04-28T23:46:32Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -319,7 +319,7 @@ default searches to Kagi.</p>
 
 <p>Like, even if I <a href="https://udm14.com/">use the magic <code>&amp;udm=14</code> parameter</a> with Google search, <a href="https://daringfireball.net/linked/2024/05/23/udm14">to get “disenshittified” results from Google</a>, I find I get <em>better</em> results from Kagi. When I know there’s one right answer (say, a specific article I remember reading and want to find again), Kagi is more likely than Google to list it first. If it’s a years-old article, Kagi is <em>way</em> more likely than Google to find it at all. For me, Google (and, alas, DuckDuckGo too) have largely stopped working reliably for finding not-recent stuff on the web. Not true with Kagi.</p>
 
-<p>I used DuckDuckGo for years as my default search, and for those years, I found it largely on par with Google. But it felt like every once in a while — maybe, say, once or twice a month — DuckDuckGo would come up dry in its results. DuckDuckGo pioneered a trick <a href="https://duckduckgo.com/bangs">they call Bangs</a>. Include <code>!g</code> to any search terms, and instead of performing the search itself, DuckDuckGo will redirect that search to Google. They have a whole bunch of these Bangs — “!a” for Amazon search, “!nf” for Netflix. There are literally thousands of them (which of course they allow you to search for). The only one I ever really used though was <code>!g</code>, for redirecting my current search to Google because DuckDuckGo’s own results for the same terms was unsatisfying. My memory may not match with my actual usage, but like I said, I <em>feel</em> like I used this about once or twice a month for the several years I was using DuckDuckGo as my default search engine. Infrequently enough that it didn’t annoy me to the point of considering switching back to Google for default, but frequently enough that I was annoyed enough to remember that I needed to use it at all.</p>
+<p>I used DuckDuckGo for years as my default search, and for those years, I found it largely on par with Google. But it felt like every once in a while — maybe, say, once or twice a month — DuckDuckGo would come up dry in its results. DuckDuckGo pioneered a trick <a href="https://duckduckgo.com/bangs">they call Bangs</a>. Include <code>!g</code> to any search terms, and instead of performing the search itself, DuckDuckGo will redirect that search to Google. They have a whole bunch of these Bangs — “!a” for Amazon search, “!nf” for Netflix. There are literally thousands of them (which of course they allow you to search for). The only one I ever really used though was <code>!g</code>, for redirecting my current search to Google because DuckDuckGo’s own results for the same terms was unsatisfying. My memory may not match with my actual usage, but like I said, I <em>feel</em> like I used this about once or twice a month for the several years I was using DuckDuckGo as my default search engine. Infrequently enough that it didn’t annoy me to the point of considering switching back to Google for default in-browser search, but frequently enough that I was annoyed enough to remember that I needed to use it at all.</p>
 
 <p><a href="https://help.kagi.com/kagi/features/bangs.html">Kagi supports Bangs too</a>, including <code>!g</code> for Google web search. I can’t remember the last time I felt the need to try using it. It’s been months, many months. And, the last few times I’ve tried it, Google’s results were no more help than Kagi’s. Your mileage may vary, of course, but for me, unlike with DuckDuckGo, I effectively <em>never</em> find myself redirecting the same search to Google because I wasn’t happy with the results from Kagi. For context on my search usage, <a href="https://daringfireball.net/misc/2025/04/kagi-usage.png">my Kagi usage report</a> shows that I perform 400–800 web searches per month. (Kagi counts how often you search, for billing purposes, but <a href="https://kagi.com/privacy">does not keep a history</a> of <em>what</em> you searched for.)</p>
 
