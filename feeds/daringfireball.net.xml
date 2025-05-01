@@ -7,7 +7,162 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-04-30T20:37:28Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-05-01T02:56:10Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/04/gonzales_rogers_apple_app_store_ruling" />
+	<link rel="shorturl" href="http://df4.us/wam" />
+	<id>tag:daringfireball.net,2025://1.41854</id>
+	<published>2025-05-01T02:46:59Z</published>
+	<updated>2025-05-01T02:56:10Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">Are the results of this disastrous for Apple’s App Store business? I don’t think so at all. Gonzales Rogers is demanding that Apple ... do what Phil Schiller recommended they do all along. But are the results of this disastrous for Apple’s reputation and credibility? It sure seems like it.
+</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>I’m linking <a href="https://www.techmeme.com/250430/p55#a250430p55">here to Techmeme’s roundup of news coverage and commentary</a>, but I highly recommend you start by reading <a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.364265/gov.uscourts.cand.364265.1508.0_2.pdf">Gonzalez Rogers’s 80-page decision</a>. It is excoriating. I’ve read few legal decisions quite like it. But it’s also incredibly cogent and plainly written.</p>
+
+<p>From the start:</p>
+
+<blockquote>
+  <p>To summarize: <em>One</em>, after trial, the Court found that Apple’s 30
+percent commission “allowed it to reap supracompetitive operating
+margins” and was not tied to the value of its intellectual
+property, and thus, was anticompetitive. Apple’s response: charge
+a <em>27 percent commission</em> (again tied to nothing) on off-app
+purchases, where it had previously charged nothing, and extend the
+commission for a period of seven days after the consumer
+linked-out of the app. Apple’s goal: maintain its anticompetitive
+revenue stream. <em>Two</em>, the Court had prohibited Apple from denying
+developers the ability to communicate with, and direct consumers
+to, other purchasing mechanisms. Apple’s response: impose <em>new</em>
+barriers and <em>new</em> requirements to increase friction and increase
+breakage rates with full page “scare” screens, static URLs, and
+generic statements. Apple’s goal: to dissuade customer usage of
+alternative purchase opportunities and maintain its
+anticompetitive revenue stream. In the end, Apple sought to
+maintain a revenue stream worth billions in direct defiance of
+this Court’s Injunction.</p>
+</blockquote>
+
+<p>There’s quite a bit of fury in those italics. Rule one when you’re in court, any court, is “Don’t piss off the judge.” Apple has absolutely infuriated Gonzales Rogers through actions that all of us saw as outrageous.</p>
+
+<blockquote>
+  <p>In stark contrast to Apple’s initial in-court testimony,
+contemporaneous business documents reveal that Apple knew exactly
+what it was doing and at every turn chose the most
+<em>anti</em>competitive option. To hide the truth, Vice-President of
+Finance, Alex Roman, outright lied under oath. Internally, Phillip
+Schiller had advocated that Apple comply with the Injunction, but
+Tim Cook ignored Schiller and instead allowed Chief Financial
+Officer Luca Maestri and his finance team to convince him
+otherwise. Cook chose poorly. The real evidence, detailed herein,
+more than meets the clear and convincing standard to find a
+violation. The Court refers the matter to the United States
+Attorney for the Northern District of California to investigate
+whether criminal contempt proceedings are appropriate.</p>
+
+<p>This is an injunction, not a negotiation. There are no do-overs
+once a party willfully disregards a court order. Time is of the
+essence. The Court will not tolerate further delays. As previously
+ordered, Apple will not impede competition. The Court enjoins
+Apple from implementing its new anticompetitive acts to avoid
+compliance with the Injunction. <b><i>Effective immediately</i></b>
+Apple will no longer impede developers’ ability to communicate with
+users nor will they levy or impose a new commission on off-app purchases.</p>
+</blockquote>
+
+<p>You know a judge is pissed when she busts out the bold italics. Later, on (page 21, citations omitted for readability):</p>
+
+<blockquote>
+  <p>Prior to the June 20 meeting, there were individuals within Apple
+who were advocating for a commission, and others advocating for no
+commission. Those advocating for a commission included Mr. Maestri
+and Mr. Roman. Mr. Schiller disagreed. In an email, Mr. Schiller
+relayed that, with respect to the proposal for “a 27% commission
+for 24 hours,” “I have already explained my many issues with the
+commission concept,” and that “clearly I am not on team
+commission/fee.” Mr. Schiller testified that, at the time, he “had
+a question of whether we would be able to charge a commission”
+under the Injunction, a concern which he communicated.</p>
+</blockquote>
+
+<p>Schiller comes across as Apple’s sole voice of reason, fairness, and dare I say honesty in this entire ruling. The only people in the world who seemed to think Apple could or should comply with the 2021 injunction (that apps be permitted to steer users to the web to make purchases) by charging a commission — any commission, let alone a 27 percent commission — on those web transactions were Apple’s finance team members, led by Luca Maestri and Alex Roman, and Tim Cook.</p>
+
+<blockquote>
+  <p>Unlike Mr. Maestri and Mr. Roman, Mr. Schiller sat through the
+entire underlying trial and actually read the entire 180-page
+decision. That Messrs. Maestri and Roman did neither, does not
+shield Apple of its knowledge (actual and constructive) of the
+Court’s findings.</p>
+</blockquote>
+
+<p>I mean Jesus H. Christ, that’s scathing. </p>
+
+<p>It’s worth pointing out that Luca Maestri is no longer Apple’s CFO. (<a href="https://www.apple.com/leadership/kevan-parekh/">Kevan Parekh is</a>.) Back in August, <a href="https://www.apple.com/newsroom/2024/08/apple-announces-chief-financial-officer-transition/">Apple announced</a> that Maestri was, effectively retiring as CFO “as part of a planned succession”. Apple’s statement didn’t use the word <em>retiring</em>, but rather the word <em>transitioning</em>. With this ruling and Maestri’s central role in Apple’s decision to forge ahead with a compliance plan where they “allowed” steering to the web by charging the same effective commissions on web transactions as they do for in-app transactions, I now have to wonder whether Maestri retired or “retired”. “Cook chose poorly” (by following Maestri’s recommendation) is not the sort of sentence from a judge that keeps CFOs in their jobs.</p>
+
+<p>As for Alex Roman, I think he’s in some serious trouble. Like doing-time-in-the-clink trouble:</p>
+
+<blockquote>
+  <p>Despite its own considerable evaluation, during the first May 2024
+hearing, Apple employees attempted to mislead the Court by
+testifying that the decision to impose a commission was grounded
+in AG’s report. The testimony of Mr. Roman, Vice President of
+Finance, was replete with misdirection and outright lies. He even
+went so far as to testify that Apple did not look at comparables
+to estimate the costs of alternative payment solutions that
+developers would need to procure to facilitate linked-out
+purchases.</p>
+
+<p>The Court finds that Apple <em>did</em> consider the external
+costs developers faced when utilizing alternative payment
+solutions for linked out transactions, which conveniently exceeded
+the 3% discount Apple ultimately decided to provide by a safe
+margin. Apple <em>did not</em> rely on a substantiated bottoms-up analysis
+during its months-long assessment of whether to impose a
+commission, seemingly justifying its decision after the fact with
+the AG’s report.</p>
+
+<p>Mr. Roman did not stop there, however. He also testified that up
+until January 16, 2024, Apple had no idea what fee it would impose
+on linked-out purchases:</p>
+
+<blockquote>
+  <p>Q. And I take it that Apple decided to impose a 27 percent fee
+ on linked purchases prior to January 16, 2024, correct?</p>
+
+<p>A. The decision was made that day.</p>
+
+<p>Q. It’s your testimony that up until January 16, 2024, Apple had
+no idea what — what fee it’s going to impose on linked purchases?</p>
+
+<p>A. That is correct.</p>
+</blockquote>
+
+<p>Another lie under oath: contemporaneous business documents reveal
+that on the contrary, the main components of Apple’s plan,
+including the 27% commission, were determined in July 2023.</p>
+
+<p>Neither Apple, nor its counsel, corrected the, now obvious, lies.
+They did not seek to withdraw the testimony or to have it stricken
+(although Apple did request that the Court strike <em>other</em>
+testimony). Thus, Apple will be held to have adopted the lies and
+misrepresentations to this Court.</p>
+</blockquote>
+
+<p>There’s so much more. <a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.364265/gov.uscourts.cand.364265.1508.0_2.pdf">The whole ruling</a> is compelling — and damning — reading.</p>
+
+<p>Keep in mind this whole thing stems from an injunction from a lawsuit filed by Epic Games <em>that Apple largely won</em>. The result of that lawsuit was basically, “<em>OK, Apple wins, Epic loses, but this whole thing where apps in the App Store aren’t allowed to inform users of offers available outside the App Store, or send them to such offers on the web (outside the app) via easily tappable links, is bullshit and needs to stop. If the App Store is not anticompetitive it should be able to compete with links to the web and offers from outside the App Store.</em>”</p>
+
+<p>Are the results of this disastrous for Apple’s App Store business? I don’t think so at all. Gonzales Rogers is demanding that Apple ... do what Phil Schiller recommended they do all along, which is to compete fair and square with purchases available on the web. She’s not demanding they do what, say, Tim Sweeney wanted them to do. She’s basically saying Phil Schiller was right. Read her entire ruling and it’s hard to imagine anyone disagreeing with that.</p>
+
+<p>But are the results of this disastrous for Apple’s reputation and credibility? It sure seems like it. But it would be worse — much worse — for Apple’s reputation if Phil Schiller weren’t still there.</p>
+
+
+
+    ]]></content>
+  <title>★ Judge Yvonne Gonzalez Rogers Rules, in Excoriating Decision, That Apple Violated Her 2021 Court Order Regarding App Store Anti-Steering Provisions</title></entry><entry>
 	<title>The Talk Show: ‘The Ratchet of Flippancy’</title>
 	<link rel="alternate" type="text/html" href="https://daringfireball.net/thetalkshow/2025/04/30/ep-421" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wal" />
@@ -2222,90 +2377,4 @@ to pass to consumers.</p>
 
 
     ]]></content>
-  <title>★ Tired: Irresistable Force vs. Immovable Object — Wired: Unchanging Prices vs. Nonsensical Tariffs</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/03/france_merde_decision_app_tracking_transparency" />
-	<link rel="shorturl" href="http://df4.us/w85" />
-	<id>tag:daringfireball.net,2025://1.41765</id>
-	<published>2025-03-31T19:46:31Z</published>
-	<updated>2025-04-01T17:34:41Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">It’s like a consortium of sketchy pawn shops complaining to the authorities after a retailer successfully cracked down on an organized shoplifting/pickpocketing ring, and the authorities then fining the retailer for the damage to the pawnbrokers’ business fencing stolen goods — and for exposing the police as ineffective.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>Jon Brodkin, reporting for Ars Technica, “<a href="https://arstechnica.com/tech-policy/2025/03/france-fines-apple-e150m-for-excessive-pop-ups-that-let-users-reject-tracking/">France Fines Apple €150M for “Excessive” Pop-Ups That Let Users Reject Tracking</a>”:</p>
-
-<blockquote>
-  <p>France’s competition regulator fined Apple €150 million, saying
-the iPhone maker went overboard in its implementation of pop-up
-messages that let users consent to or reject tracking that
-third-party applications use for targeted advertising.</p>
-
-<p>The App Tracking Transparency (ATT) framework used by Apple on
-iPhones and iPads since 2021 makes the use of third-party
-applications too complex and hurts small companies that rely on
-advertising revenue, said a <a href="https://www.autoritedelaconcurrence.fr/en/press-release/targeted-advertising-autorite-de-la-concurrence-imposes-fine-eu150000000-apple">press release</a> today by the
-Autorité de la concurrence (Competition Authority). The system
-harms “smaller publishers in particular since, unlike the main
-vertically integrated platforms, they depend to a large extent on
-third-party data collection to finance their business,” the
-agency said.</p>
-
-<p>User consent obtained via the ATT framework “authorizes the
-application in question to collect user data for targeted
-advertising purposes,” the agency said. “If consent is given, the
-application can access the Identifier for Advertisers (‘IDFA’),
-the identifier by which each device can be tracked through its use
-of third-party applications and sites.” The French investigation
-was triggered by a complaint lodged by advertising industry
-associations.</p>
-</blockquote>
-
-<p>Ben Lovejoy, <a href="https://9to5mac.com/2025/03/31/apple-bizarrely-fined-162m-for-app-tracking-transparency-after-advertisers-complained/">correctly calling the decision “bizarre” at 9to5Mac</a>:</p>
-
-<blockquote>
-  <p>Complaints were made <a href="https://9to5mac.com/2023/04/11/apple-app-tracking/">in a number of countries</a> — some
-arguing that it was unfair because <a href="https://9to5mac.com/2022/06/14/app-tracking-transparency-antitrust/">Apple exempts its own
-apps</a> (which are in reality subject to even tighter
-controls), others saying the loss of revenue <a href="https://9to5mac.com/2022/09/13/app-tracking-transparency-increases-in-app-purchase-prices/">forced developers to
-raise prices</a> to compensate. [...]</p>
-
-<p>Although expected, the decision is still inexplicable. ATT
-involves precisely <em>one</em> popup asking a simple yes/no question.
-Additionally, Apple lets users switch on a toggle (shown above) to
-block apps from even asking the question. It’s especially odd
-given that ATT is a privacy feature, and Europe has the strongest
-privacy laws in the world. The EU <a href="https://9to5mac.com/2022/08/03/ad-tracking-rules/">has also previously
-vindicated</a> Apple’s introduction of ATT.</p>
-</blockquote>
-
-<p>It’s not inexplicable or odd if you view the decision as coming from a perspective where government bureaucracy is viewed as an inherent good, and well-intentioned process is all that matters, not actual results. Read the <em>Autorité de la Concurrence</em>’s decision (<a href="https://www.autoritedelaconcurrence.fr/en/press-release/targeted-advertising-autorite-de-la-concurrence-imposes-fine-eu150000000-apple">which they helpfully do make available in English</a>) and it’s pretty clear:</p>
-
-<blockquote>
-  <p>The <em>Autorité</em> found that the ATT framework imposed by Apple is
-not necessary, insofar as the consent obtained is not valid under
-the applicable laws, in particular the French Data Protection Act.</p>
-
-<p>In practice, the fact that publishers that so wish cannot rely on
-the ATT framework to comply with their legal obligations means
-that they must continue to use their own consent collection
-solutions, known as consent management platforms (“CMPs”). The
-result is that multiple consent pop-ups are displayed, making the
-use of third-party applications in the iOS environment excessively
-complex, as observed by the French data protection authority
-(<em>Commission nationale de l’informatique et des libertés</em> — CNIL)
-in a 2022 opinion issued at the request of the <em>Autorité</em>.</p>
-</blockquote>
-
-<p>It’s ostensibly “not necessary” because French and EU privacy laws are supposedly enough, and all that’s needed. And it’s unfair because now, under ATT, third-party surveillance advertisers who seek to track users across apps on iOS need to ask permission twice — first through the clear-as-a-bell “Ask App Not to Track” / “Allow Tracking” prompt required by Apple, and again through the byzantine but ultimately toothless permission requirements of France and the EU. ATT has had measurable effects because users understand it, and they prefer not to be tracked. EU and French privacy laws are largely ineffective because, in practice, they <a href="https://hep.physics.illinois.edu/home/g-gollin/1984_commercial_dialogue.html">bury users with confusion</a>. The bureaucratic hurdles they impose are to the benefit, not detriment, of the surveillance ad industry. That’s now proven out by industry groups — the ones ATT successfully tempered — successfully getting France’s regulators to penalize Apple. <em>Users</em> don’t know how to lobby government bureaucracies. What the <em>Autorité de la Concurrence</em> is saying, in so many words, is that two layers of consent is too much, and the only one that’s necessary is the one that advertising lobbying groups <em>don’t object to</em>, not the one they do (but which users understand and like).</p>
-
-<p>It’s clear that only one of these two things — Apple’s ATT or French/EU privacy regulations — was actually effective at reducing tracking: ATT. No one claimed that French or EU privacy laws resulted in Meta losing a fortune because they had to adjust their kleptomaniacal thievery of users’ privacy. But by all accounts, <a href="https://www.forbes.com/sites/danielnewman/2022/02/10/apple-meta-and-the-ten-billion-dollar-impact-of-privacy-changes/">including Meta’s own</a>, <a href="https://www.forbes.com/sites/kateoflahertyuk/2022/04/23/apple-just-issued-stunning-12-billion-blow-to-facebook/">ATT cost Meta billions</a>. And yes, ATT hurt small businesses too — small businesses that were built upon surreptitious tracking that users had neither awareness of nor control over. It’s like a consortium of sketchy pawn shops complaining to the authorities after a popular retailer successfully cracked down on an organized shoplifting/pickpocketing ring, and the authorities then fining the retailer for the damage to the pawnbrokers’ business fencing stolen goods — and for exposing the police as ineffective.</p>
-
-<p>App Tracking Transparency actually accomplished, in practice, via user-focused plain-language consent, what the EU’s privacy laws were intended to do but do not. This fine boils down to France declaring that Apple shouldn’t have actually done what the EU was pretending to do. They’re acting at the behest of the very developers and advertising companies who were (and still are) trying to conduct cross-app tracking that App Tracking Transparency successfully gave <em>users</em> some control over.</p>
-
-
-
-    ]]></content>
-  <title>★ France Fines Apple $162M for App Tracking Transparency, Taking the Side of Surveillance Advertisers Over Users</title></entry></feed><!-- THE END -->
+  <title>★ Tired: Irresistable Force vs. Immovable Object — Wired: Unchanging Prices vs. Nonsensical Tariffs</title></entry></feed><!-- THE END -->
