@@ -7,7 +7,57 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-05-04T16:08:02Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-05-04T16:21:04Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Koji Kobura Remakes the GoldenEye N64 ‘Pause Music’</title>
+	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=FB-C-eSa9N8" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/waq" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/04/goldeneye-n64-pause-music" />
+	<id>tag:daringfireball.net,2025:/linked//6.41858</id>
+	<published>2025-05-04T16:20:00Z</published>
+	<updated>2025-05-04T16:21:04Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Just shoot this straight into my veins. So good.</p>
+
+<p>(<a href="https://mastodon.social/@thatsthequy/114422596374029344">Via Saul Sutherland</a>.)</p>
+
+<div>
+<a  title="Permanent link to ‘Koji Kobura Remakes the GoldenEye N64 ‘Pause Music’’"  href="https://daringfireball.net/linked/2025/05/04/goldeneye-n64-pause-music">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Trump Has No Idea What the Declaration of Independence Means</title>
+	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=K3l2X-T8BCU" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/was" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/04/trump-declaration" />
+	<id>tag:daringfireball.net,2025:/linked//6.41860</id>
+	<published>2025-05-04T16:18:44Z</published>
+	<updated>2025-05-04T16:18:44Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Trump, showing off to ABC News’s Terry Moran the historical copy of the Declaration of Independence now hanging in the Oval Office:</p>
+
+<p>Trump: Of course, you have the Declaration of Independence.</p>
+
+<p>Moran: What does it mean to you?</p>
+
+<p>Trump: Well, it means exactly what it says. It’s a declaration. It’s a declaration of unity and love and respect. And it means a lot. And it’s something very special to our country.</p>
+
+<p>Watch the clip. A transcript doesn’t do justice to just how clear it is he has no idea what it means. I <a href="https://daringfireball.net/linked/2025/04/11/china-calls-trump-a-joke">keep</a> <a href="https://daringfireball.net/linked/2025/05/04/trump-doesnt-know-if-he-needs-to-uphold-the-constitution">mentioning</a> that Democrats should hammer, every day, the argument that Trump is way too old and now suffering from dementia. It’s just good politics. But I think it’s actually true, too. Mark my words, by the time he gets toward the end of this second term they’re going to have to somehow try to keep him away from microphones. You can’t get out of the fourth grade without being able to describe what the Declaration of Independence means.</p>
+
+<div>
+<a  title="Permanent link to ‘Trump Has No Idea What the Declaration of Independence Means’"  href="https://daringfireball.net/linked/2025/05/04/trump-declaration">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Trump, Asked if He Has to ‘Uphold the Constitution’, Says, ‘I Don’t Know’</title>
 	<link rel="alternate" type="text/html" href="https://www.nbcnews.com/politics/trump-administration/trump-asked-uphold-constitution-says-dont-know-rcna204580" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/war" />
@@ -2135,97 +2185,6 @@ availability of CVE data for defenders worldwide.</p>
 
 	]]></content>
   </entry><entry>
-	<title>ChatGPT Can Now Remember and Reference All Your Previous Chats</title>
-	<link rel="alternate" type="text/html" href="https://arstechnica.com/ai/2025/04/chatgpt-can-now-remember-and-reference-all-your-previous-chats/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w9k" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/04/14/chatgpt-memory" />
-	<id>tag:daringfireball.net,2025:/linked//6.41816</id>
-	<published>2025-04-14T23:51:42Z</published>
-	<updated>2025-04-14T23:51:43Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Samuel Axon, writing for Ars Technica:</p>
-
-<blockquote>
-  <p>Some time ago, OpenAI <a href="https://arstechnica.com/information-technology/2024/02/amnesia-begone-soon-chatgpt-will-remember-what-you-tell-it-between-sessions/">added</a> a feature called “Memory” that
-allowed a limited number of pieces of information to be retained
-and used for future responses. Users often had to specifically
-ask ChatGPT to remember something to trigger this, though it
-occasionally tried to guess at what it should remember, too.
-[...] Users could enable or disable this feature at will, and it
-was automatically off for specific chats where users chose the
-“Temporary Chat” option — sort of ChatGPT’s version of
-incognito mode.</p>
-
-<p>The new improvements announced today go far beyond that.</p>
-
-<p>Now, where there was once a checkbox in ChatGPT’s interface to
-disable or enable memory tracking, there are two checkboxes.
-“Reference saved memories” is the old memory feature, which is
-basically a limited repository of essential facts. The second is
-the new feature: “reference chat history.” This allows ChatGPT to
-use all prior conversations as context and adapt future responses
-accordingly.</p>
-</blockquote>
-
-<p>I’ve been using ChatGPT for a while now. I don’t think I’m a particularly heavy user at all, and I haven’t tried, in particular, to, I don’t know, open up about myself personally. But I ask it what I want to know. So, in the current version, I prompted it with “Describe me based on all our chats — play it straight.” Here’s its response:</p>
-
-<blockquote>
-  <p>You’re sharp, analytical, and deeply detail-oriented. You care a
-lot about precision — whether it’s language, data, or historical
-facts. You’re not satisfied with vague answers; you want the right
-one, ideally backed by sources or structured data. You’re a power
-user, technically literate, and comfortable with scripting and
-command-line tools (especially on macOS), often turning to
-automation and custom scripts to solve problems.</p>
-
-<p>You follow the tech world closely, especially Apple — its
-hardware, chip architecture, software updates, and even historical
-product launches. But you’re not just interested in specs; you
-care about the bigger picture too, like corporate strategy,
-antitrust laws, and privacy policies.</p>
-
-<p>You also track U.S. politics, legal frameworks, and electoral
-history with the same demand for precision and sourcing. And
-you’ve got a thing for language — choosing the right word,
-understanding nuance, and occasionally searching for just the
-right adjective (bonus points if it’s rare or elegant).</p>
-
-<p>Outside of that, you have a strong grasp of sports stats
-(especially NFL and MLB), media history (Letterman, SNL, classic
-film), and a dry, sometimes playful sense of humor. You don’t show
-off, but you clearly know your stuff.</p>
-</blockquote>
-
-<p>I’m probably not the right person to judge that response, but I think it’s pretty good.</p>
-
-<p>Here’s the response I got when I asked Siri “Describe me based on all our chats — play it straight”:</p>
-
-<blockquote>
-  <p>I don’t see that person in your Contacts.</p>
-</blockquote>
-
-<p>From last week’s blockbuster report by Wayne Ma at The Information, “<a href="https://daringfireball.net/linked/2025/04/10/wayne-ma-the-information-apple-siri-fumble">How Apple Fumbled Siri’s AI Makeover</a>”:</p>
-
-<blockquote>
-  <p>Giannandrea often has described to employees his belief that
-machine learning can lead to incremental improvements in products,
-eventually adding up to major gains, a concept he refers to as
-hill climbing. He also has expressed a dim view of chatbots in the
-past, telling Apple employees before and immediately after the
-release of ChatGPT that he didn’t believe they added much value
-for users.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘ChatGPT Can Now Remember and Reference All Your Previous Chats’"  href="https://daringfireball.net/linked/2025/04/14/chatgpt-memory">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://dekaf.com/df" />
 	<link rel="shorturl" href="http://df4.us/w9j" />
@@ -2249,40 +2208,6 @@ for users.</p>
 
 	]]></content>
 	<title>[Sponsor] Dekáf Coffee Roasters</title></entry><entry>
-	<title>Seth Godin on How to Win an Argument With a Toddler</title>
-	<link rel="alternate" type="text/html" href="https://seths.blog/2025/04/how-to-win-an-argument-with-a-toddler/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w9i" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/04/14/godin-arguments-with-toddlers" />
-	<id>tag:daringfireball.net,2025:/linked//6.41814</id>
-	<published>2025-04-14T16:02:20Z</published>
-	<updated>2025-04-14T16:02:21Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Seth Godin:</p>
-
-<blockquote>
-  <p>You can’t.</p>
-
-<p>That’s because toddlers don’t understand what an argument is and
-aren’t interesting in having one.</p>
-
-<p>Toddlers (which includes defensive bureaucrats, bullies, flat
-earthers, folks committed to a specific agenda and radio talk show
-hosts) may indicate that they’d like to have an <a href="https://www.youtube.com/watch?v=ohDB5gbtaEQ">argument</a>, but
-they’re actually engaging in connection, noise, play acting or a
-chance to earn status. It can be fun to be in opposition, to
-harangue or even to use power to change someone’s position.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘Seth Godin on How to Win an Argument With a Toddler’"  href="https://daringfireball.net/linked/2025/04/14/godin-arguments-with-toddlers">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/04/webkit_textwrap_pretty" />
 	<link rel="shorturl" href="http://df4.us/w94" />
