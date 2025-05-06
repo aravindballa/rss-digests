@@ -7,7 +7,57 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-05-06T17:00:20Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-05-06T17:11:12Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Tim Sweeney Talks to Peter Kafka, Still Thinks Fortnite Is Coming Back to iOS This Week</title>
+	<link rel="alternate" type="text/html" href="https://www.businessinsider.com/tim-sweeeney-epic-games-apple-app-store-interview-peter-kafka-2025-05" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wav" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/06/sweeney-kafka-fortnite" />
+	<id>tag:daringfireball.net,2025:/linked//6.41863</id>
+	<published>2025-05-06T17:10:14Z</published>
+	<updated>2025-05-06T17:11:12Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>About 16 minutes <a href="https://podcasts.apple.com/us/podcast/channels-with-peter-kafka/id1080467174">into the podcast</a> (the whole thing is a great succinct interview):</p>
+
+<blockquote>
+  <p><strong>Kafka:</strong> You said Fortnite is going to come back to iOS. You
+guys were kicked off the platform in 2020 for violating Apple’s
+rules. There’s nothing in the judge’s ruling that says Apple has
+to reinstate Fortnite on iOS. Have you talked to Apple? How do you
+imagine Fortnite will come back to iOS?</p>
+
+<p><strong>Sweeney:</strong> Epic has a valid [Apple] developer account in good
+standing. Our subsidiary Epic Games Sweden opened up an account in
+order to distribute Fortnite in the European Union. Our dealings
+with Apple on that account have been managed by their developer
+relations team, who have been cordial.</p>
+
+<p><strong>Kafka:</strong> Do you feel confident that I will be able to play
+Fortnite on my iPhone later this week?</p>
+
+<p><strong>Sweeney:</strong> I believe so. I would be very surprised — well, I
+wouldn’t be terribly surprised if we had a bug that took a day or
+two more to fix — but I would be very surprised if Apple decided
+to brave the geopolitical storm of blocking a major app from iOS.</p>
+
+<p>We’ve told Apple what we’re doing.</p>
+</blockquote>
+
+<p>But Apple has, for the last five years, already blocked a major game — Fortnite — from iOS. If Apple were going to allow Fortnite back into the App Store they could have done so at any point in the last four years. And there’s nothing, not a word, in Judge Yvonne Gonzalez Rogers’s decision last week that says Apple needs to reinstate Epic Games. I think Apple just stays the course and Fortnite remains <em>persona non grata</em> as far as the App Store is concerned.</p>
+
+<p>But I could be wrong. Sweeney tweeted over the weekend “Not Monday or Tuesday. Beyond that, we’re working as hard as possible and aren’t certain what day it will be ready.”</p>
+
+<p>Me, I’m not holding my breath.</p>
+
+<div>
+<a  title="Permanent link to ‘Tim Sweeney Talks to Peter Kafka, Still Thinks Fortnite Is Coming Back to iOS This Week’"  href="https://daringfireball.net/linked/2025/05/06/sweeney-kafka-fortnite">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=RSS&amp;utm_campaign=q12025" />
 	<link rel="shorturl" href="http://df4.us/wau" />
@@ -2149,65 +2199,6 @@ her earnings declined.</p>
 
 <div>
 <a  title="Permanent link to ‘The WSJ Reports on How Elon Musk Manages His ‘Legion’ of Children and Harem of Mothers’"  href="https://daringfireball.net/linked/2025/04/16/wsj-musk-children">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>DOGE Dingalings Cut Off Funding for CVE Program</title>
-	<link rel="alternate" type="text/html" href="https://www.theregister.com/2025/04/16/homeland_security_funding_for_cve/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w9n" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/04/16/dingalings-cut-off-funding-for-cve" />
-	<id>tag:daringfireball.net,2025:/linked//6.41819</id>
-	<published>2025-04-16T18:56:52Z</published>
-	<updated>2025-04-16T18:56:53Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jessica Lyons, reporting for The Register:</p>
-
-<blockquote>
-  <p>US government funding for the world’s CVE program — the
-centralized Common Vulnerabilities and Exposures database of
-product security flaws — ends Wednesday.</p>
-
-<p>The 25-year-old CVE program plays a huge role in vulnerability
-management. It is responsible overseeing the assignment and
-organizing of unique CVE ID numbers, such as <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-0160">CVE-2014-0160</a>
-and <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5754">CVE-2017-5754</a>, for specific vulnerabilities, in this
-case OpenSSL’s <a href="https://www.theregister.com/2014/04/09/heartbleed_explained/">Heartbleed</a> and Intel’s <a href="https://www.theregister.com/2018/01/02/intel_cpu_design_flaw/">Meltdown</a>, so
-that when referring to particular flaws and patches, everyone is
-agreed on exactly what we’re all talking about.</p>
-</blockquote>
-
-<p>The good news: they were ready. <a href="https://www.thecvefoundation.org/">Announcing the CVE Foundation</a>:</p>
-
-<blockquote>
-  <p>Since its inception, the CVE Program has operated as a U.S.
-government-funded initiative, with oversight and management
-provided under contract. While this structure has supported the
-program’s growth, it has also raised longstanding concerns among
-members of the CVE Board about the sustainability and neutrality
-of a globally relied-upon resource being tied to a single
-government sponsor.</p>
-
-<p>This concern has become urgent following an April 15, 2025 letter
-from MITRE notifying the CVE Board that the U.S. government does
-not intend to renew its contract for managing the program. While
-we had hoped this day would not come, we have been preparing for
-this possibility.</p>
-
-<p>In response, a coalition of longtime, active CVE Board members
-have spent the past year developing a strategy to transition CVE
-to a dedicated, non-profit foundation. The new CVE Foundation will
-focus solely on continuing the mission of delivering high-quality
-vulnerability identification and maintaining the integrity and
-availability of CVE data for defenders worldwide.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘DOGE Dingalings Cut Off Funding for CVE Program’"  href="https://daringfireball.net/linked/2025/04/16/dingalings-cut-off-funding-for-cve">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
