@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-05-06T17:11:12Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-05-06T23:39:27Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>Tim Sweeney Talks to Peter Kafka, Still Thinks Fortnite Is Coming Back to iOS This Week</title>
 	<link rel="alternate" type="text/html" href="https://www.businessinsider.com/tim-sweeeney-epic-games-apple-app-store-interview-peter-kafka-2025-05" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wav" />
@@ -700,7 +700,7 @@ role-playing, according to people familiar with the decision.</p>
 	<link rel="shorturl" href="http://df4.us/wah" />
 	<id>tag:daringfireball.net,2025://1.41849</id>
 	<published>2025-04-28T23:28:30Z</published>
-	<updated>2025-04-29T14:30:27Z</updated>
+	<updated>2025-05-06T23:39:27Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -755,7 +755,7 @@ distribution deals.</p>
 
 <p>Even if Google is somehow forbidden from accepting default search engine placement in other browsers, I don’t think it would change the TAC situation. But such a ruling would be weird, right? It’s Google that lost a major antitrust lawsuit and now faces a remedy reckoning, so it seems reasonable that Google might be forbidden from any contract that requires Google search to be the search default in another browser. Apple didn’t lose an antitrust case. (<a href="https://en.wikipedia.org/wiki/United_States_v._Apple_(2024)">Yet</a>?) Mozilla certainly didn’t. So how could Apple or Mozilla be forbidden from choosing, of their own volition, to keep Google as the default search engine in their browsers? But even if they were, they wouldn’t switch the default search in Safari and Mozilla to Bing or DuckDuckGo or whatever. They’d have no default search at all, and instead present a choice screen to new users, with Google as one of the handful of options, and the overwhelming number of users would pick Google, and very little would change. The DMA requires these choice screens in the EU and Google search <a href="https://gs.statcounter.com/search-engine-market-share/all/europe">still has over 90 percent share there</a>. It’s hard to fathom a US court ruling that browser makers aren’t allowed even to offer Google search as an option for built-in search. (Even the EU didn’t do that.)</p>
 
-<p>It would seem even more punishing to Apple and Mozilla and Samsung et al if the DOJ attempted to prevent Google from making TAC payments to browser makers, period. In that scenario Google would just get to keep all the money they’re currently paying to those companies for the traffic — it would be a reward to Google and a punishment to Apple. (And possibly a death sentence for Mozilla.)</p>
+<p>It would seem even more punishing to Apple and Mozilla and Samsung <em>et al.</em> if the DOJ attempted to prevent Google from making TAC payments to browser makers, period. In that scenario Google would just get to keep all the money they’re currently paying to those companies for the traffic — it would be a reward to Google and a punishment to Apple. (And possibly a death sentence for Mozilla.)</p>
 
 <p>With Chrome, Google gets to show users ads without paying any sort of traffic acquisition fee to the browser maker, because they’re the browser maker. Chrome is extremely profitable for Google not because it makes any money on its own, but because every Google search that starts in Chrome is a search Google doesn’t have to pay a TAC fee for.</p>
 
