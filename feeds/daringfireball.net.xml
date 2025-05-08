@@ -7,7 +7,69 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-05-08T01:19:04Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-05-08T16:06:13Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>The Trump Administration Signal Scandal, Somehow, Gets Worse</title>
+	<link rel="alternate" type="text/html" href="https://micahflee.com/despite-misleading-marketing-israeli-company-telemessage-used-by-trump-officials-can-access-plaintext-chat-logs/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wb1" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/08/trump-admin-tm-sgnl" />
+	<id>tag:daringfireball.net,2025:/linked//6.41869</id>
+	<published>2025-05-08T16:06:13Z</published>
+	<updated>2025-05-08T16:06:13Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Micah Lee, in a spectacularly detailed post:</p>
+
+<blockquote>
+  <ul>
+<li><p>On Thursday, 404 Media <a href="https://www.404media.co/mike-waltz-accidentally-reveals-obscure-app-the-government-is-using-to-archive-signal-messages/">reported</a> that in the Reuters
+<a href="https://www.reutersconnect.com/item/us-national-security-advisor-mike-waltz-attends-a-cabinet-meeting-held-by-president-trump-at-the-white-house-in-washington/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMkg4RUFEOEtGRw%3D%3D">photo</a> showing former National Security Advisor and <a href="https://zeteo.com/p/signal-chat-war-crimes-revealed-yemen-trump-admin">war
+criminal</a> Mike Waltz checking his Signal messages under the
+table, he was actually using an obscure modified Signal app
+called TM SGNL, and not the real and actually secure Signal app.</p></li>
+<li><p>On Friday, I wrote <a href="https://micahflee.com/tm-sgnl-the-obscure-unofficial-signal-app-mike-waltz-uses-to-text-with-trump-officials/">an analysis</a> of everything I could find
+out about TM SGNL using OSINT, including the fact that it’s
+nearly impossible to install without a device enrolled in an MDM
+service that’s tied to an Apple Business Manager or a Google
+Enterprise account.</p></li>
+<li><p>On Saturday, after <a href="https://todon.eu/@ljrk/114444796069542288">discovering</a> that TeleMessage
+<a href="https://web.archive.org/web/20250503004419/https://www.telemessage.com/developer/api-libraries/">published</a> the source code for the TM SGNL apps for
+Android and iPhone themselves, I <a href="https://micahflee.com/heres-the-source-code-for-the-unofficial-signal-app-used-by-trump-officials/">re-published them</a> on
+GitHub with the goal of making them easier to research. (It
+looks like the iOS source code is actually just unmodified
+Signal, so maybe they actually only published their Android
+code.)</p></li>
+<li><p>On Saturday night, an anonymous source told me they hacked
+TeleMessage.</p></li>
+<li><p>On Sunday, I, along with Joseph Cox, <a href="https://www.404media.co/the-signal-clone-the-trump-admin-uses-was-hacked/">published an article</a>
+about the hack to 404 Media (and to <a href="https://micahflee.com/the-signal-clone-the-trump-admin-uses-was-hacked/">my blog</a>).</p></li>
+<li><p>On Monday, NBC News <a href="https://www.nbcnews.com/tech/security/telemessage-suspends-services-hackers-say-breached-app-rcna204925">reported</a> that TeleMessage suspended
+its service after a <em>second hacker</em> breached TeleMessage and
+“downloaded a large cache of files.”</p></li>
+<li><p>Today, Senator Ron Wyden <a href="https://www.wyden.senate.gov/imo/media/doc/doj_letter_telemessage.pdf">published</a> a letter, which cites
+the 404 Media article and my analysis of TM SGNL, to Attorney
+General Pam Bondi, requesting that the Justice Department
+investigate the “serious threat to U.S. national security posed
+by TeleMessage, a federal contractor that sold dangerously
+insecure communications software to the White House and other
+federal agencies.”</p></li>
+</ul>
+</blockquote>
+
+<p>National security leaders using this app — which effectively just <em>removes</em> all of Signal’s actual security features by backing up all messages as plain text — is stupid it’s surprising, even from these idiots Trump has surrounded himself with. I mean think about how stupid it is that Mike Waltz was using this app while in front of press photographers at a Cabinet meeting.</p>
+
+<p>Lee goes deep, including an analysis of TM SGNL’s open source Android source code, to show that it’s designed to transmit backups of messages in plain text to publicly-facing servers. And it turns out those servers had easily-hackable flaws.</p>
+
+<p><strong>See also:</strong> Wired: “<a href="https://www.wired.com/story/tm-signal-telemessage-plaintext-message-archive/">The Company Behind the Signal Clone Mike Waltz Used Has Direct Access to User Chats</a>”.</p>
+
+<div>
+<a  title="Permanent link to ‘The Trump Administration Signal Scandal, Somehow, Gets Worse’"  href="https://daringfireball.net/linked/2025/05/08/trump-admin-tm-sgnl">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Eddy Cue, on the Stand in U.S. v. Google Trial, Says Apple Is Eying a Move to AI in Safari</title>
 	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2025-05-07/apple-working-to-move-to-ai-search-in-browser-amid-google-fallout" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wb0" />
@@ -2169,54 +2231,6 @@ immediately clear how long the delay might last.</p>
 
 <div>
 <a  title="Permanent link to ‘E.U. Delayed Fines for Apple and Meta Just Before Trade Talks With U.S. Started’"  href="https://daringfireball.net/linked/2025/04/18/eu-delayed-apple-and-meta-fines">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Spending More to Get Less Is Good?</title>
-	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2025/04/15/technology/personaltech/trump-tariffs-iphone-cost.html?unlocked_article_code=1.AU8.L2Ko.yUXIIfzson-2&amp;smid=url-share" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/w9s" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/04/17/spending-more-to-get-less-is-good" />
-	<id>tag:daringfireball.net,2025:/linked//6.41824</id>
-	<published>2025-04-17T13:31:40Z</published>
-	<updated>2025-04-17T13:31:41Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Brian X. Chen, in a column at The New York Times headlined “Why a Tariff-Inflated $2,000 iPhone Is Nothing to Fear”:</p>
-
-<blockquote>
-  <p>Don’t panic. Even if tariffs did cause the iPhone’s price to
-surge, we would have plenty of cheaper options, like buying last
-year’s phone model instead of the latest and greatest.</p>
-
-<p>The most important lesson we can learn from the turmoil: The only
-consistent way to save money on tech is to use devices for as long
-as possible, which requires maintaining them as you would a car,
-and upgrading only when you must.</p>
-</blockquote>
-
-<p>This whole angle is no surprise coming from the tech columnist whose advice to readers who think their aging phone cameras don’t perform well in low light is “<a href="https://daringfireball.net/2019/09/you_could_always_just_use_flash">Just use flash</a>.” If phone prices go up because of Trump’s tariffs, <em>all</em> phone prices are going to go up, including those for older models, whether you’re buying new or used. There is no silver lining here. Spending more to get a years-old phone sucks too.</p>
-
-<blockquote>
-  <p>Take the iPhone 16 as an example. Its $800 price tag can easily
-inflate to $1,080, since you may also buy:</p>
-
-<ul>
-<li>An iPhone case for $50</li>
-<li>AirPods for $130</li>
-<li>256 gigabytes of storage for $100</li>
-</ul>
-</blockquote>
-
-<p>So if you buy things that aren’t an iPhone — like AirPods — the price of an iPhone goes up. Got it.</p>
-
-<p>The anti-“big tech” bias here is so obvious. Don’t hold your breath waiting for a similar article in the Times about how it’s no big deal, nothing to worry about, if the price of cars doubles under these tariffs.</p>
-
-<div>
-<a  title="Permanent link to ‘Spending More to Get Less Is Good?’"  href="https://daringfireball.net/linked/2025/04/17/spending-more-to-get-less-is-good">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
