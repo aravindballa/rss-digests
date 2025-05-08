@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-05-08T16:15:29Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-05-08T18:56:58Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>How to Catch a North Korean Fake Worker</title>
 	<link rel="alternate" type="text/html" href="https://www.theregister.com/2025/04/29/north_korea_worker_interview_questions/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wb2" />
@@ -56,7 +56,7 @@ San Francisco Monday.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/08/trump-admin-tm-sgnl" />
 	<id>tag:daringfireball.net,2025:/linked//6.41869</id>
 	<published>2025-05-08T16:06:13Z</published>
-	<updated>2025-05-08T16:06:13Z</updated>
+	<updated>2025-05-08T18:56:58Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -100,7 +100,7 @@ federal agencies.”</p></li>
 </ul>
 </blockquote>
 
-<p>National security leaders using this app — which effectively just <em>removes</em> all of Signal’s actual security features by backing up all messages as plain text — is stupid it’s surprising, even from these idiots Trump has surrounded himself with. I mean think about how stupid it is that Mike Waltz was using this app while in front of press photographers at a Cabinet meeting.</p>
+<p>National security leaders using this app — which effectively just <em>removes</em> all of Signal’s actual security features by backing up all messages as plain text — is so stupid it’s surprising, even from these idiots Trump has surrounded himself with. I mean think about how stupid it is that Mike Waltz was using this app while in front of press photographers at a Cabinet meeting.</p>
 
 <p>Lee goes deep, including an analysis of TM SGNL’s open source Android source code, to show that it’s designed to transmit backups of messages in plain text to publicly-facing servers. And it turns out those servers had easily-hackable flaws.</p>
 
