@@ -7,7 +7,78 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-05-14T17:04:06Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-05-14T23:28:38Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>‘Max’, the Dumbest Name Ever, Changes Back to ‘HBO Max’</title>
+	<link rel="alternate" type="text/html" href="https://variety.com/2025/tv/news/max-changes-name-hbo-max-1236397399/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wbg" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/14/hbo-max-again" />
+	<id>tag:daringfireball.net,2025:/linked//6.41884</id>
+	<published>2025-05-14T23:28:38Z</published>
+	<updated>2025-05-14T23:28:38Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Variety:</p>
+
+<blockquote>
+  <p>The surprise announcement, made less than two months after <a href="https://variety.com/2025/digital/news/max-changes-logo-black-and-white-hbo-1236352161/">Max
+tweaked its logo</a> to look more like the classic black-and-white HBO
+color scheme, was revealed at Warner Bros. Discovery’s upfront
+presentation to ad execs in New York on Wednesday.</p>
+
+<p>In a press release, WBD said “returning the HBO brand into HBO Max
+will further drive the service forward and amplify the uniqueness
+that subscribers can expect from the offering. It is also a
+testament to WBD’s willingness to keep boldly iterating its
+strategy and approach — leaning heavily on consumer data and
+insights — to best position itself for success.”</p>
+</blockquote>
+
+<p>Everyone should be clear on what to make fun of here. We should <em>not</em> be making fun of the fact that they’re changing the name back to HBO Max. No one likes to admit to mistakes. It’s intensely uncomfortable. And people who are good at politics and PR are good at spinning mistakes as not-mistakes. We should, in fact, congratulate them for admitting to this dumb fucking mistake and re-embracing the “HBO” name.</p>
+
+<p>What we should be making fun of is <a href="https://daringfireball.net/2023/04/warner_max">the original decision</a> to name the platform “Max”, which was obviously stupid at the time, and has been obviously stupid every single day since. “Max” is one of those trendy words like “Plus” and “Pro” that companies append to their brand names when naming premium tiers. You can’t just name a service “Max” or “Plus” or “Pro” without any other words. It’s stupid. And to make it worse, Warner Bros. Discovery (itself an incredibly awkward and dumb-sounding name — just call the company “Warner Brothers” or “Warner” — no one gives a shit about Discovery) already owned the brand name that stands for “prestige TV”: HBO. They already owned it. People loved it. And now they’re like, “<em>Oh, geez, I guess we should use that?</em>”</p>
+
+<p>I wrote two years ago <a href="https://daringfireball.net/linked/2023/03/13/zaslav-hbo-max">that David Zaslav might be stupid</a>. That it took him two entire years to reverse this name change proves that there’s no maybe about it — he <em>is</em> stupid.</p>
+
+<div>
+<a  title="Permanent link to ‘‘Max’, the Dumbest Name Ever, Changes Back to ‘HBO Max’’"  href="https://daringfireball.net/linked/2025/05/14/hbo-max-again">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>The App Store Is Showing a Warning for EU Apps That Use External Purchases</title>
+	<link rel="alternate" type="text/html" href="https://mjtsai.com/blog/2025/05/14/critical-warning-for-external-purchases-in-app-store/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wbf" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/14/app-store-eu-payment-warning" />
+	<id>tag:daringfireball.net,2025:/linked//6.41883</id>
+	<published>2025-05-14T23:10:07Z</published>
+	<updated>2025-05-14T23:13:19Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>The app in question, Instacar, is not available in the US App Store, but multiple people in the EU have confirmed this warning on its App Store page is real:</p>
+
+<blockquote>
+  <p>This app does not support the App Store’s private and secure
+payment system. It uses external purchases.</p>
+</blockquote>
+
+<p>The warning is decorated with a big red “!” icon.</p>
+
+<p>The uncompetitive nature of the App Store — I’m using <em>un</em>competitive rather than <em>anti</em>competitive just to give Apple the benefit of the doubt here — has left at least some top Apple executives hopelessly naive about the state of online payments. It’s like when they still blather on about software being sold on discs inside boxes in physical retail stores. That <em>was</em> true. It <em>was</em> once relevant. It no longer is and hasn’t been for over a decade.</p>
+
+<p>Same with payments. Online payments through, say, Stripe — which zillions of companies use — are completely private and secure today. Amazon payments are completely private and secure. I’m sure there remain sketchy corners of the Internet, but for the most part, all mainstream online payments today are private and secure. Apple’s IAP system has numerous advantages and user-centric features. (If Apple were actively competing, it would have many more.) But the fact that it’s “private and secure” is no longer distinguishing at all.</p>
+
+<div>
+<a  title="Permanent link to ‘The App Store Is Showing a Warning for EU Apps That Use External Purchases’"  href="https://daringfireball.net/linked/2025/05/14/app-store-eu-payment-warning">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/05/single_story_a_classic_mac_system_1" />
 	<link rel="shorturl" href="http://df4.us/wbe" />
@@ -2137,112 +2208,6 @@ threat to free civil society.”</p>
 
 <div>
 <a  title="Permanent link to ‘Trump Administration Calls E.U. Fines on Apple and Meta ‘Economic Extortion’’"  href="https://daringfireball.net/linked/2025/04/23/trump-administration-calls-eu-fines-on-apple-and-meta-economic-extortion">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Clear as Mud</title>
-	<link rel="alternate" type="text/html" href="https://ec.europa.eu/commission/presscorner/detail/en/ip_25_1086" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wa5" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/04/23/ec-clear-as-mud" />
-	<id>tag:daringfireball.net,2025:/linked//6.41837</id>
-	<published>2025-04-24T01:23:36Z</published>
-	<updated>2025-04-24T01:23:36Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>From the European Commission’s announcement today, “Commission closes investigation into Apple’s user choice obligations and issues preliminary findings on rules for alternative apps under the Digital Markets Act”:</p>
-
-<blockquote>
-  <p>Under the DMA, Apple is required to allow for the distribution of
-apps on its iOS operating system by means other than through the
-Apple App Store. In practical terms, this means that Apple should
-allow third party app stores on iOS and apps to be downloaded to
-the iPhone directly from the web.</p>
-
-<p>The Commission takes the preliminary view that Apple failed to
-comply with this obligation in view of the conditions it imposes
-on app (and app store) developers. Developers wanting to use
-alternative app distribution channels on iOS are disincentivised
-from doing so as this requires them to opt for business terms
-which include a new fee (Apple’s Core Technology Fee). Apple also
-introduced overly strict eligibility requirements, hampering
-developers’ ability to distribute their apps through alternative
-channels. Finally, Apple makes it overly burdensome and confusing
-for end users to install apps when using such alternative app
-distribution channels.</p>
-</blockquote>
-
-<p>So is the entire idea of the Core Technology Fee disallowed? Or is the fee too high? Does Apple need to just make app distribution free and unfettered, no fees, no restrictions?</p>
-
-<p>Who knows? The fine is clear — €500M — but what exactly Apple did wrong and should change now is not.</p>
-
-<div>
-<a  title="Permanent link to ‘Clear as Mud’"  href="https://daringfireball.net/linked/2025/04/23/ec-clear-as-mud">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘60 Minutes’ Chief Resigns as CBS Corporate Parent Paramount Prepares to Fellate Trump</title>
-	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2025/04/22/business/media/cbs-60-minutes-trump-bill-owens.html" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wa4" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/04/23/60-minutes-owens-resigns" />
-	<id>tag:daringfireball.net,2025:/linked//6.41836</id>
-	<published>2025-04-23T23:16:59Z</published>
-	<updated>2025-04-23T23:16:59Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Michael M. Grynbaum and Benjamin Mullin, reporting for The New York Times:</p>
-
-<blockquote>
-  <p>CBS News entered a new period of turmoil on Tuesday after the
-executive producer of “60 Minutes,” Bill Owens, said he would
-resign from the long-running Sunday news program, citing
-encroachments on his journalistic independence. [...]</p>
-
-<p>“It’s clear the company is done with me,” Mr. Owens said,
-according to a recording that was obtained by The Times. The
-correspondents Lesley Stahl and Scott Pelley were in attendance — Ms. Stahl choked up as she praised Mr. Owens, and noted that he
-had “taken a hell of a beating” — and Anderson Cooper dialed in
-from Rome, where he was covering Pope Francis’ death for CNN.</p>
-
-<p>During the meeting, Mr. Owens alluded to his displeasure with
-additional layers of oversight that CBS executives had placed on
-the program. “In a million years, the corporation didn’t know what
-was coming up — they trusted ‘60 Minutes’ to report the stories
-and program the broadcast the way ‘60 Minutes’ saw fit,” he said.
-Any change to that arrangement, he added, created “a really
-slippery slope.”</p>
-
-<p>Mr. Owens also discouraged his staff from quitting in protest. “I
-do think this will be a moment for the corporation to take a hard
-look at itself and its relationship with us,” he said.</p>
-
-<p>Paramount’s controlling shareholder, Shari Redstone, is eager to
-secure the Trump administration’s approval for a
-multibillion-dollar sale of her company to Skydance, a company run
-by the son of the tech billionaire Larry Ellison. She has
-expressed a desire to settle Mr. Trump’s case, which stems from
-what the president has called a deceptively edited interview in
-October with Vice President Kamala Harris that aired on “60
-Minutes.”</p>
-
-<p>Legal experts have dismissed that suit as baseless and
-far-fetched. Many journalists at CBS News — the former home of
-Walter Cronkite and Mike Wallace — believe that a settlement
-would amount to a capitulation to Mr. Trump over what they
-consider standard-issue gripes about editorial judgment.</p>
-</blockquote>
-
-<p>Journalistic outlets <a href="https://daringfireball.net/linked/2025/03/26/the-atlantic-has-an-owner-committed-to-the-cause">need owners who are committed to the cause</a>. It’s that simple. </p>
-
-<div>
-<a  title="Permanent link to ‘‘60 Minutes’ Chief Resigns as CBS Corporate Parent Paramount Prepares to Fellate Trump’"  href="https://daringfireball.net/linked/2025/04/23/60-minutes-owens-resigns">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
