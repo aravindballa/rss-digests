@@ -7,7 +7,105 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-05-15T21:28:30Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-05-15T21:45:28Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Yours Truly With Nilay Patel on ‘Decoder’</title>
+	<link rel="alternate" type="text/html" href="https://www.theverge.com/decoder-podcast-with-nilay-patel/664802/apple-app-store-iphone-ios-fortnite-epic-games-lawsuit" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wbo" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/15/yours-truly-with-nilay-patel-on-decoder" />
+	<id>tag:daringfireball.net,2025:/linked//6.41892</id>
+	<published>2025-05-15T21:45:27Z</published>
+	<updated>2025-05-15T21:45:28Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Nilay Patel:</p>
+
+<blockquote>
+  <p>There’s a lot of tactical stuff you might talk about in the
+aftermath of this ruling — about what Apple might do next, how it
+might impact revenue, and how developers might respond. But I
+really wanted Gruber to talk about Apple’s big picture and how a
+company that so often prides itself on doing the right thing ended
+up so fully on the wrong side of the courts.</p>
+
+<p>One theme you’ll hear throughout this conversation is that Apple
+often presents itself as small, but the company is actually huge
+in every way — Apple now sells nearly as many phones in a single
+quarter as it did in the entire first three years of the iPhone’s
+existence combined. It now operates in a geopolitical context that
+binds the United States, China, and Taiwan in ways you would have
+never imagined 15 years ago. And perhaps most importantly, Apple
+has control over applications on the iPhone, which means it has
+control over what kinds of businesses can and cannot exist on its
+mobile phones.</p>
+
+<p>That’s the context for the other major theme here that you’ll pick
+up on in this conversation: Apple’s major shift toward digital
+services and whether that’s fundamentally changed the company’s
+culture. You see, as Apple kept selling newer and better iPhones,
+it simply ran out of people to sell them to. So, in order to keep
+growing revenue and keep Wall Street happy, it started squeezing
+more money from its existing customer base, including the very
+developers that put apps on the App Store.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘Yours Truly With Nilay Patel on ‘Decoder’’"  href="https://daringfireball.net/linked/2025/05/15/yours-truly-with-nilay-patel-on-decoder">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>RevenueCat Report Suggests In-App Purchases Perform Noticeably Better Than Link-Outs to the Web</title>
+	<link rel="alternate" type="text/html" href="https://www.revenuecat.com/blog/growth/iap-vs-web-purchases-conversion-test/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wbn" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/15/revenuecat-external-purchase-report" />
+	<id>tag:daringfireball.net,2025:/linked//6.41891</id>
+	<published>2025-05-15T21:40:33Z</published>
+	<updated>2025-05-15T21:41:26Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p><a href="https://daringfireball.net/2025/05/that_eu_app_store_warning_about_external_purchases_is_not_new">Speaking of</a> Jacob Eiting, his company RevenueCat today posted some interesting findings from a test comparing conversions rates for IAP vs. web checkout for the same app:</p>
+
+<blockquote>
+  <p>Two weeks ago, there was a court order in the Apple vs Epic case
+that forced Apple to allow developers to circumvent in-app
+purchases (IAP). As of April 30th 2025, developers were finally
+allowed to send customers in the United States to an external
+website to complete the purchases, and thus avoid the 30% fee that
+App Store takes. We quickly released <a href="https://www.revenuecat.com/blog/growth/introducing-web-paywall-buttons/">Web Purchase Buttons</a>
+that, combined with our <a href="https://www.revenuecat.com/billing/">Web Billing</a> product, create a
+seamless way for developers to drive purchasers out of their app
+to the web for check out.</p>
+
+<p>IAP in the US is a $52B market, representing about half of all App
+Store revenue, and this is the first time that Apple has opened up
+such a major market to web purchasing. Previously, similar court
+orders have been limited to much smaller markets. It has been much
+debated over the years how much, or even if, this new-found
+freedom would help developers make more money. The only real way
+to know is to run a test, so we took this opportunity to run the
+biggest open test of web purchases in history.</p>
+
+<p>Last week, we deployed an experiment on Dipsea (the app we
+acquired last year as a testing-ground) and we’re excited to share
+initial results.</p>
+</blockquote>
+
+<p>The initial conversion rate for IAP was around 28%; the conversion rate for the link-out web flow was just 18%. That’s a notable drop-off.</p>
+
+<p>I don’t find it surprising at all though. IAP really is more convenient. Apple’s built a great system, and they don’t need exclusivity to keep users preferring it, and thus keep developers using it.</p>
+
+<div>
+<a  title="Permanent link to ‘RevenueCat Report Suggests In-App Purchases Perform Noticeably Better Than Link-Outs to the Web’"  href="https://daringfireball.net/linked/2025/05/15/revenuecat-external-purchase-report">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Andy Allen on the App Store’s Feature Stagnation</title>
 	<link rel="alternate" type="text/html" href="https://www.threads.com/@asallen/post/DJPLWZ-NwPZ" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wbm" />
@@ -2216,111 +2314,6 @@ thing: He was the right person to lead ‘60 Minutes’ all along.”</p>
 
 <div>
 <a  title="Permanent link to ‘60 Minutes on Executive Producer Bill Owens’s Resignation and Paramount’s Editorial Interference’"  href="https://daringfireball.net/linked/2025/04/28/60-minutes-last-minute">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Airbnb CEO Brian Chesky on What ‘Founder Mode’ Really Means (and How It Might Apply to Apple)</title>
-	<link rel="alternate" type="text/html" href="https://www.theverge.com/24279570/airbnb-ceo-brian-chesky-founder-mode-apple-steve-jobs-management-decoder-podcast-2024" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wac" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/04/27/chesky-apple-succession" />
-	<id>tag:daringfireball.net,2025:/linked//6.41844</id>
-	<published>2025-04-28T00:02:53Z</published>
-	<updated>2025-04-28T00:33:08Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Airbnb CEO (and founder) Brian Chesky, back in October in an interview with Nilay Patel, regarding Tim Cook’s eventual successor:</p>
-
-<blockquote>
-  <p>This goes to the very awkward thing that no one wants to talk
-about. Succession planning is hard because the people that are
-great product visionaries are typically young. They’re young and
-they’re less mature. Who wants to put a young, not-super-mature
-person at the helm of a giant company? Founders are allowed to
-manage people older than them because they’re the founders. If
-you’re not the founder, people just don’t want to be managed by
-somebody younger than them who’s maybe a virtuoso, a wunderkind,
-but they’re a little immature. The companies don’t want to take
-that risk, so they bias towards senior, grown-up, functional
-experts. But typically that function is not the product, and I
-think that’s a problem.</p>
-
-<p>Satya [Nadella, Microsoft CEO] is more technical. I think that
-has afforded them more, but he mostly just got them back to Bill
-Gates’ primacy. I think Apple should go back to having a CEO
-that’s the chief product officer. I think it should rein the
-company in and simplify how it operates, but that’s just my
-opinion.</p>
-</blockquote>
-
-<p>That’s a very succinct summation of the problem Apple faces replacing Tim Cook, and it’s a much better explanation, or angle, on “<a href="https://www.paulgraham.com/foundermode.html">Founder Mode</a>” than just about any I’ve seen. It’s not that founders are magic. It’s that youth is magic. And the only effective way to get a big company led by a young CEO is for that CEO to be a founder. </p>
-
-<p>Or even a returning founder — Steve Jobs was 42 when he returned to Apple after his decade-ish exile in 1997. But that leads to what’s probably an additional thing working against youthful leaders at Apple, which might be a belief, probably largely unspoken, that the only people who really “get it” are the people who were there with Jobs, especially those who worked for him directly.</p>
-
-<p>But Sundar Pichai was only 43 when he became CEO of Google. Google’s always been different, and maybe that’s one of the ways they’ve been <em>successfully</em> different.</p>
-
-<div>
-<a  title="Permanent link to ‘Airbnb CEO Brian Chesky on What ‘Founder Mode’ Really Means (and How It Might Apply to Apple)’"  href="https://daringfireball.net/linked/2025/04/27/chesky-apple-succession">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Rumor Suggests iPadOS 19 to Get Some Mac-Like Tweaks, Like a Menu Bar</title>
-	<link rel="alternate" type="text/html" href="https://majinbuofficial.com/ipados-19-and-ios-19-new-features/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wab" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/04/25/ipados-19-menu-bar" />
-	<id>tag:daringfireball.net,2025:/linked//6.41843</id>
-	<published>2025-04-25T23:51:31Z</published>
-	<updated>2025-04-26T01:07:21Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Majin Bu:</p>
-
-<blockquote>
-  <p>According to my source, Apple is gearing up for another major leap
-forward. With iPadOS 19 and iOS 19, expected in 2025, the gap
-between iPad, iPhone, and Mac continues to shrink. [...] One of
-the most exciting changes will benefit those using the iPad with a
-Magic Keyboard. When connected, the interface will adapt to show a
-menu bar at the top, just like on macOS, turning the iPad into a
-much more laptop-like experience.</p>
-
-<p>Another key update is Stage Manager 2.0, an enhanced multitasking
-mode that activates automatically when the keyboard is attached.
-It will make managing apps and windows smoother and more
-productive than ever.</p>
-</blockquote>
-
-<p>I don’t think it’s worth spending too much time thinking about these changes until we actually see what Apple is doing, but the menu bar is one of the great achievements in the history of UI design, and the Mac has always had the best design for a menu bar — at the top of the screen, not at the top of each window. Menu bars are such a great way to present and organize complexity. Moderately complex Mac apps typically have dozens of menu commands. More complicated apps can have 100 or more commands. I’ve never seen a plausible design for an app as complicated as, say, Xcode, BBEdit, or Photoshop without a menu bar. One of the reasons why Apple’s own apps are always better — and more capable — on MacOS than on iOS or iPad is that they’ve got more commands, better organized, because there’s a menu bar. Apple Notes, Apple Mail, the whole iWork suite — they’re all better on Mac, and they all have way more features on the Mac.</p>
-
-<p>Reading a menu is also far more humane than scrutinizing icons. Sure, pick the handful of most-used commands and make them available in a toolbar of icons. But the full menu of commands should be <em>written</em>, not illustrated. You don’t order food in a serious restaurant by pointing at unlabeled pictures. You read the menu.</p>
-
-<p>I know iPadOS today already supports a menu-bar-like HUD thing when you have a keyboard attached and hold down the Command key. I find that to be far less usable and far more distracting than a Mac-style menu bar. There’s a reason the Mac only shows you one menu at a time. Focus. The Mac menu bar is boring, but it’s boring in the best possible way. With the iPad’s current HUD menu, it’s like if the Mac dropped down every menu in an app at the same time. Presumably what Bu is describing is just making the iPad’s HUD menu present itself the way it should have from the start. I’ve always felt like iPadOS’s designers made the iPad’s HUD menu different from the Mac just to be different, not because it’s better — because I don’t see how it’s better in any way.</p>
-
-<p>But the other problem is with the idea that iPadOS’s menu — whether as it stands today, as a HUD, or as this rumor suggests it might change, to be more like the Mac — is only available when you have a keyboard attached. Why shouldn’t users be able to access all menu commands when they’re just using the iPad via touch? It’s unnecessarily restrictive that the full list of commands in an app is only available when a keyboard is attached — especially for a device that many users never attach a keyboard to.</p>
-
-<p>Bu continues:</p>
-
-<blockquote>
-  <p>iOS 19 isn’t being left behind. Source say that iPhones with USB-C
-will support external displays, offering a Stage Manager like
-interface. While not a full desktop mode, it will allow users to
-extend their screen space, great for presentations, editing, or
-enhanced viewing.</p>
-</blockquote>
-
-<p>I often use my iPhone connected to a hardware keyboard, especially in the morning, while making coffee. And I seldom take an iPad with me when I travel any more — often/usually just my MacBook and iPhone. An iPhone with a Bluetooth keyboard is a great portable travel kit. (Apple’s own Magic Keyboard, for example, is remarkably lightweight.) All sorts of keyboard shortcuts that a Mac or iPad user is accustomed to work on an iPhone when using a keyboard, too.</p>
-
-<p>But the one that’s missing that kills my productivity the most, takes me right out of the flow, is Command-Tab. It makes no sense to me why iOS <em>doesn’t</em> support Command-Tab. I personally don’t foresee ever attaching my iPhone to an external display (but I can see why some people would), but I really just hope that if this rumor comes to pass, it includes support for Command-Tab too.</p>
-
-<div>
-<a  title="Permanent link to ‘Rumor Suggests iPadOS 19 to Get Some Mac-Like Tweaks, Like a Menu Bar’"  href="https://daringfireball.net/linked/2025/04/25/ipados-19-menu-bar">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
