@@ -7,13 +7,13 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-05-19T19:39:07Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-05-19T19:51:19Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/05/more_insight_and_not-negativity" />
 	<link rel="shorturl" href="http://df4.us/wbx" />
 	<id>tag:daringfireball.net,2025://1.41901</id>
 	<published>2025-05-19T19:14:41Z</published>
-	<updated>2025-05-19T19:39:07Z</updated>
+	<updated>2025-05-19T19:51:19Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -39,19 +39,23 @@ he’d recommended a piece I wrote and agreed with it.</p>
 
 <p>About a dozen long-time readers recalled that I <em>did</em>, in fact, acknowledge it on Daring Fireball — and <a href="https://mastodon.social/@gruber/114523770015232774">as soon as I saw</a> the first message, it all came back to me. I never linked to the viral blog post where Jobs was quoted recommending my article. I never mentioned it in a post. But I <em>did</em> acknowledge it, in what is clearly the most Daring-Fireball-ish way possible: I made it the slogan under the logo banner. That it was only ever a slogan in a PNG logo graphic explains why I couldn’t find it by searching. And I still have that version of the logo (because I keep everything):</p>
 
-<p><img
+<div style="text-align: center">
+  <img
     src = "https://daringfireball.net/misc/2025/05/df_logo_insightful_not_negative_2010.png"
     alt = "The 2010 DF logo with the slogan “Insightful and Not Negative” underneath in small type."
-    style = "background-color: #4a525a;"
-  /></p>
+    style = "background-color: #4a525a; margin-bottom: 1em;"
+  />
+</div>
 
 <p>I can’t remember if I omitted the <em>very</em> before <em>insightful</em> for aesthetic length, humility, or because I somehow thought it was punchier. But my 2025 self thinks it was a mistake to omit it. It surely looks blurry on your screen today, because it’s a 1× graphic scaled to the correct size. In April 2010, 2× retina resolution wasn’t yet a thing — remember, that was the very month that Gizmodo <a href="https://www.youtube.com/watch?v=fkK7_QEIJrg" title="Jon Prosser’s documentary: “The Biggest Apple Leak in History”">published details regarding a stolen iPhone 4 prototype</a>, which was the device that <a href="https://www.youtube.com/watch?v=Hq8j5vsqCCo" title="Steve Jobs introducing and defining the retina display at WWDC 2010.">introduced “retina resolution” to the world</a>. At 50 percent, you can see it pixel-perfect (the slogan is rendered in <a href="https://kare.com/fonts/">Susan Kare’s exquisite Kare Five Dots</a> pixel font), but small:</p>
 
-<p><img
+<div style="text-align: center">
+  <img
     srcset = "https://daringfireball.net/misc/2025/05/df_logo_insightful_not_negative_2010.png 2x"
     alt = "The 2010 DF logo with the slogan “Insightful and Not Negative” underneath in small type. Rendered at half-size to remain pixel-perfect on modern 2× retina resolution displays."
-    style = "background-color: #4a525a;"
-  /></p>
+    style = "background-color: #4a525a; margin-bottom: 1em;"
+  />
+</div>
 
 <p>In the very early days, there was always a slogan under the DF logo. <a href="https://daringfireball.net/misc/design/1/">Originally</a>: “Mac Punditry and Curmudgeonry”. Then, for several years, I’d mix it up, with descriptive slogans like “Mac + Web Nerdery, Etc.”, but also with ones that were just there for fun: “Now With Retsyn”, “Simple Tricks and Nonsense”, and, during the <a href="https://www.youtube.com/watch?v=yBWg93q9qBA">2008 World Series</a>, “Phillies Fever”. But for the last decade or so, I’ve left the logo banner slogan-less most weeks of the year.</p>
 
