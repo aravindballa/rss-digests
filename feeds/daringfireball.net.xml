@@ -7,7 +7,54 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-05-19T20:21:09Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-05-19T20:40:22Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>WSJ: ‘Apple Considers Raising iPhone Prices, Without Blaming Tariffs’</title>
+	<link rel="alternate" type="text/html" href="https://www.wsj.com/tech/apple-iphone-price-increase-2eaebb14?st=P6hk65&amp;reflink=desktopwebshare_permalink" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wbz" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/19/wsj-apple-iphone-pricing-tariffs" />
+	<id>tag:daringfireball.net,2025:/linked//6.41903</id>
+	<published>2025-05-19T20:38:34Z</published>
+	<updated>2025-05-19T20:40:22Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Rolfe Winkler and Yang Jie, reporting last week for The Wall Street Journal (main link is a gift link, but also <a href="https://apple.news/AbU9x9Q0fRl-Y0cJR3QGmmg">here’s a News+ link</a>):</p>
+
+<blockquote>
+  <p>Apple is weighing price increases for its fall iPhone lineup, a
+step it is seeking to couple with new features and design changes,
+according to people familiar with the matter. The company is
+determined to avoid any scenario in which it appears to attribute
+price increases to U.S. tariffs on goods from China, where most
+Apple devices are assembled, the people said.</p>
+
+<p>The U.S. and China <a href="https://www.wsj.com/livecoverage/stock-market-today-tariffs-trade-war-05-12-2025">agreed Monday</a> to suspend most of the tariffs
+they had imposed on each other in a tit-for-tat trade war. But a
+20% tariff that President Trump imposed early in his second term
+on Chinese goods, citing what he said was Beijing’s role in the
+fentanyl trade, remains in place and covers smartphones. [...]</p>
+
+<p>For Apple’s most profitable, high-end phones, such as the Pro and
+Pro Max models, Chinese factories will continue to handle the bulk
+of production, people familiar with Apple’s supply chain said.
+While Indian factories are capable of producing Pro models,
+India’s infrastructure and technical capabilities aren’t yet
+sufficient to support mass production at the scale China can
+currently deliver, they said.</p>
+</blockquote>
+
+<p>Even if Trump <em>weren’t</em> a vindictive thin-skinned angry kook, I’m sure that if this year’s iPhones have higher prices because of Trump’s tariffs, Apple would not attribute the price increases to the tariffs. At least publicly. But Trump <em>is</em> a vindictive thin-skinned angry kook, <a href="https://daringfireball.net/linked/2025/05/15/trump-cook-apple-india">irritated even that Apple is shifting some iPhone production to India</a> (which <a href="https://daringfireball.net/2025/04/how_many_iphones_can_fit_on_a_freight_plane">does assemble iPhones already</a>, and has the capability of producing more) instead of the United States (which only has the capability of assembling iPhones, at <em>any</em> sort of scale, in the fever dreams of Trump’s addled mind). So of course no one at Apple is going to blame any price increases — if they do indeed go up — on the tariffs.</p>
+
+<p>But come on. If iPhone prices go up in September, everyone who isn’t drunk on MAGA juice is going to blame it on the tariffs. Like, even if Apple had been planning for years to raise prices for the iPhone 17 lineup — if price increases were already baked-in for this year’s models since before Trump was re-elected — now that the tariffs are here, everyone would attribute the price hikes to the tariffs. Especially after the summer of tariff-driven inflation I expect we’re about to go through.</p>
+
+<div>
+<a  title="Permanent link to ‘WSJ: ‘Apple Considers Raising iPhone Prices, Without Blaming Tariffs’’"  href="https://daringfireball.net/linked/2025/05/19/wsj-apple-iphone-pricing-tariffs">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Trump Tells Walmart to ‘Eat the Tariffs’</title>
 	<link rel="alternate" type="text/html" href="https://truthsocial.com/@realDonaldTrump/posts/114523638623110397" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wby" />
@@ -1948,85 +1995,6 @@ going to obviously follow what the Supreme Court said.”</p>
 
 <div>
 <a  title="Permanent link to ‘Apple Updates U.S. App Review Guidelines Following Injunction’"  href="https://daringfireball.net/linked/2025/05/02/updated-app-review-guidelines-us">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Jason Snell on Apple’s Q2 FY 2025 and Frustrating Analyst Call</title>
-	<link rel="alternate" type="text/html" href="https://sixcolors.com/post/2025/05/beware-the-tariffs-inside-apples-latest-financial-results/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wao" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/02/snell-aaple-q2-2025" />
-	<id>tag:daringfireball.net,2025:/linked//6.41856</id>
-	<published>2025-05-02T13:27:01Z</published>
-	<updated>2025-05-02T13:38:42Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jason Snell, with some excellent analysis (in addition to his usual <a href="https://sixcolors.com/post/2025/05/apple-q2-2025-results-and-charts-95-4b-revenue/">visualizations of Apple’s numbers</a>):</p>
-
-<blockquote>
-  <p>Another way Apple can reduce the impact of tariffs is by changing
-which global factories it uses to build products destined for the
-U.S. market. “For the June quarter, we do expect the majority of
-iPhones sold in the U.S. will have India as their country of
-origin,” Cook said, “and Vietnam to be the country of origin for
-almost all iPad, Mac, Apple Watch, and AirPods products also sold
-in the U.S.” He said that if you’re outside of the U.S., you’re
-most likely to be buying products made in China.</p>
-
-<p>Cook also commented briefly on Apple’s philosophy in dealing with
-the issues of trade wars between various countries: “Obviously,
-we’re very engaged on the tariff discussions,” he said. “We
-believe in engagement and will continue to engage.” <a href="https://www.warren.senate.gov/newsroom/press-releases/icymi-warren-presses-apple-ceo-tim-cook-on-tariff-special-favors">Elizabeth
-Warren take note</a>, I guess.</p>
-
-<p>Apple also put a number on how much it will be affected by tariffs
-during its next fiscal quarter: $900 million. Yes, that’s nearly a
-billion dollars, but when you consider that Apple just generated
-$95.4 billion in revenue and that it’s expecting to grow from the
-$85.8 billion it generated during last year’s third quarter, a
-$0.9 billion step back doesn’t seem like a massive amount. The
-company also said it would probably lose a couple of points of
-gross margin as part of the deal.</p>
-</blockquote>
-
-<p>And, regarding the analyst call (of which Snell also posted <a href="https://sixcolors.com/post/2025/05/this-is-tim-transcript-of-apples-q2-2025-financial-call/">his usual very helpful transcript</a>):</p>
-
-<blockquote>
-  <p>Credit to that brave analyst, Richard Kramer, who didn’t bother
-asking a ninth question about tariffs, but instead asked Cook
-head-on about the fact that Apple had failed to live up to its
-promise of shipping a more personalized Siri as a part of Apple
-Intelligence.</p>
-</blockquote>
-
-<p>Cook’s answer was a canned response emphasizing the features Apple <em>did</em> ship, and  “We need more time to complete our work on these features so they meet our high-quality bar. We are making progress, and we look forward to getting these features into customers’ hands.” Which is true, but not exactly informative.</p>
-
-<blockquote>
-  <p>Kramer, who is going to get an analyst gold star for this, also
-asked Cook about the various court cases that might really impact
-Apple’s business. Regarding yesterday’s court ruling in the Epic
-case, Cook said, “We strongly disagree with [it].... We’ve complied
-with the court’s order, and we’re going to appeal.” He declined to
-discuss Google’s case and the potential loss of search-engine
-referral revenue altogether.</p>
-
-<p>But, and I think this is important, Cook did <em>not</em> wave off the
-suggestion that these were serious issues. “We’re monitoring these
-closely, but as you point out, there’s risk associated with them,
-and the outcome is unclear.”</p>
-</blockquote>
-
-<p>It would be kind of ridiculous if Cook <em>did</em> wave off the suggestion that these were significant issues. A federal judge has referred the company to federal prosecutors for criminal contempt and she flatly stated in her ruling that VP of finance Alex Roman perjured himself multiple times.</p>
-
-<p>These analyst calls are largely a waste of time. The questions are obtuse and the answers are obfuscating. But it was frustrating yesterday that the first eight questions were all about Trump’s tariffs. Cook said what he had to say about them early in the call. Only Richard Kramer had the backbone to ask any of the other interesting questions facing Apple — and he was the analyst who asked <em>both</em> those questions. But they stuck his questions at the very end of the call. (I think because Apple vets the questions, Apple orders them?) If you want to listen, Kramer’s first question (re: Siri/AI delays) starts at 48:30 <a href="https://www.apple.com/investor/earnings-call/">on Apple’s recording of the call</a>, and his second (re: legal cases) starts at 51:00.</p>
-
-<p>It’s like all the analysts but Kramer had their fingers in their ears and eyes closed and were chanting “<em>Everything’s normal for Apple, everything’s normal for Apple, everything’s normal for Apple...</em>” No one even asked about the material impact of Apple being required to immediately change the App Store guidelines (in the US) to allow unfettered link-outs to the default web browser to make purchases and sign up for subscriptions. You’d think that would be a question.</p>
-
-<div>
-<a  title="Permanent link to ‘Jason Snell on Apple’s Q2 FY 2025 and Frustrating Analyst Call’"  href="https://daringfireball.net/linked/2025/05/02/snell-aaple-q2-2025">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
