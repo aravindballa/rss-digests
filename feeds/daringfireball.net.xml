@@ -7,14 +7,88 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-05-22T23:00:55Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-05-22T23:26:17Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Claude 4</title>
+	<link rel="alternate" type="text/html" href="https://www.anthropic.com/news/claude-4" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wce" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/22/claude-4" />
+	<id>tag:daringfireball.net,2025:/linked//6.41918</id>
+	<published>2025-05-22T23:25:46Z</published>
+	<updated>2025-05-22T23:25:47Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Anthropic:</p>
+
+<blockquote>
+  <p>Today, we’re introducing the next generation of Claude models:
+Claude Opus 4 and Claude Sonnet 4, setting new standards for
+coding, advanced reasoning, and AI agents.</p>
+
+<p>Claude Opus 4 is the world’s best coding model, with sustained
+performance on complex, long-running tasks and agent workflows.
+Claude Sonnet 4 is a significant upgrade to Claude Sonnet 3.7,
+delivering superior coding and reasoning while responding more
+precisely to your instructions.</p>
+</blockquote>
+
+<p>It’s almost as though this is a fast-moving field.</p>
+
+<p>There’s a recent rumor — <a href="https://9to5mac.com/2025/05/02/apple-taps-anthropics-claude-for-ai-assisted-coding-internally-as-developers-await-swift-assist/">from Mark Gurman, natch</a> — that Apple is partnering with Anthropic to integrate Claude with Xcode. So Apple doesn’t have to do everything themselves. Developers, in particular, love <a href="https://daringfireball.net/linked/2025/05/22/google-translate-default-ios-18">modularity</a> and choices. But whatever they do, once-a-year updates to “Apple Intelligence” aren’t going to cut it. Since last WWDC there have been dozens of AI code generation advances across the industry. Just last week <a href="https://simonwillison.net/2025/May/16/openai-codex/#atom-everything">OpenAI announced Codex</a>, their “cloud-based software engineering agent”. Meanwhile, <a href="https://mjtsai.com/blog/2025/03/12/whither-swift-assist/">Apple’s Swift Assist still hasn’t shipped</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Claude 4’"  href="https://daringfireball.net/linked/2025/05/22/claude-4">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Google Translate Can Now Be Set as the Default Translation App on iOS</title>
+	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2025/05/19/google-translate-default-option-ios/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wcd" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/22/google-translate-default-ios-18" />
+	<id>tag:daringfireball.net,2025:/linked//6.41917</id>
+	<published>2025-05-22T23:10:44Z</published>
+	<updated>2025-05-22T23:10:44Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Juli Clover at MacRumors:</p>
+
+<blockquote>
+  <p>To change your default app, you’ll need to install the latest
+version of the Google Translate app, which was released today.
+From there, you can open up the Settings app, select the Apps
+section, tap on Default Apps, tap Translation, and choose Google
+Translate instead of Apple Translate. [...]</p>
+
+<p><a href="https://www.macrumors.com/guide/ios-18-4-features-2/">iOS 18.4 and iPadOS 18.4</a> added the ability for users to set
+a different translation app as their default. Users worldwide can
+select Google Translate or another translation app as an
+alternative, and there are also options for changing the default
+Email, Messaging, Calling, Browser, and Password apps. In the EU,
+users can also select a different <a href="https://www.macrumors.com/2024/11/04/ios-18-4-default-maps-translate-apps-in-eu/">default navigation app</a>,
+such as Google Maps.</p>
+</blockquote>
+
+<p>There’s a fundamental divide between providing an integrated experience vs. a modular one. Apple, of course, almost defines what it means to deliver an integrated experience. But neither fundamental approach need be all-or-nothing. Providing default app settings makes the platform stronger. Apple should <em>want</em> to support alternatives to its own apps and services, not do so only at the point of regulatory pressure. It’s <em>clearly</em> what’s best for the platform.</p>
+
+<div>
+<a  title="Permanent link to ‘Google Translate Can Now Be Set as the Default Translation App on iOS’"  href="https://daringfireball.net/linked/2025/05/22/google-translate-default-ios-18">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Gurman on the Team Jony Ive Has Assembled at IO</title>
-	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2025-05-21/openai-to-buy-apple-veteran-jony-ive-s-ai-device-startup-in-6-5-billion-deal?embedded-checkout=true" />
+	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2025-05-21/openai-to-buy-apple-veteran-jony-ive-s-ai-device-startup-in-6-5-billion-deal" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wcc" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/22/gurman-io-team" />
 	<id>tag:daringfireball.net,2025:/linked//6.41916</id>
 	<published>2025-05-22T23:00:16Z</published>
-	<updated>2025-05-22T23:00:55Z</updated>
+	<updated>2025-05-22T23:26:17Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -1894,68 +1968,6 @@ out completely is what prompts this discussion.</p>
 
 <div>
 <a  title="Permanent link to ‘Yours Truly on ‘Primary Technology’’"  href="https://daringfireball.net/linked/2025/05/08/yours-truly-on-primary-technology">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Patrick Collison Interviews Former Apple Designer Jony Ive at Stripe Sessions</title>
-	<link rel="alternate" type="text/html" href="https://youtu.be/wLb9g_8r-mE" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wb3" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/08/collison-ive-interview" />
-	<id>tag:daringfireball.net,2025:/linked//6.41871</id>
-	<published>2025-05-08T23:51:21Z</published>
-	<updated>2025-05-12T23:20:40Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>I’m about halfway through and already feel the need to link to this. Good questions and thoughtful answers. Just delightful.</p>
-
-<div>
-<a  title="Permanent link to ‘Patrick Collison Interviews Former Apple Designer Jony Ive at Stripe Sessions’"  href="https://daringfireball.net/linked/2025/05/08/collison-ive-interview">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>How to Catch a North Korean Fake Worker</title>
-	<link rel="alternate" type="text/html" href="https://www.theregister.com/2025/04/29/north_korea_worker_interview_questions/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wb2" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/08/north-korean-fake-workers" />
-	<id>tag:daringfireball.net,2025:/linked//6.41870</id>
-	<published>2025-05-08T16:14:56Z</published>
-	<updated>2025-05-08T16:15:29Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Iain Thomson, for The Register:</p>
-
-<blockquote>
-  <p>According to Adam Meyers, CrowdStrike’s senior veep in the counter
-adversary division, North Korean infiltrators are bagging roles
-worldwide throughout the year. Thousands are said to have
-<a href="https://www.yahoo.com/news/thousands-north-korean-workers-infiltrated-110000417.html">infiltrated</a> the Fortune 500.</p>
-
-<p>They’re masking IPs, exporting laptop farms to America so they can
-connect into those machines and appear to be working from the USA,
-and they are using AI — but there’s a question during job
-interviews that never fails to catch them out and forces them to
-drop out of the recruitment process.</p>
-
-<p>“My favorite interview question, because we’ve interviewed quite
-a few of these folks, is something to the effect of ‘How fat is
-Kim Jong Un?’ They terminate the call instantly, because it’s
-not worth it to say something negative about that,” he
-<a href="https://path.rsaconference.com/flow/rsac/us25/FullAgenda/page/catalog/session/1728070288065001o6bO">told</a> a panel session at the <a href="https://www.theregister.com/special_features/spotlight_on_rsac/">RSA Conference</a> in
-San Francisco Monday.</p>
-</blockquote>
-
-<p>You could do the same thing with MAGA derps too. Just ask them how fat Trump is. (<a href="https://theoverspill.blog/2025/05/07/tulsi-gabbard-password-reuse-start-up-2432/#594cb0fdcaef316b95f55b34dd60373d">Via Charles Arthur</a>.)</p>
-
-<div>
-<a  title="Permanent link to ‘How to Catch a North Korean Fake Worker’"  href="https://daringfireball.net/linked/2025/05/08/north-korean-fake-workers">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
