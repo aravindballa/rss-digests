@@ -7,7 +7,53 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-05-22T22:45:12Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-05-22T23:00:55Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Gurman on the Team Jony Ive Has Assembled at IO</title>
+	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2025-05-21/openai-to-buy-apple-veteran-jony-ive-s-ai-device-startup-in-6-5-billion-deal?embedded-checkout=true" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wcc" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/22/gurman-io-team" />
+	<id>tag:daringfireball.net,2025:/linked//6.41916</id>
+	<published>2025-05-22T23:00:16Z</published>
+	<updated>2025-05-22T23:00:55Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Mark Gurman and Shirin Ghaffary, reporting yesterday for Bloomberg:</p>
+
+<blockquote>
+  <p>Billionaire philanthropist Laurene Powell Jobs is an io backer as
+well, through her firm the Emerson Collective. Other investors
+include Sutter Hill Ventures, Thrive Capital, Maverick Ventures
+and SV Angel. Altman doesn’t have equity in io, OpenAI said. [...]</p>
+
+<p>When he left Apple six years ago, Ive started the firm LoveFrom, a
+collective of designers and engineers. The staff includes veterans
+of Apple’s hardware and software departments, as well as friends
+of Ive and other collaborators.</p>
+
+<p>He then co-founded io last year with Apple alumni Scott Cannon,
+Evans Hankey and Tang Tan. Hankey was Ive’s successor at Apple and
+remained at the company until 2023, while Tan led iPhone and Apple
+Watch product design until 2024. Cannon worked at Apple before
+co-creating the once-popular email app Mailbox, which was acquired
+by Dropbox Inc. [...]</p>
+
+<p>LoveFrom has a number of former Apple designers who helped create
+the look of the Mac and iPhone operating systems, including Bas
+Ording, Mike Matas and Chris Wilson, Ive said. They could help
+redesign OpenAI’s app for a new generation of consumers.</p>
+</blockquote>
+
+<p>I struggle to imagine what they even <em>could</em> be making, but that’s one hell of a lineup of talented ex-Apple folks. I know a few other people who’ve joined IO too, and they’re A-teamers.</p>
+
+<div>
+<a  title="Permanent link to ‘Gurman on the Team Jony Ive Has Assembled at IO’"  href="https://daringfireball.net/linked/2025/05/22/gurman-io-team">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>MG Siegler, Predicting Epic’s Win in the Fight to Get Fortnite Back in the App Store</title>
 	<link rel="alternate" type="text/html" href="https://spyglass.org/epics-feigning-floundering-to-keep-apple-under-pressure/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wcb" />
@@ -1910,68 +1956,6 @@ San Francisco Monday.</p>
 
 <div>
 <a  title="Permanent link to ‘How to Catch a North Korean Fake Worker’"  href="https://daringfireball.net/linked/2025/05/08/north-korean-fake-workers">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>The Trump Administration Signal Scandal, Somehow, Gets Worse</title>
-	<link rel="alternate" type="text/html" href="https://micahflee.com/despite-misleading-marketing-israeli-company-telemessage-used-by-trump-officials-can-access-plaintext-chat-logs/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wb1" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/08/trump-admin-tm-sgnl" />
-	<id>tag:daringfireball.net,2025:/linked//6.41869</id>
-	<published>2025-05-08T16:06:13Z</published>
-	<updated>2025-05-08T18:56:58Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Micah Lee, in a spectacularly detailed post:</p>
-
-<blockquote>
-  <ul>
-<li><p>On Thursday, 404 Media <a href="https://www.404media.co/mike-waltz-accidentally-reveals-obscure-app-the-government-is-using-to-archive-signal-messages/">reported</a> that in the Reuters
-<a href="https://www.reutersconnect.com/item/us-national-security-advisor-mike-waltz-attends-a-cabinet-meeting-held-by-president-trump-at-the-white-house-in-washington/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMkg4RUFEOEtGRw%3D%3D">photo</a> showing former National Security Advisor and <a href="https://zeteo.com/p/signal-chat-war-crimes-revealed-yemen-trump-admin">war
-criminal</a> Mike Waltz checking his Signal messages under the
-table, he was actually using an obscure modified Signal app
-called TM SGNL, and not the real and actually secure Signal app.</p></li>
-<li><p>On Friday, I wrote <a href="https://micahflee.com/tm-sgnl-the-obscure-unofficial-signal-app-mike-waltz-uses-to-text-with-trump-officials/">an analysis</a> of everything I could find
-out about TM SGNL using OSINT, including the fact that it’s
-nearly impossible to install without a device enrolled in an MDM
-service that’s tied to an Apple Business Manager or a Google
-Enterprise account.</p></li>
-<li><p>On Saturday, after <a href="https://todon.eu/@ljrk/114444796069542288">discovering</a> that TeleMessage
-<a href="https://web.archive.org/web/20250503004419/https://www.telemessage.com/developer/api-libraries/">published</a> the source code for the TM SGNL apps for
-Android and iPhone themselves, I <a href="https://micahflee.com/heres-the-source-code-for-the-unofficial-signal-app-used-by-trump-officials/">re-published them</a> on
-GitHub with the goal of making them easier to research. (It
-looks like the iOS source code is actually just unmodified
-Signal, so maybe they actually only published their Android
-code.)</p></li>
-<li><p>On Saturday night, an anonymous source told me they hacked
-TeleMessage.</p></li>
-<li><p>On Sunday, I, along with Joseph Cox, <a href="https://www.404media.co/the-signal-clone-the-trump-admin-uses-was-hacked/">published an article</a>
-about the hack to 404 Media (and to <a href="https://micahflee.com/the-signal-clone-the-trump-admin-uses-was-hacked/">my blog</a>).</p></li>
-<li><p>On Monday, NBC News <a href="https://www.nbcnews.com/tech/security/telemessage-suspends-services-hackers-say-breached-app-rcna204925">reported</a> that TeleMessage suspended
-its service after a <em>second hacker</em> breached TeleMessage and
-“downloaded a large cache of files.”</p></li>
-<li><p>Today, Senator Ron Wyden <a href="https://www.wyden.senate.gov/imo/media/doc/doj_letter_telemessage.pdf">published</a> a letter, which cites
-the 404 Media article and my analysis of TM SGNL, to Attorney
-General Pam Bondi, requesting that the Justice Department
-investigate the “serious threat to U.S. national security posed
-by TeleMessage, a federal contractor that sold dangerously
-insecure communications software to the White House and other
-federal agencies.”</p></li>
-</ul>
-</blockquote>
-
-<p>National security leaders using this app — which effectively just <em>removes</em> all of Signal’s actual security features by backing up all messages as plain text — is so stupid it’s surprising, even from these idiots Trump has surrounded himself with. I mean think about how stupid it is that Mike Waltz was using this app while in front of press photographers at a Cabinet meeting.</p>
-
-<p>Lee goes deep, including an analysis of TM SGNL’s open source Android source code, to show that it’s designed to transmit backups of messages in plain text to publicly-facing servers. And it turns out those servers had easily-hackable flaws.</p>
-
-<p><strong>See also:</strong> Wired: “<a href="https://www.wired.com/story/tm-signal-telemessage-plaintext-message-archive/">The Company Behind the Signal Clone Mike Waltz Used Has Direct Access to User Chats</a>”.</p>
-
-<div>
-<a  title="Permanent link to ‘The Trump Administration Signal Scandal, Somehow, Gets Worse’"  href="https://daringfireball.net/linked/2025/05/08/trump-admin-tm-sgnl">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
