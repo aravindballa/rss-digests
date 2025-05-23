@@ -7,7 +7,45 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-05-23T16:47:46Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-05-23T17:11:15Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Mozilla Is Shutting Down Pocket</title>
+	<link rel="alternate" type="text/html" href="https://www.theverge.com/news/672924/mozilla-pocket-fakespot-shutting-down" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wch" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/23/mozilla-shutting-down-pocket" />
+	<id>tag:daringfireball.net,2025:/linked//6.41921</id>
+	<published>2025-05-23T17:11:15Z</published>
+	<updated>2025-05-23T17:11:15Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Emma Roth, The Verge:</p>
+
+<blockquote>
+  <p>Mozilla is shutting down Pocket, the handy bookmarking tool used
+to save articles and webpages for later. The <a href="https://support.mozilla.org/en-US/kb/future-of-pocket">organization
+announced</a> that Pocket will stop working on July 8th, 2025,
+<a href="https://support.mozilla.org/en-US/kb/future-of-pocket">as Mozilla begins concentrating</a> its “resources into projects
+that better match their browsing habits and online needs.”</p>
+
+<p>Following the shutdown, you’ll only be able <a href="https://support.mozilla.org/en-US/kb/exporting-your-pocket-list">to export saves</a>
+until October 8th, 2025, which is when Mozilla will permanently
+delete user data. Mozilla says it will start automatically
+canceling subscriptions as well, and will issue prorated refunds
+to users subscribed to its annual plan on July 8th.</p>
+</blockquote>
+
+<p>Pocket is one of those apps that obviously doesn’t have a ton of users (presumably?), but those users it has are die-hard read-it-later-ers. Pocket, for example, <a href="https://help.kobo.com/hc/en-us/articles/360017763753-Use-the-Pocket-App-with-your-Kobo-eReader">is the only read-it-later service supported on Kobo e-readers</a>.</p>
+
+<p>This feels in line, somewhat, with <a href="https://techcrunch.com/2024/09/17/mozilla-exits-the-fediverse-and-will-shutter-its-mastodon-server-in-december/">Mozilla shutting down their Mastodon instance a few months ago</a>. When Mastodon took off, I know some people thought a Mozilla-hosted instance would have a good shot to stand the test of time. Instead, they gave up after just a few years.</p>
+
+<div>
+<a  title="Permanent link to ‘Mozilla Is Shutting Down Pocket’"  href="https://daringfireball.net/linked/2025/05/23/mozilla-shutting-down-pocket">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Trump Threatens Apple With 25 Percent Tariffs on iPhones Assembled in India</title>
 	<link rel="alternate" type="text/html" href="https://truthsocial.com/@realDonaldTrump/posts/114556874484491575" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wcg" />
@@ -1936,40 +1974,6 @@ the App Store in the U.S.</p>
 
 <div>
 <a  title="Permanent link to ‘Epic Submits Fortnite to App Store Through Swedish Subsidiary’"  href="https://daringfireball.net/linked/2025/05/09/epic-submits-fortnite">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>How Many Apps Used the Link-Out Policy That Apple Claims Complied With Judge Gonzales Rogers’s Original Anti-Steering Injunction?</title>
-	<link rel="alternate" type="text/html" href="https://appleinsider.com/articles/25/05/01/epic-vs-apple-what-apple-is-being-forced-to-do-to-the-app-store" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wb6" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/09/how-many-apps-used-the-app-store-link-out-policy" />
-	<id>tag:daringfireball.net,2025:/linked//6.41874</id>
-	<published>2025-05-09T17:16:15Z</published>
-	<updated>2025-05-09T17:23:01Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>William Gallagher, writing last week for AppleInsider:</p>
-
-<blockquote>
-  <p>Judge Rogers maintains that Apple had successfully made as few
-developers as possible benefit from the court’s original
-anti-steering ruling. “As of the May 2024 hearing,” she wrote,
-“only 34 developers out of the approximately 136,000 total
-developers on the App Store applied for the program, and
-seventeen of those developers had not offered in-app purchases in
-the first place.”</p>
-</blockquote>
-
-<p>So 34 was the number in May <em>last year</em>. But did the number go up in any significant way since then? I was thinking about it this week, and I’ve not only never seen an app that used these link-outs, I’d never even heard about one that did. And I try more apps than most people, and I hear about a lot more apps than most people. If you’re aware of any apps that used this (or even better, if you’re a developer who did use it), <a href="https://daringfireball.net/contact/">let me know</a>.</p>
-
-<p>It seems like no exaggeration to say that, effectively, no developers used this. Which does seem to have been Apple’s intention in setting the terms (27 percent commission, invasive rules for tracking users for a week after following a link from the app to the web, and odious requirements to allow Apple to view the developers’ internal accounting figures to make sure they weren’t cheating Apple out of commissions). But it really makes you wonder how anyone at Apple thought the court would see this plan as compliant.</p>
-
-<div>
-<a  title="Permanent link to ‘How Many Apps Used the Link-Out Policy That Apple Claims Complied With Judge Gonzales Rogers’s Original Anti-Steering Injunction?’"  href="https://daringfireball.net/linked/2025/05/09/how-many-apps-used-the-app-store-link-out-policy">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
