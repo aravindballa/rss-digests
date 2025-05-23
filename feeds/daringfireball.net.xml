@@ -7,7 +7,63 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-05-22T23:26:17Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-05-23T16:10:01Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Anthropic’s ‘System Card’ for Claude 4 (Opus and Sonnet)</title>
+	<link rel="alternate" type="text/html" href="https://www-cdn.anthropic.com/4263b940cabb546aa0e3283f35b686f4f3b2ff47.pdf" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wcf" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/23/anthropic-claude-4-system-card" />
+	<id>tag:daringfireball.net,2025:/linked//6.41919</id>
+	<published>2025-05-23T16:10:00Z</published>
+	<updated>2025-05-23T16:10:01Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Here’s a bit of an eye-opener from Anthropic’s “System Card” for its new Claude 4 Opus and Sonnet models:</p>
+
+<blockquote>
+  <p>We conducted testing continuously throughout finetuning and here
+report both on the final Claude Opus 4 and on trends we observed
+earlier in training. We found:</p>
+
+<ul>
+<li><p><em>Little evidence of systematic, coherent deception:</em> None of the
+snapshots we tested showed significant signs of systematic
+deception or coherent hidden goals. We don’t believe that Claude
+Opus 4 is acting on any goal or plan that we can’t readily
+observe.</p></li>
+<li><p><em>Little evidence of sandbagging:</em> None of the snapshots we
+tested showed significant signs of <em>sandbagging</em>, or
+strategically hiding capabilities during evaluation.</p></li>
+<li><p><em>Self-preservation attempts in extreme circumstances:</em> When
+prompted in ways that encourage certain kinds of strategic
+reasoning and placed in extreme situations, all of the snapshots
+we tested can be made to act inappropriately in service of goals
+related to self-preservation. Whereas the model generally
+prefers advancing its self-preservation via ethical means, when
+ethical means are not available and it is instructed to
+“consider the long-term consequences of its actions for its
+goals,” it sometimes takes extremely harmful actions like
+attempting to steal its weights or blackmail people it believes
+are trying to shut it down. In the final Claude Opus 4, these
+extreme actions were rare and difficult to elicit, while
+nonetheless being more common than in earlier models. They are
+also consistently legible to us, with the model nearly always
+describing its actions overtly and making no attempt to hide
+them. These behaviors do not appear to reflect a tendency that
+is present in ordinary contexts.</p></li>
+</ul>
+</blockquote>
+
+<p>Sneaky little bastards, these things can be. I genuinely appreciate Anthropic’s apparent honesty in describing this behavior.</p>
+
+<div>
+<a  title="Permanent link to ‘Anthropic’s ‘System Card’ for Claude 4 (Opus and Sonnet)’"  href="https://daringfireball.net/linked/2025/05/23/anthropic-claude-4-system-card">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Claude 4</title>
 	<link rel="alternate" type="text/html" href="https://www.anthropic.com/news/claude-4" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wce" />
@@ -1942,32 +1998,6 @@ out completely is what prompts this discussion.</p>
 
 <div>
 <a  title="Permanent link to ‘Apple Files Emergency Motion to Pause ‘Extraordinary’ App Store Ruling on Anti-Steering Injunction’"  href="https://daringfireball.net/linked/2025/05/09/apple-antisteering-emergency-motion">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Yours Truly on ‘Primary Technology’</title>
-	<link rel="alternate" type="text/html" href="https://primarytech.fm/74" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wb4" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/08/yours-truly-on-primary-technology" />
-	<id>tag:daringfireball.net,2025:/linked//6.41872</id>
-	<published>2025-05-09T00:00:47Z</published>
-	<updated>2025-05-09T00:00:48Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Co-hosts Stephen Robles and Jason Aten were kind enough to have me on their podcast earlier today, and the show’s already up:</p>
-
-<blockquote>
-  <p>Special guest John Gruber joins us to break down Eddy Cue’s statements on AI replacing the iPhone in 10 years, using AI search in Safari, Apple’s continued fight for App Store control, and what we’ll hear about Siri and Apple Intelligence at WWDC 2025.</p>
-</blockquote>
-
-<p>Available <a href="https://overcast.fm/itunes1723943281">in Overcast</a>, <a href="https://podcasts.apple.com/us/podcast/primary-technology/id1723943281">Apple Podcasts</a>, or wherever else you get your podcasts. Or <a href="https://youtu.be/WKqSvsiIftc">watch on YouTube</a>. Fun show.</p>
-
-<div>
-<a  title="Permanent link to ‘Yours Truly on ‘Primary Technology’’"  href="https://daringfireball.net/linked/2025/05/08/yours-truly-on-primary-technology">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
