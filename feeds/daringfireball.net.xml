@@ -7,7 +7,65 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-05-27T21:31:39Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-05-27T21:52:44Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Apple’s Satellite Networking Ambitions</title>
+	<link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/apples-satellite-ambitions-threatened-elon-musk-internal-resistance?rc=jfy0lk" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wcs" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/27/apples-satellite-networking-ambitions" />
+	<id>tag:daringfireball.net,2025:/linked//6.41932</id>
+	<published>2025-05-27T21:52:43Z</published>
+	<updated>2025-05-27T21:52:44Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Aaron “Homeboy” Tilley (<a href="https://daringfireball.net/linked/2025/03/11/wsj-tech-layoffs">recently of the WSJ</a>) and Wayne Ma, at the paywalled-up-the-wazoo The Information:</p>
+
+<blockquote>
+  <p>Starting in 2015, Apple and Boeing held early discussions about a
+satellite internet project that would involve delivering
+full-blown wireless internet service, not just emergency
+communications services, to iPhones and homes, said five people
+involved in or briefed on the project.</p>
+
+<p>Through the effort, dubbed Project Eagle within Apple, the
+companies would lob thousands of Boeing satellites into orbit to
+beam internet down to iPhones. For home users, Apple planned to
+offer antennas people could stick to their windows to disperse
+their internet connection throughout the building. (Satellite
+internet requires a device to have an uninterrupted line of sight
+to the sky.)</p>
+
+<p>For the project’s champions, it was an ambitious gambit to provide
+a more seamless Apple experience. Some inside Apple saw mobile
+carriers as necessary but inconvenient partners that held the
+company’s iPhone plans back. With a global satellite system, Apple
+could provide more of the key ingredients for its products,
+reducing its dependency on outside partners.</p>
+
+<p>The lead executive and architect behind the project was Apple’s
+longtime wireless chief, Rubén Caballero. Apple spent around $36
+million testing out the concept at a secret location in El
+Segundo, Calif., the people with knowledge of the project said.
+The team aimed to launch the service in 2019.</p>
+
+<p>But eventually Apple got cold feet. Tim Cook, Apple’s CEO, was
+concerned that the project would jeopardize the company’s
+relationship with the telecom industry, said people with direct
+knowledge of the project. It was also an expensive undertaking
+with an unclear near-term business case. At the end of 2016, Apple
+canceled the project. (Caballero <a href="https://www.theinformation.com/articles/apple-executive-responsible-for-5g-efforts-departs">left the company</a> in 2019.)</p>
+</blockquote>
+
+<p>The segment I quote here is midway through the article. It leads with purported offers from Elon Musk to Apple to rely exclusively on Starlink for satellite networking. Starlink offers a <a href="https://x.com/jasonfried/status/1873056615345340566">genuinely incredible service</a>. But there’s no way Apple was going to make a <em>get into bed together</em> deal with Elon Musk. Starlink’s technology and satellite coverage are extraordinary, but Musk personally is just too erratic. It’s a bizarre, dare I say unprecedented, combination. He’s like Howard Hughes but with much better tech (and, perhaps, fewer bottles of his own urine strewn about his bedroom).</p>
+
+<div>
+<a  title="Permanent link to ‘Apple’s Satellite Networking Ambitions’"  href="https://daringfireball.net/linked/2025/05/27/apples-satellite-networking-ambitions">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Scott Forstall Has Been Advising The Browser Company</title>
 	<link rel="alternate" type="text/html" href="https://browsercompany.substack.com/p/letter-to-arc-members-2025" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wcr" />
@@ -1901,57 +1959,6 @@ and Adobe Type Manager took over.</p>
 
 <div>
 <a  title="Permanent link to ‘More Old Mac Font Memories’"  href="https://daringfireball.net/linked/2025/05/15/more-old-mac-font-memories">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Trump Says He Has ‘A Little Problem With Tim Cook’ Regarding Apple’s Plans to Increase iPhone Production in India</title>
-	<link rel="alternate" type="text/html" href="https://www.theguardian.com/technology/2025/may/15/trump-little-problem-tim-cook-apple-india-production-iphones" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wbi" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/15/trump-cook-apple-india" />
-	<id>tag:daringfireball.net,2025:/linked//6.41886</id>
-	<published>2025-05-15T18:55:43Z</published>
-	<updated>2025-05-15T19:07:32Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Arjun Kharpal, reporting for CNBC:</p>
-
-<blockquote>
-  <p>“I had a little problem with Tim Cook yesterday,” Trump said. “I
-said to him, ‘my friend, I treated you very good. You’re coming
-here with $500 billion, but now I hear you’re building all over
-India.’ I don’t want you building in India.”</p>
-
-<p>Trump was referencing Apple’s commitment of a <a href="https://www.cnbc.com/2025/02/24/apple-to-open-texas-ai-server-factory-in-500-billion-us-expansion.html">$500 billion
-investment</a> in the U.S. which was announced in February.</p>
-</blockquote>
-
-<p>And which would have <a href="https://daringfireball.net/linked/2025/02/24/apple-500-billion-american-manufacturing-plan">almost certainly been the same thing they would have announced</a> if Kamala Harris had won the election. They announced <a href="https://www.apple.com/newsroom/2021/04/apple-commits-430-billion-in-us-investments-over-five-years/">a $430 billion US investment in 2021</a>, in the first year of the Biden administration.</p>
-
-<blockquote>
-  <p>Apple has been ramping up production in India with the aim of
-making around 25% of global iPhones in the country in the next few
-years, as it looks to reduce reliance on China, where around 90%
-of its flagship smartphone is currently assembled.</p>
-
-<p>“I said to Tim, I said, ‘Tim look, we treated you really good, we
-put up with all the plants that you build in China for years, now
-you got build us [<em>sic</em>]. We’re not interested in you building in India,
-India can take care of themselves ... we want you to build here,’”
-Trump said.</p>
-
-<p>The U.S. president added that Apple is going to be “upping” its
-production in the United States, without disclosing further
-details.</p>
-</blockquote>
-
-<p>If Apple were to assemble a single iPhone in the United States, that would be upping its US iPhone production, which, since the original iPhone in 2007, is at zero. It’s not a matter of willpower or spending — <a href="https://daringfireball.net/linked/2025/04/09/trump-think-us-has-resources-to-make-iphones">it just isn’t possible</a> at anything even vaguely approaching the iPhone’s scale.</p>
-
-<div>
-<a  title="Permanent link to ‘Trump Says He Has ‘A Little Problem With Tim Cook’ Regarding Apple’s Plans to Increase iPhone Production in India’"  href="https://daringfireball.net/linked/2025/05/15/trump-cook-apple-india">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
