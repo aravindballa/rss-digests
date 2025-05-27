@@ -7,7 +7,41 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-05-27T21:52:44Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-05-27T22:34:15Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>On the Engineering Talent at IO</title>
+	<link rel="alternate" type="text/html" href="https://sixcolors.com/post/2025/05/sam-and-jony-and-skepticism/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wct" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/27/on-the-engineering-talent-at-io" />
+	<id>tag:daringfireball.net,2025:/linked//6.41933</id>
+	<published>2025-05-27T22:34:14Z</published>
+	<updated>2025-05-27T22:34:15Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jason Snell, pouring some admittedly welcome skepticism on the whole LoveFrom-OpenAI IO endeavor:</p>
+
+<blockquote>
+  <p>I’m skeptical of the composition of <a href="https://daringfireball.net/linked/2025/05/22/gurman-io-team">the io leadership team</a>,
+which features an awful lot of product designers and not a lot of
+hardware engineers. I’m sure there are talented engineers there
+too — the OpenAI announcement refers to “physicists, scientists,
+researchers” among the team members — but the fact remains that
+this is a startup whose leader and key lieutenants appear to all
+be designers.</p>
+</blockquote>
+
+<p>Maybe the whole IO thing will come to naught. Maybe it’s all hat, no cattle. Maybe it’s a great idea but a long shot to play out (which is my gut feeling). But there’s a weird internal-to-Apple lingo thing here. At Apple “product designers” are very much engineers. PD at Apple is a hardware engineering discipline, not the kind of “design” you’re probably thinking of as “design”. These are the mechanical and electrical engineers who are doing the “design” work of fitting stuff in the box. The nomenclature is distinct, to the best of my knowledge, from the rest of Silicon Valley, where designers design as, effectively, sketches, and then hand those sketches off to engineers to be made. At Apple, and now, IO and LoveFrom, “product designers” are part of the sketching process. They’re trying to figure out how to make things real, what’s feasible, throughout the process.</p>
+
+<p>I think Snell’s overall take is perfectly measured and probably a perfect chaser to my own <a href="https://daringfireball.net/linked/2025/05/21/sam-and-jony-io">at-least-slightly exuberant optimism</a>. But make no mistake: the current team at IO is loaded with what every other company would consider mechanical and electrical engineers — they’re just mechanical and electrical engineers who know how to dance with <em>designer</em> designers. Engineers, in that vein, outnumber pure designers at IO already.</p>
+
+<div>
+<a  title="Permanent link to ‘On the Engineering Talent at IO’"  href="https://daringfireball.net/linked/2025/05/27/on-the-engineering-talent-at-io">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple’s Satellite Networking Ambitions</title>
 	<link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/apples-satellite-ambitions-threatened-elon-musk-internal-resistance?rc=jfy0lk" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wcs" />
@@ -1911,54 +1945,6 @@ with a “potentially significant fine.”</p>
 
 <div>
 <a  title="Permanent link to ‘Apple, Appealing €500M DMA Fine, Contends It Made a Series of Proposals to the European Commission Throughout 2024 but Did Not Receive Feedback’"  href="https://daringfireball.net/linked/2025/05/15/apple-ec-proposals-feedback">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>More Old Mac Font Memories</title>
-	<link rel="alternate" type="text/html" href="https://leancrew.com/all-this/2025/05/font-memories-of-old-macs/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wbj" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/15/more-old-mac-font-memories" />
-	<id>tag:daringfireball.net,2025:/linked//6.41887</id>
-	<published>2025-05-15T20:10:09Z</published>
-	<updated>2025-05-15T20:13:17Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Dr. Drang, writing at And Now It’s All This:</p>
-
-<blockquote>
-  <p>Back before the LaserWriter and PostScript (it’s an all InterCaps
-day here at ANIAT) made resolution independence commonplace, most
-printers were of the dot-matrix variety, usually at a fairly low
-resolution. The original ImageWriter had a higher resolution than
-most: 144 dpi. And this led to the interesting feature.</p>
-
-<p>You may have noticed that the 144 dpi resolution of the
-ImageWriter is exactly twice that of the Mac’s 72 dpi screen. The
-ImageWriter printer driver on the Mac took advantage of that. If
-you were writing a document using a 12-point font, and your Mac
-had a 24-point version of that font, the Mac would send the
-24-point font’s bitmaps (all Mac fonts were bitmapped in those
-days) to the printer so it could render smoother text.</p>
-
-<p>The upshot of this was a very slight breaking of the WYSIWYG
-principle. On the screen, your Geneva 12 document would appear
-with curly <em>y</em>s, but when you printed it out, it would have
-straight <em>y</em>s. A fun idiosyncrasy that disappeared when PS fonts
-and Adobe Type Manager took over.</p>
-</blockquote>
-
-<p>I used ImageWriters a lot when I was using Apple II’s, but almost never from the Mac. When I got my first Mac in 1991 it came with a <a href="https://en.wikipedia.org/wiki/StyleWriter">StyleWriter</a>, a rather dreadful inkjet printer. (At the very least it was dreadfully slow.) But I do remember this curiosity with the different style <em>y</em> glyphs when printing text set in Geneva to an ImageWriter. The 144/72 DPI thing was perhaps Apple’s first @2× “double resolution” trick.</p>
-
-<p>Here’s a copy of Apple’s 227-page (!) <a href="https://mirrors.apple2.org.za/ftp.apple.asimov.net/documentation/hardware/printers/Apple%20ImageWriter%20II%20Technical%20Reference%20Manual.pdf">user manual for the ImageWriter II from 1985</a>, which includes copious examples of source code in both Applesoft BASIC and Macintosh Pascal. It even contains instructions for designing your own custom bitmapped character glyphs.</p>
-
-<p>Bonus points to Drang for including a screenshot illustrating that you chose font sizes from the Style menu (in a separate section underneath the actual, you know, styles) in early versions of MacWrite.</p>
-
-<div>
-<a  title="Permanent link to ‘More Old Mac Font Memories’"  href="https://daringfireball.net/linked/2025/05/15/more-old-mac-font-memories">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
