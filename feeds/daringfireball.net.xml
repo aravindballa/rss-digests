@@ -7,7 +7,55 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-05-28T16:26:26Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-05-28T22:32:03Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Gurman: Apple Is Going to Re-Version OSes by Year, Starting With iOS 26, MacOS 26, tvOS 26, Etc.</title>
+	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2025-05-28/apple-to-rebrand-device-operating-systems-ios-26-macos-26-watchos-26" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wcx" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/28/gurman-version-years" />
+	<id>tag:daringfireball.net,2025:/linked//6.41937</id>
+	<published>2025-05-28T22:32:02Z</published>
+	<updated>2025-05-28T22:32:03Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Hell of a scoop from Mark Gurman, at Bloomberg:</p>
+
+<blockquote>
+  <p>The next Apple operating systems will be identified by year,
+rather than with a version number, according to people with
+knowledge of the matter. That means the current iOS 18 will give
+way to “iOS 26,” said the people, who asked not to be identified
+because the plan is still private. Other updates will be known as
+iPadOS 26, macOS 26, watchOS 26, tvOS 26 and visionOS 26.</p>
+
+<p>Apple is making the change to bring consistency to its branding
+and move away from an approach that can be confusing to customers
+and developers. Today’s operating systems — including iOS 18,
+watchOS 12, macOS 15 and visionOS 2 — use different numbers
+because their initial versions didn’t debut at the same time.</p>
+</blockquote>
+
+<p>Now that they’re on a consistent annual schedule, this supposed new version-numbering scheme makes a lot of sense. It’ll certainly be helpful to anyone trying to figure out what’s up-to-date or not, and it’ll make writing about older OSes much easier. Presuming Gurman is right, this is going to seem really weird at first, and then very quickly seem very natural.</p>
+
+<p>One of the true oddities of Apple’s OS version numbering is that because they stuck with “10” as the leading digit of MacOS’s version numbering from Mac OS X 10.0 “Cheetah”<sup id="fnr1-2025-05-28"><a href="#fn1-2025-05-28">1</a></sup> (2001) through MacOS 10.15 “Catalina” (2019), beforing finally turning the dial to 11 with MacOS 11 “Big Sur” (2020), a casual observer would presume that iOS (currently at 18.5) is older than MacOS (currently at 15.5) when in fact it’s the other way around.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1-2025-05-28">
+<p>This was like the ultimate in wishbranding. A real cheetah is the fastest land animal on Earth. Mac OS X 10.0 “Cheetah” was the slowest-feeling OS Apple ever released.&nbsp;<a href="#fnr1-2025-05-28"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
+</li>
+</ol>
+</div>
+
+<div>
+<a  title="Permanent link to ‘Gurman: Apple Is Going to Re-Version OSes by Year, Starting With iOS 26, MacOS 26, tvOS 26, Etc.’"  href="https://daringfireball.net/linked/2025/05/28/gurman-version-years">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>The Resistance Is Working Better Than You Think</title>
 	<link rel="alternate" type="text/html" href="https://politicalwire.com/2025/05/28/the-resistance-is-working-better-than-you-think/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wcw" />
@@ -1808,55 +1856,6 @@ developers that put apps on the App Store.</p>
 
 <div>
 <a  title="Permanent link to ‘Yours Truly With Nilay Patel on ‘Decoder’’"  href="https://daringfireball.net/linked/2025/05/15/yours-truly-with-nilay-patel-on-decoder">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>RevenueCat Report Suggests In-App Purchases Perform Noticeably Better Than Link-Outs to the Web</title>
-	<link rel="alternate" type="text/html" href="https://www.revenuecat.com/blog/growth/iap-vs-web-purchases-conversion-test/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wbn" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/15/revenuecat-external-purchase-report" />
-	<id>tag:daringfireball.net,2025:/linked//6.41891</id>
-	<published>2025-05-15T21:40:33Z</published>
-	<updated>2025-05-15T21:41:26Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p><a href="https://daringfireball.net/2025/05/that_eu_app_store_warning_about_external_purchases_is_not_new">Speaking of</a> Jacob Eiting, his company RevenueCat today posted some interesting findings from a test comparing conversions rates for IAP vs. web checkout for the same app:</p>
-
-<blockquote>
-  <p>Two weeks ago, there was a court order in the Apple vs Epic case
-that forced Apple to allow developers to circumvent in-app
-purchases (IAP). As of April 30th 2025, developers were finally
-allowed to send customers in the United States to an external
-website to complete the purchases, and thus avoid the 30% fee that
-App Store takes. We quickly released <a href="https://www.revenuecat.com/blog/growth/introducing-web-paywall-buttons/">Web Purchase Buttons</a>
-that, combined with our <a href="https://www.revenuecat.com/billing/">Web Billing</a> product, create a
-seamless way for developers to drive purchasers out of their app
-to the web for check out.</p>
-
-<p>IAP in the US is a $52B market, representing about half of all App
-Store revenue, and this is the first time that Apple has opened up
-such a major market to web purchasing. Previously, similar court
-orders have been limited to much smaller markets. It has been much
-debated over the years how much, or even if, this new-found
-freedom would help developers make more money. The only real way
-to know is to run a test, so we took this opportunity to run the
-biggest open test of web purchases in history.</p>
-
-<p>Last week, we deployed an experiment on Dipsea (the app we
-acquired last year as a testing-ground) and we’re excited to share
-initial results.</p>
-</blockquote>
-
-<p>The initial conversion rate for IAP was around 28%; the conversion rate for the link-out web flow was just 18%. That’s a notable drop-off.</p>
-
-<p>I don’t find it surprising at all though. IAP really is more convenient. Apple’s built a great system, and they don’t need exclusivity to keep users preferring it, and thus keep developers using it.</p>
-
-<div>
-<a  title="Permanent link to ‘RevenueCat Report Suggests In-App Purchases Perform Noticeably Better Than Link-Outs to the Web’"  href="https://daringfireball.net/linked/2025/05/15/revenuecat-external-purchase-report">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
