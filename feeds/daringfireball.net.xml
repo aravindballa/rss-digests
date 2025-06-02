@@ -7,7 +7,51 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-02T19:27:13Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-02T20:17:33Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>WhatsApp for iPad</title>
+	<link rel="alternate" type="text/html" href="https://blog.whatsapp.com/its-here-introducing-whatsapp-for-ipad" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wd3" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/02/whatsapp-for-ipad" />
+	<id>tag:daringfireball.net,2025:/linked//6.41943</id>
+	<published>2025-06-02T20:17:33Z</published>
+	<updated>2025-06-02T20:17:33Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>WhatsApp:</p>
+
+<blockquote>
+  <p>As one of our biggest requests, we’re excited to announce that
+WhatsApp is now available on iPad.[...]</p>
+
+<p>We’ve made WhatsApp for iPad ideal for multitasking so you can get
+more done. Take advantage of iPadOS multitasking features such as
+Stage Manager, Split View, and Slide Over to view multiple apps at
+once, so you can send messages while browsing the web, or research
+options for a group trip while on a call together. WhatsApp also
+works with your Magic Keyboard and Apple Pencil.</p>
+</blockquote>
+
+<p>One of the weird things about Meta’s companywide obstinate refusal to adapt its iOS apps for iPadOS is that for WhatsApp, they’ve had a fairly decent <em>Mac</em> app for years. Surely it was less work to adapt their iOS app for iPadOS than it was to create a passable Mac app using Catalyst.</p>
+
+<p>Famously, Instagram doesn’t support iPad screen sizes. You can run and use the iPhone version of Instagram on iPads — and I’m guessing tens of millions of people do — but it’s the clumsy thing where it launches as an iPhone-sized window in the middle of the big iPad display, and you can hit the “double arrows” button to zoom the window to 2× size. You can also use Instagram via the web, on either Mac or iPad, and it’s a pretty full-featured app-like experience.</p>
+
+<p>What was frustrating about WhatsApp’s lack of iPad support until now is that you just couldn’t use WhatsApp at all from an iPad, <a href="https://youtu.be/lqtR0saaSwM?t=35">other than as a web app</a>. Because of the way WhatsApp handles security, you’re really only able to sign in to one “primary” device at a time, and that device must be a phone. Then, what you do to use WhatsApp on other supported platforms is set up those other devices as “<a href="https://faq.whatsapp.com/378279804439436/">linked devices</a>” from the WhatsApp app on your primary phone. WhatsApp still doesn’t let you use the same account from more than one phone, which is highly frustrating for those of us with somewhat unusual edge cases like writing reviews of new devices. WhatsApp’s phone apps — for both iOS and Android — can only serve as primary devices. There’s no way to use one phone as “primary” and use WhatsApp on a second phone as a linked device. I’d go nuts if iMessage worked that way. But that’s why, prior to Meta creating a proper iPad app for WhatsApp, you couldn’t just launch the iPhone app on iPad.</p>
+
+<p>Mark Gurman reported over the weekend that proper iPad support for Instagram <a href="https://www.bloomberg.com/news/newsletters/2025-06-01/apple-s-wwdc-2025-plan-macos-tahoe-apple-intelligence-ai-ios-26-games-app-mbdlzqpz">is forthcoming too</a>:</p>
+
+<blockquote>
+  <p>Fifteen years after the first iPad went on sale, WhatsApp is now on the tablet. And, yes, it’s just a precursor to the most highly anticipated iPad app ever: Instagram. I’m told that employees on the Meta Platforms Inc. campus are actively testing Instagram for the iPad and that development work is full steam ahead.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘WhatsApp for iPad’"  href="https://daringfireball.net/linked/2025/06/02/whatsapp-for-ipad">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Script Debugger Retired</title>
 	<link rel="alternate" type="text/html" href="https://latenightsw.com/script-debugger-retired/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wd2" />
@@ -1737,30 +1781,6 @@ he’d recommended a piece I wrote and agreed with it.</p>
 
 <div>
 <a  title="Permanent link to ‘Bolt’"  href="https://daringfireball.net/linked/2025/05/18/bolt">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Slate Truck: A $20–30K American-Made Electric Small Pickup With No Paint, No Stereo, No Touchscreen</title>
-	<link rel="alternate" type="text/html" href="https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wbv" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/18/slate-truck" />
-	<id>tag:daringfireball.net,2025:/linked//6.41899</id>
-	<published>2025-05-18T21:14:34Z</published>
-	<updated>2025-05-19T00:03:23Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Month-old news but I’m cleaning up tabs today. I love everything about this pickup except the fact that it doesn’t have a speaker system built-in. No one wants to put a Bluetooth boombox in their cabin and, worse, isn’t that sort of an obvious safety hazard? You get in a crash and now there’s a boombox flying around inside. Just put a simple bluetooth speaker system in.</p>
-
-<p>But the aesthetics of this are chef’s-kiss good. It’s a beautiful little truck. It gets everything right that the Cybertruck gets wrong.</p>
-
-<p>However, I have some questions about how real this is. You pay $50 now to get in the queue for pre-orders, but pre-orders haven’t even started. Deliveries are supposed to start in “late 2026” but Car and Driver is <a href="https://www.caranddriver.com/news/a64564869/2027-slate-truck-revealed/">cautiously describing it as a “2027 truck EV”</a>. I’m rooting for them but at this point it’s a promise not a truck.</p>
-
-<div>
-<a  title="Permanent link to ‘Slate Truck: A $20–30K American-Made Electric Small Pickup With No Paint, No Stereo, No Touchscreen’"  href="https://daringfireball.net/linked/2025/05/18/slate-truck">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
