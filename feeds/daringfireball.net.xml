@@ -7,14 +7,14 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-03T18:08:21Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-03T18:26:19Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>Fantastical Now Supports Event Detection From Forwarded Emails</title>
 	<link rel="alternate" type="text/html" href="https://flexibits.com/fantastical/forwardemails" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wd6" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/03/fantastical-email-event-detection" />
 	<id>tag:daringfireball.net,2025:/linked//6.41946</id>
 	<published>2025-06-03T17:56:34Z</published>
-	<updated>2025-06-03T18:08:21Z</updated>
+	<updated>2025-06-03T18:26:19Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -52,7 +52,7 @@ Party at my house is on this Saturday, 12-3 or so.
 You don’t have to bring anything.
 </code></pre>
 
-<p>That was the entire email, which I deliberately wrote in a very casual way (e.g. “this Saturday” instead of an actual date, and “12-3” as the time, without an explicit “pm”). Forwarded to Fantastical’s new event detection address, under a minute later I got the following suggested event notification from Fantastical on my Mac:</p>
+<p>That was the entire email, which I deliberately wrote in a very casual way (e.g. “this Saturday” instead of an actual date, and “12-3” as the time, without an explicit “pm”). Forwarded to Fantastical’s new event detection address, well under a minute later I got the following suggested event notification from Fantastical on my Mac:</p>
 
 <pre><code>Title: Party for Hal at Heywood Floyd's house  
 Location: Heywood Floyd's house  
@@ -71,6 +71,8 @@ Note: «empty»
 </code></pre>
 
 <p>Nothing in Siri’s auto-detected event was wrong. Both got the date and time right. Siri’s title is fine — in real life, I’d know what that meant. But Fantastical’s title is perfect — it’s a party <em>for</em> Hal, <em>at</em> Heywood’s house. And Siri doesn’t include anything in the Note field, not even a link back to the original message, so it would be up to my own memory to remember where the party was.</p>
+
+<p>To be clear, Fantastical doesn’t just add these events to your calendar. It shows them as suggestions, and there’s a “Preview” button in addition to “Add”. I’ll still preview before adding, but using this service does seem like a decent timesaver for creating new events from casual emails.</p>
 
 <div>
 <a  title="Permanent link to ‘Fantastical Now Supports Event Detection From Forwarded Emails’"  href="https://daringfireball.net/linked/2025/06/03/fantastical-email-event-detection">&nbsp;★&nbsp;</a>
