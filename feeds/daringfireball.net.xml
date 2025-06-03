@@ -7,7 +7,77 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-03T17:38:24Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-03T18:08:21Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Fantastical Now Supports Event Detection From Forwarded Emails</title>
+	<link rel="alternate" type="text/html" href="https://flexibits.com/fantastical/forwardemails" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wd6" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/03/fantastical-email-event-detection" />
+	<id>tag:daringfireball.net,2025:/linked//6.41946</id>
+	<published>2025-06-03T17:56:34Z</published>
+	<updated>2025-06-03T18:08:21Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Flexibits:</p>
+
+<blockquote>
+  <p>Just forward emails to email@fantastical.app from any email
+address linked with your Flexibits Account and Fantastical will
+convert them into events or tasks to quickly add to your
+calendar. After a few seconds you’ll see detected events appear
+in Fantastical where you can quickly add them as an event or
+task. [...]</p>
+
+<p>Emails are processed by Flexibits servers and Google Cloud and
+then deleted immediately after they are processed. Emails are not
+used or retained by Flexibits or Google Cloud for AI training
+purposes.</p>
+
+<p>Events that are detected in emails are stored on Flexibits servers
+and deleted when you add or discard them in Fantastical.</p>
+</blockquote>
+
+<p>There are a lot of events in email messages that have always been easy to get into Fantastical (or any other calendar app) because they include an ICS file attachment. Like when I book a flight — I always get an email with an ICS attachment containing the flight details, and I just open that in Fantastical to import it. Forwarding that email to Fantastical would take longer than just opening the attachment. But what about a casual email from a friend or family member that doesn’t come with an attachment?</p>
+
+<p>Here’s an example email I sent to myself from a sort of burner account I have for testing and for doing things like this.</p>
+
+<pre><code>From: Heywood Floyd &lt;heywood••••••••@icloud.com&gt;  
+Subject: Party for Hal on Saturday  
+Date: June 3, 2025 at 1:22:45 PM EDT  
+To: John Gruber &lt;••••••••@daringfireball.net&gt;  
+
+Party at my house is on this Saturday, 12-3 or so.
+You don’t have to bring anything.
+</code></pre>
+
+<p>That was the entire email, which I deliberately wrote in a very casual way (e.g. “this Saturday” instead of an actual date, and “12-3” as the time, without an explicit “pm”). Forwarded to Fantastical’s new event detection address, under a minute later I got the following suggested event notification from Fantastical on my Mac:</p>
+
+<pre><code>Title: Party for Hal at Heywood Floyd's house  
+Location: Heywood Floyd's house  
+Date: 7 June 2025, 12:00pm – 3:00pm  
+Note: "You don't have to bring anything."
+</code></pre>
+
+<p>Also included in the Note field was a link to the original message in Mail.</p>
+
+<p>In Apple Mail, Siri also suggested an event from the original email. After clicking “Add”, that event had the following details:</p>
+
+<pre><code>Title: Party with Floyd  
+Location: «empty»  
+Date: 7 June 2025, 12:00pm – 3:00pm  
+Note: «empty»
+</code></pre>
+
+<p>Nothing in Siri’s auto-detected event was wrong. Both got the date and time right. Siri’s title is fine — in real life, I’d know what that meant. But Fantastical’s title is perfect — it’s a party <em>for</em> Hal, <em>at</em> Heywood’s house. And Siri doesn’t include anything in the Note field, not even a link back to the original message, so it would be up to my own memory to remember where the party was.</p>
+
+<div>
+<a  title="Permanent link to ‘Fantastical Now Supports Event Detection From Forwarded Emails’"  href="https://daringfireball.net/linked/2025/06/03/fantastical-email-event-detection">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Jony Ive and Laurene Powell Jobs, Interviewed in the Financial Times</title>
 	<link rel="alternate" type="text/html" href="https://www.ft.com/content/7f0a45b0-a3cc-4e1c-be71-1b7b42958d4d" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wd5" />
@@ -1797,40 +1867,6 @@ currently deliver, they said.</p>
 
 <div>
 <a  title="Permanent link to ‘WSJ: ‘Apple Considers Raising iPhone Prices, Without Blaming Tariffs’’"  href="https://daringfireball.net/linked/2025/05/19/wsj-apple-iphone-pricing-tariffs">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Trump Tells Walmart to ‘Eat the Tariffs’</title>
-	<link rel="alternate" type="text/html" href="https://truthsocial.com/@realDonaldTrump/posts/114523638623110397" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wby" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/19/trump-walmart-tariffs" />
-	<id>tag:daringfireball.net,2025:/linked//6.41902</id>
-	<published>2025-05-19T20:17:29Z</published>
-	<updated>2025-05-19T20:47:36Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>The president of the United States, on his blog:</p>
-
-<blockquote>
-  <p>Walmart should STOP trying to blame Tariffs as the reason for
-raising prices throughout the chain. Walmart made BILLIONS OF
-DOLLARS last year, far more than expected. Between Walmart and
-China they should, as is said, “EAT THE TARIFFS,” and not charge
-valued customers ANYTHING. I’ll be watching, and so will your
-customers!!!</p>
-</blockquote>
-
-<p>F. Scott Fitzgerald wrote “The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function.” So I guess I’m wrong that Trump is a know-nothing ding-dong slipping rapidly into dementia, and in fact possesses a first-rate intelligence. Because it’s Trump — soon to win a Nobel Prize in economics for this keen insight — who has been braying to the world, non-stop, for years, <a href="https://youtu.be/WhR3i2UAGSQ?t=33">that tariffs are “a tax on a foreign country”</a>. </p>
-
-<p>So given that China pays for any tariffs the US imposes on Chinese-made goods, I, for one, don’t have the intellect to understand how there are any tariffs for Walmart to 
-eat. I’m sure Trump is right and Walmart — a company whose “always low prices” brand results in <a href="https://www.macrotrends.net/stocks/charts/WMT/walmart/net-profit-margin">net profit margins between 2–3%</a> — will somehow “eat the tariffs” without losing money. I don’t know why the WSJ Editorial Board <a href="https://www.wsj.com/opinion/donald-trumps-everyday-high-prices-kamala-walmart-price-hike-tariff-439cb183">is so upset about this</a> — the Republican Party has always been in favor of government price controls.</p>
-
-<div>
-<a  title="Permanent link to ‘Trump Tells Walmart to ‘Eat the Tariffs’’"  href="https://daringfireball.net/linked/2025/05/19/trump-walmart-tariffs">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
