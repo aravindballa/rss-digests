@@ -7,7 +7,72 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-02T20:17:33Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-03T02:38:54Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/06/apple_appeals_eu_interop_requirements" />
+	<link rel="shorturl" href="http://df4.us/wd4" />
+	<id>tag:daringfireball.net,2025://1.41944</id>
+	<published>2025-06-03T02:38:54Z</published>
+	<updated>2025-06-03T02:38:54Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">https://9to5mac.com/2025/06/02/apple-eu-interoperability-appeal/</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p><a href="https://9to5mac.com/2025/06/02/apple-eu-interoperability-appeal/">Benjamin Mayo, writing at 9to5Mac</a>:</p>
+
+<blockquote>
+  <p>Apple has appealed parts of the Digital Markets Act law citing
+user privacy concerns. Specifically, Apple is contesting the
+<a href="https://9to5mac.com/2025/03/19/eu-order-apple-interoperability/">interoperability requirements</a> that say data like
+notification content and WiFi networks should be made available to
+third-parties.</p>
+
+<p>Apple says the DMA as written allows others to “access personal
+information that even Apple doesn’t see”. This is because features
+like notification rendering and WiFi network data are currently
+handled on-device and stored in an encrypted fashion, so Apple
+cannot see that stuff. However, the DMA does not necessarily
+require third-party agents who would be able to access this same
+data to commit to the same standards of privacy and security.</p>
+
+<p>Here’s Apple’s latest statement on the matter, in full:</p>
+
+<blockquote>
+  <p>At Apple, we design our technology to work seamlessly together,
+so it can deliver the unique experience our users love and expect
+from our products. The EU’s interoperability requirements
+threaten that foundation, while creating a process that is
+unreasonable, costly, and stifles innovation. These requirements
+will also hand data-hungry companies sensitive information, which
+poses massive privacy and security risks to our EU users.
+Companies have already requested our users’ most sensitive data — from the content of their notifications, to a full history of
+every stored WiFi network on their device — giving them the
+ability to access personal information that even Apple doesn’t
+see. In the end, these deeply flawed rules that only target Apple — and no other company — will severely limit our ability to
+deliver innovative products and features to Europe, leading to an
+inferior user experience for our European customers. We are
+appealing these decisions on their behalf, and in order to
+preserve the high-quality experience our European customers
+expect.</p>
+</blockquote>
+</blockquote>
+
+<p>Apple’s full statement is worth reading closely. Specifically, this sentence jumped out to me: “In the end, these deeply flawed rules that only target Apple — and no other company — will severely limit our ability to deliver innovative products and features to Europe, leading to an inferior user experience for our European customers.” <a href="https://www.wsj.com/tech/apple-challenges-eu-order-to-increase-compatibility-with-rivals-products-52082b50?st=gzZzXt">The Wall Journal’s story on the appeal</a>, for example, didn’t include that portion of Apple’s statement. But that’s the part that explains what’s going to happen if the EU upholds these “interoperability” requirements, which are intended to require Apple to give away its own intellectual property as though Apple were a public utility. To cite just one example, the Commission’s March ruling requires Apple to make AirDrop available to third-party devices, as though AirDrop is an open standard. (It also requires Apple to allow AirDrop to be replaced on iOS devices, like an interchangeable component, with third-party file sharing software.)</p>
+
+<p>When you think about it, this is nothing like the EU’s recent-ish mandate that most electronic devices must support USB-C ports for charging. I still think that law was unnecessary — the market forces had worked, and the whole world had either already moved (like iPads did starting in 2018) or was on the cusp of moving to USB-C (like iPhones). But at least requiring the inclusion of USB-C for charging is actual open interoperability. USB comes from <a href="https://www.usb.org/">a legitimate industry consortium</a>. Same thing with the Chinese government <a href="https://daringfireball.net/2024/02/eu_rcs_imessage">seemingly forcing Apple’s hand to adopt RCS</a> in order to get the necessary <a href="https://www.miit.gov.cn/gzcy/yjzj/art/2023/art_2d5a7969581b4b12a78cd2c455649a8c.html">certifications for 5G cellular networking in China</a> — RCS is an industry standard protocol. Mandating the inclusion of a standardized port or standardized protocol is the sort of thing government regulatory bodies do. That’s very different from requiring Apple to open up Lightning or iMessage for other companies to use as though they’re open standards.</p>
+
+<p><a href="https://daringfireball.net/linked/2025/03/19/eu-apple-interop-requirements">The EC’s March mandate</a> basically says that third-party devices must be permitted to do everything Apple’s own devices do when it comes to communicating or interoperating with iPhones and iPads, even if that requires allowing those third-party companies to install and run system-level background processes with broad privileges on iOS. In fact, as Mayo alludes to above, in order to have the same capabilities as Apple’s own devices do, third-party system software extensions might need <em>broader</em> privileges.</p>
+
+<p>I’ve long seen that there are two ways Apple can comply with this mandate, if the EU court declines Apple’s appeal. The first is what most people are thinking, and surely what the European Commission’s bureaucrats are thinking: that Apple will somehow make all third-party devices as capable as Apple’s own when it comes to pairing with and communicating with iPhones and iPads. (And that when Apple is set to unveil new devices, they’ll share the details with third parties in advance so they can do the same things.) The second, though, is that Apple will limit its own devices <em>in the EU and only in the EU</em> to the same features available to third-party devices through open standards like Bluetooth. New features and entire devices will either come late, or never, to the EU. We’re already seeing that <a href="https://support.apple.com/en-us/120421">with iPhone Mirroring</a> — perhaps the single best feature Apple announced (and <a href="https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino">actually shipped</a>) last year. I use iPhone Mirroring every day while I’m working. We’re one week out from WWDC 2025 and iPhone Mirroring <em>still</em> isn’t available in the EU. I think it’s very clear that under the EC’s current DMA “interoperability” mandate, Apple would be required to somehow make it work with third-party devices and PCs. If AirDrop were brand new, users in the EU wouldn’t get that either, I suspect. And if this mandate holds up, EU users might <em>lose</em> AirDrop. The same is true of entire devices like AirPods and Apple Watch.</p>
+
+<p>Apple’s statement doesn’t say that complying with these breathtaking demands will adversely affect their customers around the world. They’re saying it will lead “to an inferior user experience for our European customers”. Mandating that the public has to be allowed to use the same doorways as a (say) hotel’s own staff doesn’t mean those existing doors will be opened to everyone. It could lead to those doors being closed to everyone. And all of a sudden no one staying at the hotel is getting food from the kitchen.</p>
+
+
+
+    ]]></content>
+  <title>★ Apple Appeals EU’s March Ruling on ‘Interoperability’ Requirements Under the DMA</title></entry><entry>
 	<title>WhatsApp for iPad</title>
 	<link rel="alternate" type="text/html" href="https://blog.whatsapp.com/its-here-introducing-whatsapp-for-ipad" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wd3" />
@@ -2073,174 +2138,4 @@ using the pre-release single-story ‘a’ before it was changed.</p>
 
 
     ]]></content>
-  <title>★ Single-Story a’s in Very Early Versions of Macintosh System 1</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/04/gonzales_rogers_apple_app_store_ruling" />
-	<link rel="shorturl" href="http://df4.us/wam" />
-	<id>tag:daringfireball.net,2025://1.41854</id>
-	<published>2025-05-01T02:46:59Z</published>
-	<updated>2025-05-02T04:22:38Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">Are the results of this disastrous for Apple’s App Store business? I don’t think so at all. Gonzales Rogers is demanding that Apple ... do what Phil Schiller recommended they do all along. But are the results of this disastrous for Apple’s reputation and credibility? It sure seems like it.
-</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>I’m linking <a href="https://www.techmeme.com/250430/p55#a250430p55">here to Techmeme’s roundup of news coverage and commentary</a>, but I highly recommend you start by reading <a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.364265/gov.uscourts.cand.364265.1508.0_2.pdf">Gonzalez Rogers’s 80-page decision</a>. It is excoriating. I’ve read few legal decisions quite like it. But it’s also incredibly cogent and plainly written.</p>
-
-<p>From the start:</p>
-
-<blockquote>
-  <p>To summarize: <em>One</em>, after trial, the Court found that Apple’s 30
-percent commission “allowed it to reap supracompetitive operating
-margins” and was not tied to the value of its intellectual
-property, and thus, was anticompetitive. Apple’s response: charge
-a <em>27 percent commission</em> (again tied to nothing) on off-app
-purchases, where it had previously charged nothing, and extend the
-commission for a period of seven days after the consumer
-linked-out of the app. Apple’s goal: maintain its anticompetitive
-revenue stream. <em>Two</em>, the Court had prohibited Apple from denying
-developers the ability to communicate with, and direct consumers
-to, other purchasing mechanisms. Apple’s response: impose <em>new</em>
-barriers and <em>new</em> requirements to increase friction and increase
-breakage rates with full page “scare” screens, static URLs, and
-generic statements. Apple’s goal: to dissuade customer usage of
-alternative purchase opportunities and maintain its
-anticompetitive revenue stream. In the end, Apple sought to
-maintain a revenue stream worth billions in direct defiance of
-this Court’s Injunction.</p>
-</blockquote>
-
-<p>There’s quite a bit of fury in those italics. Rule one when you’re in court, any court, is “Don’t piss off the judge.” Apple has absolutely infuriated Gonzales Rogers through actions that all of us saw as outrageous.</p>
-
-<blockquote>
-  <p>In stark contrast to Apple’s initial in-court testimony,
-contemporaneous business documents reveal that Apple knew exactly
-what it was doing and at every turn chose the most
-<em>anti</em>competitive option. To hide the truth, Vice-President of
-Finance, Alex Roman, outright lied under oath. Internally, Phillip
-Schiller had advocated that Apple comply with the Injunction, but
-Tim Cook ignored Schiller and instead allowed Chief Financial
-Officer Luca Maestri and his finance team to convince him
-otherwise. Cook chose poorly. The real evidence, detailed herein,
-more than meets the clear and convincing standard to find a
-violation. The Court refers the matter to the United States
-Attorney for the Northern District of California to investigate
-whether criminal contempt proceedings are appropriate.</p>
-
-<p>This is an injunction, not a negotiation. There are no do-overs
-once a party willfully disregards a court order. Time is of the
-essence. The Court will not tolerate further delays. As previously
-ordered, Apple will not impede competition. The Court enjoins
-Apple from implementing its new anticompetitive acts to avoid
-compliance with the Injunction. <b><i>Effective immediately</i></b>
-Apple will no longer impede developers’ ability to communicate with
-users nor will they levy or impose a new commission on off-app purchases.</p>
-</blockquote>
-
-<p>You know a judge is pissed when she busts out the bold italics. Later, on (page 21, citations omitted for readability):</p>
-
-<blockquote>
-  <p>Prior to the June 20 meeting, there were individuals within Apple
-who were advocating for a commission, and others advocating for no
-commission. Those advocating for a commission included Mr. Maestri
-and Mr. Roman. Mr. Schiller disagreed. In an email, Mr. Schiller
-relayed that, with respect to the proposal for “a 27% commission
-for 24 hours,” “I have already explained my many issues with the
-commission concept,” and that “clearly I am not on team
-commission/fee.” Mr. Schiller testified that, at the time, he “had
-a question of whether we would be able to charge a commission”
-under the Injunction, a concern which he communicated.</p>
-</blockquote>
-
-<p>Schiller comes across as Apple’s sole voice of reason, fairness, and dare I say honesty in this entire ruling. The only people in the world who seemed to think Apple could or should comply with the 2021 injunction (that apps be permitted to steer users to the web to make purchases) by charging a commission — any commission, let alone a 27 percent commission — on those web transactions were Apple’s finance team members, led by Luca Maestri and Alex Roman, and Tim Cook.</p>
-
-<blockquote>
-  <p>Unlike Mr. Maestri and Mr. Roman, Mr. Schiller sat through the
-entire underlying trial and actually read the entire 180-page
-decision. That Messrs. Maestri and Roman did neither, does not
-shield Apple of its knowledge (actual and constructive) of the
-Court’s findings.</p>
-</blockquote>
-
-<p>I mean Jesus H. Christ, that’s scathing. </p>
-
-<p>It’s worth pointing out that Luca Maestri is no longer Apple’s CFO. (<a href="https://www.apple.com/leadership/kevan-parekh/">Kevan Parekh is</a>.) Back in August, <a href="https://www.apple.com/newsroom/2024/08/apple-announces-chief-financial-officer-transition/">Apple announced</a> that Maestri was, effectively, retiring as CFO “as part of a planned succession”. Apple’s statement didn’t use the word <em>retiring</em>, but rather the word <em>transitioning</em>. With this ruling and Maestri’s central role in Apple’s decision to forge ahead with a compliance plan where they “allowed” steering to the web by charging the same effective commissions on web transactions as they do for in-app transactions, I now have to wonder whether Maestri retired or “retired”. “Cook chose poorly” (by following Maestri’s recommendation) is not the sort of sentence from a judge that keeps CFOs in their jobs.</p>
-
-<p>As for Alex Roman, I think he’s in some serious trouble. Like doing-time-in-the-clink trouble:</p>
-
-<blockquote>
-  <p>Despite its own considerable evaluation, during the first May 2024
-hearing, Apple employees attempted to mislead the Court by
-testifying that the decision to impose a commission was grounded
-in AG’s report. The testimony of Mr. Roman, Vice President of
-Finance, was replete with misdirection and outright lies. He even
-went so far as to testify that Apple did not look at comparables
-to estimate the costs of alternative payment solutions that
-developers would need to procure to facilitate linked-out
-purchases.</p>
-
-<p>The Court finds that Apple <em>did</em> consider the external
-costs developers faced when utilizing alternative payment
-solutions for linked out transactions, which conveniently exceeded
-the 3% discount Apple ultimately decided to provide by a safe
-margin. Apple <em>did not</em> rely on a substantiated bottoms-up analysis
-during its months-long assessment of whether to impose a
-commission, seemingly justifying its decision after the fact with
-the AG’s report.</p>
-
-<p>Mr. Roman did not stop there, however. He also testified that up
-until January 16, 2024, Apple had no idea what fee it would impose
-on linked-out purchases:</p>
-
-<blockquote>
-  <p>Q. And I take it that Apple decided to impose a 27 percent fee
- on linked purchases prior to January 16, 2024, correct?</p>
-
-<p>A. The decision was made that day.</p>
-
-<p>Q. It’s your testimony that up until January 16, 2024, Apple had
-no idea what — what fee it’s going to impose on linked purchases?</p>
-
-<p>A. That is correct.</p>
-</blockquote>
-
-<p>Another lie under oath: contemporaneous business documents reveal
-that on the contrary, the main components of Apple’s plan,
-including the 27% commission, were determined in July 2023.</p>
-
-<p>Neither Apple, nor its counsel, corrected the, now obvious, lies.
-They did not seek to withdraw the testimony or to have it stricken
-(although Apple did request that the Court strike <em>other</em>
-testimony). Thus, Apple will be held to have adopted the lies and
-misrepresentations to this Court.</p>
-</blockquote>
-
-<p>There’s so much more. <a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.364265/gov.uscourts.cand.364265.1508.0_2.pdf">The whole ruling</a> is compelling — and damning — reading.</p>
-
-<p>Keep in mind this whole thing stems from an injunction from a lawsuit filed by Epic Games <em>that Apple largely won</em>. The result of that lawsuit was basically, “<em>OK, Apple wins, Epic loses, but this whole thing where apps in the App Store aren’t allowed to inform users of offers available outside the App Store, or send them to such offers on the web (outside the app) via easily tappable links, is bullshit and needs to stop. If the App Store is not anticompetitive it should be able to compete with links to the web and offers from outside the App Store.</em>”</p>
-
-<p>Are the results of this disastrous for Apple’s App Store business? I don’t think so at all. Gonzales Rogers is demanding that Apple ... do what Phil Schiller recommended they do all along, which is to compete fair and square with purchases available on the web. She’s not demanding they do what, say, Tim Sweeney wanted them to do. She’s basically saying Phil Schiller was right. Read her entire ruling and it’s hard to imagine anyone disagreeing with that.</p>
-
-<p>But are the results of this disastrous for Apple’s reputation and credibility? It sure seems like it. But it would be worse — much worse — for Apple’s reputation if Phil Schiller weren’t still there. Without him, this ruling makes it sound like they’d be lost, both ethically and legally.</p>
-
-<p>I’ll give the final words to Gonzales Rogers’s own closing:</p>
-
-<blockquote>
-  <p>Apple <em>willfully</em> chose not to comply with this Court’s
-Injunction. It did so with the express intent to create <em>new</em>
-anticompetitive barriers which would, by design and in effect,
-maintain a valued revenue stream; a revenue stream previously
-found to be anticompetitive. That it thought this Court would
-tolerate such insubordination was a gross miscalculation. As
-always, the cover-up made it worse. For this Court, there is no
-second bite at the apple.</p>
-
-<p>It Is So Ordered.</p>
-</blockquote>
-
-
-
-    ]]></content>
-  <title>★ Judge Yvonne Gonzalez Rogers Rules, in Excoriating Decision, That Apple Violated Her 2021 Court Order Regarding App Store Anti-Steering Provisions</title></entry></feed><!-- THE END -->
+  <title>★ Single-Story a’s in Very Early Versions of Macintosh System 1</title></entry></feed><!-- THE END -->
