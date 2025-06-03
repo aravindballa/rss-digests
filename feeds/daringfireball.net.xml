@@ -7,7 +7,50 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-03T18:58:14Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-03T19:40:47Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Event Creation Still Largely Feels Like an Unsolved UI Problem</title>
+	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2011/05/17/fantastical" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wd7" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/03/event-creation-still-largely-feels-like-an-unsolved-ui-problem" />
+	<id>tag:daringfireball.net,2025:/linked//6.41947</id>
+	<published>2025-06-03T19:40:46Z</published>
+	<updated>2025-06-03T19:40:47Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>From my 2011 post linking to Fantastical 1.0:</p>
+
+<blockquote>
+  <p>Fantastical’s primary innovation is its natural language parser
+for event creation — you type something like “Yanks-Rays tonight
+at 6:40” and Fantastical not only parses that into a new event,
+but, using some very clever animation and design work, shows you
+what it thinks you mean before you hit return to actually create
+the new event. Watch their screencast to see what I mean.</p>
+
+<p>Four years ago I wrote a piece called “<a href="https://daringfireball.net/2007/03/deal_with_it">Deal With It</a>”, about how
+some UIs feel like going uphill and some feel like going downhill.
+An uphill UI feels like you’re fighting against the app; a
+downhill UI makes it feel like the app is helping you along. The
+example I chose to illustrate my point was event creation in iCal
+(uphill, and steep) vs. 37signals’s Backpack (downhill).
+Fantastical is an even better downhill UI for event creation.</p>
+</blockquote>
+
+<p>A friend texted me after my post earlier today, in which <a href="https://daringfireball.net/linked/2025/06/03/fantastical-email-event-detection">I wrote about Fantastical’s new AI-driven email forwarding service</a>. My friend wrote that he does this sort of thing with ChatGPT frequently, using photos of event posters he sees on the street or screenshots from event images in Instagram, with a prompt like “Create a Google Calendar link for these.” He concluded, “IMO calendar event entry is one of the most tedious UI problems that we’ve never truly solved.”</p>
+
+<p>I hadn’t revisited my 2007 “<a href="https://daringfireball.net/2007/03/deal_with_it">Deal With It</a>” piece in a while, but I just re-read it, and it holds up. I still feel like the UIs that most annoy me are the ones that give me the most fields to deal with. I mention instant messaging vs. email a lot in the piece, coming out squarely on the side of IM for communicating with friends, even for things that I admit probably should have been an email. The predominant messaging platforms of 2007 are now long gone — AIM, ICQ, Yahoo, etc. But those platforms lost only because they were surpassed, not because the basic idea was wrong. Messaging itself — iMessage, WhatsApp, Signal, etc. — is a zillion times more popular today. I almost <em>never</em> today think “Maybe that should have been an email...” when I text a friend. There’s just so much less to deal with. Today it’s more likely that I’ll send someone an email and think to myself “I probably should have just texted them that...”</p>
+
+<p>This is one way to frame the explosion in popularity of ChatGPT and its many competitors. They help you accomplish tasks that would <em>feel</em> far more tedious to do on your own than just telling them to do it for you with a sentence or two of plain English describing what you want done, perhaps including a photo or two. LLM chatbots are able to turn <em>feels like pedalling uphill</em> tasks — often just everyday ones — into <em>feels like coasting downhill</em> tasks.</p>
+
+<div>
+<a  title="Permanent link to ‘Event Creation Still Largely Feels Like an Unsolved UI Problem’"  href="https://daringfireball.net/linked/2025/06/03/event-creation-still-largely-feels-like-an-unsolved-ui-problem">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Fantastical Now Supports Event Detection From Forwarded Emails</title>
 	<link rel="alternate" type="text/html" href="https://flexibits.com/fantastical/forwardemails" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wd6" />
@@ -1822,53 +1865,6 @@ clear that there’s only one way to get a different result.</p>
 
 <div>
 <a  title="Permanent link to ‘Chad the Bird on ‘Star Wars’ Typography’"  href="https://daringfireball.net/linked/2025/05/19/chad-the-bird-on-star-wars-typography">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>WSJ: ‘Apple Considers Raising iPhone Prices, Without Blaming Tariffs’</title>
-	<link rel="alternate" type="text/html" href="https://www.wsj.com/tech/apple-iphone-price-increase-2eaebb14?st=P6hk65&amp;reflink=desktopwebshare_permalink" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wbz" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/19/wsj-apple-iphone-pricing-tariffs" />
-	<id>tag:daringfireball.net,2025:/linked//6.41903</id>
-	<published>2025-05-19T20:38:34Z</published>
-	<updated>2025-05-24T20:15:33Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Rolfe Winkler and Yang Jie, reporting last week for The Wall Street Journal (main link is a gift link, but also <a href="https://apple.news/AbU9x9Q0fRl-Y0cJR3QGmmg">here’s a News+ link</a>):</p>
-
-<blockquote>
-  <p>Apple is weighing price increases for its fall iPhone lineup, a
-step it is seeking to couple with new features and design changes,
-according to people familiar with the matter. The company is
-determined to avoid any scenario in which it appears to attribute
-price increases to U.S. tariffs on goods from China, where most
-Apple devices are assembled, the people said.</p>
-
-<p>The U.S. and China <a href="https://www.wsj.com/livecoverage/stock-market-today-tariffs-trade-war-05-12-2025">agreed Monday</a> to suspend most of the tariffs
-they had imposed on each other in a tit-for-tat trade war. But a
-20% tariff that President Trump imposed early in his second term
-on Chinese goods, citing what he said was Beijing’s role in the
-fentanyl trade, remains in place and covers smartphones. [...]</p>
-
-<p>For Apple’s most profitable, high-end phones, such as the Pro and
-Pro Max models, Chinese factories will continue to handle the bulk
-of production, people familiar with Apple’s supply chain said.
-While Indian factories are capable of producing Pro models,
-India’s infrastructure and technical capabilities aren’t yet
-sufficient to support mass production at the scale China can
-currently deliver, they said.</p>
-</blockquote>
-
-<p>Even if Trump <em>weren’t</em> a vindictive thin-skinned angry kook, I’m sure that if this year’s iPhones have higher prices because of Trump’s tariffs, Apple would not attribute the price increases to the tariffs. At least publicly. But Trump <em>is</em> a vindictive thin-skinned angry kook, <a href="https://daringfireball.net/linked/2025/05/15/trump-cook-apple-india">irritated even that Apple is shifting some iPhone production to India</a> (which <a href="https://daringfireball.net/2025/04/how_many_iphones_can_fit_on_a_freight_plane">does assemble iPhones already</a>, and has the capability of producing more) instead of the United States (which only has the capability of assembling iPhones, at <em>any</em> sort of scale, in the fever dreams of Trump’s addled mind). So of course no one at Apple is going to blame any price increases — if they do indeed go up — on the tariffs.</p>
-
-<p>But come on. If iPhone prices go up in September, everyone who isn’t drunk on MAGA juice is going to blame it on the tariffs. Like, even if Apple had been planning for years to raise prices for the iPhone 17 lineup — if price increases were already baked-in for this year’s models since before Trump was re-elected — now that the tariffs are here, everyone would attribute the price hikes to the tariffs. Especially after the summer of tariff-driven inflation I expect we’re about to go through.</p>
-
-<div>
-<a  title="Permanent link to ‘WSJ: ‘Apple Considers Raising iPhone Prices, Without Blaming Tariffs’’"  href="https://daringfireball.net/linked/2025/05/19/wsj-apple-iphone-pricing-tariffs">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
