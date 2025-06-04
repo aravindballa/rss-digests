@@ -7,7 +7,142 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-04T20:38:54Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-04T22:08:53Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Meta and Yandex’s ‘Local Mess’ Exploit Seemingly Only Works on Android</title>
+	<link rel="alternate" type="text/html" href="https://arstechnica.com/security/2025/06/meta-and-yandex-are-de-anonymizing-android-users-web-browsing-identifiers/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wde" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/04/meta-and-yandexs-local-mess-exploit-seemingly-only-works-on-android" />
+	<id>tag:daringfireball.net,2025:/linked//6.41954</id>
+	<published>2025-06-04T22:08:52Z</published>
+	<updated>2025-06-04T22:08:53Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Dan Goodin, writing at Ars Technica:</p>
+
+<blockquote>
+  <p>This abuse has been observed only in Android, and evidence
+suggests that the Meta Pixel and Yandex Metrica target only
+Android users. The researchers say it may be technically feasible
+to target iOS because browsers on that platform allow developers
+to programmatically <a href="https://bugs.webkit.org/show_bug.cgi?id=279249">establish localhost connections</a> that
+apps can monitor on local ports.</p>
+
+<p>In contrast to iOS, however, Android imposes fewer controls on
+local host communications and background executions of mobile
+apps, the researchers said, while also implementing stricter
+controls in app store vetting processes to limit such abuses. This
+overly permissive design allows Meta Pixel and Yandex Metrica to
+send web requests with web tracking identifiers to specific local
+ports that are continuously monitored by the Facebook, Instagram,
+and Yandex apps. These apps can then link pseudonymous web
+identities with actual user identities, even in private browsing
+modes, effectively de-anonymizing users’ browsing habits on sites
+containing these trackers.</p>
+</blockquote>
+
+<p>I’ll note that among the so-called <a href="https://daringfireball.net/2025/06/apple_appeals_eu_interop_requirements">“interoperability” requirements the European Commission is demanding of iOS</a> is for third-party apps to run, unfettered, in the background, because some of Apple’s own first-party software obviously runs in the background. And I’ll further note that Apple made clear, <a href="https://developer.apple.com/support/downloads/DMA-Interoperability-Dec-2024.pdf">back in its December 2024 report laying out its objections to the EC’s demands</a>, that:</p>
+
+<blockquote>
+  <p>No company has made more interoperability requests of Apple than
+Meta. In many cases, Meta is seeking to alter functionality in a
+way that raises concerns about the privacy and security of users,
+and that appears to be completely unrelated to the actual use of
+Meta external devices, such as Meta smart glasses and Meta Quests.</p>
+</blockquote>
+
+<p>This newly uncovered “Local Mess” exploit — which seemingly only works on Android — is exactly the sort of scheme Meta wants to pull on iOS: to track users across millions of websites while they justifiably believe their web browsing is sandboxed from all native apps.</p>
+
+<p>Back to Goodin:</p>
+
+<blockquote>
+  <p>Meta Pixel and Yandex Metrica are analytics scripts designed to
+help advertisers measure the effectiveness of their campaigns.
+Meta Pixel and Yandex Metrica are estimated to be installed on
+<a href="https://trends.builtwith.com/websitelist/Facebook-Pixel%20">5.8 million</a> and <a href="https://trends.builtwith.com/analytics/Yandex-Metrika">3 million</a> sites, respectively.</p>
+</blockquote>
+
+<p>Every one of the sites that includes these tracking scripts is complicit to some extent in the theft of hundreds of millions of Android users’ web browsing privacy.</p>
+
+<div>
+<a  title="Permanent link to ‘Meta and Yandex’s ‘Local Mess’ Exploit Seemingly Only Works on Android’"  href="https://daringfireball.net/linked/2025/06/04/meta-and-yandexs-local-mess-exploit-seemingly-only-works-on-android">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Meta and Yandex Have Both Been De-Anonymizing Android Users’ Ostensibly Sandboxed Private Web Browsing Identifiers</title>
+	<link rel="alternate" type="text/html" href="https://localmess.github.io/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wdd" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/04/meta-yandex-android-deanonymizing-web-ids" />
+	<id>tag:daringfireball.net,2025:/linked//6.41953</id>
+	<published>2025-06-04T21:53:45Z</published>
+	<updated>2025-06-04T21:56:07Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>A team of researchers has uncovered a scheme they’ve dubbed “Local Mess” — used by Meta since September 2024, and Russian search engine Yandex since 2017 (!) — to de-anonymize Android users web browsing across millions of websites that include Meta’s and Yandex’s respective tracking scripts. From their extensively detailed report:</p>
+
+<blockquote>
+  <p>These native Android apps receive browsers’ metadata, cookies and
+commands from the Meta Pixel and Yandex Metrica scripts embedded
+on thousands of web sites. These JavaScripts load on users’ mobile
+browsers and silently connect with native apps running on the same
+device through localhost sockets. As native apps access
+programmatically device identifiers like the <a href="https://support.google.com/googleplay/android-developer/answer/6048248">Android Advertising
+ID (AAID)</a> or handle user identities as in the case of Meta
+apps, this method effectively allows these organizations to <em>link
+mobile browsing sessions and web cookies to user identities</em>,
+hence de-anonymizing users’ visiting sites embedding their
+scripts.</p>
+
+<p>This web-to-app ID sharing method bypasses typical privacy
+protections such as clearing cookies, Incognito Mode and Android’s
+permission controls. Worse, it opens the door for potentially
+malicious apps eavesdropping on users’ web activity. [...]</p>
+
+<p>The entire flow of the _fbp cookie from web to native and the
+server is as follows:</p>
+
+<ol>
+<li>The user opens the native Facebook or Instagram app, which
+eventually is sent to the background and creates a background
+service to listen for incoming traffic on a TCP port (12387 or
+12388) and a UDP port (the first unoccupied port in
+12580-12585). Users must be logged-in with their credentials on
+the apps.</li>
+<li>The user opens their browser and visits a website integrating
+the Meta Pixel.</li>
+<li>At this stage, websites may ask for consent depending on the
+website’s and visitor’s locations.</li>
+<li>The Meta Pixel script sends the <a href="https://localmess.github.io/#about_fbp">_fbp cookie</a> to the
+native Instagram or Facebook app via WebRTC (STUN) SDP Munging.</li>
+<li>The Meta Pixel script also sends the _fbp value in a request to
+https://www.facebook.com/tr along with other parameters such as
+page URL (dl), website and browser metadata, and the <a href="https://web.archive.org/web/20250531104925/https://developers.facebook.com/docs/meta-pixel/reference/">event
+type</a> (ev) (e.g., PageView, AddToCart, Donate, Purchase).</li>
+<li>The Facebook or Instagram apps receive the _fbp cookie from the
+Meta Pixel JavaScript running on the browser. The apps transmit
+_fbp as a GraphQL mutation to
+(https://graph[.]facebook[.]com/graphql) along with other
+persistent user identifiers, linking users’ fbp ID (web visit)
+with their Facebook or Instagram account.</li>
+</ol>
+</blockquote>
+
+<p>The same day the researchers published this report, Meta stopped doing it.</p>
+
+<p><a href="https://duckduckgo.com/?q=site%3Adaringfireball.net+facebook+criminal+enterprise&amp;ia=web">I’ve said it before</a> but not in a while: Meta is a criminal enterprise. What they’ve done here may not have broken any laws, but there certainly should be laws against it. And in terms of simple common sense, the entire elaborate scheme <em>only</em> exists to circumvent features in Android meant to <em>prevent</em> native apps from tracking you while you use your web browser. Saying it’s not illegal doesn’t mean it isn’t theft. It’s like the privacy equivalent of <a href="https://www.theguardian.com/us-news/2025/may/29/jamie-raskin-democrat-trump-crypto-investigation">Trump’s cryptocurrency grift</a>, which might not violate any current laws, but clearly exists as a bribery scheme.</p>
+
+<div>
+<a  title="Permanent link to ‘Meta and Yandex Have Both Been De-Anonymizing Android Users’ Ostensibly Sandboxed Private Web Browsing Identifiers’"  href="https://daringfireball.net/linked/2025/06/04/meta-yandex-android-deanonymizing-web-ids">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Trump Administration’s ‘MAHA’ Report Cites Studies That Don’t Exist</title>
 	<link rel="alternate" type="text/html" href="https://www.notus.org/health-science/make-america-healthy-again-report-citation-errors" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wdc" />
@@ -1733,123 +1868,6 @@ whether investments may be facilitating the annexation of Taiwan.</p>
 
 <div>
 <a  title="Permanent link to ‘Patrick McGee on The Daily Show With Jon Stewart’"  href="https://daringfireball.net/linked/2025/05/22/mcgee-daily-show">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>24 Years After ‘Sorry, Steve: Here’s Why the Apple Stores Won’t Work’</title>
-	<link rel="alternate" type="text/html" href="https://ritholtz.com/2025/05/sorry-steve/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wc7" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/22/ritholtz-sorry-steve" />
-	<id>tag:daringfireball.net,2025:/linked//6.41911</id>
-	<published>2025-05-22T21:04:54Z</published>
-	<updated>2025-05-22T22:35:01Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Barry Ritholtz, in an excerpt from his brand-new book, <em><a href="https://www.hownottoinvestbook.com/">How Not to Invest</a></em>, marking the occasion of the 24th anniversary of <a href="https://www.bloomberg.com/news/articles/2001-05-20/commentary-sorry-steve-heres-why-apple-stores-wont-work">Cliff Edwards’s claim chowder hall of famer</a>, predicting doom for Apple’s then-new foray into its own chain of retail stores:</p>
-
-<blockquote>
-  <p>There are many genuinely revolutionary products and services that,
-when they come along, change everything. Pick your favorite: the
-iPod and iPhone, Tesla Model S, Netflix streaming, Amazon Prime,
-AI, perhaps even Bitcoin. Radical products break the mold; their
-difference and unfamiliarity challenge us. We (mostly) cannot
-foretell the impact of true innovation. Then, once it’s a wild
-success, we have a hard time recalling how life was before that
-product existed.</p>
-
-<p>The Apple Store was clearly one of those game-changers: By 2020,
-Apple had opened over 500 stores in 25 countries. They are among
-the top-tier retailers and the fastest to reach a billion dollars
-in annual sales. They achieved the highest sales per square foot
-in 2012 among all retailers. By 2017, they were generating $5,546
-per square foot in revenues, twice the dollar amount of Tiffany’s,
-their closest competitor. Apple no longer breaks out the specifics
-of its stores in its quarterly reports, but estimates of store
-revenue are about $2.4 billion per month.</p>
-</blockquote>
-
-<p>May 2001 is so long ago, Daring Fireball hadn’t yet launched. So I can’t say I predicted the success of Apple’s retail stores. But what I recall thinking, at the time, was that it <em>might</em> work, and was definitely worth trying. Here’s the nut of Edwards’s 2001 piece:</p>
-
-<blockquote>
-  <p>Since PC retailing gross margins are normally 10% or less, Apple
-would have to sell $12 million a year per store to pay for the
-space. Gateway does about $8 million annually at each of its
-Country Stores. Then there’s the cost of construction, hiring
-experienced staff. “I give them two years before they’re turning
-out the lights on a very painful and expensive mistake,” says
-Goldstein. [...]</p>
-
-<p>What’s more, Apple’s retail thrust could be one step forward, two
-steps back in terms of getting Macs in front of customers. Since
-most Mac fans already know where to buy, much of the sales from
-Apple’s stores could come out of the hides of existing Mac
-dealers. That would bring its already damaged relations with
-partners to new lows. In early 1999, Best Buy Co. dropped
-the iMac line after refusing a Jobs edict that it stock all eight
-colors. Sears, Roebuck &amp; Co. late last year dumped Apple,
-sources say, after concluding that sales were too hit or miss.
-And in recent weeks, Mac-only chains such as The Computer Store
-and ComputerWare have closed down, citing weak margins. Now,
-faced with competition from Apple, others may cut back. “When you
-choose to compete with your retailers, clearly that’s not a
-comfortable situation,” says CompUSA Chief Operating Officer
-Lawrence N. Mondry.</p>
-</blockquote>
-
-<p>Two decades later, talking about the importance of Sears as a retail partner looks pretty dumb. But to me, the obvious problem with this argument in 2001 is that if Apple’s existing retail partners in 2001 were doing an even vaguely good job, why was the Mac’s market share so low? At the time they were only a handful of years past the crisis where the company almost went bankrupt. Apple, in the old days, had some fantastic small mom-and-pop official retailers, but they were <em>small</em>. And the big partners, like CompUSA, absolutely sucked at showcasing the Mac. Their demo machines were frequently broken.</p>
-
-<p>If you understood and believed that the Mac was a superior product, it was easy to conclude that its relatively low market share must have been a function of problems with its marketing and retail strategy. Gateway’s fundamental problem had nothing to do with the fact that it was running its own retail stores — it was that they were selling shitty computers. Apple was selling great computers, but had shitty retail partners.</p>
-
-<p>(I’m a longtime fan of Ritholtz’s writing; I’ve got a copy of 
-<em><a href="https://www.hownottoinvestbook.com/">How Not to Invest</a></em> — <a href="https://bookshop.org/a/56320/9781804091197">here’s a make-me-rich Bookshop.org link</a> — and it’s next on my reading list after I finish Patrick McGee’s <em><a href="https://bookshop.org/a/56320/9781668053379">Apple in China</a></em>.)</p>
-
-<div>
-<a  title="Permanent link to ‘24 Years After ‘Sorry, Steve: Here’s Why the Apple Stores Won’t Work’’"  href="https://daringfireball.net/linked/2025/05/22/ritholtz-sorry-steve">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Sam Altman and Jony Ive Introduce ‘io’, the Device-Making Partnership Between OpenAI and LoveFrom</title>
-	<link rel="alternate" type="text/html" href="https://openai.com/sam-and-jony/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wc6" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/21/sam-and-jony-io" />
-	<id>tag:daringfireball.net,2025:/linked//6.41910</id>
-	<published>2025-05-21T17:07:57Z</published>
-	<updated>2025-05-21T17:09:24Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>No details on <em>what</em> yet, but a lovely little 9-minute video on <em>why</em>.</p>
-
-<p>Sam Altman:</p>
-
-<blockquote>
-  <p>“What it means to use technology can change in a profound way. I
-hope we can bring some of the delight, wonder and creative spirit
-that I first felt using an Apple Computer 30 years ago.”</p>
-</blockquote>
-
-<p>Jony Ive:</p>
-
-<blockquote>
-  <p>“I have a growing sense that everything I have learned over the
-last 30 years has led me to this moment. While I am both anxious
-and excited about the responsibility of the substantial work
-ahead, I am so grateful for the opportunity to be part of such an
-important collaboration. The values and vision of Sam and the
-teams at OpenAI and io are a rare inspiration.”</p>
-</blockquote>
-
-<p>I am not a fan of the lowercase styling of “io”, but otherwise shoot this into my veins. This industry needs a heavy dose of new ideas for new devices. This is just a vibes teaser, but the vibe is a shot across the bow. It conveys grand ambition, but without pretension. To say I’m keen to get my hands on what they’re making is an understatement.</p>
-
-<div>
-<a  title="Permanent link to ‘Sam Altman and Jony Ive Introduce ‘io’, the Device-Making Partnership Between OpenAI and LoveFrom’"  href="https://daringfireball.net/linked/2025/05/21/sam-and-jony-io">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
