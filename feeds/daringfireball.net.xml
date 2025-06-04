@@ -7,7 +7,57 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-04T22:08:53Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-04T22:58:58Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Apple Might Release an iPhone ‘Air’ Battery Case, But What They Ought to Release Is an Updated MagSafe Battery Pack</title>
+	<link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/apple-plans-iphone-release-schedule-shakeup-new-styles?rc=jfy0lk" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wdf" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/04/apple-iphone-air-battery-case-or-pack" />
+	<id>tag:daringfireball.net,2025:/linked//6.41955</id>
+	<published>2025-06-04T22:58:57Z</published>
+	<updated>2025-06-04T22:58:58Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Wayne Ma, reporting last month at The Information (a paywalled website so obnoxious that they force $300/year subscribers <a href="https://bsky.app/profile/gruber.foo/post/3lqstgf7nt62r">to click through an article-blocking popover</a> pitching them on upgrading to a $500/year subscription), and <a href="https://www.macrumors.com/2025/05/03/iphone-17-air-battery-case-report/">summarized here by MacRumors</a>:</p>
+
+<blockquote>
+  <p>However, the smaller size of the new thin model will require
+compromises to its capabilities. The device will contain only a
+single speaker instead of the two speakers that Apple’s other
+phones usually have, one rear camera lens instead of the three in
+Apple’s flagship phones, and reduced battery life. Internal
+testing shows that battery life for the thin model will fall short
+of that of previous iPhones. The percentage of users who can go a
+single day without recharging the thin phone will be between 60%
+and 70%. For other models, that metric is between 80% and 90%, one
+of the people said.</p>
+
+<p>To solve this, Apple is developing an optional accessory — a
+phone case meant for the thin model that also contains a battery
+pack, according to three people familiar with the matter.</p>
+</blockquote>
+
+<p>It sort of goes without saying that the super-thin iPhone will have less battery life. How could it be otherwise? If 60–70% of users can still get through the day on a charge while using it, that sounds like it’s the right time for Apple to try such a phone. People who currently run their phones down to the red each day aren’t going to think “<em>Hey, maybe I should try this crazy thin iPhone.</em>”</p>
+
+<p>What disappoints me is Ma’s reporting of an iPhone Air-only battery <em>case</em> from Apple. What I very much want Apple to make is a sequel to its amazing <a href="https://support.apple.com/en-us/111857">MagSafe Battery Pack with a Lightning connector</a> that debuted in 2020 but was discontinued in 2023 (the year that the iPhones 15 switched from Lightning to USB-C). I’ve got two of these and they’re still, by far, my favorite iPhone battery packs. They’re the only Lightning devices left in my life and they’re so good I’m happy to still keep one Lightning cable in my travel bag to use them.</p>
+
+<p>There are a zillion third-party “magnetic” (but not “MagSafe”) battery packs that work with iPhones, and most of them have larger batteries than Apple’s. But part of what makes Apple’s MagSafe Battery Pack great is that it’s so small, and shaped so comfortably. I don’t need a magnetic battery pack that tries to double my iPhone’s battery life. I just need like 1.5× on occasional phone-heavy days (like next Monday’s WWDC keynote), and Apple’s does just that. No third-party magnetic battery pack I’ve tried comes even close to attaching as securely to the back of the iPhone as Apple’s. And Apple’s has special integration with iOS, which gives you a cool animation on the screen when it’s first attached, and updates the battery life of the pack in the Battery widget alongside the iPhone’s own battery. Most importantly, with Apple’s MagSafe Battery Pack, iOS is smart, and doesn’t keep sucking juice when the phone has recharged up to 70% or so. By only slurping juice when it’s more efficient to do so, you get more effective battery life out of a noticeably slimmer battery back. It’s just so much better than any other battery pack I’ve tried.</p>
+
+<p>This supposed iPhone “Air” seems like the perfect time to bring back the MagSafe Battery Pack, this time with USB-C — and unlike a model-specific case, it’d work with all MagSafe iPhones, not just the Air. (<a href="https://daringfireball.net/2025/02/the_iphone_16e">Sorry, 16e owners</a>.) See also:</p>
+
+<ul>
+<li>Chance Miller, writing back in November for 9to5Mac: “<a href="https://9to5mac.com/2024/11/18/iphone-16-magsafe-battery-pack-memories/">Apple’s MagSafe Battery Pack for iPhone Shouldn’t Have Been a One-And-Done Experiment</a>”</li>
+<li>Steven Aquino, writing back in September while he was still Forbes contributor: “<a href="https://www.forbes.com/sites/stevenaquino/2024/09/30/apples-magsafe-battery-pack-is-owed-an-ode-in-terms-of-accessibility/">Apple’s MagSafe Battery Pack Is Owed an Ode in Terms of Accessibility</a>”</li>
+</ul>
+
+<div>
+<a  title="Permanent link to ‘Apple Might Release an iPhone ‘Air’ Battery Case, But What They Ought to Release Is an Updated MagSafe Battery Pack’"  href="https://daringfireball.net/linked/2025/06/04/apple-iphone-air-battery-case-or-pack">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Meta and Yandex’s ‘Local Mess’ Exploit Seemingly Only Works on Android</title>
 	<link rel="alternate" type="text/html" href="https://arstechnica.com/security/2025/06/meta-and-yandex-are-de-anonymizing-android-users-web-browsing-identifiers/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wde" />
@@ -1836,38 +1886,6 @@ gift of fire.</p>
 
 <div>
 <a  title="Permanent link to ‘Excerpt From Patrick McGee’s ‘Apple in China’’"  href="https://daringfireball.net/linked/2025/05/22/excerpt-from-patrick-mcgees-apple-in-china">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Patrick McGee on The Daily Show With Jon Stewart</title>
-	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=NAj9zB4vaZc" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wc8" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/22/mcgee-daily-show" />
-	<id>tag:daringfireball.net,2025:/linked//6.41912</id>
-	<published>2025-05-22T21:24:58Z</published>
-	<updated>2025-05-22T22:33:20Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>The Daily Show:</p>
-
-<blockquote>
-  <p>Award-winning journalist Patrick McGee joins Jon Stewart to
-discuss how Apple built China in his new book <em><a href="https://bookshop.org/a/56320/9781668053379">Apple in China</a>: The
-Capture of the World’s Greatest Company</em>. They talk about Apple
-“sleepwalking” into this crisis, building a competitive market in
-Xi Jinping’s authoritarian state, the vocational training that
-boosted rivals, how Trump’s attempted Apple boycott backfired, and
-whether investments may be facilitating the annexation of Taiwan.</p>
-</blockquote>
-
-<p>Terrific interview. I’m a few chapters into the book, and it’s good. McGee’s a good writer and a serious reporter — the depth of his research shows. It feels not like a few stories padded out to book length, but instead the distillation of a complex story that demands an entire book to tell.</p>
-
-<div>
-<a  title="Permanent link to ‘Patrick McGee on The Daily Show With Jon Stewart’"  href="https://daringfireball.net/linked/2025/05/22/mcgee-daily-show">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
