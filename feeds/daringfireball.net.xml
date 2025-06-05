@@ -7,7 +7,64 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-05T21:06:48Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-05T21:34:55Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Judge Denies Apple’s Appeal; Ordered to Keep Allowing Link-Outs to the Web in the U.S. App Store</title>
+	<link rel="alternate" type="text/html" href="https://www.theverge.com/news/679946/apple-rejected-court-attempt-to-stop-app-store-web-links" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wdj" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/05/apple-appeal-denied-antisteering" />
+	<id>tag:daringfireball.net,2025:/linked//6.41959</id>
+	<published>2025-06-05T21:33:42Z</published>
+	<updated>2025-06-05T21:34:55Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jacob Kastrenakes, The Verge:</p>
+
+<blockquote>
+  <p>In April, a federal judge demanded that Apple begin allowing web
+links, cease restricting how links are formatted, and enable
+developers to offer external payment options without giving the
+company a cut of their revenue. Apple promptly appealed and
+requested that the order be put on hold until the legal
+proceedings were finished.</p>
+
+<p>But an appeals court has now denied Apple’s emergency request to
+block the order. The court said it was “not persuaded” that
+blocking the order was appropriate after weighing Apple’s chances
+to succeed on appeal, whether Apple would be irreparably harmed,
+whether other parties would be hurt if the order is halted, and
+what supports the public interest.</p>
+
+<p>The rejection bodes poorly for Apple’s chance of overturning the
+order, which stems from a lawsuit by Epic Games.</p>
+</blockquote>
+
+<p>Here’s the denial <a href="https://www.courtlistener.com/docket/70190916/40/epic-games-inc-v-apple-inc/">from the United States Court of Appeals for the Ninth Circuit</a>, nearly in its entirety, omitting only legal citations:</p>
+
+<blockquote>
+  <p>Apple’s Emergency Motion Under Circuit Rule 27-3 for a Partial
+Stay Pending Appeal is DENIED. In deciding whether to impose a
+stay, we consider: “(1) whether the stay applicant has made a
+strong showing that he is likely to succeed on the merits; (2)
+whether the applicant will be irreparably injured absent a stay;
+(3) whether issuance of the stay will substantially injure the
+other parties interested in the proceeding; and (4) where the
+public interest lies.” Apple “bears the burden of showing that the
+circumstances justify an exercise of [our] discretion.” After
+reviewing the relevant factors, we are not persuaded that a stay
+is appropriate.</p>
+</blockquote>
+
+<p>The earliest this might get overturned, it seems to me, is the end of this year, but I get the feeling this injunction is here to stay.</p>
+
+<div>
+<a  title="Permanent link to ‘Judge Denies Apple’s Appeal; Ordered to Keep Allowing Link-Outs to the Web in the U.S. App Store’"  href="https://daringfireball.net/linked/2025/06/05/apple-appeal-denied-antisteering">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Marco Arment on Apple’s Decision to Decline Appearing on The Talk Show Live From WWDC</title>
 	<link rel="alternate" type="text/html" href="https://marco.org/2025/05/30/retreat" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wdi" />
@@ -1835,62 +1892,6 @@ redesign OpenAI’s app for a new generation of consumers.</p>
 
 <div>
 <a  title="Permanent link to ‘Gurman on the Team Jony Ive Has Assembled at io’"  href="https://daringfireball.net/linked/2025/05/22/gurman-io-team">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>MG Siegler, Predicting Epic’s Win in the Fight to Get Fortnite Back in the App Store</title>
-	<link rel="alternate" type="text/html" href="https://spyglass.org/epics-feigning-floundering-to-keep-apple-under-pressure/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wcb" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/22/siegler-sweeney-fortnite-bank-shot" />
-	<id>tag:daringfireball.net,2025:/linked//6.41915</id>
-	<published>2025-05-22T22:45:11Z</published>
-	<updated>2025-05-22T22:45:12Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>MG Siegler, back on Sunday, <em>before</em> Judge Gonzales Rogers’s “<em>settle this between yourselves or I’ll see you in court next week</em>” <a href="https://daringfireball.net/linked/2025/05/19/the-first-rule-of-legal-fight-club">order on Monday</a>: </p>
-
-<blockquote>
-  <p>Again, Sweeney is not a moron, he has to know all of this. But why
-simply sit quietly when you have an excuse to poke the bear again
-and raise hell for your cause? So that’s what he’s doing. He
-wasn’t going to win the legal fight, but he could win the
-political one. And now he’s not going to win <em>this</em> legal fight,
-but he can win the pressure campaign. Especially important in the
-weeks leading up to WWDC...</p>
-
-<p>If I’m him, here’s the general game plan:</p>
-
-<ol>
-<li>Re-submit Fortnite to the US App Store even though you have no
-legal grounds to do so. No one will care about that. They will
-have just read about your legal win and assume you won
-everything and so Fortnite can return — even though this
-particular aspect of the case had nothing to do with that.</li>
-<li>When Apple rejects (or refuses to rule) on the new submission,
-pull your app around the world under the notion that the
-unified apps all have to be updated in unison, including an
-element bringing the US back to the App Store. So yeah, blame
-Apple for this. It may even technically be true, but it doesn’t
-matter. Again, it’s a perception thing.</li>
-<li><a href="https://www.bloomberg.com/news/articles/2025-05-16/apple-denies-blocking-fortnite-from-eu-stores-in-epic-dispute?ref=spyglass.org">File a new legal claim against Apple</a> for blocking your
-submission in light of the recent ruling. Again, this has no
-legal grounds, but perhaps the Judge who issued that ruling is,
-in fact, <a href="https://spyglass.org/tear-down-the-app-store-walls/">pissed off enough</a> to entertain this in some way — even if just in weighing in on it to dismiss it
-sympathetically, thus generating more press, instead of
-immediately dismissing it, legally.</li>
-<li>Give more interviews about all of the above in the coming
-weeks. Again, leading up to WWDC. Keep the pressure on.</li>
-</ol>
-</blockquote>
-
-<p><a href="https://daringfireball.net/linked/2025/05/21/fortnite-returns">I called it a double bank shot</a> when Fortnite appeared back in the App Store, but MG described it before it happened. It worked.</p>
-
-<div>
-<a  title="Permanent link to ‘MG Siegler, Predicting Epic’s Win in the Fight to Get Fortnite Back in the App Store’"  href="https://daringfireball.net/linked/2025/05/22/siegler-sweeney-fortnite-bank-shot">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
