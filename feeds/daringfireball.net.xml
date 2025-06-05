@@ -7,7 +7,67 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-05T00:02:38Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-05T01:52:51Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	
+	<link rel="alternate" type="text/html" href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=RSS&amp;utm_campaign=q12025" />
+	<link rel="shorturl" href="http://df4.us/wdh" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2025/06/workos_scalable_secure_authent_4" />
+	<id>tag:daringfireball.net,2025:/feeds/sponsors//11.41957</id>
+	<author><name>Daring Fireball Department of Commerce</name></author>
+	<published>2025-06-05T01:52:51Z</published>
+	<updated>2025-06-05T01:52:51Z</updated>
+	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
+<p>Modern authentication should be seamless and secure.  WorkOS makes it easy to integrate features like MFA, SSO, and RBAC.</p>
+
+<p>Whether you’re replacing passwords, stopping fraud, or adding enterprise auth, WorkOS can help you build frictionless auth that scales. </p>
+
+<p>Future-proof your authentication stack with the identity layer trusted by OpenAI, Cursor, Perplexity, and Vercel.  </p>
+
+<p>Upgrade your auth today. </p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS: Scalable, Secure Authentication’"  href="https://daringfireball.net/feeds/sponsors/2025/06/workos_scalable_secure_authent_4">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+	<title>[Sponsor] WorkOS: Scalable, Secure Authentication</title></entry><entry>
+	<title>9to5Mac Reports Apple Notes Will Gain Markdown Export at WWDC, and, You’ll Be Unsurprised to Know, I Have Thoughts</title>
+	<link rel="alternate" type="text/html" href="https://9to5mac.com/2025/06/03/exclusive-ios-26-messages-carplay-more/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wdg" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/04/apple-notes-markdown" />
+	<id>tag:daringfireball.net,2025:/linked//6.41956</id>
+	<published>2025-06-05T01:44:09Z</published>
+	<updated>2025-06-05T01:52:18Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Marcus Mendes, in a piece at 9to5Mac with multiple spoilers for next week’s keynote:</p>
+
+<blockquote>
+  <p>Apple is working on supporting the ability to export notes in
+Markdown from Apple Notes, which is something third-party apps
+have supported for years. Granted, this is a niche feature, but as
+a fierce participant in the niche, I can confirm: this is huge.</p>
+</blockquote>
+
+<p>When this story first started spreading this morning, it was getting repeated as Notes “gaining Markdown support”, which implied something like <a href="https://bear.app/">Bear</a> or <a href="https://obsidian.md/">Obsidian</a>, where you can type Markdown syntax characters while editing, and perhaps optionally see the Markdown syntax in your notes. “Markdown notes app” is really like a class of notes apps unto itself.</p>
+
+<p>Some people find this surprising, but I personally don’t want to use a Markdown notes app. <a href="https://daringfireball.net/2004/03/dive_into_markdown">I created Markdown two decades ago</a> and have used it ever since for one thing and one thing only: writing for the web at Daring Fireball. My <a href="https://daringfireball.net/projects/markdown/">original description</a> of what it is still stands: “Markdown is a text-to-HTML conversion tool for web writers.” Perhaps an even better description of Markdown is Matthew Butterick’s, <a href="https://docs.racket-lang.org/pollen/quick-tour.html#%28part._.Markdown_mode%29">from the documentation for Pollen</a>: “Markdown is a simplified notation system for HTML.”</p>
+
+<p>The other great use case for Markdown is in a context where you either <em>need</em> or just <em>want</em> to be saving to a plain text file or database field. That’s not what Apple Notes is or should be. I can see why many technically-minded people want to use Markdown “everywhere”. It’s quite gratifying that Markdown has not only become so popular, but <a href="https://daringfireball.net/2004/03/introducing_markdown">after 21 years</a>, seemingly continues to grow in popularity, to the point now where there clearly are a lot of people who seemingly enjoy writing in Markdown more than even I do. But I think it would be a huge mistake for Apple to make Apple Notes a “Markdown editor”, even as an option. It’s trivial to create malformed Markdown syntax; it shouldn’t be possible to have a malformed note in Apple Notes. I <em>craft</em> posts for Daring Fireball; I dash off notes in Apple Notes.</p>
+
+<p>Apple Notes offers a great WYSIWYG rich text editing interface that works great on an iPhone and even better on a Mac, which I think is exactly appropriate. Particularly clever are the limited formatting options, where you don’t pick a font per se, but rather only from a set of predefined styles, like headings, lists, and block quote. It’s not nerdy at all. That’s the Macintosh way. (But that’s why I think Apple Notes’s use of hashtags, rather than tokenized tags that can contain spaces, <a href="https://support.apple.com/guide/mac-help/tag-files-and-folders-mchlp15236/mac">like in the Finder</a>, and don’t need to be prefixed with an ugly and nerdy-looking <code>#</code> character, was an enormous mistake on Apple’s part. Notes using hashtags is like if the Finder disallowed spaces and uppercase letters in filenames.)</p>
+
+<p>But Markdown <em>export</em> from Notes? That sounds awesome. Frankly, perhaps the biggest problem with Apple Notes is that its export functionality is rather crude — <a href="https://support.apple.com/guide/iphone/export-or-print-notes-iphdf551cfa2/ios">PDF and, of all formats, Pages</a>. Exporting and/or copying the selected text as Markdown would be pretty cool. Very curious to see how they handle images though, if this rumor is true.</p>
+
+<div>
+<a  title="Permanent link to ‘9to5Mac Reports Apple Notes Will Gain Markdown Export at WWDC, and, You’ll Be Unsurprised to Know, I Have Thoughts’"  href="https://daringfireball.net/linked/2025/06/04/apple-notes-markdown">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple Might Release an iPhone ‘Air’ Battery Case, But What They Ought to Release Is an Updated MagSafe Battery Pack</title>
 	<link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/apple-plans-iphone-release-schedule-shakeup-new-styles?rc=jfy0lk" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wdf" />
@@ -1825,88 +1885,6 @@ for answers, wherever they may lead.</p>
 
 	]]></content>
   </entry><entry>
-	<title>Excerpt From Patrick McGee’s ‘Apple in China’</title>
-	<link rel="alternate" type="text/html" href="https://www.thetimes.com/business-money/technology/article/how-apple-helped-china-become-americas-biggest-tech-rival-8f83tttv5" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wc9" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/22/excerpt-from-patrick-mcgees-apple-in-china" />
-	<id>tag:daringfireball.net,2025:/linked//6.41913</id>
-	<published>2025-05-22T21:32:20Z</published>
-	<updated>2025-05-24T20:15:23Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>The Sunday Times of London ran a good excerpt from Patrick McGee’s <em><a href="https://bookshop.org/a/56320/9781668053379">Apple in China</a></em> (<a href="https://stocks.apple.com/A9MEOjMcuTmymeN9ncI88kw">News+ link</a>, in case you need it):</p>
-
-<blockquote>
-  <p>The ripple effect from Apple’s investments across Chinese industry
-was accelerated by a rule imposed by Apple that its suppliers
-could be no more than 50 per cent reliant on the tech giant for
-their revenues. This was to ensure that a supplier wouldn’t go
-bust overnight if a new Apple design did away with components it
-manufactured. So as iPhone volumes soared from under ten million
-units on its launch in 2007 to more than 230 million in 2015,
-Apple would encourage its suppliers to grow their non-Apple
-business just as quickly. The upshot of this policy was that Apple
-gave birth to the Chinese smartphone industry.</p>
-
-<p>In 2009 most smartphones sold in China were produced by Nokia,
-Samsung, HTC and BlackBerry. But as Apple taught China’s supply
-chain how to perfect multi-touch glass and make the thousand
-components within the iPhone, those suppliers took what they knew
-and offered it to Chinese companies led by Huawei, Xiaomi, Vivo
-and Oppo. Result: the local market share of such brands grew from
-10 per cent in 2009 to 35 per cent by 2011, and then to 74 per
-cent by 2014, according to Counterpoint Research. It’s no
-exaggeration to say the iPhone didn’t kill Nokia; Chinese
-imitators of the iPhone did. And the imitations were so good
-because Apple trained all its suppliers.</p>
-
-<p>To get this message to Beijing, Tim Cook and his deputies visited
-Zhongnanhai, the citadel of communist power near the Forbidden
-City, in May 2016. They explained that Apple wasn’t just creating
-millions of jobs; it supported entire industries by facilitating
-an epic transfer of “tacit knowledge” — hard-to-define but
-practical know-how “in the art of making things”, as defined by
-the China-born Federal Reserve economist Yi Wen, who believes that
-such knowledge was “the secret recipe” behind Britain’s Industrial
-Revolution.</p>
-
-<p>A former Apple executive says this message was “music to the ears
-of China”. Beijing had spent decades trying to catch up with the
-West’s lead in advanced industry, scientific research and
-economic might. It often resorted to spying, outright theft or
-coercive tactics. But here was America’s most famous tech giant
-willingly playing the role of Prometheus, handing the Chinese the
-gift of fire.</p>
-</blockquote>
-
-<p>McGee’s book was in the works for years, but the timing of its publication couldn’t be more serendipitous, with Trump’s stupid tariff war.</p>
-
-<div>
-<a  title="Permanent link to ‘Excerpt From Patrick McGee’s ‘Apple in China’’"  href="https://daringfireball.net/linked/2025/05/22/excerpt-from-patrick-mcgees-apple-in-china">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	
-	<link rel="alternate" type="text/html" href="https://drata.com/daring" />
-	<link rel="shorturl" href="http://df4.us/wc3" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2025/05/drata" />
-	<id>tag:daringfireball.net,2025:/feeds/sponsors//11.41907</id>
-	<author><name>Daring Fireball Department of Commerce</name></author>
-	<published>2025-05-19T23:53:17Z</published>
-	<updated>2025-05-19T23:53:18Z</updated>
-	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
-<p>Automate compliance. Streamline security. Manage risk. Drata delivers the world’s most advanced Trust Management platform.</p>
-
-<div>
-<a  title="Permanent link to ‘Drata’"  href="https://daringfireball.net/feeds/sponsors/2025/05/drata">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-	<title>[Sponsor] Drata</title></entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/05/more_insight_and_not-negativity" />
 	<link rel="shorturl" href="http://df4.us/wbx" />
