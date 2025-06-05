@@ -7,14 +7,14 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-04T22:58:58Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-05T00:02:38Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>Apple Might Release an iPhone ‘Air’ Battery Case, But What They Ought to Release Is an Updated MagSafe Battery Pack</title>
 	<link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/apple-plans-iphone-release-schedule-shakeup-new-styles?rc=jfy0lk" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wdf" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/04/apple-iphone-air-battery-case-or-pack" />
 	<id>tag:daringfireball.net,2025:/linked//6.41955</id>
 	<published>2025-06-04T22:58:57Z</published>
-	<updated>2025-06-04T22:58:58Z</updated>
+	<updated>2025-06-04T23:58:04Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -43,7 +43,7 @@ pack, according to three people familiar with the matter.</p>
 
 <p>What disappoints me is Ma’s reporting of an iPhone Air-only battery <em>case</em> from Apple. What I very much want Apple to make is a sequel to its amazing <a href="https://support.apple.com/en-us/111857">MagSafe Battery Pack with a Lightning connector</a> that debuted in 2020 but was discontinued in 2023 (the year that the iPhones 15 switched from Lightning to USB-C). I’ve got two of these and they’re still, by far, my favorite iPhone battery packs. They’re the only Lightning devices left in my life and they’re so good I’m happy to still keep one Lightning cable in my travel bag to use them.</p>
 
-<p>There are a zillion third-party “magnetic” (but not “MagSafe”) battery packs that work with iPhones, and most of them have larger batteries than Apple’s. But part of what makes Apple’s MagSafe Battery Pack great is that it’s so small, and shaped so comfortably. I don’t need a magnetic battery pack that tries to double my iPhone’s battery life. I just need like 1.5× on occasional phone-heavy days (like next Monday’s WWDC keynote), and Apple’s does just that. No third-party magnetic battery pack I’ve tried comes even close to attaching as securely to the back of the iPhone as Apple’s. And Apple’s has special integration with iOS, which gives you a cool animation on the screen when it’s first attached, and updates the battery life of the pack in the Battery widget alongside the iPhone’s own battery. Most importantly, with Apple’s MagSafe Battery Pack, iOS is smart, and doesn’t keep sucking juice when the phone has recharged up to 70% or so. By only slurping juice when it’s more efficient to do so, you get more effective battery life out of a noticeably slimmer battery back. It’s just so much better than any other battery pack I’ve tried.</p>
+<p>There are a zillion third-party “magnetic” (but not “MagSafe”) battery packs that work with iPhones, and most of them have larger batteries than Apple’s. But part of what makes Apple’s MagSafe Battery Pack great is that it’s so small, and shaped so comfortably. I don’t need a magnetic battery pack that tries to double my iPhone’s battery life. I just need like 1.5× on occasional phone-heavy days (like next Monday’s WWDC keynote), and Apple’s does just that. No third-party magnetic battery pack I’ve tried comes even close to attaching as securely to the back of the iPhone as Apple’s. And Apple’s has special integration with iOS, which gives you a cool animation on the screen when it’s first attached, and updates the battery life of the pack in the Battery widget alongside the iPhone’s own battery. (Apparently <a href="https://www.youtube.com/watch?v=FLb5ut2mzf4">some newer third-party packs do now show the full-screen animation</a> when first attached, but none yet integrate with the Battery widget — someone better call the European Commission.) Most importantly, with Apple’s MagSafe Battery Pack, iOS is smart, and doesn’t keep sucking juice when the phone has recharged up to 70% or so. By only slurping juice when it’s more efficient to do so, you get more effective battery life out of a noticeably slimmer battery back. It’s just so much better than any other battery pack I’ve tried.</p>
 
 <p>This supposed iPhone “Air” seems like the perfect time to bring back the MagSafe Battery Pack, this time with USB-C — and unlike a model-specific case, it’d work with all MagSafe iPhones, not just the Air. (<a href="https://daringfireball.net/2025/02/the_iphone_16e">Sorry, 16e owners</a>.) See also:</p>
 
@@ -128,13 +128,13 @@ Meta Pixel and Yandex Metrica are estimated to be installed on
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/04/meta-yandex-android-deanonymizing-web-ids" />
 	<id>tag:daringfireball.net,2025:/linked//6.41953</id>
 	<published>2025-06-04T21:53:45Z</published>
-	<updated>2025-06-04T21:56:07Z</updated>
+	<updated>2025-06-05T00:02:38Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>A team of researchers has uncovered a scheme they’ve dubbed “Local Mess” — used by Meta since September 2024, and Russian search engine Yandex since 2017 (!) — to de-anonymize Android users web browsing across millions of websites that include Meta’s and Yandex’s respective tracking scripts. From their extensively detailed report:</p>
+<p>A team of researchers has uncovered a scheme they’ve dubbed “Local Mess” — used by Meta since September 2024, and Russian search engine Yandex since 2017 (!) — to de-anonymize Android users’ web browsing across millions of websites that include Meta’s and Yandex’s respective tracking scripts. From their extensively detailed report:</p>
 
 <blockquote>
   <p>These native Android apps receive browsers’ metadata, cookies and
