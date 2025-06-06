@@ -7,7 +7,70 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-06T21:58:56Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-06T23:08:02Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Gurman’s Mega-Spoiler Report on Monday’s WWDC Keynote</title>
+	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2025-06-06/apple-wwdc-2025-preview-ios-26-macos-26-new-ai-features-ipados-26-redesigns" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wdq" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/06/gurman-wwdc-mega-spoiler" />
+	<id>tag:daringfireball.net,2025:/linked//6.41966</id>
+	<published>2025-06-06T23:06:15Z</published>
+	<updated>2025-06-06T23:08:02Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>I think it’s become tradition for Mark Gurman to run a mega spoiler report on the WWDC keynote the Friday before. Don’t read it if you don’t want to see a <em>lot</em> of genuine spoilers. But here are a few non-spoilers:</p>
+
+<blockquote>
+  <p>The AI changes will be surprisingly minor and are unlikely to
+impress industry watchers, especially considering the rapid pace
+of innovation by Alphabet Inc.’s Google, Meta Platforms Inc.,
+Microsoft Corp. and OpenAI.</p>
+</blockquote>
+
+<p>I don’t know a single person who will be surprised if Apple’s in-house AI changes are minor. Literally, not one. The only way for Apple to surprise on the AI front would be for the improvements to be major. Who’s the guy who will be surprised by underwhelming advances on the AI front from Apple next week? <a href="https://crazyapplerumors.com/2006/08/21/everybody-tired-of-one-mac-user/">Artie MacStrawman</a>?</p>
+
+<blockquote>
+  <p>While there has been speculation that the app icons will be round
+to match the style on the Apple Watch and Vision Pro, the shape is
+staying largely the same on the iPhone and iPad.</p>
+</blockquote>
+
+<p>Always beware the passive voice. “There has been speculation”? It was Gurman’s own report, back in March, that left some <a href="https://www.macrumors.com/2025/03/24/ios-19-visionos-apple-massive-ui-overhaul/">with the decided impression</a> that Apple was making icons circular across all platforms under the nonsensical argument that users find it jarring to see differently-shaped icons on different device. <a href="https://www.bloomberg.com/news/articles/2025-03-10/apple-readies-dramatic-design-overhauls-for-ios-19-ipados-19-and-macos-16?embedded-checkout=true">Gurman, back in March</a>:</p>
+
+<blockquote>
+  <p>A key goal of the overhaul is to make Apple’s different operating
+systems look similar and more consistent. Right now, the
+applications, icons and window styles vary across macOS, iOS and
+visionOS. That can make it jarring to hop from one device to
+another. [...]</p>
+
+<p>VisionOS differs from iOS and macOS in the use of circular app
+icons, a simplified approach to windows, translucent panels for
+navigation, and a more prominent use of 3D depth and shadows.</p>
+</blockquote>
+
+<p>My guess is that if Apple does go with circular icons across all platforms next week (which I sure hope they don’t because that seems dumb), Gurman will take credit for calling it back in March, despite writing today that “the shape is staying largely the same”. Heads, Gurman wins. Tails, Gurman doesn’t lose.</p>
+
+<p>Back to today’s mega-spoiler report:</p>
+
+<blockquote>
+  <p>The Camera app will be revamped with a focus on simplicity. Apple
+has added several new photo and video-taking options in recent
+years — including spatial video, panorama and slow-motion
+recording — and that’s made today’s interface a bit clunky. In
+iOS 26 and iPadOS 26, Apple is rethinking the approach.</p>
+</blockquote>
+
+<p>I can’t recall seeing Gurman ever, not even once, crediting anyone else for scooping anything first. Jon Prosser made <a href="https://www.youtube.com/watch?v=HaP_q9W3AQE">an entire video about the supposed new Camera app design</a> all the way back on January 17, replete with animated mockups of how it will look and work. (Looks pretty clever to me, starting with a back-to-basics simple focus on two main modes — Photo or Video — and putting all other sub-modes under those.)</p>
+
+<div>
+<a  title="Permanent link to ‘Gurman’s Mega-Spoiler Report on Monday’s WWDC Keynote’"  href="https://daringfireball.net/linked/2025/06/06/gurman-wwdc-mega-spoiler">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/06/truth_social_is_just_trumps_blog" />
 	<link rel="shorturl" href="http://df4.us/wdp" />
@@ -1907,44 +1970,6 @@ the small device, supply chain experts said.</p>
 
     ]]></content>
   <title>★ Idiocy or Jackassery, You Make the Call: Tripp Mickle on Whether Trump’s ‘Made in America’ iPhone Is a Fantasy</title></entry><entry>
-	<title>Mozilla Is Shutting Down Pocket</title>
-	<link rel="alternate" type="text/html" href="https://www.theverge.com/news/672924/mozilla-pocket-fakespot-shutting-down" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wch" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/23/mozilla-shutting-down-pocket" />
-	<id>tag:daringfireball.net,2025:/linked//6.41921</id>
-	<published>2025-05-23T17:11:15Z</published>
-	<updated>2025-05-23T17:11:15Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Emma Roth, The Verge:</p>
-
-<blockquote>
-  <p>Mozilla is shutting down Pocket, the handy bookmarking tool used
-to save articles and webpages for later. The <a href="https://support.mozilla.org/en-US/kb/future-of-pocket">organization
-announced</a> that Pocket will stop working on July 8th, 2025,
-<a href="https://support.mozilla.org/en-US/kb/future-of-pocket">as Mozilla begins concentrating</a> its “resources into projects
-that better match their browsing habits and online needs.”</p>
-
-<p>Following the shutdown, you’ll only be able <a href="https://support.mozilla.org/en-US/kb/exporting-your-pocket-list">to export saves</a>
-until October 8th, 2025, which is when Mozilla will permanently
-delete user data. Mozilla says it will start automatically
-canceling subscriptions as well, and will issue prorated refunds
-to users subscribed to its annual plan on July 8th.</p>
-</blockquote>
-
-<p>Pocket is one of those apps that obviously doesn’t have a ton of users (presumably?), but those users it has are die-hard read-it-later-ers. Pocket, for example, <a href="https://help.kobo.com/hc/en-us/articles/360017763753-Use-the-Pocket-App-with-your-Kobo-eReader">is the only read-it-later service supported on Kobo e-readers</a>.</p>
-
-<p>This feels in line, somewhat, with <a href="https://techcrunch.com/2024/09/17/mozilla-exits-the-fediverse-and-will-shutter-its-mastodon-server-in-december/">Mozilla shutting down their Mastodon instance a few months ago</a>. When Mastodon took off, I know some people thought a Mozilla-hosted instance would have a good shot to stand the test of time. Instead, they gave up after just a few years.</p>
-
-<div>
-<a  title="Permanent link to ‘Mozilla Is Shutting Down Pocket’"  href="https://daringfireball.net/linked/2025/05/23/mozilla-shutting-down-pocket">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/05/more_insight_and_not-negativity" />
 	<link rel="shorturl" href="http://df4.us/wbx" />
