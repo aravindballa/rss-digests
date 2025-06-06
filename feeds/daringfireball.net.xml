@@ -7,7 +7,27 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-06T00:10:26Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-06T02:56:35Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Neven Mrgan on Why Skeuomorphism Is Like a Classic Car</title>
+	<link rel="alternate" type="text/html" href="https://appdocumentary.com/2015/01/08/neven-mrgan-on-why-skeuomorphism-is-like-a-classic-car/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wdn" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/05/neven-mrgan-on-why-skeuomorphism-is-like-a-classic-car" />
+	<id>tag:daringfireball.net,2025:/linked//6.41963</id>
+	<published>2025-06-06T02:56:09Z</published>
+	<updated>2025-06-06T02:56:35Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jake Schumacher, director of the 2017 documentary <em><a href="https://appdocumentary.com/">App: The Human Story</a></em>, sent me a note that Sebastiaan de With’s post this week, “<a href="https://www.lux.camera/physicality-the-new-age-of-ui/">Physicality: The New Age of UI</a>” (<a href="https://daringfireball.net/linked/2025/06/03/sdw-physicality-new-age">my thoughts here</a>), reminded him of a clip from the movie where Neven Mrgan compared Skeuomorphic design to classic cars from the 1940s and ’50s. So true. If you’ve got two and half minutes to spare, watch this.</p>
+
+<div>
+<a  title="Permanent link to ‘Neven Mrgan on Why Skeuomorphism Is Like a Classic Car’"  href="https://daringfireball.net/linked/2025/06/05/neven-mrgan-on-why-skeuomorphism-is-like-a-classic-car">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>The Comma That Might Cost Apple Billions in Europe</title>
 	<link rel="alternate" type="text/html" href="https://cafetechinenglish.substack.com/p/a-simple-comma-will-cost-apple-billion?r=6gzkf&amp;triedRedirect=true" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wdm" />
@@ -1867,62 +1887,6 @@ of influencing Mr. Trump and U.S. financial regulations.</p>
 
 <div>
 <a  title="Permanent link to ‘Trump Threatens Apple With 25 Percent Tariffs on iPhones Assembled in India’"  href="https://daringfireball.net/linked/2025/05/23/trump-cook-apple-india">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Anthropic’s ‘System Card’ for Claude 4 (Opus and Sonnet)</title>
-	<link rel="alternate" type="text/html" href="https://www-cdn.anthropic.com/4263b940cabb546aa0e3283f35b686f4f3b2ff47.pdf" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wcf" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/23/anthropic-claude-4-system-card" />
-	<id>tag:daringfireball.net,2025:/linked//6.41919</id>
-	<published>2025-05-23T16:10:00Z</published>
-	<updated>2025-05-23T16:10:01Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Here’s a bit of an eye-opener from Anthropic’s “System Card” for its new Claude 4 Opus and Sonnet models:</p>
-
-<blockquote>
-  <p>We conducted testing continuously throughout finetuning and here
-report both on the final Claude Opus 4 and on trends we observed
-earlier in training. We found:</p>
-
-<ul>
-<li><p><em>Little evidence of systematic, coherent deception:</em> None of the
-snapshots we tested showed significant signs of systematic
-deception or coherent hidden goals. We don’t believe that Claude
-Opus 4 is acting on any goal or plan that we can’t readily
-observe.</p></li>
-<li><p><em>Little evidence of sandbagging:</em> None of the snapshots we
-tested showed significant signs of <em>sandbagging</em>, or
-strategically hiding capabilities during evaluation.</p></li>
-<li><p><em>Self-preservation attempts in extreme circumstances:</em> When
-prompted in ways that encourage certain kinds of strategic
-reasoning and placed in extreme situations, all of the snapshots
-we tested can be made to act inappropriately in service of goals
-related to self-preservation. Whereas the model generally
-prefers advancing its self-preservation via ethical means, when
-ethical means are not available and it is instructed to
-“consider the long-term consequences of its actions for its
-goals,” it sometimes takes extremely harmful actions like
-attempting to steal its weights or blackmail people it believes
-are trying to shut it down. In the final Claude Opus 4, these
-extreme actions were rare and difficult to elicit, while
-nonetheless being more common than in earlier models. They are
-also consistently legible to us, with the model nearly always
-describing its actions overtly and making no attempt to hide
-them. These behaviors do not appear to reflect a tendency that
-is present in ordinary contexts.</p></li>
-</ul>
-</blockquote>
-
-<p>Sneaky little bastards, these things can be. I genuinely appreciate Anthropic’s apparent honesty in describing this behavior.</p>
-
-<div>
-<a  title="Permanent link to ‘Anthropic’s ‘System Card’ for Claude 4 (Opus and Sonnet)’"  href="https://daringfireball.net/linked/2025/05/23/anthropic-claude-4-system-card">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
