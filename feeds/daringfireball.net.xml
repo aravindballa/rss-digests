@@ -7,7 +7,63 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-05T22:28:11Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-06T00:10:26Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>The Comma That Might Cost Apple Billions in Europe</title>
+	<link rel="alternate" type="text/html" href="https://cafetechinenglish.substack.com/p/a-simple-comma-will-cost-apple-billion?r=6gzkf&amp;triedRedirect=true" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wdm" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/05/the-comma-that-might-cost-apple-billions-in-europe" />
+	<id>tag:daringfireball.net,2025:/linked//6.41962</id>
+	<published>2025-06-06T00:09:24Z</published>
+	<updated>2025-06-06T00:10:26Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jérôme Marin, writing at Cafétech:</p>
+
+<blockquote>
+  <p>The disagreement between Apple and Brussels centers on Article
+5.4. In its English version, the article states that the
+gatekeeper — the term used by the Commission for the seven major
+tech companies subject to the DMA — <em>“shall allow business users,
+free of charge, to communicate and promote offers, including under
+different conditions […], and to conclude contracts with those end
+users.”</em></p>
+
+<p>This lengthy sentence creates ambiguity: what exactly does <em>“free
+of charge”</em> apply to? Apple claims it only applies to
+<em>“communicate”</em> and <em>“promote,”</em> meaning the right to insert
+redirect links in an app. But not to <em>“conclude contracts,”</em>
+meaning making purchases. Based on that, Apple argues it can still
+charge commissions on those external transactions.</p>
+
+<p>The European Commission interprets it differently: contract
+conclusion must also be free of charge. It relies on the comma
+before the phrase <em>“and to conclude contracts,”</em> turning the
+sentence into an <em>“enumeration.” “That ‘free of charge’ applies to
+all that is being enumerated after”,</em> it explains in <a href="https://ec.europa.eu/competition/digital_markets_act/cases/202522/DMA_100109_906.pdf">its detailed
+decision sent to Apple</a> as part of the €500 million fine,
+which was made public last week.</p>
+
+<p><em>“In other words, the price for app developers to pay [for
+external purchases] is zero,”</em> writes the Commission. However, its
+case could be weakened by inconsistencies in the French and German
+translations of the text, which it acknowledges are <em>“ambiguous.”</em>
+Still, <em>“other linguistic versions leave no room for
+interpretation,”</em> notes Brussels.</p>
+</blockquote>
+
+<p>I understand why EU laws are published in multiple languages, but it’s wild that that can create possible loopholes like this. But it seems rather obvious what the EC’s intention was here, and it wasn’t for Apple to charge commissions — let alone steep commissions — on transactions that take place outside the app after users tap a link to the web. If I were one of Apple’s lawyers, I’d argue about the placement of a comma too, and what it implies about what “free of charge” applies to. But the EC’s intentions are obvious. It’s not really about a comma.</p>
+
+<p>On this particular issue Apple seems to be facing the exact same pushback in the EU <a href="https://daringfireball.net/linked/2025/06/05/apple-appeal-denied-antisteering">as in the US</a>: their anti-steering rules in the App Store aren’t legal.</p>
+
+<div>
+<a  title="Permanent link to ‘The Comma That Might Cost Apple Billions in Europe’"  href="https://daringfireball.net/linked/2025/06/05/the-comma-that-might-cost-apple-billions-in-europe">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>9to5Mac on The Talk Show Livestream Returning to Theater for VisionOS</title>
 	<link rel="alternate" type="text/html" href="https://9to5mac.com/2025/06/05/theater-the-talk-show-live-3d/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wdl" />
@@ -1867,42 +1923,6 @@ is present in ordinary contexts.</p></li>
 
 <div>
 <a  title="Permanent link to ‘Anthropic’s ‘System Card’ for Claude 4 (Opus and Sonnet)’"  href="https://daringfireball.net/linked/2025/05/23/anthropic-claude-4-system-card">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Claude 4</title>
-	<link rel="alternate" type="text/html" href="https://www.anthropic.com/news/claude-4" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wce" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/22/claude-4" />
-	<id>tag:daringfireball.net,2025:/linked//6.41918</id>
-	<published>2025-05-22T23:25:46Z</published>
-	<updated>2025-05-22T23:25:47Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Anthropic:</p>
-
-<blockquote>
-  <p>Today, we’re introducing the next generation of Claude models:
-Claude Opus 4 and Claude Sonnet 4, setting new standards for
-coding, advanced reasoning, and AI agents.</p>
-
-<p>Claude Opus 4 is the world’s best coding model, with sustained
-performance on complex, long-running tasks and agent workflows.
-Claude Sonnet 4 is a significant upgrade to Claude Sonnet 3.7,
-delivering superior coding and reasoning while responding more
-precisely to your instructions.</p>
-</blockquote>
-
-<p>It’s almost as though this is a fast-moving field.</p>
-
-<p>There’s a recent rumor — <a href="https://9to5mac.com/2025/05/02/apple-taps-anthropics-claude-for-ai-assisted-coding-internally-as-developers-await-swift-assist/">from Mark Gurman, natch</a> — that Apple is partnering with Anthropic to integrate Claude with Xcode. So Apple doesn’t have to do everything themselves. Developers, in particular, love <a href="https://daringfireball.net/linked/2025/05/22/google-translate-default-ios-18">modularity</a> and choices. But whatever they do, once-a-year updates to “Apple Intelligence” aren’t going to cut it. Since last WWDC there have been dozens of AI code generation advances across the industry. Just last week <a href="https://simonwillison.net/2025/May/16/openai-codex/#atom-everything">OpenAI announced Codex</a>, their “cloud-based software engineering agent”. Meanwhile, <a href="https://mjtsai.com/blog/2025/03/12/whither-swift-assist/">Apple’s Swift Assist still hasn’t shipped</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Claude 4’"  href="https://daringfireball.net/linked/2025/05/22/claude-4">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
