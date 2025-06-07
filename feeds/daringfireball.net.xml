@@ -7,7 +7,50 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-07T19:37:59Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-07T20:28:25Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Thomas Ptacek: ‘My AI Skeptic Friends Are All Nuts’</title>
+	<link rel="alternate" type="text/html" href="https://fly.io/blog/youre-all-nuts/?ueid=4b93173967d7dc762529a10418e85007" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wdy" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/07/ptacek-ai-skeptic-friends-are-nuts" />
+	<id>tag:daringfireball.net,2025:/linked//6.41974</id>
+	<published>2025-06-07T20:28:24Z</published>
+	<updated>2025-06-07T20:28:25Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Thomas Ptacek:</p>
+
+<blockquote>
+  <p>LLMs can write a large fraction of all the tedious code you’ll
+ever need to write. And most code on most projects is tedious.
+LLMs drastically reduce the number of things you’ll ever need to
+Google. They look things up themselves. Most importantly, they
+don’t get tired; they’re immune to inertia.</p>
+
+<p>Think of anything you wanted to build but didn’t. You tried to
+home in on some first steps. If you’d been in the limerent
+phase of a new programming language, you’d have started
+writing. But you weren’t, so you put it off, for a day, a year,
+or your whole career.</p>
+
+<p>I can feel my blood pressure rising thinking of all the
+bookkeeping and Googling and dependency drama of a new project. An
+LLM can be instructed to just figure all that shit out. Often, it
+will drop you precisely at that golden moment where shit almost
+works, and development means tweaking code and immediately seeing
+things work better. That dopamine hit is why I code.</p>
+</blockquote>
+
+<p>Ptacek says he mostly writes in Go and Python, and his essay doesn’t even mention Swift. But the whole essay is worth keeping in mind ahead of WWDC. There is no aspect of the AI revolution where Apple, right now today, is further behind than agentic LLM programming. (Swift Assist, <a href="https://www.apple.com/newsroom/2024/06/apple-empowers-developers-and-fuels-innovation-with-new-tools-and-resources/">announced</a> and <a href="https://daringfireball.net/linked/2025/03/15/swift-assist-voorhees">even demoed</a> last year at WWDC, would have been a first step in this direction, <a href="https://daringfireball.net/linked/2025/03/13/whither-swift-assist">but it never shipped</a>, even in beta.)</p>
+
+<div>
+<a  title="Permanent link to ‘Thomas Ptacek: ‘My AI Skeptic Friends Are All Nuts’’"  href="https://daringfireball.net/linked/2025/06/07/ptacek-ai-skeptic-friends-are-nuts">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>WorkOS</title>
 	<link rel="alternate" type="text/html" href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=RSS&amp;utm_campaign=q12025" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wdx" />
@@ -108,7 +151,7 @@ stepdaughter, two brothers, four sisters, and dog, Poppy.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/07/you-can-recharge-apples-magsafe-battery-pack-without-a-lightning-cable" />
 	<id>tag:daringfireball.net,2025:/linked//6.41970</id>
 	<published>2025-06-07T18:29:06Z</published>
-	<updated>2025-06-07T18:29:19Z</updated>
+	<updated>2025-06-07T20:19:56Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -124,7 +167,7 @@ to use them.</p>
 
 <p>Among its other unique bits of cleverness, Apple’s MagSafe Battery Pack supports another cool feature: when attached to your phone, you can plug the charging cable into the phone, and after the phone gets to 100 percent charge, the phone will recharge the connected battery pack. So, if you own a MagSafe Battery Pack, you can recharge it even if you don’t have a Lightning cable handy. Just attach it to your iPhone and plug your USB-C cable into the phone, not the battery pack. I’m not aware of any other battery packs that support this.</p>
 
-<p>That said, I still keep that one Lightning cable in my travel bag for the MagSafe Battery Pack because I want to be able to charge it whenever I want. Like, say, if I want to leave it behind, recharging, while I go elsewhere with my iPhone. Also, I like using the MagSafe Battery Pack as my bedside MagSafe charge, including in hotels. I like being able to check my phone from bed without worrying about a cable. In fact, I use one of my MagSafe Battery Packs as my bedside charger at home, not just while travelling.</p>
+<p>That said, I still keep that one Lightning cable in my travel bag for the MagSafe Battery Pack because I want to be able to charge it whenever I want. Like, say, if I want to leave it behind, recharging, while I go elsewhere with my iPhone. Also, I like using the MagSafe Battery Pack as my bedside MagSafe charger. I like being able to check my phone from bed without worrying about a cable. In fact, I use one of my MagSafe Battery Packs as my bedside charger at home, not just while travelling.</p>
 
 <p>Such a great little device. Really hope they make a sequel.</p>
 
@@ -1844,49 +1887,6 @@ idea behind Dia: hide complexity behind familiar interfaces.</p>
 
 <div>
 <a  title="Permanent link to ‘Scott Forstall Has Been Advising The Browser Company’"  href="https://daringfireball.net/linked/2025/05/27/forstall-the-browser-company">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Tim Cook Declined Middle East Trip With Trump’s Sycophant Entourage</title>
-	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2025/05/26/technology/techs-trump-whisperer-tim-cook-goes-quiet-as-his-influence-fades.html" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wcq" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/27/cook-trump-middle-east" />
-	<id>tag:daringfireball.net,2025:/linked//6.41930</id>
-	<published>2025-05-27T21:18:42Z</published>
-	<updated>2025-05-27T21:31:39Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>I’ve been giving Tripp Mickle quite a bit of grief over <a href="https://daringfireball.net/2025/05/idiocy_or_jackassery_you_make_the_call_made_in_america_iphone">his dumb “Is Trump’s ‘Made in America’ iPhone a Fantasy?”</a> story, but this is an interesting nugget I haven’t seen anyone else highlight:</p>
-
-<blockquote>
-  <p>In the run-up to President Trump’s recent trip to the Middle East,
-the White House encouraged chief executives and representatives of
-many U.S. companies to join him. Tim Cook, Apple’s chief
-executive, declined, said two people familiar with the decision.</p>
-
-<p>The choice appeared to irritate Mr. Trump. As he hopscotched from
-Saudi Arabia to the United Arab Emirates, Mr. Trump took a number
-of shots at Mr. Cook. During his speech in Riyadh, Mr. Trump
-paused to praise Jensen Huang, the chief executive of Nvidia, for
-traveling to the Middle East along with the White House
-delegation. Then he knocked Mr. Cook.</p>
-
-<p>“I mean, Tim Cook isn’t here but you are,” Mr. Trump said to Mr.
-Huang at an event attended by chief executives like Larry Fink of
-the asset manager BlackRock, Sam Altman of OpenAI, Jane Fraser of
-Citigroup and Lisa Su of the semiconductor company AMD.</p>
-</blockquote>
-
-<p>The presumption here is that Trump’s (<a href="https://www.politico.com/news/2025/05/23/california-ag-trump-apple-tariff-00368619">possibly illegal</a>) threats of applying a 25% tariff on all imported iPhones, no matter where they’re assembled, are payback for Cook declining to attend this trip in Trump’s entourage of CEOs. When you cave to a bully/extortionist, the bullying/extortion don’t stop. Apple doesn’t really have any significant business interests in countries like Saudi Arabia or Qatar, and it’s not hard to see why an even vaguely ethical business leader <a href="https://www.status.news/p/jeff-bezos-jamal-khashoggi-saudi-arabia-ai-deal">would not want to cozy up with Saudi crown prince Mohammed bin Salman</a>.</p>
-
-<p>Maybe Cook was just busy. But maybe Cook, just 100-some days into the Trump 2.0 administration, is already past his “<em>look, he won the election, let’s give him a chance</em>” stage.</p>
-
-<div>
-<a  title="Permanent link to ‘Tim Cook Declined Middle East Trip With Trump’s Sycophant Entourage’"  href="https://daringfireball.net/linked/2025/05/27/cook-trump-middle-east">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
