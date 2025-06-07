@@ -7,14 +7,14 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-07T18:43:23Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-07T19:07:17Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>Bill Atkinson Dies From Cancer at 74</title>
 	<link rel="alternate" type="text/html" href="https://www.facebook.com/story.php?story_fbid=10238073579963378&amp;id=1378467145&amp;_rdr" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wdv" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip" />
 	<id>tag:daringfireball.net,2025:/linked//6.41971</id>
 	<published>2025-06-07T18:43:22Z</published>
-	<updated>2025-06-07T18:43:23Z</updated>
+	<updated>2025-06-07T19:02:56Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -36,7 +36,9 @@ lives. He is survived by his wife, two daughters, stepson,
 stepdaughter, two brothers, four sisters, and dog, Poppy.</p>
 </blockquote>
 
-<p>One of the great heroes in not just Apple history, but computer history. If you want to cheer yourself up, go to Andy Hertzfeld’s Folklore.org site and (re-)read all the entries about Atkinson. Here’s just one, with <a href="https://folklore.org/Round_Rects_Are_Everywhere.html">Steve Jobs inspiring Atkinson to invent the roundrect</a>. What a man, what a mind.</p>
+<p>One of the great heroes in not just Apple history, but computer history. If you want to cheer yourself up, go to Andy Hertzfeld’s Folklore.org site and (re-)read all the entries about Atkinson. Here’s just one, with <a href="https://folklore.org/Round_Rects_Are_Everywhere.html">Steve Jobs inspiring Atkinson to invent the roundrect</a>. Some of his code and algorithms are among the most efficient and elegant ever devised. The original Macintosh team was chock full of geniuses, but Atkinson might have been the most essential to making the impossible possible under the extraordinary technical limitations of that hardware. <a href="https://www.google.com/search?q=bill+atkinson+dithering+algorithm">Atkinson’s genius dithering algorithm</a> was my inspiration for the name of <a href="https://en.wikipedia.org/wiki/Atkinson_dithering">Dithering</a>, my podcast with Ben Thompson. I find that effect beautiful and love that it continues to prove useful, like on the <a href="https://play.date/">Playdate</a> and <a href="https://daringfireball.net/linked/2016/06/10/bitcam">apps like BitCam</a>.</p>
+
+<p>What a man, what a mind.</p>
 
 <div>
 <a  title="Permanent link to ‘Bill Atkinson Dies From Cancer at 74’"  href="https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip">&nbsp;★&nbsp;</a>
@@ -82,7 +84,7 @@ to use them.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/07/whatsapp-phone-as-linked-device" />
 	<id>tag:daringfireball.net,2025:/linked//6.41969</id>
 	<published>2025-06-07T18:21:29Z</published>
-	<updated>2025-06-07T18:21:30Z</updated>
+	<updated>2025-06-07T19:07:17Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -108,7 +110,7 @@ encrypted, and if your primary device is inactive for a long
 period, we automatically log you out of all companion devices.</p>
 </blockquote>
 
-<p>When I wrote about WhatsApp <a href="https://daringfireball.net/linked/2025/06/02/whatsapp-for-ipad">finally shipping for iPhone earlier this week</a>, I mentioned that you couldn’t use a secondary phone as a linked device to your primary phone. That used to be true, but obviously, I missed that this changed two years ago. Glad to know it. I’ve already added my Android burner and my spare iPhone that I use for summer iOS betas. <a href="https://faq.whatsapp.com/1317564962315842/?cms_platform=android">WhatsApp has a support document on linking devices</a> that explains the somewhat hidden way you do this with a secondary phone. My thanks to several readers who pointed me to this.</p>
+<p>When I wrote about WhatsApp <a href="https://daringfireball.net/linked/2025/06/02/whatsapp-for-ipad">finally shipping for iPad earlier this week</a>, I mentioned that you couldn’t use a secondary phone as a linked device to your primary phone. That used to be true, but obviously, I missed that this changed two years ago. Glad to know it. I’ve already added my Android burner and my spare iPhone that I use for summer iOS betas. <a href="https://faq.whatsapp.com/1317564962315842/?cms_platform=android">WhatsApp has a support document on linking devices</a> that explains the somewhat hidden way you do this with a secondary phone. My thanks to several readers who pointed me to this.</p>
 
 <p>This makes it seem all the more spiteful, though, that Meta didn’t allow the iPhone version of WhatsApp to run on iPads (like they do with the still-iPhone-only Instagram app). I heard from a little birdie this week — second- or maybe even third-hand, so take it with a grain of salt — that Meta had this WhatsApp for iPad version ready to go for a while, and has been more or less sitting on an iPad version of Instagram, as negotiating chits with Apple. Negotiating for what, I don’t know. But if that’s true, perhaps some (<a href="https://daringfireball.net/linked/2025/06/04/meta-and-yandexs-local-mess-exploit-seemingly-only-works-on-android">but definitely not all</a>) of the ice has thawed between the two companies. I don’t see it happening, but it sure would get a big audience response if Instagram for iPad gets some sort of announcement during the WWDC keynote, perhaps as part of “<em>iPadOS is now a fuller, more complete, computing experience than ever</em>” segment.</p>
 
