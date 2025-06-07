@@ -7,7 +7,85 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-06T23:44:41Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-07T00:22:36Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Markdown Support in Windows Notepad</title>
+	<link rel="alternate" type="text/html" href="https://www.theverge.com/news/677474/microsoft-windows-notepad-bold-italic-text-formatting-markdown-support?ueid=4b93173967d7dc762529a10418e85007" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wds" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/06/markdown-support-in-windows-notepad" />
+	<id>tag:daringfireball.net,2025:/linked//6.41968</id>
+	<published>2025-06-07T00:19:37Z</published>
+	<updated>2025-06-07T00:19:37Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Tom Warren, writing for The Verge:</p>
+
+<blockquote>
+  <p>“The experience supports Markdown style input and files for users
+who prefer to work directly with the lightweight markup language,”
+explains Dave Grochocki, principal product manager lead for
+Microsoft’s Windows inbox apps. “You can switch between formatted
+Markdown and Markdown syntax views in the view menu or by
+selecting the toggle button in the status bar at the bottom of the
+window.”</p>
+
+<p>Since Notepad is usually used with plain text, you can also easily
+clear all formatting from the formatting toolbar or from the edit
+menu in the app. If you’re not a fan of the lightweight formatting
+options, you can also fully disable this new support in the
+Notepad app settings. [...]</p>
+
+<p>Like I wrote in <a href="https://www.theverge.com/notepad-microsoft-newsletter/676258/microsoft-xbox-handheld-windows-steamos-notepad">my Notepad newsletter earlier this week</a>,
+it’s amazing that Microsoft barely touched Notepad for decades,
+and now it’s gone from basic log file reader to writing messages
+itself. A lot of Notepad’s new features have arrived since
+Microsoft decided to <a href="https://www.theverge.com/2023/9/3/23857331/microsoft-wordpad-windows-removal-end-of-support">remove WordPad from Windows</a>, after
+nearly 30 years.</p>
+</blockquote>
+
+<p>This is <a href="https://daringfireball.net/linked/2025/06/04/apple-notes-markdown">getting</a> ridiculous.</p>
+
+<div>
+<a  title="Permanent link to ‘Markdown Support in Windows Notepad’"  href="https://daringfireball.net/linked/2025/06/06/markdown-support-in-windows-notepad">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Take That CIRP Survey on Apple Customer Device Ownership With a Giant Grain of Salt</title>
+	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2025/06/06/cirp-survey-ipad-popularity#update" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wdr" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/06/cirp-update" />
+	<id>tag:daringfireball.net,2025:/linked//6.41967</id>
+	<published>2025-06-07T00:18:35Z</published>
+	<updated>2025-06-07T00:18:36Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>I posted this update a bit ago, but it’s worth making a separate post so you don’t miss it if you read the original post before I added the update:</p>
+
+<blockquote>
+  <p>It goes without saying that any consumer survey is only as good as
+the surveyor. But CIRP, in particular, has posted some dubious
+ones, to say the least. <a href="https://mastodon.social/@lapcatsoftware/114638324316925437">Jeff Johnson pointed out on Mastodon</a>
+that back in 2023, <a href="https://9to5mac.com/2023/01/09/apples-most-popular-mac/">CIRP published a survey that claimed the Mac
+Pro accounted for 43 percent</a> of all Mac desktop sales, with
+the Mac Mini and Mac Studio each accounting for only 4 percent
+each. That’s just bananas. That’s not like <em>maybe wrong</em>, that’s
+not <em>gotta be a little wrong</em>, that’s <em>how could anyone publish
+this?</em> wrong. It’s hard to believe anything from CIRP after they
+published that.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘Take That CIRP Survey on Apple Customer Device Ownership With a Giant Grain of Salt’"  href="https://daringfireball.net/linked/2025/06/06/cirp-update">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Gurman’s Mega-Spoiler Report on Monday’s WWDC Keynote</title>
 	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2025-06-06/apple-wwdc-2025-preview-ios-26-macos-26-new-ai-features-ipados-26-redesigns" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wdq" />
@@ -129,7 +207,7 @@ social network.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/06/cirp-survey-ipad-popularity" />
 	<id>tag:daringfireball.net,2025:/linked//6.41964</id>
 	<published>2025-06-06T20:20:18Z</published>
-	<updated>2025-06-06T23:44:41Z</updated>
+	<updated>2025-06-07T00:16:13Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -164,7 +242,7 @@ popularity.</p>
 
 <p>I don’t find this surprising. But if it’s true, it truly shows just how much longer people hold onto their iPads than their iPhones. If the average customer replaced their iPad as frequently as they do their iPhone, you’d expect Apple’s iPad revenue to be remarkably close to their iPhone revenue. But they’re not close. <a href="https://sixcolors.com/post/2025/05/apple-q2-2025-results-and-charts-95-4b-revenue/">In their most recent quarter</a>, iPhone revenue was 7× iPad revenue. And Mac revenue was slightly ahead of iPad revenue — but that might be more a function of average selling prices being so much higher for Macs than iPads, not replacement cycles.</p>
 
-<p><strong>Update:</strong> It goes without saying that any consumer survey is only as good as the surveyor. But CIRP, in particular, has posted some dubious ones, to say the least. <a href="https://mastodon.social/@lapcatsoftware/114638324316925437">Jeff Johnson pointed out on Mastodon</a> that back in 2023, <a href="https://9to5mac.com/2023/01/09/apples-most-popular-mac/">CIRP published a survey that claimed the Mac Pro accounted for 43 percent</a> of all Mac desktop sales, with the Mac Mini and Mac Studio each accounting for only 4 percent each. That’s just bananas.</p>
+<p><strong id="update">Update:</strong> It goes without saying that any consumer survey is only as good as the surveyor. But CIRP, in particular, has posted some dubious ones, to say the least. <a href="https://mastodon.social/@lapcatsoftware/114638324316925437">Jeff Johnson pointed out on Mastodon</a> that back in 2023, <a href="https://9to5mac.com/2023/01/09/apples-most-popular-mac/">CIRP published a survey that claimed the Mac Pro accounted for 43 percent</a> of all Mac desktop sales, with the Mac Mini and Mac Studio each accounting for only 4 percent each. That’s just bananas. That’s not like <em>maybe wrong</em>, that’s not <em>gotta be a little wrong</em>, that’s <em>how could anyone publish this?</em> wrong. It’s hard to believe anything from CIRP after they published that.</p>
 
 <div>
 <a  title="Permanent link to ‘CIRP Survey Suggests 78 Percent of All Apple Customers Own an iPad’"  href="https://daringfireball.net/linked/2025/06/06/cirp-survey-ipad-popularity">&nbsp;★&nbsp;</a>
@@ -178,13 +256,13 @@ popularity.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/05/neven-mrgan-on-why-skeuomorphism-is-like-a-classic-car" />
 	<id>tag:daringfireball.net,2025:/linked//6.41963</id>
 	<published>2025-06-06T02:56:09Z</published>
-	<updated>2025-06-06T02:56:35Z</updated>
+	<updated>2025-06-07T00:21:24Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jake Schumacher, director of the 2017 documentary <em><a href="https://appdocumentary.com/">App: The Human Story</a></em>, sent me a note that Sebastiaan de With’s post this week, “<a href="https://www.lux.camera/physicality-the-new-age-of-ui/">Physicality: The New Age of UI</a>” (<a href="https://daringfireball.net/linked/2025/06/03/sdw-physicality-new-age">my thoughts here</a>), reminded him of a clip from the movie where Neven Mrgan compared Skeuomorphic design to classic cars from the 1940s and ’50s. So true. If you’ve got two and half minutes to spare, watch this.</p>
+<p>Jake Schumacher, director of the 2017 documentary <em><a href="https://appdocumentary.com/">App: The Human Story</a></em>, sent me a note that Sebastiaan de With’s post this week, “<a href="https://www.lux.camera/physicality-the-new-age-of-ui/">Physicality: The New Age of UI</a>” (<a href="https://daringfireball.net/linked/2025/06/03/sdw-physicality-new-age">my thoughts here</a>), reminded him of a clip from the movie where Neven Mrgan compared Skeuomorphic design to classic cars from the 1940s and ’50s. So true. If you’ve got two and a half minutes to spare, watch this.</p>
 
 <div>
 <a  title="Permanent link to ‘Neven Mrgan on Why Skeuomorphism Is Like a Classic Car’"  href="https://daringfireball.net/linked/2025/06/05/neven-mrgan-on-why-skeuomorphism-is-like-a-classic-car">&nbsp;★&nbsp;</a>
@@ -254,7 +332,7 @@ interpretation,”</em> notes Brussels.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/05/9to5mac-on-the-talk-show-livestream-returning-to-theater" />
 	<id>tag:daringfireball.net,2025:/linked//6.41961</id>
 	<published>2025-06-05T22:01:20Z</published>
-	<updated>2025-06-05T22:01:21Z</updated>
+	<updated>2025-06-07T00:22:36Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -278,7 +356,7 @@ Show Live event stream.</p>
 
 <p>First, as Hall points out, if you haven’t heard or thought about the Theater app for VisionOS since my show last year, there is now a ton of interesting immersive content there. Second, I’ve lost track of how many times I’ve read commentary, or listened to people on podcasts, wonder why there are hardly any “<em>just make it feel like you’re there, in the audience, for the show</em>” immersive shows for VisionOS.</p>
 
-<p>That’s what Sandwich Vision did last year, and is doing even better this year, with my show. I thought it was kind of odd that me, of all people, and my once-a-year, not-that-big-a-deal-outside-the-Apple-nerd-media-world show, was the first to livestream an immersive show experience for VisionOS. Maybe there were others first for Meta’s low-res headsets, but if there were, I’m not aware of them. My show last year really might have been first for any immersive headset.</p>
+<p>That’s what Sandwich Vision did last year, and is doing even better this year, with my show. I thought it was kind of odd that it was me, of all people, and my once-a-year, not-that-big-a-deal-outside-the-Apple-nerd-media-world show, who was the first to livestream an immersive show experience for VisionOS. Maybe there were others first for Meta’s low-res headsets, but if there were, I’m not aware of them. My show last year really might have been first for any immersive headset.</p>
 
 <p>Afterward, I figured by this year, while it might not be commonplace — simply because Vision Pro ownership is, you know, not that high — it wouldn’t be unusual. But it still is. I honestly don’t get why that is. Anyway, like I wrote in the previous post, if you can make the show, <a href="https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2025">you really should attend</a>. But if you can’t make the show, you definitely should watch live <a href="https://theater.sandwich.vision/">in Theater</a>.</p>
 
@@ -1798,71 +1876,6 @@ process in U.S. and Chinese factories.</p>
 
 <div>
 <a  title="Permanent link to ‘The New York Times Digs in on the ‘Young Chinese Women Have Small Fingers’ Claim’"  href="https://daringfireball.net/linked/2025/05/26/young-chinese-women-have-small-fingers">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>37signals’s Hey Is Finally for Sale (in the US) From Its iPhone App</title>
-	<link rel="alternate" type="text/html" href="https://world.hey.com/dhh/hey-is-finally-for-sale-on-the-iphone-a08cb218" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wck" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/26/hey-now-for-sale-from-iphone-app" />
-	<id>tag:daringfireball.net,2025:/linked//6.41924</id>
-	<published>2025-05-26T16:31:59Z</published>
-	<updated>2025-05-26T16:58:38Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>David Heinemeier Hansson (last week):</p>
-
-<blockquote>
-  <p>Thanks to their fight for Fortnite, app developers everywhere are
-now allowed to link out of apps to their own web-based payment
-system in the US store (but, sadly, nowhere else yet).</p>
-
-<p>This is all we ever wanted from Apple: to have a way to distribute
-our iPhone apps and keep the customer relationship by billing
-directly. The 30% toll gets all the attention, and it is
-ludicrously egregious, but to us, it’s just as much about
-<a href="https://www.hey.com/apple/iap/">retaining that direct customer relationship</a>, so we can help
-folks with refunds, so they don’t tie their billing for a
-multi-platform email system to a single manufacturer.</p>
-</blockquote>
-
-<p><a href="https://techcrunch.com/2025/05/19/judge-pressures-apple-to-approve-fortnite-or-return-to-court/">Here’s Sarah Perez at TechCrunch</a>, the day prior to DHH’s announcement:</p>
-
-<blockquote>
-  <p>Following the decision, Apple <a href="https://techcrunch.com/2025/05/02/apple-changes-us-app-store-rules-to-let-apps-redirect-users-to-their-own-websites-for-payments/">updated</a> its App Store
-policies for the U.S., and apps, including <a href="https://techcrunch.com/2025/05/02/apple-approves-spotify-app-update-that-allows-u-s-users-to-access-pricing-info-external-payment-links/">Spotify</a>, Amazon
-<a href="https://techcrunch.com/2025/05/06/amazon-kindles-ios-app-adds-new-get-book-button-following-apple-payments-ruling/">Kindle</a>, and <a href="https://techcrunch.com/2025/05/06/patreons-app-can-now-accept-web-payments-after-u-s-app-store-changes/">Patreon</a> quickly rolled out new versions
-of their apps to take advantage of the new functionality.</p>
-</blockquote>
-
-<p>None of these apps were using Apple’s in-app payments. Users simply couldn’t sign up for paid tiers (or in Kindle’s case, buy books) from inside the apps. This is a win for users, and Apple won’t lose a cent from commissions from any of these apps.</p>
-
-<div>
-<a  title="Permanent link to ‘37signals’s Hey Is Finally for Sale (in the US) From Its iPhone App’"  href="https://daringfireball.net/linked/2025/05/26/hey-now-for-sale-from-iphone-app">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Drata</title>
-	<link rel="alternate" type="text/html" href="https://drata.com/daring" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wcj" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/25/drata" />
-	<id>tag:daringfireball.net,2025:/linked//6.41923</id>
-	<published>2025-05-25T22:05:33Z</published>
-	<updated>2025-05-25T22:05:34Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>My thanks to Drata for sponsoring this last week at DF. Their message is short and sweet: Automate compliance. Streamline security. Manage risk. Drata delivers the world’s most advanced Trust Management platform.</p>
-
-<div>
-<a  title="Permanent link to ‘Drata’"  href="https://daringfireball.net/linked/2025/05/25/drata">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
