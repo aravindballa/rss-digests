@@ -7,7 +7,61 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-07T19:24:36Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-07T19:37:59Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>WorkOS</title>
+	<link rel="alternate" type="text/html" href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=RSS&amp;utm_campaign=q12025" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wdx" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/07/workos" />
+	<id>tag:daringfireball.net,2025:/linked//6.41973</id>
+	<published>2025-06-07T19:36:19Z</published>
+	<updated>2025-06-07T19:36:20Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks to WorkOS for sponsoring last week at DF. Modern authentication should be seamless and secure. WorkOS makes it easy to integrate features like MFA, SSO, and RBAC. Whether you’re replacing passwords, stopping fraud, or adding enterprise auth, WorkOS can help you build frictionless auth that scales.</p>
+
+<p>New features they launched just last month include:</p>
+
+<ul>
+<li><a href="https://workos.com/blog/workos-connect?utm_source=daringfireball&amp;utm_medium=RSS&amp;utm_campaign=q12025">WorkOS Connect</a> — “Sign in with [Your App]”</li>
+<li><a href="https://workos.com/blog/vault?utm_source=daringfireball&amp;utm_medium=RSS&amp;utm_campaign=q12025">WorkOS Vault</a> — Encryption Key Management (EKM) and Bring-Your-Own-Key (BYOK)</li>
+<li><a href="https://workos.com/blog/custom-objects?utm_source=daringfireball&amp;utm_medium=RSS&amp;utm_campaign=q12025">AuthKit Integrations</a> — Native support for several new identity providers including LinkedIn, Slack, GitLab, BitBucket, Intuit, and more.</li>
+</ul>
+
+<p>Future-proof your authentication stack with the identity layer trusted by OpenAI, Cursor, Perplexity, and Vercel.</p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS’"  href="https://daringfireball.net/linked/2025/06/07/workos">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>A Long Lost Never-Published DF Post From 2014</title>
+	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2014/06/01/lefsetz" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wdw" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/07/long-lost-df-post" />
+	<id>tag:daringfireball.net,2025:/linked//6.41972</id>
+	<published>2025-06-07T19:29:27Z</published>
+	<updated>2025-06-07T19:37:59Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>I don’t use the web interface to <a href="https://movabletype.org/">Movable Type</a>, my moribund-but-works-just-great CMS, very often. But I was using it today and noticed something odd. Next to the small-text metadata that says I’ve written 35,086 entries in total, it said I had one draft. One. I don’t use the drafts feature in Movable Type — my drafts are stored locally as text files in BBEdit or unpublished posts in MarsEdit. I didn’t recall <em>ever</em> saving a draft in Movable Type, but, I thought to myself, I probably did it from my phone — which is the one device where I do publish and edit posts through the MT web interface because (to my knowledge) there’s no equivalent of MarsEdit for iOS.</p>
+
+<p>It was a Linked List post pointing to <a href="https://lefsetz.com/wordpress/2014/05/29/beats-deal/">Bob Lefsetz’s reaction</a> to the <a href="https://www.apple.com/newsroom/2014/05/28Apple-to-Acquire-Beats-Music-Beats-Electronics/">then-new Beats acquisition by Apple</a> for $3 billion, which was considered a lot of money for an acquisition at the time. The blockquote wasn’t fully Markdown-formatted yet — which is sort of tedious for me on the phone, but a single keyboard shortcut in either BBEdit or MarsEdit on my Mac. That’s probably why I left it as a draft. So, just now, I finished the formatting, and changed it from draft to published. <a href="https://daringfireball.net/linked/2014/06/01/lefsetz">Voila</a> — a post I wrote on 1 June 2014 that hadn’t been published until a few minutes ago. I suspect many of you will think Lefsetz’s 2014 remarks on Tim Cook ring more true today than they did then.</p>
+
+<p>Lending strong credence to my theory that this forgotten draft was created on my phone is that 1 June 2014 was <a href="https://daringfireball.net/2014/06/wwdc_2014_prelude">the Sunday before WWDC 2014</a>, when I’d have been travelling, and thus using my phone for posting. Funny coincidence that I happened to notice it today, on the cusp of WWDC 2025.</p>
+
+<div>
+<a  title="Permanent link to ‘A Long Lost Never-Published DF Post From 2014’"  href="https://daringfireball.net/linked/2025/06/07/long-lost-df-post">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Bill Atkinson Dies From Cancer at 74</title>
 	<link rel="alternate" type="text/html" href="https://www.facebook.com/story.php?story_fbid=10238073579963378&amp;id=1378467145&amp;_rdr" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wdv" />
@@ -1833,72 +1887,6 @@ Citigroup and Lisa Su of the semiconductor company AMD.</p>
 
 <div>
 <a  title="Permanent link to ‘Tim Cook Declined Middle East Trip With Trump’s Sycophant Entourage’"  href="https://daringfireball.net/linked/2025/05/27/cook-trump-middle-east">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘Puzzmo Is Not a Good iOS App’</title>
-	<link rel="alternate" type="text/html" href="https://maxfrequency.net/2025/05/26/puzzmo-app-not-good" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wcp" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/27/puzzmo-is-not-a-good-ios-app" />
-	<id>tag:daringfireball.net,2025:/linked//6.41929</id>
-	<published>2025-05-27T19:47:56Z</published>
-	<updated>2025-05-27T19:47:57Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Max Roberts:</p>
-
-<blockquote>
-  <p>I hate to say it, but the Puzzmo app is not a good experience. It
-is a real shame that Zach and team launched it in this state. What
-makes the shame heavier is that Zach is a superb designer. I know
-he works with excellent designers too. The team has fallen short
-in an off-putting way.</p>
-
-<p>Thankfully, Gruber is not a betting man.</p>
-</blockquote>
-
-<p>I have to say, I do like having a Puzzmo app, but I don’t think the experience is that much better than the web app version.</p>
-
-<div>
-<a  title="Permanent link to ‘‘Puzzmo Is Not a Good iOS App’’"  href="https://daringfireball.net/linked/2025/05/27/puzzmo-is-not-a-good-ios-app">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>The Talk Show: ‘A Monkey on a Rock’</title>
-	<link rel="alternate" type="text/html" href="https://daringfireball.net/thetalkshow/2025/05/26/ep-422" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wcn" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/26/the-talk-show-422" />
-	<id>tag:daringfireball.net,2025:/linked//6.41927</id>
-	<published>2025-05-26T23:35:00Z</published>
-	<updated>2025-05-26T23:36:42Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Stephen Hackett, proprietor of 512 Pixels and co-founder of <a href="https://www.relay.fm/">Relay</a> (purveyor of many fine podcasts), joins the show. Topics include: IO (or if you will, io), the new joint venture of OpenAI and Jony Ive’s LoveFrom; the sheer fantasy of “Made in America” iPhones; and Fortnite’s return to the US App Store.</p>
-
-<p><audio
-    src = "https://traffic.libsyn.com/secure/daringfireball/thetalkshow-422-stephen-hackett.mp3"
-    controls
-    preload = "none"
-/></p>
-
-<p><strong>Sponsored by:</strong></p>
-
-<ul>
-<li><a href="https://workos.com/">WorkOS</a>: The modern identity platform for B2B SaaS — free up to 1 million monthly active users.</li>
-<li><a href="https://betterhelp.com/talkshow">BetterHelp</a>: Give online therapy a try at BetterHelp and get on your way to being your best self.</li>
-<li><a href="https://squarespace.com/talkshow">Squarespace</a>: Save 10% off your first purchase of a website or domain using code <strong>talkshow</strong>.</li>
-</ul>
-
-<div>
-<a  title="Permanent link to ‘The Talk Show: ‘A Monkey on a Rock’’"  href="https://daringfireball.net/linked/2025/05/26/the-talk-show-422">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
