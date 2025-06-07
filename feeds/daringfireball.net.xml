@@ -7,7 +7,83 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-07T03:10:16Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-07T18:29:19Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>You Can Recharge Apple’s MagSafe Battery Pack Without a Lightning Cable</title>
+	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2025/06/04/apple-iphone-air-battery-case-or-pack" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wdu" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/07/you-can-recharge-apples-magsafe-battery-pack-without-a-lightning-cable" />
+	<id>tag:daringfireball.net,2025:/linked//6.41970</id>
+	<published>2025-06-07T18:29:06Z</published>
+	<updated>2025-06-07T18:29:19Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>A brief follow-up to my <a href="https://daringfireball.net/linked/2025/06/04/apple-iphone-air-battery-case-or-pack">love letter to Apple’s discontinued MagSafe Battery Pack</a> this week. I wrote:</p>
+
+<blockquote>
+  <p>They’re the only Lightning devices left in my life and they’re so
+good I’m happy to still keep one Lightning cable in my travel bag
+to use them.</p>
+</blockquote>
+
+<p>Among its other unique bits of cleverness, Apple’s MagSafe Battery Pack supports another cool feature: when attached to your phone, you can plug the charging cable into the phone, and after the phone gets to 100 percent charge, the phone will recharge the connected battery pack. So, if you own a MagSafe Battery Pack, you can recharge it even if you don’t have a Lightning cable handy. Just attach it to your iPhone and plug your USB-C cable into the phone, not the battery pack. I’m not aware of any other battery packs that support this.</p>
+
+<p>That said, I still keep that one Lightning cable in my travel bag for the MagSafe Battery Pack because I want to be able to charge it whenever I want. Like, say, if I want to leave it behind, recharging, while I go elsewhere with my iPhone. Also, I like using the MagSafe Battery Pack as my bedside MagSafe charge, including in hotels. I like being able to check my phone from bed without worrying about a cable. In fact, I use one of my MagSafe Battery Packs as my bedside charger at home, not just while travelling.</p>
+
+<p>Such a great little device. Really hope they make a sequel.</p>
+
+<div>
+<a  title="Permanent link to ‘You Can Recharge Apple’s MagSafe Battery Pack Without a Lightning Cable’"  href="https://daringfireball.net/linked/2025/06/07/you-can-recharge-apples-magsafe-battery-pack-without-a-lightning-cable">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Turns Out, Since 2023, You Can Use WhatsApp Across Multiple Phones</title>
+	<link rel="alternate" type="text/html" href="https://blog.whatsapp.com/one-whatsapp-account-now-across-multiple-phones" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wdt" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/07/whatsapp-phone-as-linked-device" />
+	<id>tag:daringfireball.net,2025:/linked//6.41969</id>
+	<published>2025-06-07T18:21:29Z</published>
+	<updated>2025-06-07T18:21:30Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>WhatsApp, on their official blog back in April 2023:</p>
+
+<blockquote>
+  <p>Last year, we introduced the ability for users globally to
+<a href="https://engineering.fb.com/2021/07/14/security/whatsapp-multi-device/">message seamlessly across all their devices</a>, while
+maintaining the same level of privacy and security.</p>
+
+<p>Today, we’re improving our multi-device offering further by
+<em>introducing the ability to use the same WhatsApp account on
+multiple phones</em>.</p>
+
+<p>A feature highly requested by users, now you can link your phone
+as one of up to four additional devices, the same as when you link
+with WhatsApp on <a href="https://web.whatsapp.com/">web browsers</a>, <a href="https://www.whatsapp.com/download">tablets and desktops</a>.
+Each linked phone connects to WhatsApp independently, ensuring
+that your personal messages, media, and calls are end-to-end
+encrypted, and if your primary device is inactive for a long
+period, we automatically log you out of all companion devices.</p>
+</blockquote>
+
+<p>When I wrote about WhatsApp <a href="https://daringfireball.net/linked/2025/06/02/whatsapp-for-ipad">finally shipping for iPhone earlier this week</a>, I mentioned that you couldn’t use a secondary phone as a linked device to your primary phone. That used to be true, but obviously, I missed that this changed two years ago. Glad to know it. I’ve already added my Android burner and my spare iPhone that I use for summer iOS betas. <a href="https://faq.whatsapp.com/1317564962315842/?cms_platform=android">WhatsApp has a support document on linking devices</a> that explains the somewhat hidden way you do this with a secondary phone. My thanks to several readers who pointed me to this.</p>
+
+<p>This makes it seem all the more spiteful, though, that Meta didn’t allow the iPhone version of WhatsApp to run on iPads (like they do with the still-iPhone-only Instagram app). I heard from a little birdie this week — second- or maybe even third-hand, so take it with a grain of salt — that Meta had this WhatsApp for iPad version ready to go for a while, and has been more or less sitting on an iPad version of Instagram, as negotiating chits with Apple. Negotiating for what, I don’t know. But if that’s true, perhaps some (<a href="https://daringfireball.net/linked/2025/06/04/meta-and-yandexs-local-mess-exploit-seemingly-only-works-on-android">but definitely not all</a>) of the ice has thawed between the two companies. I don’t see it happening, but it sure would get a big audience response if Instagram for iPad gets some sort of announcement during the WWDC keynote, perhaps as part of “<em>iPadOS is now a fuller, more complete, computing experience than ever</em>” segment.</p>
+
+<p>One other oddity I encountered, when adding my Android phone as a linked device: by design, <a href="https://faq.whatsapp.com/5550163238402916">there is no way to sign out of WhatsApp on your primary iOS or Android device</a>. If you are signed in to WhatsApp using another phone number, the only way to sign out on that device and then set it up as a linked device to your primary WhatsApp account is to delete WhatsApp from your phone and reinstall it. Weird.</p>
+
+<div>
+<a  title="Permanent link to ‘Turns Out, Since 2023, You Can Use WhatsApp Across Multiple Phones’"  href="https://daringfireball.net/linked/2025/06/07/whatsapp-phone-as-linked-device">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Markdown Support in Windows Notepad</title>
 	<link rel="alternate" type="text/html" href="https://www.theverge.com/news/677474/microsoft-windows-notepad-bold-italic-text-formatting-markdown-support?ueid=4b93173967d7dc762529a10418e85007" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wds" />
@@ -1175,7 +1251,7 @@ expect.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/02/whatsapp-for-ipad" />
 	<id>tag:daringfireball.net,2025:/linked//6.41943</id>
 	<published>2025-06-02T20:17:33Z</published>
-	<updated>2025-06-03T17:38:24Z</updated>
+	<updated>2025-06-07T18:23:54Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -1199,7 +1275,7 @@ works with your Magic Keyboard and Apple Pencil.</p>
 
 <p>Famously, Instagram doesn’t support iPad screen sizes. You can run and use the iPhone version of Instagram on iPads — and I’m guessing tens of millions of people do — but it’s the clumsy thing where it launches as an iPhone-sized window in the middle of the big iPad display, and you can hit the “double arrows” button to zoom the window to 2× size. You can also use Instagram via the web, on either Mac or iPad, and it’s a pretty full-featured app-like experience.</p>
 
-<p>What was frustrating about WhatsApp’s lack of iPad support until now is that you just couldn’t use WhatsApp at all from an iPad, <a href="https://youtu.be/lqtR0saaSwM?t=35">other than as a web app</a>. Because of the way WhatsApp handles security, you’re really only able to sign in to one “primary” device at a time, and that device must be a phone. Then, what you do to use WhatsApp on other supported platforms is set up those other devices as “<a href="https://faq.whatsapp.com/378279804439436/">linked devices</a>” from the WhatsApp app on your primary phone. WhatsApp still doesn’t let you use the same account from more than one phone, which is highly frustrating for those of us with somewhat unusual edge cases like writing reviews of new devices. WhatsApp’s phone apps — for both iOS and Android — can only serve as primary devices. There’s no way to use one phone as “primary” and use WhatsApp on a second phone as a linked device. I’d go nuts if iMessage worked that way. But that’s why, prior to Meta creating a proper iPad app for WhatsApp, you couldn’t just launch the iPhone app on iPad.</p>
+<p>What was frustrating about WhatsApp’s lack of iPad support until now is that you just couldn’t use WhatsApp at all from an iPad, <a href="https://youtu.be/lqtR0saaSwM?t=35">other than as a web app</a>. Because of the way WhatsApp handles security, you’re really only able to sign in to one “primary” device at a time, and that device must be a phone. Then, what you do to use WhatsApp on other supported platforms is set up those other devices as “<a href="https://faq.whatsapp.com/378279804439436/">linked devices</a>” from the WhatsApp app on your primary phone. <s>WhatsApp still doesn’t let you use the same account from more than one phone, which is highly frustrating for those of us with somewhat unusual edge cases like writing reviews of new devices. WhatsApp’s phone apps — for both iOS and Android — can only serve as primary devices. There’s no way to use one phone as “primary” and use WhatsApp on a second phone as a linked device.</s> I’d go nuts if iMessage worked that way. But that’s why, prior to Meta creating a proper iPad app for WhatsApp, you couldn’t just launch the iPhone app on iPad. [<strong>Update, 7 June:</strong> Turns out, <a href="https://daringfireball.net/linked/2025/06/07/whatsapp-phone-as-linked-device">WhatsApp added support for using phones as linked devices</a> two years ago. We regret the error.]</p>
 
 <p>Mark Gurman reported over the weekend that proper iPad support for Instagram <a href="https://www.bloomberg.com/news/newsletters/2025-06-01/apple-s-wwdc-2025-plan-macos-tahoe-apple-intelligence-ai-ios-26-games-app-mbdlzqpz">is forthcoming too</a>:</p>
 
@@ -1818,64 +1894,6 @@ gets dumped on retail.”</p>
 
 <div>
 <a  title="Permanent link to ‘How to Make Money on Trump’s Memecoin (Short It)’"  href="https://daringfireball.net/linked/2025/05/26/trump-memecoin">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘Sony: Because Caucasians Are Just Too Damn Tall’</title>
-	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=96iJsdGkl44" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wcm" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/26/sony-caucasions-are-just-too-damn-tall" />
-	<id>tag:daringfireball.net,2025:/linked//6.41926</id>
-	<published>2025-05-26T22:29:27Z</published>
-	<updated>2025-05-26T22:34:44Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Here’s a spoof commercial from the 1990 movie <em>Crazy People</em>, starring Dudley Moore and Daryl Hannah, <a href="https://www.themoviedb.org/movie/16814-crazy-people">which TMDB synopsizes</a>:</p>
-
-<blockquote>
-  <p>A bitter ad executive, who has reached his breaking point, finds
-himself in a mental institution, where his career actually begins
-to thrive with the help of the hospital’s patients.</p>
-</blockquote>
-
-<p>The New York Times <a href="https://daringfireball.net/linked/2025/05/26/young-chinese-women-have-small-fingers">would have you believe</a> this is relevant to Apple’s supply chain reliance on China.</p>
-
-<div>
-<a  title="Permanent link to ‘‘Sony: Because Caucasians Are Just Too Damn Tall’’"  href="https://daringfireball.net/linked/2025/05/26/sony-caucasions-are-just-too-damn-tall">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>The New York Times Digs in on the ‘Young Chinese Women Have Small Fingers’ Claim</title>
-	<link rel="alternate" type="text/html" href="https://bsky.app/profile/joolia.bsky.social/post/3lpw5thw4e22f" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wcl" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/26/young-chinese-women-have-small-fingers" />
-	<id>tag:daringfireball.net,2025:/linked//6.41925</id>
-	<published>2025-05-26T22:20:56Z</published>
-	<updated>2025-05-26T22:59:50Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Julia Carrie Wong, a reporter for the Guardian, has a whole thread over on Bluesky digging into the bizarre “young Chinese women have small fingers” line <a href="https://daringfireball.net/2025/05/idiocy_or_jackassery_you_make_the_call_made_in_america_iphone">in Tripp Mickle’s New York Times story</a> that tries to pretend that maybe sorta kinda Apple could assemble iPhones in the US. Mickle attributed the claim to “supply chain experts said”. Times spokesperson Charlie Stadtlander emailed Wong a statement that included the following:</p>
-
-<blockquote>
-  <p>Our reporting does not make racial or genetic generalizations, but
-simply cites experts who have experience with the industrial
-process in U.S. and Chinese factories.</p>
-</blockquote>
-
-<p>I didn’t write my piece on Mickle’s story until about a day after it appeared, and I fully expected while I was writing it that the Times would have removed or significantly edited that goofy claim. But no, it was still there Saturday, and it’s still there today. They’re standing behind it.</p>
-
-<p>You know how Peter Navarro — Trump’s <a href="https://www.cbsnews.com/news/peter-navarro-trade-counsel-trump/">crook</a> of an economic advisor who is the mastermind behind this whole tariffs thing — wrote a book that cited a purported expert named Ron Vara, <a href="https://www.npr.org/2019/10/18/771396016/white-house-adviser-peter-navarro-calls-fictional-alter-ego-an-inside-joke">and it turns out Ron Vara doesn’t exist</a> and his name is <a href="https://daringfireball.net/linked/2025/04/21/cook-trump-tariffs-wapo">just a dumb anagram</a> for “Navarro”? I’m thinking maybe the “supply chain experts” behind this notion that Apple assembles iPhones in China because “young Chinese women have small fingers” are the well-known supply chain masterminds Mipp Trickle and Trick Mipple.</p>
-
-<div>
-<a  title="Permanent link to ‘The New York Times Digs in on the ‘Young Chinese Women Have Small Fingers’ Claim’"  href="https://daringfireball.net/linked/2025/05/26/young-chinese-women-have-small-fingers">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
