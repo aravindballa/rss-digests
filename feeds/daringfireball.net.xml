@@ -7,14 +7,14 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-07T21:22:21Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-07T21:38:51Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>Swift 6 Productivity in the Sudden Age of LLM-Assisted Programming</title>
 	<link rel="alternate" type="text/html" href="https://mister.computer/@kyle/114608923901892223" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wdz" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/07/swift-6-llms" />
 	<id>tag:daringfireball.net,2025:/linked//6.41975</id>
 	<published>2025-06-07T21:10:30Z</published>
-	<updated>2025-06-07T21:22:21Z</updated>
+	<updated>2025-06-07T21:38:51Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -39,11 +39,11 @@ a worse time in the history of computers to launch, and require,
 fundamental and sweeping changes to languages and frameworks.</p>
 </blockquote>
 
-<p>The problem isn’t necessarily inherent to the design of the Swift language (but, speaking to a few friends who write Swift professionally, I think that might be <em>part</em> of it) but that throughout Swift’s evolution Apple has introduced sweeping changes with each major new version. Swift was introduced at WWDC 2014 (that one <a href="https://daringfireball.net/linked/2025/06/07/long-lost-df-post">again</a>) and last year Apple introduced Swift 6. That’s a lot of major version changes for a programming language in one decade. There were pros and cons to Apple’s approach over the last decade. But now there’s a new, and major con: because Swift 6 only debuted last year, there’s no great corpus of Swift 6 code for LLMs to have trained on, and so they’re just not as good — from what I gather, not <em>nearly</em> as good — at generating Swift 6 code as they are at generating code in other languages, and for other programming frameworks like React.</p>
+<p>The problem isn’t necessarily inherent to the design of the Swift language, but that throughout Swift’s evolution Apple has introduced sweeping changes with each major new version. (Secondarily, that compared to other languages, a lower percentage of Swift code that’s written is open source, and thus available to LLMs for use in training corpuses.) Swift was introduced at WWDC 2014 (that one <a href="https://daringfireball.net/linked/2025/06/07/long-lost-df-post">again</a>) and last year Apple introduced Swift 6. That’s a lot of major version changes for a programming language in one decade. There were pros and cons to Apple’s approach over the last decade. But now there’s a new, and major con: because Swift 6 only debuted last year, there’s no great corpus of Swift 6 code for LLMs to have trained on, and so they’re just not as good — from what I gather, not <em>nearly</em> as good — at generating Swift 6 code as they are at generating code in other languages, and for other programming frameworks like React.</p>
 
-<p>The new features in Swift 6 are for the better, but one friend described them to me as, “I think Swift 6 changed very little, but the little it changed has huge sweeping implications. Akin to the switch from <a href="https://medium.com/@yenatlij/memory-management-in-objective-c-mrr-and-arc-473cb769fb8d">MRR to ARC</a>.” That’s a reference to the change in Objective-C memory management from manual retain/release (MRR) to automatic reference counting (ARC) back in 2011. Once ARC came out, no one wanted to be writing new code using manual retain/release (which was both tedious and a common source of memory-leak bugs). But if LLMs had been around in 2011/2012, they’d only have been able to generate MRR Objective-C code because that’s what all the existing code they’d been trained on used.</p>
+<p>The new features in Swift 6 are for the better, but, in a group chat, my friend <a href="https://bitsplitting.org/">Daniel Jalkut</a> described them to me as, “I think Swift 6 changed very little, but the little it changed has huge sweeping implications. Akin to the switch from <a href="https://medium.com/@yenatlij/memory-management-in-objective-c-mrr-and-arc-473cb769fb8d">MRR to ARC</a>.” That’s a reference to the change in Objective-C memory management from manual retain/release (MRR) to automatic reference counting (ARC) back in 2011. Once ARC came out, no one wanted to be writing new code using manual retain/release (which was both tedious and a common source of memory-leak bugs). But if LLMs had been around in 2011/2012, they’d only have been able to generate MRR Objective-C code because that’s what all the existing code they’d been trained on used.</p>
 
-<p>I’m quite certain everyone at Apple who ought to be concerned about this <em>is</em> concerned about it. The question is, do they have solutions ready to announced next week? This whole area — language, frameworks, and tooling in the LLM era — is top of mind for me heading into WWDC next week.</p>
+<p>I’m quite certain everyone at Apple who ought to be concerned about this <em>is</em> concerned about it. The question is, do they have solutions ready to be announced next week? This whole area — language, frameworks, and tooling in the LLM era — is top of mind for me heading into WWDC next week.</p>
 
 <div>
 <a  title="Permanent link to ‘Swift 6 Productivity in the Sudden Age of LLM-Assisted Programming’"  href="https://daringfireball.net/linked/2025/06/07/swift-6-llms">&nbsp;★&nbsp;</a>
