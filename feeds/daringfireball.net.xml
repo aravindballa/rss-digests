@@ -7,7 +7,80 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-08T04:44:58Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-08T16:09:31Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/06/gurman_liquid_glass_terrible_analoy" />
+	<link rel="shorturl" href="http://df4.us/we0" />
+	<id>tag:daringfireball.net,2025://1.41976</id>
+	<published>2025-06-08T16:09:29Z</published>
+	<updated>2025-06-08T16:09:31Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">If it takes Apple as long to have its own competitive LLMs as it did to have its own competitive web browser, I suspect they’ll soon be paying to use the LLMs that are owned and controlled by others, not charging the others for the privilege of reaching Apple’s platform users.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p><a href="https://www.bloomberg.com/news/newsletters/2025-06-08/apple-s-liquid-glass-ios-26-software-redesign-to-hint-at-20th-anniversary-iphone-mbnm2u0d?cmpid=BBD060825_POWERON">Mark Gurman, in his eve-of-WWDC Power On column at Bloomberg</a>:</p>
+
+<blockquote>
+  <p>The Liquid Glass interface is going to be the most exciting part
+of this year’s developer conference. It will also be a bit of a
+distraction from the reality facing Apple: The company is behind
+in artificial intelligence, and WWDC will do little to change
+that. Instead, Apple is making its successful operating system
+franchise more capable and sleek — even as others move on to more
+groundbreaking AI-centric interfaces.</p>
+</blockquote>
+
+<p>Perhaps the first major hint that Apple was moving toward fluidity in the UI was the Dynamic Island, which doesn’t merely expand and contract as it changes shape, but rather appears to <em>flow</em>, <a href="https://www.lux.camera/physicality-the-new-age-of-ui/#:~:text=The%20Dynamic%20Island%20is%20a%20stark%2C%20graphic%20interface%20that%20behaves%20like%20an%20interactive%2C%20viscous%20liquid">with a pleasant viscosity</a>.</p>
+
+<blockquote>
+  <p>The best analogy for Apple right now might be the car industry.
+Apple produces the best gas cars on the road (its operating
+systems) and is making them even more upscale. It has rolled out a
+hybrid (Apple Intelligence), but it’s <a href="https://archive.ph/o/AKlk9/https://www.bloomberg.com/news/features/2025-05-18/how-apple-intelligence-and-siri-ai-went-so-wrong">struggling to make</a> a
+true all-electric vehicle (unlike companies such as OpenAI and
+Alphabet Inc.’s Google).</p>
+</blockquote>
+
+<p>This is such a terrible analogy. If you buy an EV, you use it <em>instead of</em> your old gas-powered car. There’s nothing from OpenAI or Google that allows you not to use a device running a conventional OS. The only way to use ChatGPT, or Gemini, or <a href="https://deepmind.google/models/veo/">Google’s rather amazing Veo 3</a> video generation tool, is using a phone or computer running iOS, MacOS, Android, Windows, or Linux. Gurman’s analogy would only work if the way you got around in an EV was to put it in the back of a gas-powered flatbed <a href="https://www.youtube.com/watch?v=YfJ3QxJYsw8">truck</a>.</p>
+
+<p>Gas-powered vehicles are probably going away. I sure hope they do. But cars and trucks aren’t going away. A better analogy is that AI is doing to today’s dominant OSes what web browsers did to Windows in the late 1990s. They’re adding new interactive layers atop the old. Windows didn’t go away. Microsoft still makes tons of money from Windows today. But Windows’s primacy as a platform went away. And: Microsoft pivoted quickly in the face of Netscape and the web’s threat, and created Internet Explorer, which squashed Netscape, and became, for at least a decade-long stint, the preeminent web browser. It was essential for Apple to create Safari/WebKit for Mac OS X to thrive. If Apple hadn’t succeeded with WebKit on Mac OS X they wouldn’t have had their own first-class web rendering engine to adapt for a 3.5-inch touchscreen in 2007. An iPhone without the real web wouldn’t have been the iPhone. And the only reason the original iPhone had the real web is that Apple owned and controlled Safari and WebKit.</p>
+
+<p>What Apple, I think, needs for iOS and MacOS is the AI equivalent of what Safari and WebKit were for the web two decades ago. The <a href="https://www.asymco.com/2011/01/17/the-cook-doctrine/">oft-cited Cook Doctrine</a> says “we need to own and control the primary technologies behind the products we make”. 25 years ago it was obvious that a web browser and rendering engine were primary technologies. Apple certainly couldn’t afford back then to continue to be dependent upon Microsoft for the Mac version of IE, nor on open source cross-platform browsers like Firefox that would never feel native on the Mac (or, more importantly, on future Apple platforms). But Safari and WebKit were, if you think about it, late. <a href="https://daringfireball.net/2003/01/safari">They were announced at Macworld Expo in January 2003</a> (just five months after the debut of this website). Netscape’s blockbuster IPO was in August 1995, over seven years prior. The entire dot-com bubble and burst took place before Safari shipped. The Mac, and thus Apple, made due with non-Apple browsers in those intervening years — browsers that were all some mix of non-native clunky UI, slow, incompatible (with Windows IE), ugly (e.g. IE text rendering on Mac OS X), and often downright unstable. (And application crashes on classic Mac OS would often bring down the entire system.)</p>
+
+<p>The concern for Apple today is that they’re in trouble if it takes six or seven years for them to get to their Safari/WebKit moment for AI. Things are moving faster with AI today than they were with the web in the 1990s. At the peak of Netscape mania in 1995, there were many who believed Netscape would topple Microsoft. At the time Netscape founder Marc Andreessen <a href="https://en.wikiquote.org/wiki/Marc_Andreessen">proclaimed</a> that Netscape would reduce Windows to “a poorly debugged set of device drivers”. That obviously didn’t happen. But perhaps not just <em>a</em> but <em>the</em> reason why that didn’t happen is that Microsoft quickly built and shipped a better browser than Netscape’s. They didn’t just build a browser into Windows, they built a <em>better</em> browser into Windows. And they made a better browser for the Mac too. If it had taken Microsoft until 2003 (when Apple debuted Safari) to ship IE, our computing platform history may well be very different.</p>
+
+<p>iOS today is the closest to what Windows was circa 1995. iOS doesn’t have Windows’s 95 percent market share, but the iPhone has some sort of monopoly <em>profit</em> share in mobile device sales. And iOS is plainly dominant. That’s why there’s all this <em>Sturm und Drang</em> surrounding Apple’s App Store commissions and iron-fisted control over all iOS software. After the announcement last year of OpenAI as a partner for “world knowledge” in Apple Intelligence — and, a year later, they’re still the only partner — Wayne Ma at The Information reported that Apple wasn’t paying a cent for this integration, and that the plan <a href="https://daringfireball.net/linked/2024/06/13/ma-apple-openai">was for OpenAI to eventually begin paying Apple in a revenue sharing deal</a>:</p>
+
+<blockquote>
+  <p>Neither Apple nor OpenAI are paying each other to integrate
+ChatGPT into the iPhone, according to a person with knowledge of
+the deal. Instead, OpenAI hopes greater exposure on iPhones will
+help it sell a paid version of ChatGPT, which costs around $20 a
+month for individuals. Apple would take its 30% cut of these
+subscriptions as is customary for in-app purchases.</p>
+
+<p>Sometime in the future, Apple hopes to strike revenue-sharing
+agreements with AI partners in which it gets a cut of the revenue
+generated from integrating their chatbots with the iPhone,
+according to Bloomberg, which first reported details of the deal.</p>
+</blockquote>
+
+<p>That sounds a lot like the revenue sharing deal Apple has with Google for search in Safari — a deal (which is at some degree of risk <a href="https://daringfireball.net/linked/2025/05/07/eddy-cue-safari-ai">from Google’s own antitrust problems</a>) that now results in <a href="https://daringfireball.net/linked/2023/10/27/google-aggregate-search-default">Google paying Apple over $20 billion per year</a> for the traffic Safari sends to Google Search.</p>
+
+<p>In hindsight, we now know that web browsers, in and of themselves, don’t generate any money directly. Someone was going to give a good one away free and now almost all of them are free of charge. But that doesn’t mean it isn’t essential for a platform to own and control its own browser. Web search, it turns out, is where the money is on the World Wide Web. Not just <em>some</em> money but an almost unfathomable amount of money. Web search is not primary technology for Apple’s platforms. But because they own and control Safari and WebKit, and Safari and WebKit are <em>very good</em> (so that most of Apple’s customers use them), Apple is in a position to profit very handsomely from web search, even though it doesn’t even have a search engine to speak of. Apple’s net annual profit the last few years has been around $95 billion. If we assume Google’s $20B/year traffic acquisition revenue sharing payments to Apple are mostly profit, that means somewhere between 20–25 percent of all Apple’s profit comes from that deal.</p>
+
+<p>So are LLMs akin to browsers (platforms need to own control their own, but they won’t make money from them directly) or to web search (platforms like Apple’s don’t need their own, and Apple can profit handsomely by charging for built-in integration with their platforms, because their platforms are dominant)?</p>
+
+<p>I think the answer is somewhere in between. Browsers are essential to personal computing platforms because they run on-device. Web search isn’t essential to own and control because it runs in the cloud, but exists only to serve users running devices. LLMs run both locally and in the cloud. If it takes Apple as long to have its own competitive LLMs as it did to have its own competitive web browser, I suspect they’ll soon be paying to use the LLMs that are owned and controlled by others, not charging the others for the privilege of reaching Apple’s platform users. No simple analogy captures this dynamic. But the threat is palpable.</p>
+
+<p>I will say, though, “Liquid Glass” sounds cool.</p>
+
+
+
+    ]]></content>
+  <title>★ Gurman Says New UI Is Named ‘Liquid Glass’ (and Makes a Terrible Analogy Regarding Apple’s Risk With Falling Behind on AI)</title></entry><entry>
 	<title>Bill Atkinson Dies From Cancer at 74</title>
 	<link rel="alternate" type="text/html" href="https://www.facebook.com/story.php?story_fbid=10238073579963378&amp;id=1378467145&amp;_rdr" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wdv" />
@@ -2218,78 +2291,4 @@ Greg</p>
 
 
     ]]></content>
-  <title>★ 15 Years Later: ‘Very Insightful and Not Negative’</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/05/that_eu_app_store_warning_about_external_purchases_is_not_new" />
-	<link rel="shorturl" href="http://df4.us/wbl" />
-	<id>tag:daringfireball.net,2025://1.41889</id>
-	<published>2025-05-15T21:09:49Z</published>
-	<updated>2025-05-19T22:45:00Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">Apple proposed a much less objectionable “external payments” disclosure in August, but claims that the EC told them not to implement it.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>Some interesting follow-up on <a href="https://daringfireball.net/linked/2025/05/14/app-store-eu-payment-warning">that piece yesterday</a> about the warning — with a prominent red “!” icon — in App Store listings for apps in the EU that use their own payment processing. Apple told me that exact same warning has been in place since the very beginning of their DMA compliance, in March 2024.</p>
-
-<p>Jacob Eiting, CEO of RevenueCat, <a href="https://x.com/jeiting/status/1922010640539123921">tweeted on X</a>:</p>
-
-<blockquote>
-  <p>I think this is EU only and might have been around for a while, I
-just assumed nobody bothered with the DMA implementation for
-external purchases since they were pointless.</p>
-
-<p>Fewer than 100 developers have availed themselves of this option
-for obvious reasons.</p>
-</blockquote>
-
-<p>I think this blew up a bit yesterday because, despite the fact that it had been around since March 2024, few of us had ever seen it before because so few apps in the App Store use it. Eiting includes a link to <a href="https://developer.apple.com/support/alternative-payment-options-on-the-app-store-in-the-eu/#user-disclosures">Apple’s own developer documentation for its DMA compliance features</a>, which makes this clear:</p>
-
-<blockquote>
-  <p>To help users understand whether an app contains an alternative
-payment option, the App Store will display an informational banner
-on the app’s product page to identify the developer’s enablement
-of this entitlement. When downloading an app, users are also
-informed if an app uses PSPs or links out on the purchase
-confirmation sheet. Apps that contain an alternative payment
-option are required to present users with a disclosure prior to
-each transaction or link out to purchase to help them understand
-that the purchase isn’t backed by Apple.</p>
-</blockquote>
-
-<p>I actually think that’s very useful information that <em>should</em> be on an app’s App Store listing. Users should know what to expect, and iPhone users’ expectations are that digital goods transactions go through Apple’s IAP. The problem with this disclosure, as it stands, is the way it looks: like a big scary warning. It should be something more akin to the privacy “nutrition label” information.</p>
-
-<p>And, it turns out, <a href="https://developer.apple.com/support/alternative-payment-options-on-the-app-store-in-the-eu/#user-disclosures">Apple itself publicly proposed exactly such a change back in August</a>. Apple’s proposed updated disclosure uses a small gray <em>i</em>-in-circle “info” icon (replacing the bigger red !-in-triangle “warning” icon), and the following text (<a href="https://daringfireball.net/misc/2025/05/user-disclosures-eu-transactions.png">screenshot</a>):</p>
-
-<blockquote>
-  <p>Transactions in this app are supported
-by the developer and not Apple.<br>
-<a href="https://apps.apple.com/hu/story/id1726640865">Learn More</a></p>
-</blockquote>
-
-<p>I would quibble with the fact that Apple’s proposal places that disclosure at the very top of the listing page in the App Store, above even the app’s name and icon, but visually and verbally it’s good. Clear, informative, and non-judgmental. </p>
-
-<p>Per what I’ve been told by Apple, they were (and still are) prepared to implement these changes, including the new disclosure screen. The EC raised no objection to the new disclosure proposal, but insisted that Apple <em>not</em> implement the changes at the time. Then, according to Apple, the EC never provided further guidance, until last month when they fined Apple €500M for noncompliance. (And the EC <a href="https://daringfireball.net/linked/2025/04/23/ec-clear-as-mud">still hasn’t told Apple</a> what it wants the company to do.)</p>
-
-<p>This seems to be the exact dynamic <a href="https://www.politico.eu/article/apple-to-appeal-e500m-digital-fine-over-eus-silence-in-compliance-talks/">Politico reported on last week</a> (and that <a href="https://daringfireball.net/linked/2025/05/15/apple-ec-proposals-feedback">I just linked to earlier today</a>):</p>
-
-<blockquote>
-  <p>According to correspondence seen by Politico, Apple offered last
-summer <a href="https://developer.apple.com/news/?id=szrqxadx">to drop its rules</a> on how app developers can
-communicate with users, but was told by the Commission to hold
-off, pending feedback from developers.</p>
-
-<p>By late September and following a round of consultations with
-Apple critics like Spotify, Match Group and Epic Games, executives
-at the U.S.-based firm began worrying that a lack of feedback from
-the Commission meant it was teeing up a potential fine and
-noncompliance decision.</p>
-</blockquote>
-
-<p>Heads, Apple was going to get fined by the EC. Tails, Apple was going to get fined by the EC.</p>
-
-
-
-    ]]></content>
-  <title>★ That EU App Store Warning About External Purchases Is Not New, and Apple Proposed Improving It Nine Months Ago</title></entry></feed><!-- THE END -->
+  <title>★ 15 Years Later: ‘Very Insightful and Not Negative’</title></entry></feed><!-- THE END -->
