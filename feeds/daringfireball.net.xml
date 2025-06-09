@@ -7,7 +7,58 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-08T19:14:37Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-09T01:08:01Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Apple Researchers Publish Paper on the Limits of Reasoning Models (Showing That They’re Not Really ‘Reasoning’ at All)</title>
+	<link rel="alternate" type="text/html" href="https://machinelearning.apple.com/research/illusion-of-thinking" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/we1" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/08/apple-research-lrms" />
+	<id>tag:daringfireball.net,2025:/linked//6.41977</id>
+	<published>2025-06-09T01:08:00Z</published>
+	<updated>2025-06-09T01:08:01Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Parshin Shojaee, Iman Mirzadeh, Keivan Alizadeh, Maxwell Horton, Samy Bengio, and Mehrdad Farajtabar, from Apple’s Machine Learning Research team:</p>
+
+<blockquote>
+  <p>Recent generations of frontier language models have introduced
+Large Reasoning Models (LRMs) that generate detailed thinking
+processes before providing answers. While these models demonstrate
+improved performance on reasoning benchmarks, their fundamental
+capabilities, scaling properties, and limitations remain
+insufficiently understood. [...] Through extensive experimentation
+across diverse puzzles, we show that frontier LRMs face a complete
+accuracy collapse beyond certain complexities. Moreover, they
+exhibit a counterintuitive scaling limit: their reasoning effort
+increases with problem complexity up to a point, then declines
+despite having an adequate token budget. By comparing LRMs with
+their standard LLM counterparts under equivalent inference
+compute, we identify three performance regimes: (1) low-complexity
+tasks where standard models surprisingly outperform LRMs, (2)
+medium-complexity tasks where additional thinking in LRMs
+demonstrates advantage, and (3) high-complexity tasks where both
+models experience complete collapse. We found that LRMs have
+limitations in exact computation: they fail to use explicit
+algorithms and reason inconsistently across puzzles. We also
+investigate the reasoning traces in more depth, studying the
+patterns of explored solutions and analyzing the models’
+computational behavior, shedding light on their strengths,
+limitations, and ultimately raising crucial questions about their
+true reasoning capabilities.</p>
+</blockquote>
+
+<p>The full paper is quite readable, but today was my travel day and I haven’t had time to dig in. And it’s a PDF so I couldn’t read it on my phone. (Coincidence or not that this dropped on the eve of WWDC?)</p>
+
+<p>My basic understanding after a skim is that the paper shows, or at least strongly suggests, that LRMs don’t “reason” at all. They just use vastly more complex pattern-matching than LLMs. The result is that LRMs effectively overthink on simple problems, outperform LLMs on mid-complexity puzzles, and fail in the same exact way LLMs do on high-complexity tasks and puzzles.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Researchers Publish Paper on the Limits of Reasoning Models (Showing That They’re Not Really ‘Reasoning’ at All)’"  href="https://daringfireball.net/linked/2025/06/08/apple-research-lrms">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/06/gurman_liquid_glass_terrible_analogy" />
 	<link rel="shorturl" href="http://df4.us/we0" />
@@ -1919,64 +1970,6 @@ be designers.</p>
 
 <div>
 <a  title="Permanent link to ‘On the Engineering Talent at io’"  href="https://daringfireball.net/linked/2025/05/27/on-the-engineering-talent-at-io">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple’s Satellite Networking Ambitions</title>
-	<link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/apples-satellite-ambitions-threatened-elon-musk-internal-resistance?rc=jfy0lk" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wcs" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/27/apples-satellite-networking-ambitions" />
-	<id>tag:daringfireball.net,2025:/linked//6.41932</id>
-	<published>2025-05-27T21:52:43Z</published>
-	<updated>2025-05-27T21:52:44Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Aaron “Homeboy” Tilley (<a href="https://daringfireball.net/linked/2025/03/11/wsj-tech-layoffs">recently of the WSJ</a>) and Wayne Ma, at the paywalled-up-the-wazoo The Information:</p>
-
-<blockquote>
-  <p>Starting in 2015, Apple and Boeing held early discussions about a
-satellite internet project that would involve delivering
-full-blown wireless internet service, not just emergency
-communications services, to iPhones and homes, said five people
-involved in or briefed on the project.</p>
-
-<p>Through the effort, dubbed Project Eagle within Apple, the
-companies would lob thousands of Boeing satellites into orbit to
-beam internet down to iPhones. For home users, Apple planned to
-offer antennas people could stick to their windows to disperse
-their internet connection throughout the building. (Satellite
-internet requires a device to have an uninterrupted line of sight
-to the sky.)</p>
-
-<p>For the project’s champions, it was an ambitious gambit to provide
-a more seamless Apple experience. Some inside Apple saw mobile
-carriers as necessary but inconvenient partners that held the
-company’s iPhone plans back. With a global satellite system, Apple
-could provide more of the key ingredients for its products,
-reducing its dependency on outside partners.</p>
-
-<p>The lead executive and architect behind the project was Apple’s
-longtime wireless chief, Rubén Caballero. Apple spent around $36
-million testing out the concept at a secret location in El
-Segundo, Calif., the people with knowledge of the project said.
-The team aimed to launch the service in 2019.</p>
-
-<p>But eventually Apple got cold feet. Tim Cook, Apple’s CEO, was
-concerned that the project would jeopardize the company’s
-relationship with the telecom industry, said people with direct
-knowledge of the project. It was also an expensive undertaking
-with an unclear near-term business case. At the end of 2016, Apple
-canceled the project. (Caballero <a href="https://www.theinformation.com/articles/apple-executive-responsible-for-5g-efforts-departs">left the company</a> in 2019.)</p>
-</blockquote>
-
-<p>The segment I quote here is midway through the article. It leads with purported offers from Elon Musk to Apple to rely exclusively on Starlink for satellite networking. Starlink offers a <a href="https://x.com/jasonfried/status/1873056615345340566">genuinely incredible service</a>. But there’s no way Apple was going to make a <em>get into bed together</em> deal with Elon Musk. Starlink’s technology and satellite coverage are extraordinary, but Musk personally is just too erratic. It’s a bizarre, dare I say unprecedented, combination. He’s like Howard Hughes but with much better tech (and, perhaps, fewer bottles of his own urine strewn about his bedroom).</p>
-
-<div>
-<a  title="Permanent link to ‘Apple’s Satellite Networking Ambitions’"  href="https://daringfireball.net/linked/2025/05/27/apples-satellite-networking-ambitions">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
