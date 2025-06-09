@@ -7,14 +7,122 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-09T01:08:01Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-09T01:54:57Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>The Talk Show Live From WWDC 2025: Tuesday at 7pm PT in San Jose</title>
+	<link rel="alternate" type="text/html" href="https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2025" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/we4" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/08/the-talk-show-live-tickets-2025" />
+	<id>tag:daringfireball.net,2025:/linked//6.41980</id>
+	<published>2025-06-09T01:54:37Z</published>
+	<updated>2025-06-09T01:54:38Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p><strong>Location:</strong> The California Theatre, San Jose <br />
+<strong>Showtime:</strong> Tuesday, 10 June 2025, 7pm PT (Doors open 6pm) <br />
+<strong>Special Guest(s):</strong> <em>Indeed</em> <br />
+<strong>Price:</strong> $50</p>
+
+<p>A different type of show this year, and I’m excited for it. If you can make it, you should come. You’ll even enjoy the prelude, mingling with fellow DF readers and listeners.</p>
+
+<div>
+<a  title="Permanent link to ‘The Talk Show Live From WWDC 2025: Tuesday at 7pm PT in San Jose’"  href="https://daringfireball.net/linked/2025/06/08/the-talk-show-live-tickets-2025">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>An Eve of WWDC Spitball Theory on the Rumored New ‘Games’ App</title>
+	<link rel="alternate" type="text/html" href="https://9to5mac.com/2024/10/22/apple-new-app-store-like-app-games/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/we3" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/08/apple-games-app-store-spitball" />
+	<id>tag:daringfireball.net,2025:/linked//6.41979</id>
+	<published>2025-06-09T01:32:47Z</published>
+	<updated>2025-06-09T01:32:47Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Filipe Espósito, in a scoop for 9to5Mac all the way back in October:</p>
+
+<blockquote>
+  <p>9to5Mac has learned details about the new project from reliable
+sources familiar with the matter. The new app combines
+functionality from the App Store and Game Center in one place. The
+gaming app is not expected to replace Game Center. In fact, it
+will integrate with the user’s Game Center profile.</p>
+
+<p>According to our sources, the app will have multiple tabs,
+including a “Play Now” tab, a tab for the user’s games, friends,
+and more. In Play Now, users will find editorial content and game
+suggestions. The app will also show things like challenges,
+leaderboards, and achievements. Games from both the App Store and
+Apple Arcade will be featured in the new store.</p>
+</blockquote>
+
+<p>Even before <a href="https://9to5mac.com/2025/05/27/ios-19-gaming-app/">Mark Gurman corroborated this report</a> last week, I’ve had a spitball theory about what it might mean. Perhaps this about more than having one app (Games) for finding and installing games, and another (App Store) for finding and installing apps. It could signal that Apple is poised to establish different policies for apps and games. Like, what if games still use the longstanding 70/30 commission split (with small business developers getting 85/15), but non-game apps get a new reduced rate? Say, 80/20 or even 85/15 right off the top, with small business developers and second-year subscriptions going to 90/10?</p>
+
+<p>Having separate store apps for apps and games would help establish the idea that games and apps are two entirely different markets.</p>
+
+<div>
+<a  title="Permanent link to ‘An Eve of WWDC Spitball Theory on the Rumored New ‘Games’ App’"  href="https://daringfireball.net/linked/2025/06/08/apple-games-app-store-spitball">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Breaking Down Why Apple TVs Are Privacy Advocates’ Go-To Streaming Device</title>
+	<link rel="alternate" type="text/html" href="https://arstechnica.com/gadgets/2025/06/all-the-ways-apple-tv-boxes-do-and-mostly-dont-track-you/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/we2" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/08/apple-tv-privacy" />
+	<id>tag:daringfireball.net,2025:/linked//6.41978</id>
+	<published>2025-06-09T01:24:06Z</published>
+	<updated>2025-06-09T01:54:57Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Scharon Harding, writing at Ars Technica:</p>
+
+<blockquote>
+  <p>“Just disconnect your TV from the Internet and use an Apple
+TV box.”</p>
+
+<p>That’s the common guidance you’ll hear from Ars readers for those
+seeking the joys of streaming without giving up too much privacy.
+Based on our research and the experts we’ve consulted, that advice
+is pretty solid, as Apple TVs offer significantly more privacy
+than other streaming hardware providers.</p>
+
+<p>But how private are Apple TV boxes, really? Apple TVs don’t use
+automatic content recognition (ACR, a user-tracking technology
+leveraged by nearly all smart TVs and streaming devices), but
+could that change? And what about the software that Apple TV users
+do use — could those apps provide information about you to
+advertisers or Apple?</p>
+
+<p>In this article, we’ll delve into what makes the Apple TV’s
+privacy stand out and examine whether users should expect the
+limited ads and enhanced privacy to last forever.</p>
+</blockquote>
+
+<p>tvOS is perhaps Apple’s least-talked-about platform. (It surely has orders of magnitude more users than VisionOS, but VisionOS gets talked about because it’s so audacious.) But it might be their platform that’s the furthest ahead of its competition. Not because tvOS is insanely great, but it’s at least pretty good, and every other streaming TV platform seems to be in a race to make real <a href="https://www.youtube.com/watch?v=YqQ6D0Bu-a8">the future TV interface from <em>Idiocracy</em></a>. It’s not just that they’re bad interfaces with deplorable privacy, it’s that they’re outright <em>against</em> the user.</p>
+
+<div>
+<a  title="Permanent link to ‘Breaking Down Why Apple TVs Are Privacy Advocates’ Go-To Streaming Device’"  href="https://daringfireball.net/linked/2025/06/08/apple-tv-privacy">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple Researchers Publish Paper on the Limits of Reasoning Models (Showing That They’re Not Really ‘Reasoning’ at All)</title>
 	<link rel="alternate" type="text/html" href="https://machinelearning.apple.com/research/illusion-of-thinking" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/we1" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/08/apple-research-lrms" />
 	<id>tag:daringfireball.net,2025:/linked//6.41977</id>
 	<published>2025-06-09T01:08:00Z</published>
-	<updated>2025-06-09T01:08:01Z</updated>
+	<updated>2025-06-09T01:09:13Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -49,7 +157,7 @@ limitations, and ultimately raising crucial questions about their
 true reasoning capabilities.</p>
 </blockquote>
 
-<p>The full paper is quite readable, but today was my travel day and I haven’t had time to dig in. And it’s a PDF so I couldn’t read it on my phone. (Coincidence or not that this dropped on the eve of WWDC?)</p>
+<p>The full paper is quite readable, but today was my travel day and I haven’t had time to dig in. And <a href="https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf">it’s a PDF</a> so I couldn’t read it on my phone. (Coincidence or not that this dropped on the eve of WWDC?)</p>
 
 <p>My basic understanding after a skim is that the paper shows, or at least strongly suggests, that LRMs don’t “reason” at all. They just use vastly more complex pattern-matching than LLMs. The result is that LRMs effectively overthink on simple problems, outperform LLMs on mid-complexity puzzles, and fail in the same exact way LLMs do on high-complexity tasks and puzzles.</p>
 
@@ -1860,32 +1968,6 @@ because their initial versions didn’t debut at the same time.</p>
 
 	]]></content>
   </entry><entry>
-	<title>The Resistance Is Working Better Than You Think</title>
-	<link rel="alternate" type="text/html" href="https://politicalwire.com/2025/05/28/the-resistance-is-working-better-than-you-think/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wcw" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/28/resistance-is-working" />
-	<id>tag:daringfireball.net,2025:/linked//6.41936</id>
-	<published>2025-05-28T16:25:42Z</published>
-	<updated>2025-05-28T16:26:26Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Taegan Goddard:</p>
-
-<blockquote>
-  <p>For all the bluster and bravado, Donald Trump is losing. A lot.</p>
-</blockquote>
-
-<p>Keep the faith.</p>
-
-<div>
-<a  title="Permanent link to ‘The Resistance Is Working Better Than You Think’"  href="https://daringfireball.net/linked/2025/05/28/resistance-is-working">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://ooni.com/products/ooni-halo-pro-spiral-mixer?utm_source=daringfireball&amp;utm_medium=web&amp;utm_campaign=halo_pro" />
 	<link rel="shorturl" href="http://df4.us/wcv" />
@@ -1911,69 +1993,6 @@ because their initial versions didn’t debut at the same time.</p>
 
 	]]></content>
 	<title>[Sponsor] Ooni Halo Pro Spiral Mixer</title></entry><entry>
-	<title>‘The Future Is Colourful and Dimensional’</title>
-	<link rel="alternate" type="text/html" href="https://www.flarup.email/p/the-future-is-colourful-and-dimensional" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wcu" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/27/the-future-is-colourful-and-dimensional" />
-	<id>tag:daringfireball.net,2025:/linked//6.41934</id>
-	<published>2025-05-27T23:46:44Z</published>
-	<updated>2025-05-27T23:46:45Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Michael Flarup:</p>
-
-<blockquote>
-  <p>Whatever we call it (Diamorph or otherwise), I’m just glad to see
-interfaces getting weird and wonderful again. We’re not going
-back. We’re going forward — with depth, with texture, and maybe
-even with a little joy.</p>
-</blockquote>
-
-<p>Depth is good — humans innately understand three dimensions. Texture is good. We’ve lost so much over the last decade. I hope that’s where Apple is heading back.</p>
-
-<div>
-<a  title="Permanent link to ‘‘The Future Is Colourful and Dimensional’’"  href="https://daringfireball.net/linked/2025/05/27/the-future-is-colourful-and-dimensional">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>On the Engineering Talent at io</title>
-	<link rel="alternate" type="text/html" href="https://sixcolors.com/post/2025/05/sam-and-jony-and-skepticism/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wct" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/27/on-the-engineering-talent-at-io" />
-	<id>tag:daringfireball.net,2025:/linked//6.41933</id>
-	<published>2025-05-27T22:34:14Z</published>
-	<updated>2025-06-04T17:25:06Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jason Snell, pouring some admittedly welcome skepticism on the whole LoveFrom-OpenAI IO endeavor:</p>
-
-<blockquote>
-  <p>I’m skeptical of the composition of <a href="https://daringfireball.net/linked/2025/05/22/gurman-io-team">the io leadership team</a>,
-which features an awful lot of product designers and not a lot of
-hardware engineers. I’m sure there are talented engineers there
-too — the OpenAI announcement refers to “physicists, scientists,
-researchers” among the team members — but the fact remains that
-this is a startup whose leader and key lieutenants appear to all
-be designers.</p>
-</blockquote>
-
-<p>Maybe the whole io thing will come to naught. Maybe it’s all hat, no cattle. Maybe it’s a great idea but a long shot to play out (which is my gut feeling). But there’s a weird internal-to-Apple lingo thing here. At Apple “product designers” are very much engineers. PD at Apple is a hardware engineering discipline, not the kind of “design” you’re probably thinking of as “design”. These are the mechanical and electrical engineers who are doing the “design” work of fitting stuff in the box. The nomenclature is distinct, to the best of my knowledge, from the rest of Silicon Valley, where designers design, effectively, sketches, and then hand those sketches off to engineers to be made. At Apple, and now, io and LoveFrom, “product designers” are part of the sketching process. They’re trying to figure out how to make things real, what’s feasible, throughout the process.</p>
-
-<p>I think Snell’s overall take is perfectly measured and probably a perfect chaser to my own <a href="https://daringfireball.net/linked/2025/05/21/sam-and-jony-io">at-least-slightly exuberant optimism</a>. But make no mistake: the current team at io is loaded with what every other company would consider mechanical and electrical engineers — they’re just mechanical and electrical engineers who know how to dance with <em>designer</em> designers. Engineers, in that vein, outnumber pure designers at io already.</p>
-
-<div>
-<a  title="Permanent link to ‘On the Engineering Talent at io’"  href="https://daringfireball.net/linked/2025/05/27/on-the-engineering-talent-at-io">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/05/idiocy_or_jackassery_you_make_the_call_made_in_america_iphone" />
 	<link rel="shorturl" href="http://df4.us/wci" />
