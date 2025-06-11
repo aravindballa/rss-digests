@@ -7,7 +7,39 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-11T18:32:57Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-11T19:56:39Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>MacOS 26 Tahoe Drops Support for Some Intel-Based Macs, and Will Be the Last to Support Intel Macs at All</title>
+	<link rel="alternate" type="text/html" href="https://512pixels.net/2025/06/wwdc25-macos-tahoe-compatibility/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wea" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/11/macos-26-intel-support" />
+	<id>tag:daringfireball.net,2025:/linked//6.41986</id>
+	<published>2025-06-11T19:55:54Z</published>
+	<updated>2025-06-11T19:56:39Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Stephen Hackett has a list of the Intel Macs that MacOS 26 Tahoe supports, and the ones they’re dropping support for this year. </p>
+
+<p>Apple has gone through three CPU architecture transitions in the Mac’s history:</p>
+
+<ul>
+<li>68K to PowerPC starting in 1994</li>
+<li>PowerPC to Intel starting in 2006</li>
+<li>Intel to Apple Silicon, starting 2020</li>
+</ul>
+
+<p>With the 68K–PowerPC transition, they supported 68K Macs through Mac OS 8.1, which was released in January 1998. With the PowerPC–Intel transition, they only supported PowerPC Macs for two Mac OS X versions, Mac OS X 10.4 Tiger (which initially shipped PowerPC-only in 2005) and 10.5 Leopard in October 2007. The next release, 10.6 Snow Leopard in August 2009, was Intel-only. (Mac OS X dropped to a roughly two-year big-release schedule during the initial years after the iPhone, when the company prioritized engineering resources on iOS. It’s easy to take for granted that today’s Apple has every single platform on an annual cadence.)</p>
+
+<p>With next year’s version going Apple Silicon-only, they’ll have supported Intel Macs for five major MacOS releases after the debut of the first Apple Silicon Macs. I think that’s about the best anyone could have hoped for.</p>
+
+<div>
+<a  title="Permanent link to ‘MacOS 26 Tahoe Drops Support for Some Intel-Based Macs, and Will Be the Last to Support Intel Macs at All’"  href="https://daringfireball.net/linked/2025/06/11/macos-26-intel-support">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Joanna Stern With Craig Federighi and Greg Joswiak: ‘Apple Executives Defend Apple Intelligence, Siri and AI Strategy’</title>
 	<link rel="alternate" type="text/html" href="https://www.wsj.com/video/series/joanna-stern-personal-technology/apple-executives-defend-apple-intelligence-siri-and-ai-strategy/A7F62EE4-E4F5-4E5D-969A-22644536A47B" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/we9" />
@@ -1867,33 +1899,6 @@ maintenance or support.</p>
 
 <div>
 <a  title="Permanent link to ‘Script Debugger Retired’"  href="https://daringfireball.net/linked/2025/06/02/script-debugger-retired">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>The Talk Show Live From WWDC 2025: Tuesday June 10</title>
-	<link rel="alternate" type="text/html" href="https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2025" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wd0" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/05/29/the-talk-show-live-tickets-2025" />
-	<id>tag:daringfireball.net,2025:/linked//6.41940</id>
-	<published>2025-05-30T02:50:00Z</published>
-	<updated>2025-06-03T18:58:14Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p><strong>Location:</strong> The California Theatre, San Jose <br />
-<strong>Showtime:</strong> Tuesday, 10 June 2025, 7pm PT (Doors open 6pm) <br />
-<strong>Special Guest(s):</strong> <em>See below</em> <br />
-<strong>Price:</strong> $50</p>
-
-<p>Ever since I started doing these live shows from WWDC, I’ve kept the guest(s) secret, until showtime. I’m still doing that this year. But in recent years the guests have seemed a bit predictable: senior executives from Apple. This year I again extended my usual invitation to Apple, but, for the first time <a href="https://daringfireball.net/thetalkshow/2015/06/09/ep-123">since 2015</a>, they declined.</p>
-
-<p>I think this will make for a fascinating show, but I want to set everyone’s expectations accordingly. I’m invigorated by this. See you at the show, I hope.</p>
-
-<div>
-<a  title="Permanent link to ‘The Talk Show Live From WWDC 2025: Tuesday June 10’"  href="https://daringfireball.net/linked/2025/05/29/the-talk-show-live-tickets-2025">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
