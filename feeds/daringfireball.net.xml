@@ -7,7 +7,37 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-12T21:52:44Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-12T22:09:09Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>‘The Good, the Bad, and the Weird of Apple’s Newest Platform Updates’</title>
+	<link rel="alternate" type="text/html" href="https://sixcolors.com/post/2025/06/the-good-bad-and-weird-of-apples-newest-platform-updates/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wee" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/12/the-good-the-bad-the-weird" />
+	<id>tag:daringfireball.net,2025:/linked//6.41990</id>
+	<published>2025-06-12T22:09:08Z</published>
+	<updated>2025-06-12T22:09:09Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Dan Moren, writing this week at Six Colors:</p>
+
+<blockquote>
+  <p>But you’ve heard about all of that, I’m sure, so we’re not going
+to rehash it. Instead, let’s get personal: I’m picking out, in
+my opinion, the best and worst new features of each of Apple’s
+platforms. To be clear, these are my <em>completely scientific</em> and
+<em>totally well-reasoned</em> expert opinions on the features that
+were announced, not just some off-the-cuff reactions less than a
+day later.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘‘The Good, the Bad, and the Weird of Apple’s Newest Platform Updates’’"  href="https://daringfireball.net/linked/2025/06/12/the-good-the-bad-the-weird">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘Liquid Glasslighting’</title>
 	<link rel="alternate" type="text/html" href="https://spyglass.org/spyglasslighting/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wed" />
@@ -1697,78 +1727,6 @@ Fantastical is an even better downhill UI for event creation.</p>
 
 <div>
 <a  title="Permanent link to ‘Event Creation Still Largely Feels Like an Unsolved UI Problem’"  href="https://daringfireball.net/linked/2025/06/03/event-creation-still-largely-feels-like-an-unsolved-ui-problem">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Fantastical Now Supports Event Detection From Forwarded Emails</title>
-	<link rel="alternate" type="text/html" href="https://flexibits.com/fantastical/forwardemails" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wd6" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/03/fantastical-email-event-detection" />
-	<id>tag:daringfireball.net,2025:/linked//6.41946</id>
-	<published>2025-06-03T17:56:34Z</published>
-	<updated>2025-06-03T18:26:19Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Flexibits:</p>
-
-<blockquote>
-  <p>Just forward emails to email@fantastical.app from any email
-address linked with your Flexibits Account and Fantastical will
-convert them into events or tasks to quickly add to your
-calendar. After a few seconds you’ll see detected events appear
-in Fantastical where you can quickly add them as an event or
-task. [...]</p>
-
-<p>Emails are processed by Flexibits servers and Google Cloud and
-then deleted immediately after they are processed. Emails are not
-used or retained by Flexibits or Google Cloud for AI training
-purposes.</p>
-
-<p>Events that are detected in emails are stored on Flexibits servers
-and deleted when you add or discard them in Fantastical.</p>
-</blockquote>
-
-<p>There are a lot of events in email messages that have always been easy to get into Fantastical (or any other calendar app) because they include an ICS file attachment. Like when I book a flight — I always get an email with an ICS attachment containing the flight details, and I just open that in Fantastical to import it. Forwarding that email to Fantastical would take longer than just opening the attachment. But what about a casual email from a friend or family member that doesn’t come with an attachment?</p>
-
-<p>Here’s an example email I sent to myself from a sort of burner account I have for testing and for doing things like this.</p>
-
-<pre><code>From: Heywood Floyd &lt;heywood••••••••@icloud.com&gt;  
-Subject: Party for Hal on Saturday  
-Date: June 3, 2025 at 1:22:45 PM EDT  
-To: John Gruber &lt;••••••••@daringfireball.net&gt;  
-
-Party at my house is on this Saturday, 12-3 or so.
-You don’t have to bring anything.
-</code></pre>
-
-<p>That was the entire email, which I deliberately wrote in a very casual way (e.g. “this Saturday” instead of an actual date, and “12-3” as the time, without an explicit “pm”). Forwarded to Fantastical’s new event detection address, well under a minute later I got the following suggested event notification from Fantastical on my Mac:</p>
-
-<pre><code>Title: Party for Hal at Heywood Floyd's house  
-Location: Heywood Floyd's house  
-Date: 7 June 2025, 12:00pm – 3:00pm  
-Note: "You don't have to bring anything."
-</code></pre>
-
-<p>Also included in the Note field was a link to the original message in Mail.</p>
-
-<p>In Apple Mail, Siri also suggested an event from the original email. After clicking “Add”, that event had the following details:</p>
-
-<pre><code>Title: Party with Floyd  
-Location: «empty»  
-Date: 7 June 2025, 12:00pm – 3:00pm  
-Note: «empty»
-</code></pre>
-
-<p>Nothing in Siri’s auto-detected event was wrong. Both got the date and time right. Siri’s title is fine — in real life, I’d know what that meant. But Fantastical’s title is perfect — it’s a party <em>for</em> Hal, <em>at</em> Heywood’s house. And Siri doesn’t include anything in the Note field, not even a link back to the original message, so it would be up to my own memory to remember where the party was.</p>
-
-<p>To be clear, Fantastical doesn’t just add these events to your calendar. It shows them as suggestions, and there’s a “Preview” button in addition to “Add”. I’ll still preview before adding, but using this service does seem like a decent timesaver for creating new events from casual emails.</p>
-
-<div>
-<a  title="Permanent link to ‘Fantastical Now Supports Event Detection From Forwarded Emails’"  href="https://daringfireball.net/linked/2025/06/03/fantastical-email-event-detection">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
