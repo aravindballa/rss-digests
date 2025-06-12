@@ -7,7 +7,44 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-12T21:40:23Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-12T21:52:44Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>‘Liquid Glasslighting’</title>
+	<link rel="alternate" type="text/html" href="https://spyglass.org/spyglasslighting/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wed" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/12/liquid-glasslighting" />
+	<id>tag:daringfireball.net,2025:/linked//6.41989</id>
+	<published>2025-06-12T21:49:16Z</published>
+	<updated>2025-06-12T21:49:18Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>MG Siegler:</p>
+
+<blockquote>
+  <p>The underlying message that they’re trying to convey in all these
+interviews is clear: <em>calm down, this isn’t a big deal, you guys
+are being a little crazy</em>. And that, in turn, aims to undercut all
+the reporting about <a href="https://spyglass.org/theres-no-free-lunch-at-apple/">the turmoil within Apple</a> — <em>for
+<a href="https://spyglass.org/apple-ai-fail/">years</a> at this <a href="https://spyglass.org/siri-apple-ai-trouble/">point</a></em> — that has led to the
+situation with Siri. Sorry, the situation which they’re implying
+is not a situation. Though, I don’t know, normally when a company
+<a href="https://spyglass.org/siri-shakeup/">shakes up an entire team</a>, that tends to suggest some sort
+of situation. That, of course, is never mentioned. Nor would you
+expect Apple — of all companies — to talk openly and candidly
+about internal challenges. But that just adds to this general
+wafting smell in the air.</p>
+
+<p>The smell of bullshit.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘‘Liquid Glasslighting’’"  href="https://daringfireball.net/linked/2025/06/12/liquid-glasslighting">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘Tested’ on VisionOS 26 and Behind the Scenes at the Theater Immersive Broadcast of The Talk Show Live From WWDC</title>
 	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=h6SbkEC1Xb8" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wec" />
@@ -38,7 +75,7 @@
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/12/snell-wwdc-2025" />
 	<id>tag:daringfireball.net,2025:/linked//6.41987</id>
 	<published>2025-06-12T16:00:48Z</published>
-	<updated>2025-06-12T21:40:23Z</updated>
+	<updated>2025-06-12T21:52:44Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -71,7 +108,7 @@ pretending to be something it’s not.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/11/macos-26-intel-support" />
 	<id>tag:daringfireball.net,2025:/linked//6.41986</id>
 	<published>2025-06-11T19:55:54Z</published>
-	<updated>2025-06-11T19:56:39Z</updated>
+	<updated>2025-06-12T21:52:31Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -103,7 +140,7 @@ pretending to be something it’s not.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/10/stern-federighi-joz" />
 	<id>tag:daringfireball.net,2025:/linked//6.41985</id>
 	<published>2025-06-10T22:10:26Z</published>
-	<updated>2025-06-11T18:32:57Z</updated>
+	<updated>2025-06-12T21:52:13Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -151,7 +188,7 @@ pretending to be something it’s not.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/09/apple-intro-liquid-glass" />
 	<id>tag:daringfireball.net,2025:/linked//6.41983</id>
 	<published>2025-06-10T01:16:39Z</published>
-	<updated>2025-06-10T01:28:42Z</updated>
+	<updated>2025-06-12T21:51:23Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -175,7 +212,7 @@ pretending to be something it’s not.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/09/tahoe-flips-the-finder-icon" />
 	<id>tag:daringfireball.net,2025:/linked//6.41982</id>
 	<published>2025-06-10T01:06:28Z</published>
-	<updated>2025-06-10T01:15:03Z</updated>
+	<updated>2025-06-12T21:50:00Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -1732,72 +1769,6 @@ Note: «empty»
 
 <div>
 <a  title="Permanent link to ‘Fantastical Now Supports Event Detection From Forwarded Emails’"  href="https://daringfireball.net/linked/2025/06/03/fantastical-email-event-detection">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Jony Ive and Laurene Powell Jobs, Interviewed in the Financial Times</title>
-	<link rel="alternate" type="text/html" href="https://www.ft.com/content/7f0a45b0-a3cc-4e1c-be71-1b7b42958d4d" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wd5" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/03/ive-powell-jobs-interview" />
-	<id>tag:daringfireball.net,2025:/linked//6.41945</id>
-	<published>2025-06-03T17:11:33Z</published>
-	<updated>2025-06-03T17:35:10Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Matthew Garrahan, in the Financial Times:</p>
-
-<blockquote>
-  <p>Sir Jony Ive remembers the day in 1997 when he first met Laurene
-Powell Jobs, outside the house she shared with her late husband,
-Steve. [...]</p>
-
-<p>“I was often at the house,” Ive says. “Certainly on the weekends,”
-says Powell Jobs, sitting across from him on a long table. Ive
-nods. “It feels to me like we grew up together,” he says. “We’ve
-gone through hard things and happy things...”</p>
-
-<p>“... family and children and work,” says Powell Jobs.</p>
-
-<p>“There’s that Freud quote,” Ive says. “All there is, is work and
-love. Love and work.”</p>
-</blockquote>
-
-<p>On the device(s) Ive is <a href="https://daringfireball.net/linked/2025/05/21/sam-and-jony-io">spearheading development of at io</a>:</p>
-
-<blockquote>
-  <p>Ive deftly dodges my attempts to get him to tell me what it is but
-hints he was motivated by a disillusionment with how our
-relationship with devices has evolved. “Many of us would say we
-have an uneasy relationship with technology at the moment,” he
-says. I’m guessing this includes screen addiction and the harms
-caused by social media. Whatever the device is, driving its design
-is “a sense of: we deserve better. Humanity deserves better.”</p>
-</blockquote>
-
-<p>On Powell Jobs as the owner, <a href="https://daringfireball.net/linked/2025/03/26/the-atlantic-has-an-owner-committed-to-the-cause">committed to the cause</a>, of a major US news publication:</p>
-
-<blockquote>
-  <p>The Signalgate story prompted a furious response from the US
-president, who called Goldberg a “sleazebag” before inviting him
-in for an interview weeks later. “It’s very important to emphasise
-that, despite having the majority ownership stake in The Atlantic,
-I’m involved in the business side and not the editorial side,”
-Powell Jobs says. “We feel very strongly that freedom of the press
-means they are free to write the truth as they find it, and follow
-a story as they find it. It’s not up to us to approve or
-disapprove.”</p>
-</blockquote>
-
-<p>In the years after Steve Jobs’s death, while Ive still worked at Apple, I took note that at keynote events, Powell Jobs and Ive always sat next to each other. Always. The media seats are never all that close to the VIP seats in the first two rows, but both of them are rather easily identified by the backs of their heads. I observed, a few times, that in those anxious moments of prelude before a show, the two generally only chatted with each other. I know those first few post-Steve keynotes were emotional for Ive. But I can’t even imagine what they were like for Powell Jobs.</p>
-
-<p>It always moved me to observe that they went through them together, almost literally leaning on each other in their seats.</p>
-
-<div>
-<a  title="Permanent link to ‘Jony Ive and Laurene Powell Jobs, Interviewed in the Financial Times’"  href="https://daringfireball.net/linked/2025/06/03/ive-powell-jobs-interview">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
