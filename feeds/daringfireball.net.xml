@@ -7,7 +7,68 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-12T22:09:09Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-12T23:05:17Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/06/apples_spin_on_the_personalized_siri_apple_intelligence_reset" />
+	<link rel="shorturl" href="http://df4.us/wef" />
+	<id>tag:daringfireball.net,2025://1.41991</id>
+	<published>2025-06-12T23:03:59Z</published>
+	<updated>2025-06-12T23:05:17Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">Most rank and file engineers within Apple do not believe that feature existed in an even vaguely functional state a year ago, and the first any of them ever heard of it was when they watched the keynote with the rest of us on the first day of WWDC last year.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>Michael Tsai, “<a href="https://mjtsai.com/blog/2025/06/12/apples-spin-on-ai-and-ipados-multitasking/">Apple’s Spin on AI and iPadOS Multitasking</a>”:</p>
+
+<blockquote>
+  <p>I do want to call out that, in multiple interviews, they are kind
+of setting up strawmen to knock down. They keep saying that people
+say Apple is behind in AI <em>because it doesn’t have its own
+chatbot</em>. To me, Apple has been clear that it has a different
+strategy, and I think that strategy mostly makes sense. I have
+never heard someone wish for an Apple chatbot. The issue is that
+everyone can see that Apple seems behind in <em>executing</em> said
+strategy, both that features didn’t ship on time and that the ones
+that did ship don’t measure up to similar features from other
+companies.</p>
+
+<p>Secondly, they seem to be trying to <a href="https://mas.to/@osullivan/114662053414638681">debunk</a> <a href="https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino">John Gruber’s
+claim</a> that Apple showed vaporware at the last WWDC. But
+Apple’s assertion that there was actual, working software doesn’t
+contradict anything Gruber wrote. He put it at level 0/4 because
+there wasn’t even a live demo, just a pre-packaged video. If it
+can’t be demoed to the media in a controlled setting, even calling
+it “demoware” would be charitable. <a href="https://en.wikipedia.org/wiki/Vaporware">Wikipedia</a> says, “After
+Dyson’s article, the word ‘vaporware’ became popular among writers
+in the personal computer software industry as a way to describe
+products they believed took too long to be released after their
+first announcement.” Is that not exactly what happened here?</p>
+</blockquote>
+
+<p>The whole “Siri, when is my mom’s flight landing?” segment of last year’s WWDC keynote definitely wasn’t demoware either. It was never demoed. Whether the feature was actually running, and actually capable of doing what they said it could, even just some of the time along a golden path, doesn’t matter. Even the keynote video didn’t show the actual feature working. It kept cutting away from the iPhone that was purportedly performing the feature back to presenter Kelsey Peterson at every single step. Apple’s internal rules for keynote demos is that the entire feature has to be real, and capturable in a single take of video. I’ve spoken to people who’ve been in keynotes, and many more who’ve done WWDC session video. They’ve got really strict rules about everything being real. That doesn’t mean they always show the feature in a single take in the final cut of the presentation, but it has to be possible, just like it would have to be in a live stage presentation. But that Siri demo in last year’s keynote is almost like a series of screenshots. We never see Peterson speak to Siri and then watch the results come in. There’s not one single shot in the whole demo that shows one action leading to the next. It’s all cut together in an unusual way for Apple keynote demos. <a href="https://developer.apple.com/videos/play/wwdc2024/101/">Go see for yourself at the 1h:22m mark</a>.</p>
+
+<p>I spoke this week, off the record, to multiple trusted sources in Apple’s software engineering group, and none of them ever saw an internal build of iOS that had this feature before last year’s keynote. That doesn’t mean there wasn’t such a build. But none of my sources ever saw one, and they don’t believe there was one, because they’re in positions where they believe that if there <em>had</em> been such a build, their teams would have had access to it. Most rank and file engineers within Apple do not believe that feature existed in an even vaguely functional state a year ago, and the first any of them ever heard of it was when they watched the keynote with the rest of us on the first day of WWDC last year.</p>
+
+<p>I’m quite certain Apple’s executives believed this feature could be shipped at some point in the iOS 18 year. It’d be crazy to announce the feature if they didn’t believe they could ship it, and Apple’s executives aren’t crazy. I’m also quite certain that eventually there <em>was</em> a functional implementation of the now-abandoned “v1” of the more personalized Siri, but it was unreliable with no path forward to make it reliable. (I think it was far worse than “not up to Apple’s high standards” — it was clearly unshippable.)</p>
+
+<p>But, as Tsai notes, let’s just take Apple’s executives at their word and concede that there was such a build a year ago. It’s still vaporware at this point. Vaporware doesn’t mean “completely fabricated”. It just means “promised but hasn’t shipped”. Tsai links to <a href="https://mastodon.social/@rustyshelf/114667389093029657">this Mastodon tweet from Russell Ivanovic</a>:</p>
+
+<blockquote>
+  <p>“This narrative that it was vaporware is nonsense”. Craig Apple.
+My guy. You announced something that never shipped. You made ads
+for it. You tried to sell iPhones based on it. What’s the
+difference if you had it running internally or not. Still
+vaporware. Zero difference.</p>
+</blockquote>
+
+<p>Also, Apple is sticking with the euphemism “in the coming year” for when we can expect to see these next-gen personalized Siri features. Gurman reported today that <a href="https://www.techmeme.com/250612/p39#a250612p39">they’re shooting for next spring</a>. I confirmed with Apple at WWDC that “in the coming year” means “in 2026”. I don’t know why they’re sticking with that euphemistic phrasing, which to many people’s ears makes it sound like <em>in the next 12 months</em>, which might include this fall. Just say “next year” instead of “in the coming year”. It’s very obvious that this year’s WWDC keynote went back to an underpromise/overdeliver mindset. But “in the coming year” is raising some users’ hopes misleadingly.</p>
+
+
+
+    ]]></content>
+  <title>★ Apple’s Spin on the Personalized Siri Apple Intelligence Reset</title></entry><entry>
 	<title>‘The Good, the Bad, and the Weird of Apple’s Newest Platform Updates’</title>
 	<link rel="alternate" type="text/html" href="https://sixcolors.com/post/2025/06/the-good-bad-and-weird-of-apples-newest-platform-updates/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wee" />
@@ -1957,153 +2018,4 @@ he’d recommended a piece I wrote and agreed with it.</p>
 
 
     ]]></content>
-  <title>★ More Insight and Not-Negativity</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/05/15_years_later_very_insightful_and_not_negative" />
-	<link rel="shorturl" href="http://df4.us/wbq" />
-	<id>tag:daringfireball.net,2025://1.41894</id>
-	<published>2025-05-16T00:26:20Z</published>
-	<updated>2025-05-16T03:30:58Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">So, what would *you* do if Steve Jobs was quoted in a viral blog post saying, “We think «*Your Name Here*»’s post is very insightful and not negative”? I decided to just sit there with a smug look on my face for a few days.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>Earlier this week Nilay Patel was working on the show notes for <a href="https://www.theverge.com/decoder-podcast-with-nilay-patel/664802/apple-app-store-iphone-ios-fortnite-epic-games-lawsuit">the episode of Decoder I guested on</a>, and he texted me to ask if I could recall the time Steve Jobs sent some random developer a link to an article I wrote about the App Store. He wanted to cite it as an example of Daring Fireball being read, at high levels inside Apple, for a long time. I recalled the whole thing vaguely, as a “holy shit” moment, but not specifically. I hadn’t thought about it in years. But I was sure I could find it in the DF archives.</p>
-
-<p>Turns out, I couldn’t find it, because, it turns out, in a fit of inexplicable modesty and humility, <em>I never linked to it</em>. (From <a href="https://techcrunch.com/2010/04/12/gruber-apple-was-right-adobe-get-over-it-video/">a TechCrunch interview I did at the time</a>, after the saga went somewhat viral: “When asked for his response to Steve’s shout-out, Gruber meekly grinned and said, ‘I just smiled.’”)</p>
-
-<p>Here’s the rough timeline of events. On Thursday 8 April 2010, Apple updated the App Store guidelines to ban the use of Adobe’s then-new Flash-to-iPhone compiler. <a href="https://daringfireball.net/2010/04/iphone_agreement_bans_flash_compiler">From my post on the change</a> (which, to some degree, broke the news):</p>
-
-<blockquote>
-  <p>Prior to today’s release of the iPhone OS 4 SDK, section 3.3.1 of
-the iPhone Developer Program License Agreement read, in its
-entirety:</p>
-
-<blockquote>
-  <p>3.3.1 — Applications may only use Documented APIs in the manner
-    prescribed by Apple and must not use or call any private
-    APIs.</p>
-</blockquote>
-
-<p>In the new version of the iPhone Developer Program License
-Agreement released by Apple today (and which developers must agree
-to before downloading the 4.0 SDK beta), section 3.3.1 now reads:</p>
-
-<blockquote>
-  <p>3.3.1 — Applications may only use Documented APIs in the manner
-    prescribed by Apple and must not use or call any private
-    APIs. Applications must be originally written in Objective-C,
-    C, C++, or JavaScript as executed by the iPhone OS WebKit
-    engine, and only code written in C, C++, and Objective-C may
-    compile and directly link against the Documented APIs (e.g.,
-    Applications that link to Documented APIs through an
-    intermediary translation or compatibility layer or tool are
-    prohibited).</p>
-</blockquote>
-
-<p>My reading of this new language is that cross-compilers, such as
-the <a href="http://labs.adobe.com/technologies/flashcs5/appsfor_iphone/">Flash-to-iPhone compiler</a> in Adobe’s upcoming Flash
-Professional CS5 release, are prohibited. This also bans apps
-compiled using <a href="http://monotouch.net/">MonoTouch</a> — a tool that compiles C# and .NET
-apps to the iPhone.</p>
-</blockquote>
-
-<p>This was <em>enormously</em> controversial at the time, but I also thought largely misunderstood by developers. Later that same day, I published another piece articulating my take on Apple’s reasoning for the change, “<a href="https://daringfireball.net/2010/04/why_apple_changed_section_331">Why Apple Changed Section 3.3.1</a>”. From that article:</p>
-
-<blockquote>
-  <p>We’re still in the early days of the transition from the PC era to
-the mobile era. Right now, Apple is winning. There are other
-winners right now too — RIM is still growing, and Android has
-grown a ton in the past year.</p>
-
-<p>The App Store platform could turn into a long-term de facto
-standard platform. That’s how Microsoft became Microsoft. At a
-certain point developers wrote apps for Windows because so many
-users were on Windows and users bought Windows PCs because all the
-software was being written for Windows. That’s the sort of
-situation that creates a license to print money.</p>
-</blockquote>
-
-<p>That seems prescient. (The “license to print money” part — not the “RIM is still growing” part.)</p>
-
-<blockquote>
-  <p>So what Apple does not want is for some other company to establish
-a de facto standard software platform <em>on top</em> of Cocoa Touch. Not
-Adobe’s Flash. Not .NET (through MonoTouch). If that were to
-happen, there’s no lock-in advantage. If, say, a mobile Flash
-software platform — which encompassed multiple lower-level
-platforms, running on iPhone, Android, Windows Phone 7, and
-BlackBerry — were established, that app market would not give
-people a reason to prefer the iPhone.</p>
-
-<p>And, obviously, such a meta-platform would be out of Apple’s
-control. Consider a world where some other company’s
-cross-platform toolkit proved wildly popular. Then Apple releases
-major new features to iPhone OS, and that other company’s toolkit
-is slow to adopt them. At that point, it’s the <em>other</em> company
-that controls when third-party apps can make use of these
-features.</p>
-
-<p>So from Apple’s perspective, changing the iPhone Developer Program
-License Agreement to prohibit the use of things like Flash CS5 and
-MonoTouch to create iPhone apps makes complete sense. I’m not
-saying you have to like this. I’m not arguing that it’s anything
-other than ruthless competitiveness. I’m not arguing (up to this
-point) that it benefits anyone other than Apple itself. I’m just
-arguing that it makes sense from Apple’s perspective — and it was
-Apple’s decision to make.</p>
-</blockquote>
-
-<p>Two days later, on 10 April 2010, developer Greg Slepak emailed Steve Jobs to complain about the decision, citing negative sentiment on Hacker News (much has changed since 2010, but some things have not), writing:</p>
-
-<blockquote>
-  <p>Hi Steve,</p>
-
-<p>Lots of people are pissed off at Apple’s mandate that applications
-be “originally written” in C/C++/Objective-C. If you go, for
-example, to the Hacker News homepage right now:</p>
-
-<p><a href="http://news.ycombinator.com/">http://news.ycombinator.com/</a></p>
-
-<p>You’ll see that most of the front page stories about this new
-restriction, with #1 being: “<a href="http://whydoeseverythingsuck.com/2010/04/steve-jobs-has-just-gone-mad.html">Steve Jobs Has Just Gone Mad</a>” with
-(currently) 243 upvotes. The top 5 stories are all negative
-reactions to the TOS, and there are several others below them as
-well. Not a single positive reaction, even from John Gruber, your
-biggest fan.</p>
-
-<p>I love your product, but your SDK TOS are growing on it like an
-invisible cancer.</p>
-
-<p>Sincerely, <br />
-Greg</p>
-</blockquote>
-
-<p>Jobs wrote back to Slepak (starting a brief exchange of emails):</p>
-
-<blockquote>
-  <p>We think John Gruber’s post is very insightful and not negative:</p>
-
-<p><a href="http://daringfireball.net/2010/04/why_apple_changed_section_331">http://daringfireball.net/2010/04/why_apple_changed_section_331</a></p>
-
-<p>Steve</p>
-</blockquote>
-
-<p><a href="https://www.taoeffect.com/blog/2010/04/steve-jobs-response-on-section-3-3-1/">Slepak posted the exchange to his blog</a>, Tao Effect, and, well, as Jobs himself might have said, “Boom.” (This was <a href="https://www.macstories.net/news/steve-jobs-what-have-you-done-thats-so-great/">a not infrequent thing</a> at the time, where random users or developers would email Jobs, he’d write back with something pithy, and they’d post the exchange. It was kind of crazy — the most famous CEO in the world, just doing customer service email — and his emails were always sharp.)</p>
-
-<p>So, what would <em>you</em> do if Steve Jobs was quoted in a viral blog post saying, “We think «<em>Your Name Here</em>»’s post is very insightful and not negative”? I decided to just sit there with a smug look on my face for a few days (which, arguably, isn’t all that different from what I do most days) and pretend that it was no big deal. I didn’t link to it or mention it on Daring Fireball, and as far as I can tell, <a href="https://x.com/search?q=%22not%20negative%22%20(from%3Agruber)&amp;src=typed_query">I didn’t even tweet it</a>. As best I can recall, I thought I should just play it cool. I mean of course my article about why Apple changed Section 3.3.1 was right. Why brag? Given that Steve Jobs was reading Daring Fireball, I didn’t want him to read a post from me acting like it was a big deal that he’d recommended a piece I wrote and agreed with it.</p>
-
-<p>That was pretty stupid on my part. Or at least silly. My older perspective, today, is not to overthink such things. If something cool happens, I link to it. It seems ridiculous in hindsight that I didn’t link to Slepak’s post. And, I was thinking this week, if <em>I</em> couldn’t find a link to the overall story because <em>I</em> wrongly presumed I must have linked to it at the time, I wondered how many other readers, over the years, have gone hunting for that “very insightful and not negative” story and couldn’t find it because it was never mentioned or linked to on Daring Fireball.</p>
-
-<p>So, today, I wrote the post I should have written back then, and <a href="https://daringfireball.net/linked/2010/04/11/very-insightful-and-not-negative">backdated it to 11 April 2010</a>.</p>
-
-<p>To complete the timeline, April 2010 was a busy month. That same month saw <a href="https://techcrunch.com/2010/04/28/hp-palm-deal-webos/">HP buy Palm</a> (in a last-ditch effort to remain relevant as the industry rapidly shifted from being PC-centric to mobile-centric), <a href="https://daringfireball.net/linked/2010/04/28/siri">Apple acquire a company called “Siri”</a>, and <a href="https://daringfireball.net/linked/2010/04/28/slate-iphone">Gizmodo publish details on the iPhone 4 prototype</a> some poor Apple engineer accidentally left in a bar. <a href="https://daringfireball.net/2010/04/the_ipad">The original iPad</a> had <a href="https://web.archive.org/web/20100404043324/http://www.time.com/time/business/article/0,8599,1976935,00.html">just shipped</a>. And at the end of the month, Jobs published “<a href="https://daringfireball.net/linked/2010/04/29/jobs-thoughts-on-flash">Thoughts on Flash</a>” on the Apple.com homepage. It’s kind of wild that was all in one month — scrolling down <a href="https://daringfireball.net/linked/2010/04/">the monthly archive page for April 2010</a> is just <a href="https://daringfireball.net/linked/2010/04/30/cabin-fever">one gem</a> after <a href="https://daringfireball.net/linked/2010/04/30/thoughts-on-horses">another</a>.</p>
-
-<p>Re-reading “<a href="https://web.archive.org/web/20100722001052/http://www.apple.com/hotnews/thoughts-on-flash/">Thoughts on Flash</a>” again now, for the umpteenth time, I’ll say this: I think Steve Jobs’s post was very insightful and not negative.</p>
-
-
-
-    ]]></content>
-  <title>★ 15 Years Later: ‘Very Insightful and Not Negative’</title></entry></feed><!-- THE END -->
+  <title>★ More Insight and Not-Negativity</title></entry></feed><!-- THE END -->
