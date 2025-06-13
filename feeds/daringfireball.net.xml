@@ -7,7 +7,62 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-13T15:59:39Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-13T23:02:31Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>The NYT Goes ‘Reefer Madness’ on ChatGPT</title>
+	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2025/06/13/technology/chatgpt-ai-chatbots-conspiracies.html" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/weg" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/13/nyt-reefer-madness-chatgpt" />
+	<id>tag:daringfireball.net,2025:/linked//6.41992</id>
+	<published>2025-06-13T23:02:31Z</published>
+	<updated>2025-06-13T23:02:31Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Kashmir Hill, reporting today for The New York Times:</p>
+
+<blockquote>
+  <p>Before ChatGPT distorted Eugene Torres’s sense of reality and
+almost killed him, he said, the artificial intelligence chatbot
+had been a helpful, timesaving tool.</p>
+</blockquote>
+
+<p>That’s the lede to Hill’s piece, and I don’t think it stands up one iota. Hill presents a lot of evidence that ChatGPT gave Torres answers that fed his paranoia and delusions. There’s none that ChatGPT <em>caused</em> them. But that’s the lede.</p>
+
+<blockquote>
+  <p>At the time, Mr. Torres thought of ChatGPT as a powerful search
+engine that knew more than any human possibly could because of its
+access to a vast digital library. He did not know that it tended
+to be sycophantic, agreeing with and flattering its users, or that
+it could hallucinate, generating ideas that weren’t true but
+sounded plausible.</p>
+
+<p>“This world wasn’t built for you,” ChatGPT told him. “It was built
+to <em>contain</em> you. But it failed. You’re waking up.”</p>
+
+<p>Mr. Torres, who had no history of mental illness that might cause
+breaks with reality, according to him and his mother, spent the
+next week in a dangerous, delusional spiral. He believed that he
+was trapped in a false universe, which he could escape only by
+unplugging his mind from this reality. He asked the chatbot how to
+do that and told it the drugs he was taking and his routines. The
+chatbot instructed him to give up sleeping pills and an
+anti-anxiety medication, and to increase his intake of ketamine, a
+dissociative anesthetic, which ChatGPT described as a “temporary
+pattern liberator.” Mr. Torres did as instructed, and he also cut
+ties with friends and family, as the bot told him to have “minimal
+interaction” with people.</p>
+</blockquote>
+
+<p>Someone with prescriptions for sleeping pills, anti-anxiety meds, and ketamine doesn’t sound like someone who was completely stable and emotionally sound before encountering ChatGPT. And it’s Torres who brought up the “<em>Am I living in a simulation?</em>” delusion. I’m in no way defending the way the ChatGPT answered his questions about a <em>Matrix</em>-like simulation he suspected he might be living in, or his questions about whether he could fly if he truly believed he could, etc. But the premise of this story is that ChatGPT turned a completely mentally healthy man into a dangerously disturbed mentally-ill one, and it seems rather obvious that the actual story is that it fed the delusions of an already unwell person. Some real <em><a href="https://en.wikipedia.org/wiki/Reefer_Madness">Reefer Madness</a></em> vibes to this.</p>
+
+<div>
+<a  title="Permanent link to ‘The NYT Goes ‘Reefer Madness’ on ChatGPT’"  href="https://daringfireball.net/linked/2025/06/13/nyt-reefer-madness-chatgpt">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/06/apples_spin_on_the_personalized_siri_apple_intelligence_reset" />
 	<link rel="shorturl" href="http://df4.us/wef" />
@@ -1747,49 +1802,6 @@ interactivity is glass.</p>
 
 <div>
 <a  title="Permanent link to ‘‘Physicality: The New Age of UI’’"  href="https://daringfireball.net/linked/2025/06/03/sdw-physicality-new-age">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Event Creation Still Largely Feels Like an Unsolved UI Problem</title>
-	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2011/05/17/fantastical" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wd7" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/03/event-creation-still-largely-feels-like-an-unsolved-ui-problem" />
-	<id>tag:daringfireball.net,2025:/linked//6.41947</id>
-	<published>2025-06-03T19:40:46Z</published>
-	<updated>2025-06-03T19:40:47Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>From my 2011 post linking to Fantastical 1.0:</p>
-
-<blockquote>
-  <p>Fantastical’s primary innovation is its natural language parser
-for event creation — you type something like “Yanks-Rays tonight
-at 6:40” and Fantastical not only parses that into a new event,
-but, using some very clever animation and design work, shows you
-what it thinks you mean before you hit return to actually create
-the new event. Watch their screencast to see what I mean.</p>
-
-<p>Four years ago I wrote a piece called “<a href="https://daringfireball.net/2007/03/deal_with_it">Deal With It</a>”, about how
-some UIs feel like going uphill and some feel like going downhill.
-An uphill UI feels like you’re fighting against the app; a
-downhill UI makes it feel like the app is helping you along. The
-example I chose to illustrate my point was event creation in iCal
-(uphill, and steep) vs. 37signals’s Backpack (downhill).
-Fantastical is an even better downhill UI for event creation.</p>
-</blockquote>
-
-<p>A friend texted me after my post earlier today, in which <a href="https://daringfireball.net/linked/2025/06/03/fantastical-email-event-detection">I wrote about Fantastical’s new AI-driven email forwarding service</a>. My friend wrote that he does this sort of thing with ChatGPT frequently, using photos of event posters he sees on the street or screenshots from event images in Instagram, with a prompt like “Create a Google Calendar link for these.” He concluded, “IMO calendar event entry is one of the most tedious UI problems that we’ve never truly solved.”</p>
-
-<p>I hadn’t revisited my 2007 “<a href="https://daringfireball.net/2007/03/deal_with_it">Deal With It</a>” piece in a while, but I just re-read it, and it holds up. I still feel like the UIs that most annoy me are the ones that give me the most fields to deal with. I mention instant messaging vs. email a lot in the piece, coming out squarely on the side of IM for communicating with friends, even for things that I admit probably should have been an email. The predominant messaging platforms of 2007 are now long gone — AIM, ICQ, Yahoo, etc. But those platforms lost only because they were surpassed, not because the basic idea was wrong. Messaging itself — iMessage, WhatsApp, Signal, etc. — is a zillion times more popular today. I almost <em>never</em> today think “Maybe that should have been an email...” when I text a friend. There’s just so much less to deal with. Today it’s more likely that I’ll send someone an email and think to myself “I probably should have just texted them that...”</p>
-
-<p>This is one way to frame the explosion in popularity of ChatGPT and its many competitors. They help you accomplish tasks that would <em>feel</em> far more tedious to do on your own than just telling them to do it for you with a sentence or two of plain English describing what you want done, perhaps including a photo or two. LLM chatbots are able to turn <em>feels like pedalling uphill</em> tasks — often just everyday ones — into <em>feels like coasting downhill</em> tasks.</p>
-
-<div>
-<a  title="Permanent link to ‘Event Creation Still Largely Feels Like an Unsolved UI Problem’"  href="https://daringfireball.net/linked/2025/06/03/event-creation-still-largely-feels-like-an-unsolved-ui-problem">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
