@@ -7,14 +7,72 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-13T23:02:31Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-14T00:24:50Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Meta AI Users Are Inadvertently Sharing Their Private Chats With the World</title>
+	<link rel="alternate" type="text/html" href="https://techcrunch.com/2025/06/12/the-meta-ai-app-is-a-privacy-disaster/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/weh" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/13/meta-ai-shared-chats" />
+	<id>tag:daringfireball.net,2025:/linked//6.41993</id>
+	<published>2025-06-14T00:24:50Z</published>
+	<updated>2025-06-14T00:24:50Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Amanda Silberling, writing at TechCrunch:</p>
+
+<blockquote>
+  <p>When you ask the AI a question, you have the option of hitting a
+share button, which then directs you to a screen showing a preview
+of the post, which you can then publish. But some users appear
+blissfully unaware that they are sharing these text conversations,
+audio clips, and images publicly with the world.</p>
+
+<p>When I woke up this morning, I did not expect to hear an audio
+recording of a man in a Southern accent asking, “Hey, Meta, why do
+some farts stink more than other farts?”</p>
+
+<p>Flatulence-related inquiries are the least of <a href="https://www.businessinsider.com/mark-zuckerberg-meta-ai-chatbot-discover-feed-depressing-why-2025-6">Meta’s
+problems</a>. On the Meta AI app, I have seen people ask for
+help with tax evasion, if their family members would be arrested
+for their proximity to white-collar crimes, or how to write a
+character reference letter for an employee facing legal troubles,
+with that person’s first and last name included. Others, like
+security expert Rachel Tobac, <a href="https://x.com/racheltobac/status/1933006223109959820">found examples</a> of people’s
+home addresses and sensitive court details, among other private
+information.</p>
+</blockquote>
+
+<p><a href="https://www.businessinsider.com/mark-zuckerberg-meta-ai-chatbot-discover-feed-depressing-why-2025-6">Katie Notopoulos, writing at Business Insider</a> (paywalled, alas):</p>
+
+<blockquote>
+  <p>I found Meta AI’s Discover feed depressing in a particular way — not just because some of the questions themselves were depressing.
+What seemed particularly dark was that some of these people seemed
+unaware of what they were sharing.</p>
+
+<p>People’s real Instagram or Facebook handles are attached to their
+Meta AI posts. I was able to look up some of these people’s
+real-life profiles, although I felt icky doing so. I reached out
+to more than 20 people whose posts I’d come across in the feed to
+ask them about their experience; I heard back from one, who told
+me that he hadn’t intended to make his chat with the bot public.
+(He was asking for car repair advice.)</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘Meta AI Users Are Inadvertently Sharing Their Private Chats With the World’"  href="https://daringfireball.net/linked/2025/06/13/meta-ai-shared-chats">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>The NYT Goes ‘Reefer Madness’ on ChatGPT</title>
 	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2025/06/13/technology/chatgpt-ai-chatbots-conspiracies.html" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/weg" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/13/nyt-reefer-madness-chatgpt" />
 	<id>tag:daringfireball.net,2025:/linked//6.41992</id>
 	<published>2025-06-13T23:02:31Z</published>
-	<updated>2025-06-13T23:02:31Z</updated>
+	<updated>2025-06-13T23:46:17Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -28,7 +86,7 @@ almost killed him, he said, the artificial intelligence chatbot
 had been a helpful, timesaving tool.</p>
 </blockquote>
 
-<p>That’s the lede to Hill’s piece, and I don’t think it stands up one iota. Hill presents a lot of evidence that ChatGPT gave Torres answers that fed his paranoia and delusions. There’s none that ChatGPT <em>caused</em> them. But that’s the lede.</p>
+<p>That’s the lede to Hill’s piece, and I don’t think it stands up one iota. Hill presents a lot of evidence that ChatGPT gave Torres answers that fed his paranoia and delusions. There’s zero evidence presented that ChatGPT <em>caused</em> them. But that’s the lede.</p>
 
 <blockquote>
   <p>At the time, Mr. Torres thought of ChatGPT as a powerful search
@@ -199,7 +257,7 @@ wafting smell in the air.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/12/tested-visionos-26-tts-live" />
 	<id>tag:daringfireball.net,2025:/linked//6.41988</id>
 	<published>2025-06-12T21:39:12Z</published>
-	<updated>2025-06-12T21:39:13Z</updated>
+	<updated>2025-06-14T00:09:07Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -209,7 +267,7 @@ wafting smell in the air.</p>
 
 <p>The second segment of the show features cohost Norm Chan going backstage at The Talk Show Live From WWDC on Tuesday night, to speak with Adam Lisagor about the production details of the live immersive broadcast in Theater.</p>
 
-<p>(The YouTube version of the show is in editing now — we’ll post it as soon as it’s ready. But the immersive version in <a href="https://theater.sandwich.vision/">Theater</a> is available for purchase now.)</p>
+<p>(The YouTube version of the show is in editing now — we’ll post it as soon as it’s ready. <s>But the immersive version in Theater is available for purchase now.</s> Whoops, my bad. The immersive version, which looks significantly better than the livestream — which looked pretty good! — will be available for purchase in <a href="https://theater.sandwich.vision/">Theater</a> a few days after the 2D version hits YouTube.)</p>
 
 <div>
 <a  title="Permanent link to ‘‘Tested’ on VisionOS 26 and Behind the Scenes at the Theater Immersive Broadcast of The Talk Show Live From WWDC’"  href="https://daringfireball.net/linked/2025/06/12/tested-visionos-26-tts-live">&nbsp;★&nbsp;</a>
@@ -1752,56 +1810,6 @@ technology — now available in Japan.</p>
 
 <div>
 <a  title="Permanent link to ‘One Week From Tonight: The Talk Show Live From WWDC 2025’"  href="https://daringfireball.net/linked/2025/06/03/the-talk-show-live-tickets-2025">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘Physicality: The New Age of UI’</title>
-	<link rel="alternate" type="text/html" href="https://www.lux.camera/physicality-the-new-age-of-ui/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wd8" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/03/sdw-physicality-new-age" />
-	<id>tag:daringfireball.net,2025:/linked//6.41948</id>
-	<published>2025-06-04T00:37:15Z</published>
-	<updated>2025-06-04T17:40:34Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Sebastiaan de With, in a wonderfully-illustrated piece (a) examining, in detail, where iOS UI has been, and (b) speculating, with detailed mockups, where he thinks/hopes it’s about to go, starting at WWDC next week:</p>
-
-<blockquote>
-  <p>I’d like to imagine what could come next. Both by rendering some
-UI design of my own, and by thinking out what the philosophy of
-the New Age could be.</p>
-
-<p>A logical next step could be extending physicality to the entirety
-of the interface. We do not have to go overboard in such
-treatments, but we can now have the interface inhabit a sense of
-tactile realism.</p>
-
-<p>Philosophically, if I was Apple, I’d describe this as finally
-having an interface that matches the beautiful material properties
-of its devices. All the surfaces of your devices have glass
-screens. This brings an interface of a matching material, giving
-the user a feeling of the <em>glass itself coming alive</em>. [...]</p>
-
-<p>I took some time to design and theorize what this would look
-like, and how it would work. For the New Design Language, it
-makes sense that just like on VisionOS, the material of
-interactivity is glass.</p>
-</blockquote>
-
-<p>I hope, very much, that what Apple has been working on is along the lines of what de With has mocked up. It both looks great (and better than what we have now) and <em>makes sense</em>. I also agree with him that it would be a competitive advantage for Apple to establish a new visual design language that no existing design tools can create. You can’t make the sort of things de With is describing with Figma. Competitors could (and I guarantee will) superficially copy the look, but not the interactive responsiveness of lighting effects.</p>
-
-<p>In a profound way, a UI language comprised of glossy and matte glass, running on phones and tablets that themselves are made of glossy and matte glass, would hark back to the early days of Mac OS X, when the “lickable” translucent Aqua UI theme felt of a piece with the colorful translucent plastic enclosures of the iMac, PowerMac, and iBook. Right down to the pinstripes. (Apple never did make an Aqua-style PowerBook along those lines, instead going straight from <a href="https://en.wikipedia.org/wiki/PowerBook_180">classic</a> <a href="https://en.wikipedia.org/wiki/PowerBook_1400">black</a> <a href="https://en.wikipedia.org/wiki/PowerBook_G3">plastic</a> to <a href="https://sixcolors.com/post/2020/11/20-macs-for-2020-5-titanium-powerbook-g4/">the Titanium PowerBook G4</a>, the styling of which augured the post-Aqua look-and-feel of <a href="https://arstechnica.com/gadgets/2007/10/mac-os-x-10-5/">Mac OS X 10.5 Leopard</a> and the much-beloved <a href="https://arstechnica.com/gadgets/2009/08/mac-os-x-10-6/">10.6 Snow Leopard</a>.) I’ve been clamoring for buttons to look like buttons again ever since iOS 7.</p>
-
-<p>But as much as I truly <em>love</em> de With’s mockups, they’re all for iOS. What I’m left unsettled by is my failure to imagine how this design language could be brought to the Mac. Macs aren’t made of glass; they’re all made of aluminum. But the main difference is that the way many of us use MacOS is with a lot of stacked windows atop each other. The last thing MacOS needs is more transparency/translucency than it already has. Some depth to its UI controls, though? That’s something MacOS is in almost desperate need of. A horse, a horse, my kingdom for a Mac UI theme where you can tell, instantly, <a href="https://erik-engheim.medium.com/big-sur-sucks-817cba889376">whether a button is enabled or disabled</a> or <a href="https://www.reddit.com/r/MacOS/comments/l1avfv/tried_to_make_the_ui_buttons_a_bit_more_defined_i/">which item in a tabview controller is selected</a>.</p>
-
-<p>We’ll soon see.</p>
-
-<div>
-<a  title="Permanent link to ‘‘Physicality: The New Age of UI’’"  href="https://daringfireball.net/linked/2025/06/03/sdw-physicality-new-age">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
