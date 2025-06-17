@@ -7,7 +7,99 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-17T03:53:33Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-17T18:18:16Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>How Field Notes Went From Side Project to Cult Notebook</title>
+	<link rel="alternate" type="text/html" href="https://www.fastcompany.com/91352848/field-notes-cult-notebook-started-out-as-a-side-project" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/weo" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/17/field-notes-fascto" />
+	<id>tag:daringfireball.net,2025:/linked//6.42000</id>
+	<published>2025-06-17T18:18:16Z</published>
+	<updated>2025-06-17T18:18:16Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Nice piece in Fast Company by Zachary Petit:</p>
+
+<blockquote>
+  <p>One critical moment came in February 2010, when J. Crew featured
+Field Notes in its catalog, alongside the retailer’s other
+“personal favorites from our design heroes.” There was a Timex
+watch, Ray-Bans, Sperry shoes — “and out of fucking nowhere,
+Field Notes,” Coudal says. “And when that happened, a lot changed
+for us.”</p>
+
+<p>Coudal says it gave the brand instant credibility — after all, if
+it was good enough for J. Crew, it was good enough for your store.
+In time, friends began sending him screenshots of Field Notes in
+TV shows; he and Draplin would see people jotting notes in them in
+bars and elsewhere; on the design web, they became an obsession.
+By 2014, there was even a<a href="https://www.reddit.com/r/FieldNuts/"> subreddit</a> dedicated to them
+titled “FieldNuts.”</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘How Field Notes Went From Side Project to Cult Notebook’"  href="https://daringfireball.net/linked/2025/06/17/field-notes-fascto">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Bloomberg Publishes Embarrassing Report Comparing Tesla and Waymo Self-Driving Safety Records</title>
+	<link rel="alternate" type="text/html" href="https://electrek.co/2025/06/16/bloomberg-most-embarassing-report-tesla-waymo-self-driving/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wen" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/17/bloomberg-tesla-waymo" />
+	<id>tag:daringfireball.net,2025:/linked//6.41999</id>
+	<published>2025-06-17T18:10:39Z</published>
+	<updated>2025-06-17T18:10:39Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Fred Lambert, writing for Electrek:</p>
+
+<blockquote>
+  <p>Bloomberg has just released <a href="https://www.bloomberg.com/news/videos/2025-06-16/why-tesla-could-have-a-self-driving-advantage-video">an embarrassingly bad report</a>
+about the self-driving space, in which it claimed Tesla has an
+advantage over Waymo by misrepresenting data. [...] The report
+compares Tesla’s and Waymo’s self-driving efforts, going so far as
+to claim that “Tesla is closer to vehicle autonomy than peers.”</p>
+</blockquote>
+
+<p>Right off the bat this smells fishy, given that Waymo is actually operating self-driving taxis in several cities, and Tesla ... is not.</p>
+
+<blockquote>
+  <p>Steve Man, the Bloomberg Intelligence analyst behind the report,
+based his report on Tesla’s own quarterly misleading “Autopilot
+Safety Report.” The report is widely considered to be unserious
+for several main reasons:</p>
+
+<ul>
+<li>Tesla bundles all miles from its vehicles using Autopilot and
+FSD technology, which are considered level 2 ADAS systems that
+require driver attention at all times. Drivers consistently
+correct the systems to avoid accidents.</li>
+<li>Tesla Autopilot, which is standard on all Tesla vehicles, is
+primarily used on highways, where accidents occur at a
+significantly lower rate per mile compared to city driving.</li>
+<li>Tesla only counts events that deploy an airbag or a seat-belt
+pretensioner. Fender-benders, curb strikes, and many ADAS
+incidents never appear, keeping crash counts artificially low.</li>
+<li>Finally, Tesla’s handpicked data is compared to NHTSA’s much
+broader statistics that include all collision events, including
+minor fender benders.</li>
+</ul>
+</blockquote>
+
+<p>Trusting Tesla’s own safety report is like saying, “Elon Musk says Tesla is ahead, so they must be ahead.”</p>
+
+<div>
+<a  title="Permanent link to ‘Bloomberg Publishes Embarrassing Report Comparing Tesla and Waymo Self-Driving Safety Records’"  href="https://daringfireball.net/linked/2025/06/17/bloomberg-tesla-waymo">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>WhatsApp Introduces Ads in Its App</title>
 	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2025/06/16/technology/whatsapp-ads.html?unlocked_article_code=1.PU8.G1Jy.5fcLP_rl3lYC" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wem" />
@@ -1790,109 +1882,6 @@ Meta Pixel and Yandex Metrica are estimated to be installed on
 
 <div>
 <a  title="Permanent link to ‘Meta and Yandex’s ‘Local Mess’ Exploit Seemingly Only Works on Android’"  href="https://daringfireball.net/linked/2025/06/04/meta-and-yandexs-local-mess-exploit-seemingly-only-works-on-android">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Meta and Yandex Have Both Been De-Anonymizing Android Users’ Ostensibly Sandboxed Private Web Browsing Identifiers</title>
-	<link rel="alternate" type="text/html" href="https://localmess.github.io/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wdd" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/04/meta-yandex-android-deanonymizing-web-ids" />
-	<id>tag:daringfireball.net,2025:/linked//6.41953</id>
-	<published>2025-06-04T21:53:45Z</published>
-	<updated>2025-06-05T00:02:38Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>A team of researchers has uncovered a scheme they’ve dubbed “Local Mess” — used by Meta since September 2024, and Russian search engine Yandex since 2017 (!) — to de-anonymize Android users’ web browsing across millions of websites that include Meta’s and Yandex’s respective tracking scripts. From their extensively detailed report:</p>
-
-<blockquote>
-  <p>These native Android apps receive browsers’ metadata, cookies and
-commands from the Meta Pixel and Yandex Metrica scripts embedded
-on thousands of web sites. These JavaScripts load on users’ mobile
-browsers and silently connect with native apps running on the same
-device through localhost sockets. As native apps access
-programmatically device identifiers like the <a href="https://support.google.com/googleplay/android-developer/answer/6048248">Android Advertising
-ID (AAID)</a> or handle user identities as in the case of Meta
-apps, this method effectively allows these organizations to <em>link
-mobile browsing sessions and web cookies to user identities</em>,
-hence de-anonymizing users’ visiting sites embedding their
-scripts.</p>
-
-<p>This web-to-app ID sharing method bypasses typical privacy
-protections such as clearing cookies, Incognito Mode and Android’s
-permission controls. Worse, it opens the door for potentially
-malicious apps eavesdropping on users’ web activity. [...]</p>
-
-<p>The entire flow of the _fbp cookie from web to native and the
-server is as follows:</p>
-
-<ol>
-<li>The user opens the native Facebook or Instagram app, which
-eventually is sent to the background and creates a background
-service to listen for incoming traffic on a TCP port (12387 or
-12388) and a UDP port (the first unoccupied port in
-12580-12585). Users must be logged-in with their credentials on
-the apps.</li>
-<li>The user opens their browser and visits a website integrating
-the Meta Pixel.</li>
-<li>At this stage, websites may ask for consent depending on the
-website’s and visitor’s locations.</li>
-<li>The Meta Pixel script sends the <a href="https://localmess.github.io/#about_fbp">_fbp cookie</a> to the
-native Instagram or Facebook app via WebRTC (STUN) SDP Munging.</li>
-<li>The Meta Pixel script also sends the _fbp value in a request to
-https://www.facebook.com/tr along with other parameters such as
-page URL (dl), website and browser metadata, and the <a href="https://web.archive.org/web/20250531104925/https://developers.facebook.com/docs/meta-pixel/reference/">event
-type</a> (ev) (e.g., PageView, AddToCart, Donate, Purchase).</li>
-<li>The Facebook or Instagram apps receive the _fbp cookie from the
-Meta Pixel JavaScript running on the browser. The apps transmit
-_fbp as a GraphQL mutation to
-(https://graph[.]facebook[.]com/graphql) along with other
-persistent user identifiers, linking users’ fbp ID (web visit)
-with their Facebook or Instagram account.</li>
-</ol>
-</blockquote>
-
-<p>The same day the researchers published this report, Meta stopped doing it.</p>
-
-<p><a href="https://duckduckgo.com/?q=site%3Adaringfireball.net+facebook+criminal+enterprise&amp;ia=web">I’ve said it before</a> but not in a while: Meta is a criminal enterprise. What they’ve done here may not have broken any laws, but there certainly should be laws against it. And in terms of simple common sense, the entire elaborate scheme <em>only</em> exists to circumvent features in Android meant to <em>prevent</em> native apps from tracking you while you use your web browser. Saying it’s not illegal doesn’t mean it isn’t theft. It’s like the privacy equivalent of <a href="https://www.theguardian.com/us-news/2025/may/29/jamie-raskin-democrat-trump-crypto-investigation">Trump’s cryptocurrency grift</a>, which might not violate any current laws, but clearly exists as a bribery scheme.</p>
-
-<div>
-<a  title="Permanent link to ‘Meta and Yandex Have Both Been De-Anonymizing Android Users’ Ostensibly Sandboxed Private Web Browsing Identifiers’"  href="https://daringfireball.net/linked/2025/06/04/meta-yandex-android-deanonymizing-web-ids">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Trump Administration’s ‘MAHA’ Report Cites Studies That Don’t Exist</title>
-	<link rel="alternate" type="text/html" href="https://www.notus.org/health-science/make-america-healthy-again-report-citation-errors" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wdc" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/04/maha-report-cites-nonexistent-studies" />
-	<id>tag:daringfireball.net,2025:/linked//6.41952</id>
-	<published>2025-06-04T20:38:41Z</published>
-	<updated>2025-06-04T20:38:54Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Emily Kennard and Margaret Manto, reporting last week for NOTUS (“News of The United States” — a seriously good up-and-coming national affairs publication):</p>
-
-<blockquote>
-  <p>Health Secretary Robert F. Kennedy Jr. says his “Make America
-Healthy Again” Commission report harnesses “gold-standard”
-science, citing more than 500 studies and other sources to back up
-its claims. Those citations, though, are rife with errors, from
-broken links to misstated conclusions.</p>
-
-<p>Seven of the cited sources don’t appear to exist at all.</p>
-</blockquote>
-
-<p>Shocking that these dipshits would generate their report with whatever came out of an LLM and not actually check — let alone, you know, <em>read</em> — the cited studies.</p>
-
-<div>
-<a  title="Permanent link to ‘Trump Administration’s ‘MAHA’ Report Cites Studies That Don’t Exist’"  href="https://daringfireball.net/linked/2025/06/04/maha-report-cites-nonexistent-studies">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
