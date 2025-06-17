@@ -7,7 +7,36 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-17T18:18:16Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-17T18:52:24Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Tracking Down the Original Photo From the End of ‘The Shining’</title>
+	<link rel="alternate" type="text/html" href="https://x.com/AricToler/status/1908610058318991581" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wep" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/17/tracking-down-the-original-photo-from-the-end-of-the-shining" />
+	<id>tag:daringfireball.net,2025:/linked//6.42001</id>
+	<published>2025-06-17T18:52:23Z</published>
+	<updated>2025-06-17T18:52:24Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Aric Toler, a visual investigations reporter for The New York Times, on X back in April:</p>
+
+<blockquote>
+  <p>For about a year, I worked with a retired British academic named
+Alasdair Spark to solve a mystery: where did the original photo
+from the end of The Shining come from, and where/when was it
+captured?</p>
+
+<p>Last week, we finally found the answer.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘Tracking Down the Original Photo From the End of ‘The Shining’’"  href="https://daringfireball.net/linked/2025/06/17/tracking-down-the-original-photo-from-the-end-of-the-shining">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>How Field Notes Went From Side Project to Cult Notebook</title>
 	<link rel="alternate" type="text/html" href="https://www.fastcompany.com/91352848/field-notes-cult-notebook-started-out-as-a-side-project" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/weo" />
@@ -1818,70 +1847,6 @@ pack, according to three people familiar with the matter.</p>
 
 <div>
 <a  title="Permanent link to ‘Apple Might Release an iPhone ‘Air’ Battery Case, But What They Ought to Release Is an Updated MagSafe Battery Pack’"  href="https://daringfireball.net/linked/2025/06/04/apple-iphone-air-battery-case-or-pack">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Meta and Yandex’s ‘Local Mess’ Exploit Seemingly Only Works on Android</title>
-	<link rel="alternate" type="text/html" href="https://arstechnica.com/security/2025/06/meta-and-yandex-are-de-anonymizing-android-users-web-browsing-identifiers/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wde" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/04/meta-and-yandexs-local-mess-exploit-seemingly-only-works-on-android" />
-	<id>tag:daringfireball.net,2025:/linked//6.41954</id>
-	<published>2025-06-04T22:08:52Z</published>
-	<updated>2025-06-04T22:08:53Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Dan Goodin, writing at Ars Technica:</p>
-
-<blockquote>
-  <p>This abuse has been observed only in Android, and evidence
-suggests that the Meta Pixel and Yandex Metrica target only
-Android users. The researchers say it may be technically feasible
-to target iOS because browsers on that platform allow developers
-to programmatically <a href="https://bugs.webkit.org/show_bug.cgi?id=279249">establish localhost connections</a> that
-apps can monitor on local ports.</p>
-
-<p>In contrast to iOS, however, Android imposes fewer controls on
-local host communications and background executions of mobile
-apps, the researchers said, while also implementing stricter
-controls in app store vetting processes to limit such abuses. This
-overly permissive design allows Meta Pixel and Yandex Metrica to
-send web requests with web tracking identifiers to specific local
-ports that are continuously monitored by the Facebook, Instagram,
-and Yandex apps. These apps can then link pseudonymous web
-identities with actual user identities, even in private browsing
-modes, effectively de-anonymizing users’ browsing habits on sites
-containing these trackers.</p>
-</blockquote>
-
-<p>I’ll note that among the so-called <a href="https://daringfireball.net/2025/06/apple_appeals_eu_interop_requirements">“interoperability” requirements the European Commission is demanding of iOS</a> is for third-party apps to run, unfettered, in the background, because some of Apple’s own first-party software obviously runs in the background. And I’ll further note that Apple made clear, <a href="https://developer.apple.com/support/downloads/DMA-Interoperability-Dec-2024.pdf">back in its December 2024 report laying out its objections to the EC’s demands</a>, that:</p>
-
-<blockquote>
-  <p>No company has made more interoperability requests of Apple than
-Meta. In many cases, Meta is seeking to alter functionality in a
-way that raises concerns about the privacy and security of users,
-and that appears to be completely unrelated to the actual use of
-Meta external devices, such as Meta smart glasses and Meta Quests.</p>
-</blockquote>
-
-<p>This newly uncovered “Local Mess” exploit — which seemingly only works on Android — is exactly the sort of scheme Meta wants to pull on iOS: to track users across millions of websites while they justifiably believe their web browsing is sandboxed from all native apps.</p>
-
-<p>Back to Goodin:</p>
-
-<blockquote>
-  <p>Meta Pixel and Yandex Metrica are analytics scripts designed to
-help advertisers measure the effectiveness of their campaigns.
-Meta Pixel and Yandex Metrica are estimated to be installed on
-<a href="https://trends.builtwith.com/websitelist/Facebook-Pixel%20">5.8 million</a> and <a href="https://trends.builtwith.com/analytics/Yandex-Metrika">3 million</a> sites, respectively.</p>
-</blockquote>
-
-<p>Every one of the sites that includes these tracking scripts is complicit to some extent in the theft of hundreds of millions of Android users’ web browsing privacy.</p>
-
-<div>
-<a  title="Permanent link to ‘Meta and Yandex’s ‘Local Mess’ Exploit Seemingly Only Works on Android’"  href="https://daringfireball.net/linked/2025/06/04/meta-and-yandexs-local-mess-exploit-seemingly-only-works-on-android">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
