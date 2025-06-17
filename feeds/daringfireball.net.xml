@@ -7,7 +7,48 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-17T19:14:28Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-17T19:52:56Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Seven Replies to the Viral Apple Reasoning Paper</title>
+	<link rel="alternate" type="text/html" href="https://simonwillison.net/2025/Jun/15/viral-apple-reasoning-paper/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wes" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/17/seven-replies-to-the-viral-apple-reasoning-paper" />
+	<id>tag:daringfireball.net,2025:/linked//6.42004</id>
+	<published>2025-06-17T19:50:08Z</published>
+	<updated>2025-06-17T19:52:56Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Simon Willison, regarding the various rebuttals to “<a href="https://machinelearning.apple.com/research/illusion-of-thinking">The Illusion of Thinking</a>” research paper (which <a href="https://daringfireball.net/linked/2025/06/08/apple-research-lrms">I linked to here</a>) from Apple’s machine learning team:</p>
+
+<blockquote>
+  <p>I thought this paper got <em>way</em> more attention than it warranted — the title “The Illusion of Thinking” captured the attention of the
+“LLMs are over-hyped junk” crowd. I saw enough well-reasoned
+rebuttals that I didn’t feel it worth digging into.</p>
+
+<p>And now, notable LLM skeptic Gary Marcus has saved me some time by
+aggregating the best of those rebuttals <a href="https://garymarcus.substack.com/p/seven-replies-to-the-viral-apple">together in one
+place</a>! [...]</p>
+
+<p>And therein lies my disagreement. I’m not interested in whether or
+not LLMs are the “road to AGI”. I continue to care only about
+whether they have useful applications today, once you’ve
+understood their limitations. [...] They’re already useful to me
+today, whether or not they can reliably solve the Tower of Hanoi
+or River Crossing puzzles.</p>
+</blockquote>
+
+<p>Count me in with Willison. I think it’s <em>interesting</em> what constitutes “reasoning”, but when it comes to these systems, I’m mostly just interested in whether they’re useful or not, and if so, how.</p>
+
+<p><strong>See also:</strong> <a href="https://victoramartinez.com/posts/why-claudes-comment-paper-is-a-poor-rebuttal/">Victor Martinez’s rebuttal to the most-cited rebuttal</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Seven Replies to the Viral Apple Reasoning Paper’"  href="https://daringfireball.net/linked/2025/06/17/seven-replies-to-the-viral-apple-reasoning-paper">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Why WhatsApp Didn’t Sell Ads</title>
 	<link rel="alternate" type="text/html" href="https://blog.whatsapp.com/why-we-don-t-sell-ads" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wer" />
@@ -1784,47 +1825,6 @@ is appropriate.</p>
 
 <div>
 <a  title="Permanent link to ‘Judge Denies Apple’s Appeal; Ordered to Keep Allowing Link-Outs to the Web in the U.S. App Store’"  href="https://daringfireball.net/linked/2025/06/05/apple-appeal-denied-antisteering">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Marco Arment on Apple’s Decision to Decline Appearing on The Talk Show Live From WWDC</title>
-	<link rel="alternate" type="text/html" href="https://marco.org/2025/05/30/retreat" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wdi" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/05/marco-apple-the-talk-show" />
-	<id>tag:daringfireball.net,2025:/linked//6.41958</id>
-	<published>2025-06-05T20:38:54Z</published>
-	<updated>2025-06-05T21:06:48Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Marco Arment, moved to write his first blog post in 11 months:</p>
-
-<blockquote>
-  <p>For unspecified reasons, <a href="https://daringfireball.net/linked/2025/05/29/the-talk-show-live-tickets-2025">Apple has declined to participate this
-year</a>, ending what had become a beloved tradition in our
-community — and I can’t help but suspect that it won’t come back.
-(<a href="https://marco.org/2021/06/03/developer-relations">A lot has changed</a> in the meantime.)</p>
-
-<p>Maybe Apple has good reasons. <a href="https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino">Maybe not</a>. We’ll see what
-their WWDC PR strategy looks like in a couple of weeks.</p>
-
-<p>In the absence of any other information, it’s easy to assume that
-Apple no longer wants its executives to be interviewed in a human,
-unscripted, unedited context that may contain hard questions, and
-that Apple no longer feels it necessary to show their appreciation
-to our community and developers in this way.</p>
-
-<p>I hope that’s either not the case, or it doesn’t stay the case
-for long.</p>
-</blockquote>
-
-<p>They’ve invited members of the media to a screening of <em>F1 The Movie</em> Tuesday at 7:00pm in the Steve Jobs Theater. Thankfully, my press invitation from Apple has it marked as “optional”, because I have <a href="https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2025">a conflict</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Marco Arment on Apple’s Decision to Decline Appearing on The Talk Show Live From WWDC’"  href="https://daringfireball.net/linked/2025/06/05/marco-apple-the-talk-show">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
