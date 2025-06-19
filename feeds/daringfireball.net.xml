@@ -7,14 +7,55 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-19T16:58:25Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-19T17:27:02Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Yours Truly on Peter Kafka’s ‘Channels’ Podcast</title>
+	<link rel="alternate" type="text/html" href="https://overcast.fm/+QL2dEoWo4" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wey" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/19/yours-truly-on-peter-kafkas-channels-podcast" />
+	<id>tag:daringfireball.net,2025:/linked//6.42010</id>
+	<published>2025-06-19T17:10:04Z</published>
+	<updated>2025-06-19T17:10:04Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Peter Kafka:</p>
+
+<blockquote>
+  <p>So in March, when Gruber announced that Something is Rotten in the
+State of Cupertino — focusing on Apple’s botched plans to imbue
+its ailing Siri service with state-of-the-art AI — lots of people
+paid attention. Including, apparently, folks at the very top of
+the Apple org chart.</p>
+
+<p>I talked to Gruber about the fallout from that post. Which is
+pretty interesting! But there’s a lot more going on in this
+conversation. It’s partly about the friction Apple has been
+generating lately — not just about its AI efforts, but the way it
+runs its App Store, and the way it interacts with developers — and why all of that does and doesn’t matter.</p>
+
+<p>And it’s also about the delightfully retro practice of running an
+ad-supported blog in 2025. That works very well for Gruber, but it
+seems like the new Grubers of the world are doing their work on
+YouTube or Substack. He’s got some thoughts about that, too.</p>
+</blockquote>
+
+<p>Good interview, I thought — I always enjoy talking to Kafka. No permalink for the episode on the web, so my main link for this post is to Overcast. <a href="https://podcasts.apple.com/us/podcast/why-did-apple-ice-out-the-most-famous-apple-blogger/id1080467174?i=1000713447406">Here’s a link to Apple Podcasts</a> too.</p>
+
+<div>
+<a  title="Permanent link to ‘Yours Truly on Peter Kafka’s ‘Channels’ Podcast’"  href="https://daringfireball.net/linked/2025/06/19/yours-truly-on-peter-kafkas-channels-podcast">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>iPhone Mirroring Still Not Coming to the EU, Thanks to the DMA</title>
 	<link rel="alternate" type="text/html" href="https://www.numerama.com/tech/1988271-mauvaise-nouvelle-iphone-mirroring-narrivera-pas-en-france-avec-ios-26.html" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wex" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/19/iphone-mirroring-eu-numerama" />
 	<id>tag:daringfireball.net,2025:/linked//6.42009</id>
 	<published>2025-06-19T16:55:47Z</published>
-	<updated>2025-06-19T16:58:25Z</updated>
+	<updated>2025-06-19T17:27:02Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -35,7 +76,7 @@ monitored platforms if it can emulate iOS, one of the gatekeepers
 monitored by Europe.</p>
 </blockquote>
 
-<p>The problem isn’t about MacOS getting flagged as another “gatekeeping” platform under the DMA. Whether or not Apple enables iPhone Mirroring on MacOS in the EU would have no bearing on whether the Mac is deemed a gatekeeper. The <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R1925">DMA defines a “gatekeeper” platform</a> as “a core platform service that in the last financial year has at least 45 million monthly active end users established or located in the Union and at least 10,000 yearly active business users established in the Union”. I’m not sure how many Mac users there are in the EU, but I’m pretty sure the number is well under 45 million. (<a href="https://www.spyhunter.com/shm/macos-stats/">Estimates</a> seem to peg the worldwide number of Mac users at just over 100 million.)</p>
+<p>The problem isn’t about MacOS getting flagged as another “gatekeeping” platform under the DMA. Whether or not Apple enables iPhone Mirroring on MacOS in the EU would have no bearing on whether the Mac is deemed a gatekeeper. The <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R1925">DMA defines a “gatekeeper” platform</a> as “a core platform service that in the last financial year has at least 45 million monthly active end users established or located in the Union and at least 10,000 yearly active business users established in the Union”. I’m not sure how many Mac users there are in the EU, but I’m pretty sure the number is well under 45 million. (<a href="https://www.spyhunter.com/shm/macos-stats/">Estimates</a> seem to peg the worldwide number of Mac users at just over 100 million.) Conversely, if the European Commission decided that there <em>were</em> 45 million Mac users in the EU, the Mac would be considered a gatekeeping platform, period.</p>
 
 <p>The problem is simply that the iPhone <em>is</em> a gatekeeping platform, and iPhone Mirroring obviously involves the iPhone. The EU’s <a href="https://daringfireball.net/2025/06/apple_appeals_eu_interop_requirements">recent demands regarding “interoperability requirements”</a> flag just about every single feature that involves an iPhone communicating with another Apple device. AirDrop, AirPlay, AirPods pairing, Apple Watch connectivity — all of that has been deemed illegal gatekeeping. Clearly, iPhone Mirroring would fall under the same interpretation, thus, iPhone Mirroring isn’t going to be available in the EU. If the DMA had been in place 15 years ago, the EU wouldn’t have AirDrop or AirPlay and perhaps wouldn’t have Apple Watch or AirPods, either.</p>
 
@@ -1762,55 +1803,6 @@ social network.</p>
 
     ]]></content>
   <title>★ Truth Social Is Just Trump’s Blog</title></entry><entry>
-	<title>CIRP Survey Suggests 78 Percent of All Apple Customers Own an iPad</title>
-	<link rel="alternate" type="text/html" href="https://9to5mac.com/2025/06/04/ipad-is-a-much-bigger-hit-than-you-probably-thought/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wdo" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/06/cirp-survey-ipad-popularity" />
-	<id>tag:daringfireball.net,2025:/linked//6.41964</id>
-	<published>2025-06-06T20:20:18Z</published>
-	<updated>2025-06-07T00:16:13Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Ryan Christoffel, writing at 9to5Mac regarding <a href="https://cirpapple.substack.com/p/rethinking-the-apple-ecosystem">a paywalled survey report from CIRP</a>:</p>
-
-<blockquote>
-  <p>CIRP recently performed a survey of Apple customers to get a sense
-of how the company’s three tentpole products — iPhone, iPad, and
-Mac — are performing. One focus was on understanding the power of
-Apple’s ecosystem, as determined by customers who own multiple
-products.</p>
-
-<p><a href="https://cirpapple.substack.com/p/rethinking-the-apple-ecosystem">Michael Levin and Josh Lowitz write at CIRP</a>:</p>
-
-<blockquote>
-  <p>iPhone remains the most dominant product, with 94% of recent
-Apple customers owning one. iPads are next, with 78% owning one.
-Mac computers have much smaller penetration, at 36% of recent
-customers.</p>
-
-<p>74% of customers, virtually all iPad owners, own an iPad and an
-iPhone. Only 30% own all three, as that number is limited by
-Apple customers’ relative lack of Macs.</p>
-</blockquote>
-
-<p>Different people may draw their own conclusions on the data, but
-for me, the most interesting element is easily the iPad’s
-popularity.</p>
-</blockquote>
-
-<p>I don’t find this surprising. But if it’s true, it truly shows just how much longer people hold onto their iPads than their iPhones. If the average customer replaced their iPad as frequently as they do their iPhone, you’d expect Apple’s iPad revenue to be remarkably close to their iPhone revenue. But they’re not close. <a href="https://sixcolors.com/post/2025/05/apple-q2-2025-results-and-charts-95-4b-revenue/">In their most recent quarter</a>, iPhone revenue was 7× iPad revenue. And Mac revenue was slightly ahead of iPad revenue — but that might be more a function of average selling prices being so much higher for Macs than iPads, not replacement cycles.</p>
-
-<p><strong id="update">Update:</strong> It goes without saying that any consumer survey is only as good as the surveyor. But CIRP, in particular, has posted some dubious ones, to say the least. <a href="https://mastodon.social/@lapcatsoftware/114638324316925437">Jeff Johnson pointed out on Mastodon</a> that back in 2023, <a href="https://9to5mac.com/2023/01/09/apples-most-popular-mac/">CIRP published a survey that claimed the Mac Pro accounted for 43 percent</a> of all Mac desktop sales, with the Mac Mini and Mac Studio each accounting for only 4 percent each. That’s just bananas. That’s not like <em>maybe wrong</em>, that’s not <em>gotta be a little wrong</em>, that’s <em>how could anyone publish this?</em> wrong. It’s hard to believe anything from CIRP after they published that.</p>
-
-<div>
-<a  title="Permanent link to ‘CIRP Survey Suggests 78 Percent of All Apple Customers Own an iPad’"  href="https://daringfireball.net/linked/2025/06/06/cirp-survey-ipad-popularity">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/06/apple_appeals_eu_interop_requirements" />
 	<link rel="shorturl" href="http://df4.us/wd4" />
