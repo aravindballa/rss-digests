@@ -7,13 +7,13 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-19T21:03:55Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-19T21:40:40Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/06/some_brief_thoughts_and_observations_on_wwdc_2025" />
 	<link rel="shorturl" href="http://df4.us/wf0" />
 	<id>tag:daringfireball.net,2025://1.42012</id>
 	<published>2025-06-19T21:03:54Z</published>
-	<updated>2025-06-19T21:03:55Z</updated>
+	<updated>2025-06-19T21:40:40Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -29,7 +29,7 @@
 
 <h2>Year-Based Version Numbers</h2>
 
-<p>There’s no question that it’s a little weird for every one of Apple’s platforms to have jumped to version 26. I mean, VisionOS skipped 21 version numbers. Presumably, when Apple next unveils a new OS (HomeOS?), it’s going to <em>start</em> at version 26, 27, or 28. But I’m already getting used to this, and I think the underlying logic laid out by Craig Federighi at the outset of the keynote is true: with Apple now up to six developer platforms (Mac, iPhone, iPad, Vision, TV, Watch), it had gotten hard to keep track of which version numbers corresponded to the same year. That matters not just for the convenience of knowing, in years to come, when specific versions of each OS were released, but it also matters because none these platforms exist in isolation. They’re all parts of a cohesive whole, a cross-device “Apple OS 26” experience, as it were.</p>
+<p>There’s no question that it’s a little weird for every one of Apple’s platforms to have jumped to version 26. I mean, VisionOS skipped 21 version numbers. Presumably, when Apple next unveils a new OS (HomeOS?), it’s going to <em>start</em> at version 26, 27, or 28. But I’m already getting used to this, and I think the underlying logic laid out by Craig Federighi at the outset of the keynote is true: with Apple now up to six developer platforms (Mac, iPhone, iPad, Vision, TV, Watch), it had gotten hard to keep track of which version numbers corresponded to the same year. That matters not just for the convenience of knowing, in years to come, when specific versions of each OS were released, but it also matters because none of these platforms exist in isolation. They’re all parts of a cohesive whole, a cross-device “Apple OS 26” experience, as it were.</p>
 
 <p>One thing I haven’t seen commented on, though, is that switching to year-based version numbers establishes as de facto policy something that has now been true for quite a few years, but which Apple has never officially acknowledged: that each of these platforms will get a major version release annually. 20 years ago the update schedule for Mac OS X was rather erratic:</p>
 
@@ -160,7 +160,7 @@ that’s what we tried to do.</p>
 
 <p>But the work itself, Liquid Glass as it launched last week, is very reminiscent of Aqua a quarter century (!) ago. It’s exciting, it’s fresh, it fundamentally looks and feels very cool in general — and but in practice quite a few aspects of it feel a bit over-the-top and/or half-baked. Just like with Aqua, it will surely get dialed in. Legibility problems will be addressed.</p>
 
-<p>Liquid Glass has been in the works for a long time, but what we see today has come together very quickly. For those using internal builds inside Apple, what Apple unveiled last week is effectively the third version of Liquid Glass. Just a few weeks prior to WWDC, a few sources told me that internal builds were such a complete mess that they wondered if it would come together in time for WWDC developer betas. But come together it has. I expect a <em>lot</em> of visual changes over the course of the summer, and significant evolutionary tweaks in the next few years to come. Across Apple’s own apps, there are are a lot of places where things haven’t yet been glassed up at all. That’s how these things work.</p>
+<p>Liquid Glass has been in the works for a long time, but what we see today has come together very quickly. For those using internal builds inside Apple, what Apple unveiled last week is effectively the third version of Liquid Glass. Just a few weeks prior to WWDC, a few sources told me that internal builds were such a complete mess that they wondered if it would come together in time for WWDC developer betas. But come together it has. I expect a <em>lot</em> of visual changes over the course of the summer, and significant evolutionary tweaks in the next few years. Across Apple’s own apps, there are are a lot of places where things haven’t yet been glassed up at all. That’s how these things work.</p>
 
 <p>As for <em>why</em>, it should be enough to justify Liquid Glass simply for the sake of looking cool. I opened this piece with a quote from a great fictional philosopher. I’ll close it with a quote from a great real one:</p>
 
