@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-19T21:55:21Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-19T22:13:53Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/06/some_brief_thoughts_and_observations_on_wwdc_2025" />
 	<link rel="shorturl" href="http://df4.us/wf0" />
@@ -269,7 +269,7 @@ of Europe.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/19/apples-new-foundation-model-speech-apis-outpace-whisper-for-transcription" />
 	<id>tag:daringfireball.net,2025:/linked//6.42008</id>
 	<published>2025-06-19T16:28:05Z</published>
-	<updated>2025-06-19T21:55:21Z</updated>
+	<updated>2025-06-19T22:13:53Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -288,7 +288,7 @@ impressed with how fast and accurate they were. [...]</p>
 
 <p>What stood out above all else was Yap’s speed. By harnessing
 SpeechAnalyzer and SpeechTranscriber on-device, the command line
-tool tore through the 7GB video file a full [2.2×] faster than
+tool tore through the 7GB video file a full 2.2× faster than
 MacWhisper’s Large V3 Turbo model, with no noticeable difference
 in transcription quality.</p>
 
@@ -297,7 +297,7 @@ insignificant, and it arguably is, but those are the results for
 just one 34-minute video. Extrapolate that to running Yap against
 the hours of Apple Developer videos released on YouTube with the
 help of <a href="https://github.com/yt-dlp/yt-dlp"><code>yt-dlp</code></a>, and suddenly, you’re talking about a
-significant amount of time. Like all automation, picking up a 55%
+significant amount of time. Like all automation, picking up a 2.2×
 speed gain one video or audio clip at a time, multiple times each
 week, adds up quickly.</p>
 </blockquote>
