@@ -7,7 +7,95 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-19T00:16:08Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-19T16:28:06Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Apple’s New Foundation Model Speech APIs Outpace Whisper for Transcription</title>
+	<link rel="alternate" type="text/html" href="https://www.macstories.net/stories/hands-on-how-apples-new-speech-apis-outpace-whisper-for-lightning-fast-transcription/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wew" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/19/apples-new-foundation-model-speech-apis-outpace-whisper-for-transcription" />
+	<id>tag:daringfireball.net,2025:/linked//6.42008</id>
+	<published>2025-06-19T16:28:05Z</published>
+	<updated>2025-06-19T16:28:06Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>John Voorhees, writing at MacStories, regarding a new command-line transcription tool cleverly named <a href="https://github.com/finnvoor/yap">Yap</a> written by his son Finn last week during WWDC:</p>
+
+<blockquote>
+  <p>On the way, Finn filled me in on a new class in <a href="https://developer.apple.com/documentation/speech">Apple’s Speech
+framework</a> called <a href="https://developer.apple.com/documentation/speech/speechanalyzer">SpeechAnalyzer</a> and its
+<a href="https://developer.apple.com/documentation/speech/speechtranscriber">SpeechTranscriber</a> module. Both the class and module are
+<a href="https://developer.apple.com/videos/play/wwdc2025/277">part of Apple’s OS betas</a> that were released to developers
+last week at WWDC. My ears perked up immediately when he told me
+that he’d tested SpeechAnalyzer and SpeechTranscriber and was
+impressed with how fast and accurate they were. [...]</p>
+
+<p>What stood out above all else was Yap’s speed. By harnessing
+SpeechAnalyzer and SpeechTranscriber on-device, the command line
+tool tore through the 7GB video file a full 55% faster than
+MacWhisper’s Large V3 Turbo model, with no noticeable difference
+in transcription quality.</p>
+
+<p>At first blush, the difference between 0:45 and 1:41 may seem
+insignificant, and it arguably is, but those are the results for
+just one 34-minute video. Extrapolate that to running Yap against
+the hours of Apple Developer videos released on YouTube with the
+help of <a href="https://github.com/yt-dlp/yt-dlp"><code>yt-dlp</code></a>, and suddenly, you’re talking about a
+significant amount of time. Like all automation, picking up a 55%
+speed gain one video or audio clip at a time, multiple times each
+week, adds up quickly.</p>
+</blockquote>
+
+<p>Apple’s Foundation Models sure seem to be the sleeper hit from WWDC this year. This bodes very well for all sorts of use cases where transcription would be helpful, like third-party podcast players.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple’s New Foundation Model Speech APIs Outpace Whisper for Transcription’"  href="https://daringfireball.net/linked/2025/06/19/apples-new-foundation-model-speech-apis-outpace-whisper-for-transcription">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Bungie Indefinitely Delays Reboot of ‘Marathon’</title>
+	<link rel="alternate" type="text/html" href="https://www.bungie.net/7/en/News/Article/marathon_update" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wev" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/19/bungie-delays-marathon" />
+	<id>tag:daringfireball.net,2025:/linked//6.42007</id>
+	<published>2025-06-19T16:17:53Z</published>
+	<updated>2025-06-19T16:20:17Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Bungie:</p>
+
+<blockquote>
+  <p>Through every comment and real-time conversation on social media
+and Discord, your voice has been strong and clear. We’ve taken
+this to heart, and we know we need more time to craft <em>Marathon</em>
+into the game that truly reflects your passion. After much
+discussion within our Dev team, we’ve made the decision to delay
+the September 23rd release.</p>
+
+<p>The Alpha test created an opportunity for us to calibrate and
+focus the game on what will make it uniquely compelling — survival under pressure, mystery and lore around every
+corner, raid-like endgame challenges, and Bungie’s
+genre-defining FPS combat.</p>
+
+<p>We’re using this time to empower the team to create the intense,
+high-stakes experience that a title like <em>Marathon</em> is built
+around. This means deepening the relationship between the
+developers and the game’s most important voices: our players.</p>
+</blockquote>
+
+<p>Translation to plain English: <em>The game as currently imagined stinks, so we’re going back to the drawing board. We can’t explain why we, the game’s developers, didn’t know that it stunk, and instead seemingly needed to wait for scathing alpha test feedback from players — but Occam’s Razor clearly suggests the problem is that decisions at Bungie are made by executives with no taste.</em></p>
+
+<div>
+<a  title="Permanent link to ‘Bungie Indefinitely Delays Reboot of ‘Marathon’’"  href="https://daringfireball.net/linked/2025/06/19/bungie-delays-marathon">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Federico, Federighi. Federighi, Federico.</title>
 	<link rel="alternate" type="text/html" href="https://www.macstories.net/stories/interview-craig-federighi-opens-up-about-ipados-its-multitasking-journey-and-the-ipads-essence/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/weu" />
@@ -1688,102 +1776,6 @@ popularity.</p>
 
 <div>
 <a  title="Permanent link to ‘Neven Mrgan on Why Skeuomorphism Is Like a Classic Car’"  href="https://daringfireball.net/linked/2025/06/05/neven-mrgan-on-why-skeuomorphism-is-like-a-classic-car">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>The Comma That Might Cost Apple Billions in Europe</title>
-	<link rel="alternate" type="text/html" href="https://cafetechinenglish.substack.com/p/a-simple-comma-will-cost-apple-billion?r=6gzkf&amp;triedRedirect=true" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wdm" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/05/the-comma-that-might-cost-apple-billions-in-europe" />
-	<id>tag:daringfireball.net,2025:/linked//6.41962</id>
-	<published>2025-06-06T00:09:24Z</published>
-	<updated>2025-06-06T00:10:26Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jérôme Marin, writing at Cafétech:</p>
-
-<blockquote>
-  <p>The disagreement between Apple and Brussels centers on Article
-5.4. In its English version, the article states that the
-gatekeeper — the term used by the Commission for the seven major
-tech companies subject to the DMA — <em>“shall allow business users,
-free of charge, to communicate and promote offers, including under
-different conditions […], and to conclude contracts with those end
-users.”</em></p>
-
-<p>This lengthy sentence creates ambiguity: what exactly does <em>“free
-of charge”</em> apply to? Apple claims it only applies to
-<em>“communicate”</em> and <em>“promote,”</em> meaning the right to insert
-redirect links in an app. But not to <em>“conclude contracts,”</em>
-meaning making purchases. Based on that, Apple argues it can still
-charge commissions on those external transactions.</p>
-
-<p>The European Commission interprets it differently: contract
-conclusion must also be free of charge. It relies on the comma
-before the phrase <em>“and to conclude contracts,”</em> turning the
-sentence into an <em>“enumeration.” “That ‘free of charge’ applies to
-all that is being enumerated after”,</em> it explains in <a href="https://ec.europa.eu/competition/digital_markets_act/cases/202522/DMA_100109_906.pdf">its detailed
-decision sent to Apple</a> as part of the €500 million fine,
-which was made public last week.</p>
-
-<p><em>“In other words, the price for app developers to pay [for
-external purchases] is zero,”</em> writes the Commission. However, its
-case could be weakened by inconsistencies in the French and German
-translations of the text, which it acknowledges are <em>“ambiguous.”</em>
-Still, <em>“other linguistic versions leave no room for
-interpretation,”</em> notes Brussels.</p>
-</blockquote>
-
-<p>I understand why EU laws are published in multiple languages, but it’s wild that that can create possible loopholes like this. But it seems rather obvious what the EC’s intention was here, and it wasn’t for Apple to charge commissions — let alone steep commissions — on transactions that take place outside the app after users tap a link to the web. If I were one of Apple’s lawyers, I’d argue about the placement of a comma too, and what it implies about what “free of charge” applies to. But the EC’s intentions are obvious. It’s not really about a comma.</p>
-
-<p>On this particular issue Apple seems to be facing the exact same pushback in the EU <a href="https://daringfireball.net/linked/2025/06/05/apple-appeal-denied-antisteering">as in the US</a>: their anti-steering rules in the App Store aren’t legal.</p>
-
-<div>
-<a  title="Permanent link to ‘The Comma That Might Cost Apple Billions in Europe’"  href="https://daringfireball.net/linked/2025/06/05/the-comma-that-might-cost-apple-billions-in-europe">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>9to5Mac on The Talk Show Livestream Returning to Theater for VisionOS</title>
-	<link rel="alternate" type="text/html" href="https://9to5mac.com/2025/06/05/theater-the-talk-show-live-3d/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wdl" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/05/9to5mac-on-the-talk-show-livestream-returning-to-theater" />
-	<id>tag:daringfireball.net,2025:/linked//6.41961</id>
-	<published>2025-06-05T22:01:20Z</published>
-	<updated>2025-06-07T00:22:36Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Nice write-up from Zac Hall at 9to5Mac:</p>
-
-<blockquote>
-  <p>Theater for visionOS <a href="https://9to5mac.com/2024/06/10/sandwich-debuts-theater-for-vision-pro-with-exclusive-the-talk-show-live-event-in-immersive-video/">premiered</a> a year ago with a clever
-software launch campaign: exclusively streaming John Gruber’s The
-Talk Show post-WWDC event live with 3D video.</p>
-
-<p>The Apple Vision Pro app has continued to mature since its debut,<a href="https://9to5mac.com/2025/01/06/the-best-plex-video-player-for-apple-vision-pro-just-got-way-better/">
-adding extensive Plex support</a> and <a href="https://9to5mac.com/2024/12/23/apple-vision-pro-just-got-a-planetarium-and-its-friggin-awesome/">a full-blown immersive
-planetarium</a> that now hosts the <a href="https://sandwich.vision/press/partners/resolution-press-release.html">2025 SXSW award-winning
-“Resolution” music experience</a>.</p>
-
-<p>Next up, Theater is returning as the exclusive home to The Talk
-Show Live event stream.</p>
-</blockquote>
-
-<p>First, as Hall points out, if you haven’t heard or thought about the Theater app for VisionOS since my show last year, there is now a ton of interesting immersive content there. Second, I’ve lost track of how many times I’ve read commentary, or listened to people on podcasts, wonder why there are hardly any “<em>just make it feel like you’re there, in the audience, for the show</em>” immersive shows for VisionOS.</p>
-
-<p>That’s what Sandwich Vision did last year, and is doing even better this year, with my show. I thought it was kind of odd that it was me, of all people, and my once-a-year, not-that-big-a-deal-outside-the-Apple-nerd-media-world show, who was the first to livestream an immersive show experience for VisionOS. Maybe there were others first for Meta’s low-res headsets, but if there were, I’m not aware of them. My show last year really might have been first for any immersive headset.</p>
-
-<p>Afterward, I figured by this year, while it might not be commonplace — simply because Vision Pro ownership is, you know, not that high — it wouldn’t be unusual. But it still is. I honestly don’t get why that is. Anyway, like I wrote in the previous post, if you can make the show, <a href="https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2025">you really should attend</a>. But if you can’t make the show, you definitely should watch live <a href="https://theater.sandwich.vision/">in Theater</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘9to5Mac on The Talk Show Livestream Returning to Theater for VisionOS’"  href="https://daringfireball.net/linked/2025/06/05/9to5mac-on-the-talk-show-livestream-returning-to-theater">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
