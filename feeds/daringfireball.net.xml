@@ -7,13 +7,13 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-19T21:40:40Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-19T21:55:21Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/06/some_brief_thoughts_and_observations_on_wwdc_2025" />
 	<link rel="shorturl" href="http://df4.us/wf0" />
 	<id>tag:daringfireball.net,2025://1.42012</id>
 	<published>2025-06-19T21:03:54Z</published>
-	<updated>2025-06-19T21:40:40Z</updated>
+	<updated>2025-06-19T21:52:48Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -60,7 +60,7 @@
 </tbody>
 </table>
 
-<p>OS X 10.8 Mountain Lion (which began the odd four-year run where the Mac’s OS name didn’t contain “Mac”) arrived in July 2012, and thereafter a new major version has shipped in September, October, or November (MacOS 11 Big Sur, in 2020) every single year. This rigorous annual schedule is a hallmark of the Tim Cook era at Apple, and clearly reflects his personality (as the erratic schedule of the mid-2000s reflected Steve Jobs’s).</p>
+<p>OS X 10.8 Mountain Lion (which began the odd four-year run where the Mac’s OS name didn’t contain “Mac”) arrived in July 2012, and thereafter a new major version has shipped in September, October, or November (MacOS 11 Big Sur, in 2020) every single year. This rigorous annual schedule is a hallmark of the Tim Cook era at Apple, and clearly reflects his personality (as the erratic/idiosyncratic schedule of the mid-2000s reflected Steve Jobs’s).</p>
 
 <h2>iPadOS Windowing</h2>
 
@@ -95,7 +95,7 @@ across our platforms. This unified design language creates a more
 harmonious experience as you move between products, while
 maintaining the qualities that make each unique. Inspired by the
 physicality and richness of VisionOS, we challenged ourselves to
-make something purely digital, feel natural and alive. From how it
+make something purely digital feel natural and alive. From how it
 looks to how it feels as it dynamically responds to touch. To
 achieve this, we began by rethinking the fundamental elements that
 make up our software, and it starts with an entirely new
@@ -269,7 +269,7 @@ of Europe.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/19/apples-new-foundation-model-speech-apis-outpace-whisper-for-transcription" />
 	<id>tag:daringfireball.net,2025:/linked//6.42008</id>
 	<published>2025-06-19T16:28:05Z</published>
-	<updated>2025-06-19T16:28:06Z</updated>
+	<updated>2025-06-19T21:55:21Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -288,7 +288,7 @@ impressed with how fast and accurate they were. [...]</p>
 
 <p>What stood out above all else was Yap’s speed. By harnessing
 SpeechAnalyzer and SpeechTranscriber on-device, the command line
-tool tore through the 7GB video file a full 55% faster than
+tool tore through the 7GB video file a full [2.2×] faster than
 MacWhisper’s Large V3 Turbo model, with no noticeable difference
 in transcription quality.</p>
 
