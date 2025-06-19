@@ -7,14 +7,56 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-19T22:41:04Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-19T23:04:00Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>How Apple Created a Custom iPhone Camera for ‘F1’</title>
+	<link rel="alternate" type="text/html" href="https://www.wired.com/story/apple-created-a-custom-iphone-camera-for-f1/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wf2" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/19/apple-custom-iphone-camera-for-f1" />
+	<id>tag:daringfireball.net,2025:/linked//6.42014</id>
+	<published>2025-06-19T23:04:00Z</published>
+	<updated>2025-06-19T23:04:00Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Julian Chokkattu, writing for Wired:</p>
+
+<blockquote>
+  <p>You can’t mount a cinema camera on a Formula One race car. These
+nimble vehicles are built to precise specs, and capturing racing
+footage from the driver’s point of view isn’t as simple as
+slapping a GoPro on and calling it a day. That’s the challenge
+Apple faced after Joseph Kosinski and Claudio Miranda, the
+director and cinematographer of the upcoming <em>F1</em> Apple Original,
+wanted to use real POV racing footage in the film.</p>
+
+<p>If you’ve watched a Formula One race lately, you’ve probably seen
+clips that show an angle from just behind the cockpit, with the
+top or side of the driver’s helmet in the frame. Captured by
+onboard cameras embedded in the car, the resulting footage is
+designed for broadcast, at a lower resolution using specific color
+spaces and codecs. Converting it to match the look of the rest of
+the <em>F1</em> film would be too challenging to be feasible. Instead,
+Apple’s engineering team replaced the broadcast module with a
+camera composed of iPhone parts.</p>
+</blockquote>
+
+<p>I think back to Phil Schiller, <a href="https://vimeo.com/130510366">on stage at my WWDC show in 2015</a>, saying that Apple viewed itself then not just as one of the leading camera companies in the world, but <a href="https://www.imore.com/gruber-and-schiller-our-full-transcript-talk-show-wwdc"><em>the</em> leading camera company in the world</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘How Apple Created a Custom iPhone Camera for ‘F1’’"  href="https://daringfireball.net/linked/2025/06/19/apple-custom-iphone-camera-for-f1">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘F1’ and Apple’s Movie Strategy</title>
 	<link rel="alternate" type="text/html" href="https://variety.com/2025/film/news/f1-apple-movie-strategy-tim-cook-lewis-hamilton-1236424270/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wf1" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/19/f1-and-apples-movie-strategy" />
 	<id>tag:daringfireball.net,2025:/linked//6.42013</id>
 	<published>2025-06-19T22:41:04Z</published>
-	<updated>2025-06-19T22:41:04Z</updated>
+	<updated>2025-06-19T22:56:30Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -64,7 +106,7 @@ Apple TV+.”</p>
 	<link rel="shorturl" href="http://df4.us/wf0" />
 	<id>tag:daringfireball.net,2025://1.42012</id>
 	<published>2025-06-19T21:03:54Z</published>
-	<updated>2025-06-19T21:52:48Z</updated>
+	<updated>2025-06-19T22:54:13Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -211,7 +253,7 @@ that’s what we tried to do.</p>
 
 <p>But the work itself, Liquid Glass as it launched last week, is very reminiscent of Aqua a quarter century (!) ago. It’s exciting, it’s fresh, it fundamentally looks and feels very cool in general — and but in practice quite a few aspects of it feel a bit over-the-top and/or half-baked. Just like with Aqua, it will surely get dialed in. Legibility problems will be addressed.</p>
 
-<p>Liquid Glass has been in the works for a long time, but what we see today has come together very quickly. For those using internal builds inside Apple, what Apple unveiled last week is effectively the third version of Liquid Glass. Just a few weeks prior to WWDC, a few sources told me that internal builds were such a complete mess that they wondered if it would come together in time for WWDC developer betas. But come together it has. I expect a <em>lot</em> of visual changes over the course of the summer, and significant evolutionary tweaks in the next few years. Across Apple’s own apps, there are are a lot of places where things haven’t yet been glassed up at all. That’s how these things work.</p>
+<p>Liquid Glass has been in the works for a long time, but what we see today has come together very quickly. For those using internal builds inside Apple, what Apple unveiled last week is effectively the third version of Liquid Glass. Just a few weeks prior to WWDC, a few sources told me that internal builds were such a complete mess that they wondered if it would come together in time for WWDC developer betas. But come together it has. I expect a <em>lot</em> of visual changes over the course of the summer, and significant evolutionary tweaks in the next few years. Across Apple’s own apps, there are a lot of places where things haven’t yet been glassed up at all. That’s how these things work.</p>
 
 <p>As for <em>why</em>, it should be enough to justify Liquid Glass simply for the sake of looking cool. I opened this piece with a quote from a great fictional philosopher. I’ll close it with a quote from a great real one:</p>
 
@@ -1865,39 +1907,6 @@ nearly 30 years.</p>
 
 <div>
 <a  title="Permanent link to ‘Markdown Support in Windows Notepad’"  href="https://daringfireball.net/linked/2025/06/06/markdown-support-in-windows-notepad">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Take That CIRP Survey on Apple Customer Device Ownership With a Giant Grain of Salt</title>
-	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2025/06/06/cirp-survey-ipad-popularity#update" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wdr" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/06/cirp-update" />
-	<id>tag:daringfireball.net,2025:/linked//6.41967</id>
-	<published>2025-06-07T00:18:35Z</published>
-	<updated>2025-06-07T00:18:36Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>I posted this update a bit ago, but it’s worth making a separate post so you don’t miss it if you read the original post before I added the update:</p>
-
-<blockquote>
-  <p>It goes without saying that any consumer survey is only as good as
-the surveyor. But CIRP, in particular, has posted some dubious
-ones, to say the least. <a href="https://mastodon.social/@lapcatsoftware/114638324316925437">Jeff Johnson pointed out on Mastodon</a>
-that back in 2023, <a href="https://9to5mac.com/2023/01/09/apples-most-popular-mac/">CIRP published a survey that claimed the Mac
-Pro accounted for 43 percent</a> of all Mac desktop sales, with
-the Mac Mini and Mac Studio each accounting for only 4 percent
-each. That’s just bananas. That’s not like <em>maybe wrong</em>, that’s
-not <em>gotta be a little wrong</em>, that’s <em>how could anyone publish
-this?</em> wrong. It’s hard to believe anything from CIRP after they
-published that.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘Take That CIRP Survey on Apple Customer Device Ownership With a Giant Grain of Salt’"  href="https://daringfireball.net/linked/2025/06/06/cirp-update">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
