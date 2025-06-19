@@ -7,7 +7,170 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-19T18:05:26Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-19T21:03:55Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/06/some_brief_thoughts_and_observations_on_wwdc_2025" />
+	<link rel="shorturl" href="http://df4.us/wf0" />
+	<id>tag:daringfireball.net,2025://1.42012</id>
+	<published>2025-06-19T21:03:54Z</published>
+	<updated>2025-06-19T21:03:55Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">My biggest takeaway from WWDC 2025 is that Apple seemingly took some lessons to heart from its unfulfilled promises of a year ago. This year’s WWDC wasn’t merely focused on what Apple is confident it can ship in the next 12 months, but on what they can ship *this fall*.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>“<em>This one a long time have I watched. All his life has he looked away — to the future, to the horizon. Never his mind on where he was. What he was doing. Adventure. Heh! Excitement. Heh! A Jedi craves not these things. You are reckless!</em>” <br />
+—Yoda, <em>The Empire Strikes Back</em></p>
+
+<p>My biggest takeaway from WWDC 2025 is that Apple seemingly took some lessons to heart from <a href="https://daringfireball.net/2025/03/apple_is_delaying_the_more_personalized_siri_apple_intelligence_features">its unfulfilled promises</a> of a year ago. This year’s WWDC wasn’t merely focused on what Apple is confident it can ship in the next 12 months, but on what they can ship <em>this fall</em>. I might be overlooking a minor exception or two, but every major feature announced in <a href="https://developer.apple.com/videos/play/wwdc2025/101/">the WWDC 2025 keynote</a> was both demonstratable in product briefings, <em>and</em> is currently available in the developer beta seeds. I was also told, explicitly, by Apple executives, that Apple plans to ship everything shown last week in the fall.</p>
+
+<p>That’s as it should be, and a strong return to form for the company. It takes confidence to promise only what you know you can ship, and it takes execution to ship what you’ve promised. If there’s more coming in the early months of 2026, announce those features when they’re ready. It’s proven very effective for Apple to spread the debut of new features across the entire calendar year, with many major features not appearing until the .3, .4, or even .5 OS releases. I think it will prove just as effective marketing-wise to spread the <em>announcement</em> of more features throughout the year as well.</p>
+
+<h2>Year-Based Version Numbers</h2>
+
+<p>There’s no question that it’s a little weird for every one of Apple’s platforms to have jumped to version 26. I mean, VisionOS skipped 21 version numbers. Presumably, when Apple next unveils a new OS (HomeOS?), it’s going to <em>start</em> at version 26, 27, or 28. But I’m already getting used to this, and I think the underlying logic laid out by Craig Federighi at the outset of the keynote is true: with Apple now up to six developer platforms (Mac, iPhone, iPad, Vision, TV, Watch), it had gotten hard to keep track of which version numbers corresponded to the same year. That matters not just for the convenience of knowing, in years to come, when specific versions of each OS were released, but it also matters because none these platforms exist in isolation. They’re all parts of a cohesive whole, a cross-device “Apple OS 26” experience, as it were.</p>
+
+<p>One thing I haven’t seen commented on, though, is that switching to year-based version numbers establishes as de facto policy something that has now been true for quite a few years, but which Apple has never officially acknowledged: that each of these platforms will get a major version release annually. 20 years ago the update schedule for Mac OS X was rather erratic:</p>
+
+<table class="table-FEBFFE0A-B067-4C29-8766-29C19521F96F">
+<style>
+.table-FEBFFE0A-B067-4C29-8766-29C19521F96F {width: 350px}
+.table-FEBFFE0A-B067-4C29-8766-29C19521F96F th:nth-child(1) { text-align: left }
+.table-FEBFFE0A-B067-4C29-8766-29C19521F96F td:nth-child(1) { text-align: left }
+.table-FEBFFE0A-B067-4C29-8766-29C19521F96F th:nth-child(2) { text-align: left }
+.table-FEBFFE0A-B067-4C29-8766-29C19521F96F td:nth-child(2) { text-align: left }
+</style>
+<tbody>
+<tr>
+<td>Mac OS X 10.7 Lion</td><td>July 2011</td>
+</tr>
+<tr>
+<td>Mac OS X 10.6 Snow Leopard</td><td>August 2009</td>
+</tr>
+<tr>
+<td>Mac OS X 10.5 Leopard</td><td>October 2007</td>
+</tr>
+<tr>
+<td>Mac OS X 10.4 Tiger</td><td>April 2005</td>
+</tr>
+<tr>
+<td>Mac OS X 10.3 Panther</td><td>October 2003</td>
+</tr>
+</tbody>
+</table>
+
+<p>OS X 10.8 Mountain Lion (which began the odd four-year run where the Mac’s OS name didn’t contain “Mac”) arrived in July 2012, and thereafter a new major version has shipped in September, October, or November (MacOS 11 Big Sur, in 2020) every single year. This rigorous annual schedule is a hallmark of the Tim Cook era at Apple, and clearly reflects his personality (as the erratic schedule of the mid-2000s reflected Steve Jobs’s).</p>
+
+<h2>iPadOS Windowing</h2>
+
+<p>The pedant in me is mildly perturbed that the new windowing system unveiled for iPadOS 26 is largely being discussed under the term “multitasking”. It’s windowing. One way to understand the difference is that the original Mac OS (a.k.a. System 1) had windowing — windowing that looked and worked a lot like this — but no multitasking. The very early Mac could run just one app a time, but the running app could open multiple windows. But, whatever. It’s all good.</p>
+
+<p>One thing I find interesting is that while <a href="https://support.apple.com/en-us/102364">split screen and Slide Over</a> have been eliminated in the new system (<a href="https://www.macstories.net/stories/not-an-ipad-pro-review/">praise be</a>), Stage Manager is still a feature. Just plain windowing is as it should be: ad hoc. You make windows and move them around and resize them however you want. Stage Manager is fussier — it’s a more complex system for users who wish to organize their windows into something akin to projects or related tasks. </p>
+
+<p>So, effectively, Apple, three years ago, jumped straight to a more complex, more fiddly option — Stage Manager — and only now has added the simpler, more obvious, not fiddly at all option (windowing). It’s been a weird journey, but I think iPadOS has finally arrived at a place where showing more than one app or document at a time on-screen is what it should have been all along: easy and obvious.</p>
+
+<h2>Liquid Glass</h2>
+
+<p>Alan Dye, introducing Liquid Glass, around the 8m:20s mark in the keynote:</p>
+
+<blockquote>
+  <p>Software is the heart and soul of our products. It brings them to
+life, shapes their personality, and defines their purpose. At
+Apple, we’ve always believed it’s the deep integration of hardware
+and software that makes interacting with technology intuitive,
+beautiful, and a joy to use. iOS 7 introduced a simplified design
+built on distinct layers, smooth animations, and new colors. It
+redefined our design language for years to come. Now, with the
+powerful advances in our hardware, silicon, and graphics
+technologies, we have the opportunity to lay the foundation for
+the next chapter of our software. Today we’re excited to announce
+our broadest design update ever. Our goal is a beautiful new
+design that brings joy and delight to every user experience, one
+that’s more personal, and puts greater focus on your content, all
+while still feeling instantly familiar.</p>
+
+<p>And for the first time, we’re introducing a universal design
+across our platforms. This unified design language creates a more
+harmonious experience as you move between products, while
+maintaining the qualities that make each unique. Inspired by the
+physicality and richness of VisionOS, we challenged ourselves to
+make something purely digital, feel natural and alive. From how it
+looks to how it feels as it dynamically responds to touch. To
+achieve this, we began by rethinking the fundamental elements that
+make up our software, and it starts with an entirely new
+expressive material we call Liquid Glass. With the optical
+qualities of glass and a fluidity that only Apple can achieve, it
+transforms depending on your content or even your context, and
+brings more clarity to navigation and controls. It beautifully
+refracts light and dynamically reacts to your movement with
+specular highlights. This material brings a new level of vitality
+to every aspect of your experience. From the smallest elements you
+interact with to larger ones, it responds in real time to your
+content and your input. Creating a more lively experience that we
+think you’ll find truly delightful.</p>
+</blockquote>
+
+<p>Compare and contrast to <a href="https://youtu.be/dHrVGk0WwYM?t=381">Steve Jobs introducing Aqua at Macworld San Francisco in January 2000</a>:</p>
+
+<blockquote>
+  <p>So this is the architecture, except there’s one more thing. The
+one more thing is, we have been secretly for the last 18 months
+designing a completely new user interface. And that new user
+interface builds on Apple’s legacy and carries it into the next
+century. And we call that new user interface Aqua, because it’s
+liquid. One of the design goals was when you saw it, you wanted to
+lick it. [...]</p>
+
+<p>When you design a new user interface, you have to start off
+humbly. You have to start off saying, what are the simplest
+elements in it? What does a button look like? And you spend months
+working on a button. That’s a button in Aqua. This is what radio
+buttons look like. Simple things. This is what checkboxes look
+like. This is what popup lists look like. Again, you’re starting
+to get the feel of this, a little different. This is what sliders
+can look like. Now, let me show you windows. This is what the top
+of windows look like. These three buttons look like a traffic
+signal, don’t they? Red means close the window. Yellow means
+minimize the window. And green means maximize the window. Pretty
+simple. And tremendous fit and finish in this operating system.
+When you roll over these things, you get those. You see them? And
+when you are no longer the key window, they go transparent. So a
+lot of fit and finish in this.</p>
+
+<p>In addition to the fit and finish, we paid a lot of attention to
+dynamics. Not only how do things look, but how do they move, how
+do they behave. And our goal in this user interface was twofold.
+One, we wanted to give a much more powerful user interface to our
+pro customers. But two, at the very same time, we wanted to make
+this the dream user interface for somebody who’s never even
+touched a computer before. And that’s really hard to do. It’s like
+when we do films at Pixar. It’s really easy, it’s a lot easier, to
+make a film that appeals to five-year-olds and under. But it’s
+very difficult to make one film that five-year-olds love and that
+their parents also love. And that was the goal of this user
+interface. To make it span the range so that people turning on
+their iMac for the first time were enchanted with it, and it was
+super easy to use, and yet, our pro customers also felt, <em>My God,
+this takes me to places I thought I could never get to</em>. And
+that’s what we tried to do.</p>
+</blockquote>
+
+<p>Re-watching Jobs’s introduction of Aqua for the umpteenth time, I still find it enthralling. I found Alan Dye’s introduction of Liquid Glass to be soporific, if not downright horseshitty.</p>
+
+<p>But the work itself, Liquid Glass as it launched last week, is very reminiscent of Aqua a quarter century (!) ago. It’s exciting, it’s fresh, it fundamentally looks and feels very cool in general — and but in practice quite a few aspects of it feel a bit over-the-top and/or half-baked. Just like with Aqua, it will surely get dialed in. Legibility problems will be addressed.</p>
+
+<p>Liquid Glass has been in the works for a long time, but what we see today has come together very quickly. For those using internal builds inside Apple, what Apple unveiled last week is effectively the third version of Liquid Glass. Just a few weeks prior to WWDC, a few sources told me that internal builds were such a complete mess that they wondered if it would come together in time for WWDC developer betas. But come together it has. I expect a <em>lot</em> of visual changes over the course of the summer, and significant evolutionary tweaks in the next few years to come. Across Apple’s own apps, there are are a lot of places where things haven’t yet been glassed up at all. That’s how these things work.</p>
+
+<p>As for <em>why</em>, it should be enough to justify Liquid Glass simply for the sake of looking cool. I opened this piece with a quote from a great fictional philosopher. I’ll close it with a quote from a great real one:</p>
+
+<p>“<em>The test of a work of art is, in the end, our affection for it, not our ability to explain why it is good.</em>” <br />
+—Stanley Kubrick</p>
+
+
+
+    ]]></content>
+  <title>★ One Week Out, Some Brief Thoughts and Observations on WWDC 2025</title></entry><entry>
 	<title>Yours Truly on Peter Kafka’s ‘Channels’ Podcast</title>
 	<link rel="alternate" type="text/html" href="https://overcast.fm/+QL2dEoWo4" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wey" />
@@ -1867,109 +2030,4 @@ expect.</p>
 
 
     ]]></content>
-  <title>★ Apple Appeals EU’s March Ruling on ‘Interoperability’ Requirements Under the DMA</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/05/idiocy_or_jackassery_you_make_the_call_made_in_america_iphone" />
-	<link rel="shorturl" href="http://df4.us/wci" />
-	<id>tag:daringfireball.net,2025://1.41922</id>
-	<published>2025-05-24T20:16:44Z</published>
-	<updated>2025-06-03T17:20:14Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">My chances of ever landing a job at The New York Times continue to sink.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>The New York Times ran a really dumb Tripp Mickle piece yesterday under the headline “<a href="https://www.nytimes.com/2025/05/23/technology/apple-iphone-trump-india-china.html">Is Trump’s ‘Made in America’ iPhone a Fantasy?</a>” The answer should have simply been “<em>Yes, it’s sheer fantasy</em>”, perhaps with explanations why. Instead, Mickle twists the piece into pretzels to make it seem like the answer is <em>maybe</em>, even though there’s not a single fact to back that up. Not one. The only thing that backs up any answer other than “<em>It’s a fantasy, can’t happen, makes no sense</em>” are comments from analysts — named and unnamed — and the bizarre old-school news media practice of treating as fact any nonsense and/or bullshit that comes out of the lips of anyone with the word “analyst” on their business card.</p>
-
-<blockquote>
-  <p><em>Could Apple make iPhones in the United States?</em></p>
-
-<p>Yes. Apple could make iPhones in the United States. But doing so
-would be expensive and difficult and force the company to more
-than double iPhone prices to $2,000 or more, said Wayne Lam, an
-analyst with TechInsights, a market research firm. Apple would
-have to buy new machines and rely on more automation than it
-uses in China because the U.S. population is so much smaller,
-Mr. Lam said.</p>
-</blockquote>
-
-<p>This is nonsense. The problem isn’t that China has a higher population than the US (about 1.4 billion vs. 340 million, about a 4× difference). <a href="https://www.businessinsider.com/apple-iphone-factory-foxconn-china-photos-tour-2018-5">Foxconn employs somewhere between 300–500,000 assembly line workers in China</a> doing final assembly for Apple products. It’s that the United States doesn’t have anyone with the necessary vocational skills, who would want to work tedious factory jobs at factory-job wages, and China does. That’s part of the fever-dream mad-king fantasy of this entire cockamamie endeavor by Trump: <em>these are difficult, low-paying, long-houred jobs that Americans don’t want</em>. That these jobs are all in China and India is proof that America is far ahead, not that we’ve fallen behind. (There are nuances to the overall dynamics, like the national security ramifications of our being reliant on Taiwan for leading-edge chip fabrication, but Trump’s tariff nonsense doesn’t address those issues.)</p>
-
-<p>Worse: $2,000 is just a made-up number. Lam doesn’t even say which iPhone would cost $2,000. Would it be the iPhone 16 Pro Max (current starting price: $1,200) or the base model iPhone 16e (current price: $600)? Mickle reports that Lam is saying prices “would more than double” so let’s just say he’s talking about the regular no-adjective iPhone models. Today the iPhone 16 starts at $800. If assembling even <em>some</em> of them would result in a retail price of $2,000, Apple would sell none of them. Like, almost literally zero.</p>
-
-<p>The math here takes a bit of thinking but it’s not complicated. <a href="https://daringfireball.net/linked/2025/05/23/trump-cook-apple-india">Trump is claiming he’s going to apply 25% tariffs</a> to India-made iPhones sold in the US.<sup id="fnr1-2025-05-24"><a href="#fn1-2025-05-24">1</a></sup> If Apple passed along the entire 25% tariff on an $800 iPhone to consumers, that would raise the retail price to $1,000. So if stores carried two different iPhone 17 models — same specs, same colors — and one cost $1,000 because it was assembled in India or China, facing 25% Trump tariffs, and the other cost $2,000 because it was assembled in some sort of fantasy factory that somehow popped up in Texas between now and September, how many people would buy the $2,000 US-assembled one? Almost zero. So why even bother? Apple doesn’t even print the “Designed by Apple in California / Assembled in Wherever” small print on the outside of the iPhone any more.</p>
-
-<p>Tariffs would have to be 250% for the price of an Indian- or Chinese-assembled $800 iPhone to get to $2,000. And even if Trump <em>were</em> to apply 250% tariffs to smartphones — which isn’t going to happen — it would be far easier for Apple to just sell Indian and Chinese-assembled iPhones for $2,000 than it would be to spin up assembly — factories, employees, training, components — here inside the US. So even though $2,000 is just a number “analyst” Wayne Lam completely made up, and which reporter Tripp Mickle simply quotes as if it had any basis in reality, it still doesn’t make any sense that Apple would do it. No matter how crazily high tariffs go, it only makes sense for Apple to continue assembling iPhones in China and India for now, and passing some or all of the costs along to consumers.<sup id="fnr2-2025-05-24"><a href="#fn2-2025-05-24">2</a></sup></p>
-
-<p>Of course, raising the price of a base model iPhone to $2,000 would crater consumer demand. And of course it would create <a href="https://www.theatlantic.com/ideas/archive/2025/04/trump-tariffs-smugglers/682303/">a massive gray market bootlegging opportunity</a> where hustlers would smuggle normal-cost iPhones into the US from Canada, Mexico, and overseas. Trump can’t raise the price of iPhones outside the US, and so long as iPhones are priced “normally” everywhere else in the world, the higher Trump’s tariffs might go, the larger and more commonplace bootlegging them will be.</p>
-
-<blockquote>
-  <p>There would be some benefits to moving the supply chain, including
-reducing the environmental costs of shipping products from abroad,
-said Matthew Moore, who spent nine years as a manufacturing design
-manager at Apple. But the upsides would be trivial compared with
-the challenges that would have to be overcome.</p>
-</blockquote>
-
-<p>Again, just utter nonsense. There <em>might</em> be hypothetical environmental benefits to assembling all US-sold iPhones inside the US, but in the real world, many if not most of the most expensive components would still come from overseas. All iPhone displays come from Asian manufacturers. All A-series chips come from TSMC in Taiwan. (TSMC is building out a chip-fabrication campus in Arizona but even if that went according to plan — <a href="https://www.nytimes.com/2025/05/23/technology/apple-iphone-trump-india-china.html">which it already isn’t</a> — their Arizona fabrication capabilities will remain years behind their leading-edge fabrication technology in Taiwan for at least the next decade, and Apple’s A-series chips are fabbed exclusively on leading-edge technology.)</p>
-
-<blockquote>
-  <p>Supply chain experts say shifting iPhone production to the United
-States in 2025 would be foolish.</p>
-</blockquote>
-
-<p>Perhaps the one accurate sentence in Mickle’s entire piece.</p>
-
-<blockquote>
-  <p>The iPhone is nearly 20 years old. Apple’s top executives have
-said people may not need an iPhone in 10 years because it could be
-replaced by a new device built for artificial intelligence. As a
-result, Apple would invest a lot of money that it wouldn’t be able
-to recoup, Mr. Lam said.</p>
-
-<p>“I would be surprised if there’s an iPhone 29,” he said, noting
-that Apple is trying to disrupt the iPhone by making augmented
-reality products like the Vision Pro.</p>
-</blockquote>
-
-<p>The Mac is 41 years old and, last I checked, Apple is still making them. I don’t know if Apple will keep naming iPhones with annually incrementing integers, but I’ll gladly wager Wayne Lam (or Tripp Mickle) any amount of money they wish that Apple will release at least one new iPhone in 2037. Name the wager, fellas. “The iPhone is 20 years old” is the dumbest argument in this entire dumb article.</p>
-
-<blockquote>
-  <p><em>What does China offer that the United States doesn’t?</em></p>
-
-<p>Small hands, a massive, seasonal work force and millions of
-engineers. Young Chinese women have small fingers, and that has
-made them a valuable contributor to iPhone production because they
-are more nimble at installing screws and other miniature parts in
-the small device, supply chain experts said.</p>
-</blockquote>
-
-<p>Well, now I have to eat my own words. “Young Chinese women have small fingers” is in fact the dumbest argument in this entire incredibly stupid article. It might even be the dumbest thing I’ve read this year, and with Trump in office, I’ve read a lot of dumb things. For chrissake I just read <em>this morning</em> that <a href="https://economictimes.indiatimes.com/news/international/global-trends/us-news-trump-vs-harvard-they-cant-add-22-trump-wildly-claims-harvard-students-cant-even-do-remedial-math/articleshow/121373450.cms">Trump claimed his administration is trying to revoke Harvard’s ability to enroll foreign students</a> because “A lot of the people need remedial math. These students can’t add two and two, and they go to Harvard. They want remedial math and they’re going to teach remedial math at Harvard?” That’s truly profoundly stupid.<sup id="fnr3-2025-05-24"><a href="#fn3-2025-05-24">3</a></sup> But it’s not as ignorant as saying that Chinese women’s finger-size is the reason Apple makes iPhones in China.</p>
-
-<p>I’d pay good money to know the names of the “supply chain experts” (plural!) Mickle got this one from.</p>
-
-<div class="footnotes">
-<hr />
-<ol>
-
-<li id="fn1-2025-05-24">
-<p>Presumably the tariff would be applied to all India-assembled phones sold in the US, because it would be plainly illegal, even in Trumpworld, to put a tariff on the iPhone alone. Tariffs apply to classes of products, not specific brands. But, in practice, a 25% tariff on all Indian-assembled phones sold in the US would, effectively, be a tariff targeted at iPhones alone.&nbsp;<a href="#fnr1-2025-05-24"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
-</li>
-
-<li id="fn2-2025-05-24">
-<p>Spitball idea: Apple could start assembling a completely insignificant number of iPhones in, say, Texas. A complete farce. A few hundred US-made iPhones per day, in a country where they sell 150,000 iPhones per day. Make a big show of it. Invite Trump himself down for a dog-and-pony-show photo op <a href="https://www.cnbc.com/2019/11/20/apple-ceo-tim-cook-and-preident-trump-tour-texas-computer-factory.html">like Tim Cook did with the Mac Pro plant back in Trump 1.0</a> in 2019. Have Cook emphasize that they’re just getting started and Apple looks forward to ramping up the endeavor. Give Trump the first US-made iPhone off the assembly line. Hope that that’ll satisfy the dumb bastard, he’ll take the tariffs off their backs, and he’ll thereafter start bragging about how he got Apple to start making iPhones in the US even though everyone said it would be impossible, even though, under the scheme I’m spitballing here, Apple would only ever assemble a fraction of a single percent of US-sold iPhones domestically. Trump is so dumb, so prone to succumbing to flattery and the mere illusion that his word is others’ command, and so motivated to declare victory regardless of what’s actually going on, that I bet it would work.&nbsp;<a href="#fnr2-2025-05-24"  class="footnoteBackLink"  title="Jump back to footnote 2 in the text.">&#x21A9;&#xFE0E;︎</a></p>
-</li>
-
-<li id="fn3-2025-05-24">
-<p>From, hilariously, <a href="https://www.vanityfair.com/news/2016/03/how-donald-trump-became-the-short-fingered-vulgarian">a short-fingered vulgarian</a>.&nbsp;<a href="#fnr3-2025-05-24"  class="footnoteBackLink"  title="Jump back to footnote 3 in the text.">&#x21A9;&#xFE0E;︎</a></p>
-</li>
-
-
-</ol>
-</div>
-
-
-
-    ]]></content>
-  <title>★ Idiocy or Jackassery, You Make the Call: Tripp Mickle on Whether Trump’s ‘Made in America’ iPhone Is a Fantasy</title></entry></feed><!-- THE END -->
+  <title>★ Apple Appeals EU’s March Ruling on ‘Interoperability’ Requirements Under the DMA</title></entry></feed><!-- THE END -->
