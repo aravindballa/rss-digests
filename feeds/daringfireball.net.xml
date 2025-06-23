@@ -7,7 +7,41 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-22T17:57:49Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-23T14:05:01Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Trademark Dispute Leads to the Disappearance of ‘io’, OpenAI and LoveFrom’s Secretive AI Collaboration</title>
+	<link rel="alternate" type="text/html" href="https://www.theverge.com/news/690858/jony-ive-openai-sam-altman-ai-hardware" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wf7" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/23/io-iyo-aye-aye-aye" />
+	<id>tag:daringfireball.net,2025:/linked//6.42019</id>
+	<published>2025-06-23T13:58:23Z</published>
+	<updated>2025-06-23T14:05:01Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Hayden Field, reporting for The Verge:</p>
+
+<blockquote>
+  <p>OpenAI has scrubbed mentions of io, the hardware startup co-founded by famous Apple designer Jony Ive, from its website and social media channels. The sudden change closely follows their recent announcement of OpenAI’s nearly $6.5 billion acquisition and plans to create dedicated AI hardware.</p>
+
+<p>OpenAI tells The Verge the deal is still happening, but it scrubbed mentions due to a trademark lawsuit from Iyo, the hearing device startup spun out of Google’s moonshot factory.</p>
+</blockquote>
+
+<p>If you visit <a href="https://openai.com/sam-and-jony/">the “Sam and Jony” page on OpenAI’s website</a> — where the short film teasing io used to be — it now simply says:</p>
+
+<blockquote>
+  <p>This page is temporarily down due to a court order following a trademark complaint from iyO about our use of the name “io.” We don’t agree with the complaint and are reviewing our options.</p>
+</blockquote>
+
+<p>Perhaps I’m not paying close enough attention, but this is the first I’ve heard of iyO. The two names certainly sound alike but they don’t look alike. Are homophones trademarkable?</p>
+
+<div>
+<a  title="Permanent link to ‘Trademark Dispute Leads to the Disappearance of ‘io’, OpenAI and LoveFrom’s Secretive AI Collaboration’"  href="https://daringfireball.net/linked/2025/06/23/io-iyo-aye-aye-aye">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Drata</title>
 	<link rel="alternate" type="text/html" href="https://drata.com/daring" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wf6" />
@@ -1909,36 +1943,6 @@ things work better. That dopamine hit is why I code.</p>
 
 <div>
 <a  title="Permanent link to ‘Thomas Ptacek: ‘My AI Skeptic Friends Are All Nuts’’"  href="https://daringfireball.net/linked/2025/06/07/ptacek-ai-skeptic-friends-are-nuts">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>WorkOS</title>
-	<link rel="alternate" type="text/html" href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=RSS&amp;utm_campaign=q12025" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wdx" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/07/workos" />
-	<id>tag:daringfireball.net,2025:/linked//6.41973</id>
-	<published>2025-06-07T19:36:19Z</published>
-	<updated>2025-06-07T19:36:20Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>My thanks to WorkOS for sponsoring last week at DF. Modern authentication should be seamless and secure. WorkOS makes it easy to integrate features like MFA, SSO, and RBAC. Whether you’re replacing passwords, stopping fraud, or adding enterprise auth, WorkOS can help you build frictionless auth that scales.</p>
-
-<p>New features they launched just last month include:</p>
-
-<ul>
-<li><a href="https://workos.com/blog/workos-connect?utm_source=daringfireball&amp;utm_medium=RSS&amp;utm_campaign=q12025">WorkOS Connect</a> — “Sign in with [Your App]”</li>
-<li><a href="https://workos.com/blog/vault?utm_source=daringfireball&amp;utm_medium=RSS&amp;utm_campaign=q12025">WorkOS Vault</a> — Encryption Key Management (EKM) and Bring-Your-Own-Key (BYOK)</li>
-<li><a href="https://workos.com/blog/custom-objects?utm_source=daringfireball&amp;utm_medium=RSS&amp;utm_campaign=q12025">AuthKit Integrations</a> — Native support for several new identity providers including LinkedIn, Slack, GitLab, BitBucket, Intuit, and more.</li>
-</ul>
-
-<p>Future-proof your authentication stack with the identity layer trusted by OpenAI, Cursor, Perplexity, and Vercel.</p>
-
-<div>
-<a  title="Permanent link to ‘WorkOS’"  href="https://daringfireball.net/linked/2025/06/07/workos">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
