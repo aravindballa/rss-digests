@@ -7,7 +7,67 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-25T14:30:48Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-25T19:06:22Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Lake Tahoe Boat Tragedy Claims Longtime Apple Employee Paula Bozinovich</title>
+	<link rel="alternate" type="text/html" href="https://www.sfchronicle.com/tahoe/article/lake-tahoe-boat-accident-victims-identified-june-20391411.php" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wfd" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/25/lake-tahoe-boat-tragedy-claims-longtime-apple-employee-paula-bozinovich" />
+	<id>tag:daringfireball.net,2025:/linked//6.42025</id>
+	<published>2025-06-25T19:06:22Z</published>
+	<updated>2025-06-25T19:06:22Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Some sad news. The San Francisco Chronicle (<a href="https://apple.news/AStXd9PofQ7yTRc24ijze8A">News+ link</a>):</p>
+
+<blockquote>
+  <p>The eight people killed in a sudden storm while boating on Lake
+Tahoe over the weekend were a close-knit group of friends and
+family members who had gathered for a birthday celebration,
+according to a spokesperson representing some of the victims.</p>
+
+<p>The boating trip was a part of the 71st birthday celebration for
+Paula Bozinovich, one of the people who perished in the lake, when
+their 27-foot powerboat capsized during a sudden, violent storm on
+Saturday. Authorities on Tuesday released the names of those
+killed when the boat sank near D.L. Bliss State Park, overwhelmed
+by 8-foot waves and wind gusts topping 35 mph.</p>
+</blockquote>
+
+<p>Bozinovich’s husband Terry and son, Josh — a DoorDash executive — were among the victims. Via email, Brian Croll, who worked in product marketing at Apple for a <em>long</em> time before retiring a few years ago, wrote the following, which I’m publishing with his permission:</p>
+
+<blockquote>
+  <p>Paula was an employee who you are not going to see profiled in any
+books on the history of Apple or Steve Jobs. She worked closely
+with the ops team to ensure CDs and then DVDs shipped on time and
+correctly packaged in a box. She knew all the systems and the
+right people to make things happen. She was always committed to
+getting things better than just right — perfect. Paula’s
+extraordinary commitment, along with all the hundreds of other
+unheralded employees, translated the vision of Steve, the
+designers, the engineers, and the marketing people into a shipping
+product.</p>
+
+<p>One of the secrets behind Apple’s success has been its ability to
+execute. Paula was an important part of that fine-tuned machine.
+She was also quite a character!</p>
+
+<p>I’m sending you this because I’ve seen front page obituaries of
+executives who probably did way more harm than good to their
+companies, and yet when you scratch the surface of a successful
+company you find that people like Paula make all the difference.</p>
+</blockquote>
+
+<p>Nothing but my warmest thoughts to her friends and family.</p>
+
+<div>
+<a  title="Permanent link to ‘Lake Tahoe Boat Tragedy Claims Longtime Apple Employee Paula Bozinovich’"  href="https://daringfireball.net/linked/2025/06/25/lake-tahoe-boat-tragedy-claims-longtime-apple-employee-paula-bozinovich">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Sorry, MacOS Tahoe Beta 2 Still Does the Finder Icon Dirty</title>
 	<link rel="alternate" type="text/html" href="https://512pixels.net/2025/06/finder-icon-fixed/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wfc" />
@@ -1835,50 +1895,6 @@ Apple Arcade will be featured in the new store.</p>
 
 <div>
 <a  title="Permanent link to ‘An Eve of WWDC Spitball Theory on the Rumored New ‘Games’ App’"  href="https://daringfireball.net/linked/2025/06/08/apple-games-app-store-spitball">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Breaking Down Why Apple TVs Are Privacy Advocates’ Go-To Streaming Device</title>
-	<link rel="alternate" type="text/html" href="https://arstechnica.com/gadgets/2025/06/all-the-ways-apple-tv-boxes-do-and-mostly-dont-track-you/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/we2" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/08/apple-tv-privacy" />
-	<id>tag:daringfireball.net,2025:/linked//6.41978</id>
-	<published>2025-06-09T01:24:06Z</published>
-	<updated>2025-06-09T01:54:57Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Scharon Harding, writing at Ars Technica:</p>
-
-<blockquote>
-  <p>“Just disconnect your TV from the Internet and use an Apple
-TV box.”</p>
-
-<p>That’s the common guidance you’ll hear from Ars readers for those
-seeking the joys of streaming without giving up too much privacy.
-Based on our research and the experts we’ve consulted, that advice
-is pretty solid, as Apple TVs offer significantly more privacy
-than other streaming hardware providers.</p>
-
-<p>But how private are Apple TV boxes, really? Apple TVs don’t use
-automatic content recognition (ACR, a user-tracking technology
-leveraged by nearly all smart TVs and streaming devices), but
-could that change? And what about the software that Apple TV users
-do use — could those apps provide information about you to
-advertisers or Apple?</p>
-
-<p>In this article, we’ll delve into what makes the Apple TV’s
-privacy stand out and examine whether users should expect the
-limited ads and enhanced privacy to last forever.</p>
-</blockquote>
-
-<p>tvOS is perhaps Apple’s least-talked-about platform. (It surely has orders of magnitude more users than VisionOS, but VisionOS gets talked about because it’s so audacious.) But it might be their platform that’s the furthest ahead of its competition. Not because tvOS is insanely great, but it’s at least pretty good, and every other streaming TV platform seems to be in a race to make real <a href="https://www.youtube.com/watch?v=YqQ6D0Bu-a8">the future TV interface from <em>Idiocracy</em></a>. It’s not just that they’re bad interfaces with deplorable privacy, it’s that they’re outright <em>against</em> the user.</p>
-
-<div>
-<a  title="Permanent link to ‘Breaking Down Why Apple TVs Are Privacy Advocates’ Go-To Streaming Device’"  href="https://daringfireball.net/linked/2025/06/08/apple-tv-privacy">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
