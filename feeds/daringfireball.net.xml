@@ -7,7 +7,55 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-24T21:02:32Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-25T01:09:11Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Sorry, MacOS Tahoe Beta 2 Still Does the Finder Icon Dirty</title>
+	<link rel="alternate" type="text/html" href="https://512pixels.net/2025/06/finder-icon-fixed/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wfc" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/24/sorry-macos-tahoe-b2-finder-icon" />
+	<id>tag:daringfireball.net,2025:/linked//6.42024</id>
+	<published>2025-06-25T01:09:11Z</published>
+	<updated>2025-06-25T01:09:11Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Stephen Hackett:</p>
+
+<blockquote>
+  <p>Our 14-day national nightmare is over. As of Developer Beta 2, the
+Finder icon in macOS Tahoe has been updated to reflect 30 years of
+tradition:</p>
+
+<p><a href="https://daringfireball.net/misc/2025/06/About-Finder-Beta-2.jpg" class="noborder">
+<img
+  src = "https://daringfireball.net/misc/2025/06/About-Finder-Beta-2.jpg"
+  alt = "Screenshots of the Finder About box, showing the Finder icon, left to right: MacOS 18 Sequioa, MacOS 26 Tahoe Beta 1, MacOS Tahoe Beta 2"
+  width = 450
+/></a></p>
+</blockquote>
+
+<p>I’m going to strongly disagree here. The Tahoe beta 2 Finder icon is <em>slightly</em> better, but seeing it this way makes it obvious that the problem with the Tahoe Finder icon isn’t whether it’s dark/light or light/dark from left to right. It’s that with this Tahoe design it’s not 50/50. It’s the <em>appliqué</em> — the right side (the face in profile) looks like something stuck on top of a blue face tile. That’s not the Finder logo.</p>
+
+<p>The Finder logo is the Mac logo. The Macintosh is the platform that held Apple together when, by all rights, the company should have fallen apart. It’s a great logo, period, and the second-most-important logo Apple owns, after the Apple logo itself. Fucking around with it like this, making the right-side in-profile face a stick-on layer rather than a full half of the mark, is akin to Coca-Cola fucking around with the typeface for the word “Cola” in its logo. Like, what are you doing? Why are you screwing with a perfect mark?</p>
+
+<p>There are an infinite number of ways Apple could do this while remaining true to the original logo. <a href="https://x.com/flarup/status/1932798949749936200">Here’s a take from Michael Flareup</a> that glasses it up but it keeps it true to itself:</p>
+
+<p><a href="https://daringfireball.net/misc/2025/06/flarup-finder-glass.jpeg" class="noborder">
+  <img
+    src = "https://daringfireball.net/misc/2025/06/flarup-finder-glass.jpeg"
+    alt = "Michael Flarup's take on a Liquid Glass style Finder icon."
+    width = 450
+  /></a></p>
+
+<p>Especially in the field of computers, no company can be a slave to tradition and history. But you ought to respect it.</p>
+
+<div>
+<a  title="Permanent link to ‘Sorry, MacOS Tahoe Beta 2 Still Does the Finder Icon Dirty’"  href="https://daringfireball.net/linked/2025/06/24/sorry-macos-tahoe-b2-finder-icon">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=RSS&amp;utm_campaign=q12025" />
 	<link rel="shorturl" href="http://df4.us/wfb" />
@@ -1820,57 +1868,6 @@ limited ads and enhanced privacy to last forever.</p>
 
 <div>
 <a  title="Permanent link to ‘Breaking Down Why Apple TVs Are Privacy Advocates’ Go-To Streaming Device’"  href="https://daringfireball.net/linked/2025/06/08/apple-tv-privacy">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple Researchers Publish Paper on the Limits of Reasoning Models (Showing That They’re Not Really ‘Reasoning’ at All)</title>
-	<link rel="alternate" type="text/html" href="https://machinelearning.apple.com/research/illusion-of-thinking" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/we1" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/08/apple-research-lrms" />
-	<id>tag:daringfireball.net,2025:/linked//6.41977</id>
-	<published>2025-06-09T01:08:00Z</published>
-	<updated>2025-06-09T01:09:13Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Parshin Shojaee, Iman Mirzadeh, Keivan Alizadeh, Maxwell Horton, Samy Bengio, and Mehrdad Farajtabar, from Apple’s Machine Learning Research team:</p>
-
-<blockquote>
-  <p>Recent generations of frontier language models have introduced
-Large Reasoning Models (LRMs) that generate detailed thinking
-processes before providing answers. While these models demonstrate
-improved performance on reasoning benchmarks, their fundamental
-capabilities, scaling properties, and limitations remain
-insufficiently understood. [...] Through extensive experimentation
-across diverse puzzles, we show that frontier LRMs face a complete
-accuracy collapse beyond certain complexities. Moreover, they
-exhibit a counterintuitive scaling limit: their reasoning effort
-increases with problem complexity up to a point, then declines
-despite having an adequate token budget. By comparing LRMs with
-their standard LLM counterparts under equivalent inference
-compute, we identify three performance regimes: (1) low-complexity
-tasks where standard models surprisingly outperform LRMs, (2)
-medium-complexity tasks where additional thinking in LRMs
-demonstrates advantage, and (3) high-complexity tasks where both
-models experience complete collapse. We found that LRMs have
-limitations in exact computation: they fail to use explicit
-algorithms and reason inconsistently across puzzles. We also
-investigate the reasoning traces in more depth, studying the
-patterns of explored solutions and analyzing the models’
-computational behavior, shedding light on their strengths,
-limitations, and ultimately raising crucial questions about their
-true reasoning capabilities.</p>
-</blockquote>
-
-<p>The full paper is quite readable, but today was my travel day and I haven’t had time to dig in. And <a href="https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf">it’s a PDF</a> so I couldn’t read it on my phone. (Coincidence or not that this dropped on the eve of WWDC?)</p>
-
-<p>My basic understanding after a skim is that the paper shows, or at least strongly suggests, that LRMs don’t “reason” at all. They just use vastly more complex pattern-matching than LLMs. The result is that LRMs effectively overthink on simple problems, outperform LLMs on mid-complexity puzzles, and fail in the same exact way LLMs do on high-complexity tasks and puzzles.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Researchers Publish Paper on the Limits of Reasoning Models (Showing That They’re Not Really ‘Reasoning’ at All)’"  href="https://daringfireball.net/linked/2025/06/08/apple-research-lrms">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
