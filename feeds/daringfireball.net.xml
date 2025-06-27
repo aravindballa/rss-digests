@@ -7,7 +7,33 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-27T01:18:32Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-27T02:10:58Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>More on Apple’s Trust-Eroding ‘F1 The Movie’ Wallet Ad</title>
+	<link rel="alternate" type="text/html" href="https://mastodon.social/@czeins/114739403773350112" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wfh" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/26/f1-wallet-gag-zeins" />
+	<id>tag:daringfireball.net,2025:/linked//6.42029</id>
+	<published>2025-06-27T02:10:57Z</published>
+	<updated>2025-06-27T02:10:58Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p><a href="https://mastodon.social/@czeins/114739403773350112">This is a funny gag from Claude Zeins</a>, but if you think about it, it shows just how destructive Apple’s decision was to send a push notification from the Wallet app promoting <em>F1 The Movie</em>.</p>
+
+<p>It’s a fact that no company can inject an ad into your physical wallet. It just can’t happen. So if Apple’s message to users is that they should trust Apple Wallet, and move more of their “shit that goes in your wallet” life from their traditional analog wallet into their digital Apple Wallet, that’s the bar. No ads, ever. They’re competing against the privacy and intimacy of one of the most personal things people carry with them.</p>
+
+<p>It’s not just that many people find ads annoying, no matter where they appear. It’s that Apple Wallet ought to be sacrosanct — like the Passwords and Journal apps. Apple is asking us to trust this app with our finances, our <a href="https://learn.wallet.apple/id">identity cards</a>, and our keys. I’m 99.9 percent certain this <em>F1</em> ad was just blasted out to zillions of Wallet users indiscriminately, but some number of users who got it — especially people who know they’re in the demographic for the movie — surely think they got the ad because Wallet is tracking their interests and activities. Like, what if you already bought tickets to see the movie? Using Apple Wallet? And then you got this ad? It’d be completely sensible to be spooked by that, and conclude that Apple Wallet is tracking you.</p>
+
+<p>Sending this ad is completely destructive to the all the hard work other teams at Apple have done to make Apple Wallet actually private. I try very seldom to call for anyone to be fired, but I think whoever authorized this movie ad through Wallet push notifications ought to be canned.</p>
+
+<div>
+<a  title="Permanent link to ‘More on Apple’s Trust-Eroding ‘F1 The Movie’ Wallet Ad’"  href="https://daringfireball.net/linked/2025/06/26/f1-wallet-gag-zeins">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>The Talk Show: ‘Through the Wall Like Kool-Aid Man’</title>
 	<link rel="alternate" type="text/html" href="https://daringfireball.net/thetalkshow/2025/06/26/ep-425" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wfg" />
@@ -1902,30 +1928,6 @@ pretending to be something it’s not.</p>
 
 <div>
 <a  title="Permanent link to ‘‘Apple Retreats’’"  href="https://daringfireball.net/linked/2025/06/10/apple-retreats">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple’s Introduction to Liquid Glass</title>
-	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/we7" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/09/apple-intro-liquid-glass" />
-	<id>tag:daringfireball.net,2025:/linked//6.41983</id>
-	<published>2025-06-10T01:16:39Z</published>
-	<updated>2025-06-12T21:51:23Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>I’ve got iOS 26 installed on a spare phone already, and I like the new UI a lot. In addition to just plain looking cool, Apple has tackled a lot of longstanding minor irritants.</p>
-
-<p>For example, the iOS contextual menu for text selections — the one with Cut/Copy/Paste. For years now there have been a lot of other useful commands in there, including “Share…” at the very end. But to get to the extra commands, you had to tediously swipe, swipe, swipe. Now, with one tap you can expand the whole thing into a vertical menu. Elegant.</p>
-
-<p>There’s some stuff in MacOS 26 Tahoe I already don’t like, like putting needless icons next to almost every single menu item. But overall my first impression of Liquid Glass on MacOS is good too. It’s fun, and <a href="https://mastodon.social/@marioguzman/114656280801707003">lots of little details are nice — joyful <em>and</em> useful</a> in an old-school Mac way.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple’s Introduction to Liquid Glass’"  href="https://daringfireball.net/linked/2025/06/09/apple-intro-liquid-glass">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
