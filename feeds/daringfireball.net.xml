@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-06-28T21:45:45Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-06-28T22:00:24Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>Upcoming Sponsorship Openings at Daring Fireball</title>
 	<link rel="alternate" type="text/html" href="https://daringfireball.net/feeds/sponsors/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wfn" />
@@ -64,12 +64,46 @@ If you’ve got a product or service (or, perhaps, a just-opened blockbuster car
 
 	]]></content>
   </entry><entry>
+	<title>Apple’s Full List of Differences between ‘Tier 1’ and ‘Tier 2’ in the EU App Store</title>
+	<link rel="alternate" type="text/html" href="https://developer.apple.com/help/app-store-connect/reference/store-services-tiers/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wfp" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/28/apples-full-list-of-differences-between-tier-1-and-tier-2-in-the-eu-app-store" />
+	<id>tag:daringfireball.net,2025:/linked//6.42037</id>
+	<published>2025-06-28T21:00:01Z</published>
+	<updated>2025-06-28T21:58:35Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Apple Developer:</p>
+
+<blockquote>
+  <p>By default, apps on the App Store are provided Store Services Tier
+2, the complete suite of all capabilities designed to maximize
+visibility, engagement, growth, and operational efficiency.
+Developers with <a href="https://developer.apple.com/support/alternative-payment-options-on-the-app-store-in-the-eu/">apps on the App Store in the EU</a> that
+communicate and promote offers for digital goods and services can
+choose to move their apps to only use Store Services Tier 1 and
+pay a reduced store services fee.</p>
+</blockquote>
+
+<p>What follows is a long chart, making clear which features are excluded from Tier 1.</p>
+
+<p>Like I wrote in <a href="https://daringfireball.net/2025/06/apple_app_store_policy_updates_dma">my larger piece on Apple’s new DMA compliance plans</a>, I don’t think Tier 1 is intended to be a feasible choice for any mainstream apps or games. The whole thing is just a way to justify that 8 percent of the commission developers pay is justified by various features of the App Store itself.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple’s Full List of Differences between ‘Tier 1’ and ‘Tier 2’ in the EU App Store’"  href="https://daringfireball.net/linked/2025/06/28/apples-full-list-of-differences-between-tier-1-and-tier-2-in-the-eu-app-store">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/06/apple_app_store_policy_updates_dma" />
 	<link rel="shorturl" href="http://df4.us/wfo" />
 	<id>tag:daringfireball.net,2025://1.42036</id>
 	<published>2025-06-28T21:00:00Z</published>
-	<updated>2025-06-28T21:45:45Z</updated>
+	<updated>2025-06-28T22:00:24Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -170,7 +204,7 @@ and plan to appeal.”</p>
 <ul>
 <li><p>Developers who just do the simplest thing possible — distribute through the App Store and process all payments using Apple’s IAP — will continue to pay the same commissions, 30% by default, or 15% for Small Business Program developers and recurring subscriptions after the first year. Of course this is what Apple would prefer developers do.</p></li>
 <li><p>Big developers, distributing through the App Store but processing their own payments, will still owe Apple a commission of around 20% on non-IAP purchases: 13% for “store services”, 5% for the new Core Technology Commission (replacing the €0.50 per-download Core Technology Fee), and 2% for “initial acquisition”. Small Developer Program members and recurring subscriptions after the first year pay 15% — no “initial acquisition fee” and a reduced “store services” fee of 10%. But everyone’s on the hook for the 5% CTC.</p></li>
-<li><p>Apps distributed through the App Store can pay a reduced rate of 5% for “store services” (down from 13%) by opting into a reduced “Tier 1”. Rather than this “Tier 1” being an appealing choice for any developers, I think the point of it is for Apple to assert that those App Store features justify 8 percent of Apple’s commission on purchases: automatic software updates, reviews and ratings, surfacing through search for anything other than an exact name match, etc.</p></li>
+<li><p>Apps distributed through the App Store can pay a reduced rate of 5% for “store services” (down from 13%) by opting into a reduced “Tier 1”. Rather than this “Tier 1” being an appealing choice for any developers, I think the point of it is for Apple to assert that those App Store features justify 8 percent of Apple’s commission on purchases: automatic software updates, reviews and ratings, surfacing through search for anything other than an exact name match, <a href="https://developer.apple.com/help/app-store-connect/reference/store-services-tiers/">and a whole lot more</a>.</p></li>
 <li><p>One consequence of the €0.50 per-download Core Technology Fee (CTF) being replaced by a 5% Core Technology Commission (CTC) is that there will no longer be a penalty for small developers who have a free-to-download app that hits over one million EU downloads. That was a legitimate problem with the CTF — an app with 5 million EU downloads would owe Apple €2 million for the CTF, but might be generating far less than that (or even nothing at all) in revenue. But another consequence of switching to the CTC from the CTF is that super-popular apps from super-big companies that don’t sell digital good from their apps will continue to pay nothing at all. E.g. unless Meta starts selling digital goods from within their apps, they’ll continue to pay nothing at all to Apple for zillion-download apps like Instagram, Facebook, and WhatsApp. That was a shortcoming with the App Store’s model that the CTF was designed to correct.</p></li>
 <li><p>All of this additional complication is, I believe, just for apps distributed through the App Store. Feel free to blame Apple as much as you want for spiteful compliance (especially when it comes to payments made on the web, from links in apps), but part of this is on the European Commission for demanding not only that Apple allow apps to be distributed outside the App Store (which is somewhat reasonable), but also for requiring Apple to allow outside payments for apps distributed through the App Store. Apps and games distributed through alternative EU app marketplaces or web downloads are only on the hook for the 5% CTC (by the end of the year, when it replaces the CTF). But there is no free lunch — iOS apps and games distributed outside the App Store that require a purchase, or offer digital content for sale, must pay the 5% CTC.</p></li>
 </ul>
@@ -180,7 +214,7 @@ and plan to appeal.”</p>
 
 
     ]]></content>
-  <title>★ Apple Announces Sweeping but Complicated Policy Updates for Apps in the EU, Attempting to Comply With the Latest Dictums Regarding the DMA</title></entry><entry>
+  <title>★ Apple Announces Sweeping but Complicated Policy Changes for Apps in the EU, Attempting to Comply With the Latest Dictums Regarding the DMA</title></entry><entry>
 	<title>Apple’s Other ‘F1 The Movie’ In-App Promotions</title>
 	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2025/06/27/f1-the-movie-now-playing-in-theaters/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wfl" />
@@ -2115,30 +2149,6 @@ wafting smell in the air.</p>
 
 <div>
 <a  title="Permanent link to ‘‘Liquid Glasslighting’’"  href="https://daringfireball.net/linked/2025/06/12/liquid-glasslighting">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘Tested’ on VisionOS 26 and Behind the Scenes at the Theater Immersive Broadcast of The Talk Show Live From WWDC</title>
-	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=h6SbkEC1Xb8" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wec" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/12/tested-visionos-26-tts-live" />
-	<id>tag:daringfireball.net,2025:/linked//6.41988</id>
-	<published>2025-06-12T21:39:12Z</published>
-	<updated>2025-06-14T00:09:07Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Fun episode of Tested with Adam Savage and Norman Chan. The first segment goes deep on what’s new in VisionOS 26. Apple is ignoring the jokes about the platform’s relative obscurity and has obviously been heads-down on building the platform out and up. VisionOS 26 is a <em>huge</em> year-over-year upgrade. Tons of exciting stuff, and so many little things are so much better.</p>
-
-<p>The second segment of the show features cohost Norm Chan going backstage at The Talk Show Live From WWDC on Tuesday night, to speak with Adam Lisagor about the production details of the live immersive broadcast in Theater.</p>
-
-<p>(The YouTube version of the show is in editing now — we’ll post it as soon as it’s ready. <s>But the immersive version in Theater is available for purchase now.</s> Whoops, my bad. The immersive version, which looks significantly better than the livestream — which looked pretty good! — will be available for purchase in <a href="https://theater.sandwich.vision/">Theater</a> a few days after the 2D version hits YouTube.)</p>
-
-<div>
-<a  title="Permanent link to ‘‘Tested’ on VisionOS 26 and Behind the Scenes at the Theater Immersive Broadcast of The Talk Show Live From WWDC’"  href="https://daringfireball.net/linked/2025/06/12/tested-visionos-26-tts-live">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
