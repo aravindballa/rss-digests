@@ -7,7 +7,55 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-07-06T17:37:07Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-07-07T18:26:38Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/07/full-screen_ad_for_f1_the_movie_in_apples_tv_app_linked_directly_to_the_web" />
+	<link rel="shorturl" href="http://df4.us/wfv" />
+	<id>tag:daringfireball.net,2025://1.42043</id>
+	<published>2025-07-07T18:26:38Z</published>
+	<updated>2025-07-07T18:26:38Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">I can see the argument that Apple’s answer is “Yes, it’s potentially confusing for many users”. But I can’t see the argument that the answer is “Yes, it’s potentially confusing for many users, but only if they’re trying to buy in-app content or subscriptions, but not confusing at all if they’re trying to buy, say, movie tickets.”</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p><a href="https://www.threads.com/@mgsiegler/post/DLdXyO6otsI">MG Siegler, on Threads last week</a>:</p>
+
+<blockquote>
+  <p>We’re already beyond ridiculous with the full-on ad assault from
+Apple as everyone is well aware by now. But the wild thing here — in this <em>full screen</em> pop-up in the Apple TV app — is that it’s
+not in-app but links out to the web to pay?!</p>
+</blockquote>
+
+<p>At least here in the US, if you just opened the TV app on iOS 18 last week, you were presented with <a href="https://daringfireball.net/misc/2025/06/f1-tv-app-tickets-via-web.jpeg">this full-screen ad</a> (replete with all those dumb ®’s, despite Apple’s <a href="https://daringfireball.net/misc/2025/06/f1-appstore-via-fandango.jpeg">ads for the same thing in the App Store</a> omitting them).</p>
+
+<p>There were two buttons to choose from: “Not Now” and “Buy Tickets ↗︎”. If you tapped the “Buy Tickets ↗︎” button, boom, you just jumped to <a href="https://www.f1themovie.com/">the F1 The Movie website</a> in your default browser. <a href="https://www.threads.com/@kylealden/post/DLdhE1JhpeL">Kyle Alden, on Threads</a>:</p>
+
+<blockquote>
+  <p>That’s weird, Apple’s new full screen F1 ad in the TV app links
+out to the browser to compete the transaction, but for some reason
+doesn’t include any full screen interstitials warning of the big
+scary web, nor a confirmation dialog that it would open in the
+browser? Must be an oversight.</p>
+</blockquote>
+
+<p>The hypocrisy isn’t that Apple didn’t show a full-screen scare sheet for this link-out to the web. It’s that they require other developers, who are doing it to sell digital content, to show a scare sheet/confirmation.</p>
+
+<p>One of the subtle differences with this particular promotion is that buying movie tickets is not “digital content” — even if they’re just passes in Apple Wallet or saved QR codes in an app like Fandango. You’re purchasing a real-world experience, so it’s not eligible for Apple’s In-App Purchase (IAP) system. This is why when you buy theater tickets in the Fandango app, Fandango charges your credit or debit card directly. Same for when you pay for rides in Uber or Lyft. It’s really subtle for something like a movie. Pay for a movie to watch on your TV at home? That’s a digital purchase. Pay for a movie to watch in a theater? <em>Not</em> a digital purchase.</p>
+
+<p>I understand the distinction between digital content (that’s consumed on your Apple device) and real-world goods and experiences (even if you pay for them in apps on your Apple device). But how many iPhone users understand this distinction? Like, if you polled 1,000 U.S. iPhone users who (a) purchase in-game content in games like Candy Crush, and (b) hail rides in Uber or Lyft, what percentage of those iPhone users do you think could give a coherent answer as to why their in-game purchases <em>must</em> use Apple’s IAP system, and why Uber not only <em>doesn’t</em> use IAP to charge for rides, but is not <em>allowed</em> to use IAP for that? I’d bet fewer than 1 percent.</p>
+
+<p>Is it inherently confusing to have a button in an app that jumps you out of the app to your default web browser (probably Safari, especially for people who might be confused) to complete a transaction, without a scare sheet or even a confirmation alert? I can see the argument that Apple’s answer is “Yes, it’s potentially confusing for many users”. But I can’t see the argument that the answer is “Yes, it’s potentially confusing for many users, but only if they’re trying to buy in-app content or subscriptions, but not confusing at all if they’re trying to buy, say, movie tickets.”</p>
+
+<p>https://developer.apple.com/news/?id=9txfddzf</p>
+
+<p>https://daringfireball.net/2025/04/gonzales<em>rogers</em>apple<em>app</em>store_ruling</p>
+
+
+
+    ]]></content>
+  <title>★ Full-Screen Ad for ‘F1 The Movie’ in Apple’s TV App Linked Directly to the Web, and Nothing Bad Seemed to Happen</title></entry><entry>
 	<title>Phoenix.new</title>
 	<link rel="alternate" type="text/html" href="https://phoenix.new/?utm_source=df" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wfu" />
@@ -2125,77 +2173,4 @@ vaporware. Zero difference.</p>
 
 
     ]]></content>
-  <title>★ Apple’s Spin on the Personalized Siri Apple Intelligence Reset</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/06/gurman_liquid_glass_terrible_analogy" />
-	<link rel="shorturl" href="http://df4.us/we0" />
-	<id>tag:daringfireball.net,2025://1.41976</id>
-	<published>2025-06-08T16:09:29Z</published>
-	<updated>2025-06-08T18:20:08Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">If it takes Apple as long to have its own competitive LLMs as it did to have its own competitive web browser, I suspect they’ll soon be paying to use the LLMs that are owned and controlled by others, not charging the others for the privilege of reaching Apple’s platform users.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p><a href="https://www.bloomberg.com/news/newsletters/2025-06-08/apple-s-liquid-glass-ios-26-software-redesign-to-hint-at-20th-anniversary-iphone-mbnm2u0d?cmpid=BBD060825_POWERON">Mark Gurman, in his eve-of-WWDC Power On column at Bloomberg</a>:</p>
-
-<blockquote>
-  <p>The Liquid Glass interface is going to be the most exciting part
-of this year’s developer conference. It will also be a bit of a
-distraction from the reality facing Apple: The company is behind
-in artificial intelligence, and WWDC will do little to change
-that. Instead, Apple is making its successful operating system
-franchise more capable and sleek — even as others move on to more
-groundbreaking AI-centric interfaces.</p>
-</blockquote>
-
-<p>Perhaps the first major hint that Apple was moving toward fluidity in the UI was the Dynamic Island, which doesn’t merely expand and contract as it changes shape, but rather appears to <em>flow</em>, <a href="https://www.lux.camera/physicality-the-new-age-of-ui/#:~:text=The%20Dynamic%20Island%20is%20a%20stark%2C%20graphic%20interface%20that%20behaves%20like%20an%20interactive%2C%20viscous%20liquid">with a pleasant viscosity</a>.</p>
-
-<blockquote>
-  <p>The best analogy for Apple right now might be the car industry.
-Apple produces the best gas cars on the road (its operating
-systems) and is making them even more upscale. It has rolled out a
-hybrid (Apple Intelligence), but it’s <a href="https://archive.ph/o/AKlk9/https://www.bloomberg.com/news/features/2025-05-18/how-apple-intelligence-and-siri-ai-went-so-wrong">struggling to make</a> a
-true all-electric vehicle (unlike companies such as OpenAI and
-Alphabet Inc.’s Google).</p>
-</blockquote>
-
-<p>This is such a terrible analogy. If you buy an EV, you use it <em>instead of</em> your old gas-powered car. There’s nothing from OpenAI or Google that allows you to not use a conventional device — phone, tablet, or PC. The only way to use ChatGPT, or Gemini, or <a href="https://deepmind.google/models/veo/">Google’s rather amazing Veo 3</a> video generation tool, is using a phone or computer running iOS, MacOS, Android, Windows, or Linux. Gurman’s analogy would only work if the way you got around in an EV was to put it in the back of a gas-powered flatbed <a href="https://www.youtube.com/watch?v=YfJ3QxJYsw8">truck</a>.</p>
-
-<p>Gas-powered vehicles are probably going away. I sure hope they do. But cars and trucks aren’t going away. A better analogy is that AI is doing to today’s dominant OSes what web browsers did to Windows in the late 1990s. They’re adding new interactive layers atop the old. Windows didn’t go away. Microsoft still makes tons of money from Windows today. But Windows’s primacy as a platform went away. And: Microsoft pivoted quickly in the face of Netscape and the web’s threat, and created Internet Explorer, which squashed Netscape, and became, for at least a decade, the preeminent web browser. It was essential for Apple to create Safari/WebKit for Mac OS X to thrive. If Apple hadn’t succeeded with WebKit on Mac OS X they wouldn’t have had their own first-class web rendering engine to adapt for a 3.5-inch touchscreen in 2007. The iPhone without the real web wouldn’t have been the iPhone. And the only reason the original iPhone had the real web is that Apple owned and controlled Safari and WebKit.</p>
-
-<p>What Apple, I think, needs for iOS and MacOS is the AI equivalent of what Safari and WebKit were for the web two decades ago. The <a href="https://www.asymco.com/2011/01/17/the-cook-doctrine/">oft-cited Cook Doctrine</a> says “we need to own and control the primary technologies behind the products we make.” 25 years ago it was obvious that web browsers and rendering engines were primary technologies. Apple certainly couldn’t afford back then to continue to be dependent upon Microsoft for the Mac version of IE, nor on open source cross-platform browsers like Firefox that would never feel native on the Mac (or, more importantly, on future Apple platforms). But Safari and WebKit were, if you think about it, late. <a href="https://daringfireball.net/2003/01/safari">They were announced at Macworld Expo in January 2003</a> (just five months after the debut of this website). Netscape’s blockbuster IPO was in August 1995, over seven years prior. The entire dot-com bubble and bust took place before Safari shipped. The Mac, and thus Apple, made do with non-Apple browsers in those intervening years — browsers that were all some mix of non-native clunky UI, slow, incompatible (with Windows IE), ugly (e.g. IE text rendering on Mac OS X), and often downright unstable. (And application crashes on classic Mac OS would often bring down the entire system.)</p>
-
-<p>The concern for Apple today is that they’re in trouble if it takes six or seven years for them to get to their Safari/WebKit moment for AI. Things are moving faster with AI today than they were with the web in the 1990s. At the peak of Netscape mania in 1995, there were many who believed Netscape would topple Microsoft. At the time Netscape founder Marc Andreessen <a href="https://en.wikiquote.org/wiki/Marc_Andreessen">proclaimed</a> that Netscape would reduce Windows to “a poorly debugged set of device drivers.” That obviously didn’t happen. But perhaps not just <em>a</em> but <em>the</em> reason why that didn’t happen is that Microsoft quickly built and shipped a better browser than Netscape’s. They didn’t just build a browser into Windows, they built a <em>better</em> browser into Windows. And they made a better browser for the Mac too. If it had taken Microsoft until 2003 (when Apple debuted Safari) to ship IE, computing platform history may well be very different.</p>
-
-<p>iOS today is the closest to what Windows was circa 1995. iOS doesn’t have Windows’s 95 percent market share, but the iPhone has some sort of monopoly <em>profit</em> share in mobile device sales. And iOS is plainly dominant. That’s why there’s all this <em>Sturm und Drang</em> surrounding Apple’s App Store commissions and iron-fisted control over all iOS software. After the announcement last year of OpenAI as a partner for “world knowledge” in Apple Intelligence — and, a year later, they’re still the only partner — Wayne Ma at The Information reported that Apple wasn’t paying a cent for this integration, and that the plan <a href="https://daringfireball.net/linked/2024/06/13/ma-apple-openai">was for OpenAI to eventually begin paying Apple in a revenue sharing deal</a>:</p>
-
-<blockquote>
-  <p>Neither Apple nor OpenAI are paying each other to integrate
-ChatGPT into the iPhone, according to a person with knowledge of
-the deal. Instead, OpenAI hopes greater exposure on iPhones will
-help it sell a paid version of ChatGPT, which costs around $20 a
-month for individuals. Apple would take its 30% cut of these
-subscriptions as is customary for in-app purchases.</p>
-
-<p>Sometime in the future, Apple hopes to strike revenue-sharing
-agreements with AI partners in which it gets a cut of the revenue
-generated from integrating their chatbots with the iPhone,
-according to Bloomberg, which first reported details of the deal.</p>
-</blockquote>
-
-<p>That sounds a lot like the revenue sharing deal Apple has with Google for search in Safari — a deal (which is at some degree of risk <a href="https://daringfireball.net/linked/2025/05/07/eddy-cue-safari-ai">from Google’s own antitrust problems</a>) that now results in <a href="https://daringfireball.net/linked/2023/10/27/google-aggregate-search-default">Google paying Apple over $20 billion per year</a> for the traffic Safari sends to Google Search.</p>
-
-<p>In hindsight, we now know that web browsers, in and of themselves, don’t generate any money directly. Someone was going to give a good one away free and now almost all of them are free of charge. But that doesn’t mean it isn’t essential for a platform to own and control its own browser. Web search, it turns out, is where the money is on the World Wide Web. Not just <em>some</em> money but an almost unfathomable amount of money. Web search is not primary technology for Apple’s platforms. But because they own and control Safari and WebKit, and Safari and WebKit are <em>very good</em> (so that most of Apple’s customers use them), Apple is in a position to profit very handsomely from web search, even though it doesn’t even have a search engine to speak of. Apple’s net annual profit the last few years has been around $95 billion. If we assume Google’s $20B/year traffic acquisition revenue sharing payments to Apple are mostly profit, that means somewhere between 20–25 percent of all Apple’s profit comes from that deal.</p>
-
-<p>So are LLMs more like browsers (platforms need to own and control their own, but they won’t make money from them directly) or like web search (dominant platforms like Apple’s don’t need their own, but Apple can profit handsomely by charging for integration with their platforms)?</p>
-
-<p>I think the answer is somewhere in between. Browsers are essential to personal computing platforms because they run on-device. Web search isn’t essential to own and control because it runs in the cloud, but exists only to serve users running devices. LLMs run both locally and in the cloud. If it takes Apple as long to have its own competitive LLMs as it did to have its own competitive web browser, I suspect they’ll soon be paying to use the LLMs that are owned and controlled by others, not charging the others for the privilege of reaching Apple’s platform users. No simple analogy captures this dynamic. But the threat is palpable.</p>
-
-<p>I will say, though, “Liquid Glass” sounds cool.</p>
-
-
-
-    ]]></content>
-  <title>★ Gurman Says New UI Is Named ‘Liquid Glass’ (and Makes a Terrible Analogy Regarding Apple’s Risk With Falling Behind on AI)</title></entry></feed><!-- THE END -->
+  <title>★ Apple’s Spin on the Personalized Siri Apple Intelligence Reset</title></entry></feed><!-- THE END -->
