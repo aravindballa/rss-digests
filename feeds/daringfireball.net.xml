@@ -7,7 +7,63 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-07-07T21:38:24Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-07-07T23:40:36Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Apple, as Promised, Formally Appeals €500 Million DMA Fine in the EU</title>
+	<link rel="alternate" type="text/html" href="https://9to5mac.com/2025/07/07/apple-formally-appeals-e500-million-dma-fine-in-the-eu/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wfy" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/07/apple-as-promised-formally-appeals-500-million-dma-fine-in-the-eu" />
+	<id>tag:daringfireball.net,2025:/linked//6.42046</id>
+	<published>2025-07-07T23:40:35Z</published>
+	<updated>2025-07-07T23:40:36Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Here’s the full statement, given by Apple to the media, including Daring Fireball:</p>
+
+<blockquote>
+  <p>“Today we filed our appeal because we believe the European
+Commission’s decision — and their unprecedented fine — go far
+beyond what the law requires. As our appeal will show, the EC is
+mandating how we run our store and forcing business terms which
+are confusing for developers and bad for users. We implemented
+this to avoid punitive daily fines and will share the facts with
+the Court.”</p>
+</blockquote>
+
+<p>Everyone — including, I believe, at Apple — agrees that <a href="https://daringfireball.net/2025/06/apple_app_store_policy_updates_dma">the policy changes Apple announced at the end of June</a> are confusing and seemingly incomplete in terms of fee structures. What Apple is saying here in this statement is they needed to launch these policy changes now, before the full fee implications are worked out, to avoid the daily fines they were set to be penalized with for the steering rules.</p>
+
+<p><a href="https://9to5mac.com/2025/07/07/apple-formally-appeals-e500-million-dma-fine-in-the-eu/">Chance Miller, reporting for 9to5Mac</a>:</p>
+
+<blockquote>
+  <p>Apple also reiterates that the EU has continuously redefined what
+exactly it needs to do under the DMA. In particular, Apple says
+the European Commission has expanded the definition of steering.
+Apple adjusted its guidelines to allow EU developers to link out
+to external payment methods and use alternative in-app payment
+methods last year. Now, however, Apple says the EU has redefined
+steering to include promotions of in-app alternative payment
+options and in-app webviews, as well as linking to other
+alternative app marketplaces and the third-party apps distributed
+through those marketplaces.</p>
+
+<p>Furthermore, Apple says that the EU mandated that the Store
+Services Fee include multiple tiers. [...] You can view the full
+breakdown of the two tiers <a href="https://developer.apple.com/help/app-store-connect/reference/store-services-tiers/">on Apple’s developer website</a>.
+Apple says that it was the EU who dictated which features should
+be included in which tier. For example, the EU mandated that Apple
+move app discovery features to the second tier.</p>
+</blockquote>
+
+<p><a href="https://daringfireball.net/2025/06/apple_app_store_policy_updates_dma">Like I wrote last week</a>, “byzantine compliance with a byzantine law”.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple, as Promised, Formally Appeals €500 Million DMA Fine in the EU’"  href="https://daringfireball.net/linked/2025/07/07/apple-as-promised-formally-appeals-500-million-dma-fine-in-the-eu">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://drata.com/daring" />
 	<link rel="shorturl" href="http://df4.us/wfx" />
@@ -365,7 +421,7 @@ pay a reduced store services fee.</p>
 	<link rel="shorturl" href="http://df4.us/wfo" />
 	<id>tag:daringfireball.net,2025://1.42036</id>
 	<published>2025-06-28T21:00:00Z</published>
-	<updated>2025-06-29T15:56:06Z</updated>
+	<updated>2025-07-07T23:32:39Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -455,9 +511,9 @@ additional changes to the App Store. We disagree with this outcome
 and plan to appeal.”</p>
 </blockquote>
 
-<p>The new fee structure is undeniably convoluted, and I think downright confusing. <a href="https://x.com/rjonesy/status/1938354627155501219">Seemingly no one can figure out</a> exactly what commissions apps that use alternative payments or distribution are going to pay. It’s a natural consequence that an overly complicated law (the DMA) has resulted in an ever-more-complicated set of guidelines and policies (from Apple). It’s all downright byzantine.</p>
+<p>The new fee structure is undeniably convoluted, and I think downright confusing. <a href="https://x.com/rjonesy/status/1938354627155501219">Seemingly no one can figure out</a> exactly what commissions apps that use alternative payments or distribution are going to pay. It’s a natural consequence that an overly complicated law (the DMA) has resulted in an ever-more-complicated set of guidelines and policies (from Apple): byzantine compliance with a byzantine law.</p>
 
-<p>That seems largely by design on Apple’s part: byzantine compliance with a byzantine law. Because it’s so complicated and hard to understand, it’s difficult even to summarize with a headline describing what’s new. Even if you understand it enough to just want to express anger at Apple for spiteful compliance and greed, it’s hard to sum up why you’re angry in a succinct headline or tweet.</p>
+<p>Because it’s so complicated and hard to understand, it’s difficult even to summarize with a headline describing what’s new. Even if you understand it enough to just want to express anger at Apple for spiteful compliance and greed, it’s hard to sum up why you’re angry in a succinct headline or tweet.</p>
 
 <hr />
 
@@ -2008,75 +2064,6 @@ personal messages.</p>
 
 <div>
 <a  title="Permanent link to ‘WhatsApp Introduces Ads in Its App’"  href="https://daringfireball.net/linked/2025/06/16/whatsapp-ads">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Trump Mobile — The President Launches a Mobile Carrier and a $500 ‘T1’ Android Phone</title>
-	<link rel="alternate" type="text/html" href="https://variety.com/2025/biz/news/trump-mobile-wireless-phone-service-launch-1236431690/?ref=platformer.news" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wel" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/16/trump-mobile" />
-	<id>tag:daringfireball.net,2025:/linked//6.41997</id>
-	<published>2025-06-17T01:14:50Z</published>
-	<updated>2025-06-17T03:53:33Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Todd Spangler, Variety:</p>
-
-<blockquote>
-  <p>Meanwhile, the Trump Mobile “47 Plan” is pricier than the
-unlimited plans from prepaid services operated by Verizon’s
-Visible, AT&amp;T’s Cricket Wireless and T-Mobile’s Metro, which are
-each around $40 per month.</p>
-
-<p>The Trump T1 Phone, which runs Google’s Android operating system,
-will cost $499. It features a 6.8-inch touch-screen with a 120 Hz
-refresh rate. The smartphone also has a “fingerprint sensor and AI
-Face Unlock,” according to the company’s website. Reps for Trump
-Mobile didn’t respond to an inquiry about what company is
-manufacturing the Android phone.</p>
-</blockquote>
-
-<p>The Wall Street Journal, <a href="https://www.wsj.com/tech/trump-t1-phone-components-features-2415c7cd?mod=hp_lead_pos9">“Trump’s Smartphone Can’t Be Made in America for $499 by August”</a>:</p>
-
-<blockquote>
-  <p>A spokesman for the Trump Organization said in an email that
-“manufacturing for the new phone will be in Alabama, California
-and Florida.”</p>
-
-<p>Despite the language in the press release, Eric Trump indicated
-that the first wave of phones wouldn’t be built here. “You can
-build these phones in the United States,” the Trump son told
-podcaster Benny Johnson on Monday morning on The Benny Show after
-holding up a gilded device that looked just like an Apple iPhone.
-“Eventually, all the phones can be built in the United States of
-America. We have to bring manufacturing back here.”</p>
-</blockquote>
-
-<p>The Journal goofs, bigly, by claiming that the T1 “shows some specs that would beat Apple’s biggest, priciest iPhone models”. The T1 specs are so idiotic that one of them claims “5000mAh long life camera”, conflating battery capacity with (I guess?) focal distance.</p>
-
-<p>The Verge, “<a href="https://www.theverge.com/gadgets/687492/trump-mobile-phone-t1">The Trump Mobile T1 Phone Looks Both Bad and Impossible</a>”:</p>
-
-<blockquote>
-  <p>Where things get especially strange, though, is its supposed
-combination of Android 15, 5G, and a 3.5mm headphone jack. In many
-ways, these are opposing specs: Android 15 is generally only
-available on very recent devices, many cheap phones still don’t
-support 5G, and almost every phone maker has stopped including
-headphone jacks with their devices in the last few years. There
-are a few that have both, but modern phones with a headphone jack
-are few and far between. And pretty much all made in China.</p>
-</blockquote>
-
-<p>I don’t know what will be funnier — if Trump himself starts using one of these, or if he doesn’t.</p>
-
-<p>I’ll give them credit for making them available exclusively in gold. That’s on brand. But I’m guessing the quality will be on par with Trump Watches, which is to say, <a href="https://www.gq.com/story/donald-trump-watch-delivered-typo">“RUMP”-quality</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Trump Mobile — The President Launches a Mobile Carrier and a $500 ‘T1’ Android Phone’"  href="https://daringfireball.net/linked/2025/06/16/trump-mobile">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
