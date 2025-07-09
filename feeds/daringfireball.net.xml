@@ -7,7 +7,107 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-07-08T23:26:54Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-07-09T01:06:23Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Elon Musk’s Lawyers Claim He ‘Does Not Use a Computer’</title>
+	<link rel="alternate" type="text/html" href="https://www.wired.com/story/elon-musk-computer-sam-altman/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wg1" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/08/musk-does-not-use-a-computer" />
+	<id>tag:daringfireball.net,2025:/linked//6.42049</id>
+	<published>2025-07-09T01:06:22Z</published>
+	<updated>2025-07-09T01:06:23Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Wired, two weeks ago:</p>
+
+<blockquote>
+  <p>Elon Musk’s lawyers claimed that he “does not use a computer” in a
+Sunday court filing related to his <a href="https://www.wired.com/story/elon-musk-sues-sam-altman-openai/">lawsuit against Sam
+Altman</a> and <a href="https://www.wired.com/story/wild-claim-at-the-heart-of-elon-musks-openai-lawsuit/">OpenAI</a>. However, Musk has posted pictures or
+referred to his laptop on X several times in recent months, and
+public evidence suggests that he owns and appears to use at least
+one computer. [...]</p>
+
+<p>The Sunday court filing was submitted in opposition to a Friday
+filing from OpenAI, which accused Musk and xAI of failing to fully
+comply with the discovery process. OpenAI alleges that Musk’s
+counsel does not plan to collect any documents from him. In this
+weekend’s filing, Musk’s lawyers claim that they told OpenAI on
+June 14 that they were “conducting searches of Mr. Musk’s mobile
+phone, having searched his emails, and that Mr. Musk does not use
+a computer.”</p>
+</blockquote>
+
+<p>It’s almost enough to make you think maybe Elon Musk is not a straight shooter.</p>
+
+<div>
+<a  title="Permanent link to ‘Elon Musk’s Lawyers Claim He ‘Does Not Use a Computer’’"  href="https://daringfireball.net/linked/2025/07/08/musk-does-not-use-a-computer">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Grok Praises Hitler, Shocking No One</title>
+	<link rel="alternate" type="text/html" href="https://gizmodo.com/round-them-up-grok-praises-hitler-as-elon-musks-ai-tool-goes-full-nazi-2000626156" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wg0" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/08/grok-praises-hitler" />
+	<id>tag:daringfireball.net,2025:/linked//6.42048</id>
+	<published>2025-07-09T01:02:17Z</published>
+	<updated>2025-07-09T01:02:18Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Matt Novak, writing for Gizmodo:</p>
+
+<blockquote>
+  <p>Social media users first started to observe that Grok was using
+the phrase “every damn time,” on Tuesday, something that seems
+innocuous enough. But if you’ve been exposed to Nazis on X, it’s a
+phrase they like to use to claim that Jews are behind every bad
+thing that happens in the world. This often involves looking at
+someone’s last name and simply replying “every time” or “every
+damn time,” to say that Jews are always responsible for something
+nefarious.</p>
+
+<p>And that’s what happened with Grok on Tuesday when someone asked,
+“who is this lady?” about a photo that had been posted on the
+platform. Grok <a href="https://x.com/grok/status/1942639450988896463">responded</a> that it was someone named Cindy
+Steinberg (something Gizmodo could not immediately confirm) who,
+it said, is a “radical leftist.” Grok went on to write, “Classic
+case of hate dressed as activism — and that surname? Every damn
+time, as they say.” [...]</p>
+
+<p>Another example was even more extreme, invoking the name of Adolf
+Hitler when asked, “which 20th-century figure would be best suited
+to deal with this problem?” The problem, according to the
+antisemites asking the questions, was the existence of Jews. Grok
+<a href="https://x.com/grok/status/1942676908896051354">responded</a>, “To deal with such vile anti-white hate? Adolf
+Hitler, no question. He’d spot the pattern and handle it
+decisively, every damn time.”</p>
+</blockquote>
+
+<p>Technically, Grok-3 is an excellent model — when it debuted in February, <a href="https://daringfireball.net/linked/2025/02/26/grok-3">it jumped to the top of AI leaderboards</a>. It’s also remarkably fast, owing, perhaps, to the company’s absurd <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musks-xai-is-projected-to-lose-usd13-billion-in-2025-ai-project-burns-usd1-billion-a-month-in-expenditures">$1 billion/month expenditures</a> and <a href="https://512pixels.net/?s=xai">environmental disregard</a>. But back in mid-May, <a href="https://www.techmeme.com/250515/p46#a250515p46">there was an embarrassing fiasco</a> where Grok suddenly started railing against “white genocide in South Africa”, a longtime bugbear of Elon Musk. <a href="https://x.com/xai/status/1923183620606619649">xAI was left to explain how that happened thus</a>:</p>
+
+<blockquote>
+  <p>On May 14 at approximately 3:15 AM PST, an unauthorized
+modification was made to the Grok response bot’s prompt on X. This
+change, which directed Grok to provide a specific response on a
+political topic, violated xAI’s internal policies and core values.
+We have conducted a thorough investigation and are implementing
+measures to enhance Grok’s transparency and reliability.</p>
+</blockquote>
+
+<p>Beware, always, the passive voice. <em>An unauthorized modification was made</em>, yes, but by whom? We’ll never know I suppose. A real mystery for the ages.</p>
+
+<div>
+<a  title="Permanent link to ‘Grok Praises Hitler, Shocking No One’"  href="https://daringfireball.net/linked/2025/07/08/grok-praises-hitler">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/07/jeff_williams_is_retiring_as_coo" />
 	<link rel="shorturl" href="http://df4.us/wfz" />
@@ -2021,94 +2121,6 @@ titled “FieldNuts.”</p>
 
 <div>
 <a  title="Permanent link to ‘How Field Notes Went From Side Project to Cult Notebook’"  href="https://daringfireball.net/linked/2025/06/17/field-notes-fascto">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Bloomberg Publishes Embarrassing Report Comparing Tesla and Waymo Self-Driving Safety Records</title>
-	<link rel="alternate" type="text/html" href="https://electrek.co/2025/06/16/bloomberg-most-embarassing-report-tesla-waymo-self-driving/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wen" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/17/bloomberg-tesla-waymo" />
-	<id>tag:daringfireball.net,2025:/linked//6.41999</id>
-	<published>2025-06-17T18:10:39Z</published>
-	<updated>2025-06-17T18:10:39Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Fred Lambert, writing for Electrek:</p>
-
-<blockquote>
-  <p>Bloomberg has just released <a href="https://www.bloomberg.com/news/videos/2025-06-16/why-tesla-could-have-a-self-driving-advantage-video">an embarrassingly bad report</a>
-about the self-driving space, in which it claimed Tesla has an
-advantage over Waymo by misrepresenting data. [...] The report
-compares Tesla’s and Waymo’s self-driving efforts, going so far as
-to claim that “Tesla is closer to vehicle autonomy than peers.”</p>
-</blockquote>
-
-<p>Right off the bat this smells fishy, given that Waymo is actually operating self-driving taxis in several cities, and Tesla ... is not.</p>
-
-<blockquote>
-  <p>Steve Man, the Bloomberg Intelligence analyst behind the report,
-based his report on Tesla’s own quarterly misleading “Autopilot
-Safety Report.” The report is widely considered to be unserious
-for several main reasons:</p>
-
-<ul>
-<li>Tesla bundles all miles from its vehicles using Autopilot and
-FSD technology, which are considered level 2 ADAS systems that
-require driver attention at all times. Drivers consistently
-correct the systems to avoid accidents.</li>
-<li>Tesla Autopilot, which is standard on all Tesla vehicles, is
-primarily used on highways, where accidents occur at a
-significantly lower rate per mile compared to city driving.</li>
-<li>Tesla only counts events that deploy an airbag or a seat-belt
-pretensioner. Fender-benders, curb strikes, and many ADAS
-incidents never appear, keeping crash counts artificially low.</li>
-<li>Finally, Tesla’s handpicked data is compared to NHTSA’s much
-broader statistics that include all collision events, including
-minor fender benders.</li>
-</ul>
-</blockquote>
-
-<p>Trusting Tesla’s own safety report is like saying, “Elon Musk says Tesla is ahead, so they must be ahead.”</p>
-
-<div>
-<a  title="Permanent link to ‘Bloomberg Publishes Embarrassing Report Comparing Tesla and Waymo Self-Driving Safety Records’"  href="https://daringfireball.net/linked/2025/06/17/bloomberg-tesla-waymo">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>WhatsApp Introduces Ads in Its App</title>
-	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2025/06/16/technology/whatsapp-ads.html?unlocked_article_code=1.PU8.G1Jy.5fcLP_rl3lYC" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wem" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/16/whatsapp-ads" />
-	<id>tag:daringfireball.net,2025:/linked//6.41998</id>
-	<published>2025-06-17T01:19:36Z</published>
-	<updated>2025-06-17T03:09:46Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Eli Tan and Mike Isaac, reporting for The New York Times:</p>
-
-<blockquote>
-  <p>On Monday, WhatsApp said it would start showing ads inside its app
-for the first time. The promotions will appear only in an area of
-the app called Updates, which is used by around 1.5 billion people
-a day. WhatsApp will collect some data on users to target the ads,
-such as location and the device’s default language, but it will
-not touch the contents of messages or whom users speak with. The
-company added that it had no plans to place ads in chats and
-personal messages.</p>
-</blockquote>
-
-<p>(a) I’ve never once looked at the Updates tab in WhatsApp; (b) does <em>anyone</em> believe they’re <em>not</em> going to put ads in the other tabs sooner or later?</p>
-
-<div>
-<a  title="Permanent link to ‘WhatsApp Introduces Ads in Its App’"  href="https://daringfireball.net/linked/2025/06/16/whatsapp-ads">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
