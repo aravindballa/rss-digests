@@ -7,7 +7,27 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-07-13T18:29:00Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-07-13T19:26:32Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Drata</title>
+	<link rel="alternate" type="text/html" href="http://drata.com/daring/?utm_source=Daring_Fireball&amp;utm_medium=display&amp;utm_campaign=18991230_fy26_comm_DG_COMM_&amp;utm_content=demo_request" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wgb" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/13/drata" />
+	<id>tag:daringfireball.net,2025:/linked//6.42059</id>
+	<published>2025-07-13T19:26:31Z</published>
+	<updated>2025-07-13T19:26:32Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks to Drata for sponsoring this last week at DF. Their message is short and sweet: Automate compliance. Streamline security. Manage risk. Drata delivers the world’s most advanced Trust Management platform.</p>
+
+<div>
+<a  title="Permanent link to ‘Drata’"  href="https://daringfireball.net/linked/2025/07/13/drata">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Grok 4 System Prompt Shenanigans</title>
 	<link rel="alternate" type="text/html" href="https://simonwillison.net/2025/Jul/12/grok-4-heavy/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wga" />
@@ -2168,53 +2188,6 @@ of Europe.</p>
 
 <div>
 <a  title="Permanent link to ‘iPhone Mirroring Still Not Coming to the EU, Thanks to the DMA’"  href="https://daringfireball.net/linked/2025/06/19/iphone-mirroring-eu-numerama">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple’s New Foundation Model Speech APIs Outpace Whisper for Transcription</title>
-	<link rel="alternate" type="text/html" href="https://www.macstories.net/stories/hands-on-how-apples-new-speech-apis-outpace-whisper-for-lightning-fast-transcription/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wew" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/19/apples-new-foundation-model-speech-apis-outpace-whisper-for-transcription" />
-	<id>tag:daringfireball.net,2025:/linked//6.42008</id>
-	<published>2025-06-19T16:28:05Z</published>
-	<updated>2025-06-19T22:13:53Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>John Voorhees, writing at MacStories, regarding a new command-line transcription tool cleverly named <a href="https://github.com/finnvoor/yap">Yap</a> written by his son Finn last week during WWDC:</p>
-
-<blockquote>
-  <p>On the way, Finn filled me in on a new class in <a href="https://developer.apple.com/documentation/speech">Apple’s Speech
-framework</a> called <a href="https://developer.apple.com/documentation/speech/speechanalyzer">SpeechAnalyzer</a> and its
-<a href="https://developer.apple.com/documentation/speech/speechtranscriber">SpeechTranscriber</a> module. Both the class and module are
-<a href="https://developer.apple.com/videos/play/wwdc2025/277">part of Apple’s OS betas</a> that were released to developers
-last week at WWDC. My ears perked up immediately when he told me
-that he’d tested SpeechAnalyzer and SpeechTranscriber and was
-impressed with how fast and accurate they were. [...]</p>
-
-<p>What stood out above all else was Yap’s speed. By harnessing
-SpeechAnalyzer and SpeechTranscriber on-device, the command line
-tool tore through the 7GB video file a full 2.2× faster than
-MacWhisper’s Large V3 Turbo model, with no noticeable difference
-in transcription quality.</p>
-
-<p>At first blush, the difference between 0:45 and 1:41 may seem
-insignificant, and it arguably is, but those are the results for
-just one 34-minute video. Extrapolate that to running Yap against
-the hours of Apple Developer videos released on YouTube with the
-help of <a href="https://github.com/yt-dlp/yt-dlp"><code>yt-dlp</code></a>, and suddenly, you’re talking about a
-significant amount of time. Like all automation, picking up a 2.2×
-speed gain one video or audio clip at a time, multiple times each
-week, adds up quickly.</p>
-</blockquote>
-
-<p>Apple’s Foundation Models sure seem to be the sleeper hit from WWDC this year. This bodes very well for all sorts of use cases where transcription would be helpful, like third-party podcast players.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple’s New Foundation Model Speech APIs Outpace Whisper for Transcription’"  href="https://daringfireball.net/linked/2025/06/19/apples-new-foundation-model-speech-apis-outpace-whisper-for-transcription">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
