@@ -7,14 +7,14 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-07-12T21:55:27Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-07-13T03:11:14Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>Grok 4 System Prompt Shenanigans</title>
 	<link rel="alternate" type="text/html" href="https://simonwillison.net/2025/Jul/12/grok-4-heavy/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wga" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/12/grok-4-system-prompt-shenanigans" />
 	<id>tag:daringfireball.net,2025:/linked//6.42058</id>
 	<published>2025-07-12T21:55:27Z</published>
-	<updated>2025-07-12T21:55:27Z</updated>
+	<updated>2025-07-13T03:11:14Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -43,7 +43,7 @@ system prompt blamed for the problem. That text isn’t present in
 <p>Given the <a href="https://simonwillison.net/2025/Jul/12/grok/">past week of mishaps</a> I think xAI would be wise to
 reaffirm their dedication to prompt transparency and set things up
 so the <a href="https://github.com/xai-org/grok-prompts">xai-org/grok-prompts</a> repository updates
-automatically when new prompts are deployed - their current manual
+automatically when new prompts are deployed — their current manual
 process for that is clearly not adequate for the job!</p>
 </blockquote>
 
