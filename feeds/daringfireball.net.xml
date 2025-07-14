@@ -7,7 +7,27 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-07-13T19:26:32Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-07-14T00:18:25Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>‘Classic Web’ on Mastodon</title>
+	<link rel="alternate" type="text/html" href="https://indieweb.social/@classicweb" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wgc" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/13/classic-web" />
+	<id>tag:daringfireball.net,2025:/linked//6.42060</id>
+	<published>2025-07-14T00:17:00Z</published>
+	<updated>2025-07-14T00:18:25Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Classic Web is a fun account to follow on Mastodon. Curator Richard MacManus posts half a dozen or so screenshots per day of, well, classic websites from the late 1990s and 2000s. Makes me feel old and young at the same time.</p>
+
+<div>
+<a  title="Permanent link to ‘‘Classic Web’ on Mastodon’"  href="https://daringfireball.net/linked/2025/07/13/classic-web">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Drata</title>
 	<link rel="alternate" type="text/html" href="http://drata.com/daring/?utm_source=Daring_Fireball&amp;utm_medium=display&amp;utm_campaign=18991230_fy26_comm_DG_COMM_&amp;utm_content=demo_request" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wgb" />
@@ -2137,57 +2157,6 @@ YouTube or Substack. He’s got some thoughts about that, too.</p>
 
 <div>
 <a  title="Permanent link to ‘Yours Truly on Peter Kafka’s ‘Channels’ Podcast’"  href="https://daringfireball.net/linked/2025/06/19/yours-truly-on-peter-kafkas-channels-podcast">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>iPhone Mirroring Still Not Coming to the EU, Thanks to the DMA</title>
-	<link rel="alternate" type="text/html" href="https://www.numerama.com/tech/1988271-mauvaise-nouvelle-iphone-mirroring-narrivera-pas-en-france-avec-ios-26.html" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wex" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/19/iphone-mirroring-eu-numerama" />
-	<id>tag:daringfireball.net,2025:/linked//6.42009</id>
-	<published>2025-06-19T16:55:47Z</published>
-	<updated>2025-06-19T17:27:02Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Nicolas Lellouche, writing for the French-language site Numerama (block quote below is from Safari’s English translation) (<a href="https://www.macrumors.com/2025/06/18/apple-on-iphone-mirroring-still-not-in-eu/">via Joe Rossignol at MacRumors</a>):</p>
-
-<blockquote>
-  <p>What is the problem with Europe? Apple does not explain it very
-clearly, but suggests that the European Union’s requests for
-opening create uncertainties. It is likely that the brand suspects
-Europe of forcing it to open macOS to devices other than the
-iPhone if this function were to happen. A mandatory iPhone
-Mirroring on Windows or an Android Mirroring on Mac may not be in
-his plans. The other probability is the question of gatekeepers,
-raised in 2024. Apple would fear that macOS will be on the list of
-monitored platforms if it can emulate iOS, one of the gatekeepers
-monitored by Europe.</p>
-</blockquote>
-
-<p>The problem isn’t about MacOS getting flagged as another “gatekeeping” platform under the DMA. Whether or not Apple enables iPhone Mirroring on MacOS in the EU would have no bearing on whether the Mac is deemed a gatekeeper. The <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R1925">DMA defines a “gatekeeper” platform</a> as “a core platform service that in the last financial year has at least 45 million monthly active end users established or located in the Union and at least 10,000 yearly active business users established in the Union”. I’m not sure how many Mac users there are in the EU, but I’m pretty sure the number is well under 45 million. (<a href="https://www.spyhunter.com/shm/macos-stats/">Estimates</a> seem to peg the worldwide number of Mac users at just over 100 million.) Conversely, if the European Commission decided that there <em>were</em> 45 million Mac users in the EU, the Mac would be considered a gatekeeping platform, period.</p>
-
-<p>The problem is simply that the iPhone <em>is</em> a gatekeeping platform, and iPhone Mirroring obviously involves the iPhone. The EU’s <a href="https://daringfireball.net/2025/06/apple_appeals_eu_interop_requirements">recent demands regarding “interoperability requirements”</a> flag just about every single feature that involves an iPhone communicating with another Apple device. AirDrop, AirPlay, AirPods pairing, Apple Watch connectivity — all of that has been deemed illegal gatekeeping. Clearly, iPhone Mirroring would fall under the same interpretation, thus, iPhone Mirroring isn’t going to be available in the EU. If the DMA had been in place 15 years ago, the EU wouldn’t have AirDrop or AirPlay and perhaps wouldn’t have Apple Watch or AirPods, either.</p>
-
-<p>If Apple made iPhone Mirroring available in the EU now, my guess is the European Commission would add it to the interoperability requirements list, and demand that Apple support mirroring your iPhone to all other platforms, such as Windows and Android. They might also demand that Apple add support to iOS for third-party screen mirroring protocols.</p>
-
-<blockquote>
-  <p>Several weeks ago, Apple indicated that other new products may be
-blocked in Europe in the future. What about what’s new in iOS 26?
-Apple is not commenting at the moment, since it must verify the
-compatibility of its new functions with the European Union. Some
-new features, such as the Phone application on Mac to make calls
-with your iPhone, seem difficult to be compatible with the vision
-of Europe.</p>
-</blockquote>
-
-<p>The new Phone app on MacOS is almost certainly not coming to the EU, unless the European Commission changes its stance on these interoperability requirements.</p>
-
-<div>
-<a  title="Permanent link to ‘iPhone Mirroring Still Not Coming to the EU, Thanks to the DMA’"  href="https://daringfireball.net/linked/2025/06/19/iphone-mirroring-eu-numerama">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
