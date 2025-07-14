@@ -7,7 +7,45 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-07-14T00:18:25Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-07-14T19:32:29Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Reborn Commodore Is Taking Pre-Orders for New Commodore 64 Models</title>
+	<link rel="alternate" type="text/html" href="https://www.commodore.net/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wgd" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/14/commodore-64-ultimate" />
+	<id>tag:daringfireball.net,2025:/linked//6.42061</id>
+	<published>2025-07-14T19:29:56Z</published>
+	<updated>2025-07-14T19:32:29Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Last year, retro computing YouTuber Christian “Peri Fractic” Simpson <a href="https://tedium.co/2025/06/19/peri-fractic-retro-recipes-commodore-profile/">bought the branding rights and some of the IP</a> belonging to Commodore (which rights have been transferred five times since the original company went bankrupt in 1994). Last week they launched their first product:</p>
+
+<blockquote>
+  <p>This is the first real Commodore computer in over 30 years, and
+it’s picked up a few new tricks.</p>
+
+<p>Not an emulator. Not a PC. Retrogaming heaven in three dimensions:
+<em>silicon, nostalgia, and light</em>. Powered by a FPGA recreation of the
+original motherboard, wrapped in glowing game-reactive LEDs (or
+classic beige of course).</p>
+</blockquote>
+
+<p><a href="https://tedium.co/2025/07/12/commodore-revival-community/">Via Ernie Smith</a>, who has been <a href="https://tedium.co/2025/06/19/peri-fractic-retro-recipes-commodore-profile/">following this saga thoughtfully</a>.</p>
+
+<p>This is, no question, a fun and cool project, and I hope it succeeds wildly. But personally, the Commodore 64 holds almost no nostalgic value for me. The Commodore 64 — which came out in 1982, when I was 9 — always struck me as cheap-feeling and inelegant. Like using some weird computer from the Soviet Union. <a href="https://daringfireball.net/misc/2025/07/commodore-64-keyboard.jpeg">Just look at its keyboard</a>. It’s got a bunch of odd keys, like “Run Stop” and “Restore”, and all sorts of drawing-related glyphs (used when programming) printed on the sides of the keycaps. Now compare that to the keyboards from <a href="https://daringfireball.net/misc/2025/07/apple-IIplus-keyboard.jpeg">the Apple II Plus</a> (1979), which has just one weird key, “REPT” (<a href="https://www.duxburysystems.org/downloads/library/texas/apple/history/museum/computers/a2_plusclose.html">for Repeat</a> — you needed to press and hold REPT to get other keys to auto-repeat), and to <a href="https://daringfireball.net/misc/2025/07/apple-IIe-keyboard.jpeg">the Apple IIe</a> (1983), which has no weird keys and whose keyboard looks remarkably modern lo these 42 intervening years.</p>
+
+<p>That said, while both systems came with 64 kilobytes of RAM, the Apple IIe cost $1,400 when it debuted (~$4,600 today, inflation adjusted); the Commodore 64 cost $600 (~$2,000 today). Some things haven’t changed about the computer industry in my lifetime.</p>
+
+<p>The most interesting computers Commodore ever made, by far, were the Amigas. The Amiga brand and IP were cleaved from Commodore long ago, and alas, the new Commodore doesn’t have them. But they’ve expressed interest in buying them. Something like this Commodore 64 Ultimate but for an Amiga — now <em>that</em> might get me to reach for my credit card.</p>
+
+<div>
+<a  title="Permanent link to ‘Reborn Commodore Is Taking Pre-Orders for New Commodore 64 Models’"  href="https://daringfireball.net/linked/2025/07/14/commodore-64-ultimate">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘Classic Web’ on Mastodon</title>
 	<link rel="alternate" type="text/html" href="https://indieweb.social/@classicweb" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wgc" />
@@ -2119,45 +2157,4 @@ that’s what we tried to do.</p>
 
 
     ]]></content>
-  <title>★ One Week Out, Some Brief Thoughts and Observations on WWDC 2025</title></entry><entry>
-	<title>Yours Truly on Peter Kafka’s ‘Channels’ Podcast</title>
-	<link rel="alternate" type="text/html" href="https://overcast.fm/+QL2dEoWo4" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wey" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/19/yours-truly-on-peter-kafkas-channels-podcast" />
-	<id>tag:daringfireball.net,2025:/linked//6.42010</id>
-	<published>2025-06-19T17:10:04Z</published>
-	<updated>2025-06-19T18:05:26Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Peter Kafka:</p>
-
-<blockquote>
-  <p>So in March, when Gruber announced that Something is Rotten in the
-State of Cupertino — focusing on Apple’s botched plans to imbue
-its ailing Siri service with state-of-the-art AI — lots of people
-paid attention. Including, apparently, folks at the very top of
-the Apple org chart.</p>
-
-<p>I talked to Gruber about the fallout from that post. Which is
-pretty interesting! But there’s a lot more going on in this
-conversation. It’s partly about the friction Apple has been
-generating lately — not just about its AI efforts, but the way it
-runs its App Store, and the way it interacts with developers — and why all of that does and doesn’t matter.</p>
-
-<p>And it’s also about the delightfully retro practice of running an
-ad-supported blog in 2025. That works very well for Gruber, but it
-seems like the new Grubers of the world are doing their work on
-YouTube or Substack. He’s got some thoughts about that, too.</p>
-</blockquote>
-
-<p>Good interview, I thought — I always enjoy talking to Kafka. No permalink for the episode on the web, so my main link for this post is to Overcast. <a href="https://podcasts.apple.com/us/podcast/why-did-apple-ice-out-the-most-famous-apple-blogger/id1080467174?i=1000713447406">Here’s a link to Apple Podcasts</a>, and <a href="https://pod.link/recodemedia/episode/e92e7798f56478b5263558ce0b9def83">one from a new service called Pod.link</a> too.</p>
-
-<div>
-<a  title="Permanent link to ‘Yours Truly on Peter Kafka’s ‘Channels’ Podcast’"  href="https://daringfireball.net/linked/2025/06/19/yours-truly-on-peter-kafkas-channels-podcast">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry></feed><!-- THE END -->
+  <title>★ One Week Out, Some Brief Thoughts and Observations on WWDC 2025</title></entry></feed><!-- THE END -->
