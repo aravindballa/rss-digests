@@ -7,7 +7,41 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-07-14T22:55:51Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-07-15T00:31:30Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>‘Elon Musk Gives Himself Another Handshake’</title>
+	<link rel="alternate" type="text/html" href="https://pxlnv.com/linklog/musk-xai-spacex/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wgh" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/14/musk-gives-himself-a-handshake" />
+	<id>tag:daringfireball.net,2025:/linked//6.42065</id>
+	<published>2025-07-15T00:31:29Z</published>
+	<updated>2025-07-15T00:31:30Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Nick Heer, Pixel Envy on <a href="https://www.wsj.com/tech/spacex-to-invest-2-billion-into-elon-musks-xai-413934de?st=XZYChT&amp;reflink=desktopwebshare_permalink">the news</a> that SpaceX “invested” $2 billion in the <a href="https://www.bloomberg.com/news/articles/2025-06-17/musk-s-xai-burning-through-1-billion-a-month-as-costs-pile-up">xAI money pit</a>:</p>
+
+<blockquote>
+  <p>This comes just a few months after <a href="https://pxlnv.com/linklog/musk-x-xai/">xAI acquired X</a>, one
+year after Musk <a href="https://www.cnbc.com/2024/06/04/elon-musk-told-nvidia-to-ship-ai-chips-reserved-for-tesla-to-x-xai.html">shifted</a> a bunch of Tesla-bound Nvidia GPUs
+to xAI, and just a few years after he <a href="https://www.nbcnews.com/tech/tech-news/elon-musk-pulled-50-tesla-employees-twitter-takeover-rcna54946">used staff</a> from
+Tesla to work on Twitter. So, to recap: he has moved people and
+resources from two publicly traded companies to two privately
+owned ones, has used funds from one of his privately owned
+companies to buy another one of his privately owned companies, and
+is now using one of his publicly traded companies to give billions
+of dollars to one of his privately owned ones.</p>
+</blockquote>
+
+<p>Musk can and should be able to do whatever he wants with his privately held companies, like X Corp. But the way he treats his publicly held companies like SpaceX and Tesla as though they’re just part of his personal fiefdom is absurd. And the European Commission <a href="https://fortune.com/europe/2024/10/17/musk-empire-risks-being-targeted-by-eu-for-potential-x-fines/">isn’t fooled</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘‘Elon Musk Gives Himself Another Handshake’’"  href="https://daringfireball.net/linked/2025/07/14/musk-gives-himself-a-handshake">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Lee Elia, Former Major League Manager, Dies at 87</title>
 	<link rel="alternate" type="text/html" href="https://www.nytimes.com/athletic/6486807/2025/07/10/lee-elia-obituary-cubs-phillies/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wgg" />
@@ -1911,63 +1945,6 @@ others who found humor in the video.</p>
 
 <div>
 <a  title="Permanent link to ‘Apple Launches ‘Convince Your Parents to Get You a Mac’ Short Film on YouTube, Then Pulls It a Day Later Without Explanation’"  href="https://daringfireball.net/linked/2025/06/22/apple-can-convince-your-parents">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>MacOS 26 Tahoe Beta Drops FireWire Support</title>
-	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2025/06/19/macos-tahoe-beta-drops-firewire-support/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wf4" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/22/macos-26-tahoe-beta-drops-firewire-support" />
-	<id>tag:daringfireball.net,2025:/linked//6.42016</id>
-	<published>2025-06-22T17:07:41Z</published>
-	<updated>2025-06-22T17:07:42Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Joe Rossignol, writing for MacRumors:</p>
-
-<blockquote>
-  <p>A bit of sad news for old iPods: Macs might be losing FireWire
-support.</p>
-
-<p>The first macOS Tahoe developer beta does not support the legacy
-FireWire 400 and FireWire 800 data-transfer standards, according
-to <a href="https://x.com/NekoMichiUBC/status/1932876748661608561">@NekoMichi on X</a>, and a <a href="https://www.reddit.com/r/MacOS/comments/1l7gb1r/macos_tahoe_dp1_seems_remove_firewire_800_support/">Reddit post</a>. As a result,
-the first few iPod models and old external storage drives that
-rely on FireWire cannot be synced with or mounted on a Mac running
-the <a href="https://www.macrumors.com/how-to/install-macos-tahoe-developer-beta/">macOS Tahoe beta</a>.</p>
-
-<p>Unlike on macOS Sequoia and earlier versions, the first macOS
-Tahoe beta does not include a FireWire section in the System
-Settings app.</p>
-</blockquote>
-
-<p>All good things must come to an end, and FireWire was a very good thing indeed. High-performance, reliable, easy to use.</p>
-
-<p>Apple, back in 2001, “<a href="https://www.apple.com/newsroom/2001/08/22Apple-FireWire-Wins-2001-Primetime-Emmy-Engineering-Award/">Apple FireWire Wins 2001 Primetime Emmy Engineering Award</a>”:</p>
-
-<blockquote>
-  <p>Apple’s FireWire technology will be honored by the Academy of
-Television Arts &amp; Sciences in an awards presentation held tonight
-at the academy’s Goldenson Theatre in Hollywood. Apple will
-receive a 2001 Primetime Emmy Engineering Award for FireWire’s
-material impact on the television industry.</p>
-
-<p>Apple invented FireWire in the mid-90s and shepherded it to become
-the established cross-platform industry standard IEEE 1394.
-FireWire is a high-speed serial input/output technology for
-connecting digital devices such as digital camcorders and cameras
-to desktop and portable computers. Widely adopted by digital
-peripheral companies such as Sony, Canon, JVC and Kodak, FireWire
-has become the established industry standard for both consumers
-and professionals.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘MacOS 26 Tahoe Beta Drops FireWire Support’"  href="https://daringfireball.net/linked/2025/06/22/macos-26-tahoe-beta-drops-firewire-support">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
