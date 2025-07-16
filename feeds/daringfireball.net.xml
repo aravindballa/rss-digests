@@ -7,14 +7,14 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-07-16T00:31:34Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-07-16T15:23:46Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>Drew Saur’s Ode to the Commodore 64</title>
 	<link rel="alternate" type="text/html" href="https://theprogressivecio.com/the-commodore-64-made-a-difference/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wgk" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/15/saur-c64" />
 	<id>tag:daringfireball.net,2025:/linked//6.42068</id>
 	<published>2025-07-15T23:29:47Z</published>
-	<updated>2025-07-16T00:31:34Z</updated>
+	<updated>2025-07-16T15:23:46Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -45,7 +45,7 @@ RUN
 10 PRINT SPC(X); "KMART SUCKS!"
 20 X = X + 1
 30 IF X &gt; 28 THEN X = 0
-35 FOR T = 0 TO 100 : NEXT : REM SLOW DOWN
+35 FOR T = 0 TO 100 : NEXT : REM SLOW DOWN (TEMP UPDATE TO MAKE THIS LINE REALLY LONG)
 40 GOTO 10
 RUN
 </code></pre>
