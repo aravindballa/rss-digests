@@ -7,7 +7,62 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-07-19T22:10:29Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-07-20T16:47:37Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>WorkOS: Summer Launch Week</title>
+	<link rel="alternate" type="text/html" href="https://workos.com/launch-week/summer-2025" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wgv" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/20/workos-summer-launch-week" />
+	<id>tag:daringfireball.net,2025:/linked//6.42079</id>
+	<published>2025-07-20T16:47:19Z</published>
+	<updated>2025-07-20T16:47:37Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks to WorkOS for sponsoring last week at DF to promote their summer launch week. You may recall their previous launch week <a href="https://daringfireball.net/linked/2025/03/21/workos-launch-week">back in spring</a>, when I emphasized that their launch week announcements were worth checking out just to admire the retro-modern design of the web page. Well, they’ve done it again, with all-new retro pixel-art design. It’s so fun and well done, with a bunch of UI elements that you can play with.</p>
+
+<p>Amidst the fun of the presentation, they once again have a slew of great new features, including:</p>
+
+<ul>
+<li><a href="https://workos.com/blog/authkit-custom-css">Custom CSS for AuthKit</a>.</li>
+<li><a href="https://workos.com/blog/feature-flags">Feature Flags</a> — “Assign flags, expose them in JWTs, and roll out features with targeted control.”</li>
+<li><a href="https://workos.com/blog/supabase-integration">Supabase Native Auth Integration</a>.</li>
+<li><a href="https://workos.com/blog/cli-auth">CLI Auth</a> — “Log in from the command line with OAuth 2.0 device grant flow”.</li>
+</ul>
+
+<div>
+<a  title="Permanent link to ‘WorkOS: Summer Launch Week’"  href="https://daringfireball.net/linked/2025/07/20/workos-summer-launch-week">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	
+	<link rel="alternate" type="text/html" href="https://workos.com/launch-week/summer-2025" />
+	<link rel="shorturl" href="http://df4.us/wgu" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2025/07/workos_summer_launch_week" />
+	<id>tag:daringfireball.net,2025:/feeds/sponsors//11.42078</id>
+	<author><name>Daring Fireball Department of Commerce</name></author>
+	<published>2025-07-20T16:46:57Z</published>
+	<updated>2025-07-20T16:46:57Z</updated>
+	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
+<p>My thanks to WorkOS for sponsoring last week at DF to promote their summer launch week. You may recall their previous launch week <a href="https://daringfireball.net/linked/2025/03/21/workos-launch-week">back in spring</a>, when I emphasized that their launch week announcements were worth checking out just to admire the retro-modern design of the web page. Well, they’ve done it again, with all-new retro pixel-art design. It’s so fun and well done, with a bunch of UI elements that you can play with.</p>
+
+<p>Amidst the fun of the presentation, they once again have a slew of great new features, including:</p>
+
+<ul>
+<li><a href="https://workos.com/blog/authkit-custom-css">Custom CSS for AuthKit</a>.</li>
+<li><a href="https://workos.com/blog/feature-flags">Feature Flags</a> — “Assign flags, expose them in JWTs, and roll out features with targeted control.”</li>
+<li><a href="https://workos.com/blog/supabase-integration">Supabase Native Auth Integration</a>.</li>
+<li><a href="https://workos.com/blog/cli-auth">CLI Auth</a> — “Log in from the command line with OAuth 2.0 device grant flow”.</li>
+</ul>
+
+<div>
+<a  title="Permanent link to ‘WorkOS: Summer Launch Week’"  href="https://daringfireball.net/feeds/sponsors/2025/07/workos_summer_launch_week">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+	<title>[Sponsor] WorkOS: Summer Launch Week</title></entry><entry>
 	<title>Myke Hurley Interviews Yours Truly for the Cortex ‘State of the Workflow’ Series</title>
 	<link rel="alternate" type="text/html" href="https://www.theenthusiast.net/john-gruber-state-of-the-workflow/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wgt" />
@@ -1502,23 +1557,6 @@ move app discovery features to the second tier.</p>
 
 	]]></content>
   </entry><entry>
-	
-	<link rel="alternate" type="text/html" href="http://drata.com/daring/?utm_source=Daring_Fireball&amp;utm_medium=display&amp;utm_campaign=18991230_fy26_comm_DG_COMM_&amp;utm_content=demo_request" />
-	<link rel="shorturl" href="http://df4.us/wfx" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2025/07/drata_2" />
-	<id>tag:daringfireball.net,2025:/feeds/sponsors//11.42045</id>
-	<author><name>Daring Fireball Department of Commerce</name></author>
-	<published>2025-07-07T21:38:23Z</published>
-	<updated>2025-07-08T20:16:41Z</updated>
-	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
-<p>Automate compliance. Streamline security. Manage risk. Drata delivers the world’s most advanced Trust Management platform.</p>
-
-<div>
-<a  title="Permanent link to ‘Drata’"  href="https://daringfireball.net/feeds/sponsors/2025/07/drata_2">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-	<title>[Sponsor] Drata</title></entry><entry>
 	<title>‘F1’ Is Doing Well at the Box Office, and Is Now Already Apple’s Top-Grossing Theatrical Film</title>
 	<link rel="alternate" type="text/html" href="https://variety.com/2025/film/box-office/f1-movie-apple-highest-grossing-film-napoleon-1236448149/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wfw" />
@@ -2143,38 +2181,4 @@ mountaintop.</p>
 
 
     ]]></content>
-  <title>★ More on Apple’s Trust-Eroding ‘F1 The Movie’ Wallet Ad</title></entry><entry>
-	<title>The Talk Show: ‘Through the Wall Like Kool-Aid Man’</title>
-	<link rel="alternate" type="text/html" href="https://daringfireball.net/thetalkshow/2025/06/26/ep-425" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wfg" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/26/the-talk-show-425" />
-	<id>tag:daringfireball.net,2025:/linked//6.42028</id>
-	<published>2025-06-27T01:18:32Z</published>
-	<updated>2025-06-27T17:28:46Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Chance Miller returns to the show to discuss the news and announcements from WWDC 2025.</p>
-
-<p><audio
-    src = "https://traffic.libsyn.com/secure/daringfireball/thetalkshow-425-chance-miller.mp3"
-    controls
-    preload = "none"
-/></p>
-
-<p><strong>Sponsored by:</strong></p>
-
-<ul>
-<li><a href="https://factormeals.com/talkshow50off">Factor</a>: Healthy eating, made easy. Get 50% off plus free shipping on your first box with code <strong>talkshow50off</strong>.</li>
-<li><a href="https://squarespace.com/talkshow">Squarespace</a>: Save 10% off your first purchase of a website or domain using code <strong>talkshow</strong>.</li>
-<li><a href="https://betterhelp.com/talkshow">BetterHelp</a>: Give online therapy a try at BetterHelp and get on your way to being your best self.</li>
-</ul>
-
-<div>
-<a  title="Permanent link to ‘The Talk Show: ‘Through the Wall Like Kool-Aid Man’’"  href="https://daringfireball.net/linked/2025/06/26/the-talk-show-425">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry></feed><!-- THE END -->
+  <title>★ More on Apple’s Trust-Eroding ‘F1 The Movie’ Wallet Ad</title></entry></feed><!-- THE END -->
