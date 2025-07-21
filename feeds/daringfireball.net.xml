@@ -7,7 +7,75 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-07-21T03:06:37Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-07-21T18:05:37Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>HRW Report Documents Abusive Practices at Three Florida Immigration Detention Centers Since January 2025</title>
+	<link rel="alternate" type="text/html" href="https://www.hrw.org/report/2025/07/21/you-feel-like-your-life-is-over/abusive-practices-at-three-florida-immigration" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wgz" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/21/hrw-ice-detention-abuse" />
+	<id>tag:daringfireball.net,2025:/linked//6.42083</id>
+	<published>2025-07-21T18:05:36Z</published>
+	<updated>2025-07-21T18:05:37Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>John Holmes for Human Rights Watch (<a href="https://www.theguardian.com/us-news/2025/jul/21/migrants-miami-ice-jail-abuses">via The Guardian</a>):</p>
+
+<blockquote>
+  <p>One woman described arriving at Krome — a facility that typically
+<a href="https://www.oig.dhs.gov/sites/default/files/assets/2024-04/OIG-24-21-Apr24.pdf">only holds men</a> — late at night on January 28. Officers then
+confined her for days with dozens of other women without bedding
+or privacy, in a cell normally used only during incarceration
+intake procedures. “There was only one toilet, and it was covered
+in feces,” she said. “We begged the officers to let us clean it,
+but they just said sarcastically, ‘Housekeeping will come soon.’
+No one ever came.”</p>
+
+<p>A man recalled the frigid conditions in the intake cell where he
+was detained: “They turned up the air conditioning... You could
+not fall asleep because it was so cold. I thought I was going to
+experience hypothermia.”</p>
+
+<p>This report documents serious violations of medical standards.
+Detention facility staff routinely denied individuals with
+diabetes, asthma, kidney conditions, and chronic pain their
+prescribed medications and access to doctors. In one case at
+Krome, a woman with gallstones began vomiting and lost
+consciousness after being denied care for several days. Officers
+returned her to the same cell after emergency surgery to remove
+her gallbladder — still without medication. [...]</p>
+
+<p>Staff were dismissive or abusive even when detainees were
+undergoing a visibly obvious medical crisis. For example, staff
+ignored a detained immigrant who began coughing blood in a crowded
+holding cell for hours. In that case, unrest ensued, and a
+Disturbance Control Team stormed the cell, forcing the men in it
+to lie face down on the wet, dirty floor while officers zip-tied
+their hands behind their backs. A detainee said he heard an
+officer order the cell’s CCTV camera feed to be turned off.
+Another detainee said a team member slapped him while shouting,
+“Shut the fuck up.”</p>
+
+<p>During another incident, officers made men eat while shackled with
+their hands behind their backs after forcing the group to wait
+hours for lunch: “We had to bend over and eat off the chairs with
+our mouths, like dogs,” one man said.</p>
+</blockquote>
+
+<p><a href="https://constitution.congress.gov/constitution/amendment-8/">The Eighth Amendment of the US Constitution</a>:</p>
+
+<blockquote>
+  <p>Excessive bail shall not be required, nor excessive fines imposed,
+nor cruel and unusual punishments inflicted.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘HRW Report Documents Abusive Practices at Three Florida Immigration Detention Centers Since January 2025’"  href="https://daringfireball.net/linked/2025/07/21/hrw-ice-detention-abuse">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>WorkOS: Summer Launch Week</title>
 	<link rel="alternate" type="text/html" href="https://workos.com/launch-week/summer-2025" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wgv" />
@@ -1959,40 +2027,6 @@ If you’ve got a product or service (or, perhaps, a just-opened blockbuster car
 
 <div>
 <a  title="Permanent link to ‘WorkOS’"  href="https://daringfireball.net/linked/2025/06/28/workos">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple’s Full List of Differences between ‘Tier 1’ and ‘Tier 2’ in the EU App Store</title>
-	<link rel="alternate" type="text/html" href="https://developer.apple.com/help/app-store-connect/reference/store-services-tiers/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wfp" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/06/28/apples-full-list-of-differences-between-tier-1-and-tier-2-in-the-eu-app-store" />
-	<id>tag:daringfireball.net,2025:/linked//6.42037</id>
-	<published>2025-06-28T21:00:01Z</published>
-	<updated>2025-06-29T13:59:21Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Apple Developer:</p>
-
-<blockquote>
-  <p>By default, apps on the App Store are provided Store Services Tier
-2, the complete suite of all capabilities designed to maximize
-visibility, engagement, growth, and operational efficiency.
-Developers with <a href="https://developer.apple.com/support/alternative-payment-options-on-the-app-store-in-the-eu/">apps on the App Store in the EU</a> that
-communicate and promote offers for digital goods and services can
-choose to move their apps to only use Store Services Tier 1 and
-pay a reduced store services fee.</p>
-</blockquote>
-
-<p>What follows is a long chart, making clear which features are excluded from Tier 1.</p>
-
-<p>Like I wrote in <a href="https://daringfireball.net/2025/06/apple_app_store_policy_updates_dma">my larger piece on Apple’s new DMA compliance plans</a>, I don’t think Tier 1 is intended to be a feasible choice for any mainstream apps or games. The whole thing is just a way to assert that 8 percent of the commission developers pay is justified by various features of the App Store itself.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple’s Full List of Differences between ‘Tier 1’ and ‘Tier 2’ in the EU App Store’"  href="https://daringfireball.net/linked/2025/06/28/apples-full-list-of-differences-between-tier-1-and-tier-2-in-the-eu-app-store">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
