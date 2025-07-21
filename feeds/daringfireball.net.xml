@@ -7,7 +7,36 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-07-21T00:38:33Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-07-21T00:43:36Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>WorkOS: Summer Launch Week</title>
+	<link rel="alternate" type="text/html" href="https://workos.com/launch-week/summer-2025" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wgv" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/20/workos-summer-launch-week" />
+	<id>tag:daringfireball.net,2025:/linked//6.42079</id>
+	<published>2025-07-21T00:40:00Z</published>
+	<updated>2025-07-21T00:43:36Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks to WorkOS for sponsoring last week at DF to promote their summer launch week. You may recall their previous launch week <a href="https://daringfireball.net/linked/2025/03/21/workos-launch-week">back in spring</a>, when I emphasized that their launch week announcements were worth checking out just to admire the retro-modern design of the web page. Well, they’ve done it again, with all-new retro pixel-art design. It’s so fun and well done, with a bunch of UI elements that you can play with.</p>
+
+<p>Amidst the fun of the presentation, they once again have a slew of great new features, including:</p>
+
+<ul>
+<li><a href="https://workos.com/blog/authkit-custom-css">Custom CSS for AuthKit</a>.</li>
+<li><a href="https://workos.com/blog/feature-flags">Feature Flags</a> — “Assign flags, expose them in JWTs, and roll out features with targeted control.”</li>
+<li><a href="https://workos.com/blog/supabase-integration">Supabase Native Auth Integration</a>.</li>
+<li><a href="https://workos.com/blog/cli-auth">CLI Auth</a> — “Log in from the command line with OAuth 2.0 device grant flow”.</li>
+</ul>
+
+<div>
+<a  title="Permanent link to ‘WorkOS: Summer Launch Week’"  href="https://daringfireball.net/linked/2025/07/20/workos-summer-launch-week">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Don’t Forget About Atari</title>
 	<link rel="alternate" type="text/html" href="https://cory.news/posts/2025-07-17-atari/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wgx" />
@@ -71,35 +100,6 @@ to Guideline, an ad-tracking platform.</p>
 
 <div>
 <a  title="Permanent link to ‘The WSJ on Late Night TV’s Ad Revenue Decline, and CBS’s Decision to Cancel The Late Show’"  href="https://daringfireball.net/linked/2025/07/20/wsj-late-night-ad-revenue">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>WorkOS: Summer Launch Week</title>
-	<link rel="alternate" type="text/html" href="https://workos.com/launch-week/summer-2025" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wgv" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/20/workos-summer-launch-week" />
-	<id>tag:daringfireball.net,2025:/linked//6.42079</id>
-	<published>2025-07-20T16:47:19Z</published>
-	<updated>2025-07-20T16:47:37Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>My thanks to WorkOS for sponsoring last week at DF to promote their summer launch week. You may recall their previous launch week <a href="https://daringfireball.net/linked/2025/03/21/workos-launch-week">back in spring</a>, when I emphasized that their launch week announcements were worth checking out just to admire the retro-modern design of the web page. Well, they’ve done it again, with all-new retro pixel-art design. It’s so fun and well done, with a bunch of UI elements that you can play with.</p>
-
-<p>Amidst the fun of the presentation, they once again have a slew of great new features, including:</p>
-
-<ul>
-<li><a href="https://workos.com/blog/authkit-custom-css">Custom CSS for AuthKit</a>.</li>
-<li><a href="https://workos.com/blog/feature-flags">Feature Flags</a> — “Assign flags, expose them in JWTs, and roll out features with targeted control.”</li>
-<li><a href="https://workos.com/blog/supabase-integration">Supabase Native Auth Integration</a>.</li>
-<li><a href="https://workos.com/blog/cli-auth">CLI Auth</a> — “Log in from the command line with OAuth 2.0 device grant flow”.</li>
-</ul>
-
-<div>
-<a  title="Permanent link to ‘WorkOS: Summer Launch Week’"  href="https://daringfireball.net/linked/2025/07/20/workos-summer-launch-week">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
