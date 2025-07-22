@@ -7,7 +7,84 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-07-22T15:31:58Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-07-22T15:41:22Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Hackers Exploit Zero-Day Microsoft SharePoint Exploit, Attacking Governments and Businesses Around the World</title>
+	<link rel="alternate" type="text/html" href="https://www.washingtonpost.com/technology/2025/07/20/microsoft-sharepoint-hack/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wh6" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/22/zero-day-microsoft-sharepoint-exploit" />
+	<id>tag:daringfireball.net,2025:/linked//6.42090</id>
+	<published>2025-07-22T15:41:21Z</published>
+	<updated>2025-07-22T15:41:22Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Ellen Nakashima, Yvonne Wingett Sanchez and Joseph Menn, reporting for The Washington Post:</p>
+
+<blockquote>
+  <p>The U.S. government and partners in Canada and Australia are
+investigating the compromise of SharePoint servers, which provide
+a platform for sharing and managing documents. Tens of thousands
+of such servers are at risk, experts said, and Microsoft has
+issued no patch for the flaw, leaving victims around the world
+scrambling to respond.</p>
+
+<p>The “zero-day” attack, so called because it targeted a previously
+unknown vulnerability, is only the latest cybersecurity
+embarrassment for Microsoft. Last year, the company was faulted by
+a panel of U.S. government and industry experts for lapses that
+enabled a <a href="https://www.washingtonpost.com/national-security/2024/04/02/microsoft-cyber-china-hack-report/">2023 targeted Chinese hack of U.S. government
+emails</a>, including those of then-Commerce Secretary Gina
+Raimondo.</p>
+
+<p>This most recent attack compromises only those servers housed
+within an organization — not those in the cloud, such as
+Microsoft 365, officials said. After first suggesting that users
+make modifications to or simply unplug SharePoint server programs
+from the internet, the company on Sunday evening released a patch
+for one version of the software. Two other versions remain
+vulnerable and Microsoft said it is continuing to work to develop
+a patch.</p>
+</blockquote>
+
+<p>“Just pull the plug” — classic Microsoft security.</p>
+
+<blockquote>
+  <p>With access to these servers, which often connect to Outlook
+email, Teams and other core services, a breach can lead to theft
+of sensitive data as well as password harvesting,
+Netherlands-based research company <a href="https://research.eye.security/sharepoint-under-siege/">Eye Security noted</a>.
+What’s also alarming, researchers said, is that the hackers have
+gained access to keys that may allow them to regain entry even
+after a system is patched. “So pushing out a patch on Monday or
+Tuesday doesn’t help anybody who’s been compromised in the past 72
+hours,” said one researcher, who spoke on the condition of
+anonymity because a federal investigation is ongoing.</p>
+</blockquote>
+
+<p>Sounds bad.</p>
+
+<blockquote>
+  <p>The nonprofit Center for Internet Security, which staffs an
+information-sharing group for state and local governments,
+notified about 100 organizations that they were vulnerable and
+potentially compromised, said Randy Rose, the organization’s vice
+president. Those warned included public schools and universities.
+The process took six hours Saturday night — much longer than it
+otherwise would have, because the threat-intelligence and
+incident-response teams have been cut by 65 percent as CISA
+slashed funding, Rose said.</p>
+</blockquote>
+
+<p><a href="https://daringfireball.net/linked/2025/04/16/dingalings-cut-off-funding-for-cve">Another</a> DOGE success story.</p>
+
+<div>
+<a  title="Permanent link to ‘Hackers Exploit Zero-Day Microsoft SharePoint Exploit, Attacking Governments and Businesses Around the World’"  href="https://daringfireball.net/linked/2025/07/22/zero-day-microsoft-sharepoint-exploit">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Reuters: ‘Meta, X, and LinkedIn Appeal Unprecedented VAT Claim by Italy’</title>
 	<link rel="alternate" type="text/html" href="https://www.reuters.com/world/europe/meta-x-linkedin-appeal-unprecedented-vat-claim-by-italy-2025-07-21/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wh5" />
@@ -1994,26 +2071,6 @@ browser? Must be an oversight.</p>
 
     ]]></content>
   <title>★ Full-Screen Ad for ‘F1 The Movie’ in Apple’s TV App Linked Directly to the Web, and Nothing Bad Seemed to Happen</title></entry><entry>
-	<title>Phoenix.new</title>
-	<link rel="alternate" type="text/html" href="https://phoenix.new/?utm_source=df" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wfu" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/06/phoenix" />
-	<id>tag:daringfireball.net,2025:/linked//6.42042</id>
-	<published>2025-07-06T17:31:43Z</published>
-	<updated>2025-07-06T17:37:07Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>My thanks to <a href="https://fly.io/">Fly.io</a> for sponsoring last week at DF to promote Phoenix.new, their new AI app-builder. Just describe your idea, and Phoenix.new quickly generates a working real-time Phoenix app: clustering, pubsub, and presence included. Ideal for multiplayer games, collaborative tools, or quick weekend experiments. Built by <a href="https://fly.io/">Fly.io</a>, deploy wherever you want. Give it a try today.</p>
-
-<div>
-<a  title="Permanent link to ‘Phoenix.new’"  href="https://daringfireball.net/linked/2025/07/06/phoenix">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/06/apple_app_store_policy_updates_dma" />
 	<link rel="shorturl" href="http://df4.us/wfo" />
