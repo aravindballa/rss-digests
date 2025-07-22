@@ -7,14 +7,14 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-07-22T17:34:10Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-07-22T17:54:50Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>The Financial Times Reports the UK Is Backing Down From Its Demand for Apple to Grant It an iCloud Encryption Backdoor</title>
 	<link rel="alternate" type="text/html" href="https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wh9" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/22/uk-backing-down-on-apple-encryption-backdoor" />
 	<id>tag:daringfireball.net,2025:/linked//6.42093</id>
 	<published>2025-07-22T17:34:09Z</published>
-	<updated>2025-07-22T17:34:10Z</updated>
+	<updated>2025-07-22T17:54:50Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -48,7 +48,7 @@ line in the US — they don’t want us messing with their tech
 companies.”</p>
 </blockquote>
 
-<p>One dystopian element of the UK’s Investigatory Powers Act is that when companies are issued demands under the law — which critics in the UK call “the Snoopers’ Charter” — is that it’s a criminal offense subject to imprisonment to reveal to anyone that the UK government issued the demand. You will recall that after receiving this demand, in February this year <a href="https://daringfireball.net/2025/02/apple_pulls_advanced_data_protection_from_the_uk">Apple pulled iCloud Advanced Data Protection from users in the UK</a>.</p>
+<p>One dystopian element of the UK’s Investigatory Powers Act is that when companies are issued demands under the law — which critics in the UK call “the Snoopers’ Charter” — it’s a criminal offense subject to imprisonment to reveal to anyone that the UK government issued the demand. You will recall that after receiving this demand, in February this year <a href="https://daringfireball.net/2025/02/apple_pulls_advanced_data_protection_from_the_uk">Apple pulled iCloud Advanced Data Protection from users in the UK</a>.</p>
 
 <p>What I don’t like about the Financial Times’s framing of this is that they describe it only in terms of politics between the Trump administration and Starmer’s. This is not merely about a foreign government “messing with their tech companies”. It’s fundamentally about privacy and security. It is a human rights and civil liberties issue, first and foremost. The Trump administration is on the correct and just side of this issue. Whether they’re on the correct side for the right reasons, I don’t know, but that’s what’s most important here. A secret backdoor is abhorrent from all perspectives: privacy, security, civil liberties. (Not to mention impossible cryptographically with E2EE — mandating a backdoor is effectively banning E2EE, which is why Apple pulled Advanced Data Protection from the UK.)</p>
 
