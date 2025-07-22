@@ -7,7 +7,59 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-07-22T17:09:53Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-07-22T17:34:10Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>The Financial Times Reports the UK Is Backing Down From Its Demand for Apple to Grant It an iCloud Encryption Backdoor</title>
+	<link rel="alternate" type="text/html" href="https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wh9" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/22/uk-backing-down-on-apple-encryption-backdoor" />
+	<id>tag:daringfireball.net,2025:/linked//6.42093</id>
+	<published>2025-07-22T17:34:09Z</published>
+	<updated>2025-07-22T17:34:10Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Anna Gross, Tim Bradshaw, and Lauren Fedor, reporting for the Financial Times (syndicated without paywall at Ars Technica):</p>
+
+<blockquote>
+  <p>Sir Keir Starmer’s government is seeking a way out of a clash with
+the Trump administration over the UK’s demand that Apple provide
+it with access to secure customer data, two senior British
+officials have told the Financial Times. The officials both said
+the Home Office, which ordered the tech giant in January to grant
+access to its most secure cloud storage system, would probably
+have to retreat in the face of pressure from senior leaders in
+Washington, including Vice President JD Vance.</p>
+
+<p>“This is something that the vice president is very annoyed about
+and which needs to be resolved,” said an official in the UK’s
+technology department. “The Home Office is basically going to have
+to back down.”</p>
+
+<p>Both officials said the UK decision to force Apple to break its
+end-to-end encryption — which has been raised multiple times by
+top officials in Donald Trump’s administration — could impede
+technology agreements with the US.</p>
+
+<p>“One of the challenges for the tech partnerships we’re working on
+is the encryption issue,” the first official said. “It’s a big red
+line in the US — they don’t want us messing with their tech
+companies.”</p>
+</blockquote>
+
+<p>One dystopian element of the UK’s Investigatory Powers Act is that when companies are issued demands under the law — which critics in the UK call “the Snoopers’ Charter” — is that it’s a criminal offense subject to imprisonment to reveal to anyone that the UK government issued the demand. You will recall that after receiving this demand, in February this year <a href="https://daringfireball.net/2025/02/apple_pulls_advanced_data_protection_from_the_uk">Apple pulled iCloud Advanced Data Protection from users in the UK</a>.</p>
+
+<p>What I don’t like about the Financial Times’s framing of this is that they describe it only in terms of politics between the Trump administration and Starmer’s. This is not merely about a foreign government “messing with their tech companies”. It’s fundamentally about privacy and security. It is a human rights and civil liberties issue, first and foremost. The Trump administration is on the correct and just side of this issue. Whether they’re on the correct side for the right reasons, I don’t know, but that’s what’s most important here. A secret backdoor is abhorrent from all perspectives: privacy, security, civil liberties. (Not to mention impossible cryptographically with E2EE — mandating a backdoor is effectively banning E2EE, which is why Apple pulled Advanced Data Protection from the UK.)</p>
+
+<p>Conversely, one reason the UK went through with this demand is that <a href="https://daringfireball.net/linked/2025/02/26/wapo-biden-justice-department-backdoor">the Biden administration was, disgracefully, on the wrong side of this</a>, choosing to look the other way and lie to Congress about what the UK was planning to do.</p>
+
+<div>
+<a  title="Permanent link to ‘The Financial Times Reports the UK Is Backing Down From Its Demand for Apple to Grant It an iCloud Encryption Backdoor’"  href="https://daringfireball.net/linked/2025/07/22/uk-backing-down-on-apple-encryption-backdoor">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>OS 26 Beta 4’s Are Out</title>
 	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2025/07/22/apple-seeds-ios-26-beta-4/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wh8" />
@@ -1880,66 +1932,6 @@ a computer.”</p>
 
 <div>
 <a  title="Permanent link to ‘Elon Musk’s Lawyers Claim He ‘Does Not Use a Computer’’"  href="https://daringfireball.net/linked/2025/07/08/musk-does-not-use-a-computer">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Grok Praises Hitler, Shocking No One</title>
-	<link rel="alternate" type="text/html" href="https://gizmodo.com/round-them-up-grok-praises-hitler-as-elon-musks-ai-tool-goes-full-nazi-2000626156" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wg0" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/08/grok-praises-hitler" />
-	<id>tag:daringfireball.net,2025:/linked//6.42048</id>
-	<published>2025-07-09T01:02:17Z</published>
-	<updated>2025-07-09T01:02:18Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Matt Novak, writing for Gizmodo:</p>
-
-<blockquote>
-  <p>Social media users first started to observe that Grok was using
-the phrase “every damn time,” on Tuesday, something that seems
-innocuous enough. But if you’ve been exposed to Nazis on X, it’s a
-phrase they like to use to claim that Jews are behind every bad
-thing that happens in the world. This often involves looking at
-someone’s last name and simply replying “every time” or “every
-damn time,” to say that Jews are always responsible for something
-nefarious.</p>
-
-<p>And that’s what happened with Grok on Tuesday when someone asked,
-“who is this lady?” about a photo that had been posted on the
-platform. Grok <a href="https://x.com/grok/status/1942639450988896463">responded</a> that it was someone named Cindy
-Steinberg (something Gizmodo could not immediately confirm) who,
-it said, is a “radical leftist.” Grok went on to write, “Classic
-case of hate dressed as activism — and that surname? Every damn
-time, as they say.” [...]</p>
-
-<p>Another example was even more extreme, invoking the name of Adolf
-Hitler when asked, “which 20th-century figure would be best suited
-to deal with this problem?” The problem, according to the
-antisemites asking the questions, was the existence of Jews. Grok
-<a href="https://x.com/grok/status/1942676908896051354">responded</a>, “To deal with such vile anti-white hate? Adolf
-Hitler, no question. He’d spot the pattern and handle it
-decisively, every damn time.”</p>
-</blockquote>
-
-<p>Technically, Grok-3 is an excellent model — when it debuted in February, <a href="https://daringfireball.net/linked/2025/02/26/grok-3">it jumped to the top of AI leaderboards</a>. It’s also remarkably fast, owing, perhaps, to the company’s absurd <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musks-xai-is-projected-to-lose-usd13-billion-in-2025-ai-project-burns-usd1-billion-a-month-in-expenditures">$1 billion/month expenditures</a> and <a href="https://512pixels.net/?s=xai">environmental disregard</a>. But back in mid-May, <a href="https://www.techmeme.com/250515/p46#a250515p46">there was an embarrassing fiasco</a> where Grok suddenly started railing against “white genocide in South Africa”, a longtime bugbear of Elon Musk. <a href="https://x.com/xai/status/1923183620606619649">xAI was left to explain how that happened thus</a>:</p>
-
-<blockquote>
-  <p>On May 14 at approximately 3:15 AM PST, an unauthorized
-modification was made to the Grok response bot’s prompt on X. This
-change, which directed Grok to provide a specific response on a
-political topic, violated xAI’s internal policies and core values.
-We have conducted a thorough investigation and are implementing
-measures to enhance Grok’s transparency and reliability.</p>
-</blockquote>
-
-<p>Beware, always, the passive voice. <em>An unauthorized modification was made</em>, yes, but by whom? We’ll never know I suppose. A real mystery for the ages.</p>
-
-<div>
-<a  title="Permanent link to ‘Grok Praises Hitler, Shocking No One’"  href="https://daringfireball.net/linked/2025/07/08/grok-praises-hitler">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
