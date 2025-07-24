@@ -7,7 +7,74 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-07-23T21:08:09Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-07-24T16:25:37Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/07/iceblock" />
+	<link rel="shorturl" href="http://df4.us/whb" />
+	<id>tag:daringfireball.net,2025://1.42095</id>
+	<published>2025-07-24T16:15:12Z</published>
+	<updated>2025-07-24T16:25:37Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">To maintain anonymity and store zero user data, there is and can be no web app version of ICEBlock. There is and can be no Android version. Only iOS supports the security and privacy features for ICEBlock to offer what it does, the way it does.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p><a href="https://www.iceblock.app/">ICEBlock</a>:</p>
+
+<blockquote>
+  <p>ICEBlock is an innovative, completely anonymous crowdsourced
+platform that allows users to report Immigration and Customs
+Enforcement (ICE) activity with just two taps on their phone. In
+recent years, ICE has faced criticism for alleged civil rights
+abuses and failures to adhere to constitutional principles and due
+process, making it crucial for communities to stay informed about
+its operations.</p>
+
+<p>Modeled after Waze but for ICE sightings, the app ensures user
+privacy by storing no personal data, making it impossible to trace
+reports back to individual users. Available exclusively for iOS
+devices, ICEBlock empowers communities to stay informed about ICE
+presence within a 5-mile radius while maintaining their anonymity
+through real-time updates and automatic deletion of sightings
+after four hours.</p>
+</blockquote>
+
+<p>The ICEBlock app is interesting in and of itself (and from my tire-kicking test drive, appears to be a well-crafted and designed app), as will be Apple’s response if (when?) the Trump administration takes offense to the app’s existence. Back in 2019, kowtowing to tacit demands from China, <a href="https://daringfireball.net/linked/2019/10/10/apple-pulls-hkmaps">Apple removed from the App Store an app called HKmap.live</a>, an app that helped pro-democracy activists in Hong Kong know the location of police and protest activity. The app broke no Hong Kong laws, but <a href="https://www.npr.org/2019/10/10/768841864/after-china-objects-apple-removes-app-used-by-hong-kong-protesters">scared the thin-skinned skittish lickspittles in the Chinese Communist Party</a>. (Remember too that in 2019, <a href="https://daringfireball.net/linked/2019/10/07/taiwan-flag-emoji">Apple removed the Taiwan flag emoji</a> (🇹🇼) from the iOS 13 keyboard for users in Hong Kong and Macau.)</p>
+
+<p>One defense from Apple regarding HKmap.live, however, was that the iOS app was a thin wrapper around the website, and website remained fully functional and could be saved to an iPhone user’s home screen. Removing the app from the App Store thus did not prevent Hong Kongers from accessing it. (<a href="https://hkmap.live/">That website</a> today <a href="https://en.wikipedia.org/wiki/HKmap.live">seems to be defunct</a>.)</p>
+
+<p>ICEBlock is different. It is <em>only</em> available as a native iOS app. According to the developers, this is for technical reasons. From their web page explaining <a href="https://www.iceblock.app/android">why they <em>can’t</em> offer an Android version</a>:</p>
+
+<blockquote>
+  <p>At ICEBlock, user privacy and security are paramount. Our
+application is designed to provide as much anonymity as possible
+without storing any user data or creating accounts. While we
+understand the desire for an Android version of ICEBlock,
+achieving this level of anonymity on Android is not feasible due
+to the inherent requirements of push notification services.</p>
+
+<p>To send push notifications on Android, it is necessary to use a
+mechanism that requires storing device IDs. This means that we
+would need to maintain a privately hosted database to store these
+identifiers. Storing such data, even if it’s anonymized,
+introduces significant privacy risks. [...]</p>
+
+<p>In contrast, iOS offers us the flexibility to deliver push
+notifications while adhering strictly to our design philosophy.
+Apple’s ecosystem allows for push notifications to be sent without
+requiring us to store any user-identifiable information. This
+ensures that ICEBlock remains completely anonymous and secure.</p>
+</blockquote>
+
+<p>To deliver push notifications on Android, the developers claim they would need to maintain a database of device IDs, create a user account system to manage those device IDs, and all of that server-stored data would be susceptible to law enforcement subpoenas and pro-ICE red hat hackers. (What “brown shirts” were to the Nazis, we should make “red hats” to MAGA.)</p>
+
+<p>To maintain anonymity and store zero user data, there is and can be no web app version of ICEBlock. There is and can be no Android version. Only iOS supports the security and privacy features for ICEBlock to offer what it does, the way it does. Here’s to hoping that Apple will proudly defend it if push comes to shove.</p>
+
+
+
+    ]]></content>
+  <title>★ ICEBlock, an iOS Exclusive</title></entry><entry>
 	<title>Yours Truly With David Barnard on the Sub Club Podcast</title>
 	<link rel="alternate" type="text/html" href="https://subclub.com/episode/the-past-present-and-future-of-building-on-apple-john-gruber-daring-fireball" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wha" />
@@ -2141,30 +2208,4 @@ and plan to appeal.”</p>
 
 
     ]]></content>
-  <title>★ Apple Announces Sweeping but Complicated Policy Changes for Apps in the EU, Attempting to Comply With the Latest Dictums Regarding the DMA</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad" />
-	<link rel="shorturl" href="http://df4.us/wfi" />
-	<id>tag:daringfireball.net,2025://1.42030</id>
-	<published>2025-06-27T17:28:19Z</published>
-	<updated>2025-06-28T22:46:34Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">Sending this ad is completely destructive to all the hard work other teams at Apple have done to make Apple Wallet actually private — and, more importantly, *to get users to believe that it’s private*.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p><a href="https://mastodon.social/@czeins/114739403773350112">This is a funny gag from Claude Zeins</a>, but if you think about it, it shows just how destructive Apple’s decision was <a href="https://daringfireball.net/linked/2025/06/26/apple-wallet-sends-push-notification-ad-pushing-f1-the-movie">to send a push notification from the Wallet app promoting <em>F1 The Movie</em></a>.</p>
-
-<!-- Backup: https://daringfireball.net/misc/2025/06/claude-zeins-f1-wallet-gag.jpeg -->
-
-<p>It’s a fact that no company can inject an ad into your physical wallet. It just can’t happen. So if Apple’s message to users is that they should trust Apple Wallet, and move more of their “shit that goes in your wallet” life from their traditional analog wallet into their digital Apple Wallet, that’s the bar. No ads, ever. They’re competing against the privacy and intimacy of one of the most personal things people carry with them.</p>
-
-<p>It’s not just that many people find ads annoying, no matter where they appear. It’s that Apple Wallet ought to be sacrosanct — like the Passwords and Journal apps. Apple is asking us to trust this app with our finances, our <a href="https://learn.wallet.apple/id">identity cards</a>, and our keys. I’m 99.9 percent certain this <em>F1</em> ad was just blasted out to zillions of Wallet users indiscriminately, but some number of users who got it — especially people who know they’re in the demographic for the movie — surely think they got the ad because Wallet is tracking their interests and activities. Like, what if you recently bought tickets to see another summer blockbuster movie? Using Apple Wallet? And then you got this ad? It’d be completely sensible to be spooked by that, and conclude that Apple Wallet is tracking you.</p>
-
-<p>Sending this ad is completely destructive to all the hard work other teams at Apple have done to make Apple Wallet actually private — and, more importantly, <em>to get users to believe that it’s private</em>. That Apple can be trusted in ways that other “big tech” companies cannot. The perception of privacy is just as important as the technical details that make something actually private. I try very seldom to call for anyone to be fired, but I think whoever authorized this movie ad through Wallet push notifications ought to be canned.</p>
-
-
-
-    ]]></content>
-  <title>★ More on Apple’s Trust-Eroding ‘F1 The Movie’ Wallet Ad</title></entry></feed><!-- THE END -->
+  <title>★ Apple Announces Sweeping but Complicated Policy Changes for Apps in the EU, Attempting to Comply With the Latest Dictums Regarding the DMA</title></entry></feed><!-- THE END -->
