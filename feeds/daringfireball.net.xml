@@ -7,14 +7,78 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-07-26T17:42:39Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-07-26T18:00:38Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Intel Needs a Big Customer for Foundry Business to Survive</title>
+	<link rel="alternate" type="text/html" href="https://www.reuters.com/world/asia-pacific/intels-foundry-future-depends-securing-customer-next-gen-chipmaking-tech-2025-07-25/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/whg" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/26/intel-needs-a-big-customer" />
+	<id>tag:daringfireball.net,2025:/linked//6.42100</id>
+	<published>2025-07-26T18:00:37Z</published>
+	<updated>2025-07-26T18:00:38Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Max A. Cherney and Stephen Nellis, reporting for Reuters:</p>
+
+<blockquote>
+  <p>Those customers for the company’s so-called 14A manufacturing
+process are crucial to the success of the technology - so much so
+that if it fails to secure a big one, it could shut down its
+cutting-edge manufacturing business altogether, according to
+Intel’s quarterly filing on Thursday.</p>
+
+<p>The possibility that Intel could drop out of the cutting-edge
+manufacturing business would be a historic shift for a company
+that has described itself as a steward of Moore’s Law - an
+observation by Intel co-founder Gordon Moore about the fast rate
+of development of the chip industry that held true for decades.
+Intel is the only U.S. chipmaker capable of making advanced
+computing chips.</p>
+
+<p>Intel has struggled for years due to <a href="https://www.reuters.com/technology/inside-intel-ceo-pat-gelsinger-fumbled-revival-an-american-icon-2024-10-29/">management missteps</a>,
+missing out on the AI race and losing market share to its longtime
+rival AMD.</p>
+</blockquote>
+
+<p>The beginning of the end for Intel was long before the AI race or the market share they’ve lost to AMD. It was missing out on mobile. From <a href="https://www.theatlantic.com/technology/archive/2013/05/paul-otellinis-intel-can-the-company-that-built-the-future-survive-it/275825/">a 2013 profile of then-CEO Paul Ortellini</a>, by Alexis Madrigal for The Atlantic:</p>
+
+<blockquote>
+  <p>But, oh, what could have been! Even Otellini betrayed a profound
+sense of disappointment over a decision he made about a
+then-unreleased product that became the iPhone. Shortly after
+<a href="http://www.youtube.com/watch?v=JkUpQZxLv4g">winning Apple’s Mac business</a>, he decided against doing what it
+took to be the chip in Apple’s paradigm-shifting product.</p>
+
+<p>“We ended up not winning it or passing on it, depending on how you
+want to view it. And the world would have been a lot different if
+we’d done it,” Otellini told me in a two-hour conversation during
+his last month at Intel. “The thing you have to remember is that
+this was before the iPhone was introduced and no one knew what the
+iPhone would do... At the end of the day, there was a chip that
+they were interested in that they wanted to pay a certain price
+for and not a nickel more and that price was below our forecasted
+cost. I couldn’t see it. It wasn’t one of these things you can
+make up on volume. And in hindsight, the forecasted cost was wrong
+and the volume was 100× what anyone thought.”</p>
+</blockquote>
+
+<p>That was it, the beginning of the end. It’s not just that mobile computing, as defined by the iPhone, became the largest market, by far, for chips, but that the needs of mobile devices defined the future of leading edge chipmaking across all industries: performance-per-watt, not merely sheer performance. As mobile grew, so went the economies of scale, which resulted in Apple Silicon eventually beating x86 chips not just in performance-per-watt but also in single-core performance.</p>
+
+<div>
+<a  title="Permanent link to ‘Intel Needs a Big Customer for Foundry Business to Survive’"  href="https://daringfireball.net/linked/2025/07/26/intel-needs-a-big-customer">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>goo.gl, Google’s Link Shortener, Will Stop Working Next Month</title>
 	<link rel="alternate" type="text/html" href="https://www.theverge.com/news/713125/google-url-shortener-links-shutdown-deadline" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/whf" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/26/google-link-shortener" />
 	<id>tag:daringfireball.net,2025:/linked//6.42099</id>
 	<published>2025-07-26T17:30:22Z</published>
-	<updated>2025-07-26T17:33:06Z</updated>
+	<updated>2025-07-26T17:56:35Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -37,7 +101,7 @@ them had no activity in the last month,” Google said in its <a href="https://d
 2024 blog post</a>.</p>
 </blockquote>
 
-<p>They heyday for link shorteners was the era when Twitter (a) was still Twitter, (b) had a 140-character post limit, and (c) each character of a URL you tweeted counted toward that character limit. None of those things are true anymore. But, still. <a href="https://www.w3.org/Provider/Style/URI">Cool URLs don’t change</a>.</p>
+<p>The heyday for link shorteners was the era when Twitter (a) was still Twitter, (b) had a 140-character post limit, and (c) each character of a URL you tweeted counted toward that character limit. None of those things are true anymore. But, still. <a href="https://www.w3.org/Provider/Style/URI">Cool URLs don’t change</a>.</p>
 
 <p>I’m sure it is true that 99 percent of goo.gl links have no activity in the past month. But I’m just as sure that it would cost next to nothing for Google to keep goo.gl up and running in perpetuity. It’s fine that they stopped allowing for the creating of new links, but there’s no reason they should ever stop redirecting existing links. The whole reason anyone might have used goo.gl instead of something like <a href="https://bit.ly/">bit.ly</a> is misplaced trust in Google. I trust Google with almost nothing long-term. Mark my words, they’re going to do with this Gmail accounts eventually.</p>
 
@@ -1899,52 +1963,6 @@ was necessary to justify the ITC’s decision.</p>
 
 <div>
 <a  title="Permanent link to ‘Moft’s MagSafe-Compatible Snap-On iPhone Stand and Wallet’"  href="https://daringfireball.net/linked/2025/07/11/moft-snap-on-iphone-stand-wallet">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Linda Yaccarino Resigns as ‘CEO’ of X</title>
-	<link rel="alternate" type="text/html" href="https://x.com/lindayaX/status/1942957094811951197" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wg7" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/10/yaccarino-out" />
-	<id>tag:daringfireball.net,2025:/linked//6.42055</id>
-	<published>2025-07-10T22:21:24Z</published>
-	<updated>2025-07-10T22:21:25Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Linda Yaccarino, in a post on X yesterday:</p>
-
-<blockquote>
-  <p>After two incredible years, I’ve decided to step down as CEO of X.</p>
-
-<p>When @elonmusk and I first spoke of his vision for X, I knew it
-would be the opportunity of a lifetime to carry out the
-extraordinary mission of this company. I’m immensely grateful to
-him for entrusting me with the responsibility of protecting free
-speech, turning the company around, and transforming X into the
-Everything App.</p>
-</blockquote>
-
-<p><a href="https://daringfireball.net/2022/10/everything">I thought it couldn’t be done</a>, but here we are today, using X for everything: news, banking, shopping, payments, messaging. It’s the only app most people use.</p>
-
-<p><a href="https://www.theguardian.com/technology/2025/jul/10/linda-yaccarino-resigns-x-elon-musk">The Guardian, reporting on her departure</a>:</p>
-
-<blockquote>
-  <p>After more than two years of Yaccarino running damage control for
-her boss and the platform’s myriad issues, Musk issued only a
-brief statement acknowledging she was stepping down.</p>
-
-<p>“Thank you for your contributions,” Musk responded to Yaccarino’s
-post announcing her resignation. Minutes later, he began sending
-replies to other posts about SpaceX, artificial intelligence and
-how his chatbot became a Nazi.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘Linda Yaccarino Resigns as ‘CEO’ of X’"  href="https://daringfireball.net/linked/2025/07/10/yaccarino-out">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
