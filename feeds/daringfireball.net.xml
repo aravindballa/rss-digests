@@ -7,14 +7,14 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-07-26T19:50:23Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-07-26T20:26:39Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>SafeBase by Drata</title>
 	<link rel="alternate" type="text/html" href="https://safebase.io/lp/why-safebase/?utm_source=daring_fireball&amp;utm_medium=display&amp;utm_campaign=18991230_sb_tc_campaign_DG_ENT_" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/whj" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/26/safebase-by-drata" />
 	<id>tag:daringfireball.net,2025:/linked//6.42103</id>
-	<published>2025-07-26T19:50:23Z</published>
-	<updated>2025-07-26T19:50:23Z</updated>
+	<published>2025-07-26T20:20:00Z</published>
+	<updated>2025-07-26T20:26:09Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -24,6 +24,56 @@
 
 <div>
 <a  title="Permanent link to ‘SafeBase by Drata’"  href="https://daringfireball.net/linked/2025/07/26/safebase-by-drata">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>To Trust ICEBlock’s Anonymity, You Have to Trust Apple</title>
+	<link rel="alternate" type="text/html" href="https://www.theverge.com/cyber-security/707116/iceblock-data-privacy-security-android-version" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/whk" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/26/iceblock-trust-apple" />
+	<id>tag:daringfireball.net,2025:/linked//6.42104</id>
+	<published>2025-07-26T20:18:46Z</published>
+	<updated>2025-07-26T20:24:19Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Dominic Preston, writing at The Verge, regarding Android fans’ bristling at ICEBlock developer Joshua Aaron’s claims that an Android (or web) version of ICEBlock couldn’t provide the same level of privacy as the iOS version:</p>
+
+<blockquote>
+  <p>Aaron told The Verge ICEBlock is built around a single database in
+iCloud. When a user taps on the map to report ICE sightings, the
+location data is added to that database, and users within five
+miles are automatically sent a push notification alerting them.
+Push notifications require developers to have some way of
+designating which devices receive them, and while Aaron declined
+to say precisely how the notifications function, he said alerts
+are sent through Apple’s system, not ICEBlock’s, letting him avoid
+keeping his own database of users or their devices. “We utilized
+iCloud in kind of a creative way,” Aaron said. [...]</p>
+
+<p>But you might have spotted the problem: ICEBlock isn’t collecting
+device data on iOS, but only because similar data is stored with
+Apple instead.</p>
+
+<p>Apple maintains a database of which devices and accounts have
+installed a given app, and Carlos Anso from GrapheneOS told me
+that it likely also tracks device registrations for push
+notifications. For either ICEBlock’s iOS app or a hypothetical
+Android app, law enforcement could demand information directly
+from the company, cutting ICEBlock out of the loop. Aaron told me
+that he has “no idea what Apple would store,” and it “has nothing
+to do with ICEBlock.”</p>
+</blockquote>
+
+<p><a href="https://www.schneier.com/blog/archives/2025/07/security-vulnerabilities-in-iceblock.html">Bruce Schneier linked to this story</a> saying “the ICEBlock tool has vulnerabilities”, but I don’t think that’s a fair description. As far as we know, ICEBlock is as private as possible while still enabling push notifications, and a hypothetical Android version couldn’t be as private. But that privacy does depend on trust in Apple.</p>
+
+<p><strong>Also worth a note:</strong> Aaron’s wife, Carolyn Feinstein, was an auditor at the Department of Justice but <a href="https://www.newsweek.com/iceblock-app-founder-wife-fired-doj-carolyn-feinstein-2102214">was fired last month because of her husband’s app</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘To Trust ICEBlock’s Anonymity, You Have to Trust Apple’"  href="https://daringfireball.net/linked/2025/07/26/iceblock-trust-apple">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
@@ -85,7 +135,7 @@ chose the latter.”</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/26/intel-needs-a-big-customer" />
 	<id>tag:daringfireball.net,2025:/linked//6.42100</id>
 	<published>2025-07-26T18:00:37Z</published>
-	<updated>2025-07-26T18:00:38Z</updated>
+	<updated>2025-07-26T20:26:39Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -113,7 +163,7 @@ missing out on the AI race and losing market share to its longtime
 rival AMD.</p>
 </blockquote>
 
-<p>The beginning of the end for Intel was long before the AI race or the market share they’ve lost to AMD. It was missing out on mobile. From <a href="https://www.theatlantic.com/technology/archive/2013/05/paul-otellinis-intel-can-the-company-that-built-the-future-survive-it/275825/">a 2013 profile of then-CEO Paul Ortellini</a>, by Alexis Madrigal for The Atlantic:</p>
+<p>The beginning of the end for Intel was long before the AI race or the market share they’ve lost to AMD. It was missing out on mobile. From <a href="https://www.theatlantic.com/technology/archive/2013/05/paul-otellinis-intel-can-the-company-that-built-the-future-survive-it/275825/">a 2013 profile of then-CEO Paul Otellini</a>, by Alexis Madrigal for The Atlantic:</p>
 
 <blockquote>
   <p>But, oh, what could have been! Even Otellini betrayed a profound
@@ -297,7 +347,7 @@ direct analogue on other platforms.</p>
 	<link rel="shorturl" href="http://df4.us/whb" />
 	<id>tag:daringfireball.net,2025://1.42095</id>
 	<published>2025-07-24T16:15:12Z</published>
-	<updated>2025-07-24T18:47:23Z</updated>
+	<updated>2025-07-26T20:11:16Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -1876,26 +1926,6 @@ classic beige of course).</p>
 
 <div>
 <a  title="Permanent link to ‘‘Classic Web’ on Mastodon’"  href="https://daringfireball.net/linked/2025/07/13/classic-web">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Drata</title>
-	<link rel="alternate" type="text/html" href="http://drata.com/daring/?utm_source=Daring_Fireball&amp;utm_medium=display&amp;utm_campaign=18991230_fy26_comm_DG_COMM_&amp;utm_content=demo_request" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wgb" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/13/drata" />
-	<id>tag:daringfireball.net,2025:/linked//6.42059</id>
-	<published>2025-07-13T19:26:31Z</published>
-	<updated>2025-07-13T19:26:32Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>My thanks to Drata for sponsoring this last week at DF. Their message is short and sweet: Automate compliance. Streamline security. Manage risk. Drata delivers the world’s most advanced Trust Management platform.</p>
-
-<div>
-<a  title="Permanent link to ‘Drata’"  href="https://daringfireball.net/linked/2025/07/13/drata">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
