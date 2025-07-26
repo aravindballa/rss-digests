@@ -7,7 +7,46 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-07-26T14:48:42Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-07-26T17:31:43Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>goo.gl, Google’s Link Shortener, Will Stop Working Next Month</title>
+	<link rel="alternate" type="text/html" href="https://www.theverge.com/news/713125/google-url-shortener-links-shutdown-deadline" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/whf" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/26/google-link-shortener" />
+	<id>tag:daringfireball.net,2025:/linked//6.42099</id>
+	<published>2025-07-26T17:30:22Z</published>
+	<updated>2025-07-26T17:31:43Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Emma Roth, The Verge:</p>
+
+<blockquote>
+  <p>Google will officially deprecate links generated with its URL
+shortening tool next month. On August 25th, 2025, all links in the
+<code>https://goo.gl/*</code> format will no longer work and return a 404
+error message.</p>
+
+<p>Google <a href="https://www.theverge.com/2018/3/31/17184164/google-alphabet-url-shortening-service-closed">shut down its URL shortener in 2019</a>, citing “changes
+we’ve seen in how people find content on the internet.” Links
+created with the tool continued to work since then, but Google
+<a href="https://www.theverge.com/2024/7/19/24201734/google-url-link-shortening-service-shut-down-support">announced last year</a> that it would begin deprecating them as
+traffic to the shortened URLs declined. “In fact more than 99% of
+them had no activity in the last month,” Google said in its <a href="https://developers.googleblog.com/en/google-url-shortener-links-will-no-longer-be-available/">July
+2024 blog post</a>.</p>
+</blockquote>
+
+<p>They heyday for link shorteners was the era when Twitter (a) was still Twitter, (b) had a 140-character post limit, and (c) each character of a URL you tweeted counted toward that character limit. None of those things are true anymore. But, still. <a href="https://www.w3.org/Provider/Style/URI">Cool URLs don’t change</a>.</p>
+
+<p>I’m sure it is true that 99 percent of goo.gl links have no activity in the past month. But I’m just as sure that it would cost next to nothing for Google to keep goo.gl up and running in perpetuity. It’s fine that they stopped allowing for the creating of new links, but there’s no reason they should ever stop redirecting existing links. I trust Google with almost nothing long-term. Mark my words, they’re going to do with this Gmail accounts eventually.</p>
+
+<div>
+<a  title="Permanent link to ‘goo.gl, Google’s Link Shortener, Will Stop Working Next Month’"  href="https://daringfireball.net/linked/2025/07/26/google-link-shortener">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>4chan Clowns Find Open Database of Images From Viral Women’s Dating Safety App ‘Tea’</title>
 	<link rel="alternate" type="text/html" href="https://www.404media.co/women-dating-safety-app-tea-breached-users-ids-posted-to-4chan/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/whe" />
@@ -1906,39 +1945,6 @@ how his chatbot became a Nazi.</p>
 
 <div>
 <a  title="Permanent link to ‘Linda Yaccarino Resigns as ‘CEO’ of X’"  href="https://daringfireball.net/linked/2025/07/10/yaccarino-out">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Yours Truly on Crossword, With Jonathan Wold and Luke Carbis</title>
-	<link rel="alternate" type="text/html" href="https://crossword.fm/s09/e13/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wg6" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/10/yours-truly-on-crossword" />
-	<id>tag:daringfireball.net,2025:/linked//6.42054</id>
-	<published>2025-07-10T19:46:24Z</published>
-	<updated>2025-07-11T01:11:32Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jonathan Wold and Luke Carbis cohost a podcast called Crossword, focusing mainly on WordPress and the open web. They occasionally invite guests to join them, and it was my pleasure to join them on their latest episode:</p>
-
-<blockquote>
-  <p>John Gruber’s Dithering podcast with Ben Thompson was the original
-inspiration for Crossword’s 15-minute format. Five years later,
-John joins Luke and Jonathan for a wide-ranging conversation
-covering open versus closed platforms, the history and impact of
-Markdown, and a missed opportunity in WordPress. Luke goes on
-about the good old days, Jonathan starts thinking about a rival
-platform, and John makes a prediction for the ten-year follow-up
-episode.</p>
-</blockquote>
-
-<p>While their usual format is a <a href="https://dithering.fm/">Dithering</a>-esque 15 minutes, these special “perspectives” interviews run long. And unsurprisingly, mine ran long. I don’t write about the open web as much as I used to but I care about it as much as ever. I express some of my deep concerns <a href="https://daringfireball.net/2024/11/regarding_and_well_against_substack">about Substack in particular</a> in this interview.</p>
-
-<div>
-<a  title="Permanent link to ‘Yours Truly on Crossword, With Jonathan Wold and Luke Carbis’"  href="https://daringfireball.net/linked/2025/07/10/yours-truly-on-crossword">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
