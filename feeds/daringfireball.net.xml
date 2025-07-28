@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-07-28T21:30:19Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-07-28T22:44:01Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	
 	<link rel="alternate" type="text/html" href="https://helloweather.com/" />
 	<link rel="shorturl" href="http://df4.us/whn" />
@@ -39,7 +39,7 @@
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/28/nrsc-letter-ios-26" />
 	<id>tag:daringfireball.net,2025:/linked//6.42106</id>
 	<published>2025-07-28T20:46:59Z</published>
-	<updated>2025-07-28T21:30:19Z</updated>
+	<updated>2025-07-28T22:44:01Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -74,7 +74,9 @@ entirely at the mercy of Apple’s unclear rules. How will a voter
 reply if they never get the message?</p>
 </blockquote>
 
-<p>Apple’s “rules” for this new feature aren’t unclear at all. If a sender is not in your saved contacts and you’ve never sent or responded to a text message from them, they’re considered “unknown”. That’s it. (The feature isn’t even really new — you’ve been able to <a href="https://support.apple.com/guide/iphone/block-filter-and-report-messages-iph203ab0be4/ios">filter messages like this in Messages for years now</a>, but what iOS 26 changes is that it’s now going to be on by default, and has a new more prominent — better, IMO — interface for switching between filter views.) Back to the NRSC letter:</p>
+<p>Apple’s “rules” for this new feature aren’t unclear at all. If a sender is not in your saved contacts and you’ve never sent or responded to a text message from them, they’re considered “unknown”. That’s it. The feature isn’t even really new — you’ve been able to <a href="https://support.apple.com/guide/iphone/block-filter-and-report-messages-iph203ab0be4/ios">filter messages like this in Messages for years now</a>, but what iOS 26 changes is that it now <s>will be on by default and</s> has a new more prominent — better, IMO — interface for switching between filter views. <strong>Update:</strong> I was wrong that this filtering will be on by default in iOS 26 — I was fooled because I had previously enabled “Filter Unknown Senders” in Settings → Apps → Messages → Unknown &amp; Spam (which you need to scroll down quite a bit to get to). I do think, though, that many more iOS users will be using this feature starting with iOS 26 — it’s both better designed and less hidden.</p>
+
+<p>Back to the NRSC letter:</p>
 
 <blockquote>
   <p>Here’s the shift in practice. Today, a voter with an iPhone gets
