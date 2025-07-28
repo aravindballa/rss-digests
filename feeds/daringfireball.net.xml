@@ -7,7 +7,76 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-07-28T16:35:31Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-07-28T20:47:22Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Republican Election Group Is Attempting to Organize Against Text Message Filtering in iOS 26</title>
+	<link rel="alternate" type="text/html" href="https://politicalwire.com/2025/07/28/republicans-say-apple-update-will-hurt-fundraising/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/whm" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/28/nrsc-letter-ios-26" />
+	<id>tag:daringfireball.net,2025:/linked//6.42106</id>
+	<published>2025-07-28T20:46:59Z</published>
+	<updated>2025-07-28T20:47:22Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>From <a href="https://punchbowl.news/article/senate/nrsc-apple-ios-fundraising/">this paywalled report at Punchbowl News</a>, as quoted by Taegan Goddard at Political Wire:</p>
+
+<blockquote>
+  <p>“The Senate GOP campaign arm <a href="https://punchbowl.news/nrsc-letter/">is warning</a> that Apple’s new
+iOS update could cost them $25 million in fundraising revenue, as
+well as priceless GOTV opportunities,” <a href="https://punchbowl.news/archive/72825-midday-2/">Punchbowl News</a>
+reports.</p>
+</blockquote>
+
+<p><a href="https://daringfireball.net/misc/2025/07/nrsc-letter-ios-26.jpeg">Here’s a copy of the original memo from the NRSC</a> (National Republican Senatorial Committee). What they’re freaking out about is the new iOS 26 Messages feature (which will be available in Messages on iPadOS and MacOS 26 too — but because these messages are sent as SMS and because the iPhone is so many people’s primary or sole messaging device, it’s the platform they’re focusing on) <a href="https://9to5mac.com/2025/07/03/ios-26s-messages-app-has-a-solution-coming-for-unwanted-texts/">that will automatically sort messages from unknown senders</a> into a new “Unknown Sender” inbox.</p>
+
+<p>Quoting from <a href="https://daringfireball.net/misc/2025/07/nrsc-letter-ios-26.jpeg">the NRSC letter</a> (emphasis in original):</p>
+
+<blockquote>
+  <p>It’s important to understand: Apple isn’t just targeting cold
+outreach or spammy actors. Every political message — shortcode,
+long code, doesn’t matter-gets pushed into the dark. The only
+workaround-getting a voter to reply — is increasingly rare and
+entirely at the mercy of Apple’s unclear rules. How will a voter
+reply if they never get the message?</p>
+</blockquote>
+
+<p>Apple’s “rules” for this new feature aren’t unclear at all. If a sender is not in your saved contacts and you’ve never sent or responded to a text message from them, they’re considered “unknown”. That’s it. (The feature isn’t even really new — you’ve been able to <a href="https://support.apple.com/guide/iphone/block-filter-and-report-messages-iph203ab0be4/ios">filter messages like this in Messages for years now</a>, but what iOS 26 changes is that it’s now going to be on by default, and has a new more prominent — better, IMO — interface for switching between filter views.) Back to the NRSC letter:</p>
+
+<blockquote>
+  <p>Here’s the shift in practice. Today, a voter with an iPhone gets
+our message just like a normal text. In iOS 26, unless that
+person has already replied, our message is silently sent to the
+“Unknown” inbox. No ping, no badge, just buried in an inbox few
+people ever check.</p>
+
+<p>We’ve spent years complying with rigorous standards — providing full
+documentation, opt-in proof, and message samples via Campaign
+Verify and The Campaign Registry — yet Apple ignores that. <em>Carriers
+respect it. Apple doesn’t.</em></p>
+
+<p>Estimated prospecting losses: <em>NRSC alone could see a $25M+
+revenue hit</em>. Since 70% of small-dollar donations come via text,
+and iPhones make up 60% of US mobile devices, <em>the macro effect
+could be over $500M in lost GOP revenue</em>. [...]</p>
+
+<p>Unfortunately, K St and trade groups are asleep at the wheel.
+Apple isn’t engaging. But we have only a few weeks left before the
+public release. <em>If we’re going to push back, it has to be now. We
+have a very narrow window to fix this.</em></p>
+</blockquote>
+
+<p>“Unknown Senders” isn’t spam. It’s for ... unknown senders. Which these political texts are. I don’t know anyone who enjoys getting these texts in their primary timeline of messages. What the NRSC is asserting here is that they have a right to put political solicitations in your primary Messages view, and to have them appear as notifications, which is ridiculous.</p>
+
+<p>Also, there’s no reason to believe that Republican candidates and groups will be more affected by this than Democratic ones. There’s no filtering by message content. It’s just a change to stop sending notifications for texts from unknown senders, and to put those messages in a separate timeline by default. People <em>will</em> check the Unknown Senders timeline occasionally too — all sorts of text messages from bots will go there, including some you want or need.</p>
+
+<div>
+<a  title="Permanent link to ‘Republican Election Group Is Attempting to Organize Against Text Message Filtering in iOS 26’"  href="https://daringfireball.net/linked/2025/07/28/nrsc-letter-ios-26">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Adam Aaronson Drank Every Cocktail</title>
 	<link rel="alternate" type="text/html" href="https://aaronson.org/blog/i-drank-every-cocktail" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/whl" />
@@ -1910,44 +1979,6 @@ truth, here’s a suggested rewrite of that Bluesky post.</p>
 
 <div>
 <a  title="Permanent link to ‘Experts Said This Was a Damn Clever Post by Jason Kottke’"  href="https://daringfireball.net/linked/2025/07/14/kottke-experts-said">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Reborn Commodore Is Taking Pre-Orders for New Commodore 64 Models</title>
-	<link rel="alternate" type="text/html" href="https://www.commodore.net/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wgd" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/14/commodore-64-ultimate" />
-	<id>tag:daringfireball.net,2025:/linked//6.42061</id>
-	<published>2025-07-14T19:29:56Z</published>
-	<updated>2025-07-19T22:10:29Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Last year, retro computing YouTuber Christian “Peri Fractic” Simpson <s>bought</s> <a href="https://tedium.co/2025/06/19/peri-fractic-retro-recipes-commodore-profile/">licensed the branding rights and some of the IP</a> belonging to Commodore (which rights have been transferred five times since the original company went bankrupt in 1994). Last week they launched their first product:</p>
-
-<blockquote>
-  <p>This is the first real Commodore computer in over 30 years, and
-it’s picked up a few new tricks.</p>
-
-<p>Not an emulator. Not a PC. Retrogaming heaven in three dimensions:
-<em>silicon, nostalgia, and light</em>. Powered by a FPGA recreation of the
-original motherboard, wrapped in glowing game-reactive LEDs (or
-classic beige of course).</p>
-</blockquote>
-
-<p><a href="https://tedium.co/2025/07/12/commodore-revival-community/">Via Ernie Smith</a>, who has been <a href="https://tedium.co/2025/06/19/peri-fractic-retro-recipes-commodore-profile/">following this saga thoughtfully</a>.</p>
-
-<p>This is, no question, a fun and cool project, and I hope it succeeds wildly. But personally, the Commodore 64 holds almost no nostalgic value for me. The Commodore 64 — which came out in 1982, when I was 9 — always struck me as cheap-feeling and inelegant. Like using some weird computer from the Soviet Union. <a href="https://daringfireball.net/misc/2025/07/commodore-64-keyboard.jpeg">Just look at its keyboard</a>. It’s got a bunch of odd keys, like “Run Stop” and “Restore”, and all sorts of drawing-related glyphs (used when programming) printed on the sides of the keycaps. Now compare that to the keyboards from <a href="https://daringfireball.net/misc/2025/07/apple-IIplus-keyboard.jpeg">the Apple II Plus</a> (1979), which has just one weird key, “REPT” (<a href="https://www.duxburysystems.org/downloads/library/texas/apple/history/museum/computers/a2_plusclose.html">for Repeat</a> — you needed to press and hold REPT to get other keys to repeat, which, admittedly, seems inexplicable in hindsight), and to <a href="https://daringfireball.net/misc/2025/07/apple-IIe-keyboard.jpeg">the Apple IIe</a> (1983), which has no weird keys and whose keyboard looks remarkably modern lo these 42 intervening years.</p>
-
-<p>That said, while both systems came with 64 kilobytes of RAM, the Apple IIe cost $1,400 when it debuted (~$4,600 today, inflation adjusted); the Commodore 64 cost $600 (~$2,000 today). Some things haven’t changed about the computer industry in my lifetime.</p>
-
-<p>The most interesting computers Commodore ever made, by far, were the Amigas. The Amiga brand and IP were cleaved from Commodore long ago, and alas, the new Commodore doesn’t have them. But they’ve expressed interest in buying them. Something like this Commodore 64 Ultimate but for an Amiga — now <em>that</em> might get me to reach for my credit card.</p>
-
-<div>
-<a  title="Permanent link to ‘Reborn Commodore Is Taking Pre-Orders for New Commodore 64 Models’"  href="https://daringfireball.net/linked/2025/07/14/commodore-64-ultimate">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
