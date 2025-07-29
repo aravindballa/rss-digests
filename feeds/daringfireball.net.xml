@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-07-28T22:44:01Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-07-29T01:49:30Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	
 	<link rel="alternate" type="text/html" href="https://helloweather.com/" />
 	<link rel="shorturl" href="http://df4.us/whn" />
@@ -385,7 +385,7 @@ them had no activity in the last month,” Google said in its <a href="https://d
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/26/4chan-tea-breach" />
 	<id>tag:daringfireball.net,2025:/linked//6.42098</id>
 	<published>2025-07-26T14:35:12Z</published>
-	<updated>2025-07-26T14:48:42Z</updated>
+	<updated>2025-07-29T01:49:30Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -394,9 +394,21 @@ them had no activity in the last month,” Google said in its <a href="https://d
 <p>Emanuel Maiberg and Joseph Cox, reporting for 404 Media:</p>
 
 <blockquote>
-  <p>Users from 4chan claim to have discovered an exposed database hosted on Google’s mobile app development platform, Firebase, belonging to the newly popular women’s dating safety app Tea. Users say they are rifling through peoples’ personal data and selfies uploaded to the app, and then posting that data online, according to screenshots, 4chan posts, and code reviewed by 404 Media. In a statement to 404 Media, Tea confirmed the breach also impacted some direct messages but said that the data is from two years ago.</p>
+  <p>Users from 4chan claim to have discovered an exposed database
+hosted on Google’s mobile app development platform, Firebase,
+belonging to the newly popular women’s dating safety app Tea.
+Users say they are rifling through peoples’ personal data and
+selfies uploaded to the app, and then posting that data online,
+according to screenshots, 4chan posts, and code reviewed by 404
+Media. In a statement to 404 Media, Tea confirmed the breach also
+impacted some direct messages but said that the data is from two
+years ago.</p>
 
-<p>Tea, which claims to have more than 1.6 million users, reached the top of the App Store charts this week and has tens of thousands of reviews there. The app aims to provide a space for women to exchange information about men in order to stay safe, and verifies that new users are women by asking them to upload a selfie.</p>
+<p>Tea, which claims to have more than 1.6 million users, reached the
+top of the App Store charts this week and has tens of thousands of
+reviews there. The app aims to provide a space for women to
+exchange information about men in order to stay safe, and verifies
+that new users are women by asking them to upload a selfie.</p>
 </blockquote>
 
 <p><a href="https://apps.apple.com/us/app/tea-dating-advice/id6444453051">Tea</a> jumped to the top spot in the App Store (it’s still at #4 as I type this, trailing only ChatGPT, Netflix, and Amazon Prime Video) and has been getting a lot of <a href="https://www.businessinsider.com/tea-app-women-share-anonymous-dating-reviews-goes-viral-2025-7">coverage this week</a>. A wide open, publicly accessible database of users’ driver’s licenses and self portraits is, to say the least, pretty egregious.</p>
