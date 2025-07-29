@@ -7,7 +7,71 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-07-29T01:49:30Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-07-29T02:17:12Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Security Breach at Tea Worsens, Revealing Users’ DMs About Abortions and Cheating</title>
+	<link rel="alternate" type="text/html" href="https://www.404media.co/a-second-tea-breach-reveals-users-dms-about-abortions-and-cheating/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/who" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/28/tea-breach-worsens" />
+	<id>tag:daringfireball.net,2025:/linked//6.42108</id>
+	<published>2025-07-29T02:09:10Z</published>
+	<updated>2025-07-29T02:17:12Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Emanuel Maiberg and Joseph Cox, reporting <a href="https://daringfireball.net/linked/2025/07/26/4chan-tea-breach">again</a> for 404 Media:</p>
+
+<blockquote>
+  <p>Despite Tea’s initial statement that “the incident involved a
+legacy data storage system containing information from over two
+years ago,” the second issue impacting a separate database is much
+more recent, affecting messages up until last week, according to
+the researcher’s findings that 404 Media verified. The researcher
+said they also found the ability to send a push notification to
+all of Tea’s users.</p>
+
+<p>It’s hard to overstate how sensitive this data is and how it could
+put Tea’s users at risk if it fell into the wrong hands. When
+signing up, Tea encourages users to choose an anonymous
+screenname, but it was trivial for 404 Media to find the real
+world identities of some users given the nature of their messages,
+which Tea has led them to believe were private. Users could be
+easily found via their social media handles, phone numbers, and
+real names that they shared in these chats. These conversations
+also frequently make damning accusations against people who are
+also named in the private messages and in some cases are easy to
+identify. [...]</p>
+
+<p>Some of the private messages viewed by 404 Media include:</p>
+
+<ul>
+<li>One user tells another they just discovered their husband on the
+app being discussed. “I am his wife,” many of the messages say.</li>
+<li>Another appears to show a woman contacting others about a man
+she is engaged to.</li>
+<li>Multiple messages which appear to show women discussing their
+abortions.</li>
+<li>Chat logs between women discovering they are dating the same
+man, exchanging information such as what car he drives for
+verification.</li>
+</ul>
+</blockquote>
+
+<p>When <a href="https://daringfireball.net/linked/2025/07/26/4chan-tea-breach">I linked to 404 Media’s coverage</a> of the initial breach at Tea the other day, I wrote, “I’m not accusing Tea in particular of being vibe-coded”. Well, I still don’t know if Tea’s service architecture was vibe-coded, but it’s now clear that whoever made it was shamefully incompetent. They shouldn’t have made <em>any</em> sort of services backend, let alone one like Tea’s that’s intended to carry incredibly sensitive personal information and messages.</p>
+
+<p>This is an outright privacy — and quite possibly, personal security — disaster. With the abortion discussions and the current bifurcation of women’s rights here in the US, it could be a legal disaster, too. 4chan clowns have taken the images and data and <a href="https://knowyourmeme.com/editorials/guides/whats-going-on-with-the-tea-app-data-leak-the-tea-app-map-and-memes-about-ranking-foids-on-teaspill-explained">created</a> maps of Tea users’ addresses, and a Mark-Zuckerberg-“Facemash”-style site for ranking users’ appearance.</p>
+
+<p>For women who’ve already signed up and started using Tea, I doubt there’s anything that can be done to remove them from exposure. Even if Tea offers a “delete your account” feature, I wouldn’t trust that it actually deletes <em>anything</em> from their database, let alone everything. And the cat’s already out of the bag for any bad actors who figured out this second exploit before Tea was alerted.</p>
+
+<p>Yet another data point for the argument that any “private messaging” feature that doesn’t use E2EE isn’t actually private at all.</p>
+
+<div>
+<a  title="Permanent link to ‘Security Breach at Tea Worsens, Revealing Users’ DMs About Abortions and Cheating’"  href="https://daringfireball.net/linked/2025/07/28/tea-breach-worsens">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://helloweather.com/" />
 	<link rel="shorturl" href="http://df4.us/whn" />
@@ -1973,35 +2037,6 @@ juice of the character’s brain.</p>
 
 <div>
 <a  title="Permanent link to ‘Elmore Leonard’s Perfect Pitch’"  href="https://daringfireball.net/linked/2025/07/14/elmore-leonard-perfect-pitch">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Experts Said This Was a Damn Clever Post by Jason Kottke</title>
-	<link rel="alternate" type="text/html" href="https://kottke.org/25/07/journalisms-experts-said-conclusion" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wge" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/14/kottke-experts-said" />
-	<id>tag:daringfireball.net,2025:/linked//6.42062</id>
-	<published>2025-07-14T20:58:07Z</published>
-	<updated>2025-07-14T20:58:07Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jason Kottke:</p>
-
-<blockquote>
-  <p>Large media companies, and the NY Times in particular these days,
-like to use the phrase “experts said” instead of simply stating
-facts. The thing is, many other statements of plain truth in that
-brief Times post lack the confirmation of expertise. To aid the
-paper in steering their readers away from notions of objective
-truth, here’s a suggested rewrite of that Bluesky post.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘Experts Said This Was a Damn Clever Post by Jason Kottke’"  href="https://daringfireball.net/linked/2025/07/14/kottke-experts-said">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
