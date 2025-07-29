@@ -7,7 +7,46 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-07-29T20:09:58Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-07-29T20:41:18Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Sony Sues Tencent for Allegedly Ripping Off ‘Horizon’ Video Games</title>
+	<link rel="alternate" type="text/html" href="https://www.reuters.com/legal/litigation/sony-sues-tencent-allegedly-ripping-off-horizon-video-games-2025-07-28/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wht" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/29/sony-sues-tencent" />
+	<id>tag:daringfireball.net,2025:/linked//6.42113</id>
+	<published>2025-07-29T20:41:18Z</published>
+	<updated>2025-07-29T20:41:18Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Reuters:</p>
+
+<blockquote>
+  <p>Sony released the first game in the <em>Horizon</em> series, <em>Horizon:
+Zero Dawn</em>, on its PlayStation 4 in 2017. The games follow a
+red-headed woman named Aloy as she navigates a post-apocalyptic
+world populated by human tribes and robotic animals.</p>
+
+<p>Sony said in its complaint that it declined an offer from Tencent
+to collaborate on a new <em>Horizon</em> game last year. Tencent later
+announced <em>Light of Motiram</em>, which Sony said features identical
+gameplay, story themes and artistic elements to <em>Horizon</em> as well
+as many other similarities.</p>
+
+<p>Sony said that video game journalists have characterized <em>Light of
+Motiram</em> as a “knock-off” of <em>Horizon</em>, including one who called
+the game <em>Horizon Zero Originality</em>.</p>
+</blockquote>
+
+<p>Tencent is the Chinese software giant behind, <a href="https://en.wikipedia.org/wiki/Tencent">amongst many other things</a>, WeChat, China’s “everything app”.</p>
+
+<div>
+<a  title="Permanent link to ‘Sony Sues Tencent for Allegedly Ripping Off ‘Horizon’ Video Games’"  href="https://daringfireball.net/linked/2025/07/29/sony-sues-tencent">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>The E-Book Editions of Timothy Snyder’s ‘On Tyranny’ Are Just $2</title>
 	<link rel="alternate" type="text/html" href="https://books.apple.com/us/book/on-tyranny/id1195458571" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/whs" />
@@ -1958,56 +1997,6 @@ the price, you have to know what that price really was.</p>
 
 <div>
 <a  title="Permanent link to ‘More on Commodore, Apple, and the Inchoate Personal Computer Era’"  href="https://daringfireball.net/linked/2025/07/16/snell-commodore-apple">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Drew Saur’s Ode to the Commodore 64</title>
-	<link rel="alternate" type="text/html" href="https://theprogressivecio.com/the-commodore-64-made-a-difference/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wgk" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/15/saur-c64" />
-	<id>tag:daringfireball.net,2025:/linked//6.42068</id>
-	<published>2025-07-15T23:29:47Z</published>
-	<updated>2025-07-22T16:13:01Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Drew Saur, pushing back on <a href="https://daringfireball.net/linked/2025/07/14/commodore-64-ultimate">my post</a> slagging on the Commodore 64:</p>
-
-<blockquote>
-  <p>I cannot argue with your nostalgia. It is uniquely yours.</p>
-
-<p>That said: The Commodore 64 as cheap-feeling and inelegant! Oh my.</p>
-
-<p>I was fourteen when the Commodore 64 came out, and I want to
-convey — in as brief a form as I can — why it captured so many
-hearts during the 8-bit era.</p>
-</blockquote>
-
-<p>What a great post. Fond memories all the way down the stack with that whole era of computing. As I told Saur in email, my fondest memory of the Commodore 64 is that they sold them at Kmart, and for years had a working model on display. And every time I’d go to Kmart with my mom, I’d swing by the electronics department and type:</p>
-
-<pre><code>10 PRINT "KMART SUCKS!!!!"
-20 GOTO 10
-RUN
-</code></pre>
-
-<p>Sometimes I’d be clever and do something like add an incrementing number of spaces to make the lines go diagonally. Something like:</p>
-
-<pre><code>5 LET X = 0
-10 PRINT SPC(X); "KMART SUCKS!"
-20 X = X + 1
-30 IF X &gt; 28 THEN X = 0
-35 FOR T = 0 TO 100 : NEXT : REM SLOW DOWN
-40 GOTO 10
-RUN
-</code></pre>
-
-<p><a href="https://daringfireball.net/misc/2025/07/kmart-sucks.png">This</a> never got old for me. <a href="https://c64online.com/c64-online-emulator/">Try it yourself</a>. (And of course I never actually commented my code at Kmart — that <code>REM</code> is for you, if you’re wondering what that do-nothing <code>FOR</code> loop is for.)</p>
-
-<div>
-<a  title="Permanent link to ‘Drew Saur’s Ode to the Commodore 64’"  href="https://daringfireball.net/linked/2025/07/15/saur-c64">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
