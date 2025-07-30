@@ -7,7 +7,65 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-07-30T15:39:13Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-07-30T18:17:13Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/07/tea_number_3_app_store" />
+	<link rel="shorturl" href="http://df4.us/whv" />
+	<id>tag:daringfireball.net,2025://1.42115</id>
+	<published>2025-07-30T18:17:13Z</published>
+	<updated>2025-07-30T18:17:13Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">Tea remains a chart-topping app in the App Store, but isn’t listed at all in Play Store top lists.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>Tea remains <a href="https://apps.apple.com/us/charts/iphone/top-free-apps/36">#3 overall in the US iPhone App Store</a>. Here’s a <a href="https://daringfireball.net/misc/2025/07/us-iphone-app-store-top-10-2025-07-30.png">screenshot of the top free iPhone apps today</a>, and a list of the current top 10, using the full names the apps choose to display:</p>
+
+<ol>
+<li>ChatGPT</li>
+<li>Wingstop</li>
+<li>Tea Dating Advice</li>
+<li>Threads</li>
+<li>Google</li>
+<li>Google Maps</li>
+<li>WhatsApp Messenger</li>
+<li>ParentSquare</li>
+<li>CapCut - Video Editor
+<ol><li>TikTok - Videos, Shop &amp; LIVE</li></ol></li>
+</ol>
+
+<p>I might be forgetting or unaware of previous similar situations, but I can’t recall anything like this before, where an app riddled with <a href="https://daringfireball.net/linked/2025/07/28/tea-breach-worsens">outrageous security/privacy vulnerabilities</a> remains virally popular. A Hacker News thread from earlier today <a href="https://news.ycombinator.com/item?id=44732995">debates why the app is even still available on the App Store</a>.</p>
+
+<p>So is it Apple’s place to yank the app? It feels wrong to me that Apple should completely remove Tea from the App Store, but it’s also true that one of Apple’s fundamental pitches for the App Store — and the App Store’s exclusivity for app distribution in most of the world — is that iOS users can trust any and all apps in the App Store because they’re vetted by Apple. But here’s Tea, sitting at #3, providing a service that many woman want, and the entire thing is shockingly untrustworthy. (I fully expect more vulnerabilities to be found and exploited.)</p>
+
+<p>Tea, unsurprisingly, has almost nothing on <a href="https://www.teaforwomen.com/">their website</a> about the security violations their users have suffered, nor any mention in their App Store listing. Their only public acknowledgement of the fiasco is a series of three Instagram posts on July <a href="https://www.instagram.com/theteapartygirls/p/DMjRl4CPE0z/">26</a>, <a href="https://www.instagram.com/theteapartygirls/p/DMl3E0TvoML/">27</a>, and <a href="https://www.instagram.com/theteapartygirls/p/DMrGSlrJA-e/">29</a> (the most recent of which acknowledges that they’ve completely disabled the DM feature “temporarily”), and <a href="https://www.teaforwomen.com/cyberincident">this FAQ</a> on their website, that, as far as I can tell, is only discoverable through the “links in bio” on their Instagram profile. Their FAQ only addresses the initial discovery from last week, not <a href="https://www.404media.co/a-second-tea-breach-reveals-users-dms-about-abortions-and-cheating/">the more significant one that 404 Media publicized Monday</a> that included the exposure of DMs.</p>
+
+<p>Also fascinating to me is that Tea, though available on both iOS <a href="https://play.google.com/store/apps/details?id=com.tea.tea&amp;hl=en_US&amp;gl=US">and Android</a>, is seemingly not popular at all on Android. It’s not even listed <a href="https://play.google.com/store/apps?hl=en_US">in the Play Store’s top free apps</a>. (The Play Store website lists only the top 45, but I scrolled through the entire top 200 on my Pixel.) The current Play Store top 10:</p>
+
+<ol>
+<li>ChatGPT</li>
+<li>TikTok - Videos, Shop &amp; LIVE</li>
+<li>Threads</li>
+<li>WhatsApp Messenger</li>
+<li>Temu: Shop Like a Billionaire</li>
+<li>Instagram</li>
+<li>TikTok Lite - Faster TikTok</li>
+<li>DramaBox - Stream Drama Shorts</li>
+<li>Cash App</li>
+<li>Snapchat</li>
+</ol>
+
+<p>More tellingly, Tea doesn’t even crack the Play Store top 200 list for the “Dating” category. (On iOS, it’s in the “Lifestyle” category, but on the Play Store it’s in the “Dating” and “Casual” categories. Perhaps Apple requires apps in the “Dating” category to be full-fledged dating app services, not dating-app-adjacent like Tea.)</p>
+
+<p>I’m not sure what explains the disparity in Tea’s popularity by platform. One assumption is that dating is more of a young person’s game, and young people skew slightly more toward iPhone than the US population overall. But from what I can tell, that skew is only about 10 percent. Also, surveys suggest <a href="https://www.sci-tech-today.com/stats/iphone-vs-android-user-statistics/">women are more likely to be iPhone users</a>. But I can’t believe that age or gender demographics alone explain why Tea is #3 in the App Store but doesn’t even crack the top 200 on Android.</p>
+
+<p>I strongly suspect that while Google hasn’t removed Tea from the Play Store, that they’ve delisted it from discovery other than by searching for it by name or following a direct link to its listing. That both jibes with what I’m seeing on the Play Store top lists, and strikes me as a thoughtful balance between the responsibilities of an app store provider. As egregious as Tea’s security exploits have been, removing the app entirely doesn’t seem called for. But delisting it from popularity lists seems like a measured way to discourage new users from trying it unless they’re specifically looking for it. If this is what Google is doing, Apple should follow their lead. (I’ve put in a question to Google’s PR inquiring about this; if/when I get an answer, I’ll update this article.)</p>
+
+
+
+    ]]></content>
+  <title>★ Tea, the Women’s Dating Gossip App Riddled With Security Vulnerabilities, Remains #3 on the US iPhone App Store</title></entry><entry>
 	<title>YouTube Is Rolling Out an Age-Estimation Algorithm to Identify US Teens</title>
 	<link rel="alternate" type="text/html" href="https://techcrunch.com/2025/07/29/youtube-rolls-out-age-estimatation-tech-to-identify-u-s-teens-and-apply-additional-protections/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/whu" />
@@ -2108,130 +2166,4 @@ browser? Must be an oversight.</p>
 
 
     ]]></content>
-  <title>★ Full-Screen Ad for ‘F1 The Movie’ in Apple’s TV App Linked Directly to the Web, and Nothing Bad Seemed to Happen</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/06/apple_app_store_policy_updates_dma" />
-	<link rel="shorturl" href="http://df4.us/wfo" />
-	<id>tag:daringfireball.net,2025://1.42036</id>
-	<published>2025-06-28T21:00:00Z</published>
-	<updated>2025-07-07T23:32:39Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">It’s a natural consequence that an overly complicated law (the DMA) has resulted in an ever-more-complicated set of guidelines and policies (from Apple). It’s all downright byzantine.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>Let’s start with <a href="https://developer.apple.com/news/?id=awedznci">Apple’s own announcement at Apple Developer News</a>:</p>
-
-<blockquote>
-  <p>The European Commission has required Apple to make a series of
-additional changes under the Digital Markets Act:</p>
-
-<h2>Communication and Promotion of Offers</h2>
-
-<ul>
-<li>Today, we’re introducing updated terms that let developers with
-apps in the European Union storefronts of the App Store
-communicate and promote offers for purchase of digital goods or
-services available at a destination of their choice. The
-destination can be a website, alternative app marketplace, or
-another app, and can be accessed outside the app or within the
-app via a web view or native experience.</li>
-<li>App Store apps that communicate and promote offers for digital
-goods or services will be subject to new business terms for
-those transactions — an initial acquisition fee, store services
-fee, and for apps on the StoreKit External Purchase Link
-Entitlement (EU) Addendum, the Core Technology Commission (CTC).
-The CTC reflects value Apple provides developers through ongoing
-investments in the tools, technologies, and services that enable
-them to build and share innovative apps with users. [...]</li>
-</ul>
-
-<h2>Update to Business Terms for Apps in the European Union</h2>
-
-<ul>
-<li>By January 1, 2026, Apple plans to move to a single business
-model in the EU for all developers. Under this single business
-model, Apple will transition from the Core Technology Fee (CTF)
-to the CTC on digital goods or services. The CTC will apply to
-digital goods or services sold by apps distributed from the App
-Store, Web Distribution, and/or alternative marketplaces.</li>
-<li>Apps currently under the Alternative Terms Addendum for Apps in
-the EU continue to be subject only to the CTF until the
-transition to the CTC is fully implemented next year. At that
-time, qualifying transactions will be subject to the CTC, and
-the CTF will no longer apply. Additional details regarding this
-transition will be provided at a later date.</li>
-</ul>
-</blockquote>
-
-<p>Amongst other policy and API changes, Apple also announced a new, seemingly simplified, experience on iOS/iPadOS <a href="https://developer.apple.com/support/alt-distribution-ux-in-the-eu/">for installing apps and alternative app marketplaces in the EU</a>.</p>
-
-<p>As for the other policy changes, <a href="https://sixcolors.com/link/2025/06/apple-makes-big-app-store-changes-in-the-eu/">here’s Jason Snell’s summary</a>, which I think captures the gist as well as possible:</p>
-
-<blockquote>
-  <p><em>Tiered App Store fees.</em> For today’s full-service App Store,
-developers will now pay 13% on sales, reduced to 10% for Small
-Business Program members. Or developers can opt into “Tier One”,
-which comes with a 5% fee but does not support a raft of App Store
-features we’ve come to expect, like automatic app updates, App
-Store promotions, placement in search suggestions, ratings and
-reviews on product listings (!), and more.</p>
-
-<p><em>Core Technology Commission.</em> Apple is going to move all
-developers over to a new tax called the Core Technology
-Commission, in which developers who opt to sell apps outside the
-App Store will pay 5% of sales made through in-app promotions. The
-€0.50-per-install Core Technology Fee will be dropped as of
-January 1.</p>
-
-<p><em>Free linking.</em> Developers can promote offers broadly, are no
-longer limited to a single static URL without tracking parameters,
-and can freely design the interfaces for those links and
-promotions.</p>
-
-<p><em>New business terms.</em> Developers have to pay a 2% fee for digital
-goods and services purchased by new users for the first six months
-after a user first downloads an app; members of the Small Business
-Program don’t have to pay this fee.</p>
-</blockquote>
-
-<p>And <a href="https://9to5mac.com/2025/06/26/apple-announces-sweeping-app-store-changes-in-the-eu/">here’s Chance Miller’s summary at 9to5Mac</a>, which includes the following statement from Apple (which statement was provided to me, as well):</p>
-
-<blockquote>
-  <p>“The European Commission is requiring Apple to make a series of
-additional changes to the App Store. We disagree with this outcome
-and plan to appeal.”</p>
-</blockquote>
-
-<p>The new fee structure is undeniably convoluted, and I think downright confusing. <a href="https://x.com/rjonesy/status/1938354627155501219">Seemingly no one can figure out</a> exactly what commissions apps that use alternative payments or distribution are going to pay. It’s a natural consequence that an overly complicated law (the DMA) has resulted in an ever-more-complicated set of guidelines and policies (from Apple): byzantine compliance with a byzantine law.</p>
-
-<p>Because it’s so complicated and hard to understand, it’s difficult even to summarize with a headline describing what’s new. Even if you understand it enough to just want to express anger at Apple for spiteful compliance and greed, it’s hard to sum up why you’re angry in a succinct headline or tweet.</p>
-
-<hr />
-
-<p>The bottom line, as I understand it, is the following (but I could be wrong about some of this<sup id="fnr1-2025-06-28"><a href="#fn1-2025-06-28">1</a></sup> — if I am, let me know, and I’ll try to correct it):</p>
-
-<ul>
-<li><p>Developers who just do the simplest thing possible — distribute through the App Store and process all payments using Apple’s IAP — will continue to pay the same commissions, 30% by default, or 15% for Small Business Program developers and recurring subscriptions after the first year. Of course this is what Apple would prefer developers do.</p></li>
-<li><p>Big developers, distributing through the App Store but processing their own payments, will still owe Apple a commission of around 20% on non-IAP purchases: 13% for “store services”, 5% for the new Core Technology Commission (replacing the €0.50 per-download Core Technology Fee), and 2% for “initial acquisition”. Small Developer Program members and recurring subscriptions after the first year pay 15% — no “initial acquisition fee” and a reduced “store services” fee of 10%. But everyone’s on the hook for the 5% CTC.</p></li>
-<li><p>Apps distributed through the App Store can pay a reduced rate of 5% for “store services” (down from 13%) by opting into a reduced “Tier 1”. Rather than this “Tier 1” being an appealing choice for any developers, I think the point of it is for Apple to assert that those App Store features justify 8 percent of Apple’s commission on purchases: automatic software updates, reviews and ratings, surfacing through search for anything other than an exact name match, <a href="https://developer.apple.com/help/app-store-connect/reference/store-services-tiers/">and a whole lot more</a>.</p></li>
-<li><p>One consequence of the €0.50 per-download Core Technology Fee (CTF) being replaced by a 5% Core Technology Commission (CTC) is that there will no longer be a penalty for small developers who have a free-to-download app that hits over one million EU downloads. That was a legitimate problem with the CTF — an app with 5 million EU downloads would owe Apple €2 million for the CTF, but might be generating far less than that (or even nothing at all) in revenue. But another consequence of switching to the CTC from the CTF is that super-popular apps from super-big companies that don’t sell digital goods from their apps will continue to pay nothing at all. E.g. unless Meta starts selling digital goods from within their apps, they’ll continue to pay nothing at all to Apple for zillion-download apps like Instagram, Facebook, and WhatsApp. That was a shortcoming with the App Store’s model that the CTF was designed to correct.</p></li>
-<li><p>All of this additional complication is, I believe, just for apps distributed through the App Store. Feel free to blame Apple as much as you want for spiteful compliance (especially when it comes to payments made on the web, from links in apps), but part of this is on the European Commission for demanding not only that Apple allow apps to be distributed outside the App Store (which is somewhat reasonable), but also for requiring Apple to allow outside payments for apps distributed through the App Store. Apps and games distributed through alternative EU app marketplaces or web downloads are only on the hook for the 5% CTC (by the end of the year, when it replaces the CTF). But there is no free lunch — iOS apps and games distributed outside the App Store that require a purchase, or offer digital content for sale, must pay the 5% CTC.</p></li>
-</ul>
-
-<p>There are a lot of people <a href="https://9to5mac.com/2025/06/26/tim-sweeney-slams-apples-unlawful-eu-app-store-changes/">who think</a> what Apple is “supposed” to do is collect no commission or fees at all on anything other than IAP from apps and games that are distributed through the App Store. That Apple should collect no commission or fees from apps distributed outside the App Store, nor any commission or fees from apps in the App Store that offer their own payment processing — and, thus, that Apple should set their own IAP commission accordingly, as something akin to Stripe or PayPal, in the single-digit percentage range. That’s obviously not in Apple’s interest. But it’s also <em>not</em> what the European Commission has suggested the DMA demands.</p>
-
-<div class="footnotes">
-<hr />
-<ol>
-<li id="fn1-2025-06-28">
-<p>One thing I might be wrong about is that these new terms could be read to suggest that developers who stick with the App Store and Apple’s IAP now pay just 20 percent commission under the new EU terms. That’d be really weird, insofar as it would mean that developers in the EU get an 80/20 split for App Store distribution + IAP, but apps everywhere else in the world still get 70/30 for the same thing. That doesn’t make sense unless there’s another shoe to drop, and Apple is going to reduce IAP to 80/20 worldwide soon. (Which would be a great move on Apple’s part — something that would actually earn them back some developer goodwill.)&nbsp;<a href="#fnr1-2025-06-28"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
-</li>
-</ol>
-</div>
-
-
-
-    ]]></content>
-  <title>★ Apple Announces Sweeping but Complicated Policy Changes for Apps in the EU, Attempting to Comply With the Latest Dictums Regarding the DMA</title></entry></feed><!-- THE END -->
+  <title>★ Full-Screen Ad for ‘F1 The Movie’ in Apple’s TV App Linked Directly to the Web, and Nothing Bad Seemed to Happen</title></entry></feed><!-- THE END -->
