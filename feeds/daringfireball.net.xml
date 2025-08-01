@@ -7,7 +7,41 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-07-31T19:42:43Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-08-01T16:42:00Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>The Talk Show: ‘Michigan-Starred Fine Dining’</title>
+	<link rel="alternate" type="text/html" href="https://daringfireball.net/thetalkshow/2025/07/31/ep-428" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/why" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/01/the-talk-show-428" />
+	<id>tag:daringfireball.net,2025:/linked//6.42118</id>
+	<published>2025-08-01T16:41:52Z</published>
+	<updated>2025-08-01T16:42:00Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Special guest Louie Mantia joins the show to talk about Liquid Glass, the various OS 26 updates, and the worrisome state of Apple’s UI design overall. Also: sandwiches. </p>
+
+<p><audio
+    src = "https://traffic.libsyn.com/secure/daringfireball/thetalkshow-428-louie-mantia.mp3"
+    controls
+    preload = "none"
+/></p>
+
+<p><strong>Sponsored by:</strong></p>
+
+<ul>
+<li><a href="https://bzgapps.com/quip">Quip</a>: A supercharged clipboard manager and text expander for Mac, iPhone, and iPad.</li>
+<li><a href="https://notion.com/talkshow">Notion</a>: The best AI tool for work, with your notes, docs, and projects in one space.</li>
+<li><a href="https://squarespace.com/talkshow">Squarespace</a>: Save 10% off your first purchase of a website or domain using code <strong>talkshow</strong>.</li>
+</ul>
+
+<div>
+<a  title="Permanent link to ‘The Talk Show: ‘Michigan-Starred Fine Dining’’"  href="https://daringfireball.net/linked/2025/08/01/the-talk-show-428">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple Files Vigorous Response to DOJ Lawsuit: ’Threatens the Very Principles That Set iPhone Apart’</title>
 	<link rel="alternate" type="text/html" href="https://9to5mac.com/2025/07/29/apple-doj-lawsuit-answer-iphone/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/whx" />
@@ -1953,63 +1987,6 @@ Tonight Show.</p>
 
     ]]></content>
   <title>★ Curse Not the King</title></entry><entry>
-	<title>Apple Sues Jon Prosser Over iOS 26 Leaks</title>
-	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2025/07/17/apple-sues-jon-prosser-ios-26-leaks/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wgo" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/18/apple-sues-prosser" />
-	<id>tag:daringfireball.net,2025:/linked//6.42072</id>
-	<published>2025-07-18T20:36:52Z</published>
-	<updated>2025-07-18T21:34:15Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Eric Slivka, reporting last night for MacRumors:</p>
-
-<blockquote>
-  <p>While the Camera app redesign didn’t exactly match what Apple
-unveiled for iOS 26, the general idea was correct and much of
-what else Prosser showed was pretty close to spot on, and Apple
-clearly took notice as the company filed a lawsuit today (<a href="https://www.scribd.com/document/889709146/Apple-v-Ramacciotti-and-Prosser">Scribd
-link</a>) against Prosser and Michael Ramacciotti for
-misappropriation of trade secrets.</p>
-
-<p>Apple’s complaint outlines what it claims is the series of events
-that led to the leaks, which centered around a development iPhone
-in the possession of Ramacciotti’s friend and Apple employee Ethan
-Lipnik. According to Apple, Prosser and Ramacciotti plotted to
-access Lipnik’s phone, acquiring his passcode and then using
-location-tracking to determine when he “would be gone for an
-extended period.” Prosser reportedly offered financial
-compensation to Ramacciotti in return for assisting with accessing
-the development iPhone.</p>
-</blockquote>
-
-<p>Lipnik, the Apple employee, was fired, but isn’t named in the lawsuit because seemingly all he did was improperly secure his device running an early build of iOS 26. That’s against company policy, but not against the law.</p>
-
-<p>Prosser, on X, <a href="https://x.com/jon_prosser/status/1946056858474525097">disputes the description of his involvement in Apple’s lawsuit</a>:</p>
-
-<blockquote>
-  <p>For the record: This is not how the situation played out on my
-end. Luckily have receipts for that.</p>
-
-<p>I did not “plot” to access anyone’s phone. I did not have any
-passwords. I was unaware of how the information was obtained.</p>
-
-<p>Looking forward to speaking with Apple on this.</p>
-</blockquote>
-
-<p>Prosser also shared <a href="https://daringfireball.net/misc/2025/07/prosser-signal-screenshot.jpeg">one screenshot</a> of his Signal message correspondence with Ramacciotti.</p>
-
-<p>(MacRumors’s copy of Apple’s lawsuit is <a href="https://www.scribd.com/document/889709146/Apple-v-Ramacciotti-and-Prosser">hosted at Scribd</a>, which is free to read in a browser, but requires a paid account to download the original PDF. I’m <a href="https://daringfireball.net/misc/2025/07/889709146-Apple-v-Ramacciotti-and-Prosser.pdf">hosting a copy of the PDF here</a>.)</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Sues Jon Prosser Over iOS 26 Leaks’"  href="https://daringfireball.net/linked/2025/07/18/apple-sues-prosser">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/07/make_me_rich_on_amazon_prime_day" />
 	<link rel="shorturl" href="http://df4.us/wg4" />
