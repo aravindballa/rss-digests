@@ -7,13 +7,39 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-08-03T23:29:33Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-08-03T23:35:00Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Hello Weather</title>
+	<link rel="alternate" type="text/html" href="https://helloweather.com/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wi4" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/03/hello-weather" />
+	<id>tag:daringfireball.net,2025:/linked//6.42124</id>
+	<published>2025-08-03T23:25:00Z</published>
+	<updated>2025-08-03T23:35:00Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks to Hello Weather for sponsoring last week at DF. Regular readers know that I am an inveterate aficionado of weather apps. I’m not really much of a meteorology nerd, but I’m a pedestrian in a city with widely varying seasons. But even more so, I find weather apps to be a true playground for UI design and the presentation of quantitative information. Different weather apps take very different approaches, and I find the differences fascinating.</p>
+
+<p>I first recommended Hello Weather <a href="https://daringfireball.net/linked/2021/04/30/hello-weather">back in 2021</a>, and it’s been in my regular rotation of weather apps ever since. Back at the beginning of summer when they booked the sponsorship for this week, I started using the new version 4.0 (now up to 4.1.4) as my daily driver. I love it. It even has one of my favorite features for hot humid summers — a preference to set “feels like” as the primary temperature display (including in places like widgets). Hello Weather remains, as ever, attractive and useful in its design. And it offers everything you want in an iOS weather app: widgets for the home screen and Lock Screen, a Watch app, notification options (precipitation, severe storms, morning/evening forecast reports), and, wow, a veritable slew of forecast data providers to choose from.</p>
+
+<p>Hello Weather’s privacy story is perfect: they collect zero user data, have no tracking or ads, and <a href="https://helloweather.com/privacy">their privacy policy</a> is written by humans for humans.</p>
+
+<p>I highly recommend you <a href="https://apps.apple.com/us/app/hello-weather/id978393692">download Hello Weather</a> and start a 7-day free trial.</p>
+
+<div>
+<a  title="Permanent link to ‘Hello Weather’"  href="https://daringfireball.net/linked/2025/08/03/hello-weather">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/08/substack_100_million_raise" />
 	<link rel="shorturl" href="http://df4.us/wi5" />
 	<id>tag:daringfireball.net,2025://1.42125</id>
 	<published>2025-08-03T23:23:27Z</published>
-	<updated>2025-08-03T23:29:33Z</updated>
+	<updated>2025-08-03T23:33:50Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -57,9 +83,9 @@ also find new audiences and find new opportunity.” The company
 today is more interested in taking on YouTube than MailChimp.</p>
 </blockquote>
 
-<p>This, to me, is the nut <a href="https://library.fiveable.me/key-terms/introduction-journalism/graf">graf</a> of the whole NYT piece. Substack since its debut has presented itself as a platform <em>for writers</em> to build publications <em>for readers</em>. That’s how everyone I know who would endorse Substack would describe it. Hamish McKenzie, the cofounder quoted here, proudly claims <a href="https://on.substack.com/p/chief-writing-officer">the job title “Chief Writing Officer”</a>. Does a company “more interested in taking on YouTube than MailChimp [<em>sic</em>]” sound like a company focused on writers as talent and readers as users to you? (And it’s a little thing, but Mailchimp doesn’t style their name camelcase. You’ll be unsurprised to be reminded that <a href="https://www.poynter.org/reporting-editing/2017/by-dismantling-its-copy-desk-the-new-york-times-is-making-a-mistake-thats-been-made-before/">The New York Times dismantled its previously crackerjack copy desk</a> in 2017.)</p>
+<p>This, to me, is the nut <a href="https://library.fiveable.me/key-terms/introduction-journalism/graf">graf</a> of the whole NYT piece. Substack since its debut has presented itself as a platform <em>for writers</em> to build publications <em>for readers</em>. That’s how everyone I know who would endorse Substack would describe it. Hamish McKenzie, the cofounder quoted here, proudly claims <a href="https://on.substack.com/p/chief-writing-officer">the job title “Chief Writing Officer”</a>. Does a company “more interested in taking on YouTube than MailChimp [<em>sic</em>]” sound like a company focused on writers as talent and readers as users to you? (And it’s a little thing, but Mailchimp doesn’t style their name camel-case. You’ll be unsurprised to be reminded that <a href="https://www.poynter.org/reporting-editing/2017/by-dismantling-its-copy-desk-the-new-york-times-is-making-a-mistake-thats-been-made-before/">The New York Times dismantled its previously crackerjack copy desk</a> in 2017.)</p>
 
-<p>Now let’s do some rough back-of-the-envelope math. The New York Times Company has a market cap of $8.5 billion. Just gut-feeling-wise, I do not think Substack is worth one-eighth of the Times, nor do I think they’re on a path to get there. The Times has around 11 million digital subscribers who all pay around $25–35/month, and a strong advertising business. Individual Substack publications tend to charge around $5–7/month, and Substack only gets 10 percent of that. (Which, <a href="https://daringfireball.net/2025/08/the_substack_branding_and_faux_prestige_trap">again</a>, is pretty high <a href="https://www.mollywhite.net/micro/entry/202504111009">compared to competing platforms</a>.) So Substack only pockets like 50–70 <em>cents</em> per month from subscribers, per publication.</p>
+<p>Now let’s do some rough back-of-the-envelope math. The New York Times Company has a market cap of $8.5 billion. Just gut-feeling-wise, I do not think Substack is worth one-eighth of the Times, nor do I think they’re on a path to get there. The Times has around 11 million digital subscribers who all pay around $25–35/month, and a strong advertising business. Individual Substack publications tend to charge around $5–7/month, and Substack only gets 10 percent of that. So Substack only pockets like 50–70 <em>cents</em> per month from subscribers, per publication. (Substack’s 10 percent commission, <a href="https://daringfireball.net/2025/08/the_substack_branding_and_faux_prestige_trap">again</a>, is pretty high <a href="https://www.mollywhite.net/micro/entry/202504111009">compared to competing platforms</a>.) Substack currently has no advertising business at all, and many of their writers publish with them specifically because Substack, as we know it, has no ads.</p>
 
 <p>I firmly believe one could build a very nice business taking 10 percent of subscription revenue for a blogging/newsletter platform, if you could get as nice a roster of popular writers to build on the platform as Substack has. I do not think that’s a $1 billion business, though. And if it were, they should, at this point, be able to get there on their own, without additional funding. They should have achieved profitability lift-off long ago.</p>
 
@@ -69,32 +95,6 @@ today is more interested in taking on YouTube than MailChimp.</p>
 
     ]]></content>
   <title>★ Substack Raised Another $100 Million, Which, I Bet, Is Already Being Flushed Down the Same Toilet as Their First $100 Million</title></entry><entry>
-	<title>Hello Weather</title>
-	<link rel="alternate" type="text/html" href="https://helloweather.com/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wi4" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/03/hello-weather" />
-	<id>tag:daringfireball.net,2025:/linked//6.42124</id>
-	<published>2025-08-03T20:20:30Z</published>
-	<updated>2025-08-03T20:20:31Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>My thanks to Hello Weather for sponsoring last week at DF. Regular readers know that I am an inveterate aficionado of weather apps. I’m not really much of a meteorology nerd, but I’m a pedestrian in a city with widely varying seasons. But even more so, I find weather apps to be a true playground for UI design and the presentation of quantitative information. Different weather apps take very different approaches, and I find the differences fascinating.</p>
-
-<p>I first recommended Hello Weather <a href="https://daringfireball.net/linked/2021/04/30/hello-weather">back in 2021</a>, and it’s been in my regular rotation of weather apps ever since. Back at the beginning of summer when they booked the sponsorship for this week, I started using the new version 4.0 (now up to 4.1.4) as my daily driver. I love it. It even has one of my favorite features for hot humid summers — a preference to set “feels like” as the primary temperature display (including in places like widgets). Hello Weather remains, as ever, attractive and useful in its design. And it offers everything you want in an iOS weather app: widgets for the home screen and Lock Screen, a Watch app, notification options (precipitation, severe storms, morning/evening forecast reports), and, wow, a veritable slew of forecast data providers to choose from.</p>
-
-<p>Hello Weather’s privacy story is perfect: they collect zero user data, have no tracking or ads, and <a href="https://helloweather.com/privacy">their privacy policy</a> is written by humans for humans.</p>
-
-<p>I highly recommend you <a href="https://apps.apple.com/us/app/hello-weather/id978393692">download Hello Weather</a> and start a 7-day free trial.</p>
-
-<div>
-<a  title="Permanent link to ‘Hello Weather’"  href="https://daringfireball.net/linked/2025/08/03/hello-weather">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
 	<title>How to Leave Substack</title>
 	<link rel="alternate" type="text/html" href="https://leavesubstack.com/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wi3" />
