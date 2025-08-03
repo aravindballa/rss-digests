@@ -7,7 +7,50 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-08-03T02:37:20Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-08-03T16:41:27Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Google Reverses Course, Will Keep goo.gl Links Redirecting</title>
+	<link rel="alternate" type="text/html" href="https://blog.google/technology/developers/googl-link-shortening-update/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wi2" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/03/google-reverses-course-on-googl" />
+	<id>tag:daringfireball.net,2025:/linked//6.42122</id>
+	<published>2025-08-03T16:40:16Z</published>
+	<updated>2025-08-03T16:40:17Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Google:</p>
+
+<blockquote>
+  <p>While we <a href="https://developers.googleblog.com/en/google-url-shortener-links-will-no-longer-be-available/">previously announced</a> discontinuing support for all
+goo.gl URLs after August 25, 2025, we’ve adjusted our approach in
+order to preserve actively used links. We understand these links
+are embedded in countless documents, videos, posts and more, and
+we appreciate the input received.</p>
+
+<p>Nine months ago, we redirected URLs that showed no activity in
+late 2024 to a message specifying that the link would be
+deactivated in August, and these are the only links targeted to be
+deactivated. If you get a message that states, “This link will no
+longer work in the near future”, the link won’t work after August
+25 and we recommend transitioning to another URL shortener if you
+haven’t already.</p>
+
+<p>All other goo.gl links will be preserved and will continue to
+function as normal. To check if your link will be retained, visit
+the link today. If your link redirects you without a message, it
+will continue to work.</p>
+</blockquote>
+
+<p>Nice!</p>
+
+<div>
+<a  title="Permanent link to ‘Google Reverses Course, Will Keep goo.gl Links Redirecting’"  href="https://daringfireball.net/linked/2025/08/03/google-reverses-course-on-googl">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/08/the_substack_branding_and_faux_prestige_trap" />
 	<link rel="shorturl" href="http://df4.us/wi1" />
@@ -982,7 +1025,7 @@ and the volume was 100× what anyone thought.”</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/26/google-link-shortener" />
 	<id>tag:daringfireball.net,2025:/linked//6.42099</id>
 	<published>2025-07-26T17:30:22Z</published>
-	<updated>2025-07-28T15:45:44Z</updated>
+	<updated>2025-08-03T16:41:27Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -1010,6 +1053,8 @@ them had no activity in the last month,” Google said in its <a href="https://d
 <p>I’m sure it is true that 99 percent of goo.gl links had no activity in the past month. But I’m just as sure that it would cost next to nothing for Google to keep goo.gl up and running in perpetuity. I mean, 99 percent of <em>all</em> URLs probably had no activity in the last month. 99 percent of all books ever written weren’t read in the last month either, I bet — but that’s no excuse for libraries to throw them in the trash.</p>
 
 <p>It’s fine that Google stopped allowing for the creating of new links a while back, but there’s no reason they should ever stop redirecting existing links. The whole reason anyone might have used goo.gl instead of something like <a href="https://bit.ly/">bit.ly</a> is misplaced trust in Google. I trust Google with almost nothing long-term. Mark my words, they’re going to do this with Gmail accounts eventually.</p>
+
+<p><strong>Update:</strong> Google has come to its senses and <a href="https://daringfireball.net/linked/2025/08/03/google-reverses-course-on-googl">will keep these redirections working</a>.</p>
 
 <div>
 <a  title="Permanent link to ‘goo.gl, Google’s Link Shortener, Will Stop Working Next Month’"  href="https://daringfireball.net/linked/2025/07/26/google-link-shortener">&nbsp;★&nbsp;</a>
@@ -1861,50 +1906,6 @@ happy we waited until now to make it happen.</p>
 
 <div>
 <a  title="Permanent link to ‘Myke Hurley Interviews Yours Truly for the Cortex ‘State of the Workflow’ Series’"  href="https://daringfireball.net/linked/2025/07/19/cortex-hurley-interview-with-yours-truly">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Puck: ‘Was Colbert’s Cancellation Really “Economic” for CBS?’</title>
-	<link rel="alternate" type="text/html" href="https://puck.news/was-colberts-cancellation-really-economic-for-cbs/?sharer=167184&amp;token=9a8ea7a6fea9e13d6d23eaf8102f68d3" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wgs" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/19/belloni-colbert-economic" />
-	<id>tag:daringfireball.net,2025:/linked//6.42076</id>
-	<published>2025-07-19T16:17:18Z</published>
-	<updated>2025-07-21T00:37:19Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Matthew Belloni, writing at Puck (paywall-busting gift link) regarding the claim from anonymous CBS sources that <em>The Late Show</em> lost $40 million last year:</p>
-
-<blockquote>
-  <p>Nobody can know for sure. All I can tell you is what I’m hearing.
-Several sources at both CBS and Skydance insist the decision was
-based on economics, not politics. After all, if this was about
-appeasing Trump, they argue, Cheeks would have pulled Colbert off
-the air ASAP rather than giving him 10 more months in the chair.
-“Trust me, there’s no conspiracy,” a very good source close to
-Colbert told me tonight. Still, two other people with deep ties to
-CBS and <em>Late Show</em> suspect otherwise. After all, when a network
-decides that a show is too expensive, executives typically go to
-the key talent and ask them to take pay cuts, fire people, or
-otherwise slash costs. That didn’t happen here — though with
-Colbert said to be making between $15 million and $20 million per
-year, a pay cut wouldn’t have solved the problem on its own. And
-given the company’s willingness to fold to Trump, there’s no
-reason for you or me to think they would stand up to any political
-pressure, or resist any specific demand (which, of course, is the
-reason to not settle frivolous litigation…). If Chris McCarthy,
-Cheeks’s counterpart on the cable TV side, cancels <em>The Daily
-Show</em> in the next couple weeks, I think we’ll have a good idea
-what’s going on. But for now, I cautiously (and skeptically)
-believe that this was mostly an economic decision.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘Puck: ‘Was Colbert’s Cancellation Really “Economic” for CBS?’’"  href="https://daringfireball.net/linked/2025/07/19/belloni-colbert-economic">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
