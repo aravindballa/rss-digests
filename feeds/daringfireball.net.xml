@@ -7,7 +7,33 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-08-03T16:52:41Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-08-03T20:20:31Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Hello Weather</title>
+	<link rel="alternate" type="text/html" href="https://helloweather.com/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wi4" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/03/hello-weather" />
+	<id>tag:daringfireball.net,2025:/linked//6.42124</id>
+	<published>2025-08-03T20:20:30Z</published>
+	<updated>2025-08-03T20:20:31Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks to Hello Weather for sponsoring last week at DF. Regular readers know that I am an inveterate aficionado of weather apps. I’m not really much of a meteorology nerd, but I’m a pedestrian in a city with widely varying seasons. But even more so, I find weather apps to be a true playground for UI design and the presentation of quantitative information. Different weather apps take very different approaches, and I find the differences fascinating.</p>
+
+<p>I first recommended Hello Weather <a href="https://daringfireball.net/linked/2021/04/30/hello-weather">back in 2021</a>, and it’s been in my regular rotation of weather apps ever since. Back at the beginning of summer when they booked the sponsorship for this week, I started using the new version 4.0 (now up to 4.1.4) as my daily driver. I love it. It even has one of my favorite features for hot humid summers — a preference to set “feels like” as the primary temperature display (including in places like widgets). Hello Weather remains, as ever, attractive and useful in its design. And it offers everything you want in an iOS weather app: widgets for the home screen and Lock Screen, a Watch app, notification options (precipitation, severe storms, morning/evening forecast reports), and, wow, a veritable slew of forecast data providers to choose from.</p>
+
+<p>Hello Weather’s privacy story is perfect: they collect zero user data, have no tracking or ads, and <a href="https://helloweather.com/privacy">their privacy policy</a> is written by humans for humans.</p>
+
+<p>I highly recommend you <a href="https://apps.apple.com/us/app/hello-weather/id978393692">download Hello Weather</a> and start a 7-day free trial.</p>
+
+<div>
+<a  title="Permanent link to ‘Hello Weather’"  href="https://daringfireball.net/linked/2025/08/03/hello-weather">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>How to Leave Substack</title>
 	<link rel="alternate" type="text/html" href="https://leavesubstack.com/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wi3" />
@@ -1857,40 +1883,6 @@ wrong they all are. The Atari was the best computer to have.</p>
 
 <div>
 <a  title="Permanent link to ‘Don’t Forget About Atari’"  href="https://daringfireball.net/linked/2025/07/20/dont-forget-atari">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>The WSJ on Late Night TV’s Ad Revenue Decline, and CBS’s Decision to Cancel The Late Show</title>
-	<link rel="alternate" type="text/html" href="https://www.wsj.com/business/media/stephen-colbert-late-show-canceled-profit-3dcc48a2?st=TT3iun" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wgw" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/20/wsj-late-night-ad-revenue" />
-	<id>tag:daringfireball.net,2025:/linked//6.42080</id>
-	<published>2025-07-20T20:59:37Z</published>
-	<updated>2025-07-21T00:36:35Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Joe Flint and John Jurgensen, reporting for The Wall Street Journal (gift link):</p>
-
-<blockquote>
-  <p>But digital advertising revenue hasn’t made up for the fall in ad
-dollars going to traditional broadcast programming. Spending on
-linear advertising for the late-night segment on ABC, CBS and NBC
-fell from $439 million in 2018 to $221 million in 2024, according
-to Guideline, an ad-tracking platform.</p>
-</blockquote>
-
-<p>That’s a precipitous decline, if accurate. But still, given that Colbert’s <em>The Late Show</em> has consistently been the highest-rated overall and tied with ABC’s <em>Jimmy Kimmel Live</em> for the 18–49 year-old demographic, it feels very safe to presume that it generated at least a full third — say, $75–80 million — of that $221 million total. It’s reported that Colbert’s salary is $20 million per year, and Colbert himself said the other night the show employs 200 staff.</p>
-
-<p>If, as anonymous CBS sources are claiming to multiple outlets, the show lost $40 million last year, that means it costs something on the order of $120 million per year to produce, or $100 million after Colbert’s salary. With a staff of 200 people, that’s an <em>average</em> salary of $500,000. I know it costs money to heat and cool the Ed Sullivan theater, and I’m sure there are other costs. But there is no way the average salary of a staff member on the show is half a million per year.</p>
-
-<p>And, even if somehow <em>The Late Show</em> <em>did</em> lose money last year, it seems implausible that CBS wouldn’t first ask for budget cuts — staff reductions, a salary cut for Colbert, whatever else might possibly be running up a $120 million/year budget — before just shutting the whole thing down. NBC’s <em>Late Night With Seth Meyers</em> <a href="https://variety.com/2024/tv/news/seth-meyers-late-night-8g-band-budget-cuts-1236034409/">sadly cut the live studio band last year</a>, for example. $75 million per year in ad revenue is way down from its <a href="https://nypost.com/2015/08/23/colberts-late-show-ready-to-challenge-fallons-ad-revenue/">Letterman era heyday</a>, but that’s surely more than enough to produce a talk show. Also, all of this back-of-the-napkin budget analysis neglects to assign any promotional value to the show. CBS gets to promote everything else on the network to over 2 million people per night with house ads during commercial breaks and guests on the show from other CBS programs.</p>
-
-<div>
-<a  title="Permanent link to ‘The WSJ on Late Night TV’s Ad Revenue Decline, and CBS’s Decision to Cancel The Late Show’"  href="https://daringfireball.net/linked/2025/07/20/wsj-late-night-ad-revenue">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
