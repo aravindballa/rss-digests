@@ -7,7 +7,96 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-08-05T21:46:23Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-08-05T22:26:13Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Cloudflare: ‘Perplexity Is Using Stealth, Undeclared Crawlers to Evade Website No-Crawl Directives’</title>
+	<link rel="alternate" type="text/html" href="https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wib" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/05/cloudflare-perplexity" />
+	<id>tag:daringfireball.net,2025:/linked//6.42131</id>
+	<published>2025-08-05T22:26:12Z</published>
+	<updated>2025-08-05T22:26:13Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>The Cloudflare blog:</p>
+
+<blockquote>
+  <p>We are observing stealth crawling behavior from Perplexity, an
+AI-powered answer engine. Although Perplexity initially crawls
+from their declared user agent, when they are presented with a
+network block, they appear to obscure their crawling identity in
+an attempt to circumvent the website’s preferences. We see
+continued evidence that Perplexity is repeatedly modifying their
+user agent and changing their source <a href="https://www.cloudflare.com/learning/network-layer/what-is-an-autonomous-system/">ASNs</a> to hide their
+crawling activity, as well as ignoring — or sometimes failing to
+even fetch — <a href="https://www.cloudflare.com/learning/bots/what-is-robots-txt/">robots.txt</a> files.</p>
+
+<p>The Internet as we have known it for the past three decades is
+<a href="https://blog.cloudflare.com/content-independence-day-no-ai-crawl-without-compensation/">rapidly changing</a>, but one thing remains constant: it is
+built on trust. There are clear preferences that crawlers should
+be transparent, serve a clear purpose, perform a specific
+activity, and, most importantly, follow website directives and
+preferences. Based on Perplexity’s observed behavior, which is
+incompatible with those preferences, we have de-listed them as a
+verified bot and added heuristics to our managed rules that block
+this stealth crawling. [...]</p>
+
+<p>Our multiple test domains explicitly prohibited all automated
+access by specifying in robots.txt and had specific WAF rules that
+blocked crawling from <a href="https://docs.perplexity.ai/guides/bots">Perplexity’s public crawlers</a>. We
+observed that Perplexity uses not only their declared user-agent,
+but also a generic browser intended to impersonate Google Chrome
+on macOS when their declared crawler was blocked.</p>
+</blockquote>
+
+<p><a href="https://www.perplexity.ai/hub/blog/agents-or-bots-making-sense-of-ai-on-the-open-web">Perplexity has responded</a>, accusing Cloudflare of incompetence and publicity-seeking:</p>
+
+<blockquote>
+  <p>Because Cloudflare has conveniently obfuscated their methodology
+and declined to answer questions helping our teams understand, we
+can only narrow this down to two possible explanations.</p>
+
+<ol>
+<li>Cloudflare needed a clever publicity moment and we–their own
+customer–happened to be a useful name to get them one.</li>
+<li>Cloudflare fundamentally misattributed 3-6M daily requests from
+BrowserBase’s automated browser service to Perplexity, a basic
+traffic analysis failure that’s particularly embarrassing for a
+company whose core business is understanding and categorizing
+web traffic.</li>
+</ol>
+
+<p>Whichever explanation is the truth, the technical errors in
+Cloudflare’s analysis aren’t just embarrassing — they’re
+disqualifying. When you misattribute millions of requests, publish
+completely inaccurate technical diagrams, and demonstrate a
+fundamental misunderstanding of how modern AI assistants work,
+you’ve forfeited any claim to expertise in this space.</p>
+</blockquote>
+
+<p>Perplexity’s response makes it sound like Cloudflare just doesn’t get how leading-edge AI chatbots work, and what users expect of them. But going back to Cloudflare’s post, <a href="https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/">they specifically cite OpenAI</a> as an exemplar in respecting the directives of website publishers:</p>
+
+<blockquote>
+  <p>When we ran the same test as outlined above with ChatGPT, we found
+that ChatGPT-User fetched the robots file and stopped crawling
+when it was disallowed. We did not observe follow-up crawls from
+any other user agents or third party bots. When we removed the
+disallow directive from the robots entry, but presented ChatGPT
+with a block page, they again stopped crawling, and we saw no
+additional crawl attempts from other user agents. Both of these
+demonstrate the appropriate response to website owner preferences.</p>
+</blockquote>
+
+<p>And nothing in Perplexity’s response attempts to explain Cloudflare’s accusation that Perplexity is adopting a false generic user-agent when their own declared user-agents are disallowed. Seems shifty to me.</p>
+
+<div>
+<a  title="Permanent link to ‘Cloudflare: ‘Perplexity Is Using Stealth, Undeclared Crawlers to Evade Website No-Crawl Directives’’"  href="https://daringfireball.net/linked/2025/08/05/cloudflare-perplexity">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘Apple: The First 50 Years’ — New Book by David Pogue, Coming Next Year</title>
 	<link rel="alternate" type="text/html" href="https://www.applefirst50.com/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wia" />
@@ -1932,26 +2021,6 @@ in front of us.”</p>
 
 <div>
 <a  title="Permanent link to ‘Commanders : Goofus :: Guardians : Gallant’"  href="https://daringfireball.net/linked/2025/07/21/commanders-goofus-guardians-gallant">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘CBS: The Tiffany Network’</title>
-	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=7Rv36XkQojM" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wh0" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/21/cbs-the-tiffany-network" />
-	<id>tag:daringfireball.net,2025:/linked//6.42084</id>
-	<published>2025-07-21T20:41:02Z</published>
-	<updated>2025-07-21T20:41:03Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Letterman: “You can’t spell CBS without BS.”</p>
-
-<div>
-<a  title="Permanent link to ‘‘CBS: The Tiffany Network’’"  href="https://daringfireball.net/linked/2025/07/21/cbs-the-tiffany-network">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
