@@ -7,7 +7,187 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-08-05T22:58:14Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-08-06T00:33:54Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Anthropic Releases Claude Opus 4.1</title>
+	<link rel="alternate" type="text/html" href="https://www.anthropic.com/news/claude-opus-4-1" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wig" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/05/claude-4-1-opus" />
+	<id>tag:daringfireball.net,2025:/linked//6.42136</id>
+	<published>2025-08-06T00:33:02Z</published>
+	<updated>2025-08-06T00:33:54Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Anthropic:</p>
+
+<blockquote>
+  <p>GitHub notes that Claude Opus 4.1 improves across most
+capabilities relative to Opus 4, with particularly notable
+performance gains in multi-file code refactoring. Rakuten Group
+finds that Opus 4.1 excels at pinpointing exact corrections within
+large codebases without making unnecessary adjustments or
+introducing bugs, with their team preferring this precision for
+everyday debugging tasks. Windsurf reports Opus 4.1 delivers a one
+standard deviation improvement over Opus 4 on their junior
+developer benchmark, showing roughly the same performance leap as
+the jump from Sonnet 3.7 to Sonnet 4.</p>
+</blockquote>
+
+<p>Nothing spectacular here, but incremental improvements add up. Mike Krieger — best known as a co-founder of Instagram, now chief product officer at Anthropic — <a href="https://www.bloomberg.com/news/articles/2025-08-05/anthropic-unveils-more-powerful-model-ahead-of-gpt-5-release?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc1NDQxMTg0NCwiZXhwIjoxNzU1MDE2NjQ0LCJhcnRpY2xlSWQiOiJUMEo0SVdHUFdDTDEwMCIsImJjb25uZWN0SWQiOiJFODA3NUYyRkZGMjA0NUI2QTlEQzA5M0EyQTdEQTE4NiJ9.ZBaEbfLOztvlCdvvpJohLjqYRA-XcYxKD80FPmhsXjo&amp;leadSource=uverify%20wall">in an interview with Bloomberg</a>:</p>
+
+<blockquote>
+  <p>“In the past, we were too focused on only shipping the really big
+upgrades,” said Anthropic Chief Product Officer Mike Krieger.
+“It’s better at coding, better at reasoning, better at agentic
+tasks. We’re just making it better for people.” [...]</p>
+
+<p>“One thing I’ve learned, especially in AI as it’s moving quickly,
+is that we can focus on what we have — and what other folks are
+going to do is ultimately up to them,” Krieger said when asked
+about OpenAI’s upcoming release. “We’ll see what ends up happening
+on the OpenAI side, but for us, we really just focused on what can
+we deliver for the customers we have.”</p>
+</blockquote>
+
+<p>I’m on board with the idea that Apple <a href="https://daringfireball.net/linked/2025/08/05/apple-q3-results">need not acquire</a> any of these AI startups, but if they do, Anthropic — <a href="https://daringfireball.net/linked/2025/08/05/regarding-those-rumors-of-apple-pursuing-an-acquisition-of-perplexity">not Perplexity</a> — seems the one most aligned with Apple’s values. And I don’t mean <em>values</em> in just an ethical sense, but their entire approach to product development in general.</p>
+
+<div>
+<a  title="Permanent link to ‘Anthropic Releases Claude Opus 4.1’"  href="https://daringfireball.net/linked/2025/08/05/claude-4-1-opus">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Google Dunks on Apple Intelligence in New Pixel 10 Ad</title>
+	<link rel="alternate" type="text/html" href="https://www.theverge.com/news/718191/google-apple-intelligence-dunk-pixel-10-ad" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wif" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/05/google-dunks-on-siri" />
+	<id>tag:daringfireball.net,2025:/linked//6.42135</id>
+	<published>2025-08-06T00:16:10Z</published>
+	<updated>2025-08-06T00:16:10Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Tom Warren:</p>
+
+<blockquote>
+  <p>In a new Pixel 10 ad, Google dunks on Apple’s failed promise of
+Siri AI improvements, with a narrator that suggests you could
+“just change your phone” if you bought “a new phone because of
+a feature that’s coming soon, but it’s been coming soon for a
+full year.”</p>
+
+<p>The 30-second spot appeared on YouTube and X today, teasing the
+launch of Google’s new Pixel 10 devices on August 20th.</p>
+</blockquote>
+
+<p>The whole Siri/Apple Intelligence thing has been an enormous self-inflicted embarrassment, but when it comes to Pixel phones, all I can <a href="https://tenor.com/view/mad-men-i-feel-bad-for-you-i-dont-think-about-you-at-all-feel-bad-for-you-don-draper-gif-4064252483824677976">think of</a> is that <a href="https://knowyourmeme.com/memes/i-feel-bad-for-you-i-dont-think-about-you-at-all"><em>Mad Men</em> “I don’t think about you at all” GIF</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Google Dunks on Apple Intelligence in New Pixel 10 Ad’"  href="https://daringfireball.net/linked/2025/08/05/google-dunks-on-siri">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Lawsuit Alleges That Meta Pirated and Seeded Massives Amounts of Porno for Years to Train AI</title>
+	<link rel="alternate" type="text/html" href="https://arstechnica.com/tech-policy/2025/07/meta-pirated-and-seeded-porn-for-years-to-train-ai-lawsuit-says/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wie" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/05/meta-porno-bittorrent" />
+	<id>tag:daringfireball.net,2025:/linked//6.42134</id>
+	<published>2025-08-06T00:07:32Z</published>
+	<updated>2025-08-06T00:07:33Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Ashley Belanger, writing for Ars Technica:</p>
+
+<blockquote>
+  <p>Porn sites may have blown up Meta’s key defense in a copyright
+fight with book authors who earlier this year <a href="https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/">said that Meta
+torrented</a> “at least 81.7 terabytes of data across multiple
+shadow libraries” to train its AI models. [...]</p>
+
+<p>After authors revealed Meta’s torrenting, Strike 3 Holdings
+checked its proprietary BitTorrent-tracking tools designed to
+detect infringement of its videos and alleged that the company
+found evidence that Meta has been torrenting and seeding its
+copyrighted content for years — since at least 2018. Some of the
+IP addresses were clearly registered to Meta, while others
+appeared to be “hidden,” and at least one was linked to a Meta
+employee, the filing said.</p>
+
+<p>According to Strike 3 Holdings, Meta “willfully and intentionally”
+infringed “at least 2,396 movies” as part of a strategy to
+download terabytes of data as fast as possible by seeding popular
+high-quality porn. Supposedly, Meta continued seeding the content
+“sometimes for days, weeks, or even months” after downloading
+them, and these movies may also have been secretly used to train
+Meta’s AI models, Strike 3 Holdings alleged.</p>
+
+<p>The porn site operator explained to the court that BitTorrent’s
+protocol establishes a “tit-for-tat” mechanism that “rewards users
+who distribute the most desired content.” It alleged that Meta
+took advantage of this system by “often” pirating adult videos
+that are “often within the most infringed files on BitTorrent
+websites” on “the very same day the motion pictures are released.”</p>
+</blockquote>
+
+<p>Meta is an empty husk of a company with no values, no beliefs, other than growth and dominance for the sake of growth and dominance.</p>
+
+<div>
+<a  title="Permanent link to ‘Lawsuit Alleges That Meta Pirated and Seeded Massives Amounts of Porno for Years to Train AI’"  href="https://daringfireball.net/linked/2025/08/05/meta-porno-bittorrent">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Ghost 6.0</title>
+	<link rel="alternate" type="text/html" href="https://ghost.org/changelog/6/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wid" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/05/ghost-6" />
+	<id>tag:daringfireball.net,2025:/linked//6.42133</id>
+	<published>2025-08-05T23:59:23Z</published>
+	<updated>2025-08-05T23:59:46Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Ghost:</p>
+
+<blockquote>
+  <p>When we <a href="https://ghost.org/changelog/5/">announced Ghost 5.0</a> a few years ago, we were proud
+to share that Ghost’s revenue had hit $4M — while publisher
+earnings had surpassed $10M. It felt great to have such a clear
+sign that our goal to create a sustainable business model for
+independent creators was succeeding.</p>
+
+<p>Today, Ghost’s annual revenue is over $8.5M while total publisher
+earnings on Ghost have now surpassed $100M. [...]</p>
+
+<p>Unlike our venture-backed peers obsessed with growth at all costs,
+we’re structured as a non-profit foundation that serves publishers
+directly with open source software. We believe independent media
+cannot be beholden to proprietary tech companies, so Ghost
+publishers don’t just “own their email list” — they own the
+entire software stack that underpins their business, end to end.</p>
+
+<p>Not a centralized platform controlled by a single corporation, but
+open infrastructure that’s shared by everyone.</p>
+</blockquote>
+
+<p>Aside from <a href="https://daringfireball.net/search/substack">my feelings about Substack</a> — clearly the main target of Ghost’s shade-throwing here — it’s just great to see so many indie publishers and writers thriving on Ghost.</p>
+
+<div>
+<a  title="Permanent link to ‘Ghost 6.0’"  href="https://daringfireball.net/linked/2025/08/05/ghost-6">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Regarding Those Rumors of Apple Pursuing an Acquisition of Perplexity</title>
 	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2025/06/20/apple-discussing-perplexity-ai-bid/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wic" />
@@ -1854,189 +2034,6 @@ like Apple, Atari, Commodore, Tandy/Radio Shack, and more.</p>
 
 <div>
 <a  title="Permanent link to ‘The Computer History Museum’s Vintage Computer Festival: August 1–2’"  href="https://daringfireball.net/linked/2025/07/22/chm-vintage-computer-festival">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Hackers Exploit Zero-Day Microsoft SharePoint Exploit, Attacking Governments and Businesses Around the World</title>
-	<link rel="alternate" type="text/html" href="https://www.washingtonpost.com/technology/2025/07/20/microsoft-sharepoint-hack/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wh6" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/22/zero-day-microsoft-sharepoint-exploit" />
-	<id>tag:daringfireball.net,2025:/linked//6.42090</id>
-	<published>2025-07-22T15:41:21Z</published>
-	<updated>2025-07-22T15:41:22Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Ellen Nakashima, Yvonne Wingett Sanchez and Joseph Menn, reporting for The Washington Post:</p>
-
-<blockquote>
-  <p>The U.S. government and partners in Canada and Australia are
-investigating the compromise of SharePoint servers, which provide
-a platform for sharing and managing documents. Tens of thousands
-of such servers are at risk, experts said, and Microsoft has
-issued no patch for the flaw, leaving victims around the world
-scrambling to respond.</p>
-
-<p>The “zero-day” attack, so called because it targeted a previously
-unknown vulnerability, is only the latest cybersecurity
-embarrassment for Microsoft. Last year, the company was faulted by
-a panel of U.S. government and industry experts for lapses that
-enabled a <a href="https://www.washingtonpost.com/national-security/2024/04/02/microsoft-cyber-china-hack-report/">2023 targeted Chinese hack of U.S. government
-emails</a>, including those of then-Commerce Secretary Gina
-Raimondo.</p>
-
-<p>This most recent attack compromises only those servers housed
-within an organization — not those in the cloud, such as
-Microsoft 365, officials said. After first suggesting that users
-make modifications to or simply unplug SharePoint server programs
-from the internet, the company on Sunday evening released a patch
-for one version of the software. Two other versions remain
-vulnerable and Microsoft said it is continuing to work to develop
-a patch.</p>
-</blockquote>
-
-<p>“Just pull the plug” — classic Microsoft security.</p>
-
-<blockquote>
-  <p>With access to these servers, which often connect to Outlook
-email, Teams and other core services, a breach can lead to theft
-of sensitive data as well as password harvesting,
-Netherlands-based research company <a href="https://research.eye.security/sharepoint-under-siege/">Eye Security noted</a>.
-What’s also alarming, researchers said, is that the hackers have
-gained access to keys that may allow them to regain entry even
-after a system is patched. “So pushing out a patch on Monday or
-Tuesday doesn’t help anybody who’s been compromised in the past 72
-hours,” said one researcher, who spoke on the condition of
-anonymity because a federal investigation is ongoing.</p>
-</blockquote>
-
-<p>Sounds bad.</p>
-
-<blockquote>
-  <p>The nonprofit Center for Internet Security, which staffs an
-information-sharing group for state and local governments,
-notified about 100 organizations that they were vulnerable and
-potentially compromised, said Randy Rose, the organization’s vice
-president. Those warned included public schools and universities.
-The process took six hours Saturday night — much longer than it
-otherwise would have, because the threat-intelligence and
-incident-response teams have been cut by 65 percent as CISA
-slashed funding, Rose said.</p>
-</blockquote>
-
-<p><a href="https://daringfireball.net/linked/2025/04/16/dingalings-cut-off-funding-for-cve">Another</a> DOGE success story.</p>
-
-<div>
-<a  title="Permanent link to ‘Hackers Exploit Zero-Day Microsoft SharePoint Exploit, Attacking Governments and Businesses Around the World’"  href="https://daringfireball.net/linked/2025/07/22/zero-day-microsoft-sharepoint-exploit">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Reuters: ‘Meta, X, and LinkedIn Appeal Unprecedented VAT Claim by Italy’</title>
-	<link rel="alternate" type="text/html" href="https://www.reuters.com/world/europe/meta-x-linkedin-appeal-unprecedented-vat-claim-by-italy-2025-07-21/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wh5" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/22/italy-meta-x-linkedin-tax" />
-	<id>tag:daringfireball.net,2025:/linked//6.42089</id>
-	<published>2025-07-22T15:31:57Z</published>
-	<updated>2025-07-22T17:09:53Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Reuters:</p>
-
-<blockquote>
-  <p>Italian tax authorities argue that free user registrations with X,
-LinkedIn and Meta platforms should be seen as taxable transactions
-as they imply the exchange of a membership account in return for a
-user’s personal data.</p>
-
-<p>The issue is especially sensitive given wider trade tensions
-between the EU and the administration of U.S. President Donald
-Trump. Italy is claiming 887.6 million euros ($1.03 billion) from
-Meta, 12.5 million euros from X and around 140 million euros from
-LinkedIn. [...]</p>
-
-<p>According to several experts consulted by Reuters, the Italian
-approach could affect almost all companies, from airlines to
-supermarkets to publishers, who link access to free services on
-their sites to users’ acceptance of profiling cookies.</p>
-</blockquote>
-
-<p>Charging a VAT on free account signups does not strike me as a good idea.</p>
-
-<div>
-<a  title="Permanent link to ‘Reuters: ‘Meta, X, and LinkedIn Appeal Unprecedented VAT Claim by Italy’’"  href="https://daringfireball.net/linked/2025/07/22/italy-meta-x-linkedin-tax">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘Google Solves Its Pixel 10 Leaks by Just Showing Us the Phone’</title>
-	<link rel="alternate" type="text/html" href="https://www.theverge.com/news/711033/google-pixel-10-design-tease-reveal" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wh4" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/22/google-pixel-10" />
-	<id>tag:daringfireball.net,2025:/linked//6.42088</id>
-	<published>2025-07-22T15:25:06Z</published>
-	<updated>2025-07-22T15:25:07Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jay Peters, The Verge:</p>
-
-<blockquote>
-  <p>Google’s Pixel 10 launch event is just under a month away, but the
-company is already revealing the official design of the base
-phone. You can currently see a video of the phone <a href="https://store.google.com/magazine/google_pixel_10">on Google’s
-website</a> (and below). It looks just like the official renders that
-<a href="https://www.theverge.com/news/710809/google-pixel-10-leaked-official-renders-third-telephoto-camera">leaked earlier today</a>, which showed that the phone will have a
-third back camera (which is rumored to be a telephoto sensor).</p>
-</blockquote>
-
-<p>That’s certainly one way to deal with leaks. It looks like a Pixel 9, which looks like an iPhone 12–16 with a different (but cool) camera mesa.</p>
-
-<div>
-<a  title="Permanent link to ‘‘Google Solves Its Pixel 10 Leaks by Just Showing Us the Phone’’"  href="https://daringfireball.net/linked/2025/07/22/google-pixel-10">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Will Wonders Never Cease?</title>
-	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2025-07-21/oracle-in-talks-for-100-million-skydance-paramount-cloud-deal" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wh3" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/21/skydance-oracle-deal" />
-	<id>tag:daringfireball.net,2025:/linked//6.42087</id>
-	<published>2025-07-22T00:59:53Z</published>
-	<updated>2025-07-22T00:59:53Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Brody Ford and Hannah Miller, reporting for Bloomberg:</p>
-
-<blockquote>
-  <p>Oracle Corp. is in discussions with Skydance Media LLC for a major
-software deal once the media company’s acquisition of Paramount
-Global is complete. The new arrangement is expected to be worth
-about $100 million per year, according to people familiar with the
-matter who asked not to be named speaking about the private
-discussions. The agreement would see Paramount and its
-subsidiaries using Oracle’s cloud software, the people said.</p>
-
-<p>Skydance was founded by David Ellison, the son of Oracle Chairman
-Larry Ellison.</p>
-</blockquote>
-
-<p>Reminiscent of <a href="https://daringfireball.net/linked/2025/07/14/musk-gives-himself-a-handshake">SpaceX’s $2 billion “investment” in xAI</a>. (<a href="https://x.com/pkafka/status/1947444354659787026">Via Peter Kafka</a>.)</p>
-
-<div>
-<a  title="Permanent link to ‘Will Wonders Never Cease?’"  href="https://daringfireball.net/linked/2025/07/21/skydance-oracle-deal">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
