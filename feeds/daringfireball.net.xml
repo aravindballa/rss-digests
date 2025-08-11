@@ -7,7 +7,60 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-08-09T20:04:28Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-08-11T16:47:27Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>AOL Pulls the Plug on Dial-Up Service</title>
+	<link rel="alternate" type="text/html" href="https://www.tomshardware.com/service-providers/network-providers/aol-will-end-dial-up-internet-service-in-september-34-years-after-its-debut-aol-shield-browser-and-aol-dialer-software-will-be-shuttered-on-the-same-day" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wik" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/11/aol-dialup" />
+	<id>tag:daringfireball.net,2025:/linked//6.42140</id>
+	<published>2025-08-11T16:46:50Z</published>
+	<updated>2025-08-11T16:47:27Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Mark Tyson at Tom’s Hardware:</p>
+
+<blockquote>
+  <p>AOL, now a Yahoo property, will end its dial-up internet service,
+the Public Switched Telephone Network (PSTN)-based internet
+connectivity service, on September 30, 2025. Its dial-up service
+has been publicly available for 34 years, and has provided many an
+internet surfer’s first taste of the WWW. AOL will also end its
+AOL Dialer software and AOL Shield browser. RIP slowband.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘AOL Pulls the Plug on Dial-Up Service’"  href="https://daringfireball.net/linked/2025/08/11/aol-dialup">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>WorkOS: Simplify MCP Authorization</title>
+	<link rel="alternate" type="text/html" href="https://workos.com/blog/mcp-authorization-in-5-easy-oauth-specs?utm_source=daringfireball&amp;utm_medium=display&amp;utm_campaign=q32025" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wij" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/10/workos-simplify-mcp-authorization" />
+	<id>tag:daringfireball.net,2025:/linked//6.42139</id>
+	<published>2025-08-11T03:00:00Z</published>
+	<updated>2025-08-11T16:43:47Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks to WorkOS for sponsoring DF last week. With WorkOS you can start selling to enterprises with just a few lines of code. It provides a complete User Management solution along with SSO, SCIM, and FGA. The APIs are modular and easy-to-use, allowing integrations to be completed in minutes instead of months. WorkOS simplifies MCP authorization with a single API built on five OAuth standards.</p>
+
+<p>Today, some of the fastest growing startups are already powered by WorkOS, including Perplexity, Vercel, and Webflow.</p>
+
+<p>For SaaS apps that care deeply about design and user experience, WorkOS is the perfect fit. From high-quality documentation to self-serve onboarding for your customers, it removes all the unnecessary complexity for your engineering team.</p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS: Simplify MCP Authorization’"  href="https://daringfireball.net/linked/2025/08/10/workos-simplify-mcp-authorization">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/08/gold_frankincense_and_silicon" />
 	<link rel="shorturl" href="http://df4.us/wii" />
@@ -2159,87 +2212,6 @@ might need an “App Store 3.0” reset.</p>
 
 <div>
 <a  title="Permanent link to ‘Yours Truly With David Barnard on the Sub Club Podcast’"  href="https://daringfireball.net/linked/2025/07/23/yours-truly-with-david-barnard-on-the-sub-club-podcast">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>The Financial Times Reports the UK Is Backing Down From Its Demand for Apple to Grant It an iCloud Encryption Backdoor</title>
-	<link rel="alternate" type="text/html" href="https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wh9" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/22/uk-backing-down-on-apple-encryption-backdoor" />
-	<id>tag:daringfireball.net,2025:/linked//6.42093</id>
-	<published>2025-07-22T17:34:09Z</published>
-	<updated>2025-07-22T17:54:50Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Anna Gross, Tim Bradshaw, and Lauren Fedor, reporting for the Financial Times (syndicated without paywall at Ars Technica):</p>
-
-<blockquote>
-  <p>Sir Keir Starmer’s government is seeking a way out of a clash with
-the Trump administration over the UK’s demand that Apple provide
-it with access to secure customer data, two senior British
-officials have told the Financial Times. The officials both said
-the Home Office, which ordered the tech giant in January to grant
-access to its most secure cloud storage system, would probably
-have to retreat in the face of pressure from senior leaders in
-Washington, including Vice President JD Vance.</p>
-
-<p>“This is something that the vice president is very annoyed about
-and which needs to be resolved,” said an official in the UK’s
-technology department. “The Home Office is basically going to have
-to back down.”</p>
-
-<p>Both officials said the UK decision to force Apple to break its
-end-to-end encryption — which has been raised multiple times by
-top officials in Donald Trump’s administration — could impede
-technology agreements with the US.</p>
-
-<p>“One of the challenges for the tech partnerships we’re working on
-is the encryption issue,” the first official said. “It’s a big red
-line in the US — they don’t want us messing with their tech
-companies.”</p>
-</blockquote>
-
-<p>One dystopian element of the UK’s Investigatory Powers Act is that when companies are issued demands under the law — which critics in the UK call “the Snoopers’ Charter” — it’s a criminal offense subject to imprisonment to reveal to anyone that the UK government issued the demand. You will recall that after receiving this demand, in February this year <a href="https://daringfireball.net/2025/02/apple_pulls_advanced_data_protection_from_the_uk">Apple pulled iCloud Advanced Data Protection from users in the UK</a>.</p>
-
-<p>What I don’t like about the Financial Times’s framing of this is that they describe it only in terms of politics between the Trump administration and Starmer’s. This is not merely about a foreign government “messing with their tech companies”. It’s fundamentally about privacy and security. It is a human rights and civil liberties issue, first and foremost. The Trump administration is on the correct and just side of this issue. Whether they’re on the correct side for the right reasons, I don’t know, but that’s what’s most important here. A secret backdoor is abhorrent from all perspectives: privacy, security, civil liberties. (Not to mention impossible cryptographically with E2EE — mandating a backdoor is effectively banning E2EE, which is why Apple pulled Advanced Data Protection from the UK.)</p>
-
-<p>Conversely, one reason the UK went through with this demand is that <a href="https://daringfireball.net/linked/2025/02/26/wapo-biden-justice-department-backdoor">the Biden administration was, disgracefully, on the wrong side of this</a>, choosing to look the other way and lie to Congress about what the UK was planning to do.</p>
-
-<div>
-<a  title="Permanent link to ‘The Financial Times Reports the UK Is Backing Down From Its Demand for Apple to Grant It an iCloud Encryption Backdoor’"  href="https://daringfireball.net/linked/2025/07/22/uk-backing-down-on-apple-encryption-backdoor">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>OS 26 Beta 4’s Are Out</title>
-	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2025/07/22/apple-seeds-ios-26-beta-4/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wh8" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/22/os-26-beta-4" />
-	<id>tag:daringfireball.net,2025:/linked//6.42092</id>
-	<published>2025-07-22T17:07:53Z</published>
-	<updated>2025-07-23T01:23:17Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Juli Clover, MacRumors:</p>
-
-<blockquote>
-  <p>Apple today provided developers with the fourth betas of <a href="https://www.macrumors.com/roundup/ios-26/">iOS
-26</a> and <a href="https://www.macrumors.com/roundup/ipados-26/">iPadOS 26</a> for testing purposes, with the
-updates coming two weeks after Apple <a href="https://www.macrumors.com/2025/07/07/apple-seeds-ios-26-beta-3/">seeded the third
-betas</a>.</p>
-</blockquote>
-
-<p><a href="https://www.macrumors.com/2025/07/22/apple-seeds-macos-tahoe-beta-4/">MacOS</a>, <a href="https://www.macrumors.com/2025/07/22/apple-seeds-watchos-26-beta-4/">WatchOS, tvOS, and VisionOS</a> too, all in lockstep. Also, a <a href="https://www.macrumors.com/2025/07/22/ios-26-beta-4-features/">good first look at what’s changed in iOS 26 beta 4 from beta 3</a>. Some of the things Apple is tweaking between betas <a href="https://mastodon.social/@gruber/114899907908341231">need more than minor tweaking</a>. Also: Apple Intelligence summaries for news notifications <a href="https://www.macrumors.com/2025/07/22/ios-26-beta-4-notification-summaries/">are back</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘OS 26 Beta 4’s Are Out’"  href="https://daringfireball.net/linked/2025/07/22/os-26-beta-4">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
