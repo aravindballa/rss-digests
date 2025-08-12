@@ -7,7 +7,49 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-08-12T00:18:39Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-08-12T01:31:18Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>‘The Quid Pro Quo Arrangement Is Unprecedented’</title>
+	<link rel="alternate" type="text/html" href="https://www.ft.com/content/cd1a0729-a8ab-41e1-a4d2-8907f4c01cac" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wiq" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/11/quid-pro-quo-financial-times" />
+	<id>tag:daringfireball.net,2025:/linked//6.42146</id>
+	<published>2025-08-12T01:13:54Z</published>
+	<updated>2025-08-12T01:31:18Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Demetri Sevastopulo and Michael Acton, reporting for the Financial Times:</p>
+
+<blockquote>
+  <p>Nvidia and AMD have agreed to give the US government 15 per cent
+of the revenues from chip sales in China, as part of an unusual
+arrangement with the Trump administration to obtain export
+licences for the semiconductors. [...]</p>
+
+<p>The quid pro quo arrangement is unprecedented. According to export
+control experts, no US company has ever agreed to pay a portion of
+their revenues to obtain export licences.</p>
+
+<p>But the deal <a href="https://www.ft.com/content/4273254b-6e1f-4cb1-bca7-19c7389c719a">fits a pattern</a> in the Trump administration
+where the president urges companies to take measures, such as
+domestic investments, for example, to prevent the imposition of
+tariffs in an effort to bring in jobs and revenue to America.</p>
+</blockquote>
+
+<p>This FT report starts out on shaky ground, using <a href="https://daringfireball.net/linked/2025/08/11/unusual-agreements">the same “unusual agreement” euphemism</a> as the WSJ and NYT reports, but they soon found a little backbone with “The quid pro quo arrangement is unprecedented.”</p>
+
+<p>This is not merely unusual. It is unprecedented. Seemingly, too, <a href="https://constitution.congress.gov/browse/essay/artI-S9-C5-1/ALDE_00013596/">plainly unconstitutional</a>.</p>
+
+<p>Quipped a friend: “Nvidia and AMD’s general counsels must be wondering how much of this money they can eventually get back, if we ever reverse the banana republic index.”</p>
+
+<div>
+<a  title="Permanent link to ‘‘The Quid Pro Quo Arrangement Is Unprecedented’’"  href="https://daringfireball.net/linked/2025/08/11/quid-pro-quo-financial-times">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://dekaf.com/df" />
 	<link rel="shorturl" href="http://df4.us/wip" />
@@ -2264,48 +2306,6 @@ them had no activity in the last month,” Google said in its <a href="https://d
 
 <div>
 <a  title="Permanent link to ‘goo.gl, Google’s Link Shortener, Will Stop Working Next Month’"  href="https://daringfireball.net/linked/2025/07/26/google-link-shortener">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>4chan Clowns Find Open Database of Images From Viral Women’s Dating Safety App ‘Tea’</title>
-	<link rel="alternate" type="text/html" href="https://www.404media.co/women-dating-safety-app-tea-breached-users-ids-posted-to-4chan/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/whe" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/26/4chan-tea-breach" />
-	<id>tag:daringfireball.net,2025:/linked//6.42098</id>
-	<published>2025-07-26T14:35:12Z</published>
-	<updated>2025-07-29T01:49:30Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Emanuel Maiberg and Joseph Cox, reporting for 404 Media:</p>
-
-<blockquote>
-  <p>Users from 4chan claim to have discovered an exposed database
-hosted on Google’s mobile app development platform, Firebase,
-belonging to the newly popular women’s dating safety app Tea.
-Users say they are rifling through peoples’ personal data and
-selfies uploaded to the app, and then posting that data online,
-according to screenshots, 4chan posts, and code reviewed by 404
-Media. In a statement to 404 Media, Tea confirmed the breach also
-impacted some direct messages but said that the data is from two
-years ago.</p>
-
-<p>Tea, which claims to have more than 1.6 million users, reached the
-top of the App Store charts this week and has tens of thousands of
-reviews there. The app aims to provide a space for women to
-exchange information about men in order to stay safe, and verifies
-that new users are women by asking them to upload a selfie.</p>
-</blockquote>
-
-<p><a href="https://apps.apple.com/us/app/tea-dating-advice/id6444453051">Tea</a> jumped to the top spot in the App Store (it’s still at #4 as I type this, trailing only ChatGPT, Netflix, and Amazon Prime Video) and has been getting a lot of <a href="https://www.businessinsider.com/tea-app-women-share-anonymous-dating-reviews-goes-viral-2025-7">coverage this week</a>. A wide open, publicly accessible database of users’ driver’s licenses and self portraits is, to say the least, pretty egregious.</p>
-
-<p>I’m not accusing Tea in particular of being vibe-coded, but I do wonder if this sort of thing is going to become commonplace as more apps and services come online after being developed in slapdash AI-assisted manners.</p>
-
-<div>
-<a  title="Permanent link to ‘4chan Clowns Find Open Database of Images From Viral Women’s Dating Safety App ‘Tea’’"  href="https://daringfireball.net/linked/2025/07/26/4chan-tea-breach">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
