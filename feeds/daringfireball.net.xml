@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-08-12T21:29:56Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-08-12T21:37:17Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>Perplexity Made an Offer to Buy TikTok — Well, Half of TikTok — Back in January</title>
 	<link rel="alternate" type="text/html" href="https://apnews.com/article/tiktok-bytedance-trump-perplexity-87988733973760927bb5681f7de9b9af" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wis" />
@@ -47,7 +47,7 @@ into effect.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/12/perplexity-jumps-shark-stunt-offer-to-buy-chrome" />
 	<id>tag:daringfireball.net,2025:/linked//6.42147</id>
 	<published>2025-08-12T19:25:48Z</published>
-	<updated>2025-08-12T21:01:07Z</updated>
+	<updated>2025-08-12T21:37:17Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -68,7 +68,7 @@ Estimates of Chrome’s enterprise value vary widely but recent ones
 have ranged from $20 billion to $50 billion.</p>
 </blockquote>
 
-<p>Perplexity apparently also told the Journal that the story was theirs exclusively, despite the fact that <a href="https://mastodon.social/@gruber/115017196029068928">they also revealed the stunt offer to Bloomberg as well</a>. Prefixing a headline with “Exclusive:” is irresistible catnip to business/investor-oriented publications. The Journal, at least, had the good sense to raise a skeptical eyebrow at the premise in its headline (“Perplexity Makes Longshot $34.5 Billion Offer for Chrome”). Bloomberg, not so much (“AI Startup Perplexity Makes $34.5 Billion Bid for Google’s Chrome Browser”).</p>
+<p>Perplexity apparently also told the Journal that the story was theirs exclusively, despite the fact that <a href="https://mastodon.social/@gruber/115017196029068928">they also revealed the stunt offer to Bloomberg as well</a>. Prefixing a headline with “Exclusive:” is irresistible catnip to business/investor-oriented publications. The Journal, at least, had the good sense to raise a skeptical eyebrow at the premise in its headline (“Perplexity Makes Longshot $34.5 Billion Offer for Chrome”<sup id="fnr1-2025-08-12"><a href="#fn1-2025-08-12">1</a></sup>). Bloomberg, not so much (“AI Startup Perplexity Makes $34.5 Billion Bid for Google’s Chrome Browser”).</p>
 
 <p>The whole premise is ludicrous. Start with the fact that Perplexity is only valued at $18 billion. Add to that the fact that Perplexity is almost certainly overvalued at that price. I don’t know anyone who uses Perplexity, and Perplexity doesn’t develop or run their own LLMs.</p>
 
@@ -77,6 +77,15 @@ have ranged from $20 billion to $50 billion.</p>
 <p>There are two things Chrome has that other Chromium browsers don’t: billions of users, and integration with Google account services. Chrome has those billions of users <em>because of</em> the Google account integration. Severed from Google, Chrome users would lose those essential features — possibly including Google Search — and they’d likely begin switching away in droves.</p>
 
 <p>I wrote just last week that <a href="https://daringfireball.net/linked/2025/08/05/regarding-those-rumors-of-apple-pursuing-an-acquisition-of-perplexity">Perplexity looks like a scam</a>. Someone is spreading rumors that Apple is sniffing around at buying them, despite the fact that the two companies are an absurdly bad cultural match. I think what’s happening is that the LLM chatbot field is maturing (exemplified by OpenAI’s <a href="https://daringfireball.net/2025/08/openai_chatgpt_models_emotional_attachment">launch of ChatGPT 5 last week</a>), and Perplexity CEO Aravind Srinivas is getting increasingly desperate. Desperate moves <a href="https://daringfireball.net/linked/2025/08/05/cloudflare-perplexity">to seek an edge in product</a>, and desperate moves to seek publicity that Perplexity’s product can’t garner on its meager merits.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1-2025-08-12">
+<p>Color me mildly surprised that the Journal’s style guide spells <em><a href="https://www.merriam-webster.com/dictionary/long%20shot">longshot</a></em> closed up.&nbsp;<a href="#fnr1-2025-08-12"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
+</li>
+</ol>
+</div>
 
 <div>
 <a  title="Permanent link to ‘Perplexity Jumps the Shark, Makes Clownish $34.5 Billion Stunt Offer to Buy Chrome From Google’"  href="https://daringfireball.net/linked/2025/08/12/perplexity-jumps-shark-stunt-offer-to-buy-chrome">&nbsp;★&nbsp;</a>
