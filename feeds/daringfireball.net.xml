@@ -7,7 +7,50 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-08-12T18:11:39Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-08-12T19:26:26Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Perplexity Jumps the Shark, Makes Clownish $34.5 Billion Stunt Offer to Buy Chrome From Google</title>
+	<link rel="alternate" type="text/html" href="https://www.wsj.com/tech/perplexity-ai-google-chrome-offer-5ddb7a22?st=r5gGet&amp;reflink=desktopwebshare_permalink" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wir" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/12/perplexity-jumps-shark-stunt-offer-to-buy-chrome" />
+	<id>tag:daringfireball.net,2025:/linked//6.42147</id>
+	<published>2025-08-12T19:25:48Z</published>
+	<updated>2025-08-12T19:26:26Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Katherine Blunt, reporting for The Wall Street Journal (main link is a paywall-puncturing gift link; <a href="https://apple.news/AM1sqivpIRdmGRm-i3uhOwg">also on News+</a>):</p>
+
+<blockquote>
+  <p>Artificial-intelligence startup Perplexity on Tuesday offered to
+purchase Google’s Chrome browser for $34.5 billion as it works to
+challenge the tech giant’s web-search dominance.</p>
+
+<p>Perplexity’s offer is significantly more than its own valuation,
+which is estimated at $18 billion. The company told The Wall
+Street Journal that several investors including large
+venture-capital funds had agreed to back the transaction in full.
+Estimates of Chrome’s enterprise value vary widely but recent ones
+have ranged from $20 billion to $50 billion.</p>
+</blockquote>
+
+<p>Perplexity apparently also told the Journal that the story was theirs exclusively, despite the fact that <a href="https://mastodon.social/@gruber/115017196029068928">they also revealed the stunt offer to Bloomberg as well</a>. Prefixing a headline with “Exclusive:” is irresistible catnip to business/investor-oriented publications. The Journal, at least, had the good sense to raise an eyebrow at the premise in its headline (“Perplexity Makes Longshot $34.5 Billion Offer for Chrome”). Bloomberg, not so much (“AI Startup Perplexity Makes $34.5 Billion Bid for Google’s Chrome Browser”).</p>
+
+<p>The whole premise is ludicrous. Start with the fact that Perplexity is only valued at $18 billion. Add to that the fact that Perplexity is almost certainly overvalued at that price. I don’t know anyone who uses Perplexity, and Perplexity doesn’t develop or run their own LLMs.</p>
+
+<p>But all of this stuff about Google possibly being forced (as a remedy in the <em>US v. Google</em> antitrust case they lost) to sell Chrome doesn’t really consider that Chrome, on its own, divested from Google and thus disconnected from Chrome users’ Google accounts, is likely worth little to nothing. <a href="https://daringfireball.net/2025/04/is_chrome_even_a_sellable_asset">I wrote about this at length back in April</a>. Chrome is tremendously valuable to Google. It has very little value on its own. Chrome generates no revenue on its own — it simply serves as an outlet for Google to show its own lucrative search ads without paying traffic acquisition fees to a browser owned by someone else (like, say, Apple or Mozilla or Samsung). <a href="https://www.chromium.org/">Chromium is open source</a>. <a href="https://www.microsoft.com/en-us/edge">Microsoft Edge</a> is forked from it. <a href="https://brave.com/">Brave</a> is forked from it. <a href="https://www.opera.com/">Opera</a> (remember them?) forked from it <a href="https://www.wired.com/2013/02/presto-is-dead-long-live-opera">over a decade ago</a>. Perplexity (or any actually credibly buyer of Chrome) could just start their own fork.</p>
+
+<p>There are two things Chrome has that other Chromium browsers don’t: billions of users, and integration with Google account services. Chrome has those billions of users <em>because of</em> the Google account integration. Severed from Google, Chrome users would lose those essential features — including Google Search — and they’d likely begin switching away in droves.</p>
+
+<p>I wrote just last week that <a href="https://daringfireball.net/linked/2025/08/05/regarding-those-rumors-of-apple-pursuing-an-acquisition-of-perplexity">Perplexity looks like a scam</a>. Someone is spreading rumors that Apple is sniffing around at buying them, despite the fact that the two companies are an absurdly bad cultural match. I think what’s happening is that the LLM chatbot field is maturing (exemplified by OpenAI’s <a href="https://daringfireball.net/2025/08/openai_chatgpt_models_emotional_attachment">launch of ChatGPT 5 last week</a>), and Perplexity CEO Aravind Srinivas is getting increasingly desperate. Desperate moves <a href="https://daringfireball.net/linked/2025/08/05/cloudflare-perplexity">to seek an edge in product</a>, and desperate moves to seek publicity that Perplexity’s product can’t garner on its meager merits.</p>
+
+<div>
+<a  title="Permanent link to ‘Perplexity Jumps the Shark, Makes Clownish $34.5 Billion Stunt Offer to Buy Chrome From Google’"  href="https://daringfireball.net/linked/2025/08/12/perplexity-jumps-shark-stunt-offer-to-buy-chrome">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘The Quid Pro Quo Arrangement Is Unprecedented’</title>
 	<link rel="alternate" type="text/html" href="https://www.ft.com/content/cd1a0729-a8ab-41e1-a4d2-8907f4c01cac" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wiq" />
@@ -2263,49 +2306,6 @@ and the volume was 100× what anyone thought.”</p>
 
 <div>
 <a  title="Permanent link to ‘Intel Needs a Big Customer for Foundry Business to Survive’"  href="https://daringfireball.net/linked/2025/07/26/intel-needs-a-big-customer">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>goo.gl, Google’s Link Shortener, Will Stop Working Next Month</title>
-	<link rel="alternate" type="text/html" href="https://www.theverge.com/news/713125/google-url-shortener-links-shutdown-deadline" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/whf" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/26/google-link-shortener" />
-	<id>tag:daringfireball.net,2025:/linked//6.42099</id>
-	<published>2025-07-26T17:30:22Z</published>
-	<updated>2025-08-03T16:41:27Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Emma Roth, The Verge:</p>
-
-<blockquote>
-  <p>Google will officially deprecate links generated with its URL
-shortening tool next month. On August 25th, 2025, all links in the
-<code>https://goo.gl/*</code> format will no longer work and return a 404
-error message.</p>
-
-<p>Google <a href="https://www.theverge.com/2018/3/31/17184164/google-alphabet-url-shortening-service-closed">shut down its URL shortener in 2019</a>, citing “changes
-we’ve seen in how people find content on the internet.” Links
-created with the tool continued to work since then, but Google
-<a href="https://www.theverge.com/2024/7/19/24201734/google-url-link-shortening-service-shut-down-support">announced last year</a> that it would begin deprecating them as
-traffic to the shortened URLs declined. “In fact more than 99% of
-them had no activity in the last month,” Google said in its <a href="https://developers.googleblog.com/en/google-url-shortener-links-will-no-longer-be-available/">July
-2024 blog post</a>.</p>
-</blockquote>
-
-<p>The heyday for link shorteners was the era when Twitter (a) was still Twitter, (b) had a 140-character post limit, and (c) counted characters such that each character of a URL counted toward the 140-character limit. None of those things are true anymore. But, still. <a href="https://www.w3.org/Provider/Style/URI">Cool URLs don’t change</a>.</p>
-
-<p>I’m sure it is true that 99 percent of goo.gl links had no activity in the past month. But I’m just as sure that it would cost next to nothing for Google to keep goo.gl up and running in perpetuity. I mean, 99 percent of <em>all</em> URLs probably had no activity in the last month. 99 percent of all books ever written weren’t read in the last month either, I bet — but that’s no excuse for libraries to throw them in the trash.</p>
-
-<p>It’s fine that Google stopped allowing for the creating of new links a while back, but there’s no reason they should ever stop redirecting existing links. The whole reason anyone might have used goo.gl instead of something like <a href="https://bit.ly/">bit.ly</a> is misplaced trust in Google. I trust Google with almost nothing long-term. Mark my words, they’re going to do this with Gmail accounts eventually.</p>
-
-<p><strong>Update:</strong> Google has come to its senses and <a href="https://daringfireball.net/linked/2025/08/03/google-reverses-course-on-googl">will keep these redirections working</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘goo.gl, Google’s Link Shortener, Will Stop Working Next Month’"  href="https://daringfireball.net/linked/2025/07/26/google-link-shortener">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
