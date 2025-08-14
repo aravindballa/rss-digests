@@ -7,7 +7,58 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-08-13T21:44:18Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-08-14T01:06:35Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Perplexity Is on the Prowl to Buy Web Browsers</title>
+	<link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/wild-chrome-bid-perplexity-hunting-browsers" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wiw" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/13/perplexity-on-the-prowl" />
+	<id>tag:daringfireball.net,2025:/linked//6.42152</id>
+	<published>2025-08-14T01:06:34Z</published>
+	<updated>2025-08-14T01:06:35Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>The Information (paywalled, alas):</p>
+
+<blockquote>
+  <p>In December, Perplexity discussed possibly buying the six-year-old
+The Browser Co. with that company’s leaders, according to two
+people with knowledge of the discussions. Talks with the company,
+which operates an AI-powered web browser, Dia, did not progress,
+and no price was discussed.</p>
+
+<p>OpenAI has also spoken to The Browser Co. executives about
+possibly selling to the ChatGPT creator, according to two people
+familiar with the discussions. Those discussions went further, to
+the point of a possible price, but ended after the two sides
+couldn’t agree on terms.</p>
+
+<p>Then, earlier this summer, Perplexity offered to buy Brave, a San
+Francisco–based company that runs a privacy-focused web browser
+and search engine, for around $1 billion, primarily in
+Perplexity’s stock, according to a person with direct knowledge of
+the situation. But the two sides couldn’t agree on price and the
+deal discussions didn’t move forward, the person said.</p>
+
+<p>Meanwhile, investors in Perplexity and DuckDuckGo tried to arrange
+meetings between the two companies’ leaders, according to people
+close to the companies. Perplexity CEO Srinivas and Gabriel
+Weinberg, CEO of 17-year-old DuckDuckGo, met and discussed
+Perplexity’s interest in acquiring browsers as a way of reaching
+more consumers, one of the people said. The conversations didn’t
+lead to any offer.</p>
+</blockquote>
+
+<p>DuckDuckGo is even more privacy-focused than Brave. <a href="https://spreadprivacy.com/privacy-simplified/">It’s their entire brand</a>. Perplexity isn’t privacy-focused at all. And Perplexity has already made their own browser, <a href="https://www.perplexity.ai/comet">Comet</a>, which is so cool you currently have to pay $200/month to get access to it. Comet is, unsurprisingly, forked from Chromium, and pretty much looks like an uglier version of Chrome. <a href="https://brave.com/">Brave Browser</a> looks almost exactly like Chrome (and is probably my favorite Chromium-based browser).</p>
+
+<div>
+<a  title="Permanent link to ‘Perplexity Is on the Prowl to Buy Web Browsers’"  href="https://daringfireball.net/linked/2025/08/13/perplexity-on-the-prowl">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/08/max_read_literary_history_fake_apple_texts" />
 	<link rel="shorturl" href="http://df4.us/wiv" />
@@ -2324,56 +2375,6 @@ might be one of the first people in the world to do it.</p>
 
 <div>
 <a  title="Permanent link to ‘SafeBase by Drata’"  href="https://daringfireball.net/linked/2025/07/26/safebase-by-drata">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>To Trust ICEBlock’s Anonymity, You Have to Trust Apple</title>
-	<link rel="alternate" type="text/html" href="https://www.theverge.com/cyber-security/707116/iceblock-data-privacy-security-android-version" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/whk" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/26/iceblock-trust-apple" />
-	<id>tag:daringfireball.net,2025:/linked//6.42104</id>
-	<published>2025-07-26T20:18:46Z</published>
-	<updated>2025-07-26T20:24:19Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Dominic Preston, writing at The Verge, regarding Android fans’ bristling at ICEBlock developer Joshua Aaron’s claims that an Android (or web) version of ICEBlock couldn’t provide the same level of privacy as the iOS version:</p>
-
-<blockquote>
-  <p>Aaron told The Verge ICEBlock is built around a single database in
-iCloud. When a user taps on the map to report ICE sightings, the
-location data is added to that database, and users within five
-miles are automatically sent a push notification alerting them.
-Push notifications require developers to have some way of
-designating which devices receive them, and while Aaron declined
-to say precisely how the notifications function, he said alerts
-are sent through Apple’s system, not ICEBlock’s, letting him avoid
-keeping his own database of users or their devices. “We utilized
-iCloud in kind of a creative way,” Aaron said. [...]</p>
-
-<p>But you might have spotted the problem: ICEBlock isn’t collecting
-device data on iOS, but only because similar data is stored with
-Apple instead.</p>
-
-<p>Apple maintains a database of which devices and accounts have
-installed a given app, and Carlos Anso from GrapheneOS told me
-that it likely also tracks device registrations for push
-notifications. For either ICEBlock’s iOS app or a hypothetical
-Android app, law enforcement could demand information directly
-from the company, cutting ICEBlock out of the loop. Aaron told me
-that he has “no idea what Apple would store,” and it “has nothing
-to do with ICEBlock.”</p>
-</blockquote>
-
-<p><a href="https://www.schneier.com/blog/archives/2025/07/security-vulnerabilities-in-iceblock.html">Bruce Schneier linked to this story</a> saying “the ICEBlock tool has vulnerabilities”, but I don’t think that’s a fair description. As far as we know, ICEBlock is as private as possible while still enabling push notifications, and a hypothetical Android version couldn’t be as private. But that privacy does depend on trust in Apple.</p>
-
-<p><strong>Also worth a note:</strong> Aaron’s wife, Carolyn Feinstein, was an auditor at the Department of Justice but <a href="https://www.newsweek.com/iceblock-app-founder-wife-fired-doj-carolyn-feinstein-2102214">was fired last month because of her husband’s app</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘To Trust ICEBlock’s Anonymity, You Have to Trust Apple’"  href="https://daringfireball.net/linked/2025/07/26/iceblock-trust-apple">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
