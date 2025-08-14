@@ -7,13 +7,13 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-08-14T21:45:43Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-08-14T23:19:57Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/08/apple_workaround_blood_oxygen_ban" />
 	<link rel="shorturl" href="http://df4.us/wiy" />
 	<id>tag:daringfireball.net,2025://1.42154</id>
 	<published>2025-08-14T21:45:42Z</published>
-	<updated>2025-08-14T21:45:43Z</updated>
+	<updated>2025-08-14T23:19:57Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -57,6 +57,8 @@ units purchased outside of the U.S.</p>
 
 <p>You will now find Blood Oxygen results in the Health app on your iPhone.</p>
 </blockquote>
+
+<p>(<strong>Update:</strong> I am reliably informed that you don’t need to take an ECG reading on the watch. Just opening the ECG app is enough to trigger the asset download needed by the Blood Oxygen app. I figured why not take a reading while I was in there, though.)</p>
 
 <p>The US Customs ruling that Apple is citing to allow them to offer this workaround — “HQ H351038”, per a source at Apple — <a href="https://rulings.cbp.gov/">is not yet publicly available</a>. But reading the between the lines, the implication is that US Customs has decided that Masimo’s patents only apply to on-device sensor processing (and display of results?).</p>
 
