@@ -7,13 +7,13 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-08-14T23:19:57Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-08-14T23:40:11Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/08/apple_workaround_blood_oxygen_ban" />
 	<link rel="shorturl" href="http://df4.us/wiy" />
 	<id>tag:daringfireball.net,2025://1.42154</id>
 	<published>2025-08-14T21:45:42Z</published>
-	<updated>2025-08-14T23:19:57Z</updated>
+	<updated>2025-08-14T23:40:11Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -48,7 +48,7 @@ units purchased outside of the U.S.</p>
 
 <p>What today’s workaround does is process <em>and</em> display the blood oxygen sensor data on your watch’s paired iPhone, rather than on the Apple Watch itself. That, apparently, is what the new US Customs ruling holds does not violate Masimo’s patent. No processing of the sensor data on the watch, and no display of the results on the watch. But the sensor that takes the measurements, of course, is on your watch. If you bought your Apple Watch before the ban, or you bought it outside the US, you still get on-watch processing and on-watch display of results. (Which means users outside the US still have a slightly better blood oxygen experience.)</p>
 
-<p>If your Apple Watch was affected by the import ban, after today’s software updates, you should be able to both initiate a blood oxygen reading manually (using the Blood Oxygen app on the Watch) and get automatic background readings, like when you’re wearing your watch while sleeping. What has changed for Series 9, Series 10, and Ultra 2 users in the US who didn’t have the original Blood Oxygen feature is where the measurement is <em>calculated</em> and <em>visible</em>. If you initiate a measurement while your watch is out of range of its paired iPhone, the results will be calculated on the iPhone once it is back in range.</p>
+<p>If your Apple Watch was affected by the import ban, after today’s software updates, you should be able to both initiate a blood oxygen reading manually (using the Blood Oxygen app on the Watch) and get automatic background readings, like when you’re wearing your watch while sleeping. What is different for Series 9, Series 10, and Ultra 2 models in the US that didn’t have the original Blood Oxygen feature, compared to models not affected by the US ban, is where the measurement is <em>calculated</em> and <em>visible</em>. If you initiate a measurement while your watch is out of range of its paired iPhone, the results will be calculated on the iPhone once it is back in range.</p>
 
 <p>Also important, and not clear at all from Apple’s initial announcement this morning: After the iOS 18.6.1 and WatchOS 11.6.1 software updates, the iPhone and Apple Watch need to download an over-the-air asset to enable the redesigned Blood Oxygen feature. This apparently may take up to 24 hours. Until this asset download happens, the Blood Oxygen app on your Apple Watch will still say “The Blood Oxygen app is no longer available”. To jump-start the download, users can open the Health app on their iPhone, and the ECG app on their Apple Watch. I was in this boat personally with an Ultra 2 from last year, and opening the Health app on my iPhone and taking an ECG reading on the watch did the trick — after that, launching the Blood Oxygen app on the watch <a href="https://daringfireball.net/misc/2025/08/blood-oxygen-app-watchos-11.6.1.png">showed a new message</a>:</p>
 
