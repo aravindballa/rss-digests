@@ -7,7 +7,65 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-08-14T15:52:18Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-08-14T21:45:43Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/08/apple_workaround_blood_oxygen_ban" />
+	<link rel="shorturl" href="http://df4.us/wiy" />
+	<id>tag:daringfireball.net,2025://1.42154</id>
+	<published>2025-08-14T21:45:42Z</published>
+	<updated>2025-08-14T21:45:43Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">What today’s workaround does is process and display the blood oxygen sensor data on your watch’s paired iPhone, rather than on the Apple Watch itself. That, apparently, is what the new US Customs ruling holds does not violate Masimo’s patent.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>Apple Newsroom this morning, “<a href="https://www.apple.com/newsroom/2025/08/an-update-on-blood-oxygen-for-apple-watch-in-the-us/">An Update on Blood Oxygen for Apple Watch in the U.S.”</a>”:</p>
+
+<blockquote>
+  <p>Apple will introduce a redesigned Blood Oxygen feature for
+some Apple Watch Series 9, Series 10, and Apple Watch Ultra 2
+users through an iPhone and Apple Watch software update coming
+later today.</p>
+
+<p>Users with these models in the U.S. who currently do not have the
+Blood Oxygen feature will have access to the redesigned Blood
+Oxygen feature by updating their paired iPhone to iOS 18.6.1 and
+their Apple Watch to watchOS 11.6.1. Following this update, sensor
+data from the Blood Oxygen app on Apple Watch will be measured and
+calculated on the paired iPhone, and results can be viewed in the
+Respiratory section of the Health app. This update was enabled by
+a recent U.S. Customs ruling.</p>
+
+<p>There will be no impact to Apple Watch units previously purchased
+that include the original Blood Oxygen feature, nor to Apple Watch
+units purchased outside of the U.S.</p>
+</blockquote>
+
+<p>The iOS 18.6.1 and WatchOS 11.6.1 updates appeared a few hours after Apple’s announcement.</p>
+
+<p>If you have an Apple Watch with the blood oxygen sensor purchased <em>outside</em> the US, you can ignore today’s news. You were never affected by the US International Trade Commission import ban (which stems from <a href="https://daringfireball.net/search/masimo">a patent lawsuit from a company named Masimo</a>), so today’s workaround isn’t necessary. The same goes for Series 9 and Ultra 2 models sold in the US prior to the ban taking effect in January 2024.</p>
+
+<p>What today’s workaround does is process <em>and</em> display the blood oxygen sensor data on your watch’s paired iPhone, rather than on the Apple Watch itself. That, apparently, is what the new US Customs ruling holds does not violate Masimo’s patent. No processing of the sensor data on the watch, and no display of the results on the watch. But the sensor that takes the measurements, of course, is on your watch. If you bought your Apple Watch before the ban, or you bought it outside the US, you still get on-watch processing and on-watch display of results. (Which means users outside the US still have a slightly better blood oxygen experience.)</p>
+
+<p>If your Apple Watch was affected by the import ban, after today’s software updates, you should be able to both initiate a blood oxygen reading manually (using the Blood Oxygen app on the Watch) and get automatic background readings, like when you’re wearing your watch while sleeping. What has changed for Series 9, Series 10, and Ultra 2 users in the US who didn’t have the original Blood Oxygen feature is where the measurement is <em>calculated</em> and <em>visible</em>. If you initiate a measurement while your watch is out of range of its paired iPhone, the results will be calculated on the iPhone once it is back in range.</p>
+
+<p>Also important, and not clear at all from Apple’s initial announcement this morning: After the iOS 18.6.1 and WatchOS 11.6.1 software updates, the iPhone and Apple Watch need to download an over-the-air asset to enable the redesigned Blood Oxygen feature. This apparently may take up to 24 hours. Until this asset download happens, the Blood Oxygen app on your Apple Watch will still say “The Blood Oxygen app is no longer available”. To jump-start the download, users can open the Health app on their iPhone, and the ECG app on their Apple Watch. I was in this boat personally with an Ultra 2 from last year, and opening the Health app on my iPhone and taking an ECG reading on the watch did the trick — after that, launching the Blood Oxygen app on the watch <a href="https://daringfireball.net/misc/2025/08/blood-oxygen-app-watchos-11.6.1.png">showed a new message</a>:</p>
+
+<blockquote>
+  <p>The Blood Oxygen App Has Changed</p>
+
+<p>You will now find Blood Oxygen results in the Health app on your iPhone.</p>
+</blockquote>
+
+<p>The US Customs ruling that Apple is citing to allow them to offer this workaround — “HQ H351038”, per a source at Apple — <a href="https://rulings.cbp.gov/">is not yet publicly available</a>. But reading the between the lines, the implication is that US Customs has decided that Masimo’s patents only apply to on-device sensor processing (and display of results?).</p>
+
+<p>I continue to think that Masimo is a patent troll. At the time they filed their complaint with the ITC, <a href="https://daringfireball.net/linked/2025/07/11/apple-masimo-appeals-court">they didn’t even have a smartwatch on the market</a>. And <a href="https://www.masimo.com/products/monitors/masimo-w1-medical-watch/">the smartwatch they now sell</a> — years after filing the complaint — looks like an Apple Watch with a second button instead of a digital crown. The two patents in question (<a href="https://patents.google.com/patent/US10912502B2/en">10,912,502</a> and <a href="https://patents.google.com/patent/US10945648B2/en">10,945,648</a>) are set to expire in August 2028, and I suspect this patent suit has been a last-ditch attempt to monetize them before they expire by extorting a settlement from Apple. Good luck with that now.</p>
+
+
+
+    ]]></content>
+  <title>★ Apple Issues a Workaround for the Blood Oxygen Sensor Ban for U.S. Apple Watches</title></entry><entry>
 	<title>The Annals of Oligarchy, Defense Department Edition</title>
 	<link rel="alternate" type="text/html" href="https://www.reuters.com/world/us/how-unraveling-two-pentagon-projects-may-result-costly-do-over-2025-08-13/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wix" />
@@ -1956,64 +2014,6 @@ this future.</p>
 
 	]]></content>
   </entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/07/tea_number_3_app_store" />
-	<link rel="shorturl" href="http://df4.us/whv" />
-	<id>tag:daringfireball.net,2025://1.42115</id>
-	<published>2025-07-30T18:17:13Z</published>
-	<updated>2025-07-30T22:34:07Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">Tea remains a chart-topping app in the App Store, but isn’t listed at all in Play Store top lists.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>Tea remains <a href="https://apps.apple.com/us/charts/iphone/top-free-apps/36">#3 overall in the US iPhone App Store</a>. Here’s a <a href="https://daringfireball.net/misc/2025/07/us-iphone-app-store-top-10-2025-07-30.png">screenshot of the top free iPhone apps today</a>, and a list of the current top 10, using the full names the apps choose to display:</p>
-
-<ol>
-<li>ChatGPT</li>
-<li>Wingstop</li>
-<li>Tea Dating Advice</li>
-<li>Threads</li>
-<li>Google</li>
-<li>Google Maps</li>
-<li>WhatsApp Messenger</li>
-<li>ParentSquare</li>
-<li>CapCut - Video Editor</li>
-<li>TikTok - Videos, Shop &amp; LIVE</li>
-</ol>
-
-<p>I might be forgetting or unaware of previous similar situations, but I can’t recall anything like this before, where an app riddled with <a href="https://daringfireball.net/linked/2025/07/28/tea-breach-worsens">outrageous security/privacy vulnerabilities</a> remains virally popular. A Hacker News thread from earlier today <a href="https://news.ycombinator.com/item?id=44732995">debates why the app is even still available on the App Store</a>.</p>
-
-<p>So is it Apple’s place to yank the app? It feels wrong to me that Apple should completely remove Tea from the App Store, but it’s also true that one of Apple’s fundamental pitches for the App Store — and the App Store’s exclusivity for app distribution in most of the world — is that iOS users can trust any and all apps in the App Store because they’re vetted by Apple. But here’s Tea, sitting at #3, providing a service that many women want, and the entire thing is shockingly untrustworthy. (I fully expect more vulnerabilities to be found and exploited.)</p>
-
-<p>Tea, unsurprisingly, has almost nothing on <a href="https://www.teaforwomen.com/">their website</a> about the security violations their users have suffered, nor any mention in their App Store listing. Their only public acknowledgement of the fiasco is a series of three Instagram posts on July <a href="https://www.instagram.com/theteapartygirls/p/DMjRl4CPE0z/">26</a>, <a href="https://www.instagram.com/theteapartygirls/p/DMl3E0TvoML/">27</a>, and <a href="https://www.instagram.com/theteapartygirls/p/DMrGSlrJA-e/">29</a> (the most recent of which acknowledges that they’ve completely disabled the DM feature “temporarily”), and <a href="https://www.teaforwomen.com/cyberincident">this FAQ</a> on their website, that, as far as I can tell, is only discoverable through the “links in bio” on their Instagram profile. Their FAQ only addresses the initial discovery from last week, not <a href="https://www.404media.co/a-second-tea-breach-reveals-users-dms-about-abortions-and-cheating/">the more significant one that 404 Media publicized Monday</a> that included the exposure of DMs.</p>
-
-<p>Also fascinating to me is that Tea, though available on both iOS <a href="https://play.google.com/store/apps/details?id=com.tea.tea&amp;hl=en_US&amp;gl=US">and Android</a>, is seemingly not popular at all on Android. It’s not even listed <a href="https://play.google.com/store/apps?hl=en_US">in the Play Store’s top free apps</a>. (The Play Store website lists only the top 45, but I scrolled through the entire top 200 on my Pixel.) The current Play Store top 10:</p>
-
-<ol>
-<li>ChatGPT</li>
-<li>TikTok - Videos, Shop &amp; LIVE</li>
-<li>Threads</li>
-<li>WhatsApp Messenger</li>
-<li>Temu: Shop Like a Billionaire</li>
-<li>Instagram</li>
-<li>TikTok Lite - Faster TikTok</li>
-<li>DramaBox - Stream Drama Shorts</li>
-<li>Cash App</li>
-<li>Snapchat</li>
-</ol>
-
-<p>More tellingly, Tea doesn’t even crack the Play Store top 200 list for the “Dating” category. (On iOS, it’s in the “Lifestyle” category, but on the Play Store it’s in the “Dating” and “Casual” categories. Perhaps Apple requires apps in the “Dating” category to be full-fledged dating app services, not dating-app-adjacent like Tea.)</p>
-
-<p>I’m not sure what explains the disparity in Tea’s popularity by platform. One assumption is that dating is more of a young person’s game, and young people skew slightly more toward iPhone than the US population overall. But from what I can tell, that skew is only about 10 percent. Also, surveys suggest <a href="https://www.sci-tech-today.com/stats/iphone-vs-android-user-statistics/">women are more likely to be iPhone users</a>. But I can’t believe that age or gender demographics alone explain why Tea is #3 in the App Store but doesn’t even crack the top 200 on Android.</p>
-
-<p>I strongly suspect that, although Google hasn’t removed Tea from the Play Store, they’ve delisted it from discovery other than by searching for it by name or following a direct link to its listing. That both jibes with what I’m seeing on the Play Store top lists, and strikes me as a thoughtful balance between the responsibilities of an app store provider. As egregious as Tea’s security exploits have been, removing the app entirely doesn’t seem called for. But delisting it from popularity lists seems like a measured way to discourage new users from trying it unless they’re specifically looking for it. If this is what Google is doing, Apple should follow their lead. (I’ve put in a question to Google’s PR inquiring about this; if/when I get an answer, I’ll update this article.)</p>
-
-
-
-    ]]></content>
-  <title>★ Tea, the Women’s Dating Gossip App Riddled With Security Vulnerabilities, Remains #3 on the US iPhone App Store</title></entry><entry>
 	<title>YouTube Is Rolling Out an Age-Estimation Algorithm to Identify US Teens</title>
 	<link rel="alternate" type="text/html" href="https://techcrunch.com/2025/07/29/youtube-rolls-out-age-estimatation-tech-to-identify-u-s-teens-and-apply-additional-protections/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/whu" />
