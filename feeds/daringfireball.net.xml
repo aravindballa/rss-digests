@@ -7,7 +7,44 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-08-15T15:51:58Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-08-15T21:42:54Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Keep Calm and Delete Your Old Emails to Conserve Water</title>
+	<link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/national-drought-group-meets-to-address-nationally-significant-water-shortfall" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wj3" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/15/keep-calm-and-delete-your-old-emails-to-conserve-water" />
+	<id>tag:daringfireball.net,2025:/linked//6.42159</id>
+	<published>2025-08-15T21:42:41Z</published>
+	<updated>2025-08-15T21:42:54Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>From a press release from the UK’s National Drought Group this week, quoting group chair Helen Wakeham (emphasis added):</p>
+
+<blockquote>
+  <p>“We are grateful to the public for following the restrictions,
+where in place, to conserve water in these dry conditions. Simple,
+everyday choices — such as turning off a tap or <em>deleting old
+emails</em> — also really helps the collective effort to reduce demand
+and help preserve the health of our rivers and wildlife.”</p>
+</blockquote>
+
+<p>To reaffirm that she did not misspeak, from a list of tips for conserving water at home, which includes legit tips like taking shorter showers and turning off the tap while brushing your teeth (<em>Sidenote: Who leaves the water running while brushing their teeth?</em>):</p>
+
+<blockquote>
+  <p>Delete old emails and pictures as data centres require vast
+amounts of water to cool their systems.</p>
+</blockquote>
+
+<p>This is so profoundly stupid and wrong that I don’t even know how to make fun of it. But it sure speaks to how futile it might be to hope that the UK government understand the first thing about end-to-end encryption. (<a href="https://www.threads.com/@jason_eccles/post/DNQv0HqMzgv">Via Jason Eccles</a>.)</p>
+
+<div>
+<a  title="Permanent link to ‘Keep Calm and Delete Your Old Emails to Conserve Water’"  href="https://daringfireball.net/linked/2025/08/15/keep-calm-and-delete-your-old-emails-to-conserve-water">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Woz: ‘I Am the Happiest Person Ever’</title>
 	<link rel="alternate" type="text/html" href="https://yro.slashdot.org/comments.pl?sid=23765914&amp;cid=65583466" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wj2" />
@@ -2278,59 +2315,6 @@ the game <em>Horizon Zero Originality</em>.</p>
 
 <div>
 <a  title="Permanent link to ‘Amazon Is Selling M4 MacBook Airs for $200 Off’"  href="https://daringfireball.net/linked/2025/07/29/amazon-m4-macbook-airs">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Microsoft Introduces ‘Copilot Mode’ in Edge</title>
-	<link rel="alternate" type="text/html" href="https://blogs.windows.com/msedgedev/2025/07/28/introducing-copilot-mode-in-edge-a-new-way-to-browse-the-web/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/whq" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/29/copilot-mode-in-microsoft-edge" />
-	<id>tag:daringfireball.net,2025:/linked//6.42110</id>
-	<published>2025-07-29T16:05:06Z</published>
-	<updated>2025-07-29T16:08:42Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Sean Lyndersay, general manager of Edge at Microsoft:</p>
-
-<blockquote>
-  <p>For decades, the way we’ve used browsers has remained linear: open
-a tab (or 20), search for something, read a page, repeat. It’s a
-model that’s worked well, but it hasn’t fundamentally changed.
-Until now. As AI begins to reshape nearly every facet of digital
-life, we’re witnessing a turning point in how we interact with the
-web. Now, it’s worth asking: is your browser working for you as
-much as it should?</p>
-</blockquote>
-
-<p>Color me skeptical about the idea that my web browser should be “working for me”, rather than serving as a tool for me to work with. The AI hype cycle is pointing to a future where automated agentic web browsers surf automated AI-generated websites. Robots consuming robot-generated content — an infinite loop of AI onanism.</p>
-
-<blockquote>
-  <p>This is why today we’re excited to launch Copilot Mode, a new
-experimental mode in Microsoft Edge, and our next step towards
-building a more powerful way to pilot the web.</p>
-
-<p>With Copilot Mode on, you enable innovative AI features in Edge
-that enhance your browser. It doesn’t just wait idly for you to
-click but anticipates what you might want to do next. It doesn’t
-just give you endless tabs to sift through but works with you as a
-collaborator that makes sense of it all. It keeps you browsing,
-cuts through clutter and removes friction to unlock your flow — all built to the highest Microsoft standards of security, privacy
-and performance trusted by billions of people and businesses
-worldwide — with you as the user always in control.</p>
-</blockquote>
-
-<p>Microsoft is famously known for presenting interfaces that “cut through clutter” and “remove friction”. I’m sure this will be great.</p>
-
-<p>I am reminded of the decade-ago <a href="https://daringfireball.net/linked/2013/01/29/hbo-netflix">Netflix strategy espoused by Ted Sarandos</a>: “The goal is to become HBO faster than HBO can become us.” I think something similar is behind Microsoft trying to make Copilot front-and-center in Edge, and <a href="https://daringfireball.net/linked/2025/07/29/chrome-ai-shopping">Google’s concurrent move to junk up Chrome</a> with AI-generated suggestions. Their goal is to make their web browsers chatbots faster than OpenAI can make ChatGPT a web browser.</p>
-
-<p>HBO is still around. It even just <a href="https://daringfireball.net/linked/2025/05/14/hbo-max-again">got its name back</a>. But Netflix won that race.</p>
-
-<div>
-<a  title="Permanent link to ‘Microsoft Introduces ‘Copilot Mode’ in Edge’"  href="https://daringfireball.net/linked/2025/07/29/copilot-mode-in-microsoft-edge">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
