@@ -7,7 +7,123 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-08-19T02:40:05Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-08-20T01:54:16Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>‘American’</title>
+	<link rel="alternate" type="text/html" href="https://kieranhealy.org/blog/archives/2025/06/28/american/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wja" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/19/kieran-healy-american" />
+	<id>tag:daringfireball.net,2025:/linked//6.42166</id>
+	<published>2025-08-20T01:46:59Z</published>
+	<updated>2025-08-20T01:54:16Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Kieran Healy on, just now — amidst all <em>this</em> — becoming an American citizen:</p>
+
+<blockquote>
+  <p>When I sat down to write something about becoming a citizen, I was immediately tangled up in a skein of questions about the character of citizenship, the politics of immigration, and the relationship of individuals to the state. These have all been in the news recently; perhaps you have heard about it. These questions ask how polities work, how they impose themselves upon us, how power is exercised. They are tied up with deep-rooted principles, claims and myths — as you please — about where authority comes from and how it is or whether it ever has been justly applied. These are not easy matters to understand in principle or resolve in practice. Nor can they simply be dismissed. But I am not writing this note because I want to take on these questions, even though I acknowledge them. I am writing this because I do not want to forget how I felt yesterday.</p>
+</blockquote>
+
+<p>Beautiful.</p>
+
+<div>
+<a  title="Permanent link to ‘‘American’’"  href="https://daringfireball.net/linked/2025/08/19/kieran-healy-american">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/08/iphone_mirroring_more_than_one_iphone" />
+	<link rel="shorturl" href="http://df4.us/wj9" />
+	<id>tag:daringfireball.net,2025://1.42165</id>
+	<published>2025-08-20T01:17:47Z</published>
+	<updated>2025-08-20T01:17:47Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">Long story short: there’s an “iPhone” menu under “Widgets” in System Settings → Desktop &amp; Dock.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>I’ve been using two iPhones throughout the summer — one running iOS 18, the other running iOS 26 betas. I found myself wanting to switch between them with iPhone Mirroring on my Mac, but couldn’t figure out how. The answer, from Apple Support, “<a href="https://support.apple.com/en-us/120421">iPhone Mirroring: Use your iPhone from your Mac</a>”:</p>
+
+<blockquote>
+  <p>If you have more than one iPhone that is both signed in to your
+Apple Account and nearby, you can choose the one that your Mac
+uses for mirroring and iPhone notifications:</p>
+
+<ol>
+<li><p>Choose Apple menu  > System Settings, then click Desktop &amp;
+Dock in the sidebar.</p></li>
+<li><p>Choose your iPhone from the iPhone pop-up menu on the right.
+This menu appears just below the “Use iPhone widgets” setting.
+It appears only when your Mac detects more than one nearby
+iPhone that can be used for mirroring.</p></li>
+</ol>
+</blockquote>
+
+<p>That pop-up menu is about halfway down the screen in Desktop &amp; Dock, in the “Widgets” section.<sup id="fnr1-2025-08-19"><a href="#fn1-2025-08-19">1</a></sup> I suspected this was possible, but I had to search the web (<a href="https://daringfireball.net/2025/04/try_switching_to_kagi">via Kagi</a>, the best search engine in the world, of course) to find the answer. I never would have thought to look in System Settings → Desktop &amp; Dock, let alone, even if I happened to look in that panel, all the way down under “Widgets”.</p>
+
+<p>Places where I <em>did</em> look:</p>
+
+<ul>
+<li>On the Mac, in the iPhone Mirroring app’s own Settings window. Nope.</li>
+<li>On the iPhone, in Settings → General → Airplay &amp; Continuity. This is where you can control which Mac or Macs your iPhone is available from with iPhone Mirroring (e.g. you can go here to revoke access from a certain Mac), but it doesn’t help you change which iPhone, among multiple, that any particular Mac connects to.</li>
+</ul>
+
+<p>To Apple’s credit, searching for “mirroring” in MacOS System Settings <a href="https://daringfireball.net/misc/2025/08/macos-18.6-settings-desktop-dock.png">does lead you to the correct setting</a>, but because it’s under “Widget settings”, I suspect some people who search for “mirroring” here will see that in the results list and not even bother clicking it, because “Widget settings” at first doesn’t sound like where you should go to choose between multiple phones for iPhone Mirroring. (It kind of makes sense, when you realize that the same iPhone that provides widgets to your Mac is the one available for iPhone Mirroring to connect to.)</p>
+
+<p>To Apple’s discredit, Siri is no help, despite Apple Intelligence’s supposed <a href="https://9to5mac.com/2025/02/26/this-is-every-apple-intelligence-feature-thats-available-now/">ability to harness “product knowledge”</a> from LLM training on Apple’s own support documents. After asking Siri, “How do I use multiple iPhones with iPhone mirroring?” on either a Mac or iPhone, I get a brief answer that says “You can set up more than one iPhone to use iPhone Mirroring with your Mac, but you can only connect to one iPhone at a time”, with a link to the iPhone User Guide that opens in the Tips app. That page in the iPhone User Guide, however — also available on the web as “<a href="https://support.apple.com/guide/mac-help/control-your-iphone-from-your-mac-mchl444d53a6/mac">Control Your iPhone From Your Mac</a>” — doesn’t contain any mention of using more than one iPhone with iPhone Mirroring. So <a href="https://support.apple.com/en-us/120421">this Apple Support document</a> on iPhone Mirroring does explain it (that’s the one I linked to at the top of this post), but <a href="https://support.apple.com/guide/mac-help/control-your-iphone-from-your-mac-mchl444d53a6/mac">this one does not</a>. No wonder Apple Intelligence’s “product knowledge”, trained on these documents, is somewhat confused.</p>
+
+<p>But it gets worse. I gave Siri a second chance on my Mac, asking the same question, something along the lines of “How do I use multiple iPhones with iPhone mirroring?” (I can’t be sure exactly which words I used because Siri doesn’t show a chat transcript<sup id="fnr2-2025-08-19"><a href="#fn2-2025-08-19">2</a></sup>), and the second time, <a href="https://daringfireball.net/misc/2025/08/siri-mirroring-nonsense.png">it responded thus</a>:</p>
+
+<blockquote>
+  <p>To use multiple iPhones with iPhone Mirroring:</p>
+
+<ol>
+<li>Open the iPhone Mirroring app on your Mac.</li>
+<li>Click the “Connect” button.</li>
+<li>Enter your iPhone passcode and choose how to authenticate.</li>
+<li>Select the iPhone you want to use from the list of available
+iPhones.</li>
+</ol>
+</blockquote>
+
+<p>This answer certainly describes one possible way that using multiple iPhones with iPhone Mirroring <em>should</em> work, but as an answer for how it actually <em>does</em> work, it’s abject nonsense. There is no “list of available iPhones” in the iPhone Mirroring app. If there were such a list to choose from, I’d never have had a question about this whole fucking thing in the first place.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn1-2025-08-19">
+<p>The first time I looked in the Desktop & Dock panel in System Settings, there was no “iPhone” pop-up menu visible, despite the fact that both of my active iPhones were on my desk, right next to my MacBook Pro. But I remembered that in the last few days, I’d been having problems with <a href="https://support.apple.com/en-us/102430">Continuity’s Universal Clipboard</a> feature too. In the past, when Universal Clipboard has gone on the fritz, I’ve solved the problem by toggling Bluetooth off and back on. I toggled Bluetooth on my Mac and boom, the “iPhone” menu appeared in the Desktop & Dock panel in System Settings, with the pop-up menu correctly listing both of my active iPhones. Universal Clipboard started working correctly again too. I bet the <em>next</em> version of Bluetooth is actually going to be reliable.&nbsp;<a href="#fnr1-2025-08-19"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;︎</a></p>
+</li>
+
+
+<li id="fn2-2025-08-19">
+<p>From Wayne Ma’s blockbuster report back in April at The Information, “<a href="https://daringfireball.net/linked/2025/04/10/wayne-ma-the-information-apple-siri-fumble">How Apple Fumbled Siri’s AI Makeover</a>”:</p>
+
+<blockquote>
+  <p>Giannandrea often has described to employees his belief that
+machine learning can lead to incremental improvements in products,
+eventually adding up to major gains, a concept he refers to as
+hill climbing. He also has expressed a dim view of chatbots in the
+past, telling Apple employees before and immediately after the
+release of ChatGPT that he didn’t believe they added much value
+for users.</p>
+</blockquote>
+
+<p><a href="https://x.com/nickaturley/status/1952385556664520875">ChatGPT reported 700 million weekly active users this month</a>, up from 500 million in March, and up 4× from last year.&nbsp;<a href="#fnr2-2025-08-19"  class="footnoteBackLink"  title="Jump back to footnote 2 in the text.">&#x21A9;&#xFE0E;</a></p>
+</li>
+
+</ol>
+</div>
+
+
+
+    ]]></content>
+  <title>★ How to Use iPhone Mirroring With More Than One iPhone</title></entry><entry>
 	<title>Bezos Numbers of the Week: Counterpoint Research on ‘Smart Glasses’</title>
 	<link rel="alternate" type="text/html" href="https://www.counterpointresearch.com/en/insights/post-insight-research-briefs-blogs-global-smart-glasses-shipments-soared-110-yoy-in-h1-2025-with-meta-capturing-over-70-share" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wj8" />
@@ -2073,67 +2189,6 @@ strategy, but I think it’s a good question.</p>
 
 	]]></content>
   </entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/08/substack_100_million_raise" />
-	<link rel="shorturl" href="http://df4.us/wi5" />
-	<id>tag:daringfireball.net,2025://1.42125</id>
-	<published>2025-08-03T23:23:27Z</published>
-	<updated>2025-08-07T15:21:13Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">I firmly believe one could build a very nice business taking 10 percent of subscription revenue for a blogging/newsletter platform, if you could get as nice a roster of popular writers to build on the platform as Substack has. I do not think that’s a $1 billion business, though.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>One last post on my recent Substack kick. Yesterday <a href="https://daringfireball.net/linked/2025/08/02/cox-substack" title="Daring Fireball: “Ana Marie Cox on the Shaky Foundation of Substack as a Business”">I linked</a> to <a href="https://newsletter.anamariecox.com/archive/substack-did-not-see-that-coming/" title="Ana Marie Cox: “Substack Did Not See That Coming”">Ana Marie Cox’s scathing analysis</a> of Substack’s financials. She published that on June 23, and wrote about Substack’s $100 million funding round, with a $1 billion valuation, in the future tense. Substack indeed closed that round in mid July, raising $100 million, with a valuation of $1.1 billion. After which their triumvirate of cofounders sat for an apparently brief “interview” <a href="https://www.nytimes.com/2025/07/17/business/substack-fundraising-social-network.html">with Benjamin Mullin and Jessica Testa of The New York Times</a>:</p>
-
-<blockquote>
-  <p>Substack’s business model is simple: Users subscribe to follow
-creators on the platform, and the company takes a 10 percent cut
-of the revenue when those creators charge for a newsletter
-subscription or access to a podcast. That approach initially made
-Substack a writer’s haven, resulting in more than five million
-paid subscriptions and a <a href="https://www.nytimes.com/2024/11/18/business/media/substack-politics-newsletters.html">stable of publishers</a>, including
-the short story master George Saunders, the historian Heather Cox
-Richardson and an <a href="https://www.nytimes.com/2025/03/31/business/media/tv-news-anchors-substack.html">exodus of journalists</a> from traditional
-newsrooms.</p>
-
-<p>But the latest investors are betting on an emerging product that
-could amplify its business. Substack’s app, introduced in 2022,
-allows users to chat with their favorite creators, watch <a href="https://digiday.com/media/how-substack-creators-are-pooling-audiences-with-live-video-co-hosting/">live
-video</a> conversations and write and share posts on their
-own feeds through Notes, a feature similar to X or Bluesky.</p>
-</blockquote>
-
-<p>If their business model were actually as simple as described, they’d already be profitable and wouldn’t have needed to raise another $100 million. They’ve already got a lot of subscribers. They’ve already got a stable of high-profile writers. They already keep 10 percent of what subscribers pay. And pointing to Twitter/X as the future model doesn’t exactly say “<em>Well that’s the path to enormous profits.</em>”</p>
-
-<blockquote>
-  <p>The sharp increase in Substack’s valuation — nearly 70 percent
-higher than its 2021 valuation of $650 million — is a validation
-of that strategy from Substack’s investors.</p>
-</blockquote>
-
-<p>Or, this could be like when a guy who just lost every dollar in his pocket playing blackjack withdraws a few more grand from the ATM in the casino. That doesn’t “validate the strategy”. What would validate Substack’s strategy is showing proof of actual profits and profitable growth. And if they had actual profits and profitable growth they wouldn’t have needed to raise another $100 million.</p>
-
-<blockquote>
-  <p>“The network is growing,” Mr. McKenzie said. “We’re in this new
-phase where people can come to Substack and not just publish, but
-also find new audiences and find new opportunity.” The company
-today is more interested in taking on YouTube than MailChimp.</p>
-</blockquote>
-
-<p>This, to me, is the nut <a href="https://library.fiveable.me/key-terms/introduction-journalism/graf">graf</a> of the whole NYT piece. Substack since its debut has presented itself as a platform <em>for writers</em> to build publications <em>for readers</em>. That’s how everyone I know who would endorse Substack would describe it. Hamish McKenzie, the cofounder quoted here, proudly claims <a href="https://on.substack.com/p/chief-writing-officer">the job title “Chief Writing Officer”</a>. Does a company “more interested in taking on YouTube than MailChimp [<em>sic</em>]” sound like a company focused on writers as talent and readers as users to you? (And it’s a little thing, but Mailchimp doesn’t style their name camel-case. You’ll be unsurprised to be reminded that <a href="https://www.poynter.org/reporting-editing/2017/by-dismantling-its-copy-desk-the-new-york-times-is-making-a-mistake-thats-been-made-before/">The New York Times dismantled its previously crackerjack copy desk</a> in 2017.)</p>
-
-<p>Now let’s do some rough back-of-the-envelope math. The New York Times Company has a market cap of $8.5 billion. Just gut-feeling-wise, I do not think Substack is worth one-eighth of the Times, nor do I think they’re on a path to get there. The Times has around 11 million digital subscribers who pay between $5–35/month (depending on their subscription tier), and a strong advertising business. Individual Substack publications tend to charge around $5–7/month, and Substack only gets 10 percent of that. So Substack only pockets like 50–70 <em>cents</em> per month from subscribers, per publication. (Substack’s 10 percent commission, <a href="https://daringfireball.net/2025/08/the_substack_branding_and_faux_prestige_trap">again</a>, is pretty high <a href="https://www.mollywhite.net/micro/entry/202504111009">compared to competing platforms</a>.) Substack currently has no advertising business at all, and many of their writers publish with them specifically because Substack, as we know it, has no ads.</p>
-
-<p>I firmly believe one could build a very nice business taking 10 percent of subscription revenue for a blogging/newsletter platform, if you could get as nice a roster of popular writers to build on the platform as Substack has. I do not think that’s a $1 billion business, though. And if it were, they should, at this point, be able to get there on their own, without additional funding. They should have achieved profitability lift-off long ago.</p>
-
-<p>But what do I know, other than running a profitable independent website for the last 20 or so years?</p>
-
-
-
-    ]]></content>
-  <title>★ Substack Raised Another $100 Million, Which, I Bet, Is Already Being Flushed Down the Same Toilet as Their First $100 Million</title></entry><entry>
 	<title>How to Leave Substack</title>
 	<link rel="alternate" type="text/html" href="https://leavesubstack.com/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wi3" />
@@ -2394,33 +2449,4 @@ user security.</li>
 </div>
 
 	]]></content>
-  </entry><entry>
-	<title>Zuckerberg on ‘Personal Superintelligence’</title>
-	<link rel="alternate" type="text/html" href="https://www.meta.com/superintelligence/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/whw" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/07/31/zuckerberg-personal-superintelligence" />
-	<id>tag:daringfireball.net,2025:/linked//6.42116</id>
-	<published>2025-07-31T14:49:22Z</published>
-	<updated>2025-07-31T19:39:11Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Mark Zuckerberg, concluding a 600-word essay ostentatiously typeset in the style of web pages circa 1994<sup>*</sup>:</p>
-
-<blockquote>
-  <p>Meta believes strongly in building personal superintelligence that
-empowers everyone. We have the resources and the expertise to
-build the massive infrastructure required, and the capability and
-will to deliver new technology to billions of people across our
-products. I’m excited to focus Meta’s efforts towards building
-this future.</p>
-</blockquote>
-
-<p>What about the metaverse? Wasn’t that the thing? What Zuckerberg, and thus Meta, actually believe strongly in is jumping on whatever trend becomes a hype bubble. The company’s soul is empty.</p>
-
-<p><small>* Actual web pages from 1994 didn’t include nearly a megabyte of JavaScript to display 3 kilobytes of text.</small></p>
-
-<div>
-<a  title="Permanent link to ‘Zuckerberg on ‘Personal Superintelligence’’"  href="https://daringfireball.n
+  </entry></feed><!-- THE END -->
