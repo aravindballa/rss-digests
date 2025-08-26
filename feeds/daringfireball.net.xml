@@ -7,7 +7,82 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-08-26T22:14:19Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-08-26T22:36:57Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Elon Musk Bullshit Watch</title>
+	<link rel="alternate" type="text/html" href="https://x.com/elonmusk/status/1958852874236305793" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wjs" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/26/musk-bullshit-watch" />
+	<id>tag:daringfireball.net,2025:/linked//6.42184</id>
+	<published>2025-08-26T22:36:56Z</published>
+	<updated>2025-08-26T22:36:57Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Elon Musk, Friday:</p>
+
+<blockquote>
+  <p>Join @xAI and help build a purely AI software company called
+Macrohard. It’s a tongue-in-cheek name, but the project is
+very real!</p>
+
+<p>In principle, given that software companies like Microsoft do not
+themselves manufacture any physical hardware, it should be
+possible to simulate them entirely with AI.</p>
+</blockquote>
+
+<p>If it’s “a purely AI software company” why do they need to hire anyone?</p>
+
+<div>
+<a  title="Permanent link to ‘Elon Musk Bullshit Watch’"  href="https://daringfireball.net/linked/2025/08/26/musk-bullshit-watch">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Tulsi Gabbard Says the U.K. Government Has Backed Down From Its Demand for an iCloud Backdoor</title>
+	<link rel="alternate" type="text/html" href="https://x.com/DNIGabbard/status/1957623737232007638" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wjr" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/26/gabbar-uk-icloud-backdoor" />
+	<id>tag:daringfireball.net,2025:/linked//6.42183</id>
+	<published>2025-08-26T22:35:51Z</published>
+	<updated>2025-08-26T22:35:51Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Tulsi Gabbard — who, believe it or not, is the US director of national security — on X last week:</p>
+
+<blockquote>
+  <p>Over the past few months, I’ve been working closely with our
+partners in the UK, alongside @POTUS and @VP, to ensure Americans’
+private data remains private and our Constitutional rights and
+civil liberties are protected.</p>
+
+<p>As a result, the UK has agreed to drop its mandate for Apple to
+provide a “back door” that would have enabled access to the
+protected encrypted data of American citizens and encroached on
+our civil liberties.</p>
+</blockquote>
+
+<p><a href="https://www.bbc.com/news/articles/cdj2m3rrk74o">BBC News</a>:</p>
+
+<blockquote>
+  <p>The BBC understands Apple has not yet received any formal
+communication from either the US or UK governments. “We do not
+comment on operational matters, including confirming or denying
+the existence of such notices,” a UK government spokesperson said.</p>
+</blockquote>
+
+<p>Back in February, <a href="https://daringfireball.net/2025/02/apple_pulls_advanced_data_protection_from_the_uk">Apple pulled the Advanced Data Protection feature of iCloud from the UK</a>, in what it deemed a necessary move to comply with the UK demand. Until and if Apple restores the ADP feature in the UK, I wouldn’t consider this over. I hope it’s true, but a Trump official tweeting that it’s true doesn’t make it true.</p>
+
+<div>
+<a  title="Permanent link to ‘Tulsi Gabbard Says the U.K. Government Has Backed Down From Its Demand for an iCloud Backdoor’"  href="https://daringfireball.net/linked/2025/08/26/gabbar-uk-icloud-backdoor">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘Less Fun Than a Barrel of Crackers’</title>
 	<link rel="alternate" type="text/html" href="https://johnmccoy.org/2025/08/25/less-fun-than-a-barrel-of-crackers/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wjq" />
@@ -2020,109 +2095,6 @@ websites” on “the very same day the motion pictures are released.”</p>
 
 <div>
 <a  title="Permanent link to ‘Lawsuit Alleges That Meta Pirated and Seeded Massive Amounts of Porno for Years to Train AI’"  href="https://daringfireball.net/linked/2025/08/05/meta-porno-bittorrent">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Ghost 6.0</title>
-	<link rel="alternate" type="text/html" href="https://ghost.org/changelog/6/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wid" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/05/ghost-6" />
-	<id>tag:daringfireball.net,2025:/linked//6.42133</id>
-	<published>2025-08-05T23:59:23Z</published>
-	<updated>2025-08-05T23:59:46Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Ghost:</p>
-
-<blockquote>
-  <p>When we <a href="https://ghost.org/changelog/5/">announced Ghost 5.0</a> a few years ago, we were proud
-to share that Ghost’s revenue had hit $4M — while publisher
-earnings had surpassed $10M. It felt great to have such a clear
-sign that our goal to create a sustainable business model for
-independent creators was succeeding.</p>
-
-<p>Today, Ghost’s annual revenue is over $8.5M while total publisher
-earnings on Ghost have now surpassed $100M. [...]</p>
-
-<p>Unlike our venture-backed peers obsessed with growth at all costs,
-we’re structured as a non-profit foundation that serves publishers
-directly with open source software. We believe independent media
-cannot be beholden to proprietary tech companies, so Ghost
-publishers don’t just “own their email list” — they own the
-entire software stack that underpins their business, end to end.</p>
-
-<p>Not a centralized platform controlled by a single corporation, but
-open infrastructure that’s shared by everyone.</p>
-</blockquote>
-
-<p>Aside from <a href="https://daringfireball.net/search/substack">my feelings about Substack</a> — clearly the main target of Ghost’s shade-throwing here — it’s just great to see so many indie publishers and writers thriving on Ghost.</p>
-
-<div>
-<a  title="Permanent link to ‘Ghost 6.0’"  href="https://daringfireball.net/linked/2025/08/05/ghost-6">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Regarding Those Rumors of Apple Pursuing an Acquisition of Perplexity</title>
-	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2025/06/20/apple-discussing-perplexity-ai-bid/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wic" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/05/regarding-those-rumors-of-apple-pursuing-an-acquisition-of-perplexity" />
-	<id>tag:daringfireball.net,2025:/linked//6.42132</id>
-	<published>2025-08-05T22:58:14Z</published>
-	<updated>2025-08-12T18:11:39Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>MacRumors, on June 20:</p>
-
-<blockquote>
-  <p>Apple executives have been discussing the possibility of the
-company <a href="https://www.bloomberg.com/news/articles/2025-06-20/apple-executives-have-held-internal-talks-about-buying-ai-startup-perplexity">making a bid to acquire Perplexity AI</a>, according
-to Bloomberg’s Mark Gurman. Perplexity is one of the
-leading AI startups that has proven popular as an AI-infused
-web search engine.</p>
-</blockquote>
-
-<p>From that <a href="https://www.techmeme.com/250620/p23#a250620p23">Bloomberg report by Gurman</a>:</p>
-
-<blockquote>
-  <p>Adrian Perica, the company’s head of mergers and acquisitions, has
-weighed the idea with services chief Eddy Cue and top AI
-decision-makers, according to people with knowledge of the matter.
-The discussions are at an early stage and may not lead to an
-offer, said the people, who asked not to be identified because the
-matter is private.</p>
-
-<p>Such a deal would help Apple develop an AI-based search engine,
-part of efforts to cope with the potential loss of a longstanding
-arrangement with Google. That partnership, which involves making
-Google the default browser on devices, generates roughly $20
-billion a year for Apple — and is now under threat from US
-antitrust enforcers.</p>
-
-<p>To date, Apple executives haven’t discussed a bid with Perplexity
-management. Bloomberg News reported earlier Friday that Meta
-Platforms Inc. tried to buy Perplexity earlier this year.</p>
-
-<p>“We have no knowledge of any current or future M&amp;A discussions
-involving Perplexity,” the AI startup said in a statement. Apple
-declined to comment.</p>
-</blockquote>
-
-<p>I think, reading between the lines of Apple’s prepared remarks and Tim Cook’s and CFO Kevan Parekh’s answers to analyst questions last week after announcing quarterly earnings, that it doesn’t sound like they believe Apple needs to make a big acquisition in this space. Apple could probably acquire Perplexity for a lot less than it would cost to acquire other companies in the space, but that’s partly because Perplexity doesn’t develop or train its own models. Perplexity primarily puts up its own front end atop models from OpenAI, Anthropic, Mistral, Google, and xAI. I really don’t see what buying Perplexity would gain Apple.</p>
-
-<p>But even putting that aside, it just seems like Perplexity is sketchy. This whole thing where Cloudflare seemingly caught them redhanded ignoring robots.txt directives and masquerading their user-agent makes the company seem like a poor cultural fit for Apple. I can see why Meta, a company <a href="https://daringfireball.net/linked/2024/03/29/meta-onavo-snapchat">without a moral compass</a>, <a href="https://www.cnbc.com/2025/06/20/meta-perplexity-scale-ai-deal.html">approached Perplexity to sniff around</a> regarding an acquisition. That seems like a good cultural fit.</p>
-
-<p>I can’t see why Apple would want to get involved with a company like this though. Gurman’s report makes it sound like his sources are inside Apple, but man, this “Apple + Perplexity” thing feels more like something Perplexity would be seeding than one that Apple executives would be leaking.</p>
-
-<div>
-<a  title="Permanent link to ‘Regarding Those Rumors of Apple Pursuing an Acquisition of Perplexity’"  href="https://daringfireball.net/linked/2025/08/05/regarding-those-rumors-of-apple-pursuing-an-acquisition-of-perplexity">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
