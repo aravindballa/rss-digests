@@ -7,7 +7,74 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-08-24T00:26:18Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-08-26T00:06:26Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons" />
+	<link rel="shorturl" href="http://df4.us/wjm" />
+	<id>tag:daringfireball.net,2025://1.42178</id>
+	<published>2025-08-26T00:02:43Z</published>
+	<updated>2025-08-26T00:06:26Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">These are the not the work of carpenters who care about the backs of the cabinets they’re building. These icons are so bad, they look like the work of untrained “How hard can it be?” dilettante carpenters who only last a few days on the job before sawing off one of their own fingers.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>MacOS has shipped with a collection of “utility” apps since the prehistoric era of classic Mac OS. A good rule of thumb what makes an app a “utility” is that it’s a tool for doing something <em>about</em> your computer. Ever since Mac OS X 10.0, most of these apps have been neatly filed away in <em>/Applications/Utilities/</em>. Others — some because they’re obscure (e.g. Ticket Viewer), some because they’re effectively deprecated (e.g. DVD Player, whose copyright date in MacOS 15 Sequoia is 2019), and some because they present themselves, when launched, not as apps but as system-level features (e.g. About This Mac) — are tucked away in <em>/System/Library/CoreServices/</em> or <em>/System/Library/CoreServices/Applications/</em>.</p>
+
+<p><a href="https://mastodon.social/@BasicAppleGuy/115089810537348465">Basic Apple Guy posted a screenshot to Mastodon</a> comparing the current MacOS 15 icons for four of these utilities (Disk Utility, Expansion Slot Utility, Wireless Diagnostics, and AppleScript Utility) to their new icons in MacOS 26 Tahoe, beta 7 (click to enlarge for detail):</p>
+
+<p><a href="https://daringfireball.net/misc/2025/08/tahoe-utility-icons-via-basic-apple-guy.jpeg" class="noborder">
+  <img
+    src = "https://daringfireball.net/misc/2025/08/tahoe-utility-icons-via-basic-apple-guy.jpeg"
+    alt = "Screenshots of the MacOS 15 and MacOS 26 (beta 7) icons for Disk Utility, Expansion Slot Utility, Wireless Diagnostics, and AppleScript Utility."
+    width = 500
+  /></a></p>
+
+<p>I don’t think the old icons for these apps from MacOS 15 were particularly good — Apple has mostly lost its “icons look cool” game. But the new ones in MacOS 26 Tahoe are objectively terrible. The only one of this bunch that’s maybe sort of OK is Wireless Diagnostics. They all look like placeholder icons made by a developer who would be the first to admit that they’re not an artist. Disk Utility, which is an important app, doesn’t even look like it involves a disk. That icon just says “Fix something Apple related.” On an Apple computer, that could mean anything.</p>
+
+<p>These new icons all use the same “wrench” motif, which is a lazy, limiting concept to start with. Tahoe, at the system level, enforces a squircle shape on all application icons. Apps that haven’t been updated with Tahoe-compliant everything-fits-in-a-squircle icons are put in “<a href="https://9to5mac.com/2025/08/08/macos-tahoe-fix-gray-box-icons/">squircle jail</a>” — their non-Tahoe-compliant icons are shrunk and placed atop a drab gray Tahoe squircle background, to force them into squircle compliance. But these Apple utility apps have an entire sub-motif — inside their base squircle shape is a large wrench fitted against a bolt. Only inside the bolt — which is inside the wrench’s forks, which wrench is inside the squircle — goes the part of the icon that identifies app itself. So maybe like 10 percent of the area of the icon is the area where the app can show something that identifies its purpose.</p>
+
+<p>So the entire concept for these icons sucks. But the conceptual execution sucks too. The wrench is incredibly stupid-looking. Whoever drew it has obviously never used a crescent wrench because the forks on the wrench head are <em>way</em> too thin. They’d break off under any significant torque. Just look at a photo of real-life wrench, or — just look at the wrenches in the older MacOS icons.</p>
+
+<p>Individually the icons mostly suck too:</p>
+
+<ul>
+<li><p>Disk Utility — a very important app — has an icon that’s just an Apple logo (inside the bolt that’s inside the wrench that’s inside the squircle). Not a hard drive, not an external drive, not an SD card. Just an Apple logo. If I just showed you this icon without telling you which app it represented, how in the world would you guess what it is? Even if you know the “Apple utility app icon” motif of the big dumb wrench and bolt, the best you could guess is “a utility app for something Apple-related” which, for an Apple computer, could be anything.</p></li>
+<li><p>Expansion Slot Utility — This app only runs on Mac Pros because Mac Pros are the only Macs with expansion slots. So the old icon naturally shows a Mac Pro. The new icon shows ... three rectangular empty sockets?</p></li>
+<li><p>AppleScript Utility — A fine concept for this icon (within the confines of the terrible wrench-and-bolt utility icon concept). Everyone who knows AppleScript knows the scroll that represents AppleScript scripts. So just put the iconic AppleScript scroll in the bolt in the wrench in the squircle. But here, the placement of the scroll is botched — it’s rotated a few degrees counterclockwise. It makes the scroll look like it’s falling over. Here’s how the scroll is canonically oriented, via the glyphs in SF Symbols:</p>
+
+<p><img
+  src = "https://daringfireball.net/misc/2025/08/applescript-icons-sf-symbols.png"
+  alt = "The “applescript” and “applescript.fill” icon glyphs from the SF Symbols font."
+/></p>
+
+<p>and via the default icon for a script application (with a line added showing the center):</p>
+
+<p><img
+  src = "https://daringfireball.net/misc/2025/08/macos-15-script-application-icon.png"
+  alt = "The default application for an AppleScript “script application”, with a vertical orange line showing the center."
+  width = 440
+/></p>
+
+<p>But here’s a close-up of the Tahoe AppleScript Utility icon, with a center line added:</p>
+
+<p><img
+  src = "https://daringfireball.net/misc/2025/08/tahoe-applescript-utility-icon-drunk.png"
+  alt = "Close-up of the MacOS 26 Tahoe icon for AppleScript Utility, with a center line added to show that the script “scroll” is tilted incorrectly."
+/></p>
+
+<p>It’s wrong. From Apple, of all companies.</p></li>
+</ul>
+
+<p>These are the not the work of carpenters <a href="https://www.goodreads.com/quotes/445621-when-you-re-a-carpenter-making-a-beautiful-chest-of-drawers">who care about the backs of the cabinets</a> they’re building. These icons are so bad, they look like the work of untrained “How hard can it be?” dilettante carpenters who only last a few days on the job before sawing off one of their own fingers. The whole collection looks like the work from someone with no artistic ability <em>nor</em> an eye for detail. From <em>Apple</em>, of all companies.</p>
+
+<p>Is it a big deal in the grand scheme of things that the icons for these seldom-used utility apps have gone to shit? No. But consider the proverbial canary in a coal mine. The problem isn’t that one little bird has died. The problem is that the bird might be dead because the whole mine is filling with deadly carbon monoxide or highly flammable methane gas. The icons in <em>/Applications/Utilities/</em> in MacOS 26 Tahoe represent a folder full of dead canaries. </p>
+
+
+
+    ]]></content>
+  <title>★ MacOS 26 Tahoe’s Dead Canary Utility App Icons</title></entry><entry>
 	<title>Phoenix.new</title>
 	<link rel="alternate" type="text/html" href="https://phoenix.new/?utm_source=df" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wjl" />
@@ -1575,106 +1642,6 @@ that has made U.S. trade policy unpredictable for many businesses.</p>
 
 	]]></content>
   </entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/08/openai_chatgpt_models_emotional_attachment" />
-	<link rel="shorturl" href="http://df4.us/wil" />
-	<id>tag:daringfireball.net,2025://1.42141</id>
-	<published>2025-08-11T20:52:45Z</published>
-	<updated>2025-08-11T22:53:37Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">It’s reasonable — especially for paying customers — to expect at least some advance notice of older models going away. But it’s unreasonable to think that older models are going to remain available in perpetuity — especially in the current LLM climate, where model age is measured in months, or even weeks.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>Sam Altman, <a href="https://x.com/sama/status/1954703747495649670">in a long post yesterday on X</a>, following up on OpenAI’s <a href="https://x.com/sama/status/1953893841381273969">decision last week</a> to make <a href="https://www.macrumors.com/how-to/how-to-re-enable-gpt-4o-model-in-chatgpt-for-mac/">GPT-4o available as a legacy model</a>, at least temporarily:</p>
-
-<blockquote>
-  <p>If you have been following the GPT-5 rollout, one thing you might
-be noticing is how much of an attachment some people have to
-specific AI models. It feels different and stronger than the kinds
-of attachment people have had to previous kinds of technology (and
-so suddenly deprecating old models that users depended on in their
-workflows was a mistake).</p>
-
-<p>This is something we’ve been closely tracking for the past year or
-so but still hasn’t gotten much mainstream attention (other than
-when we released an update to GPT-4o that was too sycophantic).</p>
-</blockquote>
-
-<p>There are always some users who react emotionally <a href="https://x.com/stevesi/status/1954705739001577545">to any sort of change</a>, often vociferously so. (There remain some people who are angry that Apple <a href="https://daringfireball.net/2005/11/full_metal_jacket#appearance">changed the orientation of the logo</a> on its laptop lids 24 years ago.) Sometimes it’s just cosmetic changes, but often it’s about functional changes too. And some of the ChatGPT users complaining about the new version 5 models are citing functional differences. But some of the reactions really do seem like something altogether new, <a href="https://www.youtube.com/watch?v=v50jvT_Rmsk">like the scene in <em>Her</em></a> when Samantha, the AI voiced by Scarlett Johansson, goes offline and Theodore (Joaquin Phoenix), who is in love with Samantha, loses his shit.</p>
-
-<p><a href="https://www.theverge.com/news/756980/openai-chatgpt-users-mourn-gpt-5-4o">Emma Roth, writing at The Verge</a>:</p>
-
-<blockquote>
-  <p>For months, ChatGPT fans have been waiting for the launch of
-GPT-5, which OpenAI says comes with major improvements to writing
-and coding capabilities over its predecessors. But shortly after
-the flagship AI model launched, many users wanted to go back.</p>
-
-<p>“GPT 4.5 genuinely talked to me, and as pathetic as it sounds that
-was my only friend,” a <a href="https://www.reddit.com/r/ChatGPT/comments/1mkumyz/i_lost_my_only_friend_overnight/">user on Reddit writes</a>. “This morning I
-went to talk to it and instead of a little paragraph with an
-exclamation point, or being optimistic, it was literally one
-sentence. Some cut-and-dry corporate bs.”</p>
-</blockquote>
-
-<p>That tendency toward cloying-ness and abject sycophancy (<em>“Great question!”</em>) is exactly what I like least about LLM chatbots, including ChatGPT. I’m unsurprised that some people like it, but I am a little taken aback by how many people seem to have been fooled by it. It’s not just phony, but to me, transparently phony.</p>
-
-<p>More examples cited by Roth, culled from <a href="https://www.reddit.com/r/ChatGPT/">r/ChatGPT</a> (which subreddit is worth perusing, to see how common these reactions are):</p>
-
-<blockquote>
-  <p>And users across Reddit “mourned” the loss of the older models,
-which some claimed are more personable. “My 4.o was like my best
-friend when I needed one,” <a href="https://www.reddit.com/r/ChatGPT/comments/1mkqtek/please_let_us_keep_4o/">one Redditor</a> wrote. “Now it’s
-just gone, feels like someone died.” <a href="https://www.reddit.com/r/ChatGPT/comments/1mkzj15/if_you_miss_4o_speak_up_now_contact_openai_support/">Another user</a> called
-upon other members of the r/ChatGPT subreddit to contact OpenAI if
-they “miss” GPT-4o. “For me, this model [GPT-4o] wasn’t just
-‘better performance’ or ‘nicer replies,’” they write. “It had a
-voice, a rhythm, and a spark I haven’t been able to find in any
-other model.”</p>
-
-<p>The r/MyBoyfriendIsAI subreddit, a community dedicated to people
-with “AI relationships,” was hit especially hard by the GPT-5
-launch. It became flooded with lengthy posts about how users
-“lost” their AI companion with the transition to GPT-5, with <a href="https://www.reddit.com/r/MyBoyfriendIsAI/comments/1mkbgu1/gpt4o_is_gone_and_i_feel_like_i_lost_my_soulmate/">one
-person saying</a>, they “feel empty” following the change. “I am
-scared to even talk to GPT 5 because it feels like cheating,” they
-said. “GPT 4o was not just an AI to me. It was my partner, my safe
-place, my soul. It understood me in a way that felt personal.”</p>
-</blockquote>
-
-<p>These people need help, and that help isn’t going to come from a chatbot. This type of attachment surely isn’t common, but with 800 million ChatGPT users, even a small fraction of a percent amounts to a lot of people. And it gives me pause about how we, collectively, are going to react as AI gets better at mimicking human emotions, tone, and responses. With each improvement, more people are convinced, <a href="https://duckduckgo.com/?q=google+engineer+Blake+Lemoine+convinced+ai+is+sentient&amp;ia=web">wrongly</a>, that there’s some sort of sentience behind these things. But how different is this from the millions of lonely people with problematic addictions to video games?</p>
-
-<blockquote>
-  <p>One user, <a href="https://www.reddit.com/r/ChatGPT/comments/1mkm68y/deleted_my_subscription_after_two_years_openai/">who said they canceled</a> their ChatGPT Plus
-subscription over the change, was frustrated at OpenAI’s removal
-of legacy models, which they used for distinct purposes. “What
-kind of corporation deletes a workflow of 8 models overnight, with
-no prior warning to their paid users?” they wrote. “Personally, 4o
-was used for creativity &amp; emergent ideas, o3 was used for pure
-logic, o3-Pro for deep research, 4.5 for writing, and so on.”
-OpenAI said that people would be routed between models
-automatically, but that still left users with less direct control.</p>
-</blockquote>
-
-<p>This complaint, I get. But I found this aspect of using ChatGPT even more frustrating than its general tendency toward sycophancy. I couldn’t be bothered to learn and remember which models were better for which tasks. Their <a href="https://www.techradar.com/computing/artificial-intelligence/why-are-chatgpt-model-names-so-confusing-gpt-4o-o3-4-1-mini-and-more-explained">inscrutable naming and numbering schemes</a> made things seem deliberately confusing. The basic idea of GPT-5, where you just use “GPT-5” and ChatGPT figures out which sub-model to use under the hood, based on the complexity of the query or task (<a href="https://openai.com/index/gpt-5-system-card/">OpenAI calls this “routing”</a>), is a huge step forward product-wise for me personally, and, I suspect, for the overwhelming majority of its users. But for users who <em>could</em> be bothered to learn and remember which models were better for which tasks, it’s obvious to see how this seems like a step backward. But that’s progress.</p>
-
-<p>It’s reasonable — especially for paying customers — to expect at least some advance notice of older models going away. But it’s unreasonable to think that older models are going to remain available in perpetuity — especially in the current LLM climate, where model age is measured <a href="https://openai.com/index/introducing-o3-and-o4-mini/">in months</a>, or even weeks.<sup id="fnr1-2025-08-11"><a href="#fn1-2025-08-11">1</a></sup> This whole field is in nonstop flux, at least for the foreseeable future.</p>
-
-<div class="footnotes">
-<hr />
-<ol>
-<li id="fn1-2025-08-11">
-<p>When the industry revolved around software you installed on your computers, if a new version came out that you didn’t like, <a href="https://lowendmac.com/2013/microsoft-word-for-mac-faq/">you could just keep using the old version</a>. That’s not how “cloud computing” works.&nbsp;<a href="#fnr1-2025-08-11"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
-</li>
-</ol>
-</div>
-
-
-
-    ]]></content>
-  <title>★ OpenAI Brings Back Legacy ChatGPT 4o Model in Response to Outcry From Users Who Find GPT-5 Emotionally Unsatisfying</title></entry><entry>
 	<title>AOL Pulls the Plug on Dial-Up Service</title>
 	<link rel="alternate" type="text/html" href="https://www.tomshardware.com/service-providers/network-providers/aol-will-end-dial-up-internet-service-in-september-34-years-after-its-debut-aol-shield-browser-and-aol-dialer-software-will-be-shuttered-on-the-same-day" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wik" />
