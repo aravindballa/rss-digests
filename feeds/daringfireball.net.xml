@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-08-26T17:55:32Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-08-26T19:44:26Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>Apple Event on September 9: ‘Awe Dropping’</title>
 	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2025/08/26/apple-september-2025-event/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wjp" />
@@ -104,7 +104,7 @@ always wins.</p>
 	<link rel="shorturl" href="http://df4.us/wjm" />
 	<id>tag:daringfireball.net,2025://1.42178</id>
 	<published>2025-08-26T00:02:43Z</published>
-	<updated>2025-08-26T17:01:31Z</updated>
+	<updated>2025-08-26T19:44:26Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -122,11 +122,11 @@ always wins.</p>
     width = 500
   /></a></p>
 
-<p>I don’t think the old icons for these apps from MacOS 15 were particularly good — Apple has mostly lost its “icons look cool” game. But the new ones in MacOS 26 Tahoe are objectively terrible. The only one of this bunch that’s maybe sort of OK is Wireless Diagnostics. They all look like placeholder icons made by a developer who would be the first to admit that they’re not an artist. Disk Utility, which is an important app, doesn’t even look like it involves a disk.</p>
+<p>I don’t think the old icons for these apps from MacOS 15 were particularly good — Apple has mostly lost its “<a href="https://mastodon.social/@BasicAppleGuy/115050148901528749">icons</a> <a href="https://mastodon.social/@BasicAppleGuy/115072885331562510">look</a> <a href="https://mastodon.social/@BasicAppleGuy/114948306713250918">cool</a>” game. But the new ones in MacOS 26 Tahoe are objectively terrible. The only one of this bunch that’s maybe sort of OK is Wireless Diagnostics. They all look like placeholder icons made by a developer who would be the first to admit that they’re not an artist. Disk Utility, which is an important app, doesn’t even look like it involves a disk.</p>
 
 <p>These new icons all use the same “wrench” motif, which is a lazy, limiting concept to start with. Tahoe, at the system level, enforces a squircle shape on all application icons. Apps that haven’t been updated with Tahoe-compliant everything-fits-in-a-squircle icons are put in “<a href="https://9to5mac.com/2025/08/08/macos-tahoe-fix-gray-box-icons/">squircle jail</a>” — their non-Tahoe-compliant icons are shrunk and placed atop a drab gray Tahoe squircle background, to force them into squircle compliance. But these Apple utility apps have an entire sub-motif — inside their base squircle shape is a large wrench fitted against a bolt. Only inside the bolt — which is inside the wrench’s jaws, which wrench is inside the squircle — goes the part of the icon that identifies app itself. So maybe like 10 percent of the area of the icon is the area where the app can show something that identifies its purpose.</p>
 
-<p>So the entire concept for these icons sucks. But the conceptual execution sucks too. The wrench is incredibly stupid-looking. Whoever drew it has obviously never used a crescent wrench because the jaws on the wrench head are <em>way</em> too thin. They’d break off under any significant torque. Just look at a photo of real-life wrench, or just look at the wrenches in the older MacOS icons.</p>
+<p>So the entire concept for these icons sucks. But the conceptual execution sucks too. The wrench is incredibly stupid-looking. Whoever drew it has obviously never used an open-ended wrench because the jaws on the wrench head are <em>way</em> too thin. They’d break off under any significant torque. Just look at a photo of real-life wrench, or just <a href="https://mastodon.social/@BasicAppleGuy/115092733884236020">look at the wrench heads in the older MacOS icons</a> (or Apple’s 🔧 emoji, for that matter).</p>
 
 <p>Individually the icons mostly suck too:</p>
 
