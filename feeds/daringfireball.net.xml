@@ -41,4 +41,41 @@
 
 <ul>
 <li><p>Disk Utility — a very important app — has an icon that’s just an Apple logo (inside the bolt that’s inside the wrench that’s inside the squircle). Not a hard drive, not an external drive, not an SD card. Just an Apple logo. If I just showed you this icon without telling you which app it represented, how in the world would you guess what it is? Even if you know the “Apple utility app icon” motif of the big dumb wrench and bolt, the best you could guess is “a utility app for something Apple-related” which, for an Apple computer, could be anything.</p></li>
-<li><p>Expansion Slot Utility — This app only runs on Mac Pros because Mac Pros are the only Macs with expansion slots. So the old icon naturally shows a Mac Pro. The new icon shows ... three rectang<!-- THE END -->
+<li><p>Expansion Slot Utility — This app only runs on Mac Pros because Mac Pros are the only Macs with expansion slots. So the old icon naturally shows a Mac Pro. The new icon shows ... three rectangular empty sockets?</p></li>
+<li><p>AppleScript Utility — A fine concept for this icon (within the confines of the terrible wrench-and-bolt utility icon concept). Everyone who knows AppleScript knows the scroll that represents AppleScript scripts. So just put the iconic AppleScript scroll in the bolt in the wrench in the squircle. But here, the placement of the scroll is botched — it’s rotated a few degrees counterclockwise. It makes the scroll look like it’s falling over. Here’s how the scroll is canonically oriented, via the glyphs in SF Symbols:</p>
+
+<p><img
+  src = "https://daringfireball.net/misc/2025/08/applescript-icons-sf-symbols.png"
+  alt = "The “applescript” and “applescript.fill” icon glyphs from the SF Symbols font."
+/></p>
+
+<p>and via the default icon for a script application (with a line added showing the center):</p>
+
+<p><img
+  src = "https://daringfireball.net/misc/2025/08/macos-15-script-application-icon.png"
+  alt = "The default application for an AppleScript “script application”, with a vertical orange line showing the center."
+  width = 440
+/></p>
+
+<p>But here’s a close-up of the Tahoe AppleScript Utility icon, with a center line added:</p>
+
+<p><img
+  src = "https://daringfireball.net/misc/2025/08/tahoe-applescript-utility-icon-drunk.png"
+  alt = "Close-up of the MacOS 26 Tahoe icon for AppleScript Utility, with a center line added to show that the script “scroll” is tilted incorrectly."
+/></p>
+
+<p>It’s wrong.</p></li>
+</ul>
+
+<p>These are the not the work of carpenters <a href="https://www.goodreads.com/quotes/445621-when-you-re-a-carpenter-making-a-beautiful-chest-of-drawers">who care about the backs of the cabinets</a> they’re building. These icons are so bad, they look like the work of untrained “How hard can it be?” dilettante carpenters who only last a few days on the job before sawing off one of their own fingers. The whole collection looks like the work from someone with no artistic ability <em>nor</em> an eye for detail. From <em>Apple</em>, of all companies.</p>
+
+<p>Is it a big deal in the grand scheme of things that the icons for these seldom-used utility apps have gone to shit? No. But consider the proverbial canary in a coal mine. The problem isn’t that one little bird has died. The problem is that the bird might be dead because the whole mine is filling with deadly carbon monoxide or highly flammable methane gas. The icons in <em>/Applications/Utilities/</em> in MacOS 26 Tahoe represent a folder full of dead canaries. </p>
+
+
+
+    ]]></content>
+  <title>★ MacOS 26 Tahoe’s Dead Canary Utility App Icons</title></entry><entry>
+	<title>Phoenix.new</title>
+	<link rel="alternate" type="text/html" href="https://phoenix.new/?utm_source=df" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wjl" />
+	<link rel="related" type="text/html" href="https://dar<!-- THE END -->
