@@ -7,7 +7,44 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-08-27T15:03:06Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-08-27T15:59:57Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Masimo Sues U.S. Customs and Border Patrol Over Apple Watch Blood Oxygen Ruling</title>
+	<link rel="alternate" type="text/html" href="https://news.bloomberglaw.com/ip-law/masimo-sues-us-customs-over-apple-restoring-watchs-oxygen-tool" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wjw" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/27/masimo-sues-cbp" />
+	<id>tag:daringfireball.net,2025:/linked//6.42188</id>
+	<published>2025-08-27T15:47:20Z</published>
+	<updated>2025-08-27T15:47:20Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Christopher Yasiejko, reporting last week for Bloomberg Law:</p>
+
+<blockquote>
+  <p>CBP exceeded its authority in an Aug. 1 internal advice ruling
+that overturned its own January decision without notice or input
+from Masimo, the medical-device maker said in a <a href="https://www.bloomberglaw.com/public/document/MASIMOCORPORATIONvUNITEDSTATESCUSTOMSANDBORDERPROTECTIONetalDocke?doc_id=X7CR5AGJN19VIQVF66HVETLJRF">complaint</a>
+filed Wednesday in the US District Court for the District of
+Columbia. Masimo brought claims under the Administrative Procedure
+Act and the Fifth Amendment’s due process clause.</p>
+</blockquote>
+
+<p><a href="https://rulings.cbp.gov/ruling/H351038">The CBP ruling is available here</a>. <!-- Hosted copy in /misc/ for posterity. --> As I read the CPB ruling, Apple’s argument goes something like this:</p>
+
+<p>Masimo’s patents (the validity of which Apple disputes, but that’s neither here nor there for this ruling) cover a non-invasive device worn on the user’s body, that reads blood oxygen levels by shining light of various wavelengths through the skin, computes the reading on the device, and shows the result on device. With Apple’s workaround for watches sold in the US, the computation and the display of results occur off-device (on the paired iPhone), and thus the “redesigned” blood oxygen feature doesn’t violate Masimo’s patents.</p>
+
+<p>The CBP’s investigation centered around whether the Masimo patents were “limiting” — which seems to mean a device that does all these things: the sensors, the computation of results, and the display of results. Masimo argued that the patents weren’t limiting, and apparently made no argument for how the import ban on Apple Watches should stand if the patents were found by CBP to be limiting. The CBP asked the International Trade Commission — the outfit that instituted the import ban — whether they considered the Masimo patents to be limiting, and the ITC responded yes, they did, that that was the entire basis of the import ban.</p>
+
+<p><a href="https://www.bloomberglaw.com/public/document/MASIMOCORPORATIONvUNITEDSTATESCUSTOMSANDBORDERPROTECTIONetalDocke?doc_id=X7CR5AGJN19VIQVF66HVETLJRF">Masimo’s new complaint against the CBP</a> makes mention of Apple’s Trump-pleasing <a href="https://www.apple.com/newsroom/2025/02/apple-will-spend-more-than-500-billion-usd-in-the-us-over-the-next-four-years/">series</a> <a href="https://www.apple.com/newsroom/2025/07/apple-expands-us-supply-chain-with-500-million-usd-commitment/">of</a> <a href="https://www.apple.com/newsroom/2025/08/apple-increases-us-commitment-to-600-billion-usd-announces-ambitious-program/">announcements</a> related to investments in US manufacturing, leaving it to the reader to insinuate the implication that there’s a quid pro quo at play with the CBP ruling. But the CBP ruling’s timeline makes clear that much of the investigation took place during the Biden administration in 2024. It reads to me like that same decision would have been made, at the same time, if Kamala Harris had won last year’s election. But that’s the problem with a pay-to-play corrupt government like Trump’s, and Tim Cook’s willingness to play along to any degree, no matter how mild. By currying favor with Trump, it now looks like any decision from the U.S. government that goes in Apple’s favor might be <em>because</em> Apple curried favored with Trump. I genuinely do not believe that’s the case here. The ITC ruling was based an interpretation of Masimo’s patents that they were limited to user-worn devices that read, compute, <em>and</em> display blood oxygen levels non-invasively, and given that U.S. Apple Watches no longer compute or display the results, they no longer violate Masimo’s patents.</p>
+
+<div>
+<a  title="Permanent link to ‘Masimo Sues U.S. Customs and Border Patrol Over Apple Watch Blood Oxygen Ruling’"  href="https://daringfireball.net/linked/2025/08/27/masimo-sues-cbp">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>The Talk Show: ‘Weird Turtle Fake Out’</title>
 	<link rel="alternate" type="text/html" href="https://daringfireball.net/thetalkshow/2025/08/25/ep-429" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wjv" />
@@ -322,7 +359,7 @@ always wins.</p>
 	<link rel="shorturl" href="http://df4.us/wjm" />
 	<id>tag:daringfireball.net,2025://1.42178</id>
 	<published>2025-08-26T00:02:43Z</published>
-	<updated>2025-08-26T21:52:25Z</updated>
+	<updated>2025-08-27T15:59:57Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -342,14 +379,14 @@ always wins.</p>
 
 <p>I don’t think the old icons for these apps from MacOS 15 were particularly good — Apple has mostly lost its “<a href="https://mastodon.social/@BasicAppleGuy/115050148901528749">icons</a> <a href="https://mastodon.social/@BasicAppleGuy/115072885331562510">look</a> <a href="https://mastodon.social/@BasicAppleGuy/114948306713250918">cool</a>” game. But the new ones in MacOS 26 Tahoe are objectively terrible. The only one of this bunch that’s maybe sort of OK is Wireless Diagnostics. They all look like placeholder icons made by a developer who would be the first to admit that they’re not an artist. Disk Utility, which is an important app, doesn’t even look like it involves a disk.</p>
 
-<p>These new icons all use the same “wrench” motif, which is a lazy, limiting concept to start with. Tahoe, at the system level, enforces a squircle shape on all application icons. Apps that haven’t been updated with Tahoe-compliant everything-fits-in-a-squircle icons are put in “<a href="https://9to5mac.com/2025/08/08/macos-tahoe-fix-gray-box-icons/">squircle jail</a>” — their non-Tahoe-compliant icons are shrunk and placed atop a drab gray Tahoe squircle background, to force them into squircle compliance. But these Apple utility apps have an entire sub-motif — inside their base squircle shape is a large wrench fitted against a bolt. Only inside the bolt — which is inside the wrench’s jaws, which wrench is inside the squircle — goes the part of the icon that identifies app itself. So maybe like 10 percent of the area of the icon is the area where the app can show something that identifies its purpose.</p>
+<p>These new icons all use the same “wrench” motif, which is a lazy, limiting concept to start with. Tahoe, at the system level, enforces a squircle shape on all application icons. Apps that haven’t been updated with Tahoe-compliant everything-fits-in-a-squircle icons are put in “<a href="https://9to5mac.com/2025/08/08/macos-tahoe-fix-gray-box-icons/">squircle jail</a>” — their non-Tahoe-compliant icons are shrunk and placed atop a drab gray Tahoe squircle background, to force them into squircle compliance. But these Apple utility apps have an entire sub-motif — inside their base squircle shape is a large wrench fitted against a bolt. Only inside the bolt — which is inside the wrench’s jaws, which wrench is inside the squircle — goes the part of the icon that identifies the app itself. So maybe like 10 percent of the area of the icon is the area where the app can show something that identifies its purpose.</p>
 
 <p>So the entire concept for these icons sucks. But the conceptual execution sucks too. The wrench is incredibly stupid-looking. Whoever drew it has obviously never used an open-end wrench because the jaws on the wrench head are <em>way</em> too thin. They’d break off under any significant torque. Just look at a photo of real-life wrench, or just <a href="https://mastodon.social/@BasicAppleGuy/115092733884236020">look at the wrench heads in the older MacOS icons</a> (or Apple’s 🔧 emoji, for that matter).</p>
 
 <p>Individually the icons mostly suck too:</p>
 
 <ul>
-<li><p>Disk Utility — a very important app — has an icon that’s just an Apple logo (inside the bolt that’s inside the wrench that’s inside the squircle). Not a hard drive, not an external drive, not an SD card. Just an Apple logo. If I just showed you this icon without telling you which app it represented, how in the world would you guess what it is? Even if you know the “Apple utility app icon” motif of the big dumb wrench and bolt, the best you could guess is “a utility app for something Apple-related” which, for an Apple computer, could be anything.</p></li>
+<li><p>Disk Utility — a very important app — has an icon that’s just an Apple logo (inside the bolt that’s inside the wrench that’s inside the squircle). Not a hard disk, not an external drive, not an SD card. Just an Apple logo. If I just showed you this icon without telling you which app it represented, how in the world would you guess what it is? Even if you know the “Apple utility app icon” motif of the big dumb wrench and bolt, the best you could guess is “a utility app for something Apple-related” which, for an Apple computer, could be anything.</p></li>
 <li><p>Expansion Slot Utility — This app only runs on Mac Pros because Mac Pros are the only Macs with expansion slots. So the old icon naturally shows a Mac Pro. The new icon shows ... three rectangular empty sockets?</p></li>
 <li><p>AppleScript Utility — A fine concept for this icon (within the confines of the terrible wrench-and-bolt utility icon concept). Everyone who knows AppleScript knows the scroll that represents AppleScript scripts. So just put the iconic AppleScript scroll in the bolt in the wrench in the squircle. But here, the placement of the scroll is botched — it’s rotated a few degrees counterclockwise. It makes the scroll look like it’s falling over. Here’s how the scroll is canonically oriented, via the glyphs in SF Symbols:</p>
 
@@ -1991,61 +2028,6 @@ people in the United States were still using dial-up internet.</p>
 
 <div>
 <a  title="Permanent link to ‘WorkOS: Simplify MCP Authorization’"  href="https://daringfireball.net/linked/2025/08/10/workos-simplify-mcp-authorization">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>OpenAI: ‘Introducing gpt-oss’</title>
-	<link rel="alternate" type="text/html" href="https://openai.com/index/introducing-gpt-oss/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wih" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/06/gpt-oss" />
-	<id>tag:daringfireball.net,2025:/linked//6.42137</id>
-	<published>2025-08-06T17:33:11Z</published>
-	<updated>2025-08-06T19:26:53Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>OpenAI:</p>
-
-<blockquote>
-  <p>We’re releasing gpt-oss-120b and gpt-oss-20b — two
-state-of-the-art open-weight language models that deliver strong
-real-world performance at low cost. Available under the flexible
-Apache 2.0 license, these models outperform similarly sized open
-models on reasoning tasks, demonstrate strong tool use
-capabilities, and are optimized for efficient deployment on
-consumer hardware. They were trained using a mix of reinforcement
-learning and techniques informed by OpenAI’s most advanced
-internal models, including o3 and other frontier systems.</p>
-
-<p>The gpt-oss-120b model achieves near-parity with OpenAI o4-mini on
-core reasoning benchmarks, while running efficiently on a single
-80 GB GPU. The gpt-oss-20b model delivers similar results to
-OpenAI o3‑mini on common benchmarks and can run on edge devices
-with just 16 GB of memory, making it ideal for on-device use
-cases, local inference, or rapid iteration without costly
-infrastructure. Both models also perform strongly on tool use,
-few-shot function calling, CoT reasoning (as seen in results on
-the Tau-Bench agentic evaluation suite) and HealthBench (even
-outperforming proprietary models like OpenAI o1 and GPT‑4o).</p>
-</blockquote>
-
-<p><a href="https://simonwillison.net/2025/Aug/5/gpt-oss/">Simon Willison</a>:</p>
-
-<blockquote>
-  <p>The long promised <a href="https://simonwillison.net/2025/Aug/5/gpt-oss/">OpenAI open weight models are here</a>, and
-they are <em>very</em> impressive. [...]</p>
-
-<p>o4-mini and o3-mini are <em>really good</em> proprietary models — I was
-not expecting the open weights releases to be anywhere near that
-class, especially given their small sizes. That gpt-oss-20b model
-should run quite comfortably on a Mac laptop with 32GB of RAM.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘OpenAI: ‘Introducing gpt-oss’’"  href="https://daringfireball.net/linked/2025/08/06/gpt-oss">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
