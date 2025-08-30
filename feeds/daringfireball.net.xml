@@ -7,7 +7,50 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-08-28T22:27:49Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-08-30T16:01:44Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Notable Improvements to Coding Intelligence in Xcode 26 Beta 7</title>
+	<link rel="alternate" type="text/html" href="https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wjz" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/30/notable-improvements-to-coding-intelligence-in-xcode-26-beta-7" />
+	<id>tag:daringfireball.net,2025:/linked//6.42191</id>
+	<published>2025-08-30T16:01:43Z</published>
+	<updated>2025-08-30T16:01:44Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>From Apple’s Xcode 26 Beta 7 release notes:</p>
+
+<blockquote>
+  <ul>
+<li><p>Claude in Xcode is now available in the Intelligence settings
+panel, allowing users to seamlessly add their existing paid
+Claude account to Xcode and start using Claude Sonnet 4.
+(155826755)</p></li>
+<li><p>When using ChatGPT in Xcode, users can now start a new
+conversation with either GPT-4.1 or GPT-5, with GPT-5 set as the
+default. (158342780)</p></li>
+<li><p>ChatGPT in Xcode provides two model choices. “GPT-5” is
+optimized for quick, high-quality results, and should work well
+for most coding tasks. For difficult tasks, choose “GPT-5
+(Reasoning)“, which spends more time thinking before responding,
+and can provide more accurate results for complex coding tasks.</p>
+
+<p>In the OpenAI API, “GPT-5” corresponds to the “minimal”
+reasoning level, and “GPT-5 (Reasoning)” corresponds to the
+“low” reasoning level. (159135374)</p></li>
+</ul>
+</blockquote>
+
+<p>That’s just three weeks from the <a href="https://openai.com/index/introducing-gpt-5/">launch of ChatGPT 5</a> to shipping support in Xcode. Also, these are just the built-in integrations. As announced at WWDC, Xcode 26 allows developers use their API keys from other AI models, or run local models (if they’re using an Apple Silicon Mac).</p>
+
+<div>
+<a  title="Permanent link to ‘Notable Improvements to Coding Intelligence in Xcode 26 Beta 7’"  href="https://daringfireball.net/linked/2025/08/30/notable-improvements-to-coding-intelligence-in-xcode-26-beta-7">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Trump Fires CDC Director, Anti-Vax Wingnuts Now Running Asylum</title>
 	<link rel="alternate" type="text/html" href="https://www.semafor.com/article/08/28/2025/white-house-fires-cdc-director-over-vaccine-disagreements" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wjy" />
@@ -1995,40 +2038,6 @@ next week. Thank you for your attention to this matter!</p>
 
 <div>
 <a  title="Permanent link to ‘Mad King Watch, Intel Edition’"  href="https://daringfireball.net/linked/2025/08/11/mad-king-watch-intel">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Trump Extends China Tariff Deadline by 90 Days, Again</title>
-	<link rel="alternate" type="text/html" href="https://www.cnbc.com/2025/08/11/trump-china-tariffs-deadline-extended.html" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wim" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/11/trump-chickens-out-again" />
-	<id>tag:daringfireball.net,2025:/linked//6.42142</id>
-	<published>2025-08-11T22:09:49Z</published>
-	<updated>2025-08-12T00:18:39Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>CNBC:</p>
-
-<blockquote>
-  <p>President Donald Trump on Monday delayed high U.S. tariffs on
-Chinese goods from snapping back into place for another 90 days, a
-White House official told CNBC. [...]</p>
-
-<p>Monday’s extension is the latest example of how Trump’s on-again,
-off-again tariffs have shifted with little prior notice, a dynamic
-that has made U.S. trade policy unpredictable for many businesses.</p>
-</blockquote>
-
-<p><a href="https://www.npr.org/2025/07/22/1256040785/trump-taco-wall-street-stock-market-tariffs">TACO</a> Tuesday, but on a Monday. What a country! America really is great again.</p>
-
-<p>Bonus question for the CNBC copy desk: how much water is the word <em>many</em> carrying in that closing sentence?</p>
-
-<div>
-<a  title="Permanent link to ‘Trump Extends China Tariff Deadline by 90 Days, Again’"  href="https://daringfireball.net/linked/2025/08/11/trump-chickens-out-again">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
