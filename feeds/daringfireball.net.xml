@@ -7,7 +7,84 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-08-30T16:01:44Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-08-31T14:07:13Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Walk the World</title>
+	<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/walk-the-world-virtual-trails/id6743502929" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wk1" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/31/walk-the-world" />
+	<id>tag:daringfireball.net,2025:/linked//6.42193</id>
+	<published>2025-08-31T14:07:12Z</published>
+	<updated>2025-08-31T14:07:13Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks to Impending for sponsoring last week at DF to promote their new app, Walk the World. You surely know some of Impending’s other apps, like the innovative checklist/task app <a href="https://www.useclear.com/">Clear</a>. Walk the World turns your steps — your real-world activity — into a new kind of virtual globe-trotting adventure. </p>
+
+<p>Wouldn’t it be cool to know you’ve walked the length of the Boston Marathon this past week? You can conquer iconic hikes and trails from around the world presented as gorgeous map milestones to complete with your hard earned steps. It’s a genuinely novel idea for gamifying activity, executed with an exquisite attention to detail and exuberant sense of joy. Walk the World isn’t quite a game, but it delivers game-like fun.</p>
+
+<p>If you enjoy or aspire to go on walks more regularly, and beautiful indie apps with fun new twists, this is your new healthy addiction. <a href="https://apps.apple.com/us/app/walk-the-world-virtual-trails/id6743502929">Try Walk the World free today for your iPhone</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Walk the World’"  href="https://daringfireball.net/linked/2025/08/31/walk-the-world">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>sosumi.ai: Apple Developer Docs for LLMs</title>
+	<link rel="alternate" type="text/html" href="https://sosumi.ai/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wk0" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/31/sosumi-ai" />
+	<id>tag:daringfireball.net,2025:/linked//6.42192</id>
+	<published>2025-08-31T13:54:38Z</published>
+	<updated>2025-08-31T13:58:03Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Sosumi.ai:</p>
+
+<blockquote>
+  <p>Ever notice Claude struggling to write Swift code? It might not be
+their fault!</p>
+
+<p>Apple Developer docs are locked behind JavaScript, making them
+invisible to most LLMs. If they try to fetch it, all they see is
+“<em>This page requires JavaScript. Please turn on JavaScript in your
+browser and refresh the page to view its content.</em>”</p>
+
+<p>This service translates Apple Developer documentation pages into
+AI-friendly Markdown.</p>
+</blockquote>
+
+<p>Perfect little audio easter egg on the page. Beautiful Markdown output too. Look at <a href="https://daringfireball.net/projects/markdown/">my boy</a>, all grown up, teaching robots how to program.</p>
+
+<p>I do regret, though, that I didn’t define or influence the <a href="https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks">fenced style for code blocks</a> though. If I had, instead of this:</p>
+
+<pre><code>```swift
+// An array of 'Int' elements
+let oddNumbers = [1, 3, 5, 7, 9, 11, 13, 15]
+```
+</code></pre>
+
+<p>You could do this, which looks so much better:</p>
+
+<pre><code>``` Swift:
+// An array of 'Int' elements
+let oddNumbers = [1, 3, 5, 7, 9, 11, 13, 15]
+```
+</code></pre>
+
+<p>Those all-lowercase language identifiers, with no preceding space, just look a little lazy. I realize why GitHub’s <code>```</code>-fenced code blocks took off (they’re the only code block style most Markdown users know, I suspect), but they <a href="https://daringfireball.net/linked/2025/08/31/sosumi-ai.text">don’t look nearly as nice</a>, to human readers, as <a href="https://daringfireball.net/projects/markdown/syntax#precode">my original tab-indented style</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘sosumi.ai: Apple Developer Docs for LLMs’"  href="https://daringfireball.net/linked/2025/08/31/sosumi-ai">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Notable Improvements to Coding Intelligence in Xcode 26 Beta 7</title>
 	<link rel="alternate" type="text/html" href="https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wjz" />
@@ -1916,128 +1993,6 @@ tariffs in an effort to bring in jobs and revenue to America.</p>
 
 <div>
 <a  title="Permanent link to ‘‘The Quid Pro Quo Arrangement Is Unprecedented’’"  href="https://daringfireball.net/linked/2025/08/11/quid-pro-quo-financial-times">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘Unusual Agreements’</title>
-	<link rel="alternate" type="text/html" href="https://www.wsj.com/tech/nvidia-amd-chip-sales-us-government-f9e34b5f?st=pdZkXp&amp;reflink=desktopwebshare_permalink" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wio" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/11/unusual-agreements" />
-	<id>tag:daringfireball.net,2025:/linked//6.42144</id>
-	<published>2025-08-12T00:04:42Z</published>
-	<updated>2025-08-12T00:05:11Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Amrith Ramkumar and Robbie Whelan, <a href="https://www.wsj.com/tech/nvidia-amd-chip-sales-us-government-f9e34b5f?st=pdZkXp&amp;reflink=desktopwebshare_permalink">reporting for The Wall Street Journal</a> (gift link):</p>
-
-<blockquote>
-  <p>Nvidia and Advanced Micro Devices have agreed to give the Trump
-administration a portion of the sales from their
-artificial-intelligence chips to China, unusual agreements that
-deepen their relationships with the U.S. government.</p>
-
-<p>The Trump administration will receive 15% of the sales as part of
-a deal to approve exports of Nvidia’s H20 AI chip to China,
-according to people familiar with the matter. That could amount
-to billions of dollars given demand for the H20 chips and is the
-latest example of the White House employing novel tactics to
-<a href="https://www.wsj.com/politics/policy/patent-system-overhaul-18e0f06f?mod=article_inline">raise revenue</a>. The administration has reached the same
-agreement with AMD for its MI308 chip, the people said. Details
-of the arrangements and the financial structures are still being
-worked out.</p>
-</blockquote>
-
-<p>Tripp Mickle, <a href="https://www.nytimes.com/2025/08/10/technology/us-government-nvidia-amd-chips-china.html?unlocked_article_code=1.dU8.gRPU.NCzEdPe_DR63&amp;smid=url-share">reporting on the same story for The New York Times</a> (also a gift link):</p>
-
-<blockquote>
-  <p>Nvidia and Advanced Micro Devices are expected to pay the United
-States 15 percent of the money they take in from selling
-artificial intelligence chips to China, as part of a highly
-unusual financial agreement with the Trump administration.</p>
-
-<p>On Wednesday, Jensen Huang, Nvidia’s chief executive, met with
-President Trump at the White House and agreed to give the federal
-government its 15 percent cut, essentially making the federal
-government a partner in Nvidia’s business in China, said the
-people familiar with the deal. The Commerce Department began
-granting licenses for A.I. chip sales two days later, these people
-said. [...]</p>
-
-<p>There are few precedents for the Commerce Department agreeing to
-grant licenses for exports in exchange for a share of revenue. But
-the unorthodox payments are consistent with Mr. Trump’s
-increasingly interventionist role in international business deals
-involving American companies. In June, the administration approved
-investment by Nippon Steel, a Japanese company, in U.S. Steel in a
-deal that included a so-called <a href="https://www.nytimes.com/2025/06/13/business/us-steel-nippon-steel-partnership-deal.html">golden share in the
-company</a>, a rarely used practice where the government takes
-a stake in a business.</p>
-</blockquote>
-
-<p><em>Unusual agreements</em> is quite the euphemism for a shakedown. US companies pay the Treasury a share of their revenue all the time, of course. That’s called taxation. But taxes are laws, written by Congress. There’s no tax here. Congress has played zero role whatsoever in these deals.</p>
-
-<p><a href="https://www.politico.com/news/2025/08/11/trump-defends-deal-to-sell-nvidia-export-control-license-00503778">CNN, today</a>:</p>
-
-<blockquote>
-  <p>President Donald Trump defended a deal he struck with Nvidia CEO
-Jensen Huang to allow the sale of certain semiconductor chips to
-China in exchange for the company giving the U.S. government 15
-percent of the revenue.</p>
-
-<p>“I said, ‘I want 20 percent if I’m going to approve this for
-you,’” Trump told reporters Monday during a White House press
-conference. “For the country, for our country. I don’t want it
-myself. … And he said, ‘Would you make it 15?‘ So we negotiate
-a little deal.”</p>
-</blockquote>
-
-<p>The tell here, revealing just how fucked up <a href="https://daringfireball.net/2025/08/gold_frankincense_and_silicon">this whole thing</a> is getting, is that Trump felt the need to say “For the country, for our country. I don’t want it myself.”</p>
-
-<div>
-<a  title="Permanent link to ‘‘Unusual Agreements’’"  href="https://daringfireball.net/linked/2025/08/11/unusual-agreements">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Mad King Watch, Intel Edition</title>
-	<link rel="alternate" type="text/html" href="https://truthsocial.com/@realDonaldTrump/posts/114987288040725570" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/win" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/11/mad-king-watch-intel" />
-	<id>tag:daringfireball.net,2025:/linked//6.42143</id>
-	<published>2025-08-11T22:17:26Z</published>
-	<updated>2025-08-11T22:17:27Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>The president of the United States, on his blog three days ago:</p>
-
-<blockquote>
-  <p>The CEO of INTEL is highly CONFLICTED and must resign,
-immediately. There is no other solution to this problem. Thank you
-for your attention to this problem!</p>
-</blockquote>
-
-<p>The president of the United States, <a href="https://truthsocial.com/@realDonaldTrump/posts/115012131343690532">on his blog today</a>:</p>
-
-<blockquote>
-  <p>I met with Mr. Lip-Bu Tan, of Intel, along with Secretary of
-Commerce, Howard Lutnick, and Secretary of the Treasury, Scott
-Bessent. The meeting was a very interesting one. His success and
-rise is an amazing story. Mr. Tan and my Cabinet members are going
-to spend time together, and bring suggestions to me during the
-next week. Thank you for your attention to this matter!</p>
-</blockquote>
-
-<p>Sane, steady, predictable leadership.</p>
-
-<div>
-<a  title="Permanent link to ‘Mad King Watch, Intel Edition’"  href="https://daringfireball.net/linked/2025/08/11/mad-king-watch-intel">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
