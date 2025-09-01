@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-08-31T15:44:00Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-09-01T14:22:36Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>Vintage Macintosh Programming Book Library</title>
 	<link rel="alternate" type="text/html" href="https://vintageapple.org/macprogramming/index_year.html" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wk2" />
@@ -111,7 +111,7 @@ let oddNumbers = [1, 3, 5, 7, 9, 11, 13, 15]
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/30/notable-improvements-to-coding-intelligence-in-xcode-26-beta-7" />
 	<id>tag:daringfireball.net,2025:/linked//6.42191</id>
 	<published>2025-08-30T16:01:43Z</published>
-	<updated>2025-08-30T16:01:44Z</updated>
+	<updated>2025-09-01T14:22:36Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -140,7 +140,7 @@ reasoning level, and “GPT-5 (Reasoning)” corresponds to the
 </ul>
 </blockquote>
 
-<p>That’s just three weeks from the <a href="https://openai.com/index/introducing-gpt-5/">launch of ChatGPT 5</a> to shipping support in Xcode. Also, these are just the built-in integrations. As announced at WWDC, Xcode 26 allows developers use their API keys from other AI models, or run local models (if they’re using an Apple Silicon Mac).</p>
+<p>That’s just three weeks from the <a href="https://openai.com/index/introducing-gpt-5/">launch of ChatGPT 5</a> to shipping support in Xcode. Also, these are just the built-in integrations. As announced at WWDC, Xcode 26 allows developers to use their API keys from other AI providers, or connect to models running locally, on-device (if they’re using an Apple Silicon Mac).</p>
 
 <div>
 <a  title="Permanent link to ‘Notable Improvements to Coding Intelligence in Xcode 26 Beta 7’"  href="https://daringfireball.net/linked/2025/08/30/notable-improvements-to-coding-intelligence-in-xcode-26-beta-7">&nbsp;★&nbsp;</a>
