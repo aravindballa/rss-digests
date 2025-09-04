@@ -7,7 +7,51 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-09-04T20:22:26Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-09-04T21:02:41Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Investors Score the US-v.-Google Remedies Ruling a Win for Google and Apple</title>
+	<link rel="alternate" type="text/html" href="https://www.wsj.com/tech/judge-bars-google-from-exclusive-search-deals-orders-data-sharing-e65a2191?st=VJ33DJ&amp;reflink=desktopwebshare_permalink" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wk9" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/09/04/investors-google-apple-mehta-decision" />
+	<id>tag:daringfireball.net,2025:/linked//6.42201</id>
+	<published>2025-09-04T21:00:46Z</published>
+	<updated>2025-09-04T21:02:41Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Dave Michaels and Katherine Blunt, reporting for The Wall Street Journal (gift link):</p>
+
+<blockquote>
+  <p>“There are strong reasons not to jolt the system and to allow
+market forces to do the work,” Mehta wrote.</p>
+
+<p>Wall Street analysts scored the ruling a huge win for Google and
+Apple since it allowed an existing arrangement to continue in
+which Google pays Apple more than $20 billion a year to be the
+default search provider on the Safari browser.</p>
+</blockquote>
+
+<p>I’m picking nits here, but I think part of the ruling is that Google can no longer pay to be the default search engine. And, in my opinion, they never needed to, and never should have put that into their contracts for these deals. They’re just paying Apple (and Mozilla, and Samsung, and others) for the actual search traffic that goes to Google from those companies’ browsers. It’s up to Apple whether Google is the <em>default</em> Safari search engine (which it is, and will continue to be). It just won’t be in the terms of the deal that Google search has to be the default.</p>
+
+<blockquote>
+  <p>The ruling paves the way for the two companies to partner further
+on AI-related services on Apple devices, analysts said. Apple
+currently has a deal with OpenAI to integrate ChatGPT into various
+iPhone services. Apple and Google have had talks about striking a
+similar deal for Google’s AI system called Gemini.</p>
+</blockquote>
+
+<p>I wonder if this antitrust ruling was the holdup on Apple announcing Gemini as an Apple Intelligence partner? Apple, famously, almost never talks about future plans, but at last year’s WWDC, <a href="https://techcrunch.com/2024/06/10/apple-confirms-plans-to-work-with-googles-gemini-in-the-future/">Craig Federighi made conspicuous mention</a> of Google Gemini as a potential Apple Intelligence partner — and now here we are 14 months later and it hasn’t yet happened.</p>
+
+<p>Also, re: this decision being largely a win for Google — <a href="https://daringfireball.net/2025/04/is_chrome_even_a_sellable_asset">it just never made sense to me that Chrome even is a sellable asset</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Investors Score the US-v.-Google Remedies Ruling a Win for Google and Apple’"  href="https://daringfireball.net/linked/2025/09/04/investors-google-apple-mehta-decision">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Instagram Finally Launches an iPad App</title>
 	<link rel="alternate" type="text/html" href="https://about.instagram.com/blog/announcements/instagram-for-ipad/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wk8" />
@@ -1831,64 +1875,6 @@ units purchased outside of the U.S.</p>
 
     ]]></content>
   <title>★ Apple Issues a Workaround for the Blood Oxygen Sensor Ban for U.S. Apple Watches</title></entry><entry>
-	<title>The Annals of Oligarchy, Defense Department Edition</title>
-	<link rel="alternate" type="text/html" href="https://www.reuters.com/world/us/how-unraveling-two-pentagon-projects-may-result-costly-do-over-2025-08-13/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wix" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/13/annals-of-oligarchy-defense-department-edition" />
-	<id>tag:daringfireball.net,2025:/linked//6.42153</id>
-	<published>2025-08-14T02:06:00Z</published>
-	<updated>2025-08-14T02:06:00Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Alexandra Alper, reporting for Reuters:</p>
-
-<blockquote>
-  <p>Donald Trump’s Navy and Air Force are poised to cancel two nearly
-complete software projects that took 12 years and well over $800
-million combined to develop, work initially aimed at overhauling
-antiquated human resources systems.</p>
-
-<p>The reason for the unusual move: officials at those departments,
-who have so far put the existing projects on hold, want other
-firms, including Salesforce and billionaire Peter Thiel’s
-Palantir, to have a chance to win similar projects, which could
-amount to a costly do-over, according to seven sources familiar
-with the matter.</p>
-</blockquote>
-
-<p>I don’t want to be a ninny about this, but why is Reuters flatly describing the Navy and Air Force as possessions of the president? Did they ever describe them as belonging to Joe Biden, or Barack Obama? I don’t think they did, and <a href="https://www.google.com/search?q=site%3Areuters.com%20%22joe%20biden%27s%20navy%22&amp;udm=14">a cursory search</a> suggests they did not, but even if they did, it was wrong then. Now is not the time for sloppy language around this.</p>
-
-<p>Anyway, this is both as crooked and stupid as shit.</p>
-
-<p><strong>See also:</strong> <a href="https://www.politico.com/news/2025/08/12/trump-doge-contract-claims-savings-inflation-00498178">Jessie Blaeser, reporting for Politico</a>:</p>
-
-<blockquote>
-  <p>The Trump administration’s claim that it is saving billions of
-dollars through DOGE-related cuts to federal contracts is
-drastically exaggerated, according to a new Politico analysis of
-public data and federal spending records.</p>
-
-<p>Through July, DOGE said it has saved taxpayers $52.8 billion by
-canceling contracts, but of the $32.7 billion in actual claimed
-contract savings that Politico could verify, DOGE’s savings over
-that period were closer to $1.4 billion. Despite the
-administration’s claims, not a single one of those 1.4 billion
-dollars will lower the federal deficit unless Congress steps in.
-Instead, the money has been returned to agencies mandated by law
-to spend it.</p>
-</blockquote>
-
-<p>The DOGE scam was never about saving money. It was about destroying honest government programs and projects to redirect the firehose of taxpayer money to American oligarchs like Thiel, one of Elon Musk’s <a href="https://en.wikipedia.org/wiki/PayPal_Mafia">“PayPal Mafia” cronies</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘The Annals of Oligarchy, Defense Department Edition’"  href="https://daringfireball.net/linked/2025/08/13/annals-of-oligarchy-defense-department-edition">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/08/max_read_literary_history_fake_apple_texts" />
 	<link rel="shorturl" href="http://df4.us/wiv" />
