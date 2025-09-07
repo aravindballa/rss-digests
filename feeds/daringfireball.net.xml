@@ -7,7 +7,33 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-09-06T18:38:25Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-09-07T23:05:55Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>TextJam</title>
+	<link rel="alternate" type="text/html" href="https://textjam.com/show/demo?df" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wkd" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/09/07/textjam" />
+	<id>tag:daringfireball.net,2025:/linked//6.42205</id>
+	<published>2025-09-07T23:05:55Z</published>
+	<updated>2025-09-07T23:05:55Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks to TextJam for sponsoring this past week at DF. TextJam just launched last week, it’s a remarkable “1.0” release — a multi-player text editor / word processor with a novel twist on how humans interact with AI. TextJam introduces the metaphors of “pen” mode for writing in ink, when you know exactly what words you want to write, with “pencil” mode for text you want to use a prompt or just a simple dashed-off starting point for AI assistance. It sounds like it makes intuitive sense, and when you actually try it, it <em>feels</em> even more natural. I really love this metaphor of ink vs. pencil. It leaves you, the writer, in control, but also gives all the assistance you want.</p>
+
+<p>TextJam also has other very clever ideas, like using “pinch” multitouch gestures for resize text — pinch in to get AI suggestions for making the selected text shorter, pinch out to expand it. TextJam has integrations with all of the most popular LLM systems: ChatGPT, Claude, Gemini, Grok, Llama, and more.</p>
+
+<p>And that’s just talking about the cutting-edge AI-type features. TextJam is also a great collaborative editor, where you and your teammates can work together on the same document with really clever interface elements who made — or is currently in the processing of making — which changes.</p>
+
+<p><a href="https://textjam.com/show/demo?df">Try it today for free</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘TextJam’"  href="https://daringfireball.net/linked/2025/09/07/textjam">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>A Cynical Read on Anthropic’s Book Settlement</title>
 	<link rel="alternate" type="text/html" href="https://spyglass.org/cynical-read-on-anthropics-book-settlement/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wkc" />
@@ -1768,43 +1794,6 @@ on feedback from the community.”</p>
 
 <div>
 <a  title="Permanent link to ‘Threads Now Has DMs, But They’re Not Encrypted and, Contrary to Reports, Not Yet Available on the Web’"  href="https://daringfireball.net/linked/2025/08/15/threads-dms">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Keep Calm and Delete Your Old Emails to Conserve Water</title>
-	<link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/national-drought-group-meets-to-address-nationally-significant-water-shortfall" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wj3" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/15/keep-calm-and-delete-your-old-emails-to-conserve-water" />
-	<id>tag:daringfireball.net,2025:/linked//6.42159</id>
-	<published>2025-08-15T21:42:41Z</published>
-	<updated>2025-08-27T18:08:19Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>From a press release from the UK’s National Drought Group this week, quoting group chair Helen Wakeham (emphasis added):</p>
-
-<blockquote>
-  <p>“We are grateful to the public for following the restrictions,
-where in place, to conserve water in these dry conditions. Simple,
-everyday choices — such as turning off a tap or <em>deleting old
-emails</em> — also really helps the collective effort to reduce demand
-and help preserve the health of our rivers and wildlife.”</p>
-</blockquote>
-
-<p>To reaffirm that she did not misspeak, from a list of tips for conserving water at home, which includes legit tips like taking shorter showers and turning off the tap while brushing your teeth (<em>Sidenote: Who leaves the water running while brushing their teeth?</em>):</p>
-
-<blockquote>
-  <p>Delete old emails and pictures as data centres require vast
-amounts of water to cool their systems.</p>
-</blockquote>
-
-<p>This is so profoundly stupid and wrong that I don’t even know how to make fun of it. But it sure speaks to how futile it might be to hope that the UK government understands the first thing about end-to-end encryption. (<a href="https://www.threads.com/@jason_eccles/post/DNQv0HqMzgv">Via Jason Eccles</a>.)</p>
-
-<div>
-<a  title="Permanent link to ‘Keep Calm and Delete Your Old Emails to Conserve Water’"  href="https://daringfireball.net/linked/2025/08/15/keep-calm-and-delete-your-old-emails-to-conserve-water">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
