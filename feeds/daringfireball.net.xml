@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-09-08T16:52:23Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-09-08T18:18:07Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>Another Dyson Presentation</title>
 	<link rel="alternate" type="text/html" href="https://m.youtube.com/watch?v=w9xTE2EuAt8" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wke" />
@@ -34,7 +34,7 @@
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/09/07/textjam" />
 	<id>tag:daringfireball.net,2025:/linked//6.42205</id>
 	<published>2025-09-07T23:05:55Z</published>
-	<updated>2025-09-08T00:07:08Z</updated>
+	<updated>2025-09-08T18:18:07Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -42,7 +42,7 @@
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
 <p>My thanks to TextJam for sponsoring this past week at DF. TextJam just launched last week, it’s a remarkable “1.0” release — a multi-player text editor / word processor with a novel twist on how humans interact with AI. TextJam introduces the metaphors of “pen” mode for writing in ink, when you know exactly what words you want to write, with “pencil” mode for text you want to use a prompt or just a simple dashed-off starting point for AI assistance. It sounds like it makes intuitive sense, and when you actually try it, it <em>feels</em> even more natural. I really love this metaphor of ink vs. pencil. It leaves you, the writer, in control, but also gives all the assistance you want.</p>
 
-<p>TextJam also has other very clever ideas, like using “pinch” multitouch gestures for resize text — pinch in to get AI suggestions for making the selected text shorter, pinch out to expand it. TextJam has integrations with all of the most popular LLM systems: ChatGPT, Claude, Gemini, Grok, Llama, and more.</p>
+<p>TextJam also has other very clever ideas, like using “pinch” multitouch gestures for resizing text — pinch in to get AI suggestions for making the selected text shorter, pinch out to expand it. TextJam has integrations with all of the most popular LLM systems: ChatGPT, Claude, Gemini, Grok, Llama, and more.</p>
 
 <p>And that’s just talking about the cutting-edge AI-type features. TextJam is also a great collaborative editor, where you and your teammates can work together on the same document with really clever interface elements who made — or is currently in the processing of making — which changes.</p>
 
