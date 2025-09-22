@@ -7,7 +7,138 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-09-20T20:09:57Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-09-22T02:36:45Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>David Letterman Slams Jimmy Kimmel Suspension</title>
+	<link rel="alternate" type="text/html" href="https://variety.com/2025/tv/news/david-letterman-slams-jimmy-kimmel-suspension-1236523616/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wko" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/09/21/letterman-on-kimmel" />
+	<id>tag:daringfireball.net,2025:/linked//6.42216</id>
+	<published>2025-09-22T02:28:16Z</published>
+	<updated>2025-09-22T02:36:45Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Variety:</p>
+
+<blockquote>
+  <p>“This is misery,” Letterman said when asked about Kimmel’s
+suspension, speaking at <a href="https://www.theatlantic.com/theatlanticfestival/">The Atlantic Festival
+2025</a> Thursday
+in New York. “I feel bad about this,” he continued. “We see where
+this is all going, correct? It’s managed media. And it’s no good.
+It’s silly. It’s ridiculous. And you can’t go around firing
+somebody because you’re fearful or trying to suck up to an
+authoritarian criminal administration in the Oval Office. That’s
+just not how this works.”</p>
+
+<p>“In the world of somebody who is an authoritarian, maybe a
+dictatorship, sooner or later, everyone is going to be touched,”
+said Letterman.</p>
+
+<p>Letterman also said, “The institution of the president of the
+United States ought to be bigger than a guy doing a talk show.”
+Kimmel’s removal from late-night TV, he said, “was predicted by
+our president right after Stephen Colbert got walked off, so
+you’re telling me this isn’t premeditated at some level?” [...]</p>
+
+<p>On Wednesday, ABC suspended Kimmel’s late-night show
+“indefinitely.” That came after FCC chairman Brendan Carr just
+hours earlier threatened ABC and its affiliates if they didn’t
+“take action” on Kimmel over what he perceived as objectionable
+comments about Charlie Kirk’s killer. “We can do this the easy way
+or the hard way,” Carr said on a conservative podcast. [...]</p>
+
+<p>Regarding Carr’s comment that “we can do this the easy way or the
+hard way,” Letterman said, “Who is hiring these goons — Mario
+Puzo?”, referring to the author of <em>The Godfather</em>. Letterman said
+when he was on TV, he never got pressure from a presidential
+administration, the FCC or any other government agency about his
+on-air commentary.</p>
+</blockquote>
+
+<p>“Goons” is exactly the right word. Letterman’s commentary on this is, by far, the best I’ve seen, because it’s been the most clear-eyed. I quoted a lot above, but there’s more, so please read the whole piece. But this one extra snippet from the piece puts it on the right scale:</p>
+
+<blockquote>
+  <p>Goldberg posited that today, despite Trump’s attacks on the
+press, “we still have a free media,” to which Letterman
+responded, “Do we?”</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘David Letterman Slams Jimmy Kimmel Suspension’"  href="https://daringfireball.net/linked/2025/09/21/letterman-on-kimmel">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Dan Moren’s iOS 26 Review</title>
+	<link rel="alternate" type="text/html" href="https://sixcolors.com/post/2025/09/ios-26-review-through-a-glass-liquidly/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wkn" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/09/21/moren-ios-26" />
+	<id>tag:daringfireball.net,2025:/linked//6.42215</id>
+	<published>2025-09-22T02:06:49Z</published>
+	<updated>2025-09-22T02:06:50Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Dan Moren, Six Colors:</p>
+
+<blockquote>
+  <p>The redesign is more than skin deep, however. Apple has rethought
+the way some of its most fundamental interactions work. For
+example, the increasingly long horizontal popover menus that hid
+options behind an interminable scroll have morphed into a
+dual-stage design. Tapping and holding on the screen brings up a
+popover with a few common options, but it now doesn’t make you
+scroll; instead, there’s an arrow indicating more options. Tap
+that, and you’ll get a big pop-up panel of all the available
+commands in a much easier-to-read and use format. As someone who
+frequently finds himself swiping through a very long list to find
+the one command I want (and somehow, it’s always the last one),
+this is a tangible improvement.</p>
+</blockquote>
+
+<p>The big improvement here is that in the old popover (from iOS 3 — when copy and paste were finally added to iOS, and the popover typically only contained three or four items — until last year’s iOS 18), the scrolling you had to do was horizontal. And a lot of items were added to that menu over the years. And it wasn’t really <em>scrolling</em>, it was <em>panning</em>. And panning sideways through a long list of options is just a bad interaction experience. For me, a <em>lot</em> of the times I used this popover, I wanted the “Share...” command, and that was the last one, all the way on the right.</p>
+
+<p>In iOS 26’s new tap-and-hold popover, it’s a vertical menu, just like a Mac contextual menu. And you don’t really have to scroll at all most of the time, because all the contextual menu options fit on screen. And even if you do have to scroll (which happens when the keyboard is open, reducing vertical screen real estate), you don’t have to scroll much to get to the bottom.</p>
+
+<p>It’s one of the very best, most thoughtful, most useful changes in iOS 26. But also one of the most overdue: we know how contextual menus should be oriented. Vertically. We naturally make lists vertically, not horizontally. I sort of suspect Apple resisted making iOS contextual popovers vertical for so long because they didn’t want to make iOS more like a desktop computer OS.</p>
+
+<div>
+<a  title="Permanent link to ‘Dan Moren’s iOS 26 Review’"  href="https://daringfireball.net/linked/2025/09/21/moren-ios-26">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Dekáf Coffee Roasters</title>
+	<link rel="alternate" type="text/html" href="https://dekaf.com/df" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wkp" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/09/21/dekaf-coffee-roasters" />
+	<id>tag:daringfireball.net,2025:/linked//6.42217</id>
+	<published>2025-09-22T02:00:00Z</published>
+	<updated>2025-09-22T02:33:08Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks to Dekáf Coffee Roasters for sponsoring last week at DF. Dekáf believes that people who drink coffee for its flavor are the true connoisseurs. While other roasters treat decaf as a side project, they’ve made it their entire mission. They’re dedicated to creating exceptional decaffeinated coffee that stands toe-to-toe with the world’s finest caffeinated beans.</p>
+
+<p>I drink coffee every single day. I literally can’t remember the last day I didn’t have coffee in the morning. A few years ago, though, age started catching up to me and I stopped drinking coffee after lunch or so, lest it screw with my sleep. I really missed my afternoon coffee though. Why I didn’t think to try decaf I don’t know, but Dekáf sent me a few samples when they first sponsored DF back in April, and it’s been a revelation. In addition to fully decaffeinated roasts, they also have some half-decaffeinated roasts, and they’re absolutely delicious — my style of roast, for sure — <em>and</em> they don’t leave me jolted into the evening. Maybe you like tea, but I don’t. I like coffee, and I love being able to have a cup or two late in the afternoon again. It’s so good.</p>
+
+<p>Also, I’m a big believer that you <em>can</em> judge a book by its cover. Just look at the Dekáf brand. It’s perfect. Color, typography, artwork — so cool, so spot-on for what they do.</p>
+
+<p>Dekáf offers 9 single origins, 6 signature blends, and 4 Mizudashi cold brews (perfect for summer). All shipped to you within 24 hours of roasting. No shortcuts. You won’t believe it’s decaf. That’s the point. Even better, get 20% off with code: <strong>DF</strong>.</p>
+
+<div>
+<a  title="Permanent link to ‘Dekáf Coffee Roasters’"  href="https://daringfireball.net/linked/2025/09/21/dekaf-coffee-roasters">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://dekaf.com/df" />
 	<link rel="shorturl" href="http://df4.us/wkm" />
@@ -1416,60 +1547,6 @@ of 2026.</p>
 
 	]]></content>
   </entry><entry>
-	<title>Herdling</title>
-	<link rel="alternate" type="text/html" href="https://herdling.game/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wjf" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/21/herdling" />
-	<id>tag:daringfireball.net,2025:/linked//6.42171</id>
-	<published>2025-08-22T00:22:19Z</published>
-	<updated>2025-08-22T00:29:07Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>New video game, just out:</p>
-
-<blockquote>
-  <p>Herdling is a brand new adventure from <a href="https://okomotive.ch/">Okomotive</a>, creators of
-the atmospheric and acclaimed FAR games, and <a href="https://panic.com/">Panic</a>,
-publishers of Firewatch.</p>
-</blockquote>
-
-<p>Looks absolutely beautiful. Painterly. <a href="https://bsky.app/profile/darthbluesky.bsky.social/post/3lww42zzkjs2q">Darth says it’s good</a>.</p>
-
-<p>Available now for Steam, PlayStation 5, Xbox, Nintendo Switch, and Epic Games Store. Not (yet?) in the Mac App Store — not because of any hassles regarding the App Store, but because there’s not (yet?) a Mac port of the game, period.</p>
-
-<div>
-<a  title="Permanent link to ‘Herdling’"  href="https://daringfireball.net/linked/2025/08/21/herdling">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘Micro-Soft’</title>
-	<link rel="alternate" type="text/html" href="https://daringfireball.net/2025/08/msnbc_ms_now_rebranding#fn1-2025-08-20" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wje" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/21/micro-soft" />
-	<id>tag:daringfireball.net,2025:/linked//6.42170</id>
-	<published>2025-08-21T19:49:04Z</published>
-	<updated>2025-08-21T19:57:17Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Added this footnote just now to yesterday’s piece on MSNBC’s rebranding to “MS NOW”:</p>
-
-<blockquote>
-  <p>Historical pedantry: from 1975–1979, <a href="https://logos.fandom.com/wiki/Microsoft">Microsoft spelled its name “Micro-Soft”</a>, with, yes, an uppercase <em>S</em>. But that’s not camel-case, and that hyphenated spelling is as much a footnote to Microsoft’s brand history as the <a href="https://appleinsider.com/articles/22/03/29/how-apples-logo-started-out-as-the-most-expensive-and-became-the-most-iconic">woodcut Isaac-Newton-under-a-tree logo</a> is to Apple. <a href="https://daringfireball.net/misc/2025/08/Microsoft_(1975).svg">Microsoft’s logo from that era</a> was very disco-’70s and kind of cool — but while “Micro” and “Soft” were broken across two lines, there’s no hyphen in the logotype.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘‘Micro-Soft’’"  href="https://daringfireball.net/linked/2025/08/21/micro-soft">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/08/msnbc_ms_now_rebranding" />
 	<link rel="shorturl" href="http://df4.us/wjd" />
@@ -1551,39 +1628,6 @@ Business Channel.”</p>
 
     ]]></content>
   <title>★ MSNBC, Spinning Out of NBCUniversal, Rebrands as ‘MS NOW’ With a Godawful Backronym and Even Worse Logo</title></entry><entry>
-	<title>Claim Chowder: Anthropic CEO Dario Amodei Five Months Ago</title>
-	<link rel="alternate" type="text/html" href="https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wjc" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/20/claim-chowder-amodei" />
-	<id>tag:daringfireball.net,2025:/linked//6.42168</id>
-	<published>2025-08-20T15:27:51Z</published>
-	<updated>2025-08-20T15:27:52Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Kwan Wei Kevin Tan, reporting for Business Insider five months ago:</p>
-
-<blockquote>
-  <p>Dario Amodei, the CEO of the AI startup Anthropic, said on Monday
-that AI, and not software developers, could be writing all of the
-code in our software in a year.</p>
-
-<p>“I think we will be there in three to six months, where AI is
-writing 90% of the code. And then, in 12 months, we may be in a
-world where AI is writing essentially all of the code,” Amodei
-said at a Council of Foreign Relations event on Monday.</p>
-</blockquote>
-
-<p>Complete bullshit, but, I guess he still has one month to go. (<a href="https://www.threads.com/@davew/post/DNhTsistxCs">Via Dave Winer</a> on Threads.)</p>
-
-<div>
-<a  title="Permanent link to ‘Claim Chowder: Anthropic CEO Dario Amodei Five Months Ago’"  href="https://daringfireball.net/linked/2025/08/20/claim-chowder-amodei">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/08/iphone_mirroring_more_than_one_iphone" />
 	<link rel="shorturl" href="http://df4.us/wj9" />
