@@ -7,7 +7,56 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-10-02T21:28:09Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-10-02T22:58:28Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>MLB Average Game Time Under Three Hours for Third Straight Year</title>
+	<link rel="alternate" type="text/html" href="https://www.mlb.com/news/mlb-average-game-time-under-three-hours-third-straight-year" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wlb" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/02/mlb-game-times" />
+	<id>tag:daringfireball.net,2025:/linked//6.42239</id>
+	<published>2025-10-02T22:58:28Z</published>
+	<updated>2025-10-02T22:58:28Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jason Foster, reporting for MLB.com:</p>
+
+<blockquote>
+  <p>Nine-inning games during the 2025 season have, on average, clocked
+in at 2 hours, 38 minutes through Thursday, marking the third
+straight season in which the average game time was 2:40 or
+shorter.</p>
+
+<blockquote>
+  <p>Regular Season nine-inning @MLB games of three hours and thirty
+minutes (3:30) or longer:</p>
+
+<ul>
+<li>2021: 391</li>
+<li>2022: 232</li>
+<li>2023: 9</li>
+<li>2024: 7</li>
+<li>2025: 3 (through 9/25)</li>
+</ul>
+
+<p>— MLB Communications (@MLB_PR) September 26, 2025</p>
+</blockquote>
+
+<p>The trend marks the first time since 1983-85 that the average
+nine-inning game time was 2:40 or shorter in three consecutive
+seasons. The average nine-inning game time was 2:36 last season
+and 2:40 in 2023.</p>
+</blockquote>
+
+<p>I disagree with many of MLB’s recent rules changes (e.g. the 10th-inning “Manfred Man” ghost runners), but the pitch clock and limit on mound visits have been unambiguous changes for the better. They don’t make the game feel hurried at all, but prior to the pitch clock, the game often felt ponderous.</p>
+
+<div>
+<a  title="Permanent link to ‘MLB Average Game Time Under Three Hours for Third Straight Year’"  href="https://daringfireball.net/linked/2025/10/02/mlb-game-times">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Folder Quick Look</title>
 	<link rel="alternate" type="text/html" href="https://apps.apple.com/app/id6753110395" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wla" />
@@ -1511,59 +1560,6 @@ regardless of political leanings.</p>
 
 <div>
 <a  title="Permanent link to ‘Vintage Macintosh Programming Book Library’"  href="https://daringfireball.net/linked/2025/08/31/vintage-macintosh-programming-book-library">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>sosumi.ai: Apple Developer Docs for LLMs</title>
-	<link rel="alternate" type="text/html" href="https://sosumi.ai/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wk0" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/31/sosumi-ai" />
-	<id>tag:daringfireball.net,2025:/linked//6.42192</id>
-	<published>2025-08-31T13:54:38Z</published>
-	<updated>2025-08-31T15:02:42Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Sosumi.ai:</p>
-
-<blockquote>
-  <p>Ever notice Claude struggling to write Swift code? It might not be
-their fault!</p>
-
-<p>Apple Developer docs are locked behind JavaScript, making them
-invisible to most LLMs. If they try to fetch it, all they see is
-“<em>This page requires JavaScript. Please turn on JavaScript in your
-browser and refresh the page to view its content.</em>”</p>
-
-<p>This service translates Apple Developer documentation pages into
-AI-friendly Markdown.</p>
-</blockquote>
-
-<p>Perfect little audio easter egg on the page. Beautiful Markdown output too. Look at <a href="https://daringfireball.net/projects/markdown/">my boy</a>, all grown up, teaching robots how to program.</p>
-
-<p>I do regret, though, that I didn’t define or influence the <a href="https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks">fenced style for code blocks</a>. If I had, instead of this:</p>
-
-<pre><code>```swift
-// An array of 'Int' elements
-let oddNumbers = [1, 3, 5, 7, 9, 11, 13, 15]
-```
-</code></pre>
-
-<p>You could do this, which looks so much better:</p>
-
-<pre><code>``` Swift:
-// An array of 'Int' elements
-let oddNumbers = [1, 3, 5, 7, 9, 11, 13, 15]
-```
-</code></pre>
-
-<p>Those all-lowercase language identifiers, with no preceding space, just look a little lazy. I realize why GitHub’s <code>```</code>-fenced code blocks took off (they’re the only code block style most Markdown users know, I suspect), but they <a href="https://daringfireball.net/linked/2025/08/31/sosumi-ai.text">don’t look nearly as nice</a>, to human readers, as <a href="https://daringfireball.net/projects/markdown/syntax#precode">my original tab-indented style</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘sosumi.ai: Apple Developer Docs for LLMs’"  href="https://daringfireball.net/linked/2025/08/31/sosumi-ai">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
