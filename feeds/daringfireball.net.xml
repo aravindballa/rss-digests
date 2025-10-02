@@ -7,14 +7,60 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-10-02T14:09:01Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-10-02T16:05:51Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>U.K. Makes New Attempt to Access Apple Cloud Data — This Time, iCloud Backups of U.K. Citizens</title>
+	<link rel="alternate" type="text/html" href="https://www.ft.com/content/d101fd62-14f9-4f51-beff-ea41e8794265" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wl8" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/02/uk-makes-demand-for-access-to-icloud-backups" />
+	<id>tag:daringfireball.net,2025:/linked//6.42236</id>
+	<published>2025-10-02T16:05:51Z</published>
+	<updated>2025-10-02T16:05:51Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Anna Gross and Tim Bradshaw, reporting for the Financial Times:</p>
+
+<blockquote>
+  <p>The UK government has ordered Apple to allow access to encrypted
+cloud backups of British users, after a previous attempt to issue
+a broader demand that included US customers drew a furious
+backlash from the Trump administration.</p>
+
+<p>The UK Home Office demanded in early September that Apple create a
+backdoor into users’ cloud storage service, but stipulated that
+the order applied only to British citizens’ data, according to
+people briefed on the matter. [...]</p>
+
+<p>In February, Apple withdrew its most secure cloud storage service,
+iCloud Advanced Data Protection, from the UK.</p>
+
+<p>“Apple is still unable to offer Advanced Data Protection in the
+United Kingdom to new users,” Apple said on Wednesday. “We are
+gravely disappointed that the protections provided by ADP are not
+available to our customers in the UK given the continuing rise of
+data breaches and other threats to customer privacy.” It added:
+“As we have said many times before, we have never built a back
+door or master key to any of our products or services and we
+never will.”</p>
+</blockquote>
+
+<p>This is, as I understand it, a demand from the UK government to allow warrantless access to all UK citizens’ iCloud backups. And your iCloud backups, once decrypted, contain just about everything on your device. With Apple unable to offer Advanced Data Protection in the UK, if Apple complies, there’s no way around it. And, to make it even worse, the perversity of the UK Investigatory Powers Act is such that it’s a crime for Apple to even say they’ve been issued such a demand, to warn their UK users about it. Just brutal. The UK government could not be more wrong about this stance.</p>
+
+<div>
+<a  title="Permanent link to ‘U.K. Makes New Attempt to Access Apple Cloud Data — This Time, iCloud Backups of U.K. Citizens’"  href="https://daringfireball.net/linked/2025/10/02/uk-makes-demand-for-access-to-icloud-backups">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>OpenAI Launches Sora, a Social Feed App for AI-Generated Short Videos</title>
 	<link rel="alternate" type="text/html" href="https://www.theverge.com/ai-artificial-intelligence/788786/openais-new-ai-sora-ios-social-video-app-will-let-you-deepfake-your-friends" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wl7" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/02/sora-launch" />
 	<id>tag:daringfireball.net,2025:/linked//6.42235</id>
 	<published>2025-10-02T14:09:00Z</published>
-	<updated>2025-10-02T14:09:01Z</updated>
+	<updated>2025-10-02T15:49:05Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -1540,28 +1586,6 @@ chair Bill Cassidy, R-La., <a href="https://x.com/senbillcassidy/status/19608957
 
 <div>
 <a  title="Permanent link to ‘Trump Fires CDC Director, Anti-Vax Wingnuts Now Running Asylum’"  href="https://daringfireball.net/linked/2025/08/28/trump-fires-cdc-director">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>How AirPods Work</title>
-	<link rel="alternate" type="text/html" href="https://nebula.tv/videos/realengineering-the-hidden-design-of-the-apple-airpod/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wjx" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/28/how-airpods-work" />
-	<id>tag:daringfireball.net,2025:/linked//6.42189</id>
-	<published>2025-08-28T14:18:39Z</published>
-	<updated>2025-08-28T22:27:49Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Truly phenomenal video from Real Engineering about a genuinely phenomenal product. In my <a href="https://daringfireball.net/2023/09/airpods_pro_2_usbc">review of the AirPods Pro 2 in 2023</a> — a year after they originally shipped, when the cases were changed to use USB-C — I called them “the best single expression of Apple as a company today”. That remains true. AirPods exemplify everything that sets Apple apart: miniaturization, “it just works” ease of use, opinionated design (you get them in any color you want, so long as it’s white), and, most of all, joyfulness.</p>
-
-<p>It occurs to me that Apple doesn’t brag enough about its engineering accomplishments these days. Under their previous CEO, they’d spend more time in product introduction explaining how things work, like a lecture in a 101 college course. I miss that. This Real Engineering video fills in those gaps.</p>
-
-<div>
-<a  title="Permanent link to ‘How AirPods Work’"  href="https://daringfireball.net/linked/2025/08/28/how-airpods-work">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
