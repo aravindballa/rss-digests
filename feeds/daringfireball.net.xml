@@ -7,7 +7,48 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-10-01T16:39:15Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-10-02T14:09:01Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>OpenAI Launches Sora, a Social Feed App for AI-Generated Short Videos</title>
+	<link rel="alternate" type="text/html" href="https://www.theverge.com/ai-artificial-intelligence/788786/openais-new-ai-sora-ios-social-video-app-will-let-you-deepfake-your-friends" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wl7" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/02/sora-launch" />
+	<id>tag:daringfireball.net,2025:/linked//6.42235</id>
+	<published>2025-10-02T14:09:00Z</published>
+	<updated>2025-10-02T14:09:01Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Hayden Field, The Verge:</p>
+
+<blockquote>
+  <p>OpenAI has a new version of the Sora AI video generator that it
+<a href="https://www.theverge.com/2024/12/9/24317092/openai-sora-text-to-video-ai-launch">launched at the end of last year</a>, and it’s arriving today
+alongside <a href="https://apps.apple.com/us/app/sora-by-openai/id6744034028">a new social video app, also called Sora, for
+iPhones</a>. The currently invite-only app resembles TikTok with
+a feed of videos you can shuffle through. But instead of
+encouraging people to stitch together duets, it asks you to record
+short videos that anyone can spin into new AI-generated deepfakes — with your consent.</p>
+
+<p>In a briefing with reporters on Monday, employees called it the
+potential “ChatGPT moment for video generation.” The Sora app is
+currently only available to US and Canada users, with other
+countries set to follow, and when someone receives access, they
+also get four additional invites to share with friends. There’s no
+word on when an Android version might be released.</p>
+</blockquote>
+
+<p>Sora, though invitation-only at the moment, is currently #3 in the U.S. App Store. Meta’s Meta AI app, which contains as a tab their Vibes AI-generated video feed, is #97.</p>
+
+<p>Also, I’m sure Sora will eventually come to Android. But, to play with it now, you need an iPhone. So tell me again how Apple is behind on AI? If you have an Android phone, you’re behind on everything except what Google itself offers (which, admittedly, is some great stuff). If you have an iPhone, you’re ahead on everything except what’s baked into iOS. Including the fact that the #1 app on the App Store today is ... Google Gemini.</p>
+
+<div>
+<a  title="Permanent link to ‘OpenAI Launches Sora, a Social Feed App for AI-Generated Short Videos’"  href="https://daringfireball.net/linked/2025/10/02/sora-launch">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>America’s Pants: A Special Investigation Into the Dallas Cowboys’ Pants</title>
 	<link rel="alternate" type="text/html" href="https://uni-watch.com/2025/09/24/americas-pants-a-special-investigation-into-the-dallas-cowboys-pants/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wl6" />
@@ -1521,43 +1562,6 @@ chair Bill Cassidy, R-La., <a href="https://x.com/senbillcassidy/status/19608957
 
 <div>
 <a  title="Permanent link to ‘How AirPods Work’"  href="https://daringfireball.net/linked/2025/08/28/how-airpods-work">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Masimo Sues U.S. Customs and Border Protection Over Apple Watch Blood Oxygen Ruling</title>
-	<link rel="alternate" type="text/html" href="https://news.bloomberglaw.com/ip-law/masimo-sues-us-customs-over-apple-restoring-watchs-oxygen-tool" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wjw" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/08/27/masimo-sues-cbp" />
-	<id>tag:daringfireball.net,2025:/linked//6.42188</id>
-	<published>2025-08-27T15:47:20Z</published>
-	<updated>2025-08-31T14:21:23Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Christopher Yasiejko, reporting last week for Bloomberg Law:</p>
-
-<blockquote>
-  <p>CBP exceeded its authority in an Aug. 1 internal advice ruling
-that overturned its own January decision without notice or input
-from Masimo, the medical-device maker said in a <a href="https://www.bloomberglaw.com/public/document/MASIMOCORPORATIONvUNITEDSTATESCUSTOMSANDBORDERPROTECTIONetalDocke?doc_id=X7CR5AGJN19VIQVF66HVETLJRF">complaint</a>
-filed Wednesday in the US District Court for the District of
-Columbia. Masimo brought claims under the Administrative Procedure
-Act and the Fifth Amendment’s due process clause.</p>
-</blockquote>
-
-<p><a href="https://rulings.cbp.gov/ruling/H351038">The CBP ruling is available here</a>. <!-- Hosted copy in /misc/ for posterity. --> As I read the CPB ruling, Apple’s argument goes something like this:</p>
-
-<p>Masimo’s patents (the validity of which Apple disputes, but that’s neither here nor there for this ruling) cover a non-invasive device worn on the user’s body, that reads blood oxygen levels by shining light of various wavelengths through the skin, computes the reading on the device, and shows the result on device. With Apple’s workaround for watches sold in the US, the computation and the display of results occur off-device (on the paired iPhone), and thus the “redesigned” blood oxygen feature doesn’t violate Masimo’s patents.</p>
-
-<p>The CBP’s investigation centered around whether the Masimo patents were “limiting” — which seems to mean a device that does all these things: the sensors, the computation of results, and the display of results. Masimo argued that the patents weren’t limiting, and apparently made no argument for how the import ban on Apple Watches should stand if the patents were found by CBP to be limiting. The CBP asked the International Trade Commission — the outfit that instituted the import ban — whether they considered the Masimo patents to be limiting, and the ITC responded yes, they did, that that was the entire basis of the import ban.</p>
-
-<p><a href="https://www.bloomberglaw.com/public/document/MASIMOCORPORATIONvUNITEDSTATESCUSTOMSANDBORDERPROTECTIONetalDocke?doc_id=X7CR5AGJN19VIQVF66HVETLJRF">Masimo’s new complaint against the CBP</a> makes mention of Apple’s Trump-pleasing <a href="https://www.apple.com/newsroom/2025/02/apple-will-spend-more-than-500-billion-usd-in-the-us-over-the-next-four-years/">series</a> <a href="https://www.apple.com/newsroom/2025/07/apple-expands-us-supply-chain-with-500-million-usd-commitment/">of</a> <a href="https://www.apple.com/newsroom/2025/08/apple-increases-us-commitment-to-600-billion-usd-announces-ambitious-program/">announcements</a> related to investments in US manufacturing, leaving it to the reader to interpet the implication that there’s a quid pro quo at play with the CBP ruling. But the CBP ruling’s timeline makes clear that much of the investigation took place during the Biden administration in 2024. It reads to me like that same decision would have been made, at the same time, if Kamala Harris had won last year’s election. But that’s the problem with a pay-to-play corrupt government like Trump’s, and Tim Cook’s willingness to play along to any degree, no matter how mild. By currying favor with Trump, it now looks like any decision from the U.S. government that goes in Apple’s favor might be <em>because</em> Apple curried favored with Trump. I genuinely do not believe that’s the case here. The ITC ruling was based on an interpretation of Masimo’s patents that they were limited to user-worn devices that read, compute, <em>and</em> display blood oxygen levels non-invasively, and given that U.S. Apple Watches no longer compute or display the results, they no longer violate Masimo’s patents.</p>
-
-<div>
-<a  title="Permanent link to ‘Masimo Sues U.S. Customs and Border Protection Over Apple Watch Blood Oxygen Ruling’"  href="https://daringfireball.net/linked/2025/08/27/masimo-sues-cbp">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
