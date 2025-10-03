@@ -7,13 +7,13 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-10-03T21:17:45Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-10-03T21:43:26Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/10/iceblock_removed_from_app_store" />
 	<link rel="shorturl" href="http://df4.us/wld" />
 	<id>tag:daringfireball.net,2025://1.42241</id>
 	<published>2025-10-03T20:56:36Z</published>
-	<updated>2025-10-03T21:17:45Z</updated>
+	<updated>2025-10-03T21:43:26Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -68,9 +68,9 @@ from the Trump Admin.</p>
 <p>We have responded and we’ll fight this! #resist</p>
 </blockquote>
 
-<p>There is clearly nothing illegal about ICEBlock. It’s just information, obviously protected by the First Amendment. Law enforcement officers in the United States have no right to avoid being recorded or their actions reported and shared. Reporting and publishing where police are policing is free speech and fundamental to the civil rights and liberties of a free society.</p>
+<p>There is clearly nothing illegal about ICEBlock.<sup id="fnr1-2025-10-03"><a href="#fn1-2025-10-03">1</a></sup> It’s just information, obviously protected by the First Amendment. Law enforcement officers in the United States have no right to avoid being recorded or their actions reported and shared. Reporting and publishing where police are policing is free speech and fundamental to the civil rights and liberties of a free society.</p>
 
-<p>We can all wish Apple had fought this “demand”. I certainly do. <a href="https://www.youtube.com/watch?v=ohPToBog_-g">John Oliver’s “Fuck you, make me”</a> argument <a href="https://daringfireball.net/linked/2025/10/03/fuck-you-make-me">sprung to mind</a> for me this morning. But that’s wishful thinking. I believe there are many lines Apple would not cross, even if it means taking on the ire of Trump administration lickspittles, if not the barely literate wrath of the mad king himself on <a href="https://daringfireball.net/2025/06/truth_social_is_just_trumps_blog">his sad little blog</a>. Apple may well eventually — if not soon — be forced to define those lines. But keeping ICEBlock in the App Store isn’t one of them. You might believe it should be. There’s a big part of me that believes it should be. But I can also see why it’s not.</p>
+<p>We can all wish Apple had fought this “demand”. I certainly do. <a href="https://www.youtube.com/watch?v=ohPToBog_-g">John Oliver’s “Fuck you, make me”</a> argument <a href="https://daringfireball.net/linked/2025/10/03/fuck-you-make-me">sprung to mind</a> for me this morning. But that’s wishful thinking. I believe there are many lines Apple would not cross, even if it means taking on the ire of Trump administration lickspittles, if not the barely literate wrath of the mad king himself on <a href="https://daringfireball.net/2025/06/truth_social_is_just_trumps_blog">his sad little blog</a>. Apple may well eventually — if not soon — be forced to define those lines. But keeping ICEBlock in the App Store isn’t one of them. You might believe it should be. There’s a big part of me that believes it should be. But I can also <a href="https://daringfireball.net/2025/08/gold_frankincense_and_silicon">see why it’s not</a>. Pick your battles.</p>
 
 <p>I wrote about ICEBlock twice back in late July. <a href="https://daringfireball.net/2025/07/iceblock">Quoting extensively from my initial post</a>:</p>
 
@@ -144,14 +144,22 @@ that Apple will proudly defend it if push comes to shove.</p>
 
 <p>The gist of <a href="https://daringfireball.net/linked/2025/07/26/iceblock-trust-apple">my second post on ICEBlock</a> from back in July is that ICEBlock’s privacy-protecting architecture isn’t magic. It’s based on trust in Apple itself. Joshua Aaron doesn’t have access to ICEBlock users’ device IDs (let alone their personal identities), but ICEBlock can send push notifications to devices because Apple itself does know device IDs and users’ identities.</p>
 
-<p>It’s rather chilling to consider what Apple would have done if the Trump administration had “demanded” a list of device IDs and user identities for everyone who had installed ICEBlock. Or what Apple <em>will</em> do if such a demand pops into one of their dimwitted but cruel minds.<sup id="fnr1-2025-10-03"><a href="#fn1-2025-10-03">1</a></sup> I suspect that’s one of the lines Apple would not cross. That Apple would stand its ground there and say “Fuck you, make us” and take it to court. But there’s only one way to find out.</p>
+<p>It’s rather chilling to consider what Apple would have done if the Trump administration had “demanded” a list of device IDs and user identities for everyone who had installed ICEBlock. Or what Apple <em>will</em> do if such a demand pops into one of their dimwitted but cruel minds.<sup id="fnr2-2025-10-03"><a href="#fn2-2025-10-03">2</a></sup> I suspect that’s one of the lines Apple would not cross. That Apple would stand its ground there and say “Fuck you, make us” and take it to court. But there’s only one way to find out.</p>
 
 <div class="footnotes">
 <hr />
 <ol>
+
 <li id="fn1-2025-10-03">
-<p>A few people have already asked me why it took the Trump administration several months to put ICEBlock in its crosshairs and issue a takedown “demand” to Apple. <a href="https://abc7ny.com/post/iceblock-new-iphone-app-lets-users-know-when-ice-agents-are-area/16902392/">Aaron shipped the first release of ICEBlock back in April</a>, and it achieved a significant amount of well-deserved publicity in July after Trump’s ICE goons began large-scale deportation raids in Los Angeles. My answer is simple: it took them months to issue this demand because they’re so goddamn stupid and incompetent. We should be thankful for that. In a competent regime attempting an authoritarian takeover of a liberal democracy, it would have been taken down in days, not months.&nbsp;<a href="#fnr1-2025-10-03"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
+<p>It’s interesting to consider how Aaron might “fight this”. I don’t think suing the Department of Justice is an option. All Pam Bondi did was issue a “demand” to Apple. That’s inappropriate and an embarrassment, and in any normal administration would be just cause for her immediate dismissal from the job. But it’s not against the law. She didn’t issue an unconstitutional legal demand to Apple. She just issued a verbal request with an implicit threat of turning the nation’s MAGA derps and Fox News junkies against Apple. What Apple was afraid of wasn’t fighting this demand in a court of law, but in the court of public opinion.</p>
+
+<p>So maybe Aaron sues Apple? I’m not sure he has grounds for that either, but it’d be interesting to see Apple’s lawyers argue in court that the App Store is no place for apps that protect users’ civil liberties and personal privacy.&nbsp;<a href="#fnr1-2025-10-03"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;︎</a></p>
 </li>
+
+<li id="fn2-2025-10-03">
+<p>A few people have already asked me why it took the Trump administration several months to put ICEBlock in its crosshairs and issue a takedown “demand” to Apple. <a href="https://abc7ny.com/post/iceblock-new-iphone-app-lets-users-know-when-ice-agents-are-area/16902392/">Aaron shipped the first release of ICEBlock back in April</a>, and it achieved a significant amount of well-deserved publicity in July after Trump’s ICE goons began large-scale deportation raids in Los Angeles. My answer is simple: it took them months to issue this demand because they’re so goddamn stupid and incompetent. We should be thankful for that. In a competent regime attempting an authoritarian takeover of a liberal democracy, it would have been taken down in days, not months.&nbsp;<a href="#fnr2-2025-10-03"  class="footnoteBackLink"  title="Jump back to footnote 2 in the text.">&#x21A9;&#xFE0E;</a></p>
+</li>
+
 </ol>
 </div>
 
