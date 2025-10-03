@@ -7,7 +7,158 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-10-03T17:34:46Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-10-03T20:56:36Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/10/iceblock_removed_from_app_store" />
+	<link rel="shorturl" href="http://df4.us/wld" />
+	<id>tag:daringfireball.net,2025://1.42241</id>
+	<published>2025-10-03T20:56:36Z</published>
+	<updated>2025-10-03T20:56:36Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">It’s rather chilling to consider what Apple would have done if the Trump administration had “demanded” a list of device IDs and user identities for everyone who had installed ICEBlock. Or what Apple *will* do if such a demand pops into one of their dimwitted but cruel minds.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p><a href="https://www.foxbusiness.com/politics/apple-takes-down-ice-tracking-app-after-pressure-from-ag-bondi">Ashley Oliver, reporting for Fox Business</a>:</p>
+
+<blockquote>
+  <p>DOJ officials, at the direction of Attorney General Pam Bondi,
+asked Apple to take down ICEBlock, a move that comes as Trump
+administration officials have claimed the tool, which allows users
+to anonymously report ICE agents’ presence, puts agents in danger
+and helps shield illegal immigrants.</p>
+
+<p>“We reached out to Apple today demanding they remove the ICEBlock
+app from their App Store — and Apple did so,” Bondi said in a
+statement to Fox News Digital.</p>
+
+<p>“ICEBlock is designed to put ICE agents at risk just for doing
+their jobs, and violence against law enforcement is an intolerable
+red line that cannot be crossed,” Bondi added. “This Department of
+Justice will continue making every effort to protect our brave
+federal law enforcement officers, who risk their lives every day
+to keep Americans safe.”</p>
+</blockquote>
+
+<p>Fox, in its opening paragraph, describes Bondi as having “asked” Apple to remove ICEBlock from the App Store, but Bondi’s own statement uses the verb “demand”. The difference is not nitpicking. No one, not even Bondi, is claiming any aspect of ICEBlock is illegal. Thus it’s not merely inappropriate but outrageous — and yet another among dozens of other causes for alarm regarding Trump 2.0’s decidedly authoritarian turn — for the DOJ to “demand” Apple do anything about it. But demand they did, and comply did Apple. (Check those lips <a href="https://daringfireball.net/2024/11/i_wonder">for Cheetos dust</a> before heading home today.)</p>
+
+<p>Katherine Tangalakis-Lippert, Peter Kafka, and Kwan Wei Kevin Tan, <a href="https://www.businessinsider.com/apple-iceblock-app-store-removed-2025-10">reporting for Business Insider</a>:</p>
+
+<blockquote>
+  <p>Apple has removed ICEBlock, an app that allowed users to monitor
+and report the location of immigration enforcement officers, from
+the App Store.</p>
+
+<p>“We created the App Store to be a safe and trusted place to
+discover apps,” Apple said in a statement to Business Insider.
+“Based on information we’ve received from law enforcement about
+the safety risks associated with ICEBlock, we have removed it and
+similar apps from the App Store.”</p>
+</blockquote>
+
+<p>ICEBlock developer Joshua Aaron, <a href="https://bsky.app/profile/iceblock.app/post/3m2alyaghbk2n">posting on the ICEBlock Bluesky account</a>:</p>
+
+<blockquote>
+  <p>We just received a message from Apple’s App Review that #ICEBlock
+has been removed from the App Store due to “objectionable
+content”. The only thing we can imagine is this is due to pressure
+from the Trump Admin.</p>
+
+<p>We have responded and we’ll fight this! #resist</p>
+</blockquote>
+
+<p>There is clearly nothing illegal about ICEBlock. It’s just information, obviously protected by the First Amendment. Law enforcement officers in the United States have no right to avoid being recorded or their actions reported and shared. Reporting and publishing where police are policing is free speech and fundamental to the civil rights of a free society.</p>
+
+<p>We can all wish Apple had fought this “demand”. I certainly do. <a href="https://www.youtube.com/watch?v=ohPToBog_-g">John Oliver’s “Fuck you, make me”</a> argument <a href="https://daringfireball.net/linked/2025/10/03/fuck-you-make-me">sprung to mind</a> for me this morning. But that’s wishful thinking. I believe there are many lines Apple would not cross, even if it means taking on the ire of Trump administration lickspittles, if not the barely literate wrath of the mad king himself on <a href="https://daringfireball.net/2025/06/truth_social_is_just_trumps_blog">his sad little blog</a>. Apple may well eventually — if not soon — be forced to define those lines. But keeping ICEBlock in the App Store isn’t one of them. You might believe it should be. There’s a big part of me that believes it should be. But I can also see why it’s not.</p>
+
+<p>I wrote about ICEBlock twice back in late July. <a href="https://daringfireball.net/2025/07/iceblock">Quoting extensively from my initial post</a>:</p>
+
+<blockquote>
+  <p>The ICEBlock app is interesting in and of itself (and from my
+tire-kicking test drive, appears to be a well-crafted and designed
+app), as will be Apple’s response if (when?) the Trump
+administration takes offense to the app’s existence. Back in 2019,
+kowtowing to tacit demands from China, <a href="https://daringfireball.net/linked/2019/10/10/apple-pulls-hkmaps">Apple removed from the App
+Store an app called HKmap.live</a> which helped pro-democracy
+activists in Hong Kong know the location of police and protest
+activity. The app broke no Hong Kong laws, but <a href="https://www.npr.org/2019/10/10/768841864/after-china-objects-apple-removes-app-used-by-hong-kong-protesters">scared the
+thin-skinned skittish lickspittles in the Chinese Communist
+Party</a>. (Remember too that in 2019, <a href="https://daringfireball.net/linked/2019/10/07/taiwan-flag-emoji">Apple removed the Taiwan
+flag emoji</a> (🇹🇼) from the iOS 13 keyboard for users in Hong
+Kong and Macau.)</p>
+
+<p>One defense from Apple regarding HKmap.live, however, was that the
+iOS app was a thin wrapper around the website, which website
+remained fully functional and could be saved to an iPhone user’s
+home screen. Removing the app from the App Store thus did not
+prevent Hong Kongers from accessing it. (<a href="https://hkmap.live/">That website</a> today
+<a href="https://en.wikipedia.org/wiki/HKmap.live">seems to be defunct</a>.)</p>
+
+<p>ICEBlock is different. It is <em>only</em> available as a native iOS app.
+According to the developers, this is for technical reasons. From
+their web page explaining <a href="https://www.iceblock.app/android">why they <em>can’t</em> offer an Android
+version</a>:</p>
+
+<blockquote>
+  <p>At ICEBlock, user privacy and security are paramount. Our
+application is designed to provide as much anonymity as possible
+without storing any user data or creating accounts. While we
+understand the desire for an Android version of ICEBlock,
+achieving this level of anonymity on Android is not feasible due
+to the inherent requirements of push notification services.</p>
+
+<p>To send push notifications on Android, it is necessary to use a
+mechanism that requires storing device IDs. This means that we
+would need to maintain a privately hosted database to store these
+identifiers. Storing such data, even if it’s anonymized,
+introduces significant privacy risks. [...]</p>
+
+<p>In contrast, iOS offers us the flexibility to deliver push
+notifications while adhering strictly to our design philosophy.
+Apple’s ecosystem allows for push notifications to be sent
+without requiring us to store any user-identifiable information.
+This ensures that ICEBlock remains completely anonymous and
+secure.</p>
+</blockquote>
+
+<p>To deliver push notifications on Android, the developers claim
+they would need to maintain a database of device IDs, create a
+user account system to manage those device IDs, and all of that
+server-stored data would be susceptible to law enforcement
+subpoenas and pro-ICE red hat hackers. (What “brown shirts” were
+to the Nazis, we should make “red hats” to MAGA.)</p>
+
+<p>To maintain anonymity and store zero user data, there is and can
+be no web app version of ICEBlock. There is and can be no Android
+version. Only iOS supports the security and privacy features for
+ICEBlock to offer what it does, the way it does. Here’s to hoping
+that Apple will proudly defend it if push comes to shove.</p>
+</blockquote>
+
+<p>Apple’s removal of ICEBlock from the App Store is, in multiple ways, <em>worse</em> than Apple’s removal of HKmap.live from the App Store back in 2019. First, you cannot take a disagreement with the Chinese government to court. Here in the United States, you can. But Apple chose not to. That’s a display of weakness. </p>
+
+<p>Second, from the perspective of users, without the HKmap.live “app”, Hong Kong iPhone users could still access all the functionality via the website, and the website could be saved to their home screens as a web app that was, I believe, functionally identical to the version from the App Store. I put “app” in quotes above because the HKmap.live app was really just a thin wrapper around the service’s mobile website. Hong Kongers lost some convenience, and they lost the ability to tell non-technical protestor friends “just get it from the App Store”, but it’s not <em>that</em> much more complex to explain how to add a website to your iPhone home screen as a web app.</p>
+
+<p>With ICEBlock, the entire thing is simply no longer available. If you already have ICEBlock installed, the installed version still functions on your iPhone, but, until and if Apple changes its mind, there will be no further software updates and new users are unable to download it. Nor will current users be able to re-download the app on a new iPhone — and now is “new iPhone” season. And, seemingly, there can be no web app (or Android) version of ICEBlock that offers the same level of anonymity as the native iOS version — with notifications, but without user accounts nor any database of device IDs for notifications that would be subject to subpoena from ICEBlock.</p>
+
+<p>The gist of <a href="https://daringfireball.net/linked/2025/07/26/iceblock-trust-apple">my second post on ICEBlock</a> from back in July is that ICEBlock’s privacy-protecting architecture isn’t magic. It’s based on trust in Apple itself. Joshua Aaron doesn’t have access to ICEBlock users’ device IDs (let alone their personal identities), but ICEBlock can send push notifications to devices because Apple itself does know device IDs and users’ identities.</p>
+
+<p>It’s rather chilling to consider what Apple would have done if the Trump administration had “demanded” a list of device IDs and user identities for everyone who had installed ICEBlock. Or what Apple <em>will</em> do if such a demand pops into one of their dimwitted but cruel minds.<sup id="fnr1-2025-10-03"><a href="#fn1-2025-10-03">1</a></sup> I suspect that’s one of the lines Apple would not cross. That Apple would stand its ground there and say “Fuck you, make us” and take it to court. But there’s only one way to find out.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1-2025-10-03">
+<p>A few people have already asked me why it took the Trump administration several months to put ICEBlock in its crosshairs and issue a takedown “demand” to Apple. <a href="https://abc7ny.com/post/iceblock-new-iphone-app-lets-users-know-when-ice-agents-are-area/16902392/">Aaron shipped the first release of ICEBlock back in April</a>, and it achieved a significant amount of well-deserved publicity in July after Trump’s ICE goons began large-scale deportation raids in Los Angeles. My answer is simple: it took them months to issue this demand because they’re so goddamn stupid and incompetent. We should be thankful for that. In a competent regime attempting an authoritarian takeover of a liberal democracy, it would have been taken down in days, not months.&nbsp;<a href="#fnr1-2025-10-03"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
+</li>
+</ol>
+</div>
+
+
+
+    ]]></content>
+  <title>★ Complying With ‘Demand’ From Trump Administration, Apple Removes ICEBlock From App Store</title></entry><entry>
 	<title>‘Fuck You, Make Me’</title>
 	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ohPToBog_-g" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wlc" />
@@ -1814,100 +1965,4 @@ for users.</p>
 
 
     ]]></content>
-  <title>★ How to Use iPhone Mirroring With More Than One iPhone</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/08/joe_caroff_007_logo_designer" />
-	<link rel="shorturl" href="http://df4.us/wj7" />
-	<id>tag:daringfireball.net,2025://1.42163</id>
-	<published>2025-08-18T20:50:43Z</published>
-	<updated>2025-08-18T21:02:05Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">A perfect logo, from a designer with a long and storied career.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p><a href="https://www.hollywoodreporter.com/movies/movie-news/joe-caroff-dead-designer-james-bond-007-logo-1236346509/">Mike Barnes, The Hollywood Reporter</a>:</p>
-
-<blockquote>
-  <p>For his first movie job — he would work on more than 300
-campaigns during his career — United Artists executive David
-Chasman hired him to design the poster for <em>West Side Story</em>
-(1961), then asked him to come up with the letterhead for a
-publicity release tied to the first Bond film, <em>Dr. No</em>. (Chasman
-had designed the poster for the 1962 movie.)</p>
-
-<p>“He said, ‘I need a little decorative thing on top,’” Caroff
-<a href="https://www.youtube.com/watch?v=A76NPoZRY8c">recalled</a> in 2021. “I knew [Bond’s] designation was 007,
-and when I wrote the stem of the seven, I thought, ‘That looks
-like the handle of a gun to me.’ It was very spontaneous, no
-effort, it was an instant piece of creativity.”</p>
-
-<p>Inspired by Ian Fleming’s favorite gun, a Walther PPK, Caroff
-attached a barrel and trigger to the 007 and for his work received
-$300, the going rate for such an assignment, he said. Even though
-the logo, though altered in subtle ways, has been featured on
-every Bond film and on millions of pieces of merchandise, he
-received no credit, no residuals, no royalties.</p>
-
-<p>The logo did, however, bring him “a lot of business,” he said. “It
-was like a little publicity piece for me.”</p>
-</blockquote>
-
-<p>It’s rare for a logomark to have such staying power. Just <a href="https://www.designweek.co.uk/tributes-paid-to-the-james-bond-007-logo-designer-joe-caroff/">a perfect logo</a>. Kind of wild that it was created, initially, only as letterhead for stationery. Perusing vintage movie posters, it seems like EON didn’t really lean into using the logo consistently until <a href="https://daringfireball.net/misc/2025/08/007-on-her-majestys-secret-service.jpeg"><em>On Her Majesty’s Secret Service</em></a> (1969) — the sixth film, and the first without Sean Connery. EON had used the mark prior to that (including at least <a href="https://posteritati.com/poster/8500/dr-no-1962-us-one-sheet-poster">one excellent poster for <em>Dr. No</em></a>), but it didn’t appear on most of the posters for Connery’s initial run in the role: <a href="https://daringfireball.net/misc/2025/08/007-from-russia-with-love.jpeg"><em>From Russia With Love</em></a>, <a href="https://daringfireball.net/misc/2025/08/007-goldfinger.jpeg"><em>Goldfinger</em></a>, <a href="https://daringfireball.net/misc/2025/08/007-thunderball.jpeg"><em>Thunderball</em></a>, and <em>You Only Live Twice</em> (variations <a href="https://daringfireball.net/misc/2025/08/007-you-only-live-twice-A.jpeg">A</a> and <a href="https://daringfireball.net/misc/2025/08/007-you-only-live-twice-B.jpeg">B</a>). Amongst those, the logo only appears on the <em>Goldfinger</em> poster. They used to make multiple posters for every movie back then, so there might exist examples for all of them with the logo. But I think until <em>On Her Majesty’s Secret Service</em>, EON leaned on Connery’s face as the symbol of the franchise. From that point forward, though, Caroff’s 007-cum-gun logo was the symbol of the franchise.<sup id="fnr1-2025-08-18"><a href="#fn1-2025-08-18">1</a></sup> I can’t seem to find an official movie poster after <em>OHMSS</em> that doesn’t feature it.</p>
-
-<p>I will quibble with one detail from The Hollywood Reporter description above: the gun in Caroff’s original 007 mark clearly looked like a <a href="https://en.wikipedia.org/wiki/Luger_pistol">Luger</a>, a rather distinctive German pistol with a long skinny barrel, not the more compact Walther PPK that Bond actually carried. Variations of the Luger-esque logo appear on the posters for all seven of the movies starring Roger Moore. EON updated the logomark to resemble a Walther PPK <a href="https://daringfireball.net/misc/2025/08/007-the-living-daylights.jpeg">for <em>The Living Daylights</em></a> in 1987, the first (and better) of two Bond movies starring Timothy Dalton. As a kid it always bothered me — ever so slightly — that the logo resembled a gun that James Bond never actually used, but until today, researching this post, I never noticed that they addressed that in 1987. That said, I think the Luger-esque mark was a bit cooler. As a kid, that was my assumption: that “they” made it look like a Luger, not the sort of pistol Bond actually carried, because it looked cooler that way. I accepted that.</p>
-
-<hr />
-
-<p>Caroff had a remarkably accomplished career. <a href="https://posteritati.com/unfolding/by-design-the-joe-caroff-story">He created iconic posters for dozens of terrific films</a> across a slew of genres. The fact that he created the 007 logo but only earned $300 from it is more like a curious footnote than anything.</p>
-
-<p>From <a href="https://www.nytimes.com/2025/08/17/obituaries/joe-caroff-dead.html?unlocked_article_code=1.fE8.pObu.ZW1jiWahs32T&amp;smid=url-share">Jeré Longman’s excellent obituary for The New York Times</a> (gift link), after observing that Caroff died just one day short of his 104th birthday:</p>
-
-<blockquote>
-  <p>Mr. Caroff’s designs were familiar, but his name was not. He did
-not sign much of his work and largely avoided self-promotion. He
-was not included among the more than 60 celebrated designers,
-among them like <a href="https://www.nytimes.com/1996/04/27/movies/saul-bass-75-designer-dies-made-art-out-of-movie-titles.html">Saul Bass</a>, <a href="https://www.nytimes.com/1999/10/17/nyregion/leo-lionni-89-dies-versatile-creator-of-children-s-books.html">Leo Lionni</a> and <a href="https://www.nytimes.com/1996/11/28/arts/paul-rand-82-creator-of-sleek-graphic-designs-dies.html">Paul
-Rand</a>, in the 2017 book <a href="https://themodernsbook.com/"><em>The Moderns: Midcentury American
-Graphic Design</em></a>, written by Steven Heller and Greg
-D’Onofrio.</p>
-
-<p>“That he was unknown is shocking,” Mr. Heller, co-chairman
-emeritus of the Master of Fine Arts Design program at the School
-of Visual Arts in Manhattan, said in a recent interview.</p>
-
-<p>Still, Mr. Caroff’s abundant output became widely recognizable for
-an interpretive style that could be bold, elegant, theatrical,
-whimsical, sensual and deceptively simple in promoting a book or
-movie and conveying its essence with a single image.</p>
-</blockquote>
-
-<p>No better example of that reduced-to-its-essence genius than his 007 logo:</p>
-
-<blockquote>
-  <p>“I knew that 007 meant license to kill; that, I think, at an
-unconscious level, was the reason I knew the gun had to be in the
-logo,” Mr. Caroff said in a 2022 documentary, <a href="https://www.hbomax.com/movies/by-design-the-joe-caroff-story/63f45e42-315c-469d-a0d4-501989f339eb"><em>By Design: The Joe
-Caroff Story</em></a>.</p>
-
-<p>Mark Cerulli, who directed the documentary, said in an interview
-that the logo was a “marvel of simplicity that telegraphs
-everything you would want to know about 007.”</p>
-</blockquote>
-
-<p><em><a href="https://www.hbomax.com/movies/by-design-the-joe-caroff-story/63f45e42-315c-469d-a0d4-501989f339eb">By Design</a></em> is streaming on HBO Max. I’ve added it to the top of my to-watch list.</p>
-
-<div class="footnotes">
-<hr />
-<ol>
-<li id="fn1-2025-08-18">
-<p>You will not catch me making any jokes about the fact that “007 cum gun” could serve as a three-word plot synopsis for many of the films in the Connery/Moore era.&nbsp;<a href="#fnr1-2025-08-18"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
-</li>
-</ol>
-</div>
-
-
-
-    ]]></content>
-  <title>★ Joe Caroff, Designer of the James Bond 007 Logo, Dies at 103</title></entry></feed><!-- THE END -->
+  <title>★ How to Use iPhone Mirroring With More Than One iPhone</title></entry></feed><!-- THE END -->
