@@ -7,13 +7,13 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-10-03T21:43:26Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-10-04T00:48:08Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/10/iceblock_removed_from_app_store" />
 	<link rel="shorturl" href="http://df4.us/wld" />
 	<id>tag:daringfireball.net,2025://1.42241</id>
 	<published>2025-10-03T20:56:36Z</published>
-	<updated>2025-10-03T21:43:26Z</updated>
+	<updated>2025-10-04T00:48:08Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -92,7 +92,7 @@ Kong and Macau.)</p>
 iOS app was a thin wrapper around the website, which website
 remained fully functional and could be saved to an iPhone user’s
 home screen. Removing the app from the App Store thus did not
-prevent Hong Kongers from accessing it. (<a href="https://hkmap.live/">That website</a> today
+prevent Hongkongers from accessing it. (<a href="https://hkmap.live/">That website</a> today
 <a href="https://en.wikipedia.org/wiki/HKmap.live">seems to be defunct</a>.)</p>
 
 <p>ICEBlock is different. It is <em>only</em> available as a native iOS app.
@@ -138,7 +138,7 @@ that Apple will proudly defend it if push comes to shove.</p>
 
 <p>Apple’s removal of ICEBlock from the App Store is, in multiple ways, <em>worse</em> than Apple’s removal of HKmap.live from the App Store back in 2019. First, you cannot take a disagreement with the Chinese government to court. Here in the United States, you can. But Apple chose not to. That’s a display of weakness. </p>
 
-<p>Second, from the perspective of users, without the HKmap.live “app”, Hong Kong iPhone users could still access all the functionality via the website, and the website could be saved to their home screens as a web app that was, I believe, functionally identical to the version from the App Store. I put “app” in quotes above because the HKmap.live app was really just a thin wrapper around the service’s mobile website. Hong Kongers lost some convenience, and they lost the ability to tell non-technical protestor friends “just get it from the App Store”, but it’s not <em>that</em> much more complex to explain how to add a website to your iPhone home screen as a web app.</p>
+<p>Second, from the perspective of users, without the HKmap.live “app”, Hong Kong iPhone users could still access all the functionality via the website, and the website could be saved to their home screens as a web app that was, I believe, functionally identical to the version from the App Store. I put “app” in quotes above because the HKmap.live app was really just a thin wrapper around the service’s mobile website. Hongkongers lost some convenience, and they lost the ability to tell non-technical protestor friends “just get it from the App Store”, but it’s not <em>that</em> much more complex to explain how to add a website to your iPhone home screen as a web app.</p>
 
 <p>With ICEBlock, the entire thing is simply no longer available. If you already have ICEBlock installed, the installed version still functions on your iPhone, but, until and if Apple changes its mind, there will be no further software updates and new users are unable to download it. Nor will current users be able to re-download the app on a new iPhone — and now is “new iPhone” season. And, seemingly, there can be no web app (or Android) version of ICEBlock that offers the same level of anonymity as the native iOS version — with notifications, but without user accounts nor any database of device IDs for notifications that would be subject to subpoena from ICEBlock.</p>
 
