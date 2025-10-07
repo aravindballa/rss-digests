@@ -7,7 +7,41 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-10-07T16:36:08Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-10-07T18:21:08Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>What’s New or Changed in iOS 26.1 Beta 2</title>
+	<link rel="alternate" type="text/html" href="https://9to5mac.com/2025/10/06/everything-new-in-ios-26-1-beta-2/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wlk" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/07/new-in-ios-261-beta-2" />
+	<id>tag:daringfireball.net,2025:/linked//6.42248</id>
+	<published>2025-10-07T18:19:52Z</published>
+	<updated>2025-10-07T18:21:08Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Ryan Christoffel, 9to5Mac:</p>
+
+<blockquote>
+  <p>Alarms and timers are now harder to dismiss thanks to a <a href="https://9to5mac.com/2025/10/06/ios-26-1-beta-2-makes-alarms-harder-to-accidentally-dismiss/">new
+‘Slide to stop’ gesture</a>. Both alarms and timers were
+updated in iOS 26 to utilize a new design with much larger
+on-screen buttons than before. Now in iOS 26.1 beta 2, Apple has
+replaced the ‘Stop’ button with a new sliding gesture that
+requires a little more intentionality. This should make accidental
+alarm dismissals more rare.</p>
+</blockquote>
+
+<p>That’s one of several changes that caught my eye. Seems like a great idea. Another notable change: <a href="https://sixcolors.com/post/2025/10/ipados-26-1-beta-brings-back-slide-over-adds-microphone-adjustments/">Slide Over returns to iPadOS</a>.</p>
+
+<p><strong>See also:</strong> <a href="https://www.macrumors.com/2025/10/06/ios-26-1-beta-2-features/">Juli Clover’s rundown of changes in iOS 26.1 beta 2 for MacRumors</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘What’s New or Changed in iOS 26.1 Beta 2’"  href="https://daringfireball.net/linked/2025/10/07/new-in-ios-261-beta-2">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>AltStore State of the Union</title>
 	<link rel="alternate" type="text/html" href="https://rileytestut.com/blog/2025/10/07/evolving-altstore-pal/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wlj" />
@@ -1705,28 +1739,6 @@ similar deal for Google’s AI system called Gemini.</p>
 
 <div>
 <a  title="Permanent link to ‘Investors Score the US-v.-Google Remedies Ruling a Win for Google and Apple’"  href="https://daringfireball.net/linked/2025/09/04/investors-google-apple-mehta-decision">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Instagram Finally Launches an iPad App</title>
-	<link rel="alternate" type="text/html" href="https://about.instagram.com/blog/announcements/instagram-for-ipad/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wk8" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/09/04/instagram-ipad" />
-	<id>tag:daringfireball.net,2025:/linked//6.42200</id>
-	<published>2025-09-04T20:22:25Z</published>
-	<updated>2025-09-04T20:22:26Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>There are finallys, and there are <em>finallys</em>. Apple shipped the original iPad in April 2010. Instagram shipped in October 2010 — <a href="https://www.idownloadblog.com/2012/04/19/phil-schiller-quits-instagram/">and was iPhone-exclusive until 2012</a>. That Instagram didn’t ship a native iPad version of its app until now is really one of the strangest things in tech. But here it is.</p>
-
-<p>One significant difference from Instagram on phones is that on iPad, it defaults to the Reels view, and you have to tap below Reels in the sidebar to get to your following timeline. Adam Mosseri explains their thinking behind this <a href="https://www.instagram.com/reel/DOJWGJyETYq/?igsh=MWFwMXNsdWFwNHp1ZQ==">in this Reel</a> (natch).</p>
-
-<div>
-<a  title="Permanent link to ‘Instagram Finally Launches an iPad App’"  href="https://daringfireball.net/linked/2025/09/04/instagram-ipad">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
