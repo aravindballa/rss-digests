@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-10-07T18:21:08Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-10-07T20:14:39Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>What’s New or Changed in iOS 26.1 Beta 2</title>
 	<link rel="alternate" type="text/html" href="https://9to5mac.com/2025/10/06/everything-new-in-ios-26-1-beta-2/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wlk" />
@@ -48,7 +48,7 @@ alarm dismissals more rare.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/07/altstore-state-of-the-union" />
 	<id>tag:daringfireball.net,2025:/linked//6.42247</id>
 	<published>2025-10-07T16:35:16Z</published>
-	<updated>2025-10-07T16:36:08Z</updated>
+	<updated>2025-10-07T20:14:39Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -76,13 +76,13 @@ before alternative app marketplaces are available worldwide, and
 each new country brings us one step closer to that goal.</p>
 </blockquote>
 
-<p>Apple’s cowardly abandonment of ICEBlock in the face of the first whiff of pressure from the Trump administration is perhaps the best example yet that Apple’s arguments in favor of their App Store being the single source for third-party software do not hold water. I’m not going to argue that ICEBlock is an essential app, or super duper popular, but it is a very serious app that aims to address a very serious situation. In <a href="https://bsky.app/profile/iceblock.app/post/3m2alyaghbk2n">Apple’s email to developer Joshua Aaron informing him of their decision</a> to pull ICEBlock from the App Store, they justified the decision on the spurious basis that the app contained “objectionable content”. The only content ICEBlock contains is the location of law enforcement activity. Waze — and more notably, Apple’s own Maps app — do the exact same thing for highway speed traps.</p>
+<p>Apple’s cowardly abandonment of ICEBlock in the face of the first whiff of pressure from the Trump administration is perhaps the best evidence yet that Apple’s arguments in favor of their App Store being the single source for third-party software do not hold water. I’m not going to argue that ICEBlock is an essential app, or super duper popular, but it is a very serious app that aims to address a very serious situation. In <a href="https://bsky.app/profile/iceblock.app/post/3m2alyaghbk2n">Apple’s email to developer Joshua Aaron informing him of their decision</a> to pull ICEBlock from the App Store, they justified the decision on the spurious basis that the app contained “objectionable content”. The only content ICEBlock contains is the location of law enforcement activity. Waze — and more notably, Apple’s own Maps app — do the exact same thing for highway speed traps.</p>
 
-<p>Apple’s decision shows that developers cannot trust the App Store to distribute apps that anyone in the Trump administration might “object to”. ICEBlock is an iOS exclusive app and service for serious privacy reasons that are grounded in technical merit. But, exactly as many critics of the App-Store-as-exclusive-distribution-point-for-native-software model have long warned about, it’s proven to be a choke point that Apple was unwilling to defend. Apple frequently invokes the word <em>trust</em> as a reason for the App Store model. But their treatment of ICEBlock indicates they are untrustworthy when it comes to showing any sort of backbone regarding Trump’s mad-king slide into authoritarianism, and thus, so too is the entire iOS platform in jurisdictions like the US, where the App Store remains the exclusive distribution source. What good is building the most privacy-focused, user-friendly platform in the world when Apple will disallow an app for which airtight privacy is essential? What happens when Trump lickspittles go after women’s healthcare apps like Planned Parenthood?</p>
+<p>Apple’s decision shows that developers cannot trust the App Store to distribute apps that anyone in the Trump administration might “object to”. ICEBlock is an iOS exclusive app and service for serious privacy reasons that are grounded in technical merit. But, exactly as many critics of the App-Store-as-exclusive-distribution-point-for-native-software model have long warned, it’s proven to be a choke point that Apple was unwilling to defend. Apple frequently invokes the word <em>trust</em> as a reason for the App Store model. But their treatment of ICEBlock indicates they are untrustworthy when it comes to showing any sort of backbone regarding Trump’s mad-king slide into authoritarianism, and thus, so too is the entire iOS platform in jurisdictions like the US, where the App Store remains the exclusive distribution source. What good is building the most privacy-focused, user-friendly platform in the world when Apple will disallow an app for which airtight privacy is essential? What happens when Trump lickspittles go after women’s healthcare apps like Planned Parenthood?</p>
 
 <p>If there were a way to distribute apps outside the App Store in the US (TestFlight doesn’t count, as it has hard limits on how many users can get the app — and it’s not clear that Apple hasn’t blocked ICEBlock from TestFlight too), US iPhone users would still have access to ICEBlock. If that <em>were</em> the case, perhaps the Trump administration would then “demand” that Apple revoke Aaron’s developer account. But if that happened, at least we’d know just how pants-wettingly terrified Apple is of the president, in our purported liberal democracy.</p>
 
-<p>There’s lots of other interesting news in Testut’s AltStore status report, including the news that they’re adding Fediverse support to AltStore to distribute app updates and news (and more); converting to a public benefit corporation; have raised $6 million in funding; and are donating $500,000 of that money to help fund indie iOS Fediverse apps like Tapbot’s <a href="https://tapbots.com/ivory/">Ivory</a> (Mastodon) and <a href="https://tapbots.com/phoenix/">Phoenix</a> (Bluesky) clients and The Iconfactory’s <a href="https://usetapestry.com/">Tapestry</a> feed aggregator.</p>
+<p>There’s lots of other interesting news in Testut’s AltStore status report, including the news that they’re adding Fediverse support to AltStore to distribute app updates and news (and more); converting to a public benefit corporation; have raised $6 million in funding; and are donating $500,000 of that money to help fund indie iOS Fediverse apps like Tapbots’s <a href="https://tapbots.com/ivory/">Ivory</a> (Mastodon) and <a href="https://tapbots.com/phoenix/">Phoenix</a> (Bluesky) clients and The Iconfactory’s <a href="https://usetapestry.com/">Tapestry</a> feed aggregator.</p>
 
 <div>
 <a  title="Permanent link to ‘AltStore State of the Union’"  href="https://daringfireball.net/linked/2025/10/07/altstore-state-of-the-union">&nbsp;★&nbsp;</a>
@@ -96,7 +96,7 @@ each new country brings us one step closer to that goal.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/07/hodges-cook-iceblock" />
 	<id>tag:daringfireball.net,2025:/linked//6.42246</id>
 	<published>2025-10-07T12:01:22Z</published>
-	<updated>2025-10-07T12:01:23Z</updated>
+	<updated>2025-10-07T20:13:01Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -132,7 +132,7 @@ values you have so long and so admirably espoused.</p>
 
 <p>Hodges, earlier in his letter, makes reference to <a href="https://duckduckgo.com/?q=site%3Adaringfireball.net+san+bernardino+fbi&amp;ia=web">Apple’s 2016 standoff with the FBI over a locked iPhone belonging to the mass shooter in San Bernardino</a>, California. The FBI and Justice Department pressured Apple to create a version of iOS that would allow them to backdoor the iPhone’s passcode lock. Apple adamantly refused.</p>
 
-<p>The message Trump and his lickspittles surely took from Apple acceding to their “demand” regarding ICEBlock — a demand made without an iota of legal justification, nor any factual justification that the app was being used to put ICE law enforcements agents in harm’s way — is that when they make a demand to Apple, Apple will respond not with the four words “Fuck you, make me” (as they did in the 2016 San Bernardino case), but instead “Whatever you say goes”. It was, obviously, easier for Apple to stand on principle in 2016, when Barack Obama, a president who deeply respected the Constitution and the principle of rule of law, was president. But it’s more important to stand on those same principles with Trump — a would-be mad king with no respect nor even understanding of the Constitution or rule of law — in office.</p>
+<p>The message Trump and his lickspittles surely took from Apple acceding to their “demand” regarding ICEBlock — a demand made without an iota of legal justification, nor any factual justification that the app was being used to put ICE law enforcements agents in harm’s way — is that when they make a demand to Apple, Apple will respond not with the four words “Fuck you, make me” (as they did in the 2016 San Bernardino case), but instead “Whatever you say goes”. It was, obviously, easier for Apple to stand on principle in 2016, when Barack Obama, a man who deeply respected the Constitution and the principle of rule of law, was president. But it’s more important to stand on those same principles with Trump — a would-be mad king with no respect nor even understanding of the Constitution or rule of law — in office.</p>
 
 <p>If not now, when? Apple will, I believe, find out.</p>
 
