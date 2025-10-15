@@ -7,7 +7,133 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-10-15T17:42:34Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-10-15T21:04:41Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/10/m5_chip_launches_with_macbook_pro_ipad_pro_vision_pro" />
+	<link rel="shorturl" href="http://df4.us/wm7" />
+	<id>tag:daringfireball.net,2025://1.42271</id>
+	<published>2025-10-15T21:04:41Z</published>
+	<updated>2025-10-15T21:04:41Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">Thoughts and observations on the new M5 MacBook  Pro, iPad Pros, and Vision Pro.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>Apple Newsroom, today:</p>
+
+<blockquote>
+  <p>Apple today announced M5, delivering the next big leap in AI
+performance and advances to nearly every aspect of the chip. Built
+using third-generation 3-nanometer technology, M5 introduces a
+next-generation 10-core GPU architecture with a Neural Accelerator
+in each core, enabling GPU-based AI workloads to run dramatically
+faster, with over 4× the peak GPU compute performance compared to
+M4. The GPU also offers enhanced graphics capabilities and
+third-generation ray tracing that combined deliver a graphics
+performance that is up to 45 percent higher than M4. M5 features
+the world’s fastest performance core, with up to a 10-core CPU
+made up of six efficiency cores and up to four performance cores.
+Together, they deliver up to 15 percent faster multithreaded
+performance over M4. M5 also features an improved 16-core Neural
+Engine, a powerful media engine, and a nearly 30 percent increase
+in unified memory bandwidth to 153GB/s. M5 brings its
+industry-leading power-efficient performance to the new <a href="https://www.apple.com/newsroom/2025/10/apple-unveils-new-14-inch-macbook-pro-powered-by-the-m5-chip/">14-inch
+MacBook Pro</a>, <a href="https://www.apple.com/newsroom/2025/10/apple-introduces-the-powerful-new-ipad-pro-with-the-m5-chip/">iPad Pro</a>, and <a href="https://www.apple.com/newsroom/2025/10/apple-vision-pro-upgraded-with-the-m5-chip-and-dual-knit-band/">Apple Vision Pro</a>,
+allowing each device to excel in its own way. All are available
+for pre-order today.</p>
+</blockquote>
+
+<p>Some thoughts and observations:</p>
+
+<h2>14-Inch MacBook Pro</h2>
+
+<p>Apple Newsroom: “<a href="https://www.apple.com/newsroom/2025/10/apple-unveils-new-14-inch-macbook-pro-powered-by-the-m5-chip/">Apple Unveils New 14‑Inch MacBook Pro Powered by the M5 Chip, Delivering the Next Big Leap in AI for the Mac</a>”.</p>
+
+<p>The 14-inch MacBook Pro with the no-adjective M-series chip has always been an odd duck in the MacBook lineup. This “Pro”-but-not-pro spot in the MacBook lineup goes back to the Intel era, when there was a 13-inch MacBook Pro without a Touch Bar. That was the MacBook Pro that, in 2016, Phil Schiller suggested as <a href="https://www.cnet.com/tech/computing/new-macbook-pro-should-have-been-named-air/">a good choice for those who were then holding out for a MacBook Air with a retina display</a>. (The <a href="https://support.apple.com/en-us/111933">first retina MacBook Air</a> didn’t ship for another two years, in late 2018.) It’s more like a MacBook “Pro” than a MacBook Pro. The truly <em>pro</em>-spec’d MacBook Pros have M-series Pro and Max chips, and are available in both 14- and 16-inch sizes. The base 14-inch model, with the no-adjective M-series chip, is for people who probably would be better served with a MacBook Air but who wrongly believe they “need” a laptop with “Pro” in its name.</p>
+
+<p>Here’s a timeline of no-adjective M-series chips and when they appeared in the 14-inch MacBook Pro:</p>
+
+<ul>
+<li><p>M1 13-inch MacBook Pro: <a href="https://www.apple.com/newsroom/2020/11/introducing-the-next-generation-of-mac/">10 November 2025</a>. This MacBook Pro was one of the three Macs that debuted with the launch of Apple Silicon — the others were the MacBook Air and Mac Mini. The hardware looked exactly like the last generation Intel MacBook Pro. The M1 Pro and M1 Max models didn’t ship for another year (well, 11 months later), and those models brought with them the new form factor design that’s still with us today with the new M5 MacBook Pro.</p></li>
+<li><p>M2 13-inch MacBook Pro: <a href="https://www.apple.com/newsroom/2022/06/apple-unveils-m2-with-breakthrough-performance-and-capabilities/">6 June 2022</a>. This model also stuck with the older Intel-era form factor, including the 13-inch, not 14-inch, display size.</p></li>
+<li><p>M3 14-inch MacBook Pro: <a href="https://www.apple.com/newsroom/2023/10/apple-unveils-new-macbook-pro-featuring-m3-chips/">30 October 2023</a>. This was the “<a href="https://www.apple.com/newsroom/2023/10/behind-the-scenes-at-scary-fast-apples-keynote-event-shot-on-iphone/">Scary Fast</a>” event. This model debuted alongside the pro-spec’d M3 Pro and M4 Max 14- and 16-inch models.</p></li>
+<li><p>M4 14-inch MacBook Pro: <a href="https://www.apple.com/newsroom/2024/10/new-macbook-pro-features-m4-family-of-chips-and-apple-intelligence/">30 October 2024</a>. Exactly one year after the M3, and also alongside the M4 Pro and M4 Max models. What was different in 2024 with the M4 generation is that <a href="https://www.apple.com/newsroom/2024/05/apple-unveils-stunning-new-ipad-pro-with-m4-chip-and-apple-pencil-pro/">the M4 iPad Pros debuted back in early May</a>, all by themselves.</p></li>
+<li><p>M5 14-inch MacBook Pro: <a href="https://www.apple.com/newsroom/2025/10/apple-unveils-new-14-inch-macbook-pro-powered-by-the-m5-chip/">15 October 2025</a> (today). What’s different with today’s announcement is that it is <em>not</em> alongside the M5 Pro and M5 Max models, but <em>is</em> alongside the M5 iPad Pros.</p></li>
+</ul>
+
+<p>This raises the question of when to expect those M5 Pro/Max models. The rumor mill suggests “early 2026”. I suspect that’s right, based on nothing other than the fact that if they were going to be announced this year, Apple almost certainly would have announced the entire M5 generation MacBook lineup together.</p>
+
+<p>Basically, this is just a <a href="https://www.apple.com/macbook-pro/compare/?modelList=MacBook-Pro-14-M5,MacBook-Pro-14-M4,MacBook-Pro-14-M4-Pro">speed bump upgrade over the just-plain M4 MacBook Pro</a>. But annual — or at least regular — <a href="https://daringfireball.net/2019/05/good_old_fashioned_macbook_pro_speed_bumps">speed bumps are a good thing</a>. The alternative is years-long gaps between hardware refreshes.</p>
+
+<h2>iPad Pros</h2>
+
+<p>Apple Newsroom: “<a href="https://www.apple.com/newsroom/2025/10/apple-introduces-the-powerful-new-ipad-pro-with-the-m5-chip/">Apple Introduces the Powerful New iPad Pro With the M5 Chip</a>”:</p>
+
+<blockquote>
+  <p>Featuring a next-generation GPU with a Neural Accelerator in each
+core, M5 delivers a big boost in performance for iPad Pro users,
+whether they’re working on cutting-edge projects or tapping into
+AI for productivity. The new iPad Pro delivers up to 3.5× the AI
+performance than iPad Pro with M41 and up to 5.6× faster than iPad
+Pro with M1. N1, the new Apple-designed wireless networking chip,
+enables the latest generation of wireless technologies with
+support for Wi-Fi 7 on iPad Pro. The C1X modem comes to cellular
+models of iPad Pro, delivering up to 50 percent faster cellular
+data performance than its predecessor with even greater
+efficiency, allowing users to do more on the go.</p>
+</blockquote>
+
+<p>I think the N1 wireless chip and C1X modem are more interesting generation-over-generation improvements than the M5 chip. Thanks to the N1, these iPad Pro models support Wi-Fi 7 — today’s new M5 14-inch MacBook Pro does not. I would wager rather heavily that the upcoming M5 Pro and M5 Max MacBook Pro models <em>will</em> support Wi-Fi 7 (probably via the N1 chip, or perhaps even an “N1X” or something).</p>
+
+<p>Other than that, this too <a href="https://www.apple.com/ipad/compare/?modelList=ipad-pro-11-m5,ipad-pro-11-m4,ipad-air-11-m3">is a speed bump upgrade</a>.</p>
+
+<h2>Vision Pro</h2>
+
+<p>Apple Newsroom: “<a href="https://www.apple.com/newsroom/2025/10/apple-vision-pro-upgraded-with-the-m5-chip-and-dual-knit-band/">Apple Vision Pro Upgraded With the M5 Chip and Dual Knit Band</a>”:</p>
+
+<blockquote>
+  <p>The upgraded Vision Pro also comes with the soft, cushioned Dual
+Knit Band to help users achieve an even more comfortable fit, and
+visionOS 26, which unlocks innovative spatial experiences,
+including widgets, new Personas, an interactive Jupiter
+Environment, and new Apple Intelligence features with support for
+additional languages.</p>
+</blockquote>
+
+<p>The new Dual Knit Band (<a href="https://www.apple.com/shop/product/DUAL_KNIT_BAND_SA/apple-vision-pro-dual-knit-band">$99 on its own</a>) looks like a hybrid of the more attractive Solo Knit Band (which did not have a strap that went over the top of your head) and the Dual Loop Band (which did have an over-the-head strap, but which looked somewhat orthopedic). It’s a tacit acknowledgement that physical comfort has been a real problem for many people who’ve tried Vision Pro. (Me, personally, I find using it with the Solo Knit Band comfortable for as long as I care to use it — which typically just 2–3 hours, tops.)</p>
+
+<blockquote>
+  <p>There are over 1 million apps and thousands of games on the App
+Store, hundreds of 3D movies on the Apple TV app, and all-new
+series and films in Apple Immersive with a selection of live NBA
+games coming soon.</p>
+</blockquote>
+
+<p>Translation: <em>Hey, there’s actually a growing library of immersive content to watch, software to use, and games to play for this thing now.</em></p>
+
+<blockquote>
+  <p>With M5, Apple Vision Pro renders 10 percent more pixels on the
+custom micro-OLED displays compared to the previous generation,
+resulting in a sharper image with crisper text and more detailed
+visuals. Vision Pro can also increase the refresh rate up to 120Hz
+for reduced motion blur when users look at their physical
+surroundings, and an even smoother experience when using Mac
+Virtual Display. Vision Pro with M5 works alongside the
+purpose-built R1 chip, which processes input from 12 cameras, five
+sensors, and six microphones, and streams new images to the
+displays within 12 milliseconds to create a real-time view of the
+world. The high-performance battery now supports up to two and a
+half hours of general use, and up to three hours of video
+playback, all on a single charge.</p>
+</blockquote>
+
+<p>It’s merely another speed bump upgrade alongside the other two speed bump upgrades today, but a bit more dramatic given that the Vision Pro is jumping from the M2 to M5. No price drop, no change to the form factor. But Apple’s interest in the platform is very much alive.</p>
+
+
+
+    ]]></content>
+  <title>★ The Just Plain M5 Chip Launches in Three Updated Products: 14-Inch MacBook Pro, iPad Pro (Both Sizes), and Some Sort of Headset Thingamajig Called Vision Pro</title></entry><entry>
 	<title>TiVo Stops Selling DVRs</title>
 	<link rel="alternate" type="text/html" href="https://cordcuttersnews.com/tivo-stops-selling-dvrs-marking-the-end-of-an-era/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wm6" />
@@ -1920,94 +2046,4 @@ Business Channel.”</p>
 
 
     ]]></content>
-  <title>★ MSNBC, Spinning Out of NBCUniversal, Rebrands as ‘MS NOW’ With a Godawful Backronym and Even Worse Logo</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/08/iphone_mirroring_more_than_one_iphone" />
-	<link rel="shorturl" href="http://df4.us/wj9" />
-	<id>tag:daringfireball.net,2025://1.42165</id>
-	<published>2025-08-20T01:17:47Z</published>
-	<updated>2025-08-20T01:17:47Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">Long story short: there’s an “iPhone” menu under “Widgets” in System Settings → Desktop &amp; Dock.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>I’ve been using two iPhones throughout the summer — one running iOS 18, the other running iOS 26 betas. I found myself wanting to switch between them with iPhone Mirroring on my Mac, but couldn’t figure out how. The answer, from Apple Support, “<a href="https://support.apple.com/en-us/120421">iPhone Mirroring: Use your iPhone from your Mac</a>”:</p>
-
-<blockquote>
-  <p>If you have more than one iPhone that is both signed in to your
-Apple Account and nearby, you can choose the one that your Mac
-uses for mirroring and iPhone notifications:</p>
-
-<ol>
-<li><p>Choose Apple menu  > System Settings, then click Desktop &amp;
-Dock in the sidebar.</p></li>
-<li><p>Choose your iPhone from the iPhone pop-up menu on the right.
-This menu appears just below the “Use iPhone widgets” setting.
-It appears only when your Mac detects more than one nearby
-iPhone that can be used for mirroring.</p></li>
-</ol>
-</blockquote>
-
-<p>That pop-up menu is about halfway down the screen in Desktop &amp; Dock, in the “Widgets” section.<sup id="fnr1-2025-08-19"><a href="#fn1-2025-08-19">1</a></sup> I suspected this was possible, but I had to search the web (<a href="https://daringfireball.net/2025/04/try_switching_to_kagi">via Kagi</a>, the best search engine in the world, of course) to find the answer. I never would have thought to look in System Settings → Desktop &amp; Dock, let alone, even if I happened to look in that panel, all the way down under “Widgets”.</p>
-
-<p>Places where I <em>did</em> look:</p>
-
-<ul>
-<li>On the Mac, in the iPhone Mirroring app’s own Settings window. Nope.</li>
-<li>On the iPhone, in Settings → General → Airplay &amp; Continuity. This is where you can control which Mac or Macs your iPhone is available from with iPhone Mirroring (e.g. you can go here to revoke access from a certain Mac), but it doesn’t help you change which iPhone, among multiple, that any particular Mac connects to.</li>
-</ul>
-
-<p>To Apple’s credit, searching for “mirroring” in MacOS System Settings <a href="https://daringfireball.net/misc/2025/08/macos-18.6-settings-desktop-dock.png">does lead you to the correct setting</a>, but because it’s under “Widget settings”, I suspect some people who search for “mirroring” here will see that in the results list and not even bother clicking it, because “Widget settings” at first doesn’t sound like where you should go to choose between multiple phones for iPhone Mirroring. (It kind of makes sense, when you realize that the same iPhone that provides widgets to your Mac is the one available for iPhone Mirroring to connect to.)</p>
-
-<p>To Apple’s discredit, Siri is no help, despite Apple Intelligence’s supposed <a href="https://9to5mac.com/2025/02/26/this-is-every-apple-intelligence-feature-thats-available-now/">ability to harness “product knowledge”</a> from LLM training on Apple’s own support documents. After asking Siri, “How do I use multiple iPhones with iPhone mirroring?” on either a Mac or iPhone, I get a brief answer that says “You can set up more than one iPhone to use iPhone Mirroring with your Mac, but you can only connect to one iPhone at a time”, with a link to the iPhone User Guide that opens in the Tips app. That page in the iPhone User Guide, however — also available on the web as “<a href="https://support.apple.com/guide/mac-help/control-your-iphone-from-your-mac-mchl444d53a6/mac">Control Your iPhone From Your Mac</a>” — doesn’t contain any mention of using more than one iPhone with iPhone Mirroring. So <a href="https://support.apple.com/en-us/120421">this Apple Support document</a> on iPhone Mirroring does explain it (that’s the one I linked to at the top of this post), but <a href="https://support.apple.com/guide/mac-help/control-your-iphone-from-your-mac-mchl444d53a6/mac">this one does not</a>. No wonder Apple Intelligence’s “product knowledge”, trained on these documents, is somewhat confused.</p>
-
-<p>But it gets worse. I gave Siri a second chance on my Mac, asking the same question, something along the lines of “How do I use multiple iPhones with iPhone mirroring?” (I can’t be sure exactly which words I used because Siri doesn’t show a chat transcript<sup id="fnr2-2025-08-19"><a href="#fn2-2025-08-19">2</a></sup>), and the second time, <a href="https://daringfireball.net/misc/2025/08/siri-mirroring-nonsense.png">it responded thus</a>:</p>
-
-<blockquote>
-  <p>To use multiple iPhones with iPhone Mirroring:</p>
-
-<ol>
-<li>Open the iPhone Mirroring app on your Mac.</li>
-<li>Click the “Connect” button.</li>
-<li>Enter your iPhone passcode and choose how to authenticate.</li>
-<li>Select the iPhone you want to use from the list of available
-iPhones.</li>
-</ol>
-</blockquote>
-
-<p>This answer certainly describes one possible way that using multiple iPhones with iPhone Mirroring <em>should</em> work, but as an answer for how it actually <em>does</em> work, it’s abject nonsense. There is no “list of available iPhones” in the iPhone Mirroring app. If there were such a list to choose from, I’d never have had a question about this whole fucking thing in the first place.</p>
-
-<div class="footnotes">
-<hr />
-<ol>
-
-<li id="fn1-2025-08-19">
-<p>The first time I looked in the Desktop & Dock panel in System Settings, there was no “iPhone” pop-up menu visible, despite the fact that both of my active iPhones were on my desk, right next to my MacBook Pro. But I remembered that in the last few days, I’d been having problems with <a href="https://support.apple.com/en-us/102430">Continuity’s Universal Clipboard</a> feature too. In the past, when Universal Clipboard has gone on the fritz, I’ve solved the problem by toggling Bluetooth off and back on. I toggled Bluetooth on my Mac and boom, the “iPhone” menu appeared in the Desktop & Dock panel in System Settings, with the pop-up menu correctly listing both of my active iPhones. Universal Clipboard started working correctly again too. I bet the <em>next</em> version of Bluetooth is actually going to be reliable.&nbsp;<a href="#fnr1-2025-08-19"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;︎</a></p>
-</li>
-
-
-<li id="fn2-2025-08-19">
-<p>From Wayne Ma’s blockbuster report back in April at The Information, “<a href="https://daringfireball.net/linked/2025/04/10/wayne-ma-the-information-apple-siri-fumble">How Apple Fumbled Siri’s AI Makeover</a>”:</p>
-
-<blockquote>
-  <p>Giannandrea often has described to employees his belief that
-machine learning can lead to incremental improvements in products,
-eventually adding up to major gains, a concept he refers to as
-hill climbing. He also has expressed a dim view of chatbots in the
-past, telling Apple employees before and immediately after the
-release of ChatGPT that he didn’t believe they added much value
-for users.</p>
-</blockquote>
-
-<p><a href="https://x.com/nickaturley/status/1952385556664520875">ChatGPT reported 700 million weekly active users this month</a>, up from 500 million in March, and up 4× from last year.&nbsp;<a href="#fnr2-2025-08-19"  class="footnoteBackLink"  title="Jump back to footnote 2 in the text.">&#x21A9;&#xFE0E;</a></p>
-</li>
-
-</ol>
-</div>
-
-
-
-    ]]></content>
-  <title>★ How to Use iPhone Mirroring With More Than One iPhone</title></entry></feed><!-- THE END -->
+  <title>★ MSNBC, Spinning Out of NBCUniversal, Rebrands as ‘MS NOW’ With a Godawful Backronym and Even Worse Logo</title></entry></feed><!-- THE END -->
