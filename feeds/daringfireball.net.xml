@@ -7,7 +7,70 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-10-19T18:42:19Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-10-20T15:43:42Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Photos From Saturday’s ‘No Kings’ Protests Across the U.S.</title>
+	<link rel="alternate" type="text/html" href="https://www.theatlantic.com/photography/archive/2025/10/photos-no-kings-protests-across-america/684600/?gift=xw1ABCFnadCHxRLYMsWCkxkq7lcITrmN2tq1-jBOYrA" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wmh" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/20/no-kings-protest-photos" />
+	<id>tag:daringfireball.net,2025:/linked//6.42281</id>
+	<published>2025-10-20T15:40:41Z</published>
+	<updated>2025-10-20T15:40:41Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Picking up steam, these protests are.</p>
+
+<div>
+<a  title="Permanent link to ‘Photos From Saturday’s ‘No Kings’ Protests Across the U.S.’"  href="https://daringfireball.net/linked/2025/10/20/no-kings-protest-photos">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Major AWS Outage</title>
+	<link rel="alternate" type="text/html" href="https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wmg" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/20/major-aws-outage" />
+	<id>tag:daringfireball.net,2025:/linked//6.42280</id>
+	<published>2025-10-20T15:31:43Z</published>
+	<updated>2025-10-20T15:43:42Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jess Weatherbed, The Verge:</p>
+
+<blockquote>
+  <p>A major Amazon Web Services (AWS) outage took down multiple online
+services for around four hours this morning, including Amazon,
+Alexa, Snapchat, Fortnite, <a href="https://status.openai.com/incidents/01K80CBJD5Z64DF82KGT3K3QE0">ChatGPT</a>, <a href="https://x.com/EOSStatus/status/1980194104115150858">Epic Games Store,
+Epic Online Services</a>, and more.</p>
+
+<p>As of 6:35AM ET, the <a href="https://health.aws.amazon.com/health/status">AWS status checker</a> is reporting that
+“most AWS Service operations are succeeding normally now,” and
+some of the impacted platforms, including <a href="https://x.com/FortniteStatus/status/1980249794502082948">Fortnite</a>,
+<a href="https://x.com/EOSStatus/status/1980226546607726916">Epic Games Store</a>, and <a href="https://x.com/AravSrinivas/status/1980239929189036222">Perplexity</a> have announced
+that they are fully recovered and back online.</p>
+
+<p>However, as of 9:50AM ET, Amazon says that multiple services in
+the US-EAST-1 Region are still “impacted” by operational issues,
+and that it is working towards a full resolution. The AWS
+dashboard first reported issues affecting the US-EAST-1 Region at
+3:11AM ET, with global services in other regions also taken
+offline. The cause of the outage hasn’t been confirmed, and it’s
+unclear when regular service will be fully restored.</p>
+</blockquote>
+
+<p>I bet it was this AWS outage that explains why I couldn’t sign in to my NYT account to play Wordle this morning. (Got it in 4 today.)</p>
+
+<div>
+<a  title="Permanent link to ‘Major AWS Outage’"  href="https://daringfireball.net/linked/2025/10/20/major-aws-outage">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Mux: Video API for Developers</title>
 	<link rel="alternate" type="text/html" href="https://www.mux.com/video-api?utm_campaign=fireball&amp;utm_source=DF" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wme" />
@@ -1760,93 +1823,6 @@ credits and storage.</p>
 
 <div>
 <a  title="Permanent link to ‘Adobe Premiere Ships for iPhone and iPad’"  href="https://daringfireball.net/linked/2025/10/02/adobe-premiere-iphone-ipad">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>U.K. Makes New Attempt to Access Apple Cloud Data — This Time, iCloud Backups of U.K. Citizens</title>
-	<link rel="alternate" type="text/html" href="https://arstechnica.com/tech-policy/2025/10/uk-once-again-demands-backdoor-to-apples-encrypted-cloud-storage/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wl8" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/02/uk-makes-demand-for-access-to-icloud-backups" />
-	<id>tag:daringfireball.net,2025:/linked//6.42236</id>
-	<published>2025-10-02T16:05:51Z</published>
-	<updated>2025-10-02T21:28:09Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Anna Gross and Tim Bradshaw, reporting for the Financial Times (updated link to a syndicated version at Ars Technica, outside the FT’s parsimonious paywall):</p>
-
-<blockquote>
-  <p>The UK government has ordered Apple to allow access to encrypted
-cloud backups of British users, after a previous attempt to issue
-a broader demand that included US customers drew a furious
-backlash from the Trump administration.</p>
-
-<p>The UK Home Office demanded in early September that Apple create a
-backdoor into users’ cloud storage service, but stipulated that
-the order applied only to British citizens’ data, according to
-people briefed on the matter. [...]</p>
-
-<p>In February, Apple withdrew its most secure cloud storage service,
-iCloud Advanced Data Protection, from the UK.</p>
-
-<p>“Apple is still unable to offer Advanced Data Protection in the
-United Kingdom to new users,” Apple said on Wednesday. “We are
-gravely disappointed that the protections provided by ADP are not
-available to our customers in the UK given the continuing rise of
-data breaches and other threats to customer privacy.” It added:
-“As we have said many times before, we have never built a back
-door or master key to any of our products or services and we
-never will.”</p>
-</blockquote>
-
-<p>This is, as I understand it, a demand from the UK government to allow warrantless access to all UK citizens’ iCloud backups. And your iCloud backups, once decrypted, contain just about everything on your device. With Apple unable to offer Advanced Data Protection in the UK, if Apple complies, there’s no way around it. And, to make it even worse, the perversity of the UK Investigatory Powers Act is such that it’s a crime for Apple to even say they’ve been issued such a demand, to warn their UK users about it. Just brutal. The UK government could not be more wrong about this stance.</p>
-
-<div>
-<a  title="Permanent link to ‘U.K. Makes New Attempt to Access Apple Cloud Data — This Time, iCloud Backups of U.K. Citizens’"  href="https://daringfireball.net/linked/2025/10/02/uk-makes-demand-for-access-to-icloud-backups">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>OpenAI Launches Sora, a Social Feed App for AI-Generated Short Videos</title>
-	<link rel="alternate" type="text/html" href="https://www.theverge.com/ai-artificial-intelligence/788786/openais-new-ai-sora-ios-social-video-app-will-let-you-deepfake-your-friends" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wl7" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/02/sora-launch" />
-	<id>tag:daringfireball.net,2025:/linked//6.42235</id>
-	<published>2025-10-02T14:09:00Z</published>
-	<updated>2025-10-02T16:12:26Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Hayden Field, The Verge:</p>
-
-<blockquote>
-  <p>OpenAI has a new version of the Sora AI video generator that it
-<a href="https://www.theverge.com/2024/12/9/24317092/openai-sora-text-to-video-ai-launch">launched at the end of last year</a>, and it’s arriving today
-alongside <a href="https://apps.apple.com/us/app/sora-by-openai/id6744034028">a new social video app, also called Sora, for
-iPhones</a>. The currently invite-only app resembles TikTok with
-a feed of videos you can shuffle through. But instead of
-encouraging people to stitch together duets, it asks you to record
-short videos that anyone can spin into new AI-generated deepfakes — with your consent.</p>
-
-<p>In a briefing with reporters on Monday, employees called it the
-potential “ChatGPT moment for video generation.” The Sora app is
-currently only available to US and Canada users, with other
-countries set to follow, and when someone receives access, they
-also get four additional invites to share with friends. There’s no
-word on when an Android version might be released.</p>
-</blockquote>
-
-<p>Sora, though invitation-only at the moment, is currently #3 in the U.S. App Store. Meta’s Meta AI app, which contains, in a tab, their Vibes AI-generated video feed, is #97.</p>
-
-<p>Also, I’m sure Sora will eventually come to Android. But, to play with it now, you need an iPhone. So tell me again how Apple is behind on AI? If you have an Android phone, you’re behind on everything except what Google itself offers (which, admittedly, is some great stuff). If you have an iPhone, you’re ahead on everything except what’s baked into iOS. Including the fact that the #1 app on the App Store today is ... Google Gemini.</p>
-
-<div>
-<a  title="Permanent link to ‘OpenAI Launches Sora, a Social Feed App for AI-Generated Short Videos’"  href="https://daringfireball.net/linked/2025/10/02/sora-launch">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
