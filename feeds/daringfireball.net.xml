@@ -7,14 +7,87 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-10-20T22:05:38Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-10-20T22:23:11Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Eavesdropping on Internal Networks via Unencrypted Satellites</title>
+	<link rel="alternate" type="text/html" href="https://satcom.sysnet.ucsd.edu/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wmq" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/20/unencrypted-satellite-data" />
+	<id>tag:daringfireball.net,2025:/linked//6.42290</id>
+	<published>2025-10-20T22:20:45Z</published>
+	<updated>2025-10-20T22:23:11Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>SATCOM Security — a team of researchers from UC San Diego and the University of Maryland:</p>
+
+<blockquote>
+  <p>We pointed a commercial-off-the-shelf satellite dish at the sky
+and carried out the most comprehensive public study to date of
+geostationary satellite communication. A shockingly large amount
+of sensitive traffic is being broadcast unencrypted, including
+critical infrastructure, internal corporate and government
+communications, private citizens’ voice calls and SMS, and
+consumer Internet traffic from in-flight Wi-Fi and mobile
+networks. This data can be passively observed by anyone with a few
+hundred dollars of consumer-grade hardware. There are thousands of
+geostationary satellite transponders globally, and data from a
+single transponder may be visible from an area as large as 40% of
+the surface of the earth.</p>
+</blockquote>
+
+<p>The researchers don’t mention RCS by name, only SMS, but this a perfect example of why I thought <a href="https://daringfireball.net/linked/2023/11/16/apple-rcs">Apple’s original stance on RCS</a> was correct, and their <a href="https://daringfireball.net/2024/02/eu_rcs_imessage">change of heart to support it last year</a> was unfortunate. No new protocol for messaging should be adopted unless the protocol exclusively works using end-to-end encryption.</p>
+
+<p>Via Wired: “<a href="https://www.wired.com/story/satellites-are-leaking-the-worlds-secrets-calls-texts-military-and-corporate-data/">Satellites Are Leaking the World’s Secrets: Calls, Texts, Military and Corporate Data</a>” (<a href="https://apple.news/AqDWke2M2TZ-a9CDq1crbrA">News+ link</a>).</p>
+
+<div>
+<a  title="Permanent link to ‘Eavesdropping on Internal Networks via Unencrypted Satellites’"  href="https://daringfireball.net/linked/2025/10/20/unencrypted-satellite-data">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>When Design Drives Behavior</title>
+	<link rel="alternate" type="text/html" href="https://world.hey.com/jason/when-design-drives-behavior-49baf157" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wmp" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/20/when-design-drives-behavior" />
+	<id>tag:daringfireball.net,2025:/linked//6.42289</id>
+	<published>2025-10-20T22:13:18Z</published>
+	<updated>2025-10-20T22:13:19Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jason Fried:</p>
+
+<blockquote>
+  <p>So what’s the net effect of this tiny little design detail that
+the owner may not even understand? Well, it looks like the watch
+is already half-way out of power after the first day, so <em>it
+encourages the owner to wind the watch more frequently</em>. To keep
+it closer to topped off, even when it’s not necessary. This helps
+prevents the watch from running out of power, losing time, and,
+ultimately, stopping. A stopped watch may be right twice a day,
+but it’s rarely at the times you want.</p>
+
+<p>Small detail, material behavior change. Well considered, well
+executed, well done.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘When Design Drives Behavior’"  href="https://daringfireball.net/linked/2025/10/20/when-design-drives-behavior">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple Lowered the Price of the New MacBook Pro for Most of the Eurpopean Countries Where It No Longer Ships With an Included Power Adapter</title>
 	<link rel="alternate" type="text/html" href="https://pxlnv.com/linklog/macbook-pro-charger-brouhaha/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wmo" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/20/heer-m5-mbp-charger" />
 	<id>tag:daringfireball.net,2025:/linked//6.42288</id>
 	<published>2025-10-20T22:05:19Z</published>
-	<updated>2025-10-20T22:05:38Z</updated>
+	<updated>2025-10-20T22:09:33Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -29,7 +102,7 @@ is more like $76 right now. Third, Apple is allowed to bundle an
 A.C. adapter, it just needs to offer an option to not include it.</p>
 </blockquote>
 
-<p>Practically speaking, though, the EU directive regarding included chargers means Apple <em>won’t</em> include one, and likely no other laptop maker will either. They’d have to create, and stock, double the SKUs for every standard configuration. (If you buy a build-to-order configuration of the M5 MacBook Pro in Europe, you get a choice to include an adapter in the build-to-order workflow. If you buy a standard configuration model, you get the option to purchase a power adapter as a separate accessory.)</p>
+<p>Practically speaking, though, the EU directive regarding included chargers means Apple <em>won’t</em> include one, and likely no other laptop maker will either. They’d have to create, and stock, double the SKUs for every standard configuration. (If you buy a build-to-order configuration of the M5 MacBook Pro in Europe, you get a choice to include an adapter in the build-to-order workflow for an upcharge. If you buy a standard configuration model, you get the option to purchase a power adapter as a separate accessory.)</p>
 
 <blockquote>
   <p>Fourth, and most important, is that the new MacBook Pro is less
@@ -51,11 +124,11 @@ someone adds one at checkout, it still costs less in most places
 with this option.</p>
 </blockquote>
 
-<p>I suspect that the new M5 MacBook Pro costs less than the M4 models, even when paying extra to include a new power adapter, means that Apple was planning price cuts in these countries regardless. As Heer points out, Apple cut the price by €100 when the base MacBook Pro went from the M3 to M4 a year ago.</p>
+<p>The fact that the new M5 MacBook Pro costs less than the M4 models, even when paying extra to include a new power adapter, leads me to suspect that Apple was planning price cuts in these countries regardless. As Heer points out, Apple cut the price by €100 when the base MacBook Pro went from the M3 to M4 a year ago. (<a href="https://daringfireball.net/linked/2025/03/05/apple-announces-with-little-surprise-m4-macbook-airs">MacBook Air prices have been getting lower worldwide</a>, too.)</p>
 
 <p>Anyway, the reason this regulation is subject to ridicule was never that European MacBook buyers were, effectively, paying for a charger that was no longer included. It’s that this is a silly law, and likely causes more harm than good. If Apple thought it was a good idea to no longer include power adapters in the box with MacBooks, they’d just stop including chargers in the box, worldwide. That’s what Apple started doing with iPhones <a href="https://www.apple.com/newsroom/2020/10/apple-announces-iphone-12-and-iphone-12-mini-a-new-era-for-iphone-with-5g/">with the iPhone 12 lineup <em>five years ago</em></a>. That wasn’t because of a law. It was because Apple thought it was a good idea.</p>
 
-<p>The problem I see with the MacBook power adapter situation in Europe is that while power users — like the sort of people who read Daring Fireball and Pixel Envy — will have no problem buying exactly the sort of power adapter they want, or simply re-using a good one they already own, normal users have no idea what a “good” power adapter. I suspect there are going to be a lot of Europeans who buy a new M5 MacBook Pro and wind up charging it with inexpensive low-watt power adapters meant for things like phones, and wind up with a shitty slow charging experience.</p>
+<p>The problem I see with the MacBook power adapter situation in Europe is that while power users — like the sort of people who read Daring Fireball and Pixel Envy — will have no problem buying exactly the sort of power adapter they want, or simply re-using a good one they already own, normal users have no idea what makes a “good” power adapter. I suspect there are going to be a lot of Europeans who buy a new M5 MacBook Pro and wind up charging it with inexpensive low-watt power adapters meant for things like phones, and wind up with a shitty, slow charging experience.</p>
 
 <div>
 <a  title="Permanent link to ‘Apple Lowered the Price of the New MacBook Pro for Most of the Eurpopean Countries Where It No Longer Ships With an Included Power Adapter’"  href="https://daringfireball.net/linked/2025/10/20/heer-m5-mbp-charger">&nbsp;★&nbsp;</a>
@@ -1607,106 +1680,6 @@ alarm dismissals more rare.</p>
 
 <div>
 <a  title="Permanent link to ‘What’s New or Changed in iOS 26.1 Beta 2’"  href="https://daringfireball.net/linked/2025/10/07/new-in-ios-261-beta-2">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>AltStore State of the Union</title>
-	<link rel="alternate" type="text/html" href="https://rileytestut.com/blog/2025/10/07/evolving-altstore-pal/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wlj" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/07/altstore-state-of-the-union" />
-	<id>tag:daringfireball.net,2025:/linked//6.42247</id>
-	<published>2025-10-07T16:35:16Z</published>
-	<updated>2025-10-07T20:14:39Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Riley Testut, co-founder of AltStore:</p>
-
-<blockquote>
-  <p>By far our number one request, we’re planning to launch AltStore
-PAL in more countries <em>later this year</em> in response to various
-regulatory changes around the world. Specifically, we plan to
-launch in Japan, Brazil, and Australia before the end of the year,
-with the UK to follow in 2026. This is great news for the fight to
-open app distribution, as it will give consumers more options to
-install apps they otherwise couldn’t from the App Store — such as
-my <a href="https://www.macstories.net/reviews/altstores-clip-is-the-best-clipboard-manager-on-ios-yet/">clipboard manager Clip</a>.</p>
-
-<p>While we wait to hear more from Apple on exact timing, if you’re a
-developer interested in distributing your app through AltStore PAL
-in one of these countries feel free to <a href="https://faq.altstore.io/developers/distribute-with-altstore-pal">check out our
-documentation</a> now to get a head start. Overall though, we
-couldn’t be more excited to make AltStore PAL available to
-millions of more people; we truly believe it’s a matter of time
-before alternative app marketplaces are available worldwide, and
-each new country brings us one step closer to that goal.</p>
-</blockquote>
-
-<p>Apple’s cowardly abandonment of ICEBlock in the face of the first whiff of pressure from the Trump administration is perhaps the best evidence yet that Apple’s arguments in favor of their App Store being the single source for third-party software do not hold water. I’m not going to argue that ICEBlock is an essential app, or super duper popular, but it is a very serious app that aims to address a very serious situation. In <a href="https://bsky.app/profile/iceblock.app/post/3m2alyaghbk2n">Apple’s email to developer Joshua Aaron informing him of their decision</a> to pull ICEBlock from the App Store, they justified the decision on the spurious basis that the app contained “objectionable content”. The only content ICEBlock contains is the location of law enforcement activity. Waze — and more notably, Apple’s own Maps app — do the exact same thing for highway speed traps.</p>
-
-<p>Apple’s decision shows that developers cannot trust the App Store to distribute apps that anyone in the Trump administration might “object to”. ICEBlock is an iOS exclusive app and service for serious privacy reasons that are grounded in technical merit. But, exactly as many critics of the App-Store-as-exclusive-distribution-point-for-native-software model have long warned, it’s proven to be a choke point that Apple was unwilling to defend. Apple frequently invokes the word <em>trust</em> as a reason for the App Store model. But their treatment of ICEBlock indicates they are untrustworthy when it comes to showing any sort of backbone regarding Trump’s mad-king slide into authoritarianism, and thus, so too is the entire iOS platform in jurisdictions like the US, where the App Store remains the exclusive distribution source. What good is building the most privacy-focused, user-friendly platform in the world when Apple will disallow an app for which airtight privacy is essential? What happens when Trump lickspittles go after women’s healthcare apps like Planned Parenthood?</p>
-
-<p>If there were a way to distribute apps outside the App Store in the US (TestFlight doesn’t count, as it has hard limits on how many users can get the app — and it’s not clear that Apple hasn’t blocked ICEBlock from TestFlight too), US iPhone users would still have access to ICEBlock. If that <em>were</em> the case, perhaps the Trump administration would then “demand” that Apple revoke Aaron’s developer account. But if that happened, at least we’d know just how pants-wettingly terrified Apple is of the president, in our purported liberal democracy.</p>
-
-<p>There’s lots of other interesting news in Testut’s AltStore status report, including the news that they’re adding Fediverse support to AltStore to distribute app updates and news (and more); converting to a public benefit corporation; have raised $6 million in funding; and are donating $500,000 of that money to help fund indie iOS Fediverse apps like Tapbots’s <a href="https://tapbots.com/ivory/">Ivory</a> (Mastodon) and <a href="https://tapbots.com/phoenix/">Phoenix</a> (Bluesky) clients and The Iconfactory’s <a href="https://usetapestry.com/">Tapestry</a> feed aggregator.</p>
-
-<div>
-<a  title="Permanent link to ‘AltStore State of the Union’"  href="https://daringfireball.net/linked/2025/10/07/altstore-state-of-the-union">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Wiley Hodges’s Open Letter to Tim Cook Regarding ICEBlock</title>
-	<link rel="alternate" type="text/html" href="https://substack.com/inbox/post/175351960" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wli" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/07/hodges-cook-iceblock" />
-	<id>tag:daringfireball.net,2025:/linked//6.42246</id>
-	<published>2025-10-07T12:01:22Z</published>
-	<updated>2025-10-07T20:13:01Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Wiley Hodges, a 22-year veteran of Apple product marketing, who retired in 2022, in an open letter he sent to Tim Cook:</p>
-
-<blockquote>
-  <p>I don’t know where this leaves me as an Apple customer, but I do
-know that it upsets me as an Apple shareholder. I am asking you
-and your team to more clearly explain the basis on which you made
-the decision to remove ICEBlock — and how the government showed
-good faith and strong evidence in making its demand of Apple, or
-that you reinstate the app in the App Store.</p>
-
-<p>I hope that as a man of integrity and principle you can understand
-how outrageous this situation is. Even more, I hope you recognize
-how every inch you voluntarily give to an authoritarian regime
-adds to their illegitimately derived power. We are at a critical
-juncture in our country’s history where we face the imminent
-threat of the loss of our constitutional republic. It is up to all
-of us to demand that the rule of law rather than the whims of a
-handful of people — even elected ones — govern our collective
-enterprise. Apple and you are better than this. You represent the
-best of what America can be, and I pray that you will find it in
-your heart to continue to demonstrate that you are true to the
-values you have so long and so admirably espoused.</p>
-</blockquote>
-
-<p>When you give a bully your lunch money, they always come back for more. </p>
-
-<p>Disney learned this. Last December, <a href="https://www.npr.org/2024/12/16/nx-s1-5230274/abc-settles-with-trump-for-15-million-now-he-wants-to-sue-other-news-outlets">Disney settled a lawsuit Trump had filed against ABC News and host George Stephanopoulos for $15 million</a>. The lawsuit was bullshit; nearly all experts agreed that if Disney/ABC had taken the case to court, <a href="https://fair.org/home/abc-settles-with-trump-in-a-case-it-could-have-won/">they’d have won</a>. Disney settled — with both the $15 million and “a note of regret” — thinking, surely, that this would get Trump off their back. Put them on Trump’s good side. Then came <a href="https://daringfireball.net/linked/2025/09/23/goddard-kimmel">the Jimmy Kimmel fiasco</a>, when they <a href="https://daringfireball.net/linked/2025/09/24/kimmel-returns">finally stood up</a> and said, effectively, “<a href="https://daringfireball.net/linked/2025/10/03/fuck-you-make-me">Fuck you, make me</a>.”</p>
-
-<p>Hodges, earlier in his letter, makes reference to <a href="https://duckduckgo.com/?q=site%3Adaringfireball.net+san+bernardino+fbi&amp;ia=web">Apple’s 2016 standoff with the FBI over a locked iPhone belonging to the mass shooter in San Bernardino</a>, California. The FBI and Justice Department pressured Apple to create a version of iOS that would allow them to backdoor the iPhone’s passcode lock. Apple adamantly refused.</p>
-
-<p>The message Trump and his lickspittles surely took from Apple acceding to their “demand” regarding ICEBlock — a demand made without an iota of legal justification, nor any factual justification that the app was being used to put ICE law enforcements agents in harm’s way — is that when they make a demand to Apple, Apple will respond not with the four words “Fuck you, make me” (as they did in the 2016 San Bernardino case), but instead “Whatever you say goes”. It was, obviously, easier for Apple to stand on principle in 2016, when Barack Obama, a man who deeply respected the Constitution and the principle of rule of law, was president. But it’s more important to stand on those same principles with Trump — a would-be mad king with no respect nor even understanding of the Constitution or rule of law — in office.</p>
-
-<p>If not now, when? Apple will, I believe, find out.</p>
-
-<div>
-<a  title="Permanent link to ‘Wiley Hodges’s Open Letter to Tim Cook Regarding ICEBlock’"  href="https://daringfireball.net/linked/2025/10/07/hodges-cook-iceblock">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
