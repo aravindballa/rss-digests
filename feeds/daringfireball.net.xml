@@ -7,7 +7,52 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-10-20T22:23:11Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-10-20T23:04:28Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	
+	<link rel="alternate" type="text/html" href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=RSS&amp;utm_campaign=q12025" />
+	<link rel="shorturl" href="http://df4.us/wms" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2025/10/workos_scalable_secure_authent_9" />
+	<id>tag:daringfireball.net,2025:/feeds/sponsors//11.42292</id>
+	<author><name>Daring Fireball Department of Commerce</name></author>
+	<published>2025-10-20T22:55:19Z</published>
+	<updated>2025-10-20T22:55:19Z</updated>
+	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
+<p>With WorkOS you can start selling to enterprises with just a few lines of code. It provides a complete User Management solution along with SSO, SCIM, and FGA. The APIs are modular and easy-to-use, allowing integrations to be completed in minutes instead of months. WorkOS simplifies MCP authorization with a single API built on five OAuth standards.</p>
+
+<p>Today, some of the fastest growing startups are already powered by WorkOS, including Perplexity, Vercel, and Webflow.</p>
+
+<p>For SaaS apps that care deeply about design and user experience, WorkOS is the perfect fit. From high-quality documentation to self-serve onboarding for your customers, it removes all the unnecessary complexity for your engineering team.</p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS: Scalable, Secure Authentication’"  href="https://daringfireball.net/feeds/sponsors/2025/10/workos_scalable_secure_authent_9">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+	<title>[Sponsor] WorkOS: Scalable, Secure Authentication</title></entry><entry>
+	<title>Electron Apps Causing System-Wide Lag on MacOS 26 Tahoe</title>
+	<link rel="alternate" type="text/html" href="https://mjtsai.com/blog/2025/09/30/electron-apps-causing-system-wide-lag-on-tahoe/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wmr" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/20/electron-apps-slow-down-tahoe" />
+	<id>tag:daringfireball.net,2025:/linked//6.42291</id>
+	<published>2025-10-20T22:49:47Z</published>
+	<updated>2025-10-20T22:50:11Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Michael Tsai, back on September 30, compiled a roundup of links regarding Electron apps causing systemwide lag on MacOS 26 Tahoe. The reason, seemingly, is that the Electron framework <a href="https://github.com/electron/electron/issues/48311#issuecomment-3332181420">was overriding a private AppKit API</a>. Of course.</p>
+
+<p><a href="https://gist.github.com/tkafka/e3eb63a5ec448e9be6701bfd1f1b1e58">Tomas Kafka wrote a shell script</a> to find un-updated Electron apps on your system. Craig Hockenberry took Kafka’s shell script and <a href="https://furbo.org/2025/10/06/tahoe-electron-detector/">turned it into an easy-to-use AppleScript application</a>.</p>
+
+<p>So, yes, Theo Browne, “software dev nerd”, <a href="https://www.youtube.com/watch?v=WdmfFmwsGDo&amp;t=435s">Electron really is “that bad”</a>. It’s actually, if anything, worse.</p>
+
+<div>
+<a  title="Permanent link to ‘Electron Apps Causing System-Wide Lag on MacOS 26 Tahoe’"  href="https://daringfireball.net/linked/2025/10/20/electron-apps-slow-down-tahoe">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Eavesdropping on Internal Networks via Unencrypted Satellites</title>
 	<link rel="alternate" type="text/html" href="https://satcom.sysnet.ucsd.edu/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wmq" />
@@ -81,13 +126,13 @@ executed, well done.</p>
 
 	]]></content>
   </entry><entry>
-	<title>Apple Lowered the Price of the New MacBook Pro for Most of the Eurpopean Countries Where It No Longer Ships With an Included Power Adapter</title>
+	<title>Apple Lowered the Price of the New MacBook Pro for Most of the European Countries Where It No Longer Ships With an Included Power Adapter</title>
 	<link rel="alternate" type="text/html" href="https://pxlnv.com/linklog/macbook-pro-charger-brouhaha/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wmo" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/20/heer-m5-mbp-charger" />
 	<id>tag:daringfireball.net,2025:/linked//6.42288</id>
 	<published>2025-10-20T22:05:19Z</published>
-	<updated>2025-10-20T22:09:33Z</updated>
+	<updated>2025-10-20T22:52:27Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -131,7 +176,7 @@ with this option.</p>
 <p>The problem I see with the MacBook power adapter situation in Europe is that while power users — like the sort of people who read Daring Fireball and Pixel Envy — will have no problem buying exactly the sort of power adapter they want, or simply re-using a good one they already own, normal users have no idea what makes a “good” power adapter. I suspect there are going to be a lot of Europeans who buy a new M5 MacBook Pro and wind up charging it with inexpensive low-watt power adapters meant for things like phones, and wind up with a shitty, slow charging experience.</p>
 
 <div>
-<a  title="Permanent link to ‘Apple Lowered the Price of the New MacBook Pro for Most of the Eurpopean Countries Where It No Longer Ships With an Included Power Adapter’"  href="https://daringfireball.net/linked/2025/10/20/heer-m5-mbp-charger">&nbsp;★&nbsp;</a>
+<a  title="Permanent link to ‘Apple Lowered the Price of the New MacBook Pro for Most of the European Countries Where It No Longer Ships With an Included Power Adapter’"  href="https://daringfireball.net/linked/2025/10/20/heer-m5-mbp-charger">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
@@ -316,7 +361,7 @@ all-in-one subscription bundle.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/20/counterpoint-research-iphones-17" />
 	<id>tag:daringfireball.net,2025:/linked//6.42283</id>
 	<published>2025-10-20T16:52:07Z</published>
-	<updated>2025-10-20T16:52:08Z</updated>
+	<updated>2025-10-20T23:04:28Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -334,7 +379,7 @@ days of availability, according to <a href="https://counterpointresearch.com/en/
 Research</a>.</p>
 </blockquote>
 
-<p>Just because a research firms claims iPhone 17 sales are up 14 percent doesn’t mean they <em>are</em> up 14 percent. These are estimates, not hard numbers from Apple — and Apple doesn’t share actual sales numbers with anyone. <a href="https://www.techmeme.com/251020/p2#a251020p2">Some headlines</a> get this right, but most don’t.</p>
+<p>Just because a research firm claims iPhone 17 sales are up 14 percent doesn’t mean they <em>are</em> up 14 percent. These are estimates, not hard numbers from Apple — and Apple doesn’t share actual sales numbers with anyone. <a href="https://www.techmeme.com/251020/p2#a251020p2">Some headlines</a> get this right, but most don’t.</p>
 
 <div>
 <a  title="Permanent link to ‘Counterpoint Research Claims iPhone 17 Sales Are Up Year-Over-Year in the U.S. and China’"  href="https://daringfireball.net/linked/2025/10/20/counterpoint-research-iphones-17">&nbsp;★&nbsp;</a>
@@ -1650,57 +1695,6 @@ speeds that would not be possible with classical computers.</p>
 
 	]]></content>
   </entry><entry>
-	<title>What’s New or Changed in iOS 26.1 Beta 2</title>
-	<link rel="alternate" type="text/html" href="https://9to5mac.com/2025/10/06/everything-new-in-ios-26-1-beta-2/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wlk" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/07/new-in-ios-261-beta-2" />
-	<id>tag:daringfireball.net,2025:/linked//6.42248</id>
-	<published>2025-10-07T18:19:52Z</published>
-	<updated>2025-10-07T18:21:08Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Ryan Christoffel, 9to5Mac:</p>
-
-<blockquote>
-  <p>Alarms and timers are now harder to dismiss thanks to a <a href="https://9to5mac.com/2025/10/06/ios-26-1-beta-2-makes-alarms-harder-to-accidentally-dismiss/">new
-‘Slide to stop’ gesture</a>. Both alarms and timers were
-updated in iOS 26 to utilize a new design with much larger
-on-screen buttons than before. Now in iOS 26.1 beta 2, Apple has
-replaced the ‘Stop’ button with a new sliding gesture that
-requires a little more intentionality. This should make accidental
-alarm dismissals more rare.</p>
-</blockquote>
-
-<p>That’s one of several changes that caught my eye. Seems like a great idea. Another notable change: <a href="https://sixcolors.com/post/2025/10/ipados-26-1-beta-brings-back-slide-over-adds-microphone-adjustments/">Slide Over returns to iPadOS</a>.</p>
-
-<p><strong>See also:</strong> <a href="https://www.macrumors.com/2025/10/06/ios-26-1-beta-2-features/">Juli Clover’s rundown of changes in iOS 26.1 beta 2 for MacRumors</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘What’s New or Changed in iOS 26.1 Beta 2’"  href="https://daringfireball.net/linked/2025/10/07/new-in-ios-261-beta-2">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	
-	<link rel="alternate" type="text/html" href="http://drata.com/daring/?utm_source=Daring_Fireball&amp;utm_medium=display&amp;utm_campaign=18991230_fy26_comm_DG_COMM_&amp;utm_content=demo_request" />
-	<link rel="shorturl" href="http://df4.us/wlh" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2025/10/drata_4" />
-	<id>tag:daringfireball.net,2025:/feeds/sponsors//11.42245</id>
-	<author><name>Daring Fireball Department of Commerce</name></author>
-	<published>2025-10-07T11:31:02Z</published>
-	<updated>2025-10-07T11:31:03Z</updated>
-	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
-<p>Automate compliance. Streamline security. Manage risk. Drata delivers the world’s most advanced Trust Management platform.</p>
-
-<div>
-<a  title="Permanent link to ‘Drata’"  href="https://daringfireball.net/feeds/sponsors/2025/10/drata_4">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-	<title>[Sponsor] Drata</title></entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/10/iceblock_removed_from_app_store" />
 	<link rel="shorturl" href="http://df4.us/wld" />
