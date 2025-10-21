@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-10-21T19:25:47Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-10-21T22:05:54Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>Consumer Confusion Regarding USB Power Adapters</title>
 	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2025/10/20/heer-m5-mbp-charger" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wmw" />
@@ -67,7 +67,7 @@ old 5 watt USB-A iPhone charger.</p>
 	<link rel="shorturl" href="http://df4.us/wmv" />
 	<id>tag:daringfireball.net,2025://1.42295</id>
 	<published>2025-10-21T18:25:14Z</published>
-	<updated>2025-10-21T19:19:18Z</updated>
+	<updated>2025-10-21T21:58:32Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -138,10 +138,11 @@ photos later in this article.</p>
 
 <p>One more thing. Many of our users prefer to shoot raw, not JPEGs,
 and they want these raw images to benefit from computational
-photography. (Some big cameras offer the ability to capture bursts
-of images and combine them in-camera, but they output a JPEG, not
-a raw file.) Indigo can output JPEG or raw files that benefit
-equally from the computational photography strategy outlined here. [...]</p>
+photography. (Some big cameras offer the ability to capture
+bursts of images and combine them in-camera, but they output a
+JPEG, not a raw file.) Indigo can output JPEG or raw files that
+benefit equally from the computational photography strategy
+outlined here. [...]</p>
 
 <p>In reaction to the prevailing smartphone look, some camera apps
 advertise “zero-process” photography. In fact, the pixels read
@@ -192,7 +193,8 @@ is a camera nerd’s love language.</p>
 </li>
 
 <li id="fn2-2025-10-21">
-<p>Indigo is currently iOS-only, but <a href="https://research.adobe.com/articles/indigo/indigo.html">in their introductory blog post</a>, Levoy and Kainz write: “What’s next for Project Indigo? An Android version for sure. We’d also like to add alternative ‘looks’, maybe even personalized ones. We also plan to add a portrait mode, but with more control and higher image quality than existing camera apps, as well as panorama and video recording, including some cool computational video features we’re cooking up in the lab.”&nbsp;<a href="#fnr2-2025-10-21"  class="footnoteBackLink"  title="Jump back to footnote 2 in the text.">&#x21A9;&#xFE0E;︎</a></p>
+<p>Indigo is currently iOS-only, but <a href="https://research.adobe.com/articles/indigo/indigo.html">in their introductory blog post</a>, Levoy and Kainz write: “What’s next for Project Indigo? An Android version for sure. We’d also like to add alternative ‘looks’, maybe even personalized ones. We also plan to add a portrait mode, but with more control and higher image quality than existing camera apps, as well as panorama and video recording, including some cool computational video features we’re cooking up in the lab.” Also worth noting: Indigo’s computational photography is so tied to specific hardware that it <a href="https://community.adobe.com/t5/lightroom-ecosystem-cloud-based-discussions/p-introducing-the-project-indigo-camera-app/m-p/15513112#M108265">doesn’t yet support</a> any of the iPhones 17 nor the iPhone Air.&nbsp;<a href="#fnr2-2025-10-21"  class="footnoteBackLink"  title="Jump back to footnote 2 in the text.">&#x21A9;&#xFE0E;︎</a></p>
+<p>Indigo is currently iOS-only, but <a href="https://research.adobe.com/articles/indigo/indigo.html">in their introductory blog post</a>, Levoy and Kainz write: “What’s next for Project Indigo? An Android version for sure. We’d also like to add alternative ‘looks’, maybe even personalized ones. We also plan to add a portrait mode, but with more control and higher image quality than existing camera apps, as well as panorama and video recording, including some cool computational video features we’re cooking up in the lab.” Also worth noting: Indigo’s computational photography is so tied to specific hardware that it <a href="https://community.adobe.com/t5/lightroom-ecosystem-cloud-based-discussions/p-introducing-the-project-indigo-camera-app/m-p/15513112#M108265">doesn’t yet support</a> any of the iPhones 17 nor the iPhone Air.&nbsp;<a href="#fnr2-2025-10-21"  class="footnoteBackLink"  title="Jump back to footnote 2 in the text.">&#x21A9;&#xFE0E;︎</a></p>
 </li>
 
 </ol>
@@ -377,7 +379,7 @@ the surface of the earth.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/20/when-design-drives-behavior" />
 	<id>tag:daringfireball.net,2025:/linked//6.42289</id>
 	<published>2025-10-20T22:13:18Z</published>
-	<updated>2025-10-20T22:13:19Z</updated>
+	<updated>2025-10-21T21:47:24Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -391,7 +393,7 @@ the owner may not even understand? Well, it looks like the watch
 is already half-way out of power after the first day, so <em>it
 encourages the owner to wind the watch more frequently</em>. To keep
 it closer to topped off, even when it’s not necessary. This helps
-prevents the watch from running out of power, losing time, and,
+prevent the watch from running out of power, losing time, and,
 ultimately, stopping. A stopped watch may be right twice a day,
 but it’s rarely at the times you want.</p>
 
@@ -554,7 +556,7 @@ grasp, leading to his early exit and the company’s quick downfall.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/20/london-phone-theft" />
 	<id>tag:daringfireball.net,2025:/linked//6.42285</id>
 	<published>2025-10-20T17:09:02Z</published>
-	<updated>2025-10-20T17:09:02Z</updated>
+	<updated>2025-10-21T22:05:54Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -587,6 +589,8 @@ observed the men buying almost 1.5 miles’ worth of foil in Costco.</p>
 </blockquote>
 
 <p>There’s shopping in bulk at Costco, and then there’s shopping in bulk.</p>
+
+<p><strong>Update:</strong> I forgot to apply one of the <a href="https://daringfireball.net/linked/2021/09/09/philly-plastic-bags-ban">core tenets</a> of Brian Kernighan’s wonderful book <em><a href="https://kernighan.org/mbz.html">Millions, Billions, Zillions</a></em> (<a href="https://www.amazon.com/Millions-Billions-Zillions-Defending-Yourself/dp/0691182779/?tag=df-amzn-20">$19 in hardcover from Amazon</a>; <a href="https://bookshop.org/books/millions-billions-zillions-defending-yourself-in-a-world-of-too-many-numbers/9780691209098">BookShop.org link to indie booksellers</a>): always do some back-of-the-envelope double-checking of the math in news stories. 1.5 miles of aluminum (or even aluminium) foil from Costco is just 12 rolls at <a href="cohttps://www.costco.co.uk/Grocery-Household/Grocery-Delivery/Kirkland-Signature-Premium-Quality-Foodservice-Aluminium-Foil-30cm-x-200m/p/97405">200 meters each</a>. I wouldn’t blink my eyes at someone with a dozen rolls of foil in the cart at Costco.</p>
 
 <div>
 <a  title="Permanent link to ‘How London Became a Global Hub for Phone Theft’"  href="https://daringfireball.net/linked/2025/10/20/london-phone-theft">&nbsp;★&nbsp;</a>
