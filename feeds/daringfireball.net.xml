@@ -7,14 +7,14 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-10-21T19:08:56Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-10-21T19:25:47Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>Consumer Confusion Regarding USB Power Adapters</title>
 	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2025/10/20/heer-m5-mbp-charger" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wmw" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/21/consumer-confusion-regarding-usb-power-adapters" />
 	<id>tag:daringfireball.net,2025:/linked//6.42296</id>
 	<published>2025-10-21T19:08:23Z</published>
-	<updated>2025-10-21T19:08:56Z</updated>
+	<updated>2025-10-21T19:25:47Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -47,6 +47,15 @@ USB-A charger.</p>
 the same.</p>
 </blockquote>
 
+<p>And from actual reader <em>D.K.</em>:</p>
+
+<blockquote>
+  <p>My mother in law called me to ask why her MacBook Air no longer
+turned on. She had called AppleCare and they told her to bring the
+computer to a store for repairs. Turns out she was using a very
+old 5 watt USB-A iPhone charger.</p>
+</blockquote>
+
 <div>
 <a  title="Permanent link to ‘Consumer Confusion Regarding USB Power Adapters’"  href="https://daringfireball.net/linked/2025/10/21/consumer-confusion-regarding-usb-power-adapters">&nbsp;★&nbsp;</a>
 </div>
@@ -58,7 +67,7 @@ the same.</p>
 	<link rel="shorturl" href="http://df4.us/wmv" />
 	<id>tag:daringfireball.net,2025://1.42295</id>
 	<published>2025-10-21T18:25:14Z</published>
-	<updated>2025-10-21T18:58:42Z</updated>
+	<updated>2025-10-21T19:19:18Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -101,7 +110,7 @@ natural grain.</p>
 
 <h2>Project Indigo</h2>
 
-<p>Marc Levoy, Adobe fellow, and Florian Kainz, principal scientist, <a href="inhttps://research.adobe.com/articles/indigo/indigo.html">on the Adobe Research blog back in June</a>:</p>
+<p>Marc Levoy, Adobe fellow, and Florian Kainz, principal scientist, <a href="https://research.adobe.com/articles/indigo/indigo.html">on the Adobe Research blog back in June</a>:</p>
 
 <blockquote>
   <p>Second, people often complain about the “smartphone look” — overly
@@ -457,13 +466,13 @@ with this option.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/20/uk-eu-hardware-directives-macbook-chargers" />
 	<id>tag:daringfireball.net,2025:/linked//6.42287</id>
 	<published>2025-10-20T21:48:30Z</published>
-	<updated>2025-10-20T21:48:30Z</updated>
+	<updated>2025-10-21T19:12:30Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>While poking fun at EU regulations leading Apple not to include a power adapter with the new M5 MacBook Pro across Europe, I wondered why the U.K. — which left the EU five years ago — was affected. DF reader <em>CA</em> wrote, via email:</p>
+<p>While poking fun at EU regulations leading Apple not to include a power adapter with the new M5 MacBook Pro across Europe, I wondered why the U.K. — which left the EU five years ago — was affected. DF reader <em>C.A.</em> wrote, via email:</p>
 
 <blockquote>
   <p>We did indeed leave the EU, but remain aligned to some of their
@@ -482,7 +491,7 @@ shenanigans — those don’t apply to physical goods, only the
 configuration of the software.</p>
 </blockquote>
 
-<p>Something similar is surely the reason why the power adapter isn’t in the box for Norway, either — a country that has never been part of the EU. Here’s <a href="https://en.wikipedia.org/wiki/Windsor_Framework">Wikipedia’s entry on the Windsor Framework</a>, and here’s a UK government “Call for Evidence” from a year ago <a href="https://www.gov.uk/government/calls-for-evidence/common-charger-for-electrical-devices-call-for-evidence/common-charger-for-electrical-devices-call-for-evidence">regarding a requirement to follow the EU’s Common Charger Directive</a>.</p>
+<p>Something similar (<a href="https://en.wikipedia.org/wiki/European_Economic_Area">the EEA</a>) is the reason why the power adapter isn’t in the box for Norway, either — a country that has never been part of the EU. Here’s <a href="https://en.wikipedia.org/wiki/Windsor_Framework">Wikipedia’s entry on the Windsor Framework</a>, and here’s a UK government “Call for Evidence” from a year ago <a href="https://www.gov.uk/government/calls-for-evidence/common-charger-for-electrical-devices-call-for-evidence/common-charger-for-electrical-devices-call-for-evidence">regarding a requirement to follow the EU’s Common Charger Directive</a>.</p>
 
 <div>
 <a  title="Permanent link to ‘More on the Lack of an Included Charger With New M5 MacBooks in Europe, Including the U.K. and Norway’"  href="https://daringfireball.net/linked/2025/10/20/uk-eu-hardware-directives-macbook-chargers">&nbsp;★&nbsp;</a>
@@ -721,7 +730,7 @@ of the camera.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/20/major-aws-outage" />
 	<id>tag:daringfireball.net,2025:/linked//6.42280</id>
 	<published>2025-10-20T15:31:43Z</published>
-	<updated>2025-10-20T15:43:42Z</updated>
+	<updated>2025-10-21T19:18:36Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -751,6 +760,8 @@ unclear when regular service will be fully restored.</p>
 </blockquote>
 
 <p>I bet it was this AWS outage that explains why I couldn’t sign in to my NYT account to play Wordle this morning. (Got it in 4 today.)</p>
+
+<p><em>Update:</em> <a href="https://health.aws.amazon.com/health/status">Amazon claims the issues were resolved</a> at the end of the day. I still couldn’t order food for delivery from a few local restaurants, including any that depended on Doordash or Toast, at 7pm ET though.</p>
 
 <div>
 <a  title="Permanent link to ‘Major AWS Outage’"  href="https://daringfireball.net/linked/2025/10/20/major-aws-outage">&nbsp;★&nbsp;</a>
