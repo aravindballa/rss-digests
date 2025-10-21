@@ -7,13 +7,58 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-10-21T18:25:15Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-10-21T19:08:56Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Consumer Confusion Regarding USB Power Adapters</title>
+	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2025/10/20/heer-m5-mbp-charger" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wmw" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/21/consumer-confusion-regarding-usb-power-adapters" />
+	<id>tag:daringfireball.net,2025:/linked//6.42296</id>
+	<published>2025-10-21T19:08:23Z</published>
+	<updated>2025-10-21T19:08:56Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Yours truly, yesterday:</p>
+
+<blockquote>
+  <p>The problem I see with the MacBook power adapter situation in
+Europe is that while power users — like the sort of people who
+read Daring Fireball and Pixel Envy — will have no problem buying
+exactly the sort of power adapter they want, or simply re-using a
+good one they already own, normal users have no idea what makes a
+“good” power adapter. I suspect there are going to be a lot of
+Europeans who buy a new M5 MacBook Pro and wind up charging it
+with inexpensive low-watt power adapters meant for things like
+phones, and wind up with a shitty, slow charging experience.</p>
+</blockquote>
+
+<p>Actual email, from actual reader <em>D.B.</em> today:</p>
+
+<blockquote>
+  <p>Anecdotes to support your point about normal customers not knowing
+which power adapter to pick, I’ve had both my mother and a
+mid-level IT director at my work complain that their Macs no
+longer hold a battery. In both cases, they were using a 5 watt
+USB-A charger.</p>
+
+<p>It’s hard for people to understand that not all USB chargers are
+the same.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘Consumer Confusion Regarding USB Power Adapters’"  href="https://daringfireball.net/linked/2025/10/21/consumer-confusion-regarding-usb-power-adapters">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/10/not_boring_camera_and_adobe_project_indigo" />
 	<link rel="shorturl" href="http://df4.us/wmv" />
 	<id>tag:daringfireball.net,2025://1.42295</id>
 	<published>2025-10-21T18:25:14Z</published>
-	<updated>2025-10-21T18:25:15Z</updated>
+	<updated>2025-10-21T18:58:42Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -50,9 +95,9 @@ showcase more film-like tones and preserve a photo’s beautiful
 natural grain.</p>
 </blockquote>
 
-<p>Rather than fighting the nature of the small (and thus, noisy) sensors in the iPhone camera systems, SuperRAW processing embraces the noise. The results, to my eyes, are genuinely film-like. If you want, you can configure !Camera to save a raw DNG file alongside each capture, for post-processing in an app like Darkroom, Lightroom, or Photoshop. I’m glad that option is there, but I just shoot in SuperRAW, which saves ready-to-share HEIC files with the LUT applied in my camera roll, so what I see is what I get.</p>
+<p>Rather than fighting the nature of the small (and thus, noisy) sensors in the iPhone camera systems, SuperRAW processing embraces the noise, imbuing images with <a href="https://x.com/asallen/status/1947321942127845853">natural-looking grain</a>. The results, to my eyes, are genuinely film-like. If you want, you can configure !Camera to save a raw DNG file alongside each capture, for post-processing in an app like Darkroom, Lightroom, or Photoshop. I’m glad that option is there, but I just shoot in SuperRAW, which saves ready-to-share HEIC files with the LUT applied in my camera roll, so what I see is what I get.</p>
 
-<p>Each of Not Boring’s apps are available for a $15/year subscription, but the way to go is <a href="https://notbor.ing/plans">Not Boring’s $50/year “Super !Boring” subscription</a>, which grants you a license to their entire suite of apps. I was already a Super !Boring subscriber when !Camera launched, so, effectively, I got it for free. $50/year isn’t nothing, but it’s not much, and subscriptions have proven to be the best monetization strategy for indie developers in today’s world.</p>
+<p>Each of Not Boring’s apps is available for a $15/year subscription, but the way to go is <a href="https://notbor.ing/plans">Not Boring’s $50/year “Super !Boring” subscription</a>, which grants you a license to their entire suite of apps. I was already a Super !Boring subscriber when !Camera launched, so, effectively, I got it for free. $50/year isn’t nothing, but it’s not much, and subscriptions have proven to be the best monetization strategy for indie developers in today’s world.</p>
 
 <h2>Project Indigo</h2>
 
@@ -125,9 +170,9 @@ processing of subjects and skies as “special (but gentle).” This
 is a camera nerd’s love language.</p>
 </blockquote>
 
-<p>Slow and battery-draining is exactly why Apple hasn’t pursued these sorts of advanced computational photography techniques in the built-in Camera app. Apple’s Camera app is super-fast and takes extraordinary effort to go easy on the battery. Apple is making entirely different trade-offs — correctly — for the default Camera app. Pro and prosumer photographers may way want to make completely different trade-offs when it comes to image processing time and energy.<sup id="fnr1-2025-10-21"><a href="#fn1-2025-10-21">1</a></sup> (For the last few years, Apple has shot its keynote events using iPhone cameras exclusively, but they use apps like <a href="https://www.blackmagicdesign.com/products/blackmagiccamera">Blackmagic Camera</a>, not the built-in Camera app, to shoot them.)</p>
+<p>Slow and battery-draining is exactly why Apple hasn’t pursued these sorts of advanced computational photography techniques in the built-in Camera app. Apple’s Camera app is super-fast and takes extraordinary effort to go easy on the battery. Apple is making entirely different trade-offs — correctly — for the default Camera app. Pro and prosumer photographers may want to make completely different trade-offs when it comes to image processing time and energy.<sup id="fnr1-2025-10-21"><a href="#fn1-2025-10-21">1</a></sup> (For the last few years, Apple has shot its keynote events using iPhone cameras exclusively, but they use apps like <a href="https://www.blackmagicdesign.com/products/blackmagiccamera">Blackmagic Camera</a>, not the built-in Camera app, to shoot them.)</p>
 
-<p>I’m deeply intrigued by Indigo, and I have a few friends who’ve shown me some extraordinary photographs taken with the app. If they hadn’t told me, I’d have wagered their photos were taken with a dedicated large-sensor digital camera, not a phone. Johnson described Indigo as “not for the faint of heart”, and I’m just faint-hearted — or perhaps lazy — enough that, when venturing to a third-party camera app during the past few months, I’ve reached for !Camera, not Indigo, mainly because I don’t want to bother with any sort of manual post-processing for any but my very favorites of favorite images. But Indigo — available <a href="https://apps.apple.com/us/app/project-indigo/id6742591546">free of charge from the App Store</a> — is well worth your attention.<sup id="fnr2-2025-10-21"><a href="#fn2-2025-10-21">2</a></sup> I hope it’s an app that Adobe is serious about maintaining and developing into the future.</p>
+<p>I’m deeply intrigued by Indigo, and I have a few friends who’ve shown me some extraordinary photographs taken with the app. If they hadn’t told me, I’d have wagered their photos were taken with dedicated large-sensor digital cameras, not phones. Johnson described Indigo as “not for the faint of heart”, and I’m just faint-hearted — or perhaps lazy — enough that, when venturing to a third-party camera app during the past few months, I’ve reached for !Camera, not Indigo, mainly because I don’t want to bother with any sort of manual post-processing for any but my very favorite of favorite images. But Indigo — available <a href="https://apps.apple.com/us/app/project-indigo/id6742591546">free of charge from the App Store</a> — is well worth your attention.<sup id="fnr2-2025-10-21"><a href="#fn2-2025-10-21">2</a></sup> I hope it’s an app that Adobe is serious about maintaining and developing into the future.</p>
 
 <div class="footnotes">
 <hr />
@@ -1802,38 +1847,6 @@ reviewed by “graders”, or subcontractors, <a href="https://www.apple.com/leg
 
 <div>
 <a  title="Permanent link to ‘Apple Faces French Investigation Over Opt-In Siri Voice Recordings’"  href="https://daringfireball.net/linked/2025/10/08/apple-france-siri-opt-in-recordings">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Katie Notopoulos on the Difference Between Sora and Meta Vibes</title>
-	<link rel="alternate" type="text/html" href="https://www.threads.com/@katienotopoulos/post/DPRAi3ZDUfJ" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wln" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/08/notopoulos-sora-vs-vibes" />
-	<id>tag:daringfireball.net,2025:/linked//6.42251</id>
-	<published>2025-10-08T13:57:04Z</published>
-	<updated>2025-10-08T13:59:35Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Katie Notopoulos, on Threads:</p>
-
-<blockquote>
-  <p>Me looking at Vibes feed: this is screensaver. So boring. Why
-would anyone want it?</p>
-
-<p>Me looking at videos I made of my own face in Sora 2: heheh I love
-this it’s funny it’s ME.</p>
-</blockquote>
-
-<p>My feelings exactly.</p>
-
-<p>I even like staring at screensavers sometimes. But the screensavers I like watching are Apple’s aerial (and occasionally, underwater) screensavers on Apple TV. They’re slow, peaceful, and real. Vibes is chaotic, fast, and phony.</p>
-
-<div>
-<a  title="Permanent link to ‘Katie Notopoulos on the Difference Between Sora and Meta Vibes’"  href="https://daringfireball.net/linked/2025/10/08/notopoulos-sora-vs-vibes">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
