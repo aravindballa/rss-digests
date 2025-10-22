@@ -7,7 +7,105 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-10-22T22:36:14Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-10-22T23:07:16Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Signal Moves Ahead on Post-Quantum Computing, But Still Sucks Ass When You Switch Phones</title>
+	<link rel="alternate" type="text/html" href="https://arstechnica.com/security/2025/10/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wn4" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/22/signal-quantum" />
+	<id>tag:daringfireball.net,2025:/linked//6.42304</id>
+	<published>2025-10-22T23:07:16Z</published>
+	<updated>2025-10-22T23:07:16Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Graeme Connell and Rolfe Schmidt, writing earlier this month on the Signal blog:</p>
+
+<blockquote>
+  <p>We are excited to announce a significant advancement in the
+security of the Signal Protocol: the introduction of the Sparse
+Post Quantum Ratchet (SPQR). This new ratchet enhances the Signal
+Protocol’s resilience against future quantum computing threats
+while maintaining our existing security guarantees of forward
+secrecy and post-compromise security. [...]</p>
+
+<p>What does this mean for you as a Signal user? First, when it
+comes to your experience using the app, nothing changes. Second,
+because of how we’re rolling this out and mixing it in with our
+existing encryption, eventually all of your conversations will
+move to this new protocol without you needing to take any
+action. Third, and most importantly, this protects your
+communications both now and in the event that cryptographically
+relevant quantum computers eventually become a reality, and it
+allows us to maintain our existing security guarantees of
+forward secrecy and post-compromise security as we proactively
+prepare for that new world.</p>
+</blockquote>
+
+<p>It is impressive that Signal is ahead of the curve on post-quantum computing. As someone who is currently switching between multiple phones regularly, though, they need to get their shit together on basic stuff like using more than one phone with the same Signal account, and making it take just a minute or less to switch your primary Signal phone from one device to another. Right now it takes me over 30 minutes to switch Signal from one phone to another, and I’m not a particularly heavy user of the app. Normal people don’t use Signal because it offers, by far, the worst and most limited user experience of any major messaging app.</p>
+
+<div>
+<a  title="Permanent link to ‘Signal Moves Ahead on Post-Quantum Computing, But Still Sucks Ass When You Switch Phones’"  href="https://daringfireball.net/linked/2025/10/22/signal-quantum">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Apple Pulls Dating Apps Tea and TeaOnHer From the App Store</title>
+	<link rel="alternate" type="text/html" href="https://techcrunch.com/2025/10/22/apple-confirms-it-pulled-controversial-dating-apps-tea-and-teaonher-from-the-app-store/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wn3" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/22/apple-pulls-tea-and-teaonher" />
+	<id>tag:daringfireball.net,2025:/linked//6.42303</id>
+	<published>2025-10-22T23:02:21Z</published>
+	<updated>2025-10-22T23:02:21Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Sarah Perez, TechCrunch:</p>
+
+<blockquote>
+  <p>Reached for comment, Apple confirmed the apps’ removal, saying it
+removed Tea Dating Advice and TeaOnHer from the App Store because
+they failed to meet Apple’s requirements around content moderation
+and user privacy. The company also said it saw an excessive number
+of user complaints and negative reviews, which included complaints
+of minors’ personal information being posted in these apps. Apple
+communicated the issues to the developers of the apps, a
+representative said, but the complaints were not addressed.
+(Request for comment from the app developers has not yet been
+returned.)</p>
+
+<p>Specifically, Apple cited violations of its App Review Guidelines
+1.2, 5.1.2, and 5.6. <a href="https://url.usb.m.mimecastprotect.com/s/_e1_Cyp4m4hLQEx2TZf6uxDIKv?domain=developer.apple.com">Rule 1.2</a> says apps with user-generated
+content should offer reporting and blocking features and should
+remove objectionable content. <a href="https://url.usb.m.mimecastprotect.com/s/wr0PCzq8n8H4yv5wCXhAu9PQzu?domain=developer.apple.com">Rule 5.1.2</a> says apps can’t use or
+share someone’s personal information without permission, and 
+<a href="https://url.usb.m.mimecastprotect.com/s/0EvSCA8LmLhEPMklt9i1uGY7-o?domain=developer.apple.com">Rule 5.6</a> says excessive customer reports and negative reviews
+violate Apple’s Developer Code of Conduct. [...]</p>
+
+<p>After going viral and generating controversy, <a href="https://techcrunch.com/2025/07/26/dating-safety-app-tea-breached-exposing-72000-user-images/">Tea suffered a data
+breach over the summer</a>, with hackers gaining access to
+72,000 images, including 3,000 selfies and photo IDs submitted for
+account verification, as well as 59,000 images from posts,
+comments, and direct messages.</p>
+
+<p>Later, a rival app called TeaOnHer launched to offer men the
+ability to dish on women in the same way, but it was beset by
+security issues that <a href="https://techcrunch.com/2025/08/06/a-rival-tea-app-for-men-is-leaking-its-users-personal-data-and-drivers-licenses/">exposed users’ personal information</a>,
+including government IDs and selfies, TechCrunch
+<a href="https://techcrunch.com/2025/08/13/how-we-found-teaonher-spilling-users-drivers-licenses-in-less-than-10-minutes/">discovered</a> in August.</p>
+</blockquote>
+
+<p>Seems odd to me that Apple only pulled Tea from the App Store now, three months after multiple disastrous security breaches revealed their amateur hour approach to security. See previous coverage here at DF: <a href="https://daringfireball.net/linked/2025/07/26/4chan-tea-breach">July 26</a>, <a href="https://daringfireball.net/linked/2025/07/28/tea-breach-worsens">July 28</a>, and <a href="https://daringfireball.net/2025/07/tea_number_3_app_store">July 30</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Pulls Dating Apps Tea and TeaOnHer From the App Store’"  href="https://daringfireball.net/linked/2025/10/22/apple-pulls-tea-and-teaonher">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Adam Driver Says Bob Iger Nixed a Kylo Ren ‘Star Wars’ Film He Pitched With Steven Soderbergh</title>
 	<link rel="alternate" type="text/html" href="https://apnews.com/article/adam-driver-star-wars-soderbergh-jarmusch-4e08164d0419759f1b5b50d69864975d?ref=cupofcoffeenews.com" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wn2" />
@@ -1761,114 +1859,6 @@ big apologies. What a SCAM - DO SOMETHING!!! President DJT</p>
 
 <div>
 <a  title="Permanent link to ‘Drata’"  href="https://daringfireball.net/linked/2025/10/11/drata">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple Has Indefinitely Postponed Jessica Chastain’s Apple TV+ Thriller ‘The Savant’, for Political Reasons</title>
-	<link rel="alternate" type="text/html" href="https://deadline.com/2025/09/the-savant-jessica-chastain-postponed-apple-1236553658/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wlv" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/11/the-savant-apple-tv" />
-	<id>tag:daringfireball.net,2025:/linked//6.42259</id>
-	<published>2025-10-11T17:44:41Z</published>
-	<updated>2025-10-11T17:44:42Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Nellie Andreeva, reporting for Deadline back on September 23:</p>
-
-<blockquote>
-  <p>The release of Apple TV+’s <em>The Savant</em> has been put on hold. The
-decision comes three days before the thriller starring Jessica
-Chastain was slated to premiere on the streamer Sept. 26. No new
-date has been set.</p>
-
-<p>“After careful consideration, we have made the decision to
-postpone The Savant,” an Apple TV+ spokesperson said in a
-statement to Deadline. “We appreciate your understanding and look
-forward to releasing the series at a future date.”</p>
-
-<p>The streamer would not elaborate on the reasons for the
-last-minute change but <em>The Savant</em>’s subject matter is believed
-to be behind it, with the storyline about preventing extremist
-attacks and some of the imagery considered possibly triggering
-following the Sept. 10 assassination of right-wing political
-activist Charlie Kirk. The series includes a sniper in action and
-the bombing of a government building among other acts of violence.</p>
-</blockquote>
-
-<p>Jessica Chastain, <a href="https://www.instagram.com/p/DO_V2EyEZmj/">in a post on Instagram later that same day</a>:</p>
-
-<blockquote>
-  <p>I want to say how much I value my partnership with Apple.
-They’ve been incredible collaborators and I deeply respect their
-team. That said, I wanted to reach out and let you know that
-we’re not aligned on the decision to pause the release of <em>The
-Savant</em>. [...]</p>
-
-<p>I’ve never shied away from difficult subjects, and while I wish
-this show wasn’t so relevant, unfortunately it is. <em>The Savant</em>
-is about the heroes who work every day to stop violence before it
-happens, and honoring their courage feels more urgent than ever.
-While I respect Apple’s decision to pause the release for now, I
-remain hopeful the show will reach audiences soon. Until then,
-I’m wishing safety and strength for everyone, and I’ll let you
-know if and when <em>The Savant</em> is released.</p>
-</blockquote>
-
-<p>Here we are nearly three weeks later, and it’s still a question of <em>if</em>, not <em>when</em> — <a href="https://tv.apple.com/us/show/the-savant/umc.cmc.aar44keiny3h54xvaakg260q">Apple TV’s page for <em>The Savant</em></a> still has it labeled “Coming: At a Later Date”. </p>
-
-<div>
-<a  title="Permanent link to ‘Apple Has Indefinitely Postponed Jessica Chastain’s Apple TV+ Thriller ‘The Savant’, for Political Reasons’"  href="https://daringfireball.net/linked/2025/10/11/the-savant-apple-tv">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Saul Zabar, Smoked Fish Czar of Upper West Side, Dies at 97</title>
-	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2025/10/07/dining/saul-zabar-dead.html" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wlu" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/11/saul-zabar-rip" />
-	<id>tag:daringfireball.net,2025:/linked//6.42258</id>
-	<published>2025-10-11T16:17:52Z</published>
-	<updated>2025-10-11T16:17:52Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Clyde Haberman, The New York Times:</p>
-
-<blockquote>
-  <p>Saul Zabar, who across more than seven decades as a principal
-owner of the Upper West Side food emporium bearing his family name
-kept New Yorkers amply fortified with smoked fish, earthy bread
-and tangy cheese, not to mention pungent coffee, died on Tuesday
-in Manhattan. He was 97. [...]</p>
-
-<p>What did he look for in a fish? His response to The New York Sun
-in 2007 was worthy of a cryptic Zen master: “It’s got to have
-taste. Not too this, not too that.”</p>
-
-<p>But he was clear about his store’s iconic status. “There’s a
-romance about what we do,” he said in 2012. “We have a modern
-appearance, but we really do things the way they were done 40, 50,
-75, even 200 years ago.” [...]</p>
-
-<p>“We get asked often why we don’t franchise, because we have a lot
-of branded products,” <a href="https://www.ediblemanhattan.com/tastemakers/the_brothers_zabar">he told the magazine Edible Manhattan in
-2022</a>.</p>
-
-<p>“Money is not why we do this, not why we’re here seven days a
-week,” he said. “It’s a way of life for us. It’s kind of
-old-fashioned.”</p>
-</blockquote>
-
-<p>Many people claim that they’re not in it for the money. Only some of them mean it. And those are the most interesting, and often most beloved, people in the world.</p>
-
-<div>
-<a  title="Permanent link to ‘Saul Zabar, Smoked Fish Czar of Upper West Side, Dies at 97’"  href="https://daringfireball.net/linked/2025/10/11/saul-zabar-rip">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
