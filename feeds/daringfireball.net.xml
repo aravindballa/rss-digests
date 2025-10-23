@@ -7,7 +7,56 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-10-23T22:20:48Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-10-23T22:40:31Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>SerpApi’s Public Customer List</title>
+	<link rel="alternate" type="text/html" href="https://serpapi.com/use-cases" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wn9" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/23/serpapi-customer-list" />
+	<id>tag:daringfireball.net,2025:/linked//6.42309</id>
+	<published>2025-10-23T22:30:18Z</published>
+	<updated>2025-10-23T22:40:31Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>At the bottom of their “Use Cases” page, SerpApi lists the following companies and organizations as customers (“They trust us. You are in good company. Join them.”):</p>
+
+<ul>
+<li>Airbnb</li>
+<li>Nvidia</li>
+<li>Meta</li>
+<li>Shopify</li>
+<li>Perplexity</li>
+<li>KPMG</li>
+<li>Ahrefs</li>
+<li>Grubhub</li>
+<li>Samsung</li>
+<li>AI21labs</li>
+<li>United Nations (!)</li>
+<li>Thomson Reuters</li>
+<li>BrightLocal</li>
+<li>Experian</li>
+</ul>
+
+<p>From an August 21, 2025 <a href="https://www.theinformation.com/articles/openai-challenging-google-using-search-data">report in The Information</a> (paywalled up the wazoo, alas), however:</p>
+
+<blockquote>
+  <p>OpenAI also isn’t the only Google rival to use SerpApi data.
+SerpApi’s website previously listed Apple as a customer. In
+addition to partnering with Google on search, the iPhone maker
+develops technology to power searches in Safari — a lucrative
+deal that the judge overseeing the DOJ case could also nix.</p>
+</blockquote>
+
+<p>Was Apple removed from the list because they’re no longer (or never were?) a customer, or because they remain a customer but don’t want to be listed?</p>
+
+<div>
+<a  title="Permanent link to ‘SerpApi’s Public Customer List’"  href="https://daringfireball.net/linked/2025/10/23/serpapi-customer-list">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Reddit Files Lawsuit Accusing ‘Data Scraper’ Companies of Stealing Its Information</title>
 	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2025/10/22/technology/reddit-data-scrapers-perplexity-theft.html?unlocked_article_code=1.vk8.W49v.NYfYXfBwO0Ry&amp;smid=url-share" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wn8" />
@@ -1912,36 +1961,6 @@ trial for new subscribers.</p>
 
 <div>
 <a  title="Permanent link to ‘Apple Renames ‘Apple TV+’ to ‘Apple TV’’"  href="https://daringfireball.net/linked/2025/10/13/apple-tv-minus">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple Announces the End-of-Life for Clips</title>
-	<link rel="alternate" type="text/html" href="https://support.apple.com/en-us/123359" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wm0" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/13/clips-eol" />
-	<id>tag:daringfireball.net,2025:/linked//6.42264</id>
-	<published>2025-10-13T13:41:25Z</published>
-	<updated>2025-10-13T16:30:34Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Apple Support:</p>
-
-<blockquote>
-  <p>The Clips app is no longer being updated, and will no longer be
-available for download for new users as of October 10, 2025. You
-can continue to use Clips on iOS 26 and iPadOS 26 or earlier.</p>
-</blockquote>
-
-<p>Clips is such an interesting story. It really was a great app. Back in 2017, when version 2.0 arrived (just six months after 1.0), <a href="https://daringfireball.net/linked/2017/11/10/clips-2-0">I described it as</a> “the single best example of a productivity app designed for iOS”. I stand by that. Clips was a very ambitious app that really pushed the state of the art in iOS UI design forward in so many ways. The general knock on iOS has always been that it’s a platform for content consumption, not creation. Clips was <em>all about</em> creation.</p>
-
-<p>But, for as many great ideas as Clips contained (and debuted), it clearly never clicked with the public. Most people — even just only counting people who create and share edited videos to social media — probably have never even heard of Clips. There was something essential missing: a use case. <a href="https://thatrandomagency.com/2025/06/09/instagram-edits-app-review/">Edits</a>, Meta’s new-this-year video editing app for mobile, has a clear use case: it’s meant for editing videos destined for Meta’s popular social media networks. Clips had no clear target destination. <a href="https://daringfireball.net/linked/2025/01/20/remember-clips">It could have</a>, but never did.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Announces the End-of-Life for Clips’"  href="https://daringfireball.net/linked/2025/10/13/clips-eol">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
