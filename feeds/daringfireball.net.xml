@@ -7,7 +7,59 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-10-24T02:09:53Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-10-24T21:18:11Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Meta Announces Ban on Rival AI Chatbots From WhatsApp</title>
+	<link rel="alternate" type="text/html" href="https://www.techradar.com/ai-platforms-assistants/meta-will-ban-rival-ai-chatbots-from-whatsapp" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wna" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/24/meta-whatsapp-rival-chatbot-ban" />
+	<id>tag:daringfireball.net,2025:/linked//6.42310</id>
+	<published>2025-10-24T21:16:38Z</published>
+	<updated>2025-10-24T21:18:11Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Eric Hal Schwarz, reporting for TechRadar:</p>
+
+<blockquote>
+  <p>Meta is closing the door on third-party AI assistants inside
+WhatsApp. Starting January 15, 2026, no general-purpose AI
+chatbot, including ChatGPT, Perplexity, and others, will be
+allowed to operate on the platform. The change is part of an
+update to WhatsApp’s Business API policy that bans developers of
+“large language models, generative AI platforms, or
+general-purpose AI assistants” from accessing the system.</p>
+
+<p>In plain terms, Meta is locking down the world’s largest
+messaging app to ensure that the only chatbot you’ll find inside
+it is Meta AI.</p>
+</blockquote>
+
+<p>Perhaps because I’m only a light user of WhatsApp, I had no idea that rival AI chatbots had accounts there. I just tried it with <a href="https://help.openai.com/en/articles/10193193-1-800-chatgpt-calling-and-messaging-chatgpt-with-your-phone">1-800-ChatGPT</a> and it seems pointless. It’s noticeably slower and uses an older model than just using the ChatGPT app. (You can also just place a regular phone call to 1-800-ChatGPT, which seems about as useful in today’s world as <a href="https://www.youtube.com/watch?v=XagGEi_n_ok">calling 555-FILM for Moviefone</a> to get movie showtimes.)</p>
+
+<p>OpenAI, on X, <a href="https://x.com/OpenAI/status/1980794846752436597">has taken the news in stride</a>:</p>
+
+<blockquote>
+  <p>Meta changed its policies so 1-800-ChatGPT won’t work on WhatsApp
+after Jan 15, 2026.</p>
+
+<p>Luckily we have an app, website, and browser you can use instead
+to access ChatGPT.</p>
+</blockquote>
+
+<p><a href="https://mastodon.social/@counternotions/115425046334250600">Via Kontra</a>, who quips:</p>
+
+<blockquote>
+  <p>Why hasn’t the EU started an investigation of Apple already?!</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘Meta Announces Ban on Rival AI Chatbots From WhatsApp’"  href="https://daringfireball.net/linked/2025/10/24/meta-whatsapp-rival-chatbot-ban">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>SerpApi’s Public Customer List</title>
 	<link rel="alternate" type="text/html" href="https://serpapi.com/use-cases" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wn9" />
@@ -1923,48 +1975,6 @@ between F1 and Apple that could extend worldwide.</p>
 
 	]]></content>
 	<title>[Sponsor] Mux: Video API for Developers</title></entry><entry>
-	<title>Apple Renames ‘Apple TV+’ to ‘Apple TV’</title>
-	<link rel="alternate" type="text/html" href="https://www.apple.com/tv-pr/news/2025/10/apple-original-films-blockbuster-feature-f1-the-movie-from-joseph-kosinski-to-make-global-streaming-debut-on-friday-december-12-2025/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wm1" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/13/apple-tv-minus" />
-	<id>tag:daringfireball.net,2025:/linked//6.42265</id>
-	<published>2025-10-13T16:02:01Z</published>
-	<updated>2025-10-14T16:23:39Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>At the bottom of Apple’s press release announcing that <em>F1 The Movie</em> will be available for streaming on December 12:</p>
-
-<blockquote>
-  <p>Apple TV+ is now simply Apple TV, with a vibrant new identity.
-Ahead of its global streaming debut on Apple TV, the film
-continues to be available for purchase on participating digital
-platforms, including the Apple TV app, Amazon Prime Video,
-Fandango at Home and more.</p>
-
-<p><strong>About Apple TV</strong></p>
-
-<p>Apple TV is available on the Apple TV app in over 100 countries
-and regions, on over 1 billion screens, including iPhone, iPad,
-Apple TV, Apple Vision Pro, Mac, popular smart TVs from Samsung,
-LG, Sony, VIZIO, TCL and others, Roku and Amazon Fire TV devices,
-Chromecast with Google TV, PlayStation and Xbox gaming consoles,
-and at tv.apple.com, for $12.99 per month with a seven-day free
-trial for new subscribers.</p>
-</blockquote>
-
-<p>In some ways, I get it. Like, if you’re telling someone how much you enjoy <em>Slow Horses</em> and they ask how to watch it, it’s more natural and conversational to just say “It’s on Apple TV”. That’s what most people say. That’s what I say — and as part of my job, I completely understand the difference between Apple TV the device, Apple TV the (free) app, and Apple TV+ the (paid) streaming service.</p>
-
-<p>But right there in Apple’s own “About Apple TV” description, you see just how overused “Apple TV” now is. You can watch Apple TV in Apple TV on Apple TV — the paid service in the free app on the set-top box. But you can watch any streaming service you want on the box, in that service’s own app. But many of those services are also available in the Apple TV app. And the Apple TV streaming service is also available on just about all other popular set-top hardware platforms. So you don’t need an Apple TV to watch Apple TV. It’s a bit like Abbott and Costello’s classic “<a href="https://www.youtube.com/watch?v=sYOUFGfK4bU">Who’s on First</a>” routine.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Renames ‘Apple TV+’ to ‘Apple TV’’"  href="https://daringfireball.net/linked/2025/10/13/apple-tv-minus">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/10/iceblock_removed_from_app_store" />
 	<link rel="shorturl" href="http://df4.us/wld" />
