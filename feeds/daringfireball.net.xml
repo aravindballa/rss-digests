@@ -7,7 +7,37 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-10-26T16:02:23Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-10-26T16:12:02Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>The Scenario Where ChatGPT’s WhatsApp Gateway Was Useful: Airplane Wi-Fi</title>
+	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2025/10/24/meta-whatsapp-rival-chatbot-ban" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wne" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/26/chatgpt-whatsapp-airplane-wifi" />
+	<id>tag:daringfireball.net,2025:/linked//6.42314</id>
+	<published>2025-10-26T16:11:43Z</published>
+	<updated>2025-10-26T16:12:02Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Yours truly on Friday, regarding the news that Meta is going to ban rival AI chatbots from WhatsApp:</p>
+
+<blockquote>
+  <p>Perhaps because I’m only a light user of WhatsApp, I had no idea
+that rival AI chatbots had accounts there. I just tried it with
+<a href="https://help.openai.com/en/articles/10193193-1-800-chatgpt-calling-and-messaging-chatgpt-with-your-phone">1-800-ChatGPT</a> and <a href="https://daringfireball.net/misc/2025/10/whatsapp-chatgpt.png">it seems pointless</a>. It’s
+noticeably slower and uses an older model than just using the
+ChatGPT app.</p>
+</blockquote>
+
+<p>A few readers have pointed to one good use case for this gateway: airplane Wi-Fi, particularly on airlines that offer “free” Wi-Fi for messaging apps like Apple Messages (iMessage) and WhatsApp. The ChatGPT app won’t work unless you pay for full Wi-Fi access on a flight, but WhatsApp does, and through January, you can interact with ChatGPT through that loophole. Clever.</p>
+
+<div>
+<a  title="Permanent link to ‘The Scenario Where ChatGPT’s WhatsApp Gateway Was Useful: Airplane Wi-Fi’"  href="https://daringfireball.net/linked/2025/10/26/chatgpt-whatsapp-airplane-wifi">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘Boring Is What We Wanted’</title>
 	<link rel="alternate" type="text/html" href="https://512pixels.net/2025/10/boring-is-what-we-wanted/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wnd" />
@@ -1891,62 +1921,6 @@ playback, all on a single charge.</p>
 
     ]]></content>
   <title>★ The Just Plain M5 Chip Launches in Three Updated Products: 14-Inch MacBook Pro, iPad Pro (Both Sizes), and Some Sort of Headset Thingamajig Called Vision Pro</title></entry><entry>
-	<title>TiVo Stops Selling DVRs</title>
-	<link rel="alternate" type="text/html" href="https://cordcuttersnews.com/tivo-stops-selling-dvrs-marking-the-end-of-an-era/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wm6" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/15/tivo-stops-selling-dvrs" />
-	<id>tag:daringfireball.net,2025:/linked//6.42270</id>
-	<published>2025-10-15T16:46:12Z</published>
-	<updated>2025-10-15T17:42:34Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Luke Bouma, writing for Cord Cutters:</p>
-
-<blockquote>
-  <p>In a seismic shift for the television industry, TiVo Corporation
-has quietly pulled the plug on its storied digital video recorder
-line, effectively ending an era that redefined how consumers
-interacted with broadcast content. As of early October 2025, the
-company’s <a href="https://www.tivo.com/">official website</a> has scrubbed all references
-to its hardware DVR products, including the once-revered TiVo
-Edge models designed for cable subscribers and over-the-air
-antenna users. Visitors searching for these devices now encounter
-a streamlined catalog that omits any mention of physical
-recording hardware, signaling a complete withdrawal from the
-retail DVR market.</p>
-
-<p>This move culminates decades of gradual decline for TiVo’s
-hardware ambitions, which peaked in the early 2000s when the brand
-became synonymous with effortless time-shifting of television
-programming. Launched in 1999, TiVo’s DVRs introduced features
-like one-touch recording, commercial skipping, and intuitive
-search capabilities that made traditional TV schedules feel
-obsolete. At its zenith, the company boasted millions of
-subscribers, forcing cable providers and networks to adapt to
-empowered viewers who could pause live broadcasts or binge-watch
-at will. The TiVo Edge, introduced in 2021 as a hybrid device
-supporting both cable cards and streaming, represented the final
-evolution of this hardware legacy, blending OTA tuners with 4K
-support and expanded storage options. Yet, even as it garnered
-praise for superior interface design and reliability, sales
-dwindled amid the cord-cutting revolution.</p>
-</blockquote>
-
-<p>The writing has been on the wall for years. We’ve been a TiVo house for 25 years, but their hardware has gotten worse over the years. I forget what our second-to-last TiVo model was, but it died in 2021, and we bought a TiVo Edge. The Edge was often unreliable, and sometimes needed weekly reboots to keep working. (System software updates eventually fixed that.) But the hardware failed this summer. We’d only had it four years.</p>
-
-<p>And, the Edge system software UI was a disaster, and a huge regression from the old TiVo interface. Almost everything was worse in the new “modern” TiVo interface from the old one: navigating shows you’d already recorded, the live-right-now TV guide, the interface for setting up a show to record — all of that went from really good and intuitive to clunky and confusing and slow. The one and only thing our TiVo Edge remained excellent at was playback. Fast-forwarding, rewinding, pausing — nothing else compares to TiVo for that. Even Apple’s own TV app on an Apple TV box doesn’t fast-forward or rewind with anything close to the precision and low latency TiVo’s devices have always offered. My first TiVo from 25 years ago had better fast-forward and rewind than anything on Apple TV (let alone other, lesser streaming boxes) today.</p>
-
-<p>But the overall TiVo experience has been so bad — and getting worse — for so long that I’m not sad at all that they’re getting out of the game. TiVo’s one job was to provide a best-of-breed experience and they lost the plot on that a decade ago. Fuck ’em.</p>
-
-<div>
-<a  title="Permanent link to ‘TiVo Stops Selling DVRs’"  href="https://daringfireball.net/linked/2025/10/15/tivo-stops-selling-dvrs">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://www.mux.com/video-api?utm_campaign=fireball&amp;utm_source=DF" />
 	<link rel="shorturl" href="http://df4.us/wm2" />
