@@ -7,14 +7,58 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-10-27T17:00:14Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-10-27T20:44:28Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/10/apple_uk_lawsuit_app_store_commissions" />
+	<link rel="shorturl" href="http://df4.us/wnm" />
+	<id>tag:daringfireball.net,2025://1.42322</id>
+	<published>2025-10-27T20:33:32Z</published>
+	<updated>2025-10-27T20:33:39Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">The best time to adjust the rules of the App Store — its exclusivity on app distribution for the entire iOS platform, the exclusivity of Apple’s IAP for purchasing digital content, the commission percentage splits on IAP — was over a decade ago. The next best time to make those adjustments is now.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>Sam Tobin, <a href="https://www.reuters.com/sustainability/boards-policy-regulation/apple-loses-uk-lawsuit-over-app-store-commissions-2025-10-23/">reporting last week for Reuters</a>:</p>
+
+<blockquote>
+  <p>Apple abused its dominant position by charging app developers
+unfair commissions, a London tribunal ruled on Thursday, in a blow
+which could leave the U.S. tech company on the hook for hundreds
+of millions of pounds in damages. The Competition Appeal Tribunal
+(CAT) ruled against Apple after a trial of the lawsuit, which was
+brought on behalf of millions of iPhone and iPad users in the
+United Kingdom.</p>
+
+<p>The CAT ruled that Apple had abused its dominant position from
+October 2015 until the end of 2020 by shutting out competition in
+the app distribution market and by “charging excessive and unfair
+prices” as commission to developers. [...] The case had been
+valued at around 1.5 billion pounds ($2 billion) by those who
+brought it. A hearing next month will decide how damages are
+calculated and Apple’s application for permission to appeal.</p>
+</blockquote>
+
+<p>Dan Moren and I discussed this at some length in <a href="https://daringfireball.net/thetalkshow/2025/10/26/ep-432">the new episode of The Talk Show</a> that dropped over the weekend. What makes this ruling interesting isn’t that it’s particularly significant or different from other regulatory/antitrust investigations around the world. It’s the fact that it’s completely in line with other regulatory/antitrust investigations regarding the App Store (and Play Store) from around the world.</p>
+
+<p>When is the last time an investigation regarding the legality of the App Store’s dominant market position went in Apple’s favor, in any country? I can’t recall one. Apple is clearly fighting a losing battle here. Whether Apple <em>ought</em> to be losing all these legal and regulatory battles regarding the App Store is, from a strategic standpoint, almost irrelevant. The obvious fact is, they <em>are</em> losing them.</p>
+
+<p>Apple has approached all this regulatory conflict from a perspective that they’re right, and the regulators are wrong. That the App Store, as Apple wants it, is (a) good for users, (b) fair to developers, and (c) <em>competitive</em>, not anti-competitive, legally. But even if Apple is correct about that, at some point, after being handed loss after loss in rulings from courts and regulatory bodies around the globe, shouldn’t they change their strategy and start trying to offer their own concessions, rather than wait for bureaucrat-designed concessions to be forced upon them?</p>
+
+<p>However Apple thinks all of this <em>should</em> work out is not the way it <em>is</em> working out. The best time to adjust the rules of the App Store — its exclusivity on app distribution for the entire iOS platform, the exclusivity of Apple’s IAP for purchasing digital content, the commission percentage splits on IAP — <a href="https://daringfireball.net/2021/06/app_store_the_schiller_cut">was over a decade ago</a>. The next best time to make those adjustments is now.</p>
+
+
+
+    ]]></content>
+  <title>★ Apple Loses Landmark U.K. Lawsuit Over App Store Commissions</title></entry><entry>
 	<title>App Store IDs Hint at Possible iPad Versions of Pixelmator Pro, Compressor, Motion, and MainStage</title>
 	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2025/10/27/apple-may-release-pixelmator-pro-for-ipad/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wnl" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/27/more-apple-pro-apps-for-ipad" />
 	<id>tag:daringfireball.net,2025:/linked//6.42321</id>
 	<published>2025-10-27T16:49:57Z</published>
-	<updated>2025-10-27T16:49:57Z</updated>
+	<updated>2025-10-27T20:44:28Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -26,8 +70,7 @@
   <p>Apple might be preparing iPad apps for Pixelmator Pro, Compressor,
 Motion, and MainStage, according to new App Store IDs uncovered by
 MacRumors contributor Aaron Perris. All four of the apps are
-currently available on the Mac only.
-A quick overview of each app:</p>
+currently available on the Mac only. A quick overview of each app:</p>
 
 <ul>
 <li><a href="https://apps.apple.com/us/app/pixelmator-pro/id1289583905?mt=12">Pixelmator Pro</a>: Professional image editing app <a href="https://www.macrumors.com/2025/02/11/apple-completes-pixelmator-acquisition/">acquired
@@ -38,9 +81,14 @@ audio and video files</li>
 titles, transitions, and effects</li>
 <li><a href="https://apps.apple.com/us/app/mainstage/id634159523?mt=12">MainStage</a>: Logic Pro companion app for live performances</li>
 </ul>
+
+<p>There is already a less-capable <a href="https://apps.apple.com/us/app/pixelmator/id924695435">Pixelmator</a> app available
+for the iPad and iPhone.</p>
 </blockquote>
 
-<p>There is already a less-capable <a href="https://apps.apple.com/us/app/pixelmator/id924695435">Pixelmator</a> app available for the iPad and iPhone.</p>
+<p>Interesting though that — just like Final Cut and Logic — these new pro apps are reportedly iPad-only, with no support for iPhone.</p>
+
+<p>Also: <a href="https://mastodon.social/@stroughtonsmith/115447184072770472">still no Xcode</a>, even for iPad.</p>
 
 <div>
 <a  title="Permanent link to ‘App Store IDs Hint at Possible iPad Versions of Pixelmator Pro, Compressor, Motion, and MainStage’"  href="https://daringfireball.net/linked/2025/10/27/more-apple-pro-apps-for-ipad">&nbsp;★&nbsp;</a>
@@ -2264,71 +2312,4 @@ John Gruber</p>
 
 
     ]]></content>
-  <title>★ Personal Note</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons" />
-	<link rel="shorturl" href="http://df4.us/wjm" />
-	<id>tag:daringfireball.net,2025://1.42178</id>
-	<published>2025-08-26T00:02:43Z</published>
-	<updated>2025-10-04T13:34:55Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">These are the not the work of carpenters who care about the backs of the cabinets they’re building. These icons are so bad, they look like the work of untrained “How hard can it be?” dilettante carpenters who only last a few days on the job before sawing off one of their own fingers.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>MacOS has shipped with a collection of “utility” apps since the prehistoric era of classic Mac OS. A good rule of thumb for what makes an app a “utility” is that it’s a tool for doing something <em>to</em> or <em>about</em> your computer. Ever since Mac OS X 10.0, most of these apps have been neatly filed away in <em>/Applications/Utilities/</em>. Others — some because they’re obscure (e.g. Ticket Viewer), some because they’re effectively deprecated (e.g. DVD Player, whose copyright date in MacOS 15 Sequoia is 2019), and some because they present themselves, when launched, not as apps but as system-level features (e.g. About This Mac) — are tucked away in <em>/System/Library/CoreServices/</em> or <em>/System/Library/CoreServices/Applications/</em>.</p>
-
-<p><a href="https://mastodon.social/@BasicAppleGuy/115089810537348465">Basic Apple Guy posted a screenshot to Mastodon</a> comparing the current MacOS 15 icons for four of these utilities (Disk Utility, Expansion Slot Utility, Wireless Diagnostics, and AppleScript Utility) to their new icons in MacOS 26 Tahoe, beta 7 (click to enlarge for detail):</p>
-
-<p><a href="https://daringfireball.net/misc/2025/08/tahoe-utility-icons-via-basic-apple-guy.jpeg" class="noborder">
-  <img
-    src = "https://daringfireball.net/misc/2025/08/tahoe-utility-icons-via-basic-apple-guy.jpeg"
-    alt = "Screenshots of the MacOS 15 and MacOS 26 (beta 7) icons for Disk Utility, Expansion Slot Utility, Wireless Diagnostics, and AppleScript Utility."
-    width = 500
-  /></a></p>
-
-<p>I don’t think the old icons for these apps from MacOS 15 were particularly good — Apple has mostly lost its “<a href="https://mastodon.social/@BasicAppleGuy/115050148901528749">icons</a> <a href="https://mastodon.social/@BasicAppleGuy/115072885331562510">look</a> <a href="https://mastodon.social/@BasicAppleGuy/114948306713250918">cool</a>” game. But the new ones in MacOS 26 Tahoe are objectively terrible. The only one of this bunch that’s maybe sort of OK is Wireless Diagnostics. They all look like placeholder icons made by a developer who would be the first to admit that they’re not an artist. Disk Utility, which is an important app, doesn’t even look like it involves a disk.</p>
-
-<p>These new icons all use the same “wrench” motif, which is a lazy, limiting concept to start with. Tahoe, at the system level, enforces a squircle shape on all application icons. Apps that haven’t been updated with Tahoe-compliant everything-fits-in-a-squircle icons are put in “<a href="https://9to5mac.com/2025/08/08/macos-tahoe-fix-gray-box-icons/">squircle jail</a>” — their non-Tahoe-compliant icons are shrunk and placed atop a drab gray Tahoe squircle background, to force them into squircle compliance. But these Apple utility apps have an entire sub-motif — inside their base squircle shape is a large wrench fitted against a bolt. Only inside the bolt — which is inside the wrench’s jaws, which wrench is inside the squircle — goes the part of the icon that identifies the app itself. So maybe like 10 percent of the area of the icon is the area where the app can show something that identifies its purpose.</p>
-
-<p>So the entire concept for these icons sucks. But the conceptual execution sucks too. The wrench is incredibly stupid-looking. Whoever drew it has obviously never used an open-end wrench because the jaws on the wrench head are <em>way</em> too thin. They’d break off under any significant torque. Just look at a real-life wrench, or just <a href="https://mastodon.social/@BasicAppleGuy/115092733884236020">look at the wrench heads in the older MacOS icons</a> (or Apple’s 🔧 emoji, for that matter).</p>
-
-<p>Individually the icons mostly suck too:</p>
-
-<ul>
-<li><p>Disk Utility — a very important app — has an icon that’s just an Apple logo (inside the bolt that’s inside the wrench that’s inside the squircle). Not a hard disk, not an external drive, not an SD card. Just an Apple logo. If I just showed you this icon without telling you which app it represented, how in the world could you guess what it is? Even if you know the “Apple utility app icon” motif of the big dumb wrench and bolt, the best you could guess is “a utility app for something Apple-related” which, for an Apple computer, could be anything.</p></li>
-<li><p>Expansion Slot Utility — This app only runs on Mac Pros because Mac Pros are the only Macs with expansion slots. So the old icon naturally shows a Mac Pro. The new icon shows ... three rectangular empty sockets?</p></li>
-<li><p>AppleScript Utility — A fine concept for this icon (within the confines of the terrible wrench-and-bolt utility icon concept). Everyone who knows AppleScript knows the scroll that represents AppleScript scripts. So just put the iconic AppleScript scroll in the bolt in the wrench in the squircle. But here, the placement of the scroll is botched — it’s rotated a few degrees counterclockwise. It makes the scroll look like it’s falling over. Here’s how the scroll is canonically oriented, via the glyphs in SF Symbols:</p>
-
-<p><img
-  src = "https://daringfireball.net/misc/2025/08/applescript-icons-sf-symbols.png"
-  alt = "The “applescript” and “applescript.fill” icon glyphs from the SF Symbols font."
-/></p>
-
-<p>and via the default icon for a script application (with a line added showing the center):</p>
-
-<p><img
-  src = "https://daringfireball.net/misc/2025/08/macos-15-script-application-icon.png"
-  alt = "The default application for an AppleScript “script application”, with a vertical orange line showing the center."
-  width = 440
-/></p>
-
-<p>But here’s a close-up of the Tahoe AppleScript Utility icon, with a center line added:</p>
-
-<p><img
-  src = "https://daringfireball.net/misc/2025/08/tahoe-applescript-utility-icon-drunk.png"
-  alt = "Close-up of the MacOS 26 Tahoe icon for AppleScript Utility, with a center line added to show that the script “scroll” is tilted incorrectly."
-/></p>
-
-<p>It’s wrong.</p></li>
-</ul>
-
-<p>These are not the work of carpenters <a href="https://www.goodreads.com/quotes/445621-when-you-re-a-carpenter-making-a-beautiful-chest-of-drawers">who care about the backs of the cabinets</a> they’re building. These icons are so bad, they look like the work of untrained “How hard can it be?” dilettante carpenters who only last a few days on the job before sawing off one of their own fingers. The whole collection looks like the work from someone with no artistic ability <em>nor</em> an eye for detail. From <em>Apple</em>, of all companies.</p>
-
-<p>Is it a big deal in the grand scheme of things that the icons for these seldom-used utility apps have gone to shit? No. But consider the proverbial canary in a coal mine. The problem isn’t that one little bird has died. The problem is that the bird might be dead because the whole mine is filling with deadly carbon monoxide or highly flammable methane gas. The icons in <em>/Applications/Utilities/</em> in MacOS 26 Tahoe represent a folder full of dead canaries. </p>
-
-
-
-    ]]></content>
-  <title>★ MacOS 26 Tahoe’s Dead-Canary Utility App Icons</title></entry></feed><!-- THE END -->
+  <title>★ Personal Note</title></entry></feed><!-- THE END -->
