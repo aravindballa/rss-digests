@@ -7,13 +7,13 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-10-28T20:08:16Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-10-28T20:25:27Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/10/thoughts_observations_and_links_regarding_chatgpt_atlas" />
 	<link rel="shorturl" href="http://df4.us/wnp" />
 	<id>tag:daringfireball.net,2025://1.42325</id>
 	<published>2025-10-28T19:45:19Z</published>
-	<updated>2025-10-28T20:08:16Z</updated>
+	<updated>2025-10-28T20:25:27Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -43,8 +43,7 @@ browser, just with a chat button that was bolted on. But instead,
 we made ChatGPT the beating heart of Atlas.”</p>
 </blockquote>
 
-<p>After giving it a try over the last week, to me Atlas feels like … Chrome with a chat button bolted on. I do not see the appeal, at all, despite being a daily user of ChatGPT. Atlas offers nothing of any appeal to me that’s better than using Safari as a standalone browser and ChatGPT’s excellent native Mac app as a standalone AI chatbot. But, for me, my browser is <em>not</em> “where
-all of [my] work, tools, and context come together”. I use an email app for email, a notes app for notes, a text editor and blog editor for writing and programming, a photos app for my photo library, a native feed reader app for feed reading, etc. My web browser is for browsing pages on the web. Perhaps this sort of browser/chat hybrid appeals only to people who live the majority of their desktop-computing lives in browser tabs.</p>
+<p>After giving it a try over the last week, to me Atlas feels like … Chrome with a chat button bolted on. I do not see the appeal, at all, despite being a daily user of ChatGPT. Atlas offers nothing to me that’s better than using Safari as a standalone browser and <a href="https://chatgpt.com/download/">ChatGPT’s excellent native Mac app</a> as a standalone AI chatbot. But, for me, my browser is <em>not</em> “where all of [my] work, tools, and context come together”. I use an email app for email, a notes app for notes, a text editor and blog editor for writing and programming, a photos app for my photo library, a native feed reader app for feed reading, etc. My web browser is for browsing pages on the web. Perhaps this sort of browser/chat hybrid appeals better to people who live the majority of their desktop-computing lives in browser tabs.</p>
 
 <ul>
 <li><p>The main interface isn’t a combo search/location field, but rather a chat/location field. Instead of getting search results for a query, you get a chat response. If I wanted this I’d just ask my prompt in ChatGPT. Oftentimes — usually, even — I really do want a list of search results, and I want them fast. ChatGPT responses in Atlas are not a list of web pages, and are — compared to Google Search or my preferred search engine, Kagi — very slow. ChatGPT is many things but a good search engine replacement it is not. But that seems to be the entire premise of Atlas.</p></li>
@@ -125,7 +124,7 @@ suddenly access all kinds of things on the internet that they
 could never get to on their own.</p>
 </blockquote>
 
-<p>This jibes with my impression after giving Atlas a try. The point of it doesn’t seem to be providing a better web browser for me to use, but rather, to provide ChatGPT with the personal context of my digital life that it otherwise couldn’t get.</p></li>
+<p>This jibes with my impression after giving Atlas a try. The point of it doesn’t seem to be to provide a better web browser for me to use, but rather, to provide ChatGPT with the personal context of my digital life that it otherwise couldn’t get.</p></li>
 </ul>
 
 <hr />
