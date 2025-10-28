@@ -7,21 +7,19 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-10-28T19:45:19Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-10-28T20:08:16Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/10/thoughts_observations_and_links_regarding_chatgpt_atlas" />
 	<link rel="shorturl" href="http://df4.us/wnp" />
 	<id>tag:daringfireball.net,2025://1.42325</id>
 	<published>2025-10-28T19:45:19Z</published>
-	<updated>2025-10-28T19:45:19Z</updated>
+	<updated>2025-10-28T20:08:16Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<summary type="text">Most people’s primary computing devices are their phones — and even for people whose primary devices are desktop computers, their phones are much-used satellite devices. And on both iOS and Android alike, people live their mobile digital lives through native apps, not websites.</summary>
 	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<h1>Thoughts, Observations, and Links Regarding ChatGPT Atlas</h1>
-
 <p>OpenAI, <a href="https://openai.com/index/introducing-chatgpt-atlas/">one week ago</a>:</p>
 
 <blockquote>
@@ -45,7 +43,7 @@ browser, just with a chat button that was bolted on. But instead,
 we made ChatGPT the beating heart of Atlas.”</p>
 </blockquote>
 
-<p>After giving it a try over the last week, to me Atlas feels like Chrome with a chat button bolted on. I do not see the appeal, at all, despite being a daily user of ChatGPT. Atlas offers nothing of any appeal to me that’s better than using Safari as a standalone browser and ChatGPT’s excellent native Mac app as a standalone AI chatbot. But, for me, my browser is <em>not</em> “where
+<p>After giving it a try over the last week, to me Atlas feels like … Chrome with a chat button bolted on. I do not see the appeal, at all, despite being a daily user of ChatGPT. Atlas offers nothing of any appeal to me that’s better than using Safari as a standalone browser and ChatGPT’s excellent native Mac app as a standalone AI chatbot. But, for me, my browser is <em>not</em> “where
 all of [my] work, tools, and context come together”. I use an email app for email, a notes app for notes, a text editor and blog editor for writing and programming, a photos app for my photo library, a native feed reader app for feed reading, etc. My web browser is for browsing pages on the web. Perhaps this sort of browser/chat hybrid appeals only to people who live the majority of their desktop-computing lives in browser tabs.</p>
 
 <ul>
@@ -129,6 +127,8 @@ could never get to on their own.</p>
 
 <p>This jibes with my impression after giving Atlas a try. The point of it doesn’t seem to be providing a better web browser for me to use, but rather, to provide ChatGPT with the personal context of my digital life that it otherwise couldn’t get.</p></li>
 </ul>
+
+<hr />
 
 <p>That last point raises the question of just how stable we should consider the Apple-OpenAI partnership for ChatGPT-backed Apple Intelligence features. Apple’s goal for a “more personalized Siri” — <a href="https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino">the whole thing</a> Apple promised at WWDC 2024 but had to postpone for a full year early this year — is for the ecosystem of native apps on Apple platforms, particularly iOS and MacOS, to serve as the personal knowledge context for personalized AI features through <a href="https://developer.apple.com/documentation/appintents">App Intents</a>. That’s the basis for the “When is my mom’s flight arriving?” type of interaction that Apple has promised, but still has not delivered. The premise of Atlas (and its brethren AI-integrated browsers like <a href="https://www.diabrowser.com/">The Browser Company’s Dia</a> and <a href="https://www.perplexity.ai/comet/">Perplexity’s Comet</a>) is that you should live your entire desktop computing life inside your browser, which in turn will give the AI agent that is integrated with your browser the contextual knowledge for your entire life.</p>
 
