@@ -7,7 +7,56 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-10-28T00:54:56Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-10-28T15:30:48Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Nisus Writer: Schrödinger’s Word Processor</title>
+	<link rel="alternate" type="text/html" href="https://tidbits.com/2025/10/25/nisus-writer-schrodingers-word-processor/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wno" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/28/nisus-writer-kissell" />
+	<id>tag:daringfireball.net,2025:/linked//6.42324</id>
+	<published>2025-10-28T15:30:48Z</published>
+	<updated>2025-10-28T15:30:48Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Joe Kissell, writing at TidBITS:</p>
+
+<blockquote>
+  <p>For more than a year, we’ve heard scattered complaints: problems
+with Nisus Software’s website, particularly the user discussion
+forum; slow or absent responses to support requests; assorted
+bugs; and other issues. But earlier this week, on 22 October 2025,
+the reports changed to: “Did you know the Nisus website is
+completely down, and that Nisus Writer is no longer in the Mac App
+Store? Does this mean Nisus is out of business?”</p>
+
+<p>On the one hand: The site is back online as I write this. The
+app still works. I’m writing the first draft of this article in
+Nisus Writer Pro on a Mac running macOS 26 Tahoe, and it’s fine.
+You can still download it and buy a license. At least one person
+is actively involved in the company, to some extent. It’s
+(mostly) alive!</p>
+
+<p>On the other hand: All available evidence suggests that
+development and support for Nisus Writer have ceased, and barring
+some new information, its future is doubtful. It’s (mostly) dead!</p>
+
+<p>I’m going to tell you what I know. (Well, <em>most</em> of what I know.)
+I’m also going to speculate a bit, because despite my best
+efforts, I have been unable to obtain verifiable information about
+certain topics, though I have a pretty good idea of what’s likely
+the case.</p>
+</blockquote>
+
+<p>Seems like an ignominious demise for a once-great app. Nisus Writer has been an acclaimed Mac-only (and Mac-assed) word processor since 1989. I never got into it, but I could always see the appeal. Nisus had a macro language for automation and regex-style advanced search and replace. But when I wanted features like those, I wanted them in a plain text editor, not a word processor, so I got into BBEdit.</p>
+
+<div>
+<a  title="Permanent link to ‘Nisus Writer: Schrödinger’s Word Processor’"  href="https://daringfireball.net/linked/2025/10/28/nisus-writer-kissell">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://www.jaho.com/s/df" />
 	<link rel="shorturl" href="http://df4.us/wnn" />
@@ -1869,51 +1918,6 @@ of the camera.</p>
 
 <div>
 <a  title="Permanent link to ‘Photos From Saturday’s ‘No Kings’ Protests Across the U.S.’"  href="https://daringfireball.net/linked/2025/10/20/no-kings-protest-photos">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Major AWS Outage</title>
-	<link rel="alternate" type="text/html" href="https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wmg" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/20/major-aws-outage" />
-	<id>tag:daringfireball.net,2025:/linked//6.42280</id>
-	<published>2025-10-20T15:31:43Z</published>
-	<updated>2025-10-21T19:18:36Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jess Weatherbed, The Verge:</p>
-
-<blockquote>
-  <p>A major Amazon Web Services (AWS) outage took down multiple online
-services for around four hours this morning, including Amazon,
-Alexa, Snapchat, Fortnite, <a href="https://status.openai.com/incidents/01K80CBJD5Z64DF82KGT3K3QE0">ChatGPT</a>, <a href="https://x.com/EOSStatus/status/1980194104115150858">Epic Games Store,
-Epic Online Services</a>, and more.</p>
-
-<p>As of 6:35AM ET, the <a href="https://health.aws.amazon.com/health/status">AWS status checker</a> is reporting that
-“most AWS Service operations are succeeding normally now,” and
-some of the impacted platforms, including <a href="https://x.com/FortniteStatus/status/1980249794502082948">Fortnite</a>,
-<a href="https://x.com/EOSStatus/status/1980226546607726916">Epic Games Store</a>, and <a href="https://x.com/AravSrinivas/status/1980239929189036222">Perplexity</a> have announced
-that they are fully recovered and back online.</p>
-
-<p>However, as of 9:50AM ET, Amazon says that multiple services in
-the US-EAST-1 Region are still “impacted” by operational issues,
-and that it is working towards a full resolution. The AWS
-dashboard first reported issues affecting the US-EAST-1 Region at
-3:11AM ET, with global services in other regions also taken
-offline. The cause of the outage hasn’t been confirmed, and it’s
-unclear when regular service will be fully restored.</p>
-</blockquote>
-
-<p>I bet it was this AWS outage that explains why I couldn’t sign in to my NYT account to play Wordle this morning. (Got it in 4 today.)</p>
-
-<p><em>Update:</em> <a href="https://health.aws.amazon.com/health/status">Amazon claims the issues were resolved</a> at the end of the day. I still couldn’t order food for delivery from a few local restaurants, including any that depended on Doordash or Toast, at 7pm ET though.</p>
-
-<div>
-<a  title="Permanent link to ‘Major AWS Outage’"  href="https://daringfireball.net/linked/2025/10/20/major-aws-outage">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
