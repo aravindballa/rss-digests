@@ -7,7 +7,44 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-10-30T14:36:33Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-10-30T21:02:16Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Apple Reports Strong Q4 2025 Results</title>
+	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wnz" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/30/apple-q4-resuls" />
+	<id>tag:daringfireball.net,2025:/linked//6.42335</id>
+	<published>2025-10-30T20:51:20Z</published>
+	<updated>2025-10-30T21:02:16Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Apple Newsroom:</p>
+
+<blockquote>
+  <p>Apple today announced financial results for its fiscal 2025 fourth
+quarter ended September 27, 2025. The Company posted quarterly
+revenue of $102.5 billion, up 8 percent year over year. Diluted
+earnings per share was $1.85, up 13 percent year over year on an
+adjusted basis.</p>
+
+<p>“Today, Apple is very proud to report a September quarter revenue
+record of $102.5 billion, including a September quarter revenue
+record for iPhone and an all-time revenue record for Services,”
+said Tim Cook, Apple’s CEO.</p>
+</blockquote>
+
+<p>Looking at Apple’s <a href="https://www.apple.com/newsroom/pdfs/fy2025-q4/FY25_Q4_Consolidated_Financial_Statements.pdf">Consolidated Statement</a> (PDF), the numbers look great across the board year-over-year: iPhone up 6%, Mac up 13%, iPad even, Wearables/Home even, and Services up 15%. Services now generates more revenue ($28.8 billion) than Mac, iPad, and Wearables/Home combined ($24.7 billion).</p>
+
+<p>Six Colors, as usual, <a href="https://sixcolors.com/post/2025/10/charts-apple-caps-off-best-fiscal-year-with-q4-record/">has Apple’s quarter illustrated in charts</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Reports Strong Q4 2025 Results’"  href="https://daringfireball.net/linked/2025/10/30/apple-q4-resuls">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>CarPlay Seems Essential for Rental Fleets</title>
 	<link rel="alternate" type="text/html" href="https://joe-steel.com/2025-10-22-Why-GM-Will-Give-You-Gemini-But-Not-CarPlay.html" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wny" />
@@ -1992,45 +2029,6 @@ in notifications on the Lock Screen.</p>
 
 <div>
 <a  title="Permanent link to ‘Electron Apps Causing System-Wide Lag on MacOS 26 Tahoe’"  href="https://daringfireball.net/linked/2025/10/20/electron-apps-slow-down-tahoe">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Eavesdropping on Internal Networks via Unencrypted Satellites</title>
-	<link rel="alternate" type="text/html" href="https://satcom.sysnet.ucsd.edu/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wmq" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/20/unencrypted-satellite-data" />
-	<id>tag:daringfireball.net,2025:/linked//6.42290</id>
-	<published>2025-10-20T22:20:45Z</published>
-	<updated>2025-10-21T15:56:01Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>SATCOM Security — a team of researchers from UC San Diego and the University of Maryland:</p>
-
-<blockquote>
-  <p>We pointed a commercial-off-the-shelf satellite dish at the sky
-and carried out the most comprehensive public study to date of
-geostationary satellite communication. A shockingly large amount
-of sensitive traffic is being broadcast unencrypted, including
-critical infrastructure, internal corporate and government
-communications, private citizens’ voice calls and SMS, and
-consumer Internet traffic from in-flight Wi-Fi and mobile
-networks. This data can be passively observed by anyone with a few
-hundred dollars of consumer-grade hardware. There are thousands of
-geostationary satellite transponders globally, and data from a
-single transponder may be visible from an area as large as 40% of
-the surface of the earth.</p>
-</blockquote>
-
-<p>The researchers don’t mention RCS by name, only SMS, but this is a perfect example of why I thought <a href="https://daringfireball.net/linked/2023/11/16/apple-rcs">Apple’s original stance on RCS</a> was correct, and their <a href="https://daringfireball.net/2024/02/eu_rcs_imessage">change of heart to support it last year</a> was unfortunate. No new protocol for messaging should be adopted unless the protocol exclusively works using end-to-end encryption.</p>
-
-<p>Via Wired: “<a href="https://www.wired.com/story/satellites-are-leaking-the-worlds-secrets-calls-texts-military-and-corporate-data/">Satellites Are Leaking the World’s Secrets: Calls, Texts, Military and Corporate Data</a>” (<a href="https://apple.news/AqDWke2M2TZ-a9CDq1crbrA">News+ link</a>).</p>
-
-<div>
-<a  title="Permanent link to ‘Eavesdropping on Internal Networks via Unencrypted Satellites’"  href="https://daringfireball.net/linked/2025/10/20/unencrypted-satellite-data">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
