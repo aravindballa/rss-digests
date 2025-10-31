@@ -7,14 +7,65 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-10-30T23:43:25Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-10-30T23:51:51Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Jason Snell on Apple’s Quarterly Results</title>
+	<link rel="alternate" type="text/html" href="https://sixcolors.com/post/2025/10/apple-results-holiday-dunks-and-questions-dodged/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wo1" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/30/snell-apple-quarter" />
+	<id>tag:daringfireball.net,2025:/linked//6.42337</id>
+	<published>2025-10-30T23:48:00Z</published>
+	<updated>2025-10-30T23:49:35Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jason Snell, writing at Six Colors:</p>
+
+<blockquote>
+  <p>In the post-results call with financial analysts, Wamsi Mohan of
+Bank of America asked Cook for a little more detail about Apple’s
+search revenue, given its lucrative deal with Google, and whether
+that revenue growth might decelerate if Google’s search traffic
+were to be impacted by the growth of AI. Cook’s response was, if I
+do say so myself, an all-timer for these calls:</p>
+
+<blockquote>
+  <p><strong>Cook:</strong> This is Tim. The advertising category, which is a
+combination of third-party and first-party, did set a record
+during the quarter.</p>
+
+<p><strong>Mohan:</strong> Okay, and sorry, just to be clear, both Apple’s own
+internal advertising and within the licensing individually set
+records?</p>
+
+<p><strong>Cook:</strong> I actually I’m not saying that. I’m just saying that
+the combination of the two set a record. We don’t divulge — I’m
+dodging the question intentionally because we don’t split it at
+that level.</p>
+</blockquote>
+
+<p>Look, these calls are almost entirely Apple execs dodging the
+questions of fiscal analysts. At least Tim Cook admitted it this
+time. <em>You want to know how much Google is paying us and if that’s
+growing or shrinking? Well, I’m not gonna tell you!</em></p>
+</blockquote>
+
+<p>If Apple’s quarterly analyst calls were a podcast, “Dodging the Question Intentionally” would be a great episode title for this one.</p>
+
+<div>
+<a  title="Permanent link to ‘Jason Snell on Apple’s Quarterly Results’"  href="https://daringfireball.net/linked/2025/10/30/snell-apple-quarter">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Microsoft Earnings Suggest OpenAI Lost $11.5 Billion Last Quarter</title>
 	<link rel="alternate" type="text/html" href="https://www.theregister.com/2025/10/29/microsoft_earnings_q1_26_openai_loss/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wo0" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/30/openai-quarterly-loss" />
 	<id>tag:daringfireball.net,2025:/linked//6.42336</id>
 	<published>2025-10-30T23:43:25Z</published>
-	<updated>2025-10-30T23:43:25Z</updated>
+	<updated>2025-10-30T23:51:51Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -39,7 +90,7 @@ year, but a sum that won’t hurt Big Daddy Redmond too much given
 it earned $27.7 billion in net income in the last quarter alone.</p>
 </blockquote>
 
-<p>A pre-IPO startup is a different animal from an established publicly-held corporation, but an $11.5 billion quarterly loss is quite different from the $20–30 billion quarterly profits <a href="https://daringfireball.net/linked/2025/10/30/apple-q4-results">booked by the big six</a>.</p>
+<p>A pre-IPO startup is a different animal from an established publicly-held corporation, but an $11.5 billion quarterly loss is quite different from the $20–30-ish billion quarterly profits <a href="https://daringfireball.net/linked/2025/10/30/apple-q4-results">booked by the big six</a>.</p>
 
 <div>
 <a  title="Permanent link to ‘Microsoft Earnings Suggest OpenAI Lost $11.5 Billion Last Quarter’"  href="https://daringfireball.net/linked/2025/10/30/openai-quarterly-loss">&nbsp;★&nbsp;</a>
@@ -1991,49 +2042,6 @@ existential questions posed by artificial intelligence.</p>
 
 <div>
 <a  title="Permanent link to ‘‘Apocryphal Inventions’’"  href="https://daringfireball.net/linked/2025/10/21/hoefler-apocryphal-inventions">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>iOS 26.1 Beta 4 Adds New Toggle for Liquid Glass: Clear or Tinted</title>
-	<link rel="alternate" type="text/html" href="https://9to5mac.com/2025/10/20/ios-26-1-beta-4-adds-new-setting-to-tone-down-liquid-glass-transparency/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wmt" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/21/ios-26-1-beta-4-liquid-glass-tinted-option" />
-	<id>tag:daringfireball.net,2025:/linked//6.42293</id>
-	<published>2025-10-21T16:35:37Z</published>
-	<updated>2025-10-21T16:35:37Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Chance Miller, 9to5Mac:</p>
-
-<blockquote>
-  <p>Not a fan of that design? Well, iOS 26.1 beta 4 is <a href="https://9to5mac.com/2025/10/20/ios-26-1-beta-4-adds-new-setting-to-tone-down-liquid-glass-transparency/">now
-available</a>, and it introduces a new option to choose a more opaque
-look for Liquid Glass. The same option is also available on Mac
-and iPad.</p>
-
-<p>You can find the new option on iPhone and iPad by going to the
-Settings app and navigating to the Display &amp; Brightness menu. On
-the Mac, it’s available in the “Appearance” menu in System
-Settings. Here, you’ll see a new Liquid Glass menu with “Clear”
-and “Tinted” options. [...]</p>
-
-<p>It’s a binary option, so there’s no toggle or slider of any sort.
-You have a choice between Liquid Glass as we’ve known it since iOS
-26 was released, or a new tinted option that increases opacity and
-adds more contrast. When enabled, the design applies to Liquid
-Glass in Apple’s apps and elsewhere on the Mac, iPad, and iPhone.
-For the iPhone and iPad specifically, it also increases opaqueness
-in notifications on the Lock Screen.</p>
-</blockquote>
-
-<p>This new toggle isn’t squirreled away in the Accessibility section of Settings. On iOS, it’s in Settings → Display &amp; Brightness, and on MacOS it’s in System Settings → Appearance. I’m trying it out on iPhone, but for the most part, I really haven’t minded the Clear appearance. Clear feels more fun. But I’m glad Apple added this setting.</p>
-
-<div>
-<a  title="Permanent link to ‘iOS 26.1 Beta 4 Adds New Toggle for Liquid Glass: Clear or Tinted’"  href="https://daringfireball.net/linked/2025/10/21/ios-26-1-beta-4-liquid-glass-tinted-option">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
