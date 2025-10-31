@@ -7,14 +7,53 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-10-31T21:12:20Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-10-31T21:40:17Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Tim Bray on Grokipedia</title>
+	<link rel="alternate" type="text/html" href="https://www.tbray.org/ongoing/When/202x/2025/10/28/Grokipedia" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/woa" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/31/bray-grokipedia" />
+	<id>tag:daringfireball.net,2025:/linked//6.42346</id>
+	<published>2025-10-31T21:40:16Z</published>
+	<updated>2025-10-31T21:40:17Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Tim Bray:</p>
+
+<blockquote>
+  <p>Last night I had a very strange experience: About two thirds of
+the way through reading a Web page about myself, Tim Bray, I
+succumbed to boredom and killed the tab. Thus my introduction to
+<a href="https://en.wikipedia.org/wiki/Grokipedia">Grokipedia</a>. Here are early impressions.</p>
+
+<p>My Grokipedia entry has over seven thousand words, compared to a
+mere 1,300 in <a href="https://en.wikipedia.org/wiki/Tim_Bray">my Wikipedia article</a>. It’s pretty clear how
+it was generated; an LLM, trained on who-knows-what but
+definitely including that Wikipedia article and this blog, was
+told to go nuts.</p>
+</blockquote>
+
+<p>Putting aside the political slant of Grokipedia, a 1,300-word article being better than <a href="https://grokipedia.com/page/Tim_Bray">a 7,000-word one</a> exemplifies the current shortcomings of LLMs as creative engines (as opposed to serving as mere tools in the arsenal of human creators).</p>
+
+<p>The French philosopher and mathematician <a href="https://quoteinvestigator.com/2012/04/28/shorter-letter/">Blaise Pascal famously quipped</a>: “I would have written a shorter letter, but I did not have the time.” No encyclopedia in history has been written with less time or effort than Musk’s LLM-generated vanity project. Verbosity is not the worst of Grokipedia’s deficiencies, but it’s one of them. The more its entries stray from simply regurgitating the equivalent entry in Wikipedia, the more they suffer from verbal diarrhea.</p>
+
+<p>(<a href="https://grokipedia.com/page/John_Gruber">My own Grokipedia entry</a> is just a clone of <a href="https://en.wikipedia.org/wiki/John_Gruber">my Wikipedia entry</a>, with a few mistakes added, including one in the first sentence regarding the creation of Markdown.)</p>
+
+<div>
+<a  title="Permanent link to ‘Tim Bray on Grokipedia’"  href="https://daringfireball.net/linked/2025/10/31/bray-grokipedia">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘Grokipedia Is the Antithesis of Everything That Makes Wikipedia Good, Useful, and Human’</title>
 	<link rel="alternate" type="text/html" href="https://www.404media.co/grokipedia-is-the-antithesis-of-everything-that-makes-wikipedia-good-useful-and-human/?ref=platformer.news" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wo9" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/31/koebler-grokipedia" />
 	<id>tag:daringfireball.net,2025:/linked//6.42345</id>
 	<published>2025-10-31T21:11:31Z</published>
-	<updated>2025-10-31T21:12:20Z</updated>
+	<updated>2025-10-31T21:31:02Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -46,7 +85,7 @@ obsession with the website</a>, as well as the fact that he
 owns a huge social media platform.</p>
 </blockquote>
 
-<p>In season 10 of <em><a href="https://www.hbomax.com/shows/curb-your-enthusiasm/18a0993f-209a-4653-8f94-f3fb8422e678">Curb Your Enthusiasm</a></em>, Larry David gets into an argument with Mocha Joe, the owner of an eponymous coffee shop. David leases the space next door and opens Latte Larry’s, a copycat “<a href="https://www.youtube.com/watch?v=FVQp9vSytOE">spite store</a>” cafe. Grokipedia reminds me of this, except that Larry David is genuinely funny  self-aware.</p>
+<p>In season 10 of <em><a href="https://www.hbomax.com/shows/curb-your-enthusiasm/18a0993f-209a-4653-8f94-f3fb8422e678">Curb Your Enthusiasm</a></em>, Larry David gets into an argument with Mocha Joe, the owner of an eponymous coffee shop. David leases the space next door and opens Latte Larry’s, a copycat “<a href="https://www.youtube.com/watch?v=FVQp9vSytOE">spite store</a>” cafe. Grokipedia reminds me of this, except that Larry David is genuinely funny and (in real life, as opposed to his <em>Curb</em> alter ego) at least somewhat self-aware.</p>
 
 <div>
 <a  title="Permanent link to ‘‘Grokipedia Is the Antithesis of Everything That Makes Wikipedia Good, Useful, and Human’’"  href="https://daringfireball.net/linked/2025/10/31/koebler-grokipedia">&nbsp;★&nbsp;</a>
@@ -1815,61 +1854,6 @@ prepare for that new world.</p>
 
 <div>
 <a  title="Permanent link to ‘Signal Moves Ahead on Post-Quantum Computing, But Still Sucks Ass When You Switch Phones’"  href="https://daringfireball.net/linked/2025/10/22/signal-quantum">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple Pulls Dating Apps Tea and TeaOnHer From the App Store</title>
-	<link rel="alternate" type="text/html" href="https://techcrunch.com/2025/10/22/apple-confirms-it-pulled-controversial-dating-apps-tea-and-teaonher-from-the-app-store/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wn3" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/22/apple-pulls-tea-and-teaonher" />
-	<id>tag:daringfireball.net,2025:/linked//6.42303</id>
-	<published>2025-10-22T23:02:21Z</published>
-	<updated>2025-10-22T23:02:21Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Sarah Perez, TechCrunch:</p>
-
-<blockquote>
-  <p>Reached for comment, Apple confirmed the apps’ removal, saying it
-removed Tea Dating Advice and TeaOnHer from the App Store because
-they failed to meet Apple’s requirements around content moderation
-and user privacy. The company also said it saw an excessive number
-of user complaints and negative reviews, which included complaints
-of minors’ personal information being posted in these apps. Apple
-communicated the issues to the developers of the apps, a
-representative said, but the complaints were not addressed.
-(Request for comment from the app developers has not yet been
-returned.)</p>
-
-<p>Specifically, Apple cited violations of its App Review Guidelines
-1.2, 5.1.2, and 5.6. <a href="https://url.usb.m.mimecastprotect.com/s/_e1_Cyp4m4hLQEx2TZf6uxDIKv?domain=developer.apple.com">Rule 1.2</a> says apps with user-generated
-content should offer reporting and blocking features and should
-remove objectionable content. <a href="https://url.usb.m.mimecastprotect.com/s/wr0PCzq8n8H4yv5wCXhAu9PQzu?domain=developer.apple.com">Rule 5.1.2</a> says apps can’t use or
-share someone’s personal information without permission, and 
-<a href="https://url.usb.m.mimecastprotect.com/s/0EvSCA8LmLhEPMklt9i1uGY7-o?domain=developer.apple.com">Rule 5.6</a> says excessive customer reports and negative reviews
-violate Apple’s Developer Code of Conduct. [...]</p>
-
-<p>After going viral and generating controversy, <a href="https://techcrunch.com/2025/07/26/dating-safety-app-tea-breached-exposing-72000-user-images/">Tea suffered a data
-breach over the summer</a>, with hackers gaining access to
-72,000 images, including 3,000 selfies and photo IDs submitted for
-account verification, as well as 59,000 images from posts,
-comments, and direct messages.</p>
-
-<p>Later, a rival app called TeaOnHer launched to offer men the
-ability to dish on women in the same way, but it was beset by
-security issues that <a href="https://techcrunch.com/2025/08/06/a-rival-tea-app-for-men-is-leaking-its-users-personal-data-and-drivers-licenses/">exposed users’ personal information</a>,
-including government IDs and selfies, TechCrunch
-<a href="https://techcrunch.com/2025/08/13/how-we-found-teaonher-spilling-users-drivers-licenses-in-less-than-10-minutes/">discovered</a> in August.</p>
-</blockquote>
-
-<p>Seems odd to me that Apple only pulled Tea from the App Store now, three months after multiple disastrous security breaches revealed their amateur hour approach to security. See previous coverage here at DF: <a href="https://daringfireball.net/linked/2025/07/26/4chan-tea-breach">July 26</a>, <a href="https://daringfireball.net/linked/2025/07/28/tea-breach-worsens">July 28</a>, and <a href="https://daringfireball.net/2025/07/tea_number_3_app_store">July 30</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Pulls Dating Apps Tea and TeaOnHer From the App Store’"  href="https://daringfireball.net/linked/2025/10/22/apple-pulls-tea-and-teaonher">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
