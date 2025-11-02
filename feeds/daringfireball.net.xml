@@ -7,7 +7,45 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-11-02T15:03:13Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-11-02T15:18:02Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Dodgers Win 2025 World Series, Defeating Blue Jays in Thrilling Game 7</title>
+	<link rel="alternate" type="text/html" href="https://www.mlb.com/news/dodgers-win-2025-world-series" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wof" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/02/dodgers-win-world-series" />
+	<id>tag:daringfireball.net,2025:/linked//6.42351</id>
+	<published>2025-11-02T15:17:38Z</published>
+	<updated>2025-11-02T15:18:02Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Anthony Castrovince, writing for MLB (<a href="https://apple.news/ANrQgRevNTD6n4rwIO8yVSw">News+ link</a>):</p>
+
+<blockquote>
+  <p>Behind a stunning, game-tying swat from Miguel Rojas in the top of
+the ninth, a first-of-its-kind, go-ahead blast from Will Smith in
+the top of the 11th and the absurd extra work World Series MVP
+Yoshinobu Yamamoto provided on zero days’ rest, the Dodgers broke
+Toronto hearts with their comeback 5-4 victory in a game that
+merited its own month on the MLB calendar.</p>
+
+<p>The Dodgers are MLB’s first repeat champs since the 1998-2000
+Yankees, and the four-hour, seven-minute, extra-innings affair it
+took to decide that was a fitting end to a true Fall Classic in
+which these two clubs exhausted each other — not just in the
+18-inning epic at Dodger Stadium in Game 3 but throughout a Series
+in which they both had to empty the tank.</p>
+</blockquote>
+
+<p>When a series goes to game 7, every fan hopes it’s a good game. But this was a <em>great</em> game — as good as baseball gets. Great pitching, clutch hitting, and some amazing fielding plays. Simply riveting to watch. The Blue Jays came within an inch or two of winning the Series <a href="https://x.com/bdubsports_/status/1984828236715675702">on this play</a> in the bottom of the 9th (and I think they would’ve won on that play if Kiner-Falefa had run through home plate rather than inexplicably sliding).</p>
+
+<div>
+<a  title="Permanent link to ‘Dodgers Win 2025 World Series, Defeating Blue Jays in Thrilling Game 7’"  href="https://daringfireball.net/linked/2025/11/02/dodgers-win-world-series">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Jaho Coffee Roaster</title>
 	<link rel="alternate" type="text/html" href="https://www.jaho.com/s/df" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/woc" />
@@ -1756,89 +1794,6 @@ deal that the judge overseeing the DOJ case could also nix.</p>
 
 <div>
 <a  title="Permanent link to ‘SerpApi’s Public Customer List’"  href="https://daringfireball.net/linked/2025/10/23/serpapi-customer-list">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Reddit Files Lawsuit Accusing ‘Data Scraper’ Companies of Stealing Its Information</title>
-	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2025/10/22/technology/reddit-data-scrapers-perplexity-theft.html?unlocked_article_code=1.vk8.W49v.NYfYXfBwO0Ry&amp;smid=url-share" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wn8" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/23/reddit-files-lawsuit-against-serpapi" />
-	<id>tag:daringfireball.net,2025:/linked//6.42308</id>
-	<published>2025-10-23T23:19:32Z</published>
-	<updated>2025-10-23T23:20:48Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Mike Isaac, reporting for The New York Times:</p>
-
-<blockquote>
-  <p>Eight years ago, SerpApi, a start-up in Austin, Texas, dived
-headlong into the byzantine world of using robots to “scrape”
-Google’s search algorithms, so it could collect information to
-help customers appear higher in search results.</p>
-
-<p>Then OpenAI’s ChatGPT came along, kicking off an artificial
-intelligence revolution. As more tech companies began building
-A.I. chatbots to keep up, they needed large amounts of data to
-train their A.I. models — data that SerpApi had already gathered.</p>
-
-<p>Practically overnight, a class of companies like SerpApi — known
-as “data scrapers” — found a new business selling data scraped
-from Google to companies looking to train their A.I. chatbots.</p>
-
-<p>On Wednesday, the internet message board Reddit decided to fight
-the data scrapers. It filed a lawsuit in the U.S. District Court
-for the Southern District of New York claiming that four companies
-had illegally stolen its data by scraping Google search results in
-which Reddit content appeared.</p>
-</blockquote>
-
-<p>I’d never heard of — or at least never noticed — SerpApi until a few weeks ago, when a good friend asked me if I’d ever looked into them. The entire premise of their business is crazy. SerpApi prints the crime right on the tin, describing their service as a “Google Search API” and “Scrape Google and other search engines from our fast, easy, and complete API.” What makes this so crazy is that <em>Google doesn’t offer a search API.</em> SerpApi is offering the Google search API that Google itself doesn’t offer, and charging companies money for it. Everyone, upon hearing the premise and nature of SerpApi, asks the same question: <em>How is this legal?</em> The answer is, it probably isn’t. But <a href="https://serpapi.com/">right on SerpApi’s home page</a> they claim to offer customers a “U.S. Legal Shield”:</p>
-
-<blockquote>
-  <p>The crawling and parsing of public data is protected by the First
-Amendment of the United States Constitution. We value freedom of
-speech tremendously. We assume scraping and parsing liabilities
-for both domestic and foreign companies unless your usage is
-otherwise illegal. (Including but are not limited to: acts of
-cyber criminality, terrorism, pedopornography, denial of service
-attacks, and war crimes.)</p>
-</blockquote>
-
-<p>My only surprise here is that it’s Reddit taking SerpApi (along with two similar companies, one from Lithuania and the other from Russia — the former Soviet states respect intellectual property about as much as China does) to court, not Google. Why Google hasn’t sued them yet, I don’t understand. Anyway, back to Isaac’s report for the Times:</p>
-
-<blockquote>
-  <p>Perplexity was one of those buyers, according to Reddit’s lawsuit.
-Perplexity had scraped Reddit data in the past without payment but
-agreed to stop after Reddit sent it a cease-and-desist order. Even
-so, citations to Reddit data in Perplexity search results jumped
-“fortyfold,” the lawsuit said. Reddit has spent tens of millions
-of dollars on anti-scraping systems over several years.</p>
-
-<p>“Perplexity’s business model is effectively to take Reddit’s
-content from Google search results,” then feed it into an A.I.
-model and “call it a new product,” the lawsuit said.</p>
-
-<p>Reddit said it had set a trap for Perplexity by creating a “test
-post” on its site that could “only be crawled by Google’s search
-engine and was not otherwise accessible anywhere on the internet.”
-Within hours, Perplexity search results had surfaced the content
-of that test post, the lawsuit said.</p>
-
-<p>Google, which is not a plaintiff in Reddit’s lawsuit, has tried
-and failed to stop SerpApi and other data scrapers, according to
-the lawsuit and <a href="https://www.theinformation.com/articles/openai-challenging-google-using-search-data?rc=fiplau">previous reporting from The Information</a>.</p>
-</blockquote>
-
-<p>The people leading Perplexity aren’t just shifty — they’re stupid. That whole company <a href="https://daringfireball.net/linked/2024/06/19/perplexity-bullshit-machine">just</a> <a href="https://daringfireball.net/linked/2025/08/12/perplexity-jumps-shark-stunt-offer-to-buy-chrome">reeks</a> of <a href="https://daringfireball.net/linked/2025/08/05/regarding-those-rumors-of-apple-pursuing-an-acquisition-of-perplexity">being a scam</a>.</p>
-
-<p><strong>See also:</strong> <a href="https://redditinc.com/hubfs/Reddit%20Inc/Content/Reddit%20v.%20SerpApi.pdf">Reddit’s PDF of their lawsuit, <em>Reddit v. SerpApi</em></a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Reddit Files Lawsuit Accusing ‘Data Scraper’ Companies of Stealing Its Information’"  href="https://daringfireball.net/linked/2025/10/23/reddit-files-lawsuit-against-serpapi">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
