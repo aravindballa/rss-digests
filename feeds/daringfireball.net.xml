@@ -7,7 +7,63 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-11-02T15:18:02Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-11-03T17:02:24Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Gurman Suggests That Next-Gen Siri Will Be Powered by a White-Label Version of Google Gemini Running on Apple’s Private Cloud Compute</title>
+	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/newsletters/2025-11-02/apple-s-nearly-140-billion-quarter-when-ios-26-1-will-be-out-ipad-mini-revamp-mhhpy1ax" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wog" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/03/gurman-siri-gemini" />
+	<id>tag:daringfireball.net,2025:/linked//6.42352</id>
+	<published>2025-11-03T17:02:24Z</published>
+	<updated>2025-11-03T17:02:24Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Mark Gurman, in his weekly Power On column for Bloomberg (paywalled, alas):</p>
+
+<blockquote>
+  <p>Even with the rosy sales forecast, the road ahead won’t be easy.
+Apple is betting heavily on the new Siri, which will lean on
+Google’s Gemini model and introduce features like AI-powered web
+search. But there’s no guarantee users will embrace it, that it
+will work seamlessly or that it can undo years of damage to the
+Siri brand.</p>
+</blockquote>
+
+<p>And then, down below in his “Post Game Q&amp;A”:</p>
+
+<blockquote>
+  <p>Q: <em>Is Apple still planning to use Google Gemini to power the new
+   Siri?</em></p>
+
+<p>A: As I’ve <a href="https://www.bloomberg.com/news/articles/2025-08-22/apple-explores-using-google-gemini-ai-to-power-revamped-siri">reported a few times now</a>, Apple is paying
+   Google to create a custom Gemini-based model that can run on
+   its private cloud servers and help power Siri. Apple held a
+   bake-off this year between Anthropic and Google, ultimately
+   determining that the former offered a better model but that
+   Google made more sense financially (partly due to the tech
+   giants’ preexisting search relationship). I don’t expect either
+   company to ever discuss this partnership publicly, and you
+   shouldn’t expect this to mean Siri will be flooded with Google
+   services or Gemini features already found on Android devices.
+   It just means Siri will be powered by a model that can actually
+   provide the AI features that users expect — all with an Apple
+   user interface.</p>
+</blockquote>
+
+<p>This is quite the aside to tuck into a one-paragraph Q&amp;A item. First, I love the idea that Apple is pursuing technical excellence as a top priority for the next-gen LLM-powered Siri. If Apple winds up using its own models, it should be because those models are truly competitive with the best models on the market. And if they can work out a deal to use models from Google because those models are technically superior to Apple’s own, they should.</p>
+
+<p>It’s kind of wild though to think that, if this comes to pass, that neither company will publicly acknowledge the arrangement. I believe it’s possible — but it would be odd. Right now Apple has a public partner for Apple Intelligence: <a href="https://support.apple.com/guide/iphone/use-chatgpt-with-apple-intelligence-iph00fd3c8c2/ios">optional integration with ChatGPT</a>. Apple labels that integration as an “extension”, and has repeatedly stated — <a href="https://daringfireball.net/linked/2025/10/31/cook-siri-cnbc">including as recently as last week</a> — that they’re looking at other partners to add. The most obvious partner Apple could add — one that <a href="https://techcrunch.com/2024/06/10/apple-confirms-plans-to-work-with-googles-gemini-in-the-future/">Craig Federighi mentioned by name</a> on the day that Apple Intelligence was announced at WWDC 2024 — would be Google Gemini.</p>
+
+<p>If what Gurman is reporting comes to pass, and Apple’s own cloud-based LLM technology is a white-label version of Google Gemini, it’d be pretty weird if that ships and Google Gemini still is not a named extension partner for Apple Intelligence. But it would also be a little weird if Google Gemini <em>does</em> become a named partner for Apple Intelligence alongside ChatGPT, while Apple’s own default cloud-based Apple Intelligence is <em>also</em> powered by Gemini’s models.</p>
+
+<div>
+<a  title="Permanent link to ‘Gurman Suggests That Next-Gen Siri Will Be Powered by a White-Label Version of Google Gemini Running on Apple’s Private Cloud Compute’"  href="https://daringfireball.net/linked/2025/11/03/gurman-siri-gemini">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Dodgers Win 2025 World Series, Defeating Blue Jays in Thrilling Game 7</title>
 	<link rel="alternate" type="text/html" href="https://www.mlb.com/news/dodgers-win-2025-world-series" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wof" />
@@ -1745,55 +1801,6 @@ to access ChatGPT.</p>
 
 <div>
 <a  title="Permanent link to ‘Meta Announces Ban on Rival AI Chatbots From WhatsApp’"  href="https://daringfireball.net/linked/2025/10/24/meta-whatsapp-rival-chatbot-ban">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>SerpApi’s Public Customer List</title>
-	<link rel="alternate" type="text/html" href="https://serpapi.com/use-cases" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wn9" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/23/serpapi-customer-list" />
-	<id>tag:daringfireball.net,2025:/linked//6.42309</id>
-	<published>2025-10-23T23:30:18Z</published>
-	<updated>2025-10-23T23:40:31Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>At the bottom of their “Use Cases” page, SerpApi lists the following companies and organizations as customers (“They trust us. You are in good company. Join them.”):</p>
-
-<ul>
-<li>Airbnb</li>
-<li>Nvidia</li>
-<li>Meta</li>
-<li>Shopify</li>
-<li>Perplexity</li>
-<li>KPMG</li>
-<li>Ahrefs</li>
-<li>Grubhub</li>
-<li>Samsung</li>
-<li>AI21labs</li>
-<li>United Nations (!)</li>
-<li>Thomson Reuters</li>
-<li>BrightLocal</li>
-<li>Experian</li>
-</ul>
-
-<p>From an August 21, 2025 <a href="https://www.theinformation.com/articles/openai-challenging-google-using-search-data">report in The Information</a> (paywalled up the wazoo, alas), however:</p>
-
-<blockquote>
-  <p>OpenAI also isn’t the only Google rival to use SerpApi data.
-SerpApi’s website previously listed Apple as a customer. In
-addition to partnering with Google on search, the iPhone maker
-develops technology to power searches in Safari — a lucrative
-deal that the judge overseeing the DOJ case could also nix.</p>
-</blockquote>
-
-<p>Was Apple removed from the list because they’re no longer (or never were?) a customer, or because they remain a customer but don’t want to be listed?</p>
-
-<div>
-<a  title="Permanent link to ‘SerpApi’s Public Customer List’"  href="https://daringfireball.net/linked/2025/10/23/serpapi-customer-list">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
