@@ -7,7 +7,52 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-11-05T16:59:40Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-11-05T17:34:30Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>WhatsApp for Apple Watch</title>
+	<link rel="alternate" type="text/html" href="https://blog.whatsapp.com/introducing-whatsapp-for-apple-watch?lang=en" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/won" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/05/whatsapp-apple-watch" />
+	<id>tag:daringfireball.net,2025:/linked//6.42359</id>
+	<published>2025-11-05T17:34:29Z</published>
+	<updated>2025-11-05T17:34:30Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>WhatsApp:</p>
+
+<blockquote>
+  <p>In addition to reading and responding to messages, for the first
+time WhatsApp on Apple Watch will now support many requested
+features:</p>
+
+<ul>
+<li><em>Call notifications:</em> You can see who’s calling without needing
+to look at your iPhone.</li>
+<li><em>Full messages:</em> You can read full WhatsApp messages on Apple
+Watch — even long messages are visible directly from your
+wrist.</li>
+<li><em>Voice messages:</em> You can now record and send voice messages.</li>
+<li><em>React to messages:</em> We’ve added the ability to send quick emoji
+reactions to messages you receive.</li>
+<li><em>A great media experience:</em> You’ll see clear images and stickers
+on your Apple Watch.</li>
+<li><em>Chat history:</em> You can see more of your chat history on screen
+when reading messages.</li>
+</ul>
+</blockquote>
+
+<p>All of these features have long been available on the Apple Watch apps for Apple’s Messages and Phone apps. But it’s an interesting sign that Meta sees Apple Watch as important platform for these features.</p>
+
+<p>I know there are many people who spend time wearing their Apple Watch while away from their iPhone — often while working out — who want or even feel they <em>need</em> these features. For me though, one of things I like least about wearing an Apple Watch is getting badgered on my wrist with notifications. I feel not so much like I need less <em>screen</em> time, but rather that I need less <em>notifications</em> time. I feel good when I have time where I’m unreachable by texts, calls, and news alerts. I spent my <a href="https://daringfireball.net/2025/09/personal_note">recent month-plus semi-hiatus</a> wearing only a mechanical watch, and I didn’t miss the lack of notifications-on-my-wrist <em>at all</em>.</p>
+
+<div>
+<a  title="Permanent link to ‘WhatsApp for Apple Watch’"  href="https://daringfireball.net/linked/2025/11/05/whatsapp-apple-watch">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple Podcasts Is Adding AI-Generated Chapters for Podcasts Without Chapters</title>
 	<link rel="alternate" type="text/html" href="https://podcasters.apple.com/support/5545-enhance-episodes-with-chapters-links-more" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wom" />
@@ -1795,58 +1840,6 @@ providing high-quality software for everyone who wants it — without a big 
 
 <div>
 <a  title="Permanent link to ‘The Talk Show: ‘You and Frank Sinatra’’"  href="https://daringfireball.net/linked/2025/10/26/the-talk-show-432">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>The Sad State of Macintosh Hardware Back in 2018, at the Tail End of the Intel Era</title>
-	<link rel="alternate" type="text/html" href="https://weblog.rogueamoeba.com/2018/06/14/on-the-sad-state-of-macintosh-hardware/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wnf" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/26/sad-state-mac-hardware-2018" />
-	<id>tag:daringfireball.net,2025:/linked//6.42315</id>
-	<published>2025-10-26T18:15:20Z</published>
-	<updated>2025-10-26T18:27:39Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Worth a <a href="https://daringfireball.net/linked/2025/10/25/boring-is-what-we-wanted">re-link</a>, following up on <a href="https://daringfireball.net/linked/2018/06/14/sad-state-of-mac-hardware">my post yesterday</a> linking to Stephen Hackett’s “<a href="https://512pixels.net/2025/10/boring-is-what-we-wanted/">Boring Is What We Wanted</a>”, here’s Rogue Amoeba co-founder Quentin Carnicelli, writing back in 2018:</p>
-
-<blockquote>
-  <p>At the time of the writing, with the exception of the $5,000 iMac
-Pro, no Macintosh has been updated at all in the past year. Here
-are the last updates to the entire line of Macs:</p>
-
-<ul>
-<li>iMac Pro: 182 days ago</li>
-<li>iMac: 374 days ago</li>
-<li>MacBook: 374 days ago</li>
-<li>MacBook Air: 374 days ago</li>
-<li>MacBook Pro: 374 days ago</li>
-<li>Mac Pro: 436 days ago</li>
-<li>Mac Mini: 1,337 days ago</li>
-</ul>
-
-<p>Worse, most of these counts are misleading, with many machines not
-seeing a true update in quite a bit longer. While the Mac Mini
-hasn’t seen an update of any kind in almost 4 years (nor, for that
-matter, a price drop), even that 2014 update was lackluster. [...]</p>
-
-<p>Rather than attempting to wow the world with “innovative” new
-designs like the failed Mac Pro, Apple could and should simply
-provide updates and speed bumps to the entire lineup on a much
-more frequent basis. The much smaller Apple of the mid-2000s
-managed this with ease. Their current failure to keep the Mac
-lineup fresh, even as they approach a trillion dollar market cap,
-is both baffling and frightening to anyone who depends on the
-platform for their livelihood.</p>
-</blockquote>
-
-<p>Five years into the Apple Silicon era, and Apple is doing exactly that. The situation has completely reversed. Apple Silicon has been an utter triumph for the Mac platform.</p>
-
-<div>
-<a  title="Permanent link to ‘The Sad State of Macintosh Hardware Back in 2018, at the Tail End of the Intel Era’"  href="https://daringfireball.net/linked/2025/10/26/sad-state-mac-hardware-2018">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
