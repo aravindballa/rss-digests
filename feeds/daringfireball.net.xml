@@ -7,20 +7,109 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-11-05T16:02:31Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-11-05T16:30:51Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Apple Podcasts Is Adding AI-Generated Chapters for Podcasts Without Chapters</title>
+	<link rel="alternate" type="text/html" href="https://podcasters.apple.com/support/5545-enhance-episodes-with-chapters-links-more" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wom" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/05/apple-podcasts-auto-chapters" />
+	<id>tag:daringfireball.net,2025:/linked//6.42358</id>
+	<published>2025-11-05T16:27:31Z</published>
+	<updated>2025-11-05T16:30:51Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>News from Apple’s Podcasts for Creators site, regarding new features in the iOS 26.2 beta releases:</p>
+
+<blockquote>
+  <p>When you supply chapters in your episode description or in your
+RSS feed, they display in Apple Podcasts. If you submit chapters
+through your hosting provider, you can include images. For shows
+in English, when chapters aren’t provided, Apple Podcasts
+generates them for you and an “Automatically created“ label
+appears in the chapter list. If you prefer not to use
+automatically created chapters, you can disable this feature in
+Apple Podcasts Connect. <a href="https://podcasters.apple.com/support/5482-using-chapters-on-apple-podcasts">Learn more about chapters</a>.</p>
+</blockquote>
+
+<p>It’s unclear to me whether this feature is actually exclusive to iOS/iPhone, or will be available across Apple’s 26.2 OS releases. This strikes me as a great use of AI, but I also think most multi-topic podcasts should include human-created chapters.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Podcasts Is Adding AI-Generated Chapters for Podcasts Without Chapters’"  href="https://daringfireball.net/linked/2025/11/05/apple-podcasts-auto-chapters">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Epic and Google Agree to Settle Their Play Store Lawsuit, Pending Approval From Judge</title>
+	<link rel="alternate" type="text/html" href="https://www.theverge.com/policy/813991/epic-google-proposed-settlement" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wol" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/05/epic-google-agreement" />
+	<id>tag:daringfireball.net,2025:/linked//6.42357</id>
+	<published>2025-11-05T16:13:03Z</published>
+	<updated>2025-11-05T16:13:04Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Sean Hollister, reporting for The Verge:</p>
+
+<blockquote>
+  <p>The details of how, when, and where Google would charge its
+fees are complicated, and they seem to be somewhat tailored to
+the needs of a game developer like Epic Games. Google can
+charge 20 percent for an in-app purchase that provides “more
+than a de minimis gameplay advantage,” for example, or 9
+percent if the purchase does not. And while 9 percent sounds
+like it’s also the cap for apps and in-app subscriptions sold
+through Google Play, period, the proposal notes that that
+amount doesn’t include Google’s cut for Play Billing if you buy
+it through that payment system.</p>
+
+<p>That cut will be 5 percent, Google spokesperson Dan Jackson tells
+The Verge, confirming that “This new proposed model introduces a
+new, lower fee structure for developers in the US and separates
+the service fee from fees for using Google Play Billing.” (For
+reference, <a href="https://support.google.com/googleplay/android-developer/answer/112622?hl=en">Google currently charges</a> 15 percent for
+subscriptions, 15 percent of the first $1M of developer revenue
+each year and 30 percent after that, though it also <a href="https://www.theverge.com/2023/11/20/23969690/google-spotify-android-billing-commission-secret-deal">cuts special
+deals with some big developers</a>.)</p>
+
+<p>If you use an alternative payment system, Google might still get a
+cut: “the Google Play store is free to assess service fees on
+transactions, including when developers elect to use alternative
+billing mechanisms,” the proposal reads. But it sounds like that
+may not happen in practice: “If the user chooses to pay through an
+alternative billing system, the developer pays no billing fee to
+Google,” Jackson tells The Verge.</p>
+
+<p>According to the document, Google would theoretically even be able
+to get its cut when you click out to an app developer’s website
+and pay for the app there, as long as it happens within 24 hours.</p>
+</blockquote>
+
+<p>This seems as clear as mud, other than being music to Epic Games’s ears.</p>
+
+<div>
+<a  title="Permanent link to ‘Epic and Google Agree to Settle Their Play Store Lawsuit, Pending Approval From Judge’"  href="https://daringfireball.net/linked/2025/11/05/epic-google-agreement">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Just for Fun, Some Vintage 2014 John Dvorak Claim Chowder</title>
 	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2014/07/30/dvorak" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wok" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/05/dvorak-itime" />
 	<id>tag:daringfireball.net,2025:/linked//6.42356</id>
 	<published>2025-11-05T16:02:30Z</published>
-	<updated>2025-11-05T16:02:31Z</updated>
+	<updated>2025-11-05T16:16:04Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>John Dvorak <a href="https://www.pcmag.com/opinions/the-apple-itime-is-destined-to-fail">back in 2014</a>, two before Apple Watch was announced:</p>
+<p>John Dvorak <a href="https://www.pcmag.com/opinions/the-apple-itime-is-destined-to-fail">back in 2014</a>, two months before Apple Watch was announced:</p>
 
 <blockquote>
   <p>I got a lecture from a potential buyer, who will only purchase an
@@ -1756,81 +1845,6 @@ platform for their livelihood.</p>
 
 <div>
 <a  title="Permanent link to ‘The Sad State of Macintosh Hardware Back in 2018, at the Tail End of the Intel Era’"  href="https://daringfireball.net/linked/2025/10/26/sad-state-mac-hardware-2018">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>The Scenario Where ChatGPT’s WhatsApp Gateway Was Useful: Airplane Wi-Fi</title>
-	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2025/10/24/meta-whatsapp-rival-chatbot-ban" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wne" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/26/chatgpt-whatsapp-airplane-wifi" />
-	<id>tag:daringfireball.net,2025:/linked//6.42314</id>
-	<published>2025-10-26T17:11:43Z</published>
-	<updated>2025-10-27T17:58:34Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Yours truly on Friday, regarding the news that Meta is going to ban rival AI chatbots from WhatsApp:</p>
-
-<blockquote>
-  <p>Perhaps because I’m only a light user of WhatsApp, I had no idea
-that rival AI chatbots had accounts there. I just tried it with
-<a href="https://help.openai.com/en/articles/10193193-1-800-chatgpt-calling-and-messaging-chatgpt-with-your-phone">1-800-ChatGPT</a> and <a href="https://daringfireball.net/misc/2025/10/whatsapp-chatgpt.png">it seems pointless</a>. It’s
-noticeably slower and uses an older model than just using the
-ChatGPT app.</p>
-</blockquote>
-
-<p>A few readers have pointed to one good use case for this gateway: airplane Wi-Fi, particularly on airlines that offer “free” Wi-Fi for messaging apps like Apple Messages (iMessage) and WhatsApp. The ChatGPT app won’t work unless you pay for full Wi-Fi access on a flight, but WhatsApp does, and through January, you can interact with ChatGPT through that loophole. Clever.</p>
-
-<p><strong>Update:</strong> Similarly, these WhatsApp bot gateways are also useful in third-world countries with spotty Wi-Fi networking, but where Meta’s apps — including WhatsApp — are zero-rated against cellular network bandwidth caps. India is one prominent example. In some parts of the world, the only reliable networks are cellular, and the only “free Internet” is Meta’s suite of apps and services that are zero-rated on those cell networks.</p>
-
-<div>
-<a  title="Permanent link to ‘The Scenario Where ChatGPT’s WhatsApp Gateway Was Useful: Airplane Wi-Fi’"  href="https://daringfireball.net/linked/2025/10/26/chatgpt-whatsapp-airplane-wifi">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘Boring Is What We Wanted’</title>
-	<link rel="alternate" type="text/html" href="https://512pixels.net/2025/10/boring-is-what-we-wanted/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wnd" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/25/boring-is-what-we-wanted" />
-	<id>tag:daringfireball.net,2025:/linked//6.42313</id>
-	<published>2025-10-26T00:46:39Z</published>
-	<updated>2025-10-26T00:46:39Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Stephen Hackett, writing at 512 Pixels:</p>
-
-<blockquote>
-  <p>Apple silicon has been nothing but upside for the Mac, and yet
-some seem bored already. In the days since Apple announced the M5,
-I’ve seen and heard this sentiment more than I expected:</p>
-
-<blockquote>
-  <p>This is just another boring incremental upgrade.</p>
-</blockquote>
-
-<p>That 👏 is 👏 the 👏 point.</p>
-
-<p>Back in the PowerPC and Intel days, Macs would sometimes go
-<em>years</em> between meaningful spec bumps, as Apple waited on its
-partners to deliver appropriate hardware for various machines.
-From failing NVIDIA cards in MacBook Pros to 27-inch Intel iMacs
-that ran so hot the fans were audible at all times, Mac hardware
-wasn’t always what Apple wanted.</p>
-</blockquote>
-
-<p>Consider the MacBook Air — by all accounts the most popular Mac Apple sells. There was <a href="https://www.apple.com/newsroom/2015/03/09Apple-Updates-13-inch-MacBook-Pro-with-Retina-Display-MacBook-Air/">a March 2015 update</a>, and then a <em>very</em> minor speed bump in June 2017. That June 2017 update was so insignificant that it didn’t even warrant its own press release from Apple. All it got from Apple was, at the very end of <a href="https://www.apple.com/newsroom/2017/06/imac-receives-major-update-featuring-more-powerful-graphics-faster-processors-thunderbolt-3-brighter-displays/">a press release</a> touting updates to the iMac, MacBook Pro, and late great 12-inch MacBook, this single sentence: “Apple today also updated the 13-inch MacBook Air with a 1.8 GHz processor.”</p>
-
-<p>It wasn’t until the very end of October 2018 that Apple released a significant MacBook Air update — the first models with retina displays. For the three-and-a-half-year stretch between March 2015 and October 2018, there wasn’t a single notable MacBook Air refresh — at a time when all other Macs had gone retina. Intel’s processor offerings were so unpalatable during that stretch that Apple just didn’t update their most popular Mac model.</p>
-
-<div>
-<a  title="Permanent link to ‘‘Boring Is What We Wanted’’"  href="https://daringfireball.net/linked/2025/10/25/boring-is-what-we-wanted">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
