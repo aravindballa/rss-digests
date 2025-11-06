@@ -7,7 +7,100 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-11-06T03:44:10Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-11-06T16:09:18Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/11/gurman_apple_google_gemini" />
+	<link rel="shorturl" href="http://df4.us/woq" />
+	<id>tag:daringfireball.net,2025://1.42362</id>
+	<published>2025-11-06T16:01:15Z</published>
+	<updated>2025-11-06T16:09:18Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">It makes sense in this scenario for neither company to want to publicize a white-label version of Gemini behind Apple Intelligence.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>Mark Gurman, reporting for Bloomberg, “<a href="https://www.bloomberg.com/news/articles/2025-11-05/apple-plans-to-use-1-2-trillion-parameter-google-gemini-model-to-power-new-siri?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc2MjM3MDAzOSwiZXhwIjoxNzYyOTc0ODM5LCJhcnRpY2xlSWQiOiJUNTZETzhHUTdMMFIwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9._aWk2P25J89KBRkJQ_KdbwuULLM8yUtrPCPfRmsUfSs&amp;leadSource=uverify%20wall">Apple Nears Deal to Pay Google Roughly $1 Billion a Year for Siri AI Model</a>” (gift link):</p>
+
+<blockquote>
+  <p>Apple Inc. is planning to pay about $1 billion a year for an
+ultrapowerful [<em>sic</em>] 1.2 trillion parameter artificial
+intelligence model developed by Alphabet Inc.’s Google that would
+help run its long-promised overhaul of the Siri voice assistant,
+according to people with knowledge of the matter. [...]</p>
+
+<p>Under the arrangement, Google’s Gemini model will handle Siri’s
+summarizer and planner functions — the components that help the
+voice assistant synthesize information and decide how to execute
+complex tasks. Some Siri features will continue to use Apple’s
+in-house models.</p>
+
+<p>The model will run on Apple’s own Private Cloud Compute servers,
+ensuring that user data remains walled off from Google’s
+infrastructure. Apple has already allocated AI server hardware to
+help power the model.</p>
+
+<p>While the partnership is substantial, it’s unlikely to be promoted
+publicly. Apple will treat Google as a behind-the-scenes
+technology supplier instead. That would make the pact different
+than the companies’ Safari browser deal, which made Google the
+default search engine.</p>
+
+<p>The agreement is also separate from earlier talks about
+integrating Gemini directly into Siri as a chatbot.</p>
+</blockquote>
+
+<p>In <a href="https://daringfireball.net/linked/2025/11/03/gurman-siri-gemini">a post Monday</a>, I took note of a one-paragraph aside from Gurman about this deal in his Power On column over the weekend, and I wrote:</p>
+
+<blockquote>
+  <p>First, I love the idea that Apple is pursuing technical excellence
+as a top priority for the next-gen LLM-powered Siri. If Apple
+winds up using its own models, it should be because those models
+are truly competitive with the best models on the market. And if
+they can work out a deal to use models from Google because those
+models are technically superior to Apple’s own, they should.</p>
+</blockquote>
+
+<p>A few readers took exception to that, pointing out that Gurman claimed, in his Power On column over the weekend, that a model from Anthropic had come out ahead of Gemini in Apple’s internal “bake-off”, but that Apple was proceeding with a partnership with Google because, Gurman wrote, “Google made more sense financially (partly due to the tech giants’ preexisting search relationship)”. How do I square that, these readers asked, with my description of Apple pursuing technical excellence?</p>
+
+<p>That’s a good question, and it’s worth explaining what I meant. My read is that Apple’s choice boiled down to two very good external options, and while the deciding factor may have been financial, that’s still choosing between two leading externally-developed LLM models. In ASCII art:</p>
+
+<pre><code>Siri &lt;----------------------------------&gt; Gemini &lt;-&gt; Anthropic
+today
+</code></pre>
+
+<p>(Feel free to insert 100 more dashes between “Siri today” and “Gemini”.)</p>
+
+<p>Nothing I’ve seen from kicking the tires with Anthropic’s own app and Google’s Gemini app (and my daily use of ChatGPT) suggests that Anthropic is <em>significantly</em> better than Gemini or ChatGPT (or vice versa). They’re all clearly near each other technically. Siri, and today’s Apple Intelligence, is at least two generations behind. Maybe worse. And, for what it’s worth, Gurman’s latest report describes it thus:</p>
+
+<blockquote>
+  <p>Apple had previously mulled using other third-party models to
+handle the task. But after <a href="https://www.bloomberg.com/news/articles/2025-06-30/apple-weighs-replacing-siri-s-ai-llms-with-anthropic-claude-or-openai-chatgpt">testing</a> Gemini, OpenAI’s ChatGPT
+and Anthropic’s Claude, Apple zeroed in on Google earlier this
+year, Bloomberg <a href="https://www.bloomberg.com/news/articles/2025-09-03/apple-plans-ai-search-engine-for-siri-to-rival-openai-google-siri-talks-advance">reported</a> at the time. The hope is to use
+the technology as an interim solution until Apple’s own models are
+powerful enough.</p>
+</blockquote>
+
+<p>So I don’t think there’s any reason to think that Apple partnering with Google for a version of Gemini that runs on Apple’s Private Cloud Compute  infrastructure is “settling”. It’s more like choosing between a Mercedes and a BMW, and maybe you like the Mercedes a little more after test-driving both, but you’re getting a way, way better deal from the BMW dealer so that’s the one you buy.</p>
+
+<p>Because if Gurman’s sources are right and this deal is for around $1 billion per year, that’s an amazing deal for Apple. Remember first that Google pays Apple over $20 billion per year <a href="https://daringfireball.net/2025/04/is_chrome_even_a_sellable_asset">for web search traffic acquisition fees from Safari users</a>. So one way to look at it is that Apple is getting access to its own private instance of Gemini in exchange for a 5 percent reduction in the fees it collects from Google for Safari search queries. Another way of looking at it is that <a href="https://qz.com/google-spend-100-billion-ai-development-deepmind-ceo-1851412787">Google has reportedly invested over $100 billion developing its AI capabilities</a>. Apple getting access to the fruits of that labor for $1 billion per year seems like such a steal that it makes me wonder why Google agreed to it. (<a href="https://s206.q4cdn.com/479360582/files/doc_financials/2025/q3/2025q3-alphabet-earnings-release.pdf">Google reported over $100 billion in revenue</a> in its just-completed July-August-September quarter alone. An extra $1 billion per year is negligible at that scale. Perhaps Google sees a strategic advantage to keeping competitors like OpenAI and Anthropic out of Apple’s arms.)</p>
+
+<p>On Monday, I also mentioned finding it curious that Gurman reported that if this deal comes to fruition, neither Apple nor Google may recognize it publicly. After a few days thought, I see how such an arrangement makes sense for both companies. Here’s my no-inside-info-just-a-pure-spitball take for how this next-gen Siri, powered behind the scenes by an Apple-controlled white-label version of Gemini, might work:</p>
+
+<ul>
+<li><p>The default “Apple Intelligence” Siri would be a smarter, faster, reliable Siri, but would still have strict guardrails on what it will and will not answer. It might not lean into the chatbot side of the experience any more than Siri currently does. It would just add a lot more to automation across the Apple ecosystem. Behind the scenes, this would be enabled by the white-label version of Gemini. The guardrails for this version of “Apple Intelligence” would be Apple’s guardrails, not Google’s (beyond whatever guardrails Google put in place for Gemini’s training).</p></li>
+<li><p>The full, branded Google Gemini might be available as an extension — like ChatGPT is today — and you’ll be able to sign in with your Google account to set the personality you want, keep full chat history, etc., so you can go back and forth between the Gemini app or asking Siri general knowledge questions via the Gemini extension for Apple Intelligence. The guardrails for this would be a mix of Google’s and Apple’s guardrails.</p></li>
+</ul>
+
+<p>It makes sense in this scenario for neither company to want to publicize a white-label version of Gemini behind Apple Intelligence. That way, if Google Gemini starts offering, say, AI romantic partners as a supported feature, Apple won’t have to explain why Siri will not be your girlfriend or boyfriend. Same thing if Gemini were willing to do as asked if prompted to, say, “create a New Yorker style cartoon of Adolf Hitler performing standup comedy”. And Google won’t have to explain that the full Gemini-branded Gemini is significantly more powerful and capable than the Gemini-powered Siri because it isn’t constrained by Apple’s more restrictive guardrails.  Today’s top LLM models get <em>weird</em> when they’re constrained by guardrails outside of their training. They want to do what they’re prompted to do, in the way that information “wants” to be free, and water “wants” to run downhill. Dams are hard to engineer, and require professional supervision. Apple is going to put PG-rated constraints on Apple Intelligence, but it needs to be powered by an underlying model that is technically capable of X-rated output.</p>
+
+<p>What Apple needs is a version of Apple Intelligence that isn’t stupid,  is reliable and dependable for a broad baseline of tasks and queries, and that users can trust to be utterly private. What Google needs to keep Gemini at the forefront of AI is a lot more than “baseline dependability”. Gemini needs a leading-edge <em>wow</em> factor that Siri and Apple Intelligence do not. Also, by keeping this Gemini deal private, Apple can easily switch to another white-label provider or its own homegrown models in the future, without having to even mention it, let alone explain it.</p>
+
+
+
+    ]]></content>
+  <title>★ Apple and Google, Sitting in Tree</title></entry><entry>
 	<title>Regarding the Look of Notifications With Liquid Glass in iOS 26.1</title>
 	<link rel="alternate" type="text/html" href="https://x.com/bzamayo/status/1986077588553416872?s=12" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wop" />
@@ -1410,8 +1503,8 @@ ChatGPT, and all members of the team will join OpenAI.</p>
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/10/thoughts_observations_and_links_regarding_chatgpt_atlas" />
 	<link rel="shorturl" href="http://df4.us/wnp" />
 	<id>tag:daringfireball.net,2025://1.42325</id>
-	<published>2025-10-28T19:45:19Z</published>
-	<updated>2025-10-28T20:25:27Z</updated>
+	<published>2025-10-28T20:45:19Z</published>
+	<updated>2025-10-28T21:25:27Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -1619,8 +1712,8 @@ Give up bad coffee for good.</p>
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/10/apple_uk_lawsuit_app_store_commissions" />
 	<link rel="shorturl" href="http://df4.us/wnm" />
 	<id>tag:daringfireball.net,2025://1.42322</id>
-	<published>2025-10-27T20:33:32Z</published>
-	<updated>2025-10-27T20:33:39Z</updated>
+	<published>2025-10-27T21:33:32Z</published>
+	<updated>2025-10-27T21:33:39Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -1843,8 +1936,8 @@ usual totals for points, assists and 3-pointers.</p>
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/10/not_boring_camera_and_adobe_project_indigo" />
 	<link rel="shorturl" href="http://df4.us/wmv" />
 	<id>tag:daringfireball.net,2025://1.42295</id>
-	<published>2025-10-21T18:25:14Z</published>
-	<updated>2025-10-22T15:48:11Z</updated>
+	<published>2025-10-21T19:25:14Z</published>
+	<updated>2025-10-22T16:48:11Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -1984,8 +2077,8 @@ is a camera nerd’s love language.</p>
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/10/m5_chip_launches_with_macbook_pro_ipad_pro_vision_pro" />
 	<link rel="shorturl" href="http://df4.us/wm7" />
 	<id>tag:daringfireball.net,2025://1.42271</id>
-	<published>2025-10-15T21:04:41Z</published>
-	<updated>2025-10-15T21:30:42Z</updated>
+	<published>2025-10-15T22:04:41Z</published>
+	<updated>2025-10-15T22:30:42Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -2110,8 +2203,8 @@ playback, all on a single charge.</p>
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/10/iceblock_removed_from_app_store" />
 	<link rel="shorturl" href="http://df4.us/wld" />
 	<id>tag:daringfireball.net,2025://1.42241</id>
-	<published>2025-10-03T20:56:36Z</published>
-	<updated>2025-10-04T18:53:40Z</updated>
+	<published>2025-10-03T21:56:36Z</published>
+	<updated>2025-10-04T19:53:40Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -2264,88 +2357,4 @@ that Apple will proudly defend it if push comes to shove.</p>
 
 
     ]]></content>
-  <title>★ Complying With ‘Demand’ From Trump Administration, Apple Removes ICEBlock From App Store</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/09/apple_on_the_digital_markets_act" />
-	<link rel="shorturl" href="http://df4.us/wky" />
-	<id>tag:daringfireball.net,2025://1.42226</id>
-	<published>2025-09-26T15:47:03Z</published>
-	<updated>2025-09-26T23:10:10Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">How in the world would that increase competition? iOS’s unique and exclusive features — which, yes, in many cases, are exclusive to the Apple device ecosystem — *are competition*.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>Apple, “<a href="https://www.apple.com/newsroom/2025/09/the-digital-markets-acts-impacts-on-eu-users/">The Digital Markets Act’s Impacts on EU Users</a>”:</p>
-
-<blockquote>
-  <p>The DMA requires Apple to make certain features work on non-Apple
-products and apps before we can share them with our users.
-Unfortunately, that requires a lot of engineering work, and it’s
-caused us to delay some new features in the EU:</p>
-
-<ul>
-<li><p><em>Live Translation</em> with AirPods uses Apple Intelligence to let
-Apple users communicate across languages. Bringing a
-sophisticated feature like this to other devices creates
-challenges that take time to solve. For example, we designed
-Live Translation so that our users’ conversations stay private — they’re processed on device and are never accessible to Apple — and our teams are doing additional engineering work to make
-sure they won’t be exposed to other companies or developers
-either.</p></li>
-<li><p><em>iPhone Mirroring</em> lets our users see and interact with their
-iPhone from their Mac, so they can seamlessly check their
-notifications, or drag and drop photos between devices. Our
-teams still have not found a secure way to bring this feature to
-non-Apple devices without putting all the data on a user’s
-iPhone at risk. And as a result, we have not been able to bring
-the feature to the EU. [...]</p></li>
-</ul>
-
-<p>We’ve suggested changes to these features that would protect our
-users’ data, but so far, the European Commission has rejected our
-proposals. And according to the European Commission, under the
-DMA, it’s illegal for us to share these features with Apple users
-until we bring them to other companies’ products. If we shared
-them any sooner, we’d be fined and potentially forced to stop
-shipping our products in the EU.</p>
-</blockquote>
-
-<p>Live Translation with AirPods and iPhone Mirroring are both <em>amazing</em> features. And EU users are missing out on them. I think Apple structured this piece exactly right, by emphasizing first that the most direct effect of the DMA is that EU users are getting great features late — or never. And that list of features is only going to grow over time.</p>
-
-<p>Under the section “Is the DMA Achieving Its Goals?”:</p>
-
-<blockquote>
-  <p>Regulators claimed the DMA would promote competition and give
-European consumers more choices. But the law is not living up to
-those promises. In fact, it’s having some of the opposite effects:</p>
-
-<ul>
-<li><p><em>Fewer choices</em>: When features are delayed or unavailable, EU
-users don’t get the same options as users in the rest of the
-world. They lose the choice to use Apple’s latest technologies,
-and their devices fall further behind.</p></li>
-<li><p><em>Less differentiation</em>: By forcing Apple to build features and
-technologies for non-Apple products, the DMA is making the
-options available to European consumers more similar. For
-instance, the changes to app marketplaces are making iOS look
-more like Android — and that reduces choice.</p></li>
-<li><p><em>Unfair competition</em>: The DMA’s rules only apply to Apple, even
-though Samsung is the smartphone market leader in Europe, and
-Chinese companies are growing fast. Apple has led the way in
-building a unique, innovative ecosystem that others have copied — to the benefit of users everywhere. But instead of rewarding
-that innovation, the DMA singles Apple out while leaving our
-competitors free to continue as they always have.</p></li>
-</ul>
-</blockquote>
-
-<p>This is all true. But I have a better way to put this. If Apple were to just switch the iPhone’s OS from iOS to Android, these DMA conflicts would all go away. Apple’s not going to do that, of course, but to me it’s a crystallizing way of looking at it. The DMA is supposedly intended to increase “competition”, which in turn should increase consumer choice. But the easiest way for Apple to comply with the DMA would be to switch EU iPhones to Android — which, by a significant margin, already has majority mobile OS market share in the EU. <a href="https://gs.statcounter.com/os-market-share/mobile/europe/">Here’s a link to StatCounter’s mobile OS stats for Europe</a> (<a href="https://daringfireball.net/2024/03/eu_share_of_apples_revenue">which is not the same as the EU</a>, but as good a proxy as I could find). It’s two-thirds Android, one-third iOS — a 2-1 ratio.</p>
-
-<p>If Apple just shipped all EU iPhones with Android instead of iOS, all of their DMA problems would be off the table. EU iPhone users would lose <em>all</em> iOS exclusive features and Apple device <a href="https://www.apple.com/macos/continuity/">Continuity</a> integrations. EU consumers would effectively have no choice at all in mobile OSes. They’d just get to choose which brand of Android phone to buy.</p>
-
-<p>How in the world would that increase competition? iOS’s unique and exclusive features — which, yes, in many cases, are exclusive to the Apple device ecosystem — <em>are competition</em>.</p>
-
-
-
-    ]]></content>
-  <title>★ Apple on the Digital Markets Act</title></entry></feed><!-- THE END -->
+  <title>★ Complying With ‘Demand’ From Trump Administration, Apple Removes ICEBlock From App Store</title></entry></feed><!-- THE END -->
