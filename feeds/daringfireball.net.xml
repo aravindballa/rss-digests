@@ -7,13 +7,13 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-11-06T17:22:04Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-11-06T20:39:00Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/11/apple_and_google_sitting_in_a_tree" />
 	<link rel="shorturl" href="http://df4.us/woq" />
 	<id>tag:daringfireball.net,2025://1.42362</id>
 	<published>2025-11-06T16:01:15Z</published>
-	<updated>2025-11-06T17:22:04Z</updated>
+	<updated>2025-11-06T20:39:00Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -65,7 +65,7 @@ models are technically superior to Apple’s own, they should.</p>
 
 <p>That’s a good question, and it’s worth explaining what I meant. My read is that Apple’s choice boiled down to two very good external options, and while the deciding factor may have been financial, that’s still choosing between two leading externally-developed LLM models. In ASCII art:</p>
 
-<pre><code>Siri &lt;----------------------------------&gt; Gemini &lt;-&gt; Anthropic
+<pre><code>Siri &lt;--------------------&gt; Gemini &lt;-&gt; Anthropic
 today
 </code></pre>
 
