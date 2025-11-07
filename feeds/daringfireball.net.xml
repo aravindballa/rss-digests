@@ -7,7 +7,58 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-11-07T20:29:14Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-11-07T21:57:32Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Tahoe’s Terrible Icons</title>
+	<link rel="alternate" type="text/html" href="https://onefoottsunami.com/2025/11/05/tahoes-terrible-icons/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wou" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/07/tahoes-terrible-icons" />
+	<id>tag:daringfireball.net,2025:/linked//6.42366</id>
+	<published>2025-11-07T21:54:06Z</published>
+	<updated>2025-11-07T21:57:32Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Paul Kafasis, writing at One Foot Tsunami:</p>
+
+<blockquote>
+  <p>While Apple had previously urged developers to use squircle icons
+on our apps, they’ve now taken things much further to ensure
+compliance. It’s a shame.</p>
+
+<p>Apple updated their own app icons on Tahoe, for both the squircle
+shape as well as the new “<a href="https://en.wikipedia.org/wiki/Liquid_Glass">Liquid Glass</a>” interface. Mostly,
+these icons seem dumbed-down, with a loss of detail. For example,
+here’s Safari’s old icon from MacOS 15 (Sequoia) on the left, and
+the new Tahoe icon on the right:</p>
+
+<p><img
+  src = "https://i0.wp.com/onefoottsunami.com/wp-content/uploads/2025-11-terribletahoeicons/safari.jpg"
+  alt = "Safari’s icons from MacOS 15 Sequoia and 26 Tahoe."
+  width = 475 
+/></p>
+
+<p>To me, the new icon just feels blander, and that’s widely true for
+all of the updated icons. A small number, such as <a href="https://onefoottsunami.com/wp-content/uploads/2025-11-terribletahoeicons/screensharing.jpg">Screen
+Sharing</a> and <a href="https://onefoottsunami.com/wp-content/uploads/2025-11-terribletahoeicons/audiomidisetup.jpg">Audio MIDI Setup</a>, may be improvements.
+Most, however, are not. Let’s review with direct comparisons, all
+of which again feature the older Sequoia icon on the left and the
+new Tahoe icon on the right.</p>
+</blockquote>
+
+<p>Trends come and go. Some are to one’s liking, and some are not. But this year’s app icons from Apple are <a href="https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons">just plain objectively bad</a>. They’re ugly, they’re dumb (like the new Apple Calendar icon, showing a month that somehow has only 24 days), and many of them — regardless of whether they’re aesthetically pleasing or not — are inscrutable. The fundamental purpose of an icon is to have meaning. And some of these are meaningless.</p>
+
+<p>Even good styles fall out of fashion as trends change. But good styles come back into style eventually. A few decades from now, no one is going to say “Hey, let’s bring back 2020s-style icons.” They’re like <a href="https://www.bygonely.com/leisure-suit-fashion-1970s/">1970s leisure suits</a>.</p>
+
+<p>For a remarkably long stretch, Apple’s in-house icons represented the pinnacle of <a href="https://flarup.shop/products/the-macos-app-icon-book">an art form worth celebrating</a>. They were exquisitely crafted, and quite obviously the work of the most talented artists in the field. Apple’s application icons in the OS 26 releases — MacOS Tahoe especially, because MacOS has the most first-party apps — look like they’re the work of people who have zero artistic ability whatsoever. They probably <em>are</em> the work of people with no artistic ability whatsoever, because I can’t imagine how a talented artist could bring themselves to create such things. And whoever at Apple approved them obviously has no taste. “Fuck it, who cares” is replacing “Insanely great” as the company’s design mantra for software.</p>
+
+<div>
+<a  title="Permanent link to ‘Tahoe’s Terrible Icons’"  href="https://daringfireball.net/linked/2025/11/07/tahoes-terrible-icons">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Tyler Hayes Suggests Trying a Flip-Style Foldable If You Want a Smaller Phone</title>
 	<link rel="alternate" type="text/html" href="https://creators.yahoo.com/lifestyle/story/do-you-think-phones-are-too-big-and-want-a-smaller-one-i-have-the-perfect-solution-234401104.html" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wot" />
@@ -1842,50 +1893,6 @@ calculated and Apple’s application for permission to appeal.</p>
 
     ]]></content>
   <title>★ Apple Loses Landmark U.K. Lawsuit Over App Store Commissions</title></entry><entry>
-	<title>App Store IDs Hint at Possible iPad Versions of Pixelmator Pro, Compressor, Motion, and MainStage</title>
-	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2025/10/27/apple-may-release-pixelmator-pro-for-ipad/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wnl" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/27/more-apple-pro-apps-for-ipad" />
-	<id>tag:daringfireball.net,2025:/linked//6.42321</id>
-	<published>2025-10-27T17:49:57Z</published>
-	<updated>2025-10-27T21:44:28Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Joe Rossignol, MacRumors:</p>
-
-<blockquote>
-  <p>Apple might be preparing iPad apps for Pixelmator Pro, Compressor,
-Motion, and MainStage, according to new App Store IDs uncovered by
-MacRumors contributor Aaron Perris. All four of the apps are
-currently available on the Mac only. A quick overview of each app:</p>
-
-<ul>
-<li><a href="https://apps.apple.com/us/app/pixelmator-pro/id1289583905?mt=12">Pixelmator Pro</a>: Professional image editing app <a href="https://www.macrumors.com/2025/02/11/apple-completes-pixelmator-acquisition/">acquired
-by Apple</a> earlier this year</li>
-<li><a href="https://apps.apple.com/us/app/compressor/id424390742?mt=12">Compressor</a>: Final Cut Pro companion app for compressing
-audio and video files</li>
-<li><a href="https://apps.apple.com/us/app/motion/id434290957?mt=12">Motion</a>: Final Cut Pro companion app for creating 2D/3D
-titles, transitions, and effects</li>
-<li><a href="https://apps.apple.com/us/app/mainstage/id634159523?mt=12">MainStage</a>: Logic Pro companion app for live performances</li>
-</ul>
-
-<p>There is already a less-capable <a href="https://apps.apple.com/us/app/pixelmator/id924695435">Pixelmator</a> app available
-for the iPad and iPhone.</p>
-</blockquote>
-
-<p>Interesting though that — just like Final Cut and Logic — these new pro apps are reportedly iPad-only, with no support for iPhone.</p>
-
-<p>Also: <a href="https://mastodon.social/@stroughtonsmith/115447184072770472">still no Xcode</a>, even for iPad.</p>
-
-<div>
-<a  title="Permanent link to ‘App Store IDs Hint at Possible iPad Versions of Pixelmator Pro, Compressor, Motion, and MainStage’"  href="https://daringfireball.net/linked/2025/10/27/more-apple-pro-apps-for-ipad">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/10/not_boring_camera_and_adobe_project_indigo" />
 	<link rel="shorturl" href="http://df4.us/wmv" />
