@@ -7,7 +7,51 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-11-09T19:37:22Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-11-10T22:14:00Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>‘Under the Radar’ Now Over</title>
+	<link rel="alternate" type="text/html" href="https://www.relay.fm/radar/331" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/woz" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/10/under-the-radar-now-over" />
+	<id>tag:daringfireball.net,2025:/linked//6.42371</id>
+	<published>2025-11-10T22:14:00Z</published>
+	<updated>2025-11-10T22:14:00Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Marco Arment and David Smith:</p>
+
+<blockquote>
+  <p>In our final episode, we reflect on how indie app development has
+changed over the past decade. Thanks for listening, everyone!</p>
+</blockquote>
+
+<p><a href="https://mjtsai.com/blog/2025/11/10/thanks-for-under-the-radar/">Michael Tsai</a>:</p>
+
+<blockquote>
+  <p>I really liked the 30-minute format and the breadth of topics:
+everything from API details to broader <a href="https://www.relay.fm/radar/315">design considerations</a>,
+<a href="https://mastodon.social/@chockenberry/112163190336674442">stats</a> from their own businesses, and postmortems, plus all the
+stuff he mentioned.</p>
+</blockquote>
+
+<p><a href="https://hachyderm.io/@rmondello/115508780595002901">Ricky Mondello</a>:</p>
+
+<blockquote>
+  <p>I’ve never been an indie software developer, but I found the
+podcast extremely insightful. It’s influenced how I’ve thought
+about my non-indie software development career, not just as
+someone delivering bits that indies use, but also as a product
+person who writes software as a means to an end.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘‘Under the Radar’ Now Over’"  href="https://daringfireball.net/linked/2025/11/10/under-the-radar-now-over">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Mux: Video API for Developers</title>
 	<link rel="alternate" type="text/html" href="https://www.mux.com/video-api?utm_campaign=fireball&amp;utm_source=DF" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/woy" />
@@ -1650,43 +1694,6 @@ somewhere!</p>
 
 <div>
 <a  title="Permanent link to ‘PCalc 4.11.1 for Mac’"  href="https://daringfireball.net/linked/2025/10/29/pcalc-4-11-1">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Toyota BEVs Gain Support for Apple Maps EV Routing</title>
-	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2025/10/28/toyota-bz-apple-maps-ev-routing/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wnt" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/29/toyota-apple-maps-bevs" />
-	<id>tag:daringfireball.net,2025:/linked//6.42329</id>
-	<published>2025-10-29T16:14:29Z</published>
-	<updated>2025-10-29T21:49:23Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Tim Hardwick, writing for MacRumors:</p>
-
-<blockquote>
-  <p>The Apple Maps EV Routing option will allow Toyota BEV users to
-plan travel routes that include stops for charging. Without it,
-drivers would have had to exit out of CarPlay in order to create a
-route that included charging stops.</p>
-
-<p>Apple Maps’ EV Routing feature uses real-time data from the
-vehicle to guide drivers to their destinations more efficiently,
-automatically suggesting charging stops when needed. The system
-takes into account elevation changes and other driving conditions
-to decide when a recharge is necessary. If the vehicle’s battery
-level becomes too low, Apple Maps will automatically direct the
-driver to the nearest compatible charging station.</p>
-</blockquote>
-
-<p>Meanwhile GM CEO Mary Barra is spending her lunch hour <a href="https://daringfireball.net/linked/2025/10/22/gm-carplay-android-auto">eating another jar of paste</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Toyota BEVs Gain Support for Apple Maps EV Routing’"  href="https://daringfireball.net/linked/2025/10/29/toyota-apple-maps-bevs">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
