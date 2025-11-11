@@ -7,7 +7,114 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-11-10T22:14:00Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-11-11T01:42:39Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	
+	<link rel="alternate" type="text/html" href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=RSS&amp;utm_campaign=q12025" />
+	<link rel="shorturl" href="http://df4.us/wp2" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2025/11/workos_scalable_secure_authent_10" />
+	<id>tag:daringfireball.net,2025:/feeds/sponsors//11.42374</id>
+	<author><name>Daring Fireball Department of Commerce</name></author>
+	<published>2025-11-11T01:42:19Z</published>
+	<updated>2025-11-11T01:42:39Z</updated>
+	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
+<p>With WorkOS you can start selling to enterprises with just a few lines of code. It provides a complete User Management solution along with SSO, SCIM, and RBAC. The APIs are modular and easy-to-use, allowing integrations to be completed in minutes instead of months. WorkOS simplifies MCP authorization with a single API built on five OAuth standards.</p>
+
+<p>Today, over 1,000 companies rely on WorkOS, including large fast-growing startups like OpenAI, Cursor, and Vercel. And for companies just getting started, WorkOS offers up to one million monthly active users free of charge.</p>
+
+<p>For SaaS apps that care deeply about design and user experience, WorkOS is the perfect fit. From high-quality documentation to self-serve onboarding for your customers, it removes all the unnecessary complexity for your engineering team.</p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS: Scalable, Secure Authentication’"  href="https://daringfireball.net/feeds/sponsors/2025/11/workos_scalable_secure_authent_10">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+	<title>[Sponsor] WorkOS: Scalable, Secure Authentication</title></entry><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/11/software_update_tahoe_confusing" />
+	<link rel="shorturl" href="http://df4.us/wp1" />
+	<id>tag:daringfireball.net,2025://1.42373</id>
+	<published>2025-11-11T01:34:01Z</published>
+	<updated>2025-11-11T01:34:01Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">Why the Info panel presented by clicking the “(i)” button *next to Sequoia* defaults to installing the upgrade to 26.1 Tahoe, I don’t know. But it sure makes it seem like we need to be more careful than we actually do if we want to stick with MacOS 15 Sequoia for now.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>I upgrade my iPhones and iPads to new iOS releases, including developer betas, pretty much willy-nilly. But I’m more conservative about the Macs I use for work. For example, I rely on audio software from <a href="https://www.rogueamoeba.com/">Rogue Amoeba</a> for recording both The Talk Show and Dithering, but <a href="https://www.rogueamoeba.com/support/knowledgebase/?showArticle=Troubleshooting-MacOS-26-Tahoe">there were bugs in MacOS 26.0.0 and 26.0.1</a> that could have resulted in lost audio. Those bugs have been fixed as of MacOS 26.1, so I’ve upgraded the Mac I use for podcasting. But I only did that over this weekend. But my main MacBook Pro is still running MacOS 15 Sequoia — not because of any compatibility issues, but simply because I think the Tahoe user interface is goofy looking. I’ll probably bite the bullet and upgrade when 26.2 comes out next month, but for now, I’m luxuriating with a MacOS UI with <a href="https://daringfireball.net/linked/2025/11/07/tahoes-terrible-icons">well-crafted app icons</a> and windows that don’t have <a href="https://mjtsai.com/blog/2025/10/16/tahoe-window-corners/">Fisher-Price-style corner radiuses</a>.</p>
+
+<p>But in the meantime, I’m keeping MacOS 15 Sequoia up to date. When the MacOS 15.7.2 arrived last week, <a href="https://mastodon.social/@gruber/115499153276833424">I noted in a post on Mastodon</a> that it sure looked like clicking the “Update Now” button next to the MacOS 15.7.2 update in System Settings → General → Software Update would actually install the upgrade to MacOS 26.1 Tahoe. There are little “(i)” buttons next to the “Upgrade” buttons for Tahoe 26.1 and “Update” buttons for Sequoia 15.7.2. The “Info” panel that’s presented after clicking <em>either</em> “(i)” button shows that Tahoe 26.1 is the version that is checked.</p>
+
+<p><a href="https://daringfireball.net/misc/2025/11/other-updates-info-button.png" class="noborder">
+  <img
+    src = "https://daringfireball.net/misc/2025/11/other-updates-info-button.png"
+    alt = "Screenshot of MacOS 15.7.1 System Settings: General: Software Update, with an arrow pointing to the (i) info button."
+    width = 500
+  /></a></p>
+
+<p>Click that “(i)” button in the “Other Updates” section and you get:</p>
+
+<p><a href="https://daringfireball.net/misc/2025/11/other-updates-info-panel.png" class="noborder">
+  <img
+    src = "https://daringfireball.net/misc/2025/11/other-updates-info-panel.png"
+    alt = "Screenshot after clicking the (i) button, showing that the upgrade to Tahoe 26.1 is selected, not the available update to Sequoia 15.7.2."
+    width = 500
+  /></a></p>
+
+<p>Leon Cowle was brave enough to try this out, and, <a href="https://hachyderm.io/@leoncowle/115499194488171450">it turns out</a>, just clicking the “Update Now” button next to Sequoia will, thankfully, do the right thing install the Sequoia 15.7.2 update, not Tahoe. Why the Info panel presented by clicking the “(i)” button <em>next to Sequoia</em> in the “Other Updates” section defaults to installing the upgrade to 26.1 Tahoe, I don’t know. But it sure makes it seem like we need to be more careful than we actually do if we want to stick with MacOS 15 Sequoia for now.</p>
+
+
+
+    ]]></content>
+  <title>★ The Software Update UI for Upgrading to MacOS 26 Tahoe Is Needlessly Confusing</title></entry><entry>
+	<title>Five Years of Apple Silicon Macs</title>
+	<link rel="alternate" type="text/html" href="https://www.macworld.com/article/2965948" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wp0" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/10/five-years-of-apple-silicon-macs" />
+	<id>tag:daringfireball.net,2025:/linked//6.42372</id>
+	<published>2025-11-11T01:10:11Z</published>
+	<updated>2025-11-11T01:10:12Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jason Snell, writing at Macworld:</p>
+
+<blockquote>
+  <p>In that first event (which you can relive in the YouTube video
+below), Apple announced its first wave of M1 Macs: the <a href="https://www.macworld.com/article/234819/macbook-air-m1-review-an-absolutely-stunning-debut-for-apple-silicon-in-a-mac.html">MacBook
+Air</a>, <a href="https://www.macworld.com/article/234838/13-inch-macbook-pro-m1-review-amazing-breakthroughs-in-processing-and-battery-performance.html">13-inch MacBook Pro,</a> and <a href="https://www.macworld.com/article/234842/m1-mac-mini-review-the-mac-with-the-best-ever-bang-for-your-buck.html">Mac mini</a>. The
+Macs themselves all used the same design as their Intel
+predecessors, as Apple wrapped potentially scary new technology in
+completely familiar shapes.</p>
+
+<p>Then the results of the first M1 speed tests arrived, and nothing
+felt scary anymore. Everything was fast, much faster than Intel,
+so much faster that even software compiled for Intel running in a
+code-translation layer via Rosetta ran just fine. In fact, the M1
+was such a fast chip that, five years later, Apple’s still selling
+the M1 MacBook Air. (For $599, at Walmart.) And it’s still a
+pretty nice computer! [...]</p>
+
+<p>The result of all of this is, though every generation has its
+quirks, Apple has managed to not drop the ball after the
+gigantic leap from Intel to M1. Every generation of M-series
+processors has offered impressive speed boosts. Apple’s CPU
+cores just get 10% to 30% faster every generation. The GPU cores
+got faster in all but one generation–and in that generation,
+overall graphics performance still got faster because the chips
+all had more GPU cores.</p>
+</blockquote>
+
+<p>These first five years of Apple Silicon Macs have been the best five-year-run for Mac hardware in the platform’s 41-year history. Hardware-wise, the Mac platform has never been in better shape. And there’s no sign of letup. I fully expect the next five years to be, if anything, even better than the last five — with MacBooks <a href="https://www.macrumors.com/2025/11/07/low-cost-macbook-rumors-2026/">expanding to lower price points</a>, and Mac Pros, finally, <a href="https://www.macrumors.com/2025/11/04/mac-studio-m5-ultra-2026/">expanding the high end of personal supercomputing</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Five Years of Apple Silicon Macs’"  href="https://daringfireball.net/linked/2025/11/10/five-years-of-apple-silicon-macs">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘Under the Radar’ Now Over</title>
 	<link rel="alternate" type="text/html" href="https://www.relay.fm/radar/331" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/woz" />
@@ -1663,41 +1770,6 @@ hour, and later began appearing on the air.</p>
 
 	]]></content>
   </entry><entry>
-	<title>PCalc 4.11.1 for Mac</title>
-	<link rel="alternate" type="text/html" href="https://mastodon.social/@jamesthomson/115458178673560956" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wnu" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/29/pcalc-4-11-1" />
-	<id>tag:daringfireball.net,2025:/linked//6.42330</id>
-	<published>2025-10-29T17:00:28Z</published>
-	<updated>2025-10-29T20:06:34Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>James Thomson:</p>
-
-<blockquote>
-  <p>I’ve released a small PCalc 4.11.1 update that’s out now for
-the Mac.</p>
-
-<p>There was a bug with the theme getting reset, which I <em>could</em> have
-fixed in five minutes, but I ended up doing what I should have
-done over three decades ago, and added a dedicated section to the
-settings that puts all the visual customisation in one place.</p>
-
-<p>No more having to search for all this stuff in a submenu
-somewhere!</p>
-</blockquote>
-
-<p>After <a href="https://daringfireball.net/linked/2025/10/28/nisus-writer-kissell">the glum news</a> this week regarding Nisus Writer, it feels good to link to a <a href="https://pcalc.com/mac/thirty.html">similarly-aged</a> Mac app that’s still thriving. If you’ve never tried PCalc, <a href="https://pcalc.com/store/pcalcmac">you’re missing out</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘PCalc 4.11.1 for Mac’"  href="https://daringfireball.net/linked/2025/10/29/pcalc-4-11-1">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/10/thoughts_observations_and_links_regarding_chatgpt_atlas" />
 	<link rel="shorturl" href="http://df4.us/wnp" />
@@ -1838,26 +1910,6 @@ could never get to on their own.</p>
 
     ]]></content>
   <title>★ Thoughts, Observations, and Links Regarding ChatGPT Atlas</title></entry><entry>
-	
-	<link rel="alternate" type="text/html" href="https://www.jaho.com/s/df" />
-	<link rel="shorturl" href="http://df4.us/wnn" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2025/10/jaho_coffee_roaster" />
-	<id>tag:daringfireball.net,2025:/feeds/sponsors//11.42323</id>
-	<author><name>Daring Fireball Department of Commerce</name></author>
-	<published>2025-10-28T01:54:55Z</published>
-	<updated>2025-10-28T01:54:56Z</updated>
-	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
-<p>Great coffee takes care. Family-owned since 2005, our slogan “Live Slow” guides our every day in and out of our roastery. From sourcing small-lot single origins to blending coffees for balance, we small-batch roast our award-winning coffees in Salem and Tokyo. For the at-home coffee drinker, we roast to order and pack the same coffees brewed and served in all of our cafés. For the office worker, Jaho is proud to be a wholesaler with select partners across the nation and in Japan. DF readers: take 20% off with DF.</p>
-
-<p>Fresh beans shipped nationwide. <br />
-Give up bad coffee for good.</p>
-
-<div>
-<a  title="Permanent link to ‘Jaho Coffee Roaster’"  href="https://daringfireball.net/feeds/sponsors/2025/10/jaho_coffee_roaster">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-	<title>[Sponsor] Jaho Coffee Roaster</title></entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/10/apple_uk_lawsuit_app_store_commissions" />
 	<link rel="shorturl" href="http://df4.us/wnm" />
@@ -2168,163 +2220,4 @@ playback, all on a single charge.</p>
 
 
     ]]></content>
-  <title>★ The Just Plain M5 Chip Launches in Three Updated Products: 14-Inch MacBook Pro, iPad Pro (Both Sizes), and Some Sort of Headset Thingamajig Called Vision Pro</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/10/iceblock_removed_from_app_store" />
-	<link rel="shorturl" href="http://df4.us/wld" />
-	<id>tag:daringfireball.net,2025://1.42241</id>
-	<published>2025-10-03T21:56:36Z</published>
-	<updated>2025-10-04T19:53:40Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">It’s rather chilling to consider what Apple would have done if the Trump administration had “demanded” a list of device IDs and user identities for everyone who had installed ICEBlock. Or what Apple *will* do if such a demand pops into one of their dimwitted but cruel minds.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p><a href="https://www.foxbusiness.com/politics/apple-takes-down-ice-tracking-app-after-pressure-from-ag-bondi">Ashley Oliver, reporting for Fox Business</a>:</p>
-
-<blockquote>
-  <p>DOJ officials, at the direction of Attorney General Pam Bondi,
-asked Apple to take down ICEBlock, a move that comes as Trump
-administration officials have claimed the tool, which allows users
-to anonymously report ICE agents’ presence, puts agents in danger
-and helps shield illegal immigrants.</p>
-
-<p>“We reached out to Apple today demanding they remove the ICEBlock
-app from their App Store — and Apple did so,” Bondi said in a
-statement to Fox News Digital.</p>
-
-<p>“ICEBlock is designed to put ICE agents at risk just for doing
-their jobs, and violence against law enforcement is an intolerable
-red line that cannot be crossed,” Bondi added. “This Department of
-Justice will continue making every effort to protect our brave
-federal law enforcement officers, who risk their lives every day
-to keep Americans safe.”</p>
-</blockquote>
-
-<p>Fox, in its opening paragraph, describes Bondi as having “asked” Apple to remove ICEBlock from the App Store, but Bondi’s own statement uses the verb “demand”. The difference is not nitpicking. No one, not even Bondi, is claiming any aspect of ICEBlock is illegal. Thus it’s not merely inappropriate but outrageous — and yet another among dozens of other causes for alarm regarding Trump 2.0’s decidedly authoritarian turn — for the DOJ to “demand” that Apple do anything about it. But demand they did, and comply did Apple. (Check those lips <a href="https://daringfireball.net/2024/11/i_wonder">for Cheetos dust</a> before heading home today.)</p>
-
-<p>Katherine Tangalakis-Lippert, Peter Kafka, and Kwan Wei Kevin Tan, <a href="https://www.businessinsider.com/apple-iceblock-app-store-removed-2025-10">reporting for Business Insider</a>:</p>
-
-<blockquote>
-  <p>Apple has removed ICEBlock, an app that allowed users to monitor
-and report the location of immigration enforcement officers, from
-the App Store.</p>
-
-<p>“We created the App Store to be a safe and trusted place to
-discover apps,” Apple said in a statement to Business Insider.
-“Based on information we’ve received from law enforcement about
-the safety risks associated with ICEBlock, we have removed it and
-similar apps from the App Store.”</p>
-</blockquote>
-
-<p>ICEBlock developer Joshua Aaron, <a href="https://bsky.app/profile/iceblock.app/post/3m2alyaghbk2n">posting on the ICEBlock Bluesky account</a>:</p>
-
-<blockquote>
-  <p>We just received a message from Apple’s App Review that #ICEBlock
-has been removed from the App Store due to “objectionable
-content”. The only thing we can imagine is this is due to pressure
-from the Trump Admin.</p>
-
-<p>We have responded and we’ll fight this! #resist</p>
-</blockquote>
-
-<p>There is clearly nothing illegal about ICEBlock.<sup id="fnr1-2025-10-03"><a href="#fn1-2025-10-03">1</a></sup> It’s just information, obviously protected by the First Amendment. Law enforcement officers in the United States have no right to avoid being recorded nor their actions being reported and shared. Reporting and publishing where police are policing is free speech and fundamental to the civil rights and liberties of a free society.</p>
-
-<p>We can all wish Apple had fought this “demand”. I certainly do. <a href="https://www.youtube.com/watch?v=ohPToBog_-g">John Oliver’s “Fuck you, make me”</a> argument <a href="https://daringfireball.net/linked/2025/10/03/fuck-you-make-me">sprung to mind</a> for me this morning. But that’s wishful thinking. I believe there are many lines Apple would not cross, even if it means taking on the ire of Trump administration lickspittles, if not the barely literate wrath of the mad king himself on <a href="https://daringfireball.net/2025/06/truth_social_is_just_trumps_blog">his sad little blog</a>. Apple may well eventually — if not soon — be forced to define those lines. But keeping ICEBlock in the App Store isn’t one of them. You might believe it should be. There’s a big part of me that believes it should be. But I can also <a href="https://daringfireball.net/2025/08/gold_frankincense_and_silicon">see why it’s not</a>. Pick your battles.</p>
-
-<p>I wrote about ICEBlock twice back in late July. <a href="https://daringfireball.net/2025/07/iceblock">Quoting extensively from my initial post</a>:</p>
-
-<blockquote>
-  <p>The ICEBlock app is interesting in and of itself (and from my
-tire-kicking test drive, appears to be a well-crafted and designed
-app), as will be Apple’s response if (when?) the Trump
-administration takes offense to the app’s existence. Back in 2019,
-kowtowing to tacit demands from China, <a href="https://daringfireball.net/linked/2019/10/10/apple-pulls-hkmaps">Apple removed from the App
-Store an app called HKmap.live</a> which helped pro-democracy
-activists in Hong Kong know the location of police and protest
-activity. The app broke no Hong Kong laws, but <a href="https://www.npr.org/2019/10/10/768841864/after-china-objects-apple-removes-app-used-by-hong-kong-protesters">scared the
-thin-skinned skittish lickspittles in the Chinese Communist
-Party</a>. (Remember too that in 2019, <a href="https://daringfireball.net/linked/2019/10/07/taiwan-flag-emoji">Apple removed the Taiwan
-flag emoji</a> (🇹🇼) from the iOS 13 keyboard for users in Hong
-Kong and Macau.)</p>
-
-<p>One defense from Apple regarding HKmap.live, however, was that the
-iOS app was a thin wrapper around the website, which website
-remained fully functional and could be saved to an iPhone user’s
-home screen. Removing the app from the App Store thus did not
-prevent Hongkongers from accessing it. (<a href="https://hkmap.live/">That website</a> today
-<a href="https://en.wikipedia.org/wiki/HKmap.live">seems to be defunct</a>.)</p>
-
-<p>ICEBlock is different. It is <em>only</em> available as a native iOS app.
-According to the developers, this is for technical reasons. From
-their web page explaining <a href="https://www.iceblock.app/android">why they <em>can’t</em> offer an Android
-version</a>:</p>
-
-<blockquote>
-  <p>At ICEBlock, user privacy and security are paramount. Our
-application is designed to provide as much anonymity as possible
-without storing any user data or creating accounts. While we
-understand the desire for an Android version of ICEBlock,
-achieving this level of anonymity on Android is not feasible due
-to the inherent requirements of push notification services.</p>
-
-<p>To send push notifications on Android, it is necessary to use a
-mechanism that requires storing device IDs. This means that we
-would need to maintain a privately hosted database to store these
-identifiers. Storing such data, even if it’s anonymized,
-introduces significant privacy risks. [...]</p>
-
-<p>In contrast, iOS offers us the flexibility to deliver push
-notifications while adhering strictly to our design philosophy.
-Apple’s ecosystem allows for push notifications to be sent
-without requiring us to store any user-identifiable information.
-This ensures that ICEBlock remains completely anonymous and
-secure.</p>
-</blockquote>
-
-<p>To deliver push notifications on Android, the developers claim
-they would need to maintain a database of device IDs, create a
-user account system to manage those device IDs, and all of that
-server-stored data would be susceptible to law enforcement
-subpoenas and pro-ICE red hat hackers. (What “brown shirts” were
-to the Nazis, we should make “red hats” to MAGA.)</p>
-
-<p>To maintain anonymity and store zero user data, there is and can
-be no web app version of ICEBlock. There is and can be no Android
-version. Only iOS supports the security and privacy features for
-ICEBlock to offer what it does, the way it does. Here’s to hoping
-that Apple will proudly defend it if push comes to shove.</p>
-</blockquote>
-
-<p>Apple’s removal of ICEBlock from the App Store is, in multiple ways, <em>worse</em> than Apple’s removal of HKmap.live from the App Store back in 2019. First, you cannot take a disagreement with the Chinese government to court. Here in the United States, you can. But Apple chose not to. That’s a display of weakness. </p>
-
-<p>Second, from the perspective of users, without the HKmap.live “app”, Hong Kong iPhone users could still access all the functionality via the website, and the website could be saved to their home screens as a web app that was, I believe, functionally identical to the version from the App Store. I put “app” in quotes above because the HKmap.live app was really just a thin wrapper around the service’s mobile website. Hongkongers lost some convenience, and they lost the ability to tell non-technical protestor friends “just get it from the App Store”, but it’s not <em>that</em> much more complex to explain how to add a website to your iPhone home screen as a web app.</p>
-
-<p>With ICEBlock, the entire thing is simply no longer available. If you already have ICEBlock installed, the installed version still functions on your iPhone, but, until and if Apple changes its mind, there will be no further software updates and new users are unable to download it. Nor will current users be able to re-download the app on a new iPhone — and now is “new iPhone” season. And, seemingly, there can be no web app (or Android) version of ICEBlock that offers the same level of anonymity as the native iOS version — with notifications, but without user accounts nor any database of device IDs for notifications that would be subject to subpoena from ICEBlock.</p>
-
-<p>The gist of <a href="https://daringfireball.net/linked/2025/07/26/iceblock-trust-apple">my second post on ICEBlock</a> from back in July is that ICEBlock’s privacy-protecting architecture isn’t magic. It’s based on trust in Apple itself. Joshua Aaron doesn’t have access to ICEBlock users’ device IDs (let alone their personal identities), but ICEBlock can send push notifications to devices because Apple itself does know device IDs and users’ identities.</p>
-
-<p>It’s rather chilling to consider what Apple would have done if the Trump administration had “demanded” a list of device IDs and user identities for everyone who had installed ICEBlock. Or what Apple <em>will</em> do if such a demand pops into one of their dimwitted but cruel minds.<sup id="fnr2-2025-10-03"><a href="#fn2-2025-10-03">2</a></sup> I suspect that’s one of the lines Apple would not cross. That Apple would stand its ground there and say “Fuck you, make us” and take it to court. But there’s only one way to find out.</p>
-
-<div class="footnotes">
-<hr />
-<ol>
-
-<li id="fn1-2025-10-03">
-<p>It’s interesting to consider how Aaron might “fight this”. I don’t think suing the Department of Justice is an option. All Pam Bondi did was issue a “demand” to Apple. That’s inappropriate and an embarrassment, and in any normal administration would be just cause for her immediate dismissal from the job. But it’s not against the law. She didn’t issue an unconstitutional legal demand to Apple. She just issued a verbal request with an implicit threat of turning the nation’s MAGA derps and Fox News junkies against Apple. What Apple was afraid of wasn’t fighting this demand in a court of law, but in the court of public opinion.</p>
-
-<p>So maybe Aaron sues Apple? I’m not sure he has grounds for that either, but it’d be interesting to see Apple’s lawyers argue in court that the App Store is no place for apps that protect users’ civil liberties and personal privacy.&nbsp;<a href="#fnr1-2025-10-03"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;︎</a></p>
-</li>
-
-<li id="fn2-2025-10-03">
-<p>A few people have already asked me why it took the Trump administration several months to put ICEBlock in its crosshairs and issue a takedown “demand” to Apple. <a href="https://abc7ny.com/post/iceblock-new-iphone-app-lets-users-know-when-ice-agents-are-area/16902392/">Aaron shipped the first release of ICEBlock back in April</a>, and it achieved a significant amount of well-deserved publicity in July after Trump’s ICE goons began large-scale deportation raids in Los Angeles. My answer is simple: it took them months to issue this demand because they’re so goddamn stupid and incompetent. We should be thankful for that. In a competent regime attempting an authoritarian takeover of a liberal democracy, it would have been taken down in days, not months.&nbsp;<a href="#fnr2-2025-10-03"  class="footnoteBackLink"  title="Jump back to footnote 2 in the text.">&#x21A9;&#xFE0E;</a></p>
-</li>
-
-</ol>
-</div>
-
-
-
-    ]]></content>
-  <title>★ Complying With ‘Demand’ From Trump Administration, Apple Removes ICEBlock From App Store</title></entry></feed><!-- THE END -->
+  <title>★ The Just Plain M5 Chip Launches in Three Updated Products: 14-Inch MacBook Pro, iPad Pro (Both Sizes), and Some Sort of Headset Thingamajig Called Vision Pro</title></entry></feed><!-- THE END -->
