@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-11-11T15:08:29Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-11-11T15:11:34Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	
 	<link rel="alternate" type="text/html" href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=RSS&amp;utm_campaign=q12025" />
 	<link rel="shorturl" href="http://df4.us/wp2" />
@@ -34,7 +34,7 @@
 	<link rel="shorturl" href="http://df4.us/wp1" />
 	<id>tag:daringfireball.net,2025://1.42373</id>
 	<published>2025-11-11T01:34:01Z</published>
-	<updated>2025-11-11T15:08:29Z</updated>
+	<updated>2025-11-11T15:11:34Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -43,7 +43,7 @@
 	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
 <p>I upgrade my iPhones and iPads to new iOS releases, including developer betas, pretty much willy-nilly. But I’m more conservative about the Macs I use for work. For example, I rely on audio software from <a href="https://www.rogueamoeba.com/">Rogue Amoeba</a> for recording both The Talk Show and Dithering, but <a href="https://www.rogueamoeba.com/support/knowledgebase/?showArticle=Troubleshooting-MacOS-26-Tahoe">there were bugs in MacOS 26.0.0 and 26.0.1</a> that could have resulted in lost audio. Those bugs have been fixed as of MacOS 26.1, so I’ve upgraded the Mac I use for podcasting. But I only did that over this weekend. But my main MacBook Pro is still running MacOS 15 Sequoia — not because of any compatibility issues, but simply because I think the Tahoe user interface is goofy looking. I’ll probably bite the bullet and upgrade when 26.2 comes out next month, but for now, I’m luxuriating with a MacOS UI with <a href="https://daringfireball.net/linked/2025/11/07/tahoes-terrible-icons">well-crafted app icons</a> and windows that don’t have <a href="https://mjtsai.com/blog/2025/10/16/tahoe-window-corners/">Fisher-Price-style corner radiuses</a>.</p>
 
-<p>But in the meantime, I’m keeping MacOS 15 Sequoia up to date. When the MacOS 15.7.2 arrived last week, <a href="https://mastodon.social/@gruber/115499153276833424">I noted in a post on Mastodon</a> that it sure looked like clicking the “Update Now” button next to the MacOS 15.7.2 update in System Settings → General → Software Update would actually install the upgrade to MacOS 26.1 Tahoe. There are little “(i)” buttons next to the “Upgrade” buttons for Tahoe 26.1 and “Update” buttons for Sequoia 15.7.2. The “Info” panel that’s presented after clicking <em>either</em> “(i)” button shows that Tahoe 26.1 is the version that is checked.</p>
+<p>But in the meantime, I’m keeping MacOS 15 Sequoia up to date. When the MacOS 15.7.2 update arrived last week, <a href="https://mastodon.social/@gruber/115499153276833424">I noted in a post on Mastodon</a> that it sure looked like clicking the “Update Now” button next to the MacOS 15.7.2 update in System Settings → General → Software Update would actually install the upgrade to MacOS 26.1 Tahoe. There are little “(i)” buttons next to the “Upgrade” buttons for Tahoe 26.1 and “Update” buttons for Sequoia 15.7.2. The “Info” panel that’s presented after clicking <em>either</em> “(i)” button shows that Tahoe 26.1 is the version that is checked.</p>
 
 <p><a href="https://daringfireball.net/misc/2025/11/other-updates-info-button.png" class="noborder">
   <img
@@ -61,7 +61,7 @@
     width = 500
   /></a></p>
 
-<p>Leon Cowle was brave enough to try this out, and, <a href="https://hachyderm.io/@leoncowle/115499194488171450">it turns out</a>, just clicking the “Update Now” button next to Sequoia will, thankfully, do the right thing install the Sequoia 15.7.2 update, not Tahoe. (I followed Cowle’s brave lead and tried it myself, and can confirm that “Update Now” will install the Sequoia 15.7.2 update.) Why the Info panel presented by clicking the “(i)” button <em>next to Sequoia</em> in the “Other Updates” section defaults to installing the upgrade to 26.1 Tahoe, I don’t know. But it sure makes it seem like we need to be more careful than we actually do if we want to stick with MacOS 15 Sequoia for now.</p>
+<p>Leon Cowle was brave enough to try this out, and, <a href="https://hachyderm.io/@leoncowle/115499194488171450">it turns out</a>, just clicking the “Update Now” button next to Sequoia will, thankfully, do the right thing: install the Sequoia 15.7.2 update, not Tahoe. (I followed Cowle’s brave lead and tried it myself, and can confirm that “Update Now” installed the Sequoia 15.7.2 update.) Why the Info panel presented by clicking the “(i)” button <em>next to Sequoia</em> in the “Other Updates” section defaults to installing the upgrade to 26.1 Tahoe, I don’t know. But it sure makes it seem like we need to be more careful than we actually do if we want to stick with MacOS 15 Sequoia for now.</p>
 
 <p>I don’t know what the “i” in that button is supposed to stand for, but it isn’t “intuitive”.</p>
 
