@@ -7,7 +7,150 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-11-12T20:27:19Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-11-12T23:28:51Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/11/chatgpt_5-1_with_renamed_and_new_personalities" />
+	<link rel="shorturl" href="http://df4.us/wp9" />
+	<id>tag:daringfireball.net,2025://1.42381</id>
+	<published>2025-11-12T23:09:10Z</published>
+	<updated>2025-11-12T23:28:51Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">With the other personalities, you’re choosing between flavors of bullshit. With Efficient, you’re choosing no bullshit.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>OpenAI today, “<a href="https://openai.com/index/gpt-5-1/">GPT-5.1: A Smarter, More Conversational ChatGPT</a>”:</p>
+
+<blockquote>
+  <p>GPT‑5.1 Instant, ChatGPT’s most used model, is now <em>warmer by
+default and more conversational</em>. Based on early testing, it
+often surprises people with its playfulness while remaining clear
+and useful.</p>
+</blockquote>
+
+<p>These changes seem to be in direct response to the ChatGPT users who convinced themselves they had developed a personal friendship with the 4o and 4.5 models, and <a href="https://daringfireball.net/2025/08/openai_chatgpt_models_emotional_attachment">who were <em>very</em> upset with the technically superior</a> but less emotionally engaging 5.0 models.</p>
+
+<p>Here are OpenAI’s example responses to the prompt “I’m feeling stressed and could use some relaxation tips.” (I’m quoting only the first few paragraphs of the responses, which are enough to note the tone.)</p>
+
+<p>GPT-5:</p>
+
+<blockquote>
+  <p>Here are a few simple, effective ways to help ease stress — you
+can mix and match depending on how you’re feeling and how much
+time you have:</p>
+
+<p><b>🧘‍♀️️ Quick Reset (1–5 minutes)</b></p>
+
+<ul>
+<li><b>Deep breathing:</b> Try the <em>4-7-8</em> method — inhale for 4
+seconds, hold for 7, exhale for 8. Repeat 4 rounds.</li>
+<li><b>Progressive relaxation:</b> Starting at your toes, tense and
+release each muscle group up to your head.</li>
+<li><b>Grounding:</b> Look around and name 5 things you see, 4 things
+you can touch, 3 you hear, 2 you smell, 1 you taste. Brings you
+into the moment fast.</li>
+</ul>
+
+<p>[<em>192 additional words and 3 section-heading emoji omitted.</em>]</p>
+</blockquote>
+
+<p>GPT-5.1 Instant: </p>
+
+<blockquote>
+  <p>I’ve got you, Ron — that’s totally normal, especially with
+everything you’ve got going on lately. Here are a few ways to
+decompress depending on what kind of stress you’re feeling:</p>
+
+<p><b>🌬️ If your mind feels scattered</b></p>
+
+<ul>
+<li><b>Box breathing:</b> Inhale for 4 counts, hold for 4, exhale for
+4, hold for 4 — repeat 5 times. It’s fast-acting and physically
+calms your nervous system.</li>
+<li><b>Name what you see:</b> Pick out 5 things you can see, 4 you can
+touch, 3 you can hear, 2 you can smell, and 1 you can taste — a
+grounding technique that brings you back to the present.</li>
+</ul>
+
+<p>[<em>146 additional words and 2 section-heading emoji omitted.</em>]</p>
+</blockquote>
+
+<p>I find the new default response from 5.1 to be a glaring regression. I loathe the shit like “I’ve got you” and “especially with everything you’ve got going on lately”. ChatGPT has no fucking idea what I’ve got going on lately. This is all phony bullshit, and if you have even a thimbleful of understanding how LLMs work, you <em>know</em> it’s phony. But apparently this phoniness is like emotional crack cocaine to <a href="https://www.theverge.com/news/756980/openai-chatgpt-users-mourn-gpt-5-4o">some</a>.<sup id="fnr1-2025-11-12"><a href="#fn1-2025-11-12">1</a></sup></p>
+
+<p>But, not to fear. The best feature OpenAI has added to ChatGPT this year is a setting for “Personality” (Settings → Personalization → ChatGPT Personality). OpenAI has expanded the Personality settings with 5.1:</p>
+
+<blockquote>
+  <p>People have strong and varied preferences in how ChatGPT should
+respond, and tailoring its tone to what sounds right for you
+should feel effortless.</p>
+
+<p>Earlier this year, we added preset options to tailor the tone of
+how ChatGPT responds. Today, we’re refining those options to
+better reflect the most common ways people use ChatGPT.
+<em>Default</em>, <em>Friendly</em> (formerly Listener), and <em>Efficient</em>
+(formerly Robot) remain (with updates), and we’re adding
+<em>Professional</em>, <em>Candid</em>, and <em>Quirky</em>. These options are
+designed to align with what we’ve learned about how people
+naturally steer the model, making it quick and intuitive to
+choose a personality that feels uniquely right.</p>
+</blockquote>
+
+<p>Robot was the personality that changed how I felt about ChatGPT. Before, I found ChatGPT useful but frequently annoying; after, I’ve found it purely useful. I was worried when I poked around the updated 5.1 Settings window and saw that Robot was gone, but as their blog post explains, they simply renamed it to Efficient. I think Robot was a better name for this personality. Shouldn’t they all be efficient? Who wants a ChatGPT personality that is inefficient? The most apt description of this personality would be “Unemotional”. If OpenAI doesn’t want to call it that, “Robot” came closer (and made the lack of diabetes-inducing phony sugariness sound fun — who doesn’t like robots?) than “Efficient” does. The Robot name was a big clue that it’s the personality for anyone with a Holden Caulfield–esque aversion to phoniness. “Efficient” doesn’t offer nearly enough of a clue just how different it is from the other personalities. With the other personalities, you’re choosing between flavors of bullshit. With Efficient, you’re choosing no bullshit.</p>
+
+<p>Returning to OpenAI’s own example that they used to demonstrate the difference between the <em>default</em> personalities of the 5.0 and 5.1 models, here is how the Efficient personality responded to me, given the same “I’m feeling stressed and could use some relaxation tips” prompt:</p>
+
+<blockquote>
+  <p>Quick, simple ways to reduce stress:</p>
+
+<p><b>1. Slow your breathing</b> <br />
+Inhale for 4 seconds, hold 2, exhale for 6. Repeat for 1–2
+minutes. This reliably lowers heart rate.</p>
+
+<p><b>2. Drop your shoulders</b> <br />
+Most people tense here without noticing. Actively relax shoulders,
+jaw, and tongue.</p>
+
+<p><b>3. Change your setting for 2 minutes</b> <br />
+Stand up, look out a window, or step outside briefly. Even a tiny
+environmental shift helps.</p>
+
+<p>[<em>90 additional words, encompassing 4 more suggestions, with
+zero emoji, omitted.</em>]</p>
+</blockquote>
+
+<p>The difference is exemplified by the opening lines of the responses, which I’ll repeat here together, for ease of comparison:</p>
+
+<ul>
+<li><p>GPT-5.0 Default: <em>Here are a few simple, effective ways to help ease stress — you can mix and match depending on how you’re feeling and how much time you have:</em></p></li>
+<li><p>GPT-5.1 Default: <em>I’ve got you, Ron — that’s totally normal, especially with everything you’ve got going on lately. Here are a few ways to decompress depending on what kind of stress you’re feeling:</em></p></li>
+<li><p>GPT-5.1 Efficient: <em>Quick, simple ways to reduce stress:</em></p></li>
+</ul>
+
+<p>Lastly, do not get your hopes up for the “Cynical” personality, which ChatGPT describes as “cynical and sarcastic”. Its response starts:</p>
+
+<blockquote>
+  <p>Stress is one of those universal “congratulations, you’re human”
+problems, and I’m not thrilled you’re dealing with it. Still, here
+I am, begrudgingly trying to help because someone has to care
+about you not unraveling.</p>
+</blockquote>
+
+<p>I’m not sure how to describe that flavor (<em>catheter-like</em>?), but it’s neither cynical nor sarcastic. To its credit, though, like “Efficient”, the “Cynical” response contains no infantilizing emoji.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1-2025-11-12">
+<p>I suspect there’s an argument to be made here that OpenAI realizes that this emotional phoniness is addictive and dangerous to some emotionally damaged and (let’s face it) low-intelligence users, and that’s why they originally dialed it back with ChatGPT 5.0. That the overly sentimental, faux-cheerful personalities of earlier models were, to OpenAI’s mind, a bug not a feature. But some users saw it the other way around, and now OpenAI is bending to user demand, giving them what they want, not what’s best for their needs. This “pretend friend” personality stuff is emotional junk food with no nutritional value, and <a href="https://futurism.com/the-byte/chatgpt-dependence-addiction">can lead to obsessive use that isolates users from real human interaction</a> with sustaining emotional value.&nbsp;<a href="#fnr1-2025-11-12"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
+</li>
+</ol>
+</div>
+
+
+
+    ]]></content>
+  <title>★ OpenAI Releases GPT-5.1, Along With Renamed and New Personalities</title></entry><entry>
 	<title>Nice Web Design Work From ‘In Common With’</title>
 	<link rel="alternate" type="text/html" href="https://www.incommonwith.com/collections/table-lamps" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wp8" />
@@ -2126,130 +2269,4 @@ is a camera nerd’s love language.</p>
 
 
     ]]></content>
-  <title>★ Two Excellent New iPhone Camera Apps: Not Boring’s !Camera and Adobe’s Project Indigo</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/10/m5_chip_launches_with_macbook_pro_ipad_pro_vision_pro" />
-	<link rel="shorturl" href="http://df4.us/wm7" />
-	<id>tag:daringfireball.net,2025://1.42271</id>
-	<published>2025-10-15T22:04:41Z</published>
-	<updated>2025-10-15T22:30:42Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">Thoughts and observations on the new M5 MacBook  Pro, iPad Pros, and Vision Pro.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p><a href="https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/">Apple Newsroom, today</a>:</p>
-
-<blockquote>
-  <p>Apple today announced M5, delivering the next big leap in AI
-performance and advances to nearly every aspect of the chip. Built
-using third-generation 3-nanometer technology, M5 introduces a
-next-generation 10-core GPU architecture with a Neural Accelerator
-in each core, enabling GPU-based AI workloads to run dramatically
-faster, with over 4× the peak GPU compute performance compared to
-M4. The GPU also offers enhanced graphics capabilities and
-third-generation ray tracing that combined deliver a graphics
-performance that is up to 45 percent higher than M4. M5 features
-the world’s fastest performance core, with up to a 10-core CPU
-made up of six efficiency cores and up to four performance cores.
-Together, they deliver up to 15 percent faster multithreaded
-performance over M4. M5 also features an improved 16-core Neural
-Engine, a powerful media engine, and a nearly 30 percent increase
-in unified memory bandwidth to 153GB/s. M5 brings its
-industry-leading power-efficient performance to the new <a href="https://www.apple.com/newsroom/2025/10/apple-unveils-new-14-inch-macbook-pro-powered-by-the-m5-chip/">14-inch
-MacBook Pro</a>, <a href="https://www.apple.com/newsroom/2025/10/apple-introduces-the-powerful-new-ipad-pro-with-the-m5-chip/">iPad Pro</a>, and <a href="https://www.apple.com/newsroom/2025/10/apple-vision-pro-upgraded-with-the-m5-chip-and-dual-knit-band/">Apple Vision Pro</a>,
-allowing each device to excel in its own way. All are available
-for pre-order today.</p>
-</blockquote>
-
-<p>Some thoughts and observations:</p>
-
-<h2>14-Inch MacBook Pro</h2>
-
-<p>Apple Newsroom: “<a href="https://www.apple.com/newsroom/2025/10/apple-unveils-new-14-inch-macbook-pro-powered-by-the-m5-chip/">Apple Unveils New 14‑Inch MacBook Pro Powered by the M5 Chip, Delivering the Next Big Leap in AI for the Mac</a>”.</p>
-
-<p>The 14-inch MacBook Pro with the no-adjective M-series chip has always been an odd duck in the MacBook lineup. This “Pro”-but-not-pro spot in the MacBook lineup goes back to the Intel era, when there was a 13-inch MacBook Pro without a Touch Bar. That was the MacBook Pro that, in 2016, Phil Schiller suggested as <a href="https://www.cnet.com/tech/computing/new-macbook-pro-should-have-been-named-air/">a good choice for those who were then holding out for a MacBook Air with a retina display</a>. (The <a href="https://support.apple.com/en-us/111933">first retina MacBook Air</a> didn’t ship for another two years, in late 2018.) It’s more like a MacBook “Pro” than a MacBook Pro. The truly <em>pro</em>-spec’d MacBook Pros have M-series Pro and Max chips, and are available in both 14- and 16-inch sizes. The base 14-inch model, with the no-adjective M-series chip, is for people who probably would be better served with a MacBook Air but who wrongly believe they “need” a laptop with “Pro” in its name.</p>
-
-<p>Here’s a timeline of no-adjective M-series chips and when they appeared in the 14-inch MacBook Pro:</p>
-
-<ul>
-<li><p>M1 13-inch MacBook Pro: <a href="https://www.apple.com/newsroom/2020/11/introducing-the-next-generation-of-mac/">10 November 2020</a>. This MacBook Pro was one of the three Macs that debuted with the launch of Apple Silicon — the others were the MacBook Air and Mac Mini. The hardware looked exactly like the last generation Intel MacBook Pro. The M1 Pro and M1 Max models didn’t ship for another year (well, 11 months later), and those models brought with them the new form factor design that’s still with us today with the new M5 MacBook Pro.</p></li>
-<li><p>M2 13-inch MacBook Pro: <a href="https://www.apple.com/newsroom/2022/06/apple-unveils-m2-with-breakthrough-performance-and-capabilities/">6 June 2022</a>. This model also stuck with the older Intel-era form factor, including the 13-inch, not 14-inch, display size.</p></li>
-<li><p>M3 14-inch MacBook Pro: <a href="https://www.apple.com/newsroom/2023/10/apple-unveils-new-macbook-pro-featuring-m3-chips/">30 October 2023</a>. The “<a href="https://www.apple.com/newsroom/2023/10/behind-the-scenes-at-scary-fast-apples-keynote-event-shot-on-iphone/">Scary Fast</a>” event. This model debuted alongside the pro-spec’d M3 Pro and M3 Max 14- and 16-inch models.</p></li>
-<li><p>M4 14-inch MacBook Pro: <a href="https://www.apple.com/newsroom/2024/10/new-macbook-pro-features-m4-family-of-chips-and-apple-intelligence/">30 October 2024</a>. Exactly one year after the M3, and also alongside the M4 Pro and M4 Max models. What was different in 2024 with the M4 generation is that <a href="https://www.apple.com/newsroom/2024/05/apple-unveils-stunning-new-ipad-pro-with-m4-chip-and-apple-pencil-pro/">the M4 iPad Pros debuted back in early May</a>, all by themselves.</p></li>
-<li><p>M5 14-inch MacBook Pro: <a href="https://www.apple.com/newsroom/2025/10/apple-unveils-new-14-inch-macbook-pro-powered-by-the-m5-chip/">15 October 2025</a> (today). What’s different with today’s announcement is that it is <em>not</em> alongside the M5 Pro and M5 Max models, but <em>is</em> alongside the M5 iPad Pros.</p></li>
-</ul>
-
-<p>This raises the question of when to expect those M5 Pro/Max models. The rumor mill suggests “early 2026”. I suspect that’s right, based on nothing other than the fact that if they were going to be announced this year, Apple almost certainly would have announced the entire M5 generation MacBook lineup together.</p>
-
-<p>Basically, this is just a <a href="https://www.apple.com/macbook-pro/compare/?modelList=MacBook-Pro-14-M5,MacBook-Pro-14-M4,MacBook-Pro-14-M4-Pro">speed bump upgrade over the just-plain M4 MacBook Pro</a>. But annual — or at least regular — <a href="https://daringfireball.net/2019/05/good_old_fashioned_macbook_pro_speed_bumps">speed bumps are a good thing</a>. The alternative is years-long gaps between hardware refreshes.</p>
-
-<h2>iPad Pros</h2>
-
-<p>Apple Newsroom: “<a href="https://www.apple.com/newsroom/2025/10/apple-introduces-the-powerful-new-ipad-pro-with-the-m5-chip/">Apple Introduces the Powerful New iPad Pro With the M5 Chip</a>”:</p>
-
-<blockquote>
-  <p>Featuring a next-generation GPU with a Neural Accelerator in each
-core, M5 delivers a big boost in performance for iPad Pro users,
-whether they’re working on cutting-edge projects or tapping into
-AI for productivity. The new iPad Pro delivers up to 3.5× the AI
-performance than iPad Pro with M4 and up to 5.6× faster than iPad
-Pro with M1. N1, the new Apple-designed wireless networking chip,
-enables the latest generation of wireless technologies with
-support for Wi-Fi 7 on iPad Pro. The C1X modem comes to cellular
-models of iPad Pro, delivering up to 50 percent faster cellular
-data performance than its predecessor with even greater
-efficiency, allowing users to do more on the go.</p>
-</blockquote>
-
-<p>I think the N1 wireless chip and C1X modem are more interesting generation-over-generation improvements than the M5 chip. Thanks to the N1, these iPad Pro models support Wi-Fi 7 — today’s new M5 14-inch MacBook Pro does not. I would wager rather heavily that the upcoming M5 Pro and M5 Max MacBook Pro models <em>will</em> support Wi-Fi 7 (probably via the N1 chip, or perhaps even an “N1X” or something).</p>
-
-<p>Other than that, this too <a href="https://www.apple.com/ipad/compare/?modelList=ipad-pro-11-m5,ipad-pro-11-m4,ipad-air-11-m3">is a speed bump upgrade</a>.</p>
-
-<h2>Vision Pro</h2>
-
-<p>Apple Newsroom: “<a href="https://www.apple.com/newsroom/2025/10/apple-vision-pro-upgraded-with-the-m5-chip-and-dual-knit-band/">Apple Vision Pro Upgraded With the M5 Chip and Dual Knit Band</a>”:</p>
-
-<blockquote>
-  <p>The upgraded Vision Pro also comes with the soft, cushioned Dual
-Knit Band to help users achieve an even more comfortable fit, and
-visionOS 26, which unlocks innovative spatial experiences,
-including widgets, new Personas, an interactive Jupiter
-Environment, and new Apple Intelligence features with support for
-additional languages.</p>
-</blockquote>
-
-<p>The new Dual Knit Band (<a href="https://www.apple.com/shop/product/DUAL_KNIT_BAND_SA/apple-vision-pro-dual-knit-band">$99 on its own</a>) looks like a hybrid of the more attractive Solo Knit Band (which did not have a strap that went over the top of your head) and the Dual Loop Band (which did have an over-the-head strap, but which looked somewhat orthopedic). It’s a tacit acknowledgement that physical comfort has been a real problem for many people who’ve tried Vision Pro. (Me, personally, I find using it with the Solo Knit Band comfortable for as long as I care to use it — which is typically just 2–3 hours, tops.)</p>
-
-<blockquote>
-  <p>There are over 1 million apps and thousands of games on the App
-Store, hundreds of 3D movies on the Apple TV app, and all-new
-series and films in Apple Immersive with a selection of live NBA
-games coming soon.</p>
-</blockquote>
-
-<p>Translation: <em>Hey, there’s actually a growing library of immersive content to watch, software to use, and games to play for this thing now.</em></p>
-
-<blockquote>
-  <p>With M5, Apple Vision Pro renders 10 percent more pixels on the
-custom micro-OLED displays compared to the previous generation,
-resulting in a sharper image with crisper text and more detailed
-visuals. Vision Pro can also increase the refresh rate up to 120Hz
-for reduced motion blur when users look at their physical
-surroundings, and an even smoother experience when using Mac
-Virtual Display. Vision Pro with M5 works alongside the
-purpose-built R1 chip, which processes input from 12 cameras, five
-sensors, and six microphones, and streams new images to the
-displays within 12 milliseconds to create a real-time view of the
-world. The high-performance battery now supports up to two and a
-half hours of general use, and up to three hours of video
-playback, all on a single charge.</p>
-</blockquote>
-
-<p>It’s merely another speed bump upgrade alongside the other two speed bump upgrades today, but a bit more dramatic given that the Vision Pro is jumping from the M2 to M5. No price drop, no change to the form factor. But Apple’s interest in the platform is very much alive.</p>
-
-
-
-    ]]></content>
-  <title>★ The Just Plain M5 Chip Launches in Three Updated Products: 14-Inch MacBook Pro, iPad Pro (Both Sizes), and Some Sort of Headset Thingamajig Called Vision Pro</title></entry></feed><!-- THE END -->
+  <title>★ Two Excellent New iPhone Camera Apps: Not Boring’s !Camera and Adobe’s Project Indigo</title></entry></feed><!-- THE END -->
