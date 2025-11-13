@@ -7,13 +7,13 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-11-12T23:32:59Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-11-13T00:21:04Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/11/chatgpt_5-1_with_renamed_and_new_personalities" />
 	<link rel="shorturl" href="http://df4.us/wp9" />
 	<id>tag:daringfireball.net,2025://1.42381</id>
 	<published>2025-11-12T23:09:10Z</published>
-	<updated>2025-11-12T23:32:59Z</updated>
+	<updated>2025-11-12T23:53:44Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -96,7 +96,7 @@ naturally steer the model, making it quick and intuitive to
 choose a personality that feels uniquely right.</p>
 </blockquote>
 
-<p>Robot was the personality that changed how I felt about ChatGPT. Before, I found ChatGPT useful but frequently annoying; after, I’ve found it purely useful. I was worried when I poked around the updated 5.1 Settings window and saw that Robot was gone, but as their blog post explains, they simply renamed it to Efficient. I think Robot was a better name for this personality. Shouldn’t they all be efficient? Who wants a ChatGPT personality that is inefficient? The most apt description of this personality would be “Unemotional”. If OpenAI doesn’t want to call it that, “Robot” came closer (and made the lack of diabetes-inducing phony sugariness sound fun — who doesn’t like robots?) than “Efficient” does. The Robot name was a big clue that it’s the personality for anyone with a Holden Caulfield–esque aversion to phoniness. “Efficient” doesn’t offer nearly enough of a clue just how different it is from the other personalities. With the other personalities, you’re choosing between flavors of bullshit. With Efficient, you’re choosing no bullshit.</p>
+<p>Robot was the personality that changed how I felt about ChatGPT. Before, I found ChatGPT useful but frequently annoying; after, I’ve found it purely useful.<sup id="fnr2-2025-11-12"><a href="#fn2-2025-11-12">2</a></sup> I was worried when I poked around the updated 5.1 Settings window and saw that Robot was gone, but as their blog post explains, they simply renamed it to Efficient. I think Robot was a better name for this personality. Shouldn’t they all be efficient? Who wants a ChatGPT personality that is inefficient? The most apt description of this personality would be “Unemotional”. If OpenAI doesn’t want to call it that, “Robot” came closer (and made the lack of diabetes-inducing phony sugariness sound fun — who doesn’t like robots?) than “Efficient” does. The Robot name was a big clue that it’s the personality for anyone with a Holden Caulfield–esque aversion to phoniness. “Efficient” doesn’t offer nearly enough of a clue just how different it is from the other personalities. With the other personalities, you’re choosing between flavors of bullshit. With Efficient, you’re choosing no bullshit.</p>
 
 <p>Returning to OpenAI’s own example that they used to demonstrate the difference between the <em>default</em> personalities of the 5.0 and 5.1 models, here is how the Efficient personality responded to me, given the same “I’m feeling stressed and could use some relaxation tips” prompt:</p>
 
@@ -141,9 +141,15 @@ about you not unraveling.</p>
 <div class="footnotes">
 <hr />
 <ol>
+
 <li id="fn1-2025-11-12">
 <p>I suspect there’s an argument to be made here that OpenAI realizes that this emotional phoniness is addictive and dangerous to some emotionally damaged and (let’s face it) low-intelligence users, and that’s why they originally dialed it back with ChatGPT 5.0. That the overly sentimental, faux-cheerful personalities of earlier models were, to OpenAI’s mind, a bug not a feature. But some users saw it the other way around, and now OpenAI is bending to user demand, giving them what they want, not what’s best for their needs. This “pretend friend” personality stuff is emotional junk food with no nutritional value, and <a href="https://futurism.com/the-byte/chatgpt-dependence-addiction">can lead to obsessive use that isolates users from real human interaction</a> with sustaining emotional value.&nbsp;<a href="#fnr1-2025-11-12"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
 </li>
+
+<li id="fn2-2025-11-12">
+<p>I previously used custom instructions for ChatGPT to try to create the sort of no-bullshit personality I wanted. “Use a neutral tone. Don’t pretend to have emotions or a personality. Don’t pretend to be my friend. Mimic the no-nonsense personality of HAL-9000 from <em>2001: A Space Odyssey</em>.” Stuff like that. Before the availability of the Robot personality (now called Efficient), these instructions helped, but only a little. After I started using the Robot personality, I wound up deleting all of these custom instructions, because they were actually having the reverse effect, leading even the Robot personality to occasionally pad responses with needless phrases like “Here are the facts, plain and simple, without any sentimentality, just like you want them...”. If you’re looking for a similar affect from ChatGPT, try the Efficient (née Robot) personality without any additional instructions — especially instructions you might have added before the Personality setting was available.&nbsp;<a href="#fnr2-2025-11-12"  class="footnoteBackLink"  title="Jump back to footnote 2 in the text.">&#x21A9;&#xFE0E;︎</a></p>
+</li>
+
 </ol>
 </div>
 
@@ -287,7 +293,7 @@ reddish hair.”</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/11/ipod-socks-iphone-pocket" />
 	<id>tag:daringfireball.net,2025:/linked//6.42377</id>
 	<published>2025-11-11T23:25:50Z</published>
-	<updated>2025-11-11T23:34:53Z</updated>
+	<updated>2025-11-13T00:21:04Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -311,7 +317,7 @@ a warm expression of Apple’s playful side (and, as Jobs quipped,
 would “keep your iPod warm on cold days”).</p>
 </blockquote>
 
-<p>When Jobs announced iPod Socks in 2004, a lot of people thought he was pulling a gag. Some people didn’t believe they were real <a href="https://daringfireball.net/linked/2004/11/12/socks">until they went on sale</a>. My wife and I bought a pack and we both enjoyed them. (I took the gray one, natch.) It was a nice way to protect your iPod before throwing it in a bag, and getting six for $30 felt like a lark.</p>
+<p>When <a href="https://www.youtube.com/watch?v=UwVymejFMpw">Jobs announced iPod Socks in 2004</a>, a lot of people thought he was pulling a gag. Some people didn’t believe they were real <a href="https://daringfireball.net/linked/2004/11/12/socks">until they went on sale</a>. My wife and I bought a pack and we both enjoyed them. (I took the gray one, natch.) It was a nice way to protect your iPod before throwing it in a bag, and getting six for $30 felt like a lark.</p>
 
 <p>No one seems worried that iPhone Pocket is a gag. Make of that what you will.</p>
 
