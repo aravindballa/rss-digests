@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-11-15T02:09:39Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-11-15T16:35:12Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>The Information: Second-Gen iPhone Air Postponed Until Spring 2027, but Might Gain Second Camera</title>
 	<link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/apple-explores-adding-second-camera-next-iphone-air-boost-sales" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wpe" />
@@ -195,7 +195,7 @@ actively developing support for it.</p>
 	<link rel="shorturl" href="http://df4.us/wp9" />
 	<id>tag:daringfireball.net,2025://1.42381</id>
 	<published>2025-11-12T23:09:10Z</published>
-	<updated>2025-11-12T23:53:44Z</updated>
+	<updated>2025-11-15T16:35:12Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -211,9 +211,9 @@ often surprises people with its playfulness while remaining clear
 and useful.</p>
 </blockquote>
 
-<p>These changes seem to be in direct response to the ChatGPT users who convinced themselves they had developed a personal friendship with the 4o and 4.5 models, and <a href="https://daringfireball.net/2025/08/openai_chatgpt_models_emotional_attachment">who were <em>very</em> upset with the technically superior</a> but less emotionally engaging 5.0 models.</p>
+<p>These changes seem to be in direct response to the ChatGPT users who convinced themselves they had developed personal friendships with the 4o and 4.5 models, and <a href="https://daringfireball.net/2025/08/openai_chatgpt_models_emotional_attachment">who were <em>very</em> upset with the technically superior</a> but less emotionally engaging 5.0 models.</p>
 
-<p>Here are OpenAI’s example responses to the prompt “I’m feeling stressed and could use some relaxation tips.” (I’m quoting only the first few paragraphs of the responses, which are enough to note the tone.)</p>
+<p>Here are OpenAI’s example responses, quoted in their announcement, to the prompt “I’m feeling stressed and could use some relaxation tips.” (I’m quoting only the first few paragraphs of the responses, which are enough to note the tone.)</p>
 
 <p>GPT-5:</p>
 
@@ -258,7 +258,7 @@ grounding technique that brings you back to the present.</li>
 <p>[<em>146 additional words and 2 section-heading emoji omitted.</em>]</p>
 </blockquote>
 
-<p>I find the new default response from 5.1 to be a glaring regression. I loathe the shit like “I’ve got you” and “especially with everything you’ve got going on lately”. ChatGPT has no fucking idea what I’ve got going on lately. This is all phony bullshit, and if you have even a thimbleful of understanding how LLMs work, you <em>know</em> it’s phony. But apparently this phoniness is like emotional crack cocaine to <a href="https://www.theverge.com/news/756980/openai-chatgpt-users-mourn-gpt-5-4o">some</a>.<sup id="fnr1-2025-11-12"><a href="#fn1-2025-11-12">1</a></sup></p>
+<p>I find the new default response from 5.1 to be a glaring regression. I loathe the shit like “I’ve got you” and “especially with everything you’ve got going on lately”. ChatGPT has no fucking idea what I’ve got going on lately. This is all phony bullshit, and if you have even a thimbleful of understanding of how LLMs work, you <em>know</em> it’s phony. But apparently this phoniness is like emotional crack cocaine to <a href="https://www.theverge.com/news/756980/openai-chatgpt-users-mourn-gpt-5-4o">some</a>.<sup id="fnr1-2025-11-12"><a href="#fn1-2025-11-12">1</a></sup></p>
 
 <p>But, not to fear. The best feature OpenAI has added to ChatGPT this year is a setting for “Personality” (Settings → Personalization → ChatGPT Personality). OpenAI has expanded the Personality settings with 5.1:</p>
 
@@ -325,7 +325,7 @@ about you not unraveling.</p>
 <ol>
 
 <li id="fn1-2025-11-12">
-<p>I suspect there’s an argument to be made here that OpenAI realizes that this emotional phoniness is addictive and dangerous to some emotionally damaged and (let’s face it) low-intelligence users, and that’s why they originally dialed it back with ChatGPT 5.0. That the overly sentimental, faux-cheerful personalities of earlier models were, to OpenAI’s mind, a bug not a feature. But some users saw it the other way around, and now OpenAI is bending to user demand, giving them what they want, not what’s best for their needs. This “pretend friend” personality stuff is emotional junk food with no nutritional value, and <a href="https://futurism.com/the-byte/chatgpt-dependence-addiction">can lead to obsessive use that isolates users from real human interaction</a> with sustaining emotional value.&nbsp;<a href="#fnr1-2025-11-12"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
+<p>I suspect there’s an argument to be made here that OpenAI realizes that this emotional phoniness is addictive and dangerous to some emotionally damaged and (let’s face it) low-intelligence users, and that’s why they originally dialed it back with ChatGPT 5.0. That the overly sentimental, faux-cheerful default character of earlier models was, to OpenAI’s mind, a bug not a feature. But some users saw it the other way around, and now OpenAI is bending to user demand, giving them what they want, not what’s best for their needs. This “pretend friend” personality stuff is emotional junk food with no nutritional value, and <a href="https://futurism.com/the-byte/chatgpt-dependence-addiction">can lead to obsessive use that isolates users from real human interaction</a> with sustaining emotional value.&nbsp;<a href="#fnr1-2025-11-12"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
 </li>
 
 <li id="fn2-2025-11-12">
