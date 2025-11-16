@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-11-16T03:13:07Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-11-16T04:17:03Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>Financial Times: ‘Apple Intensifies Succession Planning for CEO Tim Cook’</title>
 	<link rel="alternate" type="text/html" href="https://www.ft.com/content/0d424625-f4f8-4646-9f6e-927c8cbe0e3e" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wpg" />
@@ -65,7 +65,7 @@ intensified, the timing of any announcement could change.</p>
 	<link rel="shorturl" href="http://df4.us/wpf" />
 	<id>tag:daringfireball.net,2025://1.42387</id>
 	<published>2025-11-16T00:57:02Z</published>
-	<updated>2025-11-16T00:57:16Z</updated>
+	<updated>2025-11-16T04:17:03Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -108,7 +108,7 @@ as well.</p>
 
 <p>Lastly, I wonder if this bodes poorly for the future of the current <a href="https://apps.apple.com/us/app/whatsapp-messenger/id310633997">WhatsApp app for MacOS</a>, a native app written using <a href="https://developer.apple.com/documentation/uikit/mac-catalyst">Mac Catalyst</a>, Apple’s framework for porting iOS UIKit apps to the Mac. Like most Catalyst apps, WhatsApp for Mac isn’t a good Mac app. It doesn’t support the Services menu at all. It doesn’t let you open chats into standalone windows, or open more than one chat window. It opens its Settings right in its one main window. The whole “there’s only one window, and everything is in that one window” design is very iOS. The menu bar is a HIG prescriptivist’s nightmare. All the multi-word menu commands are in <em>Sentence case</em> rather than <em>Title Case</em> (except, of course, for the menu commands that come “free” with Catalyst — how do the developers of the app not notice this?), and the menu title order goes: File, Chat, Edit, Call, View, Window, Help (obviously <a href="https://developer.apple.com/design/human-interface-guidelines/the-menu-bar">it should be</a> File, Edit, View, Chat, Call, Window, Help). Has there ever once, in 41 years, been a good Mac app that puts a menu between “File” and “Edit”?</p>
 
-<p>But, still, WhatsApp for Mac is a better Mac app <a href="https://daringfireball.net/2018/12/electron_and_the_decline_of_native_apps">than any Electron app I’ve ever used</a>. Examining it now, it seems lightweight on both CPU usage and memory. It feels a bit better to me than either Signal or Beeper, both of which are developed using Electron, and both which consume more RAM than WhatsApp. To name just one obvious nicety: when you send a new message in an older chat in WhatsApp, that chat <em>animates</em> as it moves to the top of the list of chats. It slides up, and other chats slide down as they re-sort. In the Signal and Beeper apps for Mac, an updated chat just zaps to the top of the chat list, with no animation at all. Gross.</p>
+<p>But, still, WhatsApp for Mac is a better Mac app <a href="https://daringfireball.net/2018/12/electron_and_the_decline_of_native_apps">than any Electron app I’ve ever used</a>. Examining it now, it seems lightweight on both CPU usage and memory. It feels a bit better to me than either Signal or Beeper, both of which are developed using Electron, and both of which consume more RAM than WhatsApp. To name just one obvious nicety: when you send a new message in an older chat in WhatsApp, that chat <em>animates</em> as it moves to the top of the list of chats. It slides up, and other chats slide down as they re-sort. In the Signal and Beeper apps for Mac, an updated chat just zaps to the top of the chat list, with no animation at all. Gross.</p>
 
 <p>The question is, did Meta scrap its native Windows app because they don’t care that much about Windows in particular? Or because they don’t care that much about native desktop apps, period — and a crude web app wrapper is coming to Mac next? WhatsApp for Mac is currently the <a href="https://apps.apple.com/us/mac/charts/36?chart=top-free">top-ranked free app in the Mac App Store</a> — but it’s also <a href="https://apps.microsoft.com/collections/computed/apps/TopTrending?hl=en-US&amp;gl=US">the top-ranked free Windows app in the Microsoft Store</a>. Meta did just ship a native Apple Watch app for WhatsApp, but if you want an app for WatchOS, it has to be native. You can’t ship a web app wrapper like an Electron app there.</p>
 
