@@ -7,7 +7,65 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-11-15T16:35:12Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-11-16T00:57:16Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/11/meta_whatsapp_windows_shitty_web_app" />
+	<link rel="shorturl" href="http://df4.us/wpf" />
+	<id>tag:daringfireball.net,2025://1.42387</id>
+	<published>2025-11-16T00:57:02Z</published>
+	<updated>2025-11-16T00:57:16Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">The question is, did Meta scrap its native Windows app because they don’t care that much about Windows in particular? Or because they don’t care that much about native desktop apps, period — and a crude web app wrapper is coming to Mac next?</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p><a href="https://www.windowslatest.com/2025/11/12/meta-just-killed-native-whatsapp-on-windows-11-now-it-opens-webview-uses-1gb-ram-all-the-time/">Mayank Parmar, writing for Windows Latest</a>:</p>
+
+<blockquote>
+  <p>WhatsApp on Windows 11 has just got a “major” upgrade, and you’re
+probably going to hate it because it simply loads web.whatsapp.com
+in a WebView2 container. This means WhatsApp on Windows 11 is
+cooked, and it’s back to being absolute garbage in terms of
+performance.</p>
+
+<p>WhatsApp is one of those Windows apps that went from being a web
+wrapper to a native app and then back to the web again after all
+these years of investment. WhatsApp for Windows was originally an
+Electron app, and it was eventually replaced with UWP after years
+of investment. Four years later, WhatsApp is going back to
+WebView2, abandoning the original WinUI/UWP native idea. [...]</p>
+
+<p>An app can use a lot of memory, and it does not necessarily mean
+it’s a performance nightmare, but the issue with the new WhatsApp
+is that it feels sluggish. You’re going to notice sluggish
+performance, long loading time, and other performance issues when
+browsing different conversations.</p>
+
+<p>We also noticed that it does not work well with Windows
+notifications. It also struggles with Windows 11’s Do Not Disturb
+mode or Active Hours. And there are delayed notifications problems
+as well.</p>
+</blockquote>
+
+<p>I found this post interesting on a few fronts.</p>
+
+<p>First, from the perspective of Meta. They replaced a shitty web app wrapper for Windows with a modern native Windows app, one that seemingly pleased Windows aficionados like Parmar. And now they’ve thrown that app away, going back to what that native app replaced four years ago: a web app wrapper that is bloated, slow, and unsurprisingly has poor support for native Windows features. It’s bad enough that so many large companies never even bother creating native apps, but it feels even worse to see a good native app abandoned.</p>
+
+<p>Second, it’s interesting reading Parmar’s list of gripes about the new web-app-wrapper WhatsApp app. All his gripes have merit, but it struck me that none of them are about the UI. Maybe the web app’s UI is actually fine? I have no idea. But I suspect it’s more that the Windows nerd mindset has UI design quality and adherence to recommended platform idioms way down on their list of priorities. That’s why they’re Windows users, not Mac users.</p>
+
+<p>Lastly, I wonder if this bodes poorly for the future of the current <a href="https://apps.apple.com/us/app/whatsapp-messenger/id310633997">WhatsApp app for MacOS</a>, a native app written using <a href="https://developer.apple.com/documentation/uikit/mac-catalyst">Mac Catalyst</a>, Apple’s framework for porting iOS UIKit apps to the Mac. Like most Catalyst apps, WhatsApp for Mac isn’t a good Mac app. It doesn’t support the Services menu at all. It doesn’t let you open chats into standalone windows, or open more than one chat window. It opens its Settings right in its one main window. The whole “there’s only one window, and everything is in that one window” design is very iOS. The menu bar is a HIG prescriptivist’s nightmare. All the multi-word menu commands are in <em>Sentence case</em> rather than <em>Title Case</em> (except, of course, for the menu commands that come “free” with Catalyst — how do the developers of the app not notice this?), and the menu title order goes: File, Chat, Edit, Call, View, Window, Help (obviously <a href="https://developer.apple.com/design/human-interface-guidelines/the-menu-bar">it should be</a> File, Edit, View, Chat, Call, Window, Help). Has there ever once, in 41 years, been a good Mac app that puts a menu between “File” and “Edit”?</p>
+
+<p>But, still, WhatsApp for Mac is a better Mac app <a href="https://daringfireball.net/2018/12/electron_and_the_decline_of_native_apps">than any Electron app I’ve ever used</a>. Examining it now, it seems lightweight on both CPU usage and memory. It feels a bit better to me than either Signal or Beeper, both of which are developed using Electron, and both which consume more RAM than WhatsApp. To name just one obvious nicety: when you send a new message in an older chat in WhatsApp, that chat <em>animates</em> as it moves to the top of the list of chats. It slides up, and other chats slide down as they re-sort. In the Signal and Beeper apps for Mac, an updated chat just zaps to the top of the chat list, with no animation at all. Gross.</p>
+
+<p>The question is, did Meta scrap its native Windows app because they don’t care that much about Windows in particular? Or because they don’t care that much about native desktop apps, period — and a crude web app wrapper is coming to Mac next? WhatsApp for Mac is currently the <a href="https://apps.apple.com/us/mac/charts/36?chart=top-free">top-ranked free app in the Mac App Store</a> — but it’s also <a href="https://apps.microsoft.com/collections/computed/apps/TopTrending?hl=en-US&amp;gl=US">the top-ranked free Windows app in the Microsoft Store</a>. Meta did just ship a native Apple Watch app for WhatsApp, but if you want an app for WatchOS, it has to be native. You can’t ship a web app wrapper like an Electron app there.</p>
+
+<p>Personally, I won’t care too much if Meta shitcans the WhatsApp Mac app, because I barely use WhatsApp. But outside America, WhatsApp is the dominant messaging platform in much (most?) of the world. I’d be worried  if I were a Mac user who uses WhatsApp heavily.</p>
+
+
+
+    ]]></content>
+  <title>★ Meta Replaced the Native WhatsApp for Windows 11 With a Shitty Web App</title></entry><entry>
 	<title>The Information: Second-Gen iPhone Air Postponed Until Spring 2027, but Might Gain Second Camera</title>
 	<link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/apple-explores-adding-second-camera-next-iphone-air-boost-sales" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wpe" />
@@ -2098,145 +2156,4 @@ calculated and Apple’s application for permission to appeal.</p>
 
 
     ]]></content>
-  <title>★ Apple Loses Landmark U.K. Lawsuit Over App Store Commissions</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/10/not_boring_camera_and_adobe_project_indigo" />
-	<link rel="shorturl" href="http://df4.us/wmv" />
-	<id>tag:daringfireball.net,2025://1.42295</id>
-	<published>2025-10-21T19:25:14Z</published>
-	<updated>2025-10-22T16:48:11Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">Two new(ish) iPhone camera apps that take decidedly different approaches to distinguish themselves from Apple’s built-in Camera app.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p><a href="https://daringfireball.net/misc/2025/10/sjt-june-2025.jpeg" class="noborder">
-  <img
-    src = "https://daringfireball.net/misc/2025/10/sjt-june-2025.jpeg"
-    alt = "The lower atrium at Steve Jobs Theater, WWDC 2025."
-    width = 500
-/></a></p>
-
-<p>I took the above photo on Monday, June 9, <a href="https://glass.photo/gruber/series/2skCCKMH4LYm8HAuxeoMHo-wwdc-2025-apple-park">this year at WWDC</a>. Keynote day, around 1:30pm PT. I captured it using my iPhone 16 Pro and <a href="https://notbor.ing/product/camera">Not Boring’s !Camera app</a>, using the built-in Mono Tokyo LUT. Like the other apps in Not Boring’s growing suite, !Camera can be mistaken by the too-cynical as a toy. It is fun and colorful, and some of its features exist for the sake of fun alone. But, just like Not Boring’s other offerings (my favorites: <a href="https://notbor.ing/product/weather">!Weather</a>, <a href="https://notbor.ing/product/calculator">!Calculator</a>, and <a href="https://notbor.ing/product/habits">!Habits</a>), it’s a genuinely serious tool. And of the bunch, I think !Camera is the most innovative. The fact that it’s fun makes me want to use it — a vastly underestimated attribute of tool design. <a href="https://notbor.ing/product/camera">From Not Boring’s website</a>:</p>
-
-<blockquote>
-  <p>Go from snap to sharing without any editing. !Camera is the first
-camera app to enable professional-level color grading with 3D LUTs
-(“lookup tables”) used in high-end workflows by pro photographers
-to achieve realistic film simulations and unique cinematic looks.
-Use !Camera’s designed presets, add LUTs from your favorite
-creators, or make and import your own! New Styles and
-collaborations released every season.</p>
-</blockquote>
-
-<p>!Camera <em>looks</em> gimmicky but I assure you it’s not — and what might strike you as gimmicky is really just plain fun and whimsical. My affection for it, and my use of it, has grown, not shrunk, as the months have gone by. While my hardware Camera Control buttons (plural, as I’m currently testing multiple iPhones) remain set to open Apple’s own Camera app, which I continue to use by default, I keep !Camera’s simple widget on my iPhones’ Lock Screens to launch it quickly after unpocketing my iPhone.</p>
-
-<p>!Camera’s use of LUTs for filter-like effects opens the app to a wide world of non-proprietary looks. The best source I’ve found for new LUTs to import is the <a href="https://apps.apple.com/us/app/panasonic-lumix-lab/id6499262377">Panasonic LUMIX Lab</a> app — Panasonic’s built-in LUTs are boring, but the app has a whole community of user-submitted LUTs and I’ve found several of them that are lovely. !Camera’s custom “SuperRAW” format, is, in my opinion, key to the appeal of the app:</p>
-
-<blockquote>
-  <p>No more flat lifeless photos, no AI processing, no weird
-artifacts. Our SuperRaw™ photo processing has been crafted to
-showcase more film-like tones and preserve a photo’s beautiful
-natural grain.</p>
-</blockquote>
-
-<p>Rather than fighting the nature of the small (and thus, noisy) sensors in the iPhone camera systems, SuperRAW processing embraces the noise, imbuing images with <a href="https://x.com/asallen/status/1947321942127845853">natural-looking grain</a>. The results, to my eyes, are genuinely film-like. If you want, you can configure !Camera to save a raw DNG file alongside each capture, for post-processing in an app like Darkroom, Lightroom, or Photoshop. I’m glad that option is there, but I just shoot in SuperRAW, which saves ready-to-share HEIC files with the LUT applied in my camera roll, so what I see is what I get.</p>
-
-<p>Each of Not Boring’s apps is available for a $15/year subscription, but the way to go is <a href="https://notbor.ing/plans">Not Boring’s $50/year “Super !Boring” subscription</a>, which grants you a license to their entire suite of apps. I was already a Super !Boring subscriber when !Camera launched, so, effectively, I got it for free. $50/year isn’t nothing, but it’s not much, and subscriptions have proven to be the best monetization strategy for indie developers in today’s world.</p>
-
-<h2>Project Indigo</h2>
-
-<p>Marc Levoy, Adobe fellow, and Florian Kainz, principal scientist, <a href="https://research.adobe.com/articles/indigo/indigo.html">on the Adobe Research blog back in June</a>:</p>
-
-<blockquote>
-  <p>Second, people often complain about the “smartphone look” — overly
-bright, low contrast, high color saturation, strong smoothing, and
-strong sharpening. To some extent this look is driven by consumer
-preference. It also makes photos easier to read on the small
-screen and in bad lighting. But to the discerning photographer, or
-anybody who views these photos on a larger screen than a phone,
-they may look unrealistic. [...]</p>
-
-<p>What’s different about computational photography using Indigo?
-First, we under-expose more strongly than most cameras. Second, we
-capture, align, and combine more frames when producing each photo — up to 32 frames as in the example above. This means that our
-photos have fewer blown-out highlights and less noise in the
-shadows. Taking a photo with our app may require slightly more
-patience after pressing the shutter button than you’re used to,
-but after a few seconds you’ll be rewarded with a better picture.</p>
-
-<p>As a side benefit of these two strategies, we need less spatial
-denoising (i.e. smoothing) than most camera apps. This means we
-preserve more natural textures. In fact, we bias our processing
-towards minimal smoothing, even if this means leaving a bit of
-noise in the photo. You can see these effects in the example
-photos later in this article.</p>
-
-<p>One more thing. Many of our users prefer to shoot raw, not JPEGs,
-and they want these raw images to benefit from computational
-photography. (Some big cameras offer the ability to capture
-bursts of images and combine them in-camera, but they output a
-JPEG, not a raw file.) Indigo can output JPEG or raw files that
-benefit equally from the computational photography strategy
-outlined here. [...]</p>
-
-<p>In reaction to the prevailing smartphone look, some camera apps
-advertise “zero-process” photography. In fact, the pixels read
-from a digital sensor must be processed to create a recognizable
-image. This processing includes at a minimum white balancing,
-color correction to account for the different light sensitivity of
-the red, green and blue pixels, and demosaicing to create a
-full-color image. Based on our conversations with photographers,
-what they really want is not zero-process but a more natural look — more like what an SLR might produce. To accomplish this, our
-photos employ only mild tone mapping, boosting of color
-saturation, and sharpening. We do perform semantically-aware
-mask-based adjustments, but only subtle ones.</p>
-</blockquote>
-
-<p>You may recognize Levoy’s name. After a distinguished career <a href="https://graphics.stanford.edu/~levoy/">at Stanford teaching computer science</a>, Levoy spent 2014 to 2020 leading the computational photography team at Google <a href="https://www.youtube.com/watch?v=-h7Is5MA3Ng">for their highly-regarded-as-cameras Pixel phones</a>. In 2020 <a href="https://daringfireball.net/linked/2020/07/20/levoy-adobe">Levoy left Google for Adobe</a>, and Indigo is one of the first fruits of his time there.</p>
-
-<p>Allison Johnson of The Verge — notably, she came to The Verge by way of <a href="https://www.dpreview.com/">DPReview</a> — wrote a splendid piece on Indigo shortly after the app debuted, under the headline “<a href="https://www.theverge.com/tech/694014/adobe-project-indigo-camera-app-hands-on-hdr">Adobe’s New Camera App Is Making Me Rethink Phone Photography</a>”:</p>
-
-<blockquote>
-  <p>If you hate the overly aggressive HDR look, or you’re tired of
-your iPhone sharpening the ever-living crap out of your photos,
-Project Indigo might be for you. It’s available in beta on iOS,
-though it is <em>not</em> — and I stress this — for the faint of heart.
-It’s slow, it’s prone to heating up my iPhone, and it drains the
-battery. But it’s the most thoughtfully designed camera experience
-I’ve ever used on a phone, and it gave me a renewed sense of
-curiosity about the camera I use every day.</p>
-
-<p>You’ll know this isn’t your garden-variety camera app right from
-the onboarding screens. One section details the difference between
-two histograms available to use with the live preview image (one
-is based on Indigo’s own processing and one is based on Apple’s
-image pipeline). Another line describes the way the app handles
-processing of subjects and skies as “special (but gentle).” This
-is a camera nerd’s love language.</p>
-</blockquote>
-
-<p>Slow and battery-draining is exactly why Apple hasn’t pursued these sorts of advanced computational photography techniques in the built-in Camera app. Apple’s Camera app is super-fast and takes extraordinary effort to go easy on the battery. Apple is making entirely different trade-offs — correctly — for the default Camera app. Pro and prosumer photographers may want to make completely different trade-offs when it comes to image processing time and energy.<sup id="fnr1-2025-10-21"><a href="#fn1-2025-10-21">1</a></sup> (For the last few years, Apple has shot its keynote events using iPhone cameras exclusively, but they use apps like <a href="https://www.blackmagicdesign.com/products/blackmagiccamera">Blackmagic Camera</a>, not the built-in Camera app, to shoot them.)</p>
-
-<p>I’m deeply intrigued by Indigo, and I have a few friends who’ve shown me some extraordinary photographs taken with the app. If they hadn’t told me, I’d have wagered their photos were taken with dedicated large-sensor digital cameras, not phones. Johnson described Indigo as “not for the faint of heart”, and I’m just faint-hearted — or perhaps lazy — enough that, when venturing to a third-party camera app during the past few months, I’ve reached for !Camera, not Indigo, mainly because I don’t want to bother with any sort of manual post-processing for any but my very favorite of favorite images. But Indigo — available <a href="https://apps.apple.com/us/app/project-indigo/id6742591546">free of charge from the App Store</a> — is well worth your attention.<sup id="fnr2-2025-10-21"><a href="#fn2-2025-10-21">2</a></sup> I hope it’s an app that Adobe is serious about maintaining and developing into the future.</p>
-
-<div class="footnotes">
-<hr />
-<ol>
-
-<li id="fn1-2025-10-21">
-<p>Johnson also interviewed Levoy last month on The Vergecast. <a href="https://www.youtube.com/watch?v=bQI6G0cbZKY&amp;t=1822s">The interview starts at 30m:22s</a>.&nbsp;<a href="#fnr1-2025-10-21"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
-</li>
-
-<li id="fn2-2025-10-21">
-<p>Indigo is currently iOS-only, but <a href="https://research.adobe.com/articles/indigo/indigo.html">in their introductory blog post</a>, Levoy and Kainz write: “What’s next for Project Indigo? An Android version for sure. We’d also like to add alternative ‘looks’, maybe even personalized ones. We also plan to add a portrait mode, but with more control and higher image quality than existing camera apps, as well as panorama and video recording, including some cool computational video features we’re cooking up in the lab.” Also worth noting: Indigo’s computational photography is so tied to specific hardware that it <a href="https://community.adobe.com/t5/lightroom-ecosystem-cloud-based-discussions/p-introducing-the-project-indigo-camera-app/m-p/15513112#M108265">doesn’t yet support</a> any of the iPhones 17 nor the iPhone Air.&nbsp;<a href="#fnr2-2025-10-21"  class="footnoteBackLink"  title="Jump back to footnote 2 in the text.">&#x21A9;&#xFE0E;︎</a></p>
-</li>
-
-</ol>
-</div>
-
-
-
-    ]]></content>
-  <title>★ Two Excellent New iPhone Camera Apps: Not Boring’s !Camera and Adobe’s Project Indigo</title></entry></feed><!-- THE END -->
+  <title>★ Apple Loses Landmark U.K. Lawsuit Over App Store Commissions</title></entry></feed><!-- THE END -->
