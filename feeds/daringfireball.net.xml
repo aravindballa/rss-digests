@@ -7,7 +7,109 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-11-17T01:31:53Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-11-17T21:40:16Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Google Announces Private AI Compute</title>
+	<link rel="alternate" type="text/html" href="https://blog.google/technology/ai/google-private-ai-compute/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wpj" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/17/google-announces-private-ai-compute" />
+	<id>tag:daringfireball.net,2025:/linked//6.42391</id>
+	<published>2025-11-17T21:40:16Z</published>
+	<updated>2025-11-17T21:40:16Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jay Yagnik, VP of AI innovation and research, on Google’s The Keyword blog:</p>
+
+<blockquote>
+  <p>Private AI Compute is built on a multi-layered system that is
+designed from the ground up around core security and privacy
+principles:</p>
+
+<ul>
+<li><em>One integrated Google tech stack:</em> Private AI Compute runs on
+one seamless Google stack powered by our own custom Tensor
+Processing Units (TPUs). World-class privacy and security is
+integrated into this architecture with <a href="https://cloud.google.com/blog/products/compute/titanium-underpins-googles-workload-optimized-infrastructure?e=48754805">Titanium</a>
+Intelligence Enclaves (TIE). This design enables Google AI
+features to use our most capable and intelligent <a href="https://deepmind.google/models/gemini/">Gemini models
+in the cloud</a>, with our high standards for privacy and the
+same in-house computing infrastructure you already rely on for
+Gmail and Search.</li>
+<li><em>No access:</em> Remote attestation and encryption are used to
+connect your device to the hardware-secured sealed cloud
+environment, allowing Gemini models to securely process your
+data within a specialized, protected space. This ensures
+sensitive data processed by Private AI Compute remains
+accessible only to you and no one else, not even Google.</li>
+</ul>
+</blockquote>
+
+<p>Sounds a lot like Apple’s <a href="https://security.apple.com/blog/private-cloud-compute/">Private Cloud Compute</a>, which raises the question of whether this Google project is related to the Gurman scoop that Apple and Google <a href="https://daringfireball.net/linked/2025/11/03/gurman-siri-gemini">are on the cusp of a deal</a> for a white-label version of Google Gemini to run on Apple’s Private Cloud Compute servers to power the next-generation versions of Siri and Apple Intelligence.</p>
+
+<p>I strongly suspect this is something Google has been working on for a while. Apple, I think it’s fair to say, places a higher priority on privacy than does Google, but Google does value privacy. But perhaps the deal with Apple accelerate the project within Google.</p>
+
+<div>
+<a  title="Permanent link to ‘Google Announces Private AI Compute’"  href="https://daringfireball.net/linked/2025/11/17/google-announces-private-ai-compute">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>OpenAI: Piloting Group Chats in ChatGPT</title>
+	<link rel="alternate" type="text/html" href="https://openai.com/index/group-chats-in-chatgpt/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wpi" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/17/group-chats-in-chatgpt" />
+	<id>tag:daringfireball.net,2025:/linked//6.42390</id>
+	<published>2025-11-17T21:32:17Z</published>
+	<updated>2025-11-17T21:32:25Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>OpenAI:</p>
+
+<blockquote>
+  <p>To start a group chat tap the people icon in the top right corner
+of any new or existing chat. When you add someone to an existing
+chat, ChatGPT creates a copy of your conversation as a new group
+chat so your original conversation stays separate. You can invite
+others directly by sharing a link with one to twenty people, and
+anyone in the group can share that link to bring others in. When
+you join or create your first group chat, you’ll be asked to set
+up a short profile with your name, username, and photo so everyone
+knows who’s in the conversation. Group chats can be found in a new
+clearly-labeled section of the sidebar for easy access. [...]</p>
+
+<p>Group chats are separate from your private conversations. Your
+personal ChatGPT memory is not used in group chats, and ChatGPT
+does not create new memories from these conversations. We’re
+exploring offering more granular controls in the future so you can
+choose if and how ChatGPT uses memory with group chats.</p>
+</blockquote>
+
+<p>Currently rolling out in Japan, New Zealand, South Korea, and Taiwan. Rate limits and advanced model usage depend on the group member to whom ChatGPT replies. Pretty clever, and I can imaging a lot of ways this would be useful, both for family/friends and for work collaboration. I like the idea that this is built-into ChatGPT, not an AI bot in a regular messaging app. This way, you <em>know</em> with certainty which of your chats are being seen and read by an AI bot.</p>
+
+<blockquote>
+  <p>We’ve also taught ChatGPT new social behaviors for group chats. It
+follows the flow of the conversation and decides when to respond
+and when to stay quiet based on the context of the group
+conversation. You can always mention “ChatGPT” in a message when
+you want it to respond. We’ve also given ChatGPT the ability to
+react to messages with emojis, and reference profile photos — so
+it can, for example, use group members’ photos when asked to
+create fun personalized images within that group conversation.</p>
+</blockquote>
+
+<p>This is a really hard problem to solve. <a href="https://daringfireball.net/2023/03/wavelength">Wavelength</a>, the late <a href="https://daringfireball.net/2023/04/a_bit_of_follow-up_on_wavelength">great</a> private group messaging app whose team I advised from 2023 to 2024 (when the app shuttered), added AI chatbots (with customizable personalities) in June 2023. Wavelength’s AI bots only responded when mentioned explicitly.</p>
+
+<div>
+<a  title="Permanent link to ‘OpenAI: Piloting Group Chats in ChatGPT’"  href="https://daringfireball.net/linked/2025/11/17/group-chats-in-chatgpt">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>WorkOS</title>
 	<link rel="alternate" type="text/html" href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=RSS&amp;utm_campaign=q12025" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wph" />
@@ -1883,87 +1985,6 @@ told to go nuts.</p>
 
 <div>
 <a  title="Permanent link to ‘Tim Bray on Grokipedia’"  href="https://daringfireball.net/linked/2025/10/31/bray-grokipedia">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘Grokipedia Is the Antithesis of Everything That Makes Wikipedia Good, Useful, and Human’</title>
-	<link rel="alternate" type="text/html" href="https://www.404media.co/grokipedia-is-the-antithesis-of-everything-that-makes-wikipedia-good-useful-and-human/?ref=platformer.news" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wo9" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/31/koebler-grokipedia" />
-	<id>tag:daringfireball.net,2025:/linked//6.42345</id>
-	<published>2025-10-31T22:11:31Z</published>
-	<updated>2025-10-31T22:31:02Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jason Koebler, writing at 404 Media:</p>
-
-<blockquote>
-  <p>Wednesday, as part of his ongoing war against Wikipedia because he
-does not like his page, Elon Musk launched Grokipedia, a fully
-AI-generated “encyclopedia” that serves no one and nothing other
-than <a href="https://www.citationneeded.news/elon-musk-and-the-rights-war-on-wikipedia/?ref=404media.co">the ego of the world’s richest man</a>. As others have
-already pointed out, Grokipedia seeks to be a <a href="https://www.wired.com/story/elon-musk-launches-grokipedia-wikipedia-competitor/?ref=404media.co">right wing,
-anti-woke Wikipedia competitor</a>. But to even call it a
-Wikipedia competitor is to give the half-assed project too much
-credit. It is not a Wikipedia “competitor” at all. It is a fully
-robotic, heartless regurgitation machine that cynically and
-indiscriminately sucks up the work of humanity to serve the
-interests, protect the ego, amplify the viewpoints, and further
-enrich the world’s wealthiest man. It is a totem of what Wikipedia
-could and would become if you were to strip all the humans out and
-hand it over to a robot; in that sense, Grokipedia is a useful
-warning because of the constant pressure and <a href="https://www.404media.co/jimmy-wales-wikipedia-ai-chatgpt/">attacks by AI slop
-purveyors</a> to push <a href="https://www.404media.co/wikipedia-pauses-ai-generated-summaries-after-editor-backlash/">AI-generated content into
-Wikipedia</a>. And it is only getting attention, of course,
-because Elon Musk <a href="https://www.citationneeded.news/elon-musk-and-the-rights-war-on-wikipedia/?ref=404media.co">does represent an actual threat to
-Wikipedia</a> through his <a href="https://www.404media.co/wikipedia-prepares-for-increase-in-threats-to-us-editors-from-musk-and-his-allies/">political power, wealth, and
-obsession with the website</a>, as well as the fact that he
-owns a huge social media platform.</p>
-</blockquote>
-
-<p>In season 10 of <em><a href="https://www.hbomax.com/shows/curb-your-enthusiasm/18a0993f-209a-4653-8f94-f3fb8422e678">Curb Your Enthusiasm</a></em>, Larry David gets into an argument with Mocha Joe, the owner of an eponymous coffee shop. David leases the space next door and opens Latte Larry’s, a copycat “<a href="https://www.youtube.com/watch?v=FVQp9vSytOE">spite store</a>” cafe. Grokipedia reminds me of this, except that Larry David is genuinely funny and (in real life, as opposed to his <em>Curb</em> alter ego) at least somewhat self-aware.</p>
-
-<div>
-<a  title="Permanent link to ‘‘Grokipedia Is the Antithesis of Everything That Makes Wikipedia Good, Useful, and Human’’"  href="https://daringfireball.net/linked/2025/10/31/koebler-grokipedia">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Denmark Backs Away From ‘Chat Control’ That Would Have Rendered E2EE Illegal in the E.U.</title>
-	<link rel="alternate" type="text/html" href="https://www.euractiv.com/news/danish-presidency-backs-away-from-chat-control/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wo8" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/31/denmark-chat-control" />
-	<id>tag:daringfireball.net,2025:/linked//6.42344</id>
-	<published>2025-10-31T21:48:46Z</published>
-	<updated>2025-10-31T21:48:47Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Claudie Moreau, reporting for Euractiv:</p>
-
-<blockquote>
-  <p>Earlier in their presidency, Denmark had revived a controversial
-provision in the draft law that would mean online platforms — such as messaging apps — could be served with mandatory CSAM
-detection orders, including services protected by end-to-end
-encryption. However opposition from several other EU countries
-derailed any agreement in the Council.</p>
-
-<p>Today, Danish Justice Minister Peter Hummelgaard told local press
-that the Council presidency would move away from mandatory
-detection orders — and instead support CSAM detections remaining
-voluntary.</p>
-</blockquote>
-
-<p>Sanity prevails.</p>
-
-<div>
-<a  title="Permanent link to ‘Denmark Backs Away From ‘Chat Control’ That Would Have Rendered E2EE Illegal in the E.U.’"  href="https://daringfireball.net/linked/2025/10/31/denmark-chat-control">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
