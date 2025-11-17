@@ -7,7 +7,38 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-11-17T23:27:41Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-11-17T23:43:13Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Meta Has Deprecated the Messenger Apps for Mac and Windows Too</title>
+	<link rel="alternate" type="text/html" href="https://9to5mac.com/2025/10/16/meta-is-killing-off-messengers-mac-app-for-unknown-reasons/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wpl" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/17/meta-native-mac-windows-messenger-apps" />
+	<id>tag:daringfireball.net,2025:/linked//6.42393</id>
+	<published>2025-11-17T23:43:13Z</published>
+	<updated>2025-11-17T23:43:13Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Ryan Christoffel, reporting for 9to5Mac a month ago:</p>
+
+<blockquote>
+  <p>Meta has <a href="https://www.facebook.com/help/messenger-app/1789649698300122/?helpref=uf_share">published a support doc</a> that states its Messenger app for
+Mac is being discontinued. New users won’t be able to download the
+app at all, and existing users have about 60 more days of use
+before it stops working altogether. Why the change? Unfortunately,
+no reason has been given. But users are being pushed to the
+Facebook website for all their Messenger needs instead.</p>
+</blockquote>
+
+<p>There’s a nearly identical support document <a href="https://www.facebook.com/help/messenger-app/804132271957789">for the native Messenger app for Windows</a> too. They’re not even replacing them with web-app wrappers, like they <a href="https://daringfireball.net/2025/11/meta_whatsapp_windows_shitty_web_app">just did with the Windows WhatsApp client</a>. Just telling users to use the website.</p>
+
+<div>
+<a  title="Permanent link to ‘Meta Has Deprecated the Messenger Apps for Mac and Windows Too’"  href="https://daringfireball.net/linked/2025/11/17/meta-native-mac-windows-messenger-apps">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://go.clerk.com/QO9JV9f" />
 	<link rel="shorturl" href="http://df4.us/wpk" />
@@ -1940,45 +1971,6 @@ probably around next Wednesday.</p>
 
 <div>
 <a  title="Permanent link to ‘The Talk Show: ‘Meat Bags’’"  href="https://daringfireball.net/linked/2025/10/31/the-talk-show-433">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Tim Bray on Grokipedia</title>
-	<link rel="alternate" type="text/html" href="https://www.tbray.org/ongoing/When/202x/2025/10/28/Grokipedia" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/woa" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/10/31/bray-grokipedia" />
-	<id>tag:daringfireball.net,2025:/linked//6.42346</id>
-	<published>2025-10-31T22:40:16Z</published>
-	<updated>2025-10-31T22:40:17Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Tim Bray:</p>
-
-<blockquote>
-  <p>Last night I had a very strange experience: About two thirds of
-the way through reading a Web page about myself, Tim Bray, I
-succumbed to boredom and killed the tab. Thus my introduction to
-<a href="https://en.wikipedia.org/wiki/Grokipedia">Grokipedia</a>. Here are early impressions.</p>
-
-<p>My Grokipedia entry has over seven thousand words, compared to a
-mere 1,300 in <a href="https://en.wikipedia.org/wiki/Tim_Bray">my Wikipedia article</a>. It’s pretty clear how
-it was generated; an LLM, trained on who-knows-what but
-definitely including that Wikipedia article and this blog, was
-told to go nuts.</p>
-</blockquote>
-
-<p>Putting aside the political slant of Grokipedia, a 1,300-word article being better than <a href="https://grokipedia.com/page/Tim_Bray">a 7,000-word one</a> exemplifies the current shortcomings of LLMs as creative engines (as opposed to serving as mere tools in the arsenal of human creators).</p>
-
-<p>The French philosopher and mathematician <a href="https://quoteinvestigator.com/2012/04/28/shorter-letter/">Blaise Pascal famously quipped</a>: “I would have written a shorter letter, but I did not have the time.” No encyclopedia in history has been written with less time or effort than Musk’s LLM-generated vanity project. Verbosity is not the worst of Grokipedia’s deficiencies, but it’s one of them. The more its entries stray from simply regurgitating the equivalent entry in Wikipedia, the more they suffer from verbal diarrhea.</p>
-
-<p>(<a href="https://grokipedia.com/page/John_Gruber">My own Grokipedia entry</a> is just a clone of <a href="https://en.wikipedia.org/wiki/John_Gruber">my Wikipedia entry</a>, with a few mistakes added, including one in the first sentence regarding the creation of Markdown.)</p>
-
-<div>
-<a  title="Permanent link to ‘Tim Bray on Grokipedia’"  href="https://daringfireball.net/linked/2025/10/31/bray-grokipedia">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
