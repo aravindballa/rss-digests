@@ -7,7 +7,48 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-11-18T20:53:53Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-11-18T23:04:12Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Sir, This Is a McDonald’s</title>
+	<link rel="alternate" type="text/html" href="https://www.thebulwark.com/p/trump-is-not-have-all-the-mentals-cognitive-functioning?r=9x4vy" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wpr" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/18/trump-mcdonalds" />
+	<id>tag:daringfireball.net,2025:/linked//6.42399</id>
+	<published>2025-11-18T23:04:12Z</published>
+	<updated>2025-11-18T23:04:12Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jonathan Last, writing for The Bulwark:</p>
+
+<blockquote>
+  <p>The president of the United States gave a speech yesterday before
+a group of McDonald’s corporate workers and franchise owners. I’m
+going to quote a few sections of his remarks at great length,
+because if you have not listened to Trump speaking recently, the
+decline in his cognitive abilities is a bit shocking.</p>
+
+<p>The point of this exercise is not to clown on Trump, but to give
+everyone a baseline understanding of where he is, with the
+mentals, as we try to understand how he will respond to increasing
+pressures in the coming months.</p>
+
+<p><a href="https://www.youtube.com/watch?v=QPid-oVSSi4">The video of his remarks is here</a> and I’ll include timestamps
+for each section, in case you want to see what he looks and
+sounds like.</p>
+
+<p>Bottom line: This is a man in noticeable mental decline.</p>
+</blockquote>
+
+<p>Even those of us who see that Trump is spiraling into dementia are inured to listening to him speak like this. Reading the transcript is jarring. Also jarring: listening to <a href="https://www.threads.com/@decodingfoxnews/post/DRMQaNzjqsY">Juliet Jeske’s performative reading</a> of a particularly nonsensical portion of Trump’s McDonald’s speech. It’s just gibberish.</p>
+
+<div>
+<a  title="Permanent link to ‘Sir, This Is a McDonald’s’"  href="https://daringfireball.net/linked/2025/11/18/trump-mcdonalds">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>When You Give a Bully Your Lunch Money</title>
 	<link rel="alternate" type="text/html" href="https://bsky.app/profile/atrupar.com/post/3m5wdorhxsx2u" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wpq" />
@@ -1940,62 +1981,6 @@ by accident.</p>
 
 <div>
 <a  title="Permanent link to ‘Apple Releases 26.1 Updates to Its Operating Systems’"  href="https://daringfireball.net/linked/2025/11/04/apple-os-26-1">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Gurman Suggests That Next-Gen Siri Will Be Powered by a White-Label Version of Google Gemini Running on Apple’s Private Cloud Compute</title>
-	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/newsletters/2025-11-02/apple-s-nearly-140-billion-quarter-when-ios-26-1-will-be-out-ipad-mini-revamp-mhhpy1ax" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wog" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/03/gurman-siri-gemini" />
-	<id>tag:daringfireball.net,2025:/linked//6.42352</id>
-	<published>2025-11-03T17:02:24Z</published>
-	<updated>2025-11-03T19:29:40Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Mark Gurman, in his weekly Power On column for Bloomberg (paywalled, alas):</p>
-
-<blockquote>
-  <p>Even with the rosy sales forecast, the road ahead won’t be easy.
-Apple is betting heavily on the new Siri, which will lean on
-Google’s Gemini model and introduce features like AI-powered web
-search. But there’s no guarantee users will embrace it, that it
-will work seamlessly or that it can undo years of damage to the
-Siri brand.</p>
-</blockquote>
-
-<p>And then, down below in his “Post Game Q&amp;A”:</p>
-
-<blockquote>
-  <p>Q: <em>Is Apple still planning to use Google Gemini to power the new
-   Siri?</em></p>
-
-<p>A: As I’ve <a href="https://www.bloomberg.com/news/articles/2025-08-22/apple-explores-using-google-gemini-ai-to-power-revamped-siri">reported a few times now</a>, Apple is paying
-   Google to create a custom Gemini-based model that can run on
-   its private cloud servers and help power Siri. Apple held a
-   bake-off this year between Anthropic and Google, ultimately
-   determining that the former offered a better model but that
-   Google made more sense financially (partly due to the tech
-   giants’ preexisting search relationship). I don’t expect either
-   company to ever discuss this partnership publicly, and you
-   shouldn’t expect this to mean Siri will be flooded with Google
-   services or Gemini features already found on Android devices.
-   It just means Siri will be powered by a model that can actually
-   provide the AI features that users expect — all with an Apple
-   user interface.</p>
-</blockquote>
-
-<p>This is quite the aside to tuck into a one-paragraph Q&amp;A item. First, I love the idea that Apple is pursuing technical excellence as a top priority for the next-gen LLM-powered Siri. If Apple winds up using its own models, it should be because those models are truly competitive with the best models on the market. And if they can work out a deal to use models from Google because those models are technically superior to Apple’s own, they should.</p>
-
-<p>It’s kind of wild though to think that, if this comes to pass, neither company will publicly acknowledge the arrangement. I believe it’s possible — but it would be odd. Right now Apple has a public partner for Apple Intelligence: <a href="https://support.apple.com/guide/iphone/use-chatgpt-with-apple-intelligence-iph00fd3c8c2/ios">optional integration with ChatGPT</a>. Apple labels that integration as an “extension”, and has repeatedly stated — <a href="https://daringfireball.net/linked/2025/10/31/cook-siri-cnbc">including as recently as last week</a> — that they’re looking at other partners to add. The most obvious partner Apple could add — one that <a href="https://techcrunch.com/2024/06/10/apple-confirms-plans-to-work-with-googles-gemini-in-the-future/">Craig Federighi mentioned by name</a> on the day that Apple Intelligence was announced at WWDC 2024 — would be Google Gemini.</p>
-
-<p>If what Gurman is reporting comes to pass, and Apple’s own cloud-based LLM technology is a white-label version of Google Gemini, it’d be pretty weird if that ships and Google Gemini still is not a named extension partner for Apple Intelligence. But it would also be a little weird if Google Gemini <em>does</em> become a named partner for Apple Intelligence alongside ChatGPT, while Apple’s own default cloud-based Apple Intelligence is powered by Gemini’s models.</p>
-
-<div>
-<a  title="Permanent link to ‘Gurman Suggests That Next-Gen Siri Will Be Powered by a White-Label Version of Google Gemini Running on Apple’s Private Cloud Compute’"  href="https://daringfireball.net/linked/2025/11/03/gurman-siri-gemini">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
