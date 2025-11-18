@@ -7,20 +7,20 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-11-18T17:30:20Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-11-18T17:33:18Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>Cloudflare Suffered Hours Long Outage (Which Brought Down Daring Fireball, Among Thousands of Other Sites)</title>
 	<link rel="alternate" type="text/html" href="https://www.theguardian.com/technology/live/2025/nov/18/cloudflare-down-internet-outage-latest-live-news-updates" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wpo" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/18/cloudflare-outage" />
 	<id>tag:daringfireball.net,2025:/linked//6.42396</id>
 	<published>2025-11-18T17:30:19Z</published>
-	<updated>2025-11-18T17:30:20Z</updated>
+	<updated>2025-11-18T17:33:18Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Cloudflare suffered an hours-long global outage, starting around 12am UTC / 5am ET, which brought down an enormous chunk of the Internet. That included Daring Fireball, which has been <a href="https://daringfireball.net/2018/09/df_slowdown">routed through Cloudflare since 2018</a>. My apologies if you tried to reach the site while it was down. (The whole outage occurred while I was asleep.) As of this writing, Cloudflare still hasn’t determined exactly what happened, but they’ve been updating <a href="https://www.cloudflarestatus.com/incidents/8gmgl950y3h7">their status report for the incident</a> a few times per hour. The most recent update:</p>
+<p>Cloudflare suffered an hours-long global outage, starting around 12am UTC / 5am ET, which brought down an enormous chunk of the Internet. This included, <a href="https://x.com/tomwarren/status/1990754173957369989">humorously</a>, <a href="https://downdetector.com/">Down Detector</a>. It also included (not so humorously to me) Daring Fireball, which has been <a href="https://daringfireball.net/2018/09/df_slowdown">routed through Cloudflare since 2018</a>. My apologies if you tried to reach the site while it was down. (The whole outage occurred while I was asleep.) As of this writing, Cloudflare still hasn’t determined exactly what happened, but they’ve been updating <a href="https://www.cloudflarestatus.com/incidents/8gmgl950y3h7">their status report for the incident</a> a few times per hour. The most recent update:</p>
 
 <blockquote>
   <p>We continue to monitor the system through recovery and we are
