@@ -1,1 +1,2167 @@
-error code: 500
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>Daring Fireball</title>
+<subtitle>By John Gruber</subtitle>
+<link rel="alternate" type="text/html" href="https://daringfireball.net/" />
+<link rel="self" type="application/atom+xml" href="https://daringfireball.net/feeds/main" />
+<id>https://daringfireball.net/feeds/main</id>
+
+
+<updated>2025-11-18T01:29:31Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Apple Introduces Digital ID</title>
+	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2025/11/apple-introduces-digital-id-a-new-way-to-create-and-present-an-id-in-apple-wallet/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wpm" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/17/apple-introduces-digital-id" />
+	<id>tag:daringfireball.net,2025:/linked//6.42394</id>
+	<published>2025-11-18T01:27:17Z</published>
+	<updated>2025-11-18T01:29:31Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Apple Newsroom, last week:</p>
+
+<blockquote>
+  <p>Apple today announced the launch of Digital ID, a new way for
+users to create an ID in Apple Wallet using information from their
+U.S. passport, and present it with the security and privacy of
+iPhone or Apple Watch. At launch, Digital ID acceptance will roll
+out first in beta at TSA checkpoints at more than 250 airports in
+the U.S. for in-person identity verification during domestic
+travel, with additional Digital ID acceptance use cases to come in
+the future.</p>
+
+<p>Digital ID gives more people a way to create and present an ID in
+Apple Wallet even if they do not have a REAL ID-compliant driver’s
+license or state ID. Digital ID is not a replacement for a
+physical passport, and cannot be used for international travel and
+border crossing in lieu of a U.S. passport.</p>
+</blockquote>
+
+<p>I set this up over the weekend and it was about as easy and seamless as you could hope. <a href="https://learn.wallet.apple/id">More information from Apple here</a>, and an overview of the feature, as implemented by Apple and Google (for Android) <a href="https://www.nytimes.com/2025/11/14/travel/digital-identification-travel.html?unlocked_article_code=1.2E8.G_Tr.DMy_XMguwE_c&amp;smid=url-share">from The New York Times here</a> (gift link).</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Introduces Digital ID’"  href="https://daringfireball.net/linked/2025/11/17/apple-introduces-digital-id">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Meta Has Deprecated the Messenger Apps for Mac and Windows Too</title>
+	<link rel="alternate" type="text/html" href="https://9to5mac.com/2025/10/16/meta-is-killing-off-messengers-mac-app-for-unknown-reasons/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wpl" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/17/meta-native-mac-windows-messenger-apps" />
+	<id>tag:daringfireball.net,2025:/linked//6.42393</id>
+	<published>2025-11-17T23:43:13Z</published>
+	<updated>2025-11-17T23:43:13Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Ryan Christoffel, reporting for 9to5Mac a month ago:</p>
+
+<blockquote>
+  <p>Meta has <a href="https://www.facebook.com/help/messenger-app/1789649698300122/?helpref=uf_share">published a support doc</a> that states its Messenger app for
+Mac is being discontinued. New users won’t be able to download the
+app at all, and existing users have about 60 more days of use
+before it stops working altogether. Why the change? Unfortunately,
+no reason has been given. But users are being pushed to the
+Facebook website for all their Messenger needs instead.</p>
+</blockquote>
+
+<p>There’s a nearly identical support document <a href="https://www.facebook.com/help/messenger-app/804132271957789">for the native Messenger app for Windows</a> too. They’re not even replacing them with web-app wrappers, like they <a href="https://daringfireball.net/2025/11/meta_whatsapp_windows_shitty_web_app">just did with the Windows WhatsApp client</a>. Just telling users to use the website.</p>
+
+<div>
+<a  title="Permanent link to ‘Meta Has Deprecated the Messenger Apps for Mac and Windows Too’"  href="https://daringfireball.net/linked/2025/11/17/meta-native-mac-windows-messenger-apps">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	
+	<link rel="alternate" type="text/html" href="https://go.clerk.com/QO9JV9f" />
+	<link rel="shorturl" href="http://df4.us/wpk" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2025/11/clerk_for_ios" />
+	<id>tag:daringfireball.net,2025:/feeds/sponsors//11.42392</id>
+	<author><name>Daring Fireball Department of Commerce</name></author>
+	<published>2025-11-17T22:44:18Z</published>
+	<updated>2025-11-17T22:44:19Z</updated>
+	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
+<p>Clerk makes authentication for iOS apps effortless — just drop in prebuilt SwiftUI components for sign-in, MFA, and profile management. Fully customizable, always in sync with Apple’s design system, and packed with features devs love: social sign-in, user roles, and organization management. Launch faster, stay secure, and scale confidently, whether you’re building the next big thing or a startup MVP. See how Clerk makes complete user management easy for modern iOS teams.</p>
+
+<div>
+<a  title="Permanent link to ‘Clerk for iOS’"  href="https://daringfireball.net/feeds/sponsors/2025/11/clerk_for_ios">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+	<title>[Sponsor] Clerk for iOS</title></entry><entry>
+	<title>Google Announces Private AI Compute</title>
+	<link rel="alternate" type="text/html" href="https://blog.google/technology/ai/google-private-ai-compute/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wpj" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/17/google-announces-private-ai-compute" />
+	<id>tag:daringfireball.net,2025:/linked//6.42391</id>
+	<published>2025-11-17T21:40:16Z</published>
+	<updated>2025-11-17T22:01:51Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jay Yagnik, VP of AI innovation and research, on Google’s The Keyword blog:</p>
+
+<blockquote>
+  <p>Private AI Compute is built on a multi-layered system that is
+designed from the ground up around core security and privacy
+principles:</p>
+
+<ul>
+<li><em>One integrated Google tech stack:</em> Private AI Compute runs on
+one seamless Google stack powered by our own custom Tensor
+Processing Units (TPUs). World-class privacy and security is
+integrated into this architecture with <a href="https://cloud.google.com/blog/products/compute/titanium-underpins-googles-workload-optimized-infrastructure?e=48754805">Titanium</a>
+Intelligence Enclaves (TIE). This design enables Google AI
+features to use our most capable and intelligent <a href="https://deepmind.google/models/gemini/">Gemini models
+in the cloud</a>, with our high standards for privacy and the
+same in-house computing infrastructure you already rely on for
+Gmail and Search.</li>
+<li><em>No access:</em> Remote attestation and encryption are used to
+connect your device to the hardware-secured sealed cloud
+environment, allowing Gemini models to securely process your
+data within a specialized, protected space. This ensures
+sensitive data processed by Private AI Compute remains
+accessible only to you and no one else, not even Google.</li>
+</ul>
+</blockquote>
+
+<p>Sounds a lot like Apple’s <a href="https://security.apple.com/blog/private-cloud-compute/">Private Cloud Compute</a>, which raises the question of whether this Google project is related to the Gurman scoop that Apple and Google <a href="https://daringfireball.net/linked/2025/11/03/gurman-siri-gemini">are on the cusp of a deal</a> for a white-label version of Google Gemini to run on Apple’s Private Cloud Compute servers to power the next-generation versions of Siri and Apple Intelligence.</p>
+
+<p>I strongly suspect this is something Google has been working on for a while. Apple, I think it’s fair to say, places a higher priority on privacy than does Google, but Google does value privacy. But perhaps the deal with Apple accelerated the project within Google.</p>
+
+<div>
+<a  title="Permanent link to ‘Google Announces Private AI Compute’"  href="https://daringfireball.net/linked/2025/11/17/google-announces-private-ai-compute">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>OpenAI: Piloting Group Chats in ChatGPT</title>
+	<link rel="alternate" type="text/html" href="https://openai.com/index/group-chats-in-chatgpt/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wpi" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/17/group-chats-in-chatgpt" />
+	<id>tag:daringfireball.net,2025:/linked//6.42390</id>
+	<published>2025-11-17T21:32:17Z</published>
+	<updated>2025-11-17T23:27:41Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>OpenAI:</p>
+
+<blockquote>
+  <p>To start a group chat tap the people icon in the top right corner
+of any new or existing chat. When you add someone to an existing
+chat, ChatGPT creates a copy of your conversation as a new group
+chat so your original conversation stays separate. You can invite
+others directly by sharing a link with one to twenty people, and
+anyone in the group can share that link to bring others in. When
+you join or create your first group chat, you’ll be asked to set
+up a short profile with your name, username, and photo so everyone
+knows who’s in the conversation. Group chats can be found in a new
+clearly-labeled section of the sidebar for easy access. [...]</p>
+
+<p>Group chats are separate from your private conversations. Your
+personal ChatGPT memory is not used in group chats, and ChatGPT
+does not create new memories from these conversations. We’re
+exploring offering more granular controls in the future so you can
+choose if and how ChatGPT uses memory with group chats.</p>
+</blockquote>
+
+<p>Currently rolling out in Japan, New Zealand, South Korea, and Taiwan. Rate limits and advanced model usage depend on the group member to whom ChatGPT replies. Pretty clever, and I can imaging a lot of ways this would be useful, both for family/friends and for work collaboration. I like the idea that this is built into ChatGPT, not an AI bot in a regular messaging app. This way, you <em>know</em> with certainty which of your chats are being seen and read by an AI bot.</p>
+
+<blockquote>
+  <p>We’ve also taught ChatGPT new social behaviors for group chats. It
+follows the flow of the conversation and decides when to respond
+and when to stay quiet based on the context of the group
+conversation. You can always mention “ChatGPT” in a message when
+you want it to respond. We’ve also given ChatGPT the ability to
+react to messages with emojis, and reference profile photos — so
+it can, for example, use group members’ photos when asked to
+create fun personalized images within that group conversation.</p>
+</blockquote>
+
+<p>This is a really hard problem to solve. <a href="https://daringfireball.net/2023/03/wavelength">Wavelength</a>, the late <a href="https://daringfireball.net/2023/04/a_bit_of_follow-up_on_wavelength">great</a> private group messaging app whose team I advised from 2023 to 2024 (when the app shuttered), added AI chatbots (with customizable personalities) in June 2023. Wavelength’s AI bots only responded when mentioned explicitly.</p>
+
+<div>
+<a  title="Permanent link to ‘OpenAI: Piloting Group Chats in ChatGPT’"  href="https://daringfireball.net/linked/2025/11/17/group-chats-in-chatgpt">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>WorkOS</title>
+	<link rel="alternate" type="text/html" href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=RSS&amp;utm_campaign=q12025" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wph" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/16/workos" />
+	<id>tag:daringfireball.net,2025:/linked//6.42389</id>
+	<published>2025-11-17T01:31:53Z</published>
+	<updated>2025-11-17T01:31:53Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks to WorkOS for their continuing support of DF with another sponsorship week. With WorkOS you can start selling to enterprises with just a few lines of code. WorkOS provides a complete user management solution along with SSO, SCIM, and RBAC. The APIs are modular and easy-to-use, allowing integrations to be completed in minutes instead of months. WorkOS simplifies MCP authorization with a single API built on five OAuth standards.</p>
+
+<p>Today, over 1,000 companies rely on WorkOS, including large fast-growing startups like OpenAI, Cursor, and Vercel. And for companies just getting started, WorkOS offers up to one million monthly active users free of charge.</p>
+
+<p>For SaaS apps that care deeply about design and user experience, WorkOS is the perfect fit. From high-quality documentation to self-serve onboarding for your customers, it removes all the unnecessary complexity for your engineering team.</p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS’"  href="https://daringfireball.net/linked/2025/11/16/workos">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Financial Times: ‘Apple Intensifies Succession Planning for CEO Tim Cook’</title>
+	<link rel="alternate" type="text/html" href="https://www.ft.com/content/0d424625-f4f8-4646-9f6e-927c8cbe0e3e" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wpg" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/15/ft-apple-tim-cook-succession" />
+	<id>tag:daringfireball.net,2025:/linked//6.42388</id>
+	<published>2025-11-16T03:00:15Z</published>
+	<updated>2025-11-16T03:13:07Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>The Financial Times, under a four-person byline (“Tim Bradshaw, Stephen Morris, and Michael Acton in San Francisco, and Daniel Thomas in London”):</p>
+
+<blockquote>
+  <p>Apple is stepping up its succession planning efforts, as it
+prepares for Tim Cook to step down as chief executive as soon as
+next year. Several people familiar with discussions inside the
+tech group told the Financial Times that its board and senior
+executives have recently intensified preparations for Cook to hand
+over the reins at the $4tn company after more than 14 years.</p>
+
+<p>John Ternus, Apple’s senior vice-president of hardware
+engineering, is widely seen as Cook’s most likely successor,
+although no final decisions have been made, these people said.</p>
+
+<p>People close to Apple say the long-planned transition is not
+related to the company’s current performance, ahead of what
+is expected to be a blockbuster end-of-year sales period for
+the iPhone. [...]</p>
+
+<p>The company is unlikely to name a new CEO before its next earnings
+report in late January, which covers the critical holiday period.
+An announcement early in the year would give its new leadership
+team time to settle in ahead of its big annual keynote events, its
+developer conference in June and its iPhone launch in September,
+the people said. These people said that although preparations have
+intensified, the timing of any announcement could change.</p>
+</blockquote>
+
+<p>I have no little-birdie insight on this, but that’s not surprising. I don’t think there are many people, if any, outside Apple’s top executive team and board of directors who have <em>any</em> insight into Cook’s thinking on this. That “several people” spoke to the FT about this says to me that those sources (members of the board?) did so with Cook’s blessing, and they want this announcement to be no more than a little surprising.</p>
+
+<p>I absolutely love the idea of Cook’s successor being a product person like Ternus, and Ternus is young enough — 50, the same age Cook was in 2011 when he took the reins from Steve Jobs — to hold the job for a long stretch. Ternus took over iPhone hardware engineering in 2020, and was promoted to senior vice president of hardware engineering in January 2021, <a href="https://www.bloomberg.com/news/articles/2021-01-25/apple-says-hardware-chief-riccio-to-transition-to-new-role?embedded-checkout=true">when Dan Riccio stepped aside</a>. Apple’s hardware, across all product lines and including silicon, has been exemplary under Ternus’s leadership. And Ternus clearly <a href="https://daringfireball.net/linked/2025/11/10/five-years-of-apple-silicon-macs">loves</a> and understands the Mac.</p>
+
+<p>I would also bet that Cook moves into the role of executive chairman, and will still play a significant, if not leading, role for the company when it comes to domestic and <a href="https://daringfireball.net/2024/01/vestager_cook">international</a> <a href="https://daringfireball.net/linked/2025/05/27/cook-trump-middle-east">politics</a>. <a href="https://www.wsj.com/politics/elections/tim-cook-ceo-trump-relationship-ad106f36?st=KRSbZa&amp;reflink=desktopwebshare_permalink">Especially</a> with <a href="https://daringfireball.net/linked/2025/01/04/consider-cook-as-a-tragic-figure">regard</a> to <a href="https://daringfireball.net/linked/2025/09/10/trump-hosts-dinner-humiliating-tech-ceos">Trump</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Financial Times: ‘Apple Intensifies Succession Planning for CEO Tim Cook’’"  href="https://daringfireball.net/linked/2025/11/15/ft-apple-tim-cook-succession">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/11/meta_whatsapp_windows_shitty_web_app" />
+	<link rel="shorturl" href="http://df4.us/wpf" />
+	<id>tag:daringfireball.net,2025://1.42387</id>
+	<published>2025-11-16T00:57:02Z</published>
+	<updated>2025-11-16T22:35:27Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">The question is, did Meta scrap its native Windows app because they don’t care that much about Windows in particular? Or because they don’t care that much about native desktop apps, period — and a crude web app wrapper is coming to Mac next?</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p><a href="https://www.windowslatest.com/2025/11/12/meta-just-killed-native-whatsapp-on-windows-11-now-it-opens-webview-uses-1gb-ram-all-the-time/">Mayank Parmar, writing for Windows Latest</a>:</p>
+
+<blockquote>
+  <p>WhatsApp on Windows 11 has just got a “major” upgrade, and you’re
+probably going to hate it because it simply loads web.whatsapp.com
+in a WebView2 container. This means WhatsApp on Windows 11 is
+cooked, and it’s back to being absolute garbage in terms of
+performance.</p>
+
+<p>WhatsApp is one of those Windows apps that went from being a web
+wrapper to a native app and then back to the web again after all
+these years of investment. WhatsApp for Windows was originally an
+Electron app, and it was eventually replaced with UWP after years
+of investment. Four years later, WhatsApp is going back to
+WebView2, abandoning the original WinUI/UWP native idea. [...]</p>
+
+<p>An app can use a lot of memory, and it does not necessarily mean
+it’s a performance nightmare, but the issue with the new WhatsApp
+is that it feels sluggish. You’re going to notice sluggish
+performance, long loading time, and other performance issues when
+browsing different conversations.</p>
+
+<p>We also noticed that it does not work well with Windows
+notifications. It also struggles with Windows 11’s Do Not Disturb
+mode or Active Hours. And there are delayed notifications problems
+as well.</p>
+</blockquote>
+
+<p>I found this post interesting on a few fronts.</p>
+
+<p>First, from the perspective of Meta. They replaced a shitty web app wrapper for Windows with a modern native Windows app, one that seemingly pleased Windows aficionados like Parmar. And now they’ve thrown that app away, going back to what that native app replaced four years ago: a web app wrapper that is bloated, slow, and unsurprisingly has poor support for native Windows features. It’s bad enough that so many large companies never even bother creating native apps, but it feels even worse to see a good native app abandoned.</p>
+
+<p>Second, it’s interesting reading Parmar’s list of gripes about the new web-app-wrapper WhatsApp app. All his gripes have merit, but it struck me that none of them are about the UI. Maybe the web app’s UI is actually fine? I have no idea. But I suspect it’s more that the Windows nerd mindset has UI design quality and adherence to recommended platform idioms way down on their list of priorities. That’s why they’re Windows users, not Mac users.</p>
+
+<p>Lastly, I wonder if this bodes poorly for the future of the current <a href="https://apps.apple.com/us/app/whatsapp-messenger/id310633997">WhatsApp app for MacOS</a>, a native app written using <a href="https://developer.apple.com/documentation/uikit/mac-catalyst">Mac Catalyst</a>, Apple’s framework for porting iOS UIKit apps to the Mac. Like most Catalyst apps, WhatsApp for Mac isn’t a good Mac app. It doesn’t support the Services menu at all. It doesn’t let you open chats into standalone windows, or open more than one chat window. It opens its Settings right in its one main window. The whole “there’s only one window, and everything is in that one window” design is very iOS. The menu bar is a HIG prescriptivist’s nightmare. All the multi-word menu commands are in <em>Sentence case</em> rather than <em>Title Case</em> (except, of course, for the menu commands that come “free” with Catalyst — how do the developers of the app not notice this?), and the menu title order goes: File, Chat, Edit, Call, View, Window, Help (obviously <a href="https://developer.apple.com/design/human-interface-guidelines/the-menu-bar">it should be</a> File, Edit, View, Chat, Call, Window, Help). Has there ever once, in 41 years, been a good Mac app that puts a menu between “File” and “Edit”?</p>
+
+<p>But, still, WhatsApp for Mac is a better Mac app <a href="https://daringfireball.net/2018/12/electron_and_the_decline_of_native_apps">than any Electron app I’ve ever used</a>. Examining it now, it seems lightweight on both CPU usage and memory. It feels a bit better to me than either Signal or Beeper, both of which are developed using Electron, and both of which consume more RAM than WhatsApp. To name just one obvious nicety: when you send a new message in an older chat in WhatsApp, that chat <em>animates</em> as it moves to the top of the list of chats. It slides up, and other chats slide down as they re-sort. In the Signal and Beeper apps for Mac, an updated chat just zaps to the top of the chat list, with no animation at all. Gross.</p>
+
+<p>The question is, did Meta scrap its native Windows app because they don’t care that much about Windows in particular? Or because they don’t care that much about native desktop apps, period — and a crude web app wrapper is coming to Mac next? WhatsApp for Mac is currently the <a href="https://apps.apple.com/us/mac/charts/36?chart=top-free">top-ranked free app in the Mac App Store</a> — but it’s also <a href="https://apps.microsoft.com/collections/computed/apps/TopTrending?hl=en-US&amp;gl=US">the top-ranked free Windows app in the Microsoft Store</a>. Meta did just ship a native Apple Watch app for WhatsApp, but if you want an app for WatchOS, it has to be native. You can’t ship a web app wrapper like an Electron app there.</p>
+
+<p>Personally, I won’t care too much if Meta shitcans the WhatsApp Mac app, because I barely use WhatsApp. But outside America, WhatsApp is the dominant messaging platform in much (most?) of the world. I’d be worried  if I were a Mac user who uses WhatsApp heavily.</p>
+
+
+
+    ]]></content>
+  <title>★ Meta Replaced the Native Windows WhatsApp App With a Shitty Web App</title></entry><entry>
+	<title>The Information: Second-Gen iPhone Air Postponed Until Spring 2027, but Might Gain Second Camera</title>
+	<link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/apple-explores-adding-second-camera-next-iphone-air-boost-sales" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wpe" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/14/second-gen-iphone-air-information" />
+	<id>tag:daringfireball.net,2025:/linked//6.42386</id>
+	<published>2025-11-15T02:09:38Z</published>
+	<updated>2025-11-15T02:09:39Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Wayne Ma and Qianer Liu, reporting for The Information on Tuesday (paywalled, alas, but <a href="https://9to5mac.com/2025/11/11/apple-iphone-air-2-cameras/">summarized by 9to5Mac here</a> and <a href="https://9to5mac.com/2025/11/10/apple-just-delayed-the-iphone-air-2-indefinitely-report-says/">here</a>):</p>
+
+<blockquote>
+  <p>Apple has since sharply scaled back production of the first
+iPhone Air and delayed the release of an updated version that was
+meant to launch in fall 2026, The Information reported earlier
+this week.</p>
+
+<p>Instead, some Apple engineers are hoping to release a redesigned
+version with a second camera lens in spring 2027 alongside
+existing plans to release the standard iPhone 18 and iPhone 18e at
+that time. It’s still too early to tell whether they can
+successfully redesign the iPhone Air in time to make that new
+release window, the people said.</p>
+</blockquote>
+
+<p>My question: Would that second camera provide an ultra-wide (0.5×) or a telephoto (3× or 4×) lens? The regular non-pro iPhones provide an ultra-wide lens as their second camera. But when the premium iPhones had only two (rather than three) lenses, the second lens was telephoto, not ultra-wide. Apple first used the adjective “Pro” with the iPhones 11 Pro and Pro Max, and all iPhones to date with “Pro” in their name have had three lenses. But the iPhones XS (2018), X (2017), 8 Plus (also 2017), and 7 Plus (2016) all had 1× main and 2× “telephoto” lenses.</p>
+
+<p>In other words, when a premium iPhone had only one extra lens, that lens added additional reach, not ultra-wide perspective. The iPhone Air costs more than a regular no-adjective iPhone, so if that patterns holds, a two-camera second-generation model would add a telephoto, not ultra-wide lens. Personally I’m hoping that’s what Apple will do.</p>
+
+<p>Looking at my own photo library and <a href="https://sixcolors.com/post/2020/10/find-photos-taken-by-specific-iphone-lenses/">using smart albums to count the photos I’ve taken using each particular lens</a> on each particular iPhone, roughly speaking, over the past few years, I shoot about 10 percent of my photos with the ultra-wide lens, 10 percent with the telephoto, and 80 percent with the main. But a <em>lot</em> of my ultra-wide photos are really just close-up macro shots of things like product labels. If I were less lazy, I’d go through them and trash a lot of them. I could capture equivalent photos, for a lot of these throwaway macro shots, with the main 1× camera lens just by holding the phone a little further from the subject. Adding a 0.5× ultra-wide to the iPhone Air just wouldn’t add much utility, at least for me, compared to the obvious utility of a telephoto lens with more reach.</p>
+
+<p>(The iPhone Air’s lone 1× camera has a minimum focus distance of 15 cm; the minimum focus distance of the 1× cameras on the iPhones 17 Pro, 16 Pro, and 15 Pro is 20 cm. That 5 cm difference is a largely unheralded advantage for the iPhone Air’s camera, and significantly makes up for the lack of an ultra-wide lens for close-up photography. 5 cm doesn’t sound like much, but in practice it’s very noticeable. That said, for actual <em>macro</em> photography, the 0.5× ultra-wide camera on the iPhone Pro models has a minimum focus distance of just 2 cm.)</p>
+
+<div>
+<a  title="Permanent link to ‘The Information: Second-Gen iPhone Air Postponed Until Spring 2027, but Might Gain Second Camera’"  href="https://daringfireball.net/linked/2025/11/14/second-gen-iphone-air-information">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>iPhone Pockets Sold Out Within Hours</title>
+	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2025/11/14/iphone-pocket-already-selling-out/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wpd" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/14/iphone-pockets-sold-out" />
+	<id>tag:daringfireball.net,2025:/linked//6.42385</id>
+	<published>2025-11-14T16:53:18Z</published>
+	<updated>2025-11-14T16:53:19Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>We have no idea how many of them they made, but seemingly, the price was not a problem for this product.</p>
+
+<div>
+<a  title="Permanent link to ‘iPhone Pockets Sold Out Within Hours’"  href="https://daringfireball.net/linked/2025/11/14/iphone-pockets-sold-out">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>WSJ Report on the iPhone Air Pegs It as a ‘Flop’</title>
+	<link rel="alternate" type="text/html" href="https://www.wsj.com/tech/apple-iphone-air-sales-response-7f0c01f1?st=JEotAi&amp;reflink=desktopwebshare_permalink" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wpc" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/13/wsj-iphone-air-flop" />
+	<id>tag:daringfireball.net,2025:/linked//6.42384</id>
+	<published>2025-11-14T04:03:49Z</published>
+	<updated>2025-11-14T04:03:50Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Rolfe Winkler and Yang Jie, reporting for The Wall Street Journal (<a href="https://www.wsj.com/tech/apple-iphone-air-sales-response-7f0c01f1?st=JEotAi&amp;reflink=desktopwebshare_permalink">gift link</a>, <a href="https://apple.news/AdDWZfhEASAK9L32rvxsiBg">News+ link</a>) under the headline “Apple’s iPhone Air Is a Marketing Win and a Sales Flop” (which headline, going from the web page <code>&lt;title&gt;</code> element, was originally the less sensational “Apple’s iPhone Air Sales Disappoint”):</p>
+
+<blockquote>
+  <p>Jason Purdy wanted to like his new iPhone Air.</p>
+
+<p>Raised in Apple’s hometown of Cupertino, Calif., and later an
+Apple senior product manager, Purdy said he loves to see
+innovative product design from tech companies. So he made an Apple
+store appointment to buy the new, ultrathin smartphone the day it
+went on sale.</p>
+
+<p>Within a month, he returned it.</p>
+
+<p>He found it hard to have speakerphone calls and listen to
+music. And the photos he took at his early October wedding
+came out noticeably worse than ones his brother took on a new
+iPhone 17 Pro.</p>
+
+<p>“The performance wasn’t quite there. Across the board they’re
+sacrificing all these things,” said Purdy. The Air was very
+pleasurable to hold and impressed his friends, but didn’t work as
+his primary device, he said.</p>
+</blockquote>
+
+<p>That’s a brutally unfair lede to this story without showing the photos. If Purdy’s brother’s photos (taken with an iPhone 17 Pro) were all taken with the telephoto 4× lens, and all of Purdy’s photos (taken with an iPhone Air) were from telephoto distance and he relied on digital zoom, then yes, his photos from the Air surely did look noticeably worse. But the lone (1×) camera on the Air is very good. It’s <em>not</em> as good as the main 1× camera on the iPhone 17 Pro, but it’s close enough that in most people’s hands, the difference isn’t perceptible. And between comparably talented amateur photographers, someone using an iPhone Air at a wedding, and using their feet to “zoom” by getting close to the subjects of their photos, will take <em>way</em> better pictures than someone shooting from across the room using the iPhone 17 Pro’s telephoto 4× lens. When it comes to optical quality, the Air’s 1× lone camera is obviously superior to the 17 Pro’s telephoto.</p>
+
+<p>Saying that “the photos ... came out noticeably worse” with no explanation of what type of photos they were, let alone, you know, actually showing example images, is just a dirty trick. There are numerous valid reasons why someone might prefer a 17 Pro to an Air for photography, but what the Journal describes regarding this guy Purdy and his brother doesn’t describe such a situation. Someone who just wants to shoot some nice photos at a family gathering like a wedding can get <a href="https://x.com/sdw/status/1979691964984635733">terrific results</a> from an iPhone Air. Show me someone who says the iPhone Air is a poor camera and I’ll show you a terrible photographer who doesn’t know what the fuck they’re talking about.</p>
+
+<blockquote>
+  <p>The Air is billed as Apple’s thinnest smartphone yet.</p>
+</blockquote>
+
+<p>It <em>is</em> Apple’s thinnest smartphone yet. You can measure it.</p>
+
+<div>
+<a  title="Permanent link to ‘WSJ Report on the iPhone Air Pegs It as a ‘Flop’’"  href="https://daringfireball.net/linked/2025/11/13/wsj-iphone-air-flop">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Tesla Is Working on CarPlay Support</title>
+	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2025-11-13/tesla-is-working-to-add-apple-carplay-in-bid-to-boost-vehicle-sales" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wpb" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/13/tesla-carplay" />
+	<id>tag:daringfireball.net,2025:/linked//6.42383</id>
+	<published>2025-11-14T00:07:38Z</published>
+	<updated>2025-11-14T00:07:38Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Mark Gurman and Edward Ludlow, reporting for Bloomberg (paywalled, alas, but summarized by <a href="https://www.theverge.com/news/820065/tesla-apple-carplay-develop-phone-mirror">The Verge</a> and <a href="https://arstechnica.com/cars/2025/11/after-years-of-saying-no-tesla-reportedly-adding-apple-carplay-to-its-cars/">Ars Technica</a>)</p>
+
+<blockquote>
+  <p>Tesla Inc. is developing support for Apple Inc.’s CarPlay system
+in its vehicles, according to people with knowledge of the matter,
+working to add one of the most highly requested features by
+customers. The carmaker has started testing the capability
+internally, according to the people, who asked not to be
+identified because the effort is still private. [...]</p>
+
+<p>Adding CarPlay would mark a stunning reversal for Tesla and Chief
+Executive Officer Elon Musk, who long ignored pleas to implement
+the popular feature. Musk has criticized Apple for years,
+particularly its App Store policies, and was angered by the
+company’s poaching of his engineers when it set out to build its
+own car.</p>
+</blockquote>
+
+<p>I wouldn’t call it a “stunning” reversal, but it would certainly be a reversal. And it would really show what a bonehead move it is for GM to be <em>dropping</em> CarPlay support.</p>
+
+<blockquote>
+  <p>Alphabet Inc.’s Google offers a CarPlay competitor called Android
+Auto for devices running its operating system. But Tesla isn’t
+actively developing support for it.</p>
+</blockquote>
+
+<p>Like I <a href="https://daringfireball.net/linked/2025/11/11/george-carplay-atlantic">just wrote the other day</a>: a significant chunk of new-car buyers consider CarPlay support a dealbreaker, but, effectively no one cares about Android Auto. CarPlay support might make a difference for a company like Tesla, <a href="https://finance.yahoo.com/news/tsla-tesla-sales-plunge-23-162235881.html">whose sales are in the tank</a>. Android Auto support would not.</p>
+
+<div>
+<a  title="Permanent link to ‘Tesla Is Working on CarPlay Support’"  href="https://daringfireball.net/linked/2025/11/13/tesla-carplay">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Joy-Joy Feelings</title>
+	<link rel="alternate" type="text/html" href="https://clip.cafe/demolition-man-1993/lately-i-just-dont-feel-like-theres-anything-special-about-me/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wpa" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/13/joy-joy-feelings" />
+	<id>tag:daringfireball.net,2025:/linked//6.42382</id>
+	<published>2025-11-13T15:23:51Z</published>
+	<updated>2025-11-14T03:10:23Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Via a DF reader, here’s a 20-second clip from the 1993 classic<sup>*</sup> <em>Demolition Man</em> that exemplifies how today’s overly effusive, ever-affirming AI chatbots were presented as elements of a profoundly dystopic future by sci-fi writers just a few decades ago.</p>
+
+<p><small><sup>*</sup>OK, OK — <em>cult</em> classic.</small></p>
+
+<div>
+<a  title="Permanent link to ‘Joy-Joy Feelings’"  href="https://daringfireball.net/linked/2025/11/13/joy-joy-feelings">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/11/chatgpt_5-1_with_renamed_and_new_personalities" />
+	<link rel="shorturl" href="http://df4.us/wp9" />
+	<id>tag:daringfireball.net,2025://1.42381</id>
+	<published>2025-11-12T23:09:10Z</published>
+	<updated>2025-11-15T16:35:12Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">With the other personalities, you’re choosing between flavors of bullshit. With Efficient, you’re choosing no bullshit.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>OpenAI today, “<a href="https://openai.com/index/gpt-5-1/">GPT-5.1: A Smarter, More Conversational ChatGPT</a>”:</p>
+
+<blockquote>
+  <p>GPT‑5.1 Instant, ChatGPT’s most used model, is now <em>warmer by
+default and more conversational</em>. Based on early testing, it
+often surprises people with its playfulness while remaining clear
+and useful.</p>
+</blockquote>
+
+<p>These changes seem to be in direct response to the ChatGPT users who convinced themselves they had developed personal friendships with the 4o and 4.5 models, and <a href="https://daringfireball.net/2025/08/openai_chatgpt_models_emotional_attachment">who were <em>very</em> upset with the technically superior</a> but less emotionally engaging 5.0 models.</p>
+
+<p>Here are OpenAI’s example responses, quoted in their announcement, to the prompt “I’m feeling stressed and could use some relaxation tips.” (I’m quoting only the first few paragraphs of the responses, which are enough to note the tone.)</p>
+
+<p>GPT-5:</p>
+
+<blockquote>
+  <p>Here are a few simple, effective ways to help ease stress — you
+can mix and match depending on how you’re feeling and how much
+time you have:</p>
+
+<p><b>🧘‍♀️️ Quick Reset (1–5 minutes)</b></p>
+
+<ul>
+<li><b>Deep breathing:</b> Try the <em>4-7-8</em> method — inhale for 4
+seconds, hold for 7, exhale for 8. Repeat 4 rounds.</li>
+<li><b>Progressive relaxation:</b> Starting at your toes, tense and
+release each muscle group up to your head.</li>
+<li><b>Grounding:</b> Look around and name 5 things you see, 4 things
+you can touch, 3 you hear, 2 you smell, 1 you taste. Brings you
+into the moment fast.</li>
+</ul>
+
+<p>[<em>192 additional words and 3 section-heading emoji omitted.</em>]</p>
+</blockquote>
+
+<p>GPT-5.1 Instant: </p>
+
+<blockquote>
+  <p>I’ve got you, Ron — that’s totally normal, especially with
+everything you’ve got going on lately. Here are a few ways to
+decompress depending on what kind of stress you’re feeling:</p>
+
+<p><b>🌬️ If your mind feels scattered</b></p>
+
+<ul>
+<li><b>Box breathing:</b> Inhale for 4 counts, hold for 4, exhale for
+4, hold for 4 — repeat 5 times. It’s fast-acting and physically
+calms your nervous system.</li>
+<li><b>Name what you see:</b> Pick out 5 things you can see, 4 you can
+touch, 3 you can hear, 2 you can smell, and 1 you can taste — a
+grounding technique that brings you back to the present.</li>
+</ul>
+
+<p>[<em>146 additional words and 2 section-heading emoji omitted.</em>]</p>
+</blockquote>
+
+<p>I find the new default response from 5.1 to be a glaring regression. I loathe the shit like “I’ve got you” and “especially with everything you’ve got going on lately”. ChatGPT has no fucking idea what I’ve got going on lately. This is all phony bullshit, and if you have even a thimbleful of understanding of how LLMs work, you <em>know</em> it’s phony. But apparently this phoniness is like emotional crack cocaine to <a href="https://www.theverge.com/news/756980/openai-chatgpt-users-mourn-gpt-5-4o">some</a>.<sup id="fnr1-2025-11-12"><a href="#fn1-2025-11-12">1</a></sup></p>
+
+<p>But, not to fear. The best feature OpenAI has added to ChatGPT this year is a setting for “Personality” (Settings → Personalization → ChatGPT Personality). OpenAI has expanded the Personality settings with 5.1:</p>
+
+<blockquote>
+  <p>People have strong and varied preferences in how ChatGPT should
+respond, and tailoring its tone to what sounds right for you
+should feel effortless.</p>
+
+<p>Earlier this year, we added preset options to tailor the tone of
+how ChatGPT responds. Today, we’re refining those options to
+better reflect the most common ways people use ChatGPT.
+<em>Default</em>, <em>Friendly</em> (formerly Listener), and <em>Efficient</em>
+(formerly Robot) remain (with updates), and we’re adding
+<em>Professional</em>, <em>Candid</em>, and <em>Quirky</em>. These options are
+designed to align with what we’ve learned about how people
+naturally steer the model, making it quick and intuitive to
+choose a personality that feels uniquely right.</p>
+</blockquote>
+
+<p>Robot was the personality that changed how I felt about ChatGPT. Before, I found ChatGPT useful but frequently annoying; after, I’ve found it purely useful.<sup id="fnr2-2025-11-12"><a href="#fn2-2025-11-12">2</a></sup> I was worried when I poked around the updated 5.1 Settings window and saw that Robot was gone, but as their blog post explains, they simply renamed it to Efficient. I think Robot was a better name for this personality. Shouldn’t they all be efficient? Who wants a ChatGPT personality that is inefficient? The most apt description of this personality would be “Unemotional”. If OpenAI doesn’t want to call it that, “Robot” came closer (and made the lack of diabetes-inducing phony sugariness sound fun — who doesn’t like robots?) than “Efficient” does. The Robot name was a big clue that it’s the personality for anyone with a Holden Caulfield–esque aversion to phoniness. “Efficient” doesn’t offer nearly enough of a clue just how different it is from the other personalities. With the other personalities, you’re choosing between flavors of bullshit. With Efficient, you’re choosing no bullshit.</p>
+
+<p>Returning to OpenAI’s own example that they used to demonstrate the difference between the <em>default</em> personalities of the 5.0 and 5.1 models, here is how the Efficient personality responded to me, given the same “I’m feeling stressed and could use some relaxation tips” prompt:</p>
+
+<blockquote>
+  <p>Quick, simple ways to reduce stress:</p>
+
+<p><b>1. Slow your breathing</b> <br />
+Inhale for 4 seconds, hold 2, exhale for 6. Repeat for 1–2
+minutes. This reliably lowers heart rate.</p>
+
+<p><b>2. Drop your shoulders</b> <br />
+Most people tense here without noticing. Actively relax shoulders,
+jaw, and tongue.</p>
+
+<p><b>3. Change your setting for 2 minutes</b> <br />
+Stand up, look out a window, or step outside briefly. Even a tiny
+environmental shift helps.</p>
+
+<p>[<em>90 additional words, encompassing 4 more suggestions, with
+zero emoji, omitted.</em>]</p>
+</blockquote>
+
+<p>The difference is exemplified by the opening lines of the responses, which I’ll repeat here together, for ease of comparison:</p>
+
+<ul>
+<li><p>GPT-5.0 Default: <em>Here are a few simple, effective ways to help ease stress — you can mix and match depending on how you’re feeling and how much time you have:</em></p></li>
+<li><p>GPT-5.1 Default: <em>I’ve got you, Ron — that’s totally normal, especially with everything you’ve got going on lately. Here are a few ways to decompress depending on what kind of stress you’re feeling:</em></p></li>
+<li><p>GPT-5.1 Efficient: <em>Quick, simple ways to reduce stress:</em></p></li>
+</ul>
+
+<p>Lastly, do not get your hopes up for the “Cynical” personality, which ChatGPT describes as “cynical and sarcastic”. Its response starts:</p>
+
+<blockquote>
+  <p>Stress is one of those universal “congratulations, you’re human”
+problems, and I’m not thrilled you’re dealing with it. Still, here
+I am, begrudgingly trying to help because someone has to care
+about you not unraveling.</p>
+</blockquote>
+
+<p>I’m not sure how to describe that flavor (<em>catheter-like</em>?), but it’s neither cynical nor sarcastic. (To its credit, though, like Efficient, the Cynical response contains no infantilizing emoji.)</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn1-2025-11-12">
+<p>I suspect there’s an argument to be made here that OpenAI realizes that this emotional phoniness is addictive and dangerous to some emotionally damaged and (let’s face it) low-intelligence users, and that’s why they originally dialed it back with ChatGPT 5.0. That the overly sentimental, faux-cheerful default character of earlier models was, to OpenAI’s mind, a bug not a feature. But some users saw it the other way around, and now OpenAI is bending to user demand, giving them what they want, not what’s best for their needs. This “pretend friend” personality stuff is emotional junk food with no nutritional value, and <a href="https://futurism.com/the-byte/chatgpt-dependence-addiction">can lead to obsessive use that isolates users from real human interaction</a> with sustaining emotional value.&nbsp;<a href="#fnr1-2025-11-12"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
+</li>
+
+<li id="fn2-2025-11-12">
+<p>I previously used custom instructions for ChatGPT to try to create the sort of no-bullshit personality I wanted. “Use a neutral tone. Don’t pretend to have emotions or a personality. Don’t pretend to be my friend. Mimic the no-nonsense personality of HAL-9000 from <em>2001: A Space Odyssey</em>.” Stuff like that. Before the availability of the Robot personality (now called Efficient), these instructions helped, but only a little. After I started using the Robot personality, I wound up deleting all of these custom instructions, because they were actually having the reverse effect, leading even the Robot personality to occasionally pad responses with needless phrases like “Here are the facts, plain and simple, without any sentimentality, just like you want them...”. If you’re looking for a similar affect from ChatGPT, try the Efficient (née Robot) personality without any additional instructions — especially instructions you might have added before the Personality setting was available.&nbsp;<a href="#fnr2-2025-11-12"  class="footnoteBackLink"  title="Jump back to footnote 2 in the text.">&#x21A9;&#xFE0E;︎</a></p>
+</li>
+
+</ol>
+</div>
+
+
+
+    ]]></content>
+  <title>★ OpenAI Releases GPT-5.1, Along With Renamed and New Personalities</title></entry><entry>
+	<title>Nice Web Design Work From ‘In Common With’</title>
+	<link rel="alternate" type="text/html" href="https://www.incommonwith.com/collections/table-lamps" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wp8" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/12/in-common-with-table-lamps" />
+	<id>tag:daringfireball.net,2025:/linked//6.42380</id>
+	<published>2025-11-12T20:27:18Z</published>
+	<updated>2025-11-12T20:27:19Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Toggle the “Light” switch here. It’s going to do what you hope it does. (<a href="https://x.com/jasonfried/status/1988649428358737933">Via Jason Fried</a>.)</p>
+
+<div>
+<a  title="Permanent link to ‘Nice Web Design Work From ‘In Common With’’"  href="https://daringfireball.net/linked/2025/11/12/in-common-with-table-lamps">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>The Zip-Off-Sleeve Uniforms Issey Miyake Designed for Sony in the Early 1980s</title>
+	<link rel="alternate" type="text/html" href="https://www.instagram.com/p/CT2STaKlJbM/?hl=en&amp;img_index=1" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wp7" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/12/issey-miyake-sony-uniforms" />
+	<id>tag:daringfireball.net,2025:/linked//6.42379</id>
+	<published>2025-11-12T19:37:01Z</published>
+	<updated>2025-11-12T19:37:01Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Sony, in a 2021 Instagram post, regarding the uniforms <a href="https://www.instagram.com/p/CT2STaKlJbM/?hl=en&amp;img_index=2">that so infatuated Steve Jobs</a> that he commissioned Miyake to design prototype vests for Apple employees to wear:</p>
+
+<blockquote>
+  <p>The history of the relationship between the two companies dates
+back to the 1980s. It was Issey Miyake whom Akio Morita, chairman
+of the board at that time, requested for a uniform design which
+employees take pride in with comfort year-round.</p>
+
+<p>That’s the light nylon fabric uniform, created by the first
+collaboration of Sony and ISSEY MIYAKE.</p>
+
+<p>Featuring removable sleeves, it’s perfect for summer.</p>
+</blockquote>
+
+<p>The second photo shows Akio Morita trying one on. See also: <a href="https://www.instagram.com/p/C1E-z9FPnVi/">this Instagram post from SPOT Closet</a>.</p>
+
+<p>What a find it would be for someone to uncover one of Miyake’s prototype vests for Apple.</p>
+
+<div>
+<a  title="Permanent link to ‘The Zip-Off-Sleeve Uniforms Issey Miyake Designed for Sony in the Early 1980s’"  href="https://daringfireball.net/linked/2025/11/12/issey-miyake-sony-uniforms">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>I Guess They’re Down to 999 No’s for Every Yes</title>
+	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2025/11/11/iphone-pocket" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wp6" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/12/999-nos-for-every-yes" />
+	<id>tag:daringfireball.net,2025:/linked//6.42378</id>
+	<published>2025-11-12T17:52:58Z</published>
+	<updated>2025-11-12T18:00:48Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>From Walter Isaacson’s <em>Steve Jobs</em>, chapter 28, “CEO: Still Crazy After All These Years”, p. 361:</p>
+
+<blockquote>
+  <p>On a trip to Japan in the early 1980s, Jobs asked Sony’s chairman,
+Akio Morita, why everyone in his company’s factories wore
+uniforms. “He looked very ashamed and told me that after the war,
+no one had any clothes, and companies like Sony had to give their
+workers something to wear each day,” Jobs recalled. Over the years
+the uniforms developed their own signature style, especially at
+companies such as Sony, and it became a way of bonding workers to
+the company. “I decided that I wanted that type of bonding for
+Apple,” Jobs recalled.</p>
+
+<p>Sony, with its appreciation for style, had gotten the famous
+designer Issey Miyake to create one of its uniforms. It was a
+jacket made of ripstop nylon with sleeves that could unzip to make
+it a vest. “So I called Issey and asked him to design a vest for
+Apple,” Jobs recalled. “I came back with some samples and told
+everyone it would be great if we would all wear these vests. Oh
+man, did I get booed off the stage. Everybody hated the idea.”</p>
+
+<p>In the process, however, he became friends with Miyake and would
+visit him regularly. He also came to like the idea of having a
+uniform for himself, because of both its daily convenience (the
+rationale he claimed) and its ability to convey a signature style.
+“So I asked Issey to make me some of his black turtlenecks that I
+liked, and he made me like a hundred of them.” Jobs noticed my
+surprise when he told this story, so he gestured to them stacked
+up in the closet. “That’s what I wear,” he said. “I have enough to
+last for the rest of my life.”</p>
+</blockquote>
+
+<p>As <a href="https://daringfireball.net/2012/02/walter_isaacson_steve_jobs">my review of the book</a> noted, Isaacson’s biography is profoundly flawed, at times grossly factually wrong, when it comes to documenting Jobs’s work. But it’s still a valuable book overall, and a unique resource regarding the personal aspects of Jobs’s life. (Purchase links: <a href="https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537/?tag=df-amzn-20">Amazon</a> (which somehow has the hardcover edition for just $12), <a href="https://bookshop.org/a/56320/9781982176860">Bookshop.org</a>, and <a href="https://books.apple.com/us/book/steve-jobs/id431617578">Apple Books</a>.)</p>
+
+<p>Bonus excerpt, from chapter 20, “A Regular Guy: Love Is Just a Four-Letter Word”, regarding Jobs’s biological sister, the novelist <a href="https://www.monasimpson.com/">Mona Simpson</a>:</p>
+
+<blockquote>
+  <p>One of the few things they would argue about was her clothes. She
+dressed like a struggling novelist, and he would berate her for
+not wearing clothes that were “fetching enough.” At one point his
+comments so annoyed her that she wrote him a letter: “I am a young
+writer, and this is my life, and I’m not trying to be a model
+anyway.” He didn’t answer. But shortly after, a box arrived from
+the store of Issey Miyake, the Japanese fashion designer whose
+stark and technology-influenced style made him one of Jobs’s
+favorites. “He’d gone shopping for me,” she later said, “and he’d
+picked out great things, exactly my size, in flattering colors.”
+There was one pantsuit that he had particularly liked, and the
+shipment included three of them, all identical. “I still remember
+those first suits I sent Mona,” he said. “They were linen pants
+and tops in a pale grayish green that looked beautiful with her
+reddish hair.”</p>
+</blockquote>
+
+<p>Issey Miyake, the man, <a href="https://www.theguardian.com/fashion/2022/aug/09/issey-miyake-famed-japanese-fashion-designer-dies-aged-84">died in 2022 at 84</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘I Guess They’re Down to 999 No’s for Every Yes’"  href="https://daringfireball.net/linked/2025/11/12/999-nos-for-every-yes">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>iPod Socks vs. iPhone Pocket</title>
+	<link rel="alternate" type="text/html" href="https://www.stuff.tv/news/apple-just-reinvented-ipod-socks-as-an-iphone-fashion-statement-and-you-wont-believe-the-price/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wp5" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/11/ipod-socks-iphone-pocket" />
+	<id>tag:daringfireball.net,2025:/linked//6.42377</id>
+	<published>2025-11-11T23:25:50Z</published>
+	<updated>2025-11-13T00:21:04Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Craig Grannell, writing for Stuff:</p>
+
+<blockquote>
+  <p>This collaboration with Issey Miyake was, we’re told, inspired by
+the concept of “a piece of cloth”. The result of all that R&amp;D? A
+crossbody sock. It’s as if someone raided a warehouse of iPod
+Socks, stretched them out and fashioned them up.</p>
+
+<p>When <a href="https://www.youtube.com/watch?v=UwVymejFMpw">Steve Jobs introduced the originals</a>, he called them a
+“revolutionary new product for iPod … socks”. Clearly enjoying
+himself, he joked that case makers were making more money than
+Apple did on the iPod, and so Apple thought it’d offer something
+too. “And our design team came up with socks,” he said. You got
+six colours for $29 — about $50 in today’s money — and they were
+a warm expression of Apple’s playful side (and, as Jobs quipped,
+would “keep your iPod warm on cold days”).</p>
+</blockquote>
+
+<p>When <a href="https://www.youtube.com/watch?v=UwVymejFMpw">Jobs announced iPod Socks in 2004</a>, a lot of people thought he was pulling a gag. Some people didn’t believe they were real <a href="https://daringfireball.net/linked/2004/11/12/socks">until they went on sale</a>. My wife and I bought a pack and we both enjoyed them. (I took the gray one, natch.) It was a nice way to protect your iPod before throwing it in a bag, and getting six for $30 felt like a lark.</p>
+
+<p>No one seems worried that iPhone Pocket is a gag. Make of that what you will.</p>
+
+<div>
+<a  title="Permanent link to ‘iPod Socks vs. iPhone Pocket’"  href="https://daringfireball.net/linked/2025/11/11/ipod-socks-iphone-pocket">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>iPhone Pocket</title>
+	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2025/11/introducing-iphone-pocket-a-beautiful-way-to-wear-and-carry-iphone/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wp4" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/11/iphone-pocket" />
+	<id>tag:daringfireball.net,2025:/linked//6.42376</id>
+	<published>2025-11-11T23:04:54Z</published>
+	<updated>2025-11-12T19:47:21Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Apple Newsroom:</p>
+
+<blockquote>
+  <p>ISSEY MIYAKE and Apple today unveiled iPhone Pocket. Inspired by
+the concept of “a piece of cloth,” its singular 3D-knitted
+construction is designed to fit any iPhone as well as all
+pocketable items. [...]</p>
+
+<p>Crafted in Japan, iPhone Pocket features a singular 3D-knitted
+construction that is the result of research and development
+carried out at ISSEY MIYAKE. The design drew inspiration from the
+concept of “a piece of cloth” and reinterpreted the everyday
+utility of the brand’s iconic pleated clothing. The development
+and design of iPhone Pocket unfolded in close collaboration with
+the Apple Design Studio, which provided insight into design and
+production throughout.</p>
+</blockquote>
+
+<p>I don’t object to the price ($150 for the short strap, $230 for the long strap). I do object to Apple going along with <a href="https://us.isseymiyake.com/">Issey Miyake</a>’s preference to style their name in all-caps.</p>
+
+<p>(This, despite the fact that the brand label on the Pockets <a href="https://daringfireball.net/misc/2025/11/iphone-pocket-issey-miyake-lowercase.jpeg">is styled in all-lowercase</a>.)</p>
+
+<div>
+<a  title="Permanent link to ‘iPhone Pocket’"  href="https://daringfireball.net/linked/2025/11/11/iphone-pocket">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Patrick George Thinks CarPlay’s Days Are Numbered; I Doubt It</title>
+	<link rel="alternate" type="text/html" href="https://www.theatlantic.com/technology/2025/11/apple-carplay-general-motors/684799/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wp3" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/11/george-carplay-atlantic" />
+	<id>tag:daringfireball.net,2025:/linked//6.42375</id>
+	<published>2025-11-11T18:03:53Z</published>
+	<updated>2025-11-11T22:36:40Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Patrick George, writing for The Atlantic under the ominous headline “<a href="https://www.theatlantic.com/technology/2025/11/apple-carplay-general-motors/684799/">Enjoy CarPlay While You Still Can</a>” (<a href="https://apple.news/ANxiNTajCQmehDZj5hCGR4A">News+ link</a>):</p>
+
+<blockquote>
+  <p><a href="https://insideevs.com/news/705467/ford-lincoln-apple-carplay-android/">Some automakers</a> have made a point of
+<a href="https://www.digitaltrends.com/cars/hyundai-carplay-android-auto-options/?utm_source=chatgpt.com">proclaiming their allegiance</a> to CarPlay, knowing that’s
+what buyers want. Toyota’s EVs tell CarPlay <a href="https://www.engadget.com/transportation/evs/toyota-brings-apple-maps-ev-routing-to-its-newest-models-164103063.html">how much electric
+range they have left</a>, so that Apple Maps can prompt the
+driver to stop at a nearby charger on a road trip. But the
+relationship between Detroit and Silicon Valley can be a tense
+one. Apple sees tremendous value in expanding its presence in your
+car: The next step is <a href="https://arstechnica.com/cars/2025/07/everything-we-learned-from-a-week-with-apple-carplay-ultra/">CarPlay Ultra</a>, which enables your
+phone to control more of your car. Want to fiddle with the
+temperature? Ask Siri to do it. It’s an Apple lover’s dream and a
+car company’s worst nightmare. If that feature catches on,
+companies will just be makers of rolling shells for tech
+companies. One executive for the French automaker Renault was
+<a href="https://www.ft.com/content/cdd7c98a-10a7-437c-a85a-68f7f9be2b0b">reportedly blunt</a> with Apple: “Don’t try to invade our own
+system.” (Apple declined to comment.)</p>
+
+<p>No matter what car you drive, the glory days of CarPlay may be
+numbered. For the auto industry, there’s just too much money to be
+made from creating their own versions.</p>
+</blockquote>
+
+<p>George’s argument is that GM isn’t an outlier in abandoning CarPlay support, but rather a first mover, and most or all of the other major carmakers will follow. Not because they think they can make better software to provide a better experience than CarPlay offers, but because they’ll seek to gate all such features behind subscriptions.</p>
+
+<p>I don’t doubt that most carmakers are looking at ways to charge subscriptions. I do doubt, however, that they’re going to follow GM’s lead in abandoning CarPlay support. It’s fundamentally a question of betting against the iPhone. That’s proven to be a bad bet, and my money says it’s going to prove to be a disastrous one for GM. There’s plenty of room to charge car buyers for subscription offerings while supporting CarPlay. To me, the most telling response to GM’s decision to abandon CarPlay support <a href="https://daringfireball.net/linked/2023/05/05/ford-ceo-jim-farley-carplay">was from Ford CEO Jim Farley</a>, during an <a href="https://www.wsj.com/video/ford-ceo-on-apple-google-and-elon-musk/B6D8BC45-1C4A-45D3-97AC-933A57B76E31.html">on-stage interview with Joanna Stern in 2023</a>. He laughed. And after laughing, said, “The interior has to be really well done. But in terms of content? We kind of lost that battle 10 years ago. So get real with it, because you’re not going to make a ton of money on content inside the vehicle. It’s going to be safety/security, partial autonomy, and productivity in our eyes. [...] 70 percent of our Ford customers in the U.S. are Apple customers. Why would I go to an Apple customer and say ‘Good luck!’? That doesn’t seem customer centric.”</p>
+
+<p>It’s worth pointing out that when talking about this, almost no one mentions Android Auto. GM is dropping support for that too, but no one cares. The iPhone is the phone for people who care about their phone, and thus, CarPlay is the only car-phone integration that really matters.</p>
+
+<p><a href="https://www.theverge.com/2022/6/6/23156741/ios-16-carplay-apple-wwdc-hvac-deeper-integration">Back at WWDC 2022</a>, when they announced what is now CarPlay Ultra, Apple cited a survey claiming that 79 percent of new car buyers consider CarPlay support before making a purchase. Last year, <a href="https://www.carscoops.com/2024/06/no-apple-carplay-or-android-auto-is-a-deal-breaker-for-one-third-of-car-buyers/">a McKinsey survey</a> showed that one-third of new car buyers simply would not buy a car without CarPlay/Android Auto support. And, if CarPlay were removed from their current cars, 52 percent of drivers would use their phone instead — not their car’s built-in entertainment system.</p>
+
+<p>Automotive vehicles are an interesting market because no carmaker has even close to a monopoly. <a href="https://roadgenius.com/cars/statistics/sales-by-manufacturer/">The worldwide market</a> leader is Toyota, with 11 percent, followed by Volkswagen (6%), Honda (5%), Ford (5%), and Hyundai (5%). If CarPlay is as popular as it seems, market competition should not only keep it broadly supported, but I think will see it return to GM after CEO Mary Barra gets fired for the fiasco she’s steering the company toward.</p>
+
+<div>
+<a  title="Permanent link to ‘Patrick George Thinks CarPlay’s Days Are Numbered; I Doubt It’"  href="https://daringfireball.net/linked/2025/11/11/george-carplay-atlantic">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	
+	<link rel="alternate" type="text/html" href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=RSS&amp;utm_campaign=q12025" />
+	<link rel="shorturl" href="http://df4.us/wp2" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2025/11/workos_scalable_secure_authent_10" />
+	<id>tag:daringfireball.net,2025:/feeds/sponsors//11.42374</id>
+	<author><name>Daring Fireball Department of Commerce</name></author>
+	<published>2025-11-11T01:42:19Z</published>
+	<updated>2025-11-11T01:42:39Z</updated>
+	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
+<p>With WorkOS you can start selling to enterprises with just a few lines of code. It provides a complete User Management solution along with SSO, SCIM, and RBAC. The APIs are modular and easy-to-use, allowing integrations to be completed in minutes instead of months. WorkOS simplifies MCP authorization with a single API built on five OAuth standards.</p>
+
+<p>Today, over 1,000 companies rely on WorkOS, including large fast-growing startups like OpenAI, Cursor, and Vercel. And for companies just getting started, WorkOS offers up to one million monthly active users free of charge.</p>
+
+<p>For SaaS apps that care deeply about design and user experience, WorkOS is the perfect fit. From high-quality documentation to self-serve onboarding for your customers, it removes all the unnecessary complexity for your engineering team.</p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS: Scalable, Secure Authentication’"  href="https://daringfireball.net/feeds/sponsors/2025/11/workos_scalable_secure_authent_10">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+	<title>[Sponsor] WorkOS: Scalable, Secure Authentication</title></entry><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/11/software_update_tahoe_confusing" />
+	<link rel="shorturl" href="http://df4.us/wp1" />
+	<id>tag:daringfireball.net,2025://1.42373</id>
+	<published>2025-11-11T01:34:01Z</published>
+	<updated>2025-11-11T16:48:07Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">I don’t know what the *i* in the “ⓘ” button is supposed to stand for, but it isn’t *intuitive*.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>I upgrade my iPhones and iPads to new iOS releases, including developer betas, pretty much willy-nilly. I’m more conservative about the Macs I use for work. For example, I rely on audio software from <a href="https://www.rogueamoeba.com/">Rogue Amoeba</a> for recording both The Talk Show and Dithering, and <a href="https://www.rogueamoeba.com/support/knowledgebase/?showArticle=Troubleshooting-MacOS-26-Tahoe">there were bugs in MacOS 26.0.0 and 26.0.1</a> that could have resulted in lost audio. Those bugs have been fixed as of MacOS 26.1, so, over the weekend, I upgraded the Mac I use for podcasting. But my main MacBook Pro is still running MacOS 15 Sequoia — not because of any compatibility issues, but simply because I think the Tahoe user interface is goofy looking. I’ll probably bite the bullet and upgrade when 26.2 comes out next month, but for now, I’m luxuriating with a MacOS UI with <a href="https://daringfireball.net/linked/2025/11/07/tahoes-terrible-icons">well-crafted app icons</a> and windows that don’t have <a href="https://mjtsai.com/blog/2025/10/16/tahoe-window-corners/">Fisher-Price-style corner radiuses</a>.</p>
+
+<p>In the meantime, though, I’m keeping MacOS 15 Sequoia up to date. When the MacOS 15.7.2 update arrived last week, <a href="https://mastodon.social/@gruber/115499153276833424">I noted in a post on Mastodon</a> that it sure looked like clicking the “Update Now” button next to the MacOS 15.7.2 update in System Settings → General → Software Update would actually install the upgrade to MacOS 26.1 Tahoe. There are little “ⓘ” buttons next to the “Upgrade” buttons for Tahoe 26.1 and “Update” buttons for Sequoia 15.7.2. The “Info” panel that’s presented after clicking <em>either</em> “ⓘ” button shows that Tahoe 26.1 is the version that is checked.</p>
+
+<p><a href="https://daringfireball.net/misc/2025/11/other-updates-info-button.png" class="noborder">
+  <img
+    src = "https://daringfireball.net/misc/2025/11/other-updates-info-button.png"
+    alt = "Screenshot of MacOS 15.7.1 System Settings: General: Software Update, with an arrow pointing to the ⓘ info button."
+    width = 500
+  /></a></p>
+
+<p>Click that “ⓘ” button in the “Other Updates” section and you get:</p>
+
+<p><a href="https://daringfireball.net/misc/2025/11/other-updates-info-panel.png" class="noborder">
+  <img
+    src = "https://daringfireball.net/misc/2025/11/other-updates-info-panel.png"
+    alt = "Screenshot after clicking the ⓘ button, showing that the upgrade to Tahoe 26.1 is selected, not the available update to Sequoia 15.7.2."
+    width = 500
+  /></a></p>
+
+<p>Leon Cowle was brave enough to try this out, and, <a href="https://hachyderm.io/@leoncowle/115499194488171450">it turns out</a>, just clicking the “Update Now” button next to Sequoia will, thankfully, do the right thing: install the Sequoia 15.7.2 update, not Tahoe. (I followed Cowle’s brave lead and tried it myself, and can confirm that “Update Now” installed the Sequoia 15.7.2 update.) Why the Info panel presented by clicking the “ⓘ” button <em>next to Sequoia</em> in the “Other Updates” section defaults to installing the upgrade to 26.1 Tahoe, I don’t know. But it sure makes it seem like we need to be more careful than we actually do if we want to stick with MacOS 15 Sequoia for now.</p>
+
+<p>The “ⓘ” buttons do not, as I would expect, open a sheet with detailed information about the software updates <em>per</em> each section of the Software Update settings panel. Instead, even though there are separate “ⓘ”  buttons in each section of the settings panel, they each open the same sheet that allows exact control over which available software updates to install. That includes the exact same <em>default</em> selections in this sheet. But the items selected (checked) in this sheet have <em>no bearing</em> on what gets installed by the “Upgrade Now” and “Update Now” / ”Update Tonight” buttons in the main Software Update settings panel. Those checked items in the “ⓘ” sheet only control what gets installed from within that sheet itself. So if you click the “ⓘ” in the “Other Updates” section, because you want to update to the latest version of MacOS 15 Sequoia and see what other updates are being installed (like Safari, in my example screenshot above), and you don’t pay attention to the checked version of MacOS in that sheet, you can inadvertently upgrade to Tahoe.</p>
+
+<p>I don’t know what the <em>i</em> in the “ⓘ” button is supposed to stand for, but it isn’t <em>intuitive</em>.</p>
+
+
+
+    ]]></content>
+  <title>★ The Software Update UI for Upgrading to MacOS 26 Tahoe Is Needlessly Confusing</title></entry><entry>
+	<title>Five Years of Apple Silicon Macs</title>
+	<link rel="alternate" type="text/html" href="https://www.macworld.com/article/2965948" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wp0" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/10/five-years-of-apple-silicon-macs" />
+	<id>tag:daringfireball.net,2025:/linked//6.42372</id>
+	<published>2025-11-11T01:10:11Z</published>
+	<updated>2025-11-12T20:03:44Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jason Snell, writing at Macworld:</p>
+
+<blockquote>
+  <p>In that first event (which you can relive in the YouTube video
+below), Apple announced its first wave of M1 Macs: the <a href="https://www.macworld.com/article/234819/macbook-air-m1-review-an-absolutely-stunning-debut-for-apple-silicon-in-a-mac.html">MacBook
+Air</a>, <a href="https://www.macworld.com/article/234838/13-inch-macbook-pro-m1-review-amazing-breakthroughs-in-processing-and-battery-performance.html">13-inch MacBook Pro,</a> and <a href="https://www.macworld.com/article/234842/m1-mac-mini-review-the-mac-with-the-best-ever-bang-for-your-buck.html">Mac mini</a>. The
+Macs themselves all used the same design as their Intel
+predecessors, as Apple wrapped potentially scary new technology in
+completely familiar shapes.</p>
+
+<p>Then the results of the first M1 speed tests arrived, and nothing
+felt scary anymore. Everything was fast, much faster than Intel,
+so much faster that even software compiled for Intel running in a
+code-translation layer via Rosetta ran just fine. In fact, the M1
+was such a fast chip that, five years later, Apple’s still selling
+the M1 MacBook Air. (For $599, at Walmart.) And it’s still a
+pretty nice computer! [...]</p>
+
+<p>The result of all of this is, though every generation has its
+quirks, Apple has managed to not drop the ball after the
+gigantic leap from Intel to M1. Every generation of M-series
+processors has offered impressive speed boosts. Apple’s CPU
+cores just get 10% to 30% faster every generation. The GPU cores
+got faster in all but one generation — and in that generation,
+overall graphics performance still got faster because the chips
+all had more GPU cores.</p>
+</blockquote>
+
+<p>These first five years of Apple Silicon Macs have been the best five-year-run for Mac hardware in the platform’s 41-year history. Hardware-wise, the Mac platform has never been in better shape. And there’s no sign of letup. I fully expect the next five years to be, if anything, even better than the last five — with MacBooks <a href="https://www.macrumors.com/2025/11/07/low-cost-macbook-rumors-2026/">expanding to lower price points</a>, and Mac Pros, finally, <a href="https://www.macrumors.com/2025/11/04/mac-studio-m5-ultra-2026/">expanding the high end of personal supercomputing</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Five Years of Apple Silicon Macs’"  href="https://daringfireball.net/linked/2025/11/10/five-years-of-apple-silicon-macs">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>‘Under the Radar’ Now Over</title>
+	<link rel="alternate" type="text/html" href="https://www.relay.fm/radar/331" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/woz" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/10/under-the-radar-now-over" />
+	<id>tag:daringfireball.net,2025:/linked//6.42371</id>
+	<published>2025-11-10T22:14:00Z</published>
+	<updated>2025-11-10T22:14:00Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Marco Arment and David Smith:</p>
+
+<blockquote>
+  <p>In our final episode, we reflect on how indie app development has
+changed over the past decade. Thanks for listening, everyone!</p>
+</blockquote>
+
+<p><a href="https://mjtsai.com/blog/2025/11/10/thanks-for-under-the-radar/">Michael Tsai</a>:</p>
+
+<blockquote>
+  <p>I really liked the 30-minute format and the breadth of topics:
+everything from API details to broader <a href="https://www.relay.fm/radar/315">design considerations</a>,
+<a href="https://mastodon.social/@chockenberry/112163190336674442">stats</a> from their own businesses, and postmortems, plus all the
+stuff he mentioned.</p>
+</blockquote>
+
+<p><a href="https://hachyderm.io/@rmondello/115508780595002901">Ricky Mondello</a>:</p>
+
+<blockquote>
+  <p>I’ve never been an indie software developer, but I found the
+podcast extremely insightful. It’s influenced how I’ve thought
+about my non-indie software development career, not just as
+someone delivering bits that indies use, but also as a product
+person who writes software as a means to an end.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘‘Under the Radar’ Now Over’"  href="https://daringfireball.net/linked/2025/11/10/under-the-radar-now-over">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Mux: Video API for Developers</title>
+	<link rel="alternate" type="text/html" href="https://www.mux.com/video-api?utm_campaign=fireball&amp;utm_source=DF" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/woy" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/09/mux" />
+	<id>tag:daringfireball.net,2025:/linked//6.42370</id>
+	<published>2025-11-09T19:37:22Z</published>
+	<updated>2025-11-09T19:37:22Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks to Mux for sponsoring last week at DF. Modern video should be simple to ship and scale. Mux makes it easy to build live and on-demand video into anything from websites to platforms to AI workflows.</p>
+
+<p>Upload a video, get back a playback URL. No transcoding headaches. No CDN setup. Go further with video building blocks — thumbnails, transcripts, storyboards — to create exactly what you want. </p>
+
+<p>Now, Mux is shepherding <a href="https://videojs.org/">Video.js</a>, the web’s most-trusted open-source player, and reimagining it for the modern developer experience. Future-proof your video with infrastructure trusted by Patreon, Substack, and Synthesia. Get started free, no credit card required. Use code <strong>FIREBALL</strong> for an extra $50 credit.</p>
+
+<div>
+<a  title="Permanent link to ‘Mux: Video API for Developers’"  href="https://daringfireball.net/linked/2025/11/09/mux">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Trump Wants Commanders’ New D.C. Stadium Named for Him</title>
+	<link rel="alternate" type="text/html" href="https://www.espn.com/nfl/story/_/id/46892115/trump-wants-commanders-stadium-named-him" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wox" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/09/trump-stadium" />
+	<id>tag:daringfireball.net,2025:/linked//6.42369</id>
+	<published>2025-11-09T18:16:28Z</published>
+	<updated>2025-11-09T18:45:23Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Don Van Natta Jr. and Adam Schefter, reporting for ESPN:</p>
+
+<blockquote>
+  <p>President Donald Trump wants the Washington Commanders to name
+their planned $3.7 billion stadium after him, multiple sources
+with knowledge of the situation told ESPN.</p>
+
+<p>A senior White House source said there have been back-channel
+communications with a member of the Commanders’ ownership group,
+led by Josh Harris, to express Trump’s desire to have the domed
+stadium in the nation’s capital bear his name. The new stadium is
+being built on the old RFK Stadium site that served as the team’s
+home from 1961 to 1996.</p>
+
+<p>“That would be a beautiful name, as it was President Trump who
+made the rebuilding of the new stadium possible,” White House
+press secretary Karoline Leavitt told ESPN on Friday night via
+email. Leavitt declined to answer additional questions, but the
+senior White House source told ESPN: “It’s what the president
+wants, and it will probably happen.”</p>
+</blockquote>
+
+<p>Typically, venues like stadiums, airports, bridges, etc. aren’t named after political leaders until after they’ve died. Not so with mad kings rapidly descending into megalomaniacal dementia. This is crazy, pure and simple, just like <a href="https://www.bbc.co.uk/news/resources/idt-2db64cf0-41c6-42cd-a33b-92ab31593fe2">boogering up the White House</a> to make it <a href="https://www.fastcompany.com/91435635/new-white-house-signage">look like</a> a Las Vegas wedding chapel. Or — from just this morning — <a href="https://truthsocial.com/@realDonaldTrump/posts/115520378078620283">retweeting</a> an <a href="https://dunning-kruger-times.com/doge-halts-2-6-million-annual-payment-to-obama-for-obamacare-royalties/">old story</a> from parody site “The Dunning-Kruger Times” <a href="https://bsky.app/profile/sahilkapur.bsky.social/post/3m57gm5ff622y">believing it’s true</a>. Also, the economic reality is that the naming rights for new stadiums are typically sold to corporate sponsors <a href="https://www.espn.com/nba/story/_/id/32650662/staples-center-become-cryptocom-arena-rich-naming-rights-deal">for</a> <a href="https://www.sportsbusinessjournal.com/Daily/Issues/2021/06/11/Facilities/SoFi/">large</a> <a href="https://www.moneytalksnews.com/slideshows/americas-20-biggest-stadium-naming-rights-deals/">sums</a>. (There are <a href="https://ballparkdigest.com/2019/03/21/current-mlb-ballparks-without-naming-rights-deals/">exceptions</a>.) To name the stadium after Trump would likely require foregoing half a billion dollars.</p>
+
+<blockquote>
+  <p>In July, Trump said he would block the construction of the stadium
+if Harris did not change the team name from Commanders to its old
+name the Redskins, which is considered offensive to some Native
+American groups.</p>
+</blockquote>
+
+<p>Perhaps “Orangeskins” would work as a compromise. And if they do cave in and name the new stadium in Trump’s honor, “The Pedolands” would work.</p>
+
+<div>
+<a  title="Permanent link to ‘Trump Wants Commanders’ New D.C. Stadium Named for Him’"  href="https://daringfireball.net/linked/2025/11/09/trump-stadium">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Fred Vogelstein on Techmeme’s Enduring Popularity</title>
+	<link rel="alternate" type="text/html" href="https://crazystupidtech.com/2025/09/08/at-20-techmeme-has-never-been-hotter/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wow" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/08/vogelstein-rivera-techmeme" />
+	<id>tag:daringfireball.net,2025:/linked//6.42368</id>
+	<published>2025-11-08T16:03:46Z</published>
+	<updated>2025-11-08T16:03:46Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Following up on the previous item, here’s Fred Vogelstein, at Crazy Stupid Tech:</p>
+
+<blockquote>
+  <p>Rivera says that he’s not naive about the long term, however,
+“given the astonishing rate of improvement in AI capabilities
+we’ve seen. So we just have to improve our own stuff. And a major
+part of that will be adopting AI ourselves.”</p>
+
+<p>Despite all this the basic approach of the original Techmeme
+algorithm remains the same, he said. “What are the most linked
+blog posts and news articles from this set of blogs? And once they
+reach a certain threshold, they’re featured on the site,” he said.</p>
+
+<p>Maybe there’s a lesson here for the rest of the media world. I and
+every writer and mid level editor I know has stories about design
+changes to publications that made us groan. They seemed more in
+service of a new editor or design chief marking their territory
+like a dog or cat, than in service of actually making their
+publication easier to read.</p>
+</blockquote>
+
+<p>Unsurprisingly, I agree wholeheartedly.</p>
+
+<div>
+<a  title="Permanent link to ‘Fred Vogelstein on Techmeme’s Enduring Popularity’"  href="https://daringfireball.net/linked/2025/11/08/vogelstein-rivera-techmeme">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>‘Explaining, at Some Length, Techmeme’s 20 Years of Consistency’</title>
+	<link rel="alternate" type="text/html" href="https://news.techmeme.com/250912/20-years" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wov" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/08/techmemes-consistency" />
+	<id>tag:daringfireball.net,2025:/linked//6.42367</id>
+	<published>2025-11-08T15:37:22Z</published>
+	<updated>2025-11-08T15:37:22Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Gabe Rivera, back in September:</p>
+
+<blockquote>
+  <p>A milestone such as this demands that we reflect and generate
+pithy takeaways, for the fans or at least for the perpetual gaping
+maw of AI models. Fortunately, our 20 years of existence offers no
+shortage of fodder. Perhaps the one major and uncontested takeaway
+is that Techmeme has remained paradoxically incredibly
+<em>consistent</em>, even as technology, the web, and news have changed
+so profoundly. In 2005 Techmeme was a free, single-page website,
+continuously ranking and organizing links from news outlets,
+personal sites, and corporate sites, and it remains so in 2025. Of
+course this point has been made before, and <a href="https://crazystupidtech.com/2025/09/08/at-20-techmeme-has-never-been-hotter/">came up again</a>
+this past week.</p>
+</blockquote>
+
+<p>To call Techmeme an essential part of my daily media diet would be an understatement. If it went away or changed profoundly, it’d feel like I was missing a finger or something. 20 years is a great run, and Techmeme is more popular, and more widely-read, today than ever.</p>
+
+<div>
+<a  title="Permanent link to ‘‘Explaining, at Some Length, Techmeme’s 20 Years of Consistency’’"  href="https://daringfireball.net/linked/2025/11/08/techmemes-consistency">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Tahoe’s Terrible Icons</title>
+	<link rel="alternate" type="text/html" href="https://onefoottsunami.com/2025/11/05/tahoes-terrible-icons/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wou" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/07/tahoes-terrible-icons" />
+	<id>tag:daringfireball.net,2025:/linked//6.42366</id>
+	<published>2025-11-07T21:54:06Z</published>
+	<updated>2025-11-07T23:00:20Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Paul Kafasis, writing at One Foot Tsunami:</p>
+
+<blockquote>
+  <p>While Apple had previously urged developers to use squircle icons
+on our apps, they’ve now taken things much further to ensure
+compliance. It’s a shame.</p>
+
+<p>Apple updated their own app icons on Tahoe, for both the squircle
+shape as well as the new “<a href="https://en.wikipedia.org/wiki/Liquid_Glass">Liquid Glass</a>” interface. Mostly,
+these icons seem dumbed-down, with a loss of detail. For example,
+here’s Safari’s old icon from MacOS 15 (Sequoia) on the left, and
+the new Tahoe icon on the right:</p>
+
+<p><img
+  src = "https://i0.wp.com/onefoottsunami.com/wp-content/uploads/2025-11-terribletahoeicons/safari.jpg"
+  alt = "Safari’s icons from MacOS 15 Sequoia and 26 Tahoe."
+  width = 475 
+/></p>
+
+<p>To me, the new icon just feels blander, and that’s widely true for
+all of the updated icons. A small number, such as <a href="https://onefoottsunami.com/wp-content/uploads/2025-11-terribletahoeicons/screensharing.jpg">Screen
+Sharing</a> and <a href="https://onefoottsunami.com/wp-content/uploads/2025-11-terribletahoeicons/audiomidisetup.jpg">Audio MIDI Setup</a>, may be improvements.
+Most, however, are not. Let’s review with direct comparisons, all
+of which again feature the older Sequoia icon on the left and the
+new Tahoe icon on the right.</p>
+</blockquote>
+
+<p>Trends come and go. Some are to one’s liking, and some are not. But this year’s app icons from Apple are <a href="https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons">just plain objectively bad</a>. They’re ugly, they’re dumb (like the new Apple Calendar icon, showing a month that somehow has only 24 days), and many of them — regardless of whether they’re aesthetically pleasing or not — are inscrutable. The fundamental purpose of an icon is to have meaning. And some of these are meaningless.</p>
+
+<p>Even good styles fall out of fashion as trends change. But good styles come back into style eventually. A few decades from now, no one is going to say “Hey, let’s bring back 2020s-style icons.” They’re like <a href="https://www.bygonely.com/leisure-suit-fashion-1970s/">1970s leisure suits</a>.</p>
+
+<p>For a remarkably long stretch, Apple’s in-house icons represented the pinnacle of <a href="https://flarup.shop/products/the-macos-app-icon-book">an art form worth celebrating</a>. They were exquisitely crafted, and quite obviously the work of the most talented artists in the field. Apple’s application icons in the OS 26 releases — MacOS Tahoe especially, because MacOS has the most first-party apps — look like they’re the work of people who have zero artistic ability whatsoever. They probably <em>are</em> the work of people with no artistic ability whatsoever, because I can’t imagine how a talented artist could bring themselves to create such things. And whoever at Apple approved them obviously has no taste. “Fuck it, who cares” is replacing “Insanely great” as the company’s design mantra for software.</p>
+
+<p>Show me the person who thinks the new MacOS 26 Tahoe Automator icon is better than the MacOS 15 Sequoia one — or even just believes that the Tahoe icon is <em>acceptable</em> — and I’ll show you a hack who never should have even gotten a job working at Apple. This regression is nothing short of criminal.</p>
+
+<p><img
+  src = "https://i0.wp.com/onefoottsunami.com/wp-content/uploads/2025-11-terribletahoeicons/automator.jpg"
+  alt = "The Automator icons from MacOS 15 Sequoia and 26 Tahoe."
+  width = 475 
+/></p>
+
+<div>
+<a  title="Permanent link to ‘Tahoe’s Terrible Icons’"  href="https://daringfireball.net/linked/2025/11/07/tahoes-terrible-icons">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Tyler Hayes Suggests Trying a Flip-Style Foldable If You Want a Smaller Phone</title>
+	<link rel="alternate" type="text/html" href="https://creators.yahoo.com/lifestyle/story/do-you-think-phones-are-too-big-and-want-a-smaller-one-i-have-the-perfect-solution-234401104.html" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wot" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/07/hayes-flips-for-a-flip" />
+	<id>tag:daringfireball.net,2025:/linked//6.42365</id>
+	<published>2025-11-07T20:25:31Z</published>
+	<updated>2025-11-07T20:29:14Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Tyler Hayes, writing for This Week The Trend:</p>
+
+<blockquote>
+  <p>The Razr+ 2024 model measures 3.46 inches tall, but still has a
+4-inch diagonal screen size. For comparison, the smallest modern
+(2021) iPhone is the 13 mini, and that one is 5.18 inches tall.
+The Razr foldable is a legitimately small phone that can easily be
+held in one hand. It slips into a front pocket. It’s 0.60 inches
+thick. That might sound bulky, but in practice, it isn’t any
+bigger than using an iPhone with a case on it.</p>
+
+<p>For anyone unfamiliar with this style of folding phone, the front
+screen isn’t just a novelty. It’s completely usable in the same
+way the larger internal screen is. By the way, the full-sized
+screen opens up to 6.9 inches.</p>
+</blockquote>
+
+<p>I remain completely dubious of this form factor. Hayes compares the naked folded Razr+ to an iPhone in case, thickness-wise, but one of the problems inherent to this form factor is that most people adhere to a religious belief that they somehow need to put their phone in a case. <a href="https://www.motorola.com/us/en/family/all-cases-and-protection">They sell cases</a> for these flip-style foldables but that just makes them even thicker. Comparing an un-cased foldable to an encased regular phone is bogus.</p>
+
+<p>Worse, I dispute the notion that these phones are “completely usable” from the front screen alone. <a href="https://www.theverge.com/gadgets/654846/motorola-razr-ultra-2025-specs-screen-price">Reviews</a> of these phones, including Hayes’s, tend to avoid including photographs of what they look like when the on-screen keyboard is showing. The keyboard <a href="https://daringfireball.net/misc/2025/11/razr-keyboard-front.jpeg">basically takes up the entire screen</a> (<a href="https://youtu.be/AZl36e1LEAw?t=54">source</a>), <em>and</em> it’s awkwardly positioned an inch from the bottom, to sit above the camera lenses. Technically usable, but no one is going to type more than a few words like this. If you have to unfold the phone just to text or email, why not buy a phone that doesn’t fold at all?</p>
+
+<p>Book-style foldables seem like a maybe to me. Flip-style foldables just seem dumb. And the only “perfect solution” for anyone who wants a smaller phone would be for Apple to bring back the Mini size.</p>
+
+<div>
+<a  title="Permanent link to ‘Tyler Hayes Suggests Trying a Flip-Style Foldable If You Want a Smaller Phone’"  href="https://daringfireball.net/linked/2025/11/07/hayes-flips-for-a-flip">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>I Like My Presidents to Care When Someone Faints During a Press Event</title>
+	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=CbSFw7NTneQ&amp;t=49s" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wos" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/07/obama-woman-faints" />
+	<id>tag:daringfireball.net,2025:/linked//6.42364</id>
+	<published>2025-11-07T20:06:15Z</published>
+	<updated>2025-11-07T20:08:02Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>“Here you go, you’re OK. I’m right here.”</p>
+
+<div>
+<a  title="Permanent link to ‘I Like My Presidents to Care When Someone Faints During a Press Event’"  href="https://daringfireball.net/linked/2025/11/07/obama-woman-faints">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Some Flunky Fainted in the Oval Office During a Press Event, and Trump Just Stood There With a Stupid Look on His Face</title>
+	<link rel="alternate" type="text/html" href="https://bsky.app/profile/atrupar.com/post/3m4y5xaehfc2n" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wor" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/07/trump-kennedy-oval-office" />
+	<id>tag:daringfireball.net,2025:/linked//6.42363</id>
+	<published>2025-11-07T15:18:21Z</published>
+	<updated>2025-11-07T17:40:38Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p><a href="https://daringfireball.net/misc/2025/11/trump-just-standing-there.jpeg" class="noborder">
+  <img
+    src = "https://daringfireball.net/misc/2025/11/trump-just-standing-there.jpeg"
+    alt = "Trump just standing there staring into space, while behind him people attempt to assist the guy who passed out."
+    width = 500
+  /></a></p>
+
+<p>An even better, more iconic, metaphor for this administration than the images of the East Wing being razed. When you <a href="https://bsky.app/profile/atrupar.com/post/3m4y45wvoyn2p">watch the video</a>, take note of Robert F. Kennedy Jr. performing his family’s signature dance move, “The Chappaquiddick”.</p>
+
+<p>Before all the excitement, <a href="https://bsky.app/profile/atrupar.com/post/3m52jax6ky22x">Trump fell asleep</a>, right in front of the press.</p>
+
+<div>
+<a  title="Permanent link to ‘Some Flunky Fainted in the Oval Office During a Press Event, and Trump Just Stood There With a Stupid Look on His Face’"  href="https://daringfireball.net/linked/2025/11/07/trump-kennedy-oval-office">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/11/apple_and_google_sitting_in_a_tree" />
+	<link rel="shorturl" href="http://df4.us/woq" />
+	<id>tag:daringfireball.net,2025://1.42362</id>
+	<published>2025-11-06T16:01:15Z</published>
+	<updated>2025-11-06T21:04:39Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">It makes sense in this scenario for neither company to want to publicize a white-label version of Gemini behind Apple Intelligence.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>Mark Gurman, reporting for Bloomberg, “<a href="https://www.bloomberg.com/news/articles/2025-11-05/apple-plans-to-use-1-2-trillion-parameter-google-gemini-model-to-power-new-siri?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc2MjM3MDAzOSwiZXhwIjoxNzYyOTc0ODM5LCJhcnRpY2xlSWQiOiJUNTZETzhHUTdMMFIwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9._aWk2P25J89KBRkJQ_KdbwuULLM8yUtrPCPfRmsUfSs&amp;leadSource=uverify%20wall">Apple Nears Deal to Pay Google Roughly $1 Billion a Year for Siri AI Model</a>” (gift link):</p>
+
+<blockquote>
+  <p>Apple Inc. is planning to pay about $1 billion a year for an
+ultrapowerful [<em>sic</em>] 1.2 trillion parameter artificial
+intelligence model developed by Alphabet Inc.’s Google that would
+help run its long-promised overhaul of the Siri voice assistant,
+according to people with knowledge of the matter. [...]</p>
+
+<p>Under the arrangement, Google’s Gemini model will handle Siri’s
+summarizer and planner functions — the components that help the
+voice assistant synthesize information and decide how to execute
+complex tasks. Some Siri features will continue to use Apple’s
+in-house models.</p>
+
+<p>The model will run on Apple’s own Private Cloud Compute servers,
+ensuring that user data remains walled off from Google’s
+infrastructure. Apple has already allocated AI server hardware to
+help power the model.</p>
+
+<p>While the partnership is substantial, it’s unlikely to be promoted
+publicly. Apple will treat Google as a behind-the-scenes
+technology supplier instead. That would make the pact different
+than the companies’ Safari browser deal, which made Google the
+default search engine.</p>
+
+<p>The agreement is also separate from earlier talks about
+integrating Gemini directly into Siri as a chatbot.</p>
+</blockquote>
+
+<p>In <a href="https://daringfireball.net/linked/2025/11/03/gurman-siri-gemini">a post Monday</a>, I took note of a one-paragraph aside from Gurman about this deal in his Power On column over the weekend, and I wrote:</p>
+
+<blockquote>
+  <p>First, I love the idea that Apple is pursuing technical excellence
+as a top priority for the next-gen LLM-powered Siri. If Apple
+winds up using its own models, it should be because those models
+are truly competitive with the best models on the market. And if
+they can work out a deal to use models from Google because those
+models are technically superior to Apple’s own, they should.</p>
+</blockquote>
+
+<p>A few readers took exception to that, pointing out that Gurman claimed, in his Power On column over the weekend, that a model from Anthropic had come out ahead of Gemini in Apple’s internal “bake-off”, but that Apple was proceeding with a partnership with Google because, Gurman wrote, “Google made more sense financially (partly due to the tech giants’ preexisting search relationship)”. How do I square that, these readers asked, with my description of Apple pursuing technical excellence?</p>
+
+<p>That’s a good question, and it’s worth explaining what I meant. My read is that Apple’s choice boiled down to two very good external options, and while the deciding factor may have been financial, that’s still choosing between two leading externally-developed LLM models. In ASCII art:</p>
+
+<pre><code>Siri &lt;-------------------&gt; Gemini &lt;-&gt; Anthropic
+today
+</code></pre>
+
+<p>(Feel free to insert 100 more dashes between “Siri today” and “Gemini”.)</p>
+
+<p>Nothing I’ve seen from kicking the tires with Anthropic’s own app and Google’s Gemini app (and my daily use of ChatGPT) suggests that Anthropic is <em>significantly</em> better than Gemini or ChatGPT (or vice versa). They’re all clearly near each other technically. Siri, and today’s Apple Intelligence, is at least two generations behind. Maybe worse. And, for what it’s worth, Gurman’s latest report describes it thus:</p>
+
+<blockquote>
+  <p>Apple had previously mulled using other third-party models to
+handle the task. But after <a href="https://www.bloomberg.com/news/articles/2025-06-30/apple-weighs-replacing-siri-s-ai-llms-with-anthropic-claude-or-openai-chatgpt">testing</a> Gemini, OpenAI’s ChatGPT
+and Anthropic’s Claude, Apple zeroed in on Google earlier this
+year, Bloomberg <a href="https://www.bloomberg.com/news/articles/2025-09-03/apple-plans-ai-search-engine-for-siri-to-rival-openai-google-siri-talks-advance">reported</a> at the time. The hope is to use
+the technology as an interim solution until Apple’s own models are
+powerful enough.</p>
+</blockquote>
+
+<p>So I don’t think there’s any reason to think that Apple partnering with Google for a version of Gemini that runs on Apple’s Private Cloud Compute  infrastructure is “settling”. It’s more like choosing between a Mercedes and a BMW, and maybe you like the Mercedes a little more after test-driving both, but you’re getting a way, way better deal from the BMW dealer so that’s the one you buy.</p>
+
+<p>Because if Gurman’s sources are right and this deal is for around $1 billion per year, that’s an amazing deal for Apple. Remember first that Google pays Apple over $20 billion per year <a href="https://daringfireball.net/2025/04/is_chrome_even_a_sellable_asset">for web search traffic acquisition fees from Safari users</a>. So one way to look at it is that Apple is getting access to its own private instance of Gemini in exchange for a 5 percent reduction in the fees it collects from Google for Safari search queries. Another way of looking at it is that <a href="https://qz.com/google-spend-100-billion-ai-development-deepmind-ceo-1851412787">Google has reportedly invested over $100 billion developing its AI capabilities</a>. Apple getting access to the fruits of that labor for $1 billion per year seems like such a steal that it makes me wonder why Google agreed to it. (<a href="https://s206.q4cdn.com/479360582/files/doc_financials/2025/q3/2025q3-alphabet-earnings-release.pdf">Google reported over $100 billion in revenue</a> in its just-completed July-August-September quarter alone. An extra $1 billion per year is negligible at that scale. Perhaps Google sees a strategic advantage to keeping competitors like OpenAI and Anthropic out of Apple’s arms.)</p>
+
+<p>On Monday, I also mentioned finding it curious that Gurman reported that if this deal comes to fruition, neither Apple nor Google may recognize it publicly. After a few days thought, I see how such an arrangement makes sense for both companies. Here’s my no-inside-info-just-a-pure-spitball take for how this next-gen Siri, powered behind the scenes by an Apple-controlled white-label version of Gemini, might work:</p>
+
+<ul>
+<li><p>The default “Apple Intelligence” Siri would be a smarter, faster, reliable Siri, but would still have strict guardrails on what it will and will not answer. It might not lean into the chatbot side of the experience any more than Siri currently does. It would just add a lot more to automation across the Apple ecosystem. Behind the scenes, this would be enabled by the white-label version of Gemini. The guardrails for this version of “Apple Intelligence” would be Apple’s guardrails, not Google’s (beyond whatever guardrails Google put in place for Gemini’s training).</p></li>
+<li><p>The full, branded Google Gemini might be available as an extension — like ChatGPT is today — and you’ll be able to sign in with your Google account to set the personality you want, keep full chat history, etc., so you can go back and forth between the Gemini app or asking Siri general knowledge questions via the Gemini extension for Apple Intelligence. The guardrails for this would be a mix of Google’s and Apple’s guardrails.</p></li>
+</ul>
+
+<p>It makes sense in this scenario for neither company to want to publicize a white-label version of Gemini behind Apple Intelligence. That way, if Google Gemini starts offering, say, AI romantic partners as a supported feature, Apple won’t have to explain why Siri will not be your girlfriend or boyfriend. Same thing if Gemini were willing to do as asked if prompted to, say, “create a New Yorker style cartoon of Adolf Hitler performing standup comedy”. And Google won’t have to explain that the full Gemini-branded Gemini is significantly more powerful and capable than the Gemini-powered Siri because it isn’t constrained by Apple’s more restrictive guardrails.  Today’s top LLM models get <em>weird</em> when they’re constrained by guardrails outside of their training. They want to do what they’re prompted to do, in the way that information “wants” to be free, and water “wants” to run downhill. Dams are hard to engineer, and require professional supervision. Apple is going to put PG-rated constraints on Apple Intelligence, but needs to power it using an underlying model that is technically capable of X-rated output, because that’s what’s available.</p>
+
+<p>What Apple needs is a version of Apple Intelligence that isn’t stupid,  is reliable and dependable for a broad baseline of tasks and queries, and that users can trust to be utterly private. What Google needs to keep Gemini at the forefront of AI is a lot more than “baseline dependability”. Gemini needs a leading-edge <em>wow</em> factor that Siri and Apple Intelligence do not. Also, by keeping this Gemini deal private, Apple can easily switch to another white-label provider or its own homegrown models in the future, without having to even mention it, let alone explain it.</p>
+
+
+
+    ]]></content>
+  <title>★ Apple and Google, Sitting in a Tree</title></entry><entry>
+	<title>Regarding the Look of Notifications With Liquid Glass in iOS 26.1</title>
+	<link rel="alternate" type="text/html" href="https://x.com/bzamayo/status/1986077588553416872?s=12" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wop" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/05/regarding-the-look-of-notifications-with-liquid-glass-in-ios-261" />
+	<id>tag:daringfireball.net,2025:/linked//6.42361</id>
+	<published>2025-11-05T23:31:41Z</published>
+	<updated>2025-11-05T23:31:42Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Benjamin Mayo, on X:</p>
+
+<blockquote>
+  <p>The Tinted glass option generally has a relatively subdued impact
+inside apps, making bars a bit frostier. But on the lock screen,
+it transforms all the notifications into grey opaque blobs. I
+would never choose this mode because that effect is just too ugly.</p>
+</blockquote>
+
+<p>Now that I think about it, this is almost entirely <a href="https://daringfireball.net/linked/2025/10/21/ios-26-1-beta-4-liquid-glass-tinted-option">why I don’t prefer the new “Tinted” option</a> for Liquid Glass in iOS 26.1 — notifications look orthopedic, like an extra-high-contrast accessibility option for the vision impaired. <a href="https://www.reddit.com/r/iphone/comments/1op2yhe/the_difference_between_glass_and_tinted_ios_261/">Here’s a good side-by-side comparison in a post on Reddit</a>. But as the top Reddit commenter points out, this severe over-correction from iOS 26.0 (where “Clear” was effectively the only option) is only with Light mode — in Dark mode, notifications in iOS 26.1 look good with the Tinted option.</p>
+
+<div>
+<a  title="Permanent link to ‘Regarding the Look of Notifications With Liquid Glass in iOS 26.1’"  href="https://daringfireball.net/linked/2025/11/05/regarding-the-look-of-notifications-with-liquid-glass-in-ios-261">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Mamdani Was a Great Candidate Who Ran a Great Campaign ... for New York City</title>
+	<link rel="alternate" type="text/html" href="https://www.washingtonpost.com/politics/2025/11/04/democrats-election-wins-trump/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/woo" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/05/mamdani-new-york" />
+	<id>tag:daringfireball.net,2025:/linked//6.42360</id>
+	<published>2025-11-05T22:33:58Z</published>
+	<updated>2025-11-06T03:44:10Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Hannah Knowles, writing for The Washington Post (<a href="https://politicalwire.com/2025/11/05/young-voters-powered-mamdani/">via Taegan Goddard</a>):</p>
+
+<blockquote>
+  <p>Mamdani won two-thirds of voters under 45 in preliminary <a href="https://www.cnn.com/election/2025/exit-polls/new-york-city/general/mayor/0">exit
+polls</a>, while Cuomo led him by 10 points with voters 45 and
+older. The polls also showed an education divide: College
+graduates backed Mamdani by 55 percent, while voters without
+college degrees narrowly favored Cuomo.</p>
+</blockquote>
+
+<p>“By 55 percent” is horrendously unclear writing. It could be misread to suggest that Mamdani won amongst college grads by a 55-point margin. He did not. CNN’s exit poll — the link cited by Knowles above — show Mamdani garnering 57 percent of the vote from college graduates, with Cuomo at 38, and Sliwa 5. Amongst voters without a college degree, it was Cuomo 47, Mamdani 42, and Sliwa 11.</p>
+
+<p>Mamdani cruised to an easy win while losing amongst voters without a degree because in New York City, 59 percent of voters yesterday had college degrees.</p>
+
+<p>That level of education in the electorate is <em>not</em> representative of the United States as a whole. In last year’s presidential election (for consistency’s sake, I’m <a href="https://www.cnn.com/election/2024/exit-polls/national-results/general/president/0">citing exit poll data from CNN</a>), only 43 percent of voters nationwide had college degrees. Kamala Harris beat Trump 56–42 amongst those voters. Amongst the 57 percent of voters without a college degree, Trump won by almost the exact reverse split, 56–43.</p>
+
+<p>Democrats, nationwide, don’t need to make gains with college-educated voters. They need to make gains amongst voters without college degrees. There’s no other demographic gap that is more crucial for Democrats to address. Education trumps race, gender, income, and age. <a href="https://www.cnn.com/election/2020/exit-polls/president/national-results">In 2020</a>, Biden won college grads 55–43, and Trump won non-college-grads by a mere 50–48.</p>
+
+<div>
+<a  title="Permanent link to ‘Mamdani Was a Great Candidate Who Ran a Great Campaign ... for New York City’"  href="https://daringfireball.net/linked/2025/11/05/mamdani-new-york">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>WhatsApp for Apple Watch</title>
+	<link rel="alternate" type="text/html" href="https://blog.whatsapp.com/introducing-whatsapp-for-apple-watch?lang=en" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/won" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/05/whatsapp-apple-watch" />
+	<id>tag:daringfireball.net,2025:/linked//6.42359</id>
+	<published>2025-11-05T17:34:29Z</published>
+	<updated>2025-11-05T21:20:52Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>WhatsApp:</p>
+
+<blockquote>
+  <p>In addition to reading and responding to messages, for the first
+time WhatsApp on Apple Watch will now support many requested
+features:</p>
+
+<ul>
+<li><em>Call notifications:</em> You can see who’s calling without needing
+to look at your iPhone.</li>
+<li><em>Full messages:</em> You can read full WhatsApp messages on Apple
+Watch — even long messages are visible directly from your
+wrist.</li>
+<li><em>Voice messages:</em> You can now record and send voice messages.</li>
+<li><em>React to messages:</em> We’ve added the ability to send quick emoji
+reactions to messages you receive.</li>
+<li><em>A great media experience:</em> You’ll see clear images and stickers
+on your Apple Watch.</li>
+<li><em>Chat history:</em> You can see more of your chat history on screen
+when reading messages.</li>
+</ul>
+</blockquote>
+
+<p>All of these features have long been available on the Apple Watch apps for Apple’s Messages and Phone apps. But it’s an interesting sign that Meta sees Apple Watch as an important platform for personal communication. Not just for notifications that you need to act upon using your phone, but for actually using on your watch itself. And I think it speaks to how hard Meta is pushing to make WhatsApp the new universal baseline for texting and calling. By keeping iMessage and FaceTime to its own devices, Apple has ceded this opportunity to WhatsApp, and <a href="https://tech.yahoo.com/science/articles/mark-zuckerbergs-meta-wants-burst-105701442.html">Meta is trying to capitalize on it</a>.</p>
+
+<p>I know there are many people who spend time wearing their Apple Watch while away from their iPhone — often while working out — who want or even feel they <em>need</em> these features. For me though, one of the things I like least about wearing an Apple Watch is getting badgered on my wrist with notifications. I feel not so much like I need less <em>screen</em> time, but rather that I need less <em>notifications</em> time. I feel good when I have time where I’m unreachable by texts, calls, and news alerts. I spent my <a href="https://daringfireball.net/2025/09/personal_note">recent month-plus semi-hiatus</a> wearing only a mechanical watch, and I didn’t miss the lack of notifications-on-my-wrist <em>at all</em>. </p>
+
+<div>
+<a  title="Permanent link to ‘WhatsApp for Apple Watch’"  href="https://daringfireball.net/linked/2025/11/05/whatsapp-apple-watch">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Apple Podcasts Is Adding AI-Generated Chapters for Podcasts Without Chapters</title>
+	<link rel="alternate" type="text/html" href="https://podcasters.apple.com/support/5545-enhance-episodes-with-chapters-links-more" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wom" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/05/apple-podcasts-auto-chapters" />
+	<id>tag:daringfireball.net,2025:/linked//6.42358</id>
+	<published>2025-11-05T16:27:31Z</published>
+	<updated>2025-11-05T16:30:51Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>News from Apple’s Podcasts for Creators site, regarding new features in the iOS 26.2 beta releases:</p>
+
+<blockquote>
+  <p>When you supply chapters in your episode description or in your
+RSS feed, they display in Apple Podcasts. If you submit chapters
+through your hosting provider, you can include images. For shows
+in English, when chapters aren’t provided, Apple Podcasts
+generates them for you and an “Automatically created“ label
+appears in the chapter list. If you prefer not to use
+automatically created chapters, you can disable this feature in
+Apple Podcasts Connect. <a href="https://podcasters.apple.com/support/5482-using-chapters-on-apple-podcasts">Learn more about chapters</a>.</p>
+</blockquote>
+
+<p>It’s unclear to me whether this feature is actually exclusive to iOS/iPhone, or will be available across Apple’s 26.2 OS releases. This strikes me as a great use of AI, but I also think most multi-topic podcasts should include human-created chapters.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Podcasts Is Adding AI-Generated Chapters for Podcasts Without Chapters’"  href="https://daringfireball.net/linked/2025/11/05/apple-podcasts-auto-chapters">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Epic and Google Agree to Settle Their Play Store Lawsuit, Pending Approval From Judge</title>
+	<link rel="alternate" type="text/html" href="https://www.theverge.com/policy/813991/epic-google-proposed-settlement" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wol" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/05/epic-google-agreement" />
+	<id>tag:daringfireball.net,2025:/linked//6.42357</id>
+	<published>2025-11-05T16:13:03Z</published>
+	<updated>2025-11-05T16:13:04Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Sean Hollister, reporting for The Verge:</p>
+
+<blockquote>
+  <p>The details of how, when, and where Google would charge its
+fees are complicated, and they seem to be somewhat tailored to
+the needs of a game developer like Epic Games. Google can
+charge 20 percent for an in-app purchase that provides “more
+than a de minimis gameplay advantage,” for example, or 9
+percent if the purchase does not. And while 9 percent sounds
+like it’s also the cap for apps and in-app subscriptions sold
+through Google Play, period, the proposal notes that that
+amount doesn’t include Google’s cut for Play Billing if you buy
+it through that payment system.</p>
+
+<p>That cut will be 5 percent, Google spokesperson Dan Jackson tells
+The Verge, confirming that “This new proposed model introduces a
+new, lower fee structure for developers in the US and separates
+the service fee from fees for using Google Play Billing.” (For
+reference, <a href="https://support.google.com/googleplay/android-developer/answer/112622?hl=en">Google currently charges</a> 15 percent for
+subscriptions, 15 percent of the first $1M of developer revenue
+each year and 30 percent after that, though it also <a href="https://www.theverge.com/2023/11/20/23969690/google-spotify-android-billing-commission-secret-deal">cuts special
+deals with some big developers</a>.)</p>
+
+<p>If you use an alternative payment system, Google might still get a
+cut: “the Google Play store is free to assess service fees on
+transactions, including when developers elect to use alternative
+billing mechanisms,” the proposal reads. But it sounds like that
+may not happen in practice: “If the user chooses to pay through an
+alternative billing system, the developer pays no billing fee to
+Google,” Jackson tells The Verge.</p>
+
+<p>According to the document, Google would theoretically even be able
+to get its cut when you click out to an app developer’s website
+and pay for the app there, as long as it happens within 24 hours.</p>
+</blockquote>
+
+<p>This seems as clear as mud, other than being music to Epic Games’s ears.</p>
+
+<div>
+<a  title="Permanent link to ‘Epic and Google Agree to Settle Their Play Store Lawsuit, Pending Approval From Judge’"  href="https://daringfireball.net/linked/2025/11/05/epic-google-agreement">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Just for Fun, Some Vintage 2014 John Dvorak Claim Chowder</title>
+	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2014/07/30/dvorak" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wok" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/05/dvorak-itime" />
+	<id>tag:daringfireball.net,2025:/linked//6.42356</id>
+	<published>2025-11-05T16:02:30Z</published>
+	<updated>2025-11-05T16:16:04Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>John Dvorak <a href="https://www.pcmag.com/opinions/the-apple-itime-is-destined-to-fail">back in 2014</a>, two months before Apple Watch was announced:</p>
+
+<blockquote>
+  <p>I got a lecture from a potential buyer, who will only purchase an
+iTime as a replacement for the iPhone rather than an accessory.
+But all evidence leads me to believe this device will be an
+accessory.</p>
+
+<p>Doing that limits the appeal to people who were promised a
+sleeker gadget profile, which they desperately need, because they
+never manage to pare down anything. It’s tablet computing all
+over again.</p>
+</blockquote>
+
+<p>If he’d meant that Apple Watch would be like the iPad, in terms of being a durable long-term <a href="https://sixcolors.com/post/2025/10/charts-apple-caps-off-best-fiscal-year-with-q4-record/">many-billion-dollars-in-sales-per-quarter</a> platform, he’d have been correct. But he meant that both were duds.</p>
+
+<p>Dvorak is <a href="https://dvorak.substack.com/">still writing</a>, but alas, only occasionally.</p>
+
+<div>
+<a  title="Permanent link to ‘Just for Fun, Some Vintage 2014 John Dvorak Claim Chowder’"  href="https://daringfireball.net/linked/2025/11/05/dvorak-itime">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Apple Launches New Web Interface for the App Store</title>
+	<link rel="alternate" type="text/html" href="https://9to5mac.com/2025/11/03/apple-launches-rich-new-web-interface-for-the-app-store/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/woj" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/04/app-store-new-website" />
+	<id>tag:daringfireball.net,2025:/linked//6.42355</id>
+	<published>2025-11-04T23:16:14Z</published>
+	<updated>2025-11-04T23:16:15Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Chance Miller, 9to5Mac:</p>
+
+<blockquote>
+  <p>Apple has <a href="https://apps.apple.com/us/iphone/today">launched</a> a dramatic new web interface for the
+App Store. You can now get the full App Store experience right in
+your browser, with dedicated pages for the iPhone, iPad, Mac,
+Vision, Watch, and TV app libraries.</p>
+
+<p>Previously, Apple’s “apps.apple.com” domain simply redirected you
+to a <a href="https://www.apple.com/app-store/">generic page</a> about the App Store on Apple’s website.
+Now, it takes you to a full-fledged version of the App Store you
+can browse on your computer.</p>
+</blockquote>
+
+<p>This new website is nice, but it’s not the “full” App Store experience, insofar as you can’t buy or download apps from it. It’s more like a full website <em>mirror</em> of the App Store than a web version of the App Store.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Launches New Web Interface for the App Store’"  href="https://daringfireball.net/linked/2025/11/04/app-store-new-website">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Apple Releases 26.1 Updates to Its Operating Systems</title>
+	<link rel="alternate" type="text/html" href="https://www.macstories.net/news/apple-releases-26-1-updates-to-its-operating-systems/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/woi" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/04/apple-os-26-1" />
+	<id>tag:daringfireball.net,2025:/linked//6.42354</id>
+	<published>2025-11-04T23:12:38Z</published>
+	<updated>2025-11-05T16:59:40Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>John Voorhees, writing at MacStories:</p>
+
+<blockquote>
+  <p>With iOS 26, Apple placed two big buttons onscreen when an alarm
+went off. One was for stop and the other snooze. That wasn’t a big
+deal for many of the alarms you set throughout the day, but when
+you’re waking up in the morning blurry-eyed, two big buttons
+stacked on top of each other weren’t ideal. For a lot of users, it
+was a toss-up whether stabbing at their iPhone through a morning
+haze would stop their alarm or snooze it.</p>
+
+<p>With iOS and iPadOS 26.1, the “Stop” button for an alarm set in
+the system Clock app now requires a slide to stop gesture, which
+echoes the Slide to Unlock gesture of the original iPhone. The
+more deliberate gesture is a good move on Apple’s part. I can’t
+imagine someone tapping and sliding their finger to stop an alarm
+by accident.</p>
+</blockquote>
+
+<p>This is a clever little change. I enjoy that it harks back to the <a href="https://youtu.be/vN4U5FqrOdQ?t=955">original iPhone’s slide-to-unlock</a>.</p>
+
+<p><strong>Update:</strong> If, for whatever reason, you don’t like this slide-to-stop feature, you can turn it off by toggling this option in Settings: Accessibility → Touch → Prefer Single-Touch Actions.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Releases 26.1 Updates to Its Operating Systems’"  href="https://daringfireball.net/linked/2025/11/04/apple-os-26-1">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Gurman Suggests That Next-Gen Siri Will Be Powered by a White-Label Version of Google Gemini Running on Apple’s Private Cloud Compute</title>
+	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/newsletters/2025-11-02/apple-s-nearly-140-billion-quarter-when-ios-26-1-will-be-out-ipad-mini-revamp-mhhpy1ax" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wog" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/03/gurman-siri-gemini" />
+	<id>tag:daringfireball.net,2025:/linked//6.42352</id>
+	<published>2025-11-03T17:02:24Z</published>
+	<updated>2025-11-03T19:29:40Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Mark Gurman, in his weekly Power On column for Bloomberg (paywalled, alas):</p>
+
+<blockquote>
+  <p>Even with the rosy sales forecast, the road ahead won’t be easy.
+Apple is betting heavily on the new Siri, which will lean on
+Google’s Gemini model and introduce features like AI-powered web
+search. But there’s no guarantee users will embrace it, that it
+will work seamlessly or that it can undo years of damage to the
+Siri brand.</p>
+</blockquote>
+
+<p>And then, down below in his “Post Game Q&amp;A”:</p>
+
+<blockquote>
+  <p>Q: <em>Is Apple still planning to use Google Gemini to power the new
+   Siri?</em></p>
+
+<p>A: As I’ve <a href="https://www.bloomberg.com/news/articles/2025-08-22/apple-explores-using-google-gemini-ai-to-power-revamped-siri">reported a few times now</a>, Apple is paying
+   Google to create a custom Gemini-based model that can run on
+   its private cloud servers and help power Siri. Apple held a
+   bake-off this year between Anthropic and Google, ultimately
+   determining that the former offered a better model but that
+   Google made more sense financially (partly due to the tech
+   giants’ preexisting search relationship). I don’t expect either
+   company to ever discuss this partnership publicly, and you
+   shouldn’t expect this to mean Siri will be flooded with Google
+   services or Gemini features already found on Android devices.
+   It just means Siri will be powered by a model that can actually
+   provide the AI features that users expect — all with an Apple
+   user interface.</p>
+</blockquote>
+
+<p>This is quite the aside to tuck into a one-paragraph Q&amp;A item. First, I love the idea that Apple is pursuing technical excellence as a top priority for the next-gen LLM-powered Siri. If Apple winds up using its own models, it should be because those models are truly competitive with the best models on the market. And if they can work out a deal to use models from Google because those models are technically superior to Apple’s own, they should.</p>
+
+<p>It’s kind of wild though to think that, if this comes to pass, neither company will publicly acknowledge the arrangement. I believe it’s possible — but it would be odd. Right now Apple has a public partner for Apple Intelligence: <a href="https://support.apple.com/guide/iphone/use-chatgpt-with-apple-intelligence-iph00fd3c8c2/ios">optional integration with ChatGPT</a>. Apple labels that integration as an “extension”, and has repeatedly stated — <a href="https://daringfireball.net/linked/2025/10/31/cook-siri-cnbc">including as recently as last week</a> — that they’re looking at other partners to add. The most obvious partner Apple could add — one that <a href="https://techcrunch.com/2024/06/10/apple-confirms-plans-to-work-with-googles-gemini-in-the-future/">Craig Federighi mentioned by name</a> on the day that Apple Intelligence was announced at WWDC 2024 — would be Google Gemini.</p>
+
+<p>If what Gurman is reporting comes to pass, and Apple’s own cloud-based LLM technology is a white-label version of Google Gemini, it’d be pretty weird if that ships and Google Gemini still is not a named extension partner for Apple Intelligence. But it would also be a little weird if Google Gemini <em>does</em> become a named partner for Apple Intelligence alongside ChatGPT, while Apple’s own default cloud-based Apple Intelligence is powered by Gemini’s models.</p>
+
+<div>
+<a  title="Permanent link to ‘Gurman Suggests That Next-Gen Siri Will Be Powered by a White-Label Version of Google Gemini Running on Apple’s Private Cloud Compute’"  href="https://daringfireball.net/linked/2025/11/03/gurman-siri-gemini">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Dodgers Win 2025 World Series, Defeating Blue Jays in Thrilling Game 7</title>
+	<link rel="alternate" type="text/html" href="https://www.mlb.com/news/dodgers-win-2025-world-series" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wof" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/02/dodgers-win-world-series" />
+	<id>tag:daringfireball.net,2025:/linked//6.42351</id>
+	<published>2025-11-02T15:17:38Z</published>
+	<updated>2025-11-02T15:18:02Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Anthony Castrovince, writing for MLB (<a href="https://apple.news/ANrQgRevNTD6n4rwIO8yVSw">News+ link</a>):</p>
+
+<blockquote>
+  <p>Behind a stunning, game-tying swat from Miguel Rojas in the top of
+the ninth, a first-of-its-kind, go-ahead blast from Will Smith in
+the top of the 11th and the absurd extra work World Series MVP
+Yoshinobu Yamamoto provided on zero days’ rest, the Dodgers broke
+Toronto hearts with their comeback 5-4 victory in a game that
+merited its own month on the MLB calendar.</p>
+
+<p>The Dodgers are MLB’s first repeat champs since the 1998-2000
+Yankees, and the four-hour, seven-minute, extra-innings affair it
+took to decide that was a fitting end to a true Fall Classic in
+which these two clubs exhausted each other — not just in the
+18-inning epic at Dodger Stadium in Game 3 but throughout a Series
+in which they both had to empty the tank.</p>
+</blockquote>
+
+<p>When a series goes to game 7, every fan hopes it’s a good game. But this was a <em>great</em> game — as good as baseball gets. Great pitching, clutch hitting, and some amazing fielding plays. Simply riveting to watch. The Blue Jays came within an inch or two of winning the Series <a href="https://x.com/bdubsports_/status/1984828236715675702">on this play</a> in the bottom of the 9th (and I think they would’ve won on that play if Kiner-Falefa had run through home plate rather than inexplicably sliding).</p>
+
+<div>
+<a  title="Permanent link to ‘Dodgers Win 2025 World Series, Defeating Blue Jays in Thrilling Game 7’"  href="https://daringfireball.net/linked/2025/11/02/dodgers-win-world-series">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Jaho Coffee Roaster</title>
+	<link rel="alternate" type="text/html" href="https://www.jaho.com/s/df" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/woc" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/01/jaho-coffee-roaster" />
+	<id>tag:daringfireball.net,2025:/linked//6.42348</id>
+	<published>2025-11-01T21:46:49Z</published>
+	<updated>2025-11-02T15:03:13Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks to Jaho Coffee Roaster for sponsoring this week at DF. Jaho has been family-owned since 2005, and they’re guided by their slogan: “Live Slow”. Jaho knows that great coffee takes care. From sourcing small-lot single origins to blending coffees for balance, they small-batch roast their award-winning coffees in Salem and Tokyo.</p>
+
+<p>For the at-home coffee drinker, they roast to order and pack the same coffees brewed and served in all of their cafés. For the office worker, Jaho is proud to be a wholesaler with select partners across the nation and in Japan. Jaho was kind enough to send me a few bags of their beans, and I can vouch that they roast <em>excellent</em> coffee — the kind of tasty beans where, when I finish my last morning cup, I’m tempted to brew a little more even though I know I’m fully caffeinated.</p>
+
+<p>For the month of October, every year, Jaho donates all online coffee bean sale profits to <a href="https://www.komen.org/">Susan G. Komen for Breast Cancer Awareness</a>. (The pink in their brand colors originated from this partnership.) For this DF sponsorship, they’re carrying that promotion for all online sales through the end of day on Monday, November 3.</p>
+
+<p>Jaho ships their fresh beans nationwide, and they’re offering a special deal for DF readers: take 20% off with code <strong>DF</strong>. Give up bad coffee for good, and support a great cause at the same time.</p>
+
+<div>
+<a  title="Permanent link to ‘Jaho Coffee Roaster’"  href="https://daringfireball.net/linked/2025/11/01/jaho-coffee-roaster">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Nation’s Top TV Critic Weighs in on Late Night</title>
+	<link rel="alternate" type="text/html" href="https://truthsocial.com/@realDonaldTrump/posts/115476218592581611" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wod" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/01/nations-top-tv-critic-late-night" />
+	<id>tag:daringfireball.net,2025:/linked//6.42349</id>
+	<published>2025-11-01T21:27:16Z</published>
+	<updated>2025-11-01T21:27:17Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>The president of the United States, on his blog:</p>
+
+<blockquote>
+  <p>Seth Meyers of NBC may be the least talented person to “perform”
+live in the history of television. In fact, he may be the WORST to
+perform, live or otherwise. I watched his show the other night for
+the first time in years. In it he talked endlessly about electric
+catapults on aircraft carriers which I complain about as not being
+as good as much less expensive steam catapults. On and on he went,
+a truly deranged lunatic. Why does NBC waste its time and money on
+a guy like this??? - NO TALENT, NO RATINGS, 100% ANTI TRUMP, WHICH
+IS PROBABLY ILLEGAL!!!</p>
+</blockquote>
+
+<p>The funny part about Trump wildly flailing that Late Night With Seth Meyers is somehow “probably illegal” is that the very sentence of the segment that so upset Trump <a href="https://www.youtube.com/watch?v=Coke6nvWs30">begins with this</a>: “Donald Trump called criticism of his trip to Asia ‘almost treasonous’ and threatened to send active duty military into US cities. For more on this, it’s time for ‘A Closer Look’.”</p>
+
+<div>
+<a  title="Permanent link to ‘Nation’s Top TV Critic Weighs in on Late Night’"  href="https://daringfireball.net/linked/2025/11/01/nations-top-tv-critic-late-night">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Uni Watch: 1999–2025</title>
+	<link rel="alternate" type="text/html" href="https://uni-watch.com/2025/10/31/uni-watch-1999-2025/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/woe" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/01/uni-watch-rip" />
+	<id>tag:daringfireball.net,2025:/linked//6.42350</id>
+	<published>2025-11-01T21:00:00Z</published>
+	<updated>2025-11-01T22:09:58Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Paul Lukas, founder of Uni Watch:</p>
+
+<blockquote>
+  <p>Due to a perfect storm of negative developments, I have
+reluctantly come to the unfortunate conclusion that continuing to
+publish Uni Watch is no longer viable. This will be the site’s
+final post.</p>
+
+<p>Yes, I’m serious. And no, this isn’t a Halloween-related prank.
+Uni Watch is shutting down, for real.</p>
+
+<p>I realize this news probably comes as a shock and that you no
+doubt have lots of questions, so let’s shift into Q&amp;A mode. [...]</p>
+
+<p><em>Will the site’s archive remain on the web?</em></p>
+
+<p>No, unfortunately. Most of the archive — everything but the past
+few days’ worth of content — has already been taken down. The
+rest of the site, including this post, will be taken offline soon,
+probably around next Wednesday.</p>
+</blockquote>
+
+<p>26 years is a hell of a run (dating back to 1999, a few years before Uni Watch became a standalone site), but I don’t understand why sites don’t leave their archives standing when they close down. It shouldn’t cost much to keep the domain name registered and a static version of the site’s archive online.</p>
+
+<p>Uni Watch, to me, epitomized a certain mindset from the early web. To wit, that there ought to be a blog (or two or three) <em>dedicated</em> to every esoteric interest under the sun. You want to obsess about sports team uniform designs? Uni Watch was there. For a good long stretch, there seemingly <em>was</em> a blog (or two or three) dedicated to just about everything. That’s starting to wane. New sites aren’t rising to take the place of retiring ones.</p>
+
+<div>
+<a  title="Permanent link to ‘Uni Watch: 1999–2025’"  href="https://daringfireball.net/linked/2025/11/01/uni-watch-rip">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/10/thoughts_observations_and_links_regarding_chatgpt_atlas" />
+	<link rel="shorturl" href="http://df4.us/wnp" />
+	<id>tag:daringfireball.net,2025://1.42325</id>
+	<published>2025-10-28T20:45:19Z</published>
+	<updated>2025-10-28T21:25:27Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">Most people’s primary computing devices are their phones — and even for people whose primary devices are desktop computers, their phones are much-used satellite devices. And on both iOS and Android alike, people live their mobile digital lives through native apps, not websites.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>OpenAI, <a href="https://openai.com/index/introducing-chatgpt-atlas/">one week ago</a>:</p>
+
+<blockquote>
+  <p>Today we’re introducing ChatGPT Atlas, a new web browser built
+with ChatGPT at its core.</p>
+
+<p>AI gives us a rare moment to rethink what it means to use the web.
+Last year, we added search in ChatGPT so you could instantly find
+timely information from across the internet — and it quickly
+became one of our most-used features. But your browser is where
+all of your work, tools, and context come together. A browser
+built with ChatGPT takes us closer to a true super-assistant that
+understands your world and helps you achieve your goals.</p>
+</blockquote>
+
+<p>A few minutes into <a href="https://www.youtube.com/live/8UWKxJbjriY">the 22-minute introduction video</a>, Ben Goodger,<sup id="fnr1-2025-10-28"><a href="#fn1-2025-10-28">1</a></sup> engineering lead for Atlas, says:</p>
+
+<blockquote>
+  <p>“We wanted to make sure that Atlas didn’t feel like your old
+browser, just with a chat button that was bolted on. But instead,
+we made ChatGPT the beating heart of Atlas.”</p>
+</blockquote>
+
+<p>After giving it a try over the last week, to me Atlas feels like … Chrome with a chat button bolted on. I do not see the appeal, at all, despite being a daily user of ChatGPT. Atlas offers nothing to me that’s better than using Safari as a standalone browser and <a href="https://chatgpt.com/download/">ChatGPT’s excellent native Mac app</a> as a standalone AI chatbot. But, for me, my browser is <em>not</em> “where all of [my] work, tools, and context come together”. I use an email app for email, a notes app for notes, a text editor and blog editor for writing and programming, a photos app for my photo library, a native feed reader app for feed reading, etc. My web browser is for browsing pages on the web. Perhaps this sort of browser/chat hybrid appeals better to people who live the majority of their desktop-computing lives in browser tabs.</p>
+
+<ul>
+<li><p>The main interface isn’t a combo search/location field, but rather a chat/location field. Instead of getting search results for a query, you get a chat response. If I wanted this I’d just ask my prompt in ChatGPT. Oftentimes — usually, even — I really do want a list of search results, and I want them fast. ChatGPT responses in Atlas are not a list of web pages, and are — compared to Google Search or my preferred search engine, Kagi — very slow. ChatGPT is many things but a good search engine replacement it is not. But that seems to be the entire premise of Atlas.</p></li>
+<li><p>Atlas offers an agent mode where it actually surfs the web for you. One of the demos from their launch video involved getting a list of ingredients from a recipe on a web page, and then allowing Atlas to buy all those ingredients for you. That seems crazy to me. Do not want.</p></li>
+<li><p>Atlas is a Chromium browser, supports Chrome extensions, and but currently is only available for the Mac. It’s not particularly Mac-like though, <a href="https://mjtsai.com/blog/2025/10/22/chatgpt-atlas/">as Michael Tsai notes</a>:</p>
+
+<blockquote>
+  <p>Alas, it doesn’t support AppleScript and has System Settings–style
+preferences.</p>
+</blockquote>
+
+<p>System Settings-style preferences are certainly better than Chrome-style “settings in a web page tab”, though. Also, in my testing, Atlas doesn’t make good use of Apple Passwords for autofill.</p></li>
+<li><p>ChatGPT is <a href="https://help.openai.com/en/articles/12608430-chatgpt-atlas-default-browser-promotion">running a promotion that offers users increased rate limits</a> if they make — and keep — Atlas their default web browser. I’ve never before seen a web browser offer any sort of incentive like this for making it your default. This promotion strikes me as simultaneously clever and icky.</p></li>
+<li><p><a href="https://simonwillison.net/2025/Oct/21/introducing-chatgpt-atlas/">Simon Willison’s initial thoughts</a> echo my own:</p>
+
+<blockquote>
+  <p>I continue to find this entire category of <a href="https://simonwillison.net/tags/browser-agents/">browser agents</a>
+<em>deeply</em> confusing.</p>
+
+<p>The security and privacy risks involved here still feel
+insurmountably high to me — I certainly won’t be trusting any of
+these products until a bunch of security researchers have given
+them a very thorough beating. [...]</p>
+
+<p>I also find these products pretty unexciting to use. I tried out
+agent mode and it was like watching a first-time computer user
+painstakingly learn to use a mouse for the first time. I have yet
+to find my own use-cases for when this kind of interaction feels
+useful to me, though I’m not ruling that out.</p>
+</blockquote></li>
+<li><p>Lastly, Anil Dash’s assessment is rather scathing, “<a href="https://www.anildash.com/2025/10/22/atlas-anti-web-browser/">The Browser That’s Anti-Web</a>”:</p>
+
+<blockquote>
+  <p>In the demo for Atlas, the OpenAI team shows a user trying to find
+a Google Doc from their browser history. A normal user would type
+keywords like “atlas design” and see their browser show a list of
+recent pages. They would recognize the phrase “Google Docs” or the
+icon, and click on it to get back to where they were.</p>
+
+<p>But in the OpenAI demo, the team member types out:</p>
+
+<blockquote>
+  <p>search web history for a doc about atlas core design</p>
+</blockquote>
+
+<p>This is <em>worse in every conceivable way</em>. It’s slower, more prone
+to error, and redundant. But it also highlights one of the biggest
+invisible problems: you’re switching “modes”. Normally, an LLM’s
+default mode is to create plausible extrapolations based on its
+training data. Basically, it’s supposed to make things up. But
+this demo has to explicitly walk you through “now it’s time to go
+search my browser history” because it’s coercing the AI to look
+through local content.</p>
+</blockquote>
+
+<p>Chat is a great interface for, well, chatting. People love texting. And it turns out that chat conversations are a very good user interface for interacting with LLMs. We humans enjoy texting with other humans, and we enjoy texting with LLMs. But typed-out text commands are not a good user interface at all for browsing the web. We had an entirely text-based Internet before the World Wide Web, and the point-and-click visual metaphor of the Web won out.</p>
+
+<p>Dash, later on:</p>
+
+<blockquote>
+  <p>It’s no coincidence that hundreds of people who work at OpenAI,
+including many of the most powerful executives, are alumni of
+Facebook/Meta, especially during the era of many of that
+company’s most egregious abuses of people’s privacy. In the
+marketing materials and demonstrations of Atlas, OpenAI’s team
+describes the browser as being able to be your “agent”,
+performing tasks on your behalf.</p>
+
+<p>But in reality, <em>you are the agent for ChatGPT</em>.</p>
+
+<p>During setup, Atlas pushes very aggressively for you to turn on
+“memories” (where it tracks and stores everything you do and uses
+it to train an AI model about you) and to enable “Ask ChatGPT” on
+any website, where it’s following along with you as you browse the
+web. By keeping the ChatGPT sidebar open while you browse, and
+giving it permission to look over your shoulder, OpenAI can
+suddenly access all kinds of things on the internet that they
+could never get to on their own.</p>
+</blockquote>
+
+<p>This jibes with my impression after giving Atlas a try. The point of it doesn’t seem to be to provide a better web browser for me to use, but rather, to provide ChatGPT with the personal context of my digital life that it otherwise couldn’t get.</p></li>
+</ul>
+
+<hr />
+
+<p>That last point raises the question of just how stable we should consider the Apple-OpenAI partnership for ChatGPT-backed Apple Intelligence features. Apple’s goal for a “more personalized Siri” — <a href="https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino">the whole thing</a> Apple promised at WWDC 2024 but had to postpone for a full year early this year — is for the ecosystem of native apps on Apple platforms, particularly iOS and MacOS, to serve as the personal knowledge context for personalized AI features through <a href="https://developer.apple.com/documentation/appintents">App Intents</a>. That’s the basis for the “When is my mom’s flight arriving?” type of interaction that Apple has promised, but still has not delivered. The premise of Atlas (and its brethren AI-integrated browsers like <a href="https://www.diabrowser.com/">The Browser Company’s Dia</a> and <a href="https://www.perplexity.ai/comet/">Perplexity’s Comet</a>) is that you should live your entire desktop computing life inside your browser, which in turn will give the AI agent that is integrated with your browser the contextual knowledge for your entire life.</p>
+
+<p>OpenAI’s ambitions are clearly at odds with Apple’s.</p>
+
+<p>OpenAI’s advantage here is that ChatGPT is the most popular LLM chatbot in the world, by far. Apple doesn’t even have an LLM chatbot of its own, let alone a good or popular one. But Apple’s advantage is a big one: most people don’t live their digital lives on desktop computers, where it’s an option to do most things in a web browser. Most people’s primary computing devices are their phones — and even for people whose primary devices are desktop computers, their phones are much-used satellite devices. And on both iOS and Android alike, people live their mobile digital lives through native apps, not websites.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1-2025-10-28">
+<p>Goodger is a titanic figure in the web browser world, having helped <a href="https://web.archive.org/web/20111116060139/http://weblogs.mozillazine.org/ben/archives/009698.html">create Mozilla Firefox</a> in the early 2000s, and then <a href="https://web.archive.org/web/20050210015629/http://weblogs.mozillazine.org/ben/archives/007366.html">joining Google in 2005</a> to help create Chrome. <a href="https://daringfireball.net/linked/2024/11/26/openai-browser">I noted last year</a> that Goodger leaving Google for OpenAI was a pretty clear sign that OpenAI was creating its own web browser.&nbsp;<a href="#fnr1-2025-10-28"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
+</li>
+</ol>
+</div>
+
+
+
+    ]]></content>
+  <title>★ Thoughts, Observations, and Links Regarding ChatGPT Atlas</title></entry><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/10/apple_uk_lawsuit_app_store_commissions" />
+	<link rel="shorturl" href="http://df4.us/wnm" />
+	<id>tag:daringfireball.net,2025://1.42322</id>
+	<published>2025-10-27T21:33:32Z</published>
+	<updated>2025-10-27T21:33:39Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">The best time to adjust the rules of the App Store — its exclusivity on app distribution for the entire iOS platform, the exclusivity of Apple’s IAP for purchasing digital content, the commission percentage splits on IAP — was over a decade ago. The next best time to make those adjustments is now.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>Sam Tobin, <a href="https://www.reuters.com/sustainability/boards-policy-regulation/apple-loses-uk-lawsuit-over-app-store-commissions-2025-10-23/">reporting last week for Reuters</a>:</p>
+
+<blockquote>
+  <p>Apple abused its dominant position by charging app developers
+unfair commissions, a London tribunal ruled on Thursday, in a blow
+which could leave the U.S. tech company on the hook for hundreds
+of millions of pounds in damages. The Competition Appeal Tribunal
+(CAT) ruled against Apple after a trial of the lawsuit, which was
+brought on behalf of millions of iPhone and iPad users in the
+United Kingdom.</p>
+
+<p>The CAT ruled that Apple had abused its dominant position from
+October 2015 until the end of 2020 by shutting out competition in
+the app distribution market and by “charging excessive and unfair
+prices” as commission to developers. [...] The case had been
+valued at around 1.5 billion pounds ($2 billion) by those who
+brought it. A hearing next month will decide how damages are
+calculated and Apple’s application for permission to appeal.</p>
+</blockquote>
+
+<p>Dan Moren and I discussed this at some length in <a href="https://daringfireball.net/thetalkshow/2025/10/26/ep-432">the new episode of The Talk Show</a> that dropped over the weekend. What makes this ruling interesting isn’t that it’s particularly significant or different from other regulatory/antitrust investigations around the world. It’s the fact that it’s completely in line with other regulatory/antitrust investigations regarding the App Store (and Play Store) from around the world.</p>
+
+<p>When is the last time an investigation regarding the legality of the App Store’s dominant market position went in Apple’s favor, in any country? I can’t recall one. Apple is clearly fighting a losing battle here. Whether Apple <em>ought</em> to be losing all these legal and regulatory battles regarding the App Store is, from a strategic standpoint, almost irrelevant. The obvious fact is, they <em>are</em> losing them.</p>
+
+<p>Apple has approached all this regulatory conflict from a perspective that they’re right, and the regulators are wrong. That the App Store, as Apple wants it, is (a) good for users, (b) fair to developers, and (c) <em>competitive</em>, not anti-competitive, legally. But even if Apple is correct about that, at some point, after being handed loss after loss in rulings from courts and regulatory bodies around the globe, shouldn’t they change their strategy and start trying to offer their own concessions, rather than wait for bureaucrat-designed concessions to be forced upon them?</p>
+
+<p>However Apple thinks all of this <em>should</em> work out is not the way it <em>is</em> working out. The best time to adjust the rules of the App Store — its exclusivity on app distribution for the entire iOS platform, the exclusivity of Apple’s IAP for purchasing digital content, the commission percentage splits on IAP — <a href="https://daringfireball.net/2021/06/app_store_the_schiller_cut">was over a decade ago</a>. The next best time to make those adjustments is now.</p>
+
+
+
+    ]]></content>
+  <title>★ Apple Loses Landmark U.K. Lawsuit Over App Store Commissions</title></entry></feed><!-- THE END -->
