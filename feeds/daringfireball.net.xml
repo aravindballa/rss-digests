@@ -7,20 +7,65 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-11-18T17:33:18Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-11-18T18:27:29Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Gurman Says Apple Has No Plans to Update the Mac Pro</title>
+	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/newsletters/2025-11-16/apple-s-iphone-road-map-iphone-air-2-iphone-18-mac-pro-future-tesla-carplay-mi1q4l2o" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wpp" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/18/gurman-mac-pro" />
+	<id>tag:daringfireball.net,2025:/linked//6.42397</id>
+	<published>2025-11-18T18:27:29Z</published>
+	<updated>2025-11-18T18:27:29Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Mark Gurman, in his (paywalled, alas) Power On column for Bloomberg over the weekend:</p>
+
+<blockquote>
+  <p>The <a href="https://www.bloomberg.com/news/articles/2023-05-31/apple-tests-new-high-end-mac-chips-ahead-of-developer-conference">next major update</a> didn’t arrive until 2023, when Apple
+finally transitioned the desktop to in-house chips with the M2
+Ultra Mac Pro. Two years later, that model remains largely
+unchanged. And it’s been overshadowed by the Mac Studio, which
+received the M3 Ultra chip earlier this year while the Mac Pro
+stayed put.</p>
+
+<p>Now here’s the bad news: That <a href="https://www.bloomberg.com/news/newsletters/2025-11-09/apple-iphone-satellite-plans-image-texting-third-party-apps-low-cost-macbook-mhrq10p2">doesn’t look set</a> to change
+anytime soon. There’s no longer an M4 Ultra in the works (a Mac
+Pro to support it was also nixed), and the next high-end desktop
+chip will be the M5 Ultra. So far, Apple is only focused on a new
+Mac Studio for the processor. That suggests the Mac Pro won’t be
+updated in 2026 in a significant way.</p>
+
+<p>From what I’ve heard inside the company, Apple has largely written
+off the Mac Pro. The sentiment internally is that the Mac Studio
+now represents both the present and future of Apple’s professional
+desktop strategy.</p>
+</blockquote>
+
+<p><a href="https://www.apple.com/mac/compare/?modelList=MacPro-m2-ultra,Mac-Studio-M3-Ultra,MacBook-Pro-14-M4-Pro">Here’s a comparison</a> of the now-two-year-old M2 Ultra Mac Pro with the M3 Ultra and M4 Max Mac Studios. I’d love to see Apple pursue some sort of M# Extreme chip that goes above and beyond the M# Ultra variants, but unless they do, they’re not much point to a 32-pound suitcase-sized enclosure that offer little more than the Studio’s small 8-pound enclosure. The difference mostly comes down to the Pro’s internal PCI Express expansion slots, but those slots don’t support third-party GPUs from Nvidia or AMD.</p>
+
+<p><strong>See also:</strong> <a href="https://arstechnica.com/gadgets/2025/11/report-claims-that-apple-has-yet-again-put-the-mac-pro-on-the-back-burner/">Andrew Cunningham at Ars Technica</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Gurman Says Apple Has No Plans to Update the Mac Pro’"  href="https://daringfireball.net/linked/2025/11/18/gurman-mac-pro">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Cloudflare Suffered Hours Long Outage (Which Brought Down Daring Fireball, Among Thousands of Other Sites)</title>
 	<link rel="alternate" type="text/html" href="https://www.theguardian.com/technology/live/2025/nov/18/cloudflare-down-internet-outage-latest-live-news-updates" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wpo" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/18/cloudflare-outage" />
 	<id>tag:daringfireball.net,2025:/linked//6.42396</id>
 	<published>2025-11-18T17:30:19Z</published>
-	<updated>2025-11-18T17:33:18Z</updated>
+	<updated>2025-11-18T18:23:30Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Cloudflare suffered an hours-long global outage, starting around 12am UTC / 5am ET, which brought down an enormous chunk of the Internet. This included, <a href="https://x.com/tomwarren/status/1990754173957369989">humorously</a>, <a href="https://downdetector.com/">Down Detector</a>. It also included (not so humorously to me) Daring Fireball, which has been <a href="https://daringfireball.net/2018/09/df_slowdown">routed through Cloudflare since 2018</a>. My apologies if you tried to reach the site while it was down. (The whole outage occurred while I was asleep.) As of this writing, Cloudflare still hasn’t determined exactly what happened, but they’ve been updating <a href="https://www.cloudflarestatus.com/incidents/8gmgl950y3h7">their status report for the incident</a> a few times per hour. The most recent update:</p>
+<p>Cloudflare suffered an hours-long global outage, starting around 12pm UTC / 7am ET, which brought down an enormous chunk of the Internet. This included, <a href="https://x.com/tomwarren/status/1990754173957369989">humorously</a>, <a href="https://downdetector.com/">Down Detector</a>. It also included (not so humorously to me) Daring Fireball, which has been <a href="https://daringfireball.net/2018/09/df_slowdown">routed through Cloudflare since 2018</a>. My apologies if you tried to reach the site while it was down. (DF was back up by the time I woke up this morning.) As of this writing, Cloudflare still hasn’t determined exactly what happened, but they’ve been updating <a href="https://www.cloudflarestatus.com/incidents/8gmgl950y3h7">their status report for the incident</a> a few times per hour. The most recent update:</p>
 
 <blockquote>
   <p>We continue to monitor the system through recovery and we are
@@ -1941,32 +1986,6 @@ in which they both had to empty the tank.</p>
 
 <div>
 <a  title="Permanent link to ‘Dodgers Win 2025 World Series, Defeating Blue Jays in Thrilling Game 7’"  href="https://daringfireball.net/linked/2025/11/02/dodgers-win-world-series">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Jaho Coffee Roaster</title>
-	<link rel="alternate" type="text/html" href="https://www.jaho.com/s/df" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/woc" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/01/jaho-coffee-roaster" />
-	<id>tag:daringfireball.net,2025:/linked//6.42348</id>
-	<published>2025-11-01T21:46:49Z</published>
-	<updated>2025-11-02T15:03:13Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>My thanks to Jaho Coffee Roaster for sponsoring this week at DF. Jaho has been family-owned since 2005, and they’re guided by their slogan: “Live Slow”. Jaho knows that great coffee takes care. From sourcing small-lot single origins to blending coffees for balance, they small-batch roast their award-winning coffees in Salem and Tokyo.</p>
-
-<p>For the at-home coffee drinker, they roast to order and pack the same coffees brewed and served in all of their cafés. For the office worker, Jaho is proud to be a wholesaler with select partners across the nation and in Japan. Jaho was kind enough to send me a few bags of their beans, and I can vouch that they roast <em>excellent</em> coffee — the kind of tasty beans where, when I finish my last morning cup, I’m tempted to brew a little more even though I know I’m fully caffeinated.</p>
-
-<p>For the month of October, every year, Jaho donates all online coffee bean sale profits to <a href="https://www.komen.org/">Susan G. Komen for Breast Cancer Awareness</a>. (The pink in their brand colors originated from this partnership.) For this DF sponsorship, they’re carrying that promotion for all online sales through the end of day on Monday, November 3.</p>
-
-<p>Jaho ships their fresh beans nationwide, and they’re offering a special deal for DF readers: take 20% off with code <strong>DF</strong>. Give up bad coffee for good, and support a great cause at the same time.</p>
-
-<div>
-<a  title="Permanent link to ‘Jaho Coffee Roaster’"  href="https://daringfireball.net/linked/2025/11/01/jaho-coffee-roaster">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
