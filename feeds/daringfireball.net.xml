@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-11-19T21:45:24Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-11-19T23:37:18Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>Contrary to Rumors, Apple Will Continue Broadcasting ‘Friday Night Baseball’</title>
 	<link rel="alternate" type="text/html" href="https://www.mlb.com/news/mlb-announces-media-rights-deals-with-espn-nbc-netflix" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wpx" />
@@ -65,13 +65,13 @@ regular season.</p>
 
 	]]></content>
   </entry><entry>
-	<title>Cloudflare’s Uptime</title>
+	<title>Cloudflare’s Uptime and Scale</title>
 	<link rel="alternate" type="text/html" href="https://mastodon.social/@arroz/115577670987313083" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wpw" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/19/cloudflare-uptime" />
 	<id>tag:daringfireball.net,2025:/linked//6.42404</id>
 	<published>2025-11-19T20:29:24Z</published>
-	<updated>2025-11-19T21:27:42Z</updated>
+	<updated>2025-11-19T23:37:18Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -88,16 +88,16 @@ using traditional providers. Their downtimes being so visible is a
 consequence of their success.</p>
 </blockquote>
 
-<p>A few readers have (very politely!) asked me whether yesterday’s outage (which made DF unreachable for, I think about 90 minutes) made me rethink relying on a centralized provider like Cloudflare. My answer is no.</p>
+<p>A few readers have (very politely!) asked me whether yesterday’s outage (which made DF unreachable for, I think, about 90 minutes) made me rethink relying on a centralized provider like Cloudflare. My answer is no.</p>
 
 <p>Until I started using Cloudflare in 2018, Daring Fireball relied on no upstream service. I paid for a server from a web hosting provider (those providers changed a few times over the years), and when you, a reader, requested a page on this site, your browser communicated directly with my server via HTTP requests and my server responded directly back. The basic architecture of the World Wide Web is beautifully simple, and I embraced that simplicity with the way I hosted and served Daring Fireball.</p>
 
 <p>But the move away from HTTP to HTTPS added a lot of complexity. That complexity is probably worth it, overall, but it came at the price of simplicity. I originally made the switch to using Cloudflare as a caching front-end for Daring Fireball as a solution to <a href="https://daringfireball.net/2018/09/df_slowdown">an SSL-related slowdown that affected only some visitors</a> in 2018. But I’d started using Cloudflare to handle my DNS the year before.</p>
 
-<p>Daring Fireball has always been a fast website and has always had very good uptime. That’s not because the back end is cleverly architected, but instead, because it’s so simply architected. But DF’s overall uptime and the frequency of any sort of performance problems went from good to great when I started relying on Cloudflare as a proxy. Also, in recent years, bot traffic has exploded. (Thanks, AI.) I’m pretty sure my server could handle those bursts of traffic on its own, but I sleep better not having to worry about it, because Cloudflare handles <a href="https://www.manton.org/2025/11/19/this-report-from-matthew-prince.html">mind-boggling amounts</a> of traffic.</p>
+<p>Daring Fireball has always been a fast website and has always had very good uptime. That’s not because the back end is <em>cleverly</em> architected, but rather because it’s so <em>simply</em> architected. But DF’s overall uptime and the frequency of any sort of performance problems went from good to great when I started relying on Cloudflare as a proxy. Also, in recent years, bot traffic has exploded. (Thanks, AI.) I’m pretty sure my server could handle those bursts of traffic on its own, but I sleep better not having to worry about it, because Cloudflare handles <a href="https://www.manton.org/2025/11/19/this-report-from-matthew-prince.html">mind-boggling amounts</a> of traffic.</p>
 
 <div>
-<a  title="Permanent link to ‘Cloudflare’s Uptime’"  href="https://daringfireball.net/linked/2025/11/19/cloudflare-uptime">&nbsp;★&nbsp;</a>
+<a  title="Permanent link to ‘Cloudflare’s Uptime and Scale’"  href="https://daringfireball.net/linked/2025/11/19/cloudflare-uptime">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
