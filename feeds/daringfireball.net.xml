@@ -7,7 +7,44 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-11-19T19:48:21Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-11-19T20:29:24Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Cloudflare’s Uptime</title>
+	<link rel="alternate" type="text/html" href="https://mastodon.social/@arroz/115577670987313083" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wpw" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/19/cloudflare-uptime" />
+	<id>tag:daringfireball.net,2025:/linked//6.42404</id>
+	<published>2025-11-19T20:29:24Z</published>
+	<updated>2025-11-19T20:29:24Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Miguel Arroz, on Mastodon:</p>
+
+<blockquote>
+  <p>Unpopular opinion, apparently: companies like Cloudflare and
+Amazon provide very high quality services people and enterprises
+actually need, with a level of uptime and security vastly superior
+to what most of their customers would achieve on their own or
+using traditional providers. Their downtimes being so visible is a
+consequence of their success.</p>
+</blockquote>
+
+<p>A few readers have (very politely!) asked me whether yesterday’s outage (which made DF unreachable for, I think about 90 minutes) made me rethink relying on a centralized provider like Cloudflare. My answer is no.</p>
+
+<p>Until I started using Cloudflare in 2018, Daring Fireball relied on no upstream service. I paid for a server from a web hosting provider (those providers changed a few times over the years, and when you, a reader, requested a page on this site, your browser communicated directly with my server via HTTP requests and my server responded directly back. The basic architecture of the World Wide Web is beautifully simple, and I embraced that simplicity with the way I hosted and served Daring Fireball.</p>
+
+<p>But the move away from HTTP to HTTPS added a lot of complexity. That complexity is probably worth it, overall, but it came at the price of simplicity. I originally made the switch to using Cloudflare as a caching front-end for Daring Fireball as a solution to <a href="https://daringfireball.net/2018/09/df_slowdown">an SSL-related slowdown that affected only some visitors</a> in 2018. But I’d started using Cloudflare to handle my DNS the year before.</p>
+
+<p>Daring Fireball has always been a fast website and has always had very good uptime. That’s not because the back end is cleverly architected, but instead, because it’s so simply architected. But DF’s overall uptime and the frequency of any sort of performance problems went from good to great when I started relying on Cloudflare as a proxy. Also, in recent years, bot traffic has exploded. (Thanks, AI.) I’m pretty sure my server could handle those bursts of traffic on its own, but I sleep better not having to worry about it, because Cloudflare handles <a href="https://www.manton.org/2025/11/19/this-report-from-matthew-prince.html">mind-boggling amounts</a> of traffic.</p>
+
+<div>
+<a  title="Permanent link to ‘Cloudflare’s Uptime’"  href="https://daringfireball.net/linked/2025/11/19/cloudflare-uptime">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple Announces Finalists for the 2025 App Store Awards</title>
 	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2025/11/apple-announces-finalists-for-the-2025-app-store-awards/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wpv" />
@@ -46,7 +83,7 @@
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/19/cloudflare-prince-portmortem" />
 	<id>tag:daringfireball.net,2025:/linked//6.42402</id>
 	<published>2025-11-19T17:26:22Z</published>
-	<updated>2025-11-19T17:26:22Z</updated>
+	<updated>2025-11-19T20:09:06Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -100,7 +137,7 @@ like this will not happen again.</p>
 <li>They issued frequent updates to <a href="https://www.cloudflarestatus.com/">their status site</a> while the incident remained ongoing.</li>
 <li>They published this postmortem within 24 hours. (That’s remarkable, given the technical breadth of the postmortem. Publishing this tomorrow, within 48 hours of the incident, would have been a praise-worthy accomplishment.)</li>
 <li>The postmortem starts with a cogent, well-written layperson’s explanation of what happened and why.</li>
-<li>The postmortem expands to include very specific technical details, including source code.</li>
+<li>The postmortem expands to include very specific technical details, including <a href="https://infosec.exchange/@mttaggart/115573489086885199">source code</a>.</li>
 </ul>
 
 <p>Lastly, it’s worth noting that Prince put his own name on the postmortem (and <a href="https://news.ycombinator.com/item?id=45974320">wrote much of it himself</a>, using BBEdit), and closed with this apology, taking personal responsibility:</p>
@@ -1994,39 +2031,6 @@ when reading messages.</li>
 
 <div>
 <a  title="Permanent link to ‘WhatsApp for Apple Watch’"  href="https://daringfireball.net/linked/2025/11/05/whatsapp-apple-watch">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple Podcasts Is Adding AI-Generated Chapters for Podcasts Without Chapters</title>
-	<link rel="alternate" type="text/html" href="https://podcasters.apple.com/support/5545-enhance-episodes-with-chapters-links-more" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wom" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/05/apple-podcasts-auto-chapters" />
-	<id>tag:daringfireball.net,2025:/linked//6.42358</id>
-	<published>2025-11-05T16:27:31Z</published>
-	<updated>2025-11-05T16:30:51Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>News from Apple’s Podcasts for Creators site, regarding new features in the iOS 26.2 beta releases:</p>
-
-<blockquote>
-  <p>When you supply chapters in your episode description or in your
-RSS feed, they display in Apple Podcasts. If you submit chapters
-through your hosting provider, you can include images. For shows
-in English, when chapters aren’t provided, Apple Podcasts
-generates them for you and an “Automatically created“ label
-appears in the chapter list. If you prefer not to use
-automatically created chapters, you can disable this feature in
-Apple Podcasts Connect. <a href="https://podcasters.apple.com/support/5482-using-chapters-on-apple-podcasts">Learn more about chapters</a>.</p>
-</blockquote>
-
-<p>It’s unclear to me whether this feature is actually exclusive to iOS/iPhone, or will be available across Apple’s 26.2 OS releases. This strikes me as a great use of AI, but I also think most multi-topic podcasts should include human-created chapters.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Podcasts Is Adding AI-Generated Chapters for Podcasts Without Chapters’"  href="https://daringfireball.net/linked/2025/11/05/apple-podcasts-auto-chapters">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
