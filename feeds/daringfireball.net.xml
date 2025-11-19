@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-11-19T20:29:24Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-11-19T20:36:24Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>Cloudflare’s Uptime</title>
 	<link rel="alternate" type="text/html" href="https://mastodon.social/@arroz/115577670987313083" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wpw" />
@@ -83,7 +83,7 @@ consequence of their success.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/19/cloudflare-prince-portmortem" />
 	<id>tag:daringfireball.net,2025:/linked//6.42402</id>
 	<published>2025-11-19T17:26:22Z</published>
-	<updated>2025-11-19T20:09:06Z</updated>
+	<updated>2025-11-19T20:36:24Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -135,7 +135,7 @@ like this will not happen again.</p>
 <ul>
 <li>They identified and fixed the issue quickly.</li>
 <li>They issued frequent updates to <a href="https://www.cloudflarestatus.com/">their status site</a> while the incident remained ongoing.</li>
-<li>They published this postmortem within 24 hours. (That’s remarkable, given the technical breadth of the postmortem. Publishing this tomorrow, within 48 hours of the incident, would have been a praise-worthy accomplishment.)</li>
+<li>They published this postmortem within 24 hours. (That’s remarkable, given the technical breadth of the postmortem. Publishing this tomorrow, within 48 hours of the incident, would have been a praise-worthy accomplishment.) <strong>Update:</strong> Actually, <a href="https://news.ycombinator.com/item?id=45978769">according to Prince</a>, commenting on Hacker News, the postmortem was published less than 12 hours after the incident began. Amazing.</li>
 <li>The postmortem starts with a cogent, well-written layperson’s explanation of what happened and why.</li>
 <li>The postmortem expands to include very specific technical details, including <a href="https://infosec.exchange/@mttaggart/115573489086885199">source code</a>.</li>
 </ul>
