@@ -7,7 +7,39 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-11-19T17:26:22Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-11-19T19:48:21Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Apple Announces Finalists for the 2025 App Store Awards</title>
+	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2025/11/apple-announces-finalists-for-the-2025-app-store-awards/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wpv" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/19/finalists-for-app-store-awards" />
+	<id>tag:daringfireball.net,2025:/linked//6.42403</id>
+	<published>2025-11-19T19:48:21Z</published>
+	<updated>2025-11-19T19:48:21Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Apple Newsroom:</p>
+
+<blockquote>
+  <p>Finalists in the Mac App of the Year category provided users with powerful tools to confidently take on new projects:</p>
+
+<ul>
+<li><a href="https://apps.apple.com/us/app/acorn-8/id6737921844">Acorn</a>, for being the go-to tool for pro-level photo edits.</li>
+<li><a href="https://apps.apple.com/us/app/essayist-academic-writing-app/id1537845384">Essayist</a>, for taking the stress out of sourcing and formatting academic papers.</li>
+<li><a href="https://apps.apple.com/us/app/under-my-roof-home-inventory/id1524335878">Under My Roof</a>, for keeping homeowners organized and prepared.</li>
+</ul>
+</blockquote>
+
+<p>Nice to see Flying Meat’s <a href="https://apps.apple.com/us/app/acorn-8/id6737921844">Acorn</a> — one of my own favorite and most-used apps since 2007, <a href="https://daringfireball.net/linked/2007/09/10/acorn">before it even shipped</a> — getting this sort of recognition from Apple. Back in June, <a href="https://shapeof.com/archives/2025/6/acorn_fn_wwdc_2025_keynote.html">Apple featured Acorn in the WWDC keynote</a>, during the preview of Liquid Glass.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Announces Finalists for the 2025 App Store Awards’"  href="https://daringfireball.net/linked/2025/11/19/finalists-for-app-store-awards">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Cloudflare CEO Matthew Prince Explains, in Detail, and Apologizes for Yesterday’s Global Outage</title>
 	<link rel="alternate" type="text/html" href="https://blog.cloudflare.com/18-november-2025-outage/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wpu" />
@@ -1995,62 +2027,6 @@ Apple Podcasts Connect. <a href="https://podcasters.apple.com/support/5482-using
 
 <div>
 <a  title="Permanent link to ‘Apple Podcasts Is Adding AI-Generated Chapters for Podcasts Without Chapters’"  href="https://daringfireball.net/linked/2025/11/05/apple-podcasts-auto-chapters">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Epic and Google Agree to Settle Their Play Store Lawsuit, Pending Approval From Judge</title>
-	<link rel="alternate" type="text/html" href="https://www.theverge.com/policy/813991/epic-google-proposed-settlement" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wol" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/05/epic-google-agreement" />
-	<id>tag:daringfireball.net,2025:/linked//6.42357</id>
-	<published>2025-11-05T16:13:03Z</published>
-	<updated>2025-11-05T16:13:04Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Sean Hollister, reporting for The Verge:</p>
-
-<blockquote>
-  <p>The details of how, when, and where Google would charge its
-fees are complicated, and they seem to be somewhat tailored to
-the needs of a game developer like Epic Games. Google can
-charge 20 percent for an in-app purchase that provides “more
-than a de minimis gameplay advantage,” for example, or 9
-percent if the purchase does not. And while 9 percent sounds
-like it’s also the cap for apps and in-app subscriptions sold
-through Google Play, period, the proposal notes that that
-amount doesn’t include Google’s cut for Play Billing if you buy
-it through that payment system.</p>
-
-<p>That cut will be 5 percent, Google spokesperson Dan Jackson tells
-The Verge, confirming that “This new proposed model introduces a
-new, lower fee structure for developers in the US and separates
-the service fee from fees for using Google Play Billing.” (For
-reference, <a href="https://support.google.com/googleplay/android-developer/answer/112622?hl=en">Google currently charges</a> 15 percent for
-subscriptions, 15 percent of the first $1M of developer revenue
-each year and 30 percent after that, though it also <a href="https://www.theverge.com/2023/11/20/23969690/google-spotify-android-billing-commission-secret-deal">cuts special
-deals with some big developers</a>.)</p>
-
-<p>If you use an alternative payment system, Google might still get a
-cut: “the Google Play store is free to assess service fees on
-transactions, including when developers elect to use alternative
-billing mechanisms,” the proposal reads. But it sounds like that
-may not happen in practice: “If the user chooses to pay through an
-alternative billing system, the developer pays no billing fee to
-Google,” Jackson tells The Verge.</p>
-
-<p>According to the document, Google would theoretically even be able
-to get its cut when you click out to an app developer’s website
-and pay for the app there, as long as it happens within 24 hours.</p>
-</blockquote>
-
-<p>This seems as clear as mud, other than being music to Epic Games’s ears.</p>
-
-<div>
-<a  title="Permanent link to ‘Epic and Google Agree to Settle Their Play Store Lawsuit, Pending Approval From Judge’"  href="https://daringfireball.net/linked/2025/11/05/epic-google-agreement">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
