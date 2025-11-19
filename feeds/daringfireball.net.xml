@@ -7,7 +7,90 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-11-19T16:46:26Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-11-19T17:26:22Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Cloudflare CEO Matthew Prince Explains, in Detail, and Apologizes for Yesterday’s Global Outage</title>
+	<link rel="alternate" type="text/html" href="https://blog.cloudflare.com/18-november-2025-outage/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wpu" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/19/cloudflare-prince-portmortem" />
+	<id>tag:daringfireball.net,2025:/linked//6.42402</id>
+	<published>2025-11-19T17:26:22Z</published>
+	<updated>2025-11-19T17:26:22Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Cloudflare CEO Matthew Prince:</p>
+
+<blockquote>
+  <p><em>The issue was not caused, directly or indirectly, by a cyber
+attack or malicious activity of any kind.</em> Instead, it was
+triggered by a change to one of our database systems’ permissions
+which caused the database to output multiple entries into a
+“feature file” used by our Bot Management system. That feature
+file, in turn, doubled in size. The larger-than-expected feature
+file was then propagated to all the machines that make up our
+network.</p>
+
+<p>The software running on these machines to route traffic across our
+network reads this feature file to keep our Bot Management system
+up to date with ever changing threats. The software had a limit on
+the size of the feature file that was below its doubled size. That
+caused the software to fail.</p>
+
+<p>After we initially wrongly suspected the symptoms we were seeing
+were caused by a hyper-scale DDoS attack, we correctly
+identified the core issue and were able to stop the propagation
+of the larger-than-expected feature file and replace it with an
+earlier version of the file. Core traffic was largely flowing as
+normal by 14:30. We worked over the next few hours to mitigate
+increased load on various parts of our network as traffic rushed
+back online. As of 17:06 all systems at Cloudflare were
+functioning as normal.</p>
+
+<p>We are sorry for the impact to our customers and to the Internet
+in general. Given Cloudflare’s importance in the Internet
+ecosystem any outage of any of our systems is unacceptable. That
+there was a period of time where our network was not able to route
+traffic is deeply painful to every member of our team. We know we
+let you down today.</p>
+
+<p>This post is an in-depth recount of exactly what happened and what
+systems and processes failed. It is also the beginning, though not
+the end, of what we plan to do in order to make sure an outage
+like this will not happen again.</p>
+</blockquote>
+
+<p>Everything about this incident exemplifies why Cloudflare is one of my favorite companies in the world. Ideally, it wouldn’t have happened, but shit does happen. Among the things to note about Cloudflare’s response:</p>
+
+<ul>
+<li>They identified and fixed the issue quickly.</li>
+<li>They issued frequent updates to <a href="https://www.cloudflarestatus.com/">their status site</a> while the incident remained ongoing.</li>
+<li>They published this postmortem within 24 hours. (That’s remarkable, given the technical breadth of the postmortem. Publishing this tomorrow, within 48 hours of the incident, would have been a praise-worthy accomplishment.)</li>
+<li>The postmortem starts with a cogent, well-written layperson’s explanation of what happened and why.</li>
+<li>The postmortem expands to include very specific technical details, including source code.</li>
+</ul>
+
+<p>Lastly, it’s worth noting that Prince put his own name on the postmortem (and <a href="https://news.ycombinator.com/item?id=45974320">wrote much of it himself</a>, using BBEdit), and closed with this apology, taking personal responsibility:</p>
+
+<blockquote>
+  <p>An outage like today is unacceptable. We’ve architected our
+systems to be highly resilient to failure to ensure traffic will
+always continue to flow. When we’ve had outages in the past it’s
+always led to us building new, more resilient systems.</p>
+
+<p>On behalf of the entire team at Cloudflare, I would like to
+apologize for the pain we caused the Internet today.</p>
+</blockquote>
+
+<p>This is how it’s done.</p>
+
+<div>
+<a  title="Permanent link to ‘Cloudflare CEO Matthew Prince Explains, in Detail, and Apologizes for Yesterday’s Global Outage’"  href="https://daringfireball.net/linked/2025/11/19/cloudflare-prince-portmortem">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Tim Cook Among Attendees of Last Night’s Black-Tie White House Dinner Honoring Journalist-Murdering Tyrant Mohammed bin Salman of Saudi Arabia</title>
 	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2025/11/18/us/politics/trump-saudi-dinner-guests.html?unlocked_article_code=1.2U8.clG6.uxuqC4aodHYk&amp;smid=url-share" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wpt" />
@@ -1968,42 +2051,6 @@ and pay for the app there, as long as it happens within 24 hours.</p>
 
 <div>
 <a  title="Permanent link to ‘Epic and Google Agree to Settle Their Play Store Lawsuit, Pending Approval From Judge’"  href="https://daringfireball.net/linked/2025/11/05/epic-google-agreement">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Just for Fun, Some Vintage 2014 John Dvorak Claim Chowder</title>
-	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2014/07/30/dvorak" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wok" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/05/dvorak-itime" />
-	<id>tag:daringfireball.net,2025:/linked//6.42356</id>
-	<published>2025-11-05T16:02:30Z</published>
-	<updated>2025-11-05T16:16:04Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>John Dvorak <a href="https://www.pcmag.com/opinions/the-apple-itime-is-destined-to-fail">back in 2014</a>, two months before Apple Watch was announced:</p>
-
-<blockquote>
-  <p>I got a lecture from a potential buyer, who will only purchase an
-iTime as a replacement for the iPhone rather than an accessory.
-But all evidence leads me to believe this device will be an
-accessory.</p>
-
-<p>Doing that limits the appeal to people who were promised a
-sleeker gadget profile, which they desperately need, because they
-never manage to pare down anything. It’s tablet computing all
-over again.</p>
-</blockquote>
-
-<p>If he’d meant that Apple Watch would be like the iPad, in terms of being a durable long-term <a href="https://sixcolors.com/post/2025/10/charts-apple-caps-off-best-fiscal-year-with-q4-record/">many-billion-dollars-in-sales-per-quarter</a> platform, he’d have been correct. But he meant that both were duds.</p>
-
-<p>Dvorak is <a href="https://dvorak.substack.com/">still writing</a>, but alas, only occasionally.</p>
-
-<div>
-<a  title="Permanent link to ‘Just for Fun, Some Vintage 2014 John Dvorak Claim Chowder’"  href="https://daringfireball.net/linked/2025/11/05/dvorak-itime">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
