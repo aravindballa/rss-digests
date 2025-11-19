@@ -7,14 +7,71 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-11-19T20:36:24Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-11-19T21:45:24Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Contrary to Rumors, Apple Will Continue Broadcasting ‘Friday Night Baseball’</title>
+	<link rel="alternate" type="text/html" href="https://www.mlb.com/news/mlb-announces-media-rights-deals-with-espn-nbc-netflix" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wpx" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/19/apple-friday-night-baseball" />
+	<id>tag:daringfireball.net,2025:/linked//6.42405</id>
+	<published>2025-11-19T21:45:23Z</published>
+	<updated>2025-11-19T21:45:24Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Anthony Castrovince, reporting for MLB.com on the new broadcast rights agreement that will cover the next three seasons of baseball:</p>
+
+<blockquote>
+  <p>Sunday Night Baseball will shift from ESPN, where it aired since
+1990, to NBCUniversal, which also secured the rights to Sunday
+Leadoff and the Wild Card Series in the postseason for NBC and
+Peacock.</p>
+
+<p>Netflix will now air the T-Mobile Home Run Derby, an Opening Night
+exclusive and special event games set to include the 2026 MLB at
+Field of Dreams Game and the World Baseball Classic in Japan.</p>
+
+<p>And ESPN will receive a national midweek game package throughout
+the season while also acquiring the rights to sell MLB.TV, the
+league’s out-of-market streaming service that set a record with
+19.4 billion minutes watched in 2025. [...]</p>
+
+<p>FOX/FS1 will continue to be the home of the All-Star Game and
+regular season games, as well as the World Series, League
+Championship Series, and Division Series presented by Booking.com.
+TBS will continue to house LCS and Division Series telecasts, plus
+regular season games on Tuesday nights. Apple TV will continue to
+stream “Friday Night Baseball” doubleheaders throughout the
+regular season.</p>
+</blockquote>
+
+<p>Back in August, <a href="https://x.com/kendallbaker/status/1957930701086679514">Kendall Baker of Yahoo Sports reported</a>:</p>
+
+<blockquote>
+  <ul>
+<li>Apple is fully out. RIP Friday Night Baseball</li>
+<li>NBC/Peacock is in, for Friday and Sunday exclusive and Wild Card</li>
+<li>MLB TV being sold to ESPN (for a boatload of $$$)</li>
+<li>Netflix gets HR Derby</li>
+</ul>
+</blockquote>
+
+<p>He batted .750 on that tweet.</p>
+
+<div>
+<a  title="Permanent link to ‘Contrary to Rumors, Apple Will Continue Broadcasting ‘Friday Night Baseball’’"  href="https://daringfireball.net/linked/2025/11/19/apple-friday-night-baseball">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Cloudflare’s Uptime</title>
 	<link rel="alternate" type="text/html" href="https://mastodon.social/@arroz/115577670987313083" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wpw" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/19/cloudflare-uptime" />
 	<id>tag:daringfireball.net,2025:/linked//6.42404</id>
 	<published>2025-11-19T20:29:24Z</published>
-	<updated>2025-11-19T20:29:24Z</updated>
+	<updated>2025-11-19T21:27:42Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -33,7 +90,7 @@ consequence of their success.</p>
 
 <p>A few readers have (very politely!) asked me whether yesterday’s outage (which made DF unreachable for, I think about 90 minutes) made me rethink relying on a centralized provider like Cloudflare. My answer is no.</p>
 
-<p>Until I started using Cloudflare in 2018, Daring Fireball relied on no upstream service. I paid for a server from a web hosting provider (those providers changed a few times over the years, and when you, a reader, requested a page on this site, your browser communicated directly with my server via HTTP requests and my server responded directly back. The basic architecture of the World Wide Web is beautifully simple, and I embraced that simplicity with the way I hosted and served Daring Fireball.</p>
+<p>Until I started using Cloudflare in 2018, Daring Fireball relied on no upstream service. I paid for a server from a web hosting provider (those providers changed a few times over the years), and when you, a reader, requested a page on this site, your browser communicated directly with my server via HTTP requests and my server responded directly back. The basic architecture of the World Wide Web is beautifully simple, and I embraced that simplicity with the way I hosted and served Daring Fireball.</p>
 
 <p>But the move away from HTTP to HTTPS added a lot of complexity. That complexity is probably worth it, overall, but it came at the price of simplicity. I originally made the switch to using Cloudflare as a caching front-end for Daring Fireball as a solution to <a href="https://daringfireball.net/2018/09/df_slowdown">an SSL-related slowdown that affected only some visitors</a> in 2018. But I’d started using Cloudflare to handle my DNS the year before.</p>
 
@@ -1986,51 +2043,6 @@ college degrees narrowly favored Cuomo.</p>
 
 <div>
 <a  title="Permanent link to ‘Mamdani Was a Great Candidate Who Ran a Great Campaign ... for New York City’"  href="https://daringfireball.net/linked/2025/11/05/mamdani-new-york">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>WhatsApp for Apple Watch</title>
-	<link rel="alternate" type="text/html" href="https://blog.whatsapp.com/introducing-whatsapp-for-apple-watch?lang=en" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/won" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/05/whatsapp-apple-watch" />
-	<id>tag:daringfireball.net,2025:/linked//6.42359</id>
-	<published>2025-11-05T17:34:29Z</published>
-	<updated>2025-11-05T21:20:52Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>WhatsApp:</p>
-
-<blockquote>
-  <p>In addition to reading and responding to messages, for the first
-time WhatsApp on Apple Watch will now support many requested
-features:</p>
-
-<ul>
-<li><em>Call notifications:</em> You can see who’s calling without needing
-to look at your iPhone.</li>
-<li><em>Full messages:</em> You can read full WhatsApp messages on Apple
-Watch — even long messages are visible directly from your
-wrist.</li>
-<li><em>Voice messages:</em> You can now record and send voice messages.</li>
-<li><em>React to messages:</em> We’ve added the ability to send quick emoji
-reactions to messages you receive.</li>
-<li><em>A great media experience:</em> You’ll see clear images and stickers
-on your Apple Watch.</li>
-<li><em>Chat history:</em> You can see more of your chat history on screen
-when reading messages.</li>
-</ul>
-</blockquote>
-
-<p>All of these features have long been available on the Apple Watch apps for Apple’s Messages and Phone apps. But it’s an interesting sign that Meta sees Apple Watch as an important platform for personal communication. Not just for notifications that you need to act upon using your phone, but for actually using on your watch itself. And I think it speaks to how hard Meta is pushing to make WhatsApp the new universal baseline for texting and calling. By keeping iMessage and FaceTime to its own devices, Apple has ceded this opportunity to WhatsApp, and <a href="https://tech.yahoo.com/science/articles/mark-zuckerbergs-meta-wants-burst-105701442.html">Meta is trying to capitalize on it</a>.</p>
-
-<p>I know there are many people who spend time wearing their Apple Watch while away from their iPhone — often while working out — who want or even feel they <em>need</em> these features. For me though, one of the things I like least about wearing an Apple Watch is getting badgered on my wrist with notifications. I feel not so much like I need less <em>screen</em> time, but rather that I need less <em>notifications</em> time. I feel good when I have time where I’m unreachable by texts, calls, and news alerts. I spent my <a href="https://daringfireball.net/2025/09/personal_note">recent month-plus semi-hiatus</a> wearing only a mechanical watch, and I didn’t miss the lack of notifications-on-my-wrist <em>at all</em>. </p>
-
-<div>
-<a  title="Permanent link to ‘WhatsApp for Apple Watch’"  href="https://daringfireball.net/linked/2025/11/05/whatsapp-apple-watch">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
