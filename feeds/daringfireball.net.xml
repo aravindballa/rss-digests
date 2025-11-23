@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-11-23T23:04:29Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-11-23T23:22:00Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>Clerk for iOS</title>
 	<link rel="alternate" type="text/html" href="https://go.clerk.com/QO9JV9f" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wq5" />
@@ -35,7 +35,7 @@
 	<link rel="shorturl" href="http://df4.us/wq6" />
 	<id>tag:daringfireball.net,2025://1.42414</id>
 	<published>2025-11-23T23:00:00Z</published>
-	<updated>2025-11-23T23:03:58Z</updated>
+	<updated>2025-11-23T23:22:00Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -75,7 +75,7 @@ Apple Watch. This allows it to comply with the DMA.</p>
 
 <p>This change should be relatively limited. Honestly, I don’t think many Apple Watch users in the EU will even notice. But it is at least mildly annoying, and the relatively minor, very specific nature of this particular DMA mandate makes it a telling example of the European Commission’s overreach.</p>
 
-<p>Currently, when you pair a new Apple Watch with an iPhone, iOS transfers to WatchOS the iPhone’s entire list of saved Wi-Fi networks and their passwords. As iOS learns of new networks that the user joins from their iPhone, that information continues to be shared with any Apple Watches paired to that iPhone. The utility of this is that if you’re wearing your Apple Watch, but don’t have your iPhone nearby, your watch will join an available saved Wi-Fi network at your location. Let’s say you go for a run or walk, with only your Apple Watch, and you stop at a cafe for a beverage. If you’ve ever joined the Wi-Fi network at that cafe from your iPhone, your Apple Watch will join that network automatically. It should, and in my personal experience does, just work.</p>
+<p>Currently, when you pair a new Apple Watch with an iPhone, iOS transfers to WatchOS the iPhone’s entire list of saved Wi-Fi networks and their passwords — directly, device-to-device. As iOS learns of new networks that the user joins from their iPhone, that information continues to be shared with any Apple Watches paired to that iPhone. The utility of this is that if you’re wearing your Apple Watch, but don’t have your iPhone nearby, your watch will join an available saved Wi-Fi network at your location. Let’s say you go for a run or walk, with only your Apple Watch, and you stop at a cafe for a beverage. If you’ve ever joined the Wi-Fi network at that cafe from your iPhone, your Apple Watch will join that network automatically. It should, and in my personal experience does, just work.</p>
 
 <p>The EU mandate to Apple is <em>not</em> that Apple must grant to third-party devices and their iOS companion applications this same functionality as it stands today — that is to say, access to the entire history of the iPhone’s known Wi-Fi networks. The EU mandate is that Apple must grant to third-party devices the same level of access to Wi-Fi network information that Apple Watch has. Apple is complying with this mandate in two ways: (a) by changing how much Wi-Fi network information an Apple Watch gets from the iPhone to which it is paired; and (b) creating a new framework in iOS 26.2 (gated by a new entitlement), <a href="https://developer.apple.com/documentation/wifiinfrastructure">Wi-Fi Infrastructure</a>, that provides a set of public APIs, available only to apps in the EU, to (per the framework’s description) “share Wi-Fi network credentials securely between devices and connected accessories.”</p>
 
