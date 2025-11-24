@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-11-24T03:12:16Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-11-24T15:58:36Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>Clerk for iOS</title>
 	<link rel="alternate" type="text/html" href="https://go.clerk.com/QO9JV9f" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wq5" />
@@ -35,14 +35,14 @@
 	<link rel="shorturl" href="http://df4.us/wq6" />
 	<id>tag:daringfireball.net,2025://1.42414</id>
 	<published>2025-11-23T23:00:00Z</published>
-	<updated>2025-11-24T03:12:16Z</updated>
+	<updated>2025-11-24T15:58:36Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<summary type="text">The bottom line is that users setting up new Apple Watches in the EU will now get a somewhat slightly worse experience in the name of parity with accessories made by third-party companies. It remains to be seen whether users of third-party iPhone accessories and peripherals in the EU will see any benefit at all.</summary>
 	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>There have been several new features that have been delayed in the EU while Apple worked on making them compliant with the DMA. iPhone Mirroring <a href="https://support.apple.com/en-us/120421">debuted over a year ago with iOS 18 and MacOS 15 Sequoia</a>, but still remains unavailable today in the EU. Apple Intelligence <a href="https://9to5mac.com/2025/04/01/apple-intelligence-is-now-fully-supported-in-the-eu-with-ios-18-4/">was delayed in the EU until iOS 18.4</a> in April, but was <a href="https://www.macrumors.com/2024/10/28/apple-releases-ios-18-1/">available to most of the world in 18.1</a> last October. And, both most recently and briefly, the <a href="https://support.apple.com/en-us/123185">live translation feature</a> for AirPods Pro 3, AirPods Pro 2, and AirPods 4, which debuted outside the EU with the launch of iOS 26.0 in September, <a href="https://www.apple.com/ie/newsroom/2025/11/live-translation-on-airpods-expands-to-the-eu/">will only become available in the EU next month</a>, with the launch of iOS 26.2.</p>
+<p>There have been several new features that have been delayed in the EU while Apple tried to make them compliant with the DMA. iPhone Mirroring <a href="https://support.apple.com/en-us/120421">debuted over a year ago with iOS 18 and MacOS 15 Sequoia</a>, but still remains unavailable today in the EU. Apple Intelligence <a href="https://9to5mac.com/2025/04/01/apple-intelligence-is-now-fully-supported-in-the-eu-with-ios-18-4/">was delayed in the EU until iOS 18.4</a> in April, but was <a href="https://www.macrumors.com/2024/10/28/apple-releases-ios-18-1/">available to most of the world in 18.1</a> last October. And, both most recently and briefly, the <a href="https://support.apple.com/en-us/123185">live translation feature</a> for AirPods Pro 3, AirPods Pro 2, and AirPods 4, which debuted outside the EU with the launch of iOS 26.0 in September, <a href="https://www.apple.com/ie/newsroom/2025/11/live-translation-on-airpods-expands-to-the-eu/">will only become available in the EU next month</a>, with the launch of iOS 26.2.</p>
 
 <p>But now comes word of the first feature that Apple is limiting or removing in an existing product to comply with the DMA: Wi-Fi network sync between iPhone and Apple Watch, which is poised to change in the EU next month, with the 26.2 releases of iOS and WatchOS. The news was broken by Nicolas Lellouche, <a href="https://www.numerama.com/tech/2110247-lapple-watch-et-liphone-vont-perdre-une-fonction-en-europe-pour-la-premiere-fois-annonce-apple.html">reporting for the French-language site Numerama</a>. I’m quoting here from Safari’s English translation of his original report:</p>
 
@@ -75,7 +75,7 @@ Apple Watch. This allows it to comply with the DMA.</p>
 
 <p>This change should be relatively limited. Honestly, I don’t think many Apple Watch users in the EU will even notice. But it is at least mildly annoying, and the relatively minor, very specific nature of this particular DMA mandate makes it a telling example of the European Commission’s overreach.</p>
 
-<p>Currently, when you pair a new Apple Watch with an iPhone, iOS transfers to WatchOS the iPhone’s entire list of saved Wi-Fi networks and their passwords — directly, device-to-device. As iOS learns of new networks that the user joins from their iPhone, that information continues to be shared with any Apple Watches paired to that iPhone. The utility of this is that if you’re wearing your Apple Watch, but don’t have your iPhone nearby, your watch will join an available saved Wi-Fi network at your location. Let’s say you go for a run or walk, with only your Apple Watch, and you stop at a cafe for a beverage. If you’ve ever joined the Wi-Fi network at that cafe from your iPhone, your Apple Watch will join that network automatically. It should, and in my personal experience does, just work.</p>
+<p>Currently, when you pair a new Apple Watch with an iPhone, iOS transfers to WatchOS the iPhone’s entire list of saved Wi-Fi networks and their passwords — directly, device-to-device. As iOS learns of new networks that the user joins from their iPhone, that information continues to be shared with any Apple Watches paired to that iPhone. The utility of this is that if you’re wearing your Apple Watch, but don’t have your iPhone nearby, your watch will join an available saved Wi-Fi network at your location. Let’s say you go for a run or walk, with only your Apple Watch, and you stop at a cafe for a beverage. If you’ve ever joined the Wi-Fi network at that cafe from your iPhone (or iPad or Mac, assuming you sync your Apple Keychain via iCloud), your Apple Watch will join that network automatically. It should, and in my personal experience does, just work.</p>
 
 <p>The EU mandate to Apple is <em>not</em> that Apple must grant to third-party devices and their iOS companion applications this same functionality as it stands today — that is to say, access to the entire history of the iPhone’s known Wi-Fi networks. The EU mandate is that Apple must grant to third-party devices the same level of access to Wi-Fi network information that Apple Watch has. Apple is complying with this mandate in two ways: (a) by changing how much Wi-Fi network information an Apple Watch gets from the iPhone to which it is paired; and (b) creating a new framework in iOS 26.2 (gated by a new entitlement), <a href="https://developer.apple.com/documentation/wifiinfrastructure">Wi-Fi Infrastructure</a>, that provides a set of public APIs, available only to apps in the EU, to (per the framework’s description) “share Wi-Fi network credentials securely between devices and connected accessories.”</p>
 
