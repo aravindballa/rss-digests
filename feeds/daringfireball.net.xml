@@ -7,7 +7,49 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-11-24T17:48:28Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-11-24T23:35:46Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>SuperDuper Security Update v3.11</title>
+	<link rel="alternate" type="text/html" href="https://www.shirt-pocket.com/blog/index.php/shadedgrey/comments/superduper_security_update_v311/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wq7" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/24/superduper-security-update-v311" />
+	<id>tag:daringfireball.net,2025:/linked//6.42415</id>
+	<published>2025-11-24T23:35:46Z</published>
+	<updated>2025-11-24T23:35:46Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Dave Nanian and Bruce Lacey, at Shirt Pocket:</p>
+
+<blockquote>
+  <p>Mistakes are a part of life.</p>
+
+<p>They’re not a great part, but when viewed “correctly”, they’re an
+opportunity.</p>
+
+<p>Well, we have three opportunities, brought to our attention by a
+security researcher. They’re security vulnerabilities that have
+been in SuperDuper! since the very first version, released almost
+22 years ago.</p>
+
+<p>Today, we’re releasing fixes for the current release (the
+SuperDuper! v3.20 Beta is already fixed), a discussion of the
+problems, and the steps users can take to mitigate the issues if
+they cannot install the update.</p>
+
+<p>We don’t know of any bad actors making use of these exploits as of
+this post.</p>
+</blockquote>
+
+<p><a href="https://www.shirt-pocket.com/blog/index.php/shadedgrey/comments/superduper_security_update_v311/">Another</a> good postmortem, with technical details and an apology.</p>
+
+<div>
+<a  title="Permanent link to ‘SuperDuper Security Update v3.11’"  href="https://daringfireball.net/linked/2025/11/24/superduper-security-update-v311">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Clerk for iOS</title>
 	<link rel="alternate" type="text/html" href="https://go.clerk.com/QO9JV9f" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wq5" />
@@ -2041,57 +2083,6 @@ person who writes software as a means to an end.</p>
 
 <div>
 <a  title="Permanent link to ‘Mux: Video API for Developers’"  href="https://daringfireball.net/linked/2025/11/09/mux">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Trump Wants Commanders’ New D.C. Stadium Named for Him</title>
-	<link rel="alternate" type="text/html" href="https://www.espn.com/nfl/story/_/id/46892115/trump-wants-commanders-stadium-named-him" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wox" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/09/trump-stadium" />
-	<id>tag:daringfireball.net,2025:/linked//6.42369</id>
-	<published>2025-11-09T18:16:28Z</published>
-	<updated>2025-11-09T18:45:23Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Don Van Natta Jr. and Adam Schefter, reporting for ESPN:</p>
-
-<blockquote>
-  <p>President Donald Trump wants the Washington Commanders to name
-their planned $3.7 billion stadium after him, multiple sources
-with knowledge of the situation told ESPN.</p>
-
-<p>A senior White House source said there have been back-channel
-communications with a member of the Commanders’ ownership group,
-led by Josh Harris, to express Trump’s desire to have the domed
-stadium in the nation’s capital bear his name. The new stadium is
-being built on the old RFK Stadium site that served as the team’s
-home from 1961 to 1996.</p>
-
-<p>“That would be a beautiful name, as it was President Trump who
-made the rebuilding of the new stadium possible,” White House
-press secretary Karoline Leavitt told ESPN on Friday night via
-email. Leavitt declined to answer additional questions, but the
-senior White House source told ESPN: “It’s what the president
-wants, and it will probably happen.”</p>
-</blockquote>
-
-<p>Typically, venues like stadiums, airports, bridges, etc. aren’t named after political leaders until after they’ve died. Not so with mad kings rapidly descending into megalomaniacal dementia. This is crazy, pure and simple, just like <a href="https://www.bbc.co.uk/news/resources/idt-2db64cf0-41c6-42cd-a33b-92ab31593fe2">boogering up the White House</a> to make it <a href="https://www.fastcompany.com/91435635/new-white-house-signage">look like</a> a Las Vegas wedding chapel. Or — from just this morning — <a href="https://truthsocial.com/@realDonaldTrump/posts/115520378078620283">retweeting</a> an <a href="https://dunning-kruger-times.com/doge-halts-2-6-million-annual-payment-to-obama-for-obamacare-royalties/">old story</a> from parody site “The Dunning-Kruger Times” <a href="https://bsky.app/profile/sahilkapur.bsky.social/post/3m57gm5ff622y">believing it’s true</a>. Also, the economic reality is that the naming rights for new stadiums are typically sold to corporate sponsors <a href="https://www.espn.com/nba/story/_/id/32650662/staples-center-become-cryptocom-arena-rich-naming-rights-deal">for</a> <a href="https://www.sportsbusinessjournal.com/Daily/Issues/2021/06/11/Facilities/SoFi/">large</a> <a href="https://www.moneytalksnews.com/slideshows/americas-20-biggest-stadium-naming-rights-deals/">sums</a>. (There are <a href="https://ballparkdigest.com/2019/03/21/current-mlb-ballparks-without-naming-rights-deals/">exceptions</a>.) To name the stadium after Trump would likely require foregoing half a billion dollars.</p>
-
-<blockquote>
-  <p>In July, Trump said he would block the construction of the stadium
-if Harris did not change the team name from Commanders to its old
-name the Redskins, which is considered offensive to some Native
-American groups.</p>
-</blockquote>
-
-<p>Perhaps “Orangeskins” would work as a compromise. And if they do cave in and name the new stadium in Trump’s honor, “The Pedolands” would work.</p>
-
-<div>
-<a  title="Permanent link to ‘Trump Wants Commanders’ New D.C. Stadium Named for Him’"  href="https://daringfireball.net/linked/2025/11/09/trump-stadium">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
