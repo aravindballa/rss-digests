@@ -7,7 +7,40 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-11-25T02:02:53Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-11-25T02:17:24Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Simple Rule of Thumb: AI Systems Shouldn’t Pretend to Be Human</title>
+	<link rel="alternate" type="text/html" href="http://scripting.com/2025/11/20.html#a143930" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wqb" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/24/winer-ai-pseudo-humans" />
+	<id>tag:daringfireball.net,2025:/linked//6.42419</id>
+	<published>2025-11-25T02:17:24Z</published>
+	<updated>2025-11-25T02:17:24Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Dave Winer:</p>
+
+<blockquote>
+  <p>The new <a href="https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence">Amazon Alexa with AI</a> has the same basic problem of
+all AI bots, it acts as if it’s human, with a level of intimacy
+that you really don’t want to think about, because Alexa is in
+your house, with you, listening, all the time. Calling attention
+to an idea that there’s a pseudo-human spying on you is bad. Alexa
+depends on the opposite impression, that it’s just a computer. I
+think AI’s should give up the pretense that they’re human, and
+this one should be first.</p>
+</blockquote>
+
+<p><a href="https://daringfireball.net/2025/11/chatgpt_5-1_with_renamed_and_new_personalities">Amen</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Simple Rule of Thumb: AI Systems Shouldn’t Pretend to Be Human’"  href="https://daringfireball.net/linked/2025/11/24/winer-ai-pseudo-humans">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://dekaf.com/s/df" />
 	<link rel="shorturl" href="http://df4.us/wqa" />
@@ -2067,54 +2100,6 @@ made from creating their own versions.</p>
 
     ]]></content>
   <title>★ The Software Update UI for Upgrading to MacOS 26 Tahoe Is Needlessly Confusing</title></entry><entry>
-	<title>Five Years of Apple Silicon Macs</title>
-	<link rel="alternate" type="text/html" href="https://www.macworld.com/article/2965948" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wp0" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/10/five-years-of-apple-silicon-macs" />
-	<id>tag:daringfireball.net,2025:/linked//6.42372</id>
-	<published>2025-11-11T01:10:11Z</published>
-	<updated>2025-11-12T20:03:44Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jason Snell, writing at Macworld:</p>
-
-<blockquote>
-  <p>In that first event (which you can relive in the YouTube video
-below), Apple announced its first wave of M1 Macs: the <a href="https://www.macworld.com/article/234819/macbook-air-m1-review-an-absolutely-stunning-debut-for-apple-silicon-in-a-mac.html">MacBook
-Air</a>, <a href="https://www.macworld.com/article/234838/13-inch-macbook-pro-m1-review-amazing-breakthroughs-in-processing-and-battery-performance.html">13-inch MacBook Pro,</a> and <a href="https://www.macworld.com/article/234842/m1-mac-mini-review-the-mac-with-the-best-ever-bang-for-your-buck.html">Mac mini</a>. The
-Macs themselves all used the same design as their Intel
-predecessors, as Apple wrapped potentially scary new technology in
-completely familiar shapes.</p>
-
-<p>Then the results of the first M1 speed tests arrived, and nothing
-felt scary anymore. Everything was fast, much faster than Intel,
-so much faster that even software compiled for Intel running in a
-code-translation layer via Rosetta ran just fine. In fact, the M1
-was such a fast chip that, five years later, Apple’s still selling
-the M1 MacBook Air. (For $599, at Walmart.) And it’s still a
-pretty nice computer! [...]</p>
-
-<p>The result of all of this is, though every generation has its
-quirks, Apple has managed to not drop the ball after the
-gigantic leap from Intel to M1. Every generation of M-series
-processors has offered impressive speed boosts. Apple’s CPU
-cores just get 10% to 30% faster every generation. The GPU cores
-got faster in all but one generation — and in that generation,
-overall graphics performance still got faster because the chips
-all had more GPU cores.</p>
-</blockquote>
-
-<p>These first five years of Apple Silicon Macs have been the best five-year-run for Mac hardware in the platform’s 41-year history. Hardware-wise, the Mac platform has never been in better shape. And there’s no sign of letup. I fully expect the next five years to be, if anything, even better than the last five — with MacBooks <a href="https://www.macrumors.com/2025/11/07/low-cost-macbook-rumors-2026/">expanding to lower price points</a>, and Mac Pros, finally, <a href="https://www.macrumors.com/2025/11/04/mac-studio-m5-ultra-2026/">expanding the high end of personal supercomputing</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Five Years of Apple Silicon Macs’"  href="https://daringfireball.net/linked/2025/11/10/five-years-of-apple-silicon-macs">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/11/apple_and_google_sitting_in_a_tree" />
 	<link rel="shorturl" href="http://df4.us/woq" />
