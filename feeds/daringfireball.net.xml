@@ -7,7 +7,46 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-12-01T22:38:17Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-12-01T23:03:08Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>John Giannandrea Is Out</title>
+	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2025/12/john-giannandrea-to-retire-from-apple/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wql" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/01/giannandrea-out" />
+	<id>tag:daringfireball.net,2025:/linked//6.42429</id>
+	<published>2025-12-01T22:50:33Z</published>
+	<updated>2025-12-01T23:03:08Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Apple Newsroom, “John Giannandrea to Retire From Apple”:</p>
+
+<blockquote>
+  <p>Apple today announced John Giannandrea, Apple’s senior vice
+president for Machine Learning and AI Strategy, is stepping down
+from his position and will serve as an advisor to the company
+before retiring in the spring of 2026. Apple also announced that
+renowned AI researcher Amar Subramanya has joined Apple as vice
+president of AI, reporting to Craig Federighi. Subramanya will be
+leading critical areas, including Apple Foundation Models, ML
+research, and AI Safety and Evaluation. The balance of
+Giannandrea’s organization will shift to Sabih Khan and Eddy Cue
+to align closer with similar organizations.</p>
+</blockquote>
+
+<p>After <a href="https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino">the fiasco around Apple Intelligence and the “more personalized Siri” features</a> — which were announced at WWDC in June 2024, but postponed until 2026 in <a href="https://daringfireball.net/2025/03/apple_is_delaying_the_more_personalized_siri_apple_intelligence_features">a tail-between-their-legs announcement in March 2025</a> — and <a href="https://daringfireball.net/linked/2025/03/20/gurman-rockwell-siri">the executive reshuffling immediately after that delay was announced</a> that put Mike Rockwell in charge of Siri and moved all or most of Apple Intelligence and Siri under Craig Federighi, it would have been much more surprising if Giannandrea had stayed at Apple. In fact, I’m surprised he wasn’t out before WWDC this past June.</p>
+
+<p>I don’t think we need to wait for additional details to know that he was squeezed out. If, <a href="https://www.bloomberg.com/news/articles/2025-03-20/apple-vision-pro-chief-mike-rockwell-named-siri-head-giannandrea-keeps-ai-role">as Mark Gurman reported back in March</a>, “Tim Cook has lost confidence in the ability of AI head John Giannandrea to execute on product development”, why was he still there?</p>
+
+<p>As for Subramanya, <a href="https://www.linkedin.com/in/amar-subramanya-3642498a/">according to his LinkedIn profile</a>, he was at Google for 16 years, and left to join Microsoft <a href="https://www.linkedin.com/posts/amar-subramanya-3642498a_super-excited-to-share-that-ive-started-activity-7353453746091081729-ElkV">only five months ago</a>. Either he didn’t like working at Microsoft, or Apple made him an offer he couldn’t refuse (or, perhaps, both).</p>
+
+<div>
+<a  title="Permanent link to ‘John Giannandrea Is Out’"  href="https://daringfireball.net/linked/2025/12/01/giannandrea-out">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/12/signal_secure_backups_are_now_available_on_ios" />
 	<link rel="shorturl" href="http://df4.us/wqk" />
@@ -1823,58 +1862,6 @@ release window, the people said.</p>
 
 <div>
 <a  title="Permanent link to ‘iPhone Pockets Sold Out Within Hours’"  href="https://daringfireball.net/linked/2025/11/14/iphone-pockets-sold-out">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>WSJ Report on the iPhone Air Pegs It as a ‘Flop’</title>
-	<link rel="alternate" type="text/html" href="https://www.wsj.com/tech/apple-iphone-air-sales-response-7f0c01f1?st=JEotAi&amp;reflink=desktopwebshare_permalink" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wpc" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/13/wsj-iphone-air-flop" />
-	<id>tag:daringfireball.net,2025:/linked//6.42384</id>
-	<published>2025-11-14T04:03:49Z</published>
-	<updated>2025-11-14T04:03:50Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Rolfe Winkler and Yang Jie, reporting for The Wall Street Journal (<a href="https://www.wsj.com/tech/apple-iphone-air-sales-response-7f0c01f1?st=JEotAi&amp;reflink=desktopwebshare_permalink">gift link</a>, <a href="https://apple.news/AdDWZfhEASAK9L32rvxsiBg">News+ link</a>) under the headline “Apple’s iPhone Air Is a Marketing Win and a Sales Flop” (which headline, going from the web page <code>&lt;title&gt;</code> element, was originally the less sensational “Apple’s iPhone Air Sales Disappoint”):</p>
-
-<blockquote>
-  <p>Jason Purdy wanted to like his new iPhone Air.</p>
-
-<p>Raised in Apple’s hometown of Cupertino, Calif., and later an
-Apple senior product manager, Purdy said he loves to see
-innovative product design from tech companies. So he made an Apple
-store appointment to buy the new, ultrathin smartphone the day it
-went on sale.</p>
-
-<p>Within a month, he returned it.</p>
-
-<p>He found it hard to have speakerphone calls and listen to
-music. And the photos he took at his early October wedding
-came out noticeably worse than ones his brother took on a new
-iPhone 17 Pro.</p>
-
-<p>“The performance wasn’t quite there. Across the board they’re
-sacrificing all these things,” said Purdy. The Air was very
-pleasurable to hold and impressed his friends, but didn’t work as
-his primary device, he said.</p>
-</blockquote>
-
-<p>That’s a brutally unfair lede to this story without showing the photos. If Purdy’s brother’s photos (taken with an iPhone 17 Pro) were all taken with the telephoto 4× lens, and all of Purdy’s photos (taken with an iPhone Air) were from telephoto distance and he relied on digital zoom, then yes, his photos from the Air surely did look noticeably worse. But the lone (1×) camera on the Air is very good. It’s <em>not</em> as good as the main 1× camera on the iPhone 17 Pro, but it’s close enough that in most people’s hands, the difference isn’t perceptible. And between comparably talented amateur photographers, someone using an iPhone Air at a wedding, and using their feet to “zoom” by getting close to the subjects of their photos, will take <em>way</em> better pictures than someone shooting from across the room using the iPhone 17 Pro’s telephoto 4× lens. When it comes to optical quality, the Air’s 1× lone camera is obviously superior to the 17 Pro’s telephoto.</p>
-
-<p>Saying that “the photos ... came out noticeably worse” with no explanation of what type of photos they were, let alone, you know, actually showing example images, is just a dirty trick. There are numerous valid reasons why someone might prefer a 17 Pro to an Air for photography, but what the Journal describes regarding this guy Purdy and his brother doesn’t describe such a situation. Someone who just wants to shoot some nice photos at a family gathering like a wedding can get <a href="https://x.com/sdw/status/1979691964984635733">terrific results</a> from an iPhone Air. Show me someone who says the iPhone Air is a poor camera and I’ll show you a terrible photographer who doesn’t know what the fuck they’re talking about.</p>
-
-<blockquote>
-  <p>The Air is billed as Apple’s thinnest smartphone yet.</p>
-</blockquote>
-
-<p>It <em>is</em> Apple’s thinnest smartphone yet. You can measure it.</p>
-
-<div>
-<a  title="Permanent link to ‘WSJ Report on the iPhone Air Pegs It as a ‘Flop’’"  href="https://daringfireball.net/linked/2025/11/13/wsj-iphone-air-flop">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
