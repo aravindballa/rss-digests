@@ -7,7 +7,51 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-12-03T02:37:24Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-12-03T20:01:16Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Alan Dye Leaves Apple for Meta, Replaced by Longtime Designer Stephen Lemay</title>
+	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2025-12-03/apple-design-executive-alan-dye-poached-by-meta-in-major-coup" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wqr" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/03/alan-dye-leaves-apple-for-meta" />
+	<id>tag:daringfireball.net,2025:/linked//6.42435</id>
+	<published>2025-12-03T19:59:22Z</published>
+	<updated>2025-12-03T20:01:16Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Mark Gurman, with blockbuster news at Bloomberg:</p>
+
+<blockquote>
+  <p>Meta Platforms Inc. has poached Apple Inc.’s most prominent design
+executive in a major coup that underscores a push by the social
+networking giant into AI-equipped consumer devices.</p>
+
+<p>The company is hiring Alan Dye, who has served as the head of
+Apple’s user interface design team since 2015, according to people
+with knowledge of the matter. Apple is replacing Dye with longtime
+designer Stephen Lemay, according to the people, who asked not to
+be identified because the personnel changes haven’t been
+announced.</p>
+
+<p>Apple confirmed the move in a statement provided to
+Bloomberg News.</p>
+
+<p>“Steve Lemay has played a key role in the design of every major
+Apple interface since 1999,” Chief Executive Officer Tim Cook said
+in the statement. “He has always set an extraordinarily high bar
+for excellence and embodies Apple’s culture of collaboration and
+creativity.”</p>
+</blockquote>
+
+<p>It sounds like Dye chose to jump ship, and wasn’t squeezed out (as it seems <a href="https://www.bloomberg.com/news/articles/2025-12-03/apple-design-executive-alan-dye-poached-by-meta-in-major-coup?embedded-checkout=true">with former AI chief John Giannandrea</a> earlier this week). Gurman/Bloomberg are spinning this like a coup for Meta (headline: “Apple Design Executive Alan Dye Poached by Meta in Major Coup”), but I think this is the best personnel news at Apple in decades. Dye’s decade-long stint running Apple’s software design team has been, on the whole, terrible — and rather than getting better, the problems have been getting worse.</p>
+
+<div>
+<a  title="Permanent link to ‘Alan Dye Leaves Apple for Meta, Replaced by Longtime Designer Stephen Lemay’"  href="https://daringfireball.net/linked/2025/12/03/alan-dye-leaves-apple-for-meta">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Look How They Massacred My Boy</title>
 	<link rel="alternate" type="text/html" href="https://fxrant.blogspot.com/2025/12/the-mad-men-in-4k-on-hbo-max-debacle.html" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wqq" />
@@ -1828,60 +1872,6 @@ accessible only to you and no one else, not even Google.</li>
 
 <div>
 <a  title="Permanent link to ‘Google Announces Private AI Compute’"  href="https://daringfireball.net/linked/2025/11/17/google-announces-private-ai-compute">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>OpenAI: Piloting Group Chats in ChatGPT</title>
-	<link rel="alternate" type="text/html" href="https://openai.com/index/group-chats-in-chatgpt/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wpi" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/17/group-chats-in-chatgpt" />
-	<id>tag:daringfireball.net,2025:/linked//6.42390</id>
-	<published>2025-11-17T21:32:17Z</published>
-	<updated>2025-11-21T18:02:58Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>OpenAI:</p>
-
-<blockquote>
-  <p>To start a group chat tap the people icon in the top right corner
-of any new or existing chat. When you add someone to an existing
-chat, ChatGPT creates a copy of your conversation as a new group
-chat so your original conversation stays separate. You can invite
-others directly by sharing a link with one to twenty people, and
-anyone in the group can share that link to bring others in. When
-you join or create your first group chat, you’ll be asked to set
-up a short profile with your name, username, and photo so everyone
-knows who’s in the conversation. Group chats can be found in a new
-clearly-labeled section of the sidebar for easy access. [...]</p>
-
-<p>Group chats are separate from your private conversations. Your
-personal ChatGPT memory is not used in group chats, and ChatGPT
-does not create new memories from these conversations. We’re
-exploring offering more granular controls in the future so you can
-choose if and how ChatGPT uses memory with group chats.</p>
-</blockquote>
-
-<p>Currently rolling out in Japan, New Zealand, South Korea, and Taiwan. [<strong>Update:</strong> Expanded worldwide <a href="https://daringfireball.net/linked/2025/11/21/group-chats-chatgpt-worldwide">just three days later</a>.]  Rate limits and advanced model usage depend on the group member to whom ChatGPT replies. Pretty clever, and I can imaging a lot of ways this would be useful, both for family/friends and for work collaboration. I like the idea that this is built into ChatGPT, not an AI bot in a regular messaging app. This way, you <em>know</em> with certainty which of your chats are being seen and read by an AI bot.</p>
-
-<blockquote>
-  <p>We’ve also taught ChatGPT new social behaviors for group chats. It
-follows the flow of the conversation and decides when to respond
-and when to stay quiet based on the context of the group
-conversation. You can always mention “ChatGPT” in a message when
-you want it to respond. We’ve also given ChatGPT the ability to
-react to messages with emojis, and reference profile photos — so
-it can, for example, use group members’ photos when asked to
-create fun personalized images within that group conversation.</p>
-</blockquote>
-
-<p>This is a really hard problem to solve. <a href="https://daringfireball.net/2023/03/wavelength">Wavelength</a>, the late <a href="https://daringfireball.net/2023/04/a_bit_of_follow-up_on_wavelength">great</a> private group messaging app whose team I advised from 2023 to 2024 (when the app shuttered), added AI chatbots (with customizable personalities) in June 2023. Wavelength’s AI bots only responded when mentioned explicitly.</p>
-
-<div>
-<a  title="Permanent link to ‘OpenAI: Piloting Group Chats in ChatGPT’"  href="https://daringfireball.net/linked/2025/11/17/group-chats-in-chatgpt">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
