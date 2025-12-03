@@ -7,7 +7,27 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-12-03T20:22:48Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-12-03T21:44:01Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Nick Heer Obtained Video of Alan Dye’s Exit From Apple</title>
+	<link rel="alternate" type="text/html" href="https://pxlnv.com/linklog/dye-exit/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wqs" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/03/heer-dye-video" />
+	<id>tag:daringfireball.net,2025:/linked//6.42436</id>
+	<published>2025-12-03T21:43:50Z</published>
+	<updated>2025-12-03T21:44:01Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>That doesn’t look like one of the fancy <a href="https://www.youtube.com/watch?v=OCENWnBTqPE">Mitsubishi traction elevators</a> at Apple Park, but otherwise, this jibes.</p>
+
+<div>
+<a  title="Permanent link to ‘Nick Heer Obtained Video of Alan Dye’s Exit From Apple’"  href="https://daringfireball.net/linked/2025/12/03/heer-dye-video">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Alan Dye Leaves Apple for Meta, Replaced by Longtime Designer Stephen Lemay</title>
 	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2025-12-03/apple-design-executive-alan-dye-poached-by-meta-in-major-coup" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wqr" />
@@ -1824,54 +1844,6 @@ Facebook website for all their Messenger needs instead.</p>
 
 <div>
 <a  title="Permanent link to ‘Meta Has Deprecated the Messenger Apps for Mac and Windows Too’"  href="https://daringfireball.net/linked/2025/11/17/meta-native-mac-windows-messenger-apps">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Google Announces Private AI Compute</title>
-	<link rel="alternate" type="text/html" href="https://blog.google/technology/ai/google-private-ai-compute/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wpj" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/17/google-announces-private-ai-compute" />
-	<id>tag:daringfireball.net,2025:/linked//6.42391</id>
-	<published>2025-11-17T21:40:16Z</published>
-	<updated>2025-11-17T22:01:51Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jay Yagnik, VP of AI innovation and research, on Google’s The Keyword blog:</p>
-
-<blockquote>
-  <p>Private AI Compute is built on a multi-layered system that is
-designed from the ground up around core security and privacy
-principles:</p>
-
-<ul>
-<li><em>One integrated Google tech stack:</em> Private AI Compute runs on
-one seamless Google stack powered by our own custom Tensor
-Processing Units (TPUs). World-class privacy and security is
-integrated into this architecture with <a href="https://cloud.google.com/blog/products/compute/titanium-underpins-googles-workload-optimized-infrastructure?e=48754805">Titanium</a>
-Intelligence Enclaves (TIE). This design enables Google AI
-features to use our most capable and intelligent <a href="https://deepmind.google/models/gemini/">Gemini models
-in the cloud</a>, with our high standards for privacy and the
-same in-house computing infrastructure you already rely on for
-Gmail and Search.</li>
-<li><em>No access:</em> Remote attestation and encryption are used to
-connect your device to the hardware-secured sealed cloud
-environment, allowing Gemini models to securely process your
-data within a specialized, protected space. This ensures
-sensitive data processed by Private AI Compute remains
-accessible only to you and no one else, not even Google.</li>
-</ul>
-</blockquote>
-
-<p>Sounds a lot like Apple’s <a href="https://security.apple.com/blog/private-cloud-compute/">Private Cloud Compute</a>, which raises the question of whether this Google project is related to the Gurman scoop that Apple and Google <a href="https://daringfireball.net/linked/2025/11/03/gurman-siri-gemini">are on the cusp of a deal</a> for a white-label version of Google Gemini to run on Apple’s Private Cloud Compute servers to power the next-generation versions of Siri and Apple Intelligence.</p>
-
-<p>I strongly suspect this is something Google has been working on for a while. Apple, I think it’s fair to say, places a higher priority on privacy than does Google, but Google does value privacy. But perhaps the deal with Apple accelerated the project within Google.</p>
-
-<div>
-<a  title="Permanent link to ‘Google Announces Private AI Compute’"  href="https://daringfireball.net/linked/2025/11/17/google-announces-private-ai-compute">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
