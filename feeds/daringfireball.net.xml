@@ -7,7 +7,105 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-12-03T21:44:01Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-12-03T22:30:35Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Louie Mantia on The Talk Show in July, Talking About Alan Dye and Liquid Glass</title>
+	<link rel="alternate" type="text/html" href="https://daringfireball.net/thetalkshow/2025/07/31/ep-428" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wqu" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/03/mantia-the-talk-show-dye" />
+	<id>tag:daringfireball.net,2025:/linked//6.42438</id>
+	<published>2025-12-03T22:30:35Z</published>
+	<updated>2025-12-03T22:30:35Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Back in July, I was lucky enough to have my friend Louie Mantia <a href="https://daringfireball.net/thetalkshow/2025/07/31/ep-428">on The Talk Show</a> to talk about Liquid Glass and (as I wrote in the show notes) “the worrisome state of Apple’s UI design overall”. This was probably my favorite episode of the show all year, and I think it holds up extremely well now that we’re all using Liquid Glass, across Apple’s platforms, in release versions.</p>
+
+<p>Included in the show notes was a link to Mantia’s essay making his case against Dye’s decade-long stint leading Apple’s UI design teams, “<a href="https://lmnt.me/blog/a-responsibility-to-the-industry.html">A Responsibility to the Industry</a>”, which began thus:</p>
+
+<blockquote>
+  <p>Firstly, I maintain that it makes absolutely no sense that Alan
+Dye has the power he has, because he simply has no taste. But
+what’s worse is that he wields that power so clumsily, so
+carelessly. And because it goes unchallenged, unchecked by someone
+higher than him, the entire industry suffers the consequences.</p>
+</blockquote>
+
+<p><a href="https://pdx.social/@louie/115657549705092757">Here’s Mantia today</a>, regarding the news of Dye leaving Apple for Meta:</p>
+
+<blockquote>
+  <p>And good riddance!!</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘Louie Mantia on The Talk Show in July, Talking About Alan Dye and Liquid Glass’"  href="https://daringfireball.net/linked/2025/12/03/mantia-the-talk-show-dye">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Alan.app</title>
+	<link rel="alternate" type="text/html" href="https://tyler.io/2025/11/alan/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wqt" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/03/alan-app" />
+	<id>tag:daringfireball.net,2025:/linked//6.42437</id>
+	<published>2025-12-03T22:14:04Z</published>
+	<updated>2025-12-03T22:14:04Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Tyler Hall, just one week ago:</p>
+
+<blockquote>
+  <p>Maybe it’s because my eyes are getting old or maybe it’s because
+<a href="https://tyler.io/2020/09/surtainly-not/#active-window">the contrast between windows</a> on macOS keeps getting worse.
+Either way, I built a tiny Mac app last night that draws a border
+around the active window. I named it “Alan”.</p>
+
+<p>In Alan’s preferences, you can choose a preferred border width and
+colors for both light and dark mode.</p>
+
+<p>That’s it. That’s the app.</p>
+</blockquote>
+
+<p>The timing of this is remarkably serendipitous — releasing an app named “Alan” to fix an obvious glaring design shortcoming in recent versions of MacOS just one week before Alan Dye left Apple. (See Michael Tsai for more on the app’s name, including a callback to <a href="https://www.mymac.com/interview-greg-landweber/">Greg Landweber</a>’s classic Mac OS extension <a href="https://www.macintoshrepository.org/538-aaron-1-x">Aaron</a>.)</p>
+
+<p>It’s worth following Hall’s “the contrast between windows” link, which points to <a href="https://tyler.io/2020/09/surtainly-not/#active-window">his own post from five years ago</a> lamenting the decline in contrast between active and inactive windows in MacOS. That 2020 post of Hall’s refers back to Steve Jobs’s introduction of Mac OS X 10.5 Leopard in 2007:</p>
+
+<blockquote>
+  <p>As I was preparing the above video for this post, I completely
+forgot there was a final feature about the new Leopard Desktop
+that was highlighted in that keynote.</p>
+
+<p>Jobs took time out of a keynote to callout that it was now easier
+to tell which window is focused. At 1:29 in that clip, you’ll hear
+an outsized “Wooo!” from some of the audience just for this one
+improvement.</p>
+</blockquote>
+
+<p>Jobs even <a href="https://daringfireball.net/misc/2025/12/leopard-active-window.jpeg">prepared a slide</a>, highlighting “Prominent active window” as a noteworthy new feature. In 2007, the increase of visual prominence for the active window, going from 10.4 Tiger to 10.5 Leopard, drew applause from the audience. But the level of visual prominence indicating active/inactive windows was much higher <a href="https://arstechnica.com/gadgets/2005/04/macosx-10-4/">in 10.4 Tiger</a> than in any version of MacOS in the last decade under Alan Dye’s leadership.</p>
+
+<p><a href="https://pxlnv.com/linklog/alan-app/">Nick Heer on Alan</a> (the app, and, indirectly, the man):</p>
+
+<blockquote>
+  <p>I wish it did not feel understandable for there to be an app that
+draws a big border around the currently active window. That should
+be something made sufficiently obvious by the system.
+Unfortunately, this is a problem plaguing the latest versions of
+MacOS and Windows alike, which is baffling to me. The bar for what
+constitutes acceptable user interface design seems to have fallen
+low enough that it is tripping everyone at the two major desktop
+operating system vendors.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘Alan.app’"  href="https://daringfireball.net/linked/2025/12/03/alan-app">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Nick Heer Obtained Video of Alan Dye’s Exit From Apple</title>
 	<link rel="alternate" type="text/html" href="https://pxlnv.com/linklog/dye-exit/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wqs" />
@@ -1774,76 +1872,6 @@ back his Android phone.</p>
 
 <div>
 <a  title="Permanent link to ‘Life in London With an Android Phone’"  href="https://daringfireball.net/linked/2025/11/18/life-in-london-with-an-android-phone">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple Introduces Digital ID</title>
-	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2025/11/apple-introduces-digital-id-a-new-way-to-create-and-present-an-id-in-apple-wallet/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wpm" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/17/apple-introduces-digital-id" />
-	<id>tag:daringfireball.net,2025:/linked//6.42394</id>
-	<published>2025-11-18T01:27:17Z</published>
-	<updated>2025-11-18T01:29:31Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Apple Newsroom, last week:</p>
-
-<blockquote>
-  <p>Apple today announced the launch of Digital ID, a new way for
-users to create an ID in Apple Wallet using information from their
-U.S. passport, and present it with the security and privacy of
-iPhone or Apple Watch. At launch, Digital ID acceptance will roll
-out first in beta at TSA checkpoints at more than 250 airports in
-the U.S. for in-person identity verification during domestic
-travel, with additional Digital ID acceptance use cases to come in
-the future.</p>
-
-<p>Digital ID gives more people a way to create and present an ID in
-Apple Wallet even if they do not have a REAL ID-compliant driver’s
-license or state ID. Digital ID is not a replacement for a
-physical passport, and cannot be used for international travel and
-border crossing in lieu of a U.S. passport.</p>
-</blockquote>
-
-<p>I set this up over the weekend and it was about as easy and seamless as you could hope. <a href="https://learn.wallet.apple/id">More information from Apple here</a>, and an overview of the feature, as implemented by Apple and Google (for Android) <a href="https://www.nytimes.com/2025/11/14/travel/digital-identification-travel.html?unlocked_article_code=1.2E8.G_Tr.DMy_XMguwE_c&amp;smid=url-share">from The New York Times here</a> (gift link).</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Introduces Digital ID’"  href="https://daringfireball.net/linked/2025/11/17/apple-introduces-digital-id">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Meta Has Deprecated the Messenger Apps for Mac and Windows Too</title>
-	<link rel="alternate" type="text/html" href="https://9to5mac.com/2025/10/16/meta-is-killing-off-messengers-mac-app-for-unknown-reasons/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wpl" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/17/meta-native-mac-windows-messenger-apps" />
-	<id>tag:daringfireball.net,2025:/linked//6.42393</id>
-	<published>2025-11-17T23:43:13Z</published>
-	<updated>2025-11-17T23:43:13Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Ryan Christoffel, reporting for 9to5Mac a month ago:</p>
-
-<blockquote>
-  <p>Meta has <a href="https://www.facebook.com/help/messenger-app/1789649698300122/?helpref=uf_share">published a support doc</a> that states its Messenger app for
-Mac is being discontinued. New users won’t be able to download the
-app at all, and existing users have about 60 more days of use
-before it stops working altogether. Why the change? Unfortunately,
-no reason has been given. But users are being pushed to the
-Facebook website for all their Messenger needs instead.</p>
-</blockquote>
-
-<p>There’s a nearly identical support document <a href="https://www.facebook.com/help/messenger-app/804132271957789">for the native Messenger app for Windows</a> too. They’re not even replacing them with web-app wrappers, like they <a href="https://daringfireball.net/2025/11/meta_whatsapp_windows_shitty_web_app">just did with the Windows WhatsApp client</a>. Just telling users to use the website.</p>
-
-<div>
-<a  title="Permanent link to ‘Meta Has Deprecated the Messenger Apps for Mac and Windows Too’"  href="https://daringfireball.net/linked/2025/11/17/meta-native-mac-windows-messenger-apps">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
