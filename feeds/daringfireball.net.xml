@@ -7,7 +7,60 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-12-05T01:53:12Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-12-05T16:47:45Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Netflix Agrees to Buy Warner Bros., Including HBO, for $83 Billion</title>
+	<link rel="alternate" type="text/html" href="https://www.latimes.com/entertainment-arts/business/story/2025-12-05/netflix-prevails-in-warner-bros-discovery-bidding-opponents" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wqy" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/05/netflix-buying-warner-bros" />
+	<id>tag:daringfireball.net,2025:/linked//6.42442</id>
+	<published>2025-12-05T16:47:44Z</published>
+	<updated>2025-12-05T16:47:45Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Meg James, reporting for The Los Angeles Times (<a href="https://apple.news/Ak1molISkQ4GGq7cNQtPOSw">News+ link</a>):</p>
+
+<blockquote>
+  <p>The two companies announced the blockbuster deal early Friday
+morning. The takeover would give Netflix such beloved characters
+as Batman, Harry Potter and Fred Flintstone.</p>
+</blockquote>
+
+<p>Fred Flintstone?</p>
+
+<blockquote>
+  <p>“Our mission has always been to entertain the world,” Ted
+Sarandos, co-CEO of Netflix, said in a statement. “By combining
+Warner Bros.’ incredible library of shows and movies — from
+timeless classics like <em>Casablanca</em> and <em>Citizen Kane</em> to modern
+favorites like <em>Harry Potter</em> and <em>Friends</em> — with our
+culture-defining titles like <em>Stranger Things</em>, <em>KPop Demon
+Hunters</em> and <em>Squid Game</em>, we’ll be able to do that even better.”</p>
+</blockquote>
+
+<p>Not sure <em>Squid Game</em> belongs in the same comparison as <em>Citizen Kane</em>, but the Warners library is incredibly deep. Stanley Kubrick’s post-<em>2001: A Space Odyssey</em> films were all for Warner Bros.</p>
+
+<blockquote>
+  <p>Netflix’s cash and stock transaction is valued at about $27.75 per
+Warner Bros. Discovery share. Netflix also agreed to take on more
+than $10 billion in Warner Bros. debt, pushing the deal’s value to
+$82.7 billion. [...] Warner’s cable channels, including CNN, TNT
+and HGTV, are not included in the deal. They will form a new
+publicly traded company, Discovery Global, in mid-2026.</p>
+</blockquote>
+
+<p>I don’t know if this deal makes sense for Netflix, but Netflix has earned my trust. Netflix is a product-first company. They care about the quality of their content, their software, their service, and their brand. If you care about the Warner/HBO legacy, an acquisition by Netflix is a much, much better outcome than if David Ellison had bought it to merge with Paramount.</p>
+
+<p>The LA Times article goes on to cite concerns from the movie theater industry, based on Netflix’s historic antipathy toward theatrical releases for its films. Netflix is promising to keep Warner Bros.’s film studio a separate operation, maintaining the studio’s current support for theatrical releases. I hope they do. I grew up loving going to the movies. I still enjoy it, but the truth is I go far less often as the years go on. Movie theaters shouldn’t be a protected class of business just because there’s so much affection and nostalgia for them. If they continue sliding into irrelevance, so be it. That’s how disruption, progress, and competition work.</p>
+
+<div>
+<a  title="Permanent link to ‘Netflix Agrees to Buy Warner Bros., Including HBO, for $83 Billion’"  href="https://daringfireball.net/linked/2025/12/05/netflix-buying-warner-bros">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/12/dye_cook_blind_spot" />
 	<link rel="shorturl" href="http://df4.us/wqx" />
@@ -2015,33 +2068,6 @@ desktop strategy.</p>
 
 <div>
 <a  title="Permanent link to ‘Gurman Says Apple Has No Plans to Update the Mac Pro’"  href="https://daringfireball.net/linked/2025/11/18/gurman-mac-pro">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Cloudflare Suffered Hours Long Outage (Which Brought Down Daring Fireball, Among Thousands of Other Sites)</title>
-	<link rel="alternate" type="text/html" href="https://www.theguardian.com/technology/live/2025/nov/18/cloudflare-down-internet-outage-latest-live-news-updates" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wpo" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/18/cloudflare-outage" />
-	<id>tag:daringfireball.net,2025:/linked//6.42396</id>
-	<published>2025-11-18T17:30:19Z</published>
-	<updated>2025-11-18T18:23:30Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Cloudflare suffered an hours-long global outage, starting around 12pm UTC / 7am ET, which brought down an enormous chunk of the Internet. This included, <a href="https://x.com/tomwarren/status/1990754173957369989">humorously</a>, <a href="https://downdetector.com/">Down Detector</a>. It also included (not so humorously to me) Daring Fireball, which has been <a href="https://daringfireball.net/2018/09/df_slowdown">routed through Cloudflare since 2018</a>. My apologies if you tried to reach the site while it was down. (DF was back up by the time I woke up this morning.) As of this writing, Cloudflare still hasn’t determined exactly what happened, but they’ve been updating <a href="https://www.cloudflarestatus.com/incidents/8gmgl950y3h7">their status report for the incident</a> a few times per hour. The most recent update:</p>
-
-<blockquote>
-  <p>We continue to monitor the system through recovery and we are
-seeing errors and latency return to normal levels. A full
-post-incident investigation and details about the incident will be
-made available asap.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘Cloudflare Suffered Hours Long Outage (Which Brought Down Daring Fireball, Among Thousands of Other Sites)’"  href="https://daringfireball.net/linked/2025/11/18/cloudflare-outage">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
