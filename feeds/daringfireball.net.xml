@@ -7,7 +7,63 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-12-04T19:45:03Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-12-05T01:53:12Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/12/dye_cook_blind_spot" />
+	<link rel="shorturl" href="http://df4.us/wqx" />
+	<id>tag:daringfireball.net,2025://1.42441</id>
+	<published>2025-12-05T01:53:12Z</published>
+	<updated>2025-12-05T01:53:12Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">How could someone who would even *consider* leaving Apple for Meta rise to a level of such prominence at Apple, including as one of the few public faces of the company?</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p><a href="https://www.nbcnews.com/tech/tech-news/apple-ceo-tim-cook-slams-facebook-privacy-human-right-it-n860816">NBC News, back in March 2018</a>:</p>
+
+<blockquote>
+  <p>Speaking at a town hall event hosted by MSNBC’s Chris Hayes and
+Recode’s Kara Swisher, Cook said Facebook put profits above all
+else when it allegedly allowed user data to be taken through
+connected apps. [...]</p>
+
+<p>When asked what he would do if he were in Zuckerberg’s position,
+Cook replied: “What would I do? I wouldn’t be in this situation.”</p>
+
+<p>“The truth is we could make a ton of money if we monetized our
+customer, if our customer was our product,” Cook said. “We’ve
+elected not to do that.”</p>
+
+<p>“Privacy to us is a human right. It’s a civil liberty, and
+something that is unique to America. This is like freedom of
+speech and freedom of the press,” Cook said. “Privacy is right up
+there with that for us.”</p>
+</blockquote>
+
+<p>Perhaps Cook now needs to define “us”.</p>
+
+<p>This was a rather memorable interview. Cook’s “What would I do? I wouldn’t be in this situation” is one of the stone-coldest lines he’s ever zinged at a rival company. (In public, that is.) That was just ice cold. Cook is a consummate diplomat. Most non-founder big company CEOs are. Satya Nadella, Sundar Pichai, Andy Jassy — none of them are known for throwing shade, let alone sharp elbows, at competitors. Cook has made an exception, <a href="https://time.com/5433499/tim-cook-apple-data-privacy/">multiple</a> <a href="https://www.reuters.com/article/technology/apples-tim-cook-criticizes-social-media-practices-intensifying-facebook-confli-idUSKBN29X2NB/">times</a>, when it comes to Facebook/Meta (and to a lesser degree, Google).</p>
+
+<p>So it’s not just that Alan Dye jumped ship from Apple for the chief designer officer role at another company.<sup id="fnr1-2025-12-04"><a href="#fn1-2025-12-04">1</a></sup> It’s not just that he left for a <em>rival</em> company. It’s that he left Apple for <em>Meta</em>, of all companies. Given what Cook has said about Meta publicly, one can only imagine what he thinks about them privately. Apple executives tend to stay at Apple. The stability of its executive team is unparalleled. But Dye is a senior leader who not only left for a rival, but the one rival that Cook and the rest of Apple’s senior leadership team consider the most antithetical to Apple’s ideals.</p>
+
+<p>It would have been surprising if Dye had jumped ship to Google or Microsoft. It would have been a little more surprising if he’d left for Amazon, if only because Amazon seemingly places no cultural value whatsoever on design, as Apple practices it. But maybe with Amazon it would have been seen as Andy Jassy deciding to get serious about design, and thus, in a way, less surprising after the fact. But leaving Apple for <em>Meta</em>, of all companies, feels shocking. How could someone who would even <em>consider</em> leaving Apple for Meta rise to a level of such prominence at Apple, including as one of the few <a href="https://www.printmag.com/podcasts/2025/design-matters-craig-federighi-and-alan-dye/">public faces of the company</a>?</p>
+
+<p>So it’s not just that Alan Dye is a fraud of a UI designer and leader, and that Apple’s senior leadership had a blind spot to the ways Dye’s leadership was steering Apple’s interface design deeply astray. That’s problem enough, as I emphasized <a href="https://daringfireball.net/2025/12/bad_dye_job">in my piece yesterday</a>. It’s also that it’s now clear that Dye’s moral compass was not aligned with Apple’s either. Tim Cook and the rest — or at least most? — of Apple’s senior leadership apparently couldn’t see that, either.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1-2025-12-04">
+<p>I’d have thrown OpenAI in that list of companies where it would have been surprising, but not shocking, for Dye to leave Apple for. But that simply wasn’t possible given Jony Ive’s relationship with Sam Altman, LoveFrom’s collaboration with OpenAI with the io project, and Ive’s utter disdain for Dye’s talent, leadership, and personality.&nbsp;<a href="#fnr1-2025-12-04"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
+</li>
+</ol>
+</div>
+
+
+
+    ]]></content>
+  <title>★ Alan Dye Was in Tim Cook’s Blind Spot</title></entry><entry>
 	<title>Alan Dye Comments on His Career Move in an Instagram Story</title>
 	<link rel="alternate" type="text/html" href="https://x.com/sdw/status/1996431428561822093?s=46" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wqw" />
@@ -2196,46 +2252,4 @@ about you not unraveling.</p>
 
 
     ]]></content>
-  <title>★ OpenAI Releases GPT-5.1, Along With Renamed and New Personalities</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/11/software_update_tahoe_confusing" />
-	<link rel="shorturl" href="http://df4.us/wp1" />
-	<id>tag:daringfireball.net,2025://1.42373</id>
-	<published>2025-11-11T01:34:01Z</published>
-	<updated>2025-11-11T16:48:07Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">I don’t know what the *i* in the “ⓘ” button is supposed to stand for, but it isn’t *intuitive*.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>I upgrade my iPhones and iPads to new iOS releases, including developer betas, pretty much willy-nilly. I’m more conservative about the Macs I use for work. For example, I rely on audio software from <a href="https://www.rogueamoeba.com/">Rogue Amoeba</a> for recording both The Talk Show and Dithering, and <a href="https://www.rogueamoeba.com/support/knowledgebase/?showArticle=Troubleshooting-MacOS-26-Tahoe">there were bugs in MacOS 26.0.0 and 26.0.1</a> that could have resulted in lost audio. Those bugs have been fixed as of MacOS 26.1, so, over the weekend, I upgraded the Mac I use for podcasting. But my main MacBook Pro is still running MacOS 15 Sequoia — not because of any compatibility issues, but simply because I think the Tahoe user interface is goofy looking. I’ll probably bite the bullet and upgrade when 26.2 comes out next month, but for now, I’m luxuriating with a MacOS UI with <a href="https://daringfireball.net/linked/2025/11/07/tahoes-terrible-icons">well-crafted app icons</a> and windows that don’t have <a href="https://mjtsai.com/blog/2025/10/16/tahoe-window-corners/">Fisher-Price-style corner radiuses</a>.</p>
-
-<p>In the meantime, though, I’m keeping MacOS 15 Sequoia up to date. When the MacOS 15.7.2 update arrived last week, <a href="https://mastodon.social/@gruber/115499153276833424">I noted in a post on Mastodon</a> that it sure looked like clicking the “Update Now” button next to the MacOS 15.7.2 update in System Settings → General → Software Update would actually install the upgrade to MacOS 26.1 Tahoe. There are little “ⓘ” buttons next to the “Upgrade” buttons for Tahoe 26.1 and “Update” buttons for Sequoia 15.7.2. The “Info” panel that’s presented after clicking <em>either</em> “ⓘ” button shows that Tahoe 26.1 is the version that is checked.</p>
-
-<p><a href="https://daringfireball.net/misc/2025/11/other-updates-info-button.png" class="noborder">
-  <img
-    src = "https://daringfireball.net/misc/2025/11/other-updates-info-button.png"
-    alt = "Screenshot of MacOS 15.7.1 System Settings: General: Software Update, with an arrow pointing to the ⓘ info button."
-    width = 500
-  /></a></p>
-
-<p>Click that “ⓘ” button in the “Other Updates” section and you get:</p>
-
-<p><a href="https://daringfireball.net/misc/2025/11/other-updates-info-panel.png" class="noborder">
-  <img
-    src = "https://daringfireball.net/misc/2025/11/other-updates-info-panel.png"
-    alt = "Screenshot after clicking the ⓘ button, showing that the upgrade to Tahoe 26.1 is selected, not the available update to Sequoia 15.7.2."
-    width = 500
-  /></a></p>
-
-<p>Leon Cowle was brave enough to try this out, and, <a href="https://hachyderm.io/@leoncowle/115499194488171450">it turns out</a>, just clicking the “Update Now” button next to Sequoia will, thankfully, do the right thing: install the Sequoia 15.7.2 update, not Tahoe. (I followed Cowle’s brave lead and tried it myself, and can confirm that “Update Now” installed the Sequoia 15.7.2 update.) Why the Info panel presented by clicking the “ⓘ” button <em>next to Sequoia</em> in the “Other Updates” section defaults to installing the upgrade to 26.1 Tahoe, I don’t know. But it sure makes it seem like we need to be more careful than we actually do if we want to stick with MacOS 15 Sequoia for now.</p>
-
-<p>The “ⓘ” buttons do not, as I would expect, open a sheet with detailed information about the software updates <em>per</em> each section of the Software Update settings panel. Instead, even though there are separate “ⓘ”  buttons in each section of the settings panel, they each open the same sheet that allows exact control over which available software updates to install. That includes the exact same <em>default</em> selections in this sheet. But the items selected (checked) in this sheet have <em>no bearing</em> on what gets installed by the “Upgrade Now” and “Update Now” / ”Update Tonight” buttons in the main Software Update settings panel. Those checked items in the “ⓘ” sheet only control what gets installed from within that sheet itself. So if you click the “ⓘ” in the “Other Updates” section, because you want to update to the latest version of MacOS 15 Sequoia and see what other updates are being installed (like Safari, in my example screenshot above), and you don’t pay attention to the checked version of MacOS in that sheet, you can inadvertently upgrade to Tahoe.</p>
-
-<p>I don’t know what the <em>i</em> in the “ⓘ” button is supposed to stand for, but it isn’t <em>intuitive</em>.</p>
-
-
-
-    ]]></content>
-  <title>★ The Software Update UI for Upgrading to MacOS 26 Tahoe Is Needlessly Confusing</title></entry></feed><!-- THE END -->
+  <title>★ OpenAI Releases GPT-5.1, Along With Renamed and New Personalities</title></entry></feed><!-- THE END -->
