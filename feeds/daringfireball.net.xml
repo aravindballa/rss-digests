@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-12-06T00:19:43Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-12-06T00:40:14Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>Dithering: ‘Alan Dye Leaves Apple’</title>
 	<link rel="alternate" type="text/html" href="https://dithering.passport.online/member/episode/alan-dye-leaves-apple" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wr3" />
@@ -186,7 +186,7 @@ foreign relations.</p>
 	<link rel="shorturl" href="http://df4.us/wqz" />
 	<id>tag:daringfireball.net,2025://1.42443</id>
 	<published>2025-12-05T21:46:12Z</published>
-	<updated>2025-12-05T21:46:34Z</updated>
+	<updated>2025-12-06T00:40:14Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -266,7 +266,7 @@ articles you’re citing right in the app.</p>
 
 <p>The app carries a few whiffs of non-Mac-likeness (e.g. the aforementioned lack of Settings, and some <a href="https://daringfireball.net/misc/2025/12/essayist-alerts.png">lame-looking custom alerts</a>). The document settings window refers to a new document, even after it has been saved with a name, as “Untitled” until you close and reopen the document. Reopened documents do not remember their window size and position. But <a href="https://news.ycombinator.com/item?id=32113754">poking around with <code>otool</code></a>, it appears to be written using AppKit, not Catalyst. I suspected the app might be Catalyst because there are companion iOS apps for iPhone and iPad, which seem to offer identical feature sets as the Mac app. Essayist uses a clever system where, unless you have a subscription, documents can <a href="https://daringfireball.net/misc/2025/12/essayist-unlock-access.png">only be edited on the device on which they were created</a>, but you can open them read-only on other devices. That feels like a good way to encourage paying while giving you a generous way to evaluate Essayist free of charge. There is no Android, Windows, or web app version — it’s exclusive to Mac and iOS.</p>
 
-<p>I’ve never needed to worry about adhering to a specific format for academic papers, and that’s the one and only reason I can see to use Essayist. In all other aspects, it seems a serviceable but very basic, almost primitive, word processor. There’s no support for embedding images or figures of any kind in a document, for example.</p>
+<p>I’ve never needed to worry about adhering to a specific format for academic papers, and that’s the one and only reason I can see to use Essayist. In all other aspects, it seems a serviceable but very basic, almost primitive, word processor. <s>There’s no support for embedding images or figures of any kind in a document, for example.</s> [Correction: <a href="https://www.essayist.app/guides/figures---tables">Essayist does support figures</a>, but I missed the UI for how to insert them.]</p>
 
 <h2>Detail</h2>
 
