@@ -7,7 +7,133 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-12-10T17:09:29Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-12-10T23:54:16Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/12/full_text_of_marco_rubio_state_dept_directive_times_new_roman" />
+	<link rel="shorturl" href="http://df4.us/wrk" />
+	<id>tag:daringfireball.net,2025://1.42464</id>
+	<published>2025-12-10T23:53:51Z</published>
+	<updated>2025-12-10T23:54:16Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">Good on Rubio for rescinding a bad decision, and even better for doing so with a fair and informative explanation.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>I’m a big believer in reading original source material. For example, when Apple provided me, <a href="https://www.techmeme.com/250307/p12#a250307p12">alongside only a handful</a> of other outlets, with a statement regarding their decision to delay the “more personalized Siri” back in March, <a href="https://daringfireball.net/2025/03/apple_is_delaying_the_more_personalized_siri_apple_intelligence_features">I ran the full statement</a>, verbatim. I added my own commentary, but I wanted to let Apple’s own statement speak for itself first. It drives me nuts when news sites in possession of a statement or original document do not make the full original text available, even if only in a link at the bottom, and choose only to quote short excerpts.</p>
+
+<p>With regard to <a href="https://daringfireball.net/linked/2025/12/10/state-department-times-new-roman">today’s news</a> regarding Marco Rubio’s directive re-establishing Times New Roman as the default font for U.S. State Department documents (rescinding the Biden administration’s 2023 change to Calibri), I very much wanted to read the original. The New York Times broke the news, stated that they had obtained the memo, and quoted phrases and words from it, but they did not provide a copy of the original. </p>
+
+<p>The State Department has not made this document publicly available, and to my knowledge, no one else has published it. I have obtained a copy from a source, and <a href="https://daringfireball.net/misc/2025/12/state-department-return-to-tradition.text">have made it available here in plain text format</a>. The only change I’ve made is to replace non-breaking spaces (<code>U+00A0</code>) with regular spaces.<sup id="fnr1-2025-12-10"><a href="#fn1-2025-12-10">1</a></sup></p>
+
+<p>Please do <a href="https://daringfireball.net/misc/2025/12/state-department-return-to-tradition.text">read it yourself</a>, and do so with an open mind.</p>
+
+<p>It seems clear to me that The New York Times did Rubio dirty in their characterization of the directive. The Times story, credited to reporters Michael Crowley and Hamed Aleaziz, ran under the headline “<a href="https://www.nytimes.com/2025/12/09/us/politics/rubio-state-department-font.html?unlocked_article_code=1.7k8.NI-S.Il8KdkMKKnGV">At State Dept., a Typeface Falls Victim in the War Against Woke</a>”, and opens thus:</p>
+
+<blockquote>
+  <p>Secretary of State Marco Rubio waded into the surprisingly fraught
+politics of typefaces on Tuesday with an order halting the State
+Department’s official use of Calibri, reversing a 2023 Biden-era
+directive that Mr. Rubio called a “wasteful” sop to diversity.</p>
+
+<p>While mostly framed as a matter of clarity and formality in
+presentation, Mr. Rubio’s directive to all diplomatic posts around
+the world blamed “radical” diversity, equity, inclusion and
+accessibility programs for what he said was a misguided and
+ineffective switch from the serif typeface Times New Roman to sans
+serif Calibri in official department paperwork.</p>
+</blockquote>
+
+<p>Rubio’s memo ran about 950 words. Here are the full quotes the Times pulled from it, consisting of just 56 words, aside from the memo’s subject line (“Return to Tradition: Times New Roman 14-Point Font Required for All Department Paper”):</p>
+
+<blockquote>
+  <p>“wasteful”</p>
+
+<p>“radical”</p>
+
+<p>“restore decorum and professionalism to the department’s
+written work.”</p>
+
+<p>“informal”</p>
+
+<p>“clashes”</p>
+
+<p>“was not among the department’s most illegal, immoral, radical or
+wasteful instances of D.E.I.A.”</p>
+
+<p>“accessibility-based document remediation cases”</p>
+
+<p>“Switching to Calibri achieved nothing except the degradation of
+the department’s official correspondence.”</p>
+
+<p>“generally perceived to connote tradition, formality and ceremony”</p>
+</blockquote>
+
+<p>Rubio’s memo wasn’t merely “mostly framed as a matter of clarity and formality in presentation”. That’s entirely what the memo is about. Serif typefaces like Times New Roman <em>are</em> more formal. It was the Biden administration and then-Secretary of State Antony Blinken who categorized the 2023 change to Calibri as driven by accessibility. I do not have access to Blinken’s memo making that change (under the cringe-inducing subject line “The Times (New Roman) are a-Changin”), but it was <a href="https://www.washingtonpost.com/world/2023/01/18/state-department-times-new-roman-calibri/">first reported by John Hudson and Annabelle Timsit at The Washington Post</a>, where they wrote:</p>
+
+<blockquote>
+  <p>The secretary’s decision was motivated by accessibility issues and
+not aesthetics, said a senior State Department official familiar
+with the change.</p>
+</blockquote>
+
+<p>Rubio’s memo makes the argument — correctly — that aesthetics matter, and that the argument that Calibri was in any way more accessible than Times New Roman was bogus. Rubio’s memo does not lash out against accessibility as a concern or goal. He simply makes the argument that Blinken’s order mandating Calibri in the name of accessibility was an empty gesture. Purely performative, at the cost of aesthetics. Going back to that 2023 story at the Post, they quote from Blinken’s memo thus:</p>
+
+<blockquote>
+  <p>In its cable, the State Department said it was choosing to shift
+to 14-point Calibri font because serif fonts like Times New Roman
+“can introduce accessibility issues for individuals with
+disabilities who use Optical Character Recognition technology or
+screen readers. It can also cause visual recognition issues for
+individuals with learning disabilities,” it said.</p>
+</blockquote>
+
+<p>The bit here about OCR <a href="https://mastodon.social/@pesh/115696514979388477">is utter nonsense</a>, a voodoo belief. No OCR or screen-reader software in use today has any problem whatsoever with Times New Roman. That’s just made-up nonsense, and I’d like to see sources for the claim about “visual recognition issues for individuals with learning disabilities”. I don’t think it’s true, and citing it alongside a provably wrong claim about OCR software makes me even more skeptical.</p>
+
+<p>Rubio brings actual numbers to make his case, which is more than can be said for anyone I’ve found arguing that Calibri is somehow more accessible than Times New Roman. Rubio’s argument is alluded to in the Times’s article thus:</p>
+
+<blockquote>
+  <p>But Mr. Rubio called it a failure by its own standards, saying
+that “accessibility-based document remediation cases” at the
+department had not declined.</p>
+</blockquote>
+
+<p>Here’s the full passage from Rubio’s memo:</p>
+
+<blockquote>
+  <p>And although switching to Calibri was not among the Department’s
+most illegal, immoral, radical, or wasteful instances of DEIA
+(see, e.g., Executive Orders 14151, 14173, 14281, and Memorandum
+on Removing Discrimination and Discriminatory Equity Ideology From
+the Foreign Service (DCPD202500375)) it was nonetheless cosmetic:
+the switch was promised to mitigate “accessibility issues for
+individuals with disabilities,” and employees were promised, “Your
+adoption supports the Department’s commitment to create a more
+accessible workplace,” but these promises were false. In fact, the
+number of accessibility-based document remediation cases at the
+Department of State was the same in the year after adopting
+Calibri as in the year before (1,192 cases in FY2024 versus 1,193
+cases in FY2022). And the costs of remediation actually increased
+by $145,000 in that period — nearly a 20% jump. Switching to
+Calibri achieved nothing except the degradation of the
+Department’s official correspondence.</p>
+</blockquote>
+
+<p>2024 was a Biden year, not a Trump year, so there’s no reason to think the remediation numbers were counted differently. The change to Calibri was the worst kind of accessibility effort: one that was founded on nothing more than feel-good performance. It was a change everyone could see and notice, but one that had no practical benefit whatsoever. Good on Rubio for rescinding a bad decision, and even better for doing so with a fair and informative explanation. (His memo even explains, “Fonts are specific variations of a typeface....  Through common use, the word font has come to mean both typeface and font.”)</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1-2025-12-10">
+<p>The memo, per State Department standards perhaps, uses two spaces after sentences and colons. In the original copy I received, those double-spaces were sometimes in the sequence <em>NON-BREAK-SPACE + SPACE</em>, and other times the other way around: <em>SPACE + NON-BREAK-SPACE</em>. There were also a handful of seemingly random non-breaking space characters between words, mid-sentence. All of them, I suspect, just invisible-to-the-eye detritus from Microsoft Word. I replaced all of them with regular spaces, preserving, in plain text, two spaces wherever two spaces were intended.&nbsp;<a href="#fnr1-2025-12-10"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
+</li>
+</ol>
+</div>
+
+
+
+    ]]></content>
+  <title>★ The Full Text of Marco Rubio’s Directive on State Department Typography, Re-Establishing Times New Roman</title></entry><entry>
 	<title>U.S. State Department Changes Back to Times New Roman From Calibri</title>
 	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2025/12/09/us/politics/rubio-state-department-font.html?unlocked_article_code=1.7k8.NI-S.Il8KdkMKKnGV" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wrj" />
@@ -1747,49 +1873,6 @@ to align closer with similar organizations.</p>
 
 	]]></content>
   </entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/12/signal_secure_backups_are_now_available_on_ios" />
-	<link rel="shorturl" href="http://df4.us/wqk" />
-	<id>tag:daringfireball.net,2025://1.42428</id>
-	<published>2025-12-01T22:38:17Z</published>
-	<updated>2025-12-01T22:38:17Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">A user-hostile “lose your phone, lose your account history” architecture may well be “secure” in a technical sense, but it’s the sort of brittleness that’s kept Signal from achieving more mainstream use.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p><a href="https://support.signal.org/hc/en-us/articles/9708267671322-Signal-Secure-Backups">Signal Support</a>:</p>
-
-<blockquote>
-  <p>Signal Secure Backups can help you safely restore your chats
-if something unexpected happens to your device (like dropping
-your phone in a lake). When this optional feature is enabled,
-your device will automatically back up your message history so
-you won’t lose important data if you get a new phone or
-reinstall Signal.</p>
-
-<p>Your Secure Backup Archive is end-to-end encrypted and protected
-by a cryptographically secure 64-character recovery key that is
-never shared with the Signal service. Without your unique recovery
-key, no one (including Signal) can read, decrypt, or restore any
-of the data in your Secure Backup Archive.</p>
-</blockquote>
-
-<p>Signal’s cloud storage service is optional (of course), and available to all users free of charge. At the free tier, it will back up the complete text of users’ chat history and the last 45 days of file attachments (images, video, etc.). For $2/month (through in-app purchase in the iPhone app), Signal will remove the 45-day window on media attachments, and store up to 100 GB of attachments — which, for most users, should be their complete history. (I don’t remember how far back in time my iCloud iMessage storage goes, but, as I type this, it includes 772,004 messages and consumes 83.4 GB of storage. I have a <em>lot</em> of images in there. 100 GB of storage feels pretty good for $2/month. My personal Signal account backup size is just 408 MB, which jibes with my gut feeling regarding how much I use Signal compared to iMessage — about one-half of one percent as much.)</p>
-
-<p><a href="https://signal.org/blog/introducing-secure-backups/">Signal first announced this feature back in September</a> in a blog post that has a lot of technical details about how it works, but <a href="https://x.com/signalapp/status/1993018186690871409">until a week ago</a>, it was only available on the Android version. It’s still labelled as a “beta” feature on iOS. I enabled it over the weekend and signed up for the $2/month subscription — both to back up all my attachments and to support the Signal Foundation. Now that I’m paying $2/month, however, I wish they’d stop periodically badgering me for donations when I launch the app.</p>
-
-<p>I’m glad this feature became available when it did, and that I enabled it over the weekend. Yesterday I set up my personal new iPhone this year, and this morning, when I tried to transfer my Signal account from my old iPhone to the new one, after claiming to reach “100%” of the transfer, and the Signal app reporting on both the old (source) and new (destination) phones that the transfer was complete, the app crashed on both phones. After that, the Signal app was in factory-fresh state on both phones, without any trace of my account history. I then restored the new iPhone from my brand-new online Signal Secure Backup, and that worked perfectly. And it somehow took far, far less time than the old device-to-device transfer — maybe one minute, versus 15 minutes or so for the device-to-device transfer that wound up failing.</p>
-
-<p>Until now, transferring my Signal account history from one phone to another always felt like delivering a crate full of eggs while riding a rickety old bicycle without brakes on a bumpy cobblestone street. Every time I did it device-to-device, it felt like I’d be lucky if it worked. And my experience trying it this morning — for the last time — proved me right. Signal proponents often defended this architecture by arguing that remaining only on device was a security benefit. In some ways that’s true, but there’s nothing “secure” about a transfer feature that loses all of your data if the transfer fails. (Signal data, by design, isn’t included in iCloud backups because Apple holds a key to unlock iCloud backups for customer service reasons, unless the user has enabled <a href="https://support.apple.com/en-us/108756">Advanced Data Protection</a>.) Permanently losing all your data is a different form of “insecurity” than having it exfiltrated by an attacker or exposed to law enforcement agencies via a warrant issued to the cloud backup provider, but it’s a form of insecurity nonetheless.</p>
-
-<p>Signal’s top priority has always been protecting your data from being obtained by others. That’s a noble idea, and central to Signal’s brand. But by placing that priority so far above everything else, it meant, until now, that you’d lose your entire account history if you lost or broke your primary phone. This new secure backup system shows that your data can remain secure while also being backed up off device. I’m glad the feature is finally here, but it should have been here years ago. A user-hostile “lose your phone, lose your account history” architecture may well be “secure” in a technical sense, but it’s the sort of brittleness that’s kept Signal from achieving more mainstream use.</p>
-
-
-
-    ]]></content>
-  <title>★ Signal Secure Backups Are Now Available on iOS</title></entry><entry>
 	<title>The Talk Show: ‘Financial Boner’</title>
 	<link rel="alternate" type="text/html" href="https://daringfireball.net/thetalkshow/2025/11/30/ep-436" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wqj" />
