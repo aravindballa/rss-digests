@@ -7,13 +7,50 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-12-10T23:54:16Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-12-11T02:01:56Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>‘Those Fonts Are Favored Only by the Apathetic and Sloppy’</title>
+	<link rel="alternate" type="text/html" href="https://practicaltypography.com/typography-in-ten-minutes.html" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wrl" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/10/butterick-times-new-roman" />
+	<id>tag:daringfireball.net,2025:/linked//6.42465</id>
+	<published>2025-12-11T02:01:56Z</published>
+	<updated>2025-12-11T02:01:56Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>The fifth of five rules in Matthew Butterick’s “Typography in Ten Minutes”:</p>
+
+<blockquote>
+  <p>And finally, font choice. The fastest, easiest, and most visible
+improvement you can make to your typography is to ignore the fonts
+already loaded on your computer (known as <a href="https://practicaltypography.com/system-fonts.html">system fonts</a>)
+and the <a href="https://practicaltypography.com/free-fonts.html">free fonts</a> that inundate the internet. Instead,
+buy a professional font (like those found in <a href="https://practicaltypography.com/font-recommendations.html">font
+recommendations</a>). A professional font gives you the benefit
+of a professional designer’s skills without having to hire one.</p>
+
+<p>If that’s impossible, you can still make good typography with
+system fonts. But choose wisely. And never choose <a href="https://practicaltypography.com/times-new-roman-alternatives.html">Times New
+Roman</a> or <a href="https://practicaltypography.com/helvetica-and-arial-alternatives.html">Arial</a>, as those fonts are favored only by
+the apathetic and sloppy. Not by typographers. Not by you.</p>
+</blockquote>
+
+<p>(<a href="https://typo.social/@verbosus/115696232964814142">Via Antonio Cavedoni</a>.)</p>
+
+<div>
+<a  title="Permanent link to ‘‘Those Fonts Are Favored Only by the Apathetic and Sloppy’’"  href="https://daringfireball.net/linked/2025/12/10/butterick-times-new-roman">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/12/full_text_of_marco_rubio_state_dept_directive_times_new_roman" />
 	<link rel="shorturl" href="http://df4.us/wrk" />
 	<id>tag:daringfireball.net,2025://1.42464</id>
 	<published>2025-12-10T23:53:51Z</published>
-	<updated>2025-12-10T23:54:16Z</updated>
+	<updated>2025-12-11T01:26:11Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -119,14 +156,20 @@ Calibri achieved nothing except the degradation of the
 Department’s official correspondence.</p>
 </blockquote>
 
-<p>2024 was a Biden year, not a Trump year, so there’s no reason to think the remediation numbers were counted differently. The change to Calibri was the worst kind of accessibility effort: one that was founded on nothing more than feel-good performance. It was a change everyone could see and notice, but one that had no practical benefit whatsoever. Good on Rubio for rescinding a bad decision, and even better for doing so with a fair and informative explanation. (His memo even explains, “Fonts are specific variations of a typeface....  Through common use, the word font has come to mean both typeface and font.”)</p>
+<p>2024 was a Biden year, not a Trump year, so there’s no reason to think the remediation numbers were counted differently. The change to Calibri was the worst kind of accessibility effort: one that was founded on nothing more than feel-good performance. It was a change everyone could see and notice, but one that had no practical benefit whatsoever. Good on Rubio for rescinding a bad decision, and even better for doing so with a fair and informative explanation.<sup id="fnr2-2025-12-10"><a href="#fn2-2025-12-10">2</a></sup> (His memo even explains, “Fonts are specific variations of a typeface....  Through common use, the word font has come to mean both typeface and font.”)</p>
 
 <div class="footnotes">
 <hr />
 <ol>
+
 <li id="fn1-2025-12-10">
 <p>The memo, per State Department standards perhaps, uses two spaces after sentences and colons. In the original copy I received, those double-spaces were sometimes in the sequence <em>NON-BREAK-SPACE + SPACE</em>, and other times the other way around: <em>SPACE + NON-BREAK-SPACE</em>. There were also a handful of seemingly random non-breaking space characters between words, mid-sentence. All of them, I suspect, just invisible-to-the-eye detritus from Microsoft Word. I replaced all of them with regular spaces, preserving, in plain text, two spaces wherever two spaces were intended.&nbsp;<a href="#fnr1-2025-12-10"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
 </li>
+
+<li id="fn2-2025-12-10">
+<p>Do I think it was “fair and informative” to describe all of the Biden State Department’s DEIA initiatives as “illegal, immoral, radical, or wasteful”? No. Did I bother reading any of the documents Rubio referenced as proving such? No. Do I think this particular memorandum, specific to changing State’s font back to Times New Roman, would have been stronger without that line, leaving his defenestration of the Calibri font change to speak for itself? Yes. But that line was just one aside in an otherwise focused, sober, and, yes, fair and informative memo.&nbsp;<a href="#fnr2-2025-12-10"  class="footnoteBackLink"  title="Jump back to footnote 2 in the text.">&#x21A9;&#xFE0E;︎</a></p>
+</li>
+
 </ol>
 </div>
 
@@ -2253,48 +2296,6 @@ through the airport?</li>
 
 <div>
 <a  title="Permanent link to ‘Department of Transportation Asks Travelers to ‘Bring Civility Back’ to Air Travel’"  href="https://daringfireball.net/linked/2025/11/24/dot-civility">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>SuperDuper Security Update v3.11</title>
-	<link rel="alternate" type="text/html" href="https://www.shirt-pocket.com/blog/index.php/shadedgrey/comments/superduper_security_update_v311/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wq7" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/24/superduper-security-update-v311" />
-	<id>tag:daringfireball.net,2025:/linked//6.42415</id>
-	<published>2025-11-24T23:35:46Z</published>
-	<updated>2025-11-24T23:35:46Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Dave Nanian and Bruce Lacey, at Shirt Pocket:</p>
-
-<blockquote>
-  <p>Mistakes are a part of life.</p>
-
-<p>They’re not a great part, but when viewed “correctly”, they’re an
-opportunity.</p>
-
-<p>Well, we have three opportunities, brought to our attention by a
-security researcher. They’re security vulnerabilities that have
-been in SuperDuper! since the very first version, released almost
-22 years ago.</p>
-
-<p>Today, we’re releasing fixes for the current release (the
-SuperDuper! v3.20 Beta is already fixed), a discussion of the
-problems, and the steps users can take to mitigate the issues if
-they cannot install the update.</p>
-
-<p>We don’t know of any bad actors making use of these exploits as of
-this post.</p>
-</blockquote>
-
-<p><a href="https://www.shirt-pocket.com/blog/index.php/shadedgrey/comments/superduper_security_update_v311/">Another</a> good postmortem, with technical details and an apology.</p>
-
-<div>
-<a  title="Permanent link to ‘SuperDuper Security Update v3.11’"  href="https://daringfireball.net/linked/2025/11/24/superduper-security-update-v311">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
