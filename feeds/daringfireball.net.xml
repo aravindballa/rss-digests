@@ -7,7 +7,86 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-12-12T17:30:14Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-12-12T18:37:48Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Special Dyslexia Fonts Are Based on Voodoo Pseudoscience</title>
+	<link rel="alternate" type="text/html" href="https://www.edutopia.org/article/do-dyslexia-fonts-actually-work" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wrp" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/12/dyslexia-fonts-pseudoscience" />
+	<id>tag:daringfireball.net,2025:/linked//6.42469</id>
+	<published>2025-12-12T18:37:47Z</published>
+	<updated>2025-12-12T18:37:48Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Youki Terada, writing for Edutopia in 2022 (via <a href="https://typo.social/@jenskutilek/115701215633708390">Jens Kutílek</a>):</p>
+
+<blockquote>
+  <p>Under close scrutiny, the evidence for dyslexia-friendly fonts
+falls apart. In a <a href="https://link.springer.com/article/10.1007/s11881-016-0127-1">2017 study</a>, for example, researchers tested
+whether OpenDyslexic, a popular font with thicker lines near the
+bottom of the letters, could improve the reading rate and accuracy
+for young children with dyslexia. According to the developers of
+the font, which is open-source and free of charge, the “heaviness”
+of the letters prevented them from turning upside down for readers
+with dyslexia, which they claimed would improve reading accuracy
+and speed.</p>
+
+<p>Researchers put the font to the test, comparing it with two other
+popular fonts designed for legibility — Arial and Times New Roman — and discovered that the purportedly dyslexia-friendly font
+actually reduced reading speed and accuracy. In addition, none of
+the students preferred to read material in OpenDyslexic, a
+surprising rebuke for a font specifically designed for the task.</p>
+
+<p>In a separate <a href="https://link.springer.com/article/10.1007/s11881-017-0154-6">2018 study</a>, researchers compared another popular
+dyslexia font — Dyslexie, which charges a fee for usage — with
+Arial and Times New Roman and found no benefit to reading
+accuracy and speed. As with the previous dyslexia font, children
+expressed a preference for the mainstream fonts. “All in all, the
+font Dyslexie, developed to facilitate the reading of dyslexic
+people, does not have the desired effect,” the researchers
+concluded. “Children with dyslexia do not read better when text
+is printed in the font Dyslexie than when text is printed in
+Arial or Times New Roman.”</p>
+</blockquote>
+
+<p>Quoting from the abstract of <a href="https://link.springer.com/article/10.1007/s11881-016-0127-1">the first study cited above</a>:</p>
+
+<blockquote>
+  <p>Results from this alternating treatment experiment show no
+improvement in reading rate or accuracy for individual students
+with dyslexia, as well as the group as a whole. While some
+students commented that [OpenDyslexic] was “new” or “different”,
+none of the participants reported preferring to read material
+presented in that font. These results indicate there may be no
+benefit for translating print materials to this font.</p>
+</blockquote>
+
+<p>The problem isn’t dyslexia if you don’t notice that <a href="https://opendyslexic.org/">OpenDyslexic</a> is  “different”.</p>
+
+<p>Quoting from <a href="https://link.springer.com/article/10.1007/s11881-017-0154-6">the second cited study</a>:</p>
+
+<blockquote>
+  <p>Words written in Dyslexie font were not read faster or more
+accurately. Moreover, participants showed a preference for the
+fonts Arial and Times New Roman rather than Dyslexie, and again,
+preference was not related to reading performance. These
+experiments clearly justify the conclusion that the Dyslexie font
+neither benefits nor impedes the reading process of children with
+and without dyslexia.</p>
+</blockquote>
+
+<p>OpenDyslexic’s website has <a href="https://opendyslexic.org/related-research">a “related research” page</a> but of the four articles they link to, three are 404s, and the other one only studied “extra-large letter spacing”. I chased down <a href="https://vtechworks.lib.vt.edu/server/api/core/bitstreams/d2aff585-f8a5-4152-b9c8-a177f84a3979/content">the correct link</a> to one of the other articles they cite, and the only fonts it studied were Verdana, Arial, Georgia, and Times.</p>
+
+<p>Some people claim to prefer reading text set with OpenDyslexic. Some people like Comic Sans, too. But I was unaware that these typefaces that purport to be designed specifically to benefit people with dyslexia are based on misguided beliefs that dyslexia is a visual problem, and that actual research shows they do not provide the benefits they claim to. They’re just ugly fonts.</p>
+
+<div>
+<a  title="Permanent link to ‘Special Dyslexia Fonts Are Based on Voodoo Pseudoscience’"  href="https://daringfireball.net/linked/2025/12/12/dyslexia-fonts-pseudoscience">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>iMessage Doesn’t Use APNs for Attachments</title>
 	<link rel="alternate" type="text/html" href="https://support.apple.com/guide/security/how-imessage-sends-and-receives-messages-sec70e68c949/web" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wro" />
@@ -2177,88 +2256,6 @@ about 85 percent of the time.</p>
 
 <div>
 <a  title="Permanent link to ‘Running to the Press’"  href="https://daringfireball.net/linked/2025/11/26/running-to-the-press">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>November Update to the App Store Review Guidelines</title>
-	<link rel="alternate" type="text/html" href="https://developer.apple.com/news/?id=ey6d8onl" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wqc" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/26/november-update-to-the-app-store-review-guidelines" />
-	<id>tag:daringfireball.net,2025:/linked//6.42420</id>
-	<published>2025-11-26T21:46:25Z</published>
-	<updated>2025-11-26T23:32:59Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Here’s <a href="https://developer.apple.com/app-store/review/guidelines/#design">the updated full guideline for section 4.1</a>:</p>
-
-<blockquote>
-  <p>4.1 Copycats</p>
-
-<p>(a) Come up with your own ideas. We know you have them, so make
-    yours come to life. Don’t simply copy the latest popular app
-    on the App Store, or make some minor changes to another app’s
-    name or UI and pass it off as your own. In addition to risking
-    an intellectual property infringement claim, it makes the App
-    Store harder to navigate and just isn’t fair to your fellow
-    developers.</p>
-
-<p>(b) Submitting apps which impersonate other apps or services is
-    considered a violation of the Developer Code of Conduct and
-    may result in removal from the Apple Developer Program.</p>
-
-<p>(c) You cannot use another developer’s icon, brand, or product
-    name in your app’s icon or name, without approval from the
-    developer.</p>
-</blockquote>
-
-<p>It’s guideline (c) that’s new, but I like guideline (a) here. Not just the intent of it, but the language. It’s clear, direct, and human. It reminds me of the tone of the very early guidelines, when it seemed like Steve Jobs’s voice was detectable in some of them. <a href="https://daringfireball.net/2010/09/app_store_guidelines">In a post back in 2010, I wrote</a>:</p>
-
-<blockquote>
-  <p>This new document is written in remarkably casual language. For
-example, a few bullet items from the beginning:</p>
-
-<blockquote>
-  <ul>
-<li><p>We have over 250,000 apps in the App Store. We don’t need any
-more Fart apps.</p></li>
-<li><p>If your app doesn’t do something useful or provide some form of
-lasting entertainment, it may not be accepted.</p></li>
-<li><p>If your App looks like it was cobbled together in a few days, or
-you’re trying to get your first practice App into the store to
-impress your friends, please brace yourself for rejection. We
-have lots of serious developers who don’t want their quality
-Apps to be surrounded by amateur hour.</p></li>
-<li><p>We will reject Apps for any content or behavior that we believe
-is over the line. What line, you ask? Well, as a Supreme Court
-Justice once said, “I’ll know it when I see it”. And we think
-that you will also know it when you cross it.</p></li>
-<li><p>If your app is rejected, we have a Review Board that you can
-appeal to. If you run to the press and trash us, it never helps.</p></li>
-</ul>
-</blockquote>
-</blockquote>
-
-<p>Some of that language remains today. Here’s the current guideline for section 4.3:</p>
-
-<blockquote>
-  <p>4.3 Spam [...]</p>
-
-<p>(b) Also avoid piling on to a category that is already saturated;
-    the App Store has enough fart, burp, flashlight, fortune
-    telling, dating, drinking games, and Kama Sutra apps, etc.
-    already. We will reject these apps unless they provide a
-    unique, high-quality experience. Spamming the store may lead
-    to your removal from the Apple Developer Program.</p>
-</blockquote>
-
-<p>I could be wrong, but my sense is that Apple has, without much fanfare, cracked down on scams and rip-offs in the App Store. That doesn’t mean there’s none. But it’s like crime in a city: a low amount of crime is the practical ideal, not zero crime. Maybe Apple has empowered something like the “<a href="https://daringfireball.net/search/bunco+squad">bunco squad</a>” I’ve wanted for years? If I’m just unaware of blatant rip-offs running wild in the App Store, send examples my way.</p>
-
-<div>
-<a  title="Permanent link to ‘November Update to the App Store Review Guidelines’"  href="https://daringfireball.net/linked/2025/11/26/november-update-to-the-app-store-review-guidelines">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
