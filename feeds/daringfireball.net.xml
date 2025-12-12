@@ -7,7 +7,42 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-12-12T15:53:33Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-12-12T17:30:14Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>iMessage Doesn’t Use APNs for Attachments</title>
+	<link rel="alternate" type="text/html" href="https://support.apple.com/guide/security/how-imessage-sends-and-receives-messages-sec70e68c949/web" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wro" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/12/imessage-apns-attachments" />
+	<id>tag:daringfireball.net,2025:/linked//6.42468</id>
+	<published>2025-12-12T17:29:02Z</published>
+	<updated>2025-12-12T17:30:14Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Small follow-up point re: <a href="https://daringfireball.net/2025/12/imessage_push_notifications_hard_to_block">my post this week</a> on iMessage’s delivery architecture being built atop the Apple Push Notification service:</p>
+
+<blockquote>
+  <p>APNs can only relay messages up to 4 or 16 KB in size, depending
+on the iOS or iPadOS version. If the message text is too long or
+if an attachment such as a photo is included, the attachment is
+encrypted using AES in CTR mode with a randomly generated 256-bit
+key and uploaded to iCloud. The AES key for the attachment, its
+Uniform Resource Identifier (URI), and an SHA-1 hash of its
+encrypted form are then sent to the recipient as the contents of
+an iMessage, with their confidentiality and integrity protected
+through normal iMessage encryption, as shown in the following
+diagram.</p>
+</blockquote>
+
+<p>This explains why you can often text, but not send or receive images, with iMessage over in-flight Wi-Fi. (<a href="https://infosec.exchange/@adamshostack/115696265565038136">Thanks to Adam Shostack</a> for flagging this detail.)</p>
+
+<div>
+<a  title="Permanent link to ‘iMessage Doesn’t Use APNs for Attachments’"  href="https://daringfireball.net/linked/2025/12/12/imessage-apns-attachments">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>OpenAI Releases GPT-5.2</title>
 	<link rel="alternate" type="text/html" href="https://openai.com/index/introducing-gpt-5-2/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wrn" />
@@ -310,7 +345,7 @@ from now.</p>
 	<link rel="shorturl" href="http://df4.us/wri" />
 	<id>tag:daringfireball.net,2025://1.42462</id>
 	<published>2025-12-09T22:42:45Z</published>
-	<updated>2025-12-10T03:42:21Z</updated>
+	<updated>2025-12-12T17:23:12Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -330,7 +365,7 @@ secured with end-to-end encryption so that no one but the sender
 and receiver can access them. Apple canʼt decrypt the data.</p>
 </blockquote>
 
-<p><a href="https://mastodon.social/@magebarf/115686285616651788">This thread on Mastodon</a>, prompted by <a href="https://daringfireball.net/linked/2025/12/07/russia-blocks-facetime-and-snapchat">my wondering why Russia is blocking FaceTime but not iMessage</a>, suggests that because iMessage messages are sent via APNs, a network (or entire nation) seeking to block iMessage can only do so by blocking all push notifications for iOS. That’s why on airplanes with “free messaging” on in-flight Wi-Fi, you usually also get all incoming push notifications, even for services that aren’t available on the free Wi-Fi.</p>
+<p><a href="https://mastodon.social/@magebarf/115686285616651788">This thread on Mastodon</a>, prompted by <a href="https://daringfireball.net/linked/2025/12/07/russia-blocks-facetime-and-snapchat">my wondering why Russia is blocking FaceTime but not iMessage</a>, suggests that because iMessage messages are sent via APNs, a network (or entire nation) seeking to block iMessage could only do so by blocking all push notifications for iOS. That’s why on airplanes with “free messaging” on in-flight Wi-Fi, you usually also get all incoming push notifications, even for services that aren’t available on the free Wi-Fi. (It also explains why, on in-flight Wi-Fi and similar restricted networks, text-only messages go through, <a href="https://infosec.exchange/@adamshostack/115696265565038136">but images and other attachments do not</a>.)</p>
 
 <p><a href="https://support.gfi.com/article/107782-when-blocking-imessage-push-notifications-are-blocked">Here’s a support document from GFI Software</a>, which makes network appliances for enterprises and schools:</p>
 
@@ -1153,7 +1188,7 @@ foreign relations.</p>
 	<link rel="shorturl" href="http://df4.us/wqz" />
 	<id>tag:daringfireball.net,2025://1.42443</id>
 	<published>2025-12-05T21:46:12Z</published>
-	<updated>2025-12-07T20:34:21Z</updated>
+	<updated>2025-12-12T17:18:46Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -1239,7 +1274,7 @@ articles you’re citing right in the app.</p>
 
 <h2>Detail</h2>
 
-<p>iPad app of the year <a href="https://detail.co/">Detail</a> bills itself, simply and to the point, as an “AI Video Editor”. The default subscription is $70/year ($5.83/month) with a 3-day free trial; the other option is to pay $12/month ($144/year) with no free trial. After a quick test drive, Detail seems like an excellent video editing app, optimized for creating formats common on social media, like reel-style vertical videos where you, the creator, appear as a cutout in the corner, in front of the video or images that you’re talking about. The iPhone version seems equally good. The iPad version of Detail will install and run on MacOS, but it’s one of those “Designed for iPad / Not verified for macOS” direct conversions. But they do offer a standalone Mac app, <a href="https://apps.apple.com/us/app/detail-video-studio/id6443923358">Detail Studio</a>, which is a real Mac app, written using AppKit, which requires a separate subscription to unlock pro features ($150/year or $22/month). Detail only offers apps for iOS and MacOS — no  Windows, Android, or web.</p>
+<p>iPad app of the year <a href="https://detail.co/">Detail</a> bills itself, simply and to the point, as an “AI Video Editor”. The default subscription is $70/year ($5.83/month) with a 3-day free trial; the other option is to pay $12/month ($144/year) with no free trial. After a quick test drive, Detail seems like an excellent video editing app, optimized for creating formats common on social media, like reel-style vertical videos where you, the creator, appear as a cutout in the corner, in front of the video or images that you’re talking about. The iPhone version seems equally good. The iPad version of Detail will install and run on MacOS, but it’s one of those “Designed for iPad / Not verified for macOS” no-effort direct conversions. But they do offer a standalone Mac app, <a href="https://apps.apple.com/us/app/detail-video-studio/id6443923358">Detail Studio</a>, which is a real Mac app, written using AppKit, which requires a separate subscription to unlock pro features ($150/year or $22/month). Detail only offers apps for iOS and MacOS — no  Windows, Android, or web.</p>
 
 <p><a href="https://apps.apple.com/us/ipad/story/id1847760011">From Apple’s own acclaim for Detail</a>:</p>
 
@@ -2224,39 +2259,6 @@ appeal to. If you run to the press and trash us, it never helps.</p></li>
 
 <div>
 <a  title="Permanent link to ‘November Update to the App Store Review Guidelines’"  href="https://daringfireball.net/linked/2025/11/26/november-update-to-the-app-store-review-guidelines">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Simple Rule of Thumb: AI Systems Shouldn’t Pretend to Be Human</title>
-	<link rel="alternate" type="text/html" href="http://scripting.com/2025/11/20.html#a143930" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wqb" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/24/winer-ai-pseudo-humans" />
-	<id>tag:daringfireball.net,2025:/linked//6.42419</id>
-	<published>2025-11-25T02:17:24Z</published>
-	<updated>2025-11-25T02:17:24Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Dave Winer:</p>
-
-<blockquote>
-  <p>The new <a href="https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence">Amazon Alexa with AI</a> has the same basic problem of
-all AI bots, it acts as if it’s human, with a level of intimacy
-that you really don’t want to think about, because Alexa is in
-your house, with you, listening, all the time. Calling attention
-to an idea that there’s a pseudo-human spying on you is bad. Alexa
-depends on the opposite impression, that it’s just a computer. I
-think AI’s should give up the pretense that they’re human, and
-this one should be first.</p>
-</blockquote>
-
-<p><a href="https://daringfireball.net/2025/11/chatgpt_5-1_with_renamed_and_new_personalities">Amen</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Simple Rule of Thumb: AI Systems Shouldn’t Pretend to Be Human’"  href="https://daringfireball.net/linked/2025/11/24/winer-ai-pseudo-humans">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
