@@ -7,20 +7,20 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-12-12T23:23:38Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-12-13T00:06:53Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>Apple at the AWS re:Invent 2025 Keynote</title>
 	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=O46695Y7ab8" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wrr" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/12/apple-aws-reinvent-keynote" />
 	<id>tag:daringfireball.net,2025:/linked//6.42471</id>
 	<published>2025-12-12T23:22:39Z</published>
-	<updated>2025-12-12T23:23:38Z</updated>
+	<updated>2025-12-13T00:06:53Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Six-minute from Amazon’s AWS re:Invent keynote last week:</p>
+<p>Six-minute segment from Amazon’s AWS re:Invent keynote last week:</p>
 
 <blockquote>
   <p>Payam Mirrashidi, VP, Cloud Systems &amp; Platforms, Apple, explains
@@ -32,7 +32,7 @@ world building apps for everything from devices to data centers.</p>
 
 <p>(Graviton is AWS’s ARM-in-the-cloud initiative.)</p>
 
-<p>Nothing earth-shaking in this brief presentation, but it’s not often you see an Apple VP on stage at another company’s keynote, or see Apple so very publicly declare their reliance on someone else’s infrastructure. It speaks to Apple and Amazon being more allies than competitors amongst the big tech companies. And of course, you even less often see anyone from Apple speak live on stage at Apple’s own keynotes, which, alas, are no longer live nor on stages.)</p>
+<p>Nothing earth-shaking in this brief presentation, but it’s not often you see an Apple VP on stage at another company’s keynote, or see Apple so very publicly declare their reliance on someone else’s infrastructure. It speaks to Apple and Amazon being more allies than competitors amongst the big tech companies. And of course, you even less often see anyone from Apple speak live on stage at Apple’s own keynotes, which, alas, are no longer live nor on stages.</p>
 
 <div>
 <a  title="Permanent link to ‘Apple at the AWS re:Invent 2025 Keynote’"  href="https://daringfireball.net/linked/2025/12/12/apple-aws-reinvent-keynote">&nbsp;★&nbsp;</a>
@@ -418,7 +418,7 @@ Department’s official correspondence.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/10/state-department-times-new-roman" />
 	<id>tag:daringfireball.net,2025:/linked//6.42463</id>
 	<published>2025-12-10T17:04:43Z</published>
-	<updated>2025-12-10T17:09:29Z</updated>
+	<updated>2025-12-13T00:05:50Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -477,7 +477,7 @@ from now.</p>
 
 <p>While neither is a good choice, between the two, Times New Roman is clearly better. Unstated in my post from 2023 is acknowledgement that the choice might be limited to the default fonts in Microsoft Office. Limited to those fonts, Times New Roman might be the best choice. I just think it’s stupid for an institution with the resources of the U.S. State Department to shrug its shoulders at the notion that they should license and install whatever fonts they want on all of their computers. Anyone making excuses that they “can’t” do that should be fired. It’s the job of IT to serve the needs of the organization, not the organization’s job to limit itself to what makes IT easiest.</p>
 
-<p>Calibri does convey a sense of casualness — and more so, modernity — that is not appropriate for the U.S. State Department. And I do not buy the argument that Calibri is somehow more accessible for those with low vision or reading disabilities. People with actual accessibility needs should be catered to, but they need more than a sans serif typeface, and their needs should not primarily motivate the choice for the default typeface. Dyslexics need typefaces like <a href="https://opendyslexic.org/">OpenDyslexic</a>; people with low vision need font sizes much larger than 14-point. Those would make for terrible defaults for everyone.</p>
+<p>Calibri does convey a sense of casualness — and more so, modernity — that is not appropriate for the U.S. State Department. And I do not buy the argument that Calibri is somehow more accessible for those with low vision or reading disabilities. People with actual accessibility needs should be catered to, but they need more than a sans serif typeface, and their needs should not primarily motivate the choice for the default typeface. <s>Dyslexics need typefaces like OpenDyslexic.</s> [<strong>Update:</strong> Actually, <a href="https://daringfireball.net/linked/2025/12/12/dyslexia-fonts-pseudoscience">they don’t</a>.] People with low vision need font sizes much larger than 14-point. Those would make for terrible defaults for everyone.</p>
 
 <div>
 <a  title="Permanent link to ‘U.S. State Department Changes Back to Times New Roman From Calibri’"  href="https://daringfireball.net/linked/2025/12/10/state-department-times-new-roman">&nbsp;★&nbsp;</a>
