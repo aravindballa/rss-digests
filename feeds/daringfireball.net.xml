@@ -7,7 +7,55 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-12-13T00:45:51Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-12-13T15:09:40Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Paris Buttfield-Addison’s Apple Account Is in Kafka Mode</title>
+	<link rel="alternate" type="text/html" href="https://hey.paris/posts/appleid/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wrs" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/13/buttfield-addison-apple-account" />
+	<id>tag:daringfireball.net,2025:/linked//6.42472</id>
+	<published>2025-12-13T15:09:39Z</published>
+	<updated>2025-12-13T15:09:40Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Paris Buttfield-Addison:</p>
+
+<blockquote>
+  <p>A major brick-and-mortar store sold an Apple Gift Card that Apple
+seemingly took offence to, and locked out my entire Apple ID,
+effectively bricking my devices and my iCloud Account, Apple
+Developer ID, and everything associated with it, and I have no
+recourse. [...]</p>
+
+<p>I am not a casual user. I have <a href="https://hey.paris/books-and-events/books/#books">literally written the book on
+Apple development (taking over the <em>Learning Cocoa with
+Objective-C</em> series, which Apple themselves used to write, for
+O’Reilly Media, and then 20+ books following that)</a>. I
+help run the longest-running Apple developer event not run by
+Apple themselves, <a href="https://devworld.au/index.php">/dev/world</a>. I have effectively been
+an evangelist for this company’s technology for my entire
+professional life. We had an app on the App Store on Day 1 in
+every sense of the world.</p>
+
+<p>I am asking for a human at Apple to review this case. I suspect an
+automated fraud flag regarding the bad gift card triggered a
+nuclear response that frontline support cannot override. I have
+escalated this through my many friends in WWDR and SRE at Apple,
+with no success.</p>
+
+<p>I am desperate to resolve this and restore my digital life.</p>
+</blockquote>
+
+<p>The triggering event, as best he can determine, was his failed attempt to redeem a $500 Apple Gift Card purchased from a major retail chain.</p>
+
+<div>
+<a  title="Permanent link to ‘Paris Buttfield-Addison’s Apple Account Is in Kafka Mode’"  href="https://daringfireball.net/linked/2025/12/13/buttfield-addison-apple-account">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple at the AWS re:Invent 2025 Keynote</title>
 	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=O46695Y7ab8" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wrr" />
@@ -2246,26 +2294,6 @@ to align closer with similar organizations.</p>
 
 <div>
 <a  title="Permanent link to ‘‘A Critter Carol’ — Apple’s 2025 Holiday Short Film’"  href="https://daringfireball.net/linked/2025/11/29/a-critter-carol">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘Fifteen Years’</title>
-	<link rel="alternate" type="text/html" href="https://xkcd.com/3172/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wqf" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/11/27/fifteen-years" />
-	<id>tag:daringfireball.net,2025:/linked//6.42423</id>
-	<published>2025-11-28T02:08:30Z</published>
-	<updated>2025-11-28T02:11:07Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>A masterpiece from Randall Munroe, perfect for Thanksgiving.</p>
-
-<div>
-<a  title="Permanent link to ‘‘Fifteen Years’’"  href="https://daringfireball.net/linked/2025/11/27/fifteen-years">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
