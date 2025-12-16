@@ -7,7 +7,35 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-12-16T19:08:56Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-12-16T19:41:16Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Zara Picken’s ‘Modern Illustration’</title>
+	<link rel="alternate" type="text/html" href="https://www.modernillustration.org/?ref=simplebits.com" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/ws6" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/16/modern-illustration" />
+	<id>tag:daringfireball.net,2025:/linked//6.42486</id>
+	<published>2025-12-16T19:39:44Z</published>
+	<updated>2025-12-16T19:41:16Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<blockquote>
+  <p>Modern Illustration is a project by illustrator <a href="https://www.zarapicken.com/">Zara Picken</a>,
+featuring print artefacts from her extensive personal collection.
+Her aim is to preserve and document outstanding examples of
+mid-20th century commercial art, creating an accessible resource
+for understanding illustration history.</p>
+</blockquote>
+
+<p>Glorious collection of mid-century illustrations and graphic design. (<a href="https://simplebits.com/notebook/studio-notes-60/">Via Dan Cederholm</a>.)</p>
+
+<div>
+<a  title="Permanent link to ‘Zara Picken’s ‘Modern Illustration’’"  href="https://daringfireball.net/linked/2025/12/16/modern-illustration">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/12/apple_tv_new_fanfare" />
 	<link rel="shorturl" href="http://df4.us/ws5" />
@@ -2243,68 +2271,6 @@ higher than him, the entire industry suffers the consequences.</p>
 
 <div>
 <a  title="Permanent link to ‘Louie Mantia on The Talk Show in July, Talking About Alan Dye and Liquid Glass’"  href="https://daringfireball.net/linked/2025/12/03/mantia-the-talk-show-dye">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Alan.app</title>
-	<link rel="alternate" type="text/html" href="https://tyler.io/2025/11/alan/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wqt" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/03/alan-app" />
-	<id>tag:daringfireball.net,2025:/linked//6.42437</id>
-	<published>2025-12-03T22:14:04Z</published>
-	<updated>2025-12-03T22:57:45Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Tyler Hall, just one week ago:</p>
-
-<blockquote>
-  <p>Maybe it’s because my eyes are getting old or maybe it’s because
-<a href="https://tyler.io/2020/09/surtainly-not/#active-window">the contrast between windows</a> on macOS keeps getting worse.
-Either way, I built a tiny Mac app last night that draws a border
-around the active window. I named it “Alan”.</p>
-
-<p>In Alan’s preferences, you can choose a preferred border width and
-colors for both light and dark mode.</p>
-
-<p>That’s it. That’s the app.</p>
-</blockquote>
-
-<p>The timing of this is remarkably serendipitous — releasing an app named “Alan” to fix an obvious glaring design shortcoming in recent versions of MacOS just one week before Alan Dye left Apple. (<a href="https://mjtsai.com/blog/2025/12/03/alan-and-aaron/">See Michael Tsai</a> for more on the app’s name, including a callback to <a href="https://www.mymac.com/interview-greg-landweber/">Greg Landweber</a>’s classic Mac OS extension <a href="https://www.macintoshrepository.org/538-aaron-1-x">Aaron</a>.)</p>
-
-<p>It’s worth following Hall’s “the contrast between windows” link, which points to <a href="https://tyler.io/2020/09/surtainly-not/#active-window">his own post from five years ago</a> lamenting the decline in contrast between active and inactive windows in MacOS. That 2020 post of Hall’s refers back to Steve Jobs’s introduction of Mac OS X 10.5 Leopard in 2007:</p>
-
-<blockquote>
-  <p>As I was preparing the above video for this post, I completely
-forgot there was a final feature about the new Leopard Desktop
-that was highlighted in that keynote.</p>
-
-<p>Jobs took time out of a keynote to callout that it was now easier
-to tell which window is focused. At 1:29 in that clip, you’ll hear
-an outsized “Wooo!” from some of the audience just for this one
-improvement.</p>
-</blockquote>
-
-<p>Jobs even <a href="https://daringfireball.net/misc/2025/12/leopard-active-window.jpeg">prepared a slide</a>, highlighting “Prominent active window” as a noteworthy new feature. In 2007, the increase of visual prominence for the active window, going from 10.4 Tiger to 10.5 Leopard, drew applause from the audience. But the level of visual prominence indicating active/inactive windows was much higher <a href="https://arstechnica.com/gadgets/2005/04/macosx-10-4/">in 10.4 Tiger</a> than in any version of MacOS in the last decade under Alan Dye’s leadership.</p>
-
-<p><a href="https://pxlnv.com/linklog/alan-app/">Nick Heer on Alan</a> (the app, and, indirectly, the man):</p>
-
-<blockquote>
-  <p>I wish it did not feel understandable for there to be an app that
-draws a big border around the currently active window. That should
-be something made sufficiently obvious by the system.
-Unfortunately, this is a problem plaguing the latest versions of
-MacOS and Windows alike, which is baffling to me. The bar for what
-constitutes acceptable user interface design seems to have fallen
-low enough that it is tripping everyone at the two major desktop
-operating system vendors.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘Alan.app’"  href="https://daringfireball.net/linked/2025/12/03/alan-app">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
