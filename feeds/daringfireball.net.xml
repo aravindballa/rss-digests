@@ -7,14 +7,37 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-12-16T01:03:18Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-12-16T02:52:31Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	
+	<link rel="alternate" type="text/html" href="https://finalist.works/df" />
+	<link rel="shorturl" href="http://df4.us/ws4" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2025/12/finalist_daily_planner_for_ios" />
+	<id>tag:daringfireball.net,2025:/feeds/sponsors//11.42484</id>
+	<author><name>Daring Fireball Department of Commerce</name></author>
+	<published>2025-12-16T02:52:31Z</published>
+	<updated>2025-12-16T02:52:31Z</updated>
+	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
+<p>Finalist is an iOS planner rooted in paper. Originally an index card system, it grew into a love letter to paper planners. You know the kind, leather folders with colored tabs and translucent dividers.</p>
+
+<p>Unlike those old binders, Finalist fills itself with your calendars, reminders and weather forecast. Minimalist? Maybe not, but it’s become a UI playground designed to inspire, and looks great on iPad and Mac too.</p>
+
+<p>Like the gorgeous new Year Planner for roughing in plans with the Highlighter (“intention paintbrush”).</p>
+
+<p>iOS has tons of cool productivity apps. Finalist is a different take, and it might just end up in your dock.</p>
+
+<div>
+<a  title="Permanent link to ‘Finalist Daily Planner for iOS’"  href="https://daringfireball.net/feeds/sponsors/2025/12/finalist_daily_planner_for_ios">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+	<title>[Sponsor] Finalist Daily Planner for iOS</title></entry><entry>
 	<title>‘A Brief History of Times New Roman’</title>
 	<link rel="alternate" type="text/html" href="https://typographyforlawyers.com/a-brief-history-of-times-new-roman.html" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/ws3" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/15/a-brief-history-of-timesnewroman" />
 	<id>tag:daringfireball.net,2025:/linked//6.42483</id>
 	<published>2025-12-16T01:03:17Z</published>
-	<updated>2025-12-16T01:03:18Z</updated>
+	<updated>2025-12-16T02:47:25Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -56,7 +79,7 @@ graphic arts industry — a key market — would not accept them.</p>
 
 <p>To my mind, Helvetica, Times, and Courier are <em>the</em> three canonical “default” fonts. One modern sans, one modern serif, and one for “typewriter”/code. (When I see Courier in print, at display sizes, my mind immediately wonders if the printer was missing the font that the designer specified in the document file.)</p>
 
-<p><a href="https://en.wikipedia.org/wiki/Symbol_(typeface)">The Symbol font</a> is a different story. It existed and was included with PostScript as one just four defaults because the 8-bit character encodings of the time only had space for 255 characters. You needed a special font like Symbol to access “exotic” characters like Greek letters, math symbols (e.g. × or ÷), or arrows (↑ ↓ ← →). So there were really only three regular “fonts”, for prose, included with Postscript: Helvetica, Courier, and Times.</p>
+<p><a href="https://en.wikipedia.org/wiki/Symbol_(typeface)">The Symbol font</a> is a different story. It existed and was included with PostScript as on one just four defaults because the 8-bit character encodings of the time only had space for 255 characters. You needed a special font like Symbol to access “exotic” characters like Greek letters, math symbols (e.g. × or ÷), or arrows (↑ ↓ ← →). So there were really only three regular “fonts”, for prose, included with PostScript: Helvetica, Courier, and Times.</p>
 
 <p>Courier and Times were eventually superseded in popular use by rivals that Microsoft licensed for inclusion in Windows: Courier New and Times New Roman, respectively. Times was from Linotype, Times New Roman from Monotype. Both versions of Times are legitimate digital interpretations of the 1929 hot metal design of Times Roman, and <a href="https://creativepro.com/times-roman-vs-times-new-roman/">their differences are minor</a>. Courier New, on the other hand, is <a href="http://www.identifont.com/differences?first=Courier+New&amp;second=Courier">so ugly</a> — anemically thin and weak — that it hurts my teeth whenever I encounter it.</p>
 
@@ -2316,25 +2339,4 @@ operating system vendors.</p>
 </div>
 
 	]]></content>
-  </entry><entry>
-	
-	<link rel="alternate" type="text/html" href="https://workos.com/radar?utm_source=daringfireball&amp;utm_medium=RSS&amp;utm_campaign=q12025" />
-	<link rel="shorturl" href="http://df4.us/wqn" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2025/12/protect_your_app_from_bots_and" />
-	<id>tag:daringfireball.net,2025:/feeds/sponsors//11.42431</id>
-	<author><name>Daring Fireball Department of Commerce</name></author>
-	<published>2025-12-02T00:14:29Z</published>
-	<updated>2025-12-07T21:24:26Z</updated>
-	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
-<p>Does your app get fake signups, throwaway emails, or users abusing your free tier? Or worse, bot attacks and brute force attempts?</p>
-
-<p>WorkOS Radar can block all this and more. A simple API gives you advanced device fingerprinting that can detect bad actors, bots, and suspicious behavior.</p>
-
-<p>Your users trust you. Let’s keep it that way.</p>
-
-<div>
-<a  title="Permanent link to ‘Protect Your App From Bots and Abuse With WorkOS Radar’"  href="https://daringfireball.net/feeds/sponsors/2025/12/protect_your_app_from_bots_and">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-	<title>[Sponsor] Protect Your App From Bots and Abuse With WorkOS Radar</title></entry></feed><!-- THE END -->
+  </entry></feed><!-- THE END -->
