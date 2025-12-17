@@ -7,7 +7,49 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-12-17T22:31:33Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-12-17T23:14:00Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Are Apple Gift Cards Safe to Redeem?</title>
+	<link rel="alternate" type="text/html" href="https://tidbits.com/2025/12/17/compromised-apple-gift-card-leads-to-apple-account-lockout/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wsa" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/17/are-apple-gift-cards-safe-to-redeem" />
+	<id>tag:daringfireball.net,2025:/linked//6.42490</id>
+	<published>2025-12-17T23:14:00Z</published>
+	<updated>2025-12-17T23:14:00Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>You will recall <a href="https://hey.paris/posts/appleid/">the Apple Account fiasco of Paris Buttfield-Addison</a>, whose entire iCloud account and library of iTunes and App Store media purchases were lost when his Apple Account was locked, seemingly after attempted to redeem a tampered $500 Apple Gift Card that he purchased from a major retailer. <a href="https://daringfireball.net/linked/2025/12/13/buttfield-addison-apple-account">I wrote about it</a>, as did <a href="https://mjtsai.com/blog/2025/12/13/locked-out-of-apple-account-due-to-gift-card/">Michael Tsai</a>, <a href="https://pxlnv.com/linklog/apple-account-lockout/">Nick Heer</a>, <a href="https://appleinsider.com/articles/25/12/13/locked-out-how-a-gift-card-purchase-destroyed-an-apple-account">Malcom Owen at AppleInsider</a>, and <a href="https://www.theregister.com/2025/12/15/apple_dev_bad_gift_card_code/">Brandon Vigliarolo at The Register</a>. Buttfield-Addison has updated his post a few times, including a note that Executive Relations — Apple’s top-tier support SWAT team — was looking into the matter. To no avail, at least yet, alas.</p>
+
+<p><a href="https://tidbits.com/2025/12/17/compromised-apple-gift-card-leads-to-apple-account-lockout/">Adam Engst, writing at TidBITS today</a>:</p>
+
+<blockquote>
+  <p>There is one way the Apple community could exert some leverage
+over Apple. Since innocently redeeming a compromised Apple Gift
+Card can have serious negative consequences, we should all avoid
+buying Apple Gift Cards and spread the word as widely as possible
+that they could essentially be malware. Sure, most Apple Gift
+Cards are probably safe, but do you really want to be the person
+who gives a close friend or beloved grandchild a compromised card
+that locks their Apple Account? And if someone gives you one,
+would you risk redeeming it? It’s digital Russian roulette.</p>
+</blockquote>
+
+<p>I suspect that one part of Buttfield-Addison’s fiasco is the fact that his seemingly problematic gift card was for $500, not a typical amount like $25, but that’s just a suspicion on my part. We don’t know — because key to the Kafka-esque nature of the whole nightmare is that his account cancellation was a black box. Not only has Apple not yet restored his deactivated Apple Account, at no point in the process have they explained why it was deactivated in the first place. We’re left to guess that it was related to the tampered gift card and that the relatively high value of the card in question was related. ($500 is a higher value than average for an Apple gift card, but that amount is less than the average price for a single iPhone. So it shouldn’t be considered a suspicious amount.)</p>
+
+<p>The whole thing <em>does</em> make me nervous about redeeming, or giving, Apple gift cards. Scams in general seem to be getting more sophisticated. Buttfield-Addison says he bought the card directly from “a major brick-and-mortar retailer (Australians, think Woolworths scale; Americans, think Walmart scale)”. Until we get some clarity on this I feel like I’d only redeem Apple gift cards at an Apple retail store, for purchases <em>not</em> tied to my Apple Accounts. (I’ve <a href="https://daringfireball.net/linked/2025/02/11/about-migrating-apple-account-purchases-between-accounts">still</a> got two — one for iCloud, one for media purchases.)</p>
+
+<p>In addition to the uncertainty this leaves us with regarding the redemption of Apple gift cards, I have to wonder what the hell happens to these Apple Accounts that are deactivated for suspected fraud. You would think that once escalated high enough in Apple’s customer support system, someone at Apple could just flip a switch and re-activate the account. The fact that Buttfield-Addison’s account has not yet been restored, despite the publicity and apparent escalation to Executive Relations, makes me think it <em>can’t</em> be restored. I don’t know how that can be, but it sure seems like that’s the case. Darth Vader’s “And no disintegrations” admonition ought to be in effect for something like this.</p>
+
+<p>My other question: Were any humans involved <em>before</em> his account was deactivated (or was it disintegrated?), or was it determined purely by some sort of fraud detection algorithm?</p>
+
+<div>
+<a  title="Permanent link to ‘Are Apple Gift Cards Safe to Redeem?’"  href="https://daringfireball.net/linked/2025/12/17/are-apple-gift-cards-safe-to-redeem">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>The Story Behind Windows 3.1’s ‘Hot Dog Stand’ UI Color Scheme (Which Isn’t Much of a Story at All)</title>
 	<link rel="alternate" type="text/html" href="https://www.pcgamer.com/software/windows/windows-3-1-included-a-red-and-yellow-hot-dog-stand-color-scheme-so-garish-it-was-long-assumed-to-be-a-joke-so-i-tracked-down-the-original-designer-to-get-the-true-story/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/ws9" />
@@ -2015,62 +2057,6 @@ in Cook’s case, though.</p>
 
 <div>
 <a  title="Permanent link to ‘Lisa Jackson on The Talk Show Back in 2017’"  href="https://daringfireball.net/linked/2025/12/05/lisa-jackson-the-talk-show">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple Announces a Few Other Executive Transitions</title>
-	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2025/12/apple-announces-executive-transitions/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wr0" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/05/apple-announces-a-few-other-executive-transitions" />
-	<id>tag:daringfireball.net,2025:/linked//6.42444</id>
-	<published>2025-12-05T22:18:12Z</published>
-	<updated>2025-12-05T23:53:40Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Apple Newsroom, yesterday:</p>
-
-<blockquote>
-  <p>Apple today announced that Jennifer Newstead will become Apple’s
-general counsel on March 1, 2026, following a transition of duties
-from Kate Adams, who has served as Apple’s general counsel since
-2017. She will join Apple as senior vice president in January,
-reporting to CEO Tim Cook and serving on Apple’s executive team.</p>
-
-<p>In addition, Lisa Jackson, vice president for Environment, Policy,
-and Social Initiatives, will retire in late January 2026. The
-Government Affairs organization will transition to Adams, who will
-oversee the team until her retirement late next year, after which
-it will be led by Newstead. Newstead’s title will become senior
-vice president, General Counsel and Government Affairs, reflecting
-the combining of the two organizations. The Environment and Social
-Initiatives teams will report to Apple chief operating officer
-Sabih Khan. [...]</p>
-
-<p>Newstead was most recently chief legal officer at Meta and
-previously served as the legal adviser of the U.S. Department of
-State, where she led the legal team responsible for advising the
-Secretary of State on legal issues affecting the conduct of U.S.
-foreign relations.</p>
-</blockquote>
-
-<p>Monday’s announcement <a href="https://daringfireball.net/linked/2025/12/01/giannandrea-out">that AI head John Giannandrea is retiring</a> and the hierarchy for AI related projects being further reshuffled under software head Craig Federighi was significant, but not surprising, given <a href="https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino">how things went this year</a> for Apple with AI.</p>
-
-<p>Wednesday’s announcement that VP of design and Liquid Glass frontman Alan Dye is leaving Apple for Meta was a shock, both inside and outside the company. As I wrote this week, I think <a href="https://daringfireball.net/2025/12/bad_dye_job">it’s great news for Apple</a>, but <a href="https://daringfireball.net/2025/12/dye_cook_blind_spot">not by plan</a>.</p>
-
-<p>This news yesterday is just typical planned retirements. The timing is slightly unfortunate though. In the eyes of observers unfamiliar with the company, they might be misconstrued as signs of executive upheaval, occurring on the heels of the minor and major dramas of Giannandrea’s and Dye’s departures. The Jackson / Adams / Newstead transitions announced yesterday are nothing of the sort.</p>
-
-<p>Jackson had a very nice run at Apple and carved out a rather unique position within the company. Apple’s environmental efforts expanded tremendously under her leadership. I’ve never met anyone with a bad word to say about her, and <a href="https://daringfireball.net/thetalkshow/2017/04/21/ep-188">in my own interactions</a>, found her downright delightful.</p>
-
-<p>As for Adams, the responsibilities of Apple’s general counsel are generally far afield from my interests. The only two times I’ve mentioned her at DF were <a href="https://daringfireball.net/linked/2017/10/06/sewell-adams">when she got the job in 2017</a>, and a passing reference when the FBI sent <a href="https://daringfireball.net/linked/2020/01/08/fbi-apple-pensacola-shooter">a letter to Apple, addressed to Adams, in 2020</a> regarding the locked phone of a mass shooter in Pensacola, Florida. That’s a sign of a good run for a general counsel — it’s a job where no news is good news.</p>
-
-<p>Lastly, I wouldn’t read anything into Newstead coming to Apple by way of Meta. But it is a bit funny that it was announced the day after Dye left Apple <em>for</em> Meta. She seems to have <a href="https://en.wikipedia.org/wiki/Jennifer_Gillian_Newstead">an excellent wide-ranging background</a> to spearhead Apple’s government affairs. Her stint in the State Department was during the first (now seemingly sane) Trump administration, but she clerked for liberal Supreme Court Justice Stephen Breyer.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Announces a Few Other Executive Transitions’"  href="https://daringfireball.net/linked/2025/12/05/apple-announces-a-few-other-executive-transitions">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
