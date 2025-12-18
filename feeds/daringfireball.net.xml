@@ -7,14 +7,14 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-12-17T23:14:00Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-12-18T00:21:48Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>Are Apple Gift Cards Safe to Redeem?</title>
 	<link rel="alternate" type="text/html" href="https://tidbits.com/2025/12/17/compromised-apple-gift-card-leads-to-apple-account-lockout/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wsa" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/17/are-apple-gift-cards-safe-to-redeem" />
 	<id>tag:daringfireball.net,2025:/linked//6.42490</id>
 	<published>2025-12-17T23:14:00Z</published>
-	<updated>2025-12-17T23:14:00Z</updated>
+	<updated>2025-12-18T00:21:48Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -36,13 +36,15 @@ that locks their Apple Account? And if someone gives you one,
 would you risk redeeming it? It’s digital Russian roulette.</p>
 </blockquote>
 
-<p>I suspect that one part of Buttfield-Addison’s fiasco is the fact that his seemingly problematic gift card was for $500, not a typical amount like $25, but that’s just a suspicion on my part. We don’t know — because key to the Kafka-esque nature of the whole nightmare is that his account cancellation was a black box. Not only has Apple not yet restored his deactivated Apple Account, at no point in the process have they explained why it was deactivated in the first place. We’re left to guess that it was related to the tampered gift card and that the relatively high value of the card in question was related. ($500 is a higher value than average for an Apple gift card, but that amount is less than the average price for a single iPhone. So it shouldn’t be considered a suspicious amount.)</p>
+<p>I suspect that one part of Buttfield-Addison’s fiasco is the fact that his seemingly problematic gift card was for $500, not a typical amount like $25, but that’s just a suspicion on my part. We don’t know — because key to the Kafka-esque nature of the whole nightmare is that his account cancellation was a black box. Not only has Apple not yet restored his deactivated Apple Account, at no point in the process have they explained why it was deactivated in the first place. We’re left to guess that it was related to the tampered gift card and that the relatively high value of the card in question was related. $500 is a higher value than average for an Apple gift card, but that amount is less than the average price for a single iPhone. Apple itself <a href="https://daringfireball.net/misc/2025/12/apple-gift-card-2001-dollars.png">sets a limit of $2,000</a> on <a href="https://www.apple.com/shop/buy-giftcard/giftcard">gift cards in the US</a>, so $500 shouldn’t be considered an inherently suspicious amount. </p>
 
 <p>The whole thing <em>does</em> make me nervous about redeeming, or giving, Apple gift cards. Scams in general seem to be getting more sophisticated. Buttfield-Addison says he bought the card directly from “a major brick-and-mortar retailer (Australians, think Woolworths scale; Americans, think Walmart scale)”. Until we get some clarity on this I feel like I’d only redeem Apple gift cards at an Apple retail store, for purchases <em>not</em> tied to my Apple Accounts. (I’ve <a href="https://daringfireball.net/linked/2025/02/11/about-migrating-apple-account-purchases-between-accounts">still</a> got two — one for iCloud, one for media purchases.)</p>
 
-<p>In addition to the uncertainty this leaves us with regarding the redemption of Apple gift cards, I have to wonder what the hell happens to these Apple Accounts that are deactivated for suspected fraud. You would think that once escalated high enough in Apple’s customer support system, someone at Apple could just flip a switch and re-activate the account. The fact that Buttfield-Addison’s account has not yet been restored, despite the publicity and apparent escalation to Executive Relations, makes me think it <em>can’t</em> be restored. I don’t know how that can be, but it sure seems like that’s the case. Darth Vader’s “And no disintegrations” admonition ought to be in effect for something like this.</p>
+<p>In addition to the uncertainty this leaves us with regarding the redemption of Apple gift cards, I have to wonder what the hell happens to these Apple Accounts that are deactivated for suspected fraud. You would think that once escalated high enough in Apple’s customer support system, someone at Apple could just flip a switch and re-activate the account. The fact that Buttfield-Addison’s account has not yet been restored, despite the publicity and apparent escalation to Executive Relations, makes me think it <em>can’t</em> be restored. I don’t know how that can be, but it sure seems like that’s the case. Darth Vader’s “And no disintegrations” admonition ought to be in effect for something like this. I have the sinking feeling that the best Apple is able to do is something seemingly ridiculous, like refund Buttfield-Addison for every purchase he ever made on the account and tell him to start over with a new one.</p>
 
-<p>My other question: Were any humans involved <em>before</em> his account was deactivated (or was it disintegrated?), or was it determined purely by some sort of fraud detection algorithm?</p>
+<p>My other question: Were any humans involved in the decision to deactivate (disintegrate?) his account, or was it determined purely by some sort of fraud detection algorithm?</p>
+
+<p><strong>Update:</strong> Very shortly after I posted the above, Buttfield-Addison <a href="https://hey.paris/posts/appleid/">posted an update</a> that his account was successfully restored by the ninja on Apple’s Executive Relations team assigned to his case. That’s great. But that still leaves the question of how safe Apple gift cards are to redeem on one’s Apple Account. It also leaves the question of how this happened in the first place, and why it look the better part of a week to resolve.</p>
 
 <div>
 <a  title="Permanent link to ‘Are Apple Gift Cards Safe to Redeem?’"  href="https://daringfireball.net/linked/2025/12/17/are-apple-gift-cards-safe-to-redeem">&nbsp;★&nbsp;</a>
