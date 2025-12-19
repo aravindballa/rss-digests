@@ -7,7 +7,74 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-12-19T20:51:32Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-12-19T21:26:38Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Adobe Photoshop 1.0 Source Code</title>
+	<link rel="alternate" type="text/html" href="https://computerhistory.org/blog/adobe-photoshop-source-code/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wsl" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/19/photoshop-1-source-code" />
+	<id>tag:daringfireball.net,2025:/linked//6.42501</id>
+	<published>2025-12-19T21:11:23Z</published>
+	<updated>2025-12-19T21:11:24Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>The Computer History Museum:</p>
+
+<blockquote>
+  <p>Thomas Knoll, a PhD student in computer vision at the University
+of Michigan, had written a program in 1987 to display and modify
+digital images. His brother John, working at the movie visual
+effects company Industrial Light &amp; Magic, found it useful for
+editing photos, but it wasn’t intended to be a product. Thomas
+said, “We developed it originally for our own personal use … it was
+a lot a fun to do.”</p>
+
+<p>Gradually the program, called “Display”, became more
+sophisticated. In the summer of 1988 they realized that it indeed
+could be a credible commercial product. They renamed it
+“Photoshop” and began to search for a company to distribute it.
+About 200 copies of version 0.87 were bundled by slide scanner
+manufacturer Barneyscan as “Barneyscan XP”.</p>
+
+<p>The fate of Photoshop was sealed when Adobe, encouraged by its art
+director Russell Brown, decided to buy a license to distribute an
+enhanced version of Photoshop. The deal was finalized in April
+1989, and version 1.0 started shipping early in 1990.</p>
+</blockquote>
+
+<p>Along with the 1.0 source code (mostly Pascal, with some 68K assembler), CHM has PDFs of Adobe’s excellent Photoshop 1.0 User Guide and Tutorial. CHM trustee Grady Booch, chief scientist for software engineering at IBM Research Almaden, on the source code:</p>
+
+<blockquote>
+  <p>There are only a few comments in the version 1.0 source code, most
+of which are associated with assembly language snippets. That
+said, the lack of comments is simply not an issue. This code is so
+literate, so easy to read, that comments might even have gotten in
+the way. [...] This is the kind of code I aspire to write.</p>
+</blockquote>
+
+<p>A little birdie who works at Adobe today told me, regarding the lack of comments, “Let me assure you, that trend continued for the next 35 years.”</p>
+
+<p><a href="https://sixcolors.com/link/2025/12/adobe-photoshop-1-0-source-code-now-available/">Jason Snell, at Six Colors, notes</a>:</p>
+
+<blockquote>
+  <p>The only shame is that this release doesn’t include the code from
+the <a href="https://en.wikipedia.org/wiki/MacApp">MacApp applications library</a>, which Photoshop used
+and is owned by Apple. It would sure be nice if Apple made that
+code available as well.</p>
+</blockquote>
+
+<p>Says my little birdie, “Turns out Adobe got a perpetual license to MacApp and a heavily modified version of it is <em>still</em> the basis of the UI code. It is only recently starting to get replaced. Even more crazy is that parts of that MacApp code are running on iOS and Android and the web versions.”</p>
+
+<p>Quite the legacy for what started as a personal project between two brothers.</p>
+
+<div>
+<a  title="Permanent link to ‘Adobe Photoshop 1.0 Source Code’"  href="https://daringfireball.net/linked/2025/12/19/photoshop-1-source-code">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Still No Release Date for Apple TV’s ‘The Savant’</title>
 	<link rel="alternate" type="text/html" href="https://www.apple.com/tv-pr/news/filters/2025/12/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wsk" />
@@ -227,13 +294,13 @@ tap or cost per install.</p>
 
 	]]></content>
   </entry><entry>
-	<title>ByteDance Signs Deal to Divest US TikTok App</title>
+	<title>ByteDance Signs Deal to Divest U.S. TikTok App</title>
 	<link rel="alternate" type="text/html" href="https://www.reuters.com/business/american-investor-consortium-acquire-tiktok-us-entity-axios-reports-2025-12-18/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wse" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/18/tiktok-us-divestiture" />
 	<id>tag:daringfireball.net,2025:/linked//6.42494</id>
 	<published>2025-12-19T02:41:25Z</published>
-	<updated>2025-12-19T04:19:33Z</updated>
+	<updated>2025-12-19T21:26:38Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -247,8 +314,12 @@ tap or cost per install.</p>
 
 <p>The craziest aspect of this whole saga is that TikTok has been <a href="https://daringfireball.net/2025/01/briktok">operating illegally since Trump took office</a>. Not some sort of nitpicking technicality. The whole point of the <a href="https://daringfireball.net/search/pafaca">PAFACA act</a> was to ban TikTok in the US until and unless they were sold to American owners. No cloud service. No app store downloads. Trump directed the Justice Department simply not to enforce the law … and the biggest companies in the world just said <em>OK, sure</em>.</p>
 
+<p>This just isn’t normal. There are always edge cases in the enforcement of any law. Political leanings affect priorities. <a href="https://thelawdictionary.org/article/weird-laws-by-state/">Old laws</a> are often ignored. But PAFACA was a brand new law, with bipartisan support, specifically written to target TikTok, and the Trump administration <a href="https://daringfireball.net/2025/01/npr_trump_tiktok">decided to just ignore it</a>. This wouldn’t happen anywhere in Europe or in, say, Japan. And it wouldn’t have happened under any previous US administration, Democrat or Republican. It’s not the biggest issue or worst wrongdoing of the Trump 2.0 administration, but it’s clearest indication of their disregard for the rule of law.</p>
+
+<p><strong>See also:</strong> <a href="https://www.techmeme.com/251219/p16#a251219p16">Techmeme’s roundup</a> of news and commentary on the deal. (Karl Bode at Techdirt: “<a href="https://www.techdirt.com/2025/12/19/tiktok-deal-done-and-its-somehow-the-shittiest-possible-outcome-making-everything-worse/">It’s Somehow The Shittiest Possible Outcome, Making Everything Worse</a>”.)</p>
+
 <div>
-<a  title="Permanent link to ‘ByteDance Signs Deal to Divest US TikTok App’"  href="https://daringfireball.net/linked/2025/12/18/tiktok-us-divestiture">&nbsp;★&nbsp;</a>
+<a  title="Permanent link to ‘ByteDance Signs Deal to Divest U.S. TikTok App’"  href="https://daringfireball.net/linked/2025/12/18/tiktok-us-divestiture">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
@@ -1915,60 +1986,6 @@ Hunter’s Laptop!!! President DJT</p>
 
 <div>
 <a  title="Permanent link to ‘You Can’t Please a Madman’"  href="https://daringfireball.net/linked/2025/12/09/you-cant-please-a-madman">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘Netflix and the Hollywood End Game’</title>
-	<link rel="alternate" type="text/html" href="https://stratechery.com/2025/netflix-and-the-hollywood-end-game/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wrc" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/09/netflix-and-the-hollywood-end-game" />
-	<id>tag:daringfireball.net,2025:/linked//6.42456</id>
-	<published>2025-12-09T18:45:19Z</published>
-	<updated>2025-12-09T20:31:23Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Ben Thompson at Stratechery yesterday:</p>
-
-<blockquote>
-  <p>It’s important to note that the President does not have final say
-in the matter: President Trump directed the DOJ to oppose AT&amp;T’s
-acquisition of Time Warner, but the DOJ <a href="https://stratechery.com/2018/the-need-for-neutrality/">lost in federal
-court</a>, much to AT&amp;T’s detriment. Indeed, the irony of mergers
-and regulatory review is that the success of the latter is often
-inversely correlated to the wisdom of the former: the AT&amp;T deal
-for Time Warner never made much sense, which is directly related
-to why it (correctly) was approved. It would have been
-economically destructive for AT&amp;T to, say, limit Time Warner
-content to its networks, so suing over that theoretical
-possibility was ultimately unsuccessful.</p>
-</blockquote>
-
-<p>Thompson also makes clear that Paramount itself couldn’t possibly launch a credible bid for Warner Bros.:</p>
-
-<blockquote>
-  <p>Paramount’s bid, it should be noted, was for the entire Warner
-Bros. Discovery business, including the TV and cable networks that
-will be split off next year; Netflix is only buying the Warner
-Bros. part. <a href="https://puck.news/will-paramount-challenge-netflix-wbd-deal/">Puck</a> reported that the stub Netflix is leaving
-behind is being valued at $5/share, which would mean that Netflix
-outbid Paramount.</p>
-
-<p>And, it should be noted, that Paramount money wouldn’t be from the
-actual business, which is valued at a mere $14 billion; new owner
-David Ellison is the son of Oracle founder Larry Ellison, who is
-worth $275 billion. Netflix, meanwhile, is worth $425 billion and
-generated $9 billion in cash flow over the last year. Absent
-family money this wouldn’t be anywhere close to a fair fight.</p>
-</blockquote>
-
-<p>It’s not illegal or even sketchy for an acquisition to be backed by family money from an entirely separate source (in the Ellisons’ case, Oracle), but it certainly makes more business sense for Netflix to make this acquisition than Paramount. There’s a strong argument that David Ellison doesn’t really know what the fuck he’s doing in the media racket; no one would argue that Netflix doesn’t know exactly what they’re doing.</p>
-
-<div>
-<a  title="Permanent link to ‘‘Netflix and the Hollywood End Game’’"  href="https://daringfireball.net/linked/2025/12/09/netflix-and-the-hollywood-end-game">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
