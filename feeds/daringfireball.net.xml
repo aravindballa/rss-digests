@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-12-19T21:26:38Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-12-19T22:25:48Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>Adobe Photoshop 1.0 Source Code</title>
 	<link rel="alternate" type="text/html" href="https://computerhistory.org/blog/adobe-photoshop-source-code/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wsl" />
@@ -168,7 +168,7 @@ fonts: Garamond → Myriad → San Francisco.</p>
 	<link rel="shorturl" href="http://df4.us/wsh" />
 	<id>tag:daringfireball.net,2025://1.42497</id>
 	<published>2025-12-19T18:52:37Z</published>
-	<updated>2025-12-19T20:06:32Z</updated>
+	<updated>2025-12-19T22:14:46Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -199,7 +199,7 @@ manage websites where passwords are not saved when signing in.</p>
 <ol>
 
 <li id="fn1-2025-12-19">
-<p>This design pattern is common with paywalled subscription content sites, like email newsletters, to cut down on password sharing. Let’s say someone pays $10/month for a subscription-based newsletter. If they can sign in using an email/password combination, they might be willing to share their email/password combination for that particularly site with a few friends or colleagues, to give them access to the same paywalled content without paying for their own subscriptions. Same goes for sharing email/password combinations <a href="https://www.stuff.tv/features/netflix-password-sharing-what-to-do-about-the-steaming-services-crackdown/">for streaming services like Netflix</a>. Well, you can’t share a password if there is no password to share. If the only way to log in to a subscription-based account is via a magic link that expires within minutes, it’s a lot harder for person A to share their account with person B (let alone with persons C, D, E, and F...). Person B has to tell person A that they’re signing in again, then person A has to wait for the email to arrive, and then person B needs to wait for person A to copy and paste the “magic” link, and hope it arrives before it expires. This pattern adds a significant convenience cost to account sharing — but it also makes signing in more annoying for honest users who <em>aren’t</em> sharing their account.&nbsp;<a href="#fnr1-2025-12-19"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
+<p>This design pattern is common with paywalled subscription content sites, like email newsletters, to cut down on password sharing. Let’s say someone pays $10/month for a subscription-based newsletter. If they can sign in using an email/password combination, they might be willing to share their email/password combination for that particular site with a few friends or colleagues, to give them access to the same paywalled content without paying for their own subscriptions. Same goes for sharing email/password combinations <a href="https://www.stuff.tv/features/netflix-password-sharing-what-to-do-about-the-steaming-services-crackdown/">for streaming services like Netflix</a>. Well, you can’t share a password if there is no password to share. If the only way to log in to a subscription-based account is via a magic link that expires within minutes, it’s a lot harder for person A to share their account with person B (let alone with persons C, D, E, and F...). Person B has to tell person A that they’re signing in again, then person A has to wait for the email to arrive, and then person B needs to wait for person A to copy and paste the “magic” link, and hope it arrives before it expires. This pattern adds a significant convenience cost to account sharing — but it also makes signing in more annoying for honest users who <em>aren’t</em> sharing their account.&nbsp;<a href="#fnr1-2025-12-19"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
 </li>
 
 <li id="fn2-2025-12-19">
@@ -222,13 +222,13 @@ manage websites where passwords are not saved when signing in.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/19/apples-262-os-updates" />
 	<id>tag:daringfireball.net,2025:/linked//6.42496</id>
 	<published>2025-12-19T17:30:35Z</published>
-	<updated>2025-12-19T18:56:56Z</updated>
+	<updated>2025-12-19T22:25:48Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Apple released all of its OS 26.2 updates a week ago today. A little unusual for Apple to release OS updates on a Friday, but I think they wanted to get these out before Christmas week. And I don’t think it was rushed — for iOS 26.2 at least, there were two release candidates builds during beta testing. I suspect Apple had hoped to release them earlier.</p>
+<p>Apple released all of its OS 26.2 updates a week ago today. A little unusual for Apple to release OS updates on a Friday, but I think they wanted to get these out before Christmas week. And I don’t think it was rushed — for iOS 26.2 at least, there were two release candidate builds during beta testing. I suspect Apple had hoped to release them earlier.</p>
 
 <p>I know it seemed weird back at WWDC when Apple announced that they were re-numbering all their OS versions to start with 26. But now that the change has settled in for a few months, it seems very natural. It’s so easy now to remember that the current major version for each OS is 26. It’s also easier to talk about new features that span across OSes. And, in the future, when you see a reference to, say, iOS 26, you’ll know exactly when that version came out without having to think, because it’s right there in the version number itself.</p>
 
