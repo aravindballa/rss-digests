@@ -7,14 +7,67 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-12-19T18:09:10Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-12-19T18:56:56Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/12/a_request_regarding_magic_link_sign-ins_and_apples_passwords_app" />
+	<link rel="shorturl" href="http://df4.us/wsh" />
+	<id>tag:daringfireball.net,2025://1.42497</id>
+	<published>2025-12-19T18:52:37Z</published>
+	<updated>2025-12-19T18:52:37Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">I despise this design pattern, because it’s inherently slower than signing in using an email/password combination that was saved to my passwords app (which is Apple Passwords) and autofilled by my web browser. It’s not just a little slower but *a lot* slower.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>In Juli Clover’s <a href="https://daringfireball.net/linked/2025/12/19/apples-262-os-updates">aforelinked</a> rundown of <a href="https://www.macrumors.com/guide/ios-26-2-features/">what’s new across the whole system in iOS 26.2</a>, I misunderstood this item regarding the Passwords app:</p>
+
+<blockquote>
+  <p>In the Settings section of the Passwords app, there’s an option to
+manage websites where passwords are not saved when signing in.</p>
+</blockquote>
+
+<p>This new setting is about managing sites that you have previously excluded from having a password entry saved. (In the Settings app, go to Apps → Passwords and then tap “Show Excluded Websites”.)</p>
+
+<p>What I was <em>hoping</em> this was about is a feature Passwords doesn’t have, but that I want. There are many sites — and the trend seems to be accelerating — that do not use passwords (or passkeys) for signing in. Instead, they only support signing in via expiring “magic links” sent by email (or, sometimes, via text messages). To sign in with such a site, you enter your email address, hit a button, and the site emails you a fresh link that you need to follow to sign in.<sup id="fnr1-2025-12-19"><a href="#fn1-2025-12-19">1</a></sup> I despise this design pattern, because it’s inherently slower than signing in using an email/password combination that was saved to my passwords app and autofilled by my web browser. My password manager is Apple Passwords and my browser is Safari, but this true for any good password manager and web browser. It’s not just a little slower but a <em>lot</em> slower to sign in with a “magic link”. It sometimes takes minutes for the  email to arrive, and even in the best case, it takes at least 15 seconds or so. Saved-password autofill, on the other hand, happens <em>instantly</em>.<sup id="fnr2-2025-12-19"><a href="#fn2-2025-12-19">2</a></sup></p>
+
+<p>To make matters worse, when you create a new account using a “magic link”, <em>nothing</em> gets saved to Apple Passwords. I don’t have many email addresses in active use, but I do have several. Sometimes I don’t remember which one I used for my account on a certain site. It doesn’t get autofilled by Apple Passwords because account entries in Apple Passwords require a password. I was hoping the above feature mentioned by Clover was a way to address this — that you could now enable a setting to get Passwords to save just your email address for websites and services that exclusively use “magic links” for signing in. No dice. Apple Passwords team, if you’re reading this, please give this some thought. I can’t be the only person irritated by this.</p>
+
+<p>One workaround I’ve used for a few sites with which I keep running into this situation (<a href="https://www.status.news/">Status</a>, I’m looking in your direction) is to manually create an entry in Apple Passwords for the site with the email address I used to subscribe, and a made-up single-character password. Apple Passwords won’t let you save an entry without something in the password field, and a single-character password is a visual clue to my future self why I did this. When I do this, I also put a note to myself in the notes field for the entry. And by using just a single character for the made-up password, I can tell what I did even when the password is displayed using bullets to obscure its actual characters. (<a href="https://daringfireball.net/misc/2025/12/apple-passwords-magic-link-example.png">Screenshot</a>.) If you feel like I do about “magic links”, the 🖕 emoji is a good “password” for such entries. </p>
+
+<p>Once saved like this, my email address still doesn’t autofill on such sites in Safari, but the list of my saved email addresses in the suggestion list that appears when I click in the Email text field will have a “saved password” label next to the one for which I made this entry in Apple Passwords. This at least solves the problem when I can’t remember which address I used to create my account on a site.</p>
+
+<p>Better would be a way for Passwords to ask if you want to save just your email address for sites with “magic link” sign-ins, and then for Safari to autocomplete that address just like it does for username/password combinations. I can see how this would be a tricky problem for Apple Passwords to solve in a way that makes clear to the user why certain entries do not have passwords, but it’s a problem worth solving.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn1-2025-12-19">
+<p>This design pattern is common with paywalled subscription content sites, like email newsletters, to cut down on password sharing. Let’s say someone pays $10/month for a subscription-based newsletter. If they can sign in using an email/password combination, they might be willing to share their email/password combination for that particularly site with a few friends or colleagues, to give them access to the same paywalled content without paying for their own subscriptions. Same goes for sharing email/password combinations <a href="https://www.stuff.tv/features/netflix-password-sharing-what-to-do-about-the-steaming-services-crackdown/">for streaming services like Netflix</a>. Well, you can’t share a password if there is no password to share. If the only way to log in to a subscription-based account is via a magic link that expires within minutes, it’s a lot harder for person A to share their account with person B (let alone with persons C, D, E, and F...). Person B has to tell person A that they’re signing in again, then person A has to wait for the email to arrive, and then person B needs to wait for person A to copy and paste the “magic” link, and hope it arrives before it expires. This pattern adds a significant convenience cost to account sharing — but it also makes signing in more annoying for honest users who <em>aren’t</em> sharing their account.&nbsp;<a href="#fnr1-2025-12-19"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
+</li>
+
+<li id="fn2-2025-12-19">
+<p>Proponents of “magic links” argue that they’re beneficial for technically befuddled users who don’t use a password manager. That’s a good argument for offering “magic links” as an <em>option</em>, but it’s not a good argument for making them the <em>exclusive</em> way to sign in to a site or service. Good password managers are built into modern OSes and web browsers. Those of us who use them should not be punished with a significantly worse experience just because some users do not. When “magic links” are offered as an <em>alternative</em> to a saved password or passkey, there’s a path for all users. When “magic links” are the <em>exclusive</em> method for signing in, all users get the slowest experience.</p>
+
+<p>(And yes, <a href="https://passport.online/">Passport</a>, the subscription system behind <a href="https://dithering.fm/">Dithering</a> and the rest of Ben Thompson’s <a href="https://stratechery.com/stratechery-plus/">Stratechery media empire</a>, exclusively uses “magic links” for sign-in. I don’t like it, but, in Passports’s defense, once you’re signed in, Passport keeps you signed in for a very long time. Other CMSes tend to expire sign-ins far too quickly, which makes for a particularly frustrating experience with “magic links” because you need to keep using them every few weeks.)&nbsp;<a href="#fnr2-2025-12-19"  class="footnoteBackLink"  title="Jump back to footnote 2 in the text.">&#x21A9;&#xFE0E;︎</a></p>
+</li>
+
+
+</ol>
+</div>
+
+
+
+    ]]></content>
+  <title>★ A Request Regarding ‘Magic Link’ Sign-Ins and Apple’s Passwords App</title></entry><entry>
 	<title>Apple’s 26.2 OS Updates</title>
 	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2025/12/19/apples-262-os-updates" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wsg" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/19/apples-262-os-updates" />
 	<id>tag:daringfireball.net,2025:/linked//6.42496</id>
 	<published>2025-12-19T17:30:35Z</published>
-	<updated>2025-12-19T18:09:10Z</updated>
+	<updated>2025-12-19T18:56:56Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -37,7 +90,7 @@
 <li><a href="https://mjtsai.com/blog/2025/12/12/macos-26-2/">Michael Tsai’s roundup of links regarding MacOS 26.2 Tahoe</a>, and <a href="https://mjtsai.com/blog/2025/12/12/ios-26-2/">for iOS 26.2</a>.</li>
 </ul>
 
-<p>Lastly, iOS 26.2 seems to be the release that Apple is starting to suggest as an upgrade for users who hadn’t already installed it by choice. Be prepared for questions and complaints from non-nerd friends and family who’ve never even heard of “Liquid Glass”.</p>
+<p>Lastly, iOS 26.2 seems to be the release that Apple is <a href="https://www.wired.com/story/phone-updates-used-to-be-annoying-the-latest-ios-is-awful/">starting to suggest as an upgrade</a> for users who hadn’t already installed it by choice. Be prepared for questions and complaints from non-nerd friends and family who’ve never even heard of “Liquid Glass”.</p>
 
 <div>
 <a  title="Permanent link to ‘Apple’s 26.2 OS Updates’"  href="https://daringfireball.net/linked/2025/12/19/apples-262-os-updates">&nbsp;★&nbsp;</a>
@@ -2219,60 +2272,4 @@ cameraperson needed.)</p>
 
 
     ]]></content>
-  <title>★ 2025 App Store Award Winners: Tiimo, Essayist, and Detail</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/12/dye_cook_blind_spot" />
-	<link rel="shorturl" href="http://df4.us/wqx" />
-	<id>tag:daringfireball.net,2025://1.42441</id>
-	<published>2025-12-05T01:53:12Z</published>
-	<updated>2025-12-05T01:53:12Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">How could someone who would even *consider* leaving Apple for Meta rise to a level of such prominence at Apple, including as one of the few public faces of the company?</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p><a href="https://www.nbcnews.com/tech/tech-news/apple-ceo-tim-cook-slams-facebook-privacy-human-right-it-n860816">NBC News, back in March 2018</a>:</p>
-
-<blockquote>
-  <p>Speaking at a town hall event hosted by MSNBC’s Chris Hayes and
-Recode’s Kara Swisher, Cook said Facebook put profits above all
-else when it allegedly allowed user data to be taken through
-connected apps. [...]</p>
-
-<p>When asked what he would do if he were in Zuckerberg’s position,
-Cook replied: “What would I do? I wouldn’t be in this situation.”</p>
-
-<p>“The truth is we could make a ton of money if we monetized our
-customer, if our customer was our product,” Cook said. “We’ve
-elected not to do that.”</p>
-
-<p>“Privacy to us is a human right. It’s a civil liberty, and
-something that is unique to America. This is like freedom of
-speech and freedom of the press,” Cook said. “Privacy is right up
-there with that for us.”</p>
-</blockquote>
-
-<p>Perhaps Cook now needs to define “us”.</p>
-
-<p>This was a rather memorable interview. Cook’s “What would I do? I wouldn’t be in this situation” is one of the stone-coldest lines he’s ever zinged at a rival company. (In public, that is.) That was just ice cold. Cook is a consummate diplomat. Most non-founder big company CEOs are. Satya Nadella, Sundar Pichai, Andy Jassy — none of them are known for throwing shade, let alone sharp elbows, at competitors. Cook has made an exception, <a href="https://time.com/5433499/tim-cook-apple-data-privacy/">multiple</a> <a href="https://www.reuters.com/article/technology/apples-tim-cook-criticizes-social-media-practices-intensifying-facebook-confli-idUSKBN29X2NB/">times</a>, when it comes to Facebook/Meta (and to a lesser degree, Google).</p>
-
-<p>So it’s not just that Alan Dye jumped ship from Apple for the chief designer officer role at another company.<sup id="fnr1-2025-12-04"><a href="#fn1-2025-12-04">1</a></sup> It’s not just that he left for a <em>rival</em> company. It’s that he left Apple for <em>Meta</em>, of all companies. Given what Cook has said about Meta publicly, one can only imagine what he thinks about them privately. Apple executives tend to stay at Apple. The stability of its executive team is unparalleled. But Dye is a senior leader who not only left for a rival, but the one rival that Cook and the rest of Apple’s senior leadership team consider the most antithetical to Apple’s ideals.</p>
-
-<p>It would have been surprising if Dye had jumped ship to Google or Microsoft. It would have been a little more surprising if he’d left for Amazon, if only because Amazon seemingly places no cultural value whatsoever on design, as Apple practices it. But maybe with Amazon it would have been seen as Andy Jassy deciding to get serious about design, and thus, in a way, less surprising after the fact. But leaving Apple for <em>Meta</em>, of all companies, feels shocking. How could someone who would even <em>consider</em> leaving Apple for Meta rise to a level of such prominence at Apple, including as one of the few <a href="https://www.printmag.com/podcasts/2025/design-matters-craig-federighi-and-alan-dye/">public faces of the company</a>?</p>
-
-<p>So it’s not just that Alan Dye is a fraud of a UI designer and leader, and that Apple’s senior leadership had a blind spot to the ways Dye’s leadership was steering Apple’s interface design deeply astray. That’s problem enough, as I emphasized <a href="https://daringfireball.net/2025/12/bad_dye_job">in my piece yesterday</a>. It’s also that it’s now clear that Dye’s moral compass was not aligned with Apple’s either. Tim Cook and the rest — or at least most? — of Apple’s senior leadership apparently couldn’t see that, either.</p>
-
-<div class="footnotes">
-<hr />
-<ol>
-<li id="fn1-2025-12-04">
-<p>I’d have thrown OpenAI in that list of companies where it would have been surprising, but not shocking, for Dye to leave Apple for. But that simply wasn’t possible given Jony Ive’s relationship with Sam Altman, LoveFrom’s collaboration with OpenAI with the io project, and Ive’s utter disdain for Dye’s talent, leadership, and personality.&nbsp;<a href="#fnr1-2025-12-04"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
-</li>
-</ol>
-</div>
-
-
-
-    ]]></content>
-  <title>★ Alan Dye Was in Tim Cook’s Blind Spot</title></entry></feed><!-- THE END -->
+  <title>★ 2025 App Store Award Winners: Tiimo, Essayist, and Detail</title></entry></feed><!-- THE END -->
