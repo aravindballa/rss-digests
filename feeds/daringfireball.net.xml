@@ -7,7 +7,102 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-12-18T23:02:07Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-12-19T01:43:03Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Michael Bierut Told Us What He Really Thinks of ITC Garamond</title>
+	<link rel="alternate" type="text/html" href="https://designobserver.com/i-hate-itc-garamond/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wsd" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/18/bierut-itc-garamond" />
+	<id>tag:daringfireball.net,2025:/linked//6.42493</id>
+	<published>2025-12-19T01:19:42Z</published>
+	<updated>2025-12-19T01:19:43Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Michael Bierut, “I Hate ITC Garamond”, for Design Observer back in 2004:</p>
+
+<blockquote>
+  <p>ITC Garamond was designed in 1975 by Tony Stan for the
+International Typeface Corporation. Okay, let’s stop right there.
+I’ll admit it: the single phrase “designed in 1975 by Tony Stan”
+conjures up a entire world for me, a world of leisure suits,
+harvest gold refrigerators, and “Fly, Robin, Fly” by Silver
+Convention on the eight-track. A world where font designers were
+called “Tony” instead of “Tobias” or “Zuzana.” Is that the trouble
+with ITC Garamond? That it’s dated?</p>
+
+<p>Maybe. Typefaces seem to live in the world differently than other
+designed objects. Take architecture, for example. As Paul
+Goldberger writes in his new book on the rebuilding of lower
+Manhattan, <a href="http://www.amazon.com/exec/obidos/ASIN/1400060176/designobserver-20/"><em>Up From Zero</em></a>, “There are many phases to the
+relationships we have with buildings, and almost invariably they
+come around to acceptance.” Typefaces, on the other hand, seem to
+work the other way: they are enthusiastically embraced on arrival,
+and then they wear out their welcome. Yet there are fonts from the
+disco era that have been successively revived by new generations.
+Think of <a href="http://corporate.gettyimages.com/marketing/Taxi03Gallery/en-us/index.html">Pump</a>, <a href="http://corporate.gettyimages.com/marketing/taxi/Taxi02Gallery/en-us/index.html">Aachen</a>, or even Tony Stan’s own
+<a href="https://designobserver.com/unnecessary-revival/">American Typewriter.</a> But not ITC Garamond.</p>
+
+<p>The most distinctive element of the typeface is its enormous
+lower-case x-height. In theory this improves its legibility, but
+only in the same way that dog poop’s creamy consistency in theory
+should make it more edible.</p>
+</blockquote>
+
+<p>I can’t explain how it is that I’ve never linked to this piece before.</p>
+
+<div>
+<a  title="Permanent link to ‘Michael Bierut Told Us What He Really Thinks of ITC Garamond’"  href="https://daringfireball.net/linked/2025/12/18/bierut-itc-garamond">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Condensed Serif Typefaces, à la Apple Garamond, Are Back in Vogue</title>
+	<link rel="alternate" type="text/html" href="https://www.wsj.com/lifestyle/serif-instrument-skinny-font-e22b8054" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wsc" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/18/condensed-serif-typefaces" />
+	<id>tag:daringfireball.net,2025:/linked//6.42492</id>
+	<published>2025-12-19T01:09:27Z</published>
+	<updated>2025-12-19T01:43:03Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Katie Deighton, reporting last month for The Wall Street Journal:</p>
+
+<blockquote>
+  <p>Henry Modisett wanted his employer to stand out. Competitors of
+the artificial-intelligence firm Perplexity were embracing their
+science-fiction roots with futuristic branding that felt cold to
+him. So Modisett, the firm’s vice president of design, looked to
+the past.</p>
+
+<p>He plowed through graphic-design books and tomes of logos
+featuring obscure examples like Hungarian oil companies from the
+’80s. But he kept coming back to a slender, bookish typeface
+famously used in Apple’s “Think Different” campaign. Modisett in
+2023 began slipping a cousin of the font into Perplexity’s
+software and marketing materials.</p>
+
+<p>“It felt fresh,” he said.</p>
+
+<p>Not anymore.</p>
+</blockquote>
+
+<p>Apple’s custom variant of <a href="https://www.myfonts.com/collections/garamond-font-itc/">ITC Garamond</a> was called, appropriately enough, <a href="https://www.dafont.com/apple-garamond.font">Apple Garamond</a>. Apple adopted it in 1984 with the <a href="https://www.cultofmac.com/news/unboxing-vintage-macintosh-128k">introduction of the Macintosh</a>, and continued using it through the early years of the Aqua/iMac aesthetic. For me it evokes the pinnacle of the six-color era. For <a href="https://en.wikipedia.org/wiki/Typography_of_Apple_Inc.">Apple’s brand identity</a> and marketing materials, after Apple Garamond <a href="https://daringfireball.net/2005/06/shuffling">came Myriad</a> — which Apple commissioned custom variants of from Adobe. And then Myriad was succeeded by San Francisco, which I suspect still has many years ahead of it. For the last 40 years Apple has only gone through three identity fonts: Garamond → Myriad → San Francisco.</p>
+
+<p>That this style of font is back in vogue is fun. It’s a good look. Friendly. Serious but not staid. The typeface a lot of these brands are using for this today is <a href="https://github.com/Instrument/instrument-serif">Instrument Serif</a>, which I don’t love. It’s not bad. But it’s not great. Apple Garamond was great.</p>
+
+<p>(ITC Garamond — but not condensed — served, distinctively, as both the display and body text typeface for O’Reilly books <a href="https://www.google.com/search?q=programming+perl+book&amp;udm=2">in their heyday</a>. That typeface doesn’t look or feel Apple-like at all, nor does Apple Garamond look or feel O’Reilly-like at all.)</p>
+
+<div>
+<a  title="Permanent link to ‘Condensed Serif Typefaces, à la Apple Garamond, Are Back in Vogue’"  href="https://daringfireball.net/linked/2025/12/18/condensed-serif-typefaces">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>GCDB’s Guide to Gift Card Tampering Scams</title>
 	<link rel="alternate" type="text/html" href="https://gcdb.com.au/article/gift-card-scams/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wsb" />
@@ -1982,103 +2077,6 @@ company that believes in nothing other than its own success.</p>
 
 <div>
 <a  title="Permanent link to ‘One Last Note on Tiimo: What’s the Deal With That Icon?’"  href="https://daringfireball.net/linked/2025/12/07/tiimo-icon">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Dithering: ‘Alan Dye Leaves Apple’</title>
-	<link rel="alternate" type="text/html" href="https://dithering.passport.online/member/episode/alan-dye-leaves-apple" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wr3" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/05/dithering-alan-dye" />
-	<id>tag:daringfireball.net,2025:/linked//6.42447</id>
-	<published>2025-12-05T23:25:09Z</published>
-	<updated>2025-12-05T23:28:42Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p><a href="https://dithering.passport.online/member/episode/alan-dye-leaves-apple" class="noborder">
-  <img
-    src   = "https://daringfireball.net/misc/2025/12/dithering-cover-dec-2025.jpeg"
-    alt   = "The December 2025 cover art for Dithering, showing a man dressed as Santa Claus getting a kiss on the cheek under some mistletoe."
-    width = 525
-  /></a></p>
-
-<p>Dithering is my and Ben Thompson’s twice-a-week podcast — 15 minutes per episode, not a minute less, not a minute more. It’s a $7/month or $70/year subscription, and included in the Stratechery Plus bundle (a bargain). This year our CMS (<a href="https://passport.online/">Passport</a> — check it out) gained a feature that lets us make some episodes free for everyone to listen to on the website. Today’s episode, regarding Alan Dye leaving Apple for Meta, seems like a good one to do that with. (And, <a href="https://daringfireball.net/linked/2025/03/16/dithering-being-real-points">once again</a>, this month’s album art serendipitously captures my mood.)</p>
-
-<p>Give it a listen. <a href="https://dithering.fm/">Subscribe if you enjoy it</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Dithering: ‘Alan Dye Leaves Apple’’"  href="https://daringfireball.net/linked/2025/12/05/dithering-alan-dye">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple’s Succession Intrigue Isn’t Strange at All</title>
-	<link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/silicon-valley-buzzing-apple-ceo-succession" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wr2" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/05/apple-succession-the-information" />
-	<id>tag:daringfireball.net,2025:/linked//6.42446</id>
-	<published>2025-12-05T23:08:12Z</published>
-	<updated>2025-12-13T18:07:18Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Aaron Tilley and Wayne Ma, in a piece headlined “Why Silicon Valley is Buzzing About Apple CEO Succession” at the paywalled-up-the-wazoo The Information:</p>
-
-<blockquote>
-  <p>Prediction site Polymarket <a href="https://polymarket.com/event/next-ceo-of-apple">places Ternus’ odds of getting the
-job</a> at nearly 55%, ahead of other current Apple executives
-such as software head Craig Federighi, Chief Operating Officer
-Sabih Khan and marketing head Greg Joswiak. But some people close
-to Apple don’t believe Ternus is ready to take on such a
-high-profile role, and that could make a succession announcement
-unlikely anytime soon, said people familiar with the company.</p>
-</blockquote>
-
-<p>Nothing in the rest of the article backs up that “some people close
-to Apple don’t believe Ternus is ready” claim, other than this, several paragraphs later:</p>
-
-<blockquote>
-  <p>And while his fans believe Ternus has the temperament to be CEO,
-many of them say he isn’t a charismatic leader in the mold of a
-Jobs. He has also had little involvement in the geopolitical and
-government affairs issues that dominate most of Cook’s time these
-days. On a recent trip to China, for example, Apple’s new COO,
-Sabih Khan, accompanied Cook to some of his meetings.</p>
-</blockquote>
-
-<p>No one else in the history of the industry, let alone the company, has the charisma of Steve Jobs. And while I think Polymarket has the shortlist of candidates right, I also think they have them listed in the right order. Sabih Khan probably should be considered an outside-chance maybe, but the fact that he accompanied Cook to China doesn’t make me think, for a second, that it’s in preparation to name him CEO. If Khan were being groomed to become CEO, he’d have started appearing in keynotes already. It’s silly to slag Ternus for not having the charisma of Steve Jobs, when Ternus has been a strong presence in keynotes since 2018, and <em>in the same paragraph</em> suggest Khan as a better option, when Khan has never once appeared in a keynote or public appearance representing Apple.</p>
-
-<blockquote>
-  <p>Some former Apple executives hope a dark-horse candidate emerges.
-For example, Tony Fadell, a former Apple hardware executive who
-coinvented [<em>sic</em>] the iPod, has told associates recently that he
-would be open to replacing Cook as CEO, according to people who
-have heard his remarks. (Other people close to Apple consider
-Fadell an unlikely candidate, in part because he was a polarizing
-figure when he worked at the company. Fadell left Apple in 2010.)</p>
-</blockquote>
-
-<p>The parenthetical undersells the unlikelihood of Fadell returning to Apple, ever, in any role, let alone the borderline insanity of suggesting he’d come back as Cook’s successor.</p>
-
-<blockquote>
-  <p>It has become one of the strangest succession spectacles in tech.
-Typically, the kind of buzz that is swirling around Cook occurs
-when companies are performing badly or a CEO has dropped hints
-that they’re getting ready to hang up their spurs. Neither applies
-in Cook’s case, though.</p>
-</blockquote>
-
-<p>There’s nothing strange about it. Apple has a unique company culture, but <a href="https://ritholtz.com/2013/07/organizational-charts-of-amazon-apple-facebook-microsoft/">so too do its peers</a>, like Microsoft, Amazon, and Google. And just like at those companies, it’s therefore a certainty that Cook’s replacement will come from within the company’s current ranks. Polymarket doesn’t even list anyone other than Ternus, Federighi, Joswiak, and Khan.</p>
-
-<p>As for hints, there is not much need for any hint beyond the fact that Cook is now 65 years old and has been in the job since 2011. But the high-profile multi-source <a href="https://daringfireball.net/linked/2025/11/15/ft-apple-tim-cook-succession">leak to the Financial Times</a> is a pretty obvious fucking additional hint.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple’s Succession Intrigue Isn’t Strange at All’"  href="https://daringfireball.net/linked/2025/12/05/apple-succession-the-information">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
