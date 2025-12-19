@@ -7,7 +7,40 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-12-19T18:56:56Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-12-19T19:23:15Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Apple Changes Processor Architectures More Often Than Its Identity Font</title>
+	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2025/12/18/condensed-serif-typefaces" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wsi" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/19/apple-changes-processor-architectures-more-often-than-its-identity-font" />
+	<id>tag:daringfireball.net,2025:/linked//6.42498</id>
+	<published>2025-12-19T19:23:15Z</published>
+	<updated>2025-12-19T19:23:15Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Yesterday I wrote:</p>
+
+<blockquote>
+  <p>For the last 40 years Apple has only gone through three identity
+fonts: Garamond → Myriad → San Francisco.</p>
+</blockquote>
+
+<p>DF reader <em>CM</em> emailed to observe: “It strikes me that Apple changes CPU architectures (68K → PowerPC → Intel → ARM) more often than identity fonts. They’d sooner re-engineer their products’ deepest technical building blocks than change typefaces. I suspect that’s rare among tech companies.”</p>
+
+<p>I wish I’d thought to mention that yesterday.</p>
+
+<p>I’ll add that I suspect San Francisco might effectively be Apple’s “forever font”. Forever is a long time, but San Francisco, in its default appearance, strives for the sort of timelessness that Helvetica achieved. And San Francisco offers a wide (no pun intended) variety of widths and weights. <a href="https://www.apple.com/iphone-17-pro/">This is San Francisco</a>. <a href="https://www.apple.com/iphone-air/">This is too</a>. (Screenshots for posterity, when Apple’s website changes: <a href="https://daringfireball.net/misc/2025/12/san-fran-example-iphone-17-pro.jpeg">iPhone 17 Pro</a> and <a href="https://daringfireball.net/misc/2025/12/san-fran-example-iphone-air.jpeg">iPhone Air</a>.)</p>
+
+<p>I also suspect that Apple Silicon is Apple’s “forever architecture”.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Changes Processor Architectures More Often Than Its Identity Font’"  href="https://daringfireball.net/linked/2025/12/19/apple-changes-processor-architectures-more-often-than-its-identity-font">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/12/a_request_regarding_magic_link_sign-ins_and_apples_passwords_app" />
 	<link rel="shorturl" href="http://df4.us/wsh" />
@@ -2010,61 +2043,6 @@ microphone to that person.</p>
 
 	]]></content>
 	<title>[Sponsor] Jaho Coffee Roaster</title></entry><entry>
-	<title>EU Court Rules That Apple Must Face Dutch Antitrust Lawsuit Regarding App Store Commission Rates</title>
-	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2025/12/02/dutch-app-store-antitrust-case-proceeds/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wr8" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/08/dutch-app-store-antitrust-suit" />
-	<id>tag:daringfireball.net,2025:/linked//6.42452</id>
-	<published>2025-12-08T23:13:43Z</published>
-	<updated>2025-12-09T16:17:38Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Juli Clover, writing at MacRumors (regarding a <a href="https://www.reuters.com/sustainability/boards-policy-regulation/eu-court-rules-dutch-courts-can-handle-anti-trust-case-against-apples-app-store-2025-12-02/">report at Reuters</a>):</p>
-
-<blockquote>
-  <p>Apple could ultimately have to pay up to an estimated 637 million
-euros to address the damage suffered by 14 million iPhone and iPad
-users in the Netherlands.</p>
-</blockquote>
-
-<p>That’s about €45/user.</p>
-
-<blockquote>
-  <p>The lawsuit dates back to 2022, when two Dutch consumer
-foundations (Right to Consumer Justice and App Store Claims)
-accused Apple of abusing its dominant market position and charging
-developers excessive fees. The lawsuit was filed on behalf of
-Dutch iPhone and iPad users, and it claimed that Apple’s 30
-percent commission inflated prices for apps and in-app purchases.</p>
-</blockquote>
-
-<p>I’m curious what these consumer foundations would consider a “fair” (and thus legal) commission rate.</p>
-
-<p>This all comes back to the argument that Apple’s App Store commission inflates prices. <a href="https://developer.apple.com/download/files/DMA-Study-Nov-2025.pdf">A recent Apple-funded (and Apple-promoted) study</a> suggests this is not true — that with lower commissions mandated by the DMA, prices paid by consumers stayed the same and the difference went to the developers. That’s <a href="https://pxlnv.com/linklog/apple-dma-commission-study/">good if you’re a developer</a>, but it’s not the argument being made by these consumer advocate groups.</p>
-
-<p>That said, <a href="https://pxlnv.com/linklog/apple-dma-commission-study/">I pointed out just the other day</a> that Tiimo, a to-do app that Apple just named as the iPhone app of the year in the 2025 App Awards, charges about 20 percent less for subscriptions on its website compared to its in-app subscriptions. An Apple-funded, Apple-promoted study showing that the App Store’s commissions don’t raise prices ought to be taken with a few grains of salt.</p>
-
-<blockquote>
-  <p>Apple argued that the Dutch court did not have jurisdiction to
-hear the case because the EU App Store is run from Ireland, and
-therefore the claims should be litigated in Ireland. Apple said
-that if the Dutch court was able to hear the case, it could lead
-to fragmentation with multiple similar cases across the EU, plus
-it argued that customers in the Netherlands could have downloaded
-apps while in other EU member states.</p>
-</blockquote>
-
-<p>I know Apple wants this litigated in Ireland because the Irish government <a href="https://en.wikipedia.org/wiki/Apple%27s_EU_tax_dispute">sees Apple as an ally, not an adversary</a>, but it does seem contrary to the idea of <a href="https://en.wikipedia.org/wiki/European_single_market">a single market</a> if a company doing business in the EU is subject to different antitrust laws from each of the EU’s 27 member states.</p>
-
-<div>
-<a  title="Permanent link to ‘EU Court Rules That Apple Must Face Dutch Antitrust Lawsuit Regarding App Store Commission Rates’"  href="https://daringfireball.net/linked/2025/12/08/dutch-app-store-antitrust-suit">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/12/meta_says_fuck_that_metaverse_shit" />
 	<link rel="shorturl" href="http://df4.us/wr5" />
