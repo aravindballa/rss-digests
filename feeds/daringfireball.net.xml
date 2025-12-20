@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-12-19T22:25:48Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-12-20T01:30:30Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
 	<title>Adobe Photoshop 1.0 Source Code</title>
 	<link rel="alternate" type="text/html" href="https://computerhistory.org/blog/adobe-photoshop-source-code/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wsl" />
@@ -136,7 +136,7 @@ possibly a rental.”</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/19/apple-changes-processor-architectures-more-often-than-its-identity-font" />
 	<id>tag:daringfireball.net,2025:/linked//6.42498</id>
 	<published>2025-12-19T19:23:15Z</published>
-	<updated>2025-12-19T20:16:49Z</updated>
+	<updated>2025-12-20T01:19:31Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -149,7 +149,7 @@ possibly a rental.”</p>
 fonts: Garamond → Myriad → San Francisco.</p>
 </blockquote>
 
-<p>DF reader <em>CM</em> emailed to observe: “It strikes me that Apple changes CPU architectures (68K → PowerPC → Intel → ARM) more often than identity fonts. They’d sooner re-engineer their products’ deepest technical building blocks than change typefaces. I suspect that’s rare among tech companies.”</p>
+<p>DF reader Cameron McKay emailed to observe: “It strikes me that Apple changes CPU architectures (68K → PowerPC → Intel → ARM) more often than identity fonts. They’d sooner re-engineer their products’ deepest technical building blocks than change typefaces. I suspect that’s rare among tech companies.”</p>
 
 <p>I wish I’d thought to mention that yesterday.</p>
 
@@ -168,7 +168,7 @@ fonts: Garamond → Myriad → San Francisco.</p>
 	<link rel="shorturl" href="http://df4.us/wsh" />
 	<id>tag:daringfireball.net,2025://1.42497</id>
 	<published>2025-12-19T18:52:37Z</published>
-	<updated>2025-12-19T22:14:46Z</updated>
+	<updated>2025-12-20T01:30:30Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -199,7 +199,7 @@ manage websites where passwords are not saved when signing in.</p>
 <ol>
 
 <li id="fn1-2025-12-19">
-<p>This design pattern is common with paywalled subscription content sites, like email newsletters, to cut down on password sharing. Let’s say someone pays $10/month for a subscription-based newsletter. If they can sign in using an email/password combination, they might be willing to share their email/password combination for that particular site with a few friends or colleagues, to give them access to the same paywalled content without paying for their own subscriptions. Same goes for sharing email/password combinations <a href="https://www.stuff.tv/features/netflix-password-sharing-what-to-do-about-the-steaming-services-crackdown/">for streaming services like Netflix</a>. Well, you can’t share a password if there is no password to share. If the only way to log in to a subscription-based account is via a magic link that expires within minutes, it’s a lot harder for person A to share their account with person B (let alone with persons C, D, E, and F...). Person B has to tell person A that they’re signing in again, then person A has to wait for the email to arrive, and then person B needs to wait for person A to copy and paste the “magic” link, and hope it arrives before it expires. This pattern adds a significant convenience cost to account sharing — but it also makes signing in more annoying for honest users who <em>aren’t</em> sharing their account.&nbsp;<a href="#fnr1-2025-12-19"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
+<p>This design pattern is common with paywalled subscription content sites, like email newsletters, to cut down on password sharing. Let’s say someone pays $10/month for a subscription-based newsletter. If they can sign in using an email/password combination, they might be willing to share their email/password combination for that particular site with a few friends or colleagues, to give them access to the same paywalled content without paying for their own subscriptions. Same goes for sharing email/password combinations <a href="https://www.stuff.tv/features/netflix-password-sharing-what-to-do-about-the-steaming-services-crackdown/">for streaming services like Netflix</a>. Well, you can’t share a password if there is no password to share. If the only way to log in to a subscription-based account is via a magic link that expires within minutes, it’s a lot harder for person A to share their account with person B (let alone with persons C, D, E, and F — nor can persons B through F share the account with others, because they don’t have access to the email). Person B has to tell person A that they’re signing in again, then person A has to wait for the email to arrive, and then person B needs to wait for person A to copy and paste the “magic” link, and hope it arrives before it expires. This pattern adds a significant convenience cost to account sharing — but it also makes signing in more annoying for honest users who <em>aren’t</em> sharing their accounts.&nbsp;<a href="#fnr1-2025-12-19"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
 </li>
 
 <li id="fn2-2025-12-19">
@@ -207,7 +207,6 @@ manage websites where passwords are not saved when signing in.</p>
 
 <p>(And yes, <a href="https://passport.online/">Passport</a>, the subscription system behind <a href="https://dithering.fm/">Dithering</a> and the rest of Ben Thompson’s <a href="https://stratechery.com/stratechery-plus/">Stratechery media empire</a>, exclusively uses “magic links” for sign-in. I don’t like it, but, in Passports’s defense, once you’re signed in, Passport keeps you signed in for a very long time. Other CMSes tend to expire sign-ins far too quickly, which makes for a particularly frustrating experience with “magic links” because you need to keep using them every few weeks.)&nbsp;<a href="#fnr2-2025-12-19"  class="footnoteBackLink"  title="Jump back to footnote 2 in the text.">&#x21A9;&#xFE0E;︎</a></p>
 </li>
-
 
 </ol>
 </div>
@@ -854,13 +853,13 @@ impostor.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/15/note-on-sms-marketing" />
 	<id>tag:daringfireball.net,2025:/linked//6.42482</id>
 	<published>2025-12-16T00:02:08Z</published>
-	<updated>2025-12-16T00:23:50Z</updated>
+	<updated>2025-12-20T01:08:36Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Back on November 28, I bought a new cap from <a href="https://www.neweracap.com/pages/our-story">New Era</a>’s web store. They offered a discount of some sort if I gave them a phone number and permitted them to send me marketing messages. That got me curious about what they’d do with my number, and it was a $50-some dollar cap, so I took the discount and gave them my Google Voice number. That was 17 days ago. They sent me 19 SMS marketing messages since then, before I’d seen enough today and called it quits on this experiment. (Or called “STOP”, perhaps, which was the magic word to opt out.) They didn’t send a text every day, and on some days, they sent more than one. But the overall effect was relentlessly annoying.</p>
+<p>Back on November 28, I bought a new cap from <a href="https://www.neweracap.com/pages/our-story">New Era</a>’s web store. They offered a discount of some sort if I gave them a phone number and permitted them to send me marketing messages. That got me curious about what they’d do with my number, and it was a 50-some-dollar cap, so I took the discount and gave them my Google Voice number. That was 17 days ago. They sent me 19 SMS marketing messages since then, before I’d seen enough today and called it quits on this experiment. (Or called “STOP”, perhaps, which was the magic word to opt out.) They didn’t send a text every day, and on some days, they sent more than one. But the overall effect was relentlessly annoying.</p>
 
 <p>I’m sure some of the people who sign up for these texts in exchange for a discount code wind up clicking at least one of the offers sent via SMS and buying more stuff, and the marketing team running this points to those sales as proof that it “works”. You can measure that. It shows up as a number. Some people in business only like arguments that can be backed by numbers. 3 is more than 2. That is indeed a fact.</p>
 
