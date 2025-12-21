@@ -7,13 +7,13 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-12-20T22:43:35Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-12-21T00:12:52Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/12/apple_japan_msca_compliance" />
 	<link rel="shorturl" href="http://df4.us/wsm" />
 	<id>tag:daringfireball.net,2025://1.42502</id>
 	<published>2025-12-20T22:43:34Z</published>
-	<updated>2025-12-20T22:43:35Z</updated>
+	<updated>2025-12-21T00:12:52Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -106,7 +106,7 @@ maintaining their trust.”</p>
 
 <p>Because of the DMA, Apple has delayed and outright withheld major features in the EU. iPhone Mirroring, one of Apple’s best new features in recent years, is still unavailable in the EU. Apple fully expects more features to be delayed or  withheld from the EU as time goes on. (With Apple Watch, they’ve now been forced to <a href="https://daringfireball.net/2025/11/apple_eu_dma_iphone_accessories_wi-fi_sync">remove a feature</a> that existed since Apple Watch debuted in 2015.) There have been no such feature delays (let alone withholdings) in Japan, nor does Apple expect there to be. The MSCA targets specific issues related to competition: how iOS apps are distributed, and how they are monetized. The MSCA choice-screen mandates for web browsers and search engines are clear, and don’t impose any odious or particularly confusing obstacles to users.<sup id="fnr1-2025-12-20"><a href="#fn1-2025-12-20">1</a></sup> Apple has made clear that they don’t agree with every aspect of the MSCA, but if you read between the lines, you can see a begrudging acknowledgement from Apple that the MSCA is well-intended, clear, and attempts to strike a balance between user experience, privacy, and security; respect for Apple’s intellectual property; and the anticompetitive aspects of Apple’s control over app distribution and payments that the law was written to address.</p>
 
-<p>There is a mutual respect here between Apple and Japan that is completely absent between Apple and the European Commission. The MSCA, through its focus and clarity, is also more respectful of <em>users</em>. Users in Japan get the benefit of alternative app distribution (<a href="https://www.macrumors.com/2025/12/18/altstore-japan-launch/">AltSTore is already there</a>) and alternative payment options with no trade-offs like delayed or withheld features. It’s hard to find anything aside from small nits to complain about in the MSCA. It arguably gives Japanese users a better, more robust iOS experience than what Apple offers to the rest of the world.<sup id="fnr2-2025-12-20"><a href="#fn2-2025-12-20">2</a></sup> The DMA, in contrast, has given EU users a worse iOS experience.</p>
+<p>There is a mutual respect here between Apple and Japan that is completely absent between Apple and the European Commission. The MSCA, through its focus and clarity, is also more respectful of <em>users</em>. Users in Japan get the benefit of alternative app distribution (<a href="https://www.macrumors.com/2025/12/18/altstore-japan-launch/">AltStore is already there</a>) and alternative payment options with no trade-offs like delayed or withheld features. It’s hard to find anything aside from small nits to complain about in the MSCA. It arguably gives Japanese users a better, more robust iOS experience than what Apple offers to the rest of the world.<sup id="fnr2-2025-12-20"><a href="#fn2-2025-12-20">2</a></sup> The DMA, in contrast, has given EU users a worse iOS experience.</p>
 
 <p>It’s the practical results of legislation and regulation that matter, not the intentions. The Japanese government seemingly gets that, and acts accordingly.</p>
 
@@ -119,7 +119,7 @@ maintaining their trust.”</p>
 </li>
 
 <li id="fn2-2025-12-20">
-<p>If we had alternative iOS app marketplaces in the US, like they do in the EU and now have in Japan, <a href="https://daringfireball.net/2025/10/iceblock_removed_from_app_store">ICEBlock</a> might still be available for download. I say <em>might</em> because it’s impossible to know whether Apple would attempt to stymie ICEBlock at the notarization level, given <a href="https://mjtsai.com/blog/tag/notarization/">some of the cases</a> where they’ve <a href="https://mjtsai.com/blog/2024/06/14/utm-blocked-outside-app-store-via-notarization/">used notarization to block apps in the EU</a>.&nbsp;<a href="#fnr2-2025-12-20"  class="footnoteBackLink"  title="Jump back to footnote 2 in the text.">&#x21A9;&#xFE0E;︎</a></p>
+<p>If we had alternative iOS app marketplaces in the US, like they do in the EU and now have in Japan, <a href="https://daringfireball.net/2025/10/iceblock_removed_from_app_store">ICEBlock</a> might still be available for download. I say <em>might</em> because it’s impossible to know whether Apple would attempt to stymie ICEBlock at the notarization level, given <a href="https://mjtsai.com/blog/tag/notarization/">some of the cases</a> where they’ve <a href="https://mjtsai.com/blog/2024/06/14/utm-blocked-outside-app-store-via-notarization/">used notarization to block apps in the EU</a>. But if alternative app marketplaces were available in the US, ICEBlock certainly <em>should</em> still be available. Really, it should still be available in the App Store.&nbsp;<a href="#fnr2-2025-12-20"  class="footnoteBackLink"  title="Jump back to footnote 2 in the text.">&#x21A9;&#xFE0E;︎</a></p>
 </li>
 
 </ol>
