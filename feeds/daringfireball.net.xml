@@ -7,7 +7,31 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-12-23T02:26:47Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-12-23T16:56:01Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Trump Justice Department Dopes Made the Rookiest of Rookie Mistakes Attempting to Redact Some Epstein-File PDFs</title>
+	<link rel="alternate" type="text/html" href="https://www.tiktok.com/@krassenstein/video/7586804140869700895" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wss" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/23/trump-doj-pdf-redactions" />
+	<id>tag:daringfireball.net,2025:/linked//6.42508</id>
+	<published>2025-12-23T16:56:00Z</published>
+	<updated>2025-12-23T16:56:01Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Everyone who works with official PDFs in any capacity should know that if you start with a PDF containing text you want to redact, and you just place black bars atop that text and resave the file, the original text is all still there in the new PDF file. It’s the digital equivalent of putting sticky notes atop the text. You don’t even need to crack open the new PDF in a text (or hex) editor and hunt for the original text within non-human-readable PDF formatting code. You just open the PDF in Preview or Acrobat or any other PDF viewer, use the regular text selection cursor to select the text under the black bars, copy, and then paste into any other app. Everyone should know this but <a href="https://daringfireball.net/linked/2025/04/16/meta-redactions">it keeps happening</a>. Now <a href="https://www.tiktok.com/@krassenstein/video/7586804140869700895">it’s happened</a> with the new batch of Epstein files released by the DOJ.</p>
+
+<p>There are <em>major</em> differences between the Trump 1.0 and 2.0 administrations. In the Trump 1.0 administration, many of the most important officials were very competent men. One example would be then-Attorney General William Barr. Barr is contemptible, yes, but smart AF. When Barr’s DOJ released a redacted version of the Mueller Report, they printed the whole thing, made their redactions with actual ink, and then re-scanned every page <a href="https://daringfireball.net/linked/2019/05/02/mueller-pdf-assessment">to generate a new PDF with absolutely no digital trace of the original PDF file</a>. There are ways to properly redact a PDF digitally, but going analog is foolproof.</p>
+
+<p>The Trump 2.0 administration, in contrast, is staffed top to bottom with fools.</p>
+
+<div>
+<a  title="Permanent link to ‘Trump Justice Department Dopes Made the Rookiest of Rookie Mistakes Attempting to Redact Some Epstein-File PDFs’"  href="https://daringfireball.net/linked/2025/12/23/trump-doj-pdf-redactions">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘Bari Weiss Steps Onto the CBS News Glass Cliff of Doom’</title>
 	<link rel="alternate" type="text/html" href="https://www.theverge.com/business/793525/bari-weiss-cbs-news-glass-cliff" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wsr" />
@@ -2091,33 +2115,6 @@ push text-based messages straight to the device.</p>
 
     ]]></content>
   <title>★ iMessage’s Delivery Architecture Makes It Hard to Block Without Blocking All iOS Push Notifications</title></entry><entry>
-	<title>The Real Problem of Humanity</title>
-	<link rel="alternate" type="text/html" href="https://www.harvardmagazine.com/2009/09/james-watson-edward-o-wilson-intellectual-entente" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wrh" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/09/the-real-problem-of-humanity" />
-	<id>tag:daringfireball.net,2025:/linked//6.42461</id>
-	<published>2025-12-09T22:17:20Z</published>
-	<updated>2025-12-09T22:17:21Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Sociobiologist Edward O. Wilson, back in 2009:</p>
-
-<blockquote>
-  <p>The real problem of humanity is the following: we have paleolithic
-emotions; medieval institutions; and god-like technology.</p>
-</blockquote>
-
-<p>A related adage I heard, and internalized, recently: “We’re not thinking creatures who feel; we’re feeling creatures who think.” (<a href="https://kottke.org/25/11/0047871-edward-o-wilson-in-2009">Via Jason Kottke</a>.)</p>
-
-<div>
-<a  title="Permanent link to ‘The Real Problem of Humanity’"  href="https://daringfireball.net/linked/2025/12/09/the-real-problem-of-humanity">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/12/meta_says_fuck_that_metaverse_shit" />
 	<link rel="shorturl" href="http://df4.us/wr5" />
