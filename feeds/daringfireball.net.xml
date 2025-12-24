@@ -7,7 +7,27 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-12-24T02:17:15Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-12-24T16:45:40Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>‘The iPad’s Software Problem Is Permanent’</title>
+	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=bnYLpA5kAbo" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wsx" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/24/snazzy-ipad" />
+	<id>tag:daringfireball.net,2025:/linked//6.42513</id>
+	<published>2025-12-24T16:45:39Z</published>
+	<updated>2025-12-24T16:45:40Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Smart, fair video from Quinn Nelson on the gap that remains between iPadOS 26 and desktop OSes. I think it’s right that there is a gap there. Apple has the Macintosh, the best desktop/workstation platform in the industry. So whatever the ideal is for iPadOS, it ought to fall short of MacOS in terms of technical capabilities, and instead offer a degree of simplicity and can’t-screw-it-up-edness that the Mac can’t match. But, some of the limitations that remain in iPadOS are just frustrating. iPadOS 26 is a huge leap forward, and I think sets the stage for Apple to address those limitations.</p>
+
+<div>
+<a  title="Permanent link to ‘‘The iPad’s Software Problem Is Permanent’’"  href="https://daringfireball.net/linked/2025/12/24/snazzy-ipad">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>I Guess Nothing Is Foolproof</title>
 	<link rel="alternate" type="text/html" href="https://www.theverge.com/2023/6/28/23777298/sony-ftc-microsoft-confidential-documents-marker-pen-scanner-oops" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wsw" />
@@ -1876,41 +1896,6 @@ and without dyslexia.</p>
 
 <div>
 <a  title="Permanent link to ‘Special Dyslexia Fonts Are Based on Voodoo Pseudoscience’"  href="https://daringfireball.net/linked/2025/12/12/dyslexia-fonts-pseudoscience">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>iMessage Doesn’t Use APNs for Attachments</title>
-	<link rel="alternate" type="text/html" href="https://support.apple.com/guide/security/how-imessage-sends-and-receives-messages-sec70e68c949/web" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wro" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/12/imessage-apns-attachments" />
-	<id>tag:daringfireball.net,2025:/linked//6.42468</id>
-	<published>2025-12-12T17:29:02Z</published>
-	<updated>2025-12-12T17:30:14Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Small follow-up point re: <a href="https://daringfireball.net/2025/12/imessage_push_notifications_hard_to_block">my post this week</a> on iMessage’s delivery architecture being built atop the Apple Push Notification service:</p>
-
-<blockquote>
-  <p>APNs can only relay messages up to 4 or 16 KB in size, depending
-on the iOS or iPadOS version. If the message text is too long or
-if an attachment such as a photo is included, the attachment is
-encrypted using AES in CTR mode with a randomly generated 256-bit
-key and uploaded to iCloud. The AES key for the attachment, its
-Uniform Resource Identifier (URI), and an SHA-1 hash of its
-encrypted form are then sent to the recipient as the contents of
-an iMessage, with their confidentiality and integrity protected
-through normal iMessage encryption, as shown in the following
-diagram.</p>
-</blockquote>
-
-<p>This explains why you can often text, but not send or receive images, with iMessage over in-flight Wi-Fi. (<a href="https://infosec.exchange/@adamshostack/115696265565038136">Thanks to Adam Shostack</a> for flagging this detail.)</p>
-
-<div>
-<a  title="Permanent link to ‘iMessage Doesn’t Use APNs for Attachments’"  href="https://daringfireball.net/linked/2025/12/12/imessage-apns-attachments">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
