@@ -7,7 +7,27 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-12-24T16:45:40Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-12-24T16:54:17Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Quinn Nelson on Apple’s Executive Shuffling</title>
+	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=e1E-yfcKdUw" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wsy" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/24/snazzy-apple-execs" />
+	<id>tag:daringfireball.net,2025:/linked//6.42514</id>
+	<published>2025-12-24T16:51:00Z</published>
+	<updated>2025-12-24T16:54:17Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Another great video from Quinn Nelson. If your dumb cousin who knows you’re an Apple nerd approaches you on Christmas and says “*Hey what’s going on at Apple, Bloomberg says it’s rats leaving a sinking ship over there?” and you don’t feel like explaining, just tell him to watch this video. Just the perfect explanation.</p>
+
+<div>
+<a  title="Permanent link to ‘Quinn Nelson on Apple’s Executive Shuffling’"  href="https://daringfireball.net/linked/2025/12/24/snazzy-apple-execs">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘The iPad’s Software Problem Is Permanent’</title>
 	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=bnYLpA5kAbo" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wsx" />
@@ -1817,85 +1837,6 @@ world building apps for everything from devices to data centers.</p>
 
 <div>
 <a  title="Permanent link to ‘Apple at the AWS re:Invent 2025 Keynote’"  href="https://daringfireball.net/linked/2025/12/12/apple-aws-reinvent-keynote">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Special Dyslexia Fonts Are Based on Voodoo Pseudoscience</title>
-	<link rel="alternate" type="text/html" href="https://www.edutopia.org/article/do-dyslexia-fonts-actually-work" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wrp" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/12/dyslexia-fonts-pseudoscience" />
-	<id>tag:daringfireball.net,2025:/linked//6.42469</id>
-	<published>2025-12-12T18:37:47Z</published>
-	<updated>2025-12-16T20:00:12Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Youki Terada, writing for Edutopia in 2022 (via <a href="https://typo.social/@jenskutilek/115701215633708390">Jens Kutílek</a>):</p>
-
-<blockquote>
-  <p>Under close scrutiny, the evidence for dyslexia-friendly fonts
-falls apart. In a <a href="https://link.springer.com/article/10.1007/s11881-016-0127-1">2017 study</a>, for example, researchers tested
-whether OpenDyslexic, a popular font with thicker lines near the
-bottom of the letters, could improve the reading rate and accuracy
-for young children with dyslexia. According to the developers of
-the font, which is open-source and free of charge, the “heaviness”
-of the letters prevented them from turning upside down for readers
-with dyslexia, which they claimed would improve reading accuracy
-and speed.</p>
-
-<p>Researchers put the font to the test, comparing it with two other
-popular fonts designed for legibility — Arial and Times New Roman — and discovered that the purportedly dyslexia-friendly font
-actually reduced reading speed and accuracy. In addition, none of
-the students preferred to read material in OpenDyslexic, a
-surprising rebuke for a font specifically designed for the task.</p>
-
-<p>In a separate <a href="https://link.springer.com/article/10.1007/s11881-017-0154-6">2018 study</a>, researchers compared another popular
-dyslexia font — Dyslexie, which charges a fee for usage — with
-Arial and Times New Roman and found no benefit to reading
-accuracy and speed. As with the previous dyslexia font, children
-expressed a preference for the mainstream fonts. “All in all, the
-font Dyslexie, developed to facilitate the reading of dyslexic
-people, does not have the desired effect,” the researchers
-concluded. “Children with dyslexia do not read better when text
-is printed in the font Dyslexie than when text is printed in
-Arial or Times New Roman.”</p>
-</blockquote>
-
-<p>Quoting from the abstract of <a href="https://link.springer.com/article/10.1007/s11881-016-0127-1">the first study cited above</a>:</p>
-
-<blockquote>
-  <p>Results from this alternating treatment experiment show no
-improvement in reading rate or accuracy for individual students
-with dyslexia, as well as the group as a whole. While some
-students commented that [OpenDyslexic] was “new” or “different”,
-none of the participants reported preferring to read material
-presented in that font. These results indicate there may be no
-benefit for translating print materials to this font.</p>
-</blockquote>
-
-<p>The problem isn’t dyslexia if you don’t notice that <a href="https://opendyslexic.org/">OpenDyslexic</a> is  “different”.</p>
-
-<p>Quoting from <a href="https://link.springer.com/article/10.1007/s11881-017-0154-6">the second cited study</a>:</p>
-
-<blockquote>
-  <p>Words written in Dyslexie font were not read faster or more
-accurately. Moreover, participants showed a preference for the
-fonts Arial and Times New Roman rather than Dyslexie, and again,
-preference was not related to reading performance. These
-experiments clearly justify the conclusion that the Dyslexie font
-neither benefits nor impedes the reading process of children with
-and without dyslexia.</p>
-</blockquote>
-
-<p>OpenDyslexic’s website has <a href="https://opendyslexic.org/related-research">a “related research” page</a> but of the four articles they link to, three are 404s, and the other one only studied “extra-large letter spacing”. I chased down <a href="https://vtechworks.lib.vt.edu/server/api/core/bitstreams/d2aff585-f8a5-4152-b9c8-a177f84a3979/content">the correct link</a> to one of the other articles they cite, and the only fonts it studied were Verdana, Arial, Georgia, and Times.</p>
-
-<p>Some people claim to prefer reading text set with OpenDyslexic. Some people like Comic Sans, too. But I was unaware that these typefaces that purport to be designed specifically to benefit people with dyslexia are based on misguided beliefs that dyslexia is a visual problem, and that actual research shows <a href="https://daringfireball.net/linked/2025/12/16/debunking-special-typefaces-for-dyslexia">they do not provide the benefits they claim to</a>. They’re just ugly fonts.</p>
-
-<div>
-<a  title="Permanent link to ‘Special Dyslexia Fonts Are Based on Voodoo Pseudoscience’"  href="https://daringfireball.net/linked/2025/12/12/dyslexia-fonts-pseudoscience">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
