@@ -7,7 +7,41 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-12-23T23:19:58Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-12-24T02:17:15Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>I Guess Nothing Is Foolproof</title>
+	<link rel="alternate" type="text/html" href="https://www.theverge.com/2023/6/28/23777298/sony-ftc-microsoft-confidential-documents-marker-pen-scanner-oops" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wsw" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/23/i-guess-nothing-is-foolproof" />
+	<id>tag:daringfireball.net,2025:/linked//6.42512</id>
+	<published>2025-12-24T02:16:45Z</published>
+	<updated>2025-12-24T02:17:15Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>From a 2023 report at The Verge:</p>
+
+<blockquote>
+  <p>Sony highly confidential information about its PlayStation
+business has just been revealed by mistake. As part of the FTC v.
+Microsoft hearing, Sony supplied a document from PlayStation chief
+Jim Ryan that includes redacted details on the margins Sony shares
+with publishers, its <em>Call of Duty</em> revenues, and even the cost of
+developing some of its games.</p>
+
+<p>It looks like someone redacted the documents with a black Sharpie — but when you scan them in, it’s easy to see some of the
+redactions. Oops.</p>
+</blockquote>
+
+<p>This is sort of the exception that proves the rule <a href="https://daringfireball.net/linked/2025/12/23/trump-doj-pdf-redactions">regarding redactions</a>. If you redact a document digitally, you have to know what to look for (e.g. metadata) to be certain you’ve redacted everything you want to redact. If you redact a document on paper, you can just look at it, with good light and sharp eyes.</p>
+
+<div>
+<a  title="Permanent link to ‘I Guess Nothing Is Foolproof’"  href="https://daringfireball.net/linked/2025/12/23/i-guess-nothing-is-foolproof">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘Terrence Malick’s Disciples’</title>
 	<link rel="alternate" type="text/html" href="https://yalereview.org/article/bilge-ebiri-terrence-malick" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wsv" />
@@ -1877,39 +1911,6 @@ diagram.</p>
 
 <div>
 <a  title="Permanent link to ‘iMessage Doesn’t Use APNs for Attachments’"  href="https://daringfireball.net/linked/2025/12/12/imessage-apns-attachments">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>OpenAI Releases GPT-5.2</title>
-	<link rel="alternate" type="text/html" href="https://openai.com/index/introducing-gpt-5-2/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wrn" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/12/gpt-5-2" />
-	<id>tag:daringfireball.net,2025:/linked//6.42467</id>
-	<published>2025-12-12T15:53:32Z</published>
-	<updated>2025-12-12T15:53:33Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>OpenAI:</p>
-
-<blockquote>
-  <p>In ChatGPT, GPT‑5.2 Instant, Thinking, and Pro will begin rolling
-out today, starting with paid plans. In the API, they are
-available now to all developers.</p>
-
-<p>Overall, GPT‑5.2 brings significant improvements in general
-intelligence, long-context understanding, agentic tool-calling,
-and vision — making it better at executing complex, real-world
-tasks end-to-end than any previous model.</p>
-</blockquote>
-
-<p>5.1 was released just <a href="https://openai.com/index/gpt-5-1/">one month ago</a>, but 5.2 delivers a slew of measurable improvements across the board. Where 5.1 was <a href="https://daringfireball.net/2025/11/chatgpt_5-1_with_renamed_and_new_personalities">seemingly more about the <em>feel</em> of responses</a>, the personality, 5.2 was clearly focused on tangible and benchmarkable gains.</p>
-
-<div>
-<a  title="Permanent link to ‘OpenAI Releases GPT-5.2’"  href="https://daringfireball.net/linked/2025/12/12/gpt-5-2">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
