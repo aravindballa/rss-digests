@@ -7,7 +7,29 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-12-28T04:46:26Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-12-28T19:42:57Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>SoundSource 6</title>
+	<link rel="alternate" type="text/html" href="https://weblog.rogueamoeba.com/2025/12/04/soundsource-6-is-here/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wt2" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/28/soundsource-6" />
+	<id>tag:daringfireball.net,2025:/linked//6.42518</id>
+	<published>2025-12-28T19:39:53Z</published>
+	<updated>2025-12-28T19:42:57Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Major update to Rogue Amoeba’s essential audio utility for the Mac. I’ve written about <a href="https://daringfireball.net/linked/2020/08/09/soundsource-5">versions 5</a> <a href="https://daringfireball.net/linked/2019/04/04/soundsource-4">and 4</a> previously, and everything I wrote then remains true. SoundSource remains the system-wide audio menu item that ought to be built into MacOS, giving you easy, intuitive control over every audio <em>device</em> (input and output), and easy, intuitive control over every <em>app</em> in which you play or record audio. That one seemingly-simple app does both those things is quite the remarkable design achievement. And aside from that usability, SoundSource remains an exemplar of UI design stylistically — distinctive and branded, while looking and feeling in every way like a standard Mac app.</p>
+
+<p>New tentpole features in version 6 include fine-grained AirPlay support (e.g. route output from one app over AirPlay while leaving the rest of your system’s audio output local to your Mac), groups for output devices, and a new “Quick Configs” feature for saving and switching between, well, quick configurations. $49 for a new license, $25 to upgrade from a previous one.</p>
+
+<div>
+<a  title="Permanent link to ‘SoundSource 6’"  href="https://daringfireball.net/linked/2025/12/28/soundsource-6">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Tim Cook Posts AI Slop in Christmas Message on Twitter/X, Ostensibly to Promote ‘Pluribus’</title>
 	<link rel="alternate" type="text/html" href="https://x.com/tim_cook/status/2003873311504130173" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wt1" />
@@ -1780,26 +1802,6 @@ outlets and other media arms. How’s that going to go over?</p>
 
 <div>
 <a  title="Permanent link to ‘Pondering Middle East Petrostates as American Media Owners’"  href="https://daringfireball.net/linked/2025/12/13/pondering-middle-east-petrostates-as-american-media-owners">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>The Infinite Loop of One LLM Talking to Another</title>
-	<link rel="alternate" type="text/html" href="https://www.instagram.com/reel/DRd2ldWkQYr" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wrt" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/13/llm-infinite-loop" />
-	<id>tag:daringfireball.net,2025:/linked//6.42473</id>
-	<published>2025-12-13T16:26:23Z</published>
-	<updated>2025-12-13T16:26:23Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>This is very funny, but also a good indication of just how far away these things are from actual intelligence. First, a reasonable human being would never get caught in a loop like this. Second, only humans can not only recognize what’s going on here, but also see the humor in it.</p>
-
-<div>
-<a  title="Permanent link to ‘The Infinite Loop of One LLM Talking to Another’"  href="https://daringfireball.net/linked/2025/12/13/llm-infinite-loop">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
