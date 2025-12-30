@@ -7,20 +7,20 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-12-30T18:36:01Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
-	<title>‘Christiane’s Gift’</title>
-	<link rel="alternate" type="text/html" href="https://satori.substack.com/p/christianes-gift" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wt6" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/30/christianes-gift" />
-	<id>tag:daringfireball.net,2025:/linked//6.42522</id>
-	<published>2025-12-30T18:36:00Z</published>
-	<updated>2025-12-30T18:36:01Z</updated>
+<updated>2025-12-30T19:02:59Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/12/do_a_better_job_on_the_wings" />
+	<link rel="shorturl" href="http://df4.us/wt7" />
+	<id>tag:daringfireball.net,2025://1.42523</id>
+	<published>2025-12-30T18:54:20Z</published>
+	<updated>2025-12-30T18:54:21Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Lovely little story from Randy Walters, originally published back in 2012, about a visit to a Frankfurt museum hosting an exhibit from Stanley Kubrick’s personal archives in 2004. I toured the same exhibit <a href="https://www.thecjm.org/pages/57">at the Contemporary Jewish Museum in San Francisco in 2016</a>; it was <a href="https://www.youtube.com/watch?v=a31Gv0lPlAw">remarkable</a>. Included <a href="https://www.youtube.com/watch?v=5rZTrZwmMJ0">the famed ƒ/0.7 Zeiss lens</a> (designed for use by NASA for satellite photography in space) and <a href="https://daringfireball.net/linked/2015/04/02/kubricks-lenses">jury-rigged Mitchell BNC camera Kubrick commissioned</a> so he could use that lens to shoot scenes by candlelight in <em>Barry Lyndon</em>.</p>
+	<summary type="text">Kubrick on the Icarus myth.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>Randy Walters wrote a lovely little story, “<a href="https://satori.substack.com/p/christianes-gift">Christiane’s Gift</a>”, originally published back in 2012, about a visit to a Frankfurt museum hosting an exhibit from Stanley Kubrick’s personal archives in 2004. I toured the same exhibit <a href="https://www.thecjm.org/pages/57">at the Contemporary Jewish Museum in San Francisco in 2016</a>; it was <a href="https://www.youtube.com/watch?v=a31Gv0lPlAw">remarkable</a>. Included <a href="https://www.youtube.com/watch?v=5rZTrZwmMJ0">the famed ƒ/0.7 Zeiss lens</a> (designed for use by NASA for satellite photography in space) and <a href="https://daringfireball.net/linked/2015/04/02/kubricks-lenses">jury-rigged Mitchell BNC camera Kubrick commissioned</a> so he could use that lens to shoot scenes by candlelight in <em>Barry Lyndon</em>.</p>
 
 <p>In the preface to his story, Walters references this quote from Kubrick, from <a href="https://www.youtube.com/watch?v=y5KHGN76AFE">his acceptance speech</a> for the D.W. Griffith lifetime achievement award from the Director’s Guild of America in 1998:</p>
 
@@ -34,12 +34,10 @@ wax and feathers, and do a better job on the wings.”</p>
 
 <p>That Zeiss lens/Mitchell BNC was a better job on the wings.</p>
 
-<div>
-<a  title="Permanent link to ‘‘Christiane’s Gift’’"  href="https://daringfireball.net/linked/2025/12/30/christianes-gift">&nbsp;★&nbsp;</a>
-</div>
 
-	]]></content>
-  </entry><entry>
+
+    ]]></content>
+  <title>★ ‘Do a Better Job on the Wings’</title></entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://www.listenlater.net/?referrer=df" />
 	<link rel="shorturl" href="http://df4.us/wt5" />
@@ -128,7 +126,7 @@ in that context.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/28/copilot-money" />
 	<id>tag:daringfireball.net,2025:/linked//6.42519</id>
 	<published>2025-12-28T19:55:51Z</published>
-	<updated>2025-12-28T19:55:51Z</updated>
+	<updated>2025-12-30T19:02:59Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -1847,6 +1845,47 @@ short weeks.</p>
 
 	]]></content>
   </entry><entry>
+	<title>Lucas de Groot, Designer of Calibri, on the State Department’s Switch Back to Times New Roman</title>
+	<link rel="alternate" type="text/html" href="https://news.ycombinator.com/item?id=46229533" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wrv" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/13/de-groot-calibri-times-new-roman" />
+	<id>tag:daringfireball.net,2025:/linked//6.42475</id>
+	<published>2025-12-13T20:38:18Z</published>
+	<updated>2025-12-13T20:38:19Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>From the LucasFonts account, in a comment on Hacker News:</p>
+
+<blockquote>
+  <p>Professional typography can be achieved with both serif and
+sans-serif fonts. However, Times New Roman — a typeface older
+than the current president — presents unique challenges.
+Originally crafted in Great Britain for newspaper printing, Times
+was optimised for paper, with each letterform meticulously cut and
+tested for specific sizes. In the digital era, larger size
+drawings were repurposed as models, resulting in a typeface that
+appears too thin and sharp when printed at high quality.</p>
+
+<p>Serif fonts are often perceived as more traditional, but they are
+also more demanding to use effectively. While a skilled
+typographer can, in theory, produce excellent results with Times,
+using it in its default digital form is not considered
+professional practice.</p>
+</blockquote>
+
+<p>This echoes my thoughts: the State Department should use a traditional-looking serif typeface, but they should choose — or even better, commission — something far better than Times New Roman.</p>
+
+<p>Also from that Hacker News thread, comes <a href="https://news.ycombinator.com/item?id=46244661">this</a> delightful Easter egg: <a href="https://www.google.com/search?q=Lucas+de+Groot">do a Google search for “Lucas de Groot”</a>, and the results will be set in Calibri. Same thing for common fonts like, yes, <a href="https://www.google.com/search?q=Times+New+Roman">Times New Roman</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Lucas de Groot, Designer of Calibri, on the State Department’s Switch Back to Times New Roman’"  href="https://daringfireball.net/linked/2025/12/13/de-groot-calibri-times-new-roman">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/12/full_text_of_marco_rubio_state_dept_directive_times_new_roman" />
 	<link rel="shorturl" href="http://df4.us/wrk" />
@@ -1978,57 +2017,4 @@ Department’s official correspondence.</p>
 
 
     ]]></content>
-  <title>★ The Full Text of Marco Rubio’s Directive on State Department Typography, Re-Establishing Times New Roman</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/12/imessage_push_notifications_hard_to_block" />
-	<link rel="shorturl" href="http://df4.us/wri" />
-	<id>tag:daringfireball.net,2025://1.42462</id>
-	<published>2025-12-09T22:42:45Z</published>
-	<updated>2025-12-12T17:23:12Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">Draw your own conclusions about cellular carriers and enterprise network administrators being similar to authoritarian governments.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>From Apple’s <a href="https://support.apple.com/guide/security/imessage-security-overview-secd9764312f/web">iMessage Security Overview</a>:</p>
-
-<blockquote>
-  <p>Apple iMessage is a messaging service for iPhone, iPad, Mac, Apple
-Watch, and Apple Vision Pro. Relying on the Apple Push
-Notification service (APNs), iMessage lets users send texts and
-attachments like photos, contacts, locations, links, and emoji.
-Messages sync across all devices, enabling seamless conversations.
-Apple doesn’t store message content or attachments, which are all
-secured with end-to-end encryption so that no one but the sender
-and receiver can access them. Apple canʼt decrypt the data.</p>
-</blockquote>
-
-<p><a href="https://mastodon.social/@magebarf/115686285616651788">This thread on Mastodon</a>, prompted by <a href="https://daringfireball.net/linked/2025/12/07/russia-blocks-facetime-and-snapchat">my wondering why Russia is blocking FaceTime but not iMessage</a>, suggests that because iMessage messages are sent via APNs, a network (or entire nation) seeking to block iMessage could only do so by blocking all push notifications for iOS. That’s why on airplanes with “free messaging” on in-flight Wi-Fi, you usually also get all incoming push notifications, even for services that aren’t available on the free Wi-Fi. (It also explains why, on in-flight Wi-Fi and similar restricted networks, text-only messages go through, <a href="https://infosec.exchange/@adamshostack/115696265565038136">but images and other attachments do not</a>.)</p>
-
-<p><a href="https://support.gfi.com/article/107782-when-blocking-imessage-push-notifications-are-blocked">Here’s a support document from GFI Software</a>, which makes network appliances for enterprises and schools:</p>
-
-<blockquote>
-  <p>The Exinda appliance gives administrators multiple options to stop
-or throttle applications that can use a lot of bandwidth in the
-network. An application that many would consider discardable or
-able to be easily limited in bandwidth is iMessage. When blocking
-or discarding iMessage traffic, users may experience an issue
-where all push notifications on iOS devices that have traffic
-going through the Exinda, i.e., on WiFi, will stop displaying.</p>
-
-<p>Root Cause: Apple uses the Apple Push Notification Service (APNS)
-to allow application creators to push out information to iOS
-devices. This includes mail servers being able to push out
-notifications of calendar and email, or app creators to be able to
-push text-based messages straight to the device.</p>
-</blockquote>
-
-<p>Apple might have architected iMessage this way to make iMessage veto-proof with cellular carriers, who, at the time of <a href="https://www.apple.com/newsroom/2011/06/06New-Version-of-iOS-Includes-Notification-Center-iMessage-Newsstand-Twitter-Integration-Among-200-New-Features/">iMessage’s announcement in June 2011</a>, were already promoting iPhone push notifications as a reason to upgrade from a dumb phone to an iPhone with a more expensive plan. The carriers might have been tempted to block iMessage over cell networks to keep people using SMS, but they couldn’t without blocking all push notifications, which wouldn’t be tenable. But this architecture also makes iMessage hard to block in authoritarian countries where iPhones are even vaguely popular. (Maybe this helps explain why iMessage isn’t blocked in China, too?)</p>
-
-<p>Draw your own conclusions about cellular carriers and enterprise network administrators being similar to authoritarian governments.</p>
-
-
-
-    ]]></content>
-  <title>★ iMessage’s Delivery Architecture Makes It Hard to Block Without Blocking All iOS Push Notifications</title></entry></feed><!-- THE END -->
+  <title>★ The Full Text of Marco Rubio’s Directive on State Department Typography, Re-Establishing Times New Roman</title></entry></feed><!-- THE END -->
