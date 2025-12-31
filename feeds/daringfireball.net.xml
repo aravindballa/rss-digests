@@ -7,7 +7,38 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2025-12-30T23:57:12Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+<updated>2025-12-31T16:49:04Z</updated><rights>Copyright © 2025, John Gruber</rights><entry>
+	<title>Photoshop 1.0 and the Early Macintosh HIG</title>
+	<link rel="alternate" type="text/html" href="https://mastodon.social/@gruber/115770281204538177" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wtc" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/31/photoshop-1-and-the-early-macintosh-hig" />
+	<id>tag:daringfireball.net,2025:/linked//6.42528</id>
+	<published>2025-12-31T16:49:03Z</published>
+	<updated>2025-12-31T16:49:04Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>After posting <a href="https://daringfireball.net/linked/2025/12/19/photoshop-1-source-code">a link</a> to the Computer History Museum’s <a href="https://computerhistory.org/blog/adobe-photoshop-source-code/">release of the Photoshop 1.0 source code</a> last week, I spent some time paging through the original Photoshop manuals. I found a screenshot of the dialog box where you entered your serial number, and posted it to Mastodon, writing:</p>
+
+<blockquote>
+  <p>If you’re annoyed by something that is obviously wrong about this
+dialog box from Photoshop 1.0, you’re my type of person. (Even
+more so if, like me, you remember being annoyed by this at the
+time, when you were entering your cracked SN.)</p>
+</blockquote>
+
+<p>What a lovely thread it generated, replete with screenshots from early versions of the HIG.</p>
+
+<p><strong>Sidenote:</strong> I would eat my hat if Alan Dye knew what was wrong and gross about this dialog box. This is exactly the sort of <em>sweating the idiomatic usability details</em> thing that has frequently been wrong in Apple software in the last decade. The response from Dye and those in his cohort would be, I’d wager, to roll their eyes with a “<em>Who gives a shit what the UI guidelines were forty fucking years ago?</em>” dismissal. Here’s the thing. <em>Styles</em> have changed as time has marched on. Technical capabilities — screen resolution, color — have marched on. But the fundamental idioms of good Macintosh UI design are timeless (and many of them ought to apply to Apple’s other platforms). These idioms are like grammar. Slang changes. Language forever moves forward. But many important idioms are so fundamental they do not change. Styles and technical advances have advanced over time in filmmaking and print design too, but the basic principles of good cinema and graphic layout are timeless. Only a fool dismisses the collective knowledge passed down by those who came before us. </p>
+
+<div>
+<a  title="Permanent link to ‘Photoshop 1.0 and the Early Macintosh HIG’"  href="https://daringfireball.net/linked/2025/12/31/photoshop-1-and-the-early-macintosh-hig">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘I’m in Charge at This Hertz Location, and Buddy, You’re Not Getting a Car Today’</title>
 	<link rel="alternate" type="text/html" href="https://www.mcsweeneys.net/articles/im-in-charge-at-this-hertz-location-and-buddy-youre-not-getting-a-car-today" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wtb" />
@@ -1801,91 +1832,6 @@ text prompts in Google’s AI apps, including of Darth Vader
 
 <div>
 <a  title="Permanent link to ‘Disney, Immediately After Partnering With OpenAI for Sora, Sends Google a Cease-and-Desist Letter Accusing Them of Copyright Infringement on ‘Massive Scale’’"  href="https://daringfireball.net/linked/2025/12/15/disney-google-cease-and-desist">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Roomba Maker iRobot Declares Bankruptcy, Falls Into Chinese Hands</title>
-	<link rel="alternate" type="text/html" href="https://www.wsj.com/business/roomba-maker-declares-bankruptcy-but-tries-to-ease-bricking-fears-fe73dff2?st=XATuAs" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wrz" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/15/roomba-maker-irobot-declares-bankruptcy" />
-	<id>tag:daringfireball.net,2025:/linked//6.42479</id>
-	<published>2025-12-15T18:50:21Z</published>
-	<updated>2025-12-15T18:50:21Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>John Keilman, reporting for The Wall Street Journal (gift link):</p>
-
-<blockquote>
-  <p>The company that makes Roomba robotic vacuums declared bankruptcy
-Sunday but said its devices will continue to function normally
-while the company restructures.</p>
-
-<p>Massachusetts-based iRobot has struggled financially for
-years, beset by foreign competition that made cheaper and, in the
-opinion of some buyers, technologically superior autonomous
-vacuums. When a proposed sale to Amazon.com fell through in 2024
-<a href="https://www.wsj.com/business/retail/amazon-irobot-scrap-acquisition-deal-7072122f">because of regulatory concerns</a>, the company’s share price
-plummeted.</p>
-
-<p>Founded in 1990, iRobot’s autonomous vacuum cleaners helped
-pioneer robotics for consumers. Many recent versions of the Roomba
-have features that are controlled through the brand’s app. Some
-owners have worried that, similar to other products tied to the
-internet, their Roombas could “brick” — or stop working — if the
-company went under. iRobot said it anticipates no disruptions to
-its product support or app functionality.</p>
-</blockquote>
-
-<p>Matt Stoller, author of the (generally excellent) website <a href="https://www.thebignewsletter.com/">Big</a>, <a href="https://x.com/matthewstoller/status/2000567118207828114">on Twitter/X today</a>:</p>
-
-<blockquote>
-  <p>iRobot is selling itself to Chinese manufacturers, a result of
-hedge fund attack a decade ago that gutted the company. Wall
-Street is a threat to our national sovereignty.</p>
-</blockquote>
-
-<p>Matt Stoller, author of the (generally knee-jerk anti-acquisition) website Big, <a href="https://x.com/matthewstoller/status/1555530144407867392">on Twitter back in 2022</a>, when Amazon announced its intended acquisition:</p>
-
-<blockquote>
-  <p>Amazon just bought iRobot, which has immense amounts of data about
-people’s physical homes. It never ends. Congress should have
-passed <a href="https://x.com/TomCottonAR">@TomCottonAR</a>’s bill to bar big tech mergers.</p>
-
-<p>[Press release: “<a href="https://www.prnewswire.com/news-releases/amazon-and-irobot-sign-an-agreement-for-amazon-to-acquire-irobot-301600720.html">Amazon and iRobot sign an agreement for Amazon to acquire iRobot</a>”]</p>
-</blockquote>
-
-<p>You can’t have it both ways. If Amazon’s proposed acquisition would have gone through, iRobot, an American company, would now be a (small) subsidiary of Amazon, another American company. The acquisition did not go through, which is what Stoller wanted, and now here we are with iRobot — which in Stoller’s own description “has immense amounts of data about people’s physical homes” — in the hands of a Chinese company.</p>
-
-<p>iRobot’s demise wasn’t caused by hedge fund investments a decade ago. The hedge fund vultures swooped in after the Amazon acquisition collapsed in early 2024. Here’s Connie Loizos, writing yesterday for TechCrunch:</p>
-
-<blockquote>
-  <p>It seemed like a fairy tale ending — the scrappy MIT spinoff
-absorbed into the Everything Store’s sprawling empire.</p>
-
-<p>Except European regulators had other ideas. Indeed, amid threats
-they would block the deal — they believed Amazon could foreclose
-rivals by restricting or degrading access to its marketplace — Amazon and iRobot agreed to <a href="https://www.wsj.com/business/retail/amazon-irobot-scrap-acquisition-deal-7072122">kill the deal</a> in January 2024,
-with Amazon paying a $94 million breakup fee and walking away.
-Angle resigned. The company’s shares nosedived. It shed 31% of its
-workforce.</p>
-
-<p>What followed afterward was a slow-motion collapse. Earnings had
-been declining since 2021 thanks to supply chain chaos and Chinese
-competitors flooding the market with cheaper robot vacuums.</p>
-</blockquote>
-
-<p>iRobot didn’t get big enough on its own quickly enough. It was under fierce competitive pressure from Chinese robot vacuums. Roombas seemed groundbreaking and innovative at first, but technical progress stalled. Amazon’s hands aren’t exactly clean in terms of putting the squeeze on iRobot: the primary place where the cheaper Chinese robot vacuums were being sold was, of course, Amazon.</p>
-
-<p>By 2022, the Amazon acquisition was iRobot’s lifeline. <a href="https://www.wsj.com/business/retail/amazon-irobot-scrap-acquisition-deal-7072122f">EU regulators wanted it shot down</a>, and despite the fact that it was one American company trying to acquire another, the anti-big-tech Biden administration clearly preferred to let the deal collapse. The US should have told the EU to mind their own companies.</p>
-
-<p>Now iRobot is in Chinese hands, the worst possible outcome. The Amazon acquisition wasn’t anti-competitive — it was iRobot’s last chance to remain competitive.</p>
-
-<div>
-<a  title="Permanent link to ‘Roomba Maker iRobot Declares Bankruptcy, Falls Into Chinese Hands’"  href="https://daringfireball.net/linked/2025/12/15/roomba-maker-irobot-declares-bankruptcy">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
