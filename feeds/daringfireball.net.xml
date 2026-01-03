@@ -7,7 +7,31 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-03T22:41:26Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-03T23:05:53Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Listen Later</title>
+	<link rel="alternate" type="text/html" href="https://www.listenlater.net/?referrer=df" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wth" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/03/listen-later" />
+	<id>tag:daringfireball.net,2026:/linked//6.42533</id>
+	<published>2026-01-03T23:05:53Z</published>
+	<updated>2026-01-03T23:05:53Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks to Listen Later for sponsoring this week at DF. Listen Later is a super simple, super useful service that turns articles into podcast episodes. When you sign up, you get a custom email address to send articles to; every article you forward to your Listen Later address is transformed into <em>very</em> human-like narration, and gets delivered to your private podcast feed. You can subscribe to your private Listen Later podcast feed in any podcast app.</p>
+
+<p>In addition to the email gateway, <a href="https://www.listenlater.net/tips">there’s a Shortcut</a> for sending articles from Safari (on Mac or iOS), a web extension for Chrome, and a simple web interface for submitting new articles. It’s very simple and the narrated versions sound great.</p>
+
+<p><a href="https://www.listenlater.net/?referrer=df">Sign up for free and start listening today</a>. New users get $2 in credits to try it out — no commitment. And if you like it, you simply prepay for credits as you go. There’s no subscription — you simply pay for what you use. I wish more services had a pay-as-you-go model like Listen Later’s.</p>
+
+<div>
+<a  title="Permanent link to ‘Listen Later’"  href="https://daringfireball.net/linked/2026/01/03/listen-later">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Matthew Dowd Exposes the Pickle 1 XR Glasses as a Preposterous Fraud</title>
 	<link rel="alternate" type="text/html" href="https://x.com/thedowd/status/2007337800430198913?s=20" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wtg" />
@@ -1833,62 +1857,4 @@ or something, you know?”</p>
 
 
     ]]></content>
-  <title>★ Apple TV’s New Fanfare</title></entry><entry>
-	<title>‘A Brief History of Times New Roman’</title>
-	<link rel="alternate" type="text/html" href="https://typographyforlawyers.com/a-brief-history-of-times-new-roman.html" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/ws3" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/15/a-brief-history-of-timesnewroman" />
-	<id>tag:daringfireball.net,2025:/linked//6.42483</id>
-	<published>2025-12-16T01:03:17Z</published>
-	<updated>2025-12-16T05:28:11Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p><a href="https://daringfireball.net/linked/2025/12/10/butterick-times-new-roman">One more</a> from Matthew Butterick, from his <em>Typography for Lawyers</em>, and a good <a href="https://daringfireball.net/linked/2025/12/15/the-scourge-of-arial">pairing</a> with Mark Simonson’s “<a href="https://www.marksimonson.com/notebook/view/the-scourge-of-arial/">The Scourge of Arial</a>”:</p>
-
-<blockquote>
-  <p>Yet it’s an open question whether its longevity is attributable to
-its quality or merely its ubiquity. Helvetica still inspires
-enough affection to have been the subject of a 2007 documentary
-feature. Times New Roman, meanwhile, has not attracted similar
-acts of homage.</p>
-
-<p>Why not? Fame has a dark side. When Times New Roman appears in a
-book, document, or advertisement, it connotes apathy. It says, “I
-submitted to the font of least resistance.” Times New Roman is not
-a font choice so much as the absence of a font choice, like the
-blackness of deep space is not a color. To look at Times New Roman
-is to gaze into the void.</p>
-</blockquote>
-
-<p>As Simonson mentions in “The Scourge of Arial”, regarding Helvetica’s enduring popularity:</p>
-
-<blockquote>
-  <p>As it spread into the mainstream in the ’70s, many designers tired
-of it and moved on to other typographic fashions, but by then it
-had become a staple of everyday design and printing. So in the
-early ’80s when Adobe developed the PostScript page description
-language, it was no surprise that they chose Helvetica as one of
-the basic four fonts to be included with every PostScript
-interpreter they licensed (along with Times, Courier, and Symbol).
-Adobe licensed its fonts from the original foundries,
-demonstrating their respect and appreciation for the integrity of
-type, type foundries and designers. They perhaps realized that if
-they had used knock-offs of popular typefaces, the professional
-graphic arts industry — a key market — would not accept them.</p>
-</blockquote>
-
-<p>To my mind, Helvetica, Times, and Courier are <em>the</em> three canonical “default” fonts. One modern sans, one modern serif, and one for “typewriter”/code. (When I see Courier in print, at display sizes, my mind immediately wonders if the printer was missing the font that the designer specified in the document file.)</p>
-
-<p><a href="https://en.wikipedia.org/wiki/Symbol_(typeface)">The Symbol font</a> is a different story. It existed and was included with PostScript as one of just four defaults because the 8-bit character encodings of the time only had space for 255 characters. You needed a special font like Symbol to access “exotic” characters like Greek letters, math symbols (e.g. × or ÷), or arrows (↑ ↓ ← →). So there were really only three regular “fonts”, for prose, included with PostScript: Helvetica, Courier, and Times.</p>
-
-<p>Courier and Times were eventually superseded in popular use by rivals that Microsoft licensed for inclusion in Windows: Courier New and Times New Roman, respectively. Times was from Linotype, Times New Roman from Monotype. Both versions of Times are legitimate digital interpretations of the 1929 hot metal design of Times Roman, and <a href="https://creativepro.com/times-roman-vs-times-new-roman/">their differences are minor</a>. Courier New, on the other hand, is <a href="http://www.identifont.com/differences?first=Courier+New&amp;second=Courier">so ugly</a> — anemically thin and weak — that it hurts my teeth whenever I encounter it.</p>
-
-<div>
-<a  title="Permanent link to ‘‘A Brief History of Times New Roman’’"  href="https://daringfireball.net/linked/2025/12/15/a-brief-history-of-timesnewroman">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry></feed><!-- THE END -->
+  <title>★ Apple TV’s New Fanfare</title></entry></feed><!-- THE END -->
