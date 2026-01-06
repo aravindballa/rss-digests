@@ -7,7 +7,31 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-06T03:03:02Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-06T03:30:17Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>‘It’s Hard to Justify Tahoe Icons’</title>
+	<link rel="alternate" type="text/html" href="https://tonsky.me/blog/tahoe-icons/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wtl" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/05/hard-to-justify-tahoe-icons" />
+	<id>tag:daringfireball.net,2026:/linked//6.42537</id>
+	<published>2026-01-06T03:24:21Z</published>
+	<updated>2026-01-06T03:30:17Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>This essay from UI critic Nikita Prokopov is just devastatingly good. If you’ve looked at MacOS 26 Tahoe, you’re surely appalled by the new UI guideline that recommends putting icons next to every single menu item. Prokopov argues — with copious screenshot illustrations every step of the way — that this is a terrible idea in the first place, and that Apple has implemented it poorly. There’s no defense for any of this. Don’t make the mistake of thinking Apple just needs better, more consistent icons. The fact that Tahoe’s menu item icons are glaringly inconsistent and often utterly inscrutable is the fudge icing on a shit cake, but the real embarrassment is that the idea ever got past the proposal stage. No real UI <em>or</em> icon designers think this is a good idea. None.</p>
+
+<p>A shitty idea that works against usability, inconsistently implemented, all in the name of adding some ugly visual bling to the UI. Perhaps the epitome of a Dye job.</p>
+
+<p>Simply <a href="https://tonsky.me/blog/tahoe-icons/">a must-read piece</a>. I have much more to say about the menus in Tahoe, but thanks to Prokopov, I don’t have to say it all.</p>
+
+<div>
+<a  title="Permanent link to ‘‘It’s Hard to Justify Tahoe Icons’’"  href="https://daringfireball.net/linked/2026/01/05/hard-to-justify-tahoe-icons">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/01/pickle_smells_like_a_cult" />
 	<link rel="shorturl" href="http://df4.us/wtk" />
@@ -1783,26 +1807,6 @@ catchy name, so I’ve never heard anything about it.</p>
 
 <div>
 <a  title="Permanent link to ‘James Cameron’s Instructions to Theater Projectionists Regarding ‘Avatar 3: Fire and Ash’’"  href="https://daringfireball.net/linked/2025/12/16/cameron-avatar-3-letter">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Typefaces for Dyslexia</title>
-	<link rel="alternate" type="text/html" href="https://adrianroselli.com/2015/03/typefaces-for-dyslexia.html" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/ws7" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/16/debunking-special-typefaces-for-dyslexia" />
-	<id>tag:daringfireball.net,2025:/linked//6.42487</id>
-	<published>2025-12-16T19:58:17Z</published>
-	<updated>2025-12-16T19:58:17Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>I dare say this post from Adrian Roselli — first published in 2015 and updated 16 times (and counting) since — is <em>the</em> definitive debunking of the pseudoscience claims regarding deliberately ugly fonts being somehow beneficial to readers with dyslexia.</p>
-
-<div>
-<a  title="Permanent link to ‘Typefaces for Dyslexia’"  href="https://daringfireball.net/linked/2025/12/16/debunking-special-typefaces-for-dyslexia">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
