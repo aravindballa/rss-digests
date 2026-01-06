@@ -7,7 +7,55 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-06T21:41:41Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-06T22:09:48Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>‘Icons in Menus Everywhere — Send Help’</title>
+	<link rel="alternate" type="text/html" href="https://blog.jim-nielsen.com/2025/icons-in-menus/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wtp" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/06/nielsen-icons-in-menus" />
+	<id>tag:daringfireball.net,2026:/linked//6.42541</id>
+	<published>2026-01-06T22:09:48Z</published>
+	<updated>2026-01-06T22:09:48Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p><a href="https://blog.jim-nielsen.com/2025/icons-in-menus/">Jim Nielsen</a>:</p>
+
+<blockquote>
+  <p>It’s extra noise to me. It’s not that I think menu items should
+<em>never</em> have icons. I think they can be incredibly useful (more on
+that below). It’s more that I don’t like the idea of “give each
+menu item an icon” being the default approach.</p>
+
+<p>This posture lends itself to a practice where designers have an
+attitude of “I need an icon to fill up this space” instead of an
+attitude of “Does the addition of a icon here, and the cognitive
+load of parsing and understanding it, help or hurt how someone
+would use this menu system?”</p>
+
+<p>The former doesn’t require thinking. It’s just templating — they
+all have icons, so we need to put <em>something</em> there. The latter
+requires care and thoughtfulness for each use case and its
+context.</p>
+
+<p>To defend my point, one of the examples I always pointed to was
+macOS. For the longest time, Apple’s OS-level menus seemed to
+avoid this default approach of sticking icons in every menu item.</p>
+
+<p>That is, until macOS Tahoe shipped.</p>
+</blockquote>
+
+<p>Nielsen’s post on MacOS 26 Tahoe’s tragic “icons for every menu item” design edict was published a month ago, before <a href="https://tonsky.me/blog/tahoe-icons/">Nikita Prokopov’s post</a> on the same subject <a href="https://daringfireball.net/linked/2026/01/05/hard-to-justify-tahoe-icons">yesterday</a>. Both posts are crackerjack good, and complement each other. Nielsen makes the point that the Mac stood as a counter to platforms and systems that put icons next to every menu item. Of course Google Docs has icons next to every menu item. It sucks. Google sucks at UI design. We Mac users laugh at their crappy designs.</p>
+
+<p>Well, who’s laughing now? It might sound hyperbolic but this change is <em>the</em> reason why I’ve decided not to upgrade to MacOS 26 Tahoe. I could put up with the rest of Liquid Glass’s half-baked <em>who-thought-this-was-OK-to-ship?</em> <a href="https://wien.rocks/@noheger/115782327146927772">nonsense</a>, but not the whole menu bar. I can tolerate being angry about UI changes Apple makes to the Mac. But I can’t tolerate being heartbroken.</p>
+
+<div>
+<a  title="Permanent link to ‘‘Icons in Menus Everywhere — Send Help’’"  href="https://daringfireball.net/linked/2026/01/06/nielsen-icons-in-menus">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘The Big Regression’</title>
 	<link rel="alternate" type="text/html" href="https://world.hey.com/jason/the-big-regression-da7fc60d" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wto" />
@@ -1744,46 +1792,6 @@ software and marketing materials.</p>
 
 <div>
 <a  title="Permanent link to ‘Condensed Serif Typefaces, à la Apple Garamond, Are Back in Vogue’"  href="https://daringfireball.net/linked/2025/12/18/condensed-serif-typefaces">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>GCDB’s Guide to Gift Card Tampering Scams</title>
-	<link rel="alternate" type="text/html" href="https://gcdb.com.au/article/gift-card-scams/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wsb" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/18/gift-card-tampering-scams" />
-	<id>tag:daringfireball.net,2025:/linked//6.42491</id>
-	<published>2025-12-18T19:44:36Z</published>
-	<updated>2025-12-18T23:02:07Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Gift Card Database (GCDB) has a guide to spotting tampered gift cards:</p>
-
-<blockquote>
-  <p>Whilst it may seem unusual, you should tear open this version of
-Apple gift card before you purchase it so that you can inspect the
-redemption code. Look for missing or scratched off characters (it
-may be as subtle as changing an L to look like an I).</p>
-
-<p>If you’re satisfied that the redemption code is legible and
-undamaged, you can purchase the gift card by scanning the barcode
-on the other side. If staff question your decision to open it
-first, calmly explain why you were checking it and refer them to
-the image above if it helps.</p>
-
-<p>The one major downside of this precaution is that it requires you
-to basically destroy the gift card packaging so if it’s intended
-as a present you may just have to give them the smaller inner card
-instead. Still, it’s better to be safe than sorry.</p>
-</blockquote>
-
-<p>I’m not bashful, but I’d be very uncomfortable opening gift cards before I purchased them. The whole point of this is that gift card scams are on the rise. If I saw someone opening gift cards in-store before purchasing them, I’d think they were shameless scammers. If you need to destroy the retail packaging for a gift card to feel certain it hasn’t been tampered with, the whole system seems fundamentally broken. (And just eyeballing the redemption code doesn’t prove it hasn’t been tampered with.)</p>
-
-<div>
-<a  title="Permanent link to ‘GCDB’s Guide to Gift Card Tampering Scams’"  href="https://daringfireball.net/linked/2025/12/18/gift-card-tampering-scams">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
