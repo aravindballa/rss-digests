@@ -7,7 +7,51 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-06T22:36:06Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-06T23:43:10Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Howard Oakley on the MacOS 26 Tahoe UI</title>
+	<link rel="alternate" type="text/html" href="https://eclecticlight.co/2025/12/28/last-year-on-my-mac-look-back-in-disbelief/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wtq" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/06/howard-oakley-on-the-macos-26-tahoe-ui" />
+	<id>tag:daringfireball.net,2026:/linked//6.42542</id>
+	<published>2026-01-06T23:31:31Z</published>
+	<updated>2026-01-06T23:43:10Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Howard Oakley, writing at The Eclectic Light Company</p>
+
+<blockquote>
+  <p>macOS Tahoe’s visual interface:</p>
+
+<ul>
+<li>Fits largely rectangular contents into windows with excessively
+rounded corners.</li>
+<li>Enlarges controls without any functional benefit.</li>
+<li>Results in app icons being more uniform, thus less
+distinguishable and memorable.</li>
+<li>Fails to distinguish tools, controls and other interface
+elements using differences in tone, so making them harder
+to use.</li>
+<li>Makes a mess where transparent layers are superimposed, and
+won’t reduce transparency when that’s needed to render its
+interface more accessible.</li>
+</ul>
+
+<p>Maybe this is because I’m getting older, but that gives me the
+benefit of having experienced Apple’s older interfaces, with their
+exceptional quality and functionality.</p>
+</blockquote>
+
+<p>It’s just remarkable how much better-looking MacOS was 10 years ago, compared to MacOS 26 Tahoe <em>at its best</em>. And it’s equally remarkable just how bad MacOS 26 Tahoe looks in many typical, non-contrived situations, where entire menus or the title of a window are rendered completely illegible.</p>
+
+<div>
+<a  title="Permanent link to ‘Howard Oakley on the MacOS 26 Tahoe UI’"  href="https://daringfireball.net/linked/2026/01/06/howard-oakley-on-the-macos-26-tahoe-ui">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘Icons in Menus Everywhere — Send Help’</title>
 	<link rel="alternate" type="text/html" href="https://blog.jim-nielsen.com/2025/icons-in-menus/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wtp" />
@@ -1747,51 +1791,6 @@ should make it more edible.</p>
 
 <div>
 <a  title="Permanent link to ‘Michael Bierut Told Us What He Really Thinks of ITC Garamond’"  href="https://daringfireball.net/linked/2025/12/18/bierut-itc-garamond">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Condensed Serif Typefaces, à la Apple Garamond, Are Back in Vogue</title>
-	<link rel="alternate" type="text/html" href="https://www.wsj.com/lifestyle/serif-instrument-skinny-font-e22b8054" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wsc" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/18/condensed-serif-typefaces" />
-	<id>tag:daringfireball.net,2025:/linked//6.42492</id>
-	<published>2025-12-19T01:09:27Z</published>
-	<updated>2025-12-19T01:43:03Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Katie Deighton, reporting last month for The Wall Street Journal:</p>
-
-<blockquote>
-  <p>Henry Modisett wanted his employer to stand out. Competitors of
-the artificial-intelligence firm Perplexity were embracing their
-science-fiction roots with futuristic branding that felt cold to
-him. So Modisett, the firm’s vice president of design, looked to
-the past.</p>
-
-<p>He plowed through graphic-design books and tomes of logos
-featuring obscure examples like Hungarian oil companies from the
-’80s. But he kept coming back to a slender, bookish typeface
-famously used in Apple’s “Think Different” campaign. Modisett in
-2023 began slipping a cousin of the font into Perplexity’s
-software and marketing materials.</p>
-
-<p>“It felt fresh,” he said.</p>
-
-<p>Not anymore.</p>
-</blockquote>
-
-<p>Apple’s custom variant of <a href="https://www.myfonts.com/collections/garamond-font-itc/">ITC Garamond</a> was called, appropriately enough, <a href="https://www.dafont.com/apple-garamond.font">Apple Garamond</a>. Apple adopted it in 1984 with the <a href="https://www.cultofmac.com/news/unboxing-vintage-macintosh-128k">introduction of the Macintosh</a>, and continued using it through the early years of the Aqua/iMac aesthetic. For me it evokes the pinnacle of the six-color era. For <a href="https://en.wikipedia.org/wiki/Typography_of_Apple_Inc.">Apple’s brand identity</a> and marketing materials, after Apple Garamond <a href="https://daringfireball.net/2005/06/shuffling">came Myriad</a> — which Apple commissioned custom variants of from Adobe. And then Myriad was succeeded by San Francisco, which I suspect still has many years ahead of it. For the last 40 years Apple has only gone through three identity fonts: Garamond → Myriad → San Francisco.</p>
-
-<p>That this style of font is back in vogue is fun. It’s a good look. Friendly. Serious but not staid. The typeface a lot of these brands are using for this today is <a href="https://github.com/Instrument/instrument-serif">Instrument Serif</a>, which I don’t love. It’s not bad. But it’s not great. Apple Garamond was great.</p>
-
-<p>(ITC Garamond — but not condensed — served, distinctively, as both the display and body text typeface for O’Reilly books <a href="https://www.google.com/search?q=programming+perl+book&amp;udm=2">in their heyday</a>. That typeface doesn’t look or feel Apple-like at all, nor does Apple Garamond look or feel O’Reilly-like at all.)</p>
-
-<div>
-<a  title="Permanent link to ‘Condensed Serif Typefaces, à la Apple Garamond, Are Back in Vogue’"  href="https://daringfireball.net/linked/2025/12/18/condensed-serif-typefaces">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
