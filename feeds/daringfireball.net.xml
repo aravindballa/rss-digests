@@ -7,7 +7,62 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-06T20:51:21Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-06T21:41:41Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>‘The Big Regression’</title>
+	<link rel="alternate" type="text/html" href="https://world.hey.com/jason/the-big-regression-da7fc60d" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wto" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/06/the-big-regression" />
+	<id>tag:daringfireball.net,2026:/linked//6.42540</id>
+	<published>2026-01-06T21:41:19Z</published>
+	<updated>2026-01-06T21:41:41Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p><a href="https://world.hey.com/jason/the-big-regression-da7fc60d">Jason Fried</a>:</p>
+
+<blockquote>
+  <p>My folks are in town visiting us for a couple months so we rented
+them a house nearby.</p>
+
+<p>It’s new construction. No one has lived in it yet. It’s amped up
+with state of the art systems. You know, the ones with
+touchscreens of various sizes, IoT appliances, and interfaces that
+try too hard.</p>
+
+<p>And it’s terrible. What a regression.</p>
+</blockquote>
+
+<p>Examples include: light switches that require a demo to use, a Miele dishwasher that requires the use of a companion phone app, a confusing-to-use TV (of course), inscrutable thermostats, and:</p>
+
+<blockquote>
+  <p>And the lag. Lag everywhere. Everything feels a beat or two
+behind. Everything. Lag is the giveaway that the system is working
+too hard for too little. Real-time must be the hardest problem.</p>
+
+<p>Now look... I’m no luddite. But this experience is close to
+conversion therapy. Tech can make things better, but I simply
+can’t see in these cases. I’ve heard the pitches too — you can
+set up scenes and one button can change EVERYTHING. Not buying it.
+It actually feels primitive, like we haven’t figured out how to
+make things easy yet.</p>
+</blockquote>
+
+<p>In this period of the computerization of everything, so many systems have lost the innate intuitiveness from their analog counterparts. Light switches were easy and obvious. Flip the switch. Thermostats were easy and obvious. Turn the dial until the indicator points to the temperature you want. Light switches and Honeywell thermostats were so simple they seemed like they weren’t “interfaces” at all, which is why they were such great interfaces. The best interfaces almost literally disappear.</p>
+
+<p>One of the mottos of the Perl programming language is that <a href="https://www.amazon.com/Learning-Perl-Making-Things-Possible/dp/1491954329/?tag=df-amzn-20">easy things should be easy, and hard things should be possible</a>. That’s the ideal when designing <em>anything</em>. But the more important part is keeping easy things easy. A house full of old-fashioned analog light switches is better than a house full of smart switches that need a demo to use at all, even though with the old-fashioned switches, you can’t do hard things like turn off the lights remotely, or turn off every light in the house with one action. The smart switches might seem like an improvement because they make possible hard things that were previously impossible. Making possible the impossible is surely a win, right? But not necessarily. Making possible the heretofore impossible isn’t axiomatically a win. It’s a <em>loss</em> if it comes at the expense of keeping the easy things easy, consistent, reliable, and intuitive. Nothing exemplifies that more than the decline in user experience of watching TV, and attempting something as previously simple as flipping between two games on two different channels.</p>
+
+<p>The guiding principle when creating computerized versions of analog systems ought to be “<a href="https://en.wikipedia.org/wiki/Primum_non_nocere">First, do no harm</a>.” Everything should be as easy, obvious, reliable, and intuitive as in the old system. Only add to that what doesn’t introduce any regressions on those fronts.</p>
+
+<p>Alas, that’s how how the world has proceeded.</p>
+
+<div>
+<a  title="Permanent link to ‘‘The Big Regression’’"  href="https://daringfireball.net/linked/2026/01/06/the-big-regression">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘Who’s Who at X, the Deepfake Porn Site Formerly Known as Twitter’</title>
 	<link rel="alternate" type="text/html" href="https://www.ft.com/content/ad94db4c-95a0-4c65-bd8d-3b43e1251091?accessToken=zwAGR7kzep9gkdOtlNtMlaBMZdO9jTtD4SUQkQ.MEYCIQCdZajuC9uga-d9b5Z1t0HI2BIcnkVoq98loextLRpCTgIhAPL3rW72aTHBNL_lS7s1ONpM2vBgNlBNHDBeGbHkPkZj&amp;sharetype=gift&amp;token=a7473827-0799-4064-9008-bf22b3c99711" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wtn" />
@@ -1729,50 +1784,6 @@ instead. Still, it’s better to be safe than sorry.</p>
 
 <div>
 <a  title="Permanent link to ‘GCDB’s Guide to Gift Card Tampering Scams’"  href="https://daringfireball.net/linked/2025/12/18/gift-card-tampering-scams">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Are Apple Gift Cards Safe to Redeem?</title>
-	<link rel="alternate" type="text/html" href="https://tidbits.com/2025/12/17/compromised-apple-gift-card-leads-to-apple-account-lockout/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wsa" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/17/are-apple-gift-cards-safe-to-redeem" />
-	<id>tag:daringfireball.net,2025:/linked//6.42490</id>
-	<published>2025-12-17T23:14:00Z</published>
-	<updated>2025-12-18T20:02:33Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>You will recall <a href="https://hey.paris/posts/appleid/">the Apple Account fiasco of Paris Buttfield-Addison</a>, whose entire iCloud account and library of iTunes and App Store media purchases were lost when his Apple Account was locked, seemingly after he attempted to redeem a tampered $500 Apple Gift Card that he purchased from a major retailer. <a href="https://daringfireball.net/linked/2025/12/13/buttfield-addison-apple-account">I wrote about it</a>, as did <a href="https://mjtsai.com/blog/2025/12/13/locked-out-of-apple-account-due-to-gift-card/">Michael Tsai</a>, <a href="https://pxlnv.com/linklog/apple-account-lockout/">Nick Heer</a>, <a href="https://appleinsider.com/articles/25/12/13/locked-out-how-a-gift-card-purchase-destroyed-an-apple-account">Malcom Owen at AppleInsider</a>, and <a href="https://www.theregister.com/2025/12/15/apple_dev_bad_gift_card_code/">Brandon Vigliarolo at The Register</a>. Buttfield-Addison has updated his post a few times, including a note that Executive Relations — Apple’s top-tier support SWAT team — was looking into the matter. To no avail, at least yet, alas.</p>
-
-<p><a href="https://tidbits.com/2025/12/17/compromised-apple-gift-card-leads-to-apple-account-lockout/">Adam Engst, writing at TidBITS today</a>:</p>
-
-<blockquote>
-  <p>There is one way the Apple community could exert some leverage
-over Apple. Since innocently redeeming a compromised Apple Gift
-Card can have serious negative consequences, we should all avoid
-buying Apple Gift Cards and spread the word as widely as possible
-that they could essentially be malware. Sure, most Apple Gift
-Cards are probably safe, but do you really want to be the person
-who gives a close friend or beloved grandchild a compromised card
-that locks their Apple Account? And if someone gives you one,
-would you risk redeeming it? It’s digital Russian roulette.</p>
-</blockquote>
-
-<p>I suspect that one part of Buttfield-Addison’s fiasco is the fact that his seemingly problematic gift card was for $500, not a typical amount like $25, but that’s just a suspicion on my part. We don’t know — because key to the Kafka-esque nature of the whole nightmare is that his account cancellation was a black box. Not only has Apple not yet restored his deactivated Apple Account, at no point in the process have they explained why it was deactivated in the first place. We’re left to guess that it was related to the tampered gift card and that the relatively high value of the card in question was related. $500 is a higher value than average for an Apple gift card, but that amount is less than the average price for a single iPhone. Apple itself <a href="https://daringfireball.net/misc/2025/12/apple-gift-card-2001-dollars.png">sets a limit of $2,000</a> on <a href="https://www.apple.com/shop/buy-giftcard/giftcard">gift cards in the US</a>, so $500 shouldn’t be considered an inherently suspicious amount. </p>
-
-<p>The whole thing <em>does</em> make me nervous about redeeming, or giving, Apple gift cards. Scams in general seem to be getting more sophisticated. Buttfield-Addison says he bought the card directly from “a major brick-and-mortar retailer (Australians, think Woolworths scale; Americans, think Walmart scale)”. Until we get some clarity on this I feel like I’d only redeem Apple gift cards at an Apple retail store, for purchases <em>not</em> tied to my Apple Accounts. (I’ve <a href="https://daringfireball.net/linked/2025/02/11/about-migrating-apple-account-purchases-between-accounts">still</a> got two — one for iCloud, one for media purchases.)</p>
-
-<p>In addition to the uncertainty this leaves us with regarding the redemption of Apple gift cards, I have to wonder what the hell happens to these Apple Accounts that are deactivated for suspected fraud. You would think that once escalated high enough in Apple’s customer support system, someone at Apple could just flip a switch and re-activate the account. The fact that Buttfield-Addison’s account has not yet been restored, despite the publicity and apparent escalation to Executive Relations, makes me think it <em>can’t</em> be restored. I don’t know how that can be, but it sure seems like that’s the case. Darth Vader’s “And no disintegrations” admonition ought to be in effect for something like this. I have the sinking feeling that the best Apple is able to do is something seemingly ridiculous, like refund Buttfield-Addison for every purchase he ever made on the account and tell him to start over with a new one.</p>
-
-<p>My other question: Were any humans involved in the decision to deactivate (disintegrate?) his account, or was it determined purely by some sort of fraud detection algorithm?</p>
-
-<p><strong>Update:</strong> Very shortly after I posted the above, Buttfield-Addison <a href="https://hey.paris/posts/appleid/">posted an update</a> that his account was successfully restored by the ninja on Apple’s Executive Relations team assigned to his case. That’s great. But that still leaves the question of how safe Apple gift cards are to redeem on one’s Apple Account. It also leaves the question of how this happened in the first place, and why it took the better part of a week to resolve.</p>
-
-<div>
-<a  title="Permanent link to ‘Are Apple Gift Cards Safe to Redeem?’"  href="https://daringfireball.net/linked/2025/12/17/are-apple-gift-cards-safe-to-redeem">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
