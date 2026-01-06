@@ -7,7 +7,64 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-06T01:48:31Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-06T03:03:02Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/01/pickle_smells_like_a_cult" />
+	<link rel="shorturl" href="http://df4.us/wtk" />
+	<id>tag:daringfireball.net,2026://1.42536</id>
+	<published>2026-01-06T03:03:01Z</published>
+	<updated>2026-01-06T03:03:02Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">The only way Pickle could sound *more* like a cult would be if their “employees” (are any of them actually getting paid?) all shaved their heads and wore Hare Krishna-style robes.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>Pickle CEO Daniel Park <a href="https://x.com/danifesto/status/2008085704388063634?s=12">posted on Twitter/X</a>, attempting to rebut <a href="https://daringfireball.net/linked/2026/01/03/dowd-pickle-expose">the analysis from Matthew Dowd I linked to over the weekend</a> pointing out the ways that Pickle’s AR glasses, for which they’re accepting $800 pre-orders, looks like a scam. Park’s rebuttal, in my opinion, boils down to (a) a bunch of handwaving about Pickle conveniently not being able to explain their own hardware because of NDAs, and (b) this claim:</p>
+
+<blockquote>
+  <p>Pickle 1 is not a standalone camera glasses product. It is a
+phone-tethered personal intelligence interface.</p>
+</blockquote>
+
+<p>Pickle’s website FAQ, on launch, <a href="https://x.com/thedowd/status/2008197081941557484">claimed</a>:</p>
+
+<blockquote>
+  <p><em>Do I need a smartphone to use Pickle 1?</em><br>
+Pickle 1 is a standalone device but pairs with the Pickle OS app
+on iOS and Android for initial setup, data management, and
+granular privacy controls.</p>
+</blockquote>
+
+<p>As of today, <a href="https://pickle.com/order">that FAQ now reads</a>:</p>
+
+<blockquote>
+  <p><em>Do I need a smartphone to use Pickle 1?</em><br>
+Pickle 1 is not a standalone camera glasses product. it is a
+phone-tethered personal intelligence interface.</p>
+</blockquote>
+
+<p>Which to me already nullifies the entire premise of the fantasy device they showed at launch. Park also claims, in his post today, “Pickle 1 leverages the smartphone that users already carry”, but that can’t be true if the user carries an iPhone because there’s no way Pickle can run tethering software in the background on iOS. I do not believe it’ll do even 1/100th of what they claim when paired to an Android phone, either. But it’s literally impossible with an iPhone.</p>
+
+<p>Anyway, the thing that really caught my eye in Park’s post today was this, near the beginning:</p>
+
+<blockquote>
+  <p>We’re a team that lives together in a house in Hillsborough,
+California, and works on this 7 days a week. Our team is small but
+we work all day, every day together and it’s helping us make
+progress we’re very excited and proud of.</p>
+</blockquote>
+
+<p>Pickle doesn’t sound a little like a cult. It sounds <em>exactly</em> like a cult.</p>
+
+<p>Impossible claims. A compound where “employees” live and work seven days a week. Spiritual mumbo jumbo (Pickle 1 <a href="https://daringfireball.net/misc/2026/01/pickle-1-soul-computer.png">is described as a “Soul Computer”</a> and <a href="https://pickle.com/1">claims to provide</a> “an intelligence that sees with you, remembers your life, and learns to understand you. A new soul.”) Excuses for why they cannot provide evidence for any of their fantastical claims. The only way Pickle could sound <em>more</em> like a cult would be if their “employees” (are any of them actually getting paid?) all shaved their heads and wore Hare Krishna-style robes.</p>
+
+<p>If you work there, be wary of the Kool-Aid.</p>
+
+
+
+    ]]></content>
+  <title>★ Pickle Smells Like a Cult</title></entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://copilot.money/?utm_source=daringfireball&amp;utm_medium=editorial&amp;utm_campaign=daringfireball_122225_web25&amp;utm_term=DARING" />
 	<link rel="shorturl" href="http://df4.us/wtj" />
@@ -1749,104 +1806,4 @@ catchy name, so I’ve never heard anything about it.</p>
 </div>
 
 	]]></content>
-  </entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/12/apple_tv_new_fanfare" />
-	<link rel="shorturl" href="http://df4.us/ws5" />
-	<id>tag:daringfireball.net,2025://1.42485</id>
-	<published>2025-12-16T19:08:56Z</published>
-	<updated>2025-12-16T21:34:13Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">Netflix’s “tadum” is so iconic that it’s the name of their company blog. HBO’s static + chanted om is the OG standard-setter. I suspect the new Apple TV fanfare will be seen in that class. The old one was not.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>Tim Nudd, <a href="https://adage.com/creativity/work/aa-apple-tv-mnemonic-visual-branding/">writing at Ad Age a few weeks ago</a> (paywalled, alas):</p>
-
-<blockquote>
-  <p>As we <a href="https://adage.com/creativity/campaigns-commercials/aa-creative-ads-today-apple-kraft-mac-cheese-lexus-philadelphia-cream-cheese/">mentioned in roundup</a> yesterday, Finneas (aka, Finneas
-O’Connell) has developed a new sonic logo for Apple TV, the
-streaming service previously known as Apple TV+. However, the
-rebrand, created with Apple agency TBWA\Media Arts Lab, goes
-beyond the audio mnemonics to include a striking new visual look
-as well.</p>
-
-<p>The visual branding centers on layers of shifting colored light, a
-metaphor for the range of genres and emotions that Apple TV has
-cultivated since its 2019 debut.</p>
-</blockquote>
-
-<p>I held off on posting about this new Apple TV fanfare (a.k.a. <em>sonic logo</em>, a.k.a. <em>mnemonic</em> ) until I’d experienced it a few times, and after a few weeks, watching a bunch of episodes from a few Apple TV series — <em><a href="https://tv.apple.com/us/show/mr-scorsese/umc.cmc.4a06j5lm5pxny9nx505zo5g0y">Mr. Scorsese</a></em>, a 5-star five-part documentary by Rebecca Miller, absolutely riveting; <em><a href="https://tv.apple.com/us/show/pluribus/umc.cmc.37axgovs2yozlyh3c2cmwzlza">Pluribus</a></em>, Vince Gilligan’s excellent new the-less-you-know-about-it-before-you-start-watching-<a href="https://daringfireball.net/linked/2025/11/21/pluribus-carol-sturka-ama">the-better</a> series starring Rhea Seehorn; and <em><a href="https://tv.apple.com/us/show/the-morning-show/umc.cmc.25tn3v8ku4b39tr6ccgb8nl6m">The Morning Show</a></em> season 4, a series that’s skirting <em>just</em> above the good-enough-to-keep-watching line for me — I’m willing to render a verdict.</p>
-
-<p>I love it.</p>
-
-<p>The old one was not bad. But “not bad” should never be good enough for Apple. I can’t find anyone from Apple stating so explicitly, but it seems pretty obvious that the piano chord accompanying the old fanfare was meant to evoke the Macintosh startup chime. That’s a neat idea. And no one is more a fan of the Macintosh than me. I’d argue that the Mac remains <em>the</em> definitive Apple product, the one that best exemplifies everything the company does and should stand for. So harking back to the Macintosh was an interesting idea for the Apple TV fanfare/sonic logo/mnemonic.</p>
-
-<p>But: it just wasn’t great. What makes that chord great for a computer booting up doesn’t make it great for a cinematic sonic logo. <a href="https://www.youtube.com/watch?v=GV3HUDMQ-F8">Netflix’s “tudum”</a> is so iconic that it’s <a href="https://www.netflix.com/tudum">the name of their company blog</a>. <a href="https://www.youtube.com/watch?v=O08PQRA6MLo">HBO’s static + chanted om</a> is the OG standard-setter. I suspect the new Apple TV fanfare will be seen in that class. The old one was not.</p>
-
-<p>The new one feels like a branding stroke unto itself. Sonically, it doesn’t evoke anything else. It just sounds rich and cool. Visually, with its rotating prism effect, it does evoke the classic six-color Apple logo. Thus, despite moving away from a sonic callback to the Macintosh, the overall effect feels <em>more</em> rooted to Apple’s on-the-cusp-of-a-half-century history. The change makes Apple TV original content feel more like a part of Apple, less like a possible passing fancy (which is what <a href="https://daringfireball.net/linked/2025/10/17/belloni-cue-interview">many in Hollywood fear</a>).</p>
-
-<p>That prism effect was created practically. From <a href="https://www.linkedin.com/posts/tbwamedia-arts-lab_at-mal-we-partnered-with-apple-tv-to-reimagine-activity-7391899271060582400-8OW9/">a LinkedIn post from Apple’s longtime agency partner TBWA Media Arts Lab</a> (no clue why they posted this on LinkedIn, of all places):</p>
-
-<blockquote>
-  <p>Built from real glass and captured entirely in camera, the new
-identity explores reflection, color, and light to express the
-cinematic spirit at the heart of Apple TV. Every shimmer was made
-for real, no CG shortcuts, a nod to Apple’s belief that craft
-should be felt, not faked.</p>
-
-<p>The work spans the entire platform, from a sharp five-second show
-open to a full-length cinematic version for films, paired with a
-new sonic logo composed by Oscar winner Finneas and a custom
-typeface, SF TV, developed with Apple’s design team.</p>
-</blockquote>
-
-<p>They include a very short video showing behind the scenes of its creation. It matters not to me that they photographed this practically, rather than via computer-generated graphics, but the bottom line is that it looks cool, timeless, and Apple-y.</p>
-
-<p><a href="https://variety.com/2025/music/news/finneas-discusses-apple-tv-originals-mnemonic-intro-1236568433/">Chris Willman at Variety has an interview with Finneas</a> (O’Connell) regarding the music:</p>
-
-<blockquote>
-  <p><em>Mnemonic</em>, Finneas says, “is sort of a beautiful word for a
-logo” accompanied by sound. “The things that I think of as real
-classic mnemonics are NBC — you can hear that in your head — or
-HBO has its static.” Finneas is well aware of how modern
-streaming consumption might make this especially ubiquitous,
-household by household. “If you’re binge-ing the whole season of
-<em>Ted Lasso</em> or <em>Severance</em> or <em>Disclaimer</em>” (the last of those
-being the limited series that he composed the score for himself),
-“you’re going to hear the mnemonic 10 times in one day. So it’s
-gotta be something that’s like the bite of ginger between rolls
-or something, you know?”</p>
-</blockquote>
-
-<p>See and hear for yourself. Here’s the old Apple TV mnemonic:</p>
-
-<p><video
-    width = 500
-    controls
-    src = "https://daringfireball.net/misc/2025/12/Apple-TV-Plus-Mnemonic-Old.mp4">
-</video></p>
-
-<p>Here’s the new 5-second version, shown at the beginning of each episode of Apple TV original series:</p>
-
-<p><video
-    width = 500
-    controls
-    src = "https://daringfireball.net/misc/2025/12/Apple-TV-Mnemonic-New-5s.mp4">
-</video></p>
-
-<p>And here’s the full 12-second version, shown before Apple Original Films:</p>
-
-<p><video
-    width = 500
-    controls
-    src = "https://daringfireball.net/misc/2025/12/Apple-TV-Mnemonic-New-12s.mp4">
-</video></p>
-
-<p>Bravo.</p>
-
-
-
-    ]]></content>
-  <title>★ Apple TV’s New Fanfare</title></entry></feed><!-- THE END -->
+  </entry></feed><!-- THE END -->
