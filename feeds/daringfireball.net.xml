@@ -7,7 +7,48 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-07T21:41:04Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-07T23:41:40Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>The Obvious, the Easy, and the Possible</title>
+	<link rel="alternate" type="text/html" href="https://world.hey.com/jason/the-obvious-the-easy-and-the-possible-2e11a3fb" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wtr" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/07/the-obvious-the-easy-and-the-possible" />
+	<id>tag:daringfireball.net,2026:/linked//6.42543</id>
+	<published>2026-01-07T23:41:39Z</published>
+	<updated>2026-01-07T23:41:40Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>This 2021 post from Jason Fried is a good chaser to his “<a href="https://world.hey.com/jason/the-big-regression-da7fc60d">The Big Regression</a>” this week (which I <a href="https://daringfireball.net/linked/2026/01/06/the-big-regression">linked to yesterday</a>):</p>
+
+<blockquote>
+  <p>Much of the tension in product development and interface design
+comes from trying to balance the obvious, the easy, and the
+possible. Figuring out which things go in which bucket is critical
+to fully understanding how to make something useful.</p>
+
+<p>Shouldn’t everything be obvious? Unless you’re making a product
+that just does one thing — like a paperclip, for example — everything won’t be obvious. You have to make tough calls about
+what needs to be obvious, what should be easy, and what should be
+possible. The more things something (a product, a feature, a
+screen, etc) does, the more calls you have to make.</p>
+
+<p>This isn’t the same as prioritizing things. High, medium, low
+priority doesn’t tell you enough about the problem. “What needs to
+be obvious?” is a better question to ask than “What’s high
+priority?” Further, priority doesn’t tell you anything about cost.
+And the first thing to internalize is that everything has a cost.</p>
+</blockquote>
+
+<p><em>Obvious / easy / possible</em> is a good filter through which to create — and critique — designs. To borrow an example from <a href="https://daringfireball.net/linked/2026/01/06/the-big-regression">yesterday</a>: old-fashioned analog light switches are exemplars of obviousness; most new-fashioned smart switches are exemplars of possibility.</p>
+
+<div>
+<a  title="Permanent link to ‘The Obvious, the Easy, and the Possible’"  href="https://daringfireball.net/linked/2026/01/07/the-obvious-the-easy-and-the-possible">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Howard Oakley on the MacOS 26 Tahoe UI</title>
 	<link rel="alternate" type="text/html" href="https://eclecticlight.co/2025/12/28/last-year-on-my-mac-look-back-in-disbelief/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wtq" />
@@ -1741,56 +1782,6 @@ tap or cost per install.</p>
 
 <div>
 <a  title="Permanent link to ‘ByteDance Signs Deal to Divest U.S. TikTok App’"  href="https://daringfireball.net/linked/2025/12/18/tiktok-us-divestiture">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Michael Bierut Told Us What He Really Thinks of ITC Garamond</title>
-	<link rel="alternate" type="text/html" href="https://designobserver.com/i-hate-itc-garamond/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wsd" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/18/bierut-itc-garamond" />
-	<id>tag:daringfireball.net,2025:/linked//6.42493</id>
-	<published>2025-12-19T01:19:42Z</published>
-	<updated>2025-12-19T01:19:43Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Michael Bierut, “I Hate ITC Garamond”, for Design Observer back in 2004:</p>
-
-<blockquote>
-  <p>ITC Garamond was designed in 1975 by Tony Stan for the
-International Typeface Corporation. Okay, let’s stop right there.
-I’ll admit it: the single phrase “designed in 1975 by Tony Stan”
-conjures up a entire world for me, a world of leisure suits,
-harvest gold refrigerators, and “Fly, Robin, Fly” by Silver
-Convention on the eight-track. A world where font designers were
-called “Tony” instead of “Tobias” or “Zuzana.” Is that the trouble
-with ITC Garamond? That it’s dated?</p>
-
-<p>Maybe. Typefaces seem to live in the world differently than other
-designed objects. Take architecture, for example. As Paul
-Goldberger writes in his new book on the rebuilding of lower
-Manhattan, <a href="http://www.amazon.com/exec/obidos/ASIN/1400060176/designobserver-20/"><em>Up From Zero</em></a>, “There are many phases to the
-relationships we have with buildings, and almost invariably they
-come around to acceptance.” Typefaces, on the other hand, seem to
-work the other way: they are enthusiastically embraced on arrival,
-and then they wear out their welcome. Yet there are fonts from the
-disco era that have been successively revived by new generations.
-Think of <a href="http://corporate.gettyimages.com/marketing/Taxi03Gallery/en-us/index.html">Pump</a>, <a href="http://corporate.gettyimages.com/marketing/taxi/Taxi02Gallery/en-us/index.html">Aachen</a>, or even Tony Stan’s own
-<a href="https://designobserver.com/unnecessary-revival/">American Typewriter.</a> But not ITC Garamond.</p>
-
-<p>The most distinctive element of the typeface is its enormous
-lower-case x-height. In theory this improves its legibility, but
-only in the same way that dog poop’s creamy consistency in theory
-should make it more edible.</p>
-</blockquote>
-
-<p>I can’t explain how it is that I’ve never linked to this piece before.</p>
-
-<div>
-<a  title="Permanent link to ‘Michael Bierut Told Us What He Really Thinks of ITC Garamond’"  href="https://daringfireball.net/linked/2025/12/18/bierut-itc-garamond">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
