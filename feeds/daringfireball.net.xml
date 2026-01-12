@@ -7,7 +7,28 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-12T23:14:45Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-12T23:38:49Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	
+	<link rel="alternate" type="text/html" href="https://workos.com/docs/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026&amp;utm_content=no_rebuild" />
+	<link rel="shorturl" href="http://df4.us/wu9" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2026/01/workos_pipes_ship_third-party" />
+	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.42561</id>
+	<author><name>Daring Fireball Department of Commerce</name></author>
+	<published>2026-01-12T23:30:05Z</published>
+	<updated>2026-01-12T23:30:06Z</updated>
+	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
+<p>Connecting user accounts to third-party APIs always comes with the same plumbing: OAuth flows, token storage, refresh logic, and provider-specific quirks.</p>
+
+<p><a href="https://workos.com/docs/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026&amp;utm_content=product_name_link">WorkOS Pipes</a> removes that overhead. Users connect services like GitHub, Slack, Google, Salesforce, and other supported providers through a <a href="https://workos.com/docs/widgets/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026&amp;utm_content=drop_in_widget">drop-in widget</a>. Your backend requests a valid access token from the Pipes API when needed, while Pipes handles credential storage and token refresh.</p>
+
+<p><a href="https://workos.com/docs/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026&amp;utm_content=simplify_integrations_cta">Simplify integrations with WorkOS Pipes</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS Pipes: Ship Third-Party Integrations Without Rebuilding OAuth’"  href="https://daringfireball.net/feeds/sponsors/2026/01/workos_pipes_ship_third-party">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+	<title>[Sponsor] WorkOS Pipes: Ship Third-Party Integrations Without Rebuilding OAuth</title></entry><entry>
 	<title>MacOS 26’s Cut Corners</title>
 	<link rel="alternate" type="text/html" href="https://daringfireball.net/2026/01/resizing_windows_macos_26" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wu8" />
@@ -302,13 +323,13 @@ would lie <em>inside</em> the window.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/11/senators-app-stores-grok" />
 	<id>tag:daringfireball.net,2026:/linked//6.42554</id>
 	<published>2026-01-11T21:24:47Z</published>
-	<updated>2026-01-11T21:24:48Z</updated>
+	<updated>2026-01-12T23:38:49Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>U.S. Senators Ron Wyden (D, Oregon), Ed Markey (D, Massachussetts), and Ben Ray Luján (D, New Mexico), in a letter addressed to Tim Cook and Sundar Pichai:</p>
+<p>U.S. Senators Ron Wyden (D-Oregon), Ed Markey (D-Massachussetts), and Ben Ray Luján (D-New Mexico), in a letter addressed to Tim Cook and Sundar Pichai:</p>
 
 <blockquote>
   <p>Your app stores’ policies are clear. Google’s terms of service
@@ -336,7 +357,7 @@ competition and your defenses to claims that your app stores abuse
 their market power through their payment systems.</p>
 </blockquote>
 
-<p>Emphasizing that leaving X and Grok available in the App Store and Play Store is directly contradictory to Apple and Google’s stated reasons for maintaining control over software distribution is a good pressure point. Do they selectively enforce content moderation based on whims and/or shifting political winds, or rigorously enforce the plain language of their own content guidelines? Which is it? It can’t be both.</p>
+<p>Emphasizing that leaving X and Grok available in the App Store and Play Store directly contradicts Apple and Google’s stated reasons for maintaining control over software distribution is a good pressure point. Do they selectively enforce content moderation based on whims and/or shifting political winds, or rigorously enforce the plain language of their own content guidelines? Which is it? It can’t be both.</p>
 
 <div>
 <a  title="Permanent link to ‘U.S. Senators Ask Cook and Pichai to Remove X and Grok From App Store and Play Store’"  href="https://daringfireball.net/linked/2026/01/11/senators-app-stores-grok">&nbsp;★&nbsp;</a>
@@ -1526,29 +1547,6 @@ wax and feathers, and do a better job on the wings.”</p>
 
     ]]></content>
   <title>★ ‘Do a Better Job on the Wings’</title></entry><entry>
-	
-	<link rel="alternate" type="text/html" href="https://www.listenlater.net/?referrer=df" />
-	<link rel="shorturl" href="http://df4.us/wt5" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2025/12/listenlaternet_2" />
-	<id>tag:daringfireball.net,2025:/feeds/sponsors//11.42521</id>
-	<author><name>Daring Fireball Department of Commerce</name></author>
-	<published>2025-12-30T00:56:13Z</published>
-	<updated>2025-12-30T00:56:14Z</updated>
-	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
-<p>Turn articles into podcasts and listen on the go. Email any article, and it comes back as natural narration delivered straight to your private podcast feed. Whether it’s a long read or a quick blog post, enjoy it hands-free in any podcast app.</p>
-
-<p>Sign up for free and start listening today. New users get $2 in credits to try it out, no commitment.</p>
-
-<p>Now with many new voices, improved audio quality, and big bonus credits for frequent listeners.</p>
-
-<p>Built by an indie developer. <a href="https://www.listenlater.net/?referrer=df">Try it at listenlater.net</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘ListenLater.net’"  href="https://daringfireball.net/feeds/sponsors/2025/12/listenlaternet_2">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-	<title>[Sponsor] ListenLater.net</title></entry><entry>
 	<title>Copilot Money</title>
 	<link rel="alternate" type="text/html" href="https://copilot.money/?utm_source=daringfireball&amp;utm_medium=editorial&amp;utm_campaign=daringfireball_122225_web25&amp;utm_term=DARING" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wt3" />
