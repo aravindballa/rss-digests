@@ -7,13 +7,70 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-12T16:27:35Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-12T18:35:50Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Apple, Rather Quietly and With No Details, Announces Partnership With Google to Use Gemini Technology for Apple Foundation Models, and Presumably, the Year-Overdue More Personalized Siri</title>
+	<link rel="alternate" type="text/html" href="https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wu5" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/12/apple-google-foundation-models-cnbc" />
+	<id>tag:daringfireball.net,2026:/linked//6.42557</id>
+	<published>2026-01-12T18:35:50Z</published>
+	<updated>2026-01-12T18:35:50Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>CNBC:</p>
+
+<blockquote>
+  <p>The multi-year partnership will lean on Google’s Gemini and cloud
+technology for future Apple foundational models, according to a
+joint statement obtained by CNBC’s Jim Cramer.</p>
+
+<p>“After careful evaluation, we determined that Google’s technology
+provides the most capable foundation for Apple Foundation Models
+and we’re excited about the innovative new experiences it will
+unlock for our users,” Apple said in a statement on Monday.</p>
+
+<p>The models will continue to run on Apple devices and the company’s
+private cloud compute, they added. Apple declined to comment on
+the terms of the deal. Google referred CNBC to the joint
+statement.</p>
+</blockquote>
+
+<p>That’s the whole announcement, at least for now. A statement that, as far as I can see, went only to CNBC (and Jim Cramer specifically, <a href="https://daringfireball.net/search/jim+cramer">of all people</a>).</p>
+
+<p>There’s slightly more detail in <a href="https://x.com/NewsFromGoogle/status/2010746083170046376">this brief announcement from Google</a>, on, of all places, Twitter/X:</p>
+
+<blockquote>
+  <p>Apple and Google have entered into a multi-year collaboration
+under which the next generation of Apple Foundation Models will be
+based on Google’s Gemini models and cloud technology. These models
+will help power future Apple Intelligence features, including a
+more personalized Siri coming this year.</p>
+
+<p>After careful evaluation, Apple determined that Google’s Al
+technology provides the most capable foundation for Apple
+Foundation Models and is excited about the innovative new
+experiences it will unlock for Apple users. Apple Intelligence
+will continue to run on Apple devices and Private Cloud Compute,
+while maintaining Apple’s industry-leading privacy standards.</p>
+</blockquote>
+
+<p>I suspect more details will be forthcoming from Apple sooner rather than later. But for now, that’s it.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple, Rather Quietly and With No Details, Announces Partnership With Google to Use Gemini Technology for Apple Foundation Models, and Presumably, the Year-Overdue More Personalized Siri’"  href="https://daringfireball.net/linked/2026/01/12/apple-google-foundation-models-cnbc">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/01/resizing_windows_macos_26" />
 	<link rel="shorturl" href="http://df4.us/wu4" />
 	<id>tag:daringfireball.net,2026://1.42556</id>
 	<published>2026-01-12T16:27:34Z</published>
-	<updated>2026-01-12T16:27:35Z</updated>
+	<updated>2026-01-12T18:32:33Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -68,7 +125,7 @@ would lie <em>inside</em> the window.</p>
 
 <p>One can argue with the logic behind these changes, 15 years ago. I’ll repeat that I think it was a grave error to make scrollbars invisible by default. I would argue that while the visible grippy-strip isn’t <em>necessary</em>, it’s nice to have. (As noted above, its presence showed you whether a window <em>could</em> be resized.) But there was, clearly, logic behind the decisions Apple made in 2011. They were carefully considered. The new logic was that you no longer look for a grippy-strip to click on to resize a window. You simply click inside the edge of a window. And of course Apple added a small affordance to the hit target for those edges, such that if you clicked <em>just</em> outside the window, that would count as “close enough” to assume you intended to click on the edge. Most users surely never noticed that. A lot of nice little touches in UI design go unnoticed because they’re nice little touches.</p>
 
-<p>Until MacOS 26, <em>most</em> of the hit target for initiate the resizing of a window was <em>inside</em> the window. Because, of course, right? Even though MacOS (well, Mac OS X) stopped rendering a visible resize grippy-strip 15 years ago, the user could simply imagine that there was still a grippy area <em>inside</em> the lower right corner of every resizable window. It would make no sense whatsoever for the click target to resize a window to be <em>outside</em> the window. Why would anyone expect that? It would work against what our own eyes, and years of experience, are telling us. You pick up a thing to move it or stretch it by grabbing the thing. Not by grabbing <em>next to</em> the thing.</p>
+<p>Until MacOS 26, <em>most</em> of the hit target to initiate the resizing of a window was <em>inside</em> the window. Because, of course, right? Even though MacOS (well, Mac OS X) stopped rendering a visible resize grippy-strip 15 years ago, the user could simply imagine that there was still a grippy area <em>inside</em> the lower right corner of every resizable window. It would make no sense whatsoever for the click target to resize a window to be <em>outside</em> the window. Why would anyone expect that? It would work against what our own eyes, and years of experience, are telling us. You pick up a thing to move it or stretch it by grabbing the thing. Not by grabbing <em>next to</em> the thing.</p>
 
 <p>The windows on MacOS 26 Tahoe don’t really have comically large, childish corner radiuses. They just <em>look like they do</em> because some jackasses at Apple — <a href="https://daringfireball.net/2025/12/bad_dye_job">all of whom, I pray, are now at Meta</a> — thought they looked better that way. It’s a straight-up inversion of Steve Jobs’s maxim that design is about how things <em>work</em>, not how they <em>look</em>. I can think of no better example to prove that the new UI in MacOS 26 Tahoe was designed by people who do not understand or care about the most basic fundamental principles of good design.</p>
 
@@ -1718,42 +1775,6 @@ firehose of dates, locations and surprising linkages.</p>
 
 <div>
 <a  title="Permanent link to ‘Trump Justice Department Dopes Made the Rookiest of Rookie Mistakes Attempting to Redact Some Epstein-File PDFs’"  href="https://daringfireball.net/linked/2025/12/23/trump-doj-pdf-redactions">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘Bari Weiss Steps Onto the CBS News Glass Cliff of Doom’</title>
-	<link rel="alternate" type="text/html" href="https://www.theverge.com/business/793525/bari-weiss-cbs-news-glass-cliff" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wsr" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/22/glass-cliff-of-doom" />
-	<id>tag:daringfireball.net,2025:/linked//6.42507</id>
-	<published>2025-12-23T02:23:07Z</published>
-	<updated>2025-12-23T02:23:07Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Elizabeth Lopatto, back in October, after Bari Weiss was first named editor-in-chief of CBS News by David Ellison after his acquisition of Paramount:</p>
-
-<blockquote>
-  <p>This is the glass cliff to end all glass cliffs. You’re Marissa
-Mayer at Yahoo without the Googler street cred. You’re Nancy Dubuc
-at Vice without the string of hit TV shows. You’re Linda Yaccarino
-at Twitter without the advertiser relationships. You have been
-hired as a sop to a Trump administration that is actively hostile
-to the <em>actual</em> free press, and you will be made to oversee wave
-after wave of layoffs until you quit or get fired and the entire
-news division is shut down in a final spasm of cost-cutting after
-the next inescapable media merger.</p>
-</blockquote>
-
-<p>The only thing Lopatto missed in her prescient piece is that Weiss might not last long enough to still be leading CBS News by the time Ellison gets to layoffs. It’s simply untenable for a partisan propagandist to be leading a legitimate news organization. Two months into the job and Weiss has already made a complete fool of herself. Her ham-fisted (but <a href="https://daringfireball.net/linked/2025/12/22/60-minutes-cecot-samizdat">failed</a>) attempt to <a href="https://daringfireball.net/linked/2025/12/22/weiss-60-minutes-cecot">censor a fair and well-reported piece</a> critical of the Trump administration’s deportation policies comes just one week after a televised town hall with Erika Kirk (widow of Charlie Kirk), which Weiss herself hosted, for which <a href="https://variety.com/2025/tv/news/advertisers-wary-cbs-news-bari-weiss-town-hall-1236608265/">the commercial spots were filled by direct marketing dietary supplements</a> and, I swear, Chia Pets.</p>
-
-<p>It’s been an inauspicious two months on the job for Weiss, to say the least.</p>
-
-<div>
-<a  title="Permanent link to ‘‘Bari Weiss Steps Onto the CBS News Glass Cliff of Doom’’"  href="https://daringfireball.net/linked/2025/12/22/glass-cliff-of-doom">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
