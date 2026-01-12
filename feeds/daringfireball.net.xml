@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-12T18:35:50Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-12T18:44:04Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>Apple, Rather Quietly and With No Details, Announces Partnership With Google to Use Gemini Technology for Apple Foundation Models, and Presumably, the Year-Overdue More Personalized Siri</title>
 	<link rel="alternate" type="text/html" href="https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wu5" />
@@ -70,7 +70,7 @@ while maintaining Apple’s industry-leading privacy standards.</p>
 	<link rel="shorturl" href="http://df4.us/wu4" />
 	<id>tag:daringfireball.net,2026://1.42556</id>
 	<published>2026-01-12T16:27:34Z</published>
-	<updated>2026-01-12T18:32:33Z</updated>
+	<updated>2026-01-12T18:44:04Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -105,7 +105,7 @@ would lie <em>inside</em> the window.</p>
     alt = "Screenshot illustrating the hit target for where you can click to initiate resizing a window in MacOS 26."
 ></p>
 
-<p>It was, I’d argue, a small mistake for Apple to stop putting a visual affordance in the lower right corner of windows to show where to click to resize the window. It was a bigger mistake to change the scrollbars on MacOS to look and work like those on iOS — invisible, except while you’re actually scrolling (by default, that is — savvy Mac users <a href="https://www.macrumors.com/how-to/make-scroll-bars-always-visible/">keep them always visible</a>). Those changes happened long ago, in Mac OS X 10.7 Lion, released in July 2011. <a href="https://arstechnica.com/gadgets/2011/07/mac-os-x-10-7/#page-3">John Siracusa’s 10.7 review</a> illustrates the before and after. Before (10.6):</p>
+<p>It was, I’d argue, a small mistake for Apple to stop putting a visual affordance in the lower right corner of windows to show where to click to resize the window. It was a bigger mistake to change the scrollbars on MacOS to look and work like those on iOS — invisible, except while you’re actually scrolling (by default, that is — savvy Mac users <a href="https://www.macrumors.com/how-to/make-scroll-bars-always-visible/">keep them always visible</a>). The removal of the resize indicator happened long ago, in Mac OS X 10.7 Lion, released in July 2011. <a href="https://arstechnica.com/gadgets/2011/07/mac-os-x-10-7/#page-3">John Siracusa’s 10.7 review</a> illustrates the before and after. Before (10.6):</p>
 
 <p><img
     src = "https://daringfireball.net/misc/2026/01/siracusa-10.6-snow-leopard-gui.png"
@@ -125,7 +125,7 @@ would lie <em>inside</em> the window.</p>
 
 <p>One can argue with the logic behind these changes, 15 years ago. I’ll repeat that I think it was a grave error to make scrollbars invisible by default. I would argue that while the visible grippy-strip isn’t <em>necessary</em>, it’s nice to have. (As noted above, its presence showed you whether a window <em>could</em> be resized.) But there was, clearly, logic behind the decisions Apple made in 2011. They were carefully considered. The new logic was that you no longer look for a grippy-strip to click on to resize a window. You simply click inside the edge of a window. And of course Apple added a small affordance to the hit target for those edges, such that if you clicked <em>just</em> outside the window, that would count as “close enough” to assume you intended to click on the edge. Most users surely never noticed that. A lot of nice little touches in UI design go unnoticed because they’re nice little touches.</p>
 
-<p>Until MacOS 26, <em>most</em> of the hit target to initiate the resizing of a window was <em>inside</em> the window. Because, of course, right? Even though MacOS (well, Mac OS X) stopped rendering a visible resize grippy-strip 15 years ago, the user could simply imagine that there was still a grippy area <em>inside</em> the lower right corner of every resizable window. It would make no sense whatsoever for the click target to resize a window to be <em>outside</em> the window. Why would anyone expect that? It would work against what our own eyes, and years of experience, are telling us. You pick up a thing to move it or stretch it by grabbing the thing. Not by grabbing <em>next to</em> the thing.</p>
+<p>Until MacOS 26, <em>most</em> of the hit target to initiate the resizing of a window was <em>inside</em> the window. Because, of course, right? Even though MacOS (well, Mac OS X) stopped rendering a visible resize grippy-strip 15 years ago, the user could simply imagine that there was still a grippy area <em>inside</em> the lower right corner of every resizable window. It would make no sense whatsoever for the click target to resize a window to be <em>outside</em> the window. Why would anyone expect that? It would work against what our own eyes, and years of experience, are telling us. You pick up a thing to move it or stretch it by grabbing the thing. Not by grabbing <a href="https://noheger.at/blog/wp-content/uploads/2026/01/scrambled-eggs.mov">next to the thing</a>.</p>
 
 <p>The windows on MacOS 26 Tahoe don’t really have comically large, childish corner radiuses. They just <em>look like they do</em> because some jackasses at Apple — <a href="https://daringfireball.net/2025/12/bad_dye_job">all of whom, I pray, are now at Meta</a> — thought they looked better that way. It’s a straight-up inversion of Steve Jobs’s maxim that design is about how things <em>work</em>, not how they <em>look</em>. I can think of no better example to prove that the new UI in MacOS 26 Tahoe was designed by people who do not understand or care about the most basic fundamental principles of good design.</p>
 
@@ -134,7 +134,7 @@ would lie <em>inside</em> the window.</p>
 
 
     ]]></content>
-  <title>★ Why It Is Difficult to Resize Windows on MacOS 26 Dyehoe</title></entry><entry>
+  <title>★ Why It’s Difficult to Resize Windows on MacOS 26 Dyehoe</title></entry><entry>
 	<title>Statement From Federal Reserve Chair Jerome H. Powell</title>
 	<link rel="alternate" type="text/html" href="https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wu3" />
