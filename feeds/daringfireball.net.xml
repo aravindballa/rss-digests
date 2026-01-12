@@ -7,7 +7,77 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-12T02:54:53Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-12T16:27:35Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/01/resizing_windows_macos_26" />
+	<link rel="shorturl" href="http://df4.us/wu4" />
+	<id>tag:daringfireball.net,2026://1.42556</id>
+	<published>2026-01-12T16:27:34Z</published>
+	<updated>2026-01-12T16:27:35Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>Norbert Heger, with a perfectly illustrated post, “<a href="https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/">The Struggle of Resizing Windows on macOS Tahoe</a>”:</p>
+
+<blockquote>
+  <p>Since upgrading to macOS Tahoe, I’ve noticed that quite often
+my attempts to resize a window are failing. This never happened
+to me before in almost 40 years of using computers. So why all
+of a sudden?</p>
+
+<p>It turns out that my initial click in the window corner
+instinctively happens in an area where the window doesn’t respond
+to it. The window expects this click to happen in an area of 19 ×
+19 pixels, located near the window corner.</p>
+
+<p>If the window had no rounded corners at all, 62% of that area
+would lie <em>inside</em> the window.</p>
+
+<p>But due to the huge corner radius in Tahoe, most of it — about
+75% — now lies <em>outside</em> the window.</p>
+</blockquote>
+
+<p>Here is Heger’s illustration of the hit target for the invisible resize button on MacOS 26:</p>
+
+<p><img
+    src = "/misc/2026/01/clickable-area-2.webp"
+    width = 500
+    alt = "Screenshot illustrating the hit target for where you can click to initiate resizing a window in MacOS 26."
+></p>
+
+<p>It was, I’d argue, a small mistake for Apple to stop putting a visual affordance in the lower right corner of windows to show where to click to resize the window. It was a bigger mistake to change the scrollbars on MacOS to look and work like those on iOS — invisible, except while you’re actually scrolling (by default, that is — savvy Mac users <a href="https://www.macrumors.com/how-to/make-scroll-bars-always-visible/">keep them always visible</a>). Those changes happened long ago, in Mac OS X 10.7 Lion, released in July 2011. <a href="https://arstechnica.com/gadgets/2011/07/mac-os-x-10-7/#page-3">John Siracusa’s 10.7 review</a> illustrates the before and after. Before (10.6):</p>
+
+<p><img
+    src = "https://daringfireball.net/misc/2026/01/siracusa-10.6-snow-leopard-gui.png"
+    alt = "Screenshot illustrating the standard GUI controls of Mac OS X 10.6 Snow Leopard."
+></p>
+
+<p>After (10.7):</p>
+
+<p><img
+    src = "https://daringfireball.net/misc/2026/01/siracusa-10.7-lion-gui.png"
+    alt = "Screenshot illustrating the standard GUI controls of Mac OS X 10.6 Snow Leopard."
+></p>
+
+<p>I think everything about the 10.7 Lion GUI looks better than the 10.6 Snow Leopard GUI — <em>except</em> for the omission of the resize affordance in the corner. The visible resize affordance didn’t just tell you where to click to resize the window, it also told you that the window <em>could be resized</em> in the first place. In 10.6 and earlier, a window that could be resized showed you that it could be resized because it had a visible indicator. Windows that didn’t have that indicator were windows whose size was fixed. From 10.7 through today, the only way to know if a window even <em>can</em> be resized is to move your mouse cursor to the corner and try. The grippy-strip affordance offered contextual information about the window.</p>
+
+<p>I can imagine the thinking at Apple behind this change, 15 years ago. The visible grippy-strip affordance in the lower-right corner isn’t really <em>necessary</em>. All users “know” that they can resize windows by clicking and dragging from the corner. And, although in ancient times users could <em>only</em> resize windows by clicking in the affordance in the lower-right corner, by 2011 it had long been the case that users could resize windows in two dimensions starting from <em>any corner</em>, or in one dimension starting from any <em>edge</em> of the window. (But windows on the Mac <a href="https://guidebookgallery.org/screenshots/macos90">used to have visible edges denoting the window chrome</a>, too. The Mac’s history is replete with glorious examples of UI clarity and precision.) So why draw the resize affordance in the lower-right corner when you can resize from any corner or window edge? Plus, the space for the lower-right grippy-strip affordance was made by the empty space at the intersection of vertical and horizontal scrollbar channels — and since Apple decided to make scrollbars invisible (by default) in Mac OS X 10.7 in 2011, there was no longer an otherwise unused square space in the corner for the resize affordance to be drawn. (It was sort of like the Free Parking space on <a href="https://daringfireball.net/misc/2026/01/monopoly.jpeg">a Monopoly board</a>.)</p>
+
+<p>One can argue with the logic behind these changes, 15 years ago. I’ll repeat that I think it was a grave error to make scrollbars invisible by default. I would argue that while the visible grippy-strip isn’t <em>necessary</em>, it’s nice to have. (As noted above, its presence showed you whether a window <em>could</em> be resized.) But there was, clearly, logic behind the decisions Apple made in 2011. They were carefully considered. The new logic was that you no longer look for a grippy-strip to click on to resize a window. You simply click inside the edge of a window. And of course Apple added a small affordance to the hit target for those edges, such that if you clicked <em>just</em> outside the window, that would count as “close enough” to assume you intended to click on the edge. Most users surely never noticed that. A lot of nice little touches in UI design go unnoticed because they’re nice little touches.</p>
+
+<p>Until MacOS 26, <em>most</em> of the hit target for initiate the resizing of a window was <em>inside</em> the window. Because, of course, right? Even though MacOS (well, Mac OS X) stopped rendering a visible resize grippy-strip 15 years ago, the user could simply imagine that there was still a grippy area <em>inside</em> the lower right corner of every resizable window. It would make no sense whatsoever for the click target to resize a window to be <em>outside</em> the window. Why would anyone expect that? It would work against what our own eyes, and years of experience, are telling us. You pick up a thing to move it or stretch it by grabbing the thing. Not by grabbing <em>next to</em> the thing.</p>
+
+<p>The windows on MacOS 26 Tahoe don’t really have comically large, childish corner radiuses. They just <em>look like they do</em> because some jackasses at Apple — <a href="https://daringfireball.net/2025/12/bad_dye_job">all of whom, I pray, are now at Meta</a> — thought they looked better that way. It’s a straight-up inversion of Steve Jobs’s maxim that design is about how things <em>work</em>, not how they <em>look</em>. I can think of no better example to prove that the new UI in MacOS 26 Tahoe was designed by people who do not understand or care about the most basic fundamental principles of good design.</p>
+
+<p>The good news is, I have a solution. Do not upgrade to MacOS 26 Tahoe. If you have already upgraded, <a href="https://www.macworld.com/article/671318/how-to-downgrade-macos-revert-back.html">downgrade</a>. Why suffer willingly with a user interface that presents you with absurdities like window resizing affordances that are 75 percent <em>outside</em> the window?</p>
+
+
+
+    ]]></content>
+  <title>★ Why It Is Difficult to Resize Windows on MacOS 26 Dyehoe</title></entry><entry>
 	<title>Statement From Federal Reserve Chair Jerome H. Powell</title>
 	<link rel="alternate" type="text/html" href="https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wu3" />
@@ -1309,65 +1379,6 @@ wax and feathers, and do a better job on the wings.”</p>
 
 	]]></content>
 	<title>[Sponsor] ListenLater.net</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2025/12/slop_is_slop" />
-	<link rel="shorturl" href="http://df4.us/wt4" />
-	<id>tag:daringfireball.net,2025://1.42520</id>
-	<published>2025-12-30T00:45:42Z</published>
-	<updated>2025-12-30T02:00:17Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">The image Tim Cook posted on Twitter/X (and which the Apple TV account retweeted) is ugly and awkward. It either *is* AI-generated slop or it looks like AI-generated slop for no artistic or thematic reason whatsoever.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>Some follow-up on <a href="https://daringfireball.net/linked/2025/12/27/slopibus">the looks-like-AI-slop “painting”</a> Tim Cook <a href="https://x.com/tim_cook/status/2003873311504130173">posted</a> on Twitter/X on Christmas Eve to promote the <em>Pluribus</em> season finale. <a href="https://apple.slashdot.org/story/25/12/28/2048225/did-tim-cook-post-ai-slop-in-his-christmas-message-promoting-pluribus">Slashdot contacted the credited artist</a>, Keith Thomson, and quoted this interaction with him:</p>
-
-<blockquote>
-  <p>Slashdot: I just wanted to confirm that that’s your work... If it
-is your work, can you say anything about what software you used
-when creating the image?</p>
-
-<p>Thomson: I’m unable to comment on specific client projects. In
-general, I always draw and paint by hand and sometimes incorporate
-standard digital tools.</p>
-</blockquote>
-
-<p>That is a non-denial denial that he used generative AI to create the image.</p>
-
-<p><a href="https://piunikaweb.com/2025/12/26/apple-tim-cook-christmas-art-ai-debate-keith-thomson/">Dwayne Cubbins at PiunikaWeb also contacted Keith Thomson and got this statement</a>:</p>
-
-<blockquote>
-  <p>The artist, Keith Thomson, responded to my request for a comment,
-stating that they “always draw by hand and sometimes incorporate
-standard digital tools.”</p>
-</blockquote>
-
-<p>That is the same non-denial denial, because “standard digital tools” might include generative AI.</p>
-
-<p><a href="https://spyglass.org/apples-pluribus-ai/">MG Siegler wonders</a> if it’s a deliberate allegory to some of the themes from the show, writing:</p>
-
-<blockquote>
-  <p>Keith Thomson using AI to produce art that’s like Keith Thomson’s
-art because it’s trained on Keith Thomson’s art. How’s that for a
-mindfuck?</p>
-
-<p>I’m sure I’m reading wayyyy too much into that tweet (and
-retweet), but given <a href="https://spyglass.org/pluribus-as-ai-allegory/">my previous post about <em>Pluribus</em> as an AI
-allegory</a>, I think it’s sort of interesting to think about
-in that context.</p>
-</blockquote>
-
-<p>MG’s posts have some spoilers re: <em>Pluribus</em>, so follow those links at your own risk. <em>Pluribus</em> is best enjoyed if you start watching it knowing as little about it as possible. But without spoiling anything, I think MG didn’t put enough <em>y</em>’s in the <em>wayyyy</em> in “I’m sure I’m reading wayyyy too much into that tweet”. There is no 3D chess being played here.</p>
-
-<p><a href="https://daringfireball.net/linked/2025/10/16/oatmeal-ai-art">I wrote just a few months ago</a> that I firmly believe generative AI tools not only can be, but already <em>are</em>, used to create genuine art. My problem with AI slop isn’t the <em>AI</em>, it’s the <em>slop</em>. Whatever “standard digital tools” Keith Thomson used to create <a href="https://daringfireball.net/misc/2025/12/milk-and-cookies-tim-cook-keith-thomson.png">this</a>, the result is a turd.</p>
-
-<p><em>Pluribus</em>, among numerous other merits, is a beautifully filmed show. <a href="https://www.keiththomsonart.com/">Thomson’s published paintings</a> are beautiful. The image Tim Cook posted on Twitter/X (and which the Apple TV account retweeted) is ugly and awkward. It either <em>is</em> AI-generated slop or it looks like AI-generated slop for no artistic or thematic reason whatsoever. Occam’s razor would suggest the conclusion that it simply is AI-generated slop, and Keith Thomson suckered Apple into paying for it.</p>
-
-
-
-    ]]></content>
-  <title>★ Slop Is Slop</title></entry><entry>
 	<title>Copilot Money</title>
 	<link rel="alternate" type="text/html" href="https://copilot.money/?utm_source=daringfireball&amp;utm_medium=editorial&amp;utm_campaign=daringfireball_122225_web25&amp;utm_term=DARING" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wt3" />
