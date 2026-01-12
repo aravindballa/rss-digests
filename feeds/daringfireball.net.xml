@@ -7,7 +7,60 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-12T22:07:58Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-12T22:34:33Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Eddy Cue on Apple’s 2025 Year in Services</title>
+	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/01/2025-marked-a-record-breaking-year-for-apple-services/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wu6" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/12/eddy-cue-apple-year-in-services" />
+	<id>tag:daringfireball.net,2026:/linked//6.42558</id>
+	<published>2026-01-12T22:31:39Z</published>
+	<updated>2026-01-12T22:34:33Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Eddy Cue, in a rare bylined post on Apple Newsroom:</p>
+
+<blockquote>
+  <p>The numbers reflect the incredible enthusiasm of our customers,
+whether it’s downloading an exciting new app or game, watching the
+hottest new show with family and friends, listening to their
+favorite songs, or shopping with peace of mind. The App Store
+alone saw over 850 million average weekly users globally, with
+developers earning over $550 billion on our platform since 2008.
+Apple Pay also made a significant impact by eliminating well over
+$1 billion in fraud, while generating more than $100 billion in
+incremental merchant sales globally, and purchases made through
+Apple Pay significantly outpaced the overall growth in consumer
+spending levels during the peak holiday shopping period in
+November and December.</p>
+</blockquote>
+
+<p>Those are numbers.</p>
+
+<blockquote>
+  <p>Apple TV eclipsed all prior viewership records in December 2025,
+while Apple Music reached all-time highs in both listenership and
+new subscribers.</p>
+</blockquote>
+
+<p>Those are not numbers.</p>
+
+<blockquote>
+  <p>Apple TV’s engagement this past December soared, with total hours
+viewed up 36 percent compared to the previous year, setting a new
+record for monthly engagement.</p>
+</blockquote>
+
+<p>That’s a number, but it’s <a href="https://x.com/jsnell/status/481863414180896769">a Bezos Number</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Eddy Cue on Apple’s 2025 Year in Services’"  href="https://daringfireball.net/linked/2026/01/12/eddy-cue-apple-year-in-services">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple, Rather Quietly and With No Details, Announces Partnership With Google to Use Gemini Technology for Apple Foundation Models, and Presumably, the Year-Overdue More Personalized Siri</title>
 	<link rel="alternate" type="text/html" href="https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wu5" />
@@ -1755,30 +1808,6 @@ firehose of dates, locations and surprising linkages.</p>
 
 <div>
 <a  title="Permanent link to ‘Amateur Codebreaker May Have Solved the Black Dahlia and Zodiac Killings’"  href="https://daringfireball.net/linked/2025/12/23/amateur-codebreaker-may-have-solved-the-black-dahlia-and-zodiac-killings">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Trump Justice Department Dopes Made the Rookiest of Rookie Mistakes Attempting to Redact Some Epstein-File PDFs</title>
-	<link rel="alternate" type="text/html" href="https://www.tiktok.com/@krassenstein/video/7586804140869700895" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wss" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/23/trump-doj-pdf-redactions" />
-	<id>tag:daringfireball.net,2025:/linked//6.42508</id>
-	<published>2025-12-23T16:56:00Z</published>
-	<updated>2025-12-23T16:56:01Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Everyone who works with official PDFs in any capacity should know that if you start with a PDF containing text you want to redact, and you just place black bars atop that text and resave the file, the original text is all still there in the new PDF file. It’s the digital equivalent of putting sticky notes atop the text. You don’t even need to crack open the new PDF in a text (or hex) editor and hunt for the original text within non-human-readable PDF formatting code. You just open the PDF in Preview or Acrobat or any other PDF viewer, use the regular text selection cursor to select the text under the black bars, copy, and then paste into any other app. Everyone should know this but <a href="https://daringfireball.net/linked/2025/04/16/meta-redactions">it keeps happening</a>. Now <a href="https://www.tiktok.com/@krassenstein/video/7586804140869700895">it’s happened</a> with the new batch of Epstein files released by the DOJ.</p>
-
-<p>There are <em>major</em> differences between the Trump 1.0 and 2.0 administrations. In the Trump 1.0 administration, many of the most important officials were very competent men. One example would be then-Attorney General William Barr. Barr is contemptible, yes, but smart AF. When Barr’s DOJ released a redacted version of the Mueller Report, they printed the whole thing, made their redactions with actual ink, and then re-scanned every page <a href="https://daringfireball.net/linked/2019/05/02/mueller-pdf-assessment">to generate a new PDF with absolutely no digital trace of the original PDF file</a>. There are ways to properly redact a PDF digitally, but going analog is foolproof.</p>
-
-<p>The Trump 2.0 administration, in contrast, is staffed top to bottom with fools.</p>
-
-<div>
-<a  title="Permanent link to ‘Trump Justice Department Dopes Made the Rookiest of Rookie Mistakes Attempting to Redact Some Epstein-File PDFs’"  href="https://daringfireball.net/linked/2025/12/23/trump-doj-pdf-redactions">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
