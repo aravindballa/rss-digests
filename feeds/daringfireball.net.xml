@@ -7,25 +7,27 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-12T23:03:08Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-12T23:14:45Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>MacOS 26’s Cut Corners</title>
 	<link rel="alternate" type="text/html" href="https://daringfireball.net/2026/01/resizing_windows_macos_26" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wu8" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/12/macos-26-cut-corner" />
 	<id>tag:daringfireball.net,2026:/linked//6.42560</id>
 	<published>2026-01-12T23:03:08Z</published>
-	<updated>2026-01-12T23:03:08Z</updated>
+	<updated>2026-01-12T23:14:45Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Here’s an illustrated follow-up regarding the absurdity of MacOS 26’s “looks like they’re rounded off like a child’s toy but actually they’re still rectangles with corners” windows”. If you turn on always-visible scrollbars (which you should) and scroll to the bottom, they look like this:</p>
+<p>Here’s an illustrated follow-up regarding the absurdity of MacOS 26’s “looks like they’re rounded off like a child’s toy but actually they’re still rectangles with corners” windows. If you turn on always-visible scrollbars (which you should) and scroll to the bottom, they look like this:</p>
 
 <p><img
     src = "https://daringfireball.net/misc/2026/01/cut-corners.png"
     alt = "Screenshot of the bottom right corner of a window in MacOS 26 showing a scrollbar thumb cut off by the rounded corner."
 ></p>
+
+<p>(That’s Safari, which I think is a somewhat popular app.)</p>
 
 <p>It would make more sense if we found out that the team behind redesigning the UI for MacOS 26 Tahoe was hired by Meta a year ago and deliberately sabotaged their work to make the Mac look clownish and amateur.</p>
 
