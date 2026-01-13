@@ -7,7 +7,72 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-13T00:13:36Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-13T18:28:30Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Apple Announces Apple Creator Studio (Including Apple’s Take on Pixelmator)</title>
+	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/01/introducing-apple-creator-studio-an-inspiring-collection-of-creative-apps/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wub" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/13/apple-creator-studio" />
+	<id>tag:daringfireball.net,2026:/linked//6.42563</id>
+	<published>2026-01-13T18:27:26Z</published>
+	<updated>2026-01-13T18:28:30Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Apple Newsroom:</p>
+
+<blockquote>
+  <p>Apple today unveiled <a href="https://www.apple.com/apple-creator-studio/">Apple Creator Studio</a>, a groundbreaking
+collection of powerful creative apps designed to put studio-grade
+power into the hands of everyone, building on the essential role
+Mac, iPad, and iPhone play in the lives of millions of creators
+around the world. [...]</p>
+
+<p>Apple Creator Studio will be available on the App Store beginning
+Wednesday, January 28, for $12.99 per month or $129 per year, with
+a one-month free trial, and includes access to Final Cut Pro,
+Logic Pro, and Pixelmator Pro on Mac and iPad; Motion, Compressor,
+and MainStage on Mac; and intelligent features and premium content
+for Keynote, Pages, Numbers, and later Freeform for iPhone, iPad,
+and Mac. College students and educators can subscribe for $2.99
+per month or $29.99 per year. Alternatively, users can also choose
+to purchase the Mac versions of Final Cut Pro, Pixelmator Pro,
+Logic Pro, Motion, Compressor, and MainStage individually as a
+one-time purchase on the Mac App Store.</p>
+</blockquote>
+
+<p>One-time purchase pricing, from the footnotes:</p>
+
+<blockquote>
+  <p>One-time-purchase versions of Final Cut Pro ($299.99 U.S.), Logic
+Pro ($199.99 U.S.), Pixelmator Pro ($49.99 U.S.), Motion ($49.99
+U.S.), Compressor ($49.99 U.S.), and MainStage ($29.99 U.S.) are
+available on the Mac App Store.</p>
+</blockquote>
+
+<p>I’ll have more to say later today, but my first observation is that with the exception of the new version of Pixelmator, the user interfaces of these apps completely ignore Liquid Glass. That could be a statement from the design teams for these apps, or could be a factor only of version requirements:</p>
+
+<blockquote>
+  <p>Pixelmator Pro for iPad is compatible with iPad models with the
+A16, A17 Pro, or M1 chip or later running iPadOS 26 or later.
+The Apple Creator Studio version of Pixelmator Pro requires
+macOS 26. [...]</p>
+
+<p>The one-time-purchase versions of Final Cut Pro requires macOS
+15.6 or later, Logic Pro requires macOS 15.6 or later, and
+Pixelmator Pro requires macOS 12.0 or later. MainStage is
+available for any Mac supported by macOS 15.6 or later. Motion
+requires macOS 15.6 or later. Compressor requires macOS 15.6 or
+later and some features require a Mac with Apple silicon.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘Apple Announces Apple Creator Studio (Including Apple’s Take on Pixelmator)’"  href="https://daringfireball.net/linked/2026/01/13/apple-creator-studio">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Sarah Perez on Core Devices, the Sequel to Pebble</title>
 	<link rel="alternate" type="text/html" href="https://techcrunch.com/2026/01/12/pebble-founder-says-his-new-company-is-not-a-startup/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wua" />
@@ -186,7 +251,7 @@ record for monthly engagement.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/12/apple-google-foundation-models-cnbc" />
 	<id>tag:daringfireball.net,2026:/linked//6.42557</id>
 	<published>2026-01-12T18:35:50Z</published>
-	<updated>2026-01-12T22:07:58Z</updated>
+	<updated>2026-01-13T18:27:43Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -233,7 +298,7 @@ while maintaining Apple’s industry-leading privacy standards.</p>
 
 <p>This phrasing, in both Apple’s statement to Cramer and the joint Apple/Google statement released by Google, is, I think subtly telling about how significant this news is: “Google’s AI technology provides the most capable foundation for Apple Foundation Models”. There’s a slight redundancy with <em>foundation</em> appearing twice in the span of four words. Imagine if WebKit had been named “Safari Rendering Engine” — there would be times when one might need to write “the rendering engine is Safari Rendering Engine”, because that’s what it is, and that’s the name. But in this case, it’s a bit incongruous. A foundation is a foundation; it doesn’t have a foundation. So this brief bit of phrasing reveals the obvious, awkward truth that Apple Foundation Models didn’t actually have a foundation.</p>
 
-<p>Also, perhaps some evidence of OCR copy-and-pasting: in the tweet of the joint statement, marked by “[<em>sic</em>]” above, AI is spelled uppercase-A lowercase-L. <strong>Update:</strong> Same misspelling in <a href="https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/">the version of the announcement</a> hosted on Google’s own news site.</p>
+<p>Also, perhaps some evidence of OCR copy-and-pasting: in the tweet of the joint statement, marked by “[<em>sic</em>]” above, AI is spelled uppercase-A lowercase-L. <strong>Update:</strong> Same misspelling in <a href="https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/?ref=jagsworkshop.com">the version of the announcement</a> hosted on Google’s own news site.</p>
 
 <div>
 <a  title="Permanent link to ‘Apple, Rather Quietly and With No Details, Announces Partnership With Google to Use Gemini Technology for Apple Foundation Models, and Presumably, the Year-Overdue More Personalized Siri’"  href="https://daringfireball.net/linked/2026/01/12/apple-google-foundation-models-cnbc">&nbsp;★&nbsp;</a>
@@ -1754,40 +1819,6 @@ wax and feathers, and do a better job on the wings.”</p>
 
 <div>
 <a  title="Permanent link to ‘‘The iPad’s Software Problem Is Permanent’’"  href="https://daringfireball.net/linked/2025/12/24/snazzy-ipad">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>I Guess Nothing Is Foolproof</title>
-	<link rel="alternate" type="text/html" href="https://www.theverge.com/2023/6/28/23777298/sony-ftc-microsoft-confidential-documents-marker-pen-scanner-oops" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wsw" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/23/i-guess-nothing-is-foolproof" />
-	<id>tag:daringfireball.net,2025:/linked//6.42512</id>
-	<published>2025-12-24T02:16:45Z</published>
-	<updated>2025-12-24T02:17:15Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>From a 2023 report at The Verge:</p>
-
-<blockquote>
-  <p>Sony highly confidential information about its PlayStation
-business has just been revealed by mistake. As part of the FTC v.
-Microsoft hearing, Sony supplied a document from PlayStation chief
-Jim Ryan that includes redacted details on the margins Sony shares
-with publishers, its <em>Call of Duty</em> revenues, and even the cost of
-developing some of its games.</p>
-
-<p>It looks like someone redacted the documents with a black Sharpie — but when you scan them in, it’s easy to see some of the
-redactions. Oops.</p>
-</blockquote>
-
-<p>This is sort of the exception that proves the rule <a href="https://daringfireball.net/linked/2025/12/23/trump-doj-pdf-redactions">regarding redactions</a>. If you redact a document digitally, you have to know what to look for (e.g. metadata) to be certain you’ve redacted everything you want to redact. If you redact a document on paper, you can just look at it, with good light and sharp eyes.</p>
-
-<div>
-<a  title="Permanent link to ‘I Guess Nothing Is Foolproof’"  href="https://daringfireball.net/linked/2025/12/23/i-guess-nothing-is-foolproof">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
