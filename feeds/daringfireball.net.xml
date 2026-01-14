@@ -7,7 +7,44 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-13T19:01:16Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-14T16:49:17Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Meta, a Completely Trustworthy Company, Leaks That Demand for Ray-Ban Meta Glasses Is Surging</title>
+	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2026-01-13/meta-said-to-discuss-doubling-ray-ban-glasses-output-after-surge-in-demand" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wuc" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/14/meta-claims-glasses-surging" />
+	<id>tag:daringfireball.net,2026:/linked//6.42564</id>
+	<published>2026-01-14T16:40:09Z</published>
+	<updated>2026-01-14T16:40:09Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Daniele Lepido and Antonio Vanuzzo, reporting for Bloomberg (paywalled, alas):</p>
+
+<blockquote>
+  <p>Meta Platforms Inc. and EssilorLuxottica SA are discussing
+potentially doubling production capacity for AI-powered smart
+glasses by the end of this year, in a bid to capture growing
+demand and head off rivals, according to people familiar with
+the matter.</p>
+
+<p>With sales of Ray-Ban Meta frames taking hold, Facebook-owner Meta
+has suggested increasing annual capacity to 20 million units or
+more by the end of 2026, said the people, asking not to be named
+because the deliberations are private.</p>
+</blockquote>
+
+<p>20 million units is a real number. But building the capacity for 20 million units isn’t the same as selling 20 million units, and, to my knowledge, actual sales of Meta Glasses are only Bezos Numbers. And for historical context, 20 million units annually would put Meta Glasses somewhere between <a href="https://www.mattrichman.net/another-way-of-looking-at-iphone-sales/">the second and third years of iPhone sales</a>. If they’re really on pace for 20 million sales per year that’s a real thing. But in 2009 I was seeing a lot of iPhones out and about in the world. I’ve only noticed one guy wearing Meta Ray-Bans in the last few months. That’s personal anecdata, for sure, and it’s possible I’m walking past more people wearing these than I realize because they’re supposed to look like regular Ray-Bans. I don’t think they’re on anything even close to <a href="https://www.mattrichman.net/another-way-of-looking-at-iphone-sales/">the astounding growth pattern of the early iPhone</a>, but Meta is trying hard to create the perception that they are, and that they’re locking in a first-mover advantage.</p>
+
+<p>And again, leaking that they’re “discussing potentially doubling production capacity” is as different from actually selling 20 million annual units as <a href="https://www.theverge.com/2022/10/26/23425429/meta-q3-2022-earnings-facebook-metaverse-mark-zuckerberg">“going all in” on the Metaverse</a> is from <a href="https://www.bloomberg.com/news/articles/2026-01-13/meta-begins-jobs-cuts-after-shifting-focus-from-metaverse-to-phones">laying off another thousand-plus employees from the Metaverse division</a> three years later.</p>
+
+<div>
+<a  title="Permanent link to ‘Meta, a Completely Trustworthy Company, Leaks That Demand for Ray-Ban Meta Glasses Is Surging’"  href="https://daringfireball.net/linked/2026/01/14/meta-claims-glasses-surging">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple Announces Apple Creator Studio (Including Apple’s Take on Pixelmator)</title>
 	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/01/introducing-apple-creator-studio-an-inspiring-collection-of-creative-apps/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wub" />
@@ -313,7 +350,7 @@ while maintaining Apple’s industry-leading privacy standards.</p>
 	<link rel="shorturl" href="http://df4.us/wu4" />
 	<id>tag:daringfireball.net,2026://1.42556</id>
 	<published>2026-01-12T16:27:34Z</published>
-	<updated>2026-01-12T18:44:04Z</updated>
+	<updated>2026-01-14T16:49:17Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -362,11 +399,11 @@ would lie <em>inside</em> the window.</p>
     alt = "Screenshot illustrating the standard GUI controls of Mac OS X 10.6 Snow Leopard."
 ></p>
 
-<p>I think everything about the 10.7 Lion GUI looks better than the 10.6 Snow Leopard GUI — <em>except</em> for the omission of the resize affordance in the corner. The visible resize affordance didn’t just tell you where to click to resize the window, it also told you that the window <em>could be resized</em> in the first place. In 10.6 and earlier, a window that could be resized showed you that it could be resized because it had a visible indicator. Windows that didn’t have that indicator were windows whose size was fixed. From 10.7 through today, the only way to know if a window even <em>can</em> be resized is to move your mouse cursor to the corner and try. The grippy-strip affordance offered contextual information about the window.</p>
+<p>I think everything about the 10.7 Lion GUI looks better than the 10.6 Snow Leopard GUI — <em>except</em> for the omission of the resize affordance in the corner. The visible resize affordance didn’t just tell you where to click to resize the window, it also told you that the window <em>could be resized</em> in the first place. In 10.6 and earlier, a window that could be resized showed you that it could be resized by having an always-visible indicator. Windows that didn’t have that indicator were windows whose size was fixed. From 10.7 through today, the only way to know if a window even <em>can</em> be resized is to move your mouse cursor to the corner and try. (At least by looking for the mouse cursor to change to the double-arrow resize cursor.) The grippy-strip signifier offered contextual information about the window.</p>
 
-<p>I can imagine the thinking at Apple behind this change, 15 years ago. The visible grippy-strip affordance in the lower-right corner isn’t really <em>necessary</em>. All users “know” that they can resize windows by clicking and dragging from the corner. And, although in ancient times users could <em>only</em> resize windows by clicking in the affordance in the lower-right corner, by 2011 it had long been the case that users could resize windows in two dimensions starting from <em>any corner</em>, or in one dimension starting from any <em>edge</em> of the window. (But windows on the Mac <a href="https://guidebookgallery.org/screenshots/macos90">used to have visible edges denoting the window chrome</a>, too. The Mac’s history is replete with glorious examples of UI clarity and precision.) So why draw the resize affordance in the lower-right corner when you can resize from any corner or window edge? Plus, the space for the lower-right grippy-strip affordance was made by the empty space at the intersection of vertical and horizontal scrollbar channels — and since Apple decided to make scrollbars invisible (by default) in Mac OS X 10.7 in 2011, there was no longer an otherwise unused square space in the corner for the resize affordance to be drawn. (It was sort of like the Free Parking space on <a href="https://daringfireball.net/misc/2026/01/monopoly.jpeg">a Monopoly board</a>.)</p>
+<p>I can imagine the thinking at Apple behind this change, 15 years ago. The visible grippy-strip signifier in the lower-right corner isn’t really <em>necessary</em>. All users “know” — so the thinking went — that they can resize windows by clicking and dragging from the corner. And, although in ancient times users could <em>only</em> resize windows by clicking in the affordance in the lower-right corner, by 2011 it had long been the case that users could resize windows in two dimensions starting from <em>any corner</em>, or in one dimension starting from any <em>edge</em> of the window. (But windows on the Mac <a href="https://guidebookgallery.org/screenshots/macos90">used to have visible edges of window chrome</a>, too. The Mac’s history is replete with glorious examples of UI clarity and precision.) So why draw the resize affordance in the lower-right corner when you can resize from any corner or window edge? Plus, the space for the lower-right grippy-strip affordance was made by the empty space at the intersection of vertical and horizontal scrollbar channels — and since Apple decided to make scrollbars invisible (by default) in Mac OS X 10.7 in 2011, there was no longer an otherwise unused square space in the corner for the resize affordance to be drawn. (It was sort of like the Free Parking space on <a href="https://daringfireball.net/misc/2026/01/monopoly.jpeg">a Monopoly board</a>.)</p>
 
-<p>One can argue with the logic behind these changes, 15 years ago. I’ll repeat that I think it was a grave error to make scrollbars invisible by default. I would argue that while the visible grippy-strip isn’t <em>necessary</em>, it’s nice to have. (As noted above, its presence showed you whether a window <em>could</em> be resized.) But there was, clearly, logic behind the decisions Apple made in 2011. They were carefully considered. The new logic was that you no longer look for a grippy-strip to click on to resize a window. You simply click inside the edge of a window. And of course Apple added a small affordance to the hit target for those edges, such that if you clicked <em>just</em> outside the window, that would count as “close enough” to assume you intended to click on the edge. Most users surely never noticed that. A lot of nice little touches in UI design go unnoticed because they’re nice little touches.</p>
+<p>One can argue with the logic behind these changes, 15 years ago. I’ll repeat that I think it was a grave error to make scrollbars invisible by default. I would argue that while the visible grippy-strip isn’t <em>necessary</em>, it’s nice to have. (As noted above, its presence showed you whether a window <em>could</em> be resized.) But there was, clearly, logic behind the decisions Apple made in 2011. They were carefully considered. The new logic was that you no longer look for a grippy-strip to click on to resize a window. You simply click (or hover, waiting for the cursor to change) inside the edge of a window. And of course Apple added a small affordance to the hit target for those edges, such that if you clicked <em>just</em> outside the window, that would count as “close enough” to assume you intended to click on the edge. Most users surely never noticed that. A lot of nice little touches in UI design go unnoticed because they’re nice <em>little</em> touches.</p>
 
 <p>Until MacOS 26, <em>most</em> of the hit target to initiate the resizing of a window was <em>inside</em> the window. Because, of course, right? Even though MacOS (well, Mac OS X) stopped rendering a visible resize grippy-strip 15 years ago, the user could simply imagine that there was still a grippy area <em>inside</em> the lower right corner of every resizable window. It would make no sense whatsoever for the click target to resize a window to be <em>outside</em> the window. Why would anyone expect that? It would work against what our own eyes, and years of experience, are telling us. You pick up a thing to move it or stretch it by grabbing the thing. Not by grabbing <a href="https://noheger.at/blog/wp-content/uploads/2026/01/scrambled-eggs.mov">next to the thing</a>.</p>
 
@@ -1801,26 +1838,6 @@ wax and feathers, and do a better job on the wings.”</p>
 
 <div>
 <a  title="Permanent link to ‘Quinn Nelson on Apple’s Executive Shuffling’"  href="https://daringfireball.net/linked/2025/12/24/snazzy-apple-execs">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘The iPad’s Software Problem Is Permanent’</title>
-	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=bnYLpA5kAbo" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wsx" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/24/snazzy-ipad" />
-	<id>tag:daringfireball.net,2025:/linked//6.42513</id>
-	<published>2025-12-24T16:45:39Z</published>
-	<updated>2025-12-24T16:45:40Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Smart, fair video from Quinn Nelson on the gap that remains between iPadOS 26 and desktop OSes. I think it’s right that there is a gap there. Apple has the Macintosh, the best desktop/workstation platform in the industry. So whatever the ideal is for iPadOS, it ought to fall short of MacOS in terms of technical capabilities, and instead offer a degree of simplicity and can’t-screw-it-up-edness that the Mac can’t match. But, some of the limitations that remain in iPadOS are just frustrating. iPadOS 26 is a huge leap forward, and I think sets the stage for Apple to address those limitations.</p>
-
-<div>
-<a  title="Permanent link to ‘‘The iPad’s Software Problem Is Permanent’’"  href="https://daringfireball.net/linked/2025/12/24/snazzy-ipad">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
