@@ -7,7 +7,39 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-14T23:43:17Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-15T00:08:26Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>The Explosive, Immediate, Early Growth of the iPhone</title>
+	<link rel="alternate" type="text/html" href="https://www.mattrichman.net/takeaways-from-apples-q4-2011/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wuh" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/14/the-explosive-immediate-early-growth-of-the-iphone" />
+	<id>tag:daringfireball.net,2026:/linked//6.42569</id>
+	<published>2026-01-15T00:08:25Z</published>
+	<updated>2026-01-15T00:08:26Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Matt Richman, back in 2012:</p>
+
+<blockquote>
+  <p>In 2009, Apple sold more iPhones than it did in 2007 and 2008
+combined. In 2010, Apple sold more iPhones than it did in 2007,
+2008, and 2009 combined. Last year, Apple sold 93.1 million
+iPhones, slightly more than it did in 2007, 2008, 2009, and 2010
+combined. The <a href="https://www.mattrichman.net/another-way-of-looking-at-iphone-sales/">pattern</a> continued.</p>
+</blockquote>
+
+<p>I referenced this old post <a href="https://daringfireball.net/linked/2026/01/14/meta-claims-glasses-surging">earlier today</a>, attempting to put into context Meta’s “leak” that they’ve got <a href="https://newrepublic.com/post/185832/donald-trump-roasted-concepts-plan">concepts of a plan</a> to ramp Meta Glasses production up to 20 million units per year. It’s easy to forget — or if you’re young enough, to just accept as history — just how astonishing the growth of the iPhone was in its early years. Every year wasn’t just bigger than the previous year — it was bigger than all previous years combined. Year after year. That pattern only ended after Apple had run out of new countries, new carriers, and new customers to introduce it to.</p>
+
+<p>There’s never been a product like it before, and quite possibly never will be again. In January 2007 no one had ever even seen a device like an iPhone. By 2015 or so, almost everyone in the world who could afford one either had an iPhone or they had an Android phone that looked and worked like an iPhone.</p>
+
+<div>
+<a  title="Permanent link to ‘The Explosive, Immediate, Early Growth of the iPhone’"  href="https://daringfireball.net/linked/2026/01/14/the-explosive-immediate-early-growth-of-the-iphone">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Meta Shutters Three VR Studios</title>
 	<link rel="alternate" type="text/html" href="https://www.engadget.com/ar-vr/meta-has-closed-three-vr-studios-as-part-of-its-metaverse-cuts-202720670.html" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wug" />
@@ -1924,28 +1956,6 @@ wax and feathers, and do a better job on the wings.”</p>
 
 <div>
 <a  title="Permanent link to ‘Copilot Money’"  href="https://daringfireball.net/linked/2025/12/28/copilot-money">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>SoundSource 6</title>
-	<link rel="alternate" type="text/html" href="https://weblog.rogueamoeba.com/2025/12/04/soundsource-6-is-here/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wt2" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/28/soundsource-6" />
-	<id>tag:daringfireball.net,2025:/linked//6.42518</id>
-	<published>2025-12-28T19:39:53Z</published>
-	<updated>2025-12-28T19:42:57Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Major update to Rogue Amoeba’s essential audio utility for the Mac. I’ve written about <a href="https://daringfireball.net/linked/2020/08/09/soundsource-5">versions 5</a> <a href="https://daringfireball.net/linked/2019/04/04/soundsource-4">and 4</a> previously, and everything I wrote then remains true. SoundSource remains the system-wide audio menu item that ought to be built into MacOS, giving you easy, intuitive control over every audio <em>device</em> (input and output), and easy, intuitive control over every <em>app</em> in which you play or record audio. That one seemingly-simple app does both those things is quite the remarkable design achievement. And aside from that usability, SoundSource remains an exemplar of UI design stylistically — distinctive and branded, while looking and feeling in every way like a standard Mac app.</p>
-
-<p>New tentpole features in version 6 include fine-grained AirPlay support (e.g. route output from one app over AirPlay while leaving the rest of your system’s audio output local to your Mac), groups for output devices, and a new “Quick Configs” feature for saving and switching between, well, quick configurations. $49 for a new license, $25 to upgrade from a previous one.</p>
-
-<div>
-<a  title="Permanent link to ‘SoundSource 6’"  href="https://daringfireball.net/linked/2025/12/28/soundsource-6">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
