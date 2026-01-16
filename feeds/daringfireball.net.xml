@@ -7,7 +7,43 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-15T14:10:51Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-16T15:20:25Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Emoji Design Convergence Review: 2018–2026</title>
+	<link rel="alternate" type="text/html" href="https://blog.emojipedia.org/emoji-design-convergence-review-2018-2026/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wui" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/16/emoji-design-convergence" />
+	<id>tag:daringfireball.net,2026:/linked//6.42570</id>
+	<published>2026-01-16T15:20:25Z</published>
+	<updated>2026-01-16T15:20:25Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Keith Broni, writing at Emojipedia, has a good illustrated survey of how most emoji sets have converged in meaning — almost entirely toward Apple’s designs:</p>
+
+<blockquote>
+  <p>There are several structural reasons why Apple’s designs so often
+become the gravitational center of emoji convergence.</p>
+
+<p>First, Apple is widely regarded as the “default” emoji design set
+in the West. This status dates back to 2008, when Apple introduced
+emoji support on the iPhone years before emoji were formally
+incorporated into Unicode.</p>
+</blockquote>
+
+<p>It’s also the case that Apple’s emoji icons are the best, and they’re the most consistent. The only ones Apple has changed the meaning of are ones where the Unicode Consortium has changed or clarified the standard description.</p>
+
+<p>One thing that remains interesting to me is that Apple left its emoji style alone when they instituted the great flattening with iOS 7. Apple’s emoji icons are, loosely, in the style of Apple’s application and toolbar icon designs from the Aqua era. People love emoji, and at this point, changing their style to something that felt aligned with the icon designs for Apple’s version 26 OSes would generate outrage. But if Apple were to change its icon style back to this rich 3D textured style, the majority of users wouldn’t object — they’d think it was fun.</p>
+
+<p>Basically, Apple’s emoji style is fun. Apple’s icon style is no-fun. People like having fun.</p>
+
+<div>
+<a  title="Permanent link to ‘Emoji Design Convergence Review: 2018–2026’"  href="https://daringfireball.net/linked/2026/01/16/emoji-design-convergence">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>The Explosive, Immediate, Early Growth of the iPhone</title>
 	<link rel="alternate" type="text/html" href="https://www.mattrichman.net/takeaways-from-apples-q4-2011/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wuh" />
@@ -1933,32 +1969,4 @@ wax and feathers, and do a better job on the wings.”</p>
 
 
     ]]></content>
-  <title>★ ‘Do a Better Job on the Wings’</title></entry><entry>
-	<title>Copilot Money</title>
-	<link rel="alternate" type="text/html" href="https://copilot.money/?utm_source=daringfireball&amp;utm_medium=editorial&amp;utm_campaign=daringfireball_122225_web25&amp;utm_term=DARING" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wt3" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/28/copilot-money" />
-	<id>tag:daringfireball.net,2025:/linked//6.42519</id>
-	<published>2025-12-28T19:55:51Z</published>
-	<updated>2025-12-30T19:02:59Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>My thanks to Copilot Money for sponsoring last week at DF. Copilot is a personal finance app for the iPhone, iPad, and Mac, and they’ve always deeply believed in the value of embracing the design idioms and technical features of truly native apps for Apple platforms. Apple has noticed, awarding Copilot an <a href="https://apps.apple.com/us/app/copilot-track-budget-money/id1447330651#productRatings">App Store Editor’s Choice</a> and featuring Copilot earlier this year on Apple Developer <a href="https://developer.apple.com/articles/copilot-money/">for their use of Swift Charts</a>.</p>
-
-<p>Copilot’s big news this week is they’ve launched a new web app, bringing access to Copilot from any device, anywhere. It’s designed with all the attention to detail — and concern for privacy and security — as their native apps.</p>
-
-<p>Copilot Money brings all your spending, budgets, investments, and net worth into one organized dashboard, with intelligent categorization and insights that help you stay on track without spreadsheets or app-hopping. Designed to feel calm and intuitive, Copilot makes it easy to understand your finances across all your devices.</p>
-
-<p>Copilot first sponsored DF back in 2021. My wife and I started using it then to track our finances, and we haven’t looked back. Copilot Money isn’t just better than anything we’d used before, it absolutely blew everything else away. It’s easy to connect to your financial accounts, and once you do, you don’t need to spend any effort at all to enter transactions. Copilot just tracks it all automatically, and most importantly, presents it to you in clear, intuitive ways. It’s so good. I’m not saying that because they sponsored DF last week — I’m saying that as a happy paying customer for over four years now.</p>
-
-<p>Copilot is offering DF readers two months free with code <strong>DARING</strong>, plus 26% off your first year for a limited time, <a href="https://copilot.money/?utm_source=daringfireball&amp;utm_medium=editorial&amp;utm_campaign=daringfireball_122225_web25&amp;utm_term=DARING">available through this link</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Copilot Money’"  href="https://daringfireball.net/linked/2025/12/28/copilot-money">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry></feed><!-- THE END -->
+  <title>★ ‘Do a Better Job on the Wings’</title></entry></feed><!-- THE END -->
