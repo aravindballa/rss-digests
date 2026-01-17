@@ -7,13 +7,13 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-17T23:00:57Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-17T23:27:59Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/01/thoughts_and_observations_regarding_apple_creator_studio" />
 	<link rel="shorturl" href="http://df4.us/wum" />
 	<id>tag:daringfireball.net,2026://1.42574</id>
 	<published>2026-01-17T21:13:21Z</published>
-	<updated>2026-01-17T23:00:57Z</updated>
+	<updated>2026-01-17T23:27:59Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -68,6 +68,8 @@ of someone getting really really good at icon design.</p>
  /></p>
 </blockquote>
 
+<p>The new Pixelmator icon is the most jarring of the bunch because it hasn’t been on the drip-drip-drip yearslong slide of Apple’s in-house app icons. It just switched in one feel swoop from something that looks like art that one might print, frame, and hang on their wall, to, well, whatever the new one is.</p>
+
 <p><a href="https://www.threads.com/@asallen/post/DTdg6ehgVhi">Andy Allen</a>:</p>
 
 <blockquote>
@@ -93,7 +95,7 @@ of someone getting really really good at icon design.</p>
 
 <p>This design ethos may or may not work on iOS. I think it often does. But let’s put that argument aside too. In the desktop context of MacOS, I don’t think this ethos works at all for most apps. It’s a downright disaster in the context of complex productivity apps. Apps <em>should</em> have distinctive chrome. The idea that they shouldn’t, that only “content” matters, and that apps themselves should try to be invisible and indistinctive, is contrary to the idea that apps themselves can be — <a href="https://www.youtube.com/watch?v=KlI1MR-qNt8">should be</a> — artistic works. The parts of a window that belong to the app and present the functionality of the app, and the parts of a window that represent content, should be distinct. Like separating the dashboard — sorry, <a href="https://daringfireball.net/linked/2026/01/09/moylan">instrument panel</a> — from what you see through the windshield while driving a car. One or two items of primary importance (say, the speedometer and the next step in turn-by-turn directions) are OK to project on the windshield in a heads-up display atop the “content” of the road and world around the vehicle. But it would be disastrous to eliminate the instrument panel and project every control status indicator as HUD elements on the windshield. Either the driver’s view would be overwhelmed by too many HUD elements, making it hard to see the world <em>and</em> to read the dials, or the car designer would have to eliminate many useful controls and indicators entirely. (I know, some electric car makers are doing just that. It sucks.)</p>
 
-<p>If you look through the screenshots Apple has provided of the new versions of the most of the apps in the Creator Studio bundle, most of them haven’t been updated with Liquid Glass at all. They don’t have UI elements that look like liquid glass (transparent and fluid), and they don’t have layouts that seek to remove or obfuscate the application from its content. <a href="https://www.apple.com/final-cut-pro/">Final Cut Pro</a>, <a href="https://www.apple.com/logic-pro/">Logic Pro</a>, <a href="https://www.apple.com/final-cut-pro/">Motion</a>: nope. Not a drop of Liquid Glass.</p>
+<p>If you look through the screenshots Apple has provided of the new versions of the apps in the Creator Studio bundle, most of them haven’t been updated with Liquid Glass at all. They don’t have UI elements that look like liquid glass (transparent and fluid), and they don’t have layouts that seek to remove or obfuscate the application from its content. <a href="https://www.apple.com/final-cut-pro/">Final Cut Pro</a>, <a href="https://www.apple.com/logic-pro/">Logic Pro</a>, <a href="https://www.apple.com/final-cut-pro/">Motion</a>: nope. Not a drop of Liquid Glass.</p>
 
 <p><a href="https://www.apple.com/pixelmator-pro/">Pixelmator Pro</a> does, however. It seems to embrace Liquid Glass in both senses. I haven’t tried it yet, and it doesn’t ship until January 28, but I strongly suspect I’d prefer if the new Pixelmator Pro looked like the new Final Cut Pro and Logic Pro, with solid, distinct user interface chrome. (Fingers crossed that there’s a setting for this.)</p>
 
@@ -161,7 +163,7 @@ Magic Fill.</p>
 
 <p>I’ll co-sign <a href="https://sixcolors.com/post/2026/01/apples-pro-bundle-makes-sense-but-making-iwork-freemium-doesnt/">Jason Snell’s column on this aspect of Creator Studio</a>. I feel like it’s just fine for new document templates and the Content Hub stock image library to be paid features. (See next section.) But I don’t think it makes sense to gate useful new <em>features</em> of these apps behind the Creator Studio subscription. Smarter autofill in Numbers, generating Keynote slides from a text outline, and Super Resolution image upscaling all sound like great features, but they sound like the sort of features all users should be getting in the iWork apps in 2026. <em>Especially</em> from on-device AI models. I could countenance an argument that AI-powered features that are processed on Apple’s Private Cloud Compute servers should require a subscription. But it feels like a rip-off if they’re running on-device.</p>
 
-<p>It’s simpler for Apple to offer one single subscription bundle of “work” apps. But office productivity apps and creative design apps are very different. A word processor and spreadsheet go together. A video editor and audio editor go together. But it seems wrong for someone who just wants the new AI-powered features in Numbers and Keynote to need to pay for a subscription bundle whose value is primarily derived from Final Cut Pro, Logic Pro, Motion, and Photomator Pro — apps that many iWork users might never launch.</p>
+<p>It’s simpler for Apple to offer one single subscription bundle of “work” apps. But office productivity apps and creative design apps are very different. A word processor and spreadsheet go together. A video editor and audio editor go together. But it seems wrong for someone who just wants the new AI-powered features in Numbers and Keynote to need to pay for a subscription bundle whose value is primarily derived from Final Cut Pro, Logic Pro, Motion, and Pixelmator Pro — apps that many iWork users might never launch.</p>
 
 <h2>The Content Hub</h2>
 
