@@ -7,7 +7,79 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-19T18:22:51Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-19T22:31:20Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Basic Apple Guy: Creator Studio Icon History</title>
+	<link rel="alternate" type="text/html" href="https://mastodon.social/@BasicAppleGuy/115888906340881425" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wus" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/19/creator-studio-icon-history" />
+	<id>tag:daringfireball.net,2026:/linked//6.42580</id>
+	<published>2026-01-19T22:31:20Z</published>
+	<updated>2026-01-19T22:31:20Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Is there anyone who doesn’t find this sad?</p>
+
+<div>
+<a  title="Permanent link to ‘Basic Apple Guy: Creator Studio Icon History’"  href="https://daringfireball.net/linked/2026/01/19/creator-studio-icon-history">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Menu Bar, Title Bar, What’s the Difference?</title>
+	<link rel="alternate" type="text/html" href="https://support.apple.com/guide/mac-help/control-your-iphone-from-your-mac-mchl444d53a6/26/mac/26" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wur" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/19/menu-bar-title-bar-whats-the-difference" />
+	<id>tag:daringfireball.net,2026:/linked//6.42579</id>
+	<published>2026-01-19T22:19:29Z</published>
+	<updated>2026-01-19T22:26:46Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>From Apple’s iPhone Mirroring documentation, boldface emphasis added:</p>
+
+<blockquote>
+  <ul>
+<li><p><em>Click to tap:</em> Click your mouse or trackpad to tap. You can also swipe and scroll in the iPhone Mirroring app, and use your keyboard to type.</p></li>
+<li><p><em>Open the App Switcher:</em> Move your pointer to the top of the iPhone Mirroring screen <b>until the menu bar appears</b>, then click <img src="https://daringfireball.net/misc/2026/01/iphone-mirroring-app-switcher-button.png" alt="The App Switcher button" style="height: 1em;"> to open the App Switcher.</p></li>
+<li><p><em>Go to the Home Screen:</em> If you’re in an app and want to return to the Home Screen, move your pointer to the top of the iPhone Mirroring screen <b>until the menu bar appears</b>, then click <img src="https://daringfireball.net/misc/2026/01/iphone-mirroring-home-screen-button.png" alt="The App Switcher button" style="height: 1em;">.</p></li>
+</ul>
+</blockquote>
+
+<p>It certainly sounds like these instructions are for users who, sadly, have the menu bar hidden by default. But there are no <img src="https://daringfireball.net/misc/2026/01/iphone-mirroring-app-switcher-button.png" alt="The App Switcher button" style="height: 1em;"> or <img src="https://daringfireball.net/misc/2026/01/iphone-mirroring-home-screen-button.png" alt="The App Switcher button" style="height: 1em;"> buttons in the menu bar. These buttons are in the iPhone Mirroring <em>window title bar</em>, which is, for all users, hidden by default:</p>
+
+<p><a href="https://daringfireball.net/misc/2026/01/iphone-mirroring-screenshot-without-titlebar.png" class="noborder">
+  <img
+    src = "https://daringfireball.net/misc/2026/01/iphone-mirroring-screenshot-without-titlebar.png"
+    alt = "Screenshot of iPhone Mirroring, without window title bar."
+    width = 325
+    style = "border: 1px solid #888;"
+  /></a></p>
+
+<p>but which presents a proper window title bar when the mouse pointer is hovering in the area where the title bar will appear:</p>
+
+<p><a href="https://daringfireball.net/misc/2026/01/iphone-mirroring-screenshot-with-titlebar.png" class="noborder">
+  <img
+    src = "https://daringfireball.net/misc/2026/01/iphone-mirroring-screenshot-with-titlebar.png"
+    alt = "Screenshot of iPhone Mirroring, with window title bar and arrow mouse pointer."
+    width = 325
+    style = "border: 1px solid #888;"
+  /></a></p>
+
+<p>Since I’m feeling generous, I’ll chalk this up to an absentminded mistake on the part of Apple’s documentation team. If were feeling cynical, I would instead suspect that Apple has so <a href="https://daringfireball.net/2026/01/resizing_windows_macos_26">lost the plot</a> on the Mac that they now employ documentation writers and editors who do not understand the difference between the menu bar and window title bars. (It doesn’t help that the iPhone Mirroring window title bar, like so many windows in Apple’s recent Mac apps, doesn’t have a title.)</p>
+
+<p>For what it’s worth, this documentation is the same for both <a href="https://support.apple.com/guide/mac-help/control-your-iphone-from-your-mac-mchl444d53a6/15.0/mac/15.7.2">MacOS 15 Sequoia</a> and <a href="https://support.apple.com/guide/mac-help/control-your-iphone-from-your-mac-mchl444d53a6/26/mac/26">26 Tahoe</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Menu Bar, Title Bar, What’s the Difference?’"  href="https://daringfireball.net/linked/2026/01/19/menu-bar-title-bar-whats-the-difference">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Matthew Butterick on the Copyrightability of Fonts</title>
 	<link rel="alternate" type="text/html" href="https://matthewbutterick.com/chron/the-copyrightability-of-fonts-revisited.html" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wuq" />
@@ -2131,70 +2203,6 @@ device it’s found in. Oh, and it’s going to ship next quarter.</p>
 
 <div>
 <a  title="Permanent link to ‘Matthew Dowd Exposes the Pickle 1 XR Glasses as a Preposterous Fraud’"  href="https://daringfireball.net/linked/2026/01/03/dowd-pickle-expose">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>The Talk Show: ‘2025 Year in Review’</title>
-	<link rel="alternate" type="text/html" href="https://daringfireball.net/thetalkshow/2025/12/31/ep-438" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wte" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/31/the-talk-show-438" />
-	<id>tag:daringfireball.net,2025:/linked//6.42530</id>
-	<published>2025-12-31T21:41:25Z</published>
-	<updated>2025-12-31T21:41:25Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>A look back at Apple’s 2025, with special guest Rene Ritchie.</p>
-
-<p><audio
-    src = "https://traffic.libsyn.com/secure/daringfireball/thetalkshow-438-rene-ritchie.mp3"
-    controls
-    preload = "none"
-/></p>
-
-<p><strong>Sponsored by:</strong></p>
-
-<ul>
-<li><a href="https://factormeals.com/talkshow50off">Factor</a>: Healthy eating, made easy. Get 50% off your first box, plus free breakfast for 1 year, with code <strong>talkshow50off</strong>.</li>
-<li><a href="https://squarespace.com/talkshow">Squarespace</a>: Save 10% off your first purchase of a website or domain using code <strong>talkshow</strong>.</li>
-</ul>
-
-<div>
-<a  title="Permanent link to ‘The Talk Show: ‘2025 Year in Review’’"  href="https://daringfireball.net/linked/2025/12/31/the-talk-show-438">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Photoshop 1.0 and the Early Macintosh HIG</title>
-	<link rel="alternate" type="text/html" href="https://mastodon.social/@gruber/115770281204538177" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wtc" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/31/photoshop-1-and-the-early-macintosh-hig" />
-	<id>tag:daringfireball.net,2025:/linked//6.42528</id>
-	<published>2025-12-31T17:53:00Z</published>
-	<updated>2025-12-31T17:53:08Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>After posting <a href="https://daringfireball.net/linked/2025/12/19/photoshop-1-source-code">a link</a> to the Computer History Museum’s <a href="https://computerhistory.org/blog/adobe-photoshop-source-code/">release of the Photoshop 1.0 source code</a> last week, I spent some time paging through the original Photoshop manuals. I found a screenshot of the dialog box where you entered your serial number, and posted it to Mastodon, writing:</p>
-
-<blockquote>
-  <p>If you’re annoyed by something that is obviously wrong about this
-dialog box from Photoshop 1.0, you’re my type of person. (Even
-more so if, like me, you remember being annoyed by this at the
-time, when you were entering your cracked SN.)</p>
-</blockquote>
-
-<p>What a lovely thread it generated, replete with screenshots from early versions of the HIG.</p>
-
-<p><strong>Sidenote:</strong> I would eat my hat if Alan Dye knew what was wrong and gross about this dialog box. This is exactly the sort of <em>sweating the idiomatic usability details</em> thing that has frequently been wrong in Apple software in the last decade. The response from Dye and those in his cohort would be, I’d wager, to roll their eyes with a “<em>Who gives a shit what the UI guidelines were forty fucking years ago?</em>” dismissal. Here’s the thing. <em>Styles</em> have changed as time has marched on. Technical capabilities — screen resolution, color — have marched on. But the fundamental idioms of good Macintosh UI design are timeless (and many of them ought to apply to Apple’s other platforms). These idioms are like grammar. Slang changes. Language forever moves forward. But many important idioms are so fundamental they do not change. Styles and technical advances have advanced over time in filmmaking and print design too, but the basic principles of good cinema and graphic layout are timeless. Only a fool dismisses the collective knowledge passed down by those who came before us. </p>
-
-<div>
-<a  title="Permanent link to ‘Photoshop 1.0 and the Early Macintosh HIG’"  href="https://daringfireball.net/linked/2025/12/31/photoshop-1-and-the-early-macintosh-hig">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
