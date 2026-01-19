@@ -7,7 +7,71 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-18T19:38:54Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-19T15:54:52Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Study Concludes That Americans Are the Ones Paying for Tariffs</title>
+	<link rel="alternate" type="text/html" href="https://www.wsj.com/economy/trade/americans-are-the-ones-paying-for-tariffs-study-finds-e254ed2e?st=pw4q2j" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wuo" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/19/americans-paying-for-tariffs" />
+	<id>tag:daringfireball.net,2026:/linked//6.42576</id>
+	<published>2026-01-19T15:54:28Z</published>
+	<updated>2026-01-19T15:54:52Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Tom Fairless, reporting for The Wall Street Journal (main link is a gift link; <a href="https://apple.news/A1odNAQeJSMC7dlagkxXB9w">here’s a News+ link too</a>):</p>
+
+<blockquote>
+  <p>The German research echoes recent reports by the Budget Lab at
+Yale and economists at Harvard Business School, finding that only
+a small fraction of the tariff costs were being borne by foreign
+producers.</p>
+
+<p>By analyzing $4 trillion of shipments between January 2024 and
+November 2025, the Kiel Institute researchers found that foreign
+exporters absorbed only about 4% of the burden of last year’s U.S.
+tariff increases by lowering their prices, while American
+consumers and importers absorbed 96%. [...]</p>
+
+<p>Rather than acting as a tax on foreign producers, the tariffs
+functioned as a consumption tax on Americans, the report said.
+“There is no such thing as foreigners transferring wealth to
+the U.S. in the form of tariffs,” said Julian Hinz, an
+economics professor at Germany’s Bielefeld University who
+co-authored the study.</p>
+</blockquote>
+
+<p>This is what economists expected, but it’s always important to measure actual results, no matter how obvious the conclusions seem in advance. But this one feels like we could file it next to “Sun continues to rise in east, set in west.”</p>
+
+<div>
+<a  title="Permanent link to ‘Study Concludes That Americans Are the Ones Paying for Tariffs’"  href="https://daringfireball.net/linked/2026/01/19/americans-paying-for-tariffs">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>WorkOS Pipes</title>
+	<link rel="alternate" type="text/html" href="https://workos.com/docs/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026&amp;utm_content=no_rebuild" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wun" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/19/workos-pipes" />
+	<id>tag:daringfireball.net,2026:/linked//6.42575</id>
+	<published>2026-01-19T15:50:48Z</published>
+	<updated>2026-01-19T15:50:48Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks to WorkOS for sponsoring DF last week. Connecting user accounts to third-party APIs always comes with the same plumbing: OAuth flows, token storage, refresh logic, and provider-specific quirks. WorkOS Pipes removes that overhead. Users connect services like GitHub, Slack, Google, Salesforce, and other supported providers through a drop-in widget. Your back end requests a valid access token from the Pipes API when needed, while Pipes handles credential storage and token refresh. That’s it.</p>
+
+<p><a href="https://workos.com/docs/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026&amp;utm_content=simplify_integrations_cta">Simplify your integrations with WorkOS Pipes</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS Pipes’"  href="https://daringfireball.net/linked/2026/01/19/workos-pipes">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/01/thoughts_and_observations_regarding_apple_creator_studio" />
 	<link rel="shorturl" href="http://df4.us/wum" />
@@ -2150,56 +2214,6 @@ but a kind of omnidirectional incoherence.</p>
 
 <div>
 <a  title="Permanent link to ‘‘The Strange Death of Make America Great Again’’"  href="https://daringfireball.net/linked/2025/12/31/walther-maga-strange-death">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘I’m in Charge at This Hertz Location, and Buddy, You’re Not Getting a Car Today’</title>
-	<link rel="alternate" type="text/html" href="https://www.mcsweeneys.net/articles/im-in-charge-at-this-hertz-location-and-buddy-youre-not-getting-a-car-today" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wtb" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/30/not-getting-a-car-today" />
-	<id>tag:daringfireball.net,2025:/linked//6.42527</id>
-	<published>2025-12-30T23:57:11Z</published>
-	<updated>2025-12-30T23:57:12Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Emily Delaney, at McSweeney’s:</p>
-
-<blockquote>
-  <p>Okay, now you’re getting upset. You’re getting upset despite the
-fact that we have strict rules against getting upset at this Hertz
-location. But tell me, honestly, when you reserved a rental car
-through Hertz, you thought… what? That we were going to set aside
-a special little car just for you? Seriously? Oh my god.</p>
-</blockquote>
-
-<p>(<a href="https://kottke.org/25/12/0047917-im-in-charge-at-this">Via Kottke</a>.)</p>
-
-<div>
-<a  title="Permanent link to ‘‘I’m in Charge at This Hertz Location, and Buddy, You’re Not Getting a Car Today’’"  href="https://daringfireball.net/linked/2025/12/30/not-getting-a-car-today">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>The U.S. Conservative Aggrieved Mindset, Explained</title>
-	<link rel="alternate" type="text/html" href="https://knowyourmeme.com/videos/433740-just-coffee-black" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wta" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2025/12/30/pargin-conservative-mindset" />
-	<id>tag:daringfireball.net,2025:/linked//6.42526</id>
-	<published>2025-12-30T23:46:27Z</published>
-	<updated>2025-12-30T23:46:27Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jason Pargin is — well, to my tastes — a master of the TikTok video format. This one is so good, and ends with a mic-drop closing line.</p>
-
-<div>
-<a  title="Permanent link to ‘The U.S. Conservative Aggrieved Mindset, Explained’"  href="https://daringfireball.net/linked/2025/12/30/pargin-conservative-mindset">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
