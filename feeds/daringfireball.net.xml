@@ -7,7 +7,53 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-22T22:45:00Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-22T23:19:57Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Why Walmart Still Doesn’t Support Apple Pay</title>
+	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/01/18/heres-why-walmart-still-doesnt-support-apple-pay/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wv6" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/22/walmart-apple-pay" />
+	<id>tag:daringfireball.net,2026:/linked//6.42594</id>
+	<published>2026-01-22T23:19:56Z</published>
+	<updated>2026-01-22T23:19:57Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Chance Miller, writing at 9to5Mac:</p>
+
+<blockquote>
+  <p>When you use Walmart Pay, it’s incredibly easy for Walmart to
+build that customer profile on you. When you use Scan and Go, all
+of that same information is handed over.</p>
+
+<p>When you use Apple Pay or other payment methods, it’s much harder
+for Walmart (and other retailers) to do this. Apple Pay’s privacy
+and security protections, like not sharing any information about
+your actual card with the retailer, makes this type of tracking
+trickier.</p>
+
+<p>This is why Walmart wants people to use Walmart Pay if they want
+to pay from their phone. If you check out with Walmart Pay or Scan
+and Go, everything is linked to your Walmart account. If you had
+the option to pay with Apple Pay, you’d share <em>a lot</em> less
+information with Walmart.</p>
+</blockquote>
+
+<p>Using Walmart Pay gives Walmart <em>more</em> information than a regular credit or debit card transaction does. When you use the same traditional credit card for multiple purchases over time, a retailer like Walmart can build a profile associated with that card number. Charles Duhigg, all the way back in 2012, reported a story for The New York Times <a href="https://www.nytimes.com/2012/02/19/magazine/shopping-habits.html?unlocked_article_code=1.GVA.UClu.YPuRxJGkIHte&amp;smid=url-share">about how Target used these profiles</a> — which customers don’t even know about — to statistically determine when women are likely to be pregnant based on purchases like, say, cocoa-butter lotion and vitamin supplements. When you use an in-house payment app like Walmart Pay (or swipe a store’s “loyalty” card at the register), the store doesn’t have to do any guesswork to associate the transaction with your profile. Your Walmart Pay account <em>is</em> your profile.</p>
+
+<p>Using Apple Pay gives a retailer <em>less</em> identifying information than a traditional card transaction. So if the future is paying via devices, Walmart wants that future to give them more information.</p>
+
+<p>I think the situation with Walmart and Apple Pay is a lot like Netflix and Apple TV integration. Most retailers, even large ones, support Apple Pay. Most streaming services, even large ones, support integration with Apple’s TV app. Walmart doesn’t support Apple Pay because they want to control the customer transaction directly, and they’re big enough, and their customers are loyal enough, that they can resist supporting Apple Pay. Netflix doesn’t support TV app integration because they want to control the customer viewing experience directly, and they’re big enough, and their customers are loyal enough, that they can resist supporting Apple’s TV app.</p>
+
+<p><strong>See also:</strong> <a href="https://mjtsai.com/blog/2026/01/21/why-walmart-still-doesnt-support-apple-pay/">Michael Tsai</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Why Walmart Still Doesn’t Support Apple Pay’"  href="https://daringfireball.net/linked/2026/01/22/walmart-apple-pay">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Trump Administration Shares Doctored Photo of Minnesota Activist After Her Arrest</title>
 	<link rel="alternate" type="text/html" href="https://www.notus.org/trump-white-house/white-house-fake-photo-of-minnesota-activist-nekima-levy-armstrong-arrest" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wv5" />
@@ -2245,48 +2291,6 @@ those who fail to comply.</p>
 
 <div>
 <a  title="Permanent link to ‘Know Your Rights: Filming and Photographing the Police’"  href="https://daringfireball.net/linked/2026/01/08/filming-and-photographing-the-police">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Chase to Become New Issuer of Apple Card</title>
-	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/01/chase-to-become-new-issuer-of-apple-card/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wtv" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/08/chase-apple-card-issuer" />
-	<id>tag:daringfireball.net,2026:/linked//6.42547</id>
-	<published>2026-01-09T01:10:33Z</published>
-	<updated>2026-01-10T21:47:53Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Apple Newsroom:</p>
-
-<blockquote>
-  <p>Today, Apple and Chase announced that Chase will become the new
-issuer of Apple Card, with an expected transition in approximately
-24 months.</p>
-
-<p>Apple Card users can continue to enjoy the award-winning
-experience of Apple Card, which includes up to 3 percent unlimited
-Daily Cash back on every purchase, easy-to-navigate spending
-tools, Apple Card Family, access to a high-yield Savings account,
-and more. Mastercard will remain the payment network for Apple
-Card, and Apple Card users can continue to access Mastercard’s
-global acceptance and benefits. [...]</p>
-
-<p>During this transition, Apple Card users can continue to use their
-card as they normally do. More information, including FAQs, is
-available at <a href="https://learn.applecard.apple/transition">learn.applecard.apple/transition</a>. Additional
-details will be shared with users as the transition date
-approaches.</p>
-</blockquote>
-
-<p>In the press release, Apple’s only mention of the current issuer, Goldman Sachs, is in the small gray fine print footnotes. (Goldman is mentioned prominently in <a href="https://learn.applecard.apple/transition">the linked FAQ</a>.)</p>
-
-<div>
-<a  title="Permanent link to ‘Chase to Become New Issuer of Apple Card’"  href="https://daringfireball.net/linked/2026/01/08/chase-apple-card-issuer">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
