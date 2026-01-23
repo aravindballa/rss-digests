@@ -7,14 +7,14 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-22T23:19:57Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-23T00:04:53Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>Why Walmart Still Doesn’t Support Apple Pay</title>
 	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/01/18/heres-why-walmart-still-doesnt-support-apple-pay/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wv6" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/22/walmart-apple-pay" />
 	<id>tag:daringfireball.net,2026:/linked//6.42594</id>
 	<published>2026-01-22T23:19:56Z</published>
-	<updated>2026-01-22T23:19:57Z</updated>
+	<updated>2026-01-23T00:04:53Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -42,9 +42,11 @@ information with Walmart.</p>
 
 <p>Using Walmart Pay gives Walmart <em>more</em> information than a regular credit or debit card transaction does. When you use the same traditional credit card for multiple purchases over time, a retailer like Walmart can build a profile associated with that card number. Charles Duhigg, all the way back in 2012, reported a story for The New York Times <a href="https://www.nytimes.com/2012/02/19/magazine/shopping-habits.html?unlocked_article_code=1.GVA.UClu.YPuRxJGkIHte&amp;smid=url-share">about how Target used these profiles</a> — which customers don’t even know about — to statistically determine when women are likely to be pregnant based on purchases like, say, cocoa-butter lotion and vitamin supplements. When you use an in-house payment app like Walmart Pay (or swipe a store’s “loyalty” card at the register), the store doesn’t have to do any guesswork to associate the transaction with your profile. Your Walmart Pay account <em>is</em> your profile.</p>
 
-<p>Using Apple Pay gives a retailer <em>less</em> identifying information than a traditional card transaction. So if the future is paying via devices, Walmart wants that future to give them more information.</p>
+<p>Using Apple Pay gives a retailer less — or at least <em>no more</em> — identifying information than a traditional card transaction. So if the future is paying via devices, Walmart wants that future to give them more information.</p>
 
 <p>I think the situation with Walmart and Apple Pay is a lot like Netflix and Apple TV integration. Most retailers, even large ones, support Apple Pay. Most streaming services, even large ones, support integration with Apple’s TV app. Walmart doesn’t support Apple Pay because they want to control the customer transaction directly, and they’re big enough, and their customers are loyal enough, that they can resist supporting Apple Pay. Netflix doesn’t support TV app integration because they want to control the customer viewing experience directly, and they’re big enough, and their customers are loyal enough, that they can resist supporting Apple’s TV app.</p>
+
+<p>Amazon — which is also very large, whose customers are also very loyal, and which absolutely <em>loves</em> collecting data — does not support Apple Pay either.</p>
 
 <p><strong>See also:</strong> <a href="https://mjtsai.com/blog/2026/01/21/why-walmart-still-doesnt-support-apple-pay/">Michael Tsai</a>.</p>
 
@@ -1687,17 +1689,17 @@ trying to accomplish,” Migicovsky said.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/12/macos-26-cut-corner" />
 	<id>tag:daringfireball.net,2026:/linked//6.42560</id>
 	<published>2026-01-12T23:03:08Z</published>
-	<updated>2026-01-12T23:14:45Z</updated>
+	<updated>2026-01-22T23:56:36Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Here’s an illustrated follow-up regarding the absurdity of MacOS 26’s “looks like they’re rounded off like a child’s toy but actually they’re still rectangles with corners” windows. If you turn on always-visible scrollbars (which you should) and scroll to the bottom, they look like this:</p>
+<p>Here’s an illustrated follow-up regarding the absurdity of MacOS 26’s “looks like they’re rounded off like a child’s toy but actually they’re still rectangles with corners” windows. If you turn on always-visible scroll bars (which you should) and scroll to the bottom, they look like this:</p>
 
 <p><img
     src = "https://daringfireball.net/misc/2026/01/cut-corners.png"
-    alt = "Screenshot of the bottom right corner of a window in MacOS 26 showing a scrollbar thumb cut off by the rounded corner."
+    alt = "Screenshot of the bottom right corner of a window in MacOS 26 showing a scroll bar thumb cut off by the rounded corner."
 ></p>
 
 <p>(That’s Safari, which I think is a somewhat popular app.)</p>
@@ -1856,7 +1858,7 @@ while maintaining Apple’s industry-leading privacy standards.</p>
 	<link rel="shorturl" href="http://df4.us/wu4" />
 	<id>tag:daringfireball.net,2026://1.42556</id>
 	<published>2026-01-12T16:27:34Z</published>
-	<updated>2026-01-14T16:49:17Z</updated>
+	<updated>2026-01-22T23:56:24Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -1891,7 +1893,7 @@ would lie <em>inside</em> the window.</p>
     alt = "Screenshot illustrating the hit target for where you can click to initiate resizing a window in MacOS 26."
 ></p>
 
-<p>It was, I’d argue, a small mistake for Apple to stop putting a visual affordance in the lower right corner of windows to show where to click to resize the window. It was a bigger mistake to change the scrollbars on MacOS to look and work like those on iOS — invisible, except while you’re actually scrolling (by default, that is — savvy Mac users <a href="https://www.macrumors.com/how-to/make-scroll-bars-always-visible/">keep them always visible</a>). The removal of the resize indicator happened long ago, in Mac OS X 10.7 Lion, released in July 2011. <a href="https://arstechnica.com/gadgets/2011/07/mac-os-x-10-7/#page-3">John Siracusa’s 10.7 review</a> illustrates the before and after. Before (10.6):</p>
+<p>It was, I’d argue, a small mistake for Apple to stop putting a visual affordance in the lower right corner of windows to show where to click to resize the window. It was a bigger mistake to change the scroll bars on MacOS to look and work like those on iOS — invisible, except while you’re actually scrolling (by default, that is — savvy Mac users <a href="https://www.macrumors.com/how-to/make-scroll-bars-always-visible/">keep them always visible</a>). The removal of the resize indicator happened long ago, in Mac OS X 10.7 Lion, released in July 2011. <a href="https://arstechnica.com/gadgets/2011/07/mac-os-x-10-7/#page-3">John Siracusa’s 10.7 review</a> illustrates the before and after. Before (10.6):</p>
 
 <p><img
     src = "https://daringfireball.net/misc/2026/01/siracusa-10.6-snow-leopard-gui.png"
@@ -1907,9 +1909,9 @@ would lie <em>inside</em> the window.</p>
 
 <p>I think everything about the 10.7 Lion GUI looks better than the 10.6 Snow Leopard GUI — <em>except</em> for the omission of the resize affordance in the corner. The visible resize affordance didn’t just tell you where to click to resize the window, it also told you that the window <em>could be resized</em> in the first place. In 10.6 and earlier, a window that could be resized showed you that it could be resized by having an always-visible indicator. Windows that didn’t have that indicator were windows whose size was fixed. From 10.7 through today, the only way to know if a window even <em>can</em> be resized is to move your mouse cursor to the corner and try. (At least by looking for the mouse cursor to change to the double-arrow resize cursor.) The grippy-strip signifier offered contextual information about the window.</p>
 
-<p>I can imagine the thinking at Apple behind this change, 15 years ago. The visible grippy-strip signifier in the lower-right corner isn’t really <em>necessary</em>. All users “know” — so the thinking went — that they can resize windows by clicking and dragging from the corner. And, although in ancient times users could <em>only</em> resize windows by clicking in the affordance in the lower-right corner, by 2011 it had long been the case that users could resize windows in two dimensions starting from <em>any corner</em>, or in one dimension starting from any <em>edge</em> of the window. (But windows on the Mac <a href="https://guidebookgallery.org/screenshots/macos90">used to have visible edges of window chrome</a>, too. The Mac’s history is replete with glorious examples of UI clarity and precision.) So why draw the resize affordance in the lower-right corner when you can resize from any corner or window edge? Plus, the space for the lower-right grippy-strip affordance was made by the empty space at the intersection of vertical and horizontal scrollbar channels — and since Apple decided to make scrollbars invisible (by default) in Mac OS X 10.7 in 2011, there was no longer an otherwise unused square space in the corner for the resize affordance to be drawn. (It was sort of like the Free Parking space on <a href="https://daringfireball.net/misc/2026/01/monopoly.jpeg">a Monopoly board</a>.)</p>
+<p>I can imagine the thinking at Apple behind this change, 15 years ago. The visible grippy-strip signifier in the lower-right corner isn’t really <em>necessary</em>. All users “know” — so the thinking went — that they can resize windows by clicking and dragging from the corner. And, although in ancient times users could <em>only</em> resize windows by clicking in the affordance in the lower-right corner, by 2011 it had long been the case that users could resize windows in two dimensions starting from <em>any corner</em>, or in one dimension starting from any <em>edge</em> of the window. (But windows on the Mac <a href="https://guidebookgallery.org/screenshots/macos90">used to have visible edges of window chrome</a>, too. The Mac’s history is replete with glorious examples of UI clarity and precision.) So why draw the resize affordance in the lower-right corner when you can resize from any corner or window edge? Plus, the space for the lower-right grippy-strip affordance was made by the empty space at the intersection of vertical and horizontal scroll bar channels — and since Apple decided to make scroll bars invisible (by default) in Mac OS X 10.7 in 2011, there was no longer an otherwise unused square space in the corner for the resize affordance to be drawn. (It was sort of like the Free Parking space on <a href="https://daringfireball.net/misc/2026/01/monopoly.jpeg">a Monopoly board</a>.)</p>
 
-<p>One can argue with the logic behind these changes, 15 years ago. I’ll repeat that I think it was a grave error to make scrollbars invisible by default. I would argue that while the visible grippy-strip isn’t <em>necessary</em>, it’s nice to have. (As noted above, its presence showed you whether a window <em>could</em> be resized.) But there was, clearly, logic behind the decisions Apple made in 2011. They were carefully considered. The new logic was that you no longer look for a grippy-strip to click on to resize a window. You simply click (or hover, waiting for the cursor to change) inside the edge of a window. And of course Apple added a small affordance to the hit target for those edges, such that if you clicked <em>just</em> outside the window, that would count as “close enough” to assume you intended to click on the edge. Most users surely never noticed that. A lot of nice little touches in UI design go unnoticed because they’re nice <em>little</em> touches.</p>
+<p>One can argue with the logic behind these changes, 15 years ago. I’ll repeat that I think it was a grave error to make scroll bars invisible by default. I would argue that while the visible grippy-strip isn’t <em>necessary</em>, it’s nice to have. (As noted above, its presence showed you whether a window <em>could</em> be resized.) But there was, clearly, logic behind the decisions Apple made in 2011. They were carefully considered. The new logic was that you no longer look for a grippy-strip to click on to resize a window. You simply click (or hover, waiting for the cursor to change) inside the edge of a window. And of course Apple added a small affordance to the hit target for those edges, such that if you clicked <em>just</em> outside the window, that would count as “close enough” to assume you intended to click on the edge. Most users surely never noticed that. A lot of nice little touches in UI design go unnoticed because they’re nice <em>little</em> touches.</p>
 
 <p>Until MacOS 26, <em>most</em> of the hit target to initiate the resizing of a window was <em>inside</em> the window. Because, of course, right? Even though MacOS (well, Mac OS X) stopped rendering a visible resize grippy-strip 15 years ago, the user could simply imagine that there was still a grippy area <em>inside</em> the lower right corner of every resizable window. It would make no sense whatsoever for the click target to resize a window to be <em>outside</em> the window. Why would anyone expect that? It would work against what our own eyes, and years of experience, are telling us. You pick up a thing to move it or stretch it by grabbing the thing. Not by grabbing <a href="https://noheger.at/blog/wp-content/uploads/2026/01/scrambled-eggs.mov">next to the thing</a>.</p>
 
