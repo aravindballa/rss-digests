@@ -7,7 +7,43 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-23T00:04:53Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-23T01:35:51Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>MacOS 26 Tahoe Broke Column View in the Finder</title>
+	<link rel="alternate" type="text/html" href="https://lapcatsoftware.com/articles/2026/1/4.html" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wv7" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/22/macos-26-tahoe-broke-column-view-in-the-finder" />
+	<id>tag:daringfireball.net,2026:/linked//6.42595</id>
+	<published>2026-01-23T01:34:58Z</published>
+	<updated>2026-01-23T01:34:59Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jeff Johnson:</p>
+
+<blockquote>
+  <p>Finder has four view modes, represented by the four consecutive
+toolbar icons in the screenshot below, if you can even call that
+free-floating monstrosity a toolbar anymore: Icons, List, Columns,
+and Gallery. My preference is columns view, which I’ve been using
+for as long as I remember, going back to Mac OS X.</p>
+
+<p>At the bottom of each column is a resizing widget that you can use
+to change the width of the columns. Or rather, you <em>could</em> use it to
+change the width of the columns. On macOS Tahoe, the horizontal
+scroller covers the resizing widget and prevents it from being
+clicked!</p>
+</blockquote>
+
+<p>I <a href="https://daringfireball.net/linked/2026/01/12/macos-26-cut-corner">joked last week</a> that it would make more sense if we found out that the team behind redesigning the UI for MacOS 26 Tahoe was hired by Meta not <a href="https://daringfireball.net/2025/12/bad_dye_job">a month ago</a>, but an entire year ago, and secretly sabotaged their work to make the Mac look clownish and amateur. More and more I’m wondering if the joke’s on us and it actually happened that way. It’s like MacOS, once the crown jewel of computer human interface design, has been vandalized.</p>
+
+<div>
+<a  title="Permanent link to ‘MacOS 26 Tahoe Broke Column View in the Finder’"  href="https://daringfireball.net/linked/2026/01/22/macos-26-tahoe-broke-column-view-in-the-finder">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Why Walmart Still Doesn’t Support Apple Pay</title>
 	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/01/18/heres-why-walmart-still-doesnt-support-apple-pay/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wv6" />
@@ -62,7 +98,7 @@ information with Walmart.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/22/trump-admin-doctored-images" />
 	<id>tag:daringfireball.net,2026:/linked//6.42593</id>
 	<published>2026-01-22T22:44:59Z</published>
-	<updated>2026-01-22T22:45:00Z</updated>
+	<updated>2026-01-23T01:35:51Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -88,7 +124,7 @@ post online. In response, White House deputy communications
 director Kaelan Dorr called the image a “meme.”</p>
 </blockquote>
 
-<p>It’s not a meme. It’s propaganda — an altogether false image presented as an actual image.</p>
+<p>It’s not a meme. It’s propaganda — an altogether false image presented as an actual photograph.</p>
 
 <div>
 <a  title="Permanent link to ‘Trump Administration Shares Doctored Photo of Minnesota Activist After Her Arrest’"  href="https://daringfireball.net/linked/2026/01/22/trump-admin-doctored-images">&nbsp;★&nbsp;</a>
@@ -2258,41 +2294,6 @@ hardware? No.”</p>
 
 <div>
 <a  title="Permanent link to ‘The New York Times Profiles John Ternus’"  href="https://daringfireball.net/linked/2026/01/08/nyt-ternus">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Know Your Rights: Filming and Photographing the Police</title>
-	<link rel="alternate" type="text/html" href="https://www.aclu.org/issues/free-speech/photographers-rights/filming-and-photographing-police" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wtw" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/08/filming-and-photographing-the-police" />
-	<id>tag:daringfireball.net,2026:/linked//6.42548</id>
-	<published>2026-01-09T01:11:33Z</published>
-	<updated>2026-01-09T13:33:42Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>The ACLU:</p>
-
-<blockquote>
-  <p>Taking photographs and video of things that are plainly visible in
-public spaces is a constitutional right — and that includes
-police and other government officials carrying out their duties.</p>
-
-<p>However, there is a widespread, continuing pattern of law
-enforcement officers ordering people to stop taking photographs or
-video in public places and harassing, detaining, and arresting
-those who fail to comply.</p>
-</blockquote>
-
-<p><a href="https://www.aclu.org/know-your-rights/protesters-rights#i-want-to-take-pictures-or-shoot-video-at-a-protest">Here’s their advice</a> on what to say and do if you are stopped or detained for taking photographs or video.</p>
-
-<p>Also, as good a time as ever for one of my periodic reminders to remember <a href="https://daringfireball.net/2022/06/require_a_passcode_to_unlock_your_iphone">how to hard-lock your iPhone to temporarily disable Face ID</a>: press and hold the side button and either one of the volume buttons at the same time for a few seconds.</p>
-
-<div>
-<a  title="Permanent link to ‘Know Your Rights: Filming and Photographing the Police’"  href="https://daringfireball.net/linked/2026/01/08/filming-and-photographing-the-police">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
