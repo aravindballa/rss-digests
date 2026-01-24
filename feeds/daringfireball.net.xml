@@ -7,13 +7,13 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-24T03:43:19Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-24T05:08:42Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/01/resize_columns_to_fit_filenames" />
 	<link rel="shorturl" href="http://df4.us/wvb" />
 	<id>tag:daringfireball.net,2026://1.42599</id>
 	<published>2026-01-24T03:38:53Z</published>
-	<updated>2026-01-24T03:38:54Z</updated>
+	<updated>2026-01-24T05:08:42Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -28,7 +28,7 @@
 
 <p>But now that we’ve been <a href="https://daringfireball.net/linked/2026/01/22/macos-26-tahoe-broke-column-view-in-the-finder">poking around at column view</a> in the Tahoe Finder, <a href="https://lapcatsoftware.com/articles/2026/1/8.html">Jeff Johnson has discovered another enticing new feature</a>. On Mac OS 26, the Finder has a new view option (accessed via View → Show View Options) to automatically resize columns to fit the longest visible filename. <a href="https://lapcatsoftware.com/articles/2026/1/8.html">See Johnson’s post</a> for screenshots of the new option in practice.</p>
 
-<p>Column view is one of the best <a href="https://infinitemac.org/1989/NeXTStep%201.0">UI innovations from NeXTStep</a>, and if you think about it, has always been the primary metaphor for browsing hierarchical applications in iOS. It’s a good idea for the desktop to proved foundational for mobile. The iPhone Settings app is column view — one column at a time. It’s a way to organize a multi-screen app in a visual, spatial way even when limited to a 3.5-inch display.</p>
+<p>Column view is one of the best <a href="https://infinitemac.org/1989/NeXTStep%201.0">UI innovations from NeXTStep</a>, and if you think about it, has always been the primary metaphor for browsing hierarchical applications in iOS. It’s a good idea for the desktop that proved foundational for mobile. The iPhone Settings app is column view — one column at a time. It’s a way to organize a multi-screen app in a visual, spatial way even when limited to a 3.5-inch display.</p>
 
 <p>Thanks to <a href="https://web.archive.org/web/20000302055440/http://www.kaleidoscope.net/greg/browser.html">Greg’s Browser</a>, a terrific indie app, I’d been using column view on classic Mac OS since 1993, a few years before Apple even bought NeXT, let alone finally shipped Mac OS X (which was when column view first appeared in the Finder). One frustration inherent to column view is that it doesn’t work well with long filenames. It’s a waste of space to resize all columns to a width long enough to accommodate long filenames, but it’s frustrating when a long filename doesn’t fit in a regular-width column.</p>
 
@@ -41,7 +41,7 @@
     width = 500
   /></a></p>
 
-<p>On MacOS 15, if you attempt to rename an item that is scrolled under the sidebar in column view, the column containing that item snaps into place next to the sidebar, so it’s fully visible. That snapping into place just feels right. The way Tahoe works, where the column doesn’t move and the text editing field for the filename just gets drawn on top of the sidebar, feels gross, like I’m using a computer that is not a Macintosh. Amateur hour.)</p>
+<p>On MacOS 15, if you attempt to rename an item that is scrolled under the sidebar in column view, the column containing that item snaps into place next to the sidebar, so it’s fully visible. That snapping into place just feels right. The way Tahoe works, where the column doesn’t move and the text editing field for the filename just gets drawn on top of the sidebar, feels gross, like I’m using a computer that is not a Macintosh. Amateur hour.</p>
 
 <p>I wish I could set this new column-resizing option only to grow columns to accommodate long filenames, and never to shrink columns when the visible items all have short filenames. But the way it currently works, it adjusts all columns to the width of the longest visible filename each column is displaying — narrowing some, and widening others. I want most columns to stay at the default width. With this new option enabled, it looks a bit higgledy-piggledy that every column is a different width.</p>
 
