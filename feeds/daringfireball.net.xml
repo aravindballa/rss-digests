@@ -7,13 +7,58 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-25T15:33:10Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-25T17:05:56Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Meh</title>
+	<link rel="alternate" type="text/html" href="https://meh.com/go/df" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wvd" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/25/meh" />
+	<id>tag:daringfireball.net,2026:/linked//6.42601</id>
+	<published>2026-01-25T17:04:18Z</published>
+	<updated>2026-01-25T17:04:19Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks to Meh for sponsoring last week at DF. Meh puts up a new deal every day, and they do with panache. As they say, “It’s actual, real, weird shit you didn’t know existed for half the price you would’ve guessed.”</p>
+
+<p>Don’t tell any of my other sponsors, but <a href="https://meh.com/go/df">Meh</a> is my favorite <a href="https://daringfireball.net/feeds/sponsors/archive">longtime DF sponsor</a>. I love the way their orange graphics look against DF’s <code>#4a525a</code> background. And I always love their sponsored posts that go into the RSS feed at the start of the sponsorship week. I’ll just quote theirs from this week in full:</p>
+
+<blockquote>
+  <p>Everything sucks. The whole world’s going to shit, especially our
+part of it, and it can feel like anything fun or silly is sticking
+your head in the sand.</p>
+
+<p>And yet. It doesn’t help to just be miserable. If you’re going to
+last, you’ve got to find your little moments of joy, or at a break
+from the misery.</p>
+
+<p>Buying our crap at Meh is not how you solve the world’s problems.
+We’re not that crass. But maybe a minute a day of reading our
+little write-up, and a couple minutes of catching up with the Meh
+community, of making a few new online friends, and yes, of
+occasionally picking up a weird gadget or strange snack you’ve
+never heard of is just a few minutes you get to take a break, not
+giving in to how bad everything else is.</p>
+
+<p>Of course we would say that. Of course we benefit from that.
+But it is also part of why we have a quirky write-up. Why we
+have a community. Why we’re selling whatever weird thing is
+over at Meh today.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘Meh’"  href="https://daringfireball.net/linked/2026/01/25/meh">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/01/ios_26_adoption_rate_is_not_bizarrely_low" />
 	<link rel="shorturl" href="http://df4.us/wvc" />
 	<id>tag:daringfireball.net,2026://1.42600</id>
 	<published>2026-01-25T00:14:52Z</published>
-	<updated>2026-01-25T02:09:12Z</updated>
+	<updated>2026-01-25T17:05:56Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -40,8 +85,8 @@ StatCounter. Instead, most users hold onto previous versions.</p>
 
 <p>For comparison, in January 2025, about <a href="https://gs.statcounter.com/ios-version-market-share/mobile-tablet/worldwide/#monthly-202501-202501-bar">63% of iPhone users had
 some iOS 18 version</a> installed. So after roughly the same
-amount of time, the adoption rate of Apple newest OS was about
-four times higher.</p>
+amount of time, the adoption rate of Apple [<em>sic</em>] newest OS was
+about four times higher.</p>
 </blockquote>
 
 <p>Those links point to Statcounter, a web analytics service. A lot of websites include Statcounter’s analytics tracker, and Statcounter’s tracker attempts to determine the version of the OS each visitor’s device is running. The problem is, starting with Safari 26 — the version that ships with iOS 26 — Safari changed how it reports its user agent string. From the WebKit blog, “<a href="https://webkit.org/blog/17333/webkit-features-in-safari-26-0/">WebKit Features in Safari 26.0</a>”:</p>
@@ -2288,54 +2333,6 @@ would lie <em>inside</em> the window.</p>
 
 <div>
 <a  title="Permanent link to ‘Copilot Money’"  href="https://daringfireball.net/linked/2026/01/11/copilot-money">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>U.S. Senators Ask Cook and Pichai to Remove X and Grok From App Store and Play Store</title>
-	<link rel="alternate" type="text/html" href="https://www.wyden.senate.gov/imo/media/doc/letter_to_apple_and_google_on_removing_x_and_grok_from_app_store_192026pdf.pdf" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wu2" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/11/senators-app-stores-grok" />
-	<id>tag:daringfireball.net,2026:/linked//6.42554</id>
-	<published>2026-01-11T21:24:47Z</published>
-	<updated>2026-01-13T00:13:36Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>U.S. Senators Ron Wyden (D-Oregon), Ed Markey (D-Massachusetts), and Ben Ray Luján (D-New Mexico), in a letter addressed to Tim Cook and Sundar Pichai:</p>
-
-<blockquote>
-  <p>Your app stores’ policies are clear. Google’s terms of service
-require apps to “prohibit users from creating, uploading, or
-distributing content that facilitates the exploitation or abuse of
-children” including prohibiting the “portrayal of children in a
-manner that could result in the sexual exploitation of children.”
-Apps that do not are said to be subject to “immediate removal from
-Google Play” for violations. Similarly, Apple’s terms of service
-bar apps from including “offensive” or “just plain creepy”
-content, which under any definition must include
-nonconsensually-generated sexualized images of children and women.
-Further, Apple’s terms explicitly bar apps from including content
-that is “[o]vertly sexual or pornographic material” including
-material “intended to stimulate erotic rather than aesthetic or
-emotional feelings.”</p>
-
-<p>Turning a blind eye to X’s egregious behavior would make a mockery
-of your moderation practices. Indeed, not taking action would
-undermine your claims in public and in court that your app stores
-offer a safer user experience than letting users download apps
-directly to their phones. This principle has been core to your
-advocacy against legislative reforms to increase app store
-competition and your defenses to claims that your app stores abuse
-their market power through their payment systems.</p>
-</blockquote>
-
-<p>Emphasizing that leaving X and Grok available in the App Store and Play Store directly contradicts Apple and Google’s stated reasons for maintaining control over software distribution is a good pressure point. Do they selectively enforce content moderation based on whims and/or shifting political winds, or rigorously enforce the plain language of their own content guidelines? Which is it? It can’t be both.</p>
-
-<div>
-<a  title="Permanent link to ‘U.S. Senators Ask Cook and Pichai to Remove X and Grok From App Store and Play Store’"  href="https://daringfireball.net/linked/2026/01/11/senators-app-stores-grok">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
