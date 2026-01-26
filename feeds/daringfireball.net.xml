@@ -7,7 +7,43 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-26T22:51:12Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-26T23:30:32Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>There’s a Hidden Preference to Auto-Resize Columns in the Finder on MacOS 14 and 15</title>
+	<link rel="alternate" type="text/html" href="https://forums.realmacsoftware.com/t/auto-resizing-columns-in-finder/52435" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wvm" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/26/hidden-pref-column-resizing" />
+	<id>tag:daringfireball.net,2026:/linked//6.42610</id>
+	<published>2026-01-26T23:18:37Z</published>
+	<updated>2026-01-26T23:18:37Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Good tip from “DifferentDan” on the Realmac customer forum, posted back in November:</p>
+
+<blockquote>
+  <p>I saw on macOS Tahoe 26.1, Apple finally added an option in the
+Column View settings to automatically right size all columns
+individually and that setting would persist, but I don’t really
+like Liquid Glass (yet) so I haven’t updated to Tahoe.</p>
+
+<p>Looks like someone found a workaround however for those that are
+still on Sequoia. Just open up Terminal on your Mac, copy in the
+below, and press return.</p>
+
+<pre><code> defaults write com.apple.finder _FXEnableColumnAutoSizing -bool YES; killall Finder
+</code></pre>
+</blockquote>
+
+<p>Marcel Bresink’s <a href="http://www.bresink.com/osx/TinkerTool.html">TinkerTool</a> is a great free app for adjusting hidden preferences using a proper GUI, and it turns out TinkerTool has exposed this hidden Finder preference for a few years now. You learn something every day. I enabled this a few days ago on MacOS 15 Sequoia, and it seems exactly like the implementation Apple has exposed in the Finder’s View Options window in Tahoe, <a href="https://daringfireball.net/2026/01/resize_columns_to_fit_filenames">which I wrote about Friday</a>. No better, no worse.</p>
+
+<div>
+<a  title="Permanent link to ‘There’s a Hidden Preference to Auto-Resize Columns in the Finder on MacOS 14 and 15’"  href="https://daringfireball.net/linked/2026/01/26/hidden-pref-column-resizing">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Nvidia Set to Supplant Apple as TSMC’s Largest Customer</title>
 	<link rel="alternate" type="text/html" href="https://www.cnbc.com/2026/01/26/nvidia-set-to-supplant-apple-as-tsmcs-largest-customer.html" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wvl" />
@@ -280,7 +316,7 @@ jot-something-down-right-now design.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/26/chayka-textedit" />
 	<id>tag:daringfireball.net,2026:/linked//6.42603</id>
 	<published>2026-01-26T19:54:55Z</published>
-	<updated>2026-01-26T19:54:55Z</updated>
+	<updated>2026-01-26T23:27:29Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -333,7 +369,7 @@ typing.</p>
 
 <p>But I get the feeling that Chayka would be better served switching from TextEdit to Apple Notes for most of these things he’s creating. Saving a whole pile of notes to yourself as text files on your desktop, with no organization into sub-folders, isn’t wrong. The whole point of “just put it on the desktop” is to absolve yourself of thinking about where to file something properly. That’s friction, and if you face a bit of friction every time you want to jot something down, it increases the likelihood that <em>you won’t jot it down</em> because you didn’t want to deal with the friction.</p>
 
-<p>You actually don’t need to save or name documents in TextEdit anymore. One the best changes to MacOS in the last two decades has been <a href="https://support.apple.com/guide/mac-help/change-desktop-dock-settings-mchlp1119/15.0/mac">the  persistence of open document windows</a>, including unsaved changes to existing files, and never-saved untitled document windows. Try this: open TextEdit, make a new untitled document, and type something — anything — into the new window. Next, don’t just quit TextEdit, but force quit it (⌥⌘Esc). Relaunch TextEdit, and your unsaved new document should be right where you left it, with every character you typed.</p>
+<p>You actually don’t need to save or name documents in TextEdit anymore. One of the best changes to MacOS in the last two decades has been <a href="https://support.apple.com/guide/mac-help/change-desktop-dock-settings-mchlp1119/15.0/mac">the  persistence of open document windows</a>, including unsaved changes to existing files, and never-saved untitled document windows. Try this: open TextEdit, make a new untitled document, and type something — anything — into the new window. Next, don’t just quit TextEdit, but force quit it (⌥⌘Esc). Relaunch TextEdit, and your unsaved new document should be right where you left it, with every character you typed.</p>
 
 <p>But a big pile of unorganized RTF files on your desktop — or a big pile of unsaved document windows that remain open, in perpetuity, in TextEdit — is no way to live. You can use TextEdit like that, it <em>supports</em> being used like that, but it wasn’t <em>designed</em> to be used like that.</p>
 
@@ -406,13 +442,13 @@ around with.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/25/meh" />
 	<id>tag:daringfireball.net,2026:/linked//6.42601</id>
 	<published>2026-01-25T17:04:18Z</published>
-	<updated>2026-01-25T17:04:19Z</updated>
+	<updated>2026-01-26T23:30:07Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>My thanks to Meh for sponsoring last week at DF. Meh puts up a new deal every day, and they do with panache. As they say, “It’s actual, real, weird shit you didn’t know existed for half the price you would’ve guessed.”</p>
+<p>My thanks to Meh for sponsoring last week at DF. Meh puts up a new deal every day, and they do it with panache. As they say, “It’s actual, real, weird shit you didn’t know existed for half the price you would’ve guessed.”</p>
 
 <p>Don’t tell any of my other sponsors, but <a href="https://meh.com/go/df">Meh</a> is my favorite <a href="https://daringfireball.net/feeds/sponsors/archive">longtime DF sponsor</a>. I love the way their orange graphics look against DF’s <code>#4a525a</code> background. And I always love their sponsored posts that go into the RSS feed at the start of the sponsorship week. I’ll just quote theirs from this week in full:</p>
 
@@ -422,7 +458,7 @@ part of it, and it can feel like anything fun or silly is sticking
 your head in the sand.</p>
 
 <p>And yet. It doesn’t help to just be miserable. If you’re going to
-last, you’ve got to find your little moments of joy, or at a break
+last, you’ve got to find your little moments of joy, or as a break
 from the misery.</p>
 
 <p>Buying our crap at Meh is not how you solve the world’s problems.
@@ -1194,11 +1230,11 @@ those skills, and people are collectively refining them.</p>
 	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.42584</id>
 	<author><name>Daring Fireball Department of Commerce</name></author>
 	<published>2026-01-21T22:23:45Z</published>
-	<updated>2026-01-21T22:23:46Z</updated>
+	<updated>2026-01-26T23:30:32Z</updated>
 	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
 <p>Everything sucks. The whole world’s going to shit, especially our part of it, and it can feel like anything fun or silly is sticking your head in the sand.</p>
 
-<p>And yet. It doesn’t help to just be miserable. If you’re going to last, you’ve got to find your little moments of joy, or at a break from the misery.</p>
+<p>And yet. It doesn’t help to just be miserable. If you’re going to last, you’ve got to find your little moments of joy, or as a break from the misery.</p>
 
 <p>Buying our crap at Meh is not how you solve the world’s problems. We’re not that crass. But maybe a minute a day of reading our little write-up, and a couple minutes of catching up with the Meh community, of making a few new online friends, and yes, of occasionally picking up a weird gadget or strange snack you’ve never heard of is just a few minutes you get to take a break, not giving in to how bad everything else is.</p>
 
@@ -2374,48 +2410,6 @@ later and some features require a Mac with Apple silicon.</p>
 
 <div>
 <a  title="Permanent link to ‘Apple Announces Apple Creator Studio (Including Apple’s Take on Pixelmator)’"  href="https://daringfireball.net/linked/2026/01/13/apple-creator-studio">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Sarah Perez on Core Devices, the Sequel to Pebble</title>
-	<link rel="alternate" type="text/html" href="https://techcrunch.com/2026/01/12/pebble-founder-says-his-new-company-is-not-a-startup/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wua" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/12/perez-core-devices" />
-	<id>tag:daringfireball.net,2026:/linked//6.42562</id>
-	<published>2026-01-13T00:00:54Z</published>
-	<updated>2026-01-13T00:00:54Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Sarah Perez, writing at TechCrunch:</p>
-
-<blockquote>
-  <p>“We’ve structured this entire business around being a sustainable,
-profitable, and hopefully, long-running enterprise, but not a
-startup,” Migicovsky told TechCrunch on the sidelines of the
-Consumer Electronics Show in Las Vegas last week. [...]</p>
-
-<p>“I want a companion to my phone, rather than a replacement for my
-phone. I want it to be more like a Swatch than a Rolex. I want it
-to be a little bit more fun, casual, playful, and plasticky.”
-Plus, he added, with the reboot of Pebble, he’s now okay with a
-watch that doesn’t try to do it all.</p>
-
-<p>“I’m okay with a limited vision and a limited scope of what we’re
-trying to accomplish,” Migicovsky said.</p>
-
-<p>Under the new company, Core Devices, the team has announced the
-<a href="https://techcrunch.com/2025/08/13/pebbles-smartwatch-is-back-pebble-time-2-specs-revealed/">Pebble Time 2 smartwatch</a>, a round-faced <a href="https://techcrunch.com/2026/01/02/pebble-reboots-its-thinnest-smartwatch-with-the-pebble-round-2/">Pebble Round
-2</a>, and a <a href="https://techcrunch.com/2025/12/09/pebbles-founder-introduces-a-75-ai-smart-ring-for-recording-brief-notes-with-a-press-of-a-button/">$75 AI smart ring, called the Index 01</a>.</p>
-</blockquote>
-
-<p>What a great profile from Perez. I think she captured the current moment for Core Devices. I personally don’t want their new watches, and I don’t see the appeal (especially ergonomically, given that it needs to be on your index finger) of the Index 01 ring, but I can see why some people might. And I’m delighted to see a small company trying these things. Better to make things a few people might love than to try to make something zillions might like.</p>
-
-<div>
-<a  title="Permanent link to ‘Sarah Perez on Core Devices, the Sequel to Pebble’"  href="https://daringfireball.net/linked/2026/01/12/perez-core-devices">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
