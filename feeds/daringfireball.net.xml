@@ -7,7 +7,60 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-25T17:05:56Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-26T17:58:37Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Federico Viticci on Clawdbot</title>
+	<link rel="alternate" type="text/html" href="https://www.macstories.net/stories/clawdbot-showed-me-what-the-future-of-personal-ai-assistants-looks-like/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wve" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/26/viticci-on-clawdbot" />
+	<id>tag:daringfireball.net,2026:/linked//6.42602</id>
+	<published>2026-01-26T17:58:37Z</published>
+	<updated>2026-01-26T17:58:37Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Federico Viticci, writing at MacStories:</p>
+
+<blockquote>
+  <p>If this intro just gave you whiplash, imagine my reaction when I
+first started playing around with <a href="https://clawd.bot/">Clawdbot</a>, the incredible
+<a href="https://github.com/clawdbot/clawdbot">open-source project</a> by <a href="https://steipete.me/">Peter Steinberger</a> (a name
+that should be <a href="https://www.macstories.net/linked/ios-10-3-beta-re-introduces-warning-for-old-32-bit-apps-suggests-future-incompatibility/">familiar to longtime MacStories readers</a>)
+that’s become <em>very</em> popular in certain AI communities over the
+past few weeks. I kept seeing Clawdbot being mentioned by people I
+follow; eventually, I gave in to peer pressure, followed the
+instructions provided by the funny crustacean mascot on the app’s
+<a href="https://docs.clawd.bot/start/getting-started">website</a>, installed Clawdbot on my new M4 Mac mini (which
+is not my main production machine), and <a href="https://docs.clawd.bot/channels/telegram">connected it to
+Telegram</a>.</p>
+
+<p>To say that Clawdbot has fundamentally altered my perspective of
+what it means to have an intelligent, personal AI assistant in
+2026 would be an understatement. I’ve been playing around with
+Clawdbot so much, I’ve burned through 180 million tokens on the
+Anthropic API ( <em>yikes</em> ), and I’ve had fewer and fewer
+conversations with the “regular” Claude and ChatGPT apps in the
+process. Don’t get me wrong: Clawdbot is a nerdy project, a
+tinkerer’s laboratory that is not poised to overtake the
+popularity of consumer LLMs any time soon. Still, Clawdbot points
+at a fascinating future for digital assistants, and it’s exactly
+the kind of bleeding-edge project that MacStories readers will
+appreciate.</p>
+
+<p>Clawdbot can be overwhelming at first, so I’ll try my best to
+explain what it is and why it’s so exciting and fun to play
+around with.</p>
+</blockquote>
+
+<p>Overwhelming indeed. Clawdbot is undeniably impressive, and <a href="https://x.com/steipete/status/2015828441342292139">interest in it is skyrocketing</a>. But because of its complexity and scope, it’s one of those things where all the excitement is being registered by people who already understand it. This essay from Viticci is the first thing I’ve seen that really helped me <em>start</em> to understand it.</p>
+
+<div>
+<a  title="Permanent link to ‘Federico Viticci on Clawdbot’"  href="https://daringfireball.net/linked/2026/01/26/viticci-on-clawdbot">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Meh</title>
 	<link rel="alternate" type="text/html" href="https://meh.com/go/df" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wvd" />
@@ -2305,34 +2358,6 @@ would lie <em>inside</em> the window.</p>
 
 <div>
 <a  title="Permanent link to ‘Statement From Federal Reserve Chair Jerome H. Powell’"  href="https://daringfireball.net/linked/2026/01/11/powell-statement">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Copilot Money</title>
-	<link rel="alternate" type="text/html" href="https://copilot.money/?utm_source=daringfireball&amp;utm_medium=editorial&amp;utm_campaign=daringfireball_010526_web25&amp;utm_term=DARING" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wu1" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/11/copilot-money" />
-	<id>tag:daringfireball.net,2026:/linked//6.42553</id>
-	<published>2026-01-11T21:25:00Z</published>
-	<updated>2026-01-18T19:38:54Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>My thanks to Copilot Money for sponsoring last week at DF. Copilot is a personal finance app for the iPhone, iPad, and Mac, and they’ve always deeply believed in the value of embracing the design idioms and technical features of truly native apps for Apple platforms. Apple has noticed, awarding Copilot an <a href="https://apps.apple.com/us/app/copilot-track-budget-money/id1447330651#productRatings">App Store Editor’s Choice</a> and featuring Copilot earlier this year on Apple Developer <a href="https://developer.apple.com/articles/copilot-money/">for their use of Swift Charts</a>.</p>
-
-<p>Copilot’s big news this month is they’ve launched a new web app, bringing access to Copilot from any device, anywhere. It’s designed with all the attention to detail — and concern for privacy and security — as their native apps.</p>
-
-<p>Copilot Money brings all your spending, budgets, investments, and net worth into one organized dashboard, with intelligent categorization and insights that help you stay on track without spreadsheets or app-hopping. Designed to feel calm and intuitive, Copilot makes it easy to understand your finances across all your devices.</p>
-
-<p>Copilot first sponsored DF back in 2021. My wife and I started using it then to track our finances, and we haven’t looked back. Copilot Money isn’t just better than anything we’d used before, it absolutely blew everything else away. It’s easy to connect to your financial accounts, and once you do, you don’t need to spend any effort at all to enter transactions. Copilot just tracks it all automatically, and most importantly, presents it to you in clear, intuitive ways. It’s so good. I’m not saying that because they sponsored DF last week — I’m saying that as a happy paying customer for over four years now.</p>
-
-<p>Copilot is offering DF readers two months free with code <strong>DARING</strong>, plus 26% off your first year for a limited time, <a href="https://copilot.money/?utm_source=daringfireball&amp;utm_medium=editorial&amp;utm_campaign=daringfireball_122225_web25&amp;utm_term=DARING">available through this link</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Copilot Money’"  href="https://daringfireball.net/linked/2026/01/11/copilot-money">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
