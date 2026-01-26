@@ -7,7 +7,50 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-26T19:54:55Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-26T20:32:47Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>From the DF Archive: ‘Untitled Document Syndrome’</title>
+	<link rel="alternate" type="text/html" href="https://daringfireball.net/2009/02/untitled_document_syndrome" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wvg" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/26/from-the-df-archive-untitled-document-syndrome" />
+	<id>tag:daringfireball.net,2026:/linked//6.42604</id>
+	<published>2026-01-26T20:32:46Z</published>
+	<updated>2026-01-26T20:32:47Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Yours truly back in 2009, hitting upon the same themes from <a href="https://daringfireball.net/linked/2026/01/26/chayka-textedit">the item I just posted</a> about TextEdit vs. Apple Notes:</p>
+
+<blockquote>
+  <p>This, I think, explains the relative popularity of Mac OS X’s
+included Stickies application. For years, Stickies’s popularity
+confounded me. Why would anyone use a note-taking utility that
+requires you to leave every saved note open in its own window on
+screen? The more you use it, the more cluttered it gets. But
+here’s the thing: cluttered though it may be, <em>you never have to
+save anything in Stickies</em>. Switch to Stickies, Command-N, type
+your new note, and you’re done. (And, yes, if you create a new
+sticky note, then force-quit Stickies, the note you just created
+will be there when next you launch the app. Stickies’s auto-save
+happens while you type, not just at quit time.) It feels easy and
+it feels safe. Stickies does not offer a good long-term storage
+design, but it offers a frictionless short-term
+jot-something-down-right-now design.</p>
+</blockquote>
+
+<p>Here we are in 2026, 17 years later, and, unsurprisingly, some things have changed. Apple Notes didn’t get a Mac version until Mac OS X 10.8 Mountain Lion in 2012. And Apple Notes didn’t really get <em>good</em> until 2016 or 2017. I still use Yojimbo, the library-based Mac app I wrote about in the above piece in 2009, but I don’t use it nearly as much as I used to. I use Apple Notes instead, for most notes, because it has good clients for iPhone and iPad (and Vision and even Apple Watch).</p>
+
+<p>Other things, however, have not changed since 2009. Like the Stickies app, which is still around in MacOS 26 Tahoe, largely unchanged, except for <a href="https://onefoottsunami.com/2025/11/05/tahoes-terrible-icons/#:~:text=STICKIES">a sad Liquid Glass-style icon</a>. If you still use Stickies, you should consider moving to Apple Notes. There’s even a command (File → Export All to Notes...) to import all your notes from Stickies into Apple Notes, with subfolders in Notes for each color sticky note. Apple Notes on the Mac even supports one of Stickies’s signature features: the Window → Float on Top command will keep a note’s window floating atop the windows from other apps even when Apple Notes is in the background.</p>
+
+<p>(Stickies has another cool feature that no other current app I know of does: it still supports “<a href="https://en.wikipedia.org/wiki/WindowShade">window shading</a>”. Double-click the title bar of a note in Stickies and the rest of the window will “roll up”, leaving only the title bar behind. Double-click again and it rolls down. This was a built-in feature for all windows in all apps on classic Mac OS, starting with System 8, but was replaced in favor of minimizing windows into the Dock with Mac OS X. Window shading was a better feature (and could have been kept <em>alongside</em> minimizing into the Dock). With the Stickies app, window shading works particularly well with the aforementioned Float on Top feature — you can keep a floating window available, atop all other windows, but while it’s rolled up it hardly takes up any space or obscures anything underneath.)</p>
+
+<div>
+<a  title="Permanent link to ‘From the DF Archive: ‘Untitled Document Syndrome’’"  href="https://daringfireball.net/linked/2026/01/26/from-the-df-archive-untitled-document-syndrome">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘TextEdit and the Relief of Simple Software’</title>
 	<link rel="alternate" type="text/html" href="https://www.newyorker.com/culture/infinite-scroll/textedit-and-the-relief-of-simple-software" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wvf" />
@@ -2280,67 +2323,6 @@ record for monthly engagement.</p>
 
 <div>
 <a  title="Permanent link to ‘Eddy Cue on Apple’s 2025 Year in Services’"  href="https://daringfireball.net/linked/2026/01/12/eddy-cue-apple-year-in-services">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple, Rather Quietly and With No Details, Announces Partnership With Google to Use Gemini Technology for Apple Foundation Models, and Presumably, the Year-Overdue More Personalized Siri</title>
-	<link rel="alternate" type="text/html" href="https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wu5" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/12/apple-google-foundation-models-cnbc" />
-	<id>tag:daringfireball.net,2026:/linked//6.42557</id>
-	<published>2026-01-12T18:35:50Z</published>
-	<updated>2026-01-13T18:27:43Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>CNBC:</p>
-
-<blockquote>
-  <p>The multi-year partnership will lean on Google’s Gemini and cloud
-technology for future Apple foundational models, according to a
-joint statement obtained by CNBC’s Jim Cramer.</p>
-
-<p>“After careful evaluation, we determined that Google’s technology
-provides the most capable foundation for Apple Foundation Models
-and we’re excited about the innovative new experiences it will
-unlock for our users,” Apple said in a statement on Monday.</p>
-
-<p>The models will continue to run on Apple devices and the company’s
-private cloud compute, they added. Apple declined to comment on
-the terms of the deal. Google referred CNBC to the joint
-statement.</p>
-</blockquote>
-
-<p>That’s the whole announcement, at least for now. A statement that, as far as I can see, went only to CNBC (and Jim Cramer specifically, <a href="https://daringfireball.net/search/jim+cramer">of all people</a>).</p>
-
-<p>There’s slightly more detail in <a href="https://x.com/NewsFromGoogle/status/2010746083170046376">this brief announcement from Google</a>, on, of all places, Twitter/X:</p>
-
-<blockquote>
-  <p>Joint Statement: Apple and Google have entered into a multi-year
-collaboration under which the next generation of Apple Foundation
-Models will be based on Google’s Gemini models and cloud
-technology. These models will help power future Apple Intelligence
-features, including a more personalized Siri coming this year.</p>
-
-<p>After careful evaluation, Apple determined that Google’s Al
-[<em>sic</em>] technology provides the most capable foundation for Apple
-Foundation Models and is excited about the innovative new
-experiences it will unlock for Apple users. Apple Intelligence
-will continue to run on Apple devices and Private Cloud Compute,
-while maintaining Apple’s industry-leading privacy standards.</p>
-</blockquote>
-
-<p>I suspect more details will be forthcoming from Apple sooner rather than later. But for now, that’s it.</p>
-
-<p>This phrasing, in both Apple’s statement to Cramer and the joint Apple/Google statement released by Google, is, I think subtly telling about how significant this news is: “Google’s AI technology provides the most capable foundation for Apple Foundation Models”. There’s a slight redundancy with <em>foundation</em> appearing twice in the span of four words. Imagine if WebKit had been named “Safari Rendering Engine” — there would be times when one might need to write “the rendering engine is Safari Rendering Engine”, because that’s what it is, and that’s the name. But in this case, it’s a bit incongruous. A foundation is a foundation; it doesn’t have a foundation. So this brief bit of phrasing reveals the obvious, awkward truth that Apple Foundation Models didn’t actually have a foundation.</p>
-
-<p>Also, perhaps some evidence of OCR copy-and-pasting: in the tweet of the joint statement, marked by “[<em>sic</em>]” above, AI is spelled uppercase-A lowercase-L. <strong>Update:</strong> Same misspelling in <a href="https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/?ref=jagsworkshop.com">the version of the announcement</a> hosted on Google’s own news site.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple, Rather Quietly and With No Details, Announces Partnership With Google to Use Gemini Technology for Apple Foundation Models, and Presumably, the Year-Overdue More Personalized Siri’"  href="https://daringfireball.net/linked/2026/01/12/apple-google-foundation-models-cnbc">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
