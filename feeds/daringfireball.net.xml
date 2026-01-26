@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-26T23:30:32Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-26T23:39:20Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>There’s a Hidden Preference to Auto-Resize Columns in the Finder on MacOS 14 and 15</title>
 	<link rel="alternate" type="text/html" href="https://forums.realmacsoftware.com/t/auto-resizing-columns-in-finder/52435" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wvm" />
@@ -600,7 +600,7 @@ saturation point very soon.</p>
 	<link rel="shorturl" href="http://df4.us/wvb" />
 	<id>tag:daringfireball.net,2026://1.42599</id>
 	<published>2026-01-24T03:38:53Z</published>
-	<updated>2026-01-24T05:08:42Z</updated>
+	<updated>2026-01-26T23:39:20Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -614,6 +614,8 @@ saturation point very soon.</p>
 <p>That’s it. The Journal app is the one new feature Tahoe offers that I wish I had today. I’m not missing out on the latest version of Safari because <a href="https://developer.apple.com/documentation/safari-release-notes/safari-26_2-release-notes">Apple makes Safari 26 available for MacOS 15 Sequoia</a> (and even 14 Sonoma). Some years, Apple adds <a href="https://support.apple.com/guide/iphone/enter-formulas-and-equations-iphb9c2b948f/ios">new features</a> to Apple Notes, and to get those features on every device, you need to update every device to that year’s new OS. This year I don’t think there are any features like that. Everything is perfectly cromulent running iOS 26 on my iPhone and iPad, but sticking with MacOS 15 Sequoia on my primary Mac.</p>
 
 <p>But now that we’ve been <a href="https://daringfireball.net/linked/2026/01/22/macos-26-tahoe-broke-column-view-in-the-finder">poking around at column view</a> in the Tahoe Finder, <a href="https://lapcatsoftware.com/articles/2026/1/8.html">Jeff Johnson has discovered another enticing new feature</a>. On Mac OS 26, the Finder has a new view option (accessed via View → Show View Options) to automatically resize columns to fit the longest visible filename. <a href="https://lapcatsoftware.com/articles/2026/1/8.html">See Johnson’s post</a> for screenshots of the new option in practice.</p>
+
+<p>[<strong>Update:</strong> <a href="https://daringfireball.net/linked/2026/01/26/hidden-pref-column-resizing">Turns out</a>, this auto-resizing feature has been a hidden preference setting in the Finder for a few years now.]</p>
 
 <p>Column view is one of the best <a href="https://infinitemac.org/1989/NeXTStep%201.0">UI innovations from NeXTStep</a>, and if you think about it, has always been the primary metaphor for browsing hierarchical applications in iOS. It’s a good idea for the desktop that proved foundational for mobile. The iPhone Settings app is column view — one column at a time. It’s a way to organize a multi-screen app in a visual, spatial way even when limited to a 3.5-inch display.</p>
 
