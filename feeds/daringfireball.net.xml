@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-27T18:12:56Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-27T18:28:30Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/01/the_names_they_call_themselves" />
 	<link rel="shorturl" href="http://df4.us/wvp" />
@@ -171,7 +171,7 @@ They were. “Oh, my God,” she says, letting out a defeated sigh.
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/26/hidden-pref-column-resizing" />
 	<id>tag:daringfireball.net,2026:/linked//6.42610</id>
 	<published>2026-01-26T23:18:37Z</published>
-	<updated>2026-01-26T23:18:37Z</updated>
+	<updated>2026-01-27T18:28:30Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -189,8 +189,7 @@ like Liquid Glass (yet) so I haven’t updated to Tahoe.</p>
 still on Sequoia. Just open up Terminal on your Mac, copy in the
 below, and press return.</p>
 
-<pre><code> defaults write com.apple.finder _FXEnableColumnAutoSizing -bool YES; killall Finder
-</code></pre>
+<p><code>defaults write com.apple.finder _FXEnableColumnAutoSizing -bool YES; killall Finder</code></p>
 </blockquote>
 
 <p>Marcel Bresink’s <a href="http://www.bresink.com/osx/TinkerTool.html">TinkerTool</a> is a great free app for adjusting hidden preferences using a proper GUI, and it turns out TinkerTool has exposed this hidden Finder preference for a few years now. You learn something every day. I enabled this a few days ago on MacOS 15 Sequoia, and it seems exactly like the implementation Apple has exposed in the Finder’s View Options window in Tahoe, <a href="https://daringfireball.net/2026/01/resize_columns_to_fit_filenames">which I wrote about Friday</a>. No better, no worse.</p>
