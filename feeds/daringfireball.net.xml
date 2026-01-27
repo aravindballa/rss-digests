@@ -7,7 +7,45 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-27T20:18:47Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-27T20:34:37Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Clawdbot Is Now Moltbot</title>
+	<link rel="alternate" type="text/html" href="https://www.molt.bot/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wvq" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/27/clawdbot-is-now-moltbot" />
+	<id>tag:daringfireball.net,2026:/linked//6.42614</id>
+	<published>2026-01-27T20:34:36Z</published>
+	<updated>2026-01-27T20:34:37Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>From the footer on the project’s website:</p>
+
+<blockquote>
+  <p>Moltbot was formerly known as Clawdbot. Independent project, not
+affiliated with Anthropic.</p>
+</blockquote>
+
+<p>Makes sense, to be honest, that Anthropic would object to naming it a homonym for Claude.</p>
+
+<p>One additional followup to <a href="fehttps://daringfireball.net/linked/2026/01/26/viticci-on-clawdbot">my post the other day</a>. In his terrific introduction to <s>Clawd</s>Moltbot, <a href="https://www.macstories.net/stories/clawdbot-showed-me-what-the-future-of-personal-ai-assistants-looks-like/">Federico Viticci wrote</a>:</p>
+
+<blockquote>
+  <p>I’ve been playing around with Clawdbot so much, I’ve burned
+through 180 million tokens on the Anthropic API (<em>yikes</em>), and
+I’ve had fewer and fewer conversations with the “regular” Claude
+and ChatGPT apps in the process.</p>
+</blockquote>
+
+<p>Those tokens aren’t free. Anthropic charges $5/million for input tokens, and $25/million for output tokens. I asked Viticci just how much “yikes” cost, and he said around US$560 — using way more input than output tokens.</p>
+
+<div>
+<a  title="Permanent link to ‘Clawdbot Is Now Moltbot’"  href="https://daringfireball.net/linked/2026/01/27/clawdbot-is-now-moltbot">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/01/the_names_they_call_themselves" />
 	<link rel="shorturl" href="http://df4.us/wvp" />
@@ -2363,44 +2401,6 @@ us.....it’s the other guys. Some things are just out of our hands!
 
 <div>
 <a  title="Permanent link to ‘Verizon’s Cell Network Is Down, and AT&amp;T and T-Mobile Are Sassing Them About It’"  href="https://daringfireball.net/linked/2026/01/14/verizon-out">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Bill and Hillary Clinton’s Personal Letter to Rep. James Comer</title>
-	<link rel="alternate" type="text/html" href="https://www.nytimes.com/interactive/2026/01/13/us/clinton-letter.html?unlocked_article_code=1.EVA.dZDj.K8eGYUUHnOXO&amp;smid=url-share" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wud" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/14/clintons-letter" />
-	<id>tag:daringfireball.net,2026:/linked//6.42565</id>
-	<published>2026-01-14T20:14:09Z</published>
-	<updated>2026-01-14T20:31:11Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>The letter speaks for itself, and is very much worth reading in full. I’ll quote only from the conclusion, which rhetorically feels very Bill:</p>
-
-<blockquote>
-  <p>Continue to mislead Americans about what is truly at stake, and
-you will learn that Americans are better at finding the truth than
-you are at burying it.</p>
-
-<p>Continue to pursue autopens instead of penning laws Americans
-need, and you will learn that you are signing away any remaining
-chance of being on the right side of history.</p>
-
-<p>Continue to abet the dismantling of America, and you will learn
-that it takes more than a wrecking ball to demolish what Americans
-have built over 250 years.</p>
-</blockquote>
-
-<p>The New York Times also published <a href="https://www.nytimes.com/interactive/2026/01/13/us/politics/clinton-legal-letter-comer.html">a copy of the <em>legal</em> letter</a> the Clintons’ lawyers (two law firms, actually) sent to Comer. It’s not as good a read as their personal letter.</p>
-
-<p>I’ll just add, revisiting a <a href="https://daringfireball.net/2025/12/full_text_of_marco_rubio_state_dept_directive_times_new_roman">recent</a> <a href="https://daringfireball.net/search/times+new+roman">topic</a>, that the legal letter from the Clintons’ lawyers was set in Times New Roman. That’s unremarkable, which is Times New Roman’s calling card. The Clintons’ personal letter, on very nice joint stationery, was set in Courier New, an interesting but disappointing choice. The intention is to evoke the effect of a typewriter — to add a personal touch. The letter is very clearly, from the first word to the last, a personal message from Bill and Hillary Clinton themselves. I suspect they jointly crafted every single word of it themselves. It’s not a short letter, but it’s not long, either. Not a word is wasted. But it would have <em>looked</em> so much better in Courier than Courier New  (or, even better, the best version of Courier ever made, <a href="https://quoteunquoteapps.com/courierprime/">Courier Prime</a>). The worst aspect of Courier New is that it’s inexplicably thin and wispy. It looks like it should be called Courier Thin, but there’s no good reason for there to exist a thin variant of Courier. The second worst aspect of Courier New is that a handful of punctuation glyphs are inexplicably <em>not</em> thin, and thus stand out excessively, grating on the eyes. Take note of how the commas and apostrophes appear almost bold in the Clintons’ personal letter. I gripe about Arial more frequently, but Courier New is a worse crime against typography. (Both crimes, of course, were set loose upon the world by Microsoft.)</p>
-
-<div>
-<a  title="Permanent link to ‘Bill and Hillary Clinton’s Personal Letter to Rep. James Comer’"  href="https://daringfireball.net/linked/2026/01/14/clintons-letter">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
