@@ -7,7 +7,61 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-28T00:17:03Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-28T16:13:58Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Meta’s Response to Reuters Report on ‘Romance AI Chatbots’ for Teenagers</title>
+	<link rel="alternate" type="text/html" href="https://x.com/andymstone/status/2016242174447223049" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wvw" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/28/metas-response-to-reuters-report" />
+	<id>tag:daringfireball.net,2026:/linked//6.42620</id>
+	<published>2026-01-28T16:02:25Z</published>
+	<updated>2026-01-28T16:12:33Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Andy Stone, VP of communications at Meta, responding, in a series of tweets on Twitter/X, to <a href="https://www.reuters.com/legal/government/meta-ceo-zuckerberg-blocked-curbs-sex-talking-chatbots-minors-court-filing-2026-01-27/">Jeff Horwitz’s report at Reuters</a> yesterday, <a href="https://daringfireball.net/linked/2026/01/27/horwitz-zuck-meta-teen-sexbots">linked here</a> last night, which claimed that “Zuckerberg blocked curbs on sex-talking chatbots for minors”:</p>
+
+<blockquote>
+  <p>Never let the facts get in the way of a good story, eh,
+<a href="https://x.com/Reuters">@Reuters</a>, <a href="https://x.com/JeffHorwitz">@JeffHorwitz</a>!</p>
+
+<p>The documents you cite in the story itself contradict this
+headline.</p>
+
+<p>The headline says “Zuckerberg blocked curbs on sex-talking
+chatbots for minors”</p>
+
+<p>But the story cites a document that says “Zuckerberg believed that
+AI companions should be blocked from engaging in sexually
+‘explicit’ conversations” w young people.</p>
+
+<p>Huh?!</p>
+</blockquote>
+
+<p>After my post last night, a friend of mine, with a career of experience working in a large company, sent me this:</p>
+
+<blockquote>
+  <p>A word of caution. “Scumbag middle manager says CEO said” is not
+the same as “CEO said.”</p>
+
+<p>I could believe Zuck shitcanned parental controls, but I am
+certain there are thousands of snakes inside that company who
+would lie about it to get what they want.</p>
+</blockquote>
+
+<p>That’s a good and fair point, and I think it’s what Stone is trying to emphasize above. The New Mexico lawsuit filing doesn’t contain evidence that Zuckerberg nixed parental controls for teens engaging in chats with AI bots; it contains evidence that other (unnamed employees) claimed in internal discussions that Zuckerberg had nixed them. That is different.</p>
+
+<p>But so let’s take Zuckerberg out of it personally. It’s still the case that Meta shipped these chatbots for teens to use. And the buck, presumably, stops at Zuck’s desk. <a href="https://www.reuters.com/investigates/special-report/meta-ai-chatbot-guidelines/">Read Horwitz’s report from back in August</a>, detailing a leaked internal document listing Meta’s content guidelines for generative AI chat.</p>
+
+<p><strong>Sidenote:</strong> Why in the world is Meta’s VP of comms doing this on Twitter/X, not Threads, which <a href="https://techcrunch.com/2026/01/18/threads-edges-out-x-in-daily-mobile-users-new-data-shows/">continues to grow</a>?</p>
+
+<div>
+<a  title="Permanent link to ‘Meta’s Response to Reuters Report on ‘Romance AI Chatbots’ for Teenagers’"  href="https://daringfireball.net/linked/2026/01/28/metas-response-to-reuters-report">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Court Filing Claims Zuckerberg Blocked Curbs at Meta on Sex-Talking Chatbots for Minors</title>
 	<link rel="alternate" type="text/html" href="https://www.reuters.com/legal/government/meta-ceo-zuckerberg-blocked-curbs-sex-talking-chatbots-minors-court-filing-2026-01-27/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wvv" />
@@ -206,7 +260,7 @@ secretary for the word that escaped him.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/27/clawdbot-is-now-moltbot" />
 	<id>tag:daringfireball.net,2026:/linked//6.42614</id>
 	<published>2026-01-27T20:34:36Z</published>
-	<updated>2026-01-27T22:02:01Z</updated>
+	<updated>2026-01-28T16:13:58Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -219,7 +273,7 @@ secretary for the word that escaped him.</p>
 affiliated with Anthropic.</p>
 </blockquote>
 
-<p>Makes sense, to be honest, that Anthropic would object to naming it a homonym for Claude.</p>
+<p>Makes sense, to be honest, <a href="https://www.businessinsider.com/clawdbot-changes-name-moltbot-anthropic-trademark-2026-1">that Anthropic would object</a> to naming it a homonym for Claude.</p>
 
 <p>One additional followup to <a href="https://daringfireball.net/linked/2026/01/26/viticci-on-clawdbot">my post the other day</a>. In his terrific introduction to <s>Clawd</s>Moltbot, <a href="https://www.macstories.net/stories/clawdbot-showed-me-what-the-future-of-personal-ai-assistants-looks-like/">Federico Viticci wrote</a>:</p>
 
@@ -2313,47 +2367,6 @@ that this matters to us.</p>
 
 <div>
 <a  title="Permanent link to ‘Verizon Offers $20 Credit After Daylong Outage’"  href="https://daringfireball.net/linked/2026/01/16/verizon-20-bucks">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>ChatGPT Adds New $8/Month ‘Go’ Tier, Will Soon Introduce Ads</title>
-	<link rel="alternate" type="text/html" href="https://openai.com/index/introducing-chatgpt-go/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wuj" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/16/chatgpt-go" />
-	<id>tag:daringfireball.net,2026:/linked//6.42571</id>
-	<published>2026-01-16T19:59:53Z</published>
-	<updated>2026-01-16T20:00:15Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>OpenAI:</p>
-
-<blockquote>
-  <p>With this launch, ChatGPT now offers three subscription tiers globally:</p>
-
-<ul>
-<li>ChatGPT Go at $8 USD/month</li>
-<li>ChatGPT Plus at $20 USD/month</li>
-<li>ChatGPT Pro at $200 USD/month</li>
-</ul>
-</blockquote>
-
-<p>And perhaps the bigger news:</p>
-
-<blockquote>
-  <p>We plan to begin testing ads in the free tier and ChatGPT Go in
-the US soon. Ads support our commitment to making AI accessible to
-everyone by helping us keep ChatGPT available at free and
-affordable price points.</p>
-</blockquote>
-
-<p>Their pricing page has a comparison chart showing the differences in their four consumer tiers (free, Go, Plus, Pro). <a href="https://daringfireball.net/misc/2026/01/chatgpt-pricing-2026-01-16.png">Screenshot</a>, for posterity. The big difference that will keep me on the $20/month Plus plan for now is that the Go plan doesn’t have access to the Thinking model.</p>
-
-<div>
-<a  title="Permanent link to ‘ChatGPT Adds New $8/Month ‘Go’ Tier, Will Soon Introduce Ads’"  href="https://daringfireball.net/linked/2026/01/16/chatgpt-go">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
