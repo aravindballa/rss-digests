@@ -7,7 +7,65 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-29T19:57:37Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-29T20:21:33Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Let’s Keep an Eye on Apple’s Own iOS Adoption Numbers</title>
+	<link rel="alternate" type="text/html" href="https://developer.apple.com/support/app-store/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/ww5" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/29/apples-own-ios-adoption-numbers" />
+	<id>tag:daringfireball.net,2026:/linked//6.42629</id>
+	<published>2026-01-29T20:18:48Z</published>
+	<updated>2026-01-29T20:21:33Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>When I wrote last week about <a href="https://daringfireball.net/2026/01/ios_26_adoption_rate_is_not_bizarrely_low">the false narrative that iOS 26 is seeing bizarrely low adoption rates</a> compared to previous years, I neglected one source: Apple itself. Apple’s Developer site publishes a page with <a href="https://developer.apple.com/support/app-store/">iOS and iPadOS usage for devices that “transacted on the App Store”</a>.</p>
+
+<p>The hitch is that they only seem to update those numbers twice a year — once right around now, and once again right before WWDC. As of today, those numbers are still from 4 June 2025. Last year, going from the Internet Archive, the numbers were still from iOS 17 (June 2024) <a href="https://web.archive.org/web/20250123123759/https://developer.apple.com/support/app-store/">on 23 January</a> last year, but were updated for iOS 18 <a href="https://web.archive.org/web/20250125013020/https://developer.apple.com/support/app-store/">on 24 January</a>. Here are those iOS 18 numbers from one year ago this week.</p>
+
+<p>iPhones released in the previous four years:</p>
+
+<ul>
+<li>iOS 18: 76%</li>
+<li>iOS 17: 19%</li>
+<li>iOS &lt; 17: 5%</li>
+</ul>
+
+<p>All iPhones:</p>
+
+<ul>
+<li>iOS 18: 68%</li>
+<li>iOS 17: 19%</li>
+<li>iOS &lt; 17: 13%</li>
+</ul>
+
+<p>iPads released in the previous four years:</p>
+
+<ul>
+<li>iPadOS 18: 63%</li>
+<li>iPadOS 17: 27%</li>
+<li>iPadOS &lt; 17: 10%</li>
+</ul>
+
+<p>All iPads:</p>
+
+<ul>
+<li>iPadOS 18: 53%</li>
+<li>iPadOS 17: 28%</li>
+<li>iPadOS &lt; 17: 19%</li>
+</ul>
+
+<p>(Apple itself manages to present these statistics without ever using the plurals <em>iPhones</em> or <em>iPads</em>, instead referring only to “devices”.)</p>
+
+<p>I presume, or at least hope, that they’ll update these numbers for iOS 26 any day now.</p>
+
+<div>
+<a  title="Permanent link to ‘Let’s Keep an Eye on Apple’s Own iOS Adoption Numbers’"  href="https://daringfireball.net/linked/2026/01/29/apples-own-ios-adoption-numbers">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Box Office Expectations for ‘Melania’</title>
 	<link rel="alternate" type="text/html" href="https://www.thewrap.com/industry-news/box-office/melania-box-office-prediction/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/ww4" />
@@ -2165,60 +2223,6 @@ for processing.</p>
 
 <div>
 <a  title="Permanent link to ‘Gurman Scoops ‘Campos’, Apple’s Codename for a Chatbot-Based Siri in Next Year’s Version 27 OSes’"  href="https://daringfireball.net/linked/2026/01/21/gurman-campos-apple-google-ai-partnership">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>More From The Verge: ‘What a Sony and TCL Partnership Means for the Future of TVs’</title>
-	<link rel="alternate" type="text/html" href="https://www.theverge.com/tech/864745/sony-tcl-tvs-partnership-explained?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkFtb3lXVUtwcTYiLCJwIjoiL3RlY2gvODY0NzQ1L3NvbnktdGNsLXR2cy1wYXJ0bmVyc2hpcC1leHBsYWluZWQiLCJleHAiOjE3Njk0NjQzMjYsImlhdCI6MTc2OTAzMjMyNn0.jn0NfURxbc6kV2dDcTvPelC8KFIlXD0uUk0OK6xIPfA" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wuu" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/21/verge-sony-tcl" />
-	<id>tag:daringfireball.net,2026:/linked//6.42582</id>
-	<published>2026-01-21T21:56:36Z</published>
-	<updated>2026-01-22T00:58:19Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>John Higgins, The Verge (gift link):</p>
-
-<blockquote>
-  <p>As of today, Sony already relies on different manufacturing
-partners to create its TV lineup. While display panel
-manufacturers never reveal who they sell panels to, Sony is likely
-already using panels for its LCD TVs from TCL China Star
-Optoelectronics Technology (CSOT), in addition to OLED panels from
-LG Display and Samsung Display. With this deal, a relationship
-between Sony and TCL CSOT LCD panels is guaranteed (although I
-doubt this would affect CSOT selling panels to other
-manufacturers). And with <a href="https://www.flatpanelshd.com/news.php?subaction=showfull&amp;id=1761118790">TCL CSOT building a new OLED
-facility</a>, there’s a potential future in which Sony OLEDs
-will also get panels from TCL. Although I should point out that
-we’re not sure yet if the new facility will have the ability to
-make TV-sized OLED panels, at least to start.</p>
-</blockquote>
-
-<p>The gist I take from this is that Sony is already dependent upon TCL. I think the mistake Sony made was ever ceding ownership and control over their display technology.</p>
-
-<blockquote>
-  <p>There’s some concern from fans that this could lead to a Sharp,
-Toshiba, or Pioneer situation where the names are licensed and the
-TVs produced are a shell of what the brands used to represent. I
-don’t see this happening with Sony. While the electronics side of
-the business hasn’t been as strong as in the past, Sony — and
-Bravia — is still a storied brand. It would take a lot for Sony
-to completely step aside and allow another company to slap its
-name on an inferior product. And based on TCL’s growth and
-technological improvements over the past few years, and <a href="https://www.theverge.com/tech/857325/the-gap-between-premium-and-budget-tv-brands-is-quickly-closing">the
-shrinking gap between premium and midrange TVs</a>, I don’t
-expect Sony TVs will suffer from a partnership with TCL.</p>
-</blockquote>
-
-<p>I’m heartened by Higgins’s optimism. (And I’ve heard good things <a href="https://daringfireball.net/linked/2026/01/21/sony-tcl-tvs">already</a> from DF readers who own TCL TVs.)</p>
-
-<div>
-<a  title="Permanent link to ‘More From The Verge: ‘What a Sony and TCL Partnership Means for the Future of TVs’’"  href="https://daringfireball.net/linked/2026/01/21/verge-sony-tcl">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
