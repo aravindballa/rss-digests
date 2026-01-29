@@ -7,7 +7,63 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-29T20:21:33Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-01-29T21:51:01Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>‘Backseat Software’</title>
+	<link rel="alternate" type="text/html" href="https://blog.mikeswanson.com/backseat-software/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/ww6" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/29/backseat-software" />
+	<id>tag:daringfireball.net,2026:/linked//6.42630</id>
+	<published>2026-01-29T21:50:32Z</published>
+	<updated>2026-01-29T21:51:01Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Mike Swanson:</p>
+
+<blockquote>
+  <p>What if your car worked like so many apps? You’re driving
+somewhere important…maybe running a little bit late. A few
+minutes into the drive, your car pulls over to the side of the
+road and asks:</p>
+
+<p><em>“How are you enjoying your drive so far?”</em></p>
+
+<p>Annoyed by the interruption, and even more behind schedule, you
+dismiss the prompt and merge back into traffic.</p>
+
+<p>A minute later it does it again.</p>
+
+<p><em>“Did you know I have a new feature? Tap here to learn more.”</em></p>
+
+<p>It blocks your speedometer with an overlay tutorial about the turn
+signal. It highlights the wiper controls and refuses to go away
+until you demonstrate mastery.</p>
+
+<p>Ridiculous, of course.</p>
+
+<p>And yet, this is how a lot of modern software behaves. Not because
+it’s broken, but because we’ve normalized an interruption model
+that would be unacceptable almost anywhere else.</p>
+
+<p>I’ve started to think of this as <em>backseat software</em>: the slow
+shift from software as a tool you operate to software as a channel
+that operates on you. Once a product learns it can talk back, it’s
+remarkably hard to keep it quiet.</p>
+
+<p>This post is about how we got here. Not overnight, but slowly. One
+reasonable step at a time.</p>
+</blockquote>
+
+<p>If that lede pulls you in, like it did for me, you’re going to love the rest of the essay. This is one for the ages. It’s so good.</p>
+
+<div>
+<a  title="Permanent link to ‘‘Backseat Software’’"  href="https://daringfireball.net/linked/2026/01/29/backseat-software">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Let’s Keep an Eye on Apple’s Own iOS Adoption Numbers</title>
 	<link rel="alternate" type="text/html" href="https://developer.apple.com/support/app-store/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/ww5" />
@@ -2150,83 +2206,6 @@ those skills, and people are collectively refining them.</p>
 
 	]]></content>
 	<title>[Sponsor] Meh</title></entry><entry>
-	<title>Gurman Scoops ‘Campos’, Apple’s Codename for a Chatbot-Based Siri in Next Year’s Version 27 OSes</title>
-	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2026-01-21/ios-27-apple-to-revamp-siri-as-built-in-iphone-mac-chatbot-to-fend-off-openai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc2OTAyNDk2NywiZXhwIjoxNzY5NjI5NzY3LCJhcnRpY2xlSWQiOiJUOFRXOVlLR0NURlUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.awOoIDGdEkCAvho8waoXR6VVVojI3jGvQHJeDjwcyrs" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wuv" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/21/gurman-campos-apple-google-ai-partnership" />
-	<id>tag:daringfireball.net,2026:/linked//6.42583</id>
-	<published>2026-01-21T22:18:57Z</published>
-	<updated>2026-01-22T19:12:53Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Mark Gurman, at Bloomberg (gift link):</p>
-
-<blockquote>
-  <p>Apple Inc. plans to revamp Siri later this year by turning the
-digital assistant into the company’s first artificial intelligence
-chatbot, thrusting the iPhone maker into a generative AI race
-dominated by OpenAI and Google. [...]</p>
-
-<p>The previously promised, non-chatbot update to Siri — retaining
-the current interface — is planned for iOS 26.4, due in the
-coming months. The idea behind that upgrade is to add features
-unveiled in 2024, including the ability to analyze on-screen
-content and tap into personal data. It also will be better at
-searching the web.</p>
-
-<p>The chatbot capabilities will come later in the year, according to
-the people, who asked not to be identified because the plans are
-private. The company aims to unveil that technology in June at its
-Worldwide Developers Conference and release it in September.</p>
-
-<p>Campos, which will have both voice- and typing-based modes, will
-be the primary new addition to Apple’s upcoming operating systems.
-The company is integrating it into iOS 27 and iPadOS 27, both
-code-named Rave, as well as macOS 27, internally known as Fizz.</p>
-</blockquote>
-
-<p>Apple ought to just go back to calling it “iOS” on both iPhone and iPad, because it’s always been the same system fundamentally. If they really do have the same codename, it sure suggests that Apple’s engineering teams see it that way too.</p>
-
-<p>The 180° turn on chatbots is welcome, and I think inevitable. The chat interface is just too useful. One of the most maddening things about Siri is that even when it’s helpful today, even when it gets things right, you can never refer back to previous interactions. I refer back to previous chats in ChatGPT almost every day.</p>
-
-<blockquote>
-  <p>Craig Federighi, senior vice president of software engineering,
-said in a June interview with Tom’s Guide that releasing a chatbot
-was never the company’s goal. Apple didn’t want to send users “off
-into some chat experience in order to get things done,” he said.</p>
-</blockquote>
-
-<p>I quote this paragraph only to point out that Gurman/Bloomberg could have, but chose not to, link to the <a href="https://www.tomsguide.com/ai/apple-intelligence/wwdc-interview-apples-craig-federighi-and-greg-joswiak-on-siri-delay-voice-ai-as-therapist-and-whats-next-for-apple-intelligence">interview with Federighi (and Joz) at Tom’s Guide</a>. Every single link in the article goes to another page at bloomberg.com. [<strong>Update, next day:</strong> As of this morning, Bloomberg’s article now has a link to the interview at Tom’s Guide. Nice.]</p>
-
-<blockquote>
-  <p>The iOS 26.4 update of Siri, the one before the true chatbot, will
-rely on a Google-developed system internally known as Apple
-Foundation Models version 10. That software will operate at 1.2
-trillion parameters, a measure of AI complexity. Campos, however,
-will significantly surpass those capabilities. The chatbot will
-run a higher-end version of the custom Google model, comparable to
-Gemini 3, that’s known internally as Apple Foundation Models
-version 11.</p>
-
-<p>In a potential policy shift for Apple, the two partners are
-discussing hosting the chatbot directly on Google servers running
-powerful chips known as TPUs, or tensor processing units. The more
-immediate Siri update, in contrast, will operate on Apple’s own
-Private Cloud Compute servers, which rely on high-end Mac chips
-for processing.</p>
-</blockquote>
-
-<p>A policy shift indeed, if that comes to pass.</p>
-
-<div>
-<a  title="Permanent link to ‘Gurman Scoops ‘Campos’, Apple’s Codename for a Chatbot-Based Siri in Next Year’s Version 27 OSes’"  href="https://daringfireball.net/linked/2026/01/21/gurman-campos-apple-google-ai-partnership">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/01/crazy_people_do_crazy_things" />
 	<link rel="shorturl" href="http://df4.us/wup" />
