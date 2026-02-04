@@ -7,7 +7,59 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-01-31T16:15:15Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-02-04T01:44:41Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>OpenAI’s Codex</title>
+	<link rel="alternate" type="text/html" href="https://simonwillison.net/2026/Feb/2/introducing-the-codex-app/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wwa" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/02/03/openai-codex" />
+	<id>tag:daringfireball.net,2026:/linked//6.42634</id>
+	<published>2026-02-04T01:40:24Z</published>
+	<updated>2026-02-04T01:44:41Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Simon Willison:</p>
+
+<blockquote>
+  <p>OpenAI just released a new macOS app for their Codex coding agent. I’ve had a few days of preview access — it’s a solid app that provides a nice UI over the capabilities of the Codex CLI agent and adds some interesting new features, most notably first-class support for Skills, and Automations for running scheduled tasks.</p>
+</blockquote>
+
+<p>Interesting, for sure. But <a href="https://daringfireball.net/linked/2026/02/03/xcode-ai-agentic-coding">super-duper</a> interesting? I don’t know.</p>
+
+<div>
+<a  title="Permanent link to ‘OpenAI’s Codex’"  href="https://daringfireball.net/linked/2026/02/03/openai-codex">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Xcode 26.3 ‘Unlocks the Power of Agentic Coding’</title>
+	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/ww9" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/02/03/xcode-ai-agentic-coding" />
+	<id>tag:daringfireball.net,2026:/linked//6.42633</id>
+	<published>2026-02-04T01:34:54Z</published>
+	<updated>2026-02-04T01:38:32Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Apple Newsroom:</p>
+
+<blockquote>
+  <p>Xcode 26.3 introduces support for agentic coding, a new way in Xcode for developers to build apps using coding agents such as Anthropic’s Claude Agent and OpenAI’s Codex. With agentic coding, Xcode can work with greater autonomy toward a developer’s goals — from breaking down tasks to making decisions based on the project architecture and using built-in tools.</p>
+</blockquote>
+
+<p>I don’t know if this is super-duper interesting news, but I think it’s super-duper interesting that Apple saw the need to release this now, not at WWDC in June.</p>
+
+<div>
+<a  title="Permanent link to ‘Xcode 26.3 ‘Unlocks the Power of Agentic Coding’’"  href="https://daringfireball.net/linked/2026/02/03/xcode-ai-agentic-coding">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple Reports Record-Breaking Revenue and Profit for Q1 FY26</title>
 	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/01/apple-reports-first-quarter-results/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/ww8" />
@@ -2108,83 +2160,6 @@ wife, they all have iPhones — but I’m holding strong.” [...]</p>
 
 <div>
 <a  title="Permanent link to ‘Jackass of the Week: Utah State Senate Majority Leader Kirk Cullimore’"  href="https://daringfireball.net/linked/2026/01/22/cullimore-utah-">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Taegan Goddard: ‘There’s No Going Back’</title>
-	<link rel="alternate" type="text/html" href="https://politicalwire.com/2026/01/20/trump-changed-the-presidency-and-theres-no-going-back/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wv0" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/22/theres-no-going-back" />
-	<id>tag:daringfireball.net,2026:/linked//6.42588</id>
-	<published>2026-01-22T20:30:26Z</published>
-	<updated>2026-01-22T20:31:25Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Taegan Goddard, writing at Political Wire, in a post that pairs perfectly <a href="https://daringfireball.net/linked/2026/01/22/velocity-is-the-new-authority">with Om Malik’s re: velocity bestowing authority</a>:</p>
-
-<blockquote>
-  <p>The new Democratic argument isn’t about restoring guardrails. It’s
-about moving fast — and using power unapologetically — to undo
-what Trump has done.</p>
-
-<p>New Jersey will inaugurate Mikie Sherrill as governor today, one
-of the party’s rising stars who steamrolled Republicans in
-November. She has promised to govern with urgency — leaning on
-emergency powers, acting decisively, and skipping the old
-incrementalism. This, she argues, is what voters now expect. She
-<a href="https://www.newyorker.com/news/the-lede/mikie-sherrill-intends-to-move-fast">told The New Yorker</a> that if Democrats don’t learn to work
-at Donald Trump’s pace, “we’re going to get played.”</p>
-
-<p>Rep. Alexandria Ocasio-Cortez <a href="https://www.notus.org/democrats/trump-executive-power-next-democratic-president">is even more explicit</a>: “In
-order for us to correct the abuses that are happening now, we have
-to act in the same capacities that Trump has given himself.”</p>
-</blockquote>
-
-<p>The only way to counter “move fast and break things” is to move fast and fix things.</p>
-
-<div>
-<a  title="Permanent link to ‘Taegan Goddard: ‘There’s No Going Back’’"  href="https://daringfireball.net/linked/2026/01/22/theres-no-going-back">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Om Malik: ‘Velocity Is the New Authority’</title>
-	<link rel="alternate" type="text/html" href="https://om.co/2026/01/21/velocity-is-the-new-authority-heres-why/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wuz" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/22/velocity-is-the-new-authority" />
-	<id>tag:daringfireball.net,2026:/linked//6.42587</id>
-	<published>2026-01-22T20:25:58Z</published>
-	<updated>2026-01-22T21:35:12Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Om Malik:</p>
-
-<blockquote>
-  <p>That’s why we get all our information as memes. The meme has
-become the metastory, the layer where meaning is carried. You
-don’t need to read the thing; you just need the gist, compressed
-and passed along in a sentence, an image, or a joke. It has taken
-the role of the headline. The machine accelerates this dynamic. It
-demands constant material; stop feeding it and the whole structure
-shakes. The point of the internet now is mostly to hook attention
-and push it toward commerce, to keep the engine running. Anyone
-can get their cut. [...]</p>
-
-<p>We built machines that prize acceleration and then act puzzled
-that everything feels rushed and slightly manic.</p>
-</blockquote>
-
-<p>Crackerjack essay. Malik is focused here on the ways we’ve changed media and how those changes to media have changed us — as a society, and as individuals. But I think it explains how the Trump 2.0 administration has been so effective (such that it can be said to be effective). They recognize that velocity is authority and are moving as fast as they can. It’s an adaptation to a new media age.</p>
-
-<div>
-<a  title="Permanent link to ‘Om Malik: ‘Velocity Is the New Authority’’"  href="https://daringfireball.net/linked/2026/01/22/velocity-is-the-new-authority">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
