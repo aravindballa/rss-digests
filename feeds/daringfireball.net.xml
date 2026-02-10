@@ -7,7 +7,28 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-02-04T01:44:41Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-02-10T01:43:40Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	
+	<link rel="alternate" type="text/html" href="https://workos.com/docs/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026&amp;utm_content=no_rebuild" />
+	<link rel="shorturl" href="http://df4.us/wwb" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2026/02/workos_pipes_ship_third-party_2" />
+	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.42635</id>
+	<author><name>Daring Fireball Department of Commerce</name></author>
+	<published>2026-02-10T01:43:40Z</published>
+	<updated>2026-02-10T01:43:40Z</updated>
+	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
+<p>Connecting user accounts to third-party APIs always comes with the same plumbing: OAuth flows, token storage, refresh logic, and provider-specific quirks.</p>
+
+<p><a href="https://workos.com/docs/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026&amp;utm_content=product_name_link">WorkOS Pipes</a> removes that overhead. Users connect services like GitHub, Slack, Google, Salesforce, and other supported providers through a <a href="https://workos.com/docs/widgets/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026&amp;utm_content=drop_in_widget">drop-in widget</a>. Your backend requests a valid access token from the Pipes API when needed, while Pipes handles credential storage and token refresh.</p>
+
+<p><a href="https://workos.com/docs/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026&amp;utm_content=simplify_integrations_cta">Simplify integrations with WorkOS Pipes</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS Pipes: Ship Third-Party Integrations Without Rebuilding OAuth’"  href="https://daringfireball.net/feeds/sponsors/2026/02/workos_pipes_ship_third-party_2">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+	<title>[Sponsor] WorkOS Pipes: Ship Third-Party Integrations Without Rebuilding OAuth</title></entry><entry>
 	<title>OpenAI’s Codex</title>
 	<link rel="alternate" type="text/html" href="https://simonwillison.net/2026/Feb/2/introducing-the-codex-app/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wwa" />
@@ -2164,29 +2185,6 @@ wife, they all have iPhones — but I’m holding strong.” [...]</p>
 
 	]]></content>
   </entry><entry>
-	
-	<link rel="alternate" type="text/html" href="https://meh.com/go/df" />
-	<link rel="shorturl" href="http://df4.us/wuw" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2026/01/meh_2" />
-	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.42584</id>
-	<author><name>Daring Fireball Department of Commerce</name></author>
-	<published>2026-01-21T22:23:45Z</published>
-	<updated>2026-01-26T23:30:32Z</updated>
-	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
-<p>Everything sucks. The whole world’s going to shit, especially our part of it, and it can feel like anything fun or silly is sticking your head in the sand.</p>
-
-<p>And yet. It doesn’t help to just be miserable. If you’re going to last, you’ve got to find your little moments of joy, or as a break from the misery.</p>
-
-<p>Buying our crap at Meh is not how you solve the world’s problems. We’re not that crass. But maybe a minute a day of reading our little write-up, and a couple minutes of catching up with the Meh community, of making a few new online friends, and yes, of occasionally picking up a weird gadget or strange snack you’ve never heard of is just a few minutes you get to take a break, not giving in to how bad everything else is.</p>
-
-<p>Of course we would say that. Of course we benefit from that. But it is also part of why we have a quirky write-up. Why we have a community. Why we’re selling whatever weird thing is over at Meh today.</p>
-
-<div>
-<a  title="Permanent link to ‘Meh’"  href="https://daringfireball.net/feeds/sponsors/2026/01/meh_2">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-	<title>[Sponsor] Meh</title></entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/01/crazy_people_do_crazy_things" />
 	<link rel="shorturl" href="http://df4.us/wup" />
