@@ -8,39 +8,79 @@
   <title>Derek Sivers blog</title>
   <updated>2000-01-01T00:00:00+00:00</updated>
   <entry>
-    <content type="html">&lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/NihilismNE&quot;&gt;&lt;img src=&quot;/images/book/NihilismNE.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/NihilismNE&quot;&gt;&lt;strong&gt;Nothing &amp; Everything&lt;/strong&gt;&lt;/a&gt; by Val N. Tine&lt;/figcaption&gt;&lt;/figure&gt;
+    <content type="html">&lt;style&gt;
+br { clear: both; margin: 2em 0 }
+figure { clear: both; margin-top: 4em }
+img { float: left; margin-right: 1em }
+figcaption { font-size: 1.2em }
+&lt;/style&gt;
+
+&lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/NihilismNE&quot;&gt;&lt;img src=&quot;/images/book/NihilismNE.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/NihilismNE&quot;&gt;&lt;strong&gt;Nothing &amp; Everything&lt;/strong&gt;&lt;/a&gt; by Val N. Tine&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;
 &lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/AwakenGiant&quot;&gt;&lt;img src=&quot;/images/book/AwakenGiant.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/AwakenGiant&quot;&gt;&lt;strong&gt;Awaken the Giant Within&lt;/strong&gt;&lt;/a&gt; by Tony Robbins&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;
 &lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/UsefulDelusions&quot;&gt;&lt;img src=&quot;/images/book/UsefulDelusions.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/UsefulDelusions&quot;&gt;&lt;strong&gt;Useful Delusions&lt;/strong&gt;&lt;/a&gt; by Shankar Vedantam&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;
 &lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/ThinkingInBets&quot;&gt;&lt;img src=&quot;/images/book/ThinkingInBets.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/ThinkingInBets&quot;&gt;&lt;strong&gt;Thinking in Bets&lt;/strong&gt;&lt;/a&gt; by Annie Duke&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;
 &lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/NegotiateAnything&quot;&gt;&lt;img src=&quot;/images/book/NegotiateAnything.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/NegotiateAnything&quot;&gt;&lt;strong&gt;You Can Negotiate Anything&lt;/strong&gt;&lt;/a&gt; by Herb Cohen&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;
 &lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/Disliked&quot;&gt;&lt;img src=&quot;/images/book/Disliked.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/Disliked&quot;&gt;&lt;strong&gt;The Courage to Be Disliked&lt;/strong&gt;&lt;/a&gt; by Ichiro Kishimi and Fumitake Koga&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;
 &lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/AgainstBelief&quot;&gt;&lt;img src=&quot;/images/book/AgainstBelief.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/AgainstBelief&quot;&gt;&lt;strong&gt;The Religious Case Against Belief&lt;/strong&gt;&lt;/a&gt; by James P. Carse&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;
 &lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/ReligionHowEvolved&quot;&gt;&lt;img src=&quot;/images/book/ReligionHowEvolved.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/ReligionHowEvolved&quot;&gt;&lt;strong&gt;How Religion Evolved&lt;/strong&gt;&lt;/a&gt; by Robin Dunbar&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;
 &lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/RighteousMind&quot;&gt;&lt;img src=&quot;/images/book/RighteousMind.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/RighteousMind&quot;&gt;&lt;strong&gt;The Righteous Mind&lt;/strong&gt;&lt;/a&gt; by Jonathan Haidt&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;
 &lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/Sapiens&quot;&gt;&lt;img src=&quot;/images/book/Sapiens.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/Sapiens&quot;&gt;&lt;strong&gt;Sapiens&lt;/strong&gt;&lt;/a&gt; by Yuval Noah Harari&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;
 &lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/CowsPigsWarsWitches&quot;&gt;&lt;img src=&quot;/images/book/CowsPigsWarsWitches.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/CowsPigsWarsWitches&quot;&gt;&lt;strong&gt;Cows, Pigs, Wars, and Witches&lt;/strong&gt;&lt;/a&gt; by Marvin Harris&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;
 &lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/BiggestBluff&quot;&gt;&lt;img src=&quot;/images/book/BiggestBluff.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/BiggestBluff&quot;&gt;&lt;strong&gt;The Biggest Bluff&lt;/strong&gt;&lt;/a&gt; by Maria Konnikova&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;
 &lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/HowWeDecide&quot;&gt;&lt;img src=&quot;/images/book/HowWeDecide.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/HowWeDecide&quot;&gt;&lt;strong&gt;How We Decide&lt;/strong&gt;&lt;/a&gt; by Jonah Lehrer&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;
 &lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/Switch&quot;&gt;&lt;img src=&quot;/images/book/Switch.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/Switch&quot;&gt;&lt;strong&gt;Switch&lt;/strong&gt;&lt;/a&gt; by Chip Heath and Dan Heath&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;
 &lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/HappinessHypothesis&quot;&gt;&lt;img src=&quot;/images/book/HappinessHypothesis.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/HappinessHypothesis&quot;&gt;&lt;strong&gt;The Happiness Hypothesis&lt;/strong&gt;&lt;/a&gt; by Jonathan Haidt&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;
 &lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/PragWJames&quot;&gt;&lt;img src=&quot;/images/book/PragWJames.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/PragWJames&quot;&gt;&lt;strong&gt;Pragmatism&lt;/strong&gt;&lt;/a&gt; by William James&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;
 &lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/Pragmatism&quot;&gt;&lt;img src=&quot;/images/book/Pragmatism.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/Pragmatism&quot;&gt;&lt;strong&gt;Pragmatism an Introduction&lt;/strong&gt;&lt;/a&gt; by Michael Bacon&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;
 &lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/PragmatismIntro&quot;&gt;&lt;img src=&quot;/images/book/PragmatismIntro.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/PragmatismIntro&quot;&gt;&lt;strong&gt;Introducing Pragmatism&lt;/strong&gt;&lt;/a&gt; by Cornelis de Waal&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;
 &lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/PragmatismWayOfLife&quot;&gt;&lt;img src=&quot;/images/book/PragmatismWayOfLife.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/PragmatismWayOfLife&quot;&gt;&lt;strong&gt;Pragmatism as a Way of Life&lt;/strong&gt;&lt;/a&gt; by Ruth Anna and Hilary Putnam&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;
 &lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/WilliamJames&quot;&gt;&lt;img src=&quot;/images/book/WilliamJames.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/WilliamJames&quot;&gt;&lt;strong&gt;Delphi Complete Works of William James&lt;/strong&gt;&lt;/a&gt; by William James&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;
 &lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/PhilosophyCI&quot;&gt;&lt;img src=&quot;/images/book/PhilosophyCI.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/PhilosophyCI&quot;&gt;&lt;strong&gt;Philosophy: a Complete Introduction&lt;/strong&gt;&lt;/a&gt; by Sharon Kaye&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;
 &lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/CBDummies&quot;&gt;&lt;img src=&quot;/images/book/CBDummies.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/CBDummies&quot;&gt;&lt;strong&gt;Cognitive Behavioral Therapy for Dummies&lt;/strong&gt;&lt;/a&gt; by Rob Willson and Rhena Branch&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;
 &lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/CBTphilo&quot;&gt;&lt;img src=&quot;/images/book/CBTphilo.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/CBTphilo&quot;&gt;&lt;strong&gt;The Philosophy of Cognitive-Behavioural Therapy&lt;/strong&gt;&lt;/a&gt; by Donald Robertson&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;
 &lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/AlterEgoEffect&quot;&gt;&lt;img src=&quot;/images/book/AlterEgoEffect.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/AlterEgoEffect&quot;&gt;&lt;strong&gt;The Alter Ego Effect&lt;/strong&gt;&lt;/a&gt; by Todd Herman&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;
 &lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/HowToLive&quot;&gt;&lt;img src=&quot;/images/book/HowToLive.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/HowToLive&quot;&gt;&lt;strong&gt;How to Live&lt;/strong&gt;&lt;/a&gt; by Sarah Bakewell&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;
 &lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/NotSoSmart&quot;&gt;&lt;img src=&quot;/images/book/NotSoSmart.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/NotSoSmart&quot;&gt;&lt;strong&gt;You Are Not So Smart&lt;/strong&gt;&lt;/a&gt; by David McRaney&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;
 &lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/Overachievement&quot;&gt;&lt;img src=&quot;/images/book/Overachievement.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/Overachievement&quot;&gt;&lt;strong&gt;Overachievement&lt;/strong&gt;&lt;/a&gt; by John Eliot&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;
 &lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/Scepticism&quot;&gt;&lt;img src=&quot;/images/book/Scepticism.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/Scepticism&quot;&gt;&lt;strong&gt;Scepticism: A Very Short Introduction&lt;/strong&gt;&lt;/a&gt; by Duncan Pritchard&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;
 &lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/BeingLogical&quot;&gt;&lt;img src=&quot;/images/book/BeingLogical.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/BeingLogical&quot;&gt;&lt;strong&gt;Being Logical&lt;/strong&gt;&lt;/a&gt; by D.Q. McInerny&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;
 &lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/EverythingObvious&quot;&gt;&lt;img src=&quot;/images/book/EverythingObvious.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/EverythingObvious&quot;&gt;&lt;strong&gt;Everything Is Obvious&lt;/strong&gt;&lt;/a&gt; by Duncan Watts&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;
 &lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/UsefulBelief&quot;&gt;&lt;img src=&quot;/images/book/UsefulBelief.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/UsefulBelief&quot;&gt;&lt;strong&gt;Useful Belief&lt;/strong&gt;&lt;/a&gt; by Chris Helder&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;
 &lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/DreamingInChinese&quot;&gt;&lt;img src=&quot;/images/book/DreamingInChinese.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/DreamingInChinese&quot;&gt;&lt;strong&gt;Dreaming in Chinese&lt;/strong&gt;&lt;/a&gt; by Deborah Fallows&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/LovingWhatIs&quot;&gt;&lt;img src=&quot;/images/book/LovingWhatIs.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/LovingWhatIs&quot;&gt;&lt;strong&gt;Loving What Is&lt;/strong&gt;&lt;/a&gt; by Byron Katie&lt;/figcaption&gt;&lt;/figure&gt;</content>
+&lt;br&gt;
+&lt;figure&gt;&lt;a href=&quot;https://sive.rs/book/LovingWhatIs&quot;&gt;&lt;img src=&quot;/images/book/LovingWhatIs.webp&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://sive.rs/book/LovingWhatIs&quot;&gt;&lt;strong&gt;Loving What Is&lt;/strong&gt;&lt;/a&gt; by Byron Katie&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;</content>
     <id>https://sive.rs/u61</id>
     <link href="https://sive.rs/u61"/>
     <title>More books on this subject</title>
@@ -51,32 +91,23 @@
     <content type="html">&lt;p&gt;
 I have so much more to say on this subject, but this book is done now because I believe short books are useful.
 So the conversation continues on the website:
-&lt;/p&gt;&lt;p&gt;
-&lt;img alt=&quot;QR-sive.rs-u.png&quot; src=&quot;data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAGMAAABjAQMAAAC19SzWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAADtSURBVDiNzdSxrQMhDAZgoyuueyyAxBp0rHQscAkLJCvReQ0kFjg6CiQ/oxSX5mKU4um54isQPxgAei/4xzoAttWoBEpSpb47CMgDScmEZjRCmNCt9TCnfc23GVHfHNUz2aV4fwFNOHd7qVGtq7cTvFLF/uNy4OCiEi+SdSpREiWjkB4+B0kVS2zl4QuJSgbW5Xl27FLE89DegaKkw3dNoPCV5ZOoLRxcp4UkHZ4bmwHsUxJXpazIVkmjt4nPQ9a41ys34bXCR43butzBxhmhPbzRE9o87G6JojgLmM1ZkjTetM8KS5X01z/Rd/oFPsXB2AR2ipAAAAAASUVORK5CYII=&quot;/&gt;
-&lt;br/&gt;
-&lt;strong&gt;
-&lt;a href=&quot;https://sive.rs/u&quot;&gt;sive.rs/u&lt;/a&gt;
-&lt;/strong&gt;
-&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://sive.rs/u&quot;&gt;sive.rs/u&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;
 There you will find more thoughts and stories around “Useful Not True”.
 Please email me any questions or thoughts.
 I reply to every one.
 Go to:
-&lt;/p&gt;&lt;p&gt;
-&lt;img alt=&quot;QR-sive.rs-contact.png&quot; src=&quot;data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAGMAAABjAQMAAAC19SzWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAADrSURBVDiNzdS7DYMwEAbg33LhMgtYYg13WQkvgJMFwkp0twZSFsCdC4vLoUQJDRxKEeUK5K846V4CvA78sSYgkc0DjKbMNdJoSB6aBp/YJ0I8oNbhdEzd+Z6PiGsbsKpsU9JfJB8/3W5KYl6y3xPc1ASPMHbh3mvKZHvyqbCuUg1VU+xV0wzbczO7Z397kq3CAfBG0xSay1m+rx52lKkiNDe8KtuTdFZqKk1WRb7DKLUkTRKTkyTLmmS37XIv3miSe0lyBWx7VYM8VxPclwzD4ZCW1DGqkrsGX2CzpuWuB9nD58q39Os/0Xd6ADoxnCI0ZGzGAAAAAElFTkSuQmCC&quot;/&gt;
-&lt;br/&gt;
-&lt;strong&gt;
-&lt;a href=&quot;https://sive.rs/contact&quot;&gt;sive.rs/contact&lt;/a&gt;
-&lt;/strong&gt;
-&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://sive.rs/contact&quot;&gt;sive.rs/contact&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;
 To share my books with others, get them directly from me with quantity discounts, at:
-&lt;/p&gt;&lt;p&gt;
-&lt;img alt=&quot;QR-sivers.com.png&quot; src=&quot;data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAGMAAABjAQMAAAC19SzWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAADrSURBVDiNzdSxccUgDABQcS7cfRbQndegY6WwAI4XsFeiYw3uWMDqXHBf4Tv5+b/Bokt0FLxKSAiA3wP+sXYAd+AcQEkiLn7MFOtGUsA5Ql2uRwyqT94k1yMuZ4bfkzX1qC+ie6u2pRoU8vbqYFO7QQ95eWa4EuTdgj5AS+KIOuTVZJJ0N7zCsMWkJBGDN8Pr/traTb7bdLPTJgqSDsM6PjvYFsXpE3g5kpOV5lgAUEuqUS9Nsay69WcekvSYF0bF3/VdKmAdQICJOvRh63PhpUN+xJv96dmVuLhYdEBR51zXt5JJ0t/+S736AoW0qMdhmzc1AAAAAElFTkSuQmCC&quot;/&gt;
-&lt;br/&gt;
-&lt;strong&gt;
-&lt;a href=&quot;https://sivers.com/&quot;&gt;sivers.com&lt;/a&gt;
-&lt;/strong&gt;
-&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://sivers.com/&quot;&gt;sivers.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;
 I hope you found this book useful, not true.
 &lt;/p&gt;&lt;p&gt;
 —— Derek Sivers
@@ -86,7 +117,7 @@ New Zealand
 June 2024 (Saturday, winter)
 &lt;/p&gt;
 
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u60.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u60.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u60</id>
     <link href="https://sive.rs/u60"/>
     <title>What next?</title>
@@ -125,7 +156,7 @@ It’s a part of a rich life.
 And even &lt;that&gt; is reframing.
 It’s a useful belief that has helped me love people and pets, again and again.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u59.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u59.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u59</id>
     <link href="https://sive.rs/u59"/>
     <title>Reframing death</title>
@@ -160,7 +191,7 @@ Your self-image doesn’t matter as much.
 When you realize what you need to &lt;do&gt;, it doesn’t mean that’s who you need to &lt;be&gt;.
 You can just pretend.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u58.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u58.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u58</id>
     <link href="https://sive.rs/u58"/>
     <title>You are what you pretend to be</title>
@@ -185,7 +216,7 @@ Use your wisdom to decide.
 Don’t be discouraged when you get off course.
 A big benefit of keeping a journal is that you can &lt;go back and review it&gt;, to remind yourself what you’re doing and why.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u57.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u57.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u57</id>
     <link href="https://sive.rs/u57"/>
     <title>Keep tuning and adjusting</title>
@@ -225,7 +256,7 @@ But for anything else, take the first step immediately, without hesitation.
 Start momentum.
 &lt;/strong&gt;
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u56.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u56.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u56</id>
     <link href="https://sive.rs/u56"/>
     <title>Take the first step immediately</title>
@@ -263,7 +294,7 @@ That’s enough.
 &lt;/p&gt;&lt;p&gt;
 No need to argue that it’s true.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u55.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u55.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u55</id>
     <link href="https://sive.rs/u55"/>
     <title>Why your choice is wrong</title>
@@ -289,7 +320,7 @@ We know ourselves through others.
 If people say you have nice eyes, then you must have nice eyes.
 When your friends acknowledge your belief and echo it back to you, it really feels like reality.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u54.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u54.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u54</id>
     <link href="https://sive.rs/u54"/>
     <title>Talk with friends to solidify it</title>
@@ -322,7 +353,7 @@ Trick the trickster in advance.
 &lt;/p&gt;&lt;p&gt;
 Come back and review your journal often, so you can remind yourself of your decision, reasons, vision, and plan.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u53.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u53.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u53</id>
     <link href="https://sive.rs/u53"/>
     <title>Private journal to internalize it</title>
@@ -351,7 +382,7 @@ Run the program.
 Stop interrupting yourself with new information.
 Let yourself execute one plan of action, and see it through to fruition.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u52.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u52.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u52</id>
     <link href="https://sive.rs/u52"/>
     <title>No new instructions for the computer</title>
@@ -404,7 +435,7 @@ Ignore that explorer inside of you that says, “What if I tried something else,
 &lt;/p&gt;&lt;p&gt;
 You can go back to exploring after you arrive at your destination.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u51.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u51.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u51</id>
     <link href="https://sive.rs/u51"/>
     <title>From explorer to self-leader</title>
@@ -442,7 +473,7 @@ You make it part of your identity, and act accordingly.
 You become effective.
 You do the work that makes it a great choice.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u50.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u50.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u50</id>
     <link href="https://sive.rs/u50"/>
     <title>How to decide and make the best choice</title>
@@ -466,13 +497,13 @@ If I put questions here, I’d think of better ones after the book is published.
 &lt;/p&gt;&lt;p&gt;
 So here’s what we’ll do:
 &lt;strong&gt;
-Go to &lt;sive.rs/u&gt;
+Go to &lt;a href=&quot;https://sive.rs/u&quot;&gt;sive.rs/u&lt;/a&gt;
 &lt;/strong&gt;
 &lt;/p&gt;&lt;p&gt;
 That’s the permanent website for this book, where I’ll keep an ever-improving collection of helpful questions, free for you to take and use whenever you want.
 I hope you agree that it’s better than this page of this book could ever be.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u49.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u49.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u49</id>
     <link href="https://sive.rs/u49"/>
     <title>An awesome collection of great questions</title>
@@ -514,7 +545,7 @@ But in a traditional New Orleans funeral, musicians accompany the coffin down th
 The funeral is a parade to honor that person’s life, and the focus turns from grief to appreciation.
 Switching from sad to happy is always an option, even at the worst times in life.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u48.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u48.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u48</id>
     <link href="https://sive.rs/u48"/>
     <title>Five tiny tales of reframing</title>
@@ -615,7 +646,7 @@ If I tend to walk away, I choose to stay.
 When I notice I’m prejudiced against something, I choose to get to know it and appreciate it.
 These have been the best beliefs for personal growth.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u47.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u47.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u47</id>
     <link href="https://sive.rs/u47"/>
     <title>Traits of useful perspectives</title>
@@ -653,7 +684,7 @@ In the spirit of all this, I wrote a book called “&lt;How to Live&gt;” that 
 It’s meant to be used like the oblique strategies or the paintings of circles.
 I consider this book (“Useful Not True”) to be like a prequel for that, so consider reading it next, in the mindset of reframing and finding other perspectives.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u46.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u46.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u46</id>
     <link href="https://sive.rs/u46"/>
     <title>Expand your repertoire</title>
@@ -694,7 +725,7 @@ But if you &lt;know&gt; there’s actually a diamond inside, you’ll sift throu
 Your mind has a lot of trash, and often tells you there’s no way out of your situation — there’s nothing great about this.
 But if you &lt;decide&gt; that there is, you’ll keep looking until you find it.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u45.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u45.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u45</id>
     <link href="https://sive.rs/u45"/>
     <title>Diamond in the trash</title>
@@ -742,7 +773,7 @@ But don’t just ingest them.
 You have to really answer them.
 &lt;/strong&gt;
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u44.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u44.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u44</id>
     <link href="https://sive.rs/u44"/>
     <title>Answer great questions</title>
@@ -785,7 +816,7 @@ Other people’s judgements, values, and meanings are also inside of you, but yo
 If you don’t choose your perspectives then you leave them up to mood, manipulation, or your worst impulses.
 Control your thoughts or be controlled.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u43.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u43.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u43</id>
     <link href="https://sive.rs/u43"/>
     <title>Who chooses your (next) thoughts?</title>
@@ -813,7 +844,7 @@ Where you felt haunted, you’ll feel at peace.
 &lt;/p&gt;&lt;p&gt;
 These are the powers of reframing.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u42.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u42.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u42</id>
     <link href="https://sive.rs/u42"/>
     <title>The most useful part of this book</title>
@@ -885,7 +916,7 @@ The girl seemed satisfied, and walked back to the balcony to listen again.
 &lt;img alt=&quot;orchestra.png&quot; src=&quot;data:image/png;base64, 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&quot;/&gt;
 &lt;/p&gt;
 
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u41.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u41.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u41</id>
     <link href="https://sive.rs/u41"/>
     <title>Philosophies are instruments</title>
@@ -924,7 +955,7 @@ What do you plan to do with it?
 &lt;/strong&gt;
 What’s the real outcome?
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u40.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u40.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u40</id>
     <link href="https://sive.rs/u40"/>
     <title>What is “the truth” really for?</title>
@@ -1024,7 +1055,7 @@ I love that nothing, in itself, has built-in meaning.
 I love the creative power of choosing my own.
 Meanings are useful, not true.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u39.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u39.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u39</id>
     <link href="https://sive.rs/u39"/>
     <title>Life is _______</title>
@@ -1060,7 +1091,7 @@ So the reverse applies as well.
 If a meaning is holding you back, you can actively doubt it, question it, and find evidence against it, to stop believing it.
 Then it loses its power.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u38.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u38.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u38</id>
     <link href="https://sive.rs/u38"/>
     <title>Placebo meanings</title>
@@ -1090,7 +1121,7 @@ We find proof to support whatever perspective we need to believe.
 &lt;/p&gt;&lt;p&gt;
 We don’t have to argue what’s in the magic mirror, which viewpoints are true or not, because everyone needs different beliefs for their different situations.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u37.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u37.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u37</id>
     <link href="https://sive.rs/u37"/>
     <title>Magic mirror shows what you need to believe</title>
@@ -1127,7 +1158,7 @@ You don’t need to decide which one is right.
 You can use one meaning to get you out of bed, and another to sleep well at night.
 Which meaning leads to the actions you need now?
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u36.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u36.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u36</id>
     <link href="https://sive.rs/u36"/>
     <title>Which perspective empowers you?</title>
@@ -1166,7 +1197,7 @@ Likewise:
 True is the enemy of useful.
 &lt;/strong&gt;
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u35.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u35.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u35</id>
     <link href="https://sive.rs/u35"/>
     <title>Judge the contents, not the box</title>
@@ -1200,7 +1231,7 @@ They need everything to fit — consistent and congruent.
 The rest of us &lt;use whatever tool helps us do what we need to do&gt;.
 When someone refuses to use a tool because it’s not perfect, they’re probably not actually doing the work.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u34.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u34.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u34</id>
     <link href="https://sive.rs/u34"/>
     <title>Carpenters’ tools</title>
@@ -1257,7 +1288,7 @@ Beliefs exist to guide your actions.
 &lt;/strong&gt;
 If you’re not acting in alignment with your beliefs, you’ve missed the point of beliefs.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u33.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u33.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u33</id>
     <link href="https://sive.rs/u33"/>
     <title>Religion is action, not belief</title>
@@ -1280,7 +1311,7 @@ Is it ultimately more useful to benefit only yourself, or benefit others?
 &lt;/p&gt;&lt;p&gt;
 It depends on who you want to be and what helps you feel at peace.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u32.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u32.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u32</id>
     <link href="https://sive.rs/u32"/>
     <title>Useful?</title>
@@ -1318,7 +1349,7 @@ Wrong question.
 Which belief leads to the action you need now?
 &lt;/strong&gt;
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u31.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u31.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u31</id>
     <link href="https://sive.rs/u31"/>
     <title>Beliefs → emotions → actions</title>
@@ -1347,7 +1378,7 @@ Ideas and beliefs are tools.
 &lt;/strong&gt;
 Choose them for the desired effect.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u30.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u30.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u30</id>
     <link href="https://sive.rs/u30"/>
     <title>A daily run and imagination</title>
@@ -1392,7 +1423,7 @@ Another definition of the word “true” means straight and accurate.
 And the word “bias” means angled or curved.
 So we can choose beliefs that are not true because they’re useful to compensate for our bias.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u29.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u29.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u29</id>
     <link href="https://sive.rs/u29"/>
     <title>Bowling: curve into the target</title>
@@ -1426,7 +1457,7 @@ Out here, they don’t exist.
 &lt;/p&gt;&lt;p&gt;
 I find this a better starting place for reframing.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u28.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u28.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u28</id>
     <link href="https://sive.rs/u28"/>
     <title>Fill your senses with reality</title>
@@ -1467,7 +1498,7 @@ Your instinct never goes away.
 But let your wisdom have the final say.
 &lt;/p&gt;
 
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u27.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u27.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u27</id>
     <link href="https://sive.rs/u27"/>
     <title>Your first thought is an obstacle</title>
@@ -1508,7 +1539,7 @@ That’s that.
 Instead, you might be using that word “believe” to mean “my identity depends on this”.
 Especially if you feel the need to tell everyone your beliefs.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u26.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u26.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u26</id>
     <link href="https://sive.rs/u26"/>
     <title>The more emotional the belief, the less likely it’s true</title>
@@ -1546,7 +1577,7 @@ You have to say “I believe …” because it’s not the only answer.
 It’s not a fact.
 (Not yet.)
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u25.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u25.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u25</id>
     <link href="https://sive.rs/u25"/>
     <title>Beliefs are not facts</title>
@@ -1595,7 +1626,7 @@ Beliefs don’t exist outside the mind.
 (Have you ever seen one in nature?)
 All beliefs are make believe.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u24.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u24.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u24</id>
     <link href="https://sive.rs/u24"/>
     <title>Make believe</title>
@@ -1626,7 +1657,7 @@ Take these paintings out under a bright light to be reframed.
 When you remove the frame and flip them upside-down, you can make sure they’re hanging the right way.
 Or decide to throw them away.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u23.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u23.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u23</id>
     <link href="https://sive.rs/u23"/>
     <title>Hanging inherited paintings</title>
@@ -1669,7 +1700,7 @@ It’s probably a misinterpretation — not realizing that happened to everyone.
 Next time you look back, look again.
 Replay your past from different angles until you find the lesson or closure you need.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u22.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u22.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u22</id>
     <link href="https://sive.rs/u22"/>
     <title>Re-edit your mind’s movies</title>
@@ -1709,7 +1740,7 @@ Since old beliefs were disproven, the hero takes in reality with clear eyes.
 He carefully proceeds with less confidence and more humility.
 So can you.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u21.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u21.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u21</id>
     <link href="https://sive.rs/u21"/>
     <title>You can’t trust your mind</title>
@@ -1745,7 +1776,7 @@ You have an accent.
 Since you know other people’s beliefs aren’t true, you have to realize that yours are also not true.
 &lt;/strong&gt;
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u20.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u20.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u20</id>
     <link href="https://sive.rs/u20"/>
     <title>You are the strange one</title>
@@ -1785,7 +1816,7 @@ Consider what incentives made &lt;your&gt; beliefs useful.
 This book, start to finish, is entirely about you.
 Maybe you’re full of nonsense, thinking you’re so right, thinking your beliefs are actually true.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u19.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u19.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u19</id>
     <link href="https://sive.rs/u19"/>
     <title>That was about you, not them</title>
@@ -1817,7 +1848,7 @@ Strip away interpretations to see the few actual facts.
 We’re held back not by raw facts, but by the meanings we give them.
 &lt;/strong&gt;
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u18.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u18.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u18</id>
     <link href="https://sive.rs/u18"/>
     <title>Bridge guard, revisited</title>
@@ -1861,7 +1892,7 @@ If belief or doubt makes you do something good, then choose that view because it
 &lt;/strong&gt;
 If you’ll do nothing, either way, then never mind.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u17.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u17.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u17</id>
     <link href="https://sive.rs/u17"/>
     <title>Fake or real? True or false? So what?</title>
@@ -1893,7 +1924,7 @@ But yet, to land on the moon, or launch a satellite into orbit, we still use New
 The most accurate theory is not always the most useful.
 And a rule of thumb can be far from true, but good enough to get you where you need to go.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u16.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u16.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u16</id>
     <link href="https://sive.rs/u16"/>
     <title>Even science isn’t true</title>
@@ -1938,7 +1969,7 @@ Instead of black or white, right or wrong, it will probably be degrees, like “
 &lt;/p&gt;&lt;p&gt;
 When they realize their confidence is less than 100%, they can consider other possibilities.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u15.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u15.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u15</id>
     <link href="https://sive.rs/u15"/>
     <title>Wanna bet?</title>
@@ -1979,7 +2010,7 @@ But we never have all the information — only interpretation.
 One story based on one point of view: that’s what we call “&lt;the&gt; past”.
 &lt;/strong&gt;
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u14.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u14.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u14</id>
     <link href="https://sive.rs/u14"/>
     <title>The past is not true</title>
@@ -2013,7 +2044,7 @@ Everybody had misremembered their own facts.
 Memories feel like facts, but they’re not.
 People don’t doubt their memory, but you should.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u13.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u13.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u13</id>
     <link href="https://sive.rs/u13"/>
     <title>Memories are not accurate</title>
@@ -2063,7 +2094,7 @@ Let go of the need for a reason.
 Ignore their explanations.
 The only true facts are their actions.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u12.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u12.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u12</id>
     <link href="https://sive.rs/u12"/>
     <title>The brain invents explanations</title>
@@ -2098,7 +2129,7 @@ When someone believes something that seems crazy to you, &lt;consider what incen
 It helps you understand someone, and helps you feel less defensive.
 It helps you separate the person and the actions — to see their beliefs not as who they are, but as something they’re currently holding for a purpose.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u11.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u11.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u11</id>
     <link href="https://sive.rs/u11"/>
     <title>Try to find their incentives</title>
@@ -2142,7 +2173,7 @@ Using formal manners here in our home is rude because it treats us like stranger
 Manners, norms, and meanings are never true.
 This is important to remember when people tell you this is good, that is bad, this means that, etc.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u10.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u10.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u10</id>
     <link href="https://sive.rs/u10"/>
     <title>Cultural meanings</title>
@@ -2186,7 +2217,7 @@ They might say you’re a bad person for not doing what they want you to do.
 But that’s not true.
 Maybe they’re just disappointed that you’re not taking their wish as your command.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u09.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u09.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u09</id>
     <link href="https://sive.rs/u09"/>
     <title>Obligations are not true</title>
@@ -2249,7 +2280,7 @@ It’s a reminder that the way things are is arbitrary, and not the only way.
 The world is as negotiable as a flea market in Marrakesh.
 Only a fool doesn’t haggle.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u08.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u08.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u08</id>
     <link href="https://sive.rs/u08"/>
     <title>Rules are a starting point, not the final answer</title>
@@ -2310,7 +2341,7 @@ So the rest did the same.
 &lt;/p&gt;&lt;p&gt;
 The guard smiled with pride.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u07.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u07.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u07</id>
     <link href="https://sive.rs/u07"/>
     <title>Bridge guard</title>
@@ -2354,7 +2385,7 @@ What’s left are the feelings and meanings.
 &lt;/strong&gt;
 We can’t change what happened, but we can change the meaning we give it, which changes how we feel about it.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u06.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u06.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u06</id>
     <link href="https://sive.rs/u06"/>
     <title>Separate events and interpretation</title>
@@ -2380,7 +2411,7 @@ Nobody bonds over facts.
 &lt;/strong&gt;
 They have more incentive to share their thoughts, which are never necessarily true.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u05.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u05.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u05</id>
     <link href="https://sive.rs/u05"/>
     <title>People share perspectives, not facts</title>
@@ -2412,7 +2443,7 @@ Facts can be true, while the perspective is not.
 No picture is the whole picture.
 It’s just one of many possible angles.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u04.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u04.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u04</id>
     <link href="https://sive.rs/u04"/>
     <title>No picture is the whole picture</title>
@@ -2449,7 +2480,7 @@ But they don’t need to say that.
 Instead, we need to know that, and hear it that way.
 No matter how much authority or conviction they have, no matter how respected or famous they are, their statements are just one biased point of view.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u03.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u03.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u03</id>
     <link href="https://sive.rs/u03"/>
     <title>Perspectives feel real</title>
@@ -2497,7 +2528,7 @@ It’s their metaphorical time zone, which is probably different from yours.
 They’re not &lt;wrong&gt;.
 It’s just not the only answer.
 &lt;/p&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u02.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u02.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u02</id>
     <link href="https://sive.rs/u02"/>
     <title>What time is it?</title>
@@ -2542,7 +2573,7 @@ Reframe: Find better perspectives.
 &lt;/li&gt;&lt;li&gt;
 Adopt what works for you now.
 &lt;/li&gt;&lt;/ol&gt;
-&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u01.webp&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
+&lt;a href=&quot;https://sive.rs/u&quot; title=&quot;Useful Not True book by Derek Sivers&quot;&gt;&lt;img src=&quot;/images/u01.png&quot; alt=&quot;Useful Not True book chapter cover&quot;&gt;&lt;/a&gt;</content>
     <id>https://sive.rs/u01</id>
     <link href="https://sive.rs/u01"/>
     <title>What’s this about?</title>
