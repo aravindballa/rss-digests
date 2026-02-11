@@ -7,7 +7,47 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-02-10T01:43:40Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-02-11T21:04:07Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Apple Creator Studio Usage Restrictions</title>
+	<link rel="alternate" type="text/html" href="https://arstechnica.com/gadgets/2026/01/seven-things-to-know-about-how-apples-creator-studio-subscriptions-work/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wwc" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/02/11/apple-creator-studio-usage-restrictions" />
+	<id>tag:daringfireball.net,2026:/linked//6.42636</id>
+	<published>2026-02-11T21:04:07Z</published>
+	<updated>2026-02-11T21:04:07Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Andrew Cunningham, writing for Ars Technica at the end of January:</p>
+
+<blockquote>
+  <p>Apple also outlines a number of usage restrictions for the
+generative AI features that rely on external services. Apple says
+that, “at a minimum,” users will be able to generate 50 images, 50
+presentations of between 8 to 10 slides each, and to generate
+presenter notes in Keynote for 700 slides. More usage may be
+possible, but this depends on “the complexity of the queries,
+server availability, and network availability.”</p>
+</blockquote>
+
+<p><a href="https://mastodon.social/@stroughtonsmith/116008952067084300">Steven Steven Troughton-Smith</a>, last week, after creating an entire app with OpenAI’s Codex:</p>
+
+<blockquote>
+  <p>This entire app used 7% of my weekly Codex usage limit. Compare
+that to a single (awful) slideshow in Keynote using 47% of my
+monthly Apple Creator Studio usage limit 👀</p>
+</blockquote>
+
+<p>Something feels off here, by at least an order of magnitude (maybe two?), that creating an entire good app costs way less than creating one shitty slide deck in Keynote. It should be the other way around.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Creator Studio Usage Restrictions’"  href="https://daringfireball.net/linked/2026/02/11/apple-creator-studio-usage-restrictions">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://workos.com/docs/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026&amp;utm_content=no_rebuild" />
 	<link rel="shorturl" href="http://df4.us/wwb" />
@@ -2141,46 +2181,6 @@ despite Ternus’s role.</p>
 
 <div>
 <a  title="Permanent link to ‘Ternus Now Overseeing Design at Apple, Reports Gurman’"  href="https://daringfireball.net/linked/2026/01/22/ternus-design-apple">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Jackass of the Week: Utah State Senate Majority Leader Kirk Cullimore</title>
-	<link rel="alternate" type="text/html" href="https://www.ksl.com/article/51436458/iphone-vs-android-this-lawmaker-wants-utah-to-officially-weigh-in" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wv1" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/22/cullimore-utah-" />
-	<id>tag:daringfireball.net,2026:/linked//6.42589</id>
-	<published>2026-01-22T20:51:34Z</published>
-	<updated>2026-01-22T20:51:35Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Bridger Beal-Cvetko and Daniel Woodruff, reporting for KSL News:</p>
-
-<blockquote>
-  <p><a href="https://le.utah.gov/~2026/bills/static/SB0138.html">SB138</a>, sponsored by Cullimore, R-Sandy, would make Android, the
-world’s most popular mobile device operating system, an official
-state symbol, joining the ranks of the official state cooking pot
-(the dutch oven), the official state crustacean (the brine
-shrimp), and the official state mushroom (the porcini).</p>
-
-<p>“Someday, everybody with an iPhone will realize that the
-technology is better on Android,” Cullimore told reporters during
-a media availability on Wednesday, the second day of the
-legislative session.</p>
-
-<p>But, he added, “I’m the only one in my family — all my kids, my
-wife, they all have iPhones — but I’m holding strong.” [...]</p>
-
-<p>“I don’t expect this to really get out of committee,” he said.</p>
-</blockquote>
-
-<p>(<a href="https://www.macrumors.com/2026/01/22/utah-iphone-vs-android/">Via Joe Rossignol</a>.)</p>
-
-<div>
-<a  title="Permanent link to ‘Jackass of the Week: Utah State Senate Majority Leader Kirk Cullimore’"  href="https://daringfireball.net/linked/2026/01/22/cullimore-utah-">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
