@@ -7,7 +7,60 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-02-12T17:24:34Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-02-15T23:39:15Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>WorkOS Pipes</title>
+	<link rel="alternate" type="text/html" href="https://workos.com/docs/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026&amp;utm_content=no_rebuild" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wwg" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/02/15/workos-pipes" />
+	<id>tag:daringfireball.net,2026:/linked//6.42640</id>
+	<published>2026-02-15T23:39:14Z</published>
+	<updated>2026-02-15T23:39:15Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks to WorkOS for sponsoring DF last week. Connecting user accounts to third-party APIs always comes with the same plumbing: OAuth flows, token storage, refresh logic, and provider-specific quirks. WorkOS Pipes removes that overhead. Users connect services like GitHub, Slack, Google, Salesforce, and other supported providers through a drop-in widget. Your back end requests a valid access token from the Pipes API when needed, while Pipes handles credential storage and token refresh. That’s it.</p>
+
+<p><a href="https://workos.com/docs/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026&amp;utm_content=simplify_integrations_cta">Simplify your integrations with WorkOS Pipes</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS Pipes’"  href="https://daringfireball.net/linked/2026/02/15/workos-pipes">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Joanna Stern Signs Off From The Wall Street Journal</title>
+	<link rel="alternate" type="text/html" href="https://www.wsj.com/tech/personal-tech/12-years-consumer-tech-phones-ev-ai-74107804?st=YtTDdM&amp;reflink=desktopwebshare_permalink" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wwf" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/02/15/joanna-stern-wsj-signoff" />
+	<id>tag:daringfireball.net,2026:/linked//6.42639</id>
+	<published>2026-02-15T23:37:04Z</published>
+	<updated>2026-02-15T23:37:05Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Joanna Stern (last week):</p>
+
+<blockquote>
+  <p>After 12 years with The Wall Street Journal, this is my final
+column and video as a full-time employee. I’m off to build
+something new and independent. I’ll still pop up on these pages
+and at WSJ events from time to time. Can’t get rid of me that
+easily! Before I go, I wanted to reflect on the past dozen years
+in tech — in a letter to my first-month-on-the-job self.</p>
+</blockquote>
+
+<p>The video version of her sign-off column is worth it for the Velveeta gag alone.</p>
+
+<div>
+<a  title="Permanent link to ‘Joanna Stern Signs Off From The Wall Street Journal’"  href="https://daringfireball.net/linked/2026/02/15/joanna-stern-wsj-signoff">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Gurman: New Siri Might Be Delayed Again</title>
 	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2026-02-11/apple-s-ios-26-4-siri-update-runs-into-snags-in-internal-testing-ios-26-5-27" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wwe" />
@@ -2101,94 +2154,6 @@ information with Walmart.</p>
 
 <div>
 <a  title="Permanent link to ‘Why Walmart Still Doesn’t Support Apple Pay’"  href="https://daringfireball.net/linked/2026/01/22/walmart-apple-pay">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Trump Administration Shares Doctored Photo of Minnesota Activist After Her Arrest</title>
-	<link rel="alternate" type="text/html" href="https://www.notus.org/trump-white-house/white-house-fake-photo-of-minnesota-activist-nekima-levy-armstrong-arrest" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wv5" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/22/trump-admin-doctored-images" />
-	<id>tag:daringfireball.net,2026:/linked//6.42593</id>
-	<published>2026-01-22T22:44:59Z</published>
-	<updated>2026-01-23T01:35:51Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Violet Jira, reporting for NOTUS:</p>
-
-<blockquote>
-  <p>The White House communications team <a href="https://x.com/WhiteHouse/status/2014365986388951194?s=20">posted a digitally altered
-photo of Nekima Levy Armstrong,</a> a Minnesota social
-justice activist, on Thursday that makes it appear that she was
-weeping <a href="https://www.notus.org/immigration/pam-bondi-arrest-minneapolis-church-protesters-ice">during her arrest by federal agents</a>.</p>
-
-<p>The image is highly realistic, bearing no watermark or other
-indicator that the image has been doctored. The change is only
-apparent when compared to a <a href="https://x.com/Sec_Noem/status/2014357826081071513?s=20">different version of the same image
-posted by the Department of Homeland Security</a> earlier in
-the day.</p>
-
-<p>The White House, which has adopted a combative, flippant tone on
-its widely viewed social media pages, drew some backlash for the
-post online. In response, White House deputy communications
-director Kaelan Dorr called the image a “meme.”</p>
-</blockquote>
-
-<p>It’s not a meme. It’s propaganda — an altogether false image presented as an actual photograph.</p>
-
-<div>
-<a  title="Permanent link to ‘Trump Administration Shares Doctored Photo of Minnesota Activist After Her Arrest’"  href="https://daringfireball.net/linked/2026/01/22/trump-admin-doctored-images">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>The Information: ‘With Google Deal, Apple’s Craig Federighi Plots a Cautious Course in AI’</title>
-	<link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/google-deal-apples-craig-federighi-plots-cautious-course-ai" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wv4" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/22/information-federighi" />
-	<id>tag:daringfireball.net,2026:/linked//6.42592</id>
-	<published>2026-01-22T22:33:05Z</published>
-	<updated>2026-01-24T03:43:19Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Aaron “<a href="https://daringfireball.net/linked/2025/03/11/wsj-tech-layoffs">Homeboy</a>” Tilley and Wayne Ma, reporting for The Information (paywalled, alas, and with a miserly gift-link policy):</p>
-
-<blockquote>
-  <p>But there are also potential risks to making Federighi head of AI.
-Giving oversight of AI to him reflects Apple’s cautious approach
-to the technology. He is known at Apple as a penny-pincher who
-keeps a tight rein on salaries and hesitates to invest in risky
-projects when the payoff from them isn’t clear, according to
-people who have worked with him. He tends to scrutinize every
-detail of his team’s expenses, down to their budgets for bananas
-and other office snacks, those people said.</p>
-
-<p>Meanwhile, Apple’s rivals are pouring vast amounts of capital into
-AI, building data centers and paying fortunes to woo AI
-researchers.</p>
-</blockquote>
-
-<p>I have no idea what Federighi’s stance is on break-room bananas, but it seems a stretch to think it offers clues to Apple’s strategy on data centers.</p>
-
-<blockquote>
-  <p>For years, lieutenants of Federighi would try to get him on board
-with AI. He often shot those efforts down, former Apple executives
-said. For example, he rejected proposals from his team to use AI
-to dynamically change the iPhone home screen, believing it would
-disorient users, who are used to knowing where their apps are
-located, said former Apple employees familiar with the proposal.</p>
-</blockquote>
-
-<p>Jesus H. Christ, thank god Federighi shot this down. I wouldn’t want <em>good</em> AI rearranging my home screen behind my back, let alone Apple Intelligence as we know it.</p>
-
-<div>
-<a  title="Permanent link to ‘The Information: ‘With Google Deal, Apple’s Craig Federighi Plots a Cautious Course in AI’’"  href="https://daringfireball.net/linked/2026/01/22/information-federighi">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
