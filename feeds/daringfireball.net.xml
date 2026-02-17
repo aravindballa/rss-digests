@@ -7,7 +7,43 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-02-17T00:02:28Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-02-17T17:29:49Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>How to Force Restart an iPhone</title>
+	<link rel="alternate" type="text/html" href="https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6/ios" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wwi" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/02/17/how-to-force-restart-an-iphone" />
+	<id>tag:daringfireball.net,2026:/linked//6.42642</id>
+	<published>2026-02-17T17:20:01Z</published>
+	<updated>2026-02-17T17:29:49Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Apple Support:</p>
+
+<blockquote>
+  <p>If iPhone isn’t responding, and you can’t <a href="https://support.apple.com/guide/iphone/turn-iphone-on-or-off-iph841379c3d/26/ios/26#iph6c6b41f36">turn it off then
+on</a>, try forcing it to restart.</p>
+
+<ol>
+<li>Press and quickly release the volume up button.</li>
+<li>Press and quickly release the volume down button.</li>
+<li>Press and hold the side button.</li>
+<li>When the Apple logo appears, release the side button.</li>
+</ol>
+</blockquote>
+
+<p>I upgraded my iPhone 17 Pro to <a href="https://www.macrumors.com/guide/ios-26-3-features/">iOS 26.3</a> this morning (straight from the release version of iOS 26.2 — I skipped the 26.3 betas), and by noon, it was jammed at the lock screen. Pressing and holding the side button and a volume button at the same time did not bring up the expected screen with “Slide to power off”, “Medical ID”, and “Emergency Call”.</p>
+
+<p>The above force-restart method worked, though. I knew it existed but I’d forgotten how to do it. I was sitting right at my Mac so I had another machine to use to look it up. I’d be have stuck, though, if I’d been somewhere with only my iPhone, so I think this one is worth trying to memorize. (Step 3, the “press and hold the side button” step, takes quite a few seconds before the screen turns off — just keep pressing.)</p>
+
+<div>
+<a  title="Permanent link to ‘How to Force Restart an iPhone’"  href="https://daringfireball.net/linked/2026/02/17/how-to-force-restart-an-iphone">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://sentry.io/resources/ios-workshop-jan-2026/?utm_source=daringfireball&amp;utm_medium=paid-display&amp;utm_campaign=general-fy27q1-evergreen&amp;utm_content=static-ad-mobilerss-trysentry" />
 	<link rel="shorturl" href="http://df4.us/wwh" />
@@ -2111,54 +2147,6 @@ clicked!</p>
 
 <div>
 <a  title="Permanent link to ‘MacOS 26 Tahoe Broke Column View in the Finder’"  href="https://daringfireball.net/linked/2026/01/22/macos-26-tahoe-broke-column-view-in-the-finder">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Why Walmart Still Doesn’t Support Apple Pay</title>
-	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/01/18/heres-why-walmart-still-doesnt-support-apple-pay/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wv6" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/22/walmart-apple-pay" />
-	<id>tag:daringfireball.net,2026:/linked//6.42594</id>
-	<published>2026-01-22T23:19:56Z</published>
-	<updated>2026-01-23T00:04:53Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Chance Miller, writing at 9to5Mac:</p>
-
-<blockquote>
-  <p>When you use Walmart Pay, it’s incredibly easy for Walmart to
-build that customer profile on you. When you use Scan and Go, all
-of that same information is handed over.</p>
-
-<p>When you use Apple Pay or other payment methods, it’s much harder
-for Walmart (and other retailers) to do this. Apple Pay’s privacy
-and security protections, like not sharing any information about
-your actual card with the retailer, makes this type of tracking
-trickier.</p>
-
-<p>This is why Walmart wants people to use Walmart Pay if they want
-to pay from their phone. If you check out with Walmart Pay or Scan
-and Go, everything is linked to your Walmart account. If you had
-the option to pay with Apple Pay, you’d share <em>a lot</em> less
-information with Walmart.</p>
-</blockquote>
-
-<p>Using Walmart Pay gives Walmart <em>more</em> information than a regular credit or debit card transaction does. When you use the same traditional credit card for multiple purchases over time, a retailer like Walmart can build a profile associated with that card number. Charles Duhigg, all the way back in 2012, reported a story for The New York Times <a href="https://www.nytimes.com/2012/02/19/magazine/shopping-habits.html?unlocked_article_code=1.GVA.UClu.YPuRxJGkIHte&amp;smid=url-share">about how Target used these profiles</a> — which customers don’t even know about — to statistically determine when women are likely to be pregnant based on purchases like, say, cocoa-butter lotion and vitamin supplements. When you use an in-house payment app like Walmart Pay (or swipe a store’s “loyalty” card at the register), the store doesn’t have to do any guesswork to associate the transaction with your profile. Your Walmart Pay account <em>is</em> your profile.</p>
-
-<p>Using Apple Pay gives a retailer less — or at least <em>no more</em> — identifying information than a traditional card transaction. So if the future is paying via devices, Walmart wants that future to give them more information.</p>
-
-<p>I think the situation with Walmart and Apple Pay is a lot like Netflix and Apple TV integration. Most retailers, even large ones, support Apple Pay. Most streaming services, even large ones, support integration with Apple’s TV app. Walmart doesn’t support Apple Pay because they want to control the customer transaction directly, and they’re big enough, and their customers are loyal enough, that they can resist supporting Apple Pay. Netflix doesn’t support TV app integration because they want to control the customer viewing experience directly, and they’re big enough, and their customers are loyal enough, that they can resist supporting Apple’s TV app.</p>
-
-<p>Amazon — which is also very large, whose customers are also very loyal, and which absolutely <em>loves</em> collecting data — does not support Apple Pay either.</p>
-
-<p><strong>See also:</strong> <a href="https://mjtsai.com/blog/2026/01/21/why-walmart-still-doesnt-support-apple-pay/">Michael Tsai</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Why Walmart Still Doesn’t Support Apple Pay’"  href="https://daringfireball.net/linked/2026/01/22/walmart-apple-pay">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
