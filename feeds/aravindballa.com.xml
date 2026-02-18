@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Aravind Balla]]></title><description><![CDATA[Discoveries and rants of a indie maker while building solutions that he and his friends face.]]></description><link>https://aravindballa.com/</link><image><url>https://aravindballa.com/logo.png</url><title>Aravind Balla</title><link>https://aravindballa.com/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 24 Mar 2025 06:20:44 GMT</lastBuildDate><atom:link href="https://aravindballa.com//api/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 24 Mar 2025 06:20:44 GMT</pubDate><language><![CDATA[en]]></language><item><title><![CDATA[Advanced git tips]]></title><description><![CDATA[Some of the advanced git usage and tips for the pros. Things that I have learnt over the years of using git at work.]]></description><link>https://aravindballa.com/writings/advanced-git-tips/</link><guid isPermaLink="true">https://aravindballa.com/writings/advanced-git-tips/</guid><pubDate>Sun, 23 Sep 2018 00:00:00 GMT</pubDate><content:encoded>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Aravind Balla's RSS Feed']]></title>
+        <description><![CDATA[Discoveries and rants of a indie maker while building solutions that he and his friends face.]]></description>
+        <link>https://aravindballa.com/</link>
+        <image>
+            <url>https://aravindballa.com/logo.png</url>
+            <title>Aravind Balla&apos;s RSS Feed&apos;</title>
+            <link>https://aravindballa.com/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sat, 22 Jul 2023 13:50:04 GMT</lastBuildDate>
+        <atom:link href="https://aravindballa.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sat, 22 Jul 2023 13:50:04 GMT</pubDate>
+        <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Advanced git tips]]></title>
+            <description><![CDATA[Some of the advanced git usage and tips for the pros. Things that I have learnt over the years of using git at work.]]></description>
+            <link>https://aravindballa.com/writings/advanced-git-tips/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/advanced-git-tips/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Sun, 23 Sep 2018 00:00:00 GMT</pubDate>
+            <content:encoded>
 Git is amazing and you will learn only by using it. Try to learn the commands, you will forget if you don&apos;t use them. The same is the case for GUIs (like Tower or Source Tree). You might not have to learn the commands, but you will forget the process.
 
 **The solution is very simple. Learn what you need. Google what you don&apos;t. Try remembering if you are googling the same thing often.** 😁
@@ -69,7 +91,16 @@ git config user.email &quot;aravind@awesome-company.com&quot;
 Or else, your commits at work will be by your personal account.
 
 Peace out.
-</content:encoded></item><item><title><![CDATA[Playing with AI - Can it become your coworker?]]></title><description><![CDATA[Over the past couple of days, I have toyed around with all this cool AI stuff and this is my documentation on things I enjoyed.]]></description><link>https://aravindballa.com/writings/ai-coworker/</link><guid isPermaLink="true">https://aravindballa.com/writings/ai-coworker/</guid><pubDate>Mon, 17 Oct 2022 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Playing with AI - Can it become your coworker?]]></title>
+            <description><![CDATA[Over the past couple of days, I have toyed around with all this cool AI stuff and this is my documentation on things I enjoyed.]]></description>
+            <link>https://aravindballa.com/writings/ai-coworker/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/ai-coworker/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Mon, 17 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded>
 Is AI taking over the world?
 
 That&apos;s the biggest question everyone has.
@@ -84,7 +115,7 @@ Github&apos;s [Copilot](https://github.com/features/copilot) is really helpful i
 
 Quick regex checks are a time saver with Copilot. No need to go to stack overflow and search. You write a comment and it tell you what you need to write.
 
-![valid email check sugession](https://ik.imagekit.io/aravindballa/website/ai-coworker-valid-email.png)
+![valid email check sugession](valid-email.png)
 
 Copilot saves a lot of back and forth.
 
@@ -94,7 +125,7 @@ AI Teacher?
 
 [GPT-3 playground](https://beta.openai.com/playground) is great as well. Once I took help for a bash command that I didn&apos;t know how to write.
 
-![thanks GPT](https://ik.imagekit.io/aravindballa/website/ai-coworker-thanks-gpt.jpeg)
+![thanks GPT](thanks-gpt.jpeg)
 
 ## Making Art
 
@@ -111,7 +142,7 @@ If you are on an M1 mac, this app [Diffusion Bee](https://diffusionbee.com/) can
 
 Some the stuff that I liked from the generated pieces of art.
 
-![Art by AI](https://ik.imagekit.io/aravindballa/website/ai-coworker-art.png)
+![Art by AI](art.png)
 
 ## Better transcrption
 
@@ -132,7 +163,16 @@ It has different models that get the job done. I felt the `base` model is good f
 These are the major areas I get help from AI in. It has really become my coworker in the past couple of weeks.
 
 We recently recorded an episode in the Learning Curve podcast on [AI for Indian developers](https://open.spotify.com/episode/61Ub7gTPaj0cCREzMtXf0F?nd=1) which is so much related to this post.
-</content:encoded></item><item><title><![CDATA[Do Boring Things]]></title><description><![CDATA[You read that right. Let me explain.]]></description><link>https://aravindballa.com/writings/boring-things/</link><guid isPermaLink="true">https://aravindballa.com/writings/boring-things/</guid><pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Do Boring Things]]></title>
+            <description><![CDATA[You read that right. Let me explain.]]></description>
+            <link>https://aravindballa.com/writings/boring-things/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/boring-things/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded>
 You read that right. In order to become better, do boring things **consistently**.
 
 Let me explain.
@@ -169,7 +209,16 @@ See?
 Constantly ask yourself how can I make this interesting? For example - Journaling everyday is boring. You can make it interesting by keeping a list of prompts and choosing to journal about a random prompt.
 
 That&apos;s all for now.
-</content:encoded></item><item><title><![CDATA[Process of making my Coffee]]></title><description><![CDATA[This is how I make my coffee in 2022]]></description><link>https://aravindballa.com/writings/coffee/</link><guid isPermaLink="true">https://aravindballa.com/writings/coffee/</guid><pubDate>Tue, 01 Nov 2022 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Process of making my Coffee]]></title>
+            <description><![CDATA[This is how I make my coffee in 2022]]></description>
+            <link>https://aravindballa.com/writings/coffee/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/coffee/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Tue, 01 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded>
 I wake up every morning so that I can drink a fresh cup of coffee. _Okay that&apos;s a bit of exaggeration._ But yeah, I drink a cup almost every day.
 
 My go to brewing method is v60 these days. I rarely enjoy coffee with milk. It&apos;s mostly black.
@@ -195,7 +244,7 @@ Being able to taste coffee and judge what you like is a skill in itself. It take
 
 ## Brewing it
 
-![beans in v60 filter](https://ik.imagekit.io/aravindballa/website/coffee-v60-square.jpeg)
+![beans in v60 filter](v60-square.jpeg)
 
 1:18 is the ratio I enjoy. Which means 18g of water for every 1g of ground coffee. And I typically use 14g of coffee and 252g of water.
 
@@ -204,7 +253,16 @@ Yes, I measure it.
 The technique I generally do is a slightly modified version of the one described in [this video](https://www.youtube.com/watch?v=AI4ynXzkSQo) by James Hoffmann.
 
 In ~2 minutes, I have a cup of coffee ready.
-</content:encoded></item><item><title><![CDATA[Do productive work by keeping a consistent place to note down]]></title><description><![CDATA[Note taking makes you a better developer]]></description><link>https://aravindballa.com/writings/consistent-place-to-write/</link><guid isPermaLink="true">https://aravindballa.com/writings/consistent-place-to-write/</guid><pubDate>Tue, 10 May 2022 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Do productive work by keeping a consistent place to note down]]></title>
+            <description><![CDATA[Note taking makes you a better developer]]></description>
+            <link>https://aravindballa.com/writings/consistent-place-to-write/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/consistent-place-to-write/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Tue, 10 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded>
 If there is anything that has helped me directly in building apps and do my day job, it is this - **a consistent place to note down**.
 
 Something that is always available for you write or scribble.
@@ -234,7 +292,16 @@ When you get some free time, you might not have the time to completely code that
 This also makes it &quot;not overwhelming&quot; when you are at computer to do the work.
 
 That&apos;s all I have. Do you write things down?
-</content:encoded></item><item><title><![CDATA[Conversation on Why I am building Stackblocks]]></title><description><![CDATA[Complete transript of the conversation on Racket I had with Reddy about Stackblocks.]]></description><link>https://aravindballa.com/writings/conversation-on-why-stackblocks/</link><guid isPermaLink="true">https://aravindballa.com/writings/conversation-on-why-stackblocks/</guid><pubDate>Mon, 16 Aug 2021 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Conversation on Why I am building Stackblocks]]></title>
+            <description><![CDATA[Complete transript of the conversation on Racket I had with Reddy about Stackblocks.]]></description>
+            <link>https://aravindballa.com/writings/conversation-on-why-stackblocks/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/conversation-on-why-stackblocks/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Mon, 16 Aug 2021 00:00:00 GMT</pubDate>
+            <content:encoded>
 Couple of days ago, I had a conversation with [Reddy](https://reddy2go.com) where we talked about why I&apos;m building [Stackblocks](https://stackblocks.app)
 on the side, the progress and the future of this product.
 
@@ -350,7 +417,16 @@ Reddy: Thank you for hopping on and wish you all the best in the next project fo
 Aravind: The website is called stack blocks and the URL is stack blocks and Dot app. That&apos;s where you can go to sign up and hop into the Early Access list.
 
 Reddy: Sweet. So you heard it here and all the best elements you. Thank you.
-</content:encoded></item><item><title><![CDATA[Custom React hook for websocket updates]]></title><description><![CDATA[With the power of React Context, create re-usable hooks to give your components the ability to listen to websocket events.]]></description><link>https://aravindballa.com/writings/custom-hook-to-listen-websockets/</link><guid isPermaLink="true">https://aravindballa.com/writings/custom-hook-to-listen-websockets/</guid><pubDate>Tue, 11 May 2021 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Custom React hook for websocket updates]]></title>
+            <description><![CDATA[With the power of React Context, create re-usable hooks to give your components the ability to listen to websocket events.]]></description>
+            <link>https://aravindballa.com/writings/custom-hook-to-listen-websockets/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/custom-hook-to-listen-websockets/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Tue, 11 May 2021 00:00:00 GMT</pubDate>
+            <content:encoded>
 Creating reusable components is the main plus point when we are working with React. And hooks let us sprinkle powers to those components. Adding some state to the component, for example.
 
 In this article, we will look at how we can create a custom hook, which powers the component to subscribe and unsubscribe to a websocket so that it can listen to all the events in a channel.
@@ -514,7 +590,16 @@ That&apos;s all. You now have a frontend where the components can choose to list
 Hope that helps.
 
 Have a good day.
-</content:encoded></item><item><title><![CDATA[Don`t Fetch JSON]]></title><description><![CDATA[It is a small experiment to check whether you can directly get the `html` for the component instead of fetching the JSON data and populating it in the React Component.]]></description><link>https://aravindballa.com/writings/dont-fetch-json/</link><guid isPermaLink="true">https://aravindballa.com/writings/dont-fetch-json/</guid><pubDate>Tue, 05 Feb 2019 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Don`t Fetch JSON]]></title>
+            <description><![CDATA[It is a small experiment to check whether you can directly get the `html` for the component instead of fetching the JSON data and populating it in the React Component.]]></description>
+            <link>https://aravindballa.com/writings/dont-fetch-json/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/dont-fetch-json/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Tue, 05 Feb 2019 00:00:00 GMT</pubDate>
+            <content:encoded>
 Why should you though? This is not intended if you have an API endpoint (backend) serving multiple types of clients(like mobile and web).
 
 &gt; **Don&apos;t use this in production.** It&apos;s just an experiment.
@@ -608,7 +693,16 @@ export function fetchComp() {
 I don&apos;t have an exact idea of where this can be put to a real production environment but was a successful fun experiment.
 
 Thanks for reading through. Good day 👋
-</content:encoded></item><item><title><![CDATA[Over optimization yields zero results]]></title><description><![CDATA[A wood cutter who only sharps his axe does not make a dime.]]></description><link>https://aravindballa.com/writings/dont-optimize-early/</link><guid isPermaLink="true">https://aravindballa.com/writings/dont-optimize-early/</guid><pubDate>Sat, 27 Mar 2021 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Over optimization yields zero results]]></title>
+            <description><![CDATA[A wood cutter who only sharps his axe does not make a dime.]]></description>
+            <link>https://aravindballa.com/writings/dont-optimize-early/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/dont-optimize-early/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Sat, 27 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded>
 &gt; A wood cutter who only sharps his axe doesn&apos;t make a dime.
 &gt; – Aravind
 
@@ -619,7 +713,16 @@ Instead of doing that, I could have written more than 5 articles if I shifted my
 Similar thing happened with [my newsletter](/hackletter/). I wanted to start one back in January. But then, I spent a lot of time researching on various options, trying to build tools that allow me to get the dream setup. At least here I’m happy that I have a working setup to send newsletters to subscribers.
 
 So the moral of the story is try producing content first and then optimize, instead of doing it the other way. It doesn’t make sense to think about an edge case which has very less probability of occuring.
-</content:encoded></item><item><title><![CDATA[Dont wait till you are ready]]></title><description><![CDATA[you will never be]]></description><link>https://aravindballa.com/writings/dont-wait/</link><guid isPermaLink="true">https://aravindballa.com/writings/dont-wait/</guid><pubDate>Wed, 05 Feb 2020 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Dont wait till you are ready]]></title>
+            <description><![CDATA[you will never be]]></description>
+            <link>https://aravindballa.com/writings/dont-wait/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/dont-wait/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Wed, 05 Feb 2020 00:00:00 GMT</pubDate>
+            <content:encoded>
 &gt; You will never be
 
 # We weren&apos;t ready
@@ -665,7 +768,16 @@ Start what you were waiting to start. There is no perfect time than now. And you
 Let me know what you start/launch/started with a comment here.
 
 _Take care!_
-</content:encoded></item><item><title><![CDATA[Ending your coding sessions in the right way]]></title><description><![CDATA[With experience, I have learnt how to stop working and take a break, in the right way.]]></description><link>https://aravindballa.com/writings/ending-your-coding-sessions-right/</link><guid isPermaLink="true">https://aravindballa.com/writings/ending-your-coding-sessions-right/</guid><pubDate>Tue, 22 Jun 2021 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Ending your coding sessions in the right way]]></title>
+            <description><![CDATA[With experience, I have learnt how to stop working and take a break, in the right way.]]></description>
+            <link>https://aravindballa.com/writings/ending-your-coding-sessions-right/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/ending-your-coding-sessions-right/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Tue, 22 Jun 2021 00:00:00 GMT</pubDate>
+            <content:encoded>
 When you work on huge project with complex code it becomes difficult to keep track of what you are doing and what&apos;s been done.
 
 We generally start work with a goal in mind. We want to add a feature, for example. Or fix this particular bug.
@@ -674,7 +786,7 @@ Sometimes we know how to do that. We know what steps to achieve and what changes
 
 It&apos;s like navigating a map. Sometimes you know the roads to take, sometimes you don&apos;t. You know the destination though.
 
-![you know vs you don&apos;t](https://ik.imagekit.io/aravindballa/website/ending-your-coding-sessions-right-maps.jpg)
+![you know vs you don&apos;t](maps.jpg)
 
 After all, we can&apos;t travel all day. We need to rest too.
 
@@ -705,7 +817,7 @@ some other logic
 
 It&apos;s like marking your location on a map. 📍
 
-![you are here](https://ik.imagekit.io/aravindballa/website/ending-your-coding-sessions-right-maps-route.jpg)
+![you are here](maps-route.jpg)
 
 Writing also helps you keep track of what&apos;s been done and what still has to be. At the start of the file or at a relevant place, write pseudo code or plan the steps you need to achieve. More like documenting your journey.
 
@@ -725,7 +837,16 @@ Don&apos;t use your brain to remember the steps. Use it to process your thoughts
 This helps us get better context on what&apos;s going on with the project. If you are in a team, it will help others understand where you are, what&apos;s done and what&apos;s not.
 
 That&apos;s how writing and taking notes while coding helps us. Thanks for reading!
-</content:encoded></item><item><title><![CDATA[Fetch so many things, at once]]></title><description><![CDATA[There is the fetch API in Node, which allows us to make a HTTP request and get some information from the servers. We can use that to make REST calls, get HTML content of a webpage and many more things.]]></description><link>https://aravindballa.com/writings/fetching-things-at-once/</link><guid isPermaLink="true">https://aravindballa.com/writings/fetching-things-at-once/</guid><pubDate>Sat, 20 Apr 2019 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Fetch so many things, at once]]></title>
+            <description><![CDATA[There is the fetch API in Node, which allows us to make a HTTP request and get some information from the servers. We can use that to make REST calls, get HTML content of a webpage and many more things.]]></description>
+            <link>https://aravindballa.com/writings/fetching-things-at-once/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/fetching-things-at-once/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Sat, 20 Apr 2019 00:00:00 GMT</pubDate>
+            <content:encoded>
 There is the `fetch` API in Node, which allows us to make a HTTP request and get some information from the servers. We can use that to make REST calls, get HTML content of a webpage(if we are using node for scraping) and many more things.
 
 &gt; This article is valid for any function that returns a promise.
@@ -811,11 +932,28 @@ for (const promise of promises) {
 Thanks for making it till the end.
 
 Keep on Hacking! ✌
-</content:encoded></item><item><title><![CDATA[First ever interview]]></title><link>https://aravindballa.com/writings/first-ever-interview/</link><guid isPermaLink="true">https://aravindballa.com/writings/first-ever-interview/</guid><pubDate>Fri, 03 Jan 2020 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[First ever interview]]></title>
+            <link>https://aravindballa.com/writings/first-ever-interview/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/first-ever-interview/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Fri, 03 Jan 2020 00:00:00 GMT</pubDate>
+            <content:encoded>
 I contributed to Bismuth Community recently where I helped build a [voting tool](https://github.com/bismuthfoundation/Bismuth-Voting/tree/master/client-side/src). The community was so generous. I loved the [gratitude](https://twitter.com/BismuthPlatform/status/1185265743576862722) they showed towards me. They just started BisBabble where they interview contributors to the community. I feel honoured to be the first one the series.
 
 Here is the interview - [https://hypernodes.bismuth.live/?p=1033](https://hypernodes.bismuth.live/?p=1033)
-</content:encoded></item><item><title><![CDATA[Build pages in Gatsby from Rest API]]></title><description><![CDATA[Its not that hard. We just have to hook into gatsby-node.]]></description><link>https://aravindballa.com/writings/gatsby-pages-from-rest/</link><guid isPermaLink="true">https://aravindballa.com/writings/gatsby-pages-from-rest/</guid><pubDate>Thu, 25 Feb 2021 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Build pages in Gatsby from Rest API]]></title>
+            <description><![CDATA[Its not that hard. We just have to hook into gatsby-node.]]></description>
+            <link>https://aravindballa.com/writings/gatsby-pages-from-rest/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/gatsby-pages-from-rest/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Thu, 25 Feb 2021 00:00:00 GMT</pubDate>
+            <content:encoded>
 Creating pages in Gatsby is easy. But when we want the pages to be also part of the GraphQL layer so that we can query them in index pages, we need to hook into `sourceNode()` in the `gatsby-node.js`.
 
 ```js
@@ -896,7 +1034,16 @@ query {
 You can experiment with the query in GraphiQL dashboard that runs when you `gatsby develop`.
 
 Hope this helps.
-</content:encoded></item><item><title><![CDATA[Single Page Apps with Gatsby]]></title><description><![CDATA[Can we build a single page application using a static site generator, Gatsby? Ofcourse yes!]]></description><link>https://aravindballa.com/writings/gatsby-single-page-app/</link><guid isPermaLink="true">https://aravindballa.com/writings/gatsby-single-page-app/</guid><pubDate>Mon, 04 Nov 2019 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Single Page Apps with Gatsby]]></title>
+            <description><![CDATA[Can we build a single page application using a static site generator, Gatsby? Ofcourse yes!]]></description>
+            <link>https://aravindballa.com/writings/gatsby-single-page-app/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/gatsby-single-page-app/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Mon, 04 Nov 2019 00:00:00 GMT</pubDate>
+            <content:encoded>
 Gatsby, which is a static site generator, is famous for blogs and documentation websites. But there is no wrong in build full blown React apps with it.
 
 In the case of a blog, Gatsby builds a page for every article at the build time and generates a directory which can be hosted directly. But when it comes to Single Page App (SPA), we have only one `index.html` at the root, and the components are loaded depending on the route that the user is in.
@@ -1009,7 +1156,16 @@ If you build this project and serve, you can open the Networks tab in the browse
 That&apos;s it, this is all we need to make an SPA using Gatsby.
 
 Here is a working codesandbox link - [https://codesandbox.io/s/gatsby-starter-default-yf72w](https://codesandbox.io/s/gatsby-starter-default-yf72w)
-</content:encoded></item><item><title><![CDATA[Gatsby without GraphQL - only JSON]]></title><description><![CDATA[Number one misconception about Gatsby is that you need to know GraphQL to build something with Gatsby, which is not true. Yes, you don't need GraphQL.]]></description><link>https://aravindballa.com/writings/gatsby-without-graphql/</link><guid isPermaLink="true">https://aravindballa.com/writings/gatsby-without-graphql/</guid><pubDate>Sat, 02 Mar 2019 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Gatsby without GraphQL - only JSON]]></title>
+            <description><![CDATA[Number one misconception about Gatsby is that you need to know GraphQL to build something with Gatsby, which is not true. Yes, you don't need GraphQL.]]></description>
+            <link>https://aravindballa.com/writings/gatsby-without-graphql/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/gatsby-without-graphql/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Sat, 02 Mar 2019 00:00:00 GMT</pubDate>
+            <content:encoded>
 Number one misconception about Gatsby is that you need to know GraphQL to build something with Gatsby, **which is not true**. Yes, you don&apos;t need GraphQL. A Gatsby site can be built from an API or just with some data from a JSON file.
 
 &gt; You don&apos;t need GraphQL.
@@ -1135,7 +1291,36 @@ You realise the potential of Gatsby, right? Possibilities are limitless. In this
 Thanks for reading through.
 
 Keep on hacking!
-</content:encoded></item><item><title><![CDATA[How remote work changed me]]></title><description><![CDATA[How can remote work change my life. These are some advantages I take from remote work and now I am happy in life.]]></description><link>https://aravindballa.com/writings/how-remote-work-changed-me/</link><guid isPermaLink="true">https://aravindballa.com/writings/how-remote-work-changed-me/</guid><pubDate>Fri, 25 Jan 2019 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Getting Work Done when away from Home]]></title>
+            <link>https://aravindballa.com/writings/getting-work-done/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/getting-work-done/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Mon, 29 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded>
+Ability get stuff done while roaming around is a skill which can be built. I&apos;ve been practising this for almost 4 years now and this is what I learnt.
+
+- when you are not your home office or office in general, it&apos;s hard to get into the zone
+- Day feels cluttered, too much disorganisation
+- You can use a schedule because there won&apos;t be any structure to your day
+- Your thoughts will be all over the place
+
+- routines help
+    - Morning routine where you write mooring pages to empty your mind and plan out tasks for your day.
+    - Evening routine of what went well and what didn&apos;t
+- Plan short blocks of deep work session
+- Your ability to go in and out of deep work improves with deliberate practice.</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[How remote work changed me]]></title>
+            <description><![CDATA[How can remote work change my life. These are some advantages I take from remote work and now I am happy in life.]]></description>
+            <link>https://aravindballa.com/writings/how-remote-work-changed-me/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/how-remote-work-changed-me/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Fri, 25 Jan 2019 00:00:00 GMT</pubDate>
+            <content:encoded>
 Now that I don&apos;t work from the same concrete place every time, I am really loving it. I rent a desk at a co-working space nearby and often go there. Sometimes I work from home when I have to do my daily chores, and sometimes from nearby coffee shops.
 
 I really enjoy that I don&apos;t go to **an office** to work every day. Gone are those days when I had to sit at the same place to work (under the nose of my manager) and feel guilty to take a break or spend some time in the cafeteria.
@@ -1158,7 +1343,7 @@ Our team is remote. The main pro, and also a con, of a completely remote team is
 
 No office to go to. I go to a co working space in the city centre and work from there. I could not function alone from home for more than a month. I go to that space to have some people around. I met some amazing people there. Co-working spaces have have diverse people. From startup founders to designers to architects I&apos;ve met them all. Its good to talk to them about the work they do and listen to the problems they face.
 
-![an image of co working space](https://ik.imagekit.io/aravindballa/website/how-remote-work-changed-me-workspace.jpeg)
+![an image of co working space](workspace.jpeg)
 
 I visit my family often. I go home during some weekends and extend my stay there for few days.
 
@@ -1172,7 +1357,7 @@ Travelling to other cities has been on my checklist from long ago and I will che
 
 I can now attend conferences and speak at meetups. I learned a lot by attending conferences and events. I should start writing and publishing about those experiences too.
 
-![aravind balla talk seminar about react](https://ik.imagekit.io/aravindballa/website/how-remote-work-changed-me-talk.jpg)
+![aravind balla talk seminar about react](talk.jpg)
 
 Also, I love sharing the things I&apos;ve learnt, so I speak at few meetups.
 
@@ -1184,14 +1369,23 @@ I read books in the evening sometimes. This year, I want to do it more. One book
 
 I find myself pull out a notebook and practicing hand lettering sometimes. A complete beginner though.
 
-![beginner hand lettering picture](https://ik.imagekit.io/aravindballa/website/how-remote-work-changed-me-art.jpeg)
+![beginner hand lettering picture](art.jpeg)
 
 All these things are helping me unwind after work and being in track. Productivity and the quality of work I do has improved a lot. I am learning great things at my job and it doesn&apos;t feel as overwhelming as it used to be.
 
 # So...
 
 I encourage you to introspect and see where is your life taking you to and where do you want to be. Change things that you are not happy with and I hope this post helps you (a little bit) in doing so.
-</content:encoded></item><item><title><![CDATA[The Hunt for a Great and Cheap Newsletter Service]]></title><description><![CDATA[As I hit the free limits on the current newsletter service, I try to find the next thing to send newsletters.]]></description><link>https://aravindballa.com/writings/hunt-for-easy-and-cheap-newsletter-service/</link><guid isPermaLink="true">https://aravindballa.com/writings/hunt-for-easy-and-cheap-newsletter-service/</guid><pubDate>Wed, 31 Aug 2022 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The Hunt for a Great and Cheap Newsletter Service]]></title>
+            <description><![CDATA[As I hit the free limits on the current newsletter service, I try to find the next thing to send newsletters.]]></description>
+            <link>https://aravindballa.com/writings/hunt-for-easy-and-cheap-newsletter-service/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/hunt-for-easy-and-cheap-newsletter-service/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Wed, 31 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded>
 I sometime dwell deep into one specific topic.
 Today was about finding the cheapest and most convenient service to write my newsletter on.
 
@@ -1259,70 +1453,16 @@ Their free plan puts ads on your content, but guess what - I don&apos;t publish 
 We now have something that costs almost nothing, with great upsides.
 
 Will I use it? We&apos;ll have to wait and see. 😅
-</content:encoded></item><item><title><![CDATA[Setting up icloudpd on Synology NAS]]></title><description><![CDATA[In this article I document how I setup backups for iCloud library in a Synology NAS.]]></description><link>https://aravindballa.com/writings/icloudpd-on-synology/</link><guid isPermaLink="true">https://aravindballa.com/writings/icloudpd-on-synology/</guid><pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate><content:encoded>*Last Updated on 12/11/2024*
-
-In this article I document how I setup backups for iCloud library in a Synology NAS (ds923+ to be precise).
-
-Out of all the solutions out there, I opted to have a copy in my NAS rather than moving everything to it. And I wanted a way that needs minimal recurring effort. So went with `icloudpd` docker container which would directly download stuff from iCloud. I don&apos;t have to keep originals on my phone and wait to get home to have the backed up.
-
-This was a lot figure out.
-
-The repo - https://github.com/boredazfcuk/docker-icloudpd
-
-### Setting up the filesystem
-Initially, we need to create 2 directories. One for the container settings and one for the location of downloads.
-
-In `/docker`, the default directory `Container Manager` creates, I create `icloudpd/config` directory so that the container can create the settings.
-
-For the download path, I use `volume1/homes/&lt;user&gt;/Photos/icloud` so `Synology Photos` has access to the downloaded media.
-
-### Setting up the docker image
-We need to create a new project with the path as the `/docker/icloudpd` and the following docker-compose
-
-```yml
-version: &apos;3.3&apos;
-services:
-    icloudpd:
-        container_name: icloudpd
-        restart: always
-        environment:
-            - user=username
-            - user_id=1026 # default
-            - group=users # default
-            - group_id=100 #default
-            - apple_id=apple-user@icloud.com
-            - authentication_type=2FA
-            - &apos;folder_structure={:%Y/%m}&apos;
-            - notification_days=3
-            - synchronisation_interval=21600
-            - TZ=Asia/Calcutta
-            - &apos;download_path=/icloud&apos;
-            - skip_check=false
-        network_mode: host
-        healthcheck:
-            test: [&quot;CMD&quot;, &quot;/usr/local/bin/healthcheck.sh&quot;]
-            interval: 10m
-            timeout: 10s
-            retries: 3
-            start_period: 2m
-        volumes:
-            - &apos;/volume1/docker/icloudpd/config:/config&apos;
-            - &apos;/volume1/homes/user/Photos/icloud:/icloud&apos;
-        image: boredazfcuk/icloudpd:latest
-```
-
-Figuring out `user_id` and group details was a chore. It would not get proper permissions to download without this. After some debugging here&apos;s what worked
-
-- SSH into your NAS
-- Run `id username`
-
-As soon as, you setup the docker container, you would need to setup a few things like the failsafe file and authentication. This was convenient to setup from the terminal as I was ssh-ed into it already.
-
-- SSH into your NAS (if you already haven&apos;t)
-- `touch &lt;download-path&gt;/.mounted` - this is the failsafe file
-- `docker exec -it icloudpd sync-icloud.sh --Initialise` - this would initiate the iCloud authentication
-
-Ran into few issues and one of the error messages suggested I login in icloud.com and see if there are any popups on screen. After clicking them away and re-running the container, it seems to download the icloud library.</content:encoded></item><item><title><![CDATA[Incremental Static Generation]]></title><description><![CDATA[SSG is not prefect, like all the other things in web development. And ISR makes SSG powerful but it has downsides too.]]></description><link>https://aravindballa.com/writings/incremental-static-generation/</link><guid isPermaLink="true">https://aravindballa.com/writings/incremental-static-generation/</guid><pubDate>Tue, 13 Apr 2021 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Incremental Static Generation]]></title>
+            <description><![CDATA[SSG is not prefect, like all the other things in web development. And ISR makes SSG powerful but it has downsides too.]]></description>
+            <link>https://aravindballa.com/writings/incremental-static-generation/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/incremental-static-generation/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Tue, 13 Apr 2021 00:00:00 GMT</pubDate>
+            <content:encoded>
 We know Static site generation (SSG) is awesome. We get to build the pages of the website in advance, which is while building the project, and then deploy it to a hosting provider like S3, GitHub pages, Netlify or Vercel. Some providers put a CDN on the front which makes accessing static pages very fast. ⚡️
 
 ## This comes with some downsides though
@@ -1333,7 +1473,7 @@ Modern hosting providers have become powerful now. Netlify or Vercel give you a 
 
 &gt; Trigger a build using iOS Shortcut
 &gt;
-&gt; ![ios-shortcut](https://ik.imagekit.io/aravindballa/website/incremental-static-generation-shortcut.png)
+&gt; ![ios-shortcut](shortcut.png)
 
 If we use Gatsby to build the website, then it even intelligently builds only the pages that have changed. Incremental builds they call it. We&apos;d need to trigger a build though.
 
@@ -1372,7 +1512,16 @@ Definetly no. In some case, it is better to see old data instead of stale data f
 For data that isn&apos;t updated very frequently, but not always the same is a good fit. For example a page which fetches highlights of book. It&apos;s okay if the first visit see few less highlights.
 
 That concludes this big post. Thanks for reading, have a good day!
-</content:encoded></item><item><title><![CDATA[Infinite feeds are robbing the joy of your life]]></title><description><![CDATA[You close Instagram. Go to the apps screen, open it again. Invoulantarily!]]></description><link>https://aravindballa.com/writings/infinite-feeds/</link><guid isPermaLink="true">https://aravindballa.com/writings/infinite-feeds/</guid><pubDate>Fri, 20 May 2022 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Infinite feeds are robbing the joy of your life]]></title>
+            <description><![CDATA[You close Instagram. Go to the apps screen, open it again. Invoulantarily!]]></description>
+            <link>https://aravindballa.com/writings/infinite-feeds/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/infinite-feeds/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Fri, 20 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded>
 You get to switch contexts at an enormous pace and your brain gets hooked. Now, it always wants it, and we’re doomed!
 
 But life happens in a slow pace.
@@ -1402,7 +1551,16 @@ What can we do?
 An excellent summary of Digital minimalism by the man himself, Cal Newport - https://www.youtube.com/watch?v=DsGKzjyj_6Q
 
 No wonder why he isn&apos;t on social media.
-</content:encoded></item><item><title><![CDATA[I cracked the key to reading books]]></title><description><![CDATA[Do you also have a goal to read a lot of books this year?]]></description><link>https://aravindballa.com/writings/key-to-reading-books/</link><guid isPermaLink="true">https://aravindballa.com/writings/key-to-reading-books/</guid><pubDate>Fri, 08 Jan 2021 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[I cracked the key to reading books]]></title>
+            <description><![CDATA[Do you also have a goal to read a lot of books this year?]]></description>
+            <link>https://aravindballa.com/writings/key-to-reading-books/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/key-to-reading-books/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Fri, 08 Jan 2021 00:00:00 GMT</pubDate>
+            <content:encoded>
 I had big goals. Like read 12 books this year. Not big for you? It was for me. A lot of books I chose were non fiction. The mistake I made was to read them cover to cover. That’s what is finishing, right?
 
 You don’t have to read a book cover to cover. Yeah. If the book is interesting, you might end up reading everything. But when few sections are boring, you don’t have to drag through them knowing you wont have any take away from those sections. **You can skip them**.
@@ -1412,7 +1570,16 @@ It’s like driving somewhere without getting close to the destination.
 The main idea for me to read books is to get ideas and remix them with things I know or believe. When I reading chapters that interest me, that would most likely happen. I consider a book is good for me if it forces me **write my thoughts every now and then**. So skipping things that I know would not help me think deeper is always better.
 
 Do you read books cover to cover?
-</content:encoded></item><item><title><![CDATA[Making progress with Sacred side-hustle Hours]]></title><description><![CDATA[Finding time to work on your side projects is difficult. Especially when you have a day job which task which takes up your time and energy.]]></description><link>https://aravindballa.com/writings/making-progress-with-sacred-side-hustle-hours/</link><guid isPermaLink="true">https://aravindballa.com/writings/making-progress-with-sacred-side-hustle-hours/</guid><pubDate>Sun, 03 Oct 2021 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Making progress with Sacred side-hustle Hours]]></title>
+            <description><![CDATA[Finding time to work on your side projects is difficult. Especially when you have a day job which task which takes up your time and energy.]]></description>
+            <link>https://aravindballa.com/writings/making-progress-with-sacred-side-hustle-hours/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/making-progress-with-sacred-side-hustle-hours/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Sun, 03 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded>
 Finding time to work on your side projects is difficult.
 
 Especially when you have a day job which task which takes up your time and energy. And if you have other commitments, like kids, you know that becomes complicated.
@@ -1446,7 +1613,16 @@ When your sacred hour starts, just pick the one on top and start working.
 That&apos;s how you can make the most of your sacred hours. Ideas don&apos;t come when you want them to. Having a list helps you write them whenever your get one.
 
 All you have to do then, is to excitedly wait to work on your side hustle and make loads of progress.
-</content:encoded></item><item><title><![CDATA[Creating & Managing components outside React]]></title><description><![CDATA[Can you use React in an existing/old JS project? If you do, how do you manage the components?]]></description><link>https://aravindballa.com/writings/manage-react-components-outside/</link><guid isPermaLink="true">https://aravindballa.com/writings/manage-react-components-outside/</guid><pubDate>Fri, 27 Jul 2018 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Creating & Managing components outside React]]></title>
+            <description><![CDATA[Can you use React in an existing/old JS project? If you do, how do you manage the components?]]></description>
+            <link>https://aravindballa.com/writings/manage-react-components-outside/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/manage-react-components-outside/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Fri, 27 Jul 2018 00:00:00 GMT</pubDate>
+            <content:encoded>
 You are probably not starting a new project with React in the frontend. You just want to build some components, make use of the apis that your frontend already consumes and use them in your existing application.
 
 Awesome! You can always do that. Let me outline the workflow here.
@@ -1533,7 +1709,16 @@ Keep on hacking!
 
 - [https://reactjs.org/docs/react-without-jsx.html](https://reactjs.org/docs/react-without-jsx.html)
 - The transpiler used  —  [https://babeljs.io/repl/](https://babeljs.io/repl/)
-</content:encoded></item><item><title><![CDATA[Non blocking updates in React]]></title><description><![CDATA[Sometimes, a few updates/computations take up a lot of time. They block the UI from updating, which makes it look as if things are slow.]]></description><link>https://aravindballa.com/writings/non-blocking-ui-react/</link><guid isPermaLink="true">https://aravindballa.com/writings/non-blocking-ui-react/</guid><pubDate>Mon, 01 Jul 2019 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Non blocking updates in React]]></title>
+            <description><![CDATA[Sometimes, a few updates/computations take up a lot of time. They block the UI from updating, which makes it look as if things are slow.]]></description>
+            <link>https://aravindballa.com/writings/non-blocking-ui-react/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/non-blocking-ui-react/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Mon, 01 Jul 2019 00:00:00 GMT</pubDate>
+            <content:encoded>
 Sometimes, a few updates/computations take up a lot of time. They block the UI from updating, which makes it look as if things are slow. I am not talking about asynchronous data fetches which take time.
 
 &gt; TL DR; We will be using web workers as a solution along with Hooks.
@@ -1675,7 +1860,16 @@ We can see a huge performance bump with workers when we compare it to the first 
 That&apos;s how you can use web workers in React. Thanks for reading!
 
 Keep on Hacking! ✌
-</content:encoded></item><item><title><![CDATA[Found the perfect writing setup]]></title><description><![CDATA[For now, at least]]></description><link>https://aravindballa.com/writings/perfect-writing-setup/</link><guid isPermaLink="true">https://aravindballa.com/writings/perfect-writing-setup/</guid><pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Found the perfect writing setup]]></title>
+            <description><![CDATA[For now, at least]]></description>
+            <link>https://aravindballa.com/writings/perfect-writing-setup/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/perfect-writing-setup/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
+            <content:encoded>
 &gt; 📌 Disclaimer
 &gt;
 &gt; You don’t need this to start writing. This is just icing over the cake and a process that fits nicely in my routine.
@@ -1706,7 +1900,16 @@ I still manually commit the changes from Working Copy app as I don’t want to p
 
 This is likely to evolve or discarded completely. 😅
 I’ll post the updates here as usual.
-</content:encoded></item><item><title><![CDATA[Playing GitHub Issues API for a Digital Garden]]></title><description><![CDATA[GitHub Issues is a great CMS. Can we use it for a blog / digital garden?]]></description><link>https://aravindballa.com/writings/playing-with-github-issues-for-digital-garden/</link><guid isPermaLink="true">https://aravindballa.com/writings/playing-with-github-issues-for-digital-garden/</guid><pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Playing GitHub Issues API for a Digital Garden]]></title>
+            <description><![CDATA[GitHub Issues is a great CMS. Can we use it for a blog / digital garden?]]></description>
+            <link>https://aravindballa.com/writings/playing-with-github-issues-for-digital-garden/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/playing-with-github-issues-for-digital-garden/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded>
 GitHub issues can become a nice interlinked digital garden. 🌱 🌲 🌳
 
 I&apos;ve seen people use it as a CMS for their blogs. The inspiration comes from OneGraph&apos;s [blog example](https://github.com/OneGraph/essay.dev/). I [loved it](https://twitter.com/aravindballa/status/1414630464002871297).
@@ -1737,45 +1940,16 @@ I played with GitHub&apos;s GraphQL API and it gives me a prefect response to cr
 I have a basic working version up here - [https://github-issues-garden.netlify.app](https://github-issues-garden.netlify.app) 🎉
 
 The pages comes from Issues of the repository - [https://github.com/aravindballa/github-issues-garden](https://github.com/aravindballa/github-issues-garden)
-</content:encoded></item><item><title><![CDATA[Experiments with Polyphasic Sleep]]></title><description><![CDATA[Notes on experiments with polyphasic sleep]]></description><link>https://aravindballa.com/writings/polyphasic-sleep/</link><guid isPermaLink="true">https://aravindballa.com/writings/polyphasic-sleep/</guid><pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate><content:encoded>*Last Updated: 2 Oct 2024*
-
-&gt; As the weeks go by, I will keep updating this note on my learnings and experience. So this is always be **in progress**. 
-
-## But wait, whats polyphasic sleep?
-
-*\*need to write this section yet, but you can go to https://polyphasic.net to learn more*
-
----
-I started this experiment in the last week of September 2024. This post is a way for me to document and publicly share what I learn.
-
-I chose [Everyman 1](https://www.polyphasic.net/everyman-1/), or E1 for short, as it seemed to be fairly forgiving with caffeine (oh I am a coffee addict), alcohol, and recovery from workouts.
-
-![aravind&apos;s nap chart](https://ik.imagekit.io/aravindballa/website/aravind-nap-chart.png?updatedAt=1727832529075)
-
-Right now I am in the second week of trying to adapt E1 polyphasic sleep schedule. Which is getting 6 hours of core sleep from 23:00 to 05:00 and then topping it up with a 20 minute nap in the afternoon.
-
-One more reason to choose this schedule is because I like mornings. I like to get stuff done early in the day so I can spend the rest of the day with the feeling of accomplishment.
-
-I have the ability to nap whenever I want as I work remotely. On the days I go out in the afternoons, which I haven&apos;t done from the time I have started this, I will try car naps which seem highly popular in the [polyphasic community](https://www.reddit.com/r/polyphasic/).
-
-I feel its good. As much as I would like to say I am adapted to this, people say that it takes 4-6 weeks to properly adapt. So I am looking forward.
-
-I have researched a lot. About affects of caffeine, workout recovery etc. Alcohol in general doesn&apos;t seem to be a problem on Everyman schedules.
-
-## Drink coffee or not
-There is mixed advice here.
-
-Some say you need to completely avoid when you are adapting. And that you won&apos;t need it after you are adapted as you will feel energetic all the time.
-
-*But I like to drink it.*
-
-Some say if you are caffeine adapted, which happens if you are a long time drinker, then its fine to drink it at a time which doesn&apos;t affect your sleep or nap.
-
-I am experimenting with this as well and so far its good. One cup of my [delicious pour over](https://aravindballa.com/writings/coffee) at somewhere before 09:00. Considering the half life of caffeine, it would me with ~26mg of caffeine in my body by the time I sleep. Under 50 seems to be the standard but I am gradually check this permissible limit for me.
-
-I built myself a nifty tool to check the caffeine levels.
-![daily caffeine tracker app](https://ik.imagekit.io/aravindballa/website/caffeine-tracker.png?updatedAt=1727834740774)
-This helped a lot.</content:encoded></item><item><title><![CDATA[Positioning yourself for remote work]]></title><description><![CDATA[Remote work is picking up these days. But how do you land a remote job?]]></description><link>https://aravindballa.com/writings/position-yourself-for-remote-work/</link><guid isPermaLink="true">https://aravindballa.com/writings/position-yourself-for-remote-work/</guid><pubDate>Tue, 17 Sep 2019 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Positioning yourself for remote work]]></title>
+            <description><![CDATA[Remote work is picking up these days. But how do you land a remote job?]]></description>
+            <link>https://aravindballa.com/writings/position-yourself-for-remote-work/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/position-yourself-for-remote-work/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Tue, 17 Sep 2019 00:00:00 GMT</pubDate>
+            <content:encoded>
 Remote work is [picking up](https://buffer.com/state-of-remote-work-2019) these days. Its easy to find people, in countries like India, who are working remotely for a company which is located elsewhere. And there are a lot of predictions which say: by 2020, there will be 50% workforce will be remote. Companies like Basecamp, Stripe, etc have remote teams and encourage them to be remote.
 
 But how do you land a remote job? Especially when you are a fresher.
@@ -1803,7 +1977,16 @@ Push all your projects to **Github** and let people, and potentially recruiters,
 Join a community, preferably with remote devs, so you can get help and know about job opportunities. If you are from India, [Remote Indian](https://remoteindian.com/) is such group. Its a very active and good place to hangout with remote workers from India.
 
 Find people on Twitter or [dev.to](http://dev.to) (or Reddit) and talk to them. Get to know how it feels to work remotely and ask them if they can refer you to any job that they know of. I&apos;d be happy to help if you hit me on Twitter.
-</content:encoded></item><item><title><![CDATA[(P)reacting on the server side]]></title><description><![CDATA[We use Preact and Node to build server side rendered web pages. Blazing fast webpages can be built using Preact.]]></description><link>https://aravindballa.com/writings/preact-ssr/</link><guid isPermaLink="true">https://aravindballa.com/writings/preact-ssr/</guid><pubDate>Sun, 30 Sep 2018 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(P)reacting on the server side]]></title>
+            <description><![CDATA[We use Preact and Node to build server side rendered web pages. Blazing fast webpages can be built using Preact.]]></description>
+            <link>https://aravindballa.com/writings/preact-ssr/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/preact-ssr/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Sun, 30 Sep 2018 00:00:00 GMT</pubDate>
+            <content:encoded>
 It takes time to realise Server-side rendering is amazing.😁 It was the same for me. You get a ton of benefits with it. Mainly, **first meaningful paint** of the webpage is quick. It still has to download the `js` to make it interactive. But, users will **not** be staring at white (empty) pages for long.
 
 As you might know, [Preact](https://preactjs.com/) is the 3KB alternative to React. It is a bit faster than React and very less in size. The API is mostly same and easy to adapt if you are coming from React.
@@ -1921,7 +2104,16 @@ That&apos;s it.
 Run `node index.js` to see the magic. 🎉
 
 Take Care
-</content:encoded></item><item><title><![CDATA[Prioritization for side-projects]]></title><description><![CDATA[While working on side projects, we dont have much time on our hands to do everything possible. Few things that have to be done in order to move the project forward have to be prioritized. This is a framework.]]></description><link>https://aravindballa.com/writings/prioritization-for-side-projects/</link><guid isPermaLink="true">https://aravindballa.com/writings/prioritization-for-side-projects/</guid><pubDate>Tue, 07 Jun 2022 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Prioritization for side-projects]]></title>
+            <description><![CDATA[While working on side projects, we dont have much time on our hands to do everything possible. Few things that have to be done in order to move the project forward have to be prioritized. This is a framework.]]></description>
+            <link>https://aravindballa.com/writings/prioritization-for-side-projects/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/prioritization-for-side-projects/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Tue, 07 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded>
 While working on side projects, we don&apos;t have much time on our hands to do everything possible.
 
 There will be few things that have to be done in order to move the project forward. There might be some things that would make sense to get done, but not really a must. And, there lie a few tasks that are just a nice to have which don&apos;t move the project any further but might delight the user.
@@ -1936,7 +2128,7 @@ This is where **proritization** helps.
 
 ## The MoSCoW method
 
-![MoSCoW](https://ik.imagekit.io/aravindballa/website/prioritization-for-side-projects-moscow.jpg)
+![MoSCoW](moscow.jpg)
 
 With a huge list of things we want to do, we can categorize them in one of these buckets -
 
@@ -1965,7 +2157,33 @@ Hope this helps you in your journey as a Indie hacker!
 ### References
 
 There is a great article called [The MoSCoW method of prioritization](https://nesslabs.com/moscow-method) by Anne-Laure from Ness Labs, which inspired me to write this.
-</content:encoded></item><item><title><![CDATA[I have a second brain]]></title><description><![CDATA[Second brain is a place we store our thoughts, ideas and concepts for life.]]></description><link>https://aravindballa.com/writings/second-brain/</link><guid isPermaLink="true">https://aravindballa.com/writings/second-brain/</guid><pubDate>Tue, 28 Jul 2020 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[What I learnt at React Nexus 2023]]></title>
+            <description><![CDATA[Notes about learnings at React conference I attended recently]]></description>
+            <link>https://aravindballa.com/writings/react-nexus-2023/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/react-nexus-2023/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Mon, 29 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded>
+- Great talks
+	- Added a few links to resources at the end, which might be useful
+- Talking to speakers about what makes a great talk
+	- Find good stuff from Matheus blog post and write here
+	- Learnings from Tejas
+- On the state of browsers
+- Felt like I should have recorded the conversations and carry them with me
+- Random resources</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[I have a second brain]]></title>
+            <description><![CDATA[Second brain is a place we store our thoughts, ideas and concepts for life.]]></description>
+            <link>https://aravindballa.com/writings/second-brain/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/second-brain/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2020 00:00:00 GMT</pubDate>
+            <content:encoded>
 Yeah, one more brain. Not a physical one, though. _\*Laughs\*_ Second brain is a place we store our thoughts, ideas and concepts for life. Doing this is important because our human brains are good at processing but not so good at remembering (or storing) them.
 
 &gt; Human brain is a CPU and not a HDD.
@@ -2003,7 +2221,16 @@ If you are interested in this and want to hear more on this topic, my co-host Br
 - [16. Writing for clarity and focus](https://learningcurve.dev/16-writing-for-clarity-and-focus)
 
 Keep nerding! ✌
-</content:encoded></item><item><title><![CDATA[Siri Shortcuts I use]]></title><description><![CDATA[Siri shortcuts are a game changers.]]></description><link>https://aravindballa.com/writings/siri-shortcuts-i-use/</link><guid isPermaLink="true">https://aravindballa.com/writings/siri-shortcuts-i-use/</guid><pubDate>Fri, 19 Mar 2021 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Siri Shortcuts I use]]></title>
+            <description><![CDATA[Siri shortcuts are a game changers.]]></description>
+            <link>https://aravindballa.com/writings/siri-shortcuts-i-use/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/siri-shortcuts-i-use/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Fri, 19 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded>
 Siri shortcuts are a game changer. It was one of the reasons I bought an iPhone. _(Well, at least I feel good when I think like that)_
 
 If there is a task that takes opening up a few apps and clicking buttons in it, it can be done with a single click using Shortcuts. It’s crazy.
@@ -2033,7 +2260,16 @@ There was a wave of people doing funky things with their home screens when someo
 ## Notes on the fly
 
 I use Drafts to take quick notes when in a rush. It automatically syncs to other devices. And it opens a fresh new note whenever I open the app. It’s purely for quick notes and first drafts. And when in a rush, we can just dictate a note using shortcuts, without even opening the app. All the shortcuts can be run using Siri. _Hey Siri, dictate note_ and the note gets recorded and saved as text in Drafts. You can use any other note taking app for that matter, if it supports Shortcuts, not just Drafts.
-</content:encoded></item><item><title><![CDATA[Why I`d like to start a podcast]]></title><description><![CDATA[This isn`t a motivational post. This is a short why post. It`s about the reason why I`d like to start a podcast. Hopefully this will help me stick around.]]></description><link>https://aravindballa.com/writings/starting-podcast/</link><guid isPermaLink="true">https://aravindballa.com/writings/starting-podcast/</guid><pubDate>Sun, 08 Dec 2019 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Why I`d like to start a podcast]]></title>
+            <description><![CDATA[This isn`t a motivational post. This is a short why post. It`s about the reason why I`d like to start a podcast. Hopefully this will help me stick around.]]></description>
+            <link>https://aravindballa.com/writings/starting-podcast/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/starting-podcast/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Sun, 08 Dec 2019 00:00:00 GMT</pubDate>
+            <content:encoded>
 This isn&apos;t a motivational post. This is a short _why_ post. It&apos;s about the reason why I&apos;d like to start a podcast. Hopefully this will help me stick around.
 
 ## I should not do it because
@@ -2057,7 +2293,16 @@ I&apos;d want you to listen to the podcast - [learningcurve.dev](http://learning
 Thanks a ton for reading this 🎉
 
 Good day!
-</content:encoded></item><item><title><![CDATA[Can we use AI to grab insights from your notes?]]></title><description><![CDATA[How can it help me, personally, taking in the context of my environment, the things I consume, where I live etc]]></description><link>https://aravindballa.com/writings/talk-to-notes/</link><guid isPermaLink="true">https://aravindballa.com/writings/talk-to-notes/</guid><pubDate>Tue, 06 Dec 2022 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Can we use AI to grab insights from your notes?]]></title>
+            <description><![CDATA[How can it help me, personally, taking in the context of my environment, the things I consume, where I live etc]]></description>
+            <link>https://aravindballa.com/writings/talk-to-notes/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/talk-to-notes/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Tue, 06 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded>
 The question that I explored [last time](https://aravindballa.com/writings/ai-coworker/), which is “Can AI be your coworker?”, is answered now.
 
 With ChatGPT, its a sure shot YES.
@@ -2080,7 +2325,7 @@ Created a fresh repository and started hacking together bit and pieces. A lot of
 
 Couple of hours later, I ended up with this.
 
-![tweet](https://ik.imagekit.io/aravindballa/website/talk-to-notes-tweet.jpg)
+![tweet](tweet.jpg)
 
 [https://twitter.com/aravindballa/status/1600087889026875392](https://twitter.com/aravindballa/status/1600087889026875392)
 
@@ -2089,7 +2334,16 @@ Couple of hours later, I ended up with this.
 The questions now - Will anyone else want this? If so, how can make this customizable? Will I run out of my free OpenAI GPT credits?
 
 I&apos;d like to know what you think?
-</content:encoded></item><item><title><![CDATA[Tweet daily using Github Actions]]></title><description><![CDATA[I built a GitHub action recently that tweets everyday. Check out the acticle to know.]]></description><link>https://aravindballa.com/writings/tweet-using-github-actions/</link><guid isPermaLink="true">https://aravindballa.com/writings/tweet-using-github-actions/</guid><pubDate>Tue, 12 May 2020 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Tweet daily using Github Actions]]></title>
+            <description><![CDATA[I built a GitHub action recently that tweets everyday. Check out the acticle to know.]]></description>
+            <link>https://aravindballa.com/writings/tweet-using-github-actions/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/tweet-using-github-actions/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Tue, 12 May 2020 00:00:00 GMT</pubDate>
+            <content:encoded>
 Github Actions are really powerful. I like to see them as personal assistants. You tell your assistants to do some work for you. Similarly, you tell Github actions to do some job for you.
 
 &lt;GrayBlock&gt;
@@ -2181,7 +2435,7 @@ jobs:
 
 If you observe, we pass the Twitter API credentials as environment variables. This can be done in the Repo settings in GitHub. You can add a few secrets and they get passed to the Actions in that repo.
 
-![Screenshot of Github Repo settings](https://ik.imagekit.io/aravindballa/website/tweet-using-github-actions-github-repo-settings.png)
+![Screenshot of Github Repo settings](github-repo-settings.png)
 
 That takes us to the end of the article. Thanks for reading till end and if you think learnt something from this, please tweet it so your friends learn too.
 
@@ -2190,7 +2444,16 @@ If you&apos;d like to check out the tweets in action, its here - [https://twitte
 [https://twitter.com/learningcurvpod/status/1259425283003822080](https://twitter.com/learningcurvpod/status/1259425283003822080)
 
 Take care.
-</content:encoded></item><item><title><![CDATA[Weekly reviews in Roam Research [Plugin]]]></title><description><![CDATA[I built a Roam Research plugin to help me review time I spent in the week. Takes advantage of Interstitial Journaling.]]></description><link>https://aravindballa.com/writings/weekly-review-in-roam-research/</link><guid isPermaLink="true">https://aravindballa.com/writings/weekly-review-in-roam-research/</guid><pubDate>Tue, 27 Jul 2021 00:00:00 GMT</pubDate><content:encoded>
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Weekly reviews in Roam Research [Plugin]]]></title>
+            <description><![CDATA[I built a Roam Research plugin to help me review time I spent in the week. Takes advantage of Interstitial Journaling.]]></description>
+            <link>https://aravindballa.com/writings/weekly-review-in-roam-research/</link>
+            <guid isPermaLink="true">https://aravindballa.com/writings/weekly-review-in-roam-research/</guid>
+            <dc:creator><![CDATA[Aravind Balla]]></dc:creator>
+            <pubDate>Tue, 27 Jul 2021 00:00:00 GMT</pubDate>
+            <content:encoded>
 I wanted something that tracks where I spend my time. I&apos;ve tried various apps to do it, but nothing clicked. I often forget to stop the timers. 🤦🏻‍♂️ ⏲
 
 At last, I found the sweet spot for it in [Roam Research](https://roamresearch.com/). I use it for **Interstitial Journaling** already. So I built a plugin which analyses those logs and gives me a summary of my time in the current week.
@@ -2208,437 +2471,7 @@ I&apos;ve put the source code on Gumroad. It&apos;s basically FREE but you can p
     Check it out
   &lt;/a&gt;
 &lt;/div&gt;
-</content:encoded></item><item><title><![CDATA[Battle Against Unconscious Behaviours]]></title><description><![CDATA[On overcoming mindless Instagram usage]]></description><link>https://aravindballa.com/memos/battle-against-unconscious-behaviours/</link><guid isPermaLink="true">https://aravindballa.com/memos/battle-against-unconscious-behaviours/</guid><pubDate>Mon, 21 Aug 2023 00:00:00 GMT</pubDate><content:encoded>
-I&apos;ve tried to get rid of unconscious behaviours like opening Instagram automatically after unlocking the phone.
-
-I used to do this a lot. When hit enter and the code is compiling, I pull up the phone. When waiting in a line, I pull up the phone. Opening Insta was an un-mindful act.
-
-Its no more fun, mainly because \[\[Infinite feeds are robbing the joy of your life\]\].
-
-What worked in the past was uninstalling it completely. But its extremes.
-
-_I wanted to find a middle-way._
-
-I experimented with an iOS automation that runs when ever I open Insta it prompts me to type something, like why I want to use it.
-
-But its very easy to surpass this. I started typing gibberish to pass that step.
-
-Now, I&apos;ve setup [OneSec app](https://one-sec.app/) to show me a screen and make me wait for some time before proceeding to Insta.
-
-This is helping me act mindfully and blocking the unconscious behaviour. I constantly get shocked observing how many times I open it.
-
-These kind of interventions to stop addictive behaviours is [research backed](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1360-0443.2010.03028.x).</content:encoded></item><item><title><![CDATA[Fine Tuning misconception]]></title><description><![CDATA[TL;DR - Fine tuning is not long term memory.]]></description><link>https://aravindballa.com/memos/fine-tuning-misconception/</link><guid isPermaLink="true">https://aravindballa.com/memos/fine-tuning-misconception/</guid><pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate><content:encoded>TL;DR - Fine tuning is not long term memory.
-
-This might not come as a surprise for many but I learned this recently and it felt like a silly misconception I had.
-
-This is how I discovered...
-
-I was reading the book **The Courage to be Disliked** (see [highlights](https://aravindballa.com/bookshelf/the-courage-to-be-disliked-8783727/) from it). The format, which is like a conversation between a Philosopher and a person in their youth, felt good. It feels like we are talking to the Philosopher.
-
-However, we could not ask questions or followups.
-
-So I built [Philosopher Chat](https://philosopher-chat.vercel.app) which lets us talk to and extend conversations with the Philosopher.
-
-I took the full text of the book, converted the conversations in it to JSON format, and fine tuned `gpt-3.5-turbo` on that.
-
-Results were not as I expected.
-
-![fine tuned conversation](https://ik.imagekit.io/aravindballa/website/convo-ft.jpeg)
-
-It sure mimicked the style of the Philosopher, but not his memory.
-
-For that, I had to add embeddings, which lets me search for previously had similar conversations, and provide that as context for the AI to reply.
-
-![convo with memory](https://ik.imagekit.io/aravindballa/website/convo-memory.jpg)
-
-Now, it works fairly well.
-
-Why don&apos;t you give it a try? For starters, ask &quot;How can one be happy&quot;. 😉</content:encoded></item><item><title><![CDATA[Had to limit my side projects to only humans]]></title><description><![CDATA[Story about how my side project got attacked]]></description><link>https://aravindballa.com/memos/had-to-limit-my-side-projects-to-only-humans/</link><guid isPermaLink="true">https://aravindballa.com/memos/had-to-limit-my-side-projects-to-only-humans/</guid><pubDate>Thu, 27 Jul 2023 00:00:00 GMT</pubDate><content:encoded>
-I run a side-project called [Stackblocks](https://stackblocks.app).
-
-It&apos;s a [rewarding](https://twitter.com/aravindballa/status/1562688753382019072) [experience](https://twitter.com/aravindballa/status/1542091942653472769). Well, most of the times. Sometimes it gets frustrating.
-
-You get **attacked**. For trying to do something–build something–good.
-
-Don&apos;t know why we humans are like that.
-
-Recently someone, lets call them Hacker, did a DDoS attack on the app&apos;s login page. Which means, thousands of login attempts in a very short period. I send an email with login link when the user wants to login. So, **thousands of mails were sent**.
-
-*6000 emails* were sent by the time I realized and decided to take action.
-
-The limit I have is 1000 for a month. My account was flagged and the app&apos;s login was completely blocked. Even for genuine humans.
-
-I tried putting a rate limit, which says one can try logging in only a few times in an hour. I thought I got rid of the issue.
-
-![](https://pbs.twimg.com/media/FupSWSaWIAEtfyH?format=jpg&amp;name=4096x4096)
-
-But the Hacker found a way to bypass this, maybe some wait period in the script that delays the requests or retries if it fails, who knows. The attacked resumed.
-
-*10,600 emails* sent. I had to find a way to stop.
-
-Captcha to the rescue.
-
-![stackblocks login with captcha](https://ik.imagekit.io/aravindballa/website/sb-captcha.jpg?updatedAt=1690481768306)
-
-I added a check which asks &quot;Are you a human?&quot; before sending the email now.
-
-Thankfully, that&apos;s a bit difficult to crack with a script.
-
-This is how I kept robots at bay. From now on, every login page I build will have this check turned on.
-
-If a robot is reading this, just know that we can still be friends.</content:encoded></item><item><title><![CDATA[I asked Speakers what makes a good Tech Talk]]></title><description><![CDATA[I was at tech conference where I got to meet amazing people]]></description><link>https://aravindballa.com/memos/i-asked-speakers-what-makes-a-good-tech-talk/</link><guid isPermaLink="true">https://aravindballa.com/memos/i-asked-speakers-what-makes-a-good-tech-talk/</guid><pubDate>Wed, 26 Jul 2023 00:00:00 GMT</pubDate><content:encoded>
-I was at React Nexus, a tech conference, recently which took place at Bengaluru in the first week of this month.
-
-It had an amazing line of speakers who delivered great talks. I got a chance to interact with them in the lobby during lunch and free hours. One question I managed to ask 2 speakers, Tejas and Matheus, was - **&quot;What makes a talk GOOD?&quot;**
-
-## Hero&apos;s Journey
-
-Matheus told he likes to use [Hero&apos;s Journey pattern](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheHerosJourney) while building the outline for his talk.
-
-&gt; It&apos;s a classic story structure, often employed in literature and film, that follows the tale of a protagonist as they embark on a transformative journey.
-&gt; 
-&gt; Matheus&apos; [blog post](https://www.ythecombinator.space/posts/2022-wrapped)
-
-This helps him keep the listeners hooked in.
-
-He mentioned he does a lot of dry runs, practices his complete talk, before delivering it.
-
-One more thing I loved about his talk is - it was very interactive. He asked us a question in the beginning of the talk and show us a QR code which opened a webpage where we could enter our answers. At the end of the talk, he showed a word cloud of all the answers we, the audience, had.
-
-That&apos;s equally cool and clever.
-
-He pointed me to a [blog post he recently wrote](https://www.ythecombinator.space/posts/2022-wrapped) touching all these points.
-
-## Content + Delivery = Magic
-
-Tejas likes to teach his audience things that can be put to use straight away. He codes live while giving the talk and explains concepts clearly.
-
-That was the main crux of his advice.
-
-He actually recorded a YouTube video during his dry run and thats a wonderful video if you want to look at a good talk being delivered.
-
-[YouTube - Write React Server Components from Scratch](https://www.youtube.com/watch?v=F83wMYl9GWM)
-
----
-
-These were the key takeaways with respect to giving talks. Had a lot of wholesome conversation with the people I met there, which is a memo for another time.</content:encoded></item><item><title><![CDATA[Infinite feeds are robbing the joy of your life]]></title><description><![CDATA[You get to switch contexts at an enormous pace and your brain gets hooked. Now, it always wants it, and we are doomed.]]></description><link>https://aravindballa.com/memos/infinite-feeds-are-robbing-the-joy-of-your-life/</link><guid isPermaLink="true">https://aravindballa.com/memos/infinite-feeds-are-robbing-the-joy-of-your-life/</guid><pubDate>Mon, 21 Aug 2023 00:00:00 GMT</pubDate><content:encoded>
-You get to switch contexts at an enormous pace and your brain gets hooked. Now, it always wants it, and we’re doomed!
-
-*But life happens in a slow pace.*
-
-It takes time for a flower to blossom.
-
-It takes time to brew coffee.
-
-It takes time to finish a book.
-
-It takes time enjoy your meal.
-
-What do we do when life is happening?
-
-Pull out our phones and get back the dopamine kicking feeds. Insta &amp; Twitter
-
-I find myself guilty of - closing the app and opening it again immediately, *unconsciously*.
-
-Happens to you too? Why are our brains wired like this? - Because we aren’t taking control
-
-What can we do?
-
-- Be okay with missing out
-- Embrace long form content like books, podcasts etc
-- Set your intentions with Social Media
-- Use Lists instead of Twitter&apos;s default feed
-
-An excellent summary of Digital minimalism by the man himself, Cal Newport. No wonder why he isn&apos;t on social media.
-
-[YouTube - Digital Minimalism with Cal Newport](https://www.youtube.com/watch?v=DsGKzjyj_6Q)</content:encoded></item><item><title><![CDATA[Journaling on physical notebooks]]></title><description><![CDATA[From January this year, I started journaling with a pen on a paper. Thoughts on that.]]></description><link>https://aravindballa.com/memos/journaling-on-physical-notebooks/</link><guid isPermaLink="true">https://aravindballa.com/memos/journaling-on-physical-notebooks/</guid><pubDate>Tue, 01 Aug 2023 00:00:00 GMT</pubDate><content:encoded>
-From January this year, I started journaling with a pen on a paper. I used to do it digitally on apps earlier but I could never stick with it for long.
-
-With a few missing days, I&apos;ve been consistently writing a journal till now. I mainly write morning pages, a concept or a tool, that I&apos;ve taken from [The Artist&apos;s Way](https://aravindballa.com/bookshelf/the-artists-way-28946040/).
-
-## Why pen and paper?
-
-Yes, typing on keyboard is faster. You can train yourself to type at the speed of your thought. But you can&apos;t do that when penning down thoughts.
-
-*And that&apos;s the beautiful part.*
-
-You slow down when you hand write your thoughts. I might not be able to articulate properly but that&apos;s when the magic happens.
-
-I love the haptic feedback of pen and paper. And that is addictive. I don&apos;t even listen to any music while writing. I enjoy the sound of the pen scratching on the paper.
-
-## What do I miss?
-
-The advantage in those previous setups, while writing digitally on the apps, was that I could search across my journal entries really fast. I miss that ability to search.
-
-But guess what–I **hardly searched** old entries.
-
-Anyhow, the thoughts that come while journaling are **fleeting** anyways. They aren&apos;t of any value e most of the times. And when they are, I can easily transfer/copy them to my PKM (Personal Knowledge Management) apps.
-
----
-
-## GPT experiments
-
-I like to fit in tech where ever possible. The problem I wanted to solve here was searchablity. I made an iOS Shortcut on my phone which takes pictures of my jounral entry on the notebook, converts the image to text. This text is then saved in my Notes app. So I can search now.
-
-But yeah, I have to take pictures of it after writing my journal do this processing manually everyday.
-
-Along with this - the text is then analysed by ChatGPT which summarizes, find actionable items from my journal.
-
-It was nice and fun for a few days but that quickly added up friction and I stopped doing it.
-
-I also have a few privacy concerns. I have to send my journal entries to OpenAIs servers and it does store everything on its servers.
-
-</content:encoded></item><item><title><![CDATA[Maximizing Deep Work Hours - A Personal Experiment]]></title><description><![CDATA[In today's world, distractions are abundant and the ability to focus is crucial. Learn from one person's personal journey towards increasing deep work hours and discover practical strategies for optimizing phone use during work hours. Start your day right, set aside specific times for distractions, and balance deep and shallow work to build focus and achieve greater productivity.]]></description><link>https://aravindballa.com/memos/maximizing-deep-work-hours-a-personal-experiment/</link><guid isPermaLink="true">https://aravindballa.com/memos/maximizing-deep-work-hours-a-personal-experiment/</guid><pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate><content:encoded>I used to get very less work done in my day.
-Always stopping my urges for distraction, finding myself scrolling feeds whenever there is a chance to.
-
-Now, I feel content with what I get done.
-
-I feel getting focused work done is a muscle that you can train.
-Just like you can train to run longer distances. 
-There is obviously a limit to it.
-4 hours of deep work is my sweet spot now.
-Not to mention a lot of the shallow work that keeps happening.
-
-One side effect of doing good fulfilling work in your day is that you can happily enjoy evenings guilt free.
-
-## Starting the day right
-
-Starting my day with work, after spending minimal time needed to freshen up though, is a sure shot way of setting the day in a good motion.
-
-For me, that&apos;s starting work by 6am.
-Is that necessary?
-I don&apos;t think so.
-
-I have always liked the peaceful early mornings as a kid.
-Now, it feels like the world around me is still asleep and I can work without being bothered.
-
-Our brain tricks us into thinking starting work is easy.
-
-&gt; Trick #1—My mind convinces me going back to work is easy.
-&gt; 
-&gt; – Dopamine Detox book
-
-Let me scroll Twitter for a minute.
-Let me check Insta quickly.
-Let me pick a video to watch before I get into the zone.
-
-Getting into the zone only becomes hard later.
-
-Focus is a muscle.
-Its weak initially and we will only want more distractions throughout the day.
-
-## Optimizing the phone
-
-Or I should say making the phone a bit dumber.
-
-The idea is to not let it trigger you into distractions during work.
-
-My home screen is empty.
-Just the essential apps, like call, are in the dock.
-
-![phone homescreen](https://ik.imagekit.io/aravindballa/website/phone-home-minimal.png?updatedAt=1709225636768)
-
-**Blocking social media**, any apps that have infinite feeds for that matter, has turned out to be peaceful.
-Lowering stimulation also helps with building that ability focus.
-
-From 6pm onwards, I unblock everything. Widgets and apps on the home screen are back [^1].
-The phone is then used as its supposed to be, enjoying all its features.
-
-As I am not eliminating/uninstalling apps completely, I feel this is a lot more sustainable.
-I know I will have time for social media in the evenings so the FOMO is less.
-
-I call this **Intermittent feed fasting**.
-
-This makes the work look more interesting and fulfilling for me.
-Urge to check feeds, that constant need of stimulation is reduced.
-
-I&apos;ve been more than a month into this now and this is whats working for me.
-Everything I mention here might work for you or you might not need to do all the things I do.
-
-Remember, in this day and age, your ability to focus defines what you can achieve.
-
-[^1]: Profiles is a feature on iOS that lets you choose a home screen when a profile is active. And you can schedule activation of these profiles based on a time schedule.</content:encoded></item><item><title><![CDATA[Owning your Platforms - Why and The Good Parts]]></title><description><![CDATA[Things I enjoy about building a platform (blog in this case)]]></description><link>https://aravindballa.com/memos/owning-your-platforms-why-and-the-good-parts/</link><guid isPermaLink="true">https://aravindballa.com/memos/owning-your-platforms-why-and-the-good-parts/</guid><pubDate>Mon, 24 Jul 2023 00:00:00 GMT</pubDate><content:encoded>
-Platforms is a fairly wide term. I will stick to the example of my website in this post.
-
-My beef with taking your content and putting it on platforms controlled by huge companies is that the content becomes theirs and not yours. They own it. They can run ads in between your blog posts, put a paywall against your readers, or sometimes the platform gets [shut down](https://killedby.tech). You can say they give you a share in their revenue, but, how much are they profitting from your content? You literally have no control in your hands.
-
-That&apos;s why I like to build my own solutions, tailored to my needs.
-
-This website is exactly that. To be honest, I wasn&apos;t even an average developer before building this site. I learnt ReactJS with a goal of building this site. What you are looking at is 6 years [in](https://github.com/aravindballa/website/commit/e05587df5d1b2b71b9141b970ef78063bb7b79fb) [the](https://github.com/aravindballa/website2017/commit/0f02adb6c22bf79299f533a2a05fc2d414778c7e) making.
-
-What I like the most - **customisability**.
-
-If I want a feature, I can spend some time writing code and add that gets added. Not always true (See: [[What I dont like about owning your platforms]]).
-
-For example, yesterday I was thinking it would be nice to show the time it takes to read for these memos. Today we have it!
-
-![screenshot of read time](https://ik.imagekit.io/aravindballa/website/read-time.jpeg?updatedAt=1690203731224)
-
-If I was on Substack, that thought would have just remained a thought.
-
-This is just one example. I&apos;ve added so many changes incrementally over time to make this website what it is now.
-
-The side effect of all this is you learn a lot. You learn new technologies, frameworks, about analytics, hosting, deployment, and whole lot.
-</content:encoded></item><item><title><![CDATA[Taking advice from others]]></title><description><![CDATA[... is a double edged sword.]]></description><link>https://aravindballa.com/memos/taking-advice-from-others/</link><guid isPermaLink="true">https://aravindballa.com/memos/taking-advice-from-others/</guid><pubDate>Sat, 05 Aug 2023 00:00:00 GMT</pubDate><content:encoded>
-We all look for advice from friends and family. We fear we might take a wrong step. And we want the confidence that we are on the right path. Even if it&apos;s not, we just want validation.
-
-Came across the below excerpt from Will Smith in his book &quot;Will&quot;. I was listening to the audiobook in the gym today, and I had to stop my workout and note this down.
-
-*By the way, I highly recommend the audiobook version, its narrated by Will himself and he sings and raps in between the lines. It&apos;s a fun listen.*
-
-&gt; The thing about advice - no one can accurately predict the future. We all think we can. 
-&gt; 
-&gt; Advice, at its best, is one person&apos;s limited perspective of the infinite possibilities before you.
-&gt; 
-&gt; Peoples advice is based on their fears, their experiences, their prejudices. And at the end of the day, their advice is just that–it&apos;s theirs. Not yours.
-&gt; 
-&gt; When people give advice, they are basing it on what they would do, what they can perceive, and what they think you can do.
-&gt; 
-&gt; But the bottom line is, ... , you are the first time you have ever happened. **YOU and NOW are a unique occurrence** of which you are the most reliable measure of all the possibilities.
-
-When I first announced to my previous co-workers that I will be taking up a remote job, they advised me against that. They didn&apos;t know what a remote job is and they expressed all their fears of loosing a job to me.
-
-Now, it&apos;s been ~5 years and I would not do a job in a setting other than remote.
-
-In times when you are afraid to take a decision, and not sure if it would work or not, maybe try this.
-
-[Fear setting](https://tim.blog/2017/05/15/fear-setting/) - a framework that Tim Ferriss introduced.
-
-Turns out, when you define your worst nightmare, it won&apos;t be that scary.
-
-&gt; Define your nightmare, the absolute worst that could happen if you did what you are considering. What doubt, fears, and “what-ifs” pop up as you consider the big changes you can—or need—to make? Envision them in painstaking detail. Would it be the end of your life?
-
-Would it?</content:encoded></item><item><title><![CDATA[Tracking Mood - Can you really do it]]></title><description><![CDATA[What gets measured, gets improved]]></description><link>https://aravindballa.com/memos/tracking-mood-can-you-really-do-it/</link><guid isPermaLink="true">https://aravindballa.com/memos/tracking-mood-can-you-really-do-it/</guid><pubDate>Tue, 08 Aug 2023 00:00:00 GMT</pubDate><content:encoded>
-**What gets measured, gets improved**.
-
-I believe that statement is true. I wanted to apply that how I feel / my mood.
-
-But I had a lot of questions. Can I accurately do it? What does it mean to track your mood - What are you actually tracking? My mood changes every hour, so should I track hourly? Or a general idea of how my day was is enough?
-
-_Internet did it&apos;s trick._ You know it listens to us and our feeds are full of the things we think of, right? That happened. Came across a [video from Matt D&apos;Avella](https://www.youtube.com/watch?v=TA4-qQ5wEns&amp;pp=ygUObWF0dCBkJ2F2ZWxsYSA%3D) where he talks about his 365 days mood tracking experience.
-
-I realised I didn&apos;t need extreme tracking mechanisms–just the overall mood for the day. This decision would also be simple to start with.
-
-I tracked the last 7 days.
-
-![phone with 7 days tracking](https://ik.imagekit.io/aravindballa/website/tracking-8days.jpg?updatedAt=1691509596984)
-
-I&apos;m using the same [app](https://daylio.net/) that Matt uses. I like the ability to write a summary of the day. Initially did it on Apple Health app (you can log mood from iOS 17 which is currently in beta) but this didn&apos;t have a place to write summary. (Might change in the future)
-
-UPDATE: Now using `How we feel` app.
-
-How its affecting me - I&apos;m more conscious of how my day is. Instead of just experiencing the day as it is, I am putting efforts to make it better.
-
-![](https://ik.imagekit.io/aravindballa/website/mood-journal.jpg?updatedAt=1691509214294)
-
-When I keep up with this habit and add more days, I will have few insights. For example, [Vidya](https://twitter.com/learnwithvidya/status/1619964161919946754) found out she is least productive / energetic on Tuesdays.
-
-In a month from now, I will write about this again.
-
-~~Have a great day.~~ Do something that makes your day great.</content:encoded></item><item><title><![CDATA[What I do NOT like about owning your platforms]]></title><description><![CDATA[If I am being honest, building your own platforms for blogging is a pain in the wrong place]]></description><link>https://aravindballa.com/memos/what-i-dont-like-about-owning-your-platforms/</link><guid isPermaLink="true">https://aravindballa.com/memos/what-i-dont-like-about-owning-your-platforms/</guid><pubDate>Sun, 23 Jul 2023 00:00:00 GMT</pubDate><content:encoded>
-If I&apos;m being honest, building your own platform for blogging is pain in the wrong place.
-
-I wouldn&apos;t want to spend my Saturday afternoon, sitting at the computer, figuring out why my blog is not getting updated, what&apos;s wrong with an older NodeJS version, why should I use all the latest versions of the frameworks - the list goes on. Argh!
-
-Instead I would like to spend time with friends, eating good food and enjoying this rainy weather here in Hyderabad, India.
-
-Building your own blogging platform, or building anything for that matter, is COOL. But that slowly becomes a pain when you leave that untouched for over 6 months. The tech you&apos;ve used to build expires.
-
-**Yes, in the JavaScript ecosystem, tech expires.**
-
-![death by deprecation sticker](https://ik.imagekit.io/aravindballa/website/death-by-deprication.jpeg?updatedAt=1690119338668)
-
-Maintaining your existing codebase and projects starts becoming a chore. I cannot value the time spent on just upgrading a framework version. The end-user doesn&apos;t see any change. Only you spend time re-writing modules in different way.
-
-If you are not on the latest versions of everything, it doesn&apos;t work. Slowly, companies like Vercel / Netlify stop supporting older versions. Which means, you have to be constantly be on the edge–learning whatever is being released.
-
-Sadly, my blog–the website that you are browsing–is built on top of tech _that expires_.
-
-I planned to write daily starting yesterday, but these upgrading and getting up to speed took nearly 4 hours of time. I could have easily just started writing if I had been using an existing paid service for blogging like Ghost, Substack etc.
-
-But why don&apos;t I switch to something like that then?
-
-I wrote about it in [[Owning your Platforms - Why and The Good Parts]].
-</content:encoded></item><item><title><![CDATA[Why play games you have already won]]></title><description><![CDATA[There is no reward for games that you have won]]></description><link>https://aravindballa.com/memos/why-play-games-you-have-already-won/</link><guid isPermaLink="true">https://aravindballa.com/memos/why-play-games-you-have-already-won/</guid><pubDate>Wed, 02 Aug 2023 00:00:00 GMT</pubDate><content:encoded>
-I used to play a lot of video games as a kid. Although, I could not stick with a game for long. I used to switch a lot as I got bored very easily.
-
-When I completed a game, I never used to go back and play again.  It never interested me to play a game twice.
-
-Why? Because the rewards stop coming in.
-
-This conversation, between Derek and Tim, reminded me of that.
-
-[https://youtube.com/shorts/Lt-tkioOkpY](https://youtube.com/shorts/Lt-tkioOkpY)
-
-As I grew up, I forgot how to play.
-
-What games have you been playing that you won already and not getting rewards anymore?</content:encoded></item><item><title><![CDATA[Why write memos everyday]]></title><description><![CDATA[The real reason for writing these memos]]></description><link>https://aravindballa.com/memos/why-write-memos-everyday/</link><guid isPermaLink="true">https://aravindballa.com/memos/why-write-memos-everyday/</guid><pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate><content:encoded>
-When I started, 2 days ago, I didn&apos;t know what the actual goal with them is. I generally have my **why** figured out before even I start something. Like the case with [podcast](https://aravindballa.com/writings/starting-podcast/) or my [side-project](https://aravindballa.com/writings/conversation-on-why-stackblocks/).
-
-I just did it because my friends [Sreekar](https://sreekarscribbles.com) and [Vidya](https://personal.vidya.so) were doing it. And they would make wonderful accountability partners.
-
-Although, this wasn&apos;t the sole reason. There were times in the past when I had thoughts of publishing daily. My friends doing it gave me the right push.
-
-Main goal with this is to build that publishing muscle. We consume a lot of info but fail to produce or put out our thoughts. We don&apos;t express as much.
-
-This is an outlet, a way to express.
-
-The last step in Tiago&apos;s CODE framework (from Building a Second Brain book) is E for Express.
-
-I don&apos;t want to gain a huge popularity or following by doing this. I just want to attract the right kind of minds that spark with the ideas I put out and be sparked my the conversations that could take place.
-
-Writing and publishing daily would mean an opportunity everyday to do that.
-
-I&apos;m just [increasing my surface area for luck](https://buttondown.email/aravindballa/archive/increasing-your-luck/).</content:encoded></item><item><title><![CDATA[Working from cafes]]></title><description><![CDATA[Working from anywhere is a skill that can be built]]></description><link>https://aravindballa.com/memos/working-from-cafes/</link><guid isPermaLink="true">https://aravindballa.com/memos/working-from-cafes/</guid><pubDate>Wed, 09 Aug 2023 00:00:00 GMT</pubDate><content:encoded>
-A friend recently asked me how I get work done when I roam around, hopping in cafes. I&apos;m jotting down my experiences here.
-
-Ability get stuff done while roaming around is a skill which can be built. I&apos;ve been practising this for almost 4 years.
-
-I feel the main thing we miss when we are not at a designated place to work, be it a room at your home or your office, is a structure. Getting into the zone gets difficult.
-
-## Before visiting the cafe
-
-Whether you are in a new city or in your hometown, doing a good prep before going to the cafe matters a lot.
-
-**What would you like to get done?**
-
-Make an agenda. Write it down in your TODO app, or notebook, or stick a PostIt on your laptop. Just this one trick will let you be on track. When you strike things off, it will make you feel good for the progress you are making.
-
-## At the cafe
-
-Pomodoro schedule–25 min of focused work followed by 5-10 min break helps you get work done.
-
-If you are with a bunch of friends, make sure you all are on the same page and want to get some work done. Or chill. Just know what you are planing to do.
-
-Focusing in scheduled time blocks requires practice. It will be tough in the beginning. You will slowly start building the skill to get into the work-zone whenever you decide to.
-
-This is something you can take home. Focusing is an essential skill for knowledge workers like us. Multi tasking is a myth. You are try to context switch very fast.
-
-Finally, I don&apos;t have to really say this, but let me say it anyways–enjoy some coffee and food. And your time with friends. This keeps you recharged / energized for the upcoming days.
-
-Enjoy.
-</content:encoded></item><item><title><![CDATA[You hate olives today]]></title><description><![CDATA[Ideas about identity from Tim Ferriss podcast]]></description><link>https://aravindballa.com/memos/you-hate-olives-today/</link><guid isPermaLink="true">https://aravindballa.com/memos/you-hate-olives-today/</guid><pubDate>Sat, 29 Jul 2023 00:00:00 GMT</pubDate><content:encoded>
-When you become rigid about the things you love and hate, it becomes hard to change. You become narrow minded. You close all the doors.
-
-This conversation between Derek And Tim was eyeopening on the things I formed opinions on and was strict about not changing.
-
-&gt; **Derek Sivers:** Well, there&apos;s a tiny idea around the identity, which is to just admit that whatever you are is now and whatever your preference is now.
-&gt; 
-&gt; So when my kid says &quot;I hate tomatoes,&quot; I say &quot;today.&quot; And he goes, &quot;Oh, right, I hate tomatoes today!&quot;
-&gt;
-&gt; Because it&apos;s leaving open the possibility that you might change your mind tomorrow. And he did! I hate olives. I hate, hate, hate olives so badly. And he picked this up from me, right? So he&apos;s like, &quot;I hate olives, too!&quot; But he was just imitating me. And then we went to Subway one day. I was so proud of him. He walked up to the counter and he said &quot;I would like olives.&quot; And they said, &quot;Do you want anything else?&quot; He said, &quot;Ham, just ham and olives.&quot;
-&gt;
-&gt; And they loaded this sandwich full of olives. And I looked at it horrified.
-&gt;
-&gt; He ate it and loved it! And he goes, &quot;I like olives now.&quot; I was like, &quot;Yes.&quot;
-&gt;
-&gt; I love that switching between identities.
-
-Source: [YouTube - Derek Sivers — The Joys of an Un-Optimized Life…](https://youtu.be/0BaDQCjqUHU)
-
-Do you really hate that thing or did you borrow the hatred from someone close? When did you think about changing it?
-
-Next time you express hatred, add *today* at the end.
-
-I hate olives today.
-</content:encoded></item></channel></rss>
+</content:encoded>
+        </item>
+    </channel>
+</rss>
