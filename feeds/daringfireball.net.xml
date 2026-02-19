@@ -7,7 +7,43 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-02-19T22:12:35Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-02-19T23:29:26Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>IMAX and Apple Collaborate to Screen F1 Races Live in Theaters</title>
+	<link rel="alternate" type="text/html" href="https://www.motorsport.com/f1/news/f1-to-screen-live-in-imax-theatres-in-2026-as-apple-tv-unveils-new-us-viewing-experience/10798974/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wwn" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/02/19/imax-and-apple-collaborate-to-screen-f1-races-live-in-theaters" />
+	<id>tag:daringfireball.net,2026:/linked//6.42647</id>
+	<published>2026-02-19T23:29:06Z</published>
+	<updated>2026-02-19T23:29:26Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Lydia Mee, reporting for Motorsport:</p>
+
+<blockquote>
+  <p>IMAX has announced that a select number of races will be shown
+live in IMAX locations across the United States in 2026. The new
+fan viewing experience is part of a collaboration with Apple TV,
+which has taken over the broadcasting rights for the championship
+in the US on a multi-year deal from 2026.</p>
+
+<p>“F1 is a rapidly growing force in sports and culture in the US,
+and by bringing F1 on Apple TV live to IMAX theatres nationwide,
+we’re delivering the energy and excitement to even more screens in
+a truly immersive way,” said Oliver Schusser, Apple’s vice
+president of music, sports, and Beats.</p>
+</blockquote>
+
+<p>You know what would add even <em>more</em> screens in an immersive way? <a href="https://daringfireball.net/linked/2026/02/18/immersive-f1-vision-pro-spitball">If Vision Pro users had access to the same live screenings</a> on virtual IMAX screens.</p>
+
+<div>
+<a  title="Permanent link to ‘IMAX and Apple Collaborate to Screen F1 Races Live in Theaters’"  href="https://daringfireball.net/linked/2026/02/19/imax-and-apple-collaborate-to-screen-f1-races-live-in-theaters">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>One More Spitball Idea for Apple’s March 4 Media Event ‘Experience’: Immersive F1 on Vision Pro?</title>
 	<link rel="alternate" type="text/html" href="https://www.formula1.com/en/latest/article/official-grand-prix-start-times-for-2026-f1-season-confirmed.2UgPfArqH76tzlOYh21jSG" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wwm" />
@@ -2177,52 +2213,4 @@ saturation point very soon.</p>
 
 
     ]]></content>
-  <title>★ Tahoe Added a Finder Option to Resize Columns to Fit Filenames</title></entry><entry>
-	<title>OmniOutliner 6</title>
-	<link rel="alternate" type="text/html" href="https://www.omnigroup.com/blog/introducing-omnioutliner-6" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wva" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/23/omnioutliner-6" />
-	<id>tag:daringfireball.net,2026:/linked//6.42598</id>
-	<published>2026-01-24T00:59:23Z</published>
-	<updated>2026-01-24T00:59:23Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Ken Case, on The Omni Group blog:</p>
-
-<blockquote>
-  <p>The features noted above already make for a great upgrade. But <a href="https://www.omnigroup.com/blog/omni-roadmap-2025#document-links">as
-I mentioned last year</a>, one of the interesting problems
-we’ve been pondering is how best to link to documents in native
-apps. We’ve spent some time refining our solution to that problem,
-Omni Links, which are now shipping first in OmniOutliner 6. With
-Omni Links, we can link to content across all our devices, and we
-can share those links with other people and other apps.</p>
-
-<p>Omni Links support everything we said document links needed to
-have. Omni Links work across all of Apple’s computing platforms
-and can be shared with a team. They leverage existing solutions
-for syncing and sharing documents, such as iCloud Drive or shared
-Git repositories. They are easy to create, easy to use, and easy
-to share.</p>
-
-<p>Omni Links also power up Omni Automation, giving scripts and
-plug-ins a way to reference and update content in linked documents — documents that can be shared across all your team’s devices.</p>
-</blockquote>
-
-<p>There’s lots more in version 6, including a modernized UI, and many additions to Omni Automation, Omni’s scripting platform that works across both Mac and iOS — including really useful <a href="https://omni-automation.com/shared/alm-collection.html">integration with Apple’s on-device Foundation Models</a>, with, of course, comprehensive (and comprehensible) <a href="https://omni-automation.com/shared/alm.html">documentation</a>.</p>
-
-<p>It’s <a href="https://support.omnigroup.com/documentation/omnioutliner/universal/6.0.1/en/connect/#omni-links">Omni Links</a>, though, that strikes me as the most interesting new feature. The two fundamental models for apps are library-based (like Apple Notes) and document-based (like TextEdit). Document-based apps create and open files from the file system. Library-based apps create items in a database, and the location of the database in the file system is an implementation detail the user shouldn’t worry about.</p>
-
-<p>OmniOutliner has always been document-based, and version 6 continues to be. There are advantages and disadvantages to both models, but one of the advantages to library-based apps is that they more easily allow the developer to create custom URL schemes to link to items in the app’s library. Omni Links is an ambitious solution to bring that to document-based apps. Omni Links let you copy URLs that link not just to an OmniOutliner document, but to any specific row within an OmniOutliner document. And you can paste those URLs into any app you want (like, say, Apple Notes or <a href="https://www.culturedcode.com/">Things</a>, or events in your calendar app). From the perspective of other apps, they’re just URLs that start with <code>omnioutliner://</code>. They’re not based on anything as simplistic as a file’s pathname. They’re a robust way to link to a unique document, or a specific row within that document. Create an Omni Link on your Mac, and that link will work on your iPhone or iPad too — or vice versa. This is a very complex problem to solve, but Omni Links delivers on the age-old promise of “It just works”, abstracting all the complexity.</p>
-
-<p>I’ve been using OmniOutliner for at least two decades now, and Omni Links strikes me as one of the best features they’ve ever added. It’s a way to connect your outlines, and the content within your outlines, to any app that accepts links. The other big change is that OmniOutliner 6 is now a single universal purchase giving you access to the same features on Mac, iPhone, iPad, and Vision.</p>
-
-<div>
-<a  title="Permanent link to ‘OmniOutliner 6’"  href="https://daringfireball.net/linked/2026/01/23/omnioutliner-6">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry></feed><!-- THE END -->
+  <title>★ Tahoe Added a Finder Option to Resize Columns to Fit Filenames</title></entry></feed><!-- THE END -->
