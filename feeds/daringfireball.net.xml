@@ -2204,4 +2204,13 @@ saturation point very soon.</p>
 
 <p>On MacOS 15, if you attempt to rename an item that is scrolled under the sidebar in column view, the column containing that item snaps into place next to the sidebar, so it’s fully visible. That snapping into place just feels right. The way Tahoe works, where the column doesn’t move and the text editing field for the filename just gets drawn on top of the sidebar, feels gross, like I’m using a computer that is not a Macintosh. Amateur hour.</p>
 
-<p>I wish I could set this new column-resizing option only to grow columns to accommodate long filenames, and never to shrink columns when the visible items all have short filenames. But the way it currently works, it adjusts all columns to the width of the longest visible filename each column is displaying — narrowing some, and widening others. I want most columns to stay at the default width. With this new option enabled, it looks a bit higgledy-pigg
+<p>I wish I could set this new column-resizing option only to grow columns to accommodate long filenames, and never to shrink columns when the visible items all have short filenames. But the way it currently works, it adjusts all columns to the width of the longest visible filename each column is displaying — narrowing some, and widening others. I want most columns to stay at the default width. With this new option enabled, it looks a bit higgledy-piggledy that every column is a different width.</p>
+
+<p>Also, it’s an obvious shortcoming that the feature only adjusts columns to the size of the longest <em>currently visible</em> filename. If you scroll down in a column and get to a filename that is too long to fit, nothing happens. It just doesn’t fit.</p>
+
+<p>Even a future polished version of this column view feature wouldn’t, in and of itself, be enough to tempt me to upgrade to Tahoe. After 30-some years of columns that don’t automatically adjust their widths, I can wait another year. But we don’t yet have a polished version of this feature. The unpolished version of the feature we have today only reiterates my belief that Tahoe is a mistake to be avoided. It’s a good idea though, and there aren’t even many of those in Tahoe.</p>
+
+
+
+    ]]></content>
+  <title>★ Tahoe Added a Finder Option to Resize Columns to Fit Filenames</title></entry></feed><!-- THE END -->
