@@ -7,7 +7,70 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-02-24T21:11:05Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-02-24T21:49:47Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Apple in 2025: The Six Colors Report Card</title>
+	<link rel="alternate" type="text/html" href="https://sixcolors.com/post/2026/02/2025reportcard/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wx3" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/02/24/apple-in-2025-the-six-colors-report-card" />
+	<id>tag:daringfireball.net,2026:/linked//6.42663</id>
+	<published>2026-02-24T21:49:10Z</published>
+	<updated>2026-02-24T21:49:47Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jason Snell:</p>
+
+<blockquote>
+  <p>It’s time for our annual look back on Apple’s performance during
+the past year, as seen through the eyes of writers, editors,
+developers, podcasters, and other people who spend an awful lot of
+time thinking about Apple. The whole idea here is to get a broad
+sense of sentiment — the “vibe in the room” — regarding the past
+year. (And by looking at previous survey results, we can even see
+how that sentiment has drifted over the course of an entire
+decade.)</p>
+
+<p>This is the eleventh year that I’ve presented this survey to my
+hand-selected group. They were prompted with 14 different
+Apple-related subjects, and asked to rate them on a scale from 1
+(worst) to 5 (best) and optionally provide text commentary per
+category.</p>
+</blockquote>
+
+<p>I still need to polish it up a bit, but per tradition, I’ll publish my own report card shortly. In the meantime, it’s always edifying to read Snell’s summary and the average grades. You’ll never guess which category Apple flunked for 2025. (Spoiler: World Impact.)</p>
+
+<p>Regarding MacOS 26 Tahoe, here are the comments from two Johns:</p>
+
+<blockquote>
+  <p>“Tahoe is the worst user interface update in the history of the
+Mac. Every change is either wrongheaded, poorly executed, or both.
+The Mac remains usable only because of Tahoe’s lack of ambition:
+it mostly alters the appearance and metrics of interface elements
+rather than making fundamental changes to the structure of the Mac
+UI. Thank goodness for that. The bad ideas embodied in Tahoe
+reveal an Apple design team that has abandoned the most basic
+principles of human-computer interaction.” —John Siracusa</p>
+
+<p>“Tahoe is the worst regression in the entire history of MacOS.
+There are many reasons to prefer MacOS to any of its competition,
+but the one that has been the most consistent since System 1 in
+1984 is the superiority of its user interface. There is nothing
+about Tahoe’s new UI that is better than its predecessor….
+Fundamental principles of computer-human interaction — principles
+that Apple itself forged over decades — have been completely
+ignored.” —John Gruber</p>
+</blockquote>
+
+<p>Siracusa and I didn’t say a word to each other while writing those comments. (If we had, I’d have switched to “human-computer interaction” from “computer-human interaction”.)</p>
+
+<div>
+<a  title="Permanent link to ‘Apple in 2025: The Six Colors Report Card’"  href="https://daringfireball.net/linked/2026/02/24/apple-in-2025-the-six-colors-report-card">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple Will Begin Manufacturing Mac Minis in Houston Later This Year</title>
 	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wx2" />
@@ -1831,50 +1894,6 @@ would lie about it to get what they want.</p>
 
 <div>
 <a  title="Permanent link to ‘Meta’s Response to Reuters Report on ‘Romance AI Chatbots’ for Teenagers’"  href="https://daringfireball.net/linked/2026/01/28/metas-response-to-reuters-report">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Court Filing Claims Zuckerberg Blocked Curbs at Meta on Sex-Talking Chatbots for Minors</title>
-	<link rel="alternate" type="text/html" href="https://www.reuters.com/legal/government/meta-ceo-zuckerberg-blocked-curbs-sex-talking-chatbots-minors-court-filing-2026-01-27/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wvv" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/27/horwitz-zuck-meta-teen-sexbots" />
-	<id>tag:daringfireball.net,2026:/linked//6.42619</id>
-	<published>2026-01-28T00:17:02Z</published>
-	<updated>2026-01-28T00:17:03Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jeff Horwitz, reporting for Reuters:</p>
-
-<blockquote>
-  <p>Meta Chief Executive Mark Zuckerberg approved allowing minors
-to access AI chatbot companions that safety staffers warned
-were capable of sexual interactions, according to internal Meta
-documents filed in a New Mexico state court case and made
-public Monday.</p>
-
-<p>The lawsuit — brought by the state’s attorney general, Raul
-Torrez, and scheduled for trial next month — alleges that
-Meta “failed to stem the tide of damaging sexual material and
-sexual propositions delivered to children” on Facebook and
-Instagram. [...]</p>
-
-<p>Messages between two employees from March of 2024 state that
-Zuckerberg had rejected creating parental controls for the
-chatbots, and that staffers were working on “Romance AI chatbots”
-that would be allowed for users under the age of 18. We “pushed
-hard for parental controls to turn GenAI off — but GenAI
-leadership pushed back stating Mark decision,” one employee wrote
-in that exchange.</p>
-</blockquote>
-
-<p>Horwitz was with The Wall Street Journal for a long time; his is <a href="https://daringfireball.net/linked/2025/02/28/meta-ultra-violence">a byline</a> worth <a href="https://daringfireball.net/linked/2020/05/27/wsj-facebook-divisiveness">paying attention to</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Court Filing Claims Zuckerberg Blocked Curbs at Meta on Sex-Talking Chatbots for Minors’"  href="https://daringfireball.net/linked/2026/01/27/horwitz-zuck-meta-teen-sexbots">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
