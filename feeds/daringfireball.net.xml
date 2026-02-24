@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-02-24T20:06:17Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-02-24T20:30:40Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>Apple Will Begin Manufacturing Mac Minis in Houston Later This Year</title>
 	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wx2" />
@@ -119,7 +119,7 @@ precise spacing between specific letter pairs.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/02/24/sja-letters-to-a-young-creator" />
 	<id>tag:daringfireball.net,2026:/linked//6.42659</id>
 	<published>2026-02-24T19:11:17Z</published>
-	<updated>2026-02-24T19:11:18Z</updated>
+	<updated>2026-02-24T20:30:40Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -144,6 +144,8 @@ struggle and success, mistakes, and milestones. The wisdom they
 share in their reflections was forged by asking the kinds of
 questions you’re asking now.</p>
 </blockquote>
+
+<p>Carve out some time for this collection. It’s also available as <a href="https://books.apple.com/us/book/letters-to-a-young-creator/id6759349977">an ebook from Apple Books</a> or <a href="https://stevejobsarchive.com/publications">EPUB download</a> from SJA’s publications page.</p>
 
 <div>
 <a  title="Permanent link to ‘The Steve Jobs Archive: ‘Letters to a Young Creator’’"  href="https://daringfireball.net/linked/2026/02/24/sja-letters-to-a-young-creator">&nbsp;★&nbsp;</a>
@@ -2181,13 +2183,4 @@ saturation point very soon.</p>
 
 <p>On MacOS 15, if you attempt to rename an item that is scrolled under the sidebar in column view, the column containing that item snaps into place next to the sidebar, so it’s fully visible. That snapping into place just feels right. The way Tahoe works, where the column doesn’t move and the text editing field for the filename just gets drawn on top of the sidebar, feels gross, like I’m using a computer that is not a Macintosh. Amateur hour.</p>
 
-<p>I wish I could set this new column-resizing option only to grow columns to accommodate long filenames, and never to shrink columns when the visible items all have short filenames. But the way it currently works, it adjusts all columns to the width of the longest visible filename each column is displaying — narrowing some, and widening others. I want most columns to stay at the default width. With this new option enabled, it looks a bit higgledy-piggledy that every column is a different width.</p>
-
-<p>Also, it’s an obvious shortcoming that the feature only adjusts columns to the size of the longest <em>currently visible</em> filename. If you scroll down in a column and get to a filename that is too long to fit, nothing happens. It just doesn’t fit.</p>
-
-<p>Even a future polished version of this column view feature wouldn’t, in and of itself, be enough to tempt me to upgrade to Tahoe. After 30-some years of columns that don’t automatically adjust their widths, I can wait another year. But we don’t yet have a polished version of this feature. The unpolished version of the feature we have today only reiterates my belief that Tahoe is a mistake to be avoided. It’s a good idea though, and there aren’t even many of those in Tahoe.</p>
-
-
-
-    ]]></content>
-  <title>★ Tahoe Added a Finder Option to Resize Columns to Fit Filenames</title></entry></feed><!-- THE END -->
+<p>I wish I could set this new column-resizing option only to grow columns to accommodate long filenames, and never to shrink columns when the visible items all have short filenames. But the way it currently works, it adjusts all columns to the width of the longest visible filename each column is displaying — narrowing some, and widening others. I want most columns to stay at
