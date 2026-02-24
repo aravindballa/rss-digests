@@ -7,7 +7,76 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-02-24T00:31:00Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-02-24T16:28:16Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Times New Resistance</title>
+	<link rel="alternate" type="text/html" href="https://www.abbyhaddican.com/times-new-resistance" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wwt" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/02/24/times-new-resistance" />
+	<id>tag:daringfireball.net,2026:/linked//6.42653</id>
+	<published>2026-02-24T16:19:23Z</published>
+	<updated>2026-02-24T16:19:24Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Abby Haddican:</p>
+
+<blockquote>
+  <p>Times New Resistance autocorrects specific words as they are
+typed. For example, the word <em>ICE</em> autocorrects to <em>the Goon
+Squad</em> and the word <em>Trump</em> autocorrects to <em>Donald Trump is
+a felon</em>.</p>
+
+<p>To the untrained eye, Times New Resistance looks just like Times
+New Roman — <a href="https://www.npr.org/2025/12/11/nx-s1-5639915/u-s-state-department-changes-official-font-from-calibri-back-to-times-new-roman">the official font of the U.S. State
+Department</a>. When you install the font, <em>it will appear in
+your font menus as Times &nbsp;New Roman</em>, with an extra space
+between the words Times and New.</p>
+</blockquote>
+
+<p>Ligatures, man. Who knew?</p>
+
+<div>
+<a  title="Permanent link to ‘Times New Resistance’"  href="https://daringfireball.net/linked/2026/02/24/times-new-resistance">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>NetNewsWire 7 for Mac</title>
+	<link rel="alternate" type="text/html" href="https://netnewswire.blog/2026/01/27/netnewswire-for-mac.html" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wwq" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/02/23/netnewswire-7-for-mac" />
+	<id>tag:daringfireball.net,2026:/linked//6.42650</id>
+	<published>2026-02-24T01:00:00Z</published>
+	<updated>2026-02-24T16:28:16Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Brent Simmons, last month:</p>
+
+<blockquote>
+  <p>The big change from 6.2.1 is that it adopts the Liquid Glass UI
+and it requires macOS 26.</p>
+
+<p>(Note to people who aren’t on macOS 26: we fixed a lot of bugs in
+6.2 and 6.2.1 knowing that many people might skip, or at least
+delay, installing macOS 26. Also note that there’s a page where
+you can <a href="https://netnewswire.com/old-versions.html">get old versions of NetNewsWire</a>.)</p>
+</blockquote>
+
+<p>It feels a little weird for me <em>not</em> to be running the latest version of NetNewsWire, but since I’m skipping MacOS 26 Tahoe, I can’t run NetNewsWire 7. I <em>am</em> running NetNewsWire 7 betas on my iPhone and iPad, and I’ve tried it out the secondary Mac where I do have Tahoe installed. It’s so good. And syncing works just fine with NetNewsWire 6.x, for anyone else in the fellowship sticking with MacOS 15 Sequoia. You can run NetNewsWire 7 on some devices and NetNewsWire 6 on your Sequoia Mac, and it just works.</p>
+
+<p><a href="https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210">NetNewsWire 7 is also now out for iOS</a>, and Brent and I talked about both versions last month <a href="https://daringfireball.net/thetalkshow/2026/01/31/ep-440">when he was my guest on The Talk Show</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘NetNewsWire 7 for Mac’"  href="https://daringfireball.net/linked/2026/02/23/netnewswire-7-for-mac">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>The Pants-Shitting Saga of Resizing Windows on MacOS 26 Tahoe Continues</title>
 	<link rel="alternate" type="text/html" href="https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wws" />
@@ -34,38 +103,6 @@ post</a> had been resolved.</p>
 
 <div>
 <a  title="Permanent link to ‘The Pants-Shitting Saga of Resizing Windows on MacOS 26 Tahoe Continues’"  href="https://daringfireball.net/linked/2026/02/23/norbert-heger-resizing-saga">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>NetNewsWire 7 for Mac</title>
-	<link rel="alternate" type="text/html" href="https://netnewswire.blog/2026/01/27/netnewswire-for-mac.html" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wwq" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/02/23/netnewswire-7-for-mac" />
-	<id>tag:daringfireball.net,2026:/linked//6.42650</id>
-	<published>2026-02-23T21:41:00Z</published>
-	<updated>2026-02-23T21:41:28Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Brent Simmons, last month:</p>
-
-<blockquote>
-  <p>The big change from 6.2.1 is that it adopts the Liquid Glass UI
-and it requires macOS 26.</p>
-
-<p>(Note to people who aren’t on macOS 26: we fixed a lot of bugs in
-6.2 and 6.2.1 knowing that many people might skip, or at least
-delay, installing macOS 26. Also note that there’s a page where
-you can <a href="https://netnewswire.com/old-versions.html">get old versions of NetNewsWire</a>.)</p>
-</blockquote>
-
-<p>It feels a little weird for me <em>not</em> to be running the latest version of NetNewsWire, but since I’m skipping MacOS 26 Tahoe, I can’t run NetNewsWire 7. I <em>am</em> running NetNewsWire 7 betas on my iPhone and iPad, and I’ve tried it out the secondary Mac where I do have Tahoe installed. It’s so good. And syncing works just fine with NetNewsWire 6.x, for anyone else in the fellowship sticking with MacOS 15 Sequoia. You can run NetNewsWire 7 on some devices and NetNewsWire 6 on your Sequoia Mac, and it just works.</p>
-
-<div>
-<a  title="Permanent link to ‘NetNewsWire 7 for Mac’"  href="https://daringfireball.net/linked/2026/02/23/netnewswire-7-for-mac">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
@@ -1854,38 +1891,6 @@ comparison, is projected to generate about $27 billion, or about
 
 <div>
 <a  title="Permanent link to ‘Nvidia Set to Supplant Apple as TSMC’s Largest Customer’"  href="https://daringfireball.net/linked/2026/01/26/nvidia-apple-tsmc">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Airlines That Support Shared Item Location for Luggage With AirTags</title>
-	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2026/01/26/airtag-2-airlines-lost-bags/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wvj" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/26/airlines-airtags" />
-	<id>tag:daringfireball.net,2026:/linked//6.42607</id>
-	<published>2026-01-26T22:10:43Z</published>
-	<updated>2026-01-26T22:10:43Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Joe Rossignol, writing at MacRumors:</p>
-
-<blockquote>
-  <p>Apple offers a <a href="https://www.macrumors.com/2024/11/11/apple-announces-airtag-location-sharing/">Share Item Location feature in the Find My
-app</a> that allows you to temporarily share the location of an
-AirTag-equipped item with others, including employees at
-participating airlines. This way, if you put an AirTag inside your
-bags, the airline can better help you find them in the event they
-are lost or delayed at the airport. [...] Below, we have listed
-most of the airlines that support the feature.</p>
-</blockquote>
-
-<p><a href="https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/">Apple’s announcement</a> claims that 36 airlines support it today, and 15 more are coming soon.</p>
-
-<div>
-<a  title="Permanent link to ‘Airlines That Support Shared Item Location for Luggage With AirTags’"  href="https://daringfireball.net/linked/2026/01/26/airlines-airtags">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
