@@ -7,7 +7,61 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-02-24T18:01:28Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-02-24T19:03:24Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Acme Weather</title>
+	<link rel="alternate" type="text/html" href="https://acmeweather.com/blog/introducing-acme-weather" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wwy" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/02/24/acme-weather" />
+	<id>tag:daringfireball.net,2026:/linked//6.42658</id>
+	<published>2026-02-24T18:49:52Z</published>
+	<updated>2026-02-24T18:49:52Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Adam Grossman:</p>
+
+<blockquote>
+  <p>Fifteen years ago, we started work on the Dark Sky weather app.</p>
+
+<p>Over the years it went through numerous iterations — including
+more than one major redesign — as we worked our way through the
+process of learning what makes a great weather app. Eventually, in
+time, it was acquired by Apple, where the forecast and some core
+features were incorporated into Apple Weather.</p>
+
+<p>We enjoyed our time at Apple. So why did we leave to start another
+weather company?</p>
+
+<p>It’s simple: when looking at the landscape of the countless
+weather apps out there, many of them lovely, we found ourselves
+feeling unsatisfied. The more we spoke to friends and family, the
+more we heard that many of them did too. And, of course, we missed
+those days as a small scrappy shop.</p>
+
+<p>So let’s try this again…</p>
+</blockquote>
+
+<p>Acme Weather is a solid 1.0. Its main innovation is a timeline graph of alternative forecasts:</p>
+
+<blockquote>
+  <p>First, the spread of the lines offers a sort of intuition as to
+how reliable the forecast is. Take the two forecasts below. In the
+first, the alternate predictions are tightly focused and the
+forecast can be considered robust and reliable. In the second,
+there is a significant spread, which is an indication that
+something is up and the forecast may be subject to change. It’s a
+call to action to check other conditions or maps, or come back to
+the app more frequently.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘Acme Weather’"  href="https://daringfireball.net/linked/2026/02/24/acme-weather">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission</title>
 	<link rel="alternate" type="text/html" href="https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wwx" />
@@ -219,7 +273,7 @@ only remaining successful consumer brands.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/02/24/times-new-resistance" />
 	<id>tag:daringfireball.net,2026:/linked//6.42653</id>
 	<published>2026-02-24T16:19:23Z</published>
-	<updated>2026-02-24T16:19:24Z</updated>
+	<updated>2026-02-24T19:03:24Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -240,7 +294,7 @@ your font menus as Times &nbsp;New Roman</em>, with an extra space
 between the words Times and New.</p>
 </blockquote>
 
-<p>Ligatures, man. Who knew?</p>
+<p><a href="https://daringfireball.net/linked/2020/05/13/scunthorpe-sans">Ligatures</a>, man. Who knew?</p>
 
 <div>
 <a  title="Permanent link to ‘Times New Resistance’"  href="https://daringfireball.net/linked/2026/02/24/times-new-resistance">&nbsp;★&nbsp;</a>
@@ -1824,44 +1878,6 @@ secretary for the word that escaped him.</p>
 
 <div>
 <a  title="Permanent link to ‘‘Whatever’’"  href="https://daringfireball.net/linked/2026/01/27/whatever">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Clawdbot Is Now Moltbot</title>
-	<link rel="alternate" type="text/html" href="https://www.molt.bot/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wvq" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/27/clawdbot-is-now-moltbot" />
-	<id>tag:daringfireball.net,2026:/linked//6.42614</id>
-	<published>2026-01-27T20:34:36Z</published>
-	<updated>2026-01-28T16:13:58Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>From the footer on the project’s website:</p>
-
-<blockquote>
-  <p>Moltbot was formerly known as Clawdbot. Independent project, not
-affiliated with Anthropic.</p>
-</blockquote>
-
-<p>Makes sense, to be honest, <a href="https://www.businessinsider.com/clawdbot-changes-name-moltbot-anthropic-trademark-2026-1">that Anthropic would object</a> to naming it a homonym for Claude.</p>
-
-<p>One additional followup to <a href="https://daringfireball.net/linked/2026/01/26/viticci-on-clawdbot">my post the other day</a>. In his terrific introduction to <s>Clawd</s>Moltbot, <a href="https://www.macstories.net/stories/clawdbot-showed-me-what-the-future-of-personal-ai-assistants-looks-like/">Federico Viticci wrote</a>:</p>
-
-<blockquote>
-  <p>I’ve been playing around with Clawdbot so much, I’ve burned
-through 180 million tokens on the Anthropic API (<em>yikes</em>), and
-I’ve had fewer and fewer conversations with the “regular” Claude
-and ChatGPT apps in the process.</p>
-</blockquote>
-
-<p>Those tokens aren’t free. I asked Viticci just how much “yikes” cost, and <a href="https://mastodon.macstories.net/@viticci/115968901926545907">he said</a> around US$560 — using way more input than output tokens.</p>
-
-<div>
-<a  title="Permanent link to ‘Clawdbot Is Now Moltbot’"  href="https://daringfireball.net/linked/2026/01/27/clawdbot-is-now-moltbot">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
