@@ -7,7 +7,48 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-02-25T20:44:15Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-02-25T20:59:30Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Samsung Galaxy S26 Ultra’s Privacy Display</title>
+	<link rel="alternate" type="text/html" href="https://9to5google.com/2026/02/25/samsung-galaxy-s26-ultra-privacy-display-demo-hands-on/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wx9" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/02/25/samsung-galaxy-s26-ultras-privacy-display" />
+	<id>tag:daringfireball.net,2026:/linked//6.42669</id>
+	<published>2026-02-25T20:59:30Z</published>
+	<updated>2026-02-25T20:59:30Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Ben Schoon, writing for 9to5 Google:</p>
+
+<blockquote>
+  <p>When activated, Privacy Display changes how the pixels in your
+display emit light, making it harder or near-impossible to view
+the display at an off-angle. At its default setting, it definitely
+works, but the contents of the display are visible at less-sharp
+angles. Samsung has a “maximum” setting that takes this up a
+notch, and that setting makes it even harder to see the contents
+and narrows the field-of-view even further. [...]</p>
+
+<p>A bigger deal, though, is that Samsung has built Privacy Display
+with the ability to only apply to small portions of the Galaxy S26
+Ultra’s display. Specifically, it can hide your notification
+pop-ups. This part really impressed me, as Privacy Display is able
+to specifically hide only that singular portion of the display,
+and it does so nearly perfectly. The masking around the
+notification ensures the content behind isn’t affected, and the
+effect works incredibly well.</p>
+</blockquote>
+
+<p>Neat feature, especially the way you can toggle it when needed, set it to auto-enable for specific apps, and/or work only for notifications.</p>
+
+<div>
+<a  title="Permanent link to ‘Samsung Galaxy S26 Ultra’s Privacy Display’"  href="https://daringfireball.net/linked/2026/02/25/samsung-galaxy-s26-ultras-privacy-display">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/02/my_2025_apple_report_card" />
 	<link rel="shorturl" href="http://df4.us/wx8" />
@@ -1834,28 +1875,6 @@ call from an unknown caller to add them to Contacts.</p>
 
 <div>
 <a  title="Permanent link to ‘Comparing the Classic and Unified Views in iOS 26’s Phone App’"  href="https://daringfireball.net/linked/2026/01/28/comparing-the-classic-and-unified-views-in-ios-26s-phone-app">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Aeronaut 1.0</title>
-	<link rel="alternate" type="text/html" href="https://aeronautapp.com/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/ww0" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/28/aeronaut" />
-	<id>tag:daringfireball.net,2026:/linked//6.42624</id>
-	<published>2026-01-28T22:58:24Z</published>
-	<updated>2026-01-28T23:06:25Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>New Mac app by Mikey Clarke, and it’s just what it says on the tin: a “lovingly crafted Bluesky app designed and built just for the Mac”. I’ve been beta testing Aeronaut for months, and it’s the only interface to Bluesky I actually like. It’s a real Mac app — written mostly in AppKit, supporting all the right UI idioms and platform integrations. It’s not just the best Bluesky client I’ve seen, for any platform, but maybe the best new Mac app I’ve seen in years, period. Certainly the one whose very existence has made me happiest. Next time someone tells me no one makes good new native apps for the Mac anymore, I’m going to tell them Mikey Fucking Clarke does.</p>
-
-<p>$2/month or $15/year. A veritable bargain for an app so nice.</p>
-
-<div>
-<a  title="Permanent link to ‘Aeronaut 1.0’"  href="https://daringfireball.net/linked/2026/01/28/aeronaut">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
