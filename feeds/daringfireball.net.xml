@@ -7,7 +7,41 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-02-25T21:41:30Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-02-25T22:17:57Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>The Talk Show: ‘Serious Opinionators’</title>
+	<link rel="alternate" type="text/html" href="https://daringfireball.net/thetalkshow/2026/02/25/ep-441" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wxa" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/02/25/the-talk-show-441" />
+	<id>tag:daringfireball.net,2026:/linked//6.42670</id>
+	<published>2026-02-25T22:17:57Z</published>
+	<updated>2026-02-25T22:17:57Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Adam Engst returns to the show to talk, in detail, about certain of the UI changes in iOS 26 and Apple’s version 26 OSes overall. In particular, the new Unified view in the Phone app, and the Filter pop-up menu in both the Phone and Messages apps. Also: a shoutout to <a href="https://512pixels.net/2020/09/kbase-week-balloon-help/">Balloon Help</a>.</p>
+
+<p><audio
+    src = "https://traffic.libsyn.com/secure/daringfireball/thetalkshow-441-adam-engst.mp3"
+    controls
+    preload = "none"
+/></p>
+
+<p><strong>Sponsored by:</strong></p>
+
+<ul>
+<li><a href="https://sentry.io/talkshow">Sentry</a>: A real-time error monitoring and tracing platform. Use code <strong>TALKSHOW</strong> for $80 in free credits.</li>
+<li><a href="https://squarespace.com/talkshow">Squarespace</a>: Save 10% off your first purchase of a website or domain using code <strong>talkshow</strong>.</li>
+<li><a href="https://factormeals.com/talkshow50off">Factor</a>: Healthy eating, made easy. Get 50% off your first box, plus free breakfast for 1 year, with code <strong>talkshow50off</strong>.</li>
+</ul>
+
+<div>
+<a  title="Permanent link to ‘The Talk Show: ‘Serious Opinionators’’"  href="https://daringfireball.net/linked/2026/02/25/the-talk-show-441">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Samsung Galaxy S26 Ultra’s Privacy Display</title>
 	<link rel="alternate" type="text/html" href="https://9to5google.com/2026/02/25/samsung-galaxy-s26-ultra-privacy-display-demo-hands-on/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wx9" />
@@ -1836,45 +1870,6 @@ and play. We couldn’t agree more!</p>
 
 <div>
 <a  title="Permanent link to ‘Kickstarter for Ollie’s Arcade Expansion’"  href="https://daringfireball.net/linked/2026/01/29/kickstarter-for-ollies-arcade-expansion">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Comparing the Classic and Unified Views in iOS 26’s Phone App</title>
-	<link rel="alternate" type="text/html" href="https://tidbits.com/2025/11/10/comparing-the-classic-and-unified-views-in-ios-26s-phone-app/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/ww1" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/01/28/comparing-the-classic-and-unified-views-in-ios-26s-phone-app" />
-	<id>tag:daringfireball.net,2026:/linked//6.42625</id>
-	<published>2026-01-29T00:10:30Z</published>
-	<updated>2026-01-31T16:15:15Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Adam Engst, back in November, at TidBITS:</p>
-
-<blockquote>
-  <p>Did you know that, regardless of view, you can now swipe left on
-any call to reveal a blue clock icon that lets you create a
-reminder to call back in 1 hour, tonight, tomorrow, or at any
-custom time (below left, slightly doctored)? Reminders appear at
-the top of the Calls list and in your default Reminders list. You
-can also touch and hold a call associated with a contact to
-connect with them in other ways (below right), or touch and hold a
-call from an unknown caller to add them to Contacts.</p>
-</blockquote>
-
-<p>I did not know this, until I read Engst’s article.</p>
-
-<p>One criticism I’ve seen a few times (but to be clear, not from Engst) ever since Apple debuted the new Unified interface for the Phone app back at WWDC, is that it’s somehow wrong that Apple offers it as an option alongside the Classic interface. “<em>When does Apple ever offer options like this?</em>”</p>
-
-<p>I’d argue that Apple <em>used</em> to offer options like this all the time. The Music app on the original iPhone (which app was actually named “iPod” for a while) let you customize all the tabs at the bottom. All of Apple’s good Mac apps (the AppKit ones, primarily) still let you <a href="https://support.apple.com/guide/mac-help/customize-toolbars-mchlb294260e/mac">customize the entire toolbar</a>. The problem isn’t that Apple now offers two very different interfaces for the Phone app. The problem is that Apple stopped offering users ways to significantly tailor apps to their own needs and tastes — and the proof that they stopped is that so many people now think it’s so strange that they’re offering two options for how the Phone app should look and work.</p>
-
-<p>Overall, I like the new Unified layout in the Phone app. But what I love is there remains an option for those who don’t, and that you can switch between the two in a very obvious, easily discoverable (dare I say, hard to miss) way right in the app itself. No need to dig two or three levels deep into the Settings app. You can just switch right there in the main screen of the Phone app itself. It’s things like this that keep me <a href="https://bsky.app/profile/sdw.bsky.social/post/3mdjaglq52c2m">optimistic</a> that Apple is still capable of great <em>new</em> work in UI design.</p>
-
-<div>
-<a  title="Permanent link to ‘Comparing the Classic and Unified Views in iOS 26’s Phone App’"  href="https://daringfireball.net/linked/2026/01/28/comparing-the-classic-and-unified-views-in-ios-26s-phone-app">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
