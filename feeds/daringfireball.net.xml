@@ -7,7 +7,43 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-02-26T17:54:15Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-02-26T18:04:34Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>‘Steve Jobs in Exile’</title>
+	<link rel="alternate" type="text/html" href="https://geoffreycain.net/steve-jobs-in-exile/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wxj" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/02/26/steve-jobs-in-exile" />
+	<id>tag:daringfireball.net,2026:/linked//6.42679</id>
+	<published>2026-02-26T18:04:33Z</published>
+	<updated>2026-02-26T18:04:34Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>New book, shipping May 19, from author Geoffrey Cain:</p>
+
+<blockquote>
+  <p>For twelve years, from 1985 to 1997, Jobs wandered the business
+wilderness with his new venture, NeXT. It was a period of
+spectacular failures, near-bankruptcy, and brutal humiliation. But
+out of this crucible of defeat emerged the visionary leader who
+would go on to create the iPod, iPhone, and iPad, transforming
+Apple into the most valuable company on earth.</p>
+
+<p>Drawing on previously unpublished materials and new interviews
+with the key players, Geoffrey Cain reveals the untold story of
+Steve Jobs’s “lost decade” — the formative years that shaped the
+icon we thought we knew.</p>
+</blockquote>
+
+<p>Afterword by Ed Catmull, who was obviously intimately familiar with Jobs in that era. And <a href="https://www.linkedin.com/posts/gcain_steve-jobs-in-exile-activity-7417566817008775169-xNQf/">via Cain’s post on LinkedIn</a> announcing the book, the foreword is by NeXT cofounder Dan’l Lewin.</p>
+
+<div>
+<a  title="Permanent link to ‘‘Steve Jobs in Exile’’"  href="https://daringfireball.net/linked/2026/02/26/steve-jobs-in-exile">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Microsoft Adds Additional Markdown Features to Windows Notepad</title>
 	<link rel="alternate" type="text/html" href="https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wxi" />
@@ -1731,32 +1767,6 @@ monthly Apple Creator Studio usage limit 👀</p>
 
 <div>
 <a  title="Permanent link to ‘Apple Creator Studio Usage Restrictions’"  href="https://daringfireball.net/linked/2026/02/11/apple-creator-studio-usage-restrictions">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>OpenAI’s Codex</title>
-	<link rel="alternate" type="text/html" href="https://simonwillison.net/2026/Feb/2/introducing-the-codex-app/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wwa" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/02/03/openai-codex" />
-	<id>tag:daringfireball.net,2026:/linked//6.42634</id>
-	<published>2026-02-04T01:40:24Z</published>
-	<updated>2026-02-04T01:44:41Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Simon Willison:</p>
-
-<blockquote>
-  <p>OpenAI just released a new macOS app for their Codex coding agent. I’ve had a few days of preview access — it’s a solid app that provides a nice UI over the capabilities of the Codex CLI agent and adds some interesting new features, most notably first-class support for Skills, and Automations for running scheduled tasks.</p>
-</blockquote>
-
-<p>Interesting, for sure. But <a href="https://daringfireball.net/linked/2026/02/03/xcode-ai-agentic-coding">super-duper</a> interesting? I don’t know.</p>
-
-<div>
-<a  title="Permanent link to ‘OpenAI’s Codex’"  href="https://daringfireball.net/linked/2026/02/03/openai-codex">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
