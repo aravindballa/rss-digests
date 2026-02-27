@@ -7,7 +7,71 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-02-27T01:30:26Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-02-27T15:33:15Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Block Lays Off 4,000 (of 10,000) Employees</title>
+	<link rel="alternate" type="text/html" href="https://www.cnbc.com/2026/02/26/block-laying-off-about-4000-employees-nearly-half-of-its-workforce.html" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wxo" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/02/27/block-layoffs" />
+	<id>tag:daringfireball.net,2026:/linked//6.42684</id>
+	<published>2026-02-27T15:33:15Z</published>
+	<updated>2026-02-27T15:33:15Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>CNBC:</p>
+
+<blockquote>
+  <p>Block said Thursday it’s laying off more than 4,000 employees, or
+about half of its head count. The stock skyrocketed as much as 24%
+in extended trading.</p>
+
+<p>“Today we shared a difficult decision with our team,” Jack
+Dorsey, Block’s co-founder and CEO, wrote in a <a href="https://s29.q4cdn.com/628966176/files/doc_financials/2025/q4/Q4-2025-Shareholder-Letter_Block.pdf">letter to
+shareholders</a>. “We’re reducing Block by nearly half, from
+over 10,000 people to just under 6,000, which means that over
+4,000 people are being asked to leave or entering into
+consultation.” [...]</p>
+
+<p>Other companies like Pinterest, CrowdStrike and Chegg have
+recently <a href="https://www.cnbc.com/2025/10/27/chegg-slashes-45percent-of-workforce-blames-new-realities-of-ai.html">announced job cuts</a> and directly attributed the
+layoffs to AI reshaping their workforces.</p>
+
+<p>In <a href="https://x.com/jack/status/2027129697092731343?s=20">an X post</a>, Dorsey said he was faced with the choice of
+laying off staffers over several months or years “as this shift
+plays out,” or to “act on it now.”</p>
+</blockquote>
+
+<p><a href="https://s29.q4cdn.com/628966176/files/doc_financials/2025/q4/Q4-2025-Shareholder-Letter_Block.pdf">Dorsey’s letter to shareholders</a> was properly upper-and-lowercased; his memo to employees, <a href="https://x.com/jack/status/2027129697092731343?s=20">which he posted on Twitter/X</a>, was entirely lowercase. That’s a telling sign about who he respects. Dorsey, in that memo to employees:</p>
+
+<blockquote>
+  <p>we’re not making this decision because we’re in trouble. our
+business is strong. gross profit continues to grow, we continue to
+serve more and more customers, and profitability is improving. but
+something has changed. we’re already seeing that the intelligence
+tools we’re creating and using, paired with smaller and flatter
+teams, are enabling a new way of working which fundamentally
+changes what it means to build and run a company. and that’s
+accelerating rapidly.</p>
+
+<p>i had two options: cut gradually over months or years as this
+shift plays out, or be honest about where we are and act on it
+now. i chose the latter. repeated rounds of cuts are destructive
+to morale, to focus, and to the trust that customers and
+shareholders place in our ability to lead. i’d rather take a hard,
+clear action now and build from a position we believe in than
+manage a slow reduction of people toward the same outcome.</p>
+</blockquote>
+
+<p>AI is going to obviate a lot of jobs, in a lot of industries. <a href="https://en.wikipedia.org/wiki/John_Henry_(folklore)">So it goes</a>. But in the case of these tech companies — exemplified by Block — it’s just a convenient cover story to excuse <a href="https://x.com/BamaBonds/status/2027142091596288314">absurd over-hiring</a> in the last 5–10 years. Say what you want about Elon Musk, but he was absolutely correct that Twitter was carrying a ton of needless employees. This reckoning was coming, and “AI” is just a convenient scapegoat.</p>
+
+<div>
+<a  title="Permanent link to ‘Block Lays Off 4,000 (of 10,000) Employees’"  href="https://daringfireball.net/linked/2026/02/27/block-layoffs">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple Announces F1 Broadcast Details, and a Surprising Netflix Partnership</title>
 	<link rel="alternate" type="text/html" href="https://sixcolors.com/post/2026/02/apple-announces-f1-details-and-a-surprising-netflix-partnership/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wxn" />
@@ -1715,28 +1779,6 @@ on</a>, try forcing it to restart.</p>
 
 	]]></content>
 	<title>[Sponsor] Hands-On Workshop: Fix It Faster — Crash Reporting, Tracing, and Logs for iOS in Sentry</title></entry><entry>
-	<title>WorkOS Pipes</title>
-	<link rel="alternate" type="text/html" href="https://workos.com/docs/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026&amp;utm_content=no_rebuild" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wwg" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/02/15/workos-pipes" />
-	<id>tag:daringfireball.net,2026:/linked//6.42640</id>
-	<published>2026-02-15T23:39:14Z</published>
-	<updated>2026-02-15T23:39:15Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>My thanks to WorkOS for sponsoring DF last week. Connecting user accounts to third-party APIs always comes with the same plumbing: OAuth flows, token storage, refresh logic, and provider-specific quirks. WorkOS Pipes removes that overhead. Users connect services like GitHub, Slack, Google, Salesforce, and other supported providers through a drop-in widget. Your back end requests a valid access token from the Pipes API when needed, while Pipes handles credential storage and token refresh. That’s it.</p>
-
-<p><a href="https://workos.com/docs/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026&amp;utm_content=simplify_integrations_cta">Simplify your integrations with WorkOS Pipes</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘WorkOS Pipes’"  href="https://daringfireball.net/linked/2026/02/15/workos-pipes">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/01/politics_and_the_english_language_january_2026_edition" />
 	<link rel="shorturl" href="http://df4.us/wvy" />
