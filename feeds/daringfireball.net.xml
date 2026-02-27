@@ -7,13 +7,85 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-02-27T18:12:54Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-02-27T18:57:45Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>How to Block the ‘Upgrade to Tahoe’ Alerts and System Settings Indicator</title>
+	<link rel="alternate" type="text/html" href="https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wxr" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/02/27/how-to-block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator" />
+	<id>tag:daringfireball.net,2026:/linked//6.42687</id>
+	<published>2026-02-27T18:45:16Z</published>
+	<updated>2026-02-27T18:45:50Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p><a href="https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/">Rob Griffiths, writing at The Robservatory</a>:</p>
+
+<blockquote>
+  <p>So I have macOS Tahoe on my laptop, but I’m keeping my desktop
+Mac on macOS Sequoia for now. Which means I have the joy of
+seeing things like this wonderful notification on a regular
+basis. Or I did, until I found a way to block them, at least in
+90 day chunks. [...]</p>
+
+<p>The secret? Using <a href="https://support.apple.com/guide/deployment/intro-to-device-management-profiles-depc0aadd3fe/web">device management profiles</a>, which let you
+enforce policies on Macs in your organization, even if that
+“organization” is one Mac on your desk. One of the available
+policies is the ability to block activities related to major macOS
+updates for up to 90 days at a time (the max the policy allows),
+which seems like exactly what I needed.</p>
+</blockquote>
+
+<p>I followed Griffiths’s instructions about a week or so ago, and I’ve been enjoying a no-red-badge System Settings icon ever since. And the Tahoe upgrade doesn’t even show up in General → Software Update. With this profile installed, the <a href="https://daringfireball.net/2025/11/software_update_tahoe_confusing">confusing interface presented after clicking the “ⓘ” button next to any available update</a> cannot result in your upgrading to 26 Tahoe accidentally.</p>
+
+<p>I waited to link to Griffiths’s post until I saw the pending the update from Sequoia 15.7.3 to 15.7.4, just to make sure that was still working. <a href="https://daringfireball.net/misc/2026/02/no-tahoe-software-update-via-profile.png">And here it is</a>. My Software Update panels makes it look like Tahoe doesn’t even exist. A delicious glass of ice water, <a href="https://www.youtube.com/watch?v=Vp18clQ1tjE">without the visit to hell</a>.</p>
+
+<p>I have one small clarification to Griffiths’s instructions though. He writes:</p>
+
+<blockquote>
+  <p>4/. <em>Optional step:</em> I didn’t want to defer normal updates, just
+  the major OS update, so I changed the Optional (set to your
+  taste) section to look like this:</p>
+
+<p><!-- Optional (set to your taste) -->
+      <key>forceDelayedSoftwareUpdates</key><false/></p>
+
+<p>This way, I’ll still get notifications for updates other than the
+major OS update, in case Apple releases anything further for macOS
+Sequoia. Remember to save your changes, then quit the editor.</p>
+</blockquote>
+
+<p>I was confused by this step, initially, and only edited the first line after <code>&lt;!-- Optional (set to your taste) --&gt;</code>, to change <code>&lt;true/&gt;</code> to <code>&lt;false/&gt;</code> in the next line. But what Griffiths means, and is necessary to get the behavior I wanted, requires deleting the other two lines in that section of the plist file. I don’t want to defer updates like going from 15.7.3 to 15.7.4.</p>
+
+<p>Before editing:</p>
+
+<pre><code>&lt;!-- Optional (set to your taste) --&gt;
+&lt;key&gt;forceDelayedSoftwareUpdates&lt;/key&gt;&lt;true/&gt;
+&lt;key&gt;enforcedSoftwareUpdateMinorOSDeferredInstallDelay&lt;/key&gt;&lt;integer&gt;30&lt;/integer&gt;
+&lt;key&gt;enforcedSoftwareUpdateNonOSDeferredInstallDelay&lt;/key&gt;&lt;integer&gt;30&lt;/integer&gt;
+</code></pre>
+
+<p>After:</p>
+
+<pre><code>&lt;!-- Optional (set to your taste) --&gt;
+&lt;key&gt;forceDelayedSoftwareUpdates&lt;/key&gt;&lt;false/&gt;
+</code></pre>
+
+<p>I’ll bet that’s the behavior most of my fellow MacOS 15 Sequoia holdouts want too.</p>
+
+<div>
+<a  title="Permanent link to ‘How to Block the ‘Upgrade to Tahoe’ Alerts and System Settings Indicator’"  href="https://daringfireball.net/linked/2026/02/27/how-to-block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/02/sometimes_hidden_setting_phone_app" />
 	<link rel="shorturl" href="http://df4.us/wxq" />
 	<id>tag:daringfireball.net,2026://1.42686</id>
 	<published>2026-02-27T18:12:53Z</published>
-	<updated>2026-02-27T18:12:54Z</updated>
+	<updated>2026-02-27T18:57:45Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -24,7 +96,7 @@
 
 <p>The gist of Engst’s follow-up is that one of the big differences between Unified and Classic modes is what happens when you tap on a row in the list of recent calls. In Classic, tapping on a row in the list will initiate a new phone call to that number. There’s a small “ⓘ” button on the right side of each row that you can tap to show the contact info for that caller. That’s the way the Phone app has always worked. In the new iOS 26 Unified mode, this behavior is reversed: tapping on the row shows the contact info for that caller, and you need to tap a small button with a phone icon on the right side of the row to immediately initiate a call.</p>
 
-<p>Engst really likes this aspect of the Unified view, because the old behavior made it too easy to initiate a call accidentally, just by tapping on a row in the list. I’ve made many of those accidental calls the same way, and like the new Unified behavior for the same reason. Classic’s tap-almost-anywhere-in-the-row-to-start-a-call behavior is a vestige of some decisions with the original iPhone that haven’t held up over the intervening 20 years. With the original iPhone, Apple was still stuck — correctly, probably! — in the mindset that the iPhone was first and foremost a cellular telephone, and initiating phone calls should be a primary one-tap action. No one thinks of the iPhone as primarily a telephone these days, and it just isn’t iOS-y to have an action initiate just by tapping anywhere in a row in a scrolling list. You don’t tap on an email message to reply to it. You tap a Reply button. Phone calls are particularly pernicious in this regard because the recipient is interrupted too — it’s not just an inconvenience to <em>you</em>, it’s an interruption to someone else, and thus also an embarrassment to you.</p>
+<p>Engst really likes this aspect of the Unified view, because the old behavior made it too easy to initiate a call accidentally, just by tapping on a row in the list. I’ve made many of those accidental calls the same way, and so I prefer the new Unified behavior for the same reason. Classic’s tap-almost-anywhere-in-the-row-to-start-a-call behavior is a vestige of some decisions with the original iPhone that haven’t held up over the intervening 20 years. With the original iPhone, Apple was still stuck — correctly, probably! — in the mindset that the iPhone was first and foremost a cellular telephone, and initiating phone calls should be a primary one-tap action. No one thinks of the iPhone as primarily a telephone these days, and it just isn’t iOS-y to have an action initiate just by tapping anywhere in a row in a scrolling list. You don’t tap on an email message to reply to it. You tap a Reply button. Phone calls are particularly pernicious in this regard because the recipient is interrupted too — it’s not just an inconvenience to <em>you</em>, it’s an interruption to someone else, and thus also an embarrassment to you.</p>
 
 <p>Here’s where it gets weird.</p>
 
@@ -1680,43 +1752,6 @@ president of music, sports, and Beats.</p>
 
 <div>
 <a  title="Permanent link to ‘Paul Ford: ‘The A.I. Disruption Has Arrived, and It Sure Is Fun’’"  href="https://daringfireball.net/linked/2026/02/18/ford-ai-fun">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple Invites Media to Special ‘Experience’ in New York, London, and Shanghai on March 4</title>
-	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2026/02/16/apple-announces-special-event-in-new-york/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wwk" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/02/17/apple-special-experience-march-4" />
-	<id>tag:daringfireball.net,2026:/linked//6.42644</id>
-	<published>2026-02-18T00:08:45Z</published>
-	<updated>2026-02-18T00:11:23Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Hartley Charlton, MacRumors:</p>
-
-<blockquote>
-  <p>Apple invited select members of the media to the event in three
-major cities around the world. It is simply described as a
-“special Apple Experience,” and there is no further information
-about what it may entail. The invitation features a 3D Apple logo
-design composed of yellow, green, and blue discs.</p>
-
-<p>It is notable that Apple is specifically using the word
-“experience,” rather than “event.” Unlike a full live-streamed
-event from Apple Park, the March 4 event in other cities is likely
-to be smaller in scale.</p>
-</blockquote>
-
-<p>Among the products expected soon — either by annual schedule predictability, or via the rumor mill — are the iPhone 17e, an updated iPad Air (going from the M3 to M4), an updated base-model iPad (going from A16 to A18), updated MacBook Pros with the M5 Pro and Max, updated MacBook Airs (going from M4 to M5 — the M4 models were <a href="https://www.apple.com/newsroom/2025/03/apple-introduces-the-new-macbook-air-with-the-m4-chip-and-a-sky-blue-color/">released in early March last year</a>), and, <a href="https://www.bloomberg.com/news/newsletters/2026-02-15/tesla-carplay-delays-related-to-ios-26-and-fsd-apple-s-new-siri-delays-ios-27">per Gurman</a>, the long-rumored new lower-cost MacBook with an A18 chip (a “MacBook e”, if you will, although I certainly don’t think that will be the name — my guess is Apple will just call it “MacBook” without an adjective).</p>
-
-<p>What strikes me is that March 4 — the “experience” day — is a Wednesday. So my spitball guess is that they announce all these products via Newsroom press releases, day-by-day. Like, say, the iPhone 17e on Monday, new iPad(s) on Tuesday, and new MacBooks on Wednesday. And then the “experience” will be a hands-on thing with in-person demos. Spread the announcements out across a few days, but then have in-person events for members of the media to get a hands-on experience with all of them, station-by-station, without needing to produce an Apple Event keynote film.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Invites Media to Special ‘Experience’ in New York, London, and Shanghai on March 4’"  href="https://daringfireball.net/linked/2026/02/17/apple-special-experience-march-4">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
