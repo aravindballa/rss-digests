@@ -7,7 +7,74 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-02T18:37:35Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-02T20:03:02Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>SerpApi Filed Motion to Dismiss Google’s Lawsuit</title>
+	<link rel="alternate" type="text/html" href="https://serpapi.com/blog/google-v-serpapi-motion-to-dismiss-why-were-in-the-right/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wy1" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/02/serpapi-motion-to-dismiss" />
+	<id>tag:daringfireball.net,2026:/linked//6.42697</id>
+	<published>2026-03-02T20:03:02Z</published>
+	<updated>2026-03-02T20:03:02Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Julien Khaleghy, CEO of SerpApi:</p>
+
+<blockquote>
+  <p>Google thinks it owns the internet. That’s the subtext of its
+lawsuit against SerpApi, the quiet part that it’s suddenly decided
+to shout out loud. The problem is, no one owns the internet. And
+the law makes that clear.</p>
+
+<p>In January, <a href="https://serpapi.com/blog/google-v-serpapi-threatening-access-to-public-data/">we promised</a> that we would fight this lawsuit to
+protect our business model and the researchers and innovators who
+depend on our technology. Today, Friday, February 20, 2026, we’re
+following through with a motion to dismiss Google’s complaint.
+While this is just one step in what could be a long and costly
+legal process, I want to explain why we’re confident in our
+position.</p>
+
+<p>Is Google hurting itself in its confusion? Google is the largest
+scraper in the world. Google’s entire business began with a web
+crawler that visited every publicly accessible page on the
+internet, copied the content, indexed it, and served it back to
+users. It did this without distinguishing between copyrighted and
+non-copyrighted material, and it did this without asking
+permission. Now Google is in federal court claiming that <em>our</em>
+scraping is illegal.</p>
+</blockquote>
+
+<p>I’ve come around on SerpApi in the last few months. <a href="https://daringfireball.net/linked/2025/10/23/reddit-files-lawsuit-against-serpapi">My initial take</a> was that it surely must be illegal for a company to scrape Google’s search results and offer access to that data as an API. But I’ve come around to the argument that what SerpApi is doing to obtain Google search results is, well, exactly how Google scrapes the rest of the entire web to build its search index. It’s all just scraping publicly accessible web pages.</p>
+
+<p><a href="https://www.techdirt.com/2025/12/24/google-built-its-empire-scraping-the-web-now-its-suing-to-stop-others-from-scraping-google/">This December piece by Mike Masnick at Techdirt</a> is what began to change my mind:</p>
+
+<blockquote>
+  <p>Look, SerpApi’s behavior is sketchy. Spoofing user agents,
+rotating IPs to look like legitimate users, solving CAPTCHAs
+programmatically — Google’s complaint paints a picture of a
+company actively working to evade detection. But the legal theory
+Google is deploying to stop them threatens something far bigger
+than one shady scraper.</p>
+
+<p>Google’s entire business is built on scraping as much of the web
+as possible without first asking permission. The fact that they
+now want to invoke DMCA 1201 — one of the most consistently
+abused provisions in copyright law — to stop others from scraping
+them exposes the underlying problem with these licensing-era
+arguments: they’re attempts to pull up the ladder after you’ve
+climbed it.</p>
+
+<p>Just from a straight up perception standpoint, it <em>looks</em> bad.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘SerpApi Filed Motion to Dismiss Google’s Lawsuit’"  href="https://daringfireball.net/linked/2026/03/02/serpapi-motion-to-dismiss">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘Anthropic and Alignment’</title>
 	<link rel="alternate" type="text/html" href="https://stratechery.com/2026/anthropic-and-alignment/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wy0" />
@@ -1757,64 +1824,6 @@ enjoy meeting with him and that it is a fine thing to do.”</p>
 
 <div>
 <a  title="Permanent link to ‘How Jeffrey Epstein Ingratiated Himself With Top Microsoft Executives’"  href="https://daringfireball.net/linked/2026/02/24/epstein-microsoft">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Inside Microsoft’s Xbox Leadership Shake-Up</title>
-	<link rel="alternate" type="text/html" href="https://www.theverge.com/tech/883015/microsoft-xbox-new-ceo-shakeup-notepad?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InRTTTJnMGhOeHUiLCJwIjoiL3RlY2gvODgzMDE1L21pY3Jvc29mdC14Ym94LW5ldy1jZW8tc2hha2V1cC1ub3RlcGFkIiwiZXhwIjoxNzcyMzg1MDQ2LCJpYXQiOjE3NzE5NTMwNDZ9.e7qs5kHGt3-WwS9kfU9b59hS8SP6Z1OLePryV76Mzu4" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wwu" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/02/24/inside-microsofts-xbox-leadership-shake-up" />
-	<id>tag:daringfireball.net,2026:/linked//6.42654</id>
-	<published>2026-02-24T17:23:33Z</published>
-	<updated>2026-02-24T21:11:05Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Tom Warren, reporting for The Verge (gift link):</p>
-
-<blockquote>
-  <p>With Spencer’s retirement official, Microsoft is hitting the reset
-button on Bond’s Xbox strategy instead of embracing it further.
-Microsoft Gaming CEO Asha Sharma is now promising “the return of
-Xbox,” in a clear message to employees that the strategy over the
-past few years has not been working. “I want to return to the
-renegade spirit that built Xbox in the first place,” says Sharma.</p>
-
-<p>Xbox employees I’ve been speaking to have been concerned about the
-Sharma appointment, particularly because of her previous role as
-an AI executive at Microsoft. There is also concern about her lack
-of industry experience in entertainment and gaming. Sharma has
-been clear she’s not a gamer and has spent the weekend responding
-to people on X and even taking game recommendations.</p>
-
-<p>Some Xbox employees worry she’ll force AI into everything Xbox
-does, but Sharma was clearly ready for that reaction. “As
-monetization and AI evolve and influence this future, we will not
-chase short-term efficiency or flood our ecosystem with soulless
-AI slop,” said Sharma in her memo. “Games are and always will be
-art, crafted by humans, and created with the most innovative
-technology provided by us.”</p>
-</blockquote>
-
-<p>Spending two years <a href="https://www.theverge.com/2024/11/14/24296420/microsoft-this-is-an-xbox-marketing-campaign-xbox-everywhere">on a marketing strategy that tried to turn “Xbox” into a vaporous brand</a> applied to any sort of gaming — mobile, handheld, PC, and, you know, Xbox consoles — on “every screen” is going to be a hard hole to climb out of. Xbox was behind PlayStation, their archrival, when they started this asinine campaign. Now they’re further behind. Sony’s message for PlayStation is clear and true: you buy a PlayStation to play PlayStation games.</p>
-
-<blockquote>
-  <p>The other concern is that she’s been appointed by Nadella as some
-kind of executioner of the Xbox console. Her memo doesn’t suggest
-that, and Microsoft could have easily appointed Matt Booty into
-that kind of role to push game publishing instead of the Xbox
-console. I get the impression from sources that Microsoft wants a
-turnaround and is worried about losing Xbox, as it’s one of its
-only remaining successful consumer brands.</p>
-</blockquote>
-
-<p>I hope that’s true. But if Sharma <em>was</em> appointed by Nadella to wind Xbox down and get out of the business (after they package up and sell their $69 billion Activision acquisition to recoup), well, of course her introductory memo didn’t suggest that. Whether her actual mission is to rejuvenate the Xbox platform or to kill it, this week’s memo would read the same way. (Good discussion between me and Ben Thompson on <a href="https://dithering.fm/">today’s Dithering</a> about this.)</p>
-
-<div>
-<a  title="Permanent link to ‘Inside Microsoft’s Xbox Leadership Shake-Up’"  href="https://daringfireball.net/linked/2026/02/24/inside-microsofts-xbox-leadership-shake-up">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
