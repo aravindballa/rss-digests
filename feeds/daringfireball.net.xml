@@ -7,14 +7,14 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-02T21:11:05Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-02T21:21:15Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>ChangeTheHeaders</title>
 	<link rel="alternate" type="text/html" href="https://underpassapp.com/news/2025/3/4.html" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wy3" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/02/changetheheaders" />
 	<id>tag:daringfireball.net,2026:/linked//6.42699</id>
 	<published>2026-03-02T21:10:50Z</published>
-	<updated>2026-03-02T21:11:05Z</updated>
+	<updated>2026-03-02T21:21:15Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -43,7 +43,7 @@ specified. Thus, <code>image/webp</code> and <code>image/png</code> have equal
 precedence, equal quality value 1, leaving it up to the web site
 to decide which image type to serve. In this case, the web site
 decided to serve a WebP image, despite the fact that the image
-URL has a <code>.png</code>suffix. In a URL, unlike in a file path, the
+URL has a <code>.png</code> suffix. In a URL, unlike in a file path, the
 “file extension”, if one exists, is largely meaningless. A very
 simple web server will directly match a URL with a local file
 path, but a more complex web server can do almost anything it
@@ -66,8 +66,8 @@ default language handling of some website, such as YouTube.</p>
 
 <p>Header: <code>Accept</code> <br />
 Value: <code>image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5</code> <br />
-URL Domains: <em>\<leave blank for all domains></em> <br />
-URL Filter: <em>\<leave blank for all URLs></em> <br />
+URL Domains: «<em>leave blank for all domains</em>» <br />
+URL Filter: «<em>leave blank for all URLs</em>» <br />
 Resource Types: <code>image</code></p>
 
 <p>I haven’t seen a single WebP since.</p>
