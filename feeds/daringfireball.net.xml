@@ -7,7 +7,67 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-01T15:44:23Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-02T15:12:20Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Apple Introduces iPhone 17e</title>
+	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wxw" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/02/apple-introduces-iphone-17e" />
+	<id>tag:daringfireball.net,2026:/linked//6.42692</id>
+	<published>2026-03-02T15:03:16Z</published>
+	<updated>2026-03-02T15:04:27Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Apple Newsroom:</p>
+
+<blockquote>
+  <p>Apple today announced iPhone 17e, a powerful and more affordable
+addition to the iPhone 17 lineup. At the heart of iPhone 17e is
+the latest-generation A19, which delivers exceptional performance
+for everything users do. iPhone 17e also features C1X, the
+latest-generation cellular modem designed by Apple, which is up to
+2× faster than C1 in iPhone 16e. The 48MP Fusion camera captures
+stunning photos, including next-generation portraits, and 4K Dolby
+Vision video. It also enables an optical-quality 2× Telephoto — like having two cameras in one. The 6.1-inch Super Retina XDR
+display features Ceramic Shield 2, offering 3× better scratch
+resistance than the previous generation and reduced glare. With
+MagSafe, users can enjoy fast wireless charging and access to a
+vast ecosystem of accessories like chargers and cases. And when
+iPhone 17e users are outside of cellular and Wi-Fi coverage,
+Apple’s groundbreaking satellite features — including Emergency
+SOS, Roadside Assistance, Messages, and Find My via satellite — help them stay connected when it matters most.</p>
+
+<p>Available in three elegant colors with a premium matte finish — black, white, and a beautiful new soft pink — iPhone 17e will be
+available for pre-order beginning Wednesday, March 4, with
+availability starting Wednesday, March 11. iPhone 17e will start
+at 256GB of storage for $599 — 2× the entry storage from the
+previous generation at the same starting price, and 4× more than
+iPhone 12 — giving users more space for high-resolution photos,
+4K videos, apps, games, and more.</p>
+</blockquote>
+
+<p>The main year-over-year changes from the 16e:</p>
+
+<ul>
+<li>MagSafe, the absence of which felt like the one bit of marketing spite in the 16e.</li>
+<li>An additional color other than black or white.</li>
+<li>SoC goes from A18 to A19, the same chip in the iPhone 17. The iPhone 17 has 5 GPU cores; the 17e only 4. No big whoop.</li>
+<li>Improved camera with next-gen portraits. <a href="https://daringfireball.net/2025/02/the_iphone_16e">I found</a> the 16e camera to be surprisingly good.</li>
+<li>Ceramic Shield 2 on the front glass.</li>
+<li>Base storage goes from 128 to 256 GB, while the price remains $600.</li>
+<li>The 512 GB version drops from $900 to $800.</li>
+</ul>
+
+<p>That’s about it. Here’s a preset version of Apple’s <a href="https://www.apple.com/iphone/compare/?modelList=iphone-17,iphone-17e,iphone-16e">iPhone Compare page with the iPhone 17, 17e, and 16e</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Introduces iPhone 17e’"  href="https://daringfireball.net/linked/2026/03/02/apple-introduces-iphone-17e">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Sentry</title>
 	<link rel="alternate" type="text/html" href="https://sentry.io/resources/ios-workshop-jan-2026/?utm_source=daringfireball&amp;utm_medium=paid-display&amp;utm_campaign=general-fy27q1-evergreen&amp;utm_content=static-ad-mobilerss-trysentry" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wxv" />
@@ -203,7 +263,7 @@ Sequoia. Remember to save your changes, then quit the editor.</p>
 	<link rel="shorturl" href="http://df4.us/wxq" />
 	<id>tag:daringfireball.net,2026://1.42686</id>
 	<published>2026-02-27T18:12:53Z</published>
-	<updated>2026-02-27T18:57:45Z</updated>
+	<updated>2026-03-02T15:12:20Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -214,7 +274,7 @@ Sequoia. Remember to save your changes, then quit the editor.</p>
 
 <p>The gist of Engst’s follow-up is that one of the big differences between Unified and Classic modes is what happens when you tap on a row in the list of recent calls. In Classic, tapping on a row in the list will initiate a new phone call to that number. There’s a small “ⓘ” button on the right side of each row that you can tap to show the contact info for that caller. That’s the way the Phone app has always worked. In the new iOS 26 Unified mode, this behavior is reversed: tapping on the row shows the contact info for that caller, and you need to tap a small button with a phone icon on the right side of the row to immediately initiate a call.</p>
 
-<p>Engst really likes this aspect of the Unified view, because the old behavior made it too easy to initiate a call accidentally, just by tapping on a row in the list. I’ve made many of those accidental calls the same way, and so I prefer the new Unified behavior for the same reason. Classic’s tap-almost-anywhere-in-the-row-to-start-a-call behavior is a vestige of some decisions with the original iPhone that haven’t held up over the intervening 20 years. With the original iPhone, Apple was still stuck — correctly, probably! — in the mindset that the iPhone was first and foremost a cellular telephone, and initiating phone calls should be a primary one-tap action. No one thinks of the iPhone as primarily a telephone these days, and it just isn’t iOS-y to have an action initiate just by tapping anywhere in a row in a scrolling list. You don’t tap on an email message to reply to it. You tap a Reply button. Phone calls are particularly pernicious in this regard because the recipient is interrupted too — it’s not just an inconvenience to <em>you</em>, it’s an interruption to someone else, and thus also an embarrassment to you.</p>
+<p>Engst really likes this aspect of the Unified view, because the old behavior made it too easy to initiate a call accidentally, just by tapping on a row in the list. I’ve made many of those accidental calls the same way, and so I prefer the new Unified behavior for the same reason. Classic’s tap-almost-anywhere-in-the-row-to-start-a-call behavior is a vestige of some decisions with the original iPhone that haven’t held up over the intervening 20 years. With the original iPhone, Apple was still stuck — correctly, probably! — in the mindset that the iPhone was first and foremost a cellular telephone, and initiating phone calls should be a primary one-tap action. No one thinks of the iPhone as primarily a telephone these days, and it just isn’t iOS-y to have an action initiate just by tapping anywhere in a row in a scrolling list. You don’t tap on an email message to reply to it. You tap a Reply button. Inadvertent phone calls are particularly pernicious in this regard because the recipient is interrupted too — it’s not just an inconvenience to <em>you</em>, it’s an interruption to someone else, and thus also an embarrassment to you.</p>
 
 <p>Here’s where it gets weird.</p>
 
@@ -1697,68 +1757,6 @@ better our way.</p>
 
 <div>
 <a  title="Permanent link to ‘Trader Joe’s Dark Chocolate Peanut Butter Cups’"  href="https://daringfireball.net/linked/2026/02/23/trader-joes-dark-chocolate-peanut-butter-cups">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Grandson of Inventor of Reese’s Peanut Butter Cups Goes Public With the Obvious: They Taste Like Shit Now</title>
-	<link rel="alternate" type="text/html" href="https://apnews.com/article/reeses-peanut-butter-cups-hershey-chocolate-1a66ec75247fd146888b7a747a740cd3" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wwp" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/02/23/brad-reese" />
-	<id>tag:daringfireball.net,2026:/linked//6.42649</id>
-	<published>2026-02-23T21:28:14Z</published>
-	<updated>2026-02-23T21:56:46Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p><a href="https://www.linkedin.com/posts/bradreesecom_reeses-brandstewardship-corporateaccountability-activity-7428545969430016001-zOL7/">Brad Reese, on LinkedIn last week</a>:</p>
-
-<blockquote>
-  <p>My grandfather, H. B. Reese (Who Invented Reese’s), built Reese’s
-on a simple, enduring architecture: Milk Chocolate + Peanut
-Butter. Not a flavor idea. Not a marketing construct. A real,
-tangible product identity that consumers have trusted for a
-century.</p>
-
-<p>But today, Reese’s identity is being rewritten, not by
-storytellers, but by formulation decisions that replace Milk
-Chocolate with compound coatings and Peanut Butter with
-peanut‑butter‑style crèmes across multiple Reese’s products.</p>
-</blockquote>
-
-<p><a href="https://apnews.com/article/reeses-peanut-butter-cups-hershey-chocolate-1a66ec75247fd146888b7a747a740cd3">The Associated Press</a>:</p>
-
-<blockquote>
-  <p>Hershey said Wednesday that Reese’s Peanut Butter Cups are made
-the same way they always have been, with milk chocolate and peanut
-butter that the company makes itself from roasted peanuts and a
-few other ingredients, including sugar and salt. But some Reese’s
-ingredients vary, Hershey said.</p>
-
-<p>“As we’ve grown and expanded the Reese’s product line, we make
-product recipe adjustments that allow us to make new shapes, sizes
-and innovations that Reese’s fans have come to love and ask for,
-while always protecting the essence of what makes Reese’s unique
-and special: the perfect combination of chocolate and peanut
-butter,” the company said.</p>
-
-<p>Brad Reese said he thinks Hershey went too far. He said he
-recently threw out a bag of Reese’s Mini Hearts, which were a new
-product released for Valentine’s Day. The packaging notes that the
-heart-shaped candies are made from “chocolate candy and peanut
-butter crème,” not milk chocolate and peanut butter.</p>
-
-<p>“It was not edible,” Reese told The Associated Press in an
-interview. “You have to understand. I used to eat a Reese’s
-product every day. This is very devastating for me.”</p>
-</blockquote>
-
-<p>Enshittification came for Reese’s Cups (along with just about everything else Hershey makes) long ago. Both the “milk chocolate” and “peanut butter” require <a href="https://linguistlaura.blogspot.com/2012/06/scare-quotes.html">dick quotes</a> around them. Compare and contrast the taste — and ingredients list — to the peanut butter cups from, say, <a href="https://www.justins.com/products/milk-chocolate-peanut-butter-cups/">Justin’s</a> (who also makes them <a href="https://www.justins.com/products/dark-chocolate-peanut-butter-cups/">with dark chocolate</a>).</p>
-
-<div>
-<a  title="Permanent link to ‘Grandson of Inventor of Reese’s Peanut Butter Cups Goes Public With the Obvious: They Taste Like Shit Now’"  href="https://daringfireball.net/linked/2026/02/23/brad-reese">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
