@@ -7,14 +7,76 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-02T17:57:08Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-02T18:21:47Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>‘Anthropic and Alignment’</title>
+	<link rel="alternate" type="text/html" href="https://stratechery.com/2026/anthropic-and-alignment/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wy0" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/02/anthropic-and-alignment" />
+	<id>tag:daringfireball.net,2026:/linked//6.42696</id>
+	<published>2026-03-02T18:20:13Z</published>
+	<updated>2026-03-02T18:21:47Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Ben Thompson, writing at Stratechery:</p>
+
+<blockquote>
+  <p>In fact, Amodei already answered the question: if nuclear weapons
+were developed by a private company, and that private company
+sought to dictate terms to the U.S. military, the U.S. would
+absolutely be incentivized to destroy that company. The reason
+goes back to the question of international law, North Korea, and
+the rest:</p>
+
+<ul>
+<li>International law is ultimately a function of power; might makes
+right.</li>
+<li>There are some categories of capabilities — like nuclear
+weapons — that are sufficiently powerful to fundamentally
+affect the U.S.’s freedom of action; we can bomb Iran, but we
+can’t North Korea.</li>
+<li>To the extent that AI is on the level of nuclear weapons — or
+beyond — is the extent that Amodei and Anthropic are building a
+power base that potentially rivals the U.S. military.</li>
+</ul>
+
+<p>Anthropic talks a lot about alignment; this insistence on
+controlling the U.S. military, however, is fundamentally
+misaligned with reality. Current AI models are obviously not yet
+so powerful that they rival the U.S. military; if that is the
+trajectory, however — and no one has been more vocal in arguing
+for that trajectory than Amodei — then it seems to me the choice
+facing the U.S. is actually quite binary:</p>
+
+<ul>
+<li>Option 1 is that Anthropic accepts a subservient position
+relative to the U.S. government, and does not seek to retain
+ultimate decision-making power about how its models are used,
+instead leaving that to Congress and the President.</li>
+<li>Option 2 is that the U.S. government either destroys Anthropic
+or removes Amodei.</li>
+</ul>
+</blockquote>
+
+<p>It’s Congress that is absent in — looks around — <em>all of this</em>. Right down to the name of the Department of Defense. The whole Trump administration has taken to calling it the Department of War, but <a href="https://www.military.com/feature/2025/10/17/department-of-war-not-legally-what-trumps-executive-order-really-does.html">only Congress can the legal name</a>. (Anthropic, despite its very public spat with the administration, <a href="https://www.anthropic.com/news/statement-comments-secretary-war">refers to it</a> as the “Department of War” as well.)</p>
+
+<p>Nilay Patel, quoting the same section of Thompson’s column I quoted above, <a href="https://bsky.app/profile/reckless.bsky.social/post/3mg3qayzjlc2m">sees it as</a> “Ben Thompson making a full-throated case for fascism”. I see it as the case against <a href="https://en.wikipedia.org/wiki/Corporatocracy">corporatocracy</a>. Who sets our defense policies? Our democratically elected leaders, or the CEOs of corporate defense contractors?</p>
+
+<div>
+<a  title="Permanent link to ‘‘Anthropic and Alignment’’"  href="https://daringfireball.net/linked/2026/03/02/anthropic-and-alignment">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>WSJ: ‘Trump Administration Shuns Anthropic, Embraces OpenAI in Clash Over Guardrails’</title>
 	<link rel="alternate" type="text/html" href="https://www.wsj.com/tech/ai/trump-will-end-government-use-of-anthropics-ai-models-ff3550d9" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wxz" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/02/wsj-dod-anthropic" />
 	<id>tag:daringfireball.net,2026:/linked//6.42695</id>
 	<published>2026-03-02T17:56:51Z</published>
-	<updated>2026-03-02T17:57:08Z</updated>
+	<updated>2026-03-02T18:01:59Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -54,8 +116,10 @@ impairing its ability to work with other government contractors.</p>
 
 <ul>
 <li>It’s not the place of a corporation to dictate terms to the Department of Defense regarding how its product or services are used within the law.</li>
-<li>It’s a preposterous, childish overreaction to designate Anthropic a “supply-chain risk” in this way. Grow up.</li>
+<li>It’s a preposterous, childish overreaction to designate Anthropic a “supply-chain risk to national security” in this way. Grow up.</li>
 </ul>
+
+<p><strong>See also:</strong> <a href="https://www.anthropic.com/news/statement-comments-secretary-war">Anthropic’s official response</a>.</p>
 
 <div>
 <a  title="Permanent link to ‘WSJ: ‘Trump Administration Shuns Anthropic, Embraces OpenAI in Clash Over Guardrails’’"  href="https://daringfireball.net/linked/2026/03/02/wsj-dod-anthropic">&nbsp;★&nbsp;</a>
@@ -1751,41 +1815,6 @@ only remaining successful consumer brands.</p>
 
 <div>
 <a  title="Permanent link to ‘Inside Microsoft’s Xbox Leadership Shake-Up’"  href="https://daringfireball.net/linked/2026/02/24/inside-microsofts-xbox-leadership-shake-up">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Times New Resistance</title>
-	<link rel="alternate" type="text/html" href="https://www.abbyhaddican.com/times-new-resistance" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wwt" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/02/24/times-new-resistance" />
-	<id>tag:daringfireball.net,2026:/linked//6.42653</id>
-	<published>2026-02-24T16:19:23Z</published>
-	<updated>2026-02-24T19:21:20Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Abby Haddican:</p>
-
-<blockquote>
-  <p>Times New Resistance autocorrects specific words as they are
-typed. For example, the word <em>ICE</em> autocorrects to <em>the Goon
-Squad</em> and the word <em>Trump</em> autocorrects to <em>Donald Trump is
-a felon</em>.</p>
-
-<p>To the untrained eye, Times New Resistance looks just like Times
-New Roman — <a href="https://www.npr.org/2025/12/11/nx-s1-5639915/u-s-state-department-changes-official-font-from-calibri-back-to-times-new-roman">the official font of the U.S. State
-Department</a>. When you install the font, <em>it will appear in
-your font menus as Times &nbsp;New Roman</em>, with an extra space
-between the words Times and New.</p>
-</blockquote>
-
-<p>Ligatures, man. Will they never cease <a href="https://daringfireball.net/linked/2020/05/13/scunthorpe-sans">to surprise</a>?</p>
-
-<div>
-<a  title="Permanent link to ‘Times New Resistance’"  href="https://daringfireball.net/linked/2026/02/24/times-new-resistance">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
