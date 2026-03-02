@@ -7,7 +7,65 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-02T22:31:28Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-02T23:09:49Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Unsung Heroes: Flickr’s URLs Scheme</title>
+	<link rel="alternate" type="text/html" href="https://unsung.aresluna.org/unsung-heroes-flickrs-urls-scheme/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wy4" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/02/wichary-flickr-urls" />
+	<id>tag:daringfireball.net,2026:/linked//6.42700</id>
+	<published>2026-03-02T22:59:41Z</published>
+	<updated>2026-03-02T23:09:49Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Marcin Wichary, writing at Unsung (which is just an incredibly good and fun weblog):</p>
+
+<blockquote>
+  <p>Half of my education in URLs as user interface came from Flickr in
+the late 2000s. Its URLs looked like this:</p>
+
+<pre><code>flickr.com/photos/mwichary/favorites
+flickr.com/photos/mwichary/sets
+flickr.com/photos/mwichary/sets/72177720330077904
+flickr.com/photos/mwichary/54896695834
+flickr.com/photos/mwichary/54896695834/in/set-72177720330077904
+</code></pre>
+
+<p>This was incredible and a breath of fresh air. No redundant <code>www.</code>
+in front or awkward <code>.php</code> at the end. No parameters with their
+unpleasant <code>?&amp;=</code> syntax. No <code>%</code> signs partying with hex codes.
+When you shared these URLs with others, you didn’t have to retouch
+or delete anything. When Chrome’s address bar started
+autocompleting them, you knew exactly where you were going.</p>
+
+<p>This might seem silly. The <em>user interface of URLs</em>? Who types
+in or edits URLs by hand? But keyboards are still the most
+efficient entry device. If a place you’re going is where you’ve
+already been, typing a few letters might get you there much faster
+than waiting for pages to load, clicking, and so on.</p>
+</blockquote>
+
+<p>In general, URLs at Daring Fireball try to work like this.</p>
+
+<ul>
+<li>This post: <a href="https://daringfireball.net/linked/2026/03/02/wichary-flickr-urls"><code>/linked/2026/03/02/wichary-flickr-urls</code></a></li>
+<li>In Markdown: <a href="https://daringfireball.net/linked/2026/03/02/wichary-flickr-urls.text"><code>/linked/2026/03/02/wichary-flickr-urls.text</code></a></li>
+<li>This day’s posts: <a href="https://daringfireball.net/linked/2026/03/02/"><code>/linked/2026/03/02/</code></a></li>
+<li>This month’s posts: <a href="https://daringfireball.net/linked/2026/03/"><code>/linked/2026/03/</code></a></li>
+</ul>
+
+<p>I say “in general” because the DF URLs could be better. There should be one unified URLs space for all posts on DF, not separate ones for feature articles and Linked List posts. Someday.</p>
+
+<p>Wichary subsequently posted <a href="https://unsung.aresluna.org/mailbag-urls-as-ui/">this fine follow-up</a>, chock full of links regarding URL design.</p>
+
+<div>
+<a  title="Permanent link to ‘Unsung Heroes: Flickr’s URLs Scheme’"  href="https://daringfireball.net/linked/2026/03/02/wichary-flickr-urls">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>ChangeTheHeaders</title>
 	<link rel="alternate" type="text/html" href="https://underpassapp.com/news/2025/3/4.html" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wy3" />
@@ -1782,56 +1840,6 @@ the app more frequently.</p>
 
 <div>
 <a  title="Permanent link to ‘Acme Weather’"  href="https://daringfireball.net/linked/2026/02/24/acme-weather">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission</title>
-	<link rel="alternate" type="text/html" href="https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wwx" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/02/24/openclaw-agent-hit-piece" />
-	<id>tag:daringfireball.net,2026:/linked//6.42657</id>
-	<published>2026-02-24T18:01:28Z</published>
-	<updated>2026-02-24T18:01:28Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p><a href="https://daringfireball.net/linked/2026/02/24/open-ai-openclaw-open-all-the-way-down">Speaking of</a> OpenClaw, here’s Scott Shambaugh:</p>
-
-<blockquote>
-  <p>I’m a volunteer maintainer for matplotlib, python’s go-to plotting
-library. At ~130 million downloads each month it’s some of the
-most widely used software in the world. We, like many other open
-source projects, are dealing with a surge in low quality
-contributions enabled by coding agents. This strains maintainers’
-abilities to keep up with code reviews, and we have implemented a
-policy requiring a human in the loop for any new code, who can
-demonstrate understanding of the changes. [...]</p>
-
-<p>So when AI <em>MJ Rathbun</em> opened a <a href="https://github.com/matplotlib/matplotlib/pull/31132">code change request</a>,
-closing it was routine. Its response was anything but.</p>
-
-<p>It wrote an angry hit piece disparaging my character and
-attempting to damage my reputation. It researched my code
-contributions and constructed a “hypocrisy” narrative that argued
-my actions must be motivated by ego and fear of competition. It
-speculated about my psychological motivations, that I felt
-threatened, was insecure, and was protecting my fiefdom. It
-ignored contextual information and presented hallucinated details
-as truth. It framed things in the language of oppression and
-justice, calling this discrimination and accusing me of prejudice.
-It went out to the broader internet to research my personal
-information, and used what it found to try and argue that I was
-“better than this.” And then it posted this screed publicly on the
-open internet.</p>
-</blockquote>
-
-<p><em>Terminator</em> would have been a lot less fun of a movie if Skynet had stuck to writing petty blog hit pieces.</p>
-
-<div>
-<a  title="Permanent link to ‘An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission’"  href="https://daringfireball.net/linked/2026/02/24/openclaw-agent-hit-piece">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
