@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-03T00:20:22Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-03T01:04:00Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	
 	<link rel="alternate" type="text/html" href="https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&amp;utm_medium=newsletter&amp;utm_campaign=q12026" />
 	<link rel="shorturl" href="http://df4.us/wy6" />
@@ -34,14 +34,14 @@
 	<link rel="shorturl" href="http://df4.us/wy5" />
 	<id>tag:daringfireball.net,2026://1.42701</id>
 	<published>2026-03-02T23:41:11Z</published>
-	<updated>2026-03-02T23:41:36Z</updated>
+	<updated>2026-03-03T01:04:00Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<summary type="text">What HazeOver does is highlight the active window by dimming all background windows. That’s it. But it does this simple task with aplomb, and it makes a significant difference in the day-to-day usability of MacOS.</summary>
 	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>Back in December <a href="https://daringfireball.net/linked/2025/12/03/alan-app">I linked to</a> a sort-of stunt project from Tyler Hall <a href="https://tyler.io/2025/11/26/alan/">called Alan.app</a> — a simple Mac utility that draws a bold rectangle around the current active window. Alan.app lets you set the thickness and color of the frame. I used it for an hour or so before calling it quits. It really does solve the severe (and worsening) problem of being about to instantly identify the active window in recent versions of MacOS, but the crudeness of Alan.app’s implementation makes it one of those cases where the cure is worse than the disease. Ultimately I’d rather suffer from barely distinguishable active window state than look at Alan.app’s crude active-window frame all day every day. What makes Alan.app interesting to me is its effectiveness as a protest app. The absurdity of Alan.app’s crude solution highlights the absurdity of the underlying problem — that anyone would even <em>consider</em> running Alan.app (or the fact that Hall was motivated to create and release it) shows just how bad recent MacOS’s windowing UI is.</p>
+<p>Back in December <a href="https://daringfireball.net/linked/2025/12/03/alan-app">I linked to</a> a sort-of stunt project from Tyler Hall <a href="https://tyler.io/2025/11/26/alan/">called Alan.app</a> — a simple Mac utility that draws a bold rectangle around the current active window. Alan.app lets you set the thickness and color of the frame. I used it for an hour or so before calling it quits. It really does solve the severe (and worsening) problem of being about to instantly identify the active window in recent versions of MacOS, but the crudeness of Alan.app’s implementation makes it one of those cases where the cure is worse than the disease. Ultimately I’d rather suffer from barely distinguishable active window state than look at Alan.app’s crude active-window frame all day every day. What makes Alan.app interesting to me is its effectiveness as a protest app. The absurdity of Alan.app’s crude solution highlights the absurdity of the underlying problem — that anyone would even <em>consider</em> running Alan.app (or the fact that Hall was motivated to create and release it) shows just how bad windowing UI is in recent MacOS versions.</p>
 
 <p>Turns out there exists an app that attempts to solve this problem in an elegant way that you might want to actually live with. It’s called <a href="https://hazeover.com/">HazeOver</a>, and developer Maxim Ananov first released it a decade ago. It’s <a href="https://apps.apple.com/us/app/hazeover-distraction-dimmer/id430798174?mt=12">in the Mac App Store for $5</a>, is included <a href="https://go.setapp.com/stp130?refAppID=212&amp;stc=index">in the SetApp subscription service</a>, and has <a href="https://hazeover.com/">a free trial available</a> from the website.</p>
 
@@ -49,7 +49,7 @@
 
 <p>Longtime DF reader <a href="https://www.faisal.com/">Faisal Jawdat</a> sent me a note suggesting I try HazeOver back in early December, after I linked to Alan.app. I didn’t get around to trying HazeOver until December 30, and I’ve been using it ever since. One thing I did, at first, was <em>not</em> set HazeOver to launch automatically at login. That way, each time I restarted or logged out, I’d go back to the default MacOS 15 Sequoia interface, where background windows aren’t dimmed. I wanted to see if I’d miss HazeOver when it wasn’t running. Each time, I did notice, and I missed it. I now have it set to launch automatically when I log in.</p>
 
-<p>HazeOver’s default settings are a bit strong for my taste. By default, it dims background windows by 35 percent. I’ve dialed that back to just 10 percent, and that’s more than noticeable enough for me. I understand why HazeOver’s default dimming is so strong — it emphasizes just what HazeOver is doing. But after you get used to it, you might find, as I did, that a little bit goes a long way. (Jawdat told me he’s dropped his setting down to 12 percent.) I’ve also diddled with HazeOver’s animation settings, changing from the default (Ease Out, 0.3 seconds) to Ease In &amp; Out, 0.1 seconds — I want switching windows to feel <em>fast fast fast</em>.</p>
+<p>HazeOver’s default settings are a bit strong for my taste. By default, it dims background windows by 35 percent. I’ve dialed that back to just 10 percent, and that’s more than noticeable enough for me. I understand why HazeOver’s default dimming is so strong — it emphasizes just what HazeOver is doing. But after you get used to it, you might find, as I did, that a little bit goes a long way. (Jawdat told me he’s dropped down to 12 percent on his machine.) I’ve also diddled with HazeOver’s animation settings, changing from the default (Ease Out, 0.3 seconds) to Ease In &amp; Out, 0.1 seconds — I want switching windows to feel <em>fast fast fast</em>.</p>
 
 <p>Highly recommended, and a veritable bargain <a href="https://apps.apple.com/us/app/hazeover-distraction-dimmer/id430798174?mt=12">at just $5</a>.</p>
 
