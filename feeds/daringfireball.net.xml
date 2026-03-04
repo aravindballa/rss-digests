@@ -7,7 +7,27 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-04T16:10:33Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-04T18:15:07Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Studio Display vs. Studio Display XDR</title>
+	<link rel="alternate" type="text/html" href="https://www.apple.com/displays/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wye" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/04/studio-display-vs-studio-display-xdr" />
+	<id>tag:daringfireball.net,2026:/linked//6.42710</id>
+	<published>2026-03-04T18:04:43Z</published>
+	<updated>2026-03-04T18:04:44Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Not sure if this page was there yesterday, but the main “Displays” page at Apple’s website is a spec-by-spec comparison between the regular and XDR models. Nice.</p>
+
+<div>
+<a  title="Permanent link to ‘Studio Display vs. Studio Display XDR’"  href="https://daringfireball.net/linked/2026/03/04/studio-display-vs-studio-display-xdr">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Compatibility Notes on the New Studio Displays</title>
 	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2026/03/03/apple-studio-display-no-intel-mac-support/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wyd" />
@@ -69,7 +89,7 @@ their efficiency.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/03/updated-studio-display-and-all-new-studio-display-xdr" />
 	<id>tag:daringfireball.net,2026:/linked//6.42707</id>
 	<published>2026-03-03T21:25:07Z</published>
-	<updated>2026-03-03T21:39:23Z</updated>
+	<updated>2026-03-04T18:02:49Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -106,7 +126,7 @@ options, and can be pre-ordered starting tomorrow, March 4, with
 availability beginning Wednesday, March 11.</p>
 </blockquote>
 
-<p>Compared to the first-generation Studio Display (<a href="https://www.apple.com/newsroom/2022/03/apple-unveils-all-new-mac-studio-and-studio-display/">March 2022</a>), the updated model really just has a better camera. (<a href="https://daringfireball.net/2022/03/the_apple_studio_display">Wouldn’t take much to improve upon the old camera</a>.) The Studio Display XDR is the interesting new one. Apple doesn’t seem to have a “Compare” page for its displays, so the <a href="https://www.apple.com/studio-display/specs/">Studio Display Tech Specs</a> and <a href="https://www.apple.com/studio-display-xdr/specs/">Studio Display XDR Tech Specs</a> pages will have to suffice.</p>
+<p>Compared to the first-generation Studio Display (<a href="https://www.apple.com/newsroom/2022/03/apple-unveils-all-new-mac-studio-and-studio-display/">March 2022</a>), the updated model really just has a better camera. (<a href="https://daringfireball.net/2022/03/the_apple_studio_display">Wouldn’t take much to improve upon the old camera</a>.) The Studio Display XDR is the interesting new one. Apple doesn’t seem to have a “Compare” page for its displays, so the <a href="https://www.apple.com/studio-display/specs/">Studio Display Tech Specs</a> and <a href="https://www.apple.com/studio-display-xdr/specs/">Studio Display XDR Tech Specs</a> pages will have to suffice. <strong>Update:</strong> <a href="https://www.apple.com/displays/">The main “Displays” page at Apple’s website</a> serves as a comparison page between the new Studio Display and Studio Display XDR.</p>
 
 <p>The regular Studio Display maxes out at 600 nits, and only supports a refresh rate of 60 Hz. The Studio Display XDR maxes out at 1,000 nits for SDR content and 2,000 nits for HDR, with up to 120 Hz refresh rate. Nice, but not enough to tempt me to upgrade from my current Studio Display with nano-texture, which I never seem to run at maximum brightness. I guess it would be nice to see HDR content, but not nice enough to spend $3,600 to get one with nano-texture. And I don’t think I care about 120 Hz on my Mac?</p>
 
@@ -255,7 +275,7 @@ Wednesday, March 11.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/03/apple-debuts-m5-pro-and-m5-max" />
 	<id>tag:daringfireball.net,2026:/linked//6.42703</id>
 	<published>2026-03-03T18:11:32Z</published>
-	<updated>2026-03-03T21:40:48Z</updated>
+	<updated>2026-03-04T18:15:07Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -308,7 +328,7 @@ running demanding simulations with unparalleled ease.</p>
 -->
 
 <div class = "article">
-<table width = 400>
+<table width = 500 style="margin-left: -10px;">
 <thead>
 <tr>
   <th></th>
@@ -1904,28 +1924,6 @@ chocolate in a single cookie or candy.</p>
 
 <div>
 <a  title="Permanent link to ‘Major Candy Brands Are Switching From Actual Chocolate to ‘Chocolatey Candy’ (Read: Brown Candle Wax)’"  href="https://daringfireball.net/linked/2026/02/25/from-chocolate-to-wax">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>I Am Nothing if Not a Man of Science</title>
-	<link rel="alternate" type="text/html" href="https://mastodon.social/@gruber/116131665730352697" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wx6" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/02/25/i-am-nothing-if-not-a-man-of-science" />
-	<id>tag:daringfireball.net,2026:/linked//6.42666</id>
-	<published>2026-02-25T14:19:34Z</published>
-	<updated>2026-02-25T15:15:58Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>After writing a few days ago about the current <a href="https://daringfireball.net/linked/2026/02/23/brad-reese">brouhaha over the severe decline in the edibility of Reese’s Peanut Butter Cups</a>, and <a href="https://daringfireball.net/linked/2026/02/23/trader-joes-dark-chocolate-peanut-butter-cups">linking to Trader Joe’s shade-throwing description of their own</a>, I of course had to try theirs. In the name of science, I bought both the milk and dark chocolate variants.</p>
-
-<p>Verdict: Excellent. Both chocolates taste like chocolate, not candle wax, and the peanut butter is creamy and smooth — you know, like peanut butter. Not the sand-and-sawdust mix that Hershey fills Reese’s cups with now.</p>
-
-<div>
-<a  title="Permanent link to ‘I Am Nothing if Not a Man of Science’"  href="https://daringfireball.net/linked/2026/02/25/i-am-nothing-if-not-a-man-of-science">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
