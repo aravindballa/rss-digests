@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-06T20:32:47Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-06T20:49:48Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>Google’s Threat Intelligence Group on Coruna a Powerful iOS Exploit Kit of Mysterious Origin</title>
 	<link rel="alternate" type="text/html" href="https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wyn" />
@@ -61,7 +61,7 @@ vulnerabilities.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/06/window-chrome-of-our-discontent" />
 	<id>tag:daringfireball.net,2026:/linked//6.42718</id>
 	<published>2026-03-06T20:21:12Z</published>
-	<updated>2026-03-06T20:26:17Z</updated>
+	<updated>2026-03-06T20:49:48Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -81,7 +81,7 @@ variables it can change to differentiate tools within toolbars,
 and to more clearly delineate window chrome from document.</p>
 </blockquote>
 
-<p>This entire idea that application window chrome should disappear is madness. Some people — at Apple, quite obviously — think it looks better, in the abstract, but I can’t see how it actually makes actually using these apps more productive. Artists don’t want to use invisible tools.</p>
+<p>This entire idea that application window chrome should disappear is madness. Some people — at Apple, quite obviously — think it looks better, in the abstract, but I can’t see how it makes actually <em>using</em> these apps more productive. Artists don’t want to use invisible tools.</p>
 
 <p>Clean lines between content and application chrome are clarifying, not distracting. It’s also useful to be able to tell, at a glance, which application is which. I look at Heer’s screenshot of the new version of Pages running on MacOS 26 Tahoe and not only can I not tell at a glance that it’s Pages, I can’t even tell at a glance that it’s a document word processor, especially with the formatting sidebar hidden. One of the worst aspects of Liquid Glass, across all platforms, but exemplified by MacOS 26, is that all apps look exactly the same. Not just different apps that are in the same category, but different apps from entirely different categories. Safari looks like Mail looks like Pages looks like the Finder — even though web browsers, email clients, word processors, and file browsers aren’t anything alike.</p>
 
