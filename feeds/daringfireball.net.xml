@@ -7,7 +7,90 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-06T20:08:39Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-06T20:32:47Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Google’s Threat Intelligence Group on Coruna a Powerful iOS Exploit Kit of Mysterious Origin</title>
+	<link rel="alternate" type="text/html" href="https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wyn" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/06/google-threat-intelligence-group-coruna" />
+	<id>tag:daringfireball.net,2026:/linked//6.42719</id>
+	<published>2026-03-06T20:32:47Z</published>
+	<updated>2026-03-06T20:32:47Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Google Threat Intelligence Group, earlier this week:</p>
+
+<blockquote>
+  <p>Google Threat Intelligence Group (GTIG) has identified a new and
+powerful exploit kit targeting Apple iPhone models running iOS
+version 13.0 (released in September 2019) up to version 17.2.1
+(released in December 2023). The exploit kit, named “Coruna” by
+its developers, contained five full iOS exploit chains and a total
+of 23 exploits. The core technical value of this exploit kit lies
+in its comprehensive collection of iOS exploits, with the most
+advanced ones using non-public exploitation techniques and
+mitigation bypasses.</p>
+
+<p>The Coruna exploit kit provides <a href="https://blog.google/threat-analysis-group/state-backed-attackers-and-commercial-surveillance-vendors-repeatedly-use-the-same-exploits/">another example of how
+sophisticated capabilities proliferate</a>. Over the course of
+2025, GTIG tracked its use in highly targeted operations initially
+conducted by a customer of a <a href="https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/Buying_Spying_-_Insights_into_Commercial_Surveillance_Vendors_-_TAG_report.pdf">surveillance vendor</a>, then
+observed its deployment in watering hole attacks targeting
+Ukrainian users by UNC6353, a suspected Russian espionage group.
+We then retrieved the complete exploit kit when it was later used
+in broad-scale campaigns by UNC6691, a financially motivated
+threat actor operating from China. How this proliferation occurred
+is unclear, but suggests an active market for “second hand”
+zero-day exploits. Beyond these identified exploits, multiple
+threat actors have now acquired advanced exploitation techniques
+that can be re-used and modified with newly identified
+vulnerabilities.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘Google’s Threat Intelligence Group on Coruna a Powerful iOS Exploit Kit of Mysterious Origin’"  href="https://daringfireball.net/linked/2026/03/06/google-threat-intelligence-group-coruna">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>‘The Window Chrome of Our Discontent’</title>
+	<link rel="alternate" type="text/html" href="https://pxlnv.com/blog/window-chrome-of-our-discontent/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wym" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/06/window-chrome-of-our-discontent" />
+	<id>tag:daringfireball.net,2026:/linked//6.42718</id>
+	<published>2026-03-06T20:21:12Z</published>
+	<updated>2026-03-06T20:26:17Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Nick Heer, writing at Pixel Envy, uses Pages (from 2009 through today) to illustrate Apple’s march toward putting “greater focus on your content” by making window chrome, and toolbar icons, more and more invisible:</p>
+
+<blockquote>
+  <p>Perhaps Apple has some user studies that suggest otherwise, but I
+cannot see how dialling back the lines between interface and
+document is supposed to be beneficial for the user. It does not,
+in my use, result in less distraction while I am working in these
+apps. In fact, it often does the opposite. I do not think the
+prescription is rolling back to a decade-old design language.
+However, I think Apple should consider exploring the wealth of
+variables it can change to differentiate tools within toolbars,
+and to more clearly delineate window chrome from document.</p>
+</blockquote>
+
+<p>This entire idea that application window chrome should disappear is madness. Some people — at Apple, quite obviously — think it looks better, in the abstract, but I can’t see how it actually makes actually using these apps more productive. Artists don’t want to use invisible tools.</p>
+
+<p>Clean lines between content and application chrome are clarifying, not distracting. It’s also useful to be able to tell, at a glance, which application is which. I look at Heer’s screenshot of the new version of Pages running on MacOS 26 Tahoe and not only can I not tell at a glance that it’s Pages, I can’t even tell at a glance that it’s a document word processor, especially with the formatting sidebar hidden. One of the worst aspects of Liquid Glass, across all platforms, but exemplified by MacOS 26, is that all apps look exactly the same. Not just different apps that are in the same category, but different apps from entirely different categories. Safari looks like Mail looks like Pages looks like the Finder — even though web browsers, email clients, word processors, and file browsers aren’t anything alike.</p>
+
+<div>
+<a  title="Permanent link to ‘‘The Window Chrome of Our Discontent’’"  href="https://daringfireball.net/linked/2026/03/06/window-chrome-of-our-discontent">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>The Verge Interviews Tim Sweeney After Victory in ‘Epic v. Google’</title>
 	<link rel="alternate" type="text/html" href="https://www.theverge.com/23996474/epic-tim-sweeney-interview-win-google-antitrust-lawsuit-district-court" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wyl" />
@@ -1857,57 +1940,6 @@ spoken-word audio listening.</p>
 
 <div>
 <a  title="Permanent link to ‘Research Firm Says Podcasts Have Passed AM/FM Talk Radio in Spoken-Word Listening Time’"  href="https://daringfireball.net/linked/2026/02/26/podcasts-pass-talk-radio">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>New York Sues Valve, Says Its ‘Loot Boxes’ Are Gambling</title>
-	<link rel="alternate" type="text/html" href="https://www.reuters.com/legal/government/new-york-sues-video-game-developer-valve-says-its-loot-boxes-are-gambling-2026-02-25/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wxf" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/02/26/new-york-sues-valve" />
-	<id>tag:daringfireball.net,2026:/linked//6.42675</id>
-	<published>2026-02-26T17:14:58Z</published>
-	<updated>2026-02-26T17:14:59Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Reuters:</p>
-
-<blockquote>
-  <p>New York’s attorney general sued Valve, a video game developer
-whose franchises include Counter-Strike, Team Fortress and Dota,
-accusing it of promoting illegal gambling and threatening to
-addict children through its use of “loot boxes.” In a complaint
-filed on Wednesday in a state court in Manhattan, Attorney General
-Letitia James said Valve’s loot boxes amounted to “quintessential
-gambling,” violating the state’s constitution and penal law, with
-valuable items often hard to win and many items worth pennies.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘New York Sues Valve, Says Its ‘Loot Boxes’ Are Gambling’"  href="https://daringfireball.net/linked/2026/02/26/new-york-sues-valve">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘H-Bomb: A Frank Lloyd Wright Typographic Mystery’</title>
-	<link rel="alternate" type="text/html" href="https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wxd" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/02/25/h-bomb-wright" />
-	<id>tag:daringfireball.net,2026:/linked//6.42673</id>
-	<published>2026-02-25T23:53:00Z</published>
-	<updated>2026-02-25T23:53:08Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>When re-hanging signage, “Mind your P’s and Q’s” ought to be “Mind your H’s and S’s”.</p>
-
-<div>
-<a  title="Permanent link to ‘‘H-Bomb: A Frank Lloyd Wright Typographic Mystery’’"  href="https://daringfireball.net/linked/2026/02/25/h-bomb-wright">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
