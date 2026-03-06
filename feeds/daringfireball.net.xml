@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-06T00:18:13Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-06T14:25:46Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>Steve Jobs in 2007, on Apple’s Pursuit of PC Market Share: ‘We Just Can’t Ship Junk’</title>
 	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=U37Ds3RvyoM" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wyg" />
@@ -153,13 +153,15 @@ saying that now, for the last 18 months.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/04/compatibility-notes-on-the-new-studio-displays" />
 	<id>tag:daringfireball.net,2026:/linked//6.42709</id>
 	<published>2026-03-04T16:10:32Z</published>
-	<updated>2026-03-04T16:10:33Z</updated>
+	<updated>2026-03-06T14:25:46Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
 <p>Juli Clover, at MacRumors, notes that neither the new Studio Display nor the Studio Display XDR are <a href="https://www.macrumors.com/2026/03/03/apple-studio-display-no-intel-mac-support/">compatible with Intel-based Macs</a>. (I’m curious why.) Also, <a href="https://www.macrumors.com/2026/03/03/studio-display-xdr-120hz-limits/">in a separate report</a>, she notes that Macs with any M1 chip, or the base M2 or M3, are only able to drive the Studio Display XDR at 60 Hz. You need a Pro or better M2/M3, or any M4 or M5 chip, to drive it at 120 Hz.</p>
+
+<p><strong>Update:</strong> My understanding is that if you connect one of these new Studio Displays to an Intel-based Mac, it’ll work, but it’ll work as a dumb monitor. You won’t get the full features. I’ll bet Apple sooner or later publishes a support document explaining it, but for now, they’re just saying they’re not “compatible” because you don’t get the full feature set. Like with the Studio Display XDR in particular, you won’t get HDR or 120 Hz refresh rates.</p>
 
 <div>
 <a  title="Permanent link to ‘Compatibility Notes on the New Studio Displays’"  href="https://daringfireball.net/linked/2026/03/04/compatibility-notes-on-the-new-studio-displays">&nbsp;★&nbsp;</a>
