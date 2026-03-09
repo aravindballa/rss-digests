@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-09T22:51:47Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-09T22:53:17Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	
 	<link rel="alternate" type="text/html" href="https://www.finalist.works/finalist-36/" />
 	<link rel="shorturl" href="http://df4.us/wyw" />
@@ -34,7 +34,7 @@
 	<link rel="shorturl" href="http://df4.us/wyv" />
 	<id>tag:daringfireball.net,2026://1.42727</id>
 	<published>2026-03-09T21:57:35Z</published>
-	<updated>2026-03-09T22:51:47Z</updated>
+	<updated>2026-03-09T22:53:17Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -81,7 +81,7 @@
 
 <p>Here’s a table with pricing for the iPhone models Apple currently sells:</p>
 
-<p><!-- Markdown Table:
+<!-- Markdown Table:
 |            |   SoC   | 128 GB | 256 GB | 512 GB | 1 TB   | 2 TB  |
 | ---------: | :-----: | :----: | :----: | :----: | :----: | :---: |
 | 17e        |   A19   | — |  $600  |  $800  |        | — |
@@ -92,13 +92,13 @@
 | 17 Pro     | A19 Pro | — | $1100  | $1300  | $1500  | — |
 | 17 Pro Max | A19 Pro | — | $1200  | $1400  | $1600  | $2000 |
 -->
-<table class="table-8C47AFED-145E-4785-BA79-3587CDB4548E" width=550>
+
+<table class="table-8C47AFED-145E-4785-BA79-3587CDB4548E" width=550 style="margin-left: -35px;">
 <style>
-margin-left: -50px;
 .table-8C47AFED-145E-4785-BA79-3587CDB4548E th:nth-child(1) { text-align: left }
 .table-8C47AFED-145E-4785-BA79-3587CDB4548E td:nth-child(1) { text-align: left }
-.table-8C47AFED-145E-4785-BA79-3587CDB4548E th:nth-child(2) { text-align: center }
-.table-8C47AFED-145E-4785-BA79-3587CDB4548E td:nth-child(2) { text-align: center }
+.table-8C47AFED-145E-4785-BA79-3587CDB4548E th:nth-child(2) { text-align: left }
+.table-8C47AFED-145E-4785-BA79-3587CDB4548E td:nth-child(2) { text-align: left }
 .table-8C47AFED-145E-4785-BA79-3587CDB4548E th:nth-child(3) { text-align: center }
 .table-8C47AFED-145E-4785-BA79-3587CDB4548E td:nth-child(3) { text-align: center }
 .table-8C47AFED-145E-4785-BA79-3587CDB4548E th:nth-child(4) { text-align: center }
@@ -111,7 +111,7 @@ margin-left: -50px;
 .table-8C47AFED-145E-4785-BA79-3587CDB4548E td:nth-child(7) { text-align: center }
 </style>
 <thead>
-<th></th><th>SoC</th><th>128 GB</th><th>256 GB</th><th>512 GB</th><th>1 TB</th><th>2 TB</th>
+<th>iPhone</th><th>SoC</th><th>128 GB</th><th>256 GB</th><th>512 GB</th><th>1 TB</th><th>2 TB</th>
 </thead>
 <tbody>
 <tr>
@@ -136,7 +136,7 @@ margin-left: -50px;
 <td>17 Pro Max</td><td>A19 Pro</td><td>—</td><td>$1200</td><td>$1400</td><td>$1600</td><td>$2000</td>
 </tr>
 </tbody>
-</table></p>
+</table>
 
 <p>This is a very compelling lineup, and the 17e shores up the lowest price point with aplomb:</p>
 
