@@ -7,7 +7,34 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-12T00:26:23Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-12T00:50:34Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Jason Snell Is on Jeopardy Next Week</title>
+	<link rel="alternate" type="text/html" href="https://sixcolors.com/post/2026/03/ill-take-beach-reading-for-1000-ken/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wz3" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/11/snell-on-jeopardy" />
+	<id>tag:daringfireball.net,2026:/linked//6.42735</id>
+	<published>2026-03-12T00:46:59Z</published>
+	<updated>2026-03-12T00:46:59Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jason Snell:</p>
+
+<blockquote>
+  <p>So here we are: Six Colors now has three <em>Jeopardy!</em> players as
+contributors.</p>
+</blockquote>
+
+<p>Come on, Moltz, get your shit together.</p>
+
+<div>
+<a  title="Permanent link to ‘Jason Snell Is on Jeopardy Next Week’"  href="https://daringfireball.net/linked/2026/03/11/snell-on-jeopardy">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Another One From the Archive: ‘Web Kit’ vs. ‘WebKit’</title>
 	<link rel="alternate" type="text/html" href="https://daringfireball.net/2006/05/web_kit_vs_webkit" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wz2" />
@@ -106,7 +133,7 @@ action of the command, you can identify the key by that character.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/11/macbook-keyboards-words-to-glyphs" />
 	<id>tag:daringfireball.net,2026:/linked//6.42731</id>
 	<published>2026-03-11T23:06:05Z</published>
-	<updated>2026-03-11T23:07:18Z</updated>
+	<updated>2026-03-12T00:50:34Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -125,6 +152,8 @@ gone, replaced with symbols instead.</p>
 <p>All the new MacBook keyboards sport this same change, including the M5 Air and A18 Pro MacBook Neo. I’m not a fan. I like the words on those keys. But I’m willing to admit it might just be that I’ve been using Apple keyboards <a href="https://en.wikipedia.org/wiki/Apple_IIe">with words</a> on <a href="https://en.wikipedia.org/wiki/Apple_IIc">those keys</a> since I was like 10 years old. iOS 26 switched from the word “return” to the “⏎” glyph on the software keyboard (and removed the word “space” from the spacebar — which, in hindsight, seemed needless to label).</p>
 
 <p>The Escape key is still labelled “esc”, and the modifier keys (Fn, Control, Option, and Command) still show the names underneath or next to the glyphs. I suspect this is because documentation — <a href="https://support.apple.com/en-us/102650">including Apple’s own</a> — often uses names for these keys (Option-Shift-Command-K), not the glyphs (⌥⇧⌘K). It’s only in the last few years that Apple began including the glyphs for Control (⌃) and Option (⌥) — until recently, those keys were labelled only by name. They added the ⌃ and ⌥ glyphs between <a href="https://support.apple.com/en-us/111951">2017</a> and <a href="https://support.apple.com/en-us/111932">2018</a>. And until that change in 2018, Apple added the label “alt” to the Option key — a visual turd so longstanding that it dates back even to <a href="https://www.flickr.com/photos/gruber/albums/72157604797968156/">my own beloved keyboard</a>.</p>
+
+<p>Outside the U.S., Apple has been using glyphs for these key caps for a long time. The change from words to glyphs is new only here.</p>
 
 <div>
 <a  title="Permanent link to ‘Apple Has Changed Several Key Cap Labels From Words to Glyphs on Its Latest MacBook Keyboards’"  href="https://daringfireball.net/linked/2026/03/11/macbook-keyboards-words-to-glyphs">&nbsp;★&nbsp;</a>
@@ -2099,37 +2128,6 @@ iPhone 12 — giving users more space for high-resolution photos,
 
 <div>
 <a  title="Permanent link to ‘Trump’s Enormous Gamble on Regime Change in Iran’"  href="https://daringfireball.net/linked/2026/02/28/nichols-trump-iran">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free</title>
-	<link rel="alternate" type="text/html" href="https://www.techdirt.com/2026/02/25/west-virginias-anti-apple-csam-lawsuit-would-help-child-predators-walk-free/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wxs" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/02/27/west-virginia-apple-csam" />
-	<id>tag:daringfireball.net,2026:/linked//6.42688</id>
-	<published>2026-02-27T18:28:44Z</published>
-	<updated>2026-02-27T18:28:44Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Mike Masnick, writing for Techdirt:</p>
-
-<blockquote>
-  <p>Read that again. If West Virginia wins — if an actual court
-orders Apple to start scanning iCloud for CSAM — then every
-image flagged by those mandated scans becomes <em>evidence obtained
-through a warrantless government search conducted without
-probable cause</em>. The Fourth Amendment’s exclusionary rule means
-defense attorneys get to walk into court and demand that evidence
-be thrown out. And they’ll win that motion. It’s not even a
-particularly hard case to make.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free’"  href="https://daringfireball.net/linked/2026/02/27/west-virginia-apple-csam">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
