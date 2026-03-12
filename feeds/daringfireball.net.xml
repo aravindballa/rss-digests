@@ -7,7 +7,78 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-12T21:23:18Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-12T23:48:59Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Apple’s Platform Security Guide Adds a Brief Note on the MacBook Neo’s On-Screen Camera Indicator</title>
+	<link rel="alternate" type="text/html" href="https://support.apple.com/guide/security/mac-on-screen-camera-indicator-light-sec75a2d237d/1/web/1" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wz7" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/12/macbook-neo-on-screen-camera-indicator" />
+	<id>tag:daringfireball.net,2026:/linked//6.42739</id>
+	<published>2026-03-12T23:48:59Z</published>
+	<updated>2026-03-12T23:48:59Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Apple Platform Security Guide:</p>
+
+<blockquote>
+  <p>MacBook Neo combines system software and dedicated silicon
+elements within A18 Pro to provide additional security for the
+camera feed. The architecture is designed to prevent any untrusted
+software — even with root or kernel privileges in macOS — from
+engaging the camera without also visibly lighting the on-screen
+camera indicator light.</p>
+</blockquote>
+
+<p>That’s the whole note, I believe. There aren’t any technical details regarding how exactly this is achieved. Until reading this new note in the Platform Security Guide, I thought the only visible indication of camera usage was the green camera icon in the menu bar. But on the Neo, there’s also a green dot <a href="https://daringfireball.net/misc/2026/03/neo-camera-indicator-menu-bar-default.jpeg">in the upper right corner of the display</a>. That green dot is the secure camera-use indicator, and it’s visible next to the time in the menu bar, and still visible when the menu bar is hidden, like in <a href="https://daringfireball.net/misc/2026/03/neo-camera-indicator-full-screen.png">this screenshot I just took from Photo Booth in full-screen mode</a>. What Apple is stating in this note in the Platform Security Guide is that if the Neo’s camera is being used, that corner of the display is guaranteed to light up with the green dot.</p>
+
+<p>One of the reasons I failed to notice this green dot until today is that with Tahoe’s transparent menu bar and the default green-and-yellow desktop wallpaper for the citrus Neo I’m reviewing, a green dot doesn’t stand out. <a href="https://daringfireball.net/misc/2026/03/neo-camera-indicator-menu-bar-reduce-trans.jpeg">It’s much more prominent</a> if you enable “Reduce transparency” in System Settings → Accessibility → Display, which gives the menu bar a traditional solid appearance.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple’s Platform Security Guide Adds a Brief Note on the MacBook Neo’s On-Screen Camera Indicator’"  href="https://daringfireball.net/linked/2026/03/12/macbook-neo-on-screen-camera-indicator">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Eddy Cue Says F1 on Apple TV Opened to Increased Viewership</title>
+	<link rel="alternate" type="text/html" href="https://www.hollywoodreporter.com/tv/tv-news/apple-tv-formula-1-ratings-eddy-cue-strong-start-1236529359/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wz6" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/12/f1-apple-tv-ratings-are-up" />
+	<id>tag:daringfireball.net,2026:/linked//6.42738</id>
+	<published>2026-03-12T23:41:07Z</published>
+	<updated>2026-03-12T23:41:08Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Alex Weprin, reporting for The Hollywood Reporter:</p>
+
+<blockquote>
+  <p>In a sign of strength for the streaming platform, Apple’s senior
+VP of services Eddy Cue tells The Hollywood Reporter that
+viewership for last week’s Australian Grand Prix was up year over
+year compared to the 2025 race, which aired on ESPN.</p>
+
+<p>“The 2026 Formula 1 season on Apple TV is off to a strong start,
+with fans responding positively and viewership up year over year
+for the first weekend, exceeding both F1 and Apple expectations,”
+Cue says.</p>
+
+<p>As is typical for Apple, the company declined to give any specific
+numbers, though last year’s Australian GP averaged 1.1 million
+viewers for ESPN.</p>
+</blockquote>
+
+<p>So we don’t know the viewership number, but we know it’s higher than 1.1 million. That’s like a semi-Bezos number.</p>
+
+<div>
+<a  title="Permanent link to ‘Eddy Cue Says F1 on Apple TV Opened to Increased Viewership’"  href="https://daringfireball.net/linked/2026/03/12/f1-apple-tv-ratings-are-up">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>MacBook Neo Teardown</title>
 	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=5k7Lv7f-5CQ" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wz5" />
@@ -2044,95 +2115,6 @@ Wednesday, March 11.</p>
 
 <div>
 <a  title="Permanent link to ‘Apple Introduces New iPad Air With M4’"  href="https://daringfireball.net/linked/2026/03/02/apple-introduces-new-ipad-air-with-m4">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple Introduces the iPhone 17e</title>
-	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wxw" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/02/apple-introduces-iphone-17e" />
-	<id>tag:daringfireball.net,2026:/linked//6.42692</id>
-	<published>2026-03-02T14:03:16Z</published>
-	<updated>2026-03-02T16:40:48Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Apple Newsroom:</p>
-
-<blockquote>
-  <p>Apple today announced <a href="https://www.apple.com/iphone-17e/">iPhone 17e</a>, a powerful and more affordable
-addition to the iPhone 17 lineup. At the heart of iPhone 17e is
-the latest-generation A19, which delivers exceptional performance
-for everything users do. iPhone 17e also features C1X, the
-latest-generation cellular modem designed by Apple, which is up to
-2× faster than C1 in iPhone 16e. The 48MP Fusion camera captures
-stunning photos, including next-generation portraits, and 4K Dolby
-Vision video. It also enables an optical-quality 2× Telephoto — like having two cameras in one. The 6.1-inch Super Retina XDR
-display features Ceramic Shield 2, offering 3× better scratch
-resistance than the previous generation and reduced glare. With
-MagSafe, users can enjoy fast wireless charging and access to a
-vast ecosystem of accessories like chargers and cases. And when
-iPhone 17e users are outside of cellular and Wi-Fi coverage,
-Apple’s groundbreaking satellite features — including Emergency
-SOS, Roadside Assistance, Messages, and Find My via satellite — help them stay connected when it matters most.</p>
-
-<p>Available in three elegant colors with a premium matte finish — black, white, and a beautiful new soft pink — iPhone 17e will be
-available for pre-order beginning Wednesday, March 4, with
-availability starting Wednesday, March 11. iPhone 17e will start
-at 256GB of storage for $599 — 2× the entry storage from the
-previous generation at the same starting price, and 4× more than
-iPhone 12 — giving users more space for high-resolution photos,
-4K videos, apps, games, and more.</p>
-</blockquote>
-
-<p>The main year-over-year changes from the 16e:</p>
-
-<ul>
-<li>MagSafe, the absence of which felt like the one bit of marketing spite in the 16e.</li>
-<li>An additional color other than black or white.</li>
-<li>SoC goes from A18 to A19, the same chip in the iPhone 17, except the iPhone 17 has 5 GPU cores and the 17e only 4 (same as the 16e). No big whoop.</li>
-<li>Improved camera with next-gen portraits. <a href="https://daringfireball.net/2025/02/the_iphone_16e">I found</a> the 16e camera to be surprisingly good.</li>
-<li>Ceramic Shield 2 on the front glass.</li>
-<li>Base storage goes from 128 to 256 GB, while the price remains $600.</li>
-<li>The 512 GB version drops from $900 to $800.</li>
-</ul>
-
-<p>That’s about it. Here’s a preset version of Apple’s <a href="https://www.apple.com/iphone/compare/?modelList=iphone-17,iphone-17e,iphone-16e">iPhone Compare page with the iPhone 17, 17e, and 16e</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Introduces the iPhone 17e’"  href="https://daringfireball.net/linked/2026/03/02/apple-introduces-iphone-17e">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Sentry</title>
-	<link rel="alternate" type="text/html" href="https://sentry.io/resources/ios-workshop-jan-2026/?utm_source=daringfireball&amp;utm_medium=paid-display&amp;utm_campaign=general-fy27q1-evergreen&amp;utm_content=static-ad-mobilerss-trysentry" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wxv" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/01/sentry" />
-	<id>tag:daringfireball.net,2026:/linked//6.42691</id>
-	<published>2026-03-01T14:44:23Z</published>
-	<updated>2026-03-01T14:44:23Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>My thanks to Sentry for sponsoring last week at DF. Sentry is running a hands-on workshop: “<a href="https://sentry.io/resources/ios-workshop-jan-2026/?utm_source=daringfireball&amp;utm_medium=paid-display&amp;utm_campaign=general-fy27q1-evergreen&amp;utm_content=static-ad-mobilerss-trysentry">Crash Reporting, Tracing, and Logs for iOS in Sentry</a>”. You can watch it on demand. You’ll learn how to connect the dots between slowdowns, crashes, and the user experience in your iOS app. It’ll show you how to:</p>
-
-<ul>
-<li>Set up Sentry to surface high-priority mobile issues without alert fatigue.</li>
-<li>Use Logs and Breadcrumbs to reconstruct what happened with a crash.</li>
-<li>Find what’s behind a performance bottleneck using Tracing.</li>
-<li>Monitor and reduce the size of your iOS app using Size Analysis.</li>
-</ul>
-
-<p>I know so many developers using Sentry. It’s a terrific product. If you’re a developer and haven’t checked them out, you should.</p>
-
-<div>
-<a  title="Permanent link to ‘Sentry’"  href="https://daringfireball.net/linked/2026/03/01/sentry">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
