@@ -7,14 +7,59 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-13T14:40:34Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-13T14:54:53Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>‘Software Bonkers’</title>
+	<link rel="alternate" type="text/html" href="https://craigmod.com/essays/software_bonkers/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wza" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/13/software-bonkers" />
+	<id>tag:daringfireball.net,2026:/linked//6.42742</id>
+	<published>2026-03-13T14:54:52Z</published>
+	<updated>2026-03-13T14:54:53Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Craig Mod, on creating his own custom accounting software with Claude Code:</p>
+
+<blockquote>
+  <p>Simply put: It’s a big mess, and no off-the-shelf accounting
+software does what I need. So after years of pain, I finally sat
+down last week and started to build my own. It took me about five
+days. I am now using the best piece of accounting software I’ve
+ever used. It’s blazing fast. Entirely local. Handles multiple
+currencies and pulls daily (historical) conversion rates. It’s
+able to ingest any CSV I throw at it and represent it in my
+dashboard as needed. It knows US and Japan tax requirements, and
+formats my expenses and medical bills appropriately for my
+accountants. I feed it past returns to learn from. I dump 1099s
+and K1s and PDFs from hospitals into it, and it categorizes and
+organizes and packages them all as needed. It reconciles
+international wire transfers, taking into account small variations
+in FX rates and time for the transfers to complete. It learns as I
+categorize expenses and categorizes automatically going forward.
+It’s easy to do spot checks on data. If I find an anomaly, I can
+talk directly to Claude and have us brainstorm a batched solution,
+often saving me from having to manually modify hundreds of
+entries. And often resulting in a new, small, feature tweak. The
+software feels organic and pliable in a form perfectly shaped to
+my hand, able to conform to any hunk of data I throw at it. It
+feels like bushwhacking with a lightsaber.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘‘Software Bonkers’’"  href="https://daringfireball.net/linked/2026/03/13/software-bonkers">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘Grief and the AI Split’</title>
 	<link rel="alternate" type="text/html" href="https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wz9" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/13/grief-and-the-ai-split" />
 	<id>tag:daringfireball.net,2026:/linked//6.42741</id>
 	<published>2026-03-13T14:21:54Z</published>
-	<updated>2026-03-13T14:40:34Z</updated>
+	<updated>2026-03-13T14:41:29Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -2053,63 +2098,6 @@ or removes Amodei.</li>
 
 <div>
 <a  title="Permanent link to ‘‘Anthropic and Alignment’’"  href="https://daringfireball.net/linked/2026/03/02/anthropic-and-alignment">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>WSJ: ‘Trump Administration Shuns Anthropic, Embraces OpenAI in Clash Over Guardrails’</title>
-	<link rel="alternate" type="text/html" href="https://www.wsj.com/tech/ai/trump-will-end-government-use-of-anthropics-ai-models-ff3550d9" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wxz" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/02/wsj-dod-anthropic" />
-	<id>tag:daringfireball.net,2026:/linked//6.42695</id>
-	<published>2026-03-02T16:56:51Z</published>
-	<updated>2026-03-02T17:33:08Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Amrith Ramkumar, reporting for The Wall Street Journal (gift link):</p>
-
-<blockquote>
-  <p>Trump’s announcement came shortly before the Pentagon’s <a href="https://www.wsj.com/tech/ai/trump-will-end-government-use-of-anthropics-ai-models-ff3550d9?st=qCJaz2">Friday
-afternoon deadline</a> for Anthropic to agree to let the military use
-its models in all lawful-use cases, a concession the company had
-refused to make. “We cannot in good conscience accede to their
-request,” Anthropic Chief Executive Dario Amodei said on Thursday.</p>
-
-<p>The company’s red lines had been domestic mass surveillance and
-autonomous weapons, areas the Pentagon said Anthropic didn’t need
-to worry about because the military would never break the law with
-AI. Defense Department officials said Anthropic needed to fully
-trust the Pentagon to use the technology responsibly and
-relinquish control.</p>
-
-<p>OpenAI Chief Executive Sam Altman said the company’s deal with the
-Defense Department includes those same prohibitions on mass
-surveillance and autonomous weapons, as well as technical
-safeguards to make sure the models behave as they should. “We have
-expressed our strong desire to see things de-escalate away from
-legal and governmental actions and towards reasonable agreements,”
-he said, adding that OpenAI asked that all companies be given the
-chance to accept the same deal. [...]</p>
-
-<p>Shortly after the deadline, Defense Secretary Pete Hegseth said on
-X that he is designating the company a supply-chain risk,
-impairing its ability to work with other government contractors.</p>
-</blockquote>
-
-<p>My short take is that both of these are true:</p>
-
-<ul>
-<li>It’s not the place of a corporation to dictate terms to the Department of Defense regarding how its product or services are used within the law.</li>
-<li>It’s a preposterous, childish (and almost certainly illegal) overreaction to designate Anthropic a “supply-chain risk to national security” in this way. Grow up.</li>
-</ul>
-
-<p><strong>See also:</strong> <a href="https://www.anthropic.com/news/statement-comments-secretary-war">Anthropic’s official response</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘WSJ: ‘Trump Administration Shuns Anthropic, Embraces OpenAI in Clash Over Guardrails’’"  href="https://daringfireball.net/linked/2026/03/02/wsj-dod-anthropic">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
