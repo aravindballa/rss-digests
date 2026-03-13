@@ -7,14 +7,41 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-12T23:48:59Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-13T00:23:16Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Accents</title>
+	<link rel="alternate" type="text/html" href="https://mahdi.jp/apps/accents" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wz8" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/12/accents" />
+	<id>tag:daringfireball.net,2026:/linked//6.42740</id>
+	<published>2026-03-13T00:18:06Z</published>
+	<updated>2026-03-13T00:23:16Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Mahdi Bchatnia:</p>
+
+<blockquote>
+  <p>Accents is an app that lets you use the iMac/MacBook Neo accent
+colors on any Mac.</p>
+</blockquote>
+
+<p>It’s a fun idea from Apple to have default accent colors that are, by default, exclusive to specific Mac hardware. But what exemplifies the Mac is that a clever developer like Bchatnia can make these accent colors available to any user on any Mac via a simple utility like Accents. (<a href="https://mjtsai.com/blog/2026/03/12/hardware-exclusive-mac-accent-colors/">Via Michael Tsai</a>.)</p>
+
+<div>
+<a  title="Permanent link to ‘Accents’"  href="https://daringfireball.net/linked/2026/03/12/accents">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple’s Platform Security Guide Adds a Brief Note on the MacBook Neo’s On-Screen Camera Indicator</title>
 	<link rel="alternate" type="text/html" href="https://support.apple.com/guide/security/mac-on-screen-camera-indicator-light-sec75a2d237d/1/web/1" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wz7" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/12/macbook-neo-on-screen-camera-indicator" />
 	<id>tag:daringfireball.net,2026:/linked//6.42739</id>
 	<published>2026-03-12T23:48:59Z</published>
-	<updated>2026-03-12T23:48:59Z</updated>
+	<updated>2026-03-13T00:00:48Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -363,7 +390,7 @@ they’re great, but because they suck less than everything else.</p>
 	<link rel="shorturl" href="http://df4.us/wyx" />
 	<id>tag:daringfireball.net,2026://1.42729</id>
 	<published>2026-03-10T22:48:40Z</published>
-	<updated>2026-03-12T21:23:18Z</updated>
+	<updated>2026-03-13T00:04:49Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -403,7 +430,7 @@ they’re great, but because they suck less than everything else.</p>
 <p>And, uh, that’s it. That’s the one catch that’s annoyed me over the six days I’ve been using the Neo as my primary computer for work and for reading. Once or twice a day I need to manually bump the display brightness up or down.
  That’s a crazily short list. One item, and it’s only a mild annoyance.</p>
 
-<p>There are other things missing that I’ve noticed, but that I haven’t minded. The Neo doesn’t have a hardware indicator light for the camera. The indication for “camera in use” is only in the menu bar. There’s a privacy/security implication for this omission. According to Apple, the hardware indicator light for camera-in-use on other MacBook models, and the on-screen (e.g. in the Dynamic Island) indicator on iPhones and iPads, <a href="https://news.ycombinator.com/item?id=23799821">cannot be circumvented by software</a>. If the camera is on, that light comes on, and no third-party software can disable it. Because the Neo’s only camera-in-use indicator is in the menu bar, that seems obviously possible to circumvent via software. Not a big deal, but worth being aware of.</p>
+<p>There are other things missing that I’ve noticed, but that I haven’t minded. The Neo doesn’t have a hardware indicator light for the camera. The indication for “camera in use” is only in the menu bar. There’s a privacy/security implication for this omission. According to Apple, the hardware indicator light for camera-in-use on other MacBook models, and the on-screen (e.g. in the Dynamic Island) indicator on iPhones and iPads, cannot be circumvented by software. If the camera is on, that light comes on, and no third-party software can disable it. <s>Because the Neo’s only camera-in-use indicator is in the menu bar, that seems obviously possible to circumvent via software. Not a big deal, but worth being aware of.</s> [<strong>Update:</strong> In a brief note added to <a href="https://support.apple.com/guide/security/mac-on-screen-camera-indicator-light-sec75a2d237d/1/web/1">Apple’s Platform Security Guide</a>, Apple claims that the green indicator dot in the corner of the Neo’s display <a href="https://daringfireball.net/linked/2026/03/12/macbook-neo-on-screen-camera-indicator">is guaranteed to be visible if the camera is in use</a>.]</p>
 
 <p>The Neo’s webcam doesn’t offer Center Stage or Desk View. But personally, I never take advantage of Center Stage or Desk View, so I don’t miss their absence. Your mileage may vary. But the camera is 1080p and to my eyes looks pretty good. And I’d say it looks damn good for a $600 laptop.</p>
 
@@ -2067,54 +2094,6 @@ available to order on Apple.com starting today.</p>
 
 <div>
 <a  title="Permanent link to ‘Seasonal Color Updates to Apple’s iPhone Cases and Apple Watch Bands’"  href="https://daringfireball.net/linked/2026/03/02/seasonal-color-updates-apple-cases-and-bands">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple Introduces New iPad Air With M4</title>
-	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wxx" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/02/apple-introduces-new-ipad-air-with-m4" />
-	<id>tag:daringfireball.net,2026:/linked//6.42693</id>
-	<published>2026-03-02T16:40:30Z</published>
-	<updated>2026-03-02T16:40:31Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Apple Newsroom:</p>
-
-<blockquote>
-  <p>Apple today announced the new <a href="https://www.apple.com/ipad-air/">iPad Air</a> featuring M4 and more
-memory, giving users a big jump in performance at the same
-starting price. With a faster CPU and GPU, iPad Air boosts tasks
-like editing and gaming, and is a powerful device for AI with a
-faster Neural Engine, higher memory bandwidth, and 50 percent more
-unified system memory than the previous generation. With M4, iPad
-Air is up to 30 percent faster than iPad Air with M3, and up to
-2.3× faster than iPad Air with M1. The new iPad Air also features
-the latest in Apple silicon connectivity chips, N1 and C1X,
-delivering fast wireless and cellular connections — and support
-for Wi-Fi 7 — that empower users to work and be creative
-anywhere. [...]</p>
-
-<p>With the same starting price of just $599 for the 11-inch model
-and $799 for the 13-inch model, the new iPad Air is an incredible
-value. And for education, the 11-inch iPad Air starts at $549, and
-the 13-inch model starts at $749. Customers can pre-order iPad Air
-starting Wednesday, March 4, with availability beginning
-Wednesday, March 11.</p>
-</blockquote>
-
-<p>So much for my theory that Apple would separate its announcements this week with separate days for each product family (e.g. iPhone 17e on Monday, iPads on Tuesday, MacBooks on Wednesday.) Maybe an update to the no-adjective iPad isn’t coming this week?</p>
-
-<p>Aside from the M3 to M4 speed bump, there are very few differences between this generation iPad Air and the last. Same colors even (space gray, blue, purple, and starlight). <a href="https://www.apple.com/ipad/compare/?modelList=ipad-pro-11-m5,ipad-air-11-m4,ipad-air-11-m3">Here’s a link to Apple’s iPad Compare page</a>, preset to show the current M5 iPad Pro, new M4 iPad Air, and old M3 iPad Air side-by-side.</p>
-
-<p>One interesting tech spec: the new M4 iPad Air models come with 12 GB of RAM, up from 8 GB in last year’s M3 models. With the M5 iPad Pro models, RAM is tied to storage: the 256/512 GB iPad Pros come with 12 GB RAM; the 1/2 TB models come with 16 GB RAM.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Introduces New iPad Air With M4’"  href="https://daringfireball.net/linked/2026/03/02/apple-introduces-new-ipad-air-with-m4">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
