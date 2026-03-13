@@ -7,7 +7,31 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-13T17:05:23Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-13T23:49:18Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Tim Cook: ‘50 Years of Thinking Different’</title>
+	<link rel="alternate" type="text/html" href="https://www.apple.com/50-years-of-thinking-different/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wze" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/13/cook-50-years-of-thinking-different" />
+	<id>tag:daringfireball.net,2026:/linked//6.42746</id>
+	<published>2026-03-13T23:49:17Z</published>
+	<updated>2026-03-13T23:49:18Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Tim Cook:</p>
+
+<blockquote>
+  <p>If you’ve taught us anything, it’s that the people crazy enough to think they can change the world are the ones who do.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘Tim Cook: ‘50 Years of Thinking Different’’"  href="https://daringfireball.net/linked/2026/03/13/cook-50-years-of-thinking-different">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>NYT: ‘Meta Delays Rollout of New AI Model After Performance Concerns’</title>
 	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html?unlocked_article_code=1.S1A.vI_6.4j717gwtFem0" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wzd" />
@@ -1994,78 +2018,6 @@ than waiting for pages to load, clicking, and so on.</p>
 
 <div>
 <a  title="Permanent link to ‘Unsung Heroes: Flickr’s URLs Scheme’"  href="https://daringfireball.net/linked/2026/03/02/wichary-flickr-urls">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>ChangeTheHeaders</title>
-	<link rel="alternate" type="text/html" href="https://underpassapp.com/news/2025/3/4.html" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wy3" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/02/changetheheaders" />
-	<id>tag:daringfireball.net,2026:/linked//6.42699</id>
-	<published>2026-03-02T20:10:50Z</published>
-	<updated>2026-03-02T20:21:15Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>During <a href="https://daringfireball.net/thetalkshow/2026/02/28/ep-442">the most recent episode of The Talk Show</a>, Jason Snell brought up a weird issue that I started running into last year. On my Mac, sometimes I’d drag an image out of a web page in Safari, and I’d get an image in <a href="https://en.wikipedia.org/wiki/WebP">WebP</a> format. Sometimes I wouldn’t care. But usually when I download an image like that, it’s because I want to publish (or merely host my own copy of) that image on Daring Fireball. And I don’t publish WebP images — I prefer PNG and JPEG for compatibility.</p>
-
-<p>What made it weird is when I’d view source on the original webpage, the original image was usually in PNG or JPEG format. If I opened the image in a new tab — just the image — I’d get it in PNG or JPEG format. But when I’d download it by dragging out of the original webpage, I’d get a WebP. This was a total WTF for me.</p>
-
-<p>I turned to my friend <a href="https://lapcatsoftware.com/articles/">Jeff Johnson</a>, author of, <a href="https://underpassapp.com/">among other things</a>, the excellent Safari extension <a href="https://underpassapp.com/StopTheMadness/">StopTheMadness</a>. Not only was Johnson able to explain what was going on, he actually made a new Safari extension called ChangeTheHeaders that fixed the problem for me. Johnson, announcing ChangeTheHeaders last year:</p>
-
-<blockquote>
-  <p>After some investigation, I discovered that the difference was the
-<a href="https://developer.mozilla.org/docs/Web/HTTP/Reference/Headers/Accept">Accept HTTP request header</a>, which specifies what types of
-response the web browser will accept. Safari’s default Accept
-header for images is this:</p>
-
-<p><code>Accept:
-image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5</code></p>
-
-<p>Although <code>image/webp</code> appears first in the list, the order
-actually doesn’t matter. The <a href="https://developer.mozilla.org/docs/Glossary/Quality_values">quality value</a>, specified by
-the <code>;q=</code> suffix, determines the ranking of types. The range of
-values is 0 to 1, with 1 as the default value if none is
-specified. Thus, <code>image/webp</code> and <code>image/png</code> have equal
-precedence, equal quality value 1, leaving it up to the web site
-to decide which image type to serve. In this case, the web site
-decided to serve a WebP image, despite the fact that the image
-URL has a <code>.png</code> suffix. In a URL, unlike in a file path, the
-“file extension”, if one exists, is largely meaningless. A very
-simple web server will directly match a URL with a local file
-path, but a more complex web server can do almost anything it
-wants with a URL.</p>
-</blockquote>
-
-<p>This was driving me nuts. Thanks to Johnson, I now understand why it was happening, and I had a simple set-it-and-forget-it tool to fix it. Johnson writes:</p>
-
-<blockquote>
-  <p>What can you do with ChangeTheHeaders? I suspect the biggest
-selling point will be to spoof the User-Agent. The extension
-allows you to customize your User-Agent by URL domain. For
-example, you can make Safari pretend that it’s Chrome on Google
-web apps that give special treatment to Chrome. You can also
-customize the <a href="https://developer.mozilla.org/docs/Web/HTTP/Reference/Headers/Accept-Language">Accept-Language</a> header if you don’t like the
-default language handling of some website, such as YouTube.</p>
-</blockquote>
-
-<p>Here’s the custom rule I applied a year ago, when I first installed ChangeTheHeaders (<a href="https://daringfireball.net/misc/2026/02/changetheheaders-no-webp.png">screenshot</a>):</p>
-
-<p>Header: <code>Accept</code> <br />
-Value: <code>image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5</code> <br />
-URL Domains: «<em>leave blank for all domains</em>» <br />
-URL Filter: «<em>leave blank for all URLs</em>» <br />
-Resource Types: <code>image</code></p>
-
-<p>I haven’t seen a single WebP since.</p>
-
-<p>ChangeTheHeaders works everywhere Safari does — Mac, iPhone, iPad, Vision Pro — and <a href="https://apps.apple.com/us/app/changetheheaders-for-safari/id6743129567">you can get it for just $7 on the App Store</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘ChangeTheHeaders’"  href="https://daringfireball.net/linked/2026/03/02/changetheheaders">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
