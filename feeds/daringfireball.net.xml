@@ -7,7 +7,38 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-14T02:27:22Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-14T16:21:46Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Lil Finder Guy</title>
+	<link rel="alternate" type="text/html" href="https://basicappleguy.com/basicappleblog/lil-finder-guy" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wzf" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/14/lil-finder-guy" />
+	<id>tag:daringfireball.net,2026:/linked//6.42747</id>
+	<published>2026-03-14T16:21:34Z</published>
+	<updated>2026-03-14T16:21:46Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Basic Apple Guy:</p>
+
+<blockquote>
+  <p>Where I and the rest of the internet take this from here remains
+to be seen. All I know is that Apple should definitely keep this
+Lil Finder around.</p>
+
+<p>But no, I do not think this is the last we’ve seen of Lil
+Finder Guy…</p>
+</blockquote>
+
+<p><a href="https://www.macrumors.com/2026/03/07/apple-posting-strange-tiktok-videos/">Apple’s MacBook Neo ad campaign on TikTok</a> — and seemingly exclusive to TikTok — is the most fun they’ve had with a campaign in ages. I love it.</p>
+
+<div>
+<a  title="Permanent link to ‘Lil Finder Guy’"  href="https://daringfireball.net/linked/2026/03/14/lil-finder-guy">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Tim Cook: ‘50 Years of Thinking Different’</title>
 	<link rel="alternate" type="text/html" href="https://www.apple.com/50-years-of-thinking-different/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wze" />
@@ -1970,64 +2001,6 @@ running demanding simulations with unparalleled ease.</p>
 
     ]]></content>
   <title>★ HazeOver — Mac Utility for Highlighting the Frontmost Window</title></entry><entry>
-	<title>Unsung Heroes: Flickr’s URLs Scheme</title>
-	<link rel="alternate" type="text/html" href="https://unsung.aresluna.org/unsung-heroes-flickrs-urls-scheme/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wy4" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/02/wichary-flickr-urls" />
-	<id>tag:daringfireball.net,2026:/linked//6.42700</id>
-	<published>2026-03-02T21:59:41Z</published>
-	<updated>2026-03-02T22:09:49Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Marcin Wichary, writing at Unsung (which is just an incredibly good and fun weblog):</p>
-
-<blockquote>
-  <p>Half of my education in URLs as user interface came from Flickr in
-the late 2000s. Its URLs looked like this:</p>
-
-<pre><code>flickr.com/photos/mwichary/favorites
-flickr.com/photos/mwichary/sets
-flickr.com/photos/mwichary/sets/72177720330077904
-flickr.com/photos/mwichary/54896695834
-flickr.com/photos/mwichary/54896695834/in/set-72177720330077904
-</code></pre>
-
-<p>This was incredible and a breath of fresh air. No redundant <code>www.</code>
-in front or awkward <code>.php</code> at the end. No parameters with their
-unpleasant <code>?&amp;=</code> syntax. No <code>%</code> signs partying with hex codes.
-When you shared these URLs with others, you didn’t have to retouch
-or delete anything. When Chrome’s address bar started
-autocompleting them, you knew exactly where you were going.</p>
-
-<p>This might seem silly. The <em>user interface of URLs</em>? Who types
-in or edits URLs by hand? But keyboards are still the most
-efficient entry device. If a place you’re going is where you’ve
-already been, typing a few letters might get you there much faster
-than waiting for pages to load, clicking, and so on.</p>
-</blockquote>
-
-<p>In general, URLs at Daring Fireball try to work like this.</p>
-
-<ul>
-<li>This post: <a href="https://daringfireball.net/linked/2026/03/02/wichary-flickr-urls"><code>/linked/2026/03/02/wichary-flickr-urls</code></a></li>
-<li>In Markdown: <a href="https://daringfireball.net/linked/2026/03/02/wichary-flickr-urls.text"><code>/linked/2026/03/02/wichary-flickr-urls.text</code></a></li>
-<li>This day’s posts: <a href="https://daringfireball.net/linked/2026/03/02/"><code>/linked/2026/03/02/</code></a></li>
-<li>This month’s posts: <a href="https://daringfireball.net/linked/2026/03/"><code>/linked/2026/03/</code></a></li>
-</ul>
-
-<p>I say “in general” because the DF URLs could be better. There should be one unified URLs space for all posts on DF, not separate ones for feature articles and Linked List posts. Someday.</p>
-
-<p>Wichary subsequently posted <a href="https://unsung.aresluna.org/mailbag-urls-as-ui/">this fine follow-up</a>, chock full of links regarding URL design.</p>
-
-<div>
-<a  title="Permanent link to ‘Unsung Heroes: Flickr’s URLs Scheme’"  href="https://daringfireball.net/linked/2026/03/02/wichary-flickr-urls">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/02/sometimes_hidden_setting_phone_app" />
 	<link rel="shorturl" href="http://df4.us/wxq" />
