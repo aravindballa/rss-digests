@@ -7,7 +7,58 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-14T22:06:27Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-15T00:41:38Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam</title>
+	<link rel="alternate" type="text/html" href="https://ma.tt/2026/03/gone-almost-phishin/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wzj" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/14/mullenweg-apple-account-phishing" />
+	<id>tag:daringfireball.net,2026:/linked//6.42751</id>
+	<published>2026-03-15T00:37:30Z</published>
+	<updated>2026-03-15T00:41:38Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Matt Mullenweg:</p>
+
+<blockquote>
+  <p>One evening last month, my Apple Watch, iPhone, and Mac all lit up
+with a message prompting me to reset my password. This came out of
+nowhere; I hadn’t done anything to elicit it. I even had <a href="https://support.apple.com/en-us/105120">Lockdown
+Mode</a> running on all my devices. It didn’t matter. Someone
+was spamming Apple’s legitimate password reset flow against my
+account — a technique <a href="https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/">Krebs documented back in 2024</a>. I
+dismissed the prompts, but the stage was set.</p>
+
+<p>What made the attack impressive was the next move: The scammers
+actually contacted Apple Support themselves, pretending to be me,
+and opened a real case claiming I’d lost my phone and needed to
+update my number. That generated a real case ID, and triggered
+real Apple emails to my inbox, <em>properly signed</em>, from Apple’s
+actual servers. These were legitimate; no filter on earth could
+have caught them.</p>
+
+<p>Then “Alexander from Apple Support” called. He was calm,
+knowledgeable, and <em>careful</em>. His first moves were solid security
+advice: check your account, verify nothing’s changed, consider
+updating your password. He was so good that I actually thanked him
+for being excellent at his job.</p>
+
+<p>That, of course, was when he moved into the next phase of
+the attack.</p>
+</blockquote>
+
+<p>What makes this attack so dastardly is that parts of it are actual emails from Apple. And because the attackers are the ones who opened the support incident, when they called Mullenweg, they knew the case ID from the legitimate emails sent by Apple.</p>
+
+<p>One of the tells that alerted Mullenweg that this was a scam was that he knew he hadn’t initiated any of it, so his guard was up from the start. Another is that the scammer texted him a link pointing to the domain “audit-apple.com” (which domain is now defunct). That domain name looks obviously fake to me. But to most people? Most people have no idea that <code>whatever-apple.com</code> is <em>totally</em> different than <code>whatever.apple.com</code>.</p>
+
+<div>
+<a  title="Permanent link to ‘Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam’"  href="https://daringfireball.net/linked/2026/03/14/mullenweg-apple-account-phishing">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>iFixit’s MacBook Neo Teardown</title>
 	<link rel="alternate" type="text/html" href="https://www.ifixit.com/News/116152/macbook-neo-is-the-most-repairable-macbook-in-14-years" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wzi" />
@@ -1858,50 +1909,6 @@ availability beginning Wednesday, March 11.</p>
 
 <div>
 <a  title="Permanent link to ‘Apple Announces Updated Studio Display and All-New Studio Display XDR’"  href="https://daringfireball.net/linked/2026/03/03/updated-studio-display-and-all-new-studio-display-xdr">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>New MacBook Air With M5</title>
-	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wya" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/03/new-macbook-air-with-m5" />
-	<id>tag:daringfireball.net,2026:/linked//6.42706</id>
-	<published>2026-03-03T20:08:42Z</published>
-	<updated>2026-03-03T20:09:56Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Apple Newsroom:</p>
-
-<blockquote>
-  <p>MacBook Air now comes standard with double the starting storage at
-512GB with faster SSD technology, and is configurable up to 4TB,
-so customers can keep their most important work on hand. Apple’s
-N1 wireless chip delivers Wi-Fi 7 and Bluetooth 6 for seamless
-connectivity on the go. MacBook Air features a beautifully thin,
-light, and durable aluminum design, stunning Liquid Retina
-display, 12MP Center Stage camera, up to 18 hours of battery life,
-an immersive sound system with Spatial Audio, and two Thunderbolt
-4 ports with support for up to two external displays.</p>
-</blockquote>
-
-<p>Base storage went from 256 to 512 GB, but the base <em>price</em> went from the magic $999 to $1,100 ($1,099, technically, which doesn’t make the 99 seem magic). Presumably, those in the market for a $999 MacBook will buy the new  about-to-be-announced-tomorrow lower-priced MacBook “<a href="https://daringfireball.net/linked/2026/03/03/macbook-neo-name-leak">Neo</a>”, which I’m guessing will start at $800 ($799), maybe as low as $700 ($699), but will surely have higher-priced configurations for additional storage. Today’s new M5 MacBook Airs have storage upgrades of:</p>
-
-<ul>
-<li>1 TB (+ $200)</li>
-<li>2 TB (+ $600)</li>
-<li>4 TB (+ $1,200)</li>
-</ul>
-
-<p>Colors remain unchanged (and in my opinion, boring): midnight, starlight, silver, sky blue (almost black, gold-ish gray, gray, blue-ish gray). RAM options remain unchanged too: 16, 24, or 32 GB.</p>
-
-<p><a href="https://www.apple.com/macbook-pro/compare/?modelList=MacBook-Air-M5,MacBook-Air-M4,MacBook-Pro-14-M5">A comparison page showing the new M5 Air, old M4 Air, and base M5 MacBook Pro</a> suggests not much else is new year-over-year, other than the Wi-Fi 7 and Bluetooth 6 support from the N1 chip.</p>
-
-<div>
-<a  title="Permanent link to ‘New MacBook Air With M5’"  href="https://daringfireball.net/linked/2026/03/03/new-macbook-air-with-m5">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
