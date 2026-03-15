@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-15T23:00:54Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-15T23:13:50Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>CHM Live: Apple at 50</title>
 	<link rel="alternate" type="text/html" href="https://www.youtube.com/live/eCSNJgI2LFI" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wzp" />
@@ -34,7 +34,7 @@
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/15/finalist-3-6" />
 	<id>tag:daringfireball.net,2026:/linked//6.42755</id>
 	<published>2026-03-15T17:36:48Z</published>
-	<updated>2026-03-15T17:36:49Z</updated>
+	<updated>2026-03-15T23:13:08Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -42,7 +42,7 @@
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
 <p>My thanks to Finalist for sponsoring last week at Daring Fireball. Finalist is a remarkable, ambitious, and novel app for iPhone, iPad, and the Mac from indie developer Slaven Radic. It’s a planner — a digital take on traditional paper planners — that (with permission) pulls in your calendars, reminders, and health data. Its motto: “Most productivity apps help you organize tasks. Finalist helps you finish them.”</p>
 
-<p>Finalist first sponsored DF back in December, and I wrote quite a bit about it then. <a href="https://daringfireball.net/linked/2025/12/21/finalist">You should read that post</a>. I’ve continued using Finalist, day in, day out, since then. It’s open on my Mac and on my first iPhone home screen. I’m even on the TestFlight beta list, using new builds as Radic releases them. Finalist was good enough back in December that I started relying it, and it’s gotten even better in the three months since. It’s a great app, period, but it’s really fun to use an app that is getting better so quickly. Radic is cooking with gas. It’s just so obvious, just using it, that Finalist is his own dream app for daily productivity. <a href="https://www.youtube.com/watch?v=4c3QtY9TBWU">Here’s a fun one-minute video showing what’s new in version 3.6</a>.</p>
+<p>Finalist first sponsored DF back in December, and I wrote quite a bit about it then. <a href="https://daringfireball.net/linked/2025/12/21/finalist">You should read that post</a>. I’ve continued using Finalist, day in, day out, since then. It’s open on my Mac and on my first iPhone home screen. I’m even on the TestFlight beta list, using new builds as Radic releases them. Finalist was good enough back in December that I started relying on it, and it’s gotten even better in the three months since. It’s a great app, period, but it’s really fun to use an app that is getting better so quickly. Radic is cooking with gas. It’s just so obvious, just using it, that Finalist is his own dream app for daily productivity. <a href="https://www.youtube.com/watch?v=4c3QtY9TBWU">Here’s a fun one-minute video showing what’s new in version 3.6</a>.</p>
 
 <p>Recent features include subtasks, calendar bookmarks, HealthKit data in Finalist’s journal, and a spoken daily briefing you can trigger from your Lock Screen. You can (and I do) run Finalist alongside the apps you already use. E.g., Finalist hasn’t replaced Fantastical for me — they just work great together because they both show me the same calendar events. Same goes for Apple Reminders. If you took a look back in December, you should check out what’s new. If you haven’t tried Finalist yet, you definitely should. <a href="https://apps.apple.com/us/app/finalist-daily-planner/id6447014685">Free trial from the App Store</a>, with both subscription pricing and a one-time lifetime purchase.</p>
 
@@ -265,7 +265,7 @@ the attack.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/14/ifixits-macbook-neo-teardown" />
 	<id>tag:daringfireball.net,2026:/linked//6.42750</id>
 	<published>2026-03-14T22:06:02Z</published>
-	<updated>2026-03-14T22:06:27Z</updated>
+	<updated>2026-03-15T23:13:50Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -274,19 +274,35 @@ the attack.</p>
 <p>iFixit:</p>
 
 <blockquote>
-  <p>Is Apple’s most affordable laptop ever also one of its most repairable? For years, opening a MacBook has usually meant fighting your way through glue and buried parts.</p>
+  <p>Is Apple’s most affordable laptop ever also one of its most
+repairable? For years, opening a MacBook has usually meant
+fighting your way through glue and buried parts.</p>
 
-<p>But the Neo stands out, with increasingly good day-one manuals, less-painful keyboard repairs, and a screwed-in battery tray that sent cheers across the iFixit office. This laptop proves that things can be made more affordable <em>and</em> more repairable at the same time.</p>
+<p>But the Neo stands out, with increasingly good day-one manuals,
+less-painful keyboard repairs, and a screwed-in battery tray that
+sent cheers across the iFixit office. This laptop proves that
+things can be made more affordable <em>and</em> more repairable at the
+same time.</p>
 </blockquote>
 
-<p>That conclusion is backwards, I think. I suspect the MacBook Neo is more repairable not despite of its lower price, but <em>because</em> of its lower price. It’s designed and engineered to be easier, and thus cheaper, to assemble. And the aspects that make it easier to assemble make it easier to disassemble.</p>
+<p>That conclusion is backwards, I think. I suspect the MacBook Neo is more repairable not despite its lower price, but <em>because of</em> its lower price. It’s designed and engineered to be easier, and thus cheaper, to assemble. And the aspects that make it easier to assemble make it easier to disassemble.</p>
 
 <p>Regarding the Neo’s 2.7-pound weight:</p>
 
 <blockquote>
-  <p>We were all a bit curious as to why the cheaper and less feature rich Neo weighed the same as a MacBook Air M3, each 13″ laptop weighing in at about 1.24kg. It’s especially puzzling when considering the Neo supposedly uses a lighter chassis, and is, uh, smaller. </p>
+  <p>We were all a bit curious as to why the cheaper and less feature
+rich Neo weighed the same as a MacBook Air M3, each 13” laptop
+weighing in at about 1.24kg. It’s especially puzzling when
+considering the Neo supposedly uses a lighter chassis, and is, uh,
+smaller.</p>
 
-<p>Here’s what we found: The Neo’s chassis is actually only barely lighter than the Air’s. Together, its chassis, keyboard, and bottom cover are just 8g lighter than the Air’s. But the Neo’s screen is 48g heavier, and the solid chunk of metal that supports its trackpad makes up 7% of the laptop’s overall weight! The Neo’s full trackpad assembly is almost exactly twice as heavy as the M3 MacBook Air’s, too.  </p>
+<p>Here’s what we found: The Neo’s chassis is actually only barely
+lighter than the Air’s. Together, its chassis, keyboard, and
+bottom cover are just 8g lighter than the Air’s. But the Neo’s
+screen is 48g heavier, and the solid chunk of metal that supports
+its trackpad makes up 7% of the laptop’s overall weight! The Neo’s
+full trackpad assembly is almost exactly twice as heavy as the M3
+MacBook Air’s, too.</p>
 </blockquote>
 
 <div>
