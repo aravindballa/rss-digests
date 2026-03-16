@@ -7,7 +7,83 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-15T23:13:50Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-16T17:43:24Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>‘The Last Quiet Thing’</title>
+	<link rel="alternate" type="text/html" href="https://www.terrygodier.com/the-last-quiet-thing" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wzr" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/16/the-last-quiet-thing" />
+	<id>tag:daringfireball.net,2026:/linked//6.42759</id>
+	<published>2026-03-16T17:42:54Z</published>
+	<updated>2026-03-16T17:43:24Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p><a href="https://daringfireball.net/linked/2026/02/25/godier-phantom-obligation">Another</a> crackerjack essay on design and attention from Terry Godier. (Note that the Casio in the essay shows the actual time.)</p>
+
+<div>
+<a  title="Permanent link to ‘‘The Last Quiet Thing’’"  href="https://daringfireball.net/linked/2026/03/16/the-last-quiet-thing">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/03/apple_enclaves_neo_camera_indicator" />
+	<link rel="shorturl" href="http://df4.us/wzq" />
+	<id>tag:daringfireball.net,2026://1.42758</id>
+	<published>2026-03-16T17:27:58Z</published>
+	<updated>2026-03-16T17:27:59Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">“What that means in practice is that even a kernel-level exploit would not be able to turn on the camera without the light appearing on screen.”</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>Some camera-equipped Apple devices have dedicated camera indicator lights. E.g. recent MacBook Pros and MacBook Airs have them in the notch, next to the camera itself. The Studio Display has one in the bezel, next to its camera. Other devices — like iPhones and, now, the MacBook Neo — render a green indicator dot on the device’s display. One might presume that the dedicated indicator lights are significantly more secure than the rendered-on-display indicators. I myself made this presumption in the initial version of <a href="https://daringfireball.net/2026/03/the_macbook_neo">my MacBook Neo review</a> last week. This presumption is, I believe, wrong.</p>
+
+<p>Later last week Apple published, and <a href="https://daringfireball.net/linked/2026/03/12/macbook-neo-on-screen-camera-indicator">I linked to</a>, a <a href="https://support.apple.com/guide/security/mac-on-screen-camera-indicator-light-sec75a2d237d/1/web/1">small update in their Platform Security Guide</a>, which states:</p>
+
+<blockquote>
+  <p>MacBook Neo combines system software and dedicated silicon
+elements within A18 Pro to provide additional security for the
+camera feed. The architecture is designed to prevent any untrusted
+software — even with root or kernel privileges in macOS — from
+engaging the camera without also visibly lighting the on-screen
+camera indicator light.</p>
+</blockquote>
+
+<p>The reason it’s tempting to think that a dedicated camera indicator light is more secure than an on-display indicator is the notion that hardware is more secure than software. With hardware, a dedicated hardware indicator light can be connected to the camera hardware such that if the camera is accessed, the light must turn on, with no way for software running on the device, no matter its privileges, to change that. With an indicator light that is rendered on the display, it’s not foolish to worry that malicious software, with sufficient privileges, could draw over the pixels on the display where the camera indicator is rendered, disguising that the camera is in use.</p>
+
+<p>If this were implemented simplistically, that concern would be completely valid. But Apple’s implementation of this is far from simplistic. <a href="https://daringfireball.net/search/Guilherme+Rambo">Friend of the site</a> and renowned developer and low-level-OS spelunker <a href="https://www.rambo.codes/">Guilherme Rambo</a> texted me a note, which, with his permission, I’ll quote:</p>
+
+<blockquote>
+  <p>Tidbit: the software-based camera indicator light in the MacBook
+Neo runs in the secure exclave¹ part of the chip, so it is almost
+as secure as the hardware indicator light. What that means in
+practice is that even a kernel-level exploit would not be able to
+turn on the camera without the light appearing on screen. It runs
+in a privileged environment separate from the kernel and blits the
+light directly onto the screen hardware. All of that applies to
+the mic indicator as well, which is a bonus compared to the
+camera-only hardware indicator.</p>
+
+<p>¹ Exclaves run on a completely isolated realtime operating system
+that communicates with the kernel and userspace using a very
+limited API surface. Not to be confused with Secure Enclave,
+that’s a different thing.</p>
+</blockquote>
+
+<p>(That’s right, his text message had a footnote. Like I said, he’s a friend of the site.)</p>
+
+<p><em>Exclave</em> was the word I needed. Once I read that, it came back to me, and I recalled <a href="https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194">Random Augustine’s “On Apple Exclaves”</a>, which I <a href="https://daringfireball.net/linked/2025/03/19/on-apple-exclaves">linked to almost exactly one year ago</a> and described as “a splendidly nerdy but very approachable overview of the evolution of Apple’s XNU kernel over the last decade”. As Augustine documents, secure exclaves are something Apple had been building toward for a decade, but which only became enabled with the M4 and A18 generations of Apple Silicon.</p>
+
+<p>If you’re curious, I encourage you to read (or re-read) <a href="https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194">Augustine’s “On Apple Exclaves”</a>, which should disabuse you of any concerns that these on-display camera indicators on the MacBook Neo and recent iPhone models are anything less than <em>very</em> secure designs.</p>
+
+
+
+    ]]></content>
+  <title>★ Apple Exclaves and the Secure Design of the MacBook Neo’s On-Screen Camera Indicator</title></entry><entry>
 	<title>CHM Live: Apple at 50</title>
 	<link rel="alternate" type="text/html" href="https://www.youtube.com/live/eCSNJgI2LFI" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wzp" />
@@ -1785,50 +1861,6 @@ as soon as 2081.</p>
 
 	]]></content>
   </entry><entry>
-	<title>‘Never the Same Game Twice’</title>
-	<link rel="alternate" type="text/html" href="https://johnmccoy.org/2026/03/05/never-the-same-game-twice/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wyi" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/06/mccoy-parker-bros" />
-	<id>tag:daringfireball.net,2026:/linked//6.42714</id>
-	<published>2026-03-06T14:44:02Z</published>
-	<updated>2026-03-06T14:59:44Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>John McCoy:</p>
-
-<blockquote>
-  <p>From around 1970 to 1980, the Salem, Massachusetts-based Parker
-Brothers (now a brand of Hasbro) published games whose innovative
-and fanciful designs drew inspiration from Pop Art, Op Art, and
-Madison Avenue advertising. They had boxes, boards, and components
-that reflected the most current techniques of printing and
-plastics molding. They were witty, silly, and weird. The other
-main players in American games at the time were Milton-Bradley,
-whose art tended towards cartoony, corny, and flat designs, and
-Ideal, whose games (like <em>Mousetrap</em>) were mostly showcases for
-their novel plastic components.</p>
-
-<p>Parker Brothers design stood out for its style and sophistication,
-and even as a young nerd I could see that it was special. In fact,
-I believe they were my introduction, at the age of seven, to the
-whole concept of graphic design. This isn’t to say that the games
-were <em>good</em> in the sense of being fun or engaging to play; a lot
-of them were re-skinned versions of the basic
-race-around-the-board type that had been popular since the <em>Uncle
-Wiggly Game</em>. But they looked amazing and they were <em>different</em>.</p>
-</blockquote>
-
-<p>These games mostly sucked but they looked cool as shit. Lot of memories for me in this post.</p>
-
-<div>
-<a  title="Permanent link to ‘‘Never the Same Game Twice’’"  href="https://daringfireball.net/linked/2026/03/06/mccoy-parker-bros">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/03/599_not_a_piece_of_junk_macbook_neo" />
 	<link rel="shorturl" href="http://df4.us/wyf" />
@@ -1957,63 +1989,4 @@ Wiggly Game</em>. But they looked amazing and they were <em>different</em>.</p>
 
 
     ]]></content>
-  <title>★ HazeOver — Mac Utility for Highlighting the Frontmost Window</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/02/sometimes_hidden_setting_phone_app" />
-	<link rel="shorturl" href="http://df4.us/wxq" />
-	<id>tag:daringfireball.net,2026://1.42686</id>
-	<published>2026-02-27T17:12:53Z</published>
-	<updated>2026-03-02T14:12:20Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">Apple’s solution to this dilemma — to show the “Tap Recents to Call” in Settings if, and only if, Unified is the current view option in the Phone app — is lazy. And as a result, it’s quite confusing.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>Back in December, Adam Engst wrote <a href="https://tidbits.com/2025/12/07/hidden-setting-controls-what-happens-when-you-tap-a-call-in-the-phone-app/">this interesting follow-up</a> to his feature story at TidBITS a few weeks prior <a href="https://tidbits.com/2025/11/10/comparing-the-classic-and-unified-views-in-ios-26s-phone-app/">exploring the differences between the new Unified and old Classic interface modes</a> for the Phone app in iOS 26. It’s also a good follow-up to <a href="https://daringfireball.net/linked/2026/01/28/comparing-the-classic-and-unified-views-in-ios-26s-phone-app">my month-ago link</a> to Engst’s original feature, as well as a continuation of my recent theme on the fundamentals of good UI design.</p>
-
-<p>The gist of Engst’s follow-up is that one of the big differences between Unified and Classic modes is what happens when you tap on a row in the list of recent calls. In Classic, tapping on a row in the list will initiate a new phone call to that number. There’s a small “ⓘ” button on the right side of each row that you can tap to show the contact info for that caller. That’s the way the Phone app has always worked. In the new iOS 26 Unified mode, this behavior is reversed: tapping on the row shows the contact info for that caller, and you need to tap a small button with a phone icon on the right side of the row to immediately initiate a call.</p>
-
-<p>Engst really likes this aspect of the Unified view, because the old behavior made it too easy to initiate a call accidentally, just by tapping on a row in the list. I’ve made many of those accidental calls the same way, and so I prefer the new Unified behavior for the same reason. Classic’s tap-almost-anywhere-in-the-row-to-start-a-call behavior is a vestige of some decisions with the original iPhone that haven’t held up over the intervening 20 years. With the original iPhone, Apple was still stuck — correctly, probably! — in the mindset that the iPhone was first and foremost a cellular telephone, and initiating phone calls should be a primary one-tap action. No one thinks of the iPhone as primarily a telephone these days, and it just isn’t iOS-y to have an action initiate just by tapping anywhere in a row in a scrolling list. You don’t tap on an email message to reply to it. You tap a Reply button. Inadvertent phone calls are particularly pernicious in this regard because the recipient is interrupted too — it’s not just an inconvenience to <em>you</em>, it’s an interruption to someone else, and thus also an embarrassment to you.</p>
-
-<p>Here’s where it gets weird.</p>
-
-<p>There’s a preference setting in Settings → Apps → Phone for “Tap Recents to Call”. If you turn this option on, you then get the “tap anywhere in the row to call the person” behavior while using the new Unified view. <em>But this option only appears in the Settings app when you’re using Unified view in the Phone app.</em> If you switch to the Classic view in the Phone app, this option just completely disappears from the Settings app. It’s not grayed out. It’s just gone. Go read <a href="https://tidbits.com/2025/12/07/hidden-setting-controls-what-happens-when-you-tap-a-call-in-the-phone-app/">Engst’s article describing this</a>, if you haven’t already — he has screenshots illustrating the sometimes-hidden state of this setting.</p>
-
-<p>I’ll wait.</p>
-
-<p>Engst and I discussed this at length during <a href="https://daringfireball.net/thetalkshow/2026/02/25/ep-441">his appearance on The Talk Show earlier this week</a>. Especially after talking it through with him on the show, I think I understand both what Apple was thinking, and also why their solution feels so wrong.</p>
-
-<p>At first, I thought the solution was just to keep this option available all the time, whether you’re using Classic or Unified as your layout in the Phone app. Why not let users who prefer the Classic layout turn off the old “tap anywhere in the row to call the person” behavior? But on further thought, there’s a problem with this. If you just want your Phone app to keep working the way it always had, you want Classic to default to the old tap-in-row behavior too. What Apple wants to promote to users is both a new layout and a new tap-in-row behavior. So when you switch to Unified in the Phone app, Apple wants you to experience the new tap-in-row behavior too, where you need to specifically tap the small phone-icon button in the row to call the person, and tapping anywhere else in the row opens a contact details view.</p>
-
-<p>There’s a conflict here. You can’t have the two views default to different row-tapping behavior if one single switch applies to both views.</p>
-
-<p>Apple’s solution to this dilemma — to show the “Tap Recents to Call” in Settings if, and only if, Unified is the current view option in the Phone app — is lazy. And as a result, it’s quite confusing. No one expects an option like this to only appear <em>sometimes</em> in Settings. You pretty much need to understand everything I’ve written about in this article to understand why and when this option is visible. Which means almost no one who uses an iPhone is ever going to understand it. No one expects a toggle in one app (Phone) to control the visibility of a switch in another app (Settings).</p>
-
-<p>My best take at a proper solution to this problem would be for the choice between Classic and Unified views to be mirrored in Settings → Apps → Phone. Show this same bit of UI, that currently is only available in the Filter menu in the Phone app, in both the Phone app <em>and</em> in Settings → Apps → Phone:</p>
-
-<p><img
-    src = "https://daringfireball.net/misc/2026/02/phone-26-classic-or-unified.png"
-    alt = "Screenshot showing the Classic/Unified choice from the iOS 26 Phone app's Filter menu."
-    width = 335
-  /></p>
-
-<p>If you change it in one place, the change should be reflected, immediately, in the other. It’s fine to have the same setting available both in-app and inside the Settings app.</p>
-
-<p>Then, in the Settings app, the “Tap Recents to Call” option could appear underneath the Classic/Unified switcher only when “Unified” is selected. Switch from Classic to Unified and the “Tap Recents to Call” switch would appear underneath. Switch from Unified to Classic and it would disappear. (Or instead of disappearing, it could gray out to indicate the option isn’t available when Classic is selected.) The descriptive text describing the option could even state that it’s an option only available with Unified.<sup id="fnr1-2026-02-27"><a href="#fn1-2026-02-27">1</a></sup></p>
-
-<p>The confusion would be eliminated if the Classic/Unified toggle were mirrored in Settings. That would make it clear why “Tap Recents to Call” only appears when you’re using Unified — because your choice to use Unified (or Classic) would be right there.</p>
-
-<div class="footnotes">
-<hr />
-<ol>
-<li id="fn1-2026-02-27">
-<p>Or, Apple could offer separate “Tap Recents to Call” options for both Classic and Unified. With Classic, it would default to On (the default behavior since 2007), and with Unified, default to Off (the idiomatically correct behavior for modern iOS). In that case, the descriptive text for the option would *need* to explain that it’s a separate setting for each layout, or perhaps the toggle labels could be “Tap Recents to Call in Classic” and “Tap Recents to Call in Unified”. But somehow it would need to be made clear that they’re separate switches. But this is already getting more complicated. I think it’d be simpler to just keep the classic tap-in-row behavior with the Classic layout, and offer this setting only when using the Unified view.&nbsp;<a href="#fnr1-2026-02-27"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
-</li>
-</ol>
-</div>
-
-
-
-    ]]></content>
-  <title>★ A Sometimes-Hidden Setting Controls What Happens When You Tap a Call in the iOS 26 Phone App</title></entry></feed><!-- THE END -->
+  <title>★ HazeOver — Mac Utility for Highlighting the Frontmost Window</title></entry></feed><!-- THE END -->
