@@ -7,15 +7,74 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-16T23:47:34Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-17T13:49:54Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Samsung Discontinues Its Galaxy Z TriFold After Just Three Months</title>
+	<link rel="alternate" type="text/html" href="https://www.theverge.com/tech/895879/samsung-galaxy-z-trifold-discontinued-stock-sold-out" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wzv" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/17/samsung-trifold" />
+	<id>tag:daringfireball.net,2026:/linked//6.42763</id>
+	<published>2026-03-17T13:49:53Z</published>
+	<updated>2026-03-17T13:49:54Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jess Weatherbed, The Verge:</p>
+
+<blockquote>
+  <p>Samsung is preparing to axe its first three-panel foldable phone
+less than three months after launching the device in the US. Sales
+of the <a href="https://www.theverge.com/news/835525/samsung-z-trifold-announcement-us-availability">$2,899 Galaxy Z TriFold</a> will first be wound down in
+Korea and then discontinued in the US once remaining inventory has
+been cleared, an unnamed Samsung spokesperson told
+<a href="https://www.bloomberg.com/news/articles/2026-03-17/samsung-to-stop-selling-2-899-trifold-phone-after-three-months">Bloomberg</a>.</p>
+</blockquote>
+
+<p>Maybe <a href="https://daringfireball.net/linked/2025/10/29/samsung-trifold-phone">five blades</a> on a razer is too many?</p>
+
+<div>
+<a  title="Permanent link to ‘Samsung Discontinues Its Galaxy Z TriFold After Just Three Months’"  href="https://daringfireball.net/linked/2026/03/17/samsung-trifold">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Lil Finder Guy Wallpapers</title>
+	<link rel="alternate" type="text/html" href="https://512pixels.net/2026/03/lil-finder-5k-wallpapers/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wzu" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/17/lil-finder-guy-wallpapers" />
+	<id>tag:daringfireball.net,2026:/linked//6.42762</id>
+	<published>2026-03-17T13:41:21Z</published>
+	<updated>2026-03-17T13:41:21Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Stephen Hackett:</p>
+
+<blockquote>
+  <p>I was just going about my day then <a href="https://mastodon.social/@jamesthomson">James Thomson</a> of <a href="https://tla.systems/">PCalc
+and other fine applications</a> dropped these images on me and
+said I could share them.</p>
+</blockquote>
+
+<p>Also, <a href="https://512pixels.net/2026/03/3d-print-lil-finder/">something fun</a> for those of you with 3D printers.</p>
+
+<div>
+<a  title="Permanent link to ‘Lil Finder Guy Wallpapers’"  href="https://daringfireball.net/linked/2026/03/17/lil-finder-guy-wallpapers">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	
-	<link rel="alternate" type="text/html" href="https://www.mux.com/video-api?utm_campaign=fireball&amp;utm_source=DF" />
+	<link rel="alternate" type="text/html" href="https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF" />
 	<link rel="shorturl" href="http://df4.us/wzt" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2026/03/mux_--_video_api_for_developer" />
 	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.42761</id>
 	<author><name>Daring Fireball Department of Commerce</name></author>
 	<published>2026-03-16T23:47:24Z</published>
-	<updated>2026-03-16T23:47:34Z</updated>
+	<updated>2026-03-17T13:42:00Z</updated>
 	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
 <p>Video isn’t just something to watch; it’s a boatload of context and data. Mux makes it easy to ship and scale video into anything from websites to platforms to AI workflows. Unlock what’s inside: transcripts, clips, and storyboards to build summarization, translation, content moderation, tagging, and more.</p>
 
@@ -91,7 +150,7 @@ beginning early next month.</p>
 	<link rel="shorturl" href="http://df4.us/wzq" />
 	<id>tag:daringfireball.net,2026://1.42758</id>
 	<published>2026-03-16T17:27:58Z</published>
-	<updated>2026-03-16T22:58:31Z</updated>
+	<updated>2026-03-17T13:45:23Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -111,7 +170,7 @@ engaging the camera without also visibly lighting the on-screen
 camera indicator light.</p>
 </blockquote>
 
-<p>The reason it’s tempting to think that a dedicated camera indicator light is more secure than an on-display indicator is the notion that hardware is more secure than software. With hardware, a dedicated hardware indicator light can be connected to the camera hardware such that if the camera is accessed, the light must turn on, with no way for software running on the device, no matter its privileges, to change that. With an indicator light that is rendered on the display, it’s not foolish to worry that malicious software, with sufficient privileges, could draw over the pixels on the display where the camera indicator is rendered, disguising that the camera is in use.</p>
+<p>The reason it’s tempting to think that a dedicated camera indicator light is more secure than an on-display indicator is the fact that hardware is generally more secure than software, because it’s harder to tamper with. With hardware, a dedicated hardware indicator light can be connected to the camera hardware such that if the camera is accessed, the light must turn on, with no way for software running on the device, no matter its privileges, to change that. With an indicator light that is rendered on the display, it’s not foolish to worry that malicious software, with sufficient privileges, could draw over the pixels on the display where the camera indicator is rendered, disguising that the camera is in use.</p>
 
 <p>If this were implemented simplistically, that concern would be completely valid. But Apple’s implementation of this is far from simplistic. <a href="https://daringfireball.net/search/Guilherme+Rambo">Friend of the site</a> and renowned developer and low-level-OS spelunker <a href="https://www.rambo.codes/">Guilherme Rambo</a> texted me a note, which, with his permission, I’ll quote:</p>
 
@@ -1791,101 +1850,6 @@ and to more clearly delineate window chrome from document.</p>
 
 <div>
 <a  title="Permanent link to ‘‘The Window Chrome of Our Discontent’’"  href="https://daringfireball.net/linked/2026/03/06/window-chrome-of-our-discontent">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>The Verge Interviews Tim Sweeney After Victory in ‘Epic v. Google’</title>
-	<link rel="alternate" type="text/html" href="https://www.theverge.com/23996474/epic-tim-sweeney-interview-win-google-antitrust-lawsuit-district-court" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wyl" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/06/verge-sweeney-interview" />
-	<id>tag:daringfireball.net,2026:/linked//6.42717</id>
-	<published>2026-03-06T17:09:10Z</published>
-	<updated>2026-03-06T19:08:39Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>The Verge:</p>
-
-<blockquote>
-  <p>Sean Hollister: <em>What would you say the differences are between
-the Apple and Google cases?</em></p>
-
-<p>Tim Sweeney: I would say Apple was ice and Google was fire.</p>
-
-<p>The thing with Apple is all of their antitrust trickery is
-internal to the company. They use their store, their payments,
-they force developers to all have the same terms, they force OEMs
-and carriers to all have the same terms.</p>
-
-<p>Whereas Google, to achieve things with Android, they were going
-around and paying off game developers, dozens of game developers,
-to not compete. And they’re paying off dozens of carriers and OEMs
-to not compete — and when all of these different companies do
-deals together, lots of people put things in writing, and it’s
-right there for everybody to read and to see plainly.</p>
-
-<p>I think the Apple case would be no less interesting if we could
-see all of their internal thoughts and deliberations, but Apple
-was not putting it in writing, whereas Google was. You know, I
-think Apple is... it’s a little bit unfortunate that in a lot of
-ways Apple’s restrictions on competition are absolute. Thou shalt
-not have a competing store on iOS and thou shalt not use a
-competing payment method. And I think Apple should be receiving at
-least as harsh antitrust scrutiny as Google.</p>
-</blockquote>
-
-<p>Interesting interview, for sure — but it’s from December 2023, when Epic scored its first court victory against Google. And, notably, it came <a href="https://daringfireball.net/linked/2026/03/06/sweeney-google-gag">before Sweeney signed away</a> his right to criticize Google or the Play Store.</p>
-
-<p>But I don’t see Epic’s ultimate victory in the lawsuit as a win for Android users, and I don’t think it’s much of a win for Android developers either. <a href="https://android-developers.googleblog.com/2026/03/a-new-era-for-choice-and-openness.html">These new terms from Google</a> just seem confusing and complicated, with varying rates for “existing installs” vs. “new installs”.</p>
-
-<div>
-<a  title="Permanent link to ‘The Verge Interviews Tim Sweeney After Victory in ‘Epic v. Google’’"  href="https://daringfireball.net/linked/2026/03/06/verge-sweeney-interview">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Tim Sweeney Signed Away His Right to Criticize Google’s Play Store Until 2032</title>
-	<link rel="alternate" type="text/html" href="https://www.theverge.com/news/889595/tim-sweeney-signed-away-his-right-to-criticize-google-until-2032" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wyk" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/06/sweeney-google-gag" />
-	<id>tag:daringfireball.net,2026:/linked//6.42716</id>
-	<published>2026-03-06T16:36:16Z</published>
-	<updated>2026-03-06T16:36:16Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Sean Hollister, writing for The Verge:</p>
-
-<blockquote>
-  <p>But Google has finally muzzled Tim Sweeney. It’s right there in a
-binding term sheet for <a href="https://www.theverge.com/policy/889252/google-app-store-fee-reduction-20-percent-epic-v-google">his settlement with Google</a>.</p>
-
-<p>On March 3rd, he not only signed away Epic’s rights to sue and
-disparage the company over anything covered in the term sheet — Google’s app distribution practices, its fees, how it treats games
-and apps — he signed away his right to advocate for any further
-changes to Google’s app store policies, too. He can’t criticize
-Google’s app store practices. In fact, he has to praise them.</p>
-
-<p>The contract states that “Epic believes that the Google and
-Android platform, with the changes in this term sheet, are
-procompetitive and a model for app store / platform operations,
-and will make good faith efforts to advocate for the same.” [...]</p>
-
-<p>And while Epic can still be part of the “Coalition for App
-Fairness,” the organization that <a href="https://www.theverge.com/2023/11/30/23962920/epic-just-admitted-the-coalition-for-app-fairness-was-created-solely-by-epic">Epic quietly and solely funded
-to be its attack dog</a> against Google and Apple, he can only
-point that organization at Apple now.</p>
-</blockquote>
-
-<p>Sounds like a highly credible coalition that truly stands for fairness to me.</p>
-
-<div>
-<a  title="Permanent link to ‘Tim Sweeney Signed Away His Right to Criticize Google’s Play Store Until 2032’"  href="https://daringfireball.net/linked/2026/03/06/sweeney-google-gag">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
