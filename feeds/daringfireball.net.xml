@@ -7,7 +7,71 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-17T19:26:49Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-17T23:47:47Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/03/squashing" />
+	<link rel="shorturl" href="http://df4.us/wzx" />
+	<id>tag:daringfireball.net,2026://1.42765</id>
+	<published>2026-03-17T23:47:47Z</published>
+	<updated>2026-03-17T23:47:47Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">CNBC’s headline is journalistic malpractice. The rest of their report is even worse.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>MacKenzie Sigalos, writing for CNBC, under the misleading headline “<a href="https://www.cnbc.com/2026/03/17/apple-ceo-tim-cook-retire-rumors-gma.html">Tim Cook Squashes Retirement Rumors, Says He ‘Can’t Imagine Life Without Apple’</a>”:</p>
+
+<blockquote>
+  <p>Asked about reports that he was preparing to step aside, Cook told
+ABC, “No, I didn’t say that. I haven’t said that. I love what I do
+deeply. Twenty-eight years ago, I walked into Apple, and I’ve
+loved every day of it since.”</p>
+
+<p>He added that he “can’t imagine life without Apple.”</p>
+</blockquote>
+
+<p>The Good Morning America interview was with Michael Strahan, <a href="https://www.youtube.com/watch?v=PjehoUu48rY">in a five-minute segment for the show</a>. Strahan actually did a decent job. He asked Cook if Apple expects to be reimbursed for the $3+ billion dollars they spent on Trump’s tariffs last year, now that the Supreme Court has ruled them invalid. (Cook says they’re waiting to see what the courts say about getting that money back.) Strahan then asked a pretty pointed question about Cook’s high-profile appearances alongside Trump — attending the inauguration (Strahan didn’t mention that <a href="https://daringfireball.net/linked/2025/01/03/allen-tim-cook-1m-trump-inauguration">Cook paid Trump $1 million</a> for the honor to attend), the <a href="https://daringfireball.net/2025/08/gold_frankincense_and_silicon">24-karat-gold Apple-logo trophy</a>, attending the White House premiere of <em>Melania</em>. Cook answered by saying he’s not political and only cares about policy, which makes sense only if you believe government policy decisions aren’t political — which is to say it makes no sense. But Strahan asked, and Cook’s answer speaks for itself.</p>
+
+<p>But to the point of Sigalos’s report on the interview for CNBC, Cook didn’t “squash” anything related to his tenure at Apple in that interview. <a href="https://www.youtube.com/watch?v=PjehoUu48rY">Watch for yourself</a>. Cook correctly points out that he himself has never said anything (in public, at least) about being tired or wanting to “step back a little bit”, as Strahan claimed he had read. But Cook does not refute that he might soon step aside as CEO, nor does he say he intends to remain CEO for the foreseeable future. It’s an incredibly deft non-answer that would remain true if Cook steps down as CEO in two weeks, on April 1 (Apple’s anniversary), and would remain true if he’s still CEO five years from now. (The “can’t imagine life without Apple” comment would fit like a glove if, say, he steps aside as CEO but becomes executive chairman of the board.)</p>
+
+<p>This headline is journalistic malpractice from CNBC.</p>
+
+<p>The rest of Sigalos’s report is even worse:</p>
+
+<blockquote>
+  <p>The comments come after a <a href="https://www.cnbc.com/2025/12/08/apple-tim-cook-pressure-2026.html">turbulent</a> stretch for Apple’s C-suite.
+In December, the company lost AI chief John Giannandrea, its top
+lawyer and a key design executive in a single week — while chip
+guru Johny Srouji <a href="https://www.bloomberg.com/news/articles/2025-12-06/apple-rocked-by-executive-departures-with-johny-srouji-at-risk-of-leaving-next">reportedly</a> signaled he might leave, too.</p>
+
+<p>The departures raised pointed questions about whether Cook’s
+operational leadership style is the right fit for the artificial
+intelligence era.</p>
+</blockquote>
+
+<p>Where to even start with this? Jiminy.</p>
+
+<p>Giannandrea was shown the door after he blew it with Apple Intelligence. <a href="https://daringfireball.net/linked/2025/03/20/gurman-rockwell-siri">Cook took Giannandrea’s responsibilities away almost a year ago</a>, weeks after the company’s embarrassing <a href="https://daringfireball.net/2025/03/apple_is_delaying_the_more_personalized_siri_apple_intelligence_features">admission</a> that next-generation Siri would be delayed by at least a full year. <a href="https://daringfireball.net/linked/2025/12/01/giannandrea-out">The December news</a> was that Giannandrea was officially “retiring”, but that was just Cook allowing him as graceful and dignified an exit as possible. He was effectively fired back in April or May.</p>
+
+<p>Kate Adams, Apple’s general counsel, <a href="https://www.apple.com/newsroom/2025/12/apple-announces-executive-transitions/">just plain old retired</a> in December after a successful nine-year stint in the role. Lisa Jackson announced her retirement as VP of environment, policy, and social initiatives, <a href="https://daringfireball.net/linked/2025/12/05/apple-announces-a-few-other-executive-transitions">alongside Adams</a>. Zero drama around either of their departures — just, for Apple, coincidentally bad timing.</p>
+
+<p>The Alan Dye leaving for Meta thing, <em>that</em> was unexpected, and, to some degree, turbulent. But I have yet to speak to a single person within Apple, nor a single UI designer outside Apple, who thinks it’s anything but <em>good</em> news for Apple that Dye jumped ship for Meta. Not just that Dye is a fraud of a UI designer. Not just that he and his inner circle have <a href="https://daringfireball.net/linked/2026/01/22/macos-26-tahoe-broke-column-view-in-the-finder">vandalized MacOS</a>, the crown jewel of human-computer interaction. Not just that he and his team are given — or have taken — credit for innovative, high-quality work on VisionOS that really belongs to the interaction team Mike Rockwell put together for VisionOS. Not just that Dye left Apple for a rival company, period — something unheard of amongst Apple’s bleed-in-six-colors executive ranks. But that he left for <em>Meta</em>, of all fucking companies? That’s the proof that Dye (and <a href="https://www.billysorrentino.com/">his urban cowboy magazine-designer cohort</a>) never belonged at Apple in the first place.</p>
+
+<p>And then there’s the Srouji thing, which was reported only once, by Mark Gurman at Bloomberg, and then effectively retracted two days later <a href="https://daringfireball.net/linked/2025/12/08/srouji">after Srouji shot it down with a meant-to-leak memo to his staff</a>. My own reporting, talking to several sources close to and in some cases within Apple’s executive ranks, is that there is no truth to Gurman’s Bloomberg report that Srouji threatened Tim Cook that he was considering leaving Apple for a competitor.</p>
+
+<p>To believe that report, you need to believe not only that Srouji is unhappy while seeing his life’s work flourish, leading what is inarguably one of the most successful silicon design divisions in the history of computing, and but also that at age 62, he would consider leaving Apple not to retire but to head up chip design at <em>another</em> company — any of which possible destinations being a company that is years behind Apple in chip design. <em>And</em> you have to believe that it’s a successful tactic for senior executives at Apple to get what they want from Tim Cook by threatening him with poaching offers from competing companies. <em>And</em> that Johny Srouji would either personally leak this to Mark Gurman, or loose-lippedly blab about it to someone who would leak it to Mark Gurman. <em>And</em> that Gurman reporting the already-very-difficult-to-believe story at Bloomberg, making private negotiations public and embarrassing both Cook personally and Apple as a company, would lead Tim Cook to cave in and do whatever it took to make Srouji happy enough to stay at Apple and write that memo refuting the report.</p>
+
+<p>That does not <a href="https://daringfireball.net/linked/2009/01/16/cook-fortune">sound like Tim Cook</a>.</p>
+
+<p>Is that report, and all that it implies, <em>possible</em>? Sure. It’s also possible that monkeys might fly out my butt. It’s <em>also</em> possible that the Srouji story was bogus, seeded by a company that <em>had</em> just poached an Apple executive, and had successfully spun <em>that</em> story in their favor to such an extent that Bloomberg called it a “<a href="https://www.bloomberg.com/news/articles/2025-12-03/apple-design-executive-alan-dye-poached-by-meta-in-major-coup">major coup</a>” in its headline, and their intention with the bogus Srouji story was to put the narrative out there to seed doubt about Apple as a company and Cook’s leadership, personally.</p>
+
+<p>Mission accomplished, at least with the gullible reporters and editors at CNBC.</p>
+
+
+
+    ]]></content>
+  <title>★ Squashing</title></entry><entry>
 	<title>Fox Sports to Broadcast U.S.-Venezuela World Baseball Classic Final in Immersive 3D — But Not on Vision Pro</title>
 	<link rel="alternate" type="text/html" href="https://x.com/mlbonfox/status/2033902946174271992?s=46" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/wzw" />
@@ -1915,41 +1979,4 @@ vulnerabilities.</p>
 
 
     ]]></content>
-  <title>★ Thoughts and Observations on the MacBook Neo</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/03/hazeover" />
-	<link rel="shorturl" href="http://df4.us/wy5" />
-	<id>tag:daringfireball.net,2026://1.42701</id>
-	<published>2026-03-02T22:41:11Z</published>
-	<updated>2026-03-03T17:38:32Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">What HazeOver does is highlight the active window by dimming all background windows. That’s it. But it does this simple task with aplomb, and it makes a significant difference in the day-to-day usability of MacOS.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>Back in December <a href="https://daringfireball.net/linked/2025/12/03/alan-app">I linked to</a> a sort-of stunt project from Tyler Hall <a href="https://tyler.io/2025/11/26/alan/">called Alan.app</a> — a simple Mac utility that draws a bold rectangle around the current active window. Alan.app lets you set the thickness and color of the frame. I used it for an hour or so before calling it quits. It really does solve the severe (and worsening) problem of being able to instantly identify the active window in recent versions of MacOS, but the crudeness of Alan.app’s implementation makes it one of those cases where the cure is worse than the disease. Ultimately I’d rather suffer from barely distinguishable active window state than look at Alan.app’s crude active-window frame all day every day. What makes Alan.app interesting to me is its effectiveness as a protest app. The absurdity of Alan.app’s crude solution highlights the absurdity of the underlying problem — that anyone would even <em>consider</em> running Alan.app (or the fact that Hall was motivated to create and release it) shows just how bad windowing UI is in recent MacOS versions.</p>
-
-<p>Turns out there exists an app that attempts to solve this problem in an elegant way that you might want to actually live with. It’s called <a href="https://hazeover.com/">HazeOver</a>, and developer Maxim Ananov first released it a decade ago. It’s <a href="https://apps.apple.com/us/app/hazeover-distraction-dimmer/id430798174?mt=12">in the Mac App Store for $5</a>, is included <a href="https://go.setapp.com/stp130?refAppID=212&amp;stc=index">in the SetApp subscription service</a>, and has <a href="https://hazeover.com/">a free trial available</a> from the website.</p>
-
-<p>What HazeOver does is highlight the active window by dimming all background windows. That’s it. But it does this simple task with aplomb, and it makes a significant difference in the day-to-day usability of MacOS. Not just MacOS 26 Tahoe — all recent versions of MacOS suffer from a design that makes it difficult to distinguish, instantly, the frontmost (a.k.a. key) window from background windows.<sup id="fnr1-2026-03-02"><a href="#fn1-2026-03-02">1</a></sup> Making all background windows a little dimmer makes a notable difference.</p>
-
-<p>Longtime DF reader <a href="https://www.faisal.com/">Faisal Jawdat</a> sent me a note suggesting I try HazeOver back in early December, after I linked to Alan.app. I didn’t get around to trying HazeOver until December 30, and I’ve been using it ever since. One thing I did, at first, was <em>not</em> set HazeOver to launch automatically at login. That way, each time I restarted or logged out, I’d go back to the default MacOS 15 Sequoia interface, where background windows aren’t dimmed. I wanted to see if I’d miss HazeOver when it wasn’t running. Each time, I did notice, and I missed it. I now have it set to launch automatically when I log in.</p>
-
-<p>HazeOver’s default settings are a bit strong for my taste. By default, it dims background windows by 35 percent. I’ve dialed that back to just 10 percent, and that’s more than noticeable enough for me. I understand why HazeOver’s default dimming is so strong — it emphasizes just what HazeOver is doing. (Also, some people choose to use HazeOver to avoid being distracted by background window content — in which case you might want to increase, not decrease, the dimming from the default setting.) But after you get used to it, you might find, as I did, that a little bit goes a long way. (Jawdat told me he’s dropped down to 12 percent on his machine.) I’ve also diddled with HazeOver’s animation settings, changing from the default (Ease Out, 0.3 seconds) to Ease In &amp; Out, 0.1 seconds — I want switching windows to feel <em>fast fast fast</em>.</p>
-
-<p>Highly recommended, and a veritable bargain <a href="https://apps.apple.com/us/app/hazeover-distraction-dimmer/id430798174?mt=12">at just $5</a>.</p>
-
-<div class="footnotes">
-<hr />
-<ol>
-<li id="fn1-2026-03-02">
-<p>The HazeOver website also has a link to a beta version with updates specific to MacOS 26 Tahoe. To be clear, the current release version, available in the App Store, works just fine on Tahoe. But the beta version has a Liquid Glass-style Settings window, and addresses an edge case where, on Tahoe, the menu bar sometimes appears too dim.&nbsp;<a href="#fnr1-2026-03-02"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
-</li>
-</ol>
-</div>
-
-
-
-    ]]></content>
-  <title>★ HazeOver — Mac Utility for Highlighting the Frontmost Window</title></entry></feed><!-- THE END -->
+  <title>★ Thoughts and Observations on the MacBook Neo</title></entry></feed><!-- THE END -->
