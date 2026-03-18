@@ -7,14 +7,14 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-18T21:57:14Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-18T23:41:02Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>The Talk Show: ‘The Pogue Feature’</title>
 	<link rel="alternate" type="text/html" href="https://daringfireball.net/thetalkshow/2026/03/18/ep-443" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x02" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/18/the-talk-show-443" />
 	<id>tag:daringfireball.net,2026:/linked//6.42770</id>
-	<published>2026-03-18T21:57:13Z</published>
-	<updated>2026-03-18T21:57:14Z</updated>
+	<published>2026-03-18T23:40:00Z</published>
+	<updated>2026-03-18T23:41:02Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -42,6 +42,71 @@
 
 	]]></content>
   </entry><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/03/your_frustration_is_the_product" />
+	<link rel="shorturl" href="http://df4.us/x03" />
+	<id>tag:daringfireball.net,2026://1.42771</id>
+	<published>2026-03-18T23:39:57Z</published>
+	<updated>2026-03-18T23:39:57Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">The people making these decisions for these websites are like ocean liner captains who are *trying* to hit icebergs.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>Shubham Bose, “<a href="https://thatshubham.com/blog/news-audit">The 49MB Web Page</a>”:</p>
+
+<blockquote>
+  <p>I went to the New York Times to glimpse at four headlines and was
+greeted with 422 network requests and 49 megabytes of data. It
+took two minutes before the page settled. And then you wonder why
+every sane tech person has an adblocker installed on systems of
+all their loved ones.</p>
+
+<p>It is the same story across top publishers today.</p>
+</blockquote>
+
+<p>This is an absolutely devastating deconstruction of the current web landscape. I implore you to pause here, and read Bose’s entire amply illustrated essay. I’ll wait.</p>
+
+<hr />
+
+<p>Even websites from publishers who care about quality are doing things on the web that they would <em>never</em> do with their print editions. Bose starts with The New York Times, but also mentions The Guardian, whose web pages are so laden with ads and modals that their default layout, on a mobile device, sometimes leaves just 11 percent of the screen for article content. That’s four lines of article text.</p>
+
+<p>Bose writes:</p>
+
+<blockquote>
+  <p>Viewability and time-on-page are very important metrics these
+days. Every hostile UX decision originates from this single fact.
+The longer you’re trapped on the page, the higher the CPM the
+publisher can charge. Your frustration is the product. No wonder
+engineers and designers make every UX decision that optimizes for
+that. And you, the reader, are forced to interact, wait, click,
+scroll multiple times because of this optimization. Not only is it
+a step in the wrong direction, it is adversarial by design.</p>
+
+<p>The reader is not respected enough by the software. The publisher
+is held hostage by incentives from an auction system that not only
+encourages but also rewards dark patterns.</p>
+</blockquote>
+
+<p>I disagree only insofar as the reader isn’t respected <em>at all</em>. Part of my ongoing testing of the MacBook Neo is that I’ve been using it in as default a state as possible, only changing default settings, and only adding third-party software, as necessary. So I’ve been browsing the web without content-blocking extensions on the Neo. It’s been a while since I’ve done that for an extended period of time. Most of the advertising-bearing websites I read have gotten so bad that it’s almost beyond parody.</p>
+
+<p>And even with content blockers installed (of late, I’ve been using and enjoying <a href="https://apps.apple.com/us/app/ublock-origin-lite/id6745342698">uBlock Origin Lite in Safari</a>), many of these news websites intersperse bullshit like requests to subscribe to their newsletters, or links to other articles on their site — often totally unrelated to the one you’re trying to read — every few paragraphs. And the fucking autoplay videos, jesus. You read two paragraphs and there’s a box that interrupts you. You read another two paragraphs and there’s another interruption. All the way until the end of the article. We’re visiting their website to read a fucking article. If we wanted to watch videos, we’d be on YouTube. It’s like going to restaurant, ordering a cheeseburger, and they send a marching band to your table to play trumpets right in your ear and squirt you with a water pistol.</p>
+
+<p><em>No print publication on the planet does this.</em> The print editions of the very same publications — The New York Times, The Guardian, The Wall Street Journal, The Atlantic, The New Yorker — don’t do anything like this. The print edition of The New Yorker could not possibly be more respectful of both the reader’s attention and the sanctity of the prose they publish. But read an article on their website and you get autoplaying videos interspersed between random paragraphs. And the videos have nothing to do with the article you’re reading. I mean, we should be so lucky if every website were as respectfully designed as The New Yorker’s, but even their website — comparatively speaking, one of the “good ones” — shows only a fraction of the respect for the reader that their print edition does.</p>
+
+<p>Without an ad-blocking content blocker running, one of the most crazy-making design patterns today is repeating the exact same ad within the same article, every few paragraphs. It’s hard to find a single article on Apple News — a sort of ersatz pidgin version of the web — that does <em>not</em> do this. The exact same ad — 6, 7, 8 times within the same article. How many 30-something blonde white women need hearing aids? It’s insane.</p>
+
+<p>People are spending less and less time on the web because websites are becoming worse and worse experiences, but the publishers of websites are almost literally trying to dig their way out of that hole by adding more and more of the reader-hostile shit that is driving people away. <a href="https://daringfireball.net/misc/2026/03/guardian-screenshot-shubham-bose.png">The Guardian screenshot Bose captured</a>, where only 11 percent of the entire screen shows text from the article, is the equivalent of a broadcast TV channel that only showed 7 minutes of actual TV content per hour, devoting the other 53 minutes to paid commercials and promotions for other shows on the same channel. Almost no one would watch such a channel. But somehow this strategy is deemed sustainable for websites.</p>
+
+<p>The web is the only medium the world has ever seen where its highest-profile decision makers are people who despise the medium and are trying to drive people away from it. As Bose notes, “A lot of websites actively interfere the reader from accessing them by pestering them with their ‘apps’ these days. <em>I don’t know where this fascination with getting everyone to download your app comes from.</em>” It comes from people who literally do not understand, and do not enjoy, the web, but yet find themselves running large websites.</p>
+
+<p>The people making these decisions for these websites are like ocean liner captains who are <em>trying</em> to hit icebergs.</p>
+
+
+
+    ]]></content>
+  <title>★ ‘Your Frustration Is the Product’</title></entry><entry>
 	<title>How to Identify Your Apple Keyboard Layout by Country or Region</title>
 	<link rel="alternate" type="text/html" href="https://support.apple.com/en-us/102743" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x01" />
@@ -1906,75 +1971,4 @@ project</a>.</p>
 </div>
 
 	]]></content>
-  </entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/03/599_not_a_piece_of_junk_macbook_neo" />
-	<link rel="shorturl" href="http://df4.us/wyf" />
-	<id>tag:daringfireball.net,2026://1.42711</id>
-	<published>2026-03-04T19:40:11Z</published>
-	<updated>2026-03-10T18:52:21Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">The MacBook Neo is the first major new Mac aimed at the consumer market in the Apple Silicon era. It’s meant to make a dent — perhaps a minuscule dent in the universe, but a big dent in the Mac’s share of the overall PC market.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p><em>$599. Not a piece of junk.</em></p>
-
-<p>That’s <em>not</em> a marketing slogan from Apple for <a href="https://www.apple.com/macbook-neo/">the new MacBook Neo</a>. But it could be. And it <em>is</em> the underlying message of the product. For a few years now, Apple has <a href="https://daringfireball.net/search/walmart+macbook+air+m1">quietly dabbled with the sub-$1,000 laptop market</a>, by selling the base configuration of the M1 MacBook Air — a machine that <a href="https://www.apple.com/newsroom/2020/11/introducing-the-next-generation-of-mac/">debuted</a> in November 2020 — at retailers like Walmart for under $700. But <em>dabbling</em> is the right word. Apple has never ventured under the magic $999 price point for a MacBook available in its own stores.</p>
-
-<p>As of today, they’re not just in the sub-$1,000 laptop market, they’re going in hard. The MacBook Neo is a very compelling $600 laptop, and for just $100 more, you get a configuration with Touch ID and double the storage (512 GB instead of 256).</p>
-
-<p>You can argue that all MacBooks should have Touch ID. My first answer to that is “$599”. My second answer is “education”. Touch ID doesn’t really make sense for laptops shared by kids in a school. And with Apple’s $100 education pricing discount, the base MacBook Neo, at $499, is <em>half the price</em> of the  base M5 MacBook Air ($1099 retail, $999 education). Half the price.</p>
-
-<p>I’m writing this from Apple’s hands-on “experience” in New York, amongst what I’d estimate as a few hundred members of the media. It’s a pretty big event, and a very big space inside some sort of empty warehouse on the western edge of Chelsea. Before playing the four-minute Neo introduction video (which you should watch — <a href="https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/?videoid=45c8e3bf69354631f6ee78a782356dbf">it’s embedded in Apple’s Newsroom post</a>), John Ternus took the stage to address the audience. He emphasized that the Mac user base continues to grow, because “nearly half of Mac buyers are new to the platform”. Ternus didn’t say the following aloud, but Apple clearly knows what has kept a <em>lot</em> of would-be switchers from switching, and it’s the price. The Mac Mini is great, but normal people only buy laptops, and aside from the aforementioned dabbling with the five-year-old M1 MacBook Air and a brief exception when <a href="https://www.apple.com/newsroom/2014/04/29Apple-Updates-MacBook-Air/">the MacBook Air dropped to $899 in 2014</a>, Apple just hasn’t ventured under $999. “<a href="https://www.youtube.com/watch?v=U37Ds3RvyoM">We just can’t ship junk</a>,” Steve Jobs said back in 2007. It’s not that Apple never noticed the demand for laptops in the $500–700 range. It’s that they didn’t see how to make one that wasn’t junk.</p>
-
-<p>Now they have. And the PC world should take note. One of my briefings today included a side-by-side comparison between a MacBook Neo and an HP 14-inch laptop “in the same price category”. It was something like <a href="https://www.hp.com/us-en/shop/pdp/hp-omnibook-5-ngai-14-he0027nr">this one</a>, with an Intel Core 5 chip, which costs $550. The HP’s screen sucks (very dim, way lower resolution), the speakers suck, the keyboard sucks, and the trackpad sucks. It’s a thick, heavy, plasticky piece of junk. I didn’t put my nose to it, but I wouldn’t be surprised if it smells bad.</p>
-
-<p>The MacBook Neo looks and feels every bit like a MacBook. Solid aluminum. Good keyboard (no backlighting, but supposedly the same mechanism as in other post-2019 MacBooks — felt great in my quick testing). Good trackpad (no <a href="https://support.apple.com/en-us/102309">Force Touch</a> — it actually physically clicks, but you can click anywhere, not just the bottom). Good bright display (500 nits max, same as the MacBook Air). Surprisingly good speakers, in a new side-firing configuration. Without even turning either laptop on, you can just see and feel that the MacBook Neo is a vastly superior device.</p>
-
-<p>And when you do turn them on, you see the vast difference in display quality and hear the vast difference in speaker quality. And you get MacOS, not Windows, which, even with Tahoe, remains the quintessential glass of ice water in hell for the computer industry.</p>
-
-<p>I came into today’s <s>event</s> experience expecting a starting price of $799 for the Neo — $300 less than the new $1,099 price for the base M5 MacBook Air (which, in defense of that price, starts with 512 GB storage). $599 is a fucking statement. Apple is coming after this market. I think they’re going to sell a zillion of these things, and “almost half” of new Mac buyers being new to the platform is going to become “more than half”. The MacBook Neo is not a footnote or hobby, or a pricing stunt to get people in the door before upselling them to a MacBook Air. It’s the first major new Mac aimed at the consumer market in the Apple Silicon era. It’s meant to make a dent — perhaps a minuscule <a href="https://www.businessinsider.com/steve-jobs-famous-quote-misunderstood-laurene-powell-2020-2">dent in the universe</a>, but a big dent in the Mac’s share of the overall PC market.</p>
-
-<h2>Miscellaneous Observations</h2>
-
-<p>It’s worth noting that the Neo is aptly named. It really is altogether new. In that way it’s the opposite of the five-year-old M1 MacBook Air that Apple had been selling through retailers like Walmart and Amazon. Rather than selling something old for a lower price, they’ve designed and engineered something new from the ground up to launch at a lower price. It’s an all-new trackpad. It’s a good but different display than the Air’s — slightly smaller (13.0 inches vs. 13.6) and supporting only the sRGB color gamut, not P3. <em>If you know the difference between sRGB and P3, the Neo is not the MacBook you want.</em> What Neo buyers are going to notice is that the display looks good and is just as bright as the Air’s — and it looks way better, way sharper, and way brighter than the criminally ugly displays on PC laptops in this price range.</p>
-
-<p>Even the Apple logo on the back of the display lid is different. Rather than make it polished and shiny, <a href="https://daringfireball.net/misc/2026/03/macbook-neo-apple-logo.jpeg">it’s simply debossed</a>. Save a few bucks here, a few bucks there, and you eventually grind your way to a new MacBook that deserves the name “MacBook” but starts at just $600.</p>
-
-<p>But of course there are trade-offs. You can use Apple’s Compare page <a href="https://www.apple.com/macbook-neo/compare/?modelList=MacBook-Neo-A18-Pro,MacBook-Air-M5,MacBook-Air-M1">to see the differences between the Neo and Air</a> (and, for kicks, the 2020 M1 Air that until now was still being sold at Walmart). Even better, over at 512 Pixels Stephen Hackett has <a href="https://512pixels.net/2026/03/the-differences-between-the-macbook-neo-and-macbook-air/">assembled a concise list of the differences between the MacBook Neo and MacBook Air</a>. All of these things matter, but none of these things are dealbreakers for a $500-700 MacBook. These trade-offs are extremely well-considered on Apple’s part.</p>
-
-<p>I’ll call out one item from Hackett’s 17-item list in particular:</p>
-
-<blockquote>
-  <p>One of the two USB-C ports <a href="https://www.macrumors.com/2026/03/04/macbook-neo-features-two-different-usb-ports/">is limited</a> to USB 2.0 speeds of just
-480 Mb/s.</p>
-</blockquote>
-
-<p>On the one hand, this stinks. It just does. The two ports look exactly the same — and neither is labeled in any way — but they’re different. But on the other hand, the Neo is the first product with an A-series chip that Apple has ever made that supports two USB ports.<sup id="fnr1-2026-03-04"><a href="#fn1-2026-03-04">1</a></sup> It was, I am reliably informed by Apple product marketing folks, a significant engineering achievement to get a second USB port <em>at all</em> on the MacBook Neo while basing it on the A18 Pro SoC. And while the ports aren’t labeled, if you plug an external display into the “wrong” port, you’ll get an on-screen notification suggesting you plug it into the other port. That this second USB-C port is USB 2.0 is not great, but it is fine.</p>
-
-<p>Other notes:</p>
-
-<ul>
-<li><p>I think the “fun-ness” of the Neo colors was overstated <a href="https://www.bloomberg.com/news/newsletters/2026-02-15/tesla-carplay-delays-related-to-ios-26-and-fsd-apple-s-new-siri-delays-ios-27">in the rumor mill</a>. But the “blush” color is definitely pink, “citrus” is definitely yellow, and “indigo” is definitely blue. No confusing any of them with shades of gray.</p></li>
-<li><p>The keyboards are color-matched. At a glance it’s easy to think the keyboards are all white, but only on the silver Neo are the key caps actually white. The others are all slightly tinted to match the color of the case. Nice!</p></li>
-<li><p>8 GB of RAM is not a lot, but with Apple Silicon it really is enough for typical consumer productivity apps. (If they update the Neo annually and next year’s model gets the A19 Pro, it will move not to 16 GB of RAM but 12 GB.)</p></li>
-<li><p>It’s an interesting coincidence that the base models for the Neo and iPhone 17e both cost $600. For $1,200 you can buy a new iPhone and a new MacBook for just $100 more than the price of the base model M5 MacBook Air. (And the iPhone 17e is the one with the faster CPU.)</p></li>
-<li><p>With the Neo only offered in two configurations — $600 or $700 — and the M5 Air now starting at $1,100, Apple has no MacBooks in the range between $700 and $1,100.</p></li>
-<li><p>To consider the spread of Apple’s market segmentation, and how the Neo expands it, think about the fact that on the premium side, <a href="https://www.apple.com/shop/product/mwr53ll/a/magic-keyboard-for-ipad-pro-13%E2%80%91inch-m5-us-english-black">the 13-inch iPad Pro Magic Keyboard costs $350</a>. That’s a keyboard with a trackpad and a hinge. You can now buy a whole damn 13-inch MacBook Neo — which includes a keyboard, trackpad, and hinge, along with a display and speakers and a whole Macintosh computer — for just $250 more.</p></li>
-</ul>
-
-<div class="footnotes">
-<hr />
-<ol>
-<li id="fn1-2026-03-04">
-<p>Perhaps the closest Apple had ever come to an A-series-chip product with two ports was the original iPad from 2010, which <a href="https://www.phonearena.com/news/apple-ipad-prototype-with-two-ports_id131100">in late prototypes had two 30-pin connectors</a> — one on the long side and another on the short side — so that you could orient it either way in <a href="https://tow.com/2020/04/26/ipad-keyboards/">the original iPad keyboard dock</a>.&nbsp;<a href="#fnr1-2026-03-04"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
-</li>
-</ol>
-</div>
-
-
-
-    ]]></content>
-  <title>★ Thoughts and Observations on the MacBook Neo</title></entry></feed><!-- THE END -->
+  </entry></feed><!-- THE END -->
