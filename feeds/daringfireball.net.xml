@@ -7,7 +7,41 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-18T21:29:03Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-18T21:57:14Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>The Talk Show: ‘The Pogue Feature’</title>
+	<link rel="alternate" type="text/html" href="https://daringfireball.net/thetalkshow/2026/03/18/ep-443" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x02" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/18/the-talk-show-443" />
+	<id>tag:daringfireball.net,2026:/linked//6.42770</id>
+	<published>2026-03-18T21:57:13Z</published>
+	<updated>2026-03-18T21:57:14Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Special guest David Pogue discusses his excellent and amazingly comprehensive new book, <em>Apple: The First 50 Years</em>.</p>
+
+<p><audio
+    src = "https://traffic.libsyn.com/secure/daringfireball/thetalkshow-443-david-pogue.mp3"
+    controls
+    preload = "none"
+/></p>
+
+<p><strong>Sponsored by:</strong></p>
+
+<ul>
+<li><a href="https://notion.com/talkshow">Notion</a>: The AI workspace where teams and AI agents get more done together.</li>
+<li><a href="https://squarespace.com/talkshow">Squarespace</a>: Save 10% off your first purchase of a website or domain using code <strong>talkshow</strong>.</li>
+<li><a href="https://factormeals.com/talkshow50off">Factor</a>: Healthy eating, made easy. Get 50% off your first box, plus free breakfast for 1 year, with code <strong>talkshow50off</strong>.</li>
+</ul>
+
+<div>
+<a  title="Permanent link to ‘The Talk Show: ‘The Pogue Feature’’"  href="https://daringfireball.net/linked/2026/03/18/the-talk-show-443">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>How to Identify Your Apple Keyboard Layout by Country or Region</title>
 	<link rel="alternate" type="text/html" href="https://support.apple.com/en-us/102743" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x01" />
@@ -1869,40 +1903,6 @@ project</a>.</p>
 
 <div>
 <a  title="Permanent link to ‘Can Coding Agents Relicense Open Source Through a ‘Clean Room’ Implementation of Code?’"  href="https://daringfireball.net/linked/2026/03/08/willison-chardet-licensing-dispute">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Donald Knuth on Claude Opus Solving a Computer Science Problem</title>
-	<link rel="alternate" type="text/html" href="https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wyr" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/08/knuth-claude" />
-	<id>tag:daringfireball.net,2026:/linked//6.42723</id>
-	<published>2026-03-08T17:49:08Z</published>
-	<updated>2026-03-08T17:49:08Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Donald Knuth, who, adorably, effectively blogs by posting TeX-typeset PDFs:</p>
-
-<blockquote>
-  <p>Shock! Shock! I learned yesterday that an open problem I’d been
-working on for several weeks had just been solved by Claude Opus
-4.6 — Anthropic’s hybrid reasoning model that had been released
-three weeks earlier! It seems that I’ll have to revise my opinions
-about “generative AI” one of these days. What a joy it is to learn
-not only that my conjecture has a nice solution but also to
-celebrate this dramatic advance in automatic deduction and
-creative problem solving. I’ll try to tell the story briefly in
-this note.</p>
-</blockquote>
-
-<p>(<a href="https://simonwillison.net/2026/Mar/3/donald-knuth/">Via Simon Willison</a>.)</p>
-
-<div>
-<a  title="Permanent link to ‘Donald Knuth on Claude Opus Solving a Computer Science Problem’"  href="https://daringfireball.net/linked/2026/03/08/knuth-claude">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
