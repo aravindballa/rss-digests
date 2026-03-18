@@ -7,7 +7,49 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-18T03:15:55Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-18T18:30:16Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>David Zaslav Set to Receive Up to $887 Million if Paramount Acquisition of Warner Bros Closes</title>
+	<link rel="alternate" type="text/html" href="https://finance.yahoo.com/news/warner-bros-discovery-ceo-david-zaslav-set-to-receive-up-to-887-million-if-paramount-deal-closes-144501826.html" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/wzy" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/18/zaslav-887-million" />
+	<id>tag:daringfireball.net,2026:/linked//6.42766</id>
+	<published>2026-03-18T18:30:16Z</published>
+	<updated>2026-03-18T18:30:16Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jake Conley, reporting for Yahoo Finance:</p>
+
+<blockquote>
+  <p>If the deal closes, Zaslav will receive $517.2 million in equity
+that would trigger if and when the sale goes through, along with
+roughly $34.2 million in cash and $44.2 million in benefits tied
+to the value of health coverage reimbursement. The Warner Bros.
+CEO will also get roughly $335.4 million in tax reimbursements. **</p>
+
+<p>Just before the end of February, Warner Bros. <a href="https://www.reuters.com/legal/litigation/warner-bros-signs-110-billion-deal-with-paramount-ends-bidding-war-with-netflix-2026-02-27/">agreed to a full
+acquisition</a> by Paramount Skydance at $31 per share in a deal
+valued at about $110 billion.</p>
+</blockquote>
+
+<p>“Hayden”, on Twitter/X:</p>
+
+<blockquote>
+  <p>The man redesigned the HBO logo five times, the company lost 50%
+of its value, and he made $887 million. We might be looking at the
+greatest businessman to ever exist.</p>
+</blockquote>
+
+<p>The greatest <em>something</em>, for sure. I wouldn’t use the word “businessman”.</p>
+
+<div>
+<a  title="Permanent link to ‘David Zaslav Set to Receive Up to $887 Million if Paramount Acquisition of Warner Bros Closes’"  href="https://daringfireball.net/linked/2026/03/18/zaslav-887-million">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/03/squashing" />
 	<link rel="shorturl" href="http://df4.us/wzx" />
@@ -1858,53 +1900,6 @@ this note.</p>
 
 <div>
 <a  title="Permanent link to ‘Daring Fireball Weekly Sponsorship Openings’"  href="https://daringfireball.net/linked/2026/03/06/daring-fireball-weekly-sponsorship-openings">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Google’s Threat Intelligence Group on Coruna, a Powerful iOS Exploit Kit of Mysterious Origin</title>
-	<link rel="alternate" type="text/html" href="https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wyn" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/06/google-threat-intelligence-group-coruna" />
-	<id>tag:daringfireball.net,2026:/linked//6.42719</id>
-	<published>2026-03-06T19:32:47Z</published>
-	<updated>2026-03-07T18:32:51Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Google Threat Intelligence Group, earlier this week:</p>
-
-<blockquote>
-  <p>Google Threat Intelligence Group (GTIG) has identified a new and
-powerful exploit kit targeting Apple iPhone models running iOS
-version 13.0 (released in September 2019) up to version 17.2.1
-(released in December 2023). The exploit kit, named “Coruna” by
-its developers, contained five full iOS exploit chains and a total
-of 23 exploits. The core technical value of this exploit kit lies
-in its comprehensive collection of iOS exploits, with the most
-advanced ones using non-public exploitation techniques and
-mitigation bypasses.</p>
-
-<p>The Coruna exploit kit provides <a href="https://blog.google/threat-analysis-group/state-backed-attackers-and-commercial-surveillance-vendors-repeatedly-use-the-same-exploits/">another example of how
-sophisticated capabilities proliferate</a>. Over the course of
-2025, GTIG tracked its use in highly targeted operations initially
-conducted by a customer of a <a href="https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/Buying_Spying_-_Insights_into_Commercial_Surveillance_Vendors_-_TAG_report.pdf">surveillance vendor</a>, then
-observed its deployment in watering hole attacks targeting
-Ukrainian users by UNC6353, a suspected Russian espionage group.
-We then retrieved the complete exploit kit when it was later used
-in broad-scale campaigns by UNC6691, a financially motivated
-threat actor operating from China. How this proliferation occurred
-is unclear, but suggests an active market for “second hand”
-zero-day exploits. Beyond these identified exploits, multiple
-threat actors have now acquired advanced exploitation techniques
-that can be re-used and modified with newly identified
-vulnerabilities.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘Google’s Threat Intelligence Group on Coruna, a Powerful iOS Exploit Kit of Mysterious Origin’"  href="https://daringfireball.net/linked/2026/03/06/google-threat-intelligence-group-coruna">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
