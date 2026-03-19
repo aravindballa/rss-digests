@@ -7,7 +7,31 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-19T16:50:56Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-19T17:33:01Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Hacker News Discussion on Shubham Bose’s ‘The 49MB Web Page’</title>
+	<link rel="alternate" type="text/html" href="https://news.ycombinator.com/item?id=47390945" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x06" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/19/hacker-news-49mb-web-page" />
+	<id>tag:daringfireball.net,2026:/linked//6.42774</id>
+	<published>2026-03-19T17:31:15Z</published>
+	<updated>2026-03-19T17:33:01Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>One of the most controversial opinions I’ve <a href="https://daringfireball.net/linked/2025/01/18/google-search-javascript">long espoused</a>, and believe today more than ever, is that it was a terrible mistake for web browsers to support JavaScript. Not that they should have picked a different language, but that they supported scripting at all. That decision turned web pages — which were <a href="https://home.cern/science/computing/birth-web/short-history-web">originally intended as documents</a> — into embedded computer programs.</p>
+
+<p>There would be no 49 MB web pages without scripting. There would be no surveillance tracking industrial complex. The text on a page is visible. The images and video embedded on a page are visible. You see them. JavaScript is invisible. That makes it seem OK to do things that are not OK at all.</p>
+
+<p>In my piece riffing on Bose’s “The 49MB Web Page” yesterday, I reiterated my also-longstanding argument that publications with print editions do things with their website that they’d never in a million years do with their print editions. The way The New York Times uses JavaScript to present popovers that obstruct reading the actual article text would be the equivalent of them gluing pages together in the print edition, using tape labeled with an advertisement. They wouldn’t do that. But they do the equivalent, using JavaScript, on every page of their website.</p>
+
+<div>
+<a  title="Permanent link to ‘Hacker News Discussion on Shubham Bose’s ‘The 49MB Web Page’’"  href="https://daringfireball.net/linked/2026/03/19/hacker-news-49mb-web-page">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/03/applescript_save_marsedit_document_to_text_file" />
 	<link rel="shorturl" href="http://df4.us/x05" />
@@ -1827,51 +1851,6 @@ that can record”, an employee says.</p>
 
 <div>
 <a  title="Permanent link to ‘Low-Wage Contractors in Kenya See What Users See While Using Meta’s AI Smart Glasses’"  href="https://daringfireball.net/linked/2026/03/09/kenya-meta-contractors">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Can Coding Agents Relicense Open Source Through a ‘Clean Room’ Implementation of Code?</title>
-	<link rel="alternate" type="text/html" href="https://simonwillison.net/2026/Mar/5/chardet/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wys" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/08/willison-chardet-licensing-dispute" />
-	<id>tag:daringfireball.net,2026:/linked//6.42724</id>
-	<published>2026-03-08T17:59:09Z</published>
-	<updated>2026-03-08T17:59:10Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Simon Willison:</p>
-
-<blockquote>
-  <p>There are a <em>lot</em> of open questions about this, both ethically and
-legally. These appear to be coming to a head in the venerable
-<a href="https://github.com/chardet/chardet">chardet</a> Python library. <code>chardet</code> was created by Mark
-Pilgrim <a href="https://pypi.org/project/chardet/1.0/">back in 2006</a> and released under the LGPL. Mark
-retired from public internet life in 2011 and <code>chardet</code>’s
-maintenance was taken over by others, most notably Dan Blanchard
-who has been responsible for every release since <a href="https://pypi.org/project/chardet/1.1/">1.1 in July
-2012</a>.</p>
-
-<p>Two days ago Dan released <a href="https://github.com/chardet/chardet/releases/tag/7.0.0">chardet 7.0.0</a> with the following
-note in the release notes:</p>
-
-<blockquote>
-  <p>Ground-up, MIT-licensed rewrite of chardet. Same package name,
-same public API — drop-in replacement for chardet 5.x/6.x. Just
-way faster and more accurate!</p>
-</blockquote>
-
-<p>Yesterday Mark Pilgrim opened <a href="https://github.com/chardet/chardet/issues/327">#327: No right to relicense this
-project</a>.</p>
-</blockquote>
-
-<p>A fascinating dispute, and the first public post from Pilgrim that I’ve seen <a href="https://daringfireball.net/search/mark+pilgrim">in quite a while</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Can Coding Agents Relicense Open Source Through a ‘Clean Room’ Implementation of Code?’"  href="https://daringfireball.net/linked/2026/03/08/willison-chardet-licensing-dispute">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
