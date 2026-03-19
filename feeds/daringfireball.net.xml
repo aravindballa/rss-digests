@@ -7,7 +7,81 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-19T20:27:50Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-19T21:10:16Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>StopTheMadness Pro and StopTheScript Extensions for Safari</title>
+	<link rel="alternate" type="text/html" href="https://mastodon.social/@lapcatsoftware/116252960395480568" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x0b" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/19/stopthemadness-and-stopthescript" />
+	<id>tag:daringfireball.net,2026:/linked//6.42779</id>
+	<published>2026-03-19T21:09:32Z</published>
+	<updated>2026-03-19T21:09:32Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jeff Johnson, linking to my “<a href="https://daringfireball.net/2026/03/your_frustration_is_the_product">Your Frustration Is the Product</a>” piece:</p>
+
+<blockquote>
+  <p>My browser extension <a href="https://underpassapp.com/StopTheMadness/">StopTheMadness Pro</a> stops autoplaying videos
+and hides Sign in with Google on all sites. It also hides sticky
+videos and notification requests on many sites.</p>
+
+<p>For more extreme measures, try my Safari extension <a href="https://underpassapp.com/StopTheScript/">StopTheScript</a>.
+It kills JavaScript dead on websites you select. For example, from
+the blog post, it makes The Guardian readable.</p>
+</blockquote>
+
+<p>These are both great extensions, and I have both installed for use in Safari on all my devices. StopTheScript is a bit peculiar, by nature of how it does what it does, but Johnson has <a href="https://underpassapp.com/StopTheScript/tutorial.html">a great illustrated tutorial</a> for it and a good blog post <a href="https://underpassapp.com/news/2023-10-9.html">explaining which sites he uses it on and why</a>.</p>
+
+<p>Over on the Chrome/Chromium side, there’s a very slick extension called <a href="https://chromewebstore.google.com/detail/quick-javascript-switcher/geddoclleiomckbhadiaipdggiiccfje">Quick JavaScript Switcher</a>. It’s free, but the developer (Maxime Le Breton) asks for a 5€ donation. QJS adds a simple JS on/off switch to the toolbar.</p>
+
+<p>A lot of stuff doesn’t load when you just completely disable JavaScript for a site. You might be surprise just how much of that stuff is shit you don’t want or won’t miss.</p>
+
+<p>Or, you can go the other way, give in, stop fighting the man, <a href="https://x.com/lochan_twt/status/2030222105867174331">and install OnlyAds</a> — an extension that hides everything on a website <em>except</em> the ads.</p>
+
+<div>
+<a  title="Permanent link to ‘StopTheMadness Pro and StopTheScript Extensions for Safari’"  href="https://daringfireball.net/linked/2026/03/19/stopthemadness-and-stopthescript">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’</title>
+	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html?unlocked_article_code=1.UVA.zau0.UZ5WnBjtPHot" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x0a" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/19/trump-jokes-about-pearl-harbor" />
+	<id>tag:daringfireball.net,2026:/linked//6.42778</id>
+	<published>2026-03-19T21:01:52Z</published>
+	<updated>2026-03-19T21:01:52Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Javier C. Hernández, reporting for The New York Times:</p>
+
+<blockquote>
+  <p>He was responding to a question about why Japan and other
+allies had received no advance notice of the U.S.-Israeli
+assault on Iran.</p>
+
+<p>“We didn’t tell anybody about it because we wanted surprise,” he
+said. “Who knows better about surprise than Japan, OK? Why didn’t
+you tell me about Pearl Harbor, OK? Right?”</p>
+
+<p>There was some laughter from the officials and journalists
+gathered in the room. “You believe in surprise, I think, much more
+so than us,” he added.</p>
+</blockquote>
+
+<p>As Trump sinks further into dementia and his presidency slides further into disarray, his administration, in a sick way, gets funnier and funnier.</p>
+
+<div>
+<a  title="Permanent link to ‘Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’’"  href="https://daringfireball.net/linked/2026/03/19/trump-jokes-about-pearl-harbor">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘Everyone but Trump Understands What He’s Done’</title>
 	<link rel="alternate" type="text/html" href="https://www.theatlantic.com/ideas/2026/03/trump-iran-war-allies/686423/?gift=aQyUJR7AIw1mJWdQ6Ed6yGfvOucd9Oa8W54yMDTtr2I" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x09" />
@@ -101,7 +175,7 @@ typefaces.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/19/google-android-sideloading-restrictions" />
 	<id>tag:daringfireball.net,2026:/linked//6.42775</id>
 	<published>2026-03-19T19:03:22Z</published>
-	<updated>2026-03-19T20:14:36Z</updated>
+	<updated>2026-03-19T21:10:16Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -1689,74 +1763,6 @@ action of the command, you can identify the key by that character.</p>
 
     ]]></content>
   <title>★ Modifier Key Order for Keyboard Shortcuts</title></entry><entry>
-	<title>Apple Has Changed Several Key Cap Labels From Words to Glyphs on Its Latest U.S. MacBook Keyboards</title>
-	<link rel="alternate" type="text/html" href="https://x.com/ClassicII_MrMac/status/2028869838870069447" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wyz" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/11/macbook-keyboards-words-to-glyphs" />
-	<id>tag:daringfireball.net,2026:/linked//6.42731</id>
-	<published>2026-03-11T23:06:05Z</published>
-	<updated>2026-03-12T16:56:04Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>“Mr. Macintosh”, on Twitter/X last week:</p>
-
-<blockquote>
-  <p>Small change:</p>
-
-<p>Looks like Apple updated the keyboard on the new M5 16‑inch
-MacBook Pro. The Backspace, Return, Shift, and Tab labels are
-gone, replaced with symbols instead.</p>
-</blockquote>
-
-<p>All the new MacBook keyboards sport this same change, including the M5 Air and A18 Pro MacBook Neo. I’m not a fan. I like the words on those keys. But I’m willing to admit it might just be that I’ve been using Apple keyboards <a href="https://en.wikipedia.org/wiki/Apple_IIe">with words</a> on <a href="https://en.wikipedia.org/wiki/Apple_IIc">those keys</a> since I was like 10 years old. iOS 26 switched from the word “return” to the “⏎” glyph on the software keyboard (and removed the word “space” from the spacebar — which, in hindsight, seemed needless to label).</p>
-
-<p>The Escape key is still labelled “esc”, and the modifier keys (Fn, Control, Option, and Command) still show the names underneath or next to the glyphs. I suspect this is because documentation — <a href="https://support.apple.com/en-us/102650">including Apple’s own</a> — often uses names for these keys (Option-Shift-Command-K), not the glyphs (⌥⇧⌘K). It’s only in the last few years that Apple began including the glyphs for Control (⌃) and Option (⌥) — until recently, those keys were labelled only by name. They added the ⌃ and ⌥ glyphs between <a href="https://support.apple.com/en-us/111951">2017</a> and <a href="https://support.apple.com/en-us/111932">2018</a>. And until that change in 2018, Apple added the label “alt” to the Option key — a visual turd so longstanding that it dates back even to <a href="https://www.flickr.com/photos/gruber/albums/72157604797968156/">my own beloved keyboard</a>.</p>
-
-<p>Outside the U.S., Apple has been using glyphs for these key caps for a long time. The change from words to glyphs is new only here.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Has Changed Several Key Cap Labels From Words to Glyphs on Its Latest U.S. MacBook Keyboards’"  href="https://daringfireball.net/linked/2026/03/11/macbook-keyboards-words-to-glyphs">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Halide Cofounder Sebastiaan de With Joined Apple’s Design Team in January</title>
-	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/01/28/halide-cofounder-sebastiaan-de-with-joins-apples-design-team/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wz0" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/11/de-with-apple-design-team" />
-	<id>tag:daringfireball.net,2026:/linked//6.42732</id>
-	<published>2026-03-11T23:00:00Z</published>
-	<updated>2026-03-12T16:11:39Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Chance Miller, reporting for 9to5Mac back on January 28:</p>
-
-<blockquote>
-  <p><a href="https://halide.cam/">Halide</a> and <a href="https://www.lux.camera/">Lux</a> co-founder and designer Sebastiaan
-de With <a href="https://www.threads.com/@sdw/post/DUEeAwFksRt">announced</a> today that he is joining Apple’s human
-interface design team. This marks a return to Apple for de With,
-who previously worked as a freelancer for the company on projects
-including Find My, MobileMe, and iCloud.</p>
-</blockquote>
-
-<p>The last time I mentioned De With here on Daring Fireball was back in June, on the cusp of WWDC, <a href="https://daringfireball.net/linked/2025/06/03/sdw-physicality-new-age">when I linked to</a> his resplendently illustrated essay, “<a href="https://www.lux.camera/physicality-the-new-age-of-ui/">Physicality: The New Age of UI</a>”, wherein he speculated on where Apple might be going. It’s very much worth your time to revisit De With’s essay now, knowing that he’s joined Apple’s design team. My own comments on his essay hold up well too — especially my concern that a look-and-feel centered on transparency doesn’t seem a good fit for MacOS, where windows stack atop each other.</p>
-
-<p>When De With published his essay, it was as an idea for where Apple might go. Now that we’ve seen and been living with Liquid Glass, his essay works even better as a roadmap for the direction Liquid Glass should head.</p>
-
-<p>Also worth pointing out that despite De With’s departure for Apple, Lux is going strong. Developer Ben Sandofsky recently released <a href="https://www.lux.camera/mark-iii-looks/">a preview of the upcoming Mark III version of Halide</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Halide Cofounder Sebastiaan de With Joined Apple’s Design Team in January’"  href="https://daringfireball.net/linked/2026/03/11/de-with-apple-design-team">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/03/the_macbook_neo" />
 	<link rel="shorturl" href="http://df4.us/wyx" />
