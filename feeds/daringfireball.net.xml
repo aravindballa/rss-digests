@@ -7,14 +7,43 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-20T19:24:32Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-20T20:49:08Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Perhaps Bluesky’s Revelation of an 11-Month Ago $100 Million Investment Was, in Fact, an Act of Transparency</title>
+	<link rel="alternate" type="text/html" href="https://bsky.app/profile/flooey.org/post/3mhiznh4d7c2j" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x0e" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/20/bluesky-funding-transparency" />
+	<id>tag:daringfireball.net,2026:/linked//6.42782</id>
+	<published>2026-03-20T20:49:07Z</published>
+	<updated>2026-03-20T20:49:08Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Regarding <a href="https://daringfireball.net/linked/2026/03/20/bluesky-100m">my earlier post expressing confusion/discomfort with Bluesky</a> announcing a $100 million funding round almost an entire year after it closed, I had an interesting back-and-forth with Adam Vartanian on Bluesky (natch), <a href="https://bsky.app/profile/flooey.org/post/3mhjb73bz7c2g">where he wrote</a>:</p>
+
+<blockquote>
+  <p>If you see press reports that says a company “has raised” some
+money but no date on when the round closed, it probably happened
+some time in the past. Bluesky is actually unusual in disclosing a
+date that’s so far in the past.</p>
+</blockquote>
+
+<p>I kept thinking that I must be missing something in this story, and this feels like it must be exactly that something. If true, it’s not unusual these days for a company to announce a seeding round long after it actually closed. What’s unusual in this case with Bluesky is that when they finally did announce it, they revealed the long-ago date it closed, too. That it was, in fact, an act of transparency, at least in comparison to many other venture-backed companies today.</p>
+
+<div>
+<a  title="Permanent link to ‘Perhaps Bluesky’s Revelation of an 11-Month Ago $100 Million Investment Was, in Fact, an Act of Transparency’"  href="https://daringfireball.net/linked/2026/03/20/bluesky-funding-transparency">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now</title>
 	<link rel="alternate" type="text/html" href="https://bsky.social/about/blog/03-19-2026-series-b" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x0d" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/20/bluesky-100m" />
 	<id>tag:daringfireball.net,2026:/linked//6.42781</id>
 	<published>2026-03-20T16:46:01Z</published>
-	<updated>2026-03-20T19:24:32Z</updated>
+	<updated>2026-03-20T20:40:21Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -41,6 +70,17 @@ building the future of open social infrastructure.</p>
 <p>But what the hell are we to make of a $100 million funding round that wasn’t announced for 11 months? Is this commonplace, and I just somehow never before took note of a company keeping a large funding round secret for a year? Or is this as weird as I’m thinking it is? I always thought big funding rounds were things companies wanted to immediately promote, not hide. <a href="https://www.techmeme.com/260319/p45#a260319p45">This roundup of links at Techmeme</a> suggests I’m not alone.</p>
 
 <p><strong>Update, 2 hours later:</strong> The explanation I’ve now heard, from a source in a good position to have an informed take, is that it <em>is</em> unusual. But basically it’s a unique series of events, at a unique time (post–2024 election, when Bluesky experienced a nice surge), for a unique company. So: weird, yes. Cause for alarm, probably not.</p>
+
+<p><strong>Second update:</strong> Interesting thread with Adam Vartanian, on Bluesky (natch), <a href="https://bsky.app/profile/flooey.org/post/3mhjb73bz7c2g">where he states</a>:</p>
+
+<blockquote>
+  <p>If you see press reports that says a company “has raised” some
+money but no date on when the round closed, it probably happened
+some time in the past. Bluesky is actually unusual in disclosing a
+date that’s so far in the past.</p>
+</blockquote>
+
+<p>I kept thinking that I must be missing something, and this feels like it must be exactly that something. If true, it’s not unusual for a company to announce a seeding round long after it closed. What’s unusual in this case with Bluesky is that when they finally did announce it, they revealed the date it closed, too. That it was, in fact, an act of transparency, at least in comparison to many other venture-backed companies today.</p>
 
 <div>
 <a  title="Permanent link to ‘Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now’"  href="https://daringfireball.net/linked/2026/03/20/bluesky-100m">&nbsp;★&nbsp;</a>
@@ -1684,38 +1724,6 @@ like that. It’s just super straightforward, elegant design.</p>
 
 <div>
 <a  title="Permanent link to ‘Tech Re-Nu’s MacBook Neo Teardown’"  href="https://daringfireball.net/linked/2026/03/12/macbook-neo-teardown">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Software Proprioception</title>
-	<link rel="alternate" type="text/html" href="https://unsung.aresluna.org/software-proprioception/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wz4" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/12/software-proprioception" />
-	<id>tag:daringfireball.net,2026:/linked//6.42736</id>
-	<published>2026-03-12T15:32:04Z</published>
-	<updated>2026-03-12T16:10:51Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Marcin Wichary:</p>
-
-<blockquote>
-  <p>There are fun things you can do in software when it is aware of
-the dimensions and features of its hardware. [...]</p>
-
-<p>The rule here would be, perhaps, a version of “show, don’t tell.”
-We could call it “point to, don’t describe.” (Describing what to
-do means cognitive effort to read the words and understand them.
-An arrow pointing to something should be easier to process.)</p>
-</blockquote>
-
-<p>I just learned the word <em>proprioception</em> a few weeks ago, in the context of how you can close your eyes and put your fingertip on the tip of your nose. Perfect word for this sort of hardware/software integration too.</p>
-
-<div>
-<a  title="Permanent link to ‘Software Proprioception’"  href="https://daringfireball.net/linked/2026/03/12/software-proprioception">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
