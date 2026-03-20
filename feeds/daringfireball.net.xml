@@ -7,7 +7,43 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-20T02:25:25Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-20T15:38:28Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Quiche Browser</title>
+	<link rel="alternate" type="text/html" href="https://quiche.industries/browser/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x0c" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/20/quiche-browser" />
+	<id>tag:daringfireball.net,2026:/linked//6.42780</id>
+	<published>2026-03-20T15:38:27Z</published>
+	<updated>2026-03-20T15:38:28Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Quiche Browser is a rather astonishing app from the one-man indie developer <a href="https://nckh.com/">Greg de J.</a>/<a href="https://quiche.industries/">Quiche Industries</a>. (What a killer domain name that is.) Quiche Browser is a very robust, exquisitely designed, stunningly handsome web browser exclusively for iPhone. Just iPhone — although an iPad version is currently in beta. I switched to it as my default iPhone web browser last summer, thinking I’d only stick with it for a day or two before going back to Safari, and I wound up sticking with it for a few weeks. I did go back to Safari, but it was a remarkably close call. So close that, today, I’m going to give it another try. (And I was so enamored during my month-long affair with Quiche that I gladly subscribed to Quiche Plus for $27/year to support such a remarkable app.)</p>
+
+<p>Out of the box, every single aspect of Quiche Browser’s UI and feature set is designed with obvious thought and care. But it <em>also</em> supports a rich array of settings to tweak the design. You can customize the appearance style of the toolbar, the location of the toolbar, the buttons on the toolbar. Quiche brings to iOS something very much akin to AppKit’s Customize Toolbar from the Mac, but if anything, what Quiche implements is <em>more</em> customizable. The typography throughout the app is exquisite.</p>
+
+<p>What got me thinking about Quiche Browser again today was <a href="https://mastodon.social/@quicheindustries/116258944005087995">this tweet on Mastodon from the developer</a>:</p>
+
+<blockquote>
+  <p>One of the many reasons I made Quiche Browser was to get a
+per-website JavaScript kill switch in my toolbar.</p>
+
+<p>But these days I’m even tempted to disable JavaScript everywhere
+and enable it only where needed.</p>
+</blockquote>
+
+<p>A simple one-tap “JS” button you can toggle on any website. I missed this button when I was test-driving Quiche a few months ago. Every browser should have this button. It’s almost unbelievable how much it improves so many websites.</p>
+
+<p>That “JS” button alone isn’t why you should check out Quiche. It’s the whole thing. It’s just so thoughtful. So utterly modern in its appearance and features, but old-school in its hyperfocus on serving you, the user.</p>
+
+<div>
+<a  title="Permanent link to ‘Quiche Browser’"  href="https://daringfireball.net/linked/2026/03/20/quiche-browser">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>StopTheMadness Pro and StopTheScript Extensions for Safari</title>
 	<link rel="alternate" type="text/html" href="https://mastodon.social/@lapcatsoftware/116252960395480568" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x0b" />
@@ -1667,37 +1703,6 @@ contributors.</p>
 
 <div>
 <a  title="Permanent link to ‘Jason Snell Is on Jeopardy Next Week’"  href="https://daringfireball.net/linked/2026/03/11/snell-on-jeopardy">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Another One From the Archive: ‘Web Kit’ vs. ‘WebKit’</title>
-	<link rel="alternate" type="text/html" href="https://daringfireball.net/2006/05/web_kit_vs_webkit" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wz2" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/11/web-kit-v-webkit" />
-	<id>tag:daringfireball.net,2026:/linked//6.42734</id>
-	<published>2026-03-12T00:26:22Z</published>
-	<updated>2026-03-12T00:26:23Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>When I re-read my 2006 piece “<a href="https://daringfireball.net/2006/06/and_oranges">And Oranges</a>” today before <a href="https://daringfireball.net/linked/2026/03/11/df-archive-and-oranges">linking to it</a>, I paused when I read this:</p>
-
-<blockquote>
-  <p>And while it is easy to find ways to complain that Apple is not
-open enough — under-documented and undocumented security updates
-and system revisions, under-documented and undocumented file
-formats — it would be hard to argue with the premise that Apple
-today is more open than it has ever been before. (Exhibit A: the
-<a href="https://web.archive.org/web/20060701120623/http://webkit.opendarwin.org/">Web Kit project</a>.)</p>
-</blockquote>
-
-<p>It’s not often I get to fix 20-year-old typos, and to my 2026 self, “Web Kit” looks like an obvious typo. But after a moment, I remembered: <a href="https://daringfireball.net/2006/05/web_kit_vs_webkit">in 2006, that wasn’t a typo</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Another One From the Archive: ‘Web Kit’ vs. ‘WebKit’’"  href="https://daringfireball.net/linked/2026/03/11/web-kit-v-webkit">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
