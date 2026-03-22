@@ -7,14 +7,14 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-22T17:08:13Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-22T17:38:06Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>Mux — Video API for Developers</title>
 	<link rel="alternate" type="text/html" href="https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x0h" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/22/mux" />
 	<id>tag:daringfireball.net,2026:/linked//6.42785</id>
-	<published>2026-03-22T17:08:00Z</published>
-	<updated>2026-03-22T17:08:13Z</updated>
+	<published>2026-03-22T17:35:00Z</published>
+	<updated>2026-03-22T17:35:46Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -28,6 +28,32 @@
 
 <div>
 <a  title="Permanent link to ‘Mux — Video API for Developers’"  href="https://daringfireball.net/linked/2026/03/22/mux">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>‘Good, I’m Glad He’s Dead.’</title>
+	<link rel="alternate" type="text/html" href="https://truthsocial.com/@realDonaldTrump/116268334535345382" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x0j" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/22/trump-glad" />
+	<id>tag:daringfireball.net,2026:/linked//6.42787</id>
+	<published>2026-03-22T17:18:10Z</published>
+	<updated>2026-03-22T17:38:06Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>The sitting president of the United States, on his blog:</p>
+
+<blockquote>
+  <p>Robert Mueller just died. Good, I’m glad he’s dead. He can no longer hurt innocent people! President DONALD J. TRUMP</p>
+</blockquote>
+
+<p>As the elderly descend further into dementia, they lose their sense of propriety and simply speak their mind. (They also get confused and think they need to “sign” their text messages and social media posts.) Say what you want about Trump’s truthfulness generally, but here, he’s just being brutally honest. Let’s keep his “Good, I’m glad he’s dead” post bookmarked for when Trump himself finally keels over — after he chokes on a hamburger or whatever it’ll be that finally does him in — and the good people of the world rejoice and celebrate.</p>
+
+<div>
+<a  title="Permanent link to ‘‘Good, I’m Glad He’s Dead.’’"  href="https://daringfireball.net/linked/2026/03/22/trump-glad">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
@@ -1683,49 +1709,6 @@ feels like bushwhacking with a lightsaber.</p>
 
 <div>
 <a  title="Permanent link to ‘‘Software Bonkers’’"  href="https://daringfireball.net/linked/2026/03/13/software-bonkers">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘Grief and the AI Split’</title>
-	<link rel="alternate" type="text/html" href="https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wz9" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/13/grief-and-the-ai-split" />
-	<id>tag:daringfireball.net,2026:/linked//6.42741</id>
-	<published>2026-03-13T14:21:54Z</published>
-	<updated>2026-03-13T14:41:29Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Les Orchard:</p>
-
-<blockquote>
-  <p>I started programming in 1982. Every language I’ve learned since
-then has been a means to an end — a new way to make computers do
-things I wanted them to do. AI-assisted coding feels like the
-latest in that progression. Not a rupture, just another rung on
-the ladder.</p>
-
-<p>But I’m trying to hold that lightly. Because the ladder itself is
-changing, the building it’s leaning against is changing, and I’d
-be lying if I said I knew exactly where it’s going.</p>
-
-<p>What I do know is this: I still get the same hit of satisfaction
-when something I thought up and built actually works. The code got
-there differently than it used to, but the moment it runs and does
-the thing? That hasn’t changed in my over 40 years at it.</p>
-</blockquote>
-
-<p>I’ve been thinking about a different divide than the one Orchard writes about here. (The obvious truth is that the AI code generation revolution is creating multiple divisions, along multiple axes.)</p>
-
-<p>The divide I’m seeing is that the developers who are craftspeople are elated because their productivity is skyrocketing while their craftsmanship remains unchanged — or perhaps even improved. They’re achieving much more, much faster, than ever before. It’s a step change as great, or greater than, the transition from assembly code to higher-level programming languages. The developers who are hacks are elated because it’s like they’ve been provided an autopilot switch for a task they never enjoyed or really even understood properly in the first place. The industry is riddled with hack developers, because in the last 15-20 years, as the demand for software far outstripped the supply of programmers who wanted to write code because they love writing code and creating software, the jobs have been filled by people who got into the racket simply because they were high-paying jobs in high demand. Good programmers create software for fun, outside their jobs. Hack programmers are no more likely to write software for fun than a garbage man is to collect trash on his days off.</p>
-
-<p>Orchard’s fine essay examines a philosophical divide within the ranks of talented, considerate craftsperson developers. The divide that I’m talking about has been present ever since the demand for programmers exploded, but AI code generation tooling is turning it into an expansive gulf. The best programmers are more clearly the best than ever before. The worst programmers have gone from laying a few turds a day to spewing veritable mountains of hot steaming stinky shit, while beaming with pride at their increased productivity.</p>
-
-<div>
-<a  title="Permanent link to ‘‘Grief and the AI Split’’"  href="https://daringfireball.net/linked/2026/03/13/grief-and-the-ai-split">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
