@@ -7,7 +7,31 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-22T13:46:38Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-22T16:37:55Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Mux — Video API for Developers</title>
+	<link rel="alternate" type="text/html" href="https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x0h" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/22/mux" />
+	<id>tag:daringfireball.net,2026:/linked//6.42785</id>
+	<published>2026-03-22T16:30:59Z</published>
+	<updated>2026-03-22T16:37:55Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks to Mux for sponsoring last week at DF. Video isn’t just something to watch; it’s a boatload of context and data. Mux makes it easy to ship and scale video into anything from websites to platforms to AI workflows. Unlock what’s inside: transcripts, clips, and storyboards to build summarization, translation, content moderation, tagging, and more.</p>
+
+<p>Mux stewards Video.js, the web’s most popular open source video player. Video.js v10 is a complete architectural rebuild, with the beta now available at <a href="https://videojs.org/">videojs.org</a>.</p>
+
+<p>Mux is video infrastructure trusted by Patreon, Substack, and Synthesia. Get started free, no credit card required. Use code <strong>FIREBALL</strong> for an extra $50 credit.</p>
+
+<div>
+<a  title="Permanent link to ‘Mux — Video API for Developers’"  href="https://daringfireball.net/linked/2026/03/22/mux">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Reuters: ‘Amazon Plans Smartphone Comeback More Than a Decade After Fire Phone Flop’</title>
 	<link rel="alternate" type="text/html" href="https://www.reuters.com/technology/amazon-plans-smartphone-comeback-more-than-decade-after-fire-phone-flop-2026-03-20/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x0g" />
@@ -1703,39 +1727,6 @@ colors on any Mac.</p>
 
 <div>
 <a  title="Permanent link to ‘Accents’"  href="https://daringfireball.net/linked/2026/03/12/accents">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple’s Platform Security Guide Adds a Brief Note on the MacBook Neo’s On-Screen Camera Indicator</title>
-	<link rel="alternate" type="text/html" href="https://support.apple.com/guide/security/mac-on-screen-camera-indicator-light-sec75a2d237d/1/web/1" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wz7" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/12/macbook-neo-on-screen-camera-indicator" />
-	<id>tag:daringfireball.net,2026:/linked//6.42739</id>
-	<published>2026-03-12T23:48:59Z</published>
-	<updated>2026-03-13T00:00:48Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Apple Platform Security Guide:</p>
-
-<blockquote>
-  <p>MacBook Neo combines system software and dedicated silicon
-elements within A18 Pro to provide additional security for the
-camera feed. The architecture is designed to prevent any untrusted
-software — even with root or kernel privileges in macOS — from
-engaging the camera without also visibly lighting the on-screen
-camera indicator light.</p>
-</blockquote>
-
-<p>That’s the whole note, I believe. There aren’t any technical details regarding how exactly this is achieved. Until reading this new note in the Platform Security Guide, I thought the only visible indication of camera usage was the green camera icon in the menu bar. But on the Neo, there’s also a green dot <a href="https://daringfireball.net/misc/2026/03/neo-camera-indicator-menu-bar-default.jpeg">in the upper right corner of the display</a>. That green dot is the secure camera-use indicator, and it’s visible next to the time in the menu bar, and still visible when the menu bar is hidden, like in <a href="https://daringfireball.net/misc/2026/03/neo-camera-indicator-full-screen.png">this screenshot I just took from Photo Booth in full-screen mode</a>. What Apple is stating in this note in the Platform Security Guide is that if the Neo’s camera is being used, that corner of the display is guaranteed to light up with the green dot.</p>
-
-<p>One of the reasons I failed to notice this green dot until today is that with Tahoe’s transparent menu bar and the default green-and-yellow desktop wallpaper for the citrus Neo I’m reviewing, a green dot doesn’t stand out. <a href="https://daringfireball.net/misc/2026/03/neo-camera-indicator-menu-bar-reduce-trans.jpeg">It’s much more prominent</a> if you enable “Reduce transparency” in System Settings → Accessibility → Display, which gives the menu bar a traditional solid appearance.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple’s Platform Security Guide Adds a Brief Note on the MacBook Neo’s On-Screen Camera Indicator’"  href="https://daringfireball.net/linked/2026/03/12/macbook-neo-on-screen-camera-indicator">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
