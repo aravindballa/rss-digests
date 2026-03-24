@@ -7,13 +7,13 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-24T19:36:59Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-24T19:49:34Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/03/what_to_do_about_those_menu_item_icons_in_macos_26_tahoe" />
 	<link rel="shorturl" href="http://df4.us/x0p" />
 	<id>tag:daringfireball.net,2026://1.42793</id>
 	<published>2026-03-24T19:36:58Z</published>
-	<updated>2026-03-24T19:36:59Z</updated>
+	<updated>2026-03-24T19:49:34Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -45,11 +45,13 @@ for window zoom/resize.</p>
 <p><a href="https://daringfireball.net/misc/2026/03/safari-tahoe-file-menu-before-after.png" class="noborder">
   <img
     src = "https://daringfireball.net/misc/2026/03/safari-tahoe-file-menu-before-after.png"
-    width = 500
+    width = 550
     alt = "Screenshot of Safari's File menu on MacOS 26.3 Tahoe, before and after changing the hidden `NSMenuEnableActionImages` preference. In the before screenshot, every menu item has an icon. In the after image, the only items without an icon are the Close Window, Close All Windows, Save As…, and Export as PDF… commands."
   /></a></p>
 
 <p>So, after applying a setting that should hide almost all menu item icons, 15 out 18 menu items still have icons in Safari’s File menu — with no rhyme or reason to the 3 that are omitted. Safari’s other menus are similarly noncompliant. Like I said, heartbreaking.</p>
+
+<p>(All is not lost in Safari, however — the setting does remove the icons from Safari’s contextual menu.)</p>
 
 <p>Apple’s non-AppKit (Catalyst/UIKit/SwiftUI) Mac apps are mostly lost causes on this front. Messages, Maps, and Journal keep all their icons, except for the Window menu. The iPhone Mirroring app hides the icons from its Edit and Window menus, but keeps all of them in the View menu.</p>
 
