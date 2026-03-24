@@ -7,13 +7,13 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-24T19:49:34Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-24T21:00:29Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/03/what_to_do_about_those_menu_item_icons_in_macos_26_tahoe" />
 	<link rel="shorturl" href="http://df4.us/x0p" />
 	<id>tag:daringfireball.net,2026://1.42793</id>
 	<published>2026-03-24T19:36:58Z</published>
-	<updated>2026-03-24T19:49:34Z</updated>
+	<updated>2026-03-24T21:00:29Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -61,7 +61,7 @@ for window zoom/resize.</p>
 
 <hr />
 
-<p>And but so what about third-party Mac apps? I think the best solution is for third-party apps to ignore Apple’s lead, and omit menu item icons on apps that have been updated for the new appearance on MacOS 26 Tahoe. That’s what <a href="https://indieweb.social/@brentsimmons/115846213935605782">Brent Simmons has done with NetNewsWire 7</a>, using <a href="https://github.com/Ranchero-Software/NetNewsWire/blob/main/Modules/RSCore/Sources/RSCoreObjC/NSMenuItem%2BRSCore.m">code he published as open source</a>. Rogue Amoeba Software has adopted the same technique to improve their suite of apps when running on Tahoe, <a href="https://weblog.rogueamoeba.com/2026/01/10/removing-tahoes-unwanted-menu-icons/">and published this blog post</a>, copiously illustrated with before and after screenshots, to explain their thinking.</p>
+<p>And but so what about third-party Mac apps? I think the best solution is for third-party apps to ignore Apple’s lead, and omit menu item icons on apps that have been updated for the new appearance on MacOS 26 Tahoe. That’s what <a href="https://indieweb.social/@brentsimmons/115846213935605782">Brent Simmons has done with NetNewsWire 7</a>, using <a href="https://github.com/Ranchero-Software/NetNewsWire/blob/main/Modules/RSCore/Sources/RSCoreObjC/NSMenuItem%2BRSCore.m">code he published as open source</a>. Rogue Amoeba Software has adopted the same technique to improve their suite of apps when running on Tahoe, <a href="https://weblog.rogueamoeba.com/2026/01/10/removing-tahoes-unwanted-menu-icons/">and published this blog post</a>, illustrated with before and after screenshots, to explain their thinking.</p>
 
 <p>No one is arguing that icons never improve the clarity of menu items. But for the most part, menu commands should be read. If a few special menu items are improved by including icons, include just those. They’ll stand out, further improving clarity. Part of the problem with Apple’s “almost every menu item has an icon” approach with their own apps on Mac OS 26 Tahoe is that — as copiously documented <a href="https://tonsky.me/blog/tahoe-icons/">by Nikita Prokopov</a> and <a href="https://blog.jim-nielsen.com/2025/icons-in-menus/">Jim Nielsen</a> — the overall effect is to add visual clutter, reducing clarity. But a side effect of that clutter is that it reduces the effectiveness of the menu items for which icons are actually useful (again, like Rotate commands, or the items in the Window → Move &amp; Resize submenu). If every menu item has an icon, the presence of an icon is never special. If only special menu items have icons, the presence of an icon is always special.<sup id="fnr2-2026-03-24"><a href="#fn2-2026-03-24">2</a></sup></p>
 
