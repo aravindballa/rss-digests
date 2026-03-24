@@ -7,7 +7,44 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-24T21:00:29Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-24T21:39:05Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones</title>
+	<link rel="alternate" type="text/html" href="https://news.samsung.com/us/samsung-airdrop-quick-share-galaxy-s26-series/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x0q" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/24/samsung-android-airdrop" />
+	<id>tag:daringfireball.net,2026:/linked//6.42794</id>
+	<published>2026-03-24T21:39:04Z</published>
+	<updated>2026-03-24T21:39:05Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Samsung:</p>
+
+<blockquote>
+  <p>Samsung is introducing AirDrop support to the Galaxy S26 series,
+making it easier for users to share content between devices using
+Quick Share.</p>
+
+<p>The feature will begin rolling out from March 23, starting in
+Korea and expanding to more regions including Europe, Hong Kong,
+Japan, Latin America, North America, Southeast Asia, and Taiwan.
+AirDrop support will initially be available on the Galaxy S26
+series, with expansion to additional devices to be announced at a
+later date/</p>
+</blockquote>
+
+<p>I presume, but don’t know for certain, that they’re using the same reverse-engineered implementation of AirDrop that <a href="https://blog.google/products/android/quick-share-airdrop/">Google announced for its Pixel 10 phones back in November</a>, and for which Google offered <a href="https://security.googleblog.com/2025/11/android-quick-share-support-for-airdrop-security.html">a wee bit of technical details</a> to vouch for the security of the implementation. A month ago, <a href="https://support.google.com/pixelphone/thread/409524163">Google expanded support to the Pixel 9 generation</a>.</p>
+
+<p>Apple has, to date, not commented on any of this.</p>
+
+<div>
+<a  title="Permanent link to ‘Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones’"  href="https://daringfireball.net/linked/2026/03/24/samsung-android-airdrop">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/03/what_to_do_about_those_menu_item_icons_in_macos_26_tahoe" />
 	<link rel="shorturl" href="http://df4.us/x0p" />
@@ -1683,42 +1720,6 @@ Finder Guy…</p>
 
 <div>
 <a  title="Permanent link to ‘Lil Finder Guy’"  href="https://daringfireball.net/linked/2026/03/14/lil-finder-guy">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Tim Cook: ‘50 Years of Thinking Different’</title>
-	<link rel="alternate" type="text/html" href="https://www.apple.com/50-years-of-thinking-different/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wze" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/13/cook-50-years-of-thinking-different" />
-	<id>tag:daringfireball.net,2026:/linked//6.42746</id>
-	<published>2026-03-13T23:49:17Z</published>
-	<updated>2026-03-14T17:22:48Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Tim Cook:</p>
-
-<blockquote>
-  <p>At Apple, we’re more focused on building tomorrow than remembering
-yesterday. But we couldn’t let this milestone pass without
-thanking the millions of people who make Apple what it is today — our incredible teams around the world, our developer community,
-and every customer who has joined us on this journey. Your ideas
-inspire our work. Your trust drives us to do better. Your stories
-remind us of all we can accomplish when we think different.</p>
-
-<p>If you’ve taught us anything, it’s that the people crazy enough to
-think they can change the world are the ones who do.</p>
-</blockquote>
-
-<p>This is a perfectly cromulent letter to mark a big anniversary for Apple. And it is very <em>Tim Cook</em>. It’s short, earnest, honest, to the point, and uses plain simple language. But what also makes it so Cook-ian is that it’s so utterly anodyne. It’s inoffensive to the point of being unmemorable. The best part of Cook’s letter is when he harks back and explicitly quotes from an Apple ad campaign from 30 years ago.</p>
-
-<p>Ten years from now, when Apple is celebrating its 60th anniversary, no one is going to quote from Tim Cook’s “banger of a letter” commemorating their 50th. 25 years from now, when Apple is celebrating its 75th, that future CEO won’t be quoting from any of the ad campaigns Apple ran while Cook was CEO, because there are no lines worth remembering from them.</p>
-
-<div>
-<a  title="Permanent link to ‘Tim Cook: ‘50 Years of Thinking Different’’"  href="https://daringfireball.net/linked/2026/03/13/cook-50-years-of-thinking-different">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
