@@ -7,7 +7,56 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-25T02:01:40Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-25T19:16:27Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Improved Analytics in App Store Connect</title>
+	<link rel="alternate" type="text/html" href="https://developer.apple.com/news/?id=hh6v4b55" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x0v" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/25/improved-analytics-in-app-store-connect" />
+	<id>tag:daringfireball.net,2026:/linked//6.42799</id>
+	<published>2026-03-25T19:16:27Z</published>
+	<updated>2026-03-25T19:16:27Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Apple Developer:</p>
+
+<blockquote>
+  <p>Analytics in App Store Connect receives its biggest update since
+its launch, including a refreshed user experience that makes it
+easier to measure the performance of your apps and games.</p>
+</blockquote>
+
+<p>There’s a <em>lot</em> that new, but all the data is still collected with an emphasis on user privacy. There’s an <a href="https://developer.apple.com/help/app-store-connect-analytics/">all-new support guide</a> that documents everything.</p>
+
+<p><a href="https://www.macstories.net/news/apple-overhauls-app-store-connect/">John Voorhees, writing at MacStories</a>:</p>
+
+<blockquote>
+  <p>Since the changes rolled out, a couple of concerns <a href="https://mastodon.social/@stroughtonsmith/116288825144386334">I’ve seen
+expressed online</a> are that there will no longer be a single
+place to view the aggregate performance of multiple apps and that
+the <a href="https://mastodon.social/@nicoreese/116290227210060888">new default reporting period</a> is three months. Those
+concerns are well founded. The changes are organized on an
+app-by-app basis, and as Apple says in <a href="https://appstoreconnect.apple.com/trends/insights?pageid=8">a banner on App Store
+Connect</a>, the Dashboards in the Trends section of Connect
+and related reports where that data was available are being
+deprecated later this year and next. So, while the data Apple
+offers is deep for each app, the aggregate data falls short by not
+providing a birds-eye view of a developer’s entire app catalog.</p>
+
+<p>For what it’s worth, Apple is aware of the feedback regarding
+cross-app reporting. Also, the shorter sales reporting periods,
+such as the past 24 hours and seven days, are still available, but
+they’re less visible because three months is the new default.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘Improved Analytics in App Store Connect’"  href="https://daringfireball.net/linked/2026/03/25/improved-analytics-in-app-store-connect">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Claude Can Now Take Control of Your Mac</title>
 	<link rel="alternate" type="text/html" href="https://claude.com/blog/dispatch-and-computer-use" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x0u" />
@@ -1622,57 +1671,6 @@ the plan.</p>
 
 <div>
 <a  title="Permanent link to ‘Reuters: ‘Meta Planning Sweeping Layoffs as AI Costs Mount’’"  href="https://daringfireball.net/linked/2026/03/15/reuters-meta-layoffs">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam</title>
-	<link rel="alternate" type="text/html" href="https://ma.tt/2026/03/gone-almost-phishin/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wzj" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/14/mullenweg-apple-account-phishing" />
-	<id>tag:daringfireball.net,2026:/linked//6.42751</id>
-	<published>2026-03-15T00:37:30Z</published>
-	<updated>2026-03-15T00:41:38Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Matt Mullenweg:</p>
-
-<blockquote>
-  <p>One evening last month, my Apple Watch, iPhone, and Mac all lit up
-with a message prompting me to reset my password. This came out of
-nowhere; I hadn’t done anything to elicit it. I even had <a href="https://support.apple.com/en-us/105120">Lockdown
-Mode</a> running on all my devices. It didn’t matter. Someone
-was spamming Apple’s legitimate password reset flow against my
-account — a technique <a href="https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/">Krebs documented back in 2024</a>. I
-dismissed the prompts, but the stage was set.</p>
-
-<p>What made the attack impressive was the next move: The scammers
-actually contacted Apple Support themselves, pretending to be me,
-and opened a real case claiming I’d lost my phone and needed to
-update my number. That generated a real case ID, and triggered
-real Apple emails to my inbox, <em>properly signed</em>, from Apple’s
-actual servers. These were legitimate; no filter on earth could
-have caught them.</p>
-
-<p>Then “Alexander from Apple Support” called. He was calm,
-knowledgeable, and <em>careful</em>. His first moves were solid security
-advice: check your account, verify nothing’s changed, consider
-updating your password. He was so good that I actually thanked him
-for being excellent at his job.</p>
-
-<p>That, of course, was when he moved into the next phase of
-the attack.</p>
-</blockquote>
-
-<p>What makes this attack so dastardly is that parts of it are actual emails from Apple. And because the attackers are the ones who opened the support incident, when they called Mullenweg, they knew the case ID from the legitimate emails sent by Apple.</p>
-
-<p>One of the tells that alerted Mullenweg that this was a scam was that he knew he hadn’t initiated any of it, so his guard was up from the start. Another is that the scammer texted him a link pointing to the domain “audit-apple.com” (which domain is now defunct). That domain name looks obviously fake to me. But to most people? Most people have no idea that <code>whatever-apple.com</code> is <em>totally</em> different than <code>whatever.apple.com</code>.</p>
-
-<div>
-<a  title="Permanent link to ‘Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam’"  href="https://daringfireball.net/linked/2026/03/14/mullenweg-apple-account-phishing">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
