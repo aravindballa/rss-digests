@@ -7,7 +7,120 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-25T00:40:02Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-25T01:38:42Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Claude Can Now Take Control of Your Mac</title>
+	<link rel="alternate" type="text/html" href="https://claude.com/blog/dispatch-and-computer-use" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x0u" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/24/claude-control-mac" />
+	<id>tag:daringfireball.net,2026:/linked//6.42798</id>
+	<published>2026-03-25T01:09:10Z</published>
+	<updated>2026-03-25T01:38:42Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Claude:</p>
+
+<blockquote>
+  <p>In Claude Cowork and Claude Code, you can now enable Claude to use
+your computer to complete tasks. When Claude doesn’t have access
+to the tools it needs, it will point, click, and navigate what’s
+on your screen to perform the task itself. It can open files, use
+the browser, and run dev tools automatically — with no setup
+required.</p>
+
+<p>This feature is now available in research preview for Claude Pro
+and Max subscribers. It works especially well with <a href="https://support.claude.com/en/articles/13947068-assign-tasks-to-claude-from-anywhere-in-cowork">Dispatch</a>,
+which lets you assign Claude tasks from your phone.</p>
+</blockquote>
+
+<p>I think you’re nuts if you try this on your actual Mac, with all your actual data and files. But I thought people were nuts for using a lot of bleeding edge AI features before I tried them myself. It’s certainly notable that Anthropic has shipped agentic AI on the Mac before Apple has, after Apple <a href="https://daringfireball.net/2025/03/apple_is_delaying_the_more_personalized_siri_apple_intelligence_features">originally</a> promised it to arrive a year ago.</p>
+
+<p>The Claude Mac client itself remains a lazy Electron clunker. If Claude Code is so good I don’t get why they don’t prove it by using it to make an even halfway decent native Mac app.</p>
+
+<div>
+<a  title="Permanent link to ‘Claude Can Now Take Control of Your Mac’"  href="https://daringfireball.net/linked/2026/03/24/claude-control-mac">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>WSJ: ‘OpenAI Plans Launch of Desktop “Superapp”’</title>
+	<link rel="alternate" type="text/html" href="https://www.wsj.com/tech/openai-plans-launch-of-desktop-superapp-to-refocus-simplify-user-experience-9e19931d?st=25wiu1" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x0t" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/24/openai-superapp" />
+	<id>tag:daringfireball.net,2026:/linked//6.42797</id>
+	<published>2026-03-25T01:00:49Z</published>
+	<updated>2026-03-25T01:01:45Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Berber Jin, reporting last week for The Wall Street Journal (gift link):</p>
+
+<blockquote>
+  <p>OpenAI is planning to unify its ChatGPT app, coding platform Codex
+and browser into a desktop “superapp,” a step to simplify the user
+experience and <a href="https://www.wsj.com/tech/ai/openai-chatgpt-side-projects-16b3a825?mod=article_inline">continue with efforts</a> to focus on
+engineering and business customers.</p>
+
+<p>Chief of Applications Fidji Simo will oversee the change and focus
+on helping the company’s sales team market the new product. OpenAI
+President Greg Brockman, who currently leads the company’s
+computing efforts, will help Simo oversee the product revamp and
+related organization changes, an OpenAI spokeswoman said.</p>
+
+<p>The strategy change marks a major shift from last year, when
+OpenAI launched a series of stand-alone products that didn’t
+always resonate with users and sometimes created a lack of focus
+within the company. OpenAI executives are hoping that unifying its
+products under one app will allow it to streamline resources as it
+seeks to beat back the success of its rival Anthropic.</p>
+</blockquote>
+
+<p>This sounds like an utter disaster in the making. Would it make any sense for Apple to merge Safari, Messages, and Xcode into one “superapp”? No, it would not. It makes no more sense for OpenAI to merge ChatGPT, Codex, and especially Atlas together. I use and very much enjoy ChatGPT because its Mac client is such a good Mac app.</p>
+
+<p><a href="https://www.linkedin.com/in/fidjisimo/">Simo came to OpenAI by way of Shopify and Instacart</a>, so it doesn’t surprise me that she sees OpenAI’s existing product-first culture of creating well-crafted native apps as a problem, not a strength to build on. If this “superapp” plan is true, it’s going to tank everything that heretofore has been good about ChatGPT and Codex.</p>
+
+<div>
+<a  title="Permanent link to ‘WSJ: ‘OpenAI Plans Launch of Desktop “Superapp”’’"  href="https://daringfireball.net/linked/2026/03/24/openai-superapp">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>OpenAI Is Closing Sora</title>
+	<link rel="alternate" type="text/html" href="https://x.com/soraofficialapp/status/2036546752535470382" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x0s" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/24/openai-is-closing-sora" />
+	<id>tag:daringfireball.net,2026:/linked//6.42796</id>
+	<published>2026-03-25T00:49:07Z</published>
+	<updated>2026-03-25T00:49:08Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Sora, on Twitter/X:</p>
+
+<blockquote>
+  <p>We’re saying goodbye to the Sora app. To everyone who created with
+Sora, shared it, and built community around it: thank you. What
+you made with Sora mattered, and we know this news is
+disappointing.</p>
+
+<p>We’ll share more soon, including timelines for the app and API and
+details on preserving your work.</p>
+</blockquote>
+
+<p>Sora was kind of fun for a week or two. But, contrary to the above, nothing anyone made with Sora mattered. It was just a very (very) expensive lark.</p>
+
+<div>
+<a  title="Permanent link to ‘OpenAI Is Closing Sora’"  href="https://daringfireball.net/linked/2026/03/24/openai-is-closing-sora">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>iOS 26.4</title>
 	<link rel="alternate" type="text/html" href="https://www.macrumors.com/guide/ios-26-4-features/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x0r" />
@@ -79,7 +192,7 @@ later date.</p>
 	<link rel="shorturl" href="http://df4.us/x0p" />
 	<id>tag:daringfireball.net,2026://1.42793</id>
 	<published>2026-03-24T19:36:58Z</published>
-	<updated>2026-03-24T22:56:35Z</updated>
+	<updated>2026-03-25T01:11:43Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -102,7 +215,7 @@ for window zoom/resize.</p>
 
 <p>If this worked to hide <em>all</em> of these <a href="https://daringfireball.net/linked/2026/01/05/hard-to-justify-tahoe-icons">cursed little turds</a> smeared <a href="https://daringfireball.net/linked/2026/01/06/nielsen-icons-in-menus">across the menu bar items</a> of Apple’s system apps in Tahoe, this hidden preference would be a proverbial pitcher of ice water in hell. As it stands, alas, it’s more like half a glass of tepid water. Still quite welcome when you’re thirsty in hell, though.</p>
 
-<p>The problem is that while some of Apple’s system apps obey this setting across the board, others obey it only scattershot, and others still ignore it completely. Apple’s AppKit apps — real Mac apps — are the most likely to obey it. In the Finder, Notes, Photos, Preview, and TextEdit, it pretty much kills all menu item icons, leaving behind only a few mostly useful ones. (Among the random inconsistencies: Preview shows an icon for the File → Print command — a stupid printer icon, natch — but none of the other apps listed above show an icon for the Print command.)</p>
+<p>The problem is that while some of Apple’s system apps obey this setting across the board, others obey it only scattershot, and others still ignore it completely. Apple’s AppKit apps — real Mac apps — are the most likely to obey it. In the Finder, Notes, Photos, Preview, and TextEdit, it pretty much kills all menu item icons, leaving behind only a few mostly useful ones. (Among the random inconsistencies: Preview still shows an icon for the File → Print command — a stupid printer icon, natch — but none of the other apps listed above show an icon for the Print command.)</p>
 
 <p>Mail and Calendar are more scattershot. Calendar hides most menu item icons, but keeps a few in the File menu. Mail is more like half-and-half, with no apparent rhyme or reason to which menu items still show icons. In the Mailbox menu, nearly all items have their icons removed; in the Messages menu, most keep their icons even with this setting set to hide them.</p>
 
@@ -136,7 +249,7 @@ for window zoom/resize.</p>
 <ol>
 
 <li id="fn1-2026-03-24">
-<p>It should go without saying that these commands in Preview and Photos should use the same terms. Either both should use Rotate Left/Right, or both should use Rotate Clockwise/Counterclockwise. I personally prefer Clockwise/Counterclockwise, but the inconsistency is what grates. In the heyday of consistency in Apple’s first-party Mac software, Apple’s apps were, effectively, a living HIG. If you were adding a Rotate command to your own application, and you were unsure whether to call it “Rotate Right” or “Rotate Clockwise”, you could just check what Apple did and feel certain that you were doing the right thing, using the correct terms.&nbsp;<a href="#fnr1-2026-03-24"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
+<p>It should go without saying that these commands in Preview and Photos should use the same terms. Either both should use Rotate Left/Right, or both should use Rotate Clockwise/Counterclockwise. I personally prefer Clockwise/Counterclockwise, but the inconsistency is what grates. In the heyday of consistency in Apple’s first-party Mac software, Apple’s apps were, effectively, a living HIG. If you were adding a Rotate command to your own application, and you were unsure whether to call it “Rotate Right” or “Rotate Clockwise”, you could just check what Apple did, in its own apps, and feel certain that you were doing the right thing, using the correct terms.&nbsp;<a href="#fnr1-2026-03-24"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
 </li>
 
 <li id="fn2-2026-03-24">
@@ -1558,166 +1671,6 @@ the attack.</p>
 
 <div>
 <a  title="Permanent link to ‘Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam’"  href="https://daringfireball.net/linked/2026/03/14/mullenweg-apple-account-phishing">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>iFixit’s MacBook Neo Teardown</title>
-	<link rel="alternate" type="text/html" href="https://www.ifixit.com/News/116152/macbook-neo-is-the-most-repairable-macbook-in-14-years" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wzi" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/14/ifixits-macbook-neo-teardown" />
-	<id>tag:daringfireball.net,2026:/linked//6.42750</id>
-	<published>2026-03-14T22:06:02Z</published>
-	<updated>2026-03-15T23:13:50Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>iFixit:</p>
-
-<blockquote>
-  <p>Is Apple’s most affordable laptop ever also one of its most
-repairable? For years, opening a MacBook has usually meant
-fighting your way through glue and buried parts.</p>
-
-<p>But the Neo stands out, with increasingly good day-one manuals,
-less-painful keyboard repairs, and a screwed-in battery tray that
-sent cheers across the iFixit office. This laptop proves that
-things can be made more affordable <em>and</em> more repairable at the
-same time.</p>
-</blockquote>
-
-<p>That conclusion is backwards, I think. I suspect the MacBook Neo is more repairable not despite its lower price, but <em>because of</em> its lower price. It’s designed and engineered to be easier, and thus cheaper, to assemble. And the aspects that make it easier to assemble make it easier to disassemble.</p>
-
-<p>Regarding the Neo’s 2.7-pound weight:</p>
-
-<blockquote>
-  <p>We were all a bit curious as to why the cheaper and less feature
-rich Neo weighed the same as a MacBook Air M3, each 13” laptop
-weighing in at about 1.24kg. It’s especially puzzling when
-considering the Neo supposedly uses a lighter chassis, and is, uh,
-smaller.</p>
-
-<p>Here’s what we found: The Neo’s chassis is actually only barely
-lighter than the Air’s. Together, its chassis, keyboard, and
-bottom cover are just 8g lighter than the Air’s. But the Neo’s
-screen is 48g heavier, and the solid chunk of metal that supports
-its trackpad makes up 7% of the laptop’s overall weight! The Neo’s
-full trackpad assembly is almost exactly twice as heavy as the M3
-MacBook Air’s, too.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘iFixit’s MacBook Neo Teardown’"  href="https://daringfireball.net/linked/2026/03/14/ifixits-macbook-neo-teardown">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>PC Makers Are Not Ready for the MacBook Neo</title>
-	<link rel="alternate" type="text/html" href="https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wzh" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/14/pc-makers-are-not-ready-for-the-macbook-neo" />
-	<id>tag:daringfireball.net,2026:/linked//6.42749</id>
-	<published>2026-03-14T20:02:36Z</published>
-	<updated>2026-03-14T21:20:56Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Antonio G. Di Benedetto, The Verge:</p>
-
-<blockquote>
-  <p>Somehow, the PC makers still don’t see it coming. Here’s how
-[Asus CFO Nick] Wu described the MacBook Neo, specifically its
-8GB of RAM limitation:</p>
-
-<p>“I think when Apple positioned the product, it’s probably focused
-more on content consumption. This differs somewhat from mainstream
-notebook usage scenarios, because in that case, the Neo feels more
-like a tablet — because tablets are mostly for content
-consumption.”</p>
-
-<p>Hang on. Can we hold up for a second here? [...]</p>
-
-<p>The proof of the MacBook Neo’s performance for the money is in the
-numbers. In <a href="https://www.theverge.com/tech/891741/apple-macbook-neo-a18-pro-review#:~:text=Geekbench%206%20CPU%20Single">single-core benchmarks tests</a> — which most
-accurately measure the kinds of everyday tasks you do on a
-computer — the Neo’s A18 Pro chip beats out all manner of Windows
-laptops, including the new flagship <a href="https://www.theverge.com/tech/867214/intel-core-ultra-x9-panther-lake-388h-laptop-cpu-review">Intel Panther Lake chip</a>
-in Asus’ own $2,400 <a href="https://www.theverge.com/tech/867548/asus-zenbook-duo-2026-intel-panther-lake-review">Zenbook Duo</a>. Is a Zenbook Duo more
-capable than the MacBook Neo for heavier tasks, like photo and
-video editing or playing more graphically demanding games? Yes,
-and it’s part of why I loved that dual-screen laptop when I
-reviewed it. But the Zenbook Duo also costs four times as much.
-And, again, the Neo can hang with it for most common tasks, even
-with its 8GB of RAM.</p>
-</blockquote>
-
-<p>This idea that because it’s “an iPhone chip” the Neo is not capable of, say, editing 4K video is utterly ignorant. You know what computers are fully capable of editing 4K video? iPhones. So of course the same chip that enables smooth 4K video editing in an iPhone can do the same in a Mac.</p>
-
-<p>It’s folly to look at the MacBook Neo and presume that an Apple laptop with iPad-like specs must be iPad-like in its capabilities. Anyone who finds iPads limiting for work — and I’m one of them! — isn’t limited because of the hardware. It’s because iPadOS isn’t designed to suit the way we work. The MacBook Neo is a full-fledged kick-ass Macintosh. It really is. If PC makers think it’s something akin to an iPad in a laptop enclosure, they’re even dumber than I thought, and I’ve long thought most of them are pretty dumb.</p>
-
-<div>
-<a  title="Permanent link to ‘PC Makers Are Not Ready for the MacBook Neo’"  href="https://daringfireball.net/linked/2026/03/14/pc-makers-are-not-ready-for-the-macbook-neo">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Ars Technica Fires Reporter Benj Edwards After He Published Story With AI-Fabricated Quotes</title>
-	<link rel="alternate" type="text/html" href="https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wzg" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/14/ars-technica-benj-edwards-ai-fabricted-quotes" />
-	<id>tag:daringfireball.net,2026:/linked//6.42748</id>
-	<published>2026-03-14T17:22:05Z</published>
-	<updated>2026-03-14T17:22:05Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Maggie Harrison Dupré, writing for Futurism:</p>
-
-<blockquote>
-  <p>Earlier this month, Ars retracted the story after it was found to
-include fake quotes attributed to a real person. The article — a
-write-up of a viral incident in which an AI agent <a href="https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/">seemingly
-published a hit piece</a> about a human engineer named Scott
-Shambaugh — was initially published on February 13. After
-Shambaugh pointed out that he’d never said the quotes attributed
-to him, Ars’ editor-in-chief Ken Fisher apologized in an <a href="https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/">editor’s
-note</a>, in which he confirmed that the piece included
-“fabricated quotations generated by an AI tool and attributed to a
-source who did not say them” and characterized the error as a
-“serious failure of our standards.” He added that, upon further
-review, the error appeared to be an “isolated incident.”</p>
-
-<p>Shortly after Fisher’s editor’s note was published, Edwards,
-one of the report’s two bylined authors, <a href="https://bsky.app/profile/benjedwards.com/post/3mewgow6ch22p">took to Bluesky</a>
-to take “full responsibility” for the inclusion of the
-fabricated quotes.</p>
-</blockquote>
-
-<p><a href="https://bsky.app/profile/benjedwards.com/post/3mewgow6ch22p">Edwards</a>:</p>
-
-<blockquote>
-  <p>I sincerely apologize to Scott Shambaugh for misrepresenting his
-words. I take full responsibility. The irony of an Al reporter
-being tripped up by Al hallucination is not lost on me. I take
-accuracy in my work very seriously and this is a painful failure
-on my part.</p>
-
-<p>When I realized what had happened, I asked my boss to pull the
-piece because I was too sick to fix it on Friday. There was
-nothing nefarious at work, just a terrible judgement call which
-was no one’s fault but my own.</p>
-</blockquote>
-
-<p>Ars fired him at the end of February.</p>
-
-<div>
-<a  title="Permanent link to ‘Ars Technica Fires Reporter Benj Edwards After He Published Story With AI-Fabricated Quotes’"  href="https://daringfireball.net/linked/2026/03/14/ars-technica-benj-edwards-ai-fabricted-quotes">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
