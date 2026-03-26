@@ -7,7 +7,120 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-26T16:44:11Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-26T17:39:32Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>The Information: ‘Apple Can “Distill” Google’s Big Gemini Model’</title>
+	<link rel="alternate" type="text/html" href="https://www.theinformation.com/newsletters/ai-agenda/apple-can-distill-googles-big-gemini-model?rc=jfy0lk" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x13" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/26/apple-can-distill-gemini" />
+	<id>tag:daringfireball.net,2026:/linked//6.42807</id>
+	<published>2026-03-26T17:33:38Z</published>
+	<updated>2026-03-26T17:33:39Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jessica E. Lessin, Amir Efrati, and Erin Woo, reporting for the paywalled-without-gift-links The Information:</p>
+
+<blockquote>
+  <p>While we have reported that Apple can tweak, or fine-tune, a
+version of Google’s Gemini AI so that it responds to queries the
+way Apple wants, the agreement gives Apple <em>a lot</em> more freedom
+with Google’s tech.</p>
+
+<p>In fact, Apple has complete access to the Gemini model in its own
+data center facilities. Apple can use that access to produce
+smaller models that power specific tasks or are small enough to
+run directly on Apple devices so they can run the tasks faster,
+said a person who has direct knowledge of the arrangement.</p>
+
+<p>The process of producing such models is called <em>distillation</em>,
+which essentially transfers knowledge from one large language
+model, which acts like a teacher, to another model that acts as a
+student.</p>
+</blockquote>
+
+<p>That Apple negotiated this level of access is interesting, but not surprising. The biggest tell that this deal runs much deeper than simple white-labelling is that Apple will — or <a href="https://www.macrumors.com/2026/03/02/apple-asks-google-to-run-siri/">at least has the right to</a> — run these Gemini-based models in Apple’s own Private Cloud Compute datacenters.</p>
+
+<div>
+<a  title="Permanent link to ‘The Information: ‘Apple Can “Distill” Google’s Big Gemini Model’’"  href="https://daringfireball.net/linked/2026/03/26/apple-can-distill-gemini">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Katie Notopoulos Bids Farewell to Sora: ‘You Were Too Beautiful and Stupid for This World’</title>
+	<link rel="alternate" type="text/html" href="https://www.businessinsider.com/sora-openai-chatgpt-sam-altman-ai-shutting-down-farewell-why-2026-3" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x12" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/26/notopoulos-sora" />
+	<id>tag:daringfireball.net,2026:/linked//6.42806</id>
+	<published>2026-03-26T17:24:53Z</published>
+	<updated>2026-03-26T17:39:32Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Katie Notopoulos, my favorite Sora user, at Business Insider (paywalled, alas, <a href="https://apple.news/AGeJF02sSTYOMPoIYb5cbcA">but available via News+</a>):</p>
+
+<blockquote>
+  <p>Eventually, my <a href="https://www.businessinsider.com/sora-app-ai-video-openai-sam-altman-bored-why-2025-11">friends all seemed to get bored with the app</a>.
+As I do at most parties, I stuck around longer than everyone else,
+but eventually I, too, found that the novelty had worn off. I
+rarely opened the app after the second week.</p>
+
+<p>This was, I imagine, a problem: making videos of yourself is fun,
+but watching videos that strangers make of themselves is not fun.
+The idea of a social feed of AI-generated videos is simply not
+something that people are interested in. Around the same time,
+Meta also tried this with an app of AI videos, and it was even
+more boring.</p>
+</blockquote>
+
+<p>It’s hard to see how anyone thought Sora would have staying power, or could ever justify the apparently exorbitant cost of running it. OpenAI burned a ton of money on what was effectively a stunt.</p>
+
+<p><a href="https://www.reuters.com/technology/openai-set-discontinue-sora-video-platform-app-wsj-reports-2026-03-24/">OpenAI doesn’t appear to be a well-oiled machine at the moment</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Katie Notopoulos Bids Farewell to Sora: ‘You Were Too Beautiful and Stupid for This World’’"  href="https://daringfireball.net/linked/2026/03/26/notopoulos-sora">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>MacOS 26.4 Adds ‘Slow Charger’ Indicator for MacBooks</title>
+	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2026/03/25/macos-tahoe-26-4-slow-charger-macbooks/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x11" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/26/macos-26-4-slow-charger-warning" />
+	<id>tag:daringfireball.net,2026:/linked//6.42805</id>
+	<published>2026-03-26T17:13:41Z</published>
+	<updated>2026-03-26T17:15:23Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Tim Hardwick at MacRumors:</p>
+
+<blockquote>
+  <p>macOS Tahoe 26.4 includes a new slow charger indicator that tells
+MacBook users when their charging setup isn’t delivering full
+power. As described in an updated <a href="https://support.apple.com/en-us/102397">Apple support document</a>, a
+“Slow Charger” label now appears in orange text in the battery
+status menu and above the Battery Level graph in Battery settings.
+The indicator is accompanied by an info button for more details.</p>
+
+<p>Apple says that to charge more quickly, users should use a power
+adapter and cable that deliver at least the <a href="https://support.apple.com/en-us/109509">minimum wattage
+recommended for their MacBook model</a>.</p>
+</blockquote>
+
+<p>This might be especially useful in Europe, where MacBooks no longer come with power adapters. Regular people often have no idea how power adapters work, and presume one charger is as good as another, if it works at all. After I posted <a href="https://daringfireball.net/linked/2025/10/16/m5-mbp-no-power-adapter-in-europe">this item back in October</a> about the new MacBook Pros not shipping with chargers anywhere in Europe (not just the EU, even though it’s <a href="https://en.wikipedia.org/wiki/Radio_Equipment_Directive_%282022%29">an EU law</a> that requires products to be available without included chargers), a bunch of readers regaled me with tales of a family member complaining about their MacBook losing battery life even while plugged in, only to discover that they were using wimpy 5- or 10-watt USB-C adapters.</p>
+
+<div>
+<a  title="Permanent link to ‘MacOS 26.4 Adds ‘Slow Charger’ Indicator for MacBooks’"  href="https://daringfireball.net/linked/2026/03/26/macos-26-4-slow-charger-warning">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Jennifer Daniel on the New ‘Distorted Face’ Emoji</title>
 	<link rel="alternate" type="text/html" href="https://jenniferdaniel.substack.com/p/new-emoji-distorted-face" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x10" />
@@ -291,7 +404,7 @@ seeks to beat back the success of its rival Anthropic.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/24/openai-is-closing-sora" />
 	<id>tag:daringfireball.net,2026:/linked//6.42796</id>
 	<published>2026-03-25T00:49:07Z</published>
-	<updated>2026-03-25T00:49:08Z</updated>
+	<updated>2026-03-26T17:22:25Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -1507,63 +1620,6 @@ said I could share them.</p>
 
 	]]></content>
 	<title>[Sponsor] Mux — Video API for Developers</title></entry><entry>
-	<title>‘The Last Quiet Thing’</title>
-	<link rel="alternate" type="text/html" href="https://www.terrygodier.com/the-last-quiet-thing" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wzr" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/16/the-last-quiet-thing" />
-	<id>tag:daringfireball.net,2026:/linked//6.42759</id>
-	<published>2026-03-16T17:58:00Z</published>
-	<updated>2026-03-16T17:58:08Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p><a href="https://daringfireball.net/linked/2026/02/25/godier-phantom-obligation">Another</a> crackerjack essay on design and attention from Terry Godier. (Note that the Casio in the essay not only shows the actual time, but has functional buttons.)</p>
-
-<div>
-<a  title="Permanent link to ‘‘The Last Quiet Thing’’"  href="https://daringfireball.net/linked/2026/03/16/the-last-quiet-thing">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple Introduces AirPods Max 2</title>
-	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/03/apple-introduces-airpods-max-2-powered-by-h2/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wzs" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/16/airpods-max-2" />
-	<id>tag:daringfireball.net,2026:/linked//6.42760</id>
-	<published>2026-03-16T17:57:39Z</published>
-	<updated>2026-03-16T19:52:35Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Apple Newsroom today:</p>
-
-<blockquote>
-  <p>Apple today announced <a href="https://www.apple.com/airpods-max/">AirPods Max 2</a>, bringing even better Active
-Noise Cancellation (ANC), elevated sound quality, and intelligent
-features to the iconic over-ear design. Powered by H2, features
-like Adaptive Audio, Conversation Awareness, Voice Isolation, and
-Live Translation come to AirPods Max for the first time. The new
-AirPods Max also unlock creative possibilities for podcasters,
-musicians, and content creators, with useful features like
-studio-quality audio recording and camera remote.</p>
-
-<p>AirPods Max 2 will be available to order starting March 25 in
-midnight, starlight, orange, purple, and blue, with availability
-beginning early next month.</p>
-</blockquote>
-
-<p>Seemingly no change to the Smart Case for the Max, which I know some people were hoping for. (I only use AirPods Pro, not Max, but when I tested the original AirPods Max I thought the case was fine.) Here’s a link to Apple’s Compare page showing all <a href="https://www.apple.com/airpods-max/compare/?modelList=airpods-max-2,airpods-max,airpods-pro-3">the differences between the Max 2 and original Max</a>, with AirPods Pro 3 in the third slot. (<a href="https://daringfireball.net/misc/2026/03/AirPods-Max-2-vs-AirPods-Max-vs-AirPods-Pro-3.pdf">Archived for posterity here</a>.) One neat new feature: the Max 2 will support <a href="https://www.macrumors.com/2026/03/16/airpods-max-2-new-digital-crown-feature/">using the Digital Crown button as a remote camera shutter button</a> for a paired iPhone or iPad.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Introduces AirPods Max 2’"  href="https://daringfireball.net/linked/2026/03/16/airpods-max-2">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/03/apple_enclaves_neo_camera_indicator" />
 	<link rel="shorturl" href="http://df4.us/wzq" />
@@ -1620,26 +1676,6 @@ that’s a different thing.</p>
 
     ]]></content>
   <title>★ Apple Exclaves and the Secure Design of the MacBook Neo’s On-Screen Camera Indicator</title></entry><entry>
-	<title>CHM Live: Apple at 50</title>
-	<link rel="alternate" type="text/html" href="https://www.youtube.com/live/eCSNJgI2LFI" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wzp" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/15/chm-live-apple-at-50" />
-	<id>tag:daringfireball.net,2026:/linked//6.42757</id>
-	<published>2026-03-15T23:00:54Z</published>
-	<updated>2026-03-15T23:00:54Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>David Pogue absolutely killed it hosting this live event last week. Glad I saved it to watch on my TV. Special guests include Chris Espinosa, John Sculley, and Avie Tevanian. A legit treat.</p>
-
-<div>
-<a  title="Permanent link to ‘CHM Live: Apple at 50’"  href="https://daringfireball.net/linked/2026/03/15/chm-live-apple-at-50">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/03/modifier_key_order_for_keyboard_shortcuts" />
 	<link rel="shorturl" href="http://df4.us/wz1" />
