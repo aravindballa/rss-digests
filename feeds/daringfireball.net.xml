@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-26T20:35:06Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-26T20:45:06Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>The Apple Charging Situation</title>
 	<link rel="alternate" type="text/html" href="https://randsinrepose.com/guides/apple-charging-guide.html" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x18" />
@@ -34,7 +34,7 @@
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/26/jump-right-to-updates-screen-in-app-store" />
 	<id>tag:daringfireball.net,2026:/linked//6.42811</id>
 	<published>2026-03-26T19:35:00Z</published>
-	<updated>2026-03-26T20:35:06Z</updated>
+	<updated>2026-03-26T20:45:06Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -42,7 +42,7 @@
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
 <p>I mentioned the other day that I was mildly irked by a change in iOS 26.4 that moved the list of available updates in the App Store app one additional screen further into its hierarchy. Good news (<a href="https://wandering.shop/@NateBarham/116291388824558654">via Nate Barham on Mastodon</a>): you can long-press on the App Store app on your Home Screen and jump right to the Updates screen from the contextual menu. Nice!</p>
 
-<p>(Alternatively, <a href="https://mastodon.social/@kolpanik/116296958253888744">you can create a Shortcuts “app”</a> on your Home Screen that jumps you to the Updates screen.)</p>
+<p>Alternatively, you can create a Shortcuts shortcut that jumps you to the Updates screen. Just one action: open the URL <a href="itms-apps://apps.apple.com/updates"><code>itms-apps://apps.apple.com/updates</code></a>. Save it as an “app” on your Home Screen or an action in Control Center. Me, I’m just going to use the tap-and-hold contextual menu item on the App Store app.</p>
 
 <div>
 <a  title="Permanent link to ‘You Can Jump Right to the Updates Screen in the App Store App on iOS 26.4’"  href="https://daringfireball.net/linked/2026/03/26/jump-right-to-updates-screen-in-app-store">&nbsp;★&nbsp;</a>
