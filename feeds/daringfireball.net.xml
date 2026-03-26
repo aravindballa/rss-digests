@@ -7,7 +7,108 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-26T18:10:56Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-26T19:35:01Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>You Can Jump Right to the Updates Screen in the App Store App on iOS 26.4</title>
+	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2026/03/24/ios-264" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x17" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/26/jump-right-to-updates-screen-in-app-store" />
+	<id>tag:daringfireball.net,2026:/linked//6.42811</id>
+	<published>2026-03-26T19:35:00Z</published>
+	<updated>2026-03-26T19:35:01Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>I mentioned the other day that I was mildly irked by a change in iOS 26.4 that moved the list of available updates in the App Store app one additional screen further into its hierarchy. Good news (<a href="https://wandering.shop/@NateBarham/116291388824558654">via Nate Barham on Mastodon</a>): you can long-press on the App Store app on your Home Screen and jump right to the Updates screen from the contextual menu. Nice!</p>
+
+<div>
+<a  title="Permanent link to ‘You Can Jump Right to the Updates Screen in the App Store App on iOS 26.4’"  href="https://daringfireball.net/linked/2026/03/26/jump-right-to-updates-screen-in-app-store">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Disney Drops Vaporware $1B Investment in OpenAI After Sora Got Axed</title>
+	<link rel="alternate" type="text/html" href="https://variety.com/2026/digital/news/openai-shutting-down-sora-video-disney-1236698277/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x16" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/26/disney-openai-sora" />
+	<id>tag:daringfireball.net,2026:/linked//6.42810</id>
+	<published>2026-03-26T19:26:38Z</published>
+	<updated>2026-03-26T19:26:38Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Todd Spangler, reporting for Variety:</p>
+
+<blockquote>
+  <p>Disney has now ended its partnership with OpenAI, which included
+plans for the media conglomerate to take a $1 billion stake in the
+artificial-intelligence company led by CEO Sam Altman.</p>
+
+<p>A Disney rep said in a statement to Variety: “As the nascent AI
+field advances rapidly, we respect OpenAI’s decision to exit the
+video generation business and to shift its priorities elsewhere.
+We appreciate the constructive collaboration between our teams and
+what we learned from it, and we will continue to engage with AI
+platforms to find new ways to meet fans where they are while
+responsibly embracing new technologies that respect IP and the
+rights of creators.”</p>
+</blockquote>
+
+<p>Allow me to translate from PR-speak into plain English:</p>
+
+<p><em>We love children, and children will always be the primary audience for Disney’s theme parks, movies, and other entertainment. But we don’t do business with children.</em></p>
+
+<p>Most PR statements would be more effective in plain English.</p>
+
+<div>
+<a  title="Permanent link to ‘Disney Drops Vaporware $1B Investment in OpenAI After Sora Got Axed’"  href="https://daringfireball.net/linked/2026/03/26/disney-openai-sora">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Google Brags About Android Web Browser Benchmark Scores on Unnamed Devices; Gullible Reporters Fall for It</title>
+	<link rel="alternate" type="text/html" href="https://blog.chromium.org/2026/03/android-sets-new-record-for-mobile-web.html" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x15" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/26/google-brags-about-android-web-browser-benchmarks" />
+	<id>tag:daringfireball.net,2026:/linked//6.42809</id>
+	<published>2026-03-26T19:08:25Z</published>
+	<updated>2026-03-26T19:08:26Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Chrome engineer Eric Seckler, on Google’s Chromium Blog, under the bold headline “<a href="https://blog.chromium.org/2026/03/android-sets-new-record-for-mobile-web.html">Android Sets New Record for Mobile Web Performance</a>”:</p>
+
+<blockquote>
+  <p>Today, we are proud to celebrate a major milestone: Android is now
+the fastest mobile platform for web browsing.</p>
+
+<p>Through deep vertical integration across hardware, the Android OS,
+and the Chrome engine, the latest flagship Android devices are
+setting new performance records, outperforming all other mobile
+competitors in the key web performance benchmarks Speedometer and
+LoadLine and providing a level of responsiveness previously unseen
+on mobile.</p>
+</blockquote>
+
+<p>Three unnamed Android “flagship phones” scored higher than an unnamed “competing mobile phone platform” (presumably an iPhone 17 Pro) in two benchmarks, Speedometer 3.1 and LoadLine. <a href="https://browserbench.org/Speedometer3.1/">Speedometer</a> is a longstanding open source benchmark <a href="https://github.com/WebKit/Speedometer/blob/main/Governance.md">whose development is governed</a> by representatives from WebKit (Apple), Blink (Google), and Gecko (Mozilla). LoadLine is a benchmark from Google and Android OEMs. Speedometer is a benchmark anyone can run just by visiting <a href="https://browserbench.org/Speedometer3.1/">the benchmark’s website</a>. Running LoadLine, especially on an iOS device, <a href="https://chromium.googlesource.com/crossbench/+/refs/heads/main/config/benchmark/loadline2/loadline2-webapi.md">is an enormous hassle</a> that involves two USB-C-to-Ethernet adapters, enabling Remote Automation and the Web Inspector in Safari, installing custom certificates on the iOS device, and installing custom software on an attached Mac.</p>
+
+<p>You will be shocked to learn that the three unnamed Android phones outscored the “competing mobile phone” by significantly larger margins on LoadLine than Speedometer.</p>
+
+<p>Claiming that these results make Android “the fastest mobile platform for web browsing” is ridiculous. It boggles the mind how many publications parroted Google’s braggadocio — <a href="https://www.macrumors.com/2026/03/25/chrome-fastest-mobile-platform-web-browsing/">MacRumors</a>, <a href="https://9to5google.com/2026/03/25/chrome-android-mobile-web-performance/">9to5Google</a>, <a href="https://www.androidauthority.com/android-fastest-mobile-web-browsing-platform-3651927/">Android Authority</a>, <a href="https://www.phonearena.com/news/which-browser-and-platform-are-fastest_id179162">PhoneArena</a> — without even mentioning that the results can’t possibly be verified because none of the devices (and none of the software versions) are named. <a href="https://www.notebookcheck.net/Google-says-Android-can-finally-Google-things-faster-than-iPhone-shows-the-receipts.1259438.0.html">This guy at Notebookcheck</a> even had the audacity to put in his headline that Google “shows the receipts” for its claims. What kind of receipt doesn’t say what you bought? I would love to wager real money with the authors of any of those stories on what the Speedometer 3.1 results show for 100 random real-world Android users vs. 100 random real-world iPhone users. Or how about the average scores from the three best-selling models on each platform from the last year.</p>
+
+<p>Name the devices or shut up.</p>
+
+<div>
+<a  title="Permanent link to ‘Google Brags About Android Web Browser Benchmark Scores on Unnamed Devices; Gullible Reporters Fall for It’"  href="https://daringfireball.net/linked/2026/03/26/google-brags-about-android-web-browser-benchmarks">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>NYT: ‘Melania Trump Appears With a Robot, Saying More Children Should Be Educated by Them’</title>
 	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/03/25/us/politics/melania-trump-robot.html?smid=nytcore-ios-share" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x14" />
@@ -1423,52 +1524,6 @@ accessible in VR.</p>
 
 	]]></content>
   </entry><entry>
-	<title>David Zaslav Set to Receive Up to $887 Million if Paramount Acquisition of Warner Bros Closes</title>
-	<link rel="alternate" type="text/html" href="https://finance.yahoo.com/news/warner-bros-discovery-ceo-david-zaslav-set-to-receive-up-to-887-million-if-paramount-deal-closes-144501826.html" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wzy" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/18/zaslav-887-million" />
-	<id>tag:daringfireball.net,2026:/linked//6.42766</id>
-	<published>2026-03-18T18:30:16Z</published>
-	<updated>2026-03-18T19:34:40Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jake Conley, reporting for Yahoo Finance:</p>
-
-<blockquote>
-  <p>If the deal closes, Zaslav will receive $517.2 million in equity
-that would trigger if and when the sale goes through, along with
-roughly $34.2 million in cash and $44.2 million in benefits tied
-to the value of health coverage reimbursement. The Warner Bros.
-CEO will also get roughly $335.4 million in tax reimbursements. **</p>
-
-<p>Just before the end of February, Warner Bros. <a href="https://www.reuters.com/legal/litigation/warner-bros-signs-110-billion-deal-with-paramount-ends-bidding-war-with-netflix-2026-02-27/">agreed to a full
-acquisition</a> by Paramount Skydance at $31 per share in a deal
-valued at about $110 billion.</p>
-</blockquote>
-
-<p>The cash and equity are outrageous enough, but what in the everlasting fuck is “$44.2 million in benefits tied to the value of health coverage reimbursement”? They might as well pay Zaslav an extra $40 million for <a href="https://unsung.aresluna.org/some-rather-obscure-and-complex-mathematical-process/">reticulating splines</a> while they’re at it.</p>
-
-<p>[<strong>Update:</strong> <a href="https://variety.com/2026/biz/news/david-zaslav-pay-warner-bros-paramount-merger-1236690521/">Variety reports</a> that Zaslav is getting $44,195 in “continued health coverage reimbursement benefits”, which suggests that Conley at Yahoo incorrectly assumed a couple of extra zeroes on the health coverage number. Which would be a reasonable mistake to make — who but a total asshole would give a shit about $44,000 in insurance benefits as part of a $550 <em>million</em> heist? Assuming that was a mistake, Conley’s error wasn’t assuming the extra zeroes, it was forgetting that Zaslav is, quite obviously, a total asshole.]</p>
-
-<p><a href="https://x.com/the_transit_guy/status/2033747133958959492">“Hayden”, on Twitter/X</a>:</p>
-
-<blockquote>
-  <p>The man redesigned the HBO logo five times, the company lost 50%
-of its value, and he made $887 million. We might be looking at the
-greatest businessman to ever exist.</p>
-</blockquote>
-
-<p>The greatest <em>something</em>, for sure. I wouldn’t use the word “businessman”.</p>
-
-<div>
-<a  title="Permanent link to ‘David Zaslav Set to Receive Up to $887 Million if Paramount Acquisition of Warner Bros Closes’"  href="https://daringfireball.net/linked/2026/03/18/zaslav-887-million">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/03/squashing" />
 	<link rel="shorturl" href="http://df4.us/wzx" />
@@ -1533,64 +1588,6 @@ intelligence era.</p>
 
     ]]></content>
   <title>★ Squashing</title></entry><entry>
-	<title>Fox Sports to Broadcast U.S.-Venezuela World Baseball Classic Final in Immersive 3D — But Not on Vision Pro</title>
-	<link rel="alternate" type="text/html" href="https://x.com/mlbonfox/status/2033902946174271992?s=46" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wzw" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/17/fox-sports-wbc-immersive" />
-	<id>tag:daringfireball.net,2026:/linked//6.42764</id>
-	<published>2026-03-17T19:26:12Z</published>
-	<updated>2026-03-18T00:33:37Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Fox Sports, on Twitter/X:</p>
-
-<blockquote>
-  <p>Tonight, watch the WBC Final in a full immersive experience on the
-Fox Sports XR app for the Galaxy XR headset powered by Android XR!</p>
-</blockquote>
-
-<p><a href="https://apps.apple.com/us/app/fox-sports-watch-live-games/id294056623">The Fox Sports app in the App Store</a> is native only on iOS (iPhone and iPad), Apple TV, and Apple Watch. So, unless I’m missing something, not only are they not streaming it immersively on VisionOS, they don’t even have a native VisionOS app.</p>
-
-<div>
-<a  title="Permanent link to ‘Fox Sports to Broadcast U.S.-Venezuela World Baseball Classic Final in Immersive 3D — But Not on Vision Pro’"  href="https://daringfireball.net/linked/2026/03/17/fox-sports-wbc-immersive">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Samsung Discontinues Its Galaxy Z TriFold After Just Three Months</title>
-	<link rel="alternate" type="text/html" href="https://www.theverge.com/tech/895879/samsung-galaxy-z-trifold-discontinued-stock-sold-out" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/wzv" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/17/samsung-trifold" />
-	<id>tag:daringfireball.net,2026:/linked//6.42763</id>
-	<published>2026-03-17T13:49:53Z</published>
-	<updated>2026-03-17T14:56:10Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jess Weatherbed, The Verge:</p>
-
-<blockquote>
-  <p>Samsung is preparing to axe its first three-panel foldable phone
-less than three months after launching the device in the US. Sales
-of the <a href="https://www.theverge.com/news/835525/samsung-z-trifold-announcement-us-availability">$2,899 Galaxy Z TriFold</a> will first be wound down in
-Korea and then discontinued in the US once remaining inventory has
-been cleared, an unnamed Samsung spokesperson told
-<a href="https://www.bloomberg.com/news/articles/2026-03-17/samsung-to-stop-selling-2-899-trifold-phone-after-three-months">Bloomberg</a>.</p>
-</blockquote>
-
-<p>Maybe <a href="https://daringfireball.net/linked/2025/10/29/samsung-trifold-phone">five blades</a> on a razor is too many?</p>
-
-<div>
-<a  title="Permanent link to ‘Samsung Discontinues Its Galaxy Z TriFold After Just Three Months’"  href="https://daringfireball.net/linked/2026/03/17/samsung-trifold">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF" />
 	<link rel="shorturl" href="http://df4.us/wzt" />
