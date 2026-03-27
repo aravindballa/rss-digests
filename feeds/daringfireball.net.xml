@@ -7,7 +7,57 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-27T19:06:02Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-27T20:46:15Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/03/apple_giveth_apple_taketh_away" />
+	<link rel="shorturl" href="http://df4.us/x1a" />
+	<id>tag:daringfireball.net,2026://1.42814</id>
+	<published>2026-03-27T20:46:14Z</published>
+	<updated>2026-03-27T20:46:15Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">Safari is no longer breaking my menu-item-icon despising heart on MacOS 26 Tahoe, but the best trick to block the Tahoe “upgrade” notice on MacOS 15 Sequoia no longer works.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<h2>The Good News First</h2>
+
+<p>Just this week <a href="https://daringfireball.net/2026/03/what_to_do_about_those_menu_item_icons_in_macos_26_tahoe">I wrote about a hidden <code>defaults</code> preference</a> you can set to turn off most of the insipid menu item icons in most of Apple’s first-party apps in MacOS 26 Tahoe. I bemoaned the fact that Safari — generally an exemplar of what makes a great Mac app a great Mac app — generally ignored this setting, leaving most of its menu item icons in place. I am delighted to report that that’s fixed in MacOS 26.4. With the preference set to hide these icons, Safari now only shows a handful.</p>
+
+<p>Here’s a link to <a href="https://daringfireball.net/misc/2026/03/safari-tahoe-file-menu-before-after.png">the screenshot of the old before/after</a>, taken on MacOS 26.3.2. Boo hiss. Here’s the new before/after, taken on MacOS 26.4:</p>
+
+<p><a href="https://daringfireball.net/misc/2026/03/safari-tahoe-file-menu-before-after-26.4.png" class="noborder">
+  <img
+    src = "https://daringfireball.net/misc/2026/03/safari-tahoe-file-menu-before-after-26.4.png"
+    width = 550
+    alt = "Screenshot of Safari's File menu on MacOS 26.3 Tahoe, before and after changing the hidden `NSMenuEnableActionImages` preference. In the before screenshot, every menu item has an icon. In the after image, the only items with an icon are New Empty Tab Group, New Tab Group with 2 Tabs, Delete Tab Group, Add to Dock…, and Import From Browser."
+  /></a></p>
+
+<p>In Tahoe 26.3 (and presumably, earlier versions of Tahoe), 16 of 19 menu items in Safari’s File menu still showed an icon with this setting enabled. In 26.4, only 5 of 19 do.<sup id="fnr1-2026-03-27"><a href="#fn1-2026-03-27">1</a></sup> The rest of Safari’s other menus have been updated similarly.</p>
+
+<p>It’s interesting to me that Safari was updated to support this hidden preference in 26.4. I take it as a sign that there’s a contingent within Apple (or least within the Safari team) that dislikes these menu item icons enough to notice that Safari wasn’t previously recognizing this preference setting. (And I further take it as a sign that within Apple’s engineering ranks, the existence of this <code>defaults</code> setting is widely known.)</p>
+
+<h2>Now the Bad News</h2>
+
+<p>Another recent Tahoe-related tip I’ve been writing about was using a device management profile to block the prompts in System Settings → General → Software Update to “upgrade” from MacOS 15 Sequoia to 26 Tahoe. I first wrote about it <a href="https://daringfireball.net/linked/2026/02/27/how-to-block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator">a month ago</a>, linking to <a href="https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/">a post from Rob Griffiths</a>. I then wrote about it again, <a href="https://daringfireball.net/linked/2026/03/26/mr-macintosh-imazing-profile-editor-tahoe">just this week</a>, linking to <a href="https://www.youtube.com/watch?v=uRg1pW8TSYk">a YouTube video from Mr. Macintosh</a>.</p>
+
+<p>Ever since this technique started making the rounds, there was widespread commentary that it was taking advantage of a bug, not a feature, in MacOS 15 Sequoia. The 90-day “deferral” period to block the Tahoe update prompts was supposed to be from the date the Tahoe major release (26.0) was released, not from the most recent minor release. Welp, with this week’s release of MacOS 15.7.5, this bug is fixed, and Tahoe shows up in the Software Update panel in System Settings even if you have one of these device management profiles installed. Alas.</p>
+
+<p>All is not lost, however. The same video from Mr. Macintosh shows a second, slightly less elegant way to banish all signs of Tahoe in Software Update (<a href="https://youtu.be/uRg1pW8TSYk?t=546">just after the 9:00 mark</a>). The trick is to register your Mac for the MacOS Sequoia Public Beta updates (or the developer betas). This <a href="https://daringfireball.net/misc/2026/03/sequoia-software-update-with-public-betas.png">blocks all signs of Tahoe</a>. You don’t actually have to install any future betas of Sequoia (at the moment, there are none available). Just make sure you have Automatic Updates disabled too. I’d rather risk inadvertently installing a public beta of 15.8 Sequoia than inadvertently “upgrading” to Tahoe.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1-2026-03-27">
+<p>In <a href="https://daringfireball.net/2026/03/what_to_do_about_those_menu_item_icons_in_macos_26_tahoe">my article earlier this week</a>, my screenshots showed only 18 menu items in Safari’s File menu, not 19. That’s because I took those screenshots on my review unit MacBook Neo, which I’m running in near-default state. Safari’s File → Import From Browser submenu appears in the File menu if and only if you have certain third-party web browsers installed on your system. On my MacBook Neo review unit, I don’t have any third-party browsers installed, so Safari omits this menu item. I snapped today’s screenshots from a different Tahoe machine that has Firefox installed.&nbsp;<a href="#fnr1-2026-03-27"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
+</li>
+</ol>
+</div>
+
+
+
+    ]]></content>
+  <title>★ Apple Giveth, Apple Taketh Away</title></entry><entry>
 	<title>Apple Discontinues the Mac Pro With No Plans to Bring It Back</title>
 	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x19" />
@@ -1677,65 +1727,4 @@ that’s a different thing.</p>
 
 
     ]]></content>
-  <title>★ Apple Exclaves and the Secure Design of the MacBook Neo’s On-Screen Camera Indicator</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/03/modifier_key_order_for_keyboard_shortcuts" />
-	<link rel="shorturl" href="http://df4.us/wz1" />
-	<id>tag:daringfireball.net,2026://1.42733</id>
-	<published>2026-03-12T00:15:20Z</published>
-	<updated>2026-03-12T15:27:36Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">The correct order is Fn, Control, Option, Shift, Command — regardless if you’re using the words or the glyphs.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p><a href="https://leancrew.com/all-this/2017/11/modifier-key-order/">Dr. Drang, back in 2017</a>:</p>
-
-<blockquote>
-  <p>If you write about Mac keyboard shortcuts, as I did yesterday, you
-should know how to do it right. Just as there’s a <a href="https://dictionary.cambridge.org/grammar/british-grammar/adjectives-order">proper order
-for adjectives</a> in English, there’s a proper order for
-listing the modifier keys in a shortcut.</p>
-
-<p>I haven’t found any documentation for this, but Apple’s preferred
-order is clear in how they show the modifiers in menus and how
-they’re displayed in the Keyboard Shortcuts Setting.</p>
-
-<p>The order is similar to how you see them down at the bottom left
-of your keyboard. Control (⌃), Option (⌥), and Command (⌘) always
-go in that order. The oddball is the Shift (⇧) key, which sneaks in
-just in front of Command.</p>
-</blockquote>
-
-<p>Perhaps this wasn’t documented in 2017, but at least since 2022 (<a href="https://web.archive.org/web/20221112144101/https://support.apple.com/guide/applestyleguide/k-apsgf9067ae8/web#apdbee268aa29e04">per the Internet Archive</a>), Apple has documented the correct order for modifier keys in a keyboard shortcut in their excellent Apple Style Guide, <a href="https://support.apple.com/guide/applestyleguide/k-apsgf9067ae8/web#apdbee268aa29e04">under the entry for “key, keys”</a>:</p>
-
-<blockquote>
-  <p>If there’s more than one modifier key, use this order: Fn
-(function), Control, Option, Shift, Command. When a keyboard
-shortcut includes a mouse or trackpad action, use lowercase for
-the mouse or trackpad action.</p>
-
-<ul>
-<li>Option-click</li>
-<li>Option-swipe with three fingers</li>
-</ul>
-</blockquote>
-
-<p>There’s all sorts of good stuff in this Style Guide entry, including an explanation for why the shortcut for Zoom Out is ⌘- (using the <em>lower</em> of the two symbols on the “-/_” key) but the shortcut for Zoom In is ⌘+ (using the <em>upper</em> of the two symbols on the “=/+” key):</p>
-
-<blockquote>
-  <p>If one of the characters on the key provides a mnemonic for the
-action of the command, you can identify the key by that character.</p>
-</blockquote>
-
-<p>While I’m at it, here’s a pet peeve of mine. When you write out a keyboard shortcut using modifier key names, you connect them with hyphens: Command-R. But when using the modifier glyphs, you should definitely <em>not</em> include the hyphens. ⌘C is correct, ⌘-C is wrong. For one thing, just look at the shortcuts in the menu bar — the shortcut for Copy has been shown as ⌘C since 1984. For another, consider the aforementioned shortcuts that most apps use for Zoom In and Zoom Out: ⌘+ and ⌘-. Both of those would look weird if connected by a hyphen, but Zoom Out in particular would look confusing: Command-Hyphen-Hyphen?.</p>
-
-<p>(How do you write those out using words, though? Apple uses “Command-Plus Sign (+)” and “Command-Minus Sign (-)”. Me, I’d just go with “Command-Plus” and “Command-Minus”.)</p>
-
-<p>Pay no attention to Drang’s <a href="https://leancrew.com/all-this/2017/11/last-thoughts-on-modifier-keys/">follow-up post</a>, or <a href="https://sixcolors.com/link/2017/11/the-order-of-modifier-keys-on-the-mac/">this one from Jason Snell</a>. The correct order is Fn, Control, Option, Shift, Command — regardless if you’re using the words or the glyphs.</p>
-
-
-
-    ]]></content>
-  <title>★ Modifier Key Order for Keyboard Shortcuts</title></entry></feed><!-- THE END -->
+  <title>★ Apple Exclaves and the Secure Design of the MacBook Neo’s On-Screen Camera Indicator</title></entry></feed><!-- THE END -->
