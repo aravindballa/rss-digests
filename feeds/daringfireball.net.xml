@@ -7,7 +7,40 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-27T20:58:23Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-27T23:45:03Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Netflix Raises Prices Again</title>
+	<link rel="alternate" type="text/html" href="https://variety.com/2026/tv/news/why-netflix-hiked-prices-explained-chart-1236701365/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x1b" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/27/netflix-raises-prices-again" />
+	<id>tag:daringfireball.net,2026:/linked//6.42815</id>
+	<published>2026-03-27T23:43:21Z</published>
+	<updated>2026-03-27T23:45:03Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Todd Spangler, Variety:</p>
+
+<blockquote>
+  <p>Under the new pricing, effective March 26 for new users and
+rolling out to current customers depending on their billing cycle,
+Netflix’s Standard plan (which has no ads and provides streaming
+on two devices simultaneously) is rising by $2, from $17.99 to
+$19.99/month. The ad-supported plan is going up a buck, from $7.99
+to $8.99/month, and the top-tier Premium plan (no ads, streaming
+on up to four devices at once, Ultra HD and HDR) is increasing
+from $24.99 to $26.99/month.</p>
+</blockquote>
+
+<p>I pay the full $27/month because I’d rather cancel Netflix than watch ads, and I suspect I’d notice the difference between 4K and 1080p. But also because money runs through my fingers like water.</p>
+
+<div>
+<a  title="Permanent link to ‘Netflix Raises Prices Again’"  href="https://daringfireball.net/linked/2026/03/27/netflix-raises-prices-again">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/03/apple_giveth_apple_taketh_away" />
 	<link rel="shorturl" href="http://df4.us/x1a" />
@@ -1567,26 +1600,6 @@ encourages but also rewards dark patterns.</p>
 
     ]]></content>
   <title>★ ‘Your Frustration Is the Product’</title></entry><entry>
-	<title>How to Identify Your Apple Keyboard Layout by Country or Region</title>
-	<link rel="alternate" type="text/html" href="https://support.apple.com/en-us/102743" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x01" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/18/how-to-identify-your-apple-keyboard" />
-	<id>tag:daringfireball.net,2026:/linked//6.42769</id>
-	<published>2026-03-18T21:29:03Z</published>
-	<updated>2026-03-18T21:29:03Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>This support page is a fascinating footnote regarding the <a href="https://daringfireball.net/linked/2026/03/11/macbook-keyboards-words-to-glyphs">recent changes Apple has made to their U.S. key cap labels</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘How to Identify Your Apple Keyboard Layout by Country or Region’"  href="https://daringfireball.net/linked/2026/03/18/how-to-identify-your-apple-keyboard">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/03/squashing" />
 	<link rel="shorturl" href="http://df4.us/wzx" />
@@ -1722,9 +1735,4 @@ that’s a different thing.</p>
 
 <p><em>Exclave</em> was the word I needed. Once I read that, it came back to me, and I recalled <a href="https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194">Random Augustine’s “On Apple Exclaves”</a>, which I <a href="https://daringfireball.net/linked/2025/03/19/on-apple-exclaves">linked to almost exactly one year ago</a> and described as “a splendidly nerdy but very approachable overview of the evolution of Apple’s XNU kernel over the last decade”. As Augustine documents, secure exclaves are something Apple had been building toward for a decade, but which only became enabled with the M4 and A18 generations of Apple Silicon.</p>
 
-<p>If you’re curious, I encourage you to read (or re-read) <a href="https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194">Augustine’s “On Apple Exclaves”</a>, which should disabuse you of any concerns that these on-display camera indicators on the MacBook Neo and recent iPhone models are anything less than <em>very</em> secure designs.</p>
-
-
-
-    ]]></content>
-  <title>★ Apple Exclaves and the Secure Design of the MacBook Neo’s On-Screen Camera Indicator</title></entry></feed><!-- THE END -->
+<p>If you’re curious, I encourage you to read (or re-read) <a href="https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194">August
