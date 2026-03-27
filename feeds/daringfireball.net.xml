@@ -7,13 +7,13 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-27T20:46:15Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-27T20:58:23Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/03/apple_giveth_apple_taketh_away" />
 	<link rel="shorturl" href="http://df4.us/x1a" />
 	<id>tag:daringfireball.net,2026://1.42814</id>
 	<published>2026-03-27T20:46:14Z</published>
-	<updated>2026-03-27T20:46:15Z</updated>
+	<updated>2026-03-27T20:58:23Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -33,9 +33,9 @@
     alt = "Screenshot of Safari's File menu on MacOS 26.3 Tahoe, before and after changing the hidden `NSMenuEnableActionImages` preference. In the before screenshot, every menu item has an icon. In the after image, the only items with an icon are New Empty Tab Group, New Tab Group with 2 Tabs, Delete Tab Group, Add to Dock…, and Import From Browser."
   /></a></p>
 
-<p>In Tahoe 26.3 (and presumably, earlier versions of Tahoe), 16 of 19 menu items in Safari’s File menu still showed an icon with this setting enabled. In 26.4, only 5 of 19 do.<sup id="fnr1-2026-03-27"><a href="#fn1-2026-03-27">1</a></sup> The rest of Safari’s other menus have been updated similarly.</p>
+<p>In Tahoe 26.3 (and presumably, earlier versions of Tahoe), 16 of 19 menu items in Safari’s File menu still showed an icon with this setting enabled. In 26.4, only 5 of 19 do.<sup id="fnr1-2026-03-27"><a href="#fn1-2026-03-27">1</a></sup> The rest of Safari’s other menus have been updated similarly, and look so much better for it.</p>
 
-<p>It’s interesting to me that Safari was updated to support this hidden preference in 26.4. I take it as a sign that there’s a contingent within Apple (or least within the Safari team) that dislikes these menu item icons enough to notice that Safari wasn’t previously recognizing this preference setting. (And I further take it as a sign that within Apple’s engineering ranks, the existence of this <code>defaults</code> setting is widely known.)</p>
+<p>It’s interesting to me that Safari was updated to support this hidden preference in 26.4. I take it as a sign that there’s a contingent within Apple (or least within the Safari team) that dislikes these menu item icons enough to notice that Safari wasn’t previously recognizing this preference setting. (And I further take it as a sign that within Apple’s engineering ranks, the existence of this <code>defaults</code> setting is widely known.) Keep hope alive.</p>
 
 <h2>Now the Bad News</h2>
 
