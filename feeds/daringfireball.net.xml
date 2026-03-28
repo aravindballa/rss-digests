@@ -7,7 +7,42 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-28T23:25:48Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-28T23:47:39Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>The 2019 Intel Mac Pro’s Unfortunate Timing</title>
+	<link rel="alternate" type="text/html" href="https://512pixels.net/2026/03/how-apple-could-have-saved-the-mac-pro/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x1k" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/28/the-2019-intel-mac-pros-unfortunate-timing" />
+	<id>tag:daringfireball.net,2026:/linked//6.42824</id>
+	<published>2026-03-28T23:47:39Z</published>
+	<updated>2026-03-28T23:47:39Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Stephen Hackett, at 512 Pixels:</p>
+
+<blockquote>
+  <p>I’ve thought a lot about the bad timing Jones mentions. Had Apple
+stuck to the original timeline, and killed off the 2013 Mac Pro in
+favor of an iMac <a href="https://daringfireball.net/2017/04/the_mac_pro_lives">“specifically targeted at large segments of the
+pro market,”</a> back <a href="https://www.apple.com/newsroom/2017/06/imac-pro-most-powerful-mac-arrives-december/">in 2017</a>, Apple could have
+avoided putting out the best Intel Mac ever, less than a year
+before the transition to Apple silicon.</p>
+
+<p>Did Apple know in 2017 that 2020 was the year the M1 would make it
+out of the lab? Probably not, but it doesn’t make the timing any
+less painful.</p>
+</blockquote>
+
+<p>Apple might not have had 2020 set in stone for the Apple Silicon transition, but in 2017, they definitely knew that Apple Silicon was the future. I think they knew that years <em>before</em> 2017, and in broad strokes, that’s why 2015–2020 was such a bad period for Mac hardware. They didn’t ship a retina MacBook Air until 2018. The 12-inch MacBook was beautiful but expensive and seriously underpowered. And nothing suffered more than the Mac Pro in that stretch. I think Apple knew that the future was on their own silicon, but in the meantime, they just couldn’t get it up for the last five years of the Intel era.</p>
+
+<div>
+<a  title="Permanent link to ‘The 2019 Intel Mac Pro’s Unfortunate Timing’"  href="https://daringfireball.net/linked/2026/03/28/the-2019-intel-mac-pros-unfortunate-timing">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple Should Set and Enforce Some Basic Standards for Custom Video Players on tvOS</title>
 	<link rel="alternate" type="text/html" href="https://daringfireball.net/2024/03/quickly_toggling_closed_captions_on_apple_tv" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x1j" />
@@ -94,7 +129,7 @@ PDF Archive:
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/28/netflix-wrecked-their-tvos-video-player" />
 	<id>tag:daringfireball.net,2026:/linked//6.42821</id>
 	<published>2026-03-28T15:52:08Z</published>
-	<updated>2026-03-28T23:15:24Z</updated>
+	<updated>2026-03-28T23:44:45Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -141,6 +176,8 @@ single problem with their app so for, for over a decade of use.</p>
 </blockquote>
 
 <p>Netflix’s gratuitously ugly new custom video player commits various crimes against accessibility. Two years ago I wrote about tvOS’s system accessibility shortcut that lets you assign <a href="https://daringfireball.net/2024/03/quickly_toggling_closed_captions_on_apple_tv">triple-clicking the Back (“\&lt;”) button to toggle captions</a>, and the fact that Netflix didn’t support it. This cursed new player, you will be unsurprised to learn, doesn’t support it either. It also does not support the wonderful standard platform convention of <em>temporarily</em> turning on caption when you rewind 10 or 20 seconds, for a “<em>What did they just say?</em>” moment.</p>
+
+<p><strong>Update:</strong> Switching to their own custom video player <em>also</em> broke Netflix’s integration with the iPhone. Until last week, playing video in the Netflix app on Apple TV would put a live activity widget on your iPhone lock screen with the name of the current program, scrub location, and player controls. Now that’s gone.</p>
 
 <p>This regression dropping the same week that Netflix announced price hikes makes me so angry that I’m giving <a href="https://daringfireball.net/linked/2026/03/27/netflix-raises-prices-again">even <em>more</em> thought</a> to downgrading my family’s Netflix account from the $27/month Premium plan to the $20/month Standard plan. Sending Netflix only $240 per year instead of $324 will show them.</p>
 
@@ -1489,48 +1526,6 @@ date that’s so far in the past.</p>
 
 <div>
 <a  title="Permanent link to ‘Perhaps Bluesky’s Revelation of an 11-Month Ago $100 Million Investment Was, in Fact, an Act of Transparency’"  href="https://daringfireball.net/linked/2026/03/20/bluesky-funding-transparency">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now</title>
-	<link rel="alternate" type="text/html" href="https://bsky.social/about/blog/03-19-2026-series-b" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x0d" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/20/bluesky-100m" />
-	<id>tag:daringfireball.net,2026:/linked//6.42781</id>
-	<published>2026-03-20T16:46:01Z</published>
-	<updated>2026-03-23T17:56:26Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Bluesky:</p>
-
-<blockquote>
-  <p>In April 2025, Bluesky raised $100 million in Series B funding led
-by Bain Capital Crypto, with participation from Alumni Ventures,
-Anthos Capital, Bloomberg Beta, Knight Foundation and True
-Ventures. In the months since, we’ve focused on scaling our team
-to meet the rapid growth of both the AT Protocol (atproto) and
-Bluesky app. We’re excited to share more as we move into a new era
-of leadership and further growth.</p>
-
-<p>This raise was led by Bluesky founder Jay Graber, <a href="https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky">who recently
-transitioned to Chief Innovation Officer</a> to focus on
-building the future of open social infrastructure.</p>
-</blockquote>
-
-<p>I didn’t post about Graber’s stepping aside as CEO earlier this month because I didn’t make much of it. I’ve been <a href="https://daringfireball.net/2025/03/bluesky_being_right_points">bullish on Bluesky</a> since its inception, but I haven’t been thrilled by it of late. I don’t think it’s gotten any worse, but its growth has stalled, leaving it in the limbo between <em>ghost town</em> and <em>boom town</em>. For many products/services/businesses/publications, a sustained popularity that’s less than booming is fine. Niches can work, or thrive even. Daring Fireball is clearly a niche publication. But for social networks, two decades of evidence suggests that anything less than booming is a problem.</p>
-
-<p>But what the hell are we to make of a $100 million funding round that wasn’t announced for 11 months? Is this commonplace, and I just somehow never before took note of a company keeping a large funding round secret for a year? Or is this as weird as I’m thinking it is? I always thought big funding rounds were things companies wanted to immediately promote, not hide. <a href="https://www.techmeme.com/260319/p45#a260319p45">This roundup of links at Techmeme</a> suggests I’m not alone.</p>
-
-<p><strong>Update, 2 hours later:</strong> The explanation I’ve now heard, from a source in a good position to have an informed take, is that it <em>is</em> unusual. But basically it’s a unique series of events, at a unique time (post–2024 election, when Bluesky experienced a nice surge), for a unique company. So: weird, yes. Cause for alarm, probably not.</p>
-
-<p><strong>See also:</strong> <a href="https://daringfireball.net/linked/2026/03/20/bluesky-funding-transparency">This follow-up post</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now’"  href="https://daringfireball.net/linked/2026/03/20/bluesky-100m">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
