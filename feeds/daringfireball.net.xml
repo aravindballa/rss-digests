@@ -7,7 +7,35 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-28T19:17:36Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-28T22:03:16Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’</title>
+	<link rel="alternate" type="text/html" href="https://www.fastcompany.com/91514404/apple-founding-50th-anniversary-apple-1-apple-ii-jobs-wozniak?mvgt=E5Loo3fO74zl" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x1i" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/28/mccracken-apple-oral-history" />
+	<id>tag:daringfireball.net,2026:/linked//6.42822</id>
+	<published>2026-03-28T21:57:01Z</published>
+	<updated>2026-03-28T22:03:16Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>This feature from Harry McCracken is just spectacularly good. (And it’s a gift link that’ll get you past Fast Company’s paywall.) 50 years is a long time and there are some key players in Apple’s origin story who are gone — but because everyone was so young at the time, it’s amazing how many of them are still alive. And, of course, in Chris Espinosa’s case, still working at Apple:</p>
+
+<blockquote>
+  <p>I was sitting there in the Byte Shop in Palo Alto on an Apple-1 writing BASIC programs, and this guy with a scraggly beard and no shoes came in and looked at me and conducted what I later understood to be the standard interview, which was “Who are you?” I said, “I’m Chris.” And he said, “What are you doing?” I said, “I’m writing BASIC programs on this Apple-1 for the owner.” And he said, “Are you any good?” I showed him my BASIC programs on the Apple-1.</p>
+
+<p>He told me, “I’ve seen you around Homebrew. Woz is working on this second-generation computer, and instead of loading BASIC from cassette tape, we want to put it in ROM. And so it has to be perfect. I want you to come and test Woz’s BASIC, and I’ll give you 4K of RAM for that when you build your own computer.” That sounded like a good deal. Steve Jobs’s idea back then of recruiting was to grab a random-ass 14-year-old off the streets.</p>
+</blockquote>
+
+<p>Apple is at its best when it’s infused with a bit of the spirit of the two Steves whose first joint venture were blue boxes that let you make long distance phone calls for free. The first public phone call Steve Jobs ever made on an iPhone was <a href="https://www.youtube.com/watch?v=bd6dQmN-mPw">a prank call</a> to the Starbucks next to Moscone West. I feel like that renegade spirit has been repressed in the Tim Cook era.</p>
+
+<div>
+<a  title="Permanent link to ‘‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’’"  href="https://daringfireball.net/linked/2026/03/28/mccracken-apple-oral-history">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Netflix Wrecked Their tvOS Video Player</title>
 	<link rel="alternate" type="text/html" href="https://www.pocket-lint.com/netflix-just-made-their-app-worse-and-theres-no-way-to-fix-it/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x1h" />
@@ -1487,44 +1515,6 @@ and enable it only where needed.</p>
 
 <div>
 <a  title="Permanent link to ‘Quiche Browser’"  href="https://daringfireball.net/linked/2026/03/20/quiche-browser">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>StopTheMadness Pro and StopTheScript Extensions for Safari</title>
-	<link rel="alternate" type="text/html" href="https://mastodon.social/@lapcatsoftware/116252960395480568" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x0b" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/19/stopthemadness-and-stopthescript" />
-	<id>tag:daringfireball.net,2026:/linked//6.42779</id>
-	<published>2026-03-19T21:09:32Z</published>
-	<updated>2026-03-19T21:32:26Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jeff Johnson, linking to my “<a href="https://daringfireball.net/2026/03/your_frustration_is_the_product">Your Frustration Is the Product</a>” piece:</p>
-
-<blockquote>
-  <p>My browser extension <a href="https://underpassapp.com/StopTheMadness/">StopTheMadness Pro</a> stops autoplaying videos
-and hides Sign in with Google on all sites. It also hides sticky
-videos and notification requests on many sites.</p>
-
-<p>For more extreme measures, try my Safari extension <a href="https://underpassapp.com/StopTheScript/">StopTheScript</a>.
-It kills JavaScript dead on websites you select. For example, from
-the blog post, it makes The Guardian readable.</p>
-</blockquote>
-
-<p>These are both great extensions, and I have both installed for use in Safari on all my devices. StopTheScript is a bit peculiar, by nature of how it does what it does, but Johnson has <a href="https://underpassapp.com/StopTheScript/tutorial.html">a great illustrated tutorial</a> for it and a good blog post <a href="https://underpassapp.com/news/2023-10-9.html">explaining which sites he uses it on and why</a>.</p>
-
-<p>Over on the Chrome/Chromium side, there’s a very slick extension called <a href="https://chromewebstore.google.com/detail/quick-javascript-switcher/geddoclleiomckbhadiaipdggiiccfje">Quick JavaScript Switcher</a>. It’s free, but the developer (Maxime Le Breton) asks for a 5€ donation. QJS adds a simple JS on/off switch to the toolbar.</p>
-
-<p>A lot of stuff doesn’t load when you just completely disable JavaScript for a site. You might be surprised just how much of that stuff is shit you don’t want or won’t miss.</p>
-
-<p>Or, you can go the other way, give in, stop fighting the man, <a href="https://x.com/lochan_twt/status/2030222105867174331">and install OnlyAds</a> — an extension that hides everything on a website <em>except</em> the ads.</p>
-
-<div>
-<a  title="Permanent link to ‘StopTheMadness Pro and StopTheScript Extensions for Safari’"  href="https://daringfireball.net/linked/2026/03/19/stopthemadness-and-stopthescript">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
