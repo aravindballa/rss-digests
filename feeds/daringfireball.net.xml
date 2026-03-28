@@ -7,7 +7,42 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-28T00:19:31Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-28T01:40:07Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Business Insider’s Subscriber Spiral</title>
+	<link rel="alternate" type="text/html" href="https://www.status.news/p/business-insider-subscription-decline-data" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x1e" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/27/business-insider-subscriber-spriral" />
+	<id>tag:daringfireball.net,2026:/linked//6.42818</id>
+	<published>2026-03-28T00:48:14Z</published>
+	<updated>2026-03-28T00:48:15Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Oliver Darcy, reporting for Status (paywalled, alas):</p>
+
+<blockquote>
+  <p>According to the data obtained by Status, BI ended 2023 with
+roughly 160,000 paid subscribers, a drop of about 14 percent from
+the prior year when it boasted about 185,000 subscribers. The
+slide did not stop there, however. In 2024, it closed the year
+with roughly 150,000 subscribers, a further six percent decline.
+And in 2025, the number fell again, to about 135,000 paid
+subscribers — another 10 percent drop.</p>
+
+<p>All told, over roughly three years, BI saw its subscription base
+plummet by about 50,000, or a jarring 27 percent.</p>
+</blockquote>
+
+<p>Not the sort of momentum you want.</p>
+
+<div>
+<a  title="Permanent link to ‘Business Insider’s Subscriber Spiral’"  href="https://daringfireball.net/linked/2026/03/27/business-insider-subscriber-spriral">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple Says It’s Not Aware of Lockdown Mode Ever Having Been Exploited</title>
 	<link rel="alternate" type="text/html" href="https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x1d" />
@@ -45,7 +80,7 @@ Sarah O’Rourke told TechCrunch on Friday.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/27/apple-announces-ads-are-coming-to-apple-maps" />
 	<id>tag:daringfireball.net,2026:/linked//6.42816</id>
 	<published>2026-03-28T00:01:56Z</published>
-	<updated>2026-03-28T00:19:31Z</updated>
+	<updated>2026-03-28T01:40:07Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -73,7 +108,7 @@ or stored by Apple, and is not shared with third parties.</p>
 
 <p>The privacy angle is good. I don’t want to take that for granted, because few, if any, of Apple’s $1-trillion-plus <a href="https://companiesmarketcap.com/">market cap peers</a> have such devotion to user privacy.</p>
 
-<p>But more and more it’s becoming clear that while Apple’s devotion to protecting user privacy remains as high as ever, their devotion to delivering the best possible user experience does not. Here’s Apple’s own screenshot showing what these ads are supposedly going to look like. It looks fine. But these ads seem highly unlikely to make the overall experience of using Apple Maps better. Perhaps, in practice, they will not make the experience worse, and it’ll be a wash. But I can’t help but suspect that they’re going to make the experience worse, and the question is really just how much worse. The addition of ads to the App Store unquestionably has made the experience worse.</p>
+<p>But more and more it’s becoming clear that while Apple’s devotion to protecting user privacy remains as high as ever, their devotion to delivering the best possible user experience does not. Here’s <a href="https://daringfireball.net/misc/2026/03/apple-business-ads-on-apple-maps.jpeg">Apple’s own screenshot</a> showing what these ads are supposedly going to look like. It looks fine. But these ads seem highly unlikely to make the overall experience of using Apple Maps better. Perhaps, in practice, they will not make the experience worse, and it’ll be a wash. But I can’t help but suspect that they’re going to make the experience worse, and the question is really just how much worse. The addition of ads to the App Store unquestionably has made the experience worse.</p>
 
 <p>We shall see. I’m not going to prejudge the actual experience, and you shouldn’t either. I also <a href="https://mister.computer/@kyle/114014624058008824">do not begrudge Apple for wanting to monetize Maps</a>. But if the addition of ads does make the Apple Maps experience worse, why won’t Apple let us buy our way out of seeing them? <a href="https://help.netflix.com/en/node/24926">Netflix</a> doesn’t force us to watch their ads. <a href="https://www.youtube.com/premium">YouTube Premium</a> is arguably the best bang-for-the-buck in the entire world of content subscriptions. Why should <a href="https://www.apple.com/apple-one/">Apple One</a> subscribers still see these ads in Apple Maps?</p>
 
@@ -1458,44 +1493,6 @@ typefaces.</p>
 
 <div>
 <a  title="Permanent link to ‘The Day Mark Simonson Discovered Type Design’"  href="https://daringfireball.net/linked/2026/03/19/the-day-simonson-discovered-type-design">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Google’s New Sideloading Restrictions for Android Include a 24-Hour Waiting Period</title>
-	<link rel="alternate" type="text/html" href="https://www.androidauthority.com/google-android-sideloading-unverified-apps-new-rules-3650343/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x07" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/19/google-android-sideloading-restrictions" />
-	<id>tag:daringfireball.net,2026:/linked//6.42775</id>
-	<published>2026-03-19T19:03:22Z</published>
-	<updated>2026-03-19T21:10:16Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Adamya Sharma, reporting for Android Authority:</p>
-
-<blockquote>
-  <p>When Google execs previously <a href="https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/">said</a> sideloading would become a
-high-friction process on Android, they really weren’t kidding. The
-company is finally sharing what Android’s new sideloading flow
-will look like in practice, and if you’re someone who installs
-apps outside the Play Store, you’re going to feel it immediately,
-and you’re going to feel it deeply. [...]</p>
-
-<p>When Android’s new sideloading rules come into force, installing
-apps from developers without Google verification (more on that
-later) will become extremely tedious by design and <em>require a
-24-hour lock before users can install them</em>.</p>
-</blockquote>
-
-<p>Here’s <a href="https://android-developers.googleblog.com/2026/03/android-developer-verification.html">Google’s own explanation</a> of the new restrictions. “<a href="https://daringfireball.net/linked/2009/12/22/open">Open always wins</a>”, baby.</p>
-
-<p>Would be interesting to hear Tim Sweeney’s thoughts on this, but he <a href="https://daringfireball.net/linked/2026/03/06/sweeney-google-gag">took a sack of cash in exchange for agreeing</a> that whatever Google does with Android hence is “procompetitive” until 2032.</p>
-
-<div>
-<a  title="Permanent link to ‘Google’s New Sideloading Restrictions for Android Include a 24-Hour Waiting Period’"  href="https://daringfireball.net/linked/2026/03/19/google-android-sideloading-restrictions">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
