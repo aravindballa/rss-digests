@@ -7,7 +7,54 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-28T22:18:30Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-28T23:25:48Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Apple Should Set and Enforce Some Basic Standards for Custom Video Players on tvOS</title>
+	<link rel="alternate" type="text/html" href="https://daringfireball.net/2024/03/quickly_toggling_closed_captions_on_apple_tv" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x1j" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/28/apple-should-set-and-enforce-some-basic-standards-for-custom-video-players-on-tvos" />
+	<id>tag:daringfireball.net,2026:/linked//6.42823</id>
+	<published>2026-03-28T23:25:47Z</published>
+	<updated>2026-03-28T23:25:48Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>While I’m bitching about <a href="https://daringfireball.net/linked/2026/03/28/netflix-wrecked-their-tvos-video-player">Netflix’s craptacular new video player</a> on Apple TV, let me quote from a piece I wrote two years ago (also complaining about Netflix’s tvOS app):</p>
+
+<blockquote>
+  <p>Turns out there are two better ways:</p>
+
+<ol>
+<li><p>If you use the Control Center Apple TV remote control on your
+iPhone, <a href="https://support.apple.com/guide/tv/use-ios-or-ipados-control-center-atvb701cadc1/tvos">there’s a dedicated “CC” button</a>.</p></li>
+<li><p>In tvOS, go to Settings → Accessibility → Accessibility
+Shortcut, and set it to “Closed Captions”. Now you can just
+triple-click the Menu/Back button on the remote to toggle
+captions. (On older Apple TV remotes, the button is labelled
+“Menu”; <a href="https://support.apple.com/en-us/HT205305">on the new remote</a>, it’s labelled with a “&lt;”.)</p></li>
+</ol>
+
+<p>But here’s the hitch: Netflix’s tvOS app doesn’t support either of
+these ways to toggle captions. Netflix <em>only</em> supports the
+on-screen caption toggle in their custom video player. I get why
+Netflix and other streaming apps want to use their own custom
+video players, but it ought to be mandated by App Store review
+that they support <a href="https://support.apple.com/guide/tv/accessibility-features-atvbaeff85db/tvos">accessibility features</a> like this one.</p>
+</blockquote>
+
+<p>What Apple should have done right from the start with the tvOS-based Apple TV a decade ago is require all apps to use the system video player. No custom video players. It’s too late for that, alas. But the tvOS App Store review process ought to insist on compliance with these accessibility and platform compliance features.</p>
+
+<p>You want to use your own custom video player? Fine. But apps with custom video players must support the “CC” button in the iOS Control Center remote control, must support the triple-click accessibility shortcut, must support the platform conventions for fast-forwarding and rewinding using the Apple TV remote control, etc. If your video player doesn’t comply, your app update doesn’t get approved.</p>
+
+<p>Apple should use the App Store approval process for the benefit of users. Isn’t that supposed to be the point?</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Should Set and Enforce Some Basic Standards for Custom Video Players on tvOS’"  href="https://daringfireball.net/linked/2026/03/28/apple-should-set-and-enforce-some-basic-standards-for-custom-video-players-on-tvos">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’</title>
 	<link rel="alternate" type="text/html" href="https://www.fastcompany.com/91514404/apple-founding-50th-anniversary-apple-1-apple-ii-jobs-wozniak?mvgt=E5Loo3fO74zl" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x1i" />
@@ -47,7 +94,7 @@ PDF Archive:
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/28/netflix-wrecked-their-tvos-video-player" />
 	<id>tag:daringfireball.net,2026:/linked//6.42821</id>
 	<published>2026-03-28T15:52:08Z</published>
-	<updated>2026-03-28T18:24:51Z</updated>
+	<updated>2026-03-28T23:15:24Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -72,7 +119,7 @@ click the same button again. So essentially, what once required a
 single button press, now needs two.</p>
 </blockquote>
 
-<p>These changes aren’t small, aren’t subtle, and don’t make fast-forwarding and rewinding merely “slightly” more difficult. The video playback interface in a streaming app is the most essential thing a streaming app does, and now Netflix’s tvOS player looks terrible and works wrong. The original report Kondolojy cites, from Reddit user “iamonreddit” (yes, you are), <a href="https://www.reddit.com/r/appletv/">describes it as it is</a>:</p>
+<p>These changes aren’t small, aren’t subtle, and don’t make fast-forwarding and rewinding merely “slightly” more difficult. (And what once required a single button press now requires <em>three</em>, not two.) The video playback interface in a streaming app is the most essential thing a streaming app does, and now Netflix’s tvOS player looks terrible and works wrong. The original report Kondolojy cites, from Reddit user “iamonreddit” (yes, you are), <a href="https://www.reddit.com/r/appletv/">describes it as it is</a>:</p>
 
 <blockquote>
   <p>Did Netflix mess up the app? There are two extra clicks for a
@@ -90,10 +137,10 @@ restrictions introduced by Apple.</p>
 
 <p>Looks like they messed it up big time. Netflix used to set
 benchmarks for others. And here we are now. I’ve never had a
-single problem with their app so far, for over a decade of use.</p>
+single problem with their app so for, for over a decade of use.</p>
 </blockquote>
 
-<p>Netflix’s gratuitously ugly new custom video player commits various crimes against accessibility. Two years ago I wrote about tvOS’s system accessibility shortcut that lets you assign <a href="https://daringfireball.net/2024/03/quickly_toggling_closed_captions_on_apple_tv">triple-clicking the Back (“\&lt;”) button to toggle captions</a>, and the fact that Netflix didn’t support it. This cursed new player, you will be unsurprised to learn, doesn’t support it either. It also does not support the wonderful standard platform convention of <em>temporarily</em> turning on captions when you rewind 10 or 20 seconds, for a “<em>What did they just say?</em>” moment.</p>
+<p>Netflix’s gratuitously ugly new custom video player commits various crimes against accessibility. Two years ago I wrote about tvOS’s system accessibility shortcut that lets you assign <a href="https://daringfireball.net/2024/03/quickly_toggling_closed_captions_on_apple_tv">triple-clicking the Back (“\&lt;”) button to toggle captions</a>, and the fact that Netflix didn’t support it. This cursed new player, you will be unsurprised to learn, doesn’t support it either. It also does not support the wonderful standard platform convention of <em>temporarily</em> turning on caption when you rewind 10 or 20 seconds, for a “<em>What did they just say?</em>” moment.</p>
 
 <p>This regression dropping the same week that Netflix announced price hikes makes me so angry that I’m giving <a href="https://daringfireball.net/linked/2026/03/27/netflix-raises-prices-again">even <em>more</em> thought</a> to downgrading my family’s Netflix account from the $27/month Premium plan to the $20/month Standard plan. Sending Netflix only $240 per year instead of $324 will show them.</p>
 
@@ -1484,42 +1531,6 @@ building the future of open social infrastructure.</p>
 
 <div>
 <a  title="Permanent link to ‘Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now’"  href="https://daringfireball.net/linked/2026/03/20/bluesky-100m">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Quiche Browser</title>
-	<link rel="alternate" type="text/html" href="https://quiche.industries/browser/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x0c" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/20/quiche-browser" />
-	<id>tag:daringfireball.net,2026:/linked//6.42780</id>
-	<published>2026-03-20T15:38:27Z</published>
-	<updated>2026-03-20T16:15:13Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Quiche Browser is a rather astonishing app from the one-man indie developer <a href="https://nckh.com/">Greg de J.</a>/<a href="https://quiche.industries/">Quiche Industries</a>. (What a killer domain name that is.) Quiche Browser is a very robust, exquisitely designed, stunningly handsome web browser exclusively for iPhone. Just iPhone — although an iPad version is currently in beta. I switched to it as my default iPhone web browser last summer, thinking I’d only stick with it for a day or two before going back to Safari, and I wound up sticking with it for a few weeks. I did go back to Safari, but it was a remarkably close call. So close that, today, I’m going to give it another try. (And I was so enamored during my month-long affair with Quiche that I gladly subscribed to Quiche Plus for $27/year to support such a remarkable app.)</p>
-
-<p>Out of the box, every single aspect of Quiche Browser’s UI and feature set is designed with obvious thought and care. But it <em>also</em> supports a rich array of settings to tweak the design. You can customize the appearance style of the toolbar, the location of the toolbar, the buttons on the toolbar. Quiche brings to iOS something very much akin to AppKit’s Customize Toolbar from the Mac, but if anything, what Quiche implements is <em>more</em> customizable. The typography throughout the app is exquisite. It doesn’t support Safari extensions but it has its own built-in content blocker. And, of course, it has built-in support for Kagi, the world’s best search engine.</p>
-
-<p>What got me thinking about Quiche Browser again today was <a href="https://mastodon.social/@quicheindustries/116258944005087995">this tweet on Mastodon from the developer</a>:</p>
-
-<blockquote>
-  <p>One of the many reasons I made Quiche Browser was to get a
-per-website JavaScript kill switch in my toolbar.</p>
-
-<p>But these days I’m even tempted to disable JavaScript everywhere
-and enable it only where needed.</p>
-</blockquote>
-
-<p>A simple one-tap “JS” button you can toggle on any website. I missed this button when I was test-driving Quiche a few months ago. Every browser should have this button. It’s almost unbelievable how much it improves so many websites.</p>
-
-<p>That “JS” button alone isn’t why you should check out Quiche. It’s the whole thing. It’s just so thoughtful. So utterly modern in its appearance and features, but old-school in its hyperfocus on serving you, the user, through <em>craftsmanship</em>.</p>
-
-<div>
-<a  title="Permanent link to ‘Quiche Browser’"  href="https://daringfireball.net/linked/2026/03/20/quiche-browser">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
