@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-29T20:53:04Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-29T21:20:00Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>WorkOS</title>
 	<link rel="alternate" type="text/html" href="https://workos.com/docs/authkit/cli-installer?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x1n" />
@@ -544,7 +544,7 @@ from $24.99 to $26.99/month.</p>
 	<link rel="shorturl" href="http://df4.us/x1a" />
 	<id>tag:daringfireball.net,2026://1.42814</id>
 	<published>2026-03-27T20:46:14Z</published>
-	<updated>2026-03-27T20:58:23Z</updated>
+	<updated>2026-03-29T21:20:00Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -566,13 +566,13 @@ from $24.99 to $26.99/month.</p>
 
 <p>In Tahoe 26.3 (and presumably, earlier versions of Tahoe), 16 of 19 menu items in Safari’s File menu still showed an icon with this setting enabled. In 26.4, only 5 of 19 do.<sup id="fnr1-2026-03-27"><a href="#fn1-2026-03-27">1</a></sup> The rest of Safari’s other menus have been updated similarly, and look so much better for it.</p>
 
-<p>It’s interesting to me that Safari was updated to support this hidden preference in 26.4. I take it as a sign that there’s a contingent within Apple (or least within the Safari team) that dislikes these menu item icons enough to notice that Safari wasn’t previously recognizing this preference setting. (And I further take it as a sign that within Apple’s engineering ranks, the existence of this <code>defaults</code> setting is widely known.) Keep hope alive.</p>
+<p>It’s interesting to me that Safari was updated to support this hidden preference in 26.4. I take it as a sign that there’s a contingent within Apple (or at least within the Safari team) that dislikes these menu item icons enough to notice that Safari wasn’t previously recognizing this preference setting. (And I further take it as a sign that within Apple’s engineering ranks, the existence of this <code>defaults</code> setting is widely known.) Keep hope alive.</p>
 
 <h2>Now the Bad News</h2>
 
 <p>Another recent Tahoe-related tip I’ve been writing about was using a device management profile to block the prompts in System Settings → General → Software Update to “upgrade” from MacOS 15 Sequoia to 26 Tahoe. I first wrote about it <a href="https://daringfireball.net/linked/2026/02/27/how-to-block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator">a month ago</a>, linking to <a href="https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/">a post from Rob Griffiths</a>. I then wrote about it again, <a href="https://daringfireball.net/linked/2026/03/26/mr-macintosh-imazing-profile-editor-tahoe">just this week</a>, linking to <a href="https://www.youtube.com/watch?v=uRg1pW8TSYk">a YouTube video from Mr. Macintosh</a>.</p>
 
-<p>Ever since this technique started making the rounds, there was widespread commentary that it was taking advantage of a bug, not a feature, in MacOS 15 Sequoia. The 90-day “deferral” period to block the Tahoe update prompts was supposed to be from the date the Tahoe major release (26.0) was released, not from the most recent minor release. Welp, with this week’s release of MacOS 15.7.5, this bug is fixed, and Tahoe shows up in the Software Update panel in System Settings even if you have one of these device management profiles installed. Alas.</p>
+<p>Ever since this technique started making the rounds, there was widespread commentary that it was taking advantage of a bug, not a feature, in MacOS 15 Sequoia. The 90-day “deferral” period to block the Tahoe update prompts was supposed to be from the date of the Tahoe major release (26.0), not from the most recent minor release. Welp, with this week’s release of MacOS 15.7.5, this bug is fixed, and Tahoe shows up in the Software Update panel in System Settings even if you have one of these device management profiles installed. Alas.</p>
 
 <p>All is not lost, however. The same video from Mr. Macintosh shows a second, slightly less elegant way to banish all signs of Tahoe in Software Update (<a href="https://youtu.be/uRg1pW8TSYk?t=546">just after the 9:00 mark</a>). The trick is to register your Mac for the MacOS Sequoia Public Beta updates (or the developer betas). This <a href="https://daringfireball.net/misc/2026/03/sequoia-software-update-with-public-betas.png">blocks all signs of Tahoe</a>. You don’t actually have to install any future betas of Sequoia (at the moment, there are none available). Just make sure you have Automatic Updates disabled too. I’d rather risk inadvertently installing a public beta of 15.8 Sequoia than inadvertently “upgrading” to Tahoe.</p>
 
