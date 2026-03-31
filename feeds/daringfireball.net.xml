@@ -7,7 +7,31 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-31T15:37:54Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-31T16:20:54Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Jensen Huang Doesn’t Smell Anything</title>
+	<link rel="alternate" type="text/html" href="https://bsky.app/profile/carnage4life.bsky.social/post/3mhnqozt7fs2n" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x1u" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/31/jensen-huang" />
+	<id>tag:daringfireball.net,2026:/linked//6.42834</id>
+	<published>2026-03-31T15:54:25Z</published>
+	<updated>2026-03-31T15:54:25Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Nvidia CEO Jensen Huang, during an on-stage interview at The Hill &amp; Valley Forum last week, was asked “What do you see as America’s unique advantages that other countries don’t have?”</p>
+
+<p>His answer, after taking a moment to think, “America’s unique advantage that no country could possibly have is President Trump.”</p>
+
+<p>Huang, newly appointed to the <a href="https://daringfireball.net/linked/2026/03/31/presidents-council-of-advisors-on-science-and-technology">aforelinked</a> President’s Council of Advisors on Science and Technology, seemingly <a href="https://politicalwire.com/2026/03/30/can-trumps-approval-fall-even-further/">doesn’t smell the growing stink</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Jensen Huang Doesn’t Smell Anything’"  href="https://daringfireball.net/linked/2026/03/31/jensen-huang">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Appointees to Trump’s Council of Advisors on Science and Technology</title>
 	<link rel="alternate" type="text/html" href="https://www.whitehouse.gov/releases/2026/03/president-trump-announces-appointments-to-presidents-council-of-advisors-on-science-and-technology/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x1t" />
@@ -62,7 +86,7 @@ Golden Age of Innovation.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/31/new-white-house-app" />
 	<id>tag:daringfireball.net,2026:/linked//6.42832</id>
 	<published>2026-03-31T15:11:08Z</published>
-	<updated>2026-03-31T15:11:09Z</updated>
+	<updated>2026-03-31T16:20:54Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -89,6 +113,8 @@ an official government app? Probably not either.</p>
 <p>The app is, at least temporarily, popular. As I type this <a href="https://daringfireball.net/misc/2026/03/iphone-top-apps-2026-03-31.pdf">it’s #3</a> in the <a href="https://apps.apple.com/us/iphone/charts/36?chart=top-free">iOS App Store top free apps list</a>, sandwiched between Claude and Gemini. I don’t know how similar the iOS app is to the Android one, but I took one for the team and installed it, and after poking around for a few minutes, it hasn’t even prompted me to ask for location access. It’s a crappy app, to be sure. A lot of flashing between screen transitions. When you open an article, there’s <a href="https://daringfireball.net/misc/2026/03/white-house-ios-app-buttons.png">a “&lt; Back” button top left, and an “X” button top right</a>. Both buttons seem to do the same thing. There’s no share sheet for “news” articles, which seems particularly stupid. You can’t even copy a link to an article and share it manually.</p>
 
 <p>But the iOS version has <a href="https://apps.apple.com/us/app/the-white-house/id6759938088">a clean privacy report card in the App Store</a>, and I don’t see anything in the app that makes me doubt that. It seems like the Android version is quite different.</p>
+
+<p>[<strong>Update:</strong> Someone on Reddit <a href="https://www.reddit.com/r/technology/comments/1s6e3dp/comment/od2dc48/">claims to have analyzed the iOS app</a> bundle and discovered similar code as in the Android app, but I still don’t see any way to actually get the iOS app to even ask for location permission. I think there might be code in the app that never gets called. Like I wrote above, it’s clearly not a well-crafted app. If anyone knows how to get the iOS app to actually ask for location access, <a href="https://daringfireball.net/contact/">let me know how</a>.]</p>
 
 <div>
 <a  title="Permanent link to ‘Technical Analysis of the Android Version of the White House’s New App’"  href="https://daringfireball.net/linked/2026/03/31/new-white-house-app">&nbsp;★&nbsp;</a>
@@ -1545,41 +1571,6 @@ for window zoom/resize.</p>
 
 <div>
 <a  title="Permanent link to ‘Gasoline Prices Around the World’"  href="https://daringfireball.net/linked/2026/03/23/gasoline-prices-around-the-world">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>WWDC 2026: June 8–12</title>
-	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/03/apples-worldwide-developers-conference-returns-the-week-of-june-8/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x0m" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/23/wwdc-2026-dates" />
-	<id>tag:daringfireball.net,2026:/linked//6.42790</id>
-	<published>2026-03-23T18:20:04Z</published>
-	<updated>2026-03-23T23:01:08Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Apple Newsroom:</p>
-
-<blockquote>
-  <p>WWDC kicks off with the Keynote and Platforms State of the Union
-on Monday, June 8. The conference continues online all week with
-over 100 video sessions and interactive group labs and
-appointments, where developers can connect directly with Apple
-engineers and designers to explore the latest announcements. The
-conference will take place on the <a href="https://apps.apple.com/us/app/apple-developer/id640199958">Apple Developer app</a>,
-<a href="https://developer.apple.com/">website</a>, and <a href="https://www.youtube.com/@AppleDeveloper/">YouTube channel</a>; and on the <a href="https://space.bilibili.com/429911174">Apple
-Developer bilibili channel</a> in China.</p>
-</blockquote>
-
-<p>I’ve never before heard of <a href="https://en.wikipedia.org/wiki/Bilibili">Bilibili</a>, which seems to be a Chinese equivalent to YouTube.</p>
-
-<p>As usual, <a href="https://developer.apple.com/wwdc26/special-event/">there’s a lottery of sorts to attend the keynote in person</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘WWDC 2026: June 8–12’"  href="https://daringfireball.net/linked/2026/03/23/wwdc-2026-dates">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
