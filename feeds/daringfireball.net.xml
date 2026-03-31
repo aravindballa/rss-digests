@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-31T18:31:49Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-31T19:23:58Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>Jensen Huang Doesn’t Smell Anything</title>
 	<link rel="alternate" type="text/html" href="https://bsky.app/profile/carnage4life.bsky.social/post/3mhnqozt7fs2n" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x1u" />
@@ -86,7 +86,7 @@ Golden Age of Innovation.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/31/new-white-house-app" />
 	<id>tag:daringfireball.net,2026:/linked//6.42832</id>
 	<published>2026-03-31T15:11:08Z</published>
-	<updated>2026-03-31T18:31:49Z</updated>
+	<updated>2026-03-31T19:23:58Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -114,7 +114,9 @@ an official government app? Probably not either.</p>
 
 <p>But the iOS version has <a href="https://apps.apple.com/us/app/the-white-house/id6759938088">a clean privacy report card in the App Store</a>, and I don’t see anything in the app that makes me doubt that. It seems like the Android version is quite different.</p>
 
-<p>[<strong>Update:</strong> Someone on Reddit <a href="https://www.reddit.com/r/technology/comments/1s6e3dp/comment/od2dc48/">claims to have analyzed the iOS app</a> bundle and discovered similar code as in the Android app, but I still don’t see any way to actually get the iOS app to even ask for location permission. I think there might be code in the app that never gets called. Like I wrote above, it’s clearly not a well-crafted app. If anyone knows how to get the iOS app to actually ask for location access, <a href="https://daringfireball.net/contact/">let me know how</a>.]</p>
+<p><strong>Update 1:</strong> Someone on Reddit <a href="https://www.reddit.com/r/technology/comments/1s6e3dp/comment/od2dc48/">claims to have analyzed the iOS app</a> bundle and discovered similar code as in the Android app, but I still don’t see any way to actually get the iOS app to even ask for location permission. I think there might be code in the app that never gets called. Like I wrote above, it’s clearly not a well-crafted app. If anyone knows how to get the iOS app to actually ask for location access, <a href="https://daringfireball.net/contact/">let me know how</a>. Here’s <a href="https://www.atomic.computer/blog/white-house-app-security-analysis/">another analysis of the iOS app</a>.</p>
+
+<p><strong>Update 2:</strong> I installed the Android version of the app too, and just like on iOS, the only permission it asks for is to send notifications. Maybe they will in a future software update, but as far as I can see, the app never even tries to check the device’s location, on either platform.</p>
 
 <div>
 <a  title="Permanent link to ‘Technical Analysis of the Android Version of the White House’s New App’"  href="https://daringfireball.net/linked/2026/03/31/new-white-house-app">&nbsp;★&nbsp;</a>
