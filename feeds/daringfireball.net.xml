@@ -7,7 +7,95 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-03-30T21:23:20Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-03-31T15:37:54Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Appointees to Trump’s Council of Advisors on Science and Technology</title>
+	<link rel="alternate" type="text/html" href="https://www.whitehouse.gov/releases/2026/03/president-trump-announces-appointments-to-presidents-council-of-advisors-on-science-and-technology/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x1t" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/31/presidents-council-of-advisors-on-science-and-technology" />
+	<id>tag:daringfireball.net,2026:/linked//6.42833</id>
+	<published>2026-03-31T15:36:13Z</published>
+	<updated>2026-03-31T15:37:54Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>The White House:</p>
+
+<blockquote>
+  <p>The Council will be co-chaired by David Sacks and Michael
+Kratsios. The following individuals have been appointed:</p>
+
+<p>Marc Andreessen <br />
+Sergey Brin <br />
+Safra Catz <br />
+Michael Dell <br />
+Jacob DeWitte <br />
+Fred Ehrsam <br />
+Larry Ellison <br />
+David Friedberg <br />
+Jensen Huang <br />
+John Martinis <br />
+Bob Mumgaard <br />
+Lisa Su <br />
+Mark Zuckerberg</p>
+
+<p>Under President Trump, PCAST will focus on topics related to the
+opportunities and challenges that emerging technologies present to
+the American workforce, and ensuring all Americans thrive in the
+Golden Age of Innovation.</p>
+</blockquote>
+
+<p><a href="https://www.scientificamerican.com/article/trumps-new-science-panel-includes-9-tech-billionaires-and-just-one-scientist/">Scientific American observes</a> that 12/13 are executives, and only one, Martinis, is an academic researcher. But I mean, of course a council like this, from this administration, is going to be made up of big-cap corporate executives and founders. I’d say it’s more surprising there is even one academic researcher than that there aren’t more.</p>
+
+<p>I’m more intrigued by the companies who aren’t represented: no one from Apple, no one from Microsoft, no one from Amazon. (That left room for two from Oracle, that well known bastion of corporate virtue.) Read into that what you will. Me, I can’t help but suspect that this administration is taking on a profound stink, and something like appointments to this council are akin to a game of music chairs where Tim Cook, Satya Nadella, Andy Jassy, and Jeff Bezos are happy <em>not</em> to have gotten seats.</p>
+
+<div>
+<a  title="Permanent link to ‘Appointees to Trump’s Council of Advisors on Science and Technology’"  href="https://daringfireball.net/linked/2026/03/31/presidents-council-of-advisors-on-science-and-technology">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Technical Analysis of the Android Version of the White House’s New App</title>
+	<link rel="alternate" type="text/html" href="https://blog.thereallo.dev/blog/decompiling-the-white-house-app" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x1s" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/31/new-white-house-app" />
+	<id>tag:daringfireball.net,2026:/linked//6.42832</id>
+	<published>2026-03-31T15:11:08Z</published>
+	<updated>2026-03-31T15:11:09Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Thereallo, after spelunking inside the APK bundle for the Android version:</p>
+
+<blockquote>
+  <ul>
+<li><p>Has a full GPS tracking pipeline compiled in that polls every
+4.5 minutes in the foreground and 9.5 minutes in the background,
+syncing lat/lng/accuracy/timestamp to OneSignal’s servers.</p></li>
+<li><p>Loads JavaScript from a random person’s GitHub Pages site
+(<code>lonelycpp.github.io</code>) for YouTube embeds. If that account is
+compromised, arbitrary code runs in the app’s WebView. [...]</p></li>
+</ul>
+
+<p>Is any of this illegal? Probably not. Is it what you’d expect from
+an official government app? Probably not either.</p>
+</blockquote>
+
+<p><a href="https://en.wikipedia.org/wiki/Hanlon%27s_razor">Hanlon’s razor</a>: “Never attribute to malice that which is adequately explained by stupidity.”</p>
+
+<p>The app is, at least temporarily, popular. As I type this <a href="https://daringfireball.net/misc/2026/03/iphone-top-apps-2026-03-31.pdf">it’s #3</a> in the <a href="https://apps.apple.com/us/iphone/charts/36?chart=top-free">iOS App Store top free apps list</a>, sandwiched between Claude and Gemini. I don’t know how similar the iOS app is to the Android one, but I took one for the team and installed it, and after poking around for a few minutes, it hasn’t even prompted me to ask for location access. It’s a crappy app, to be sure. A lot of flashing between screen transitions. When you open an article, there’s <a href="https://daringfireball.net/misc/2026/03/white-house-ios-app-buttons.png">a “&lt; Back” button top left, and an “X” button top right</a>. Both buttons seem to do the same thing. There’s no share sheet for “news” articles, which seems particularly stupid. You can’t even copy a link to an article and share it manually.</p>
+
+<p>But the iOS version has <a href="https://apps.apple.com/us/app/the-white-house/id6759938088">a clean privacy report card in the App Store</a>, and I don’t see anything in the app that makes me doubt that. It seems like the Android version is quite different.</p>
+
+<div>
+<a  title="Permanent link to ‘Technical Analysis of the Android Version of the White House’s New App’"  href="https://daringfireball.net/linked/2026/03/31/new-white-house-app">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://material.security/lp-cloud-office-security?utm_source=third-party&amp;utm_medium=email&amp;utm_campaign=20260330-daringfireball" />
 	<link rel="shorturl" href="http://df4.us/x1r" />
@@ -1492,48 +1580,6 @@ Developer bilibili channel</a> in China.</p>
 
 <div>
 <a  title="Permanent link to ‘WWDC 2026: June 8–12’"  href="https://daringfireball.net/linked/2026/03/23/wwdc-2026-dates">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’</title>
-	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2015/07/09/ritchie-bad-ads" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x0l" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/23/web-ad-industry-is-fucked-up" />
-	<id>tag:daringfireball.net,2026:/linked//6.42789</id>
-	<published>2026-03-23T18:09:32Z</published>
-	<updated>2026-03-23T18:09:33Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Here’s a post from 2015, linking to Rene Ritchie, then still at iMore, explaining how iMore found itself serving ever worse (and more reader hostile) ads. Not much has changed regarding the state of web advertising in a decade, and iMore — once a truly great site — <a href="https://www.imore.com/apple/one-more-thing-goodbye-from-imore">is defunct</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’’"  href="https://daringfireball.net/linked/2026/03/23/web-ad-industry-is-fucked-up">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>The HTML Review: Issue 05</title>
-	<link rel="alternate" type="text/html" href="https://thehtml.review/05/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x0k" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/23/html-review-issue-05" />
-	<id>tag:daringfireball.net,2026:/linked//6.42788</id>
-	<published>2026-03-23T17:40:05Z</published>
-	<updated>2026-03-23T17:58:42Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>What a lovely thing to drop amidst my <a href="https://daringfireball.net/linked/2026/03/19/hacker-news-49mb-web-page">recent</a> <a href="https://daringfireball.net/2026/03/your_frustration_is_the_product">consternation</a> over the state of web design.</p>
-
-<p>To <a href="https://nosweatshakespeare.com/quotes/famous/my-kingdom-for-a-horse/">paraphrase</a> Richard III: <em>A horse, a horse! My kingdom for native app developers with the conviction of the artist-developers in The HTML Review.</em></p>
-
-<div>
-<a  title="Permanent link to ‘The HTML Review: Issue 05’"  href="https://daringfireball.net/linked/2026/03/23/html-review-issue-05">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
