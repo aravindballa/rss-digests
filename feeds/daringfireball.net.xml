@@ -7,7 +7,47 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-01T20:14:38Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-01T20:27:03Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>More on Apple’s Fun ‘Rewind’ Video</title>
+	<link rel="alternate" type="text/html" href="https://hachyderm.io/@lexfri/116331181693278195" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x23" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/01/more-on-apples-fun-rewind-video" />
+	<id>tag:daringfireball.net,2026:/linked//6.42843</id>
+	<published>2026-04-01T20:27:02Z</published>
+	<updated>2026-04-01T20:27:03Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Lex Friedman (with an embedded video to prove it):</p>
+
+<blockquote>
+  <p>If you reverse the new Apple video that plays in “rewind,” it’s
+the Think Different ad music, pitched up.</p>
+</blockquote>
+
+<p>Of course it is.</p>
+
+<p>And, regarding that “◀︎◀︎ REW” button where the “REW” was set in bitmapped Chicago 12” but the “◀︎◀︎” was modern, <a href="https://mastodon.social/@chockenberry/116330897304678060">Craig Hockenberry fixed it</a>:</p>
+
+<blockquote>
+  <p>I pretended to be Susan Kare and fixed it, bottom is the original, top is my interpretation.</p>
+
+<p><a href="https://daringfireball.net/misc/2026/04/KCOHC.png" class="noborder">
+<img
+  src = "https://daringfireball.net/misc/2026/04/KCOHC.png"
+  alt = "Before and after of Craig Hockenberry’s pixel art “◀︎◀︎ REW” button."
+  width = 500
+/></a></p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘More on Apple’s Fun ‘Rewind’ Video’"  href="https://daringfireball.net/linked/2026/04/01/more-on-apples-fun-rewind-video">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Ben Cohen of the WSJ Tours Apple’s Archive of Prototype Hardware</title>
 	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=74qPQt_5DdM" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x22" />
@@ -1455,30 +1495,6 @@ phone up.”</p>
 
 <div>
 <a  title="Permanent link to ‘The New York Yankees Have the Best Record in Baseball’"  href="https://daringfireball.net/linked/2026/03/26/yankees-best-record-in-baseball">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Mr. Macintosh Explains Another Way to Block the Software Update Prompts for MacOS 26 Tahoe</title>
-	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=uRg1pW8TSYk" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x0x" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/26/mr-macintosh-imazing-profile-editor-tahoe" />
-	<id>tag:daringfireball.net,2026:/linked//6.42801</id>
-	<published>2026-03-26T14:40:06Z</published>
-	<updated>2026-03-26T14:40:06Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Last month I <a href="https://daringfireball.net/linked/2026/02/27/how-to-block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator">posted an item</a> (linking to a <a href="https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/">post from Rob Griffiths</a>) explaining how to hide the prompts in System Settings to upgrade to MacOS 26 Tahoe. The technique I posted involved hand-editing a device management profile.</p>
-
-<p><a href="https://www.youtube.com/watch?v=uRg1pW8TSYk">This video</a> from <a href="https://mrmacintosh.com/">Mr. Macintosh</a> shows how to do the same thing, but using the free <a href="https://imazing.com/profile-editor">iMazing Profile Editor</a> to create the device profile instead of hand-editing the XML Property List. If you were spooked or put off by the original technique, but want to stay on MacOS 15 Sequoia and hide all the prompts related to Tahoe, watch this video.</p>
-
-<p><a href="https://eclecticlight.co/2026/03/24/apple-has-released-macos-tahoe-26-4-and-security-updates-15-7-5-and-14-8-5/">MacOS 15.7.5 Sequoia came out this week</a> alongside Tahoe 26.4, and it was delightful only to see the update notice for 15.7.5 in System Settings.</p>
-
-<div>
-<a  title="Permanent link to ‘Mr. Macintosh Explains Another Way to Block the Software Update Prompts for MacOS 26 Tahoe’"  href="https://daringfireball.net/linked/2026/03/26/mr-macintosh-imazing-profile-editor-tahoe">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
