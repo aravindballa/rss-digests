@@ -7,7 +7,47 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-01T18:45:55Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-01T19:34:11Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Ryan D’Agostino Profiles Tim Cook for Esquire on Apple’s 50th</title>
+	<link rel="alternate" type="text/html" href="https://www.esquire.com/news-politics/a70886045/apple-50th-anniversary/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x20" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/01/dagostino-cook-esquire" />
+	<id>tag:daringfireball.net,2026:/linked//6.42840</id>
+	<published>2026-04-01T19:34:11Z</published>
+	<updated>2026-04-01T19:34:11Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Ryan D’Agostino, writing at Esquire:</p>
+
+<blockquote>
+  <p>Cook was at Jobs’s house the day he died. As he drove back to the
+office to announce it to the employees and, in so doing, to the
+world, he felt a strange kind of shock — strange because Jobs had
+been sick for so long, had even refused medicine when he was first
+diagnosed, instead trying to cure the disease with fruit juices,
+and so there should have been no shock at all.</p>
+
+<p>“By that time, unfortunately, there was an inevitability to it,”
+Cook says. “But I was in denial for so long about the disease and
+where it would go, because I had watched him bounce back so many
+times, I assumed he always would. When I took the CEO role, I
+thought he was going to be executive chairman forever — that’s
+what I thought literally six weeks earlier. Looking back, I know
+somebody could say, How could you think that, given the
+circumstances? But that’s not the way I was wired in that moment.”</p>
+</blockquote>
+
+<p>D’Agostino, fondly recalling the Apple IIe his family got for Christmas in 1983, wrongly remembers that, “When we turned it on, there was a little trash can in the corner of the screen.” Don’t let that conflation of the IIe and the Macintosh (yet to come in 1983) turn you off. It’s a good profile. Cook’s thoughts on Steve Jobs are touching, and D’Agostino gets Cook to expound upon his strategy of “engagement” with the Trump administration to a degree that I don’t think any other interviewer has. Cook’s answer is over 400 words, and Esquire, to their credit, ran the whole thing.</p>
+
+<div>
+<a  title="Permanent link to ‘Ryan D’Agostino Profiles Tim Cook for Esquire on Apple’s 50th’"  href="https://daringfireball.net/linked/2026/04/01/dagostino-cook-esquire">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Inside Apple’s AirPods Max 2 and the H2 Chip Upgrade</title>
 	<link rel="alternate" type="text/html" href="https://www.techradar.com/audio/earbuds-airpods/only-limited-by-the-physics-inside-apples-airpods-max-2-and-the-h2-chip-upgrade" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x1z" />
@@ -1470,45 +1510,6 @@ they’re less visible because three months is the new default.</p>
 
 <div>
 <a  title="Permanent link to ‘Improved Analytics in App Store Connect’"  href="https://daringfireball.net/linked/2026/03/25/improved-analytics-in-app-store-connect">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Claude Can Now Take Control of Your Mac</title>
-	<link rel="alternate" type="text/html" href="https://claude.com/blog/dispatch-and-computer-use" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x0u" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/24/claude-control-mac" />
-	<id>tag:daringfireball.net,2026:/linked//6.42798</id>
-	<published>2026-03-25T01:09:10Z</published>
-	<updated>2026-03-25T02:01:40Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Claude:</p>
-
-<blockquote>
-  <p>In Claude Cowork and Claude Code, you can now enable Claude to use
-your computer to complete tasks. When Claude doesn’t have access
-to the tools it needs, it will point, click, and navigate what’s
-on your screen to perform the task itself. It can open files, use
-the browser, and run dev tools automatically — with no setup
-required.</p>
-
-<p>This feature is now available in research preview for Claude Pro
-and Max subscribers. It works especially well with <a href="https://support.claude.com/en/articles/13947068-assign-tasks-to-claude-from-anywhere-in-cowork">Dispatch</a>,
-which lets you assign Claude tasks from your phone.</p>
-</blockquote>
-
-<p>I think you’re nuts if you try this on your actual Mac, with all your actual data and files. But I thought people were nuts for using a lot of bleeding edge AI features before I tried them myself. It’s certainly notable that Anthropic has shipped agentic AI on the Mac before Apple has, after Apple <a href="https://daringfireball.net/2025/03/apple_is_delaying_the_more_personalized_siri_apple_intelligence_features">originally</a> promised it to arrive a year ago.</p>
-
-<p>The Claude Mac client itself remains a lazy Electron clunker. If Claude Code is so good I don’t get why they don’t prove it by using it to make an even halfway decent native Mac app.</p>
-
-<p><strong>See also:</strong> <a href="https://www.techmeme.com/260323/p38?logging_media_id=3859465363126593864_63063302262&amp;logging_media_author_id=63063302262&amp;source_quote_media_id=3859517772002799963&amp;ranking_info_token=GCAzYzQxMmZjNTZlYmI0YTg0ODQ4YWNmYzBmMzZlMmEzYyWmsvQCJoC3kJwNGBMzODU5NTE3NzcyMDAyNzk5OTYzKANuY2cA&amp;utm_source=ig_text_post_permalink#a260323p38">Techmeme</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Claude Can Now Take Control of Your Mac’"  href="https://daringfireball.net/linked/2026/03/24/claude-control-mac">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
