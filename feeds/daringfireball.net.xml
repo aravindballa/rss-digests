@@ -7,7 +7,73 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-02T19:37:10Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-02T20:12:08Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>John Buck on the Invention of QuickTime</title>
+	<link rel="alternate" type="text/html" href="https://www.theverge.com/tech/902721/quicktime-history-apple?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkcybHEzWGhZTVciLCJwIjoiL3RlY2gvOTAyNzIxL3F1aWNrdGltZS1oaXN0b3J5LWFwcGxlIiwiZXhwIjoxNzc1NTkyNzA0LCJpYXQiOjE3NzUxNjA3MDR9.p4nbje9XKl05Ybv3q31CyAQULuqAB-H9b8qfftSz12k" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x2f" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/02/buck-quicktime-history" />
+	<id>tag:daringfireball.net,2026:/linked//6.42855</id>
+	<published>2026-04-02T20:12:07Z</published>
+	<updated>2026-04-02T20:12:08Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>John Buck at The Verge (gift link), excerpted from his great book, <em><a href="https://books.by/john-buck">Inventing the Future</a></em>:</p>
+
+<blockquote>
+  <p><strong>Steve Perlman:</strong> <em>Almost everyone at Apple, and definitely
+everywhere else, assumed that multimedia would always require
+specialized hardware — and be expensive. A few of us thought
+otherwise.</em></p>
+
+<p>One of the few was Gavin Miller, a research scientist in Apple’s
+Graphics Group, who worked with Hoffert to crack the problem of
+software compression and decompression, otherwise known as codec.</p>
+
+<p><strong>Gavin Miller, research scientist:</strong> <em>We went for a lunchtime
+walk, and by the end of it, we had generalized the model to
+include constant color blocks and 2-bit per-pixel interpolating
+blocks. This allowed us to trade off quantization artifacts in
+large flat areas for more detail in textured areas. The result was
+an increase in quality and performance that helped to make the
+codec practical for really small video sizes.</em></p>
+</blockquote>
+
+<p>Just a typical lunchtime walk-and-talk.</p>
+
+<p>Fun anecdote from 1990:</p>
+
+<blockquote>
+  <p>He asked Peppel to create a product plan that he could announce at
+Apple’s Worldwide Developers Conference on May 7th. That day,
+Casey took to the stage and announced QuickTime to a stunned
+audience, saying, “Apple intends to develop real-time software
+compression/decompression technology that will run on today’s
+modular Macintosh systems. A system-wide time coding to allow
+synchronization of sound, animation, and other time-critical
+processes.”</p>
+
+<p>Casey explained that Apple’s new multimedia architecture would be
+delivered by the end of the year. He did not say that QuickTime
+had no budget, staff, or offices.</p>
+
+<p><strong>Worthington:</strong> <em>We were dumbfounded.</em></p>
+
+<p><strong>Konstantin Othmer, QuickDraw engineer:</strong> <em>I was standing next to
+Bruce Leak, and asked him, “What the heck was that?” He said he
+had no idea.</em></p>
+</blockquote>
+
+<p>QuickTime actually shipped by WWDC 1991, teaching Apple the important lesson that anything they announce at WWDC, no matter how premature, will ship as promised.</p>
+
+<div>
+<a  title="Permanent link to ‘John Buck on the Invention of QuickTime’"  href="https://daringfireball.net/linked/2026/04/02/buck-quicktime-history">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Artemis II Crew on Way to Moon</title>
 	<link rel="alternate" type="text/html" href="https://512pixels.net/2026/04/artemis-ii-crew-on-way-to-moon/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x2e" />
@@ -1569,26 +1635,6 @@ Studio</a> last year.</p>
 
 <div>
 <a  title="Permanent link to ‘Apple Discontinues the Mac Pro With No Plans to Bring It Back’"  href="https://daringfireball.net/linked/2026/03/26/apple-discontinues-the-mac-pro-with-no-plans-to-bring-it-back">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>The Apple Charging Situation</title>
-	<link rel="alternate" type="text/html" href="https://randsinrepose.com/guides/apple-charging-guide.html" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x18" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/26/the-apple-charging-situation" />
-	<id>tag:daringfireball.net,2026:/linked//6.42812</id>
-	<published>2026-03-26T20:20:49Z</published>
-	<updated>2026-03-26T20:20:49Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p><a href="https://daringfireball.net/linked/2026/03/26/macos-26-4-slow-charger-warning">Speaking of power adapters</a>, this information guide from Rands in Repose is both useful and enlightening.</p>
-
-<div>
-<a  title="Permanent link to ‘The Apple Charging Situation’"  href="https://daringfireball.net/linked/2026/03/26/the-apple-charging-situation">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
