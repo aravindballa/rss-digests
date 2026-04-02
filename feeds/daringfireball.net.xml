@@ -7,7 +7,78 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-02T14:15:46Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-02T14:57:28Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/04/pogue_apple_first_50_years" />
+	<link rel="shorturl" href="http://df4.us/x28" />
+	<id>tag:daringfireball.net,2026://1.42848</id>
+	<published>2026-04-02T14:57:28Z</published>
+	<updated>2026-04-02T14:57:28Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">A veritable encyclopedia of Apple history. Just a remarkable, essential, and unique work.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>Pogue was <a href="https://daringfireball.net/thetalkshow/2026/03/18/ep-443">my guest on The Talk Show</a> a few weeks ago to talk about his new book, <em><a href="https://www.applefirst50.com/">Apple: The First 50 Years</a></em>, and the show was a lot of fun. But the book is so good, so comprehensive, so <em>fun</em> that it feels essential to link to it whilst we celebrate Apple’s 50th year. I’m a print guy, generally, but the print edition of this book is especially good — it’s a gorgeous book printed in full color throughout (not just, say, 16 color pages in the middle). Apple’s history is both literally and figuratively colorful, and the photos and screenshots Pogue includes are terrific.</p>
+
+<p>The book is nothing short of an instant classic — simultaneously a very enjoyable read, and a meticulously-researched reference for the decades to come. Pogue covers both well-known ground <em>and</em> reports umpteen nuggets, anecdotes, and details that have never been told before. For example, we all know that Steve Jobs was resistant to opening the iPhone to third-party apps. But Pogue interviewed Scott Forstall and got this story, about just how far Steve Jobs thought Apple could go to expand the iPhone’s software library while not opening it to third-party developers:</p>
+
+<blockquote>
+  <p>“I want you to make a list of every app any customer would ever
+want to use,” he told Forstall. “And then the two of us will
+prioritize that list. And then I’m going to write you a blank
+check, and you are going to build the largest development team in
+the history of the world, to build as many apps as you can as
+quickly as possible.”</p>
+
+<p>Forstall, dubious, began composing a list. But on the side, he
+instructed his engineers to build the security foundations of an
+app store into the iPhone’s software-“against Steve’s knowledge
+and wishes,” Forstall says. [...]</p>
+
+<p>Two weeks after the iPhone’s release, someone figured out how to
+“jailbreak” the iPhone: to hack it so that they could install
+custom apps.</p>
+
+<p>Jobs burst into Forstall’s office. “You have to shut this down!”</p>
+
+<p>But Forstall didn’t see the harm of developers spending their
+efforts making the iPhone better. “If they add something
+malicious, we’ll ship an update tomorrow to protect against that.
+But if all they’re doing is adding apps that are useful, there’s
+no reason to break that.”</p>
+
+<p>Jobs, troubled, reluctantly agreed.</p>
+
+<p>Week by week, more cool apps arrived, available only to jailbroken
+phones. One day in October, Jobs read an article about some of the
+coolest ones.</p>
+
+<p>“You know what?” he said. “We should build an app store.”</p>
+
+<p>Forstall, delighted, revealed his secret plan. He had followed in
+the footsteps of Burrell Smith (the Mac’s memory-expansion
+circuit) and Bob Belleville (the Sony floppy-drive deal): He’d
+disobeyed Jobs and wound up saving the project.</p>
+</blockquote>
+
+<p>The book is just under 600 pages, including a comprehensive index, and it isn’t padded. It is a veritable encyclopedia of Apple history. Just a remarkable, essential, and unique work. If you haven’t ordered a copy, you should, and if you do, here are some make-me-rich affiliate links:</p>
+
+<ul>
+<li>Hardcover:
+<ul><li><a href="https://amzn.to/479Cp8v">Amazon</a></li>
+<li><a href="https://bookshop.org/a/56320/9781982134594">Bookshop.org</a></li></ul></li>
+<li>E-book:
+<ul><li><a href="https://amzn.to/4sKCjfK">Kindle</a></li>
+<li><a href="https://books.apple.com/us/book/apple/id6749329845">Apple Books</a></li>
+<li><a href="https://bookshop.org/a/56320/9781982134655">Bookshop.org</a></li></ul></li>
+</ul>
+
+
+
+    ]]></content>
+  <title>★ David Pogue’s ‘Apple: The First 50 Years’</title></entry><entry>
 	<title>David Pogue: ‘Apple and Me’</title>
 	<link rel="alternate" type="text/html" href="https://pogueman.substack.com/p/apple-and-me-the-first-50-years?triedRedirect=true" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x27" />
@@ -1811,60 +1882,4 @@ intelligence era.</p>
 
 
     ]]></content>
-  <title>★ Squashing</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/03/apple_enclaves_neo_camera_indicator" />
-	<link rel="shorturl" href="http://df4.us/wzq" />
-	<id>tag:daringfireball.net,2026://1.42758</id>
-	<published>2026-03-16T17:27:58Z</published>
-	<updated>2026-03-17T13:45:23Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">“What that means in practice is that even a kernel-level exploit would not be able to turn on the camera without the light appearing on screen.”</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>Some camera-equipped Apple devices have dedicated camera indicator lights. E.g. recent MacBook Pros and MacBook Airs have them in the notch, next to the camera itself. The Studio Display has one in the bezel, next to its camera. Other devices — like iPhones and, now, the MacBook Neo — render a green indicator dot on the device’s display. One might presume that the dedicated indicator lights are significantly more secure than the rendered-on-display indicators. I myself made this presumption in the initial version of <a href="https://daringfireball.net/2026/03/the_macbook_neo">my MacBook Neo review</a> last week. This presumption is, I believe, wrong.</p>
-
-<p>Later last week Apple published, and <a href="https://daringfireball.net/linked/2026/03/12/macbook-neo-on-screen-camera-indicator">I linked to</a>, a <a href="https://support.apple.com/guide/security/mac-on-screen-camera-indicator-light-sec75a2d237d/1/web/1">small update in their Platform Security Guide</a>, which states:</p>
-
-<blockquote>
-  <p>MacBook Neo combines system software and dedicated silicon
-elements within A18 Pro to provide additional security for the
-camera feed. The architecture is designed to prevent any untrusted
-software — even with root or kernel privileges in macOS — from
-engaging the camera without also visibly lighting the on-screen
-camera indicator light.</p>
-</blockquote>
-
-<p>The reason it’s tempting to think that a dedicated camera indicator light is more secure than an on-display indicator is the fact that hardware is generally more secure than software, because it’s harder to tamper with. With hardware, a dedicated hardware indicator light can be connected to the camera hardware such that if the camera is accessed, the light must turn on, with no way for software running on the device, no matter its privileges, to change that. With an indicator light that is rendered on the display, it’s not foolish to worry that malicious software, with sufficient privileges, could draw over the pixels on the display where the camera indicator is rendered, disguising that the camera is in use.</p>
-
-<p>If this were implemented simplistically, that concern would be completely valid. But Apple’s implementation of this is far from simplistic. <a href="https://daringfireball.net/search/Guilherme+Rambo">Friend of the site</a> and renowned developer and low-level-OS spelunker <a href="https://www.rambo.codes/">Guilherme Rambo</a> texted me a note, which, with his permission, I’ll quote:</p>
-
-<blockquote>
-  <p>Tidbit: the software-based camera indicator light in the MacBook
-Neo runs in the secure exclave¹ part of the chip, so it is almost
-as secure as the hardware indicator light. What that means in
-practice is that even a kernel-level exploit would not be able to
-turn on the camera without the light appearing on screen. It runs
-in a privileged environment separate from the kernel and blits the
-light directly onto the screen hardware. All of that applies to
-the mic indicator as well, which is a bonus compared to the
-camera-only hardware indicator.</p>
-
-<p>¹ Exclaves run on a completely isolated realtime operating system
-that communicates with the kernel and userspace using a very
-limited API surface. Not to be confused with Secure Enclave,
-that’s a different thing.</p>
-</blockquote>
-
-<p>(That’s right, his text message had a footnote. Like I said, he’s a friend of the site. Also: <a href="https://en.wiktionary.org/wiki/blit">blitting</a>.)</p>
-
-<p><em>Exclave</em> was the word I needed. Once I read that, it came back to me, and I recalled <a href="https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194">Random Augustine’s “On Apple Exclaves”</a>, which I <a href="https://daringfireball.net/linked/2025/03/19/on-apple-exclaves">linked to almost exactly one year ago</a> and described as “a splendidly nerdy but very approachable overview of the evolution of Apple’s XNU kernel over the last decade”. As Augustine documents, secure exclaves are something Apple had been building toward for a decade, but which only became enabled with the M4 and A18 generations of Apple Silicon.</p>
-
-<p>If you’re curious, I encourage you to read (or re-read) <a href="https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194">Augustine’s “On Apple Exclaves”</a>, which should disabuse you of any concerns that these on-display camera indicators on the MacBook Neo and recent iPhone models are anything less than <em>very</em> secure designs.</p>
-
-
-
-    ]]></content>
-  <title>★ Apple Exclaves and the Secure Design of the MacBook Neo’s On-Screen Camera Indicator</title></entry></feed><!-- THE END -->
+  <title>★ Squashing</title></entry></feed><!-- THE END -->
