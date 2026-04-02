@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-02T20:12:08Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-02T20:20:05Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>John Buck on the Invention of QuickTime</title>
 	<link rel="alternate" type="text/html" href="https://www.theverge.com/tech/902721/quicktime-history-apple?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkcybHEzWGhZTVciLCJwIjoiL3RlY2gvOTAyNzIxL3F1aWNrdGltZS1oaXN0b3J5LWFwcGxlIiwiZXhwIjoxNzc1NTkyNzA0LCJpYXQiOjE3NzUxNjA3MDR9.p4nbje9XKl05Ybv3q31CyAQULuqAB-H9b8qfftSz12k" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x2f" />
@@ -149,7 +149,7 @@ production schedule, OpenAI said.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/02/axios-attack" />
 	<id>tag:daringfireball.net,2026:/linked//6.42852</id>
 	<published>2026-04-02T18:42:39Z</published>
-	<updated>2026-04-02T18:48:57Z</updated>
+	<updated>2026-04-02T20:20:05Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -169,7 +169,7 @@ purpose is to run a <code>postinstall</code> script that deploys a
 cross-platform remote access trojan. The dropper contacts a live
 command-and-control server, delivers separate second-stage
 payloads for macOS, Windows, and Linux, then erases itself and
-replaces its own <code>package.json</code>with a clean decoy. A developer who
+replaces its own <code>package.json</code> with a clean decoy. A developer who
 inspects their <code>node_modules</code> folder after the fact will find no
 indication anything went wrong.</p>
 
