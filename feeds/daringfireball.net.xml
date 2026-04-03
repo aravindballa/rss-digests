@@ -7,7 +7,43 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-03T18:34:20Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-03T19:37:27Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Apple Releases iOS 18 Security Updates for iOS 26 Holdouts</title>
+	<link rel="alternate" type="text/html" href="https://sixcolors.com/post/2026/04/apple-releases-ios-18-security-updates-for-ios-26-holdouts/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x2h" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/03/ios-18-update-for-holdouts" />
+	<id>tag:daringfireball.net,2026:/linked//6.42857</id>
+	<published>2026-04-03T19:28:36Z</published>
+	<updated>2026-04-03T19:37:27Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jason Snell:</p>
+
+<blockquote>
+  <p>Last December I complained that <a href="https://sixcolors.com/post/2025/12/apple-is-forcing-iphones-to-update-to-ios-26-to-patch-security-holes/">Apple was withholding iOS 18 security updates from iPhones capable of running iOS 26</a>, leaving users who didn’t want to upgrade to Apple’s latest OS version yet in some security peril.</p>
+
+<p>Well, I have good news and bad news. The good news: As of Wednesday April 1, Apple is pushing out iOS 18.7.7 to all devices running iOS 18. This update, released last month for devices that were not capable of running iOS 26, is now available even for compatible devices. If you’ve got auto-update turned on but have not gone through the steps to do a full upgrade to iOS 26, this update can be automatically pushed and applied. This is good news, as those who have opted not to run iOS 26 will get to take advantage of several sets of security releases.</p>
+
+<p>Now the bad news: This is happening because of some really bad security breaches like <a href="https://cloud.google.com/blog/topics/threat-intelligence/darksword-ios-exploit-chain">DarkSword</a> and <a href="https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit">Coruna</a>.</p>
+</blockquote>
+
+<p>It feels a bit spiteful that Apple doesn’t support staying a year behind the major version of iOS like they do — <a href="https://daringfireball.net/search/tahoe">thankfully</a> — with MacOS. The vast majority of iPhone and iPad users just do what Apple encourages — they accept the default setting to auto-update when Apple pushes updates to their devices. People who update manually do so by choice, and if that choice is offered, it ought to be supported.</p>
+
+<p>That said, after buying an iPhone 17 Pro, I left my year-and-a-half-old iPhone 16 Pro on iOS 18, so I updated that phone to 18.7.7 the other day when this became available. I’ve kept that phone on the old OS mostly for comparing what’s changed in iOS 26. I took this opportunity to switch back to that phone, full-time, for two days. It was, to be honest, no big deal. For all the consternation over Liquid Glass, on iPhone, nothing really sticks out to me switching from iOS 26 back to iOS 18, or vice-versa. iOS 26 just feels visually tweaked, not radically changed.</p>
+
+<p>I like iOS 26 just fine, but I also still like iOS 18, and the differences just don’t seem <em>that</em> significant. For me at least, it’s nothing like switching between MacOS 15 Sequoia and 26 Tahoe. iOS 26 makes some highly opinionated choices, but it feels like it was thoughtfully designed by people who know and love the core longstanding idioms of iOS. MacOS 26 Tahoe feels like it was carelessly designed by people who’ve never used a Mac and wish it would just go away.</p>
+
+<p><strong>See also:</strong> <a href="https://mjtsai.com/blog/2026/04/02/ios-18-7-7-and-ipados-18-7-7/">Michael Tsai’s roundup</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Releases iOS 18 Security Updates for iOS 26 Holdouts’"  href="https://daringfireball.net/linked/2026/04/03/ios-18-update-for-holdouts">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple Still Has Jessica Chastain’s ‘The Savant’ on Ice, Seven Months After It Was Set to Debut</title>
 	<link rel="alternate" type="text/html" href="https://www.macstories.net/news/coming-soon-whats-next-on-apple-tv-and-apple-arcade-in-april-2026/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x2g" />
@@ -1536,39 +1572,6 @@ or stored by Apple, and is not shared with third parties.</p>
 
 <div>
 <a  title="Permanent link to ‘Apple Announces Ads Are Coming to Apple Maps’"  href="https://daringfireball.net/linked/2026/03/27/apple-announces-ads-are-coming-to-apple-maps">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Netflix Raises Prices Again</title>
-	<link rel="alternate" type="text/html" href="https://variety.com/2026/tv/news/why-netflix-hiked-prices-explained-chart-1236701365/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x1b" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/27/netflix-raises-prices-again" />
-	<id>tag:daringfireball.net,2026:/linked//6.42815</id>
-	<published>2026-03-27T23:43:21Z</published>
-	<updated>2026-03-27T23:45:03Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Todd Spangler, Variety:</p>
-
-<blockquote>
-  <p>Under the new pricing, effective March 26 for new users and
-rolling out to current customers depending on their billing cycle,
-Netflix’s Standard plan (which has no ads and provides streaming
-on two devices simultaneously) is rising by $2, from $17.99 to
-$19.99/month. The ad-supported plan is going up a buck, from $7.99
-to $8.99/month, and the top-tier Premium plan (no ads, streaming
-on up to four devices at once, Ultra HD and HDR) is increasing
-from $24.99 to $26.99/month.</p>
-</blockquote>
-
-<p>I pay the full $27/month because I’d rather cancel Netflix than watch ads, and I suspect I’d notice the difference between 4K and 1080p. But also because money runs through my fingers like water.</p>
-
-<div>
-<a  title="Permanent link to ‘Netflix Raises Prices Again’"  href="https://daringfireball.net/linked/2026/03/27/netflix-raises-prices-again">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
