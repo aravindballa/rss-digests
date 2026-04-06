@@ -7,7 +7,35 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-06T15:20:36Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-06T16:39:26Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Little Finder Guy Stars in Nine New Apple TikTok and YouTube Videos</title>
+	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2026/04/02/little-finder-guy-tiktok-youtube/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x2n" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/06/more-little-finder-guy" />
+	<id>tag:daringfireball.net,2026:/linked//6.42863</id>
+	<published>2026-04-06T16:39:26Z</published>
+	<updated>2026-04-06T16:39:26Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Juli Clover, at MacRumors:</p>
+
+<blockquote>
+  <p>Apple has shared nine Little Finder Guy videos this week, and on
+TikTok, the thumbnails for the videos come together to make a
+Little Finder Guy mosaic on the Apple TikTok page.</p>
+</blockquote>
+
+<p>I hope this doesn’t jinx the negotiations, but I’m working on getting Little Finder Guy as my guest for The Talk Show Live From WWDC this June.</p>
+
+<div>
+<a  title="Permanent link to ‘Little Finder Guy Stars in Nine New Apple TikTok and YouTube Videos’"  href="https://daringfireball.net/linked/2026/04/06/more-little-finder-guy">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize</title>
 	<link rel="alternate" type="text/html" href="https://truthsocial.com/@realDonaldTrump/posts/116351998782539414" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x2m" />
@@ -1447,70 +1475,6 @@ PDF Archive:
 
 <div>
 <a  title="Permanent link to ‘‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’’"  href="https://daringfireball.net/linked/2026/03/28/mccracken-apple-oral-history">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Netflix Wrecked Their tvOS Video Player</title>
-	<link rel="alternate" type="text/html" href="https://www.pocket-lint.com/netflix-just-made-their-app-worse-and-theres-no-way-to-fix-it/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x1h" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/28/netflix-wrecked-their-tvos-video-player" />
-	<id>tag:daringfireball.net,2026:/linked//6.42821</id>
-	<published>2026-03-28T15:52:08Z</published>
-	<updated>2026-03-29T20:21:50Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Amanda Kondolojy, writing for Pocket-lint:</p>
-
-<blockquote>
-  <p>Though the Netflix app is largely the same on most platforms, over
-the weekend several Apple TV users on the unofficial <a href="https://www.reddit.com/r/appletv/">Apple TV
-Reddit</a> noticed some small changes to the tvOS version of
-the app that are making the app harder to use in subtle but very
-frustrating ways.</p>
-
-<p>According to user <a href="https://www.reddit.com/r/appletv/comments/1s11td4/did_netflix_mess_up_the_app_there_are_two_extra/">iamonreddit</a>, the most recent Netflix app
-update has made it slightly more difficult to use the fast-forward
-and rewind functions. Instead of clicking the back or forward
-button on the remote wheel to advance or return ten seconds, this
-button press now pauses the screen and brings up a frame selector.
-In order to actually go forward or go back, users then have to
-click the same button again. So essentially, what once required a
-single button press, now needs two.</p>
-</blockquote>
-
-<p>These changes aren’t small, aren’t subtle, and don’t make fast-forwarding and rewinding merely “slightly” more difficult. (And what once required a single button press now requires <em>three</em>, not two.) The video playback interface in a streaming app is the most essential thing a streaming app does, and now Netflix’s tvOS player looks terrible and works wrong. The original report Kondolojy cites, from Reddit user “iamonreddit” (yes, you are), <a href="https://www.reddit.com/r/appletv/">describes it as it is</a>:</p>
-
-<blockquote>
-  <p>Did Netflix mess up the app? There are two extra clicks for a
-simple 10s rewind or fast forward. Instead of it going back 10s in
-one click, now it pauses and brings up the frame selector, and
-then you have to click again. Did they not do any research or
-usability testing before releasing this?</p>
-
-<p>It’s also not smooth at all, it keeps spinning for a while and I
-have 1gig fiber optic internet. What a big downgrade!</p>
-
-<p>They have some of the top paid employees in the world and this is
-what they come up with. Unless this was the result of some
-restrictions introduced by Apple.</p>
-
-<p>Looks like they messed it up big time. Netflix used to set
-benchmarks for others. And here we are now. I’ve never had a
-single problem with their app so for, for over a decade of use.</p>
-</blockquote>
-
-<p>Netflix’s gratuitously ugly new custom video player commits various crimes against accessibility. Two years ago I wrote about tvOS’s system accessibility shortcut that lets you assign <a href="https://daringfireball.net/2024/03/quickly_toggling_closed_captions_on_apple_tv">triple-clicking the Back (“&lt;”) button to toggle captions</a>, and the fact that Netflix didn’t support it. This cursed new player, you will be unsurprised to learn, doesn’t support it either. It also does not support the wonderful standard platform convention of <em>temporarily</em> turning on captions when you rewind 10 or 20 seconds, for a “<em>What did they just say?</em>” moment.</p>
-
-<p><strong>Update:</strong> Switching to their own custom video player <em>also</em> broke Netflix’s integration with the iPhone. Until last week, playing video in the Netflix app on Apple TV would put a live activity widget on your iPhone lock screen with the name of the current program, scrub location, and player controls. Now that’s gone.</p>
-
-<p>This regression dropping the same week that Netflix announced price hikes makes me so angry that I’m giving <a href="https://daringfireball.net/linked/2026/03/27/netflix-raises-prices-again">even <em>more</em> thought</a> to downgrading my family’s Netflix account from the $27/month Premium plan to the $20/month Standard plan. Sending Netflix only $240 per year instead of $324 will show them.</p>
-
-<div>
-<a  title="Permanent link to ‘Netflix Wrecked Their tvOS Video Player’"  href="https://daringfireball.net/linked/2026/03/28/netflix-wrecked-their-tvos-video-player">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
