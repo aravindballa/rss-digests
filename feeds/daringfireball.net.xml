@@ -7,14 +7,31 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-06T19:04:54Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-06T19:17:52Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	
+	<link rel="alternate" type="text/html" href="https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century/?utm_source=df" />
+	<link rel="shorturl" href="http://df4.us/x2p" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2026/04/zed_a_font_superfamily" />
+	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.42865</id>
+	<author><name>Daring Fireball Department of Commerce</name></author>
+	<published>2026-04-06T19:15:05Z</published>
+	<updated>2026-04-06T19:15:06Z</updated>
+	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
+<p>Zed is a type system that was developed with one question in mind: what do readers actually need? Not what looks good in a type specimen, but what works for the widest possible range of readers. We tested Zed with visually impaired patients at a French ophthalmology hospital and found that Zed Text outperformed Helvetica in terms of reading speed across all patient groups. Designed from scratch to perform different functions, it comes in two optical versions — Text and Display — with four variable axes and support for 547 languages, including endangered ones. It is available directly from the designers.</p>
+
+<div>
+<a  title="Permanent link to ‘Zed, a Font Superfamily’"  href="https://daringfireball.net/feeds/sponsors/2026/04/zed_a_font_superfamily">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+	<title>[Sponsor] Zed, a Font Superfamily</title></entry><entry>
 	<title>Anthropic Accidentally Leaked the Entire Claude Code CLI Source Code</title>
 	<link rel="alternate" type="text/html" href="https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x2o" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/06/anthropic-claude-code-leak" />
 	<id>tag:daringfireball.net,2026:/linked//6.42864</id>
 	<published>2026-04-06T19:04:54Z</published>
-	<updated>2026-04-06T19:04:54Z</updated>
+	<updated>2026-04-06T19:17:52Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -46,7 +63,7 @@ prevent this from happening again.</p>
 </blockquote>
 </blockquote>
 
-<p>Not exactly confidence inspiring, given how incredibly sensitive much of the material users give Claude and Claude Code access to.</p>
+<p>Not exactly confidence inspiring, given how incredibly sensitive much of the material users give Claude and Claude Code access to. To say the least, <a href="https://www.wsj.com/tech/ai/anthropic-races-to-contain-leak-of-code-behind-claude-ai-agent-4bc5acc7">it undermines the message</a> that companies should trust their source code to Claude Code when Anthropic accidentally leaked their <em>own</em> source code.</p>
 
 <div>
 <a  title="Permanent link to ‘Anthropic Accidentally Leaked the Entire Claude Code CLI Source Code’"  href="https://daringfireball.net/linked/2026/04/06/anthropic-claude-code-leak">&nbsp;★&nbsp;</a>
@@ -151,13 +168,13 @@ deep fanaticism. Apologies for sharing this language.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/04/sponsorship-openings-for-daring-fireball" />
 	<id>tag:daringfireball.net,2026:/linked//6.42861</id>
 	<published>2026-04-05T00:59:00Z</published>
-	<updated>2026-04-05T01:03:19Z</updated>
+	<updated>2026-04-06T19:13:11Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Sponsorships have been selling briskly, <a href="https://daringfireball.net/linked/2026/03/06/daring-fireball-weekly-sponsorship-openings">of late</a>. Knock on wood. As of yesterday, the next opening on the schedule wasn’t until the very end of July. However, due to some schedule rejiggering, <em>next week</em> is now open. After next week, though, the next opening remains the week starting July 27.</p>
+<p>Sponsorships have been selling briskly, <a href="https://daringfireball.net/linked/2026/03/06/daring-fireball-weekly-sponsorship-openings">of late</a>. Knock on wood. As of yesterday, the next opening on the schedule wasn’t until the very end of July. <s>However, due to some schedule rejiggering, <em>next week</em> is now open.</s> After that, the next opening remains the week starting July 27.</p>
 
 <p>If you’ve got a product or service you think would be of interest to DF’s audience of people obsessed with high quality and good design, get in touch — especially if you can act quick for next week’s opening. I’m also booking sponsorships for Q3 and Q4 2026, and over half of those weeks are already sold.</p>
 
@@ -1620,27 +1637,6 @@ for window zoom/resize.</p>
 
     ]]></content>
   <title>★ What to Do About Those Menu Item Icons in MacOS 26 Tahoe</title></entry><entry>
-	
-	<link rel="alternate" type="text/html" href="https://workos.com/docs/authkit/cli-installer?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026" />
-	<link rel="shorturl" href="http://df4.us/x0o" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2026/03/npx_workos_from_auth_integrati" />
-	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.42792</id>
-	<author><name>Daring Fireball Department of Commerce</name></author>
-	<published>2026-03-24T00:05:06Z</published>
-	<updated>2026-03-24T00:05:06Z</updated>
-	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
-<p><code>npx workos@latest</code> launches <a href="https://youtu.be/icUycAMC1h0?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026">an AI agent, powered by Claude</a>, that reads your project, detects your framework, and writes a complete auth integration into your codebase. No signup required. It creates an environment, populates your keys, and you claim your account later when you’re ready.</p>
-
-<p><a href="https://workos.com/blog/agent-experience?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026">But the CLI goes way beyond installation</a>. WorkOS Skills make your coding agent a WorkOS expert. <code>workos seed</code> defines your environment as code. <code>workos doctor</code> finds and fixes misconfigurations. And once you’re authenticated, your agent can manage users, orgs, and environments directly from the terminal. No more ClickOps.</p>
-
-<p><a href="https://workos.com/docs/authkit/cli-installer?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026">See how it works →</a></p>
-
-<div>
-<a  title="Permanent link to ‘npx workos: From Auth Integration to Environment Management, Zero ClickOps’"  href="https://daringfireball.net/feeds/sponsors/2026/03/npx_workos_from_auth_integrati">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-	<title>[Sponsor] npx workos: From Auth Integration to Environment Management, Zero ClickOps</title></entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/03/applescript_save_marsedit_document_to_text_file" />
 	<link rel="shorturl" href="http://df4.us/x05" />
