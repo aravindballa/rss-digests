@@ -7,7 +7,53 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-06T17:07:10Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-06T19:04:54Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Anthropic Accidentally Leaked the Entire Claude Code CLI Source Code</title>
+	<link rel="alternate" type="text/html" href="https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x2o" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/06/anthropic-claude-code-leak" />
+	<id>tag:daringfireball.net,2026:/linked//6.42864</id>
+	<published>2026-04-06T19:04:54Z</published>
+	<updated>2026-04-06T19:04:54Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Samual Axon, reporting last week for Ars Technica:</p>
+
+<blockquote>
+  <p>Early this morning, Anthropic published version 2.1.88 of Claude
+Code npm package — but it was quickly discovered that package
+included a source map file, which could be used to access the
+entirety of Claude Code’s source — almost 2,000 TypeScript files
+and more than 512,000 lines of code.</p>
+
+<p>Security researcher Chaofan Shou was the first to publicly <a href="https://x.com/Fried_rice/status/2038894956459290963">point
+it out on X</a>, with a link to an archive containing the files.
+The codebase was then put in a public GitHub repository, and it
+has been forked tens of thousands of times.</p>
+
+<p>Anthropic publicly acknowledged the mistake in a statement to
+<a href="https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know">VentureBeat</a> and other outlets, which reads:</p>
+
+<blockquote>
+  <p>Earlier today, a Claude Code release included some internal
+source code. No sensitive customer data or credentials were
+involved or exposed. This was a release packaging issue caused by
+human error, not a security breach. We’re rolling out measures to
+prevent this from happening again.</p>
+</blockquote>
+</blockquote>
+
+<p>Not exactly confidence inspiring, given how incredibly sensitive much of the material users give Claude and Claude Code access to.</p>
+
+<div>
+<a  title="Permanent link to ‘Anthropic Accidentally Leaked the Entire Claude Code CLI Source Code’"  href="https://daringfireball.net/linked/2026/04/06/anthropic-claude-code-leak">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Little Finder Guy Stars in Nine New Videos on TikTok and YouTube</title>
 	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2026/04/02/little-finder-guy-tiktok-youtube/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x2n" />
@@ -1444,39 +1490,6 @@ that they support <a href="https://support.apple.com/guide/tv/accessibility-feat
 
 <div>
 <a  title="Permanent link to ‘Apple Should Set and Enforce Some Basic Standards for Custom Video Players on tvOS’"  href="https://daringfireball.net/linked/2026/03/28/apple-should-set-and-enforce-some-basic-standards-for-custom-video-players-on-tvos">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’</title>
-	<link rel="alternate" type="text/html" href="https://www.fastcompany.com/91514404/apple-founding-50th-anniversary-apple-1-apple-ii-jobs-wozniak?mvgt=E5Loo3fO74zl" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x1i" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/28/mccracken-apple-oral-history" />
-	<id>tag:daringfireball.net,2026:/linked//6.42822</id>
-	<published>2026-03-28T21:57:01Z</published>
-	<updated>2026-03-28T22:18:30Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>This feature from Harry McCracken is just spectacularly good. (And it’s a gift link that’ll get you past Fast Company’s paywall.) 50 years is a long time and there are some key players in Apple’s origin story who are gone — but because everyone was so young at the time, it’s amazing how many of them are still alive. And, of course, in Chris Espinosa’s case, still working at Apple:</p>
-
-<blockquote>
-  <p>I was sitting there in the Byte Shop in Palo Alto on an Apple-1 writing BASIC programs, and this guy with a scraggly beard and no shoes came in and looked at me and conducted what I later understood to be the standard interview, which was “Who are you?” I said, “I’m Chris.” And he said, “What are you doing?” I said, “I’m writing BASIC programs on this Apple-1 for the owner.” And he said, “Are you any good?” I showed him my BASIC programs on the Apple-1.</p>
-
-<p>He told me, “I’ve seen you around Homebrew. Woz is working on this second-generation computer, and instead of loading BASIC from cassette tape, we want to put it in ROM. And so it has to be perfect. I want you to come and test Woz’s BASIC, and I’ll give you 4K of RAM for that when you build your own computer.” That sounded like a good deal. Steve Jobs’s idea back then of recruiting was to grab a random-ass 14-year-old off the streets.</p>
-</blockquote>
-
-<p>Apple is at its best when it’s infused with a bit of the spirit of the two Steves whose first joint venture were blue boxes that let you make long distance phone calls for free. The first public phone call Steve Jobs ever made on an iPhone was <a href="https://www.youtube.com/watch?v=bd6dQmN-mPw">a prank call</a> to the Starbucks next to Moscone West. I feel like that renegade spirit has been repressed in the Tim Cook era.</p>
-
-<!--
-PDF Archive:
-/misc/2026/03/Harry%20McCracken%20%E2%80%94%20How%20Apple%20became%20Apple%E2%80%A2%20The%20definitive%20oral%20history%20of%20the%20company%E2%80%99s%20earliest%20days.pdf
--->
-
-<div>
-<a  title="Permanent link to ‘‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’’"  href="https://daringfireball.net/linked/2026/03/28/mccracken-apple-oral-history">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
