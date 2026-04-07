@@ -7,7 +7,141 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-07T16:52:45Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-07T22:15:23Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/04/openai_future" />
+	<link rel="shorturl" href="http://df4.us/x2t" />
+	<id>tag:daringfireball.net,2026://1.42869</id>
+	<published>2026-04-07T22:07:08Z</published>
+	<updated>2026-04-07T22:15:23Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">I don’t see the path from here to there, where *there* is a justification for a trillion-dollar-ish valuation.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>OpenAI, one week ago, <a href="https://openai.com/index/accelerating-the-next-phase-ai/">in an unbylined post on the company blog</a>:</p>
+
+<blockquote>
+  <p>Today, we closed our latest funding round with $122 billion in
+committed capital at a post money valuation of $852 billion.</p>
+</blockquote>
+
+<p>For comparison, here are the current market caps and 2025 annual profits for public companies in that valuation range:</p>
+
+<p><table class="table-6BC6F0DB-597A-48A9-8793-B6C02805510C" width=400>
+<style>
+.table-6BC6F0DB-597A-48A9-8793-B6C02805510C th:nth-child(1) { text-align: left }
+.table-6BC6F0DB-597A-48A9-8793-B6C02805510C td:nth-child(1) { text-align: left }
+.table-6BC6F0DB-597A-48A9-8793-B6C02805510C th:nth-child(2) { text-align: center }
+.table-6BC6F0DB-597A-48A9-8793-B6C02805510C td:nth-child(2) { text-align: center }
+.table-6BC6F0DB-597A-48A9-8793-B6C02805510C th:nth-child(3) { text-align: center }
+.table-6BC6F0DB-597A-48A9-8793-B6C02805510C td:nth-child(3) { text-align: center }
+</style>
+<thead>
+<th></th><th>Market Cap</th><th>2025 Net Income</th>
+</thead>
+<tbody>
+<tr>
+<td>Berkshire Hathaway</td><td>$1,028 B</td><td>$67 B</td>
+</tr>
+<tr>
+<td>Walmart</td><td>$980 B</td><td>$22 B</td>
+</tr>
+<tr>
+<td>Samsung</td><td>$855 B</td><td>$29 B</td>
+</tr>
+<tr>
+<td>Eli Lilly</td><td>$832 B</td><td>$21 B</td>
+</tr>
+</tbody>
+</table></p>
+
+<p><a href="https://daringfireball.net/linked/2026/03/31/bi-fidji-simo">In a post last week</a>, I quoted a Deutsche Bank projection estimating that OpenAI is going to <em>lose</em> $143 billion between 2024 and 2029. OpenAI’s refutation of this estimate is that no, they’re merely going to lose $111 billion in that timeframe. Even in the company’s own optimistic scenario, they’re going to <em>lose</em>, on average, as much money per year as any of these companies <em>earn</em>. (Well, except for Berkshire, which earned significantly <em>more</em> than the others last year.)</p>
+
+<p>I’m not trying to be thick here. Obviously the idea behind OpenAI’s astronomical valuation is that at some point they’ll stop losing money, and then, presumably starting at some point in the 2030s, they’re going to start generating mountains of profit. P/E ratios are not effective for evaluating a startup in hyper-growth phase, but the idea is that <em>eventually</em> a successful startup will achieve a balanced P/E ratio. That seems possible for OpenAI. It also seems far, if not very far, from certain. My gut feeling, now more than ever, is that it is unlikely to happen, and that the most likely scenario is that the entire company goes into history alongside companies like Enron. They’re generating steadily increasing revenue now, yes, but by selling dollars of compute for pennies. <a href="https://www.nbc.com/saturday-night-live/video/first-citywide-change-bank/2723464">First CityWide Change Bank</a> had a better business strategy than that — they gave you the correct change.<sup id="fnr1-2026-04-07"><a href="#fn1-2026-04-07">1</a></sup></p>
+
+<p>I purposely stretched the valuation range in my table above into the $1T market cap range so I could include Berkshire Hathaway, a company I’ve always greatly admired. Warren Buffett has long promoted the idea of seeking to invest in companies not just with moats, <a href="https://finance.yahoo.com/news/warren-buffett-explains-moat-principle-164442359.html">but with <em>defensible</em> moats</a>. I still haven’t seen a good refutation of the leaked internal Google white paper whose actual title was “<a href="https://daringfireball.net/linked/2024/11/29/cal-paterson-llms-as-businesses">We Have No Moat, and Neither Does OpenAI</a>”. What Google does have are highly profitable existing products and services.</p>
+
+<p>Back to OpenAI’s funding announcement, skipping over the next 1,111 words, all of which struck me as meaningless blather (and, if I had to bet, largely written by ChatGPT):</p>
+
+<blockquote>
+  <p>That is why we are building a unified AI superapp. As models
+become more capable, the limiting factor shifts from intelligence
+to usability. Users do not want disconnected tools. They want a
+single system that can understand intent, take action, and operate
+across applications, data, and workflows. Our superapp will bring
+together ChatGPT, Codex, browsing, and our broader agentic
+capabilities into one agent-first experience.</p>
+
+<p>This is not just product simplification. It is a distribution and
+deployment strategy.</p>
+</blockquote>
+
+<p>This is not “product simplification” <em>at all</em>. This is production complication. Web browsers are incredibly complex apps. OpenAI’s web browser — <a href="https://openai.com/index/introducing-chatgpt-atlas/">Atlas</a> — is a failure. No one uses it. And they think they’re going to <em>simplify</em> things by cramming Atlas — an unpopular web browser almost no one has heard of — together with their chatbot and developer tool? Would it strike you as a simplification, or a sign of product design depravity, if Apple announced that it was merging Safari and Messages into one “superapp”? Focused, discrete apps are the best proven way to manage complexity.</p>
+
+<p>Maybe merging all their apps into one will work out for OpenAI. But even if it does, it won’t be simpler. Microsoft Outlook is an email client and calendar app crammed together, and it has tens, maybe hundreds, of millions of users. But no one calls it “product simplification”. OpenAI’s “superapp” strategy reads to me like a company that is in a panic. And in that panic, they might be poised to eradicate the product focus that their current users like about ChatGPT in the first place.</p>
+
+<h2>Shuffling</h2>
+
+<p>And that’s just my read from before their late-Friday news dump of executive leadership shuffling. <a href="https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlpYWmFCSHJhUjgiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzkwNjk2NS9vcGVuYWlzLWFnaS1ib3NzLWlzLXRha2luZy1hLWxlYXZlLW9mLWFic2VuY2UiLCJleHAiOjE3NzYwMTMyNDksImlhdCI6MTc3NTU4MTI1MH0.GLlXdOStvZbttvEKLGUKKYRhfmkdxDCe7dO2YODC-Sw&amp;utm_medium=gift-link">Hayden Field at The Verge reports</a> (gift link):</p>
+
+<blockquote>
+  <p>OpenAI is undergoing another round of C-suite changes, according
+to an internal memo viewed by The Verge.</p>
+
+<p>Fidji Simo, OpenAI’s CEO of AGI deployment — who was until
+recently the company’s CEO of applications — says in the memo
+that she will be stepping away on medical leave “for the next
+several weeks” due to a neuroimmune condition. While she’s out,
+OpenAI president Greg Brockman will be in charge of product,
+including leading OpenAI’s “superapp” efforts. On the business
+side, CSO Jason Kwon, CFO Sarah Friar, and CRO Denise Dresser will
+take charge.</p>
+</blockquote>
+
+<p>The Verge runs Simo’s full memo at the bottom of their story, if you want to read it yourself. Simo’s title used to be CEO of applications, now it’s CEO of AGI deployment, but the last thing she oversaw before departing on an open-ended medical leave was ... <a href="https://www.wsj.com/tech/openai-technology-business-programming-network-b681ef6b?st=eDGw8W">checks notes</a> ... negotiating the acquisition of a YouTube tech news show for “low hundreds of millions of dollars” (<a href="https://www.ft.com/content/4fe4972a-3d24-45be-b9fa-a429c432b08e">per the Financial Times</a>). That’s the deployment of <em>something</em>, but not artificial general intelligence.</p>
+
+<p>Simo, too, is credited with the “superapp” strategy (which I will not stop putting in dick quotes). It certainly sounds like something someone <a href="https://www.marieclaire.com/career-advice/a28712482/fidji-simo-facebook/">from Facebook</a> would think up. But now she’s not going to be there to oversee it. I wish Simo well with her health issues, which seem significant, but none of this paints a picture of a well-run company with any sort of cohesive strategic vision.</p>
+
+<p>Until last week, I hadn’t seen <a href="https://www.wired.com/story/fidji-simo-is-openais-other-ceo-and-she-swears-shell-make-chatgpt-profitable/">Zoë Schiffer’s profile of Simo for Wired from November</a>, soon after she joined OpenAI as <em>a</em> CEO, but not <em>the</em> CEO:</p>
+
+<blockquote>
+  <p>Simo hasn’t been seen much at OpenAI’s San Francisco office since
+she began as CEO of Applications in August. But her presence is
+felt at every level of the company — not least because she’s
+heading up ChatGPT and basically every function that might make
+OpenAI money. Simo is dealing with a relapse of postural
+orthostatic tachycardia syndrome (POTS) that makes her prone to
+fainting if she stands for long periods of time. So for now, she’s
+working from home in Los Angeles, and she’s on Slack. <em>A lot</em>.</p>
+
+<p>“Being present from 8 am to midnight every day, responding within
+five minutes, people feel like I’m there and that they can reach
+me immediately, that I jump on the phone within five minutes,” she
+tells me. Employees confirm that this is true. OpenAI’s famously
+Slack-driven culture can be overwhelming for new hires. But not,
+apparently, for Simo. Employees say she is often seen popping into
+channels and threads, sharing thoughts and asking questions.</p>
+</blockquote>
+
+<p>OpenAI’s work environment seems not merely overwhelming, but torturous. I have no reason to believe Simo’s medical leave is anything but a legitimate medical leave, but I wouldn’t be surprised if she never comes back. (What’s the point of being CEO of AGI deployment when there is no AGI to deploy?)</p>
+
+<p>I don’t see the path from here to there, where <em>there</em> is a justification for a trillion-dollar-ish valuation for this company.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1-2026-04-07">
+<p>There’s a joke to be made here about this “$122 billion in committed capital” being called such because the investors throwing good money after bad into OpenAI ought to be committed.&nbsp;<a href="#fnr1-2026-04-07"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
+</li>
+</ol>
+</div>
+
+
+
+    ]]></content>
+  <title>★ OpenAI Announces $122 Billion Additional ‘Committed Capital’, and Announces Their ‘Superapp’ Plan for the Future</title></entry><entry>
 	<title>Om Malik and Ben Thompson on OpenAI Buying TBPN</title>
 	<link rel="alternate" type="text/html" href="https://om.co/2026/04/02/openai-masters-of-agitprop-2-0/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x2s" />
@@ -1755,68 +1889,4 @@ encourages but also rewards dark patterns.</p>
 
 
     ]]></content>
-  <title>★ ‘Your Frustration Is the Product’</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/03/squashing" />
-	<link rel="shorturl" href="http://df4.us/wzx" />
-	<id>tag:daringfireball.net,2026://1.42765</id>
-	<published>2026-03-17T23:47:47Z</published>
-	<updated>2026-03-18T03:15:55Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">CNBC’s headline is journalistic malpractice. The rest of their report is even worse.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>MacKenzie Sigalos, writing for CNBC, under the misleading headline “<a href="https://www.cnbc.com/2026/03/17/apple-ceo-tim-cook-retire-rumors-gma.html">Tim Cook Squashes Retirement Rumors, Says He ‘Can’t Imagine Life Without Apple’</a>”:</p>
-
-<blockquote>
-  <p>Asked about reports that he was preparing to step aside, Cook told
-ABC, “No, I didn’t say that. I haven’t said that. I love what I do
-deeply. Twenty-eight years ago, I walked into Apple, and I’ve
-loved every day of it since.”</p>
-
-<p>He added that he “can’t imagine life without Apple.”</p>
-</blockquote>
-
-<p>The Good Morning America interview was with Michael Strahan, <a href="https://www.youtube.com/watch?v=PjehoUu48rY">in a five-minute segment for the show</a>. Strahan actually did a decent job. He asked Cook if Apple expects to be reimbursed for the $3+ billion dollars they spent on Trump’s tariffs last year, now that the Supreme Court has ruled them invalid. (Cook says they’re waiting to see what the courts say about getting that money back.) Strahan then asked a pretty pointed question about Cook’s high-profile appearances alongside Trump — attending the inauguration (Strahan didn’t mention that <a href="https://daringfireball.net/linked/2025/01/03/allen-tim-cook-1m-trump-inauguration">Cook paid Trump $1 million</a> for the honor to attend), the <a href="https://daringfireball.net/2025/08/gold_frankincense_and_silicon">24-karat-gold Apple-logo trophy</a>, attending the White House premiere of <em>Melania</em>. Cook answered by saying he’s not political and only cares about policy, which makes sense only if you believe government policy decisions aren’t political — which is to say it makes no sense. But Strahan asked, and Cook’s answer speaks for itself.</p>
-
-<p>But to the point of Sigalos’s report on the interview for CNBC, Cook didn’t “squash” anything related to his tenure at Apple in that interview. <a href="https://www.youtube.com/watch?v=PjehoUu48rY">Watch for yourself</a>. Cook correctly points out that he himself has never said anything (in public, at least) about being tired or wanting to “step back a little bit”, as Strahan claimed he had read. But Cook does not refute that he might soon step aside as CEO, nor does he say he intends to remain CEO for the foreseeable future. It’s an incredibly deft non-answer that would remain true if Cook steps down as CEO in two weeks, on April 1 (Apple’s anniversary), and would remain true if he’s still CEO five years from now. (The “can’t imagine life without Apple” comment would fit like a glove if, say, he steps aside as CEO but becomes executive chairman of the board.)</p>
-
-<p>This headline is journalistic malpractice from CNBC.</p>
-
-<p>The rest of Sigalos’s report is even worse:</p>
-
-<blockquote>
-  <p>The comments come after a <a href="https://www.cnbc.com/2025/12/08/apple-tim-cook-pressure-2026.html">turbulent</a> stretch for Apple’s C-suite.
-In December, the company lost AI chief John Giannandrea, its top
-lawyer and a key design executive in a single week — while chip
-guru Johny Srouji <a href="https://www.bloomberg.com/news/articles/2025-12-06/apple-rocked-by-executive-departures-with-johny-srouji-at-risk-of-leaving-next">reportedly</a> signaled he might leave, too.</p>
-
-<p>The departures raised pointed questions about whether Cook’s
-operational leadership style is the right fit for the artificial
-intelligence era.</p>
-</blockquote>
-
-<p>Where to even start with this? Jiminy.</p>
-
-<p>Giannandrea was shown the door after he blew it with Apple Intelligence. <a href="https://daringfireball.net/linked/2025/03/20/gurman-rockwell-siri">Cook took Giannandrea’s responsibilities away almost a year ago</a>, weeks after the company’s embarrassing <a href="https://daringfireball.net/2025/03/apple_is_delaying_the_more_personalized_siri_apple_intelligence_features">admission</a> that next-generation Siri would be delayed by at least a full year. <a href="https://daringfireball.net/linked/2025/12/01/giannandrea-out">The December news</a> was that Giannandrea was officially “retiring”, but that was just Cook allowing him as graceful and dignified an exit as possible. He was effectively fired back in April or May.</p>
-
-<p>Kate Adams, Apple’s general counsel, <a href="https://www.apple.com/newsroom/2025/12/apple-announces-executive-transitions/">just plain old retired</a> in December after a successful nine-year stint in the role. Lisa Jackson announced her retirement as VP of environment, policy, and social initiatives, <a href="https://daringfireball.net/linked/2025/12/05/apple-announces-a-few-other-executive-transitions">alongside Adams</a>. Zero drama around either of their departures — just, for Apple, coincidentally bad timing.</p>
-
-<p>The Alan Dye leaving for Meta thing, <em>that</em> was unexpected, and, to some degree, turbulent. But I have yet to speak to a single person within Apple, nor a single UI designer outside Apple, who thinks it’s anything but <em>good</em> news for Apple that Dye jumped ship for Meta. Not just that Dye is a fraud of a UI designer. Not just that he and his inner circle have <a href="https://daringfireball.net/linked/2026/01/22/macos-26-tahoe-broke-column-view-in-the-finder">vandalized MacOS</a>, the crown jewel of human-computer interaction. Not just that he and his team are given — or have taken — credit for innovative, high-quality work on VisionOS that really belongs to the interaction team Mike Rockwell put together for VisionOS. Not just that Dye left Apple for a rival company, period — something unheard of amongst Apple’s bleed-in-six-colors executive ranks. But that he left for <em>Meta</em>, of all fucking companies? That’s the proof that Dye (and <a href="https://www.billysorrentino.com/">his urban cowboy magazine-designer cohort</a>) never belonged at Apple in the first place.</p>
-
-<p>And then there’s the Srouji thing, which was reported only once, by Mark Gurman at Bloomberg, and then effectively retracted two days later <a href="https://daringfireball.net/linked/2025/12/08/srouji">after Srouji shot it down with a meant-to-leak memo to his staff</a>. My own reporting, talking to several sources close to and in some cases within Apple’s executive ranks, is that there is no truth to Gurman’s Bloomberg report that Srouji threatened Tim Cook that he was considering leaving Apple for a competitor.</p>
-
-<p>To believe that report, you need to believe not only that Srouji is unhappy while seeing his life’s work flourish, leading what is inarguably one of the most successful silicon design divisions in the history of computing, and but also that at age 62, he would consider leaving Apple not to retire but to head up chip design at <em>another</em> company — any of which possible destinations being a company that is years behind Apple in chip design. <em>And</em> you have to believe that it’s a successful tactic for senior executives at Apple to get what they want from Tim Cook by threatening him with poaching offers from competing companies. <em>And</em> that Johny Srouji would either personally leak this to Mark Gurman, or loose-lippedly blab about it to someone who would leak it to Mark Gurman. <em>And</em> that Gurman reporting the already-very-difficult-to-believe story at Bloomberg, making private negotiations public and embarrassing both Cook personally and Apple as a company, would lead Tim Cook to cave in and do whatever it took to make Srouji happy enough to stay at Apple and write that memo refuting the report.</p>
-
-<p>That does not <a href="https://daringfireball.net/linked/2009/01/16/cook-fortune">sound like Tim Cook</a>.</p>
-
-<p>Is that report, and all that it implies, <em>possible</em>? Sure. It’s also possible that monkeys might fly out of my butt. It’s <em>also</em> possible that the Srouji story was bogus, seeded by a company that <em>had</em> just poached an Apple executive, and had successfully spun <em>that</em> story in their favor to such an extent that Bloomberg called it a “<a href="https://www.bloomberg.com/news/articles/2025-12-03/apple-design-executive-alan-dye-poached-by-meta-in-major-coup">major coup</a>” in its headline, and their intention with the bogus Srouji story was to put the narrative out there to seed doubt about Apple as a company and Cook’s leadership, personally.</p>
-
-<p>Mission accomplished, at least with the gullible reporters and editors at CNBC.</p>
-
-
-
-    ]]></content>
-  <title>★ Squashing</title></entry></feed><!-- THE END -->
+  <title>★ ‘Your Frustration Is the Product’</title></entry></feed><!-- THE END -->
