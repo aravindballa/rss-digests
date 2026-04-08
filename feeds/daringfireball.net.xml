@@ -7,7 +7,48 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-08T01:58:15Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-08T15:49:16Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public</title>
+	<link rel="alternate" type="text/html" href="https://red.anthropic.com/2026/mythos-preview/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x2w" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/08/claude-mythos-exploits" />
+	<id>tag:daringfireball.net,2026:/linked//6.42872</id>
+	<published>2026-04-08T15:49:15Z</published>
+	<updated>2026-04-08T15:49:16Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Anthropic’s Frontier Red Team:</p>
+
+<blockquote>
+  <p>Earlier today we announced <a href="https://anthropic.com/glasswing">Claude Mythos Preview</a>, a new
+general-purpose language model. This model performs strongly
+across the board, but it is strikingly capable at computer
+security tasks. In response, we have launched Project Glasswing,
+an effort to use Mythos Preview to help secure the world’s most
+critical software, and to prepare the industry for the practices
+we all will need to adopt to keep ahead of cyberattackers.</p>
+
+<p>This blog post provides technical details for researchers and
+practitioners who want to understand exactly how we have been
+testing this model, and what we have found over the past month. We
+hope this will show why we view this as a watershed moment for
+security, and why we have chosen to begin a coordinated effort to
+reinforce the world’s cyber defenses.</p>
+</blockquote>
+
+<p>“<em>Our new model is so good, it’s too dangerous to release to the public</em>” is a message that sounds like it could be marketing hype. But it seems like it’s probably true. Examples cited by Anthropic include finding and exploiting a 27-year-old OpenBSD bug (that can crash any device running OpenBSD) and an 16-year-old bug in the widely used FFmpeg media processing library.</p>
+
+<p><strong>See also:</strong> <a href="https://red.anthropic.com/2026/mythos-preview/">Techmeme’s extensive roundup</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public’"  href="https://daringfireball.net/linked/2026/04/08/claude-mythos-exploits">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Solar Eclipse From the Far Side of the Moon</title>
 	<link rel="alternate" type="text/html" href="https://kottke.org/26/04/solar-eclipse-far-side-of-the-moon" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x2v" />
@@ -1599,30 +1640,6 @@ weird, bad world.</p>
 
 <div>
 <a  title="Permanent link to ‘Macs of Unusual Size’"  href="https://daringfireball.net/linked/2026/03/30/macs-of-unusual-size">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>WorkOS</title>
-	<link rel="alternate" type="text/html" href="https://workos.com/docs/authkit/cli-installer?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x1n" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/29/workos" />
-	<id>tag:daringfireball.net,2026:/linked//6.42827</id>
-	<published>2026-03-29T20:50:00Z</published>
-	<updated>2026-03-29T20:50:17Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>My thanks to WorkOS for once again sponsoring the week at DF. Their latest is a CLI that launches <a href="https://youtu.be/icUycAMC1h0?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026">an AI agent, powered by Claude</a>, that reads your project, detects your framework, and writes a complete auth integration into your codebase. No signup required. It creates an environment, populates your keys, and you claim your account later when you’re ready.</p>
-
-<p><a href="https://workos.com/blog/agent-experience?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026">But the CLI goes way beyond installation</a>. WorkOS Skills make your coding agent a WorkOS expert. <code>workos seed</code> defines your environment as code. <code>workos doctor</code> finds and fixes misconfigurations. And once you’re authenticated, your agent can manage users, orgs, and environments directly from the terminal. <a href="https://workos.com/docs/authkit/cli-installer?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026">See how it works at WorkOS’s website</a>.</p>
-
-<p><strong>See also:</strong> WorkOS just completed another Launch Week. <a href="https://workos.com/launch-week/spring-2026">This one, for Spring 2026</a>, does not disappoint with its custom UI and theme. Even if you don’t have a need for WorkOS you should check out their Launch Week site just for fun.</p>
-
-<div>
-<a  title="Permanent link to ‘WorkOS’"  href="https://daringfireball.net/linked/2026/03/29/workos">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
