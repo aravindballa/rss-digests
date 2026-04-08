@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-07T22:43:04Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-08T01:58:15Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>Solar Eclipse From the Far Side of the Moon</title>
 	<link rel="alternate" type="text/html" href="https://kottke.org/26/04/solar-eclipse-far-side-of-the-moon" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x2v" />
@@ -63,7 +63,7 @@ Holy <em>shit</em>.</p>
 	<link rel="shorturl" href="http://df4.us/x2t" />
 	<id>tag:daringfireball.net,2026://1.42869</id>
 	<published>2026-04-07T22:07:08Z</published>
-	<updated>2026-04-07T22:43:04Z</updated>
+	<updated>2026-04-08T01:58:15Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -130,7 +130,7 @@ capabilities into one agent-first experience.</p>
 deployment strategy.</p>
 </blockquote>
 
-<p>This is not “product simplification” <em>at all</em>. This is production complication. Web browsers are incredibly complex apps. OpenAI’s web browser — <a href="https://openai.com/index/introducing-chatgpt-atlas/">Atlas</a> — is a failure. No one uses it. And they think they’re going to <em>simplify</em> things by cramming Atlas — an unpopular web browser almost no one has heard of — together with their chatbot and developer tool? Would it strike you as a simplification, or a sign of product design depravity, if Apple announced that it was merging Safari and Messages into one “superapp”? Focused, discrete apps are the best proven way to manage complexity.</p>
+<p>This is not “product simplification” <em>at all</em>. This is product complication. Web browsers are incredibly complex apps. OpenAI’s web browser — <a href="https://openai.com/index/introducing-chatgpt-atlas/">Atlas</a> — is a failure. No one uses it. And they think they’re going to <em>simplify</em> things by cramming Atlas — an unpopular web browser almost no one has heard of — together with their chatbot and developer tool? Would it strike you as a simplification, or a sign of product design depravity, if Apple announced that it was merging Safari and Messages into one “superapp”? Focused, discrete apps are the best proven way to manage complexity.</p>
 
 <p>Maybe merging all their apps into one will work out for OpenAI. But even if it does, it won’t be simpler. Microsoft Outlook is an email client and calendar app crammed together, and it has tens, maybe hundreds, of millions of users. But no one calls it “product simplification”. OpenAI’s “superapp” strategy reads to me like a company that is in a panic. And in that panic, they might be poised to eradicate the product focus that their current users like about ChatGPT in the first place.</p>
 
