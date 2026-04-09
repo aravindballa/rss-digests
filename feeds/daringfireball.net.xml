@@ -7,14 +7,14 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-09T22:16:14Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-09T23:17:46Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe</title>
 	<link rel="alternate" type="text/html" href="https://sixcolors.com/link/2026/04/macs-crash-after-49-days-of-uptime/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x2z" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/09/macos-crash-49-days" />
 	<id>tag:daringfireball.net,2026:/linked//6.42875</id>
 	<published>2026-04-09T22:14:13Z</published>
-	<updated>2026-04-09T22:16:14Z</updated>
+	<updated>2026-04-09T23:17:46Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -42,7 +42,7 @@ working on.</p>
 
 <p>If you keep track of time using milliseconds, and store that in an unsigned 32-bit integer, it overflows after 49 days, 17 hours, 2 minutes, and 47 seconds. That’s the bug.</p>
 
-<p>I think this bug is new to Tahoe. If you look at Apple’s open-source XNU kernel code — <a href="https://github.com/apple-oss-distributions/xnu/blame/f6217f891ac0bb64f3d375211650a4c1ff8ca1ea/bsd/netinet/tcp_subr.c">e.g. lines 3,732 to 3,745 in tcp_subr.c</a> — you can see that the lines assigning the time in milliseconds to a <code>uint32_t</code> variable were checked in just six months ago, whereas most of the file is five years old. Also, I personally ran my MacBook Pro — at the time, running MacOS 15.7.2 Sequoia — up to 91 days of uptime in January. I even <a href="https://daringfireball.net/2026/02/my_2025_apple_report_card#:~:text=my%20uptime%20on%20MacOS%2015.7.2">mentioned that remarkable uptime in my annual report card</a>, in praise of Apple’s software reliable. Apple’s pre-Tahoe reliability, that is.</p>
+<p>I think this bug is new to Tahoe. If you look at Apple’s open-source XNU kernel code — <a href="https://github.com/apple-oss-distributions/xnu/blame/f6217f891ac0bb64f3d375211650a4c1ff8ca1ea/bsd/netinet/tcp_subr.c">e.g. lines 3,732 to 3,745 in tcp_subr.c</a> — you can see that the lines assigning the time in milliseconds to a <code>uint32_t</code> variable were checked in just six months ago, whereas most of the file is five years old. Also, I personally ran my MacBook Pro — at the time, running MacOS 15.7.2 Sequoia — up to 91 days of uptime in January. I even <a href="https://daringfireball.net/2026/02/my_2025_apple_report_card#:~:text=my%20uptime%20on%20MacOS%2015.7.2">mentioned that remarkable uptime in my annual report card</a>, in praise of Apple’s software reliability. Apple’s pre-Tahoe reliability, that is.</p>
 
 <p>I was hesitant to link to this at all because the original (unbylined) report from Photon is so hard to follow. It’s downright manic — over 3,500 words with 33 section headings (<code>&lt;h2&gt;</code> and <code>&lt;h3&gt;</code> tags), with no cohesive narrative. The bug, seemingly, is not that complicated. The whole write-up from Photon just screams “AI-generated slop” to me, and I thus hesitate even to link to Snell’s piece linking to it. But I think the bug is real, and my sympathy for everyone afflicted with MacOS 26 Tahoe is sincere. (And if I’m wrong about the post being AI slop and a human at Photon actually wrote this, I would suggest taking it easy with the cocaine.)</p>
 
