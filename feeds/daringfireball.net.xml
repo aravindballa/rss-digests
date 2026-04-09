@@ -7,7 +7,51 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-09T21:20:37Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-09T22:16:14Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe</title>
+	<link rel="alternate" type="text/html" href="https://sixcolors.com/link/2026/04/macs-crash-after-49-days-of-uptime/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x2z" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/09/macos-crash-49-days" />
+	<id>tag:daringfireball.net,2026:/linked//6.42875</id>
+	<published>2026-04-09T22:14:13Z</published>
+	<updated>2026-04-09T22:16:14Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jason Snell, writing at Six Colors:</p>
+
+<blockquote>
+  <p>Software developer Photon, whose product requires running a bunch
+of Macs to connect to iMessage, <a href="https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking">discovered a pretty major
+bug</a>:</p>
+
+<blockquote>
+  <p>Every Mac has a hidden expiration date. After exactly 49 days, 17
+hours, 2 minutes, and 47 seconds of continuous uptime, a 32-bit
+unsigned integer overflow in Apple’s XNU kernel freezes the
+internal TCP timestamp clock… ICMP (ping) keeps working.
+Everything else dies. The only fix most people know is a reboot.</p>
+</blockquote>
+
+<p>The whole story is wild (albeit technical). Photon says they’re
+working on a fix, but really, this is something Apple should be
+working on.</p>
+</blockquote>
+
+<p>If you keep track of time using milliseconds, and store that in an unsigned 32-bit integer, it overflows after 49 days, 17 hours, 2 minutes, and 47 seconds. That’s the bug.</p>
+
+<p>I think this bug is new to Tahoe. If you look at Apple’s open-source XNU kernel code — <a href="https://github.com/apple-oss-distributions/xnu/blame/f6217f891ac0bb64f3d375211650a4c1ff8ca1ea/bsd/netinet/tcp_subr.c">e.g. lines 3,732 to 3,745 in tcp_subr.c</a> — you can see that the lines assigning the time in milliseconds to a <code>uint32_t</code> variable were checked in just six months ago, whereas most of the file is five years old. Also, I personally ran my MacBook Pro — at the time, running MacOS 15.7.2 Sequoia — up to 91 days of uptime in January. I even <a href="https://daringfireball.net/2026/02/my_2025_apple_report_card#:~:text=my%20uptime%20on%20MacOS%2015.7.2">mentioned that remarkable uptime in my annual report card</a>, in praise of Apple’s software reliable. Apple’s pre-Tahoe reliability, that is.</p>
+
+<p>I was hesitant to link to this at all because the original (unbylined) report from Photon is so hard to follow. It’s downright manic — over 3,500 words with 33 section headings (<code>&lt;h2&gt;</code> and <code>&lt;h3&gt;</code> tags), with no cohesive narrative. The bug, seemingly, is not that complicated. The whole write-up from Photon just screams “AI-generated slop” to me, and I thus hesitate even to link to Snell’s piece linking to it. But I think the bug is real, and my sympathy for everyone afflicted with MacOS 26 Tahoe is sincere. (And if I’m wrong about the post being AI slop and a human at Photon actually wrote this, I would suggest taking it easy with the cocaine.)</p>
+
+<div>
+<a  title="Permanent link to ‘MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe’"  href="https://daringfireball.net/linked/2026/04/09/macos-crash-49-days">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Adobe Diddles With Your /etc/hosts File</title>
 	<link rel="alternate" type="text/html" href="https://old.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_had_an_app/oe1ap9h/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x2y" />
@@ -1594,50 +1638,6 @@ Golden Age of Innovation.</p>
 
 <div>
 <a  title="Permanent link to ‘Appointees to Trump’s Council of Advisors on Science and Technology’"  href="https://daringfireball.net/linked/2026/03/31/presidents-council-of-advisors-on-science-and-technology">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Technical Analysis of the Android Version of the White House’s New App</title>
-	<link rel="alternate" type="text/html" href="https://blog.thereallo.dev/blog/decompiling-the-white-house-app" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x1s" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/03/31/new-white-house-app" />
-	<id>tag:daringfireball.net,2026:/linked//6.42832</id>
-	<published>2026-03-31T15:11:08Z</published>
-	<updated>2026-03-31T19:23:58Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Thereallo, after spelunking inside the APK bundle for the Android version:</p>
-
-<blockquote>
-  <ul>
-<li><p>Has a full GPS tracking pipeline compiled in that polls every
-4.5 minutes in the foreground and 9.5 minutes in the background,
-syncing lat/lng/accuracy/timestamp to OneSignal’s servers.</p></li>
-<li><p>Loads JavaScript from a random person’s GitHub Pages site
-(<code>lonelycpp.github.io</code>) for YouTube embeds. If that account is
-compromised, arbitrary code runs in the app’s WebView. [...]</p></li>
-</ul>
-
-<p>Is any of this illegal? Probably not. Is it what you’d expect from
-an official government app? Probably not either.</p>
-</blockquote>
-
-<p><a href="https://en.wikipedia.org/wiki/Hanlon%27s_razor">Hanlon’s razor</a>: “Never attribute to malice that which is adequately explained by stupidity.”</p>
-
-<p>The app is, at least temporarily, popular. As I type this <a href="https://daringfireball.net/misc/2026/03/iphone-top-apps-2026-03-31.pdf">it’s #3</a> in the <a href="https://apps.apple.com/us/iphone/charts/36?chart=top-free">iOS App Store top free apps list</a>, sandwiched between Claude and Gemini. I don’t know how similar the iOS app is to the Android one, but I took one for the team and installed it, and after poking around for a few minutes, it hasn’t even prompted me to ask for location access. It’s a crappy app, to be sure. A lot of flashing between screen transitions. When you open an article, there’s <a href="https://daringfireball.net/misc/2026/03/white-house-ios-app-buttons.png">a “&lt; Back” button top left, and an “X” button top right</a>. Both buttons seem to do the same thing. There’s no share sheet for “news” articles, which seems particularly stupid. You can’t even copy a link to an article and share it manually.</p>
-
-<p>But the iOS version has <a href="https://apps.apple.com/us/app/the-white-house/id6759938088">a clean privacy report card in the App Store</a>, and I don’t see anything in the app that makes me doubt that. It seems like the Android version is quite different.</p>
-
-<p><strong>Update 1:</strong> Someone on Reddit <a href="https://www.reddit.com/r/technology/comments/1s6e3dp/comment/od2dc48/">claims to have analyzed the iOS app</a> bundle and discovered similar code as in the Android app, but I still don’t see any way to actually get the iOS app to even ask for location permission. I think there might be code in the app that never gets called. Like I wrote above, it’s clearly not a well-crafted app. If anyone knows how to get the iOS app to actually ask for location access, <a href="https://daringfireball.net/contact/">let me know how</a>. Here’s <a href="https://www.atomic.computer/blog/white-house-app-security-analysis/">another analysis of the iOS app</a>.</p>
-
-<p><strong>Update 2:</strong> I installed the Android version of the app too, and just like on iOS, the only permission it asks for is to send notifications. Maybe they will in a future software update, but as far as I can see, the app never even tries to check the device’s location, on either platform.</p>
-
-<div>
-<a  title="Permanent link to ‘Technical Analysis of the Android Version of the White House’s New App’"  href="https://daringfireball.net/linked/2026/03/31/new-white-house-app">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
