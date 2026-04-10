@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-09T23:17:46Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-10T02:48:09Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe</title>
 	<link rel="alternate" type="text/html" href="https://sixcolors.com/link/2026/04/macs-crash-after-49-days-of-uptime/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x2z" />
@@ -58,7 +58,7 @@ working on.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/09/adobe-etc-hosts-diddling" />
 	<id>tag:daringfireball.net,2026:/linked//6.42874</id>
 	<published>2026-04-09T20:35:30Z</published>
-	<updated>2026-04-09T20:35:30Z</updated>
+	<updated>2026-04-10T02:48:09Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -79,7 +79,7 @@ using JavaScript:</p>
 therefore connect to their server, so they know you have Creative
 Cloud installed, otherwise the load fails, which they detect.</p>
 
-<p>They used to just hit http://localhost:\<various ports\>/cc.png
+<p>They used to just hit http://localhost:&lt;various ports&gt;/cc.png
 which connected to your Creative Cloud app directly, but then
 <a href="https://developer.chrome.com/blog/local-network-access">Chrome started blocking Local Network Access</a>, so they had
 to do this hosts file hack instead.</p>
