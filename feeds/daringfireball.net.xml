@@ -7,7 +7,44 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-14T21:46:17Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-14T22:06:27Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Fraudulent Cryptocurrency App in Mac App Store Stole $9.5 Million From 50-Some Users</title>
+	<link rel="alternate" type="text/html" href="https://www.web3isgoinggreat.com/?id=fake-ledger-app" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x3n" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/14/fraudulent-cryptocurrency-app-in-mac-app-store" />
+	<id>tag:daringfireball.net,2026:/linked//6.42899</id>
+	<published>2026-04-14T22:06:18Z</published>
+	<updated>2026-04-14T22:06:27Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Molly White, at Web3 Is Going Just Great:</p>
+
+<blockquote>
+  <p>After a fake version of the Ledger cryptocurrency wallet app made
+it onto the normally highly curated Apple App store, customers
+lost $9.5 million dollars to the malicious product. Believing it
+was a genuine Ledger product, people entered their seed phrases
+into the app, then discovered their wallets were immediately
+drained.</p>
+
+<p>One victim, a musician who goes by G. Love, wrote: “I lost my
+retirement fund in a hack/Scam when I switched my Ledger over to
+my new computer and by accident downloaded a malicious ledger app
+from the Apple store. All my BTC gone in an instant.” According to
+him, he lost 5.9 BTC (~$445,000).</p>
+</blockquote>
+
+<p>The legit (if that adjective can be used for cryptocurrency apps) Ledger Live Mac app is only available as a direct download <a href="https://www.ledger.com/ledger-live">from Ledger’s website</a>. They also do have an app in the App Store, <a href="https://apps.apple.com/fr/app/ledger-live-app-crypto-nft/id1361671700">but it’s iPhone-only</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Fraudulent Cryptocurrency App in Mac App Store Stole $9.5 Million From 50-Some Users’"  href="https://daringfireball.net/linked/2026/04/14/fraudulent-cryptocurrency-app-in-mac-app-store">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>On the Name of Apple’s Foldable iPhone</title>
 	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2026/04/07/foldable-iphone-fold-iphone-ultra/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x3m" />
@@ -1809,72 +1846,6 @@ That mode, the lawsuit charged, is a “sham.”</p>
 
 <div>
 <a  title="Permanent link to ‘Apple Still Has Jessica Chastain’s ‘The Savant’ on Ice, Seven Months After It Was Set to Debut’"  href="https://daringfireball.net/linked/2026/04/03/savant-still-on-ice">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>John Buck on the Invention of QuickTime</title>
-	<link rel="alternate" type="text/html" href="https://www.theverge.com/tech/902721/quicktime-history-apple?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkcybHEzWGhZTVciLCJwIjoiL3RlY2gvOTAyNzIxL3F1aWNrdGltZS1oaXN0b3J5LWFwcGxlIiwiZXhwIjoxNzc1NTkyNzA0LCJpYXQiOjE3NzUxNjA3MDR9.p4nbje9XKl05Ybv3q31CyAQULuqAB-H9b8qfftSz12k" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x2f" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/02/buck-quicktime-history" />
-	<id>tag:daringfireball.net,2026:/linked//6.42855</id>
-	<published>2026-04-02T20:12:07Z</published>
-	<updated>2026-04-02T20:12:08Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>John Buck at The Verge (gift link), excerpted from his great book, <em><a href="https://books.by/john-buck">Inventing the Future</a></em>:</p>
-
-<blockquote>
-  <p><strong>Steve Perlman:</strong> <em>Almost everyone at Apple, and definitely
-everywhere else, assumed that multimedia would always require
-specialized hardware — and be expensive. A few of us thought
-otherwise.</em></p>
-
-<p>One of the few was Gavin Miller, a research scientist in Apple’s
-Graphics Group, who worked with Hoffert to crack the problem of
-software compression and decompression, otherwise known as codec.</p>
-
-<p><strong>Gavin Miller, research scientist:</strong> <em>We went for a lunchtime
-walk, and by the end of it, we had generalized the model to
-include constant color blocks and 2-bit per-pixel interpolating
-blocks. This allowed us to trade off quantization artifacts in
-large flat areas for more detail in textured areas. The result was
-an increase in quality and performance that helped to make the
-codec practical for really small video sizes.</em></p>
-</blockquote>
-
-<p>Just a typical lunchtime walk-and-talk.</p>
-
-<p>Fun anecdote from 1990:</p>
-
-<blockquote>
-  <p>He asked Peppel to create a product plan that he could announce at
-Apple’s Worldwide Developers Conference on May 7th. That day,
-Casey took to the stage and announced QuickTime to a stunned
-audience, saying, “Apple intends to develop real-time software
-compression/decompression technology that will run on today’s
-modular Macintosh systems. A system-wide time coding to allow
-synchronization of sound, animation, and other time-critical
-processes.”</p>
-
-<p>Casey explained that Apple’s new multimedia architecture would be
-delivered by the end of the year. He did not say that QuickTime
-had no budget, staff, or offices.</p>
-
-<p><strong>Worthington:</strong> <em>We were dumbfounded.</em></p>
-
-<p><strong>Konstantin Othmer, QuickDraw engineer:</strong> <em>I was standing next to
-Bruce Leak, and asked him, “What the heck was that?” He said he
-had no idea.</em></p>
-</blockquote>
-
-<p>QuickTime actually shipped by WWDC 1991, teaching Apple the important lesson that anything they announce at WWDC, no matter how premature, will ship as promised.</p>
-
-<div>
-<a  title="Permanent link to ‘John Buck on the Invention of QuickTime’"  href="https://daringfireball.net/linked/2026/04/02/buck-quicktime-history">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
