@@ -7,7 +7,74 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-15T15:49:17Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-15T20:20:45Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)</title>
+	<link rel="alternate" type="text/html" href="https://lisamelton.net/2023/10/05/memories-of-steve/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x3q" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/15/melton-jobs" />
+	<id>tag:daringfireball.net,2026:/linked//6.42902</id>
+	<published>2026-04-15T19:54:17Z</published>
+	<updated>2026-04-15T20:14:12Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Lisa Melton, who ran the team that created Safari, regarding her interactions with Steve Jobs:</p>
+
+<blockquote>
+  <p>When Steve asked you a question? You didn’t ramble and, whatever
+you did, you didn’t make up an answer. If you didn’t know, you
+just said that you didn’t know. But then you told him when you’d
+have an answer. Again, this was just good advice to anyone
+“managing up,” as they say.</p>
+</blockquote>
+
+<p>This is A+ advice for dealing with anyone, period. If you don’t know, say “I don’t know.” So many people have a deep aversion to saying that. And if you can say “I don’t know, but I’ll find out in «<em>some short amount of time here</em>»”, say that.</p>
+
+<p>Here’s the bit that’s relevant this week:</p>
+
+<blockquote>
+  <p>Steve didn’t like the status bar and didn’t see the need for it.
+“Who looks at URLs when you hover your mouse over a link?” He
+thought it was just too geeky.</p>
+
+<p>Fortunately, Scott and I convinced Steve to keep the status bar as
+an option, not visible by default. But that meant we had a new
+problem. Where should we put the progress bar to indicate how much
+of the page was left to load?</p>
+
+<p>Before, the progress bar lived inside the status bar. So we needed
+to find it a new home. We discussed all sorts of silly ideas
+including making it vertical along the edge of the window.</p>
+
+<p>Remember, this was back in the day before the spinning gear or
+other smaller affordances were widely used to indicate progress.
+In the age of barber-pole blue Aqua, it had to be a bar.</p>
+
+<p>The room got quiet. Steve and I sat side-by-side in front of the
+demo machine staring at Safari. Suddenly we turned to each other
+and said at the same time, “In the page address field!”</p>
+
+<p>Smiles all around. Which I followed with, “I’ll have a working
+version of that for you by the end of the week.” Over-committing
+my engineering team, of course.</p>
+
+<p>But I didn’t care. I had just invented something with the Big Guy.
+True, it was a trifle, but there’s no feeling like sharing even a
+tiny byline with Steve.</p>
+</blockquote>
+
+<p>This of course, is <a href="https://daringfireball.net/linked/2026/04/14/calhoun-lemay">contra John Calhoun’s offhand recollection</a> (in <a href="https://news.ycombinator.com/item?id=47297653">a Hacker News thread</a> last month) that Steve Lemay “also invented the early Safari URL text field that also doubled as a progress bar”. Melton is a direct source, so there’s no reason to doubt her recollection of having conceived of the idea alongside Steve Jobs. These recollections are not, of course, mutually exclusive — perhaps Lemay was a designer assigned to flesh out the idea, and Calhoun remembers him as a proponent of the idea.</p>
+
+<p>Anyway, this whole essay from Melton just goes down like butter. So good.</p>
+
+<div>
+<a  title="Permanent link to ‘Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)’"  href="https://daringfireball.net/linked/2026/04/15/melton-jobs">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/04/piece_android_iphone_apps" />
 	<link rel="shorturl" href="http://df4.us/x3p" />
@@ -101,7 +168,7 @@ Android.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/15/screen-zooming-on-ios" />
 	<id>tag:daringfireball.net,2026:/linked//6.42900</id>
 	<published>2026-04-15T14:34:44Z</published>
-	<updated>2026-04-15T14:34:44Z</updated>
+	<updated>2026-04-15T20:20:45Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -117,6 +184,8 @@ options like a minimap and HUD (‘Zoom Controller’).</p>
 </blockquote>
 
 <p>These settings are in Settings → Accessibility → Zoom. I prefer switching the Zoom Region from the default Window Zoom (which gives you large magnifier glass window to drag around the screen) to Full Screen Zoom, which is more like <a href="https://daringfireball.net/linked/2026/04/13/macos-zoom-gesture">how zooming works on the Mac</a>.</p>
+
+<p>(You can, of course, <a href="https://support.apple.com/en-gb/guide/apple-vision-pro/tan563db5e24/visionos">zoom on VisionOS too</a>.)</p>
 
 <div>
 <a  title="Permanent link to ‘Screen Zooming on iOS’"  href="https://daringfireball.net/linked/2026/04/15/screen-zooming-on-ios">&nbsp;★&nbsp;</a>
@@ -1898,42 +1967,6 @@ That mode, the lawsuit charged, is a “sham.”</p>
 
 <div>
 <a  title="Permanent link to ‘Class Action Lawsuit Says Perplexity’s ‘Incognito Mode’ Is a ‘Sham’’"  href="https://daringfireball.net/linked/2026/04/04/perplexity-class-action-sham">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple Releases iOS 18 Security Updates for iOS 26 Holdouts</title>
-	<link rel="alternate" type="text/html" href="https://sixcolors.com/post/2026/04/apple-releases-ios-18-security-updates-for-ios-26-holdouts/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x2h" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/03/ios-18-update-for-holdouts" />
-	<id>tag:daringfireball.net,2026:/linked//6.42857</id>
-	<published>2026-04-03T19:28:36Z</published>
-	<updated>2026-04-03T19:39:32Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jason Snell:</p>
-
-<blockquote>
-  <p>Last December I complained that <a href="https://sixcolors.com/post/2025/12/apple-is-forcing-iphones-to-update-to-ios-26-to-patch-security-holes/">Apple was withholding iOS 18 security updates from iPhones capable of running iOS 26</a>, leaving users who didn’t want to upgrade to Apple’s latest OS version yet in some security peril.</p>
-
-<p>Well, I have good news and bad news. The good news: As of Wednesday April 1, Apple is pushing out iOS 18.7.7 to all devices running iOS 18. This update, released last month for devices that were not capable of running iOS 26, is now available even for compatible devices. If you’ve got auto-update turned on but have not gone through the steps to do a full upgrade to iOS 26, this update can be automatically pushed and applied. This is good news, as those who have opted not to run iOS 26 will get to take advantage of several sets of security releases.</p>
-
-<p>Now the bad news: This is happening because of some really bad security breaches like <a href="https://cloud.google.com/blog/topics/threat-intelligence/darksword-ios-exploit-chain">DarkSword</a> and <a href="https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit">Coruna</a>.</p>
-</blockquote>
-
-<p>It feels a bit spiteful that Apple doesn’t support staying a year behind the major version of iOS like they do — <a href="https://daringfireball.net/search/tahoe">thankfully</a> — with MacOS. The vast majority of iPhone and iPad users just do what Apple encourages — they accept the default setting to auto-update when Apple pushes updates to their devices. People who update manually do so by choice, and if that choice is offered, it ought to be supported.</p>
-
-<p>That said, after buying an iPhone 17 Pro, I left my year-and-a-half-old iPhone 16 Pro on iOS 18, so I updated that phone to 18.7.7 the other day when this became available. I’ve kept that phone on the old OS mostly for comparing what’s changed in iOS 26. I took this opportunity to switch back to that phone, full-time, for two days. It was, to be honest, no big deal. For all the consternation over “Liquid Glass” overall, on iPhone, nothing really sticks out to me switching from iOS 26 back to iOS 18, or vice-versa. iOS 26 just feels visually tweaked, not radically changed.</p>
-
-<p>I like iOS 26 just fine, but I also still like iOS 18, and the differences just don’t seem <em>that</em> significant. For me at least, it’s nothing like switching between MacOS 15 Sequoia and 26 Tahoe. iOS 26 makes some highly opinionated choices, but it feels like it was thoughtfully designed by people who know and love the core longstanding idioms of iOS. MacOS 26 Tahoe feels like it was carelessly designed by people who’ve never used a Mac and wish it would just go away.</p>
-
-<p><strong>See also:</strong> <a href="https://mjtsai.com/blog/2026/04/02/ios-18-7-7-and-ipados-18-7-7/">Michael Tsai’s roundup</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Releases iOS 18 Security Updates for iOS 26 Holdouts’"  href="https://daringfireball.net/linked/2026/04/03/ios-18-update-for-holdouts">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
