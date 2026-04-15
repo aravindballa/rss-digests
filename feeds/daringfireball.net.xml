@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-15T20:20:45Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-15T20:57:18Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)</title>
 	<link rel="alternate" type="text/html" href="https://lisamelton.net/2023/10/05/memories-of-steve/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x3q" />
@@ -162,13 +162,13 @@ Android.</p>
 
     ]]></content>
   <title>★ David Pierce Tried a Bunch of Android Phones and Then Bought an iPhone Again</title></entry><entry>
-	<title>Screen Zooming on iOS</title>
+	<title>Screen Zooming on iOS and iPadOS</title>
 	<link rel="alternate" type="text/html" href="https://mastodon.social/@stroughtonsmith/116404958539831051" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x3o" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/15/screen-zooming-on-ios" />
 	<id>tag:daringfireball.net,2026:/linked//6.42900</id>
 	<published>2026-04-15T14:34:44Z</published>
-	<updated>2026-04-15T20:20:45Z</updated>
+	<updated>2026-04-15T20:57:18Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -185,10 +185,12 @@ options like a minimap and HUD (‘Zoom Controller’).</p>
 
 <p>These settings are in Settings → Accessibility → Zoom. I prefer switching the Zoom Region from the default Window Zoom (which gives you large magnifier glass window to drag around the screen) to Full Screen Zoom, which is more like <a href="https://daringfireball.net/linked/2026/04/13/macos-zoom-gesture">how zooming works on the Mac</a>.</p>
 
+<p>On iPadOS, you should go into the Keyboard Shortcuts panel (inside Accessibility → Zoom) and turn on Zoom with Scroll Wheel. This lets you zoom Mac-style, using the Control key, when you have a keyboard and trackpad/mouse connected.</p>
+
 <p>(You can, of course, <a href="https://support.apple.com/en-gb/guide/apple-vision-pro/tan563db5e24/visionos">zoom on VisionOS too</a>.)</p>
 
 <div>
-<a  title="Permanent link to ‘Screen Zooming on iOS’"  href="https://daringfireball.net/linked/2026/04/15/screen-zooming-on-ios">&nbsp;★&nbsp;</a>
+<a  title="Permanent link to ‘Screen Zooming on iOS and iPadOS’"  href="https://daringfireball.net/linked/2026/04/15/screen-zooming-on-ios">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
