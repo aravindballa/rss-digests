@@ -7,14 +7,51 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-16T16:36:25Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-16T18:43:44Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Apple Pay Express Transit Mode, When Used With a Visa Card, Is Vulnerable to Scam Card Readers</title>
+	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2026/04/15/apple-pay-visa-transit-exploit/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x3v" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/16/express-transit-visa-exploit" />
+	<id>tag:daringfireball.net,2026:/linked//6.42907</id>
+	<published>2026-04-16T18:43:44Z</published>
+	<updated>2026-04-16T18:43:44Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Juli Clover, MacRumors:</p>
+
+<blockquote>
+  <p>The process requires the victim to have Express Transit Mode
+enabled for payments, and a Visa card linked for those payments,
+among other steps. As it turns out, it’s a Visa-related security
+loophole rather than an iPhone issue, and it doesn’t work with a
+Mastercard or an American Express card because other cards use
+different security methods. It also doesn’t work with Samsung
+Pay on Samsung devices, and it requires the specific combination
+of a Visa card and an iPhone. Apple told Veritasium that it’s an
+issue with the Visa system, but something unlikely to occur in
+the real world.</p>
+</blockquote>
+
+<p><a href="https://www.youtube.com/watch?v=PPJ6NJkmDAo">The video</a>, hosted by the Veritasium YouTube channel, but starring Marques Brownlee as the victim, takes over 15 minutes before clarifying that the exploit only works with Visa cards, and only when a Visa card is set as your card for Express Transit Mode. Until then, the video implies that the exploit can work against any iPhone that has Apple Pay configured, with any sort of credit card. The technical explanation of how the hack works is pretty good though.</p>
+
+<p><a href="https://daringfireball.net/linked/2025/04/03/us-transaction-shares-for-visa-mastercard-and-amex">As I wrote a year ago</a> (when Apple was looking for a new partner to replace Goldman Sachs as the bank for Apple Card), Visa is the most popular credit and debit card in the U.S., by a significant margin. If you don’t use Express Transit Mode, you’re safe. If you do use Express Transit Mode, I suggest any card other than a Visa.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Pay Express Transit Mode, When Used With a Visa Card, Is Vulnerable to Scam Card Readers’"  href="https://daringfireball.net/linked/2026/04/16/express-transit-visa-exploit">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Bonus Thought Regarding the Name ‘iPhone Ultra’</title>
 	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2026/04/14/name-of-foldable-iphone" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x3u" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/16/bonus-thought-regarding-the-name-iphone-ultra" />
 	<id>tag:daringfireball.net,2026:/linked//6.42906</id>
 	<published>2026-04-16T15:26:03Z</published>
-	<updated>2026-04-16T16:25:03Z</updated>
+	<updated>2026-04-16T18:17:00Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -22,7 +59,7 @@
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
 <p>One more thought re: <a href="https://daringfireball.net/linked/2026/04/14/name-of-foldable-iphone">the item I posted this week</a> speculating on what Apple will name their <a href="https://www.macrumors.com/roundup/iphone-fold/">much-rumored</a> two-screen folding iPhone this year. If they do name it “iPhone Ultra”, I think Apple using that name for the folding iPhone will imply that they have no plans whatsoever to ever make a “rugged” iPhone — a model akin to Apple Watch Ultra.</p>
 
-<p>I suspect Apple has no plans for a dedicated rugged iPhone. People who want that just buy extra-thick cases for regular iPhones. A watch is different. I know <em>some</em> people put their Apple Watches in ungainly protective “cases”, but they look hideous, which is why you see so few people using them. For aesthetically pleasing ruggedness, the watch case itself needs to be designed for it. But maybe there is a large enough potential market for such an iPhone — especially if such a device had the same relative longer battery life compared to a regular iPhone as an Apple Watch Ultra does to a regular Apple Watch.</p>
+<p>I suspect Apple has no plans for a dedicated rugged iPhone. People who want that just buy extra-thick cases for regular iPhones. A watch is different. I know <em>some</em> people put their Apple Watches in ungainly protective “cases”, but they look hideous, which is why you see so few people using them. For aesthetically pleasing ruggedness, the watch case itself needs to be designed for it. But maybe there is a large enough potential market for such an iPhone — especially if such a device had significantly longer battery life than any regular iPhone, as an Apple Watch Ultra does relative to a regular Apple Watch.</p>
 
 <p>But if Apple calls the folding iPhone “Ultra”, stop holding your breath for such an Apple-Watch-Ultra-style iPhone. In the same way that “Air” means very different things on Mac, iPad, and iPhone, so too might “Ultra”.</p>
 
@@ -1980,45 +2017,6 @@ Little Finder Guy mosaic on the Apple TikTok page.</p>
 
 <div>
 <a  title="Permanent link to ‘Little Finder Guy Stars in Nine New Videos on TikTok and YouTube’"  href="https://daringfireball.net/linked/2026/04/06/more-little-finder-guy">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize</title>
-	<link rel="alternate" type="text/html" href="https://truthsocial.com/@realDonaldTrump/posts/116351998782539414" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x2m" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/05/easter-morning-message-of-hope" />
-	<id>tag:daringfireball.net,2026:/linked//6.42862</id>
-	<published>2026-04-05T16:01:59Z</published>
-	<updated>2026-04-06T16:43:03Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Donald Trump, sitting president of the United States, on his blog:</p>
-
-<blockquote>
-  <p>Tuesday will be Power Plant Day, and Bridge Day, all wrapped up in
-one, in Iran. There will be nothing like it!!! Open the Fuckin’
-Strait, you crazy bastards, or you’ll be living in Hell - JUST
-WATCH! Praise be to Allah. President DONALD J. TRUMP</p>
-</blockquote>
-
-<p><a href="https://x.com/IraninJapan/status/2040773928889811011">The Iranian embassy in Japan</a>, quoting Trump:</p>
-
-<blockquote>
-  <p>This low level of civility and intelligence shown by a leader of a
-country is regrettable; the shameful fervor with which intentions
-to commit war crimes are repeated is staggering; and the fact that
-the Divine is invoked regardless of ill intentions clearly exposes
-deep fanaticism. Apologies for sharing this language.</p>
-</blockquote>
-
-<p>It’s getting harder to tell which side is the authoritarian <a href="https://www.nytimes.com/2026/04/03/world/middleeast/pope-iran-war.html">theocratic</a> regime run by demented hateful nut jobs. (<em>You Crazy Bastards</em> would be an excellent title for a book on the Trump 2.0 administration.)</p>
-
-<div>
-<a  title="Permanent link to ‘An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize’"  href="https://daringfireball.net/linked/2026/04/05/easter-morning-message-of-hope">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
