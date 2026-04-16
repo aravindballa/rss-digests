@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-16T20:53:22Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-16T21:08:46Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>Colliding With Reality, Indeed</title>
 	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/04/15/us/politics/trump-iran-war.html?unlocked_article_code=1.bVA.EB30.mygpleorcQhg&amp;smid=url-share" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x3y" />
@@ -50,7 +50,7 @@ he has now run into a crisis that is not bending to his narrative.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/16/how-to-format-10-digit-phone-numbers" />
 	<id>tag:daringfireball.net,2026:/linked//6.42909</id>
 	<published>2026-04-16T20:09:07Z</published>
-	<updated>2026-04-16T20:09:07Z</updated>
+	<updated>2026-04-16T21:08:46Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -74,7 +74,7 @@ comma to separate the main number from the extension:
 
 <p>I have long been annoyed that U.S. phone numbers are so often formatted in the outdated <em>(123) 555-1234</em> format. The use of parentheses for the area code dates back to the old days, when you only needed to dial the area code to call a number outside your own area code. (The same era whence comes the verb <em>dial</em>.) Until <a href="https://en.wikipedia.org/wiki/Ten-digit_dialing">10-digit dialing</a> with mandatory area codes started to become standard in the late 1990s, you only needed to dial seven digits to call a local number.</p>
 
-<p>Apple’s Contacts app (and I think the system-wide <a href="https://developer.apple.com/documentation/Contacts">Contacts framework</a>, used by third-party apps like <a href="https://flexibits.com/cardhop">Flexibits’s excellent Cardhop</a>), will go so far as to reformat numbers entered in <em>123-555-1234</em> format as <em>(123) 555-1234</em>. Apple should update the formatting to go the other way, and turn phone numbers with the area code in parentheses into the <em>123-555-1234</em> format. Area codes are no longer optional, which is why they used to be put in parentheses.</p>
+<p>Apple’s Contacts app (and I think the system-wide <a href="https://developer.apple.com/documentation/Contacts">Contacts framework</a>, used by third-party apps like <a href="https://flexibits.com/cardhop">Flexibits’s excellent Cardhop</a>), will go so far as to reformat numbers entered in <em>123-555-1234</em> format as <em>(123) 555-1234</em>. Apple should update the formatting to go the other way, and turn phone numbers with the area code in parentheses into the <em>123-555-1234</em> format. It’s only because area codes used to be optional that they were put in parentheses. Given that 7-digit dialing is never going to return, we should abolish the parentheses too.</p>
 
 <div>
 <a  title="Permanent link to ‘How to Format 10-Digit Phone Numbers’"  href="https://daringfireball.net/linked/2026/04/16/how-to-format-10-digit-phone-numbers">&nbsp;★&nbsp;</a>
