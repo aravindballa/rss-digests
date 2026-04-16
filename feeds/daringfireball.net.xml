@@ -7,7 +7,52 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-16T00:45:41Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-16T01:01:00Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>So Close to Getting It</title>
+	<link rel="alternate" type="text/html" href="https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x3s" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/15/so-close-to-getting-it" />
+	<id>tag:daringfireball.net,2026:/linked//6.42904</id>
+	<published>2026-04-16T01:00:35Z</published>
+	<updated>2026-04-16T01:01:00Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>David Pierce, last week in his Installer column/newsletter for The Verge, singing the praises of the version 5.0 update to Sofa (the praises of which <a href="https://daringfireball.net/linked/2026/04/15/sofa-5">I just sung</a>):</p>
+
+<blockquote>
+  <p><a href="https://www.sofahq.com/5">Sofa 5</a>. A huge update to an Installerverse favorite, this app is
+now a great way to manage everything you want to watch, read,
+play, and even do IRL. I never quite made it stick when it was
+mostly just movies and shows, but now I think of it as like a
+Notion for my personal life. Apple devices only, alas, but boy do
+I love this app.</p>
+</blockquote>
+
+<p>Pierce, <a href="https://daringfireball.net/2026/04/piece_android_iphone_apps">I just noted today</a>, also just wrote a feature story at The Verge <a href="https://www.theverge.com/tech/899602/best-phone-android-ios-app-store?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkpKUk05aEQ3ZHYiLCJwIjoiL3RlY2gvODk5NjAyL2Jlc3QtcGhvbmUtYW5kcm9pZC1pb3MtYXBwLXN0b3JlIiwiZXhwIjoxNzc2MDMzMDU5LCJpYXQiOjE3NzU2MDEwNTl9.c8VIrq4Kl5DbAbr8ujYsehwxWVKN7dvXMV7yYkqADu0">about his decision to buy a new iPhone</a> — after trying an array of new Android phones and admitting to a (questionable, IMO) personal preference for Android over iOS — because there are so many better apps on iOS that don’t have equivalent-quality counterparts on Android. In that earlier piece, Pierce wrote:</p>
+
+<blockquote>
+  <p>Lots of the apps I use every day — apps like <a href="https://www.puzzmo.com/today/">Puzzmo</a>,
+<a href="https://noteplan.co/">NotePlan</a>, <a href="https://mimestream.com/">Mimestream</a>, and <a href="https://www.goldenhillsoftware.com/unread/">Unread</a> — either
+don’t exist on Android at all or only exist as web apps. Most of
+the ones that do work on both platforms are better on iOS. And
+forget about the kind of handcrafted, small-developer stuff — apps like <a href="https://acmeweather.com/app">Acme Weather</a>, <a href="https://www.terrygodier.com/current">Current</a>, and
+<a href="https://quiche.industries/browser/">Quiche</a>, just to name a few recent favorites — that’s all
+over the App Store and absolutely nowhere to be found on Android.</p>
+</blockquote>
+
+<p>These apps don’t just happen to be both exquisitely crafted <em>and</em> exclusive to iOS (and in same cases, MacOS). They’re exquisitely crafted <em>because</em> they are idiomatic native apps designed to adhere to Apple’s platforms. Not all native apps are great, of course, but most great apps are native — and most great native apps are native to iOS or MacOS.</p>
+
+<p>So there ought be no “alas” to describe Sofa being exclusive to Apple devices, but instead a “thank you” to developer Shawn Hickman for keeping it exclusive, and thus keeping it great.</p>
+
+<div>
+<a  title="Permanent link to ‘So Close to Getting It’"  href="https://daringfireball.net/linked/2026/04/15/so-close-to-getting-it">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Sofa 5.0</title>
 	<link rel="alternate" type="text/html" href="https://www.sofahq.com/5" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x3r" />
@@ -1953,28 +1998,6 @@ deep fanaticism. Apologies for sharing this language.</p>
 
 <div>
 <a  title="Permanent link to ‘Sponsorship Openings for Daring Fireball’"  href="https://daringfireball.net/linked/2026/04/04/sponsorship-openings-for-daring-fireball">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>iOS 26 Feels Faster Than iOS 18</title>
-	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2026/04/03/ios-18-update-for-holdouts" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x2k" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/04/ios-26-feels-faster-than-ios-18" />
-	<id>tag:daringfireball.net,2026:/linked//6.42860</id>
-	<published>2026-04-05T00:44:00Z</published>
-	<updated>2026-04-06T17:07:10Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>One more follow-up point after I spent two days using an iPhone 16 Pro running iOS 18.7.7 as my main phone. At some point late in the iOS 26 beta cycle last summer, it became obvious that Apple had sped up a bunch of system-level animations. Prime example: the animation when you swipe up from the bottom of the screen to go back to the Home Screen. <a href="https://x.com/ParkerOrtolani/status/1955031986214670583">People noticed</a>. But it hasn’t gotten a lot of attention since.</p>
-
-<p>But man, if you want to notice, do what I did and spend two days back on iOS 18. So many little things feel slower. I don’t know if anything actually <em>is</em> slower, but because the animations are slower, it looks slower, and that means it <em>feels</em> slower. You may not notice if you only use iPhones, but people contemplating a switch from Android <a href="https://daringfireball.net/linked/2025/02/23/linus-sebastian-switch-to-iphone">definitely notice</a>. Apple should speed up some of these animations again this year. (And/or offer a system-wide setting to make them faster. I do not want to eliminate these animations. I just want them to go very very fast.)</p>
-
-<div>
-<a  title="Permanent link to ‘iOS 26 Feels Faster Than iOS 18’"  href="https://daringfireball.net/linked/2026/04/04/ios-26-feels-faster-than-ios-18">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
