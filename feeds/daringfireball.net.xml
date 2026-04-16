@@ -7,7 +7,53 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-16T18:46:46Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-16T19:27:00Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Chance Miller: ‘Netflix Ruined Its Apple TV App by Switching to a Custom Video Player’</title>
+	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/04/15/netflix-ruined-its-apple-tv-app-by-switching-to-a-custom-video-player/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x3w" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/16/miller-netflix-tvos" />
+	<id>tag:daringfireball.net,2026:/linked//6.42908</id>
+	<published>2026-04-16T19:27:00Z</published>
+	<updated>2026-04-16T19:27:00Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Chance Miller, 9to5Mac:</p>
+
+<blockquote>
+  <p>The change began rolling out a few weeks ago, and user frustration
+is mounting. On Reddit, there’s a <a href="https://www.reddit.com/r/appletv/comments/1s5bzfy/latest_neflix_app_update_is_time_to_unsubscribe/">growing thread of Netflix
+subscribers</a> saying they are canceling their subscription
+because of this change to the Apple TV app. [...]</p>
+
+<p>The change also means you lose access to full payback
+controls using the Apple TV Remote app on your iPhone. You
+can’t enable Enhance Dialogue from the video player. That
+clever Apple TV feature that automatically enables subtitles
+when you rewind? Gone.</p>
+
+<p>One of my most-used tvOS video player features is the ability to
+<a href="https://geni.us/PWhNbn4">tap the Siri Remote</a> to see when what I’m currently
+watching will end. It’s great for trying to decide whether you
+have time for one more episode before bed. That feature is gone in
+Netflix as part of this change.</p>
+
+<p><a href="https://www.flatpanelshd.com/news.php?subaction=showfull&amp;id=1775109419">FlatpanelsHD has a great roundup</a> of all the features on
+Apple TV that rely on an app using the native video player.</p>
+</blockquote>
+
+<p>Someone tried to argue with me when I complained about this horrendous regression that Netflix users somehow want consistency across different platforms — that users want the same Netflix player on Apple TV as on Roku, Amazon Fire, Google TV, and whatever crap is built into their “smart” TV. Nonsense. Why would users of one platform care what the Netflix player is like on other platforms? Apple TV users buy Apple TV boxes because they want the Apple TV experience. Maybe <em>Netflix</em> wants to present the same experience everywhere. Maybe <em>Netflix</em> wants to save on engineering costs by having a write-once-run-like-shit-everywhere video player. That’s a Netflix concern, not a user concern.</p>
+
+<p>From the perspective of users, this change to the tvOS Netflix app just sucks. There’s no upside at all. Nothing is better, much is worse, and a slew of cool platform features are now gone.</p>
+
+<div>
+<a  title="Permanent link to ‘Chance Miller: ‘Netflix Ruined Its Apple TV App by Switching to a Custom Video Player’’"  href="https://daringfireball.net/linked/2026/04/16/miller-netflix-tvos">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple Pay Express Transit Mode, When Used With a Visa Card, Is Vulnerable to Scam Tap-to-Pay Readers</title>
 	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2026/04/15/apple-pay-visa-transit-exploit/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x3v" />
@@ -1989,34 +2035,6 @@ prevent this from happening again.</p>
 
 <div>
 <a  title="Permanent link to ‘Anthropic Accidentally Leaked the Entire Claude Code CLI Source Code’"  href="https://daringfireball.net/linked/2026/04/06/anthropic-claude-code-leak">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Little Finder Guy Stars in Nine New Videos on TikTok and YouTube</title>
-	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2026/04/02/little-finder-guy-tiktok-youtube/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x2n" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/06/more-little-finder-guy" />
-	<id>tag:daringfireball.net,2026:/linked//6.42863</id>
-	<published>2026-04-06T16:39:26Z</published>
-	<updated>2026-04-06T17:03:30Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Juli Clover, at MacRumors:</p>
-
-<blockquote>
-  <p>Apple has shared nine Little Finder Guy videos this week, and on
-TikTok, the thumbnails for the videos come together to make a
-Little Finder Guy mosaic on the Apple TikTok page.</p>
-</blockquote>
-
-<p>I hope this doesn’t jinx the negotiations, but I’m working on getting Little Finder Guy as my guest for The Talk Show Live From WWDC this June.</p>
-
-<div>
-<a  title="Permanent link to ‘Little Finder Guy Stars in Nine New Videos on TikTok and YouTube’"  href="https://daringfireball.net/linked/2026/04/06/more-little-finder-guy">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
