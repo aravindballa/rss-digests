@@ -7,7 +7,45 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-16T19:27:00Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-16T20:09:07Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>How to Format 10-Digit Phone Numbers</title>
+	<link rel="alternate" type="text/html" href="https://www.threads.com/@apstylebook/post/DXKtXVXEh7T" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x3x" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/16/how-to-format-10-digit-phone-numbers" />
+	<id>tag:daringfireball.net,2026:/linked//6.42909</id>
+	<published>2026-04-16T20:09:07Z</published>
+	<updated>2026-04-16T20:09:07Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>The Associated Press Stylebook, on Threads:</p>
+
+<blockquote>
+  <p>We updated our style for telephone numbers in 2024 to drop
+parentheses. We now recommend the form: 212-621-1500.</p>
+
+<p>For international numbers use 011 (from the United States), the
+country code, the city code and the telephone number:
+011-44-20-7535-1515.</p>
+
+<p>Use hyphens, not periods. No parentheses. The form for toll-free
+numbers: 800-111-1000. If extension numbers are needed, use a
+comma to separate the main number from the extension:
+212-621-1500, Ext. 2.</p>
+</blockquote>
+
+<p>I have long been annoyed that U.S. phone numbers are so often formatted in the outdated <em>(123) 555-1234</em> format. The use of parentheses for the area code dates back to the old days, when you only needed to dial the area code to call a number outside your own area code. (The same era whence comes the verb <em>dial</em>.) Until <a href="https://en.wikipedia.org/wiki/Ten-digit_dialing">10-digit dialing</a> with mandatory area codes started to become standard in the late 1990s, you only needed to dial seven digits to call a local number.</p>
+
+<p>Apple’s Contacts app (and I think the system-wide <a href="https://developer.apple.com/documentation/Contacts">Contacts framework</a>, used by third-party apps like <a href="https://flexibits.com/cardhop">Flexibits’s excellent Cardhop</a>), will go so far as to reformat numbers entered in <em>123-555-1234</em> format as <em>(123) 555-1234</em>. Apple should update the formatting to go the other way, and turn phone numbers with the area code in parentheses into the <em>123-555-1234</em> format. Area codes are no longer optional, which is why they used to be put in parentheses.</p>
+
+<div>
+<a  title="Permanent link to ‘How to Format 10-Digit Phone Numbers’"  href="https://daringfireball.net/linked/2026/04/16/how-to-format-10-digit-phone-numbers">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Chance Miller: ‘Netflix Ruined Its Apple TV App by Switching to a Custom Video Player’</title>
 	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/04/15/netflix-ruined-its-apple-tv-app-by-switching-to-a-custom-video-player/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x3w" />
@@ -1993,52 +2031,6 @@ What is going on here?</p>
 
 	]]></content>
 	<title>[Sponsor] Zed, a Font Superfamily</title></entry><entry>
-	<title>Anthropic Accidentally Leaked the Entire Claude Code CLI Source Code</title>
-	<link rel="alternate" type="text/html" href="https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x2o" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/06/anthropic-claude-code-leak" />
-	<id>tag:daringfireball.net,2026:/linked//6.42864</id>
-	<published>2026-04-06T19:04:54Z</published>
-	<updated>2026-04-06T19:17:52Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Samual Axon, reporting last week for Ars Technica:</p>
-
-<blockquote>
-  <p>Early this morning, Anthropic published version 2.1.88 of Claude
-Code npm package — but it was quickly discovered that package
-included a source map file, which could be used to access the
-entirety of Claude Code’s source — almost 2,000 TypeScript files
-and more than 512,000 lines of code.</p>
-
-<p>Security researcher Chaofan Shou was the first to publicly <a href="https://x.com/Fried_rice/status/2038894956459290963">point
-it out on X</a>, with a link to an archive containing the files.
-The codebase was then put in a public GitHub repository, and it
-has been forked tens of thousands of times.</p>
-
-<p>Anthropic publicly acknowledged the mistake in a statement to
-<a href="https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know">VentureBeat</a> and other outlets, which reads:</p>
-
-<blockquote>
-  <p>Earlier today, a Claude Code release included some internal
-source code. No sensitive customer data or credentials were
-involved or exposed. This was a release packaging issue caused by
-human error, not a security breach. We’re rolling out measures to
-prevent this from happening again.</p>
-</blockquote>
-</blockquote>
-
-<p>Not exactly confidence inspiring, given how incredibly sensitive much of the material users give Claude and Claude Code access to. To say the least, <a href="https://www.wsj.com/tech/ai/anthropic-races-to-contain-leak-of-code-behind-claude-ai-agent-4bc5acc7">it undermines the message</a> that companies should trust their source code to Claude Code when Anthropic accidentally leaked their <em>own</em> source code.</p>
-
-<div>
-<a  title="Permanent link to ‘Anthropic Accidentally Leaked the Entire Claude Code CLI Source Code’"  href="https://daringfireball.net/linked/2026/04/06/anthropic-claude-code-leak">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/04/pogue_apple_first_50_years" />
 	<link rel="shorturl" href="http://df4.us/x28" />
