@@ -7,7 +7,94 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-17T17:08:18Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-18T00:43:36Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Apple’s Developer Guidelines for Ratings and Review Prompts</title>
+	<link rel="alternate" type="text/html" href="https://developer.apple.com/design/human-interface-guidelines/ratings-and-reviews#Best-practices" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x42" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/17/apples-developer-guidelines-for-ratings-and-review-prompts" />
+	<id>tag:daringfireball.net,2026:/linked//6.42914</id>
+	<published>2026-04-18T00:43:35Z</published>
+	<updated>2026-04-18T00:43:36Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Apple Design:</p>
+
+<blockquote>
+  <p><em>Avoid pestering people.</em> Repeated rating requests can be
+irritating, and may even negatively influence people’s opinion of
+your app. Consider allowing at least a week or two between
+requests, prompting again after people demonstrate additional
+engagement with your experience.</p>
+
+<p><em>Prefer the system-provided prompt.</em> iOS, iPadOS, and macOS offer
+a consistent, nonintrusive way for apps and games to request
+ratings and reviews. When you identify places in your experience
+where it makes sense to ask for feedback, the system checks for
+previous feedback and — if there isn’t any — displays an in-app
+prompt that asks for a rating and an optional written review.
+People can supply feedback or dismiss the prompt with a single tap
+or click; they can also opt out of receiving these prompts for all
+apps they have installed. The system automatically limits the
+display of the prompt to three occurrences per app within a
+365-day period. For developer guidance, see
+<a href="https://developer.apple.com/documentation/StoreKit/RequestReviewAction"><code>RequestReviewAction</code></a>.</p>
+</blockquote>
+
+<p>There are a lot of apps that eschew a lot of these guidelines. I mean, how do you avoid pestering people when the entire idea of an alert asking for a rating/review is, by nature, pestering? It’s an oxymoron, like saying “Don’t pester people when you pester them.” </p>
+
+<p>I actually knew about the system setting to opt out of these prompts. On iOS it’s in Settings → Apps → App Store: In-App Ratings &amp; Reviews. On MacOS, it’s in the App Store app’s Settings window. On both platforms, it’s on by default. This is one of several settings that I <em>would</em> change, personally, but choose not to, as a critic / pundit / know-it-all, so as to have more of the standard experience that most users get. If you’re annoyed by these prompts though, you should feel free to turn them off.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple’s Developer Guidelines for Ratings and Review Prompts’"  href="https://daringfireball.net/linked/2026/04/17/apples-developer-guidelines-for-ratings-and-review-prompts">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Follow-Up Regarding App Store Reviews, Which Are Definitely Busted</title>
+	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2026/04/16/app-store-reviews-are-busted" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x41" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/17/follow-up-app-store-reviews" />
+	<id>tag:daringfireball.net,2026:/linked//6.42913</id>
+	<published>2026-04-18T00:31:16Z</published>
+	<updated>2026-04-18T00:31:16Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>I wrote yesterday:</p>
+
+<blockquote>
+  <p>And the apps that do the right thing — like Godier’s <a href="https://www.terrygodier.com/current">Current</a> — and never solicit a review like a needy hustler are penalized.</p>
+</blockquote>
+
+<p>On Mastodon, <a href="https://mastodon.social/@stroughtonsmith/116418796444744247">Steven Troughton-Smith responded</a>:</p>
+
+<blockquote>
+  <p>Review prompts are the difference between a great app getting five
+positive reviews, and thousands of positive reviews. I would never
+recommend to a developer to not implement the APIs. It’s App Store
+Editorial suicide for most apps, since Apple tends to only pick
+things up when they have that body of review data.</p>
+</blockquote>
+
+<p>I can see how my describing <em>not</em> prompting for reviews “the right thing” looks like I’m suggesting developers should not prompt for reviews. That wasn’t my intention.</p>
+
+<p>You have to play the game as the game stands, and Apple controls the game. And in the game as it stands, apps need 5-star reviews to gain traction in the App Store, perhaps especially so for apps in crowded categories. And for most apps, the only way to achieve that is through prompting. But it’s still the right thing to do, by users, not to do it.</p>
+
+<p>That’s the problem with how Apple has set this up — to be competitive, apps need to do the wrong thing. I’m a competitive bastard. If I had an app in the App Store today, I’d almost certainly prompt for reviews. That’s the game. I admire developers who refuse to play this part of the game. It’s noble. But it’s not a winning strategy. I want Apple to fix the game — that’s the only real solution.</p>
+
+<p>The funny thing is, this morning while I was reading the Mastodon thread with Troughton-Smith’s post, <a href="https://tapbots.com/ivory/">Ivory</a> <a href="https://daringfireball.net/misc/2026/04/ivory-review-prompt.png">prompted me for a rating</a>. Which I dutifully submitted. 5 stars, of course. Which brings me to another follow-up point. A few readers have emailed to object to the argument that it hurts developers to give apps anything short of a 5-star rating. (A few of these readers are from Germany, no surprise.) It’s logical, I agree, that a 4-star rating ought to be considered fair and just for a good app with obvious room for improvement. But anything short of 5 stars pulls down any good app’s average, because the overwhelming majority of users who rate apps only ever assign 5 stars for apps they like, or 1 star for apps they’re angry about. In a system where the overwhelming majority of users only ever assigns 1 or 5 stars, assigning 4 stars is effectively a mildly <em>negative</em> review. That sucks. Apple should fix it. But until they do (which, let’s face it, they probably won’t), obstinately ignoring that this is how App Store ratings work does not help good apps get the attention you think you’re helping them get with a 4-star rating.</p>
+
+<div>
+<a  title="Permanent link to ‘Follow-Up Regarding App Store Reviews, Which Are Definitely Busted’"  href="https://daringfireball.net/linked/2026/04/17/follow-up-app-store-reviews">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>App Store Reviews Are Busted</title>
 	<link rel="alternate" type="text/html" href="https://blog.terrygodier.com/2026/04/13/app-store-reviews-are-busted.html" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x40" />
@@ -1860,60 +1947,6 @@ reinforce the world’s cyber defenses.</p>
 
 <div>
 <a  title="Permanent link to ‘Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public’"  href="https://daringfireball.net/linked/2026/04/08/claude-mythos-exploits">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Solar Eclipse From the Far Side of the Moon</title>
-	<link rel="alternate" type="text/html" href="https://kottke.org/26/04/solar-eclipse-far-side-of-the-moon" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x2v" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/07/solar-eclipse-from-the-far-side-of-the-moon" />
-	<id>tag:daringfireball.net,2026:/linked//6.42871</id>
-	<published>2026-04-07T22:23:27Z</published>
-	<updated>2026-04-16T16:36:25Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Kottke:</p>
-
-<blockquote>
-  <p>This shot from Artemis II of the Moon eclipsing the Sun is one
-of the most breathtaking astronomical photos I’ve ever seen.
-Holy <em>shit</em>.</p>
-</blockquote>
-
-<p><a href="https://www.flickr.com/photos/nasa2explore/">Follow NASA on Flickr</a> for more.</p>
-
-<p><strong>Update:</strong> <a href="https://kottke.org/26/04/stunning-artemis-ii-phone-wallpapers">In a follow-up post</a>, Kottke has assembled a slew of great iPhone wallpapers from Artemis II photos, along with links to other collections, <a href="https://basicappleguy.com/haberdashery/artemis-ii-iphone-wallpapers">like Basic Apple Guy’s</a>. Also, <a href="https://mastodon.social/@chockenberry/116376761280684415">The Iconfactory has added a bunch of these images</a> to their wonderful <a href="https://wallaroo.app/">Wallaroo app</a> (which is how I’ve switched to one on my own iPhone).</p>
-
-<p><strong>Update 2:</strong> <a href="https://www.nilsstreedain.com/blog/2026/04/15/artemis-ii-oled-mac-wallpapers/">Nils Streedain has made wallpapers for the Mac optimized for OLED displays</a> (HEIC native format, pure <code>#000</code> black background, etc.). Gorgeous.</p>
-
-<div>
-<a  title="Permanent link to ‘Solar Eclipse From the Far Side of the Moon’"  href="https://daringfireball.net/linked/2026/04/07/solar-eclipse-from-the-far-side-of-the-moon">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Sam Altman, in a Video Released by OpenAI, Apparently Thinks AGI Is Going to Hit Society Like a Once-a-Century Pandemic</title>
-	<link rel="alternate" type="text/html" href="https://x.com/OpenAINewsroom/status/2041618671236469200?s=20" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x2u" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/07/altman-covid" />
-	<id>tag:daringfireball.net,2026:/linked//6.42870</id>
-	<published>2026-04-07T22:23:07Z</published>
-	<updated>2026-04-07T22:23:08Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Not sure why they think this comparison is reassuring rather than terrifying.</p>
-
-<p>I also have to say that Altman’s claims, today, that OpenAI employees were obsessed with COVID weeks ahead of the rest of the world feels more than a little like Donald Trump’s <a href="https://www.cnn.com/2025/10/06/politics/fact-check-trump-false-bin-laden-claim">repeated false claim</a> that he predicted, pre-9/11, that Osama bin Laden would attack the U.S.</p>
-
-<div>
-<a  title="Permanent link to ‘Sam Altman, in a Video Released by OpenAI, Apparently Thinks AGI Is Going to Hit Society Like a Once-a-Century Pandemic’"  href="https://daringfireball.net/linked/2026/04/07/altman-covid">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
