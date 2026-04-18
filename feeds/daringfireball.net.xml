@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-18T00:43:36Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-18T01:03:33Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>Apple’s Developer Guidelines for Ratings and Review Prompts</title>
 	<link rel="alternate" type="text/html" href="https://developer.apple.com/design/human-interface-guidelines/ratings-and-reviews#Best-practices" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x42" />
@@ -59,7 +59,7 @@ display of the prompt to three occurrences per app within a
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/17/follow-up-app-store-reviews" />
 	<id>tag:daringfireball.net,2026:/linked//6.42913</id>
 	<published>2026-04-18T00:31:16Z</published>
-	<updated>2026-04-18T00:31:16Z</updated>
+	<updated>2026-04-18T01:03:33Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -86,6 +86,8 @@ things up when they have that body of review data.</p>
 <p>You have to play the game as the game stands, and Apple controls the game. And in the game as it stands, apps need 5-star reviews to gain traction in the App Store, perhaps especially so for apps in crowded categories. And for most apps, the only way to achieve that is through prompting. But it’s still the right thing to do, by users, not to do it.</p>
 
 <p>That’s the problem with how Apple has set this up — to be competitive, apps need to do the wrong thing. I’m a competitive bastard. If I had an app in the App Store today, I’d almost certainly prompt for reviews. That’s the game. I admire developers who refuse to play this part of the game. It’s noble. But it’s not a winning strategy. I want Apple to fix the game — that’s the only real solution.</p>
+
+<p>The system is so twisted that even Apple itself begs for these reviews from its own apps, even the system apps built into iOS. When else does Apple ever ask for anything?  It looks needy and pathetic. <a href="https://www.youtube.com/watch?v=2Wl4ZX4-ui8">Real Gil Gunderson vibes</a>.</p>
 
 <p>The funny thing is, this morning while I was reading the Mastodon thread with Troughton-Smith’s post, <a href="https://tapbots.com/ivory/">Ivory</a> <a href="https://daringfireball.net/misc/2026/04/ivory-review-prompt.png">prompted me for a rating</a>. Which I dutifully submitted. 5 stars, of course. Which brings me to another follow-up point. A few readers have emailed to object to the argument that it hurts developers to give apps anything short of a 5-star rating. (A few of these readers are from Germany, no surprise.) It’s logical, I agree, that a 4-star rating ought to be considered fair and just for a good app with obvious room for improvement. But anything short of 5 stars pulls down any good app’s average, because the overwhelming majority of users who rate apps only ever assign 5 stars for apps they like, or 1 star for apps they’re angry about. In a system where the overwhelming majority of users only ever assigns 1 or 5 stars, assigning 4 stars is effectively a mildly <em>negative</em> review. That sucks. Apple should fix it. But until they do (which, let’s face it, they probably won’t), obstinately ignoring that this is how App Store ratings work does not help good apps get the attention you think you’re helping them get with a 4-star rating.</p>
 
