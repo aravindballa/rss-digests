@@ -7,7 +7,42 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-19T17:37:31Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-19T18:53:46Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Jessica Chastain Says Apple TV Will Finally Release ‘The Savant’</title>
+	<link rel="alternate" type="text/html" href="https://variety.com/2026/tv/columns/jessica-chastain-apple-tv-finally-release-the-savant-after-postponement-charlie-kirk-assassination-1236725384/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x46" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/19/chastain-says-the-savant-will-be-released" />
+	<id>tag:daringfireball.net,2026:/linked//6.42918</id>
+	<published>2026-04-19T18:51:43Z</published>
+	<updated>2026-04-19T18:53:46Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Marc Malkin, Variety:</p>
+
+<blockquote>
+  <p>Jessica Chastain says Apple TV is finally going to release her
+political thriller series “The Savant.” [...]</p>
+
+<p>“Before it was like, ‘I don’t know if we’re going to see it,’ but
+now I can say, ‘We’re going to see it,’” Chastain told me
+exclusively on Saturday at the Breakthrough Prize ceremony in
+Santa Monica.</p>
+
+<p>As for when, sources tell me that Apple is planning for a July
+release.</p>
+</blockquote>
+
+<p><a href="https://daringfireball.net/search/chastain+savant">Previously</a>, re: <em>The Savant</em>’s limbo release date.</p>
+
+<div>
+<a  title="Permanent link to ‘Jessica Chastain Says Apple TV Will Finally Release ‘The Savant’’"  href="https://daringfireball.net/linked/2026/04/19/chastain-says-the-savant-will-be-released">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>WorkOS FGA: The Authorization Layer for AI Agents</title>
 	<link rel="alternate" type="text/html" href="https://workos.com/blog/agents-need-authorization-not-just-authentication?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x45" />
@@ -1996,51 +2031,6 @@ working on.</p>
 
 <div>
 <a  title="Permanent link to ‘MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe’"  href="https://daringfireball.net/linked/2026/04/09/macos-crash-49-days">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Adobe Diddles With Your /etc/hosts File</title>
-	<link rel="alternate" type="text/html" href="https://old.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_had_an_app/oe1ap9h/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x2y" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/09/adobe-etc-hosts-diddling" />
-	<id>tag:daringfireball.net,2026:/linked//6.42874</id>
-	<published>2026-04-09T20:35:30Z</published>
-	<updated>2026-04-10T02:48:09Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>“thenickdude”, on Reddit:</p>
-
-<blockquote>
-  <p>They’re using this to detect if you have Creative Cloud already
-installed when you visit on their website.</p>
-
-<p>When you visit <a href="https://www.adobe.com/home">https://www.adobe.com/home</a>, they load this image
-using JavaScript:</p>
-
-<p><a href="https://detect-ccd.creativecloud.adobe.com/cc.png">https://detect-ccd.creativecloud.adobe.com/cc.png</a></p>
-
-<p>If the DNS entry in your hosts file is present, your browser will
-therefore connect to their server, so they know you have Creative
-Cloud installed, otherwise the load fails, which they detect.</p>
-
-<p>They used to just hit http://localhost:&lt;various ports&gt;/cc.png
-which connected to your Creative Cloud app directly, but then
-<a href="https://developer.chrome.com/blog/local-network-access">Chrome started blocking Local Network Access</a>, so they had
-to do this hosts file hack instead.</p>
-</blockquote>
-
-<p>(<a href="https://www.osnews.com/story/144737/adobe-secretly-modifies-your-hosts-file-for-the-stupidest-reason/">Via Thom Holwerda at OSNews</a>.)</p>
-
-<p>They didn’t <em>have</em> to do this, of course. In fact, quite obviously, they definitely should <em>not</em> be doing this. Adobe is just a third-party developer, no better, no more trusted, no more important than any other. Imagine if every piece of software on your computer added entries to your <code>/etc/hosts</code> file. Madness. Adobe should be ashamed of themselves. Adobe used to be a bastion of best practices for developers to follow. Now their installer/updater is indistinguishable from malware.</p>
-
-<p><strong>See also:</strong> <a href="https://mastodon.social/@marcedwards/116371577815792197">Marc Edwards on Mastodon</a>, and <a href="https://mjtsai.com/blog/2026/04/08/adobe-modifies-your-hosts-file-for-their-analytics/">Michael Tsai</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Adobe Diddles With Your /etc/hosts File’"  href="https://daringfireball.net/linked/2026/04/09/adobe-etc-hosts-diddling">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
