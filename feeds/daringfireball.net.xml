@@ -7,7 +7,71 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-19T18:53:46Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-20T17:09:31Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Apple’s Annual Environmental Progress Report</title>
+	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x47" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/20/apple-annual-environmental-progress-report" />
+	<id>tag:daringfireball.net,2026:/linked//6.42919</id>
+	<published>2026-04-20T17:09:30Z</published>
+	<updated>2026-04-20T17:09:31Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Apple Newsroom:</p>
+
+<blockquote>
+  <p>In its annual <a href="https://www.apple.com/environment/">Environmental Progress Report</a> released today,
+Apple marked progress toward Apple 2030, the company’s
+ambitious goal to be carbon neutral across its entire footprint
+by the end of this decade. Apple’s greenhouse gas emissions in
+2025 remain down over 60 percent compared to 2015 levels,
+holding constant from 2024 even in a year of significant
+business growth. The report highlights additional progress in
+renewable energy, materials innovation and recycling, water
+stewardship, and zero waste.</p>
+</blockquote>
+
+<p>On the packaging front:</p>
+
+<blockquote>
+  <p>Apple completed the transition to 100 percent fiber-based
+packaging last year, fulfilling its pledge to remove plastic from
+packaging by 2025. Over the past 10 years, Apple engineers and
+designers have developed alternatives to common packaging
+components, replacing plastic screen protectors and trays with
+versions made with recycled or responsibly sourced paper. They
+also innovated to make packaging more recyclable, designing the
+largest boxes, like for the new Studio Display XDR, to collapse
+into smaller pieces that fit into a home recycling bin. Apple
+avoided more than 15,000 metric tons of plastic in the past five
+years alone — the equivalent of about 500 million plastic water
+bottles.</p>
+</blockquote>
+
+<p>Apple made this shift while not compromising a whit on the design quality of its packaging. If anything, I’d say Apple products have <em>better</em> packaging than ever. How they look, how they feel, the experience of opening them. Some of the company’s most talented and most effective designers work on the packaging team.</p>
+
+<p>Earlier in the announcement:</p>
+
+<blockquote>
+  <p>As Apple celebrates Earth Day with its teams, partners, and
+customers around the world — including with a special offer for
+users who bring in their Apple devices for recycling at
+participating Apple Store locations — here’s a look at the
+progress the company is making across its environmental
+initiatives.</p>
+</blockquote>
+
+<p>That special offer, the <a href="https://www.apple.com/promo/pdf/US_FY26_Earth_Day_Promo_TandCs.pdf">2026 Earth Day Promotion</a>, is a PDF. That PDF file is <em>not</em> the work of Apple’s best designers. Jiminy.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple’s Annual Environmental Progress Report’"  href="https://daringfireball.net/linked/2026/04/20/apple-annual-environmental-progress-report">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Jessica Chastain Says Apple TV Will Finally Release ‘The Savant’</title>
 	<link rel="alternate" type="text/html" href="https://variety.com/2026/tv/columns/jessica-chastain-apple-tv-finally-release-the-savant-after-postponement-charlie-kirk-assassination-1236725384/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x46" />
@@ -1987,50 +2051,6 @@ Sam Bankman-Fried-level scammer.”</p>
 
 <div>
 <a  title="Permanent link to ‘Ed Bindels’s Apple Museum in Utrecht, Netherlands’"  href="https://daringfireball.net/linked/2026/04/10/the-apple-museum">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe</title>
-	<link rel="alternate" type="text/html" href="https://sixcolors.com/link/2026/04/macs-crash-after-49-days-of-uptime/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x2z" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/09/macos-crash-49-days" />
-	<id>tag:daringfireball.net,2026:/linked//6.42875</id>
-	<published>2026-04-09T22:14:13Z</published>
-	<updated>2026-04-13T21:09:55Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jason Snell, writing at Six Colors:</p>
-
-<blockquote>
-  <p>Software developer Photon, whose product requires running a bunch
-of Macs to connect to iMessage, <a href="https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking">discovered a pretty major
-bug</a>:</p>
-
-<blockquote>
-  <p>Every Mac has a hidden expiration date. After exactly 49 days, 17
-hours, 2 minutes, and 47 seconds of continuous uptime, a 32-bit
-unsigned integer overflow in Apple’s XNU kernel freezes the
-internal TCP timestamp clock… ICMP (ping) keeps working.
-Everything else dies. The only fix most people know is a reboot.</p>
-</blockquote>
-
-<p>The whole story is wild (albeit technical). Photon says they’re
-working on a fix, but really, this is something Apple should be
-working on.</p>
-</blockquote>
-
-<p>If you keep track of time using milliseconds, and store that in an unsigned 32-bit integer, it overflows after 49 days, 17 hours, 2 minutes, and 47 seconds. That’s the bug.</p>
-
-<p>I think this bug is new to Tahoe. If you look at Apple’s open-source XNU kernel code — <a href="https://github.com/apple-oss-distributions/xnu/blame/f6217f891ac0bb64f3d375211650a4c1ff8ca1ea/bsd/netinet/tcp_subr.c#L3732">e.g. lines 3,732 to 3,745 in tcp_subr.c</a> — you can see that the lines assigning the time in milliseconds to a <code>uint32_t</code> variable were checked in just six months ago, whereas most of the file is five years old. Also, I personally ran my MacBook Pro — at the time, running MacOS 15.7.2 Sequoia — up to 91 days of uptime in January. I even <a href="https://daringfireball.net/2026/02/my_2025_apple_report_card#:~:text=my%20uptime%20on%20MacOS%2015.7.2">mentioned that remarkable uptime in my annual report card</a>, in praise of Apple’s software reliability. Apple’s pre-Tahoe reliability, that is.</p>
-
-<p>I was hesitant to link to this at all because the original (unbylined) report from Photon is so hard to follow. It’s downright manic — over 3,500 words with 33 section headings (<code>&lt;h2&gt;</code> and <code>&lt;h3&gt;</code> tags), with no cohesive narrative. The bug, seemingly, is not that complicated. The whole write-up from Photon just screams “AI-generated slop” to me, and I thus hesitate even to link to Snell’s piece linking to it. But I think the bug is real, and my sympathy for everyone afflicted with MacOS 26 Tahoe is sincere. (And if I’m wrong about the post being AI slop and a human at Photon actually wrote this, I would suggest taking it easy with the cocaine.)</p>
-
-<div>
-<a  title="Permanent link to ‘MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe’"  href="https://daringfireball.net/linked/2026/04/09/macos-crash-49-days">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
