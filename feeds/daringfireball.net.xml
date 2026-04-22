@@ -7,7 +7,37 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-22T18:39:38Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-22T19:38:55Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>DF T-Shirts and Hoodies: Get Them While the Getting Is Good</title>
+	<link rel="alternate" type="text/html" href="https://store.daringfireball.net/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x4g" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/22/df-t-shirts-and-hoodies-get-them" />
+	<id>tag:daringfireball.net,2026:/linked//6.42928</id>
+	<published>2026-04-22T19:38:55Z</published>
+	<updated>2026-04-22T19:38:55Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p><a href="https://store.daringfireball.net/" class="no_underlines">
+<img
+    class="roundrect"
+    src="/members/images/thumbs/hoodie-heather-black.png"
+    alt="Thumbnail of a heather black Daring Fireball logo hoodie."
+    height="445"
+    width="445"
+/>
+</a></p>
+
+<p>Daring Fireball t-shirts and hoodies are back. Order now, and we’ll start printing shirts at the end of this week and shipping them out next week. The hoodies are a new model from Bella Canvas, the manufacturer. Our previous hoodies were “heather gray” and the fabric was a blend of 50% polyester, 37.5% cotton, and 12.5% rayon. That model is being phased out. So we’ve switched to a new model that’s 85% cotton, 15% polyester, and a darker “heather black” color. The old ones were good, but the new ones feel even better.</p>
+
+<div>
+<a  title="Permanent link to ‘DF T-Shirts and Hoodies: Get Them While the Getting Is Good’"  href="https://daringfireball.net/linked/2026/04/22/df-t-shirts-and-hoodies-get-them">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>There Are Corrections, and There Are Corrections</title>
 	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/04/21/nyregion/mets-mamdani-curse.html?unlocked_article_code=1.c1A.iLO0.Kqdo8aBhNAY1" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x4f" />
@@ -2037,48 +2067,6 @@ were published, that would be nice. No e-mails!”</p>
 
 <div>
 <a  title="Permanent link to ‘Marcin Wichary Visits the Large Scale Systems Museum’"  href="https://daringfireball.net/linked/2026/04/13/wichary-large-scale-systems-museum">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>MacOS Tip: Enable the Zoom ‘Peek’ Gesture</title>
-	<link rel="alternate" type="text/html" href="https://unsung.aresluna.org/testing-tip-enable-the-zoom-peek-gesture/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x37" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/13/macos-zoom-gesture" />
-	<id>tag:daringfireball.net,2026:/linked//6.42883</id>
-	<published>2026-04-13T17:43:16Z</published>
-	<updated>2026-04-13T23:51:05Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Marcin Wichary, at Unsung:</p>
-
-<blockquote>
-  <p>Go to Settings > Accessibility > Zoom, and then turn on “Use
-scroll gesture with modifier keys to zoom.”</p>
-
-<p>Then, at any moment, you can hold Control and swipe with two
-fingers (or use a scroll wheel) up or down to zoom the
-entire screen.</p>
-
-<p>I’d also recommend turning off “Smooth images” under “Advanced…”
-so you see individual pixels better.</p>
-</blockquote>
-
-<p>This is one of the very best MacOS tips. No third-party software. Built into MacOS for several (many?) years now. Incredibly useful.</p>
-
-<p>But I had no idea it existed until last June at WWDC. It was Monday, after the morning keynote and just before the afternoon State of the Union. <a href="https://glass.photo/gruber/series/2skCCKMH4LYm8HAuxeoMHo-wwdc-2025-apple-park">Beautiful sunny day</a> at Apple Park. I ran into my <a href="https://daringfireball.net/search/cabel+sasser">old friend</a> <a href="https://cabel.com/">Cabel Sasser</a>, and, maniac that he is, he’d already installed the first Tahoe developer beta on his MacBook Pro. So I sat next to him and we started examining the UI changes in detail. And Cabel was zooming in and out instantaneously. I was like, “Whoa, how are you doing that?” And Cabel was like, “You don’t know about the Accessibility Zoom gesture? Here, let me show you!” And my mind was blown. Cabel emphasized the importance of going into the “Advanced…” dialog to turn off “Smooth images”, and I agree. This is a fantastic feature, but Apple has the default setting wrong for smoothing (a.k.a. blurring) the zoomed image. I honestly can’t imagine why anyone would want the zoomed image blurred.</p>
-
-<p>Anyway, then we both laughed ourselves silly and made ourselves a little queasy examining, in detail, just how bad the Tahoe UI was. And I thought to myself, <em>I need to post this as a tip on Daring Fireball.</em></p>
-
-<p>Well, it took 10 months, but Wichary posting it on Unsung reminded me that I never posted about it here. [<strong>Update:</strong> <a href="https://daringfireball.net/linked/2026/04/13/memory-they-say">Actually...</a>] Turn this on, start using it, and you’ll find yourself using it every day if you care about design details.</p>
-
-<p><strong>Bonus tip:</strong> Subscribe to Wichary’s <a href="https://unsung.aresluna.org/">Unsung</a> in your RSS reader. He’s only been posting there since early December, and it quickly became one of my favorite blogs in the world. One of those blogs where I’m excited every time I see there’s a new post. I would read a post from Wichary describing what it’s like to watch paint dry, because I know he’d only write about it if he noticed something interesting and nuanced. Because he’s only been writing Unsung for a few months, you can catch up on the whole thing.</p>
-
-<div>
-<a  title="Permanent link to ‘MacOS Tip: Enable the Zoom ‘Peek’ Gesture’"  href="https://daringfireball.net/linked/2026/04/13/macos-zoom-gesture">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
