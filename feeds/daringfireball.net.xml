@@ -7,7 +7,61 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-22T19:38:55Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-23T17:36:03Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model</title>
+	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x4h" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/23/discord-group-has-claude-mythos-access" />
+	<id>tag:daringfireball.net,2026:/linked//6.42929</id>
+	<published>2026-04-23T17:28:23Z</published>
+	<updated>2026-04-23T17:36:03Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Rachel Metz, reporting for Bloomberg:</p>
+
+<blockquote>
+  <p>A small group of unauthorized users have accessed Anthropic PBC’s
+new Mythos AI model, a technology that the company says is so
+powerful it can enable dangerous cyberattacks, according to a
+person familiar with the matter and documentation viewed by
+Bloomberg News.</p>
+
+<p>A handful of users in a private online forum gained access to
+Mythos on the same day that Anthropic first announced a plan to
+release the model to a limited number of companies for testing
+purposes, said the person, who asked not to be named for fear of
+reprisal. The group has been using Mythos regularly since then,
+though not for cybersecurity purposes, said the person, who
+corroborated the account with screenshots and a live demonstration
+of the model.</p>
+</blockquote>
+
+<p><a href="https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security">Jess Weatherbed, at The Verge</a> (gift link):</p>
+
+<blockquote>
+  <p>The model was reportedly accessed illicitly on April 7th, the same
+day that Anthropic announced it was releasing Mythos to a limited
+number of companies for testing. The group that gained the
+unauthorized access has not been publicly identified, though
+Bloomberg reports that its members are part of a Discord channel
+that seeks out information about unreleased AI models. [...] Other
+unreleased Anthropic AI models have also been accessed by the
+group, according to Bloomberg.</p>
+</blockquote>
+
+<p>So on the one hand, Anthropic itself is the one describing Mythos as a dangerous national security threat. On the other hand, their own security is so sloppy that rando hooligans on Discord have had access to Mythos since the day it was announced, and regularly access other unreleased Claude  models. This, just weeks after Anthropic screwed up and <a href="https://daringfireball.net/linked/2026/04/06/anthropic-claude-code-leak">accidentally exposed the entire source code to Claude Code</a>.</p>
+
+<p>If Mythos is as dangerous as Anthropic (including CEO Dario Amodei) claims, this is a colossal screw up. If a Discord group of AI enthusiasts has unauthorized access, why should we not assume that Chinese, Russian, North Korean, and Iranian intelligence agencies do too? And if this is no big deal, then Anthropic (and Amodei) are full of shit about how dangerous Mythos is. One way or the other it looks like a total clown show over there.</p>
+
+<div>
+<a  title="Permanent link to ‘Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model’"  href="https://daringfireball.net/linked/2026/04/23/discord-group-has-claude-mythos-access">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>DF T-Shirts and Hoodies: Get Them While the Getting Is Good</title>
 	<link rel="alternate" type="text/html" href="https://store.daringfireball.net/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x4g" />
@@ -2045,28 +2099,6 @@ were published, that would be nice. No e-mails!”</p>
 
 <div>
 <a  title="Permanent link to ‘John Martellaro, RIP’"  href="https://daringfireball.net/linked/2026/04/13/john-martellaro-rip">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Marcin Wichary Visits the Large Scale Systems Museum</title>
-	<link rel="alternate" type="text/html" href="https://flickr.com/photos/mwichary/albums/72177720332956990/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x38" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/13/wichary-large-scale-systems-museum" />
-	<id>tag:daringfireball.net,2026:/linked//6.42884</id>
-	<published>2026-04-13T19:09:13Z</published>
-	<updated>2026-04-13T19:10:05Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>I’d never before heard of <a href="https://www.mact.io/about_us">this museum</a>, but now that I’ve seen Wichary’s photos, I want to go. <a href="https://shifthappens.site/">Unsurprisingly</a>, a lot of his shots are details of vintage keyboards. I keep pausing on <a href="https://flickr.com/photos/mwichary/55194138828/in/album-72177720332956990">this one</a>, a “<span class='caps'>RE-START</span>” key with the word broken across two lines. It’s clearly wrong but somehow feels right.</p>
-
-<p>I’m linking to his album at Flickr, but he posted a <a href="https://mastodon.online/@mwichary/116372033363140881">long thread of images to Mastodon too</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Marcin Wichary Visits the Large Scale Systems Museum’"  href="https://daringfireball.net/linked/2026/04/13/wichary-large-scale-systems-museum">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
