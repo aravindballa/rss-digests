@@ -7,7 +7,63 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-23T20:53:11Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-23T21:14:35Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Trump’s Blog Has Somehow Lost $1.1 Billion</title>
+	<link rel="alternate" type="text/html" href="https://www.motherjones.com/politics/2026/04/truth-social-ceo-out-after-1-1-billion-in-losses/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x4l" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/23/nunes-out-truth-social" />
+	<id>tag:daringfireball.net,2026:/linked//6.42933</id>
+	<published>2026-04-23T21:14:35Z</published>
+	<updated>2026-04-23T21:14:35Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Russ Choma, reporting for Mother Jones:</p>
+
+<blockquote>
+  <p>Devin Nunes was not an obvious choice to run a fledgling social
+media network, but after $1.1 billion in losses, the former dairy
+farmer and congressman is out as the head of Truth Social.</p>
+
+<p>Donald Trump Jr., a board member at Trump Media + Technology, the
+parent company of Truth Social, said on <a href="https://www.pressviewer.com/profiles/investor/NewsPrint.asp?v=7&amp;b=2660&amp;ID=164128&amp;m=rl&amp;g=1953">Tuesday night</a> that
+Nunes would be replaced by another executive who formerly worked
+at Hulu. Nunes confirmed the move in a Truth Social <a href="https://truthsocial.com/@DevinNunes/116444770954674159">post</a>
+of his own.</p>
+
+<p>The company, which is majority owned by Donald Trump, has seen its
+stock plummet 84 percent under Nunes’ leadership, from its debut
+price of $58 back in 2024. The current share price of around $9.80
+is arguably still optimistic for a company that has lost $1.1
+billion since it went public, and recorded just over $10.6 million
+in revenue in the same time.</p>
+</blockquote>
+
+<p>Like a well-oiled Atlantic City casino.</p>
+
+<blockquote>
+  <p>When Trump Media was first announced as a concept, the Trump
+family said it would include: Truth Social, streaming television
+services to rival Netflix and Amazon and web-hosting that would
+rival Amazon’s AWS business. And all of it would be devoted to
+fighting the “woke” media and corporate culture that Trump said
+had blacklisted him following Jan. 6. Truth Social would be a
+redoubt for freedom of speech, the streaming services would have
+wholesome non-“woke” content that America craved and the
+web-hosting would provide a home for any company that dared to
+challenge Amazon’s alleged anti-free speech motivations.</p>
+</blockquote>
+
+<p>I’m sure the rest of that has merely been delayed, temporarily, while Trump Media’s best and brightest minds continue working on <a href="https://www.theverge.com/gadgets/843498/trump-phone">the cell phone they started selling last summer but still haven’t shipped</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Trump’s Blog Has Somehow Lost $1.1 Billion’"  href="https://daringfireball.net/linked/2026/04/23/nunes-out-truth-social">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Nilay Patel: ‘Beware Software Brain’</title>
 	<link rel="alternate" type="text/html" href="https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x4k" />
@@ -2052,57 +2108,6 @@ forward.”</p>
 
 <div>
 <a  title="Permanent link to ‘Steven Soderbergh Twice Pitched James Bond Projects’"  href="https://daringfireball.net/linked/2026/04/13/soderbergh-steven-soderbergh">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple Frames 4</title>
-	<link rel="alternate" type="text/html" href="https://www.macstories.net/stories/introducing-apple-frames-4-a-revamped-shortcut-support-for-frame-colors-proportional-scaling-and-the-apple-frames-cli-for-developers/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x3d" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/13/apple-frames-4" />
-	<id>tag:daringfireball.net,2026:/linked//6.42889</id>
-	<published>2026-04-13T23:55:46Z</published>
-	<updated>2026-04-13T23:56:32Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Federico Viticci:</p>
-
-<blockquote>
-  <p>Today, I’m very happy to introduce Apple Frames 4, a major update
-to my shortcut for framing screenshots taken on Apple devices with
-official Apple product bezels. Apple Frames 4 is a <em>complete</em>
-rethinking of the shortcut that is noticeably faster, updated to
-support all the latest Apple devices, and designed to support even
-more personalization options. For the first time ever, Apple
-Frames supports <em>multiple colors</em> for each device, allowing you to
-mix and match different colored bezels for each framed screenshot;
-it also supports <em>proportional scaling</em> when merging screenshots
-from different Apple devices.</p>
-
-<p>But that’s not all. In addition to an updated shortcut, I’m also
-releasing the <a href="https://github.com/viticci/frames-cli">Apple Frames CLI</a>, an open source
-command-line utility that lets developers and tinkerers automate
-the process of framing screenshots directly from the Mac’s
-Terminal. And there’s more: the Apple Frames CLI is <em>also</em>
-designed to work with AI agents, and it comes with a Claude
-Code/Codex skill that lets coding agents take care of framing
-dozens or even hundreds of screenshots in just a few seconds, from
-any folder on your Mac.</p>
-</blockquote>
-
-<p><a href="https://mastodon.social/@_Davidsmith/116398266142227490">David Smith</a>:</p>
-
-<blockquote>
-  <p>I’ve been using this recently and it is super helpful. I must
-frame dozens of screenshots a week and always looking for more
-efficient workflows for it.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘Apple Frames 4’"  href="https://daringfireball.net/linked/2026/04/13/apple-frames-4">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
