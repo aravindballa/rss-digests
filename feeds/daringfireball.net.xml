@@ -7,13 +7,13 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-24T16:24:59Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-24T16:54:38Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law" />
 	<link rel="shorturl" href="http://df4.us/x4r" />
 	<id>tag:daringfireball.net,2026://1.42939</id>
 	<published>2026-04-24T16:09:50Z</published>
-	<updated>2026-04-24T16:24:59Z</updated>
+	<updated>2026-04-24T16:53:40Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -31,13 +31,15 @@ Norwegian recreational craft of less than 15 meters in length
 (49.21 feet) in Norwegian territory.</p>
 </blockquote>
 
-<p>That’s an interesting example of generational law. It kind of sucked, I’m sure, if you were from a family of mariners and were born in 1980 and your sibling was born in 1979. You got stuck having to qualify for a license and your sibling did not. But: this is very different from an outright ban on those born after a certain year. It’s a relatively gentle change, and the cutoff had to apply somewhere. [The state of <a href="https://revisor.mo.gov/main/OneSection.aspx?section=306.127">Missouri has a similar law</a> with a birth cutoff of 1984.)</p>
+<p>That’s an interesting example of generational law. It kind of sucked, I’m sure, if you were from a family of mariners and were born in 1980 and your sibling was born in 1979. You got stuck having to qualify for a license and your sibling did not. But: this is very different from an outright ban on those born after a certain year. It’s a relatively gentle change, and the cutoff had to apply somewhere. (The state of <a href="https://revisor.mo.gov/main/OneSection.aspx?section=306.127">Missouri has a similar law</a> with a birth cutoff of 1984.)</p>
 
 <p>This whole topic of generational law is fascinating. I’ve gotten more emails from readers — around the world — about <a href="https://daringfireball.net/linked/2026/04/23/united-kingdom-smoking-ban">my post on the U.K. ban on tobacco sales</a> to those born in 2009 or later than just about anything I’ve written about recently. Lots of amazing feedback — including a note pointing me to the above Norwegian law. I’m replying to a bunch but can’t reply to them all, and but I’m thankful for every one.</p>
 
 <p>What makes the Norwegian boat licensing cutoff unobjectionable to me is that it’s not binary. It’s not saying those born in 1979 can pilot a boat and those born in 1980 cannot. It’s only saying that there’s an additional restriction on those born in 1980. A generational restriction feels fundamentally different from a generational ban. A bunch of readers who support these generational tobacco bans point to other laws with age cutoffs, like when the age for buying alcohol changed from 18 to 21. I’m sure that sucked if you wanted to drink and were 18, 19, or 20 when the limit was raised to 21 in your state. (Or if you were 17, and went from being one year away to four years away with the swoop of your governor’s pen.) But everyone turns 21 eventually. Adults putting additional restrictions on the young feels to me entirely different than adults banning the young from ever partaking in something that they — the current adults who are imposing the restriction — can continue to do in perpetuity. It’s not just a violation of the idea that all adults are equals, but to me it’s just blatantly hypocritical.</p>
 
 <p>If you tell me I’m not permitted to do something, but others are, it makes me want to do that thing. And it really makes me want to give the finger to whoever is imposing the restriction. <em>Fine for you but not for me? Fuck you.</em></p>
+
+<p>Also, grandfathering devices (<em>old cars don’t need to meet new emission standards</em>) or buildings (<em>new buildings must have elevators for accessibility, but existing buildings aren’t required to add them</em>) feels fundamentally different from grandfathering people.</p>
 
 <p>My spitball idea for a generational law to keep more young people from ever starting a tobacco habit — and thus, nicotine addiction — would be through scaled taxation. Require everyone, no matter what age, to present ID when purchasing tobacco. Set the tax rate on the year they were born, with significantly higher taxes the younger they are. But with no wild fluctuation from someone else who is a year or two apart from you in age. Increase those taxes by a point or two for every age. In this structure, no adult would be forbidden from buying tobacco, but someone who is 21 would pay significantly more for a pack of cigarettes than someone who is 65 — but only <em>slightly</em> more than someone who is, say, 22 or 23. Keep increasing the rates for everyone, every year, so that everyone, no matter how old, has to pay slightly higher prices year after year. That feels fair, should minimize the demand for a black market, and I think would have the practical effect of decreasing the number of young people who ever start.</p>
 
@@ -50,7 +52,7 @@ Norwegian recreational craft of less than 15 meters in length
 	<link rel="shorturl" href="http://df4.us/x4q" />
 	<id>tag:daringfireball.net,2026://1.42938</id>
 	<published>2026-04-24T14:18:03Z</published>
-	<updated>2026-04-24T14:24:17Z</updated>
+	<updated>2026-04-24T16:54:38Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -61,39 +63,72 @@ Norwegian recreational craft of less than 15 meters in length
 
 <p>The moment I’m talking about is when Luke enters with C-3PO and R2-D2, and <a href="https://imsdb.com/scripts/Star-Wars-A-New-Hope.html">the frighteningly gruff bartender barks at him</a>:</p>
 
-<pre><code>                     BARTENDER
-         We don't serve their kind here!
+<pre><code>                BARTENDER
+      We don't serve their kind here!
 
-Luke, still recovering from the shock of seeing so many 
-outlandish creatures, doesn't quite catch the bartender's 
-drift.
+Luke, still recovering from the shock of
+seeing so many outlandish creatures, doesn't
+quite catch the bartender's drift.
 
-                     LUKE
-         What?
+                LUKE
+      What?
 
-                     BARTENDER
-         Your droids. They'll have to wait 
-         outside. We don't want them here.
+                BARTENDER
+      Your droids. They'll have to wait 
+      outside. We don't want them here.
 
-Luke looks at old Ben, who is busy talking to one of the 
-Galactic pirates. He notices several of the gruesome
-creatures along the bar are giving him a very unfriendly
-glare.
+Luke looks at old Ben, who is busy talking
+to one of the Galactic pirates. He notices
+several of the gruesome creatures along the
+bar are giving him a very unfriendly glare.
 
 Luke pats Threepio on the shoulder.
 
-                     LUKE
-         Listen, why don't you wait out by 
-         the speeder. We don't want any 
-         trouble.
+                LUKE
+      Listen, why don't you wait out by 
+      the speeder. We don't want any 
+      trouble.
 
-                     THREEPIO
-         I heartily agree with you sir.
+                THREEPIO
+      I heartily agree with you sir.
 </code></pre>
 
 <p>As a kid, I didn’t get it. Why would you not want droids? <em>Star Wars</em> made robots seem so real, so fun. Why would you ban them? That scene has stuck with me for my entire life. I didn’t get <em>why</em>, but I understood what it meant about that galaxy: the underclass deeply resented droids. The bartender’s attitude wasn’t “<em>Hey kid, I’m sorry, but rules are rules and they’re not permitted.</em>” His attitude was “<em>Get those fucking things out of here.</em>”</p>
 
 <p>I think about this scene <a href="https://daringfireball.net/linked/2026/04/23/patel-software-brain">more and more lately</a>.</p>
+
+<!-- 
+TOFIX: Original formatting, that I rewrapped for better width on iPhone:
+
+                        BARTENDER
+            We don't serve their kind here!
+
+    Luke, still recovering from the shock of seeing so many 
+    outlandish creatures, doesn't quite catch the bartender's 
+    drift.
+
+                        LUKE
+            What?
+
+                        BARTENDER
+            Your droids. They'll have to wait 
+            outside. We don't want them here.
+
+    Luke looks at old Ben, who is busy talking to one of the 
+    Galactic pirates. He notices several of the gruesome creatures
+    along the bar are giving him a very unfriendly glare.
+
+    Luke pats Threepio on the shoulder.
+
+                        LUKE
+            Listen, why don't you wait out by 
+            the speeder. We don't want any 
+            trouble.
+
+                        THREEPIO
+            I heartily agree with you sir.
+
+ -->
 
 
 
