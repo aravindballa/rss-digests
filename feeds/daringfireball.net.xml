@@ -7,7 +7,44 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-24T15:02:49Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-24T16:24:59Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law" />
+	<link rel="shorturl" href="http://df4.us/x4r" />
+	<id>tag:daringfireball.net,2026://1.42939</id>
+	<published>2026-04-24T16:09:50Z</published>
+	<updated>2026-04-24T16:24:59Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">My spitball idea for a generational law to keep more young people from ever starting a tobacco habit — and thus, nicotine addiction — would be through scaled taxation.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p><a href="https://www.sdir.no/en/Leisure-boat/Certificates/Boat-driver_46s-license/Boating-licence/">The Norwegian Maritime Authority</a>:</p>
+
+<blockquote>
+  <p>If you were born in 1980 or later and plan to operate a
+recreational craft of more than 8 metres in length or with an
+engine power of more than 25 hp, you need a boating licence. The
+boating licence is a certificate permitting you to operate
+Norwegian recreational craft of less than 15 meters in length
+(49.21 feet) in Norwegian territory.</p>
+</blockquote>
+
+<p>That’s an interesting example of generational law. It kind of sucked, I’m sure, if you were from a family of mariners and were born in 1980 and your sibling was born in 1979. You got stuck having to qualify for a license and your sibling did not. But: this is very different from an outright ban on those born after a certain year. It’s a relatively gentle change, and the cutoff had to apply somewhere. [The state of <a href="https://revisor.mo.gov/main/OneSection.aspx?section=306.127">Missouri has a similar law</a> with a birth cutoff of 1984.)</p>
+
+<p>This whole topic of generational law is fascinating. I’ve gotten more emails from readers — around the world — about <a href="https://daringfireball.net/linked/2026/04/23/united-kingdom-smoking-ban">my post on the U.K. ban on tobacco sales</a> to those born in 2009 or later than just about anything I’ve written about recently. Lots of amazing feedback — including a note pointing me to the above Norwegian law. I’m replying to a bunch but can’t reply to them all, and but I’m thankful for every one.</p>
+
+<p>What makes the Norwegian boat licensing cutoff unobjectionable to me is that it’s not binary. It’s not saying those born in 1979 can pilot a boat and those born in 1980 cannot. It’s only saying that there’s an additional restriction on those born in 1980. A generational restriction feels fundamentally different from a generational ban. A bunch of readers who support these generational tobacco bans point to other laws with age cutoffs, like when the age for buying alcohol changed from 18 to 21. I’m sure that sucked if you wanted to drink and were 18, 19, or 20 when the limit was raised to 21 in your state. (Or if you were 17, and went from being one year away to four years away with the swoop of your governor’s pen.) But everyone turns 21 eventually. Adults putting additional restrictions on the young feels to me entirely different than adults banning the young from ever partaking in something that they — the current adults who are imposing the restriction — can continue to do in perpetuity. It’s not just a violation of the idea that all adults are equals, but to me it’s just blatantly hypocritical.</p>
+
+<p>If you tell me I’m not permitted to do something, but others are, it makes me want to do that thing. And it really makes me want to give the finger to whoever is imposing the restriction. <em>Fine for you but not for me? Fuck you.</em></p>
+
+<p>My spitball idea for a generational law to keep more young people from ever starting a tobacco habit — and thus, nicotine addiction — would be through scaled taxation. Require everyone, no matter what age, to present ID when purchasing tobacco. Set the tax rate on the year they were born, with significantly higher taxes the younger they are. But with no wild fluctuation from someone else who is a year or two apart from you in age. Increase those taxes by a point or two for every age. In this structure, no adult would be forbidden from buying tobacco, but someone who is 21 would pay significantly more for a pack of cigarettes than someone who is 65 — but only <em>slightly</em> more than someone who is, say, 22 or 23. Keep increasing the rates for everyone, every year, so that everyone, no matter how old, has to pay slightly higher prices year after year. That feels fair, should minimize the demand for a black market, and I think would have the practical effect of decreasing the number of young people who ever start.</p>
+
+
+
+    ]]></content>
+  <title>★ Norwegian Boating Licenses and Generational Law</title></entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/04/we_dont_serve_their_kind_here" />
 	<link rel="shorturl" href="http://df4.us/x4q" />
@@ -2394,140 +2431,4 @@ Sam Bankman-Fried-level scammer.”</p>
 
 
     ]]></content>
-  <title>★ Let Us Learn to Show Our Friendship for a Man When He Is Alive and Not After He Is Dead</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/04/openai_future" />
-	<link rel="shorturl" href="http://df4.us/x2t" />
-	<id>tag:daringfireball.net,2026://1.42869</id>
-	<published>2026-04-07T22:07:08Z</published>
-	<updated>2026-04-08T01:58:15Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">I don’t see the path from here to there, where *there* is a justification for a trillion-dollar-ish valuation.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>OpenAI, one week ago, <a href="https://openai.com/index/accelerating-the-next-phase-ai/">in an unbylined post on the company blog</a>:</p>
-
-<blockquote>
-  <p>Today, we closed our latest funding round with $122 billion in
-committed capital at a post money valuation of $852 billion.</p>
-</blockquote>
-
-<p>For comparison, here are the current market caps and 2025 annual profits for public companies in that valuation range:</p>
-
-<p><table class="table-6BC6F0DB-597A-48A9-8793-B6C02805510C" width=400>
-<style>
-.table-6BC6F0DB-597A-48A9-8793-B6C02805510C th:nth-child(1) { text-align: left }
-.table-6BC6F0DB-597A-48A9-8793-B6C02805510C td:nth-child(1) { text-align: left }
-.table-6BC6F0DB-597A-48A9-8793-B6C02805510C th:nth-child(2) { text-align: center }
-.table-6BC6F0DB-597A-48A9-8793-B6C02805510C td:nth-child(2) { text-align: center }
-.table-6BC6F0DB-597A-48A9-8793-B6C02805510C th:nth-child(3) { text-align: center }
-.table-6BC6F0DB-597A-48A9-8793-B6C02805510C td:nth-child(3) { text-align: center }
-</style>
-<thead>
-<th></th><th>Market Cap</th><th>2025 Net Income</th>
-</thead>
-<tbody>
-<tr>
-<td>Berkshire Hathaway</td><td>$1,028 B</td><td>$67 B</td>
-</tr>
-<tr>
-<td>Walmart</td><td>$980 B</td><td>$22 B</td>
-</tr>
-<tr>
-<td>Samsung</td><td>$855 B</td><td>$29 B</td>
-</tr>
-<tr>
-<td>Eli Lilly</td><td>$832 B</td><td>$21 B</td>
-</tr>
-</tbody>
-</table></p>
-
-<p>These four companies, as of today, rank 11–14th on the list of <a href="https://companiesmarketcap.com/time-machine/2026-04-03/">largest companies by market cap</a>.</p>
-
-<p><a href="https://daringfireball.net/linked/2026/03/31/bi-fidji-simo">In a post last week</a>, I quoted a Deutsche Bank projection estimating that OpenAI is going to <em>lose</em> $143 billion between 2024 and 2029. OpenAI’s refutation of this estimate is that no, they’re merely going to lose $111 billion in that timeframe. Even in the company’s own optimistic scenario, they’re going to <em>lose</em>, on average, as much money per year as any of these companies <em>earn</em>. (Well, except for Berkshire, which earned significantly <em>more</em> than the others last year.)</p>
-
-<p>I’m not trying to be thick here. Obviously the idea behind OpenAI’s astronomical valuation is that at some point they’ll stop losing money, and then, presumably starting at some point in the 2030s, they’re going to start generating mountains of profit. P/E ratios are not effective for evaluating a startup in hyper-growth phase, but the idea is that <em>eventually</em> a successful startup will achieve a balanced P/E ratio. That seems possible for OpenAI. It also seems far, if not very far, from certain. My gut feeling, now more than ever, is that it is unlikely to happen, and that the most likely scenario is that the entire company goes into history alongside companies like Enron. They’re generating steadily increasing revenue now, yes, but by selling dollars of compute for pennies. <a href="https://www.nbc.com/saturday-night-live/video/first-citywide-change-bank/2723464">First CityWide Change Bank</a> had a better business strategy than that — they gave you the correct change.<sup id="fnr1-2026-04-07"><a href="#fn1-2026-04-07">1</a></sup></p>
-
-<p>I purposely stretched the valuation range in my table above into the $1T market cap range so I could include Berkshire Hathaway, a company I’ve always greatly admired. Warren Buffett has long promoted the idea of seeking to invest in companies not just with moats, <a href="https://finance.yahoo.com/news/warren-buffett-explains-moat-principle-164442359.html">but with <em>defensible</em> moats</a>. I still haven’t seen a good refutation of the leaked internal Google white paper whose actual title was “<a href="https://daringfireball.net/linked/2024/11/29/cal-paterson-llms-as-businesses">We Have No Moat, and Neither Does OpenAI</a>”. What Google does have are highly profitable existing products and services.</p>
-
-<p>Back to OpenAI’s funding announcement, skipping over the next 1,111 words, all of which struck me as meaningless blather (and, if I had to bet, largely written by ChatGPT):</p>
-
-<blockquote>
-  <p>That is why we are building a unified AI superapp. As models
-become more capable, the limiting factor shifts from intelligence
-to usability. Users do not want disconnected tools. They want a
-single system that can understand intent, take action, and operate
-across applications, data, and workflows. Our superapp will bring
-together ChatGPT, Codex, browsing, and our broader agentic
-capabilities into one agent-first experience.</p>
-
-<p>This is not just product simplification. It is a distribution and
-deployment strategy.</p>
-</blockquote>
-
-<p>This is not “product simplification” <em>at all</em>. This is product complication. Web browsers are incredibly complex apps. OpenAI’s web browser — <a href="https://openai.com/index/introducing-chatgpt-atlas/">Atlas</a> — is a failure. No one uses it. And they think they’re going to <em>simplify</em> things by cramming Atlas — an unpopular web browser almost no one has heard of — together with their chatbot and developer tool? Would it strike you as a simplification, or a sign of product design depravity, if Apple announced that it was merging Safari and Messages into one “superapp”? Focused, discrete apps are the best proven way to manage complexity.</p>
-
-<p>Maybe merging all their apps into one will work out for OpenAI. But even if it does, it won’t be simpler. Microsoft Outlook is an email client and calendar app crammed together, and it has tens, maybe hundreds, of millions of users. But no one calls it “product simplification”. OpenAI’s “superapp” strategy reads to me like a company that is in a panic. And in that panic, they might be poised to eradicate the product focus that their current users like about ChatGPT in the first place.</p>
-
-<h2>Shuffling</h2>
-
-<p>And that’s just my read from before their late-Friday news dump of executive leadership shuffling. <a href="https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlpYWmFCSHJhUjgiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzkwNjk2NS9vcGVuYWlzLWFnaS1ib3NzLWlzLXRha2luZy1hLWxlYXZlLW9mLWFic2VuY2UiLCJleHAiOjE3NzYwMTMyNDksImlhdCI6MTc3NTU4MTI1MH0.GLlXdOStvZbttvEKLGUKKYRhfmkdxDCe7dO2YODC-Sw&amp;utm_medium=gift-link">Hayden Field at The Verge reports</a> (gift link):</p>
-
-<blockquote>
-  <p>OpenAI is undergoing another round of C-suite changes, according
-to an internal memo viewed by The Verge.</p>
-
-<p>Fidji Simo, OpenAI’s CEO of AGI deployment — who was until
-recently the company’s CEO of applications — says in the memo
-that she will be stepping away on medical leave “for the next
-several weeks” due to a neuroimmune condition. While she’s out,
-OpenAI president Greg Brockman will be in charge of product,
-including leading OpenAI’s “superapp” efforts. On the business
-side, CSO Jason Kwon, CFO Sarah Friar, and CRO Denise Dresser will
-take charge.</p>
-</blockquote>
-
-<p>The Verge runs Simo’s full memo at the bottom of their story, if you want to read it yourself. Simo’s title used to be CEO of applications, now it’s CEO of AGI deployment, but the last thing she oversaw before departing on an open-ended medical leave was ... <a href="https://www.wsj.com/tech/openai-technology-business-programming-network-b681ef6b?st=eDGw8W">checks notes</a> ... negotiating the acquisition of a YouTube tech news show for “low hundreds of millions of dollars” (<a href="https://www.ft.com/content/4fe4972a-3d24-45be-b9fa-a429c432b08e">per the Financial Times</a>). That’s the deployment of <em>something</em>, but not artificial general intelligence.</p>
-
-<p>Simo, too, is credited with the “superapp” strategy (which I will not stop putting in dick quotes). It certainly sounds like something someone <a href="https://www.marieclaire.com/career-advice/a28712482/fidji-simo-facebook/">from Facebook</a> would think up. But now she’s not going to be there to oversee it. I wish Simo well with her health issues, which seem significant, but none of this paints a picture of a well-run company with any sort of cohesive strategic vision.</p>
-
-<p>Until last week, I hadn’t seen <a href="https://www.wired.com/story/fidji-simo-is-openais-other-ceo-and-she-swears-shell-make-chatgpt-profitable/">Zoë Schiffer’s profile of Simo for Wired from November</a>, soon after she joined OpenAI as <em>a</em> CEO, but not <em>the</em> CEO:</p>
-
-<blockquote>
-  <p>Simo hasn’t been seen much at OpenAI’s San Francisco office since
-she began as CEO of Applications in August. But her presence is
-felt at every level of the company — not least because she’s
-heading up ChatGPT and basically every function that might make
-OpenAI money. Simo is dealing with a relapse of postural
-orthostatic tachycardia syndrome (POTS) that makes her prone to
-fainting if she stands for long periods of time. So for now, she’s
-working from home in Los Angeles, and she’s on Slack. <em>A lot</em>.</p>
-
-<p>“Being present from 8 am to midnight every day, responding within
-five minutes, people feel like I’m there and that they can reach
-me immediately, that I jump on the phone within five minutes,” she
-tells me. Employees confirm that this is true. OpenAI’s famously
-Slack-driven culture can be overwhelming for new hires. But not,
-apparently, for Simo. Employees say she is often seen popping into
-channels and threads, sharing thoughts and asking questions.</p>
-</blockquote>
-
-<p>OpenAI’s work environment seems not merely overwhelming, but torturous. I have no reason to believe Simo’s medical leave is anything but a legitimate medical leave, but I wouldn’t be surprised if she never comes back. (What’s the point of being CEO of AGI deployment when there is no AGI to deploy?)</p>
-
-<p>I don’t see the path from here to there, where <em>there</em> is a justification for a trillion-dollar-ish valuation for this company.</p>
-
-<div class="footnotes">
-<hr />
-<ol>
-<li id="fn1-2026-04-07">
-<p>There’s a joke to be made here about this “$122 billion in committed capital” being called such because the investors throwing good money after bad into OpenAI ought to be committed.&nbsp;<a href="#fnr1-2026-04-07"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
-</li>
-</ol>
-</div>
-
-
-
-    ]]></content>
-  <title>★ OpenAI Announces $122 Billion Additional ‘Committed Capital’, and Announces Their ‘Superapp’ Plan for the Future</title></entry></feed><!-- THE END -->
+  <title>★ Let Us Learn to Show Our Friendship for a Man When He Is Alive and Not After He Is Dead</title></entry></feed><!-- THE END -->
