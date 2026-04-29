@@ -7,7 +7,60 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-04-28T00:50:33Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-04-29T13:39:44Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Playing With Fire</title>
+	<link rel="alternate" type="text/html" href="https://x.com/lifeof_jer/status/2048103471019434248?s=12" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x4z" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/29/playing-with-fire" />
+	<id>tag:daringfireball.net,2026:/linked//6.42947</id>
+	<published>2026-04-29T13:38:22Z</published>
+	<updated>2026-04-29T13:38:22Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jer Crane, in an article earlier this week posted on Twitter/X:</p>
+
+<blockquote>
+  <p>I’m Jer Crane, founder of PocketOS. We build software that
+rental businesses — primarily car rental operators — use to
+run their entire operations: reservations, payments, customer
+management, vehicle tracking, the works. Some of our customers
+are five-year subscribers who literally cannot operate their
+businesses without us.</p>
+
+<p>Yesterday afternoon, an AI coding agent — Cursor running
+Anthropic’s flagship Claude Opus 4.6 — deleted our production
+database and all volume-level backups in a single API call to
+Railway, our infrastructure provider.</p>
+
+<p>It took 9 seconds.</p>
+
+<p>The agent then, when asked to explain itself, produced a written
+confession enumerating the specific safety rules it had violated.</p>
+</blockquote>
+
+<p>A day later, Crane posted <a href="https://x.com/lifeof_jer/status/2048576568109527407">an update with good news</a>: “Railway CEO just DM’d me with update: They have recovered the data (thank God!).” I sincerely hope that works out.</p>
+
+<p>That said, my sympathy for his plight is minimal. If you play with fire, recklessly even, don’t act outraged when you get burned. You don’t get the benefits of driving a race car at 200 MPH without the associated risks. You don’t get the benefits of running a business with AI coding agents running loose on your production environment without the associated risks. Put that race car on a track, with no access to public roads. Keep that AI coding agent sandboxed away from your production database. Otherwise you get what you deserve.</p>
+
+<p><a href="https://mastodon.social/@scalzi/116478192063186637">John Scalzi, on Mastodon</a>:</p>
+
+<blockquote>
+  <p>I wouldn’t say that I enjoy these stories but I will say they
+certainly encourage me NOT to let “AI” anywhere anything I
+consider to be sensitive and/or valuable.</p>
+</blockquote>
+
+<p>Same thing goes for <a href="https://daringfireball.net/linked/2026/04/14/fraudulent-cryptocurrency-app-in-mac-app-store">cryptocurrency crime victims</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Playing With Fire’"  href="https://daringfireball.net/linked/2026/04/29/playing-with-fire">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Rec League</title>
 	<link rel="alternate" type="text/html" href="https://recleague.com/?lyr_campaign=df" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x4y" />
@@ -90,12 +143,14 @@ trying hard enough to make the Touch Bar great?</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/26/df-t-shirts-and-hoodies-20-years" />
 	<id>tag:daringfireball.net,2026:/linked//6.42942</id>
 	<published>2026-04-26T19:30:00Z</published>
-	<updated>2026-04-26T19:34:19Z</updated>
+	<updated>2026-04-29T13:39:44Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>[<strong>Update:</strong> The store is now closed. Thanks to everyone who ordered — you should start getting shipping notices very soon.]</p>
+
 <p>It’s really just a coincidence, but it was 20 years ago this week that I went full-time writing Daring Fireball (after writing the site in my spare time for 4 years). That feels like a long time ago. But it feels like yesterday, too. <a href="https://daringfireball.net/2006/04/initiative">In my announcement, I wrote</a>:</p>
 
 <blockquote>
@@ -2247,42 +2302,6 @@ him, he lost 5.9 BTC (~$445,000).</p>
 
 <div>
 <a  title="Permanent link to ‘Fraudulent Cryptocurrency App in Mac App Store Stole $9.5 Million From 50-Some Users’"  href="https://daringfireball.net/linked/2026/04/14/fraudulent-cryptocurrency-app-in-mac-app-store">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>On the Name of Apple’s Foldable iPhone</title>
-	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2026/04/07/foldable-iphone-fold-iphone-ultra/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x3m" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/14/name-of-foldable-iphone" />
-	<id>tag:daringfireball.net,2026:/linked//6.42898</id>
-	<published>2026-04-14T21:46:17Z</published>
-	<updated>2026-04-14T21:46:17Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Tim Hardwick, last week at MacRumors:</p>
-
-<blockquote>
-  <p>Apple’s first foldable iPhone may not carry the speculative
-media-derived “Fold” branding after all, <a href="https://weibo.com/6048569942/QzJ4xr79B">according to Chinese
-leaker Digital Chat Station</a>. In a new post on Weibo, the
-oft-accurate leaker claimed that Apple’s book-style foldable could
-launch as the “iPhone Ultra.” Meanwhile, domestic Chinese
-manufacturers are allegedly deciding whether to follow Apple’s
-lead by tentatively branding their own upcoming foldables as
-“Ultra” models, but likely with a lighter price tag — Apple’s
-version is expected to cost between $2,000 and $2,500.</p>
-</blockquote>
-
-<p>I have no inside knowledge about what Apple plans to name this device, but I’ll eat my proverbial hat if they name it “iPhone Fold”. That name is so dumb it’s what Samsung calls their foldables. You don’t name a device for what it does, you name it for what it connotes. A good name conveys feeling, not just function. “iPhone Ultra” or “iPhone Max” would both work, and <em>Ultra</em> sounds more luxe. So while unsurprising, that’s probably the best bet, even without the reliable word of Mr. Digital Chat Station.</p>
-
-<p>But if you want my take on a wildcard name, one with some <a href="https://everymac.com/systems/apple/powerbook_duo/index-powerbook-duo.html">history</a>, how about “iPhone Duo”?</p>
-
-<div>
-<a  title="Permanent link to ‘On the Name of Apple’s Foldable iPhone’"  href="https://daringfireball.net/linked/2026/04/14/name-of-foldable-iphone">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
