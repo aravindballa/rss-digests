@@ -7,7 +7,47 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-04T01:51:06Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-04T14:30:54Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>John Sterling, Beloved Longtime Yankees Radio Voice, Passes at 87</title>
+	<link rel="alternate" type="text/html" href="https://www.mlb.com/news/john-sterling-passes-away" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x5h" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/04/sterling-rip" />
+	<id>tag:daringfireball.net,2026:/linked//6.42965</id>
+	<published>2026-05-04T14:30:53Z</published>
+	<updated>2026-05-04T14:30:54Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Bryan Hoch, reporting for MLB.com:</p>
+
+<blockquote>
+  <p>A colorful personality who engaged and entertained fans with a
+distinct conversational style, Sterling called 5,426
+regular-season Yankees games and 225 more in the postseason from
+1989 until his retirement in 2024. After initially stepping away
+from the microphone in April of that year, Sterling returned to
+call selected games late in the ’24 season, including each contest
+of the World Series.</p>
+
+<p>At the time of his initial retirement, Sterling said that he
+considered himself to be “a very blessed human being,” noting that
+he had lived out a childhood dream of broadcasting on the radio
+for more than 64 years.</p>
+
+<p>“It’s your medium. You do what you want,” Sterling once said. “You
+have to paint the picture, which I love doing.”</p>
+</blockquote>
+
+<p>That’s baseball, Suzyn.</p>
+
+<div>
+<a  title="Permanent link to ‘John Sterling, Beloved Longtime Yankees Radio Voice, Passes at 87’"  href="https://daringfireball.net/linked/2026/05/04/sterling-rip">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>X, the Platform of Free Speech</title>
 	<link rel="alternate" type="text/html" href="https://bsky.app/profile/gilduran.com/post/3mky5taqg3222" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x5g" />
@@ -43,13 +83,13 @@ Fascism.” (appeal denied)</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/03/2-letters-from-steve" />
 	<id>tag:daringfireball.net,2026:/linked//6.42963</id>
 	<published>2026-05-03T23:47:11Z</published>
-	<updated>2026-05-04T00:38:33Z</updated>
+	<updated>2026-05-04T14:13:09Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>I don’t want to spoil any of this story from David Gelphman, which he wrote back in 2013, but which I only came across this week. Go read it. But before you do, one bit of context you should keep in mind is that the original iPad was <em>unveiled</em> at a special Apple event <a href="https://www.apple.com/newsroom/2010/01/27Apple-Launches-iPad/">on 27 January 2010</a>, but it didn’t <em>ship</em> until <a href="https://daringfireball.net/2010/04/the_ipad">early April</a>. Gelphman’s story takes place in that interregnum.</p>
+<p>I don’t want to spoil any of this story from David Gelphman, which he wrote back in 2013, but which I <s>only came across this week</s> <a href="https://daringfireball.net/linked/2013/03/29/ok">had read so long ago</a> I’d forgotten it. Go read it. But before you do, one bit of context you should keep in mind is that the original iPad was <em>unveiled</em> at a special Apple event <a href="https://www.apple.com/newsroom/2010/01/27Apple-Launches-iPad/">on 27 January 2010</a>, but it didn’t <em>ship</em> until <a href="https://daringfireball.net/2010/04/the_ipad">early April</a>. Gelphman’s story takes place in that interregnum.</p>
 
 <div>
 <a  title="Permanent link to ‘‘2 Letters From Steve’’"  href="https://daringfireball.net/linked/2026/05/03/2-letters-from-steve">&nbsp;★&nbsp;</a>
@@ -2176,51 +2216,6 @@ AI-friendly systems, but analysts have three theories.</p>
 
 <div>
 <a  title="Permanent link to ‘Mac Mini and Mac Studio Supply Shortages’"  href="https://daringfireball.net/linked/2026/04/18/mac-mini-and-mac-studio-supply">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple’s Developer Guidelines for Ratings and Review Prompts</title>
-	<link rel="alternate" type="text/html" href="https://developer.apple.com/design/human-interface-guidelines/ratings-and-reviews#Best-practices" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x42" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/17/apples-developer-guidelines-for-ratings-and-review-prompts" />
-	<id>tag:daringfireball.net,2026:/linked//6.42914</id>
-	<published>2026-04-18T00:43:35Z</published>
-	<updated>2026-04-18T00:43:36Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Apple Design:</p>
-
-<blockquote>
-  <p><em>Avoid pestering people.</em> Repeated rating requests can be
-irritating, and may even negatively influence people’s opinion of
-your app. Consider allowing at least a week or two between
-requests, prompting again after people demonstrate additional
-engagement with your experience.</p>
-
-<p><em>Prefer the system-provided prompt.</em> iOS, iPadOS, and macOS offer
-a consistent, nonintrusive way for apps and games to request
-ratings and reviews. When you identify places in your experience
-where it makes sense to ask for feedback, the system checks for
-previous feedback and — if there isn’t any — displays an in-app
-prompt that asks for a rating and an optional written review.
-People can supply feedback or dismiss the prompt with a single tap
-or click; they can also opt out of receiving these prompts for all
-apps they have installed. The system automatically limits the
-display of the prompt to three occurrences per app within a
-365-day period. For developer guidance, see
-<a href="https://developer.apple.com/documentation/StoreKit/RequestReviewAction"><code>RequestReviewAction</code></a>.</p>
-</blockquote>
-
-<p>There are a lot of apps that eschew a lot of these guidelines. I mean, how do you avoid pestering people when the entire idea of an alert asking for a rating/review is, by nature, pestering? It’s an oxymoron, like saying “Don’t pester people when you pester them.” </p>
-
-<p>I actually knew about the system setting to opt out of these prompts. On iOS it’s in Settings → Apps → App Store: In-App Ratings &amp; Reviews. On MacOS, it’s in the App Store app’s Settings window. On both platforms, it’s on by default. This is one of several settings that I <em>would</em> change, personally, but choose not to, as a critic / pundit / know-it-all, so as to have more of the standard experience that most users get. If you’re annoyed by these prompts though, you should feel free to turn them off.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple’s Developer Guidelines for Ratings and Review Prompts’"  href="https://daringfireball.net/linked/2026/04/17/apples-developer-guidelines-for-ratings-and-review-prompts">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
