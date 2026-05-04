@@ -7,7 +7,73 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-04T20:31:34Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-04T21:09:42Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>App Store Search Ads and the Slippery Slope</title>
+	<link rel="alternate" type="text/html" href="https://blog.thinktapwork.com/post/812803664980967425/ios-app-store-search-is-rotten" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x5n" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/04/ios-app-store-slippery-slope" />
+	<id>tag:daringfireball.net,2026:/linked//6.42971</id>
+	<published>2026-05-04T21:09:21Z</published>
+	<updated>2026-05-04T21:09:42Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jeremy Provost, on the blog for Think Tap Work, his mobile app development company:</p>
+
+<blockquote>
+  <p>iOS App Store search is no longer about relevance. It’s about ad
+inventory. With Apple’s introduction of a second search ad, for
+any query where we weren’t #1, we’ve effectively moved down one
+position. [...] If you’re counting at home, roughly 70% of the
+interface is covered in ads. A casino ad, to boot.</p>
+</blockquote>
+
+<p>That was a month ago. Two weeks later, <a href="https://blog.thinktapwork.com/post/813892238778286080/ios-app-store-search-is-rotten-follow-up">he posted a follow-up</a>, showing the effect on Think Tap Work’s apps in the App Store:</p>
+
+<blockquote>
+  <p>I wanted to share some updated numbers from our own apps. To
+isolate the impact, these numbers only include App Store Search
+<em>impressions</em> from <em>iOS devices</em>, comparing Mar 26–Apr 8 to the
+prior two weeks. In other words: how much visibility we’ve lost
+in search.</p>
+
+<ul>
+<li><a href="https://apps.apple.com/app/id1494942612">Morpho Converter</a>: 26% decrease</li>
+<li><a href="https://apps.apple.com/us/app/pop-out-timer-stopwatch-clock/id1352722326">Pop Out Timer</a>: 23% decrease</li>
+<li><a href="https://apps.apple.com/app/id1511771853">Attendant for Zoom</a>: 30% decrease</li>
+<li><a href="https://apps.apple.com/app/id1532789823">Participant</a>: 3% increase. As previously mentioned, we advertise
+Participant using Search Ads. It’s not surprising that it might
+be getting a bump from this change.</li>
+</ul>
+</blockquote>
+
+<p>The screenshot in his follow-up shows <em>another</em> casino ad, this time in a search for “Roblox”. Kinda gross.</p>
+
+<p>Here’s Wikipedia on the “<a href="https://en.wikipedia.org/wiki/Zero-one-infinity_rule">Zero-One-Infinity Rule</a>”:</p>
+
+<blockquote>
+  <p>The zero-one-infinity (ZOI) rule is a rule of thumb in software
+design proposed by early computing pioneer <a href="https://en.wikipedia.org/wiki/Willem_van_der_Poel">Willem van der Poel</a>.
+It argues that arbitrary limits on the number of instances of a
+particular type of data or structure should not be allowed.
+Instead, an entity should either be forbidden entirely, only one
+should be allowed, or any number of them should be allowed.</p>
+</blockquote>
+
+<p>In Apple Notes, you can only have one main window open. In Apple Mail, however, you can open as many Viewer Windows as you want. Both are compliant with the Zero-One-Infinity rule. An app that allowed you to open multiple viewer windows — but no more than some arbitrary limit — would not be. ZOI is a very good rule of thumb.</p>
+
+<p>I feel like a variation of Zero-One-Infinity is a good rule of thumb for ads, too. From the perspective of users — and probably developers — zero was the best number of ads for Apple to show in App Store search results. One was worse but acceptable. But now that they’re showing more than one, they’re on their way to infinity. They’ve started down the slippery slope. Remember when Google only showed one ad in search results?</p>
+
+<p>Anyway, who’s looking forward to <a href="https://daringfireball.net/linked/2026/03/27/apple-announces-ads-are-coming-to-apple-maps">ads in Apple Maps this summer</a>?</p>
+
+<div>
+<a  title="Permanent link to ‘App Store Search Ads and the Slippery Slope’"  href="https://daringfireball.net/linked/2026/05/04/ios-app-store-slippery-slope">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’</title>
 	<link rel="alternate" type="text/html" href="https://tokyopaladin.substack.com/p/the-japanese-oreo-noir-kills-the" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x5m" />
@@ -2168,52 +2234,6 @@ better off without Steve Jobs.</p>
 
 <div>
 <a  title="Permanent link to ‘DF Paraphernalia: T-Shirts and Hoodies Are Back’"  href="https://daringfireball.net/linked/2026/04/20/df-t-shirts-and-hoodies">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘Community Letter From Tim’</title>
-	<link rel="alternate" type="text/html" href="https://www.apple.com/community-letter-from-tim/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x4a" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/20/cook-community-letter" />
-	<id>tag:daringfireball.net,2026:/linked//6.42922</id>
-	<published>2026-04-20T21:37:22Z</published>
-	<updated>2026-04-21T03:51:57Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Tim Cook, in a letter addressed, simply, “To the Apple community”:</p>
-
-<blockquote>
-  <p>For the past 15 years I’ve started just about every morning the
-same way. I open my email and I read notes I received the day
-before from Apple’s users all over the world.</p>
-
-<p>You share little pieces of your lives with me and tell me things
-you want me to know about how Apple has touched you. About the
-moment your mom was saved by her Apple Watch. About the perfect
-selfie you captured at the summit of a mountain that seemed
-impossible to climb. You thank me for the ways Mac has changed
-what you can do at work and sometimes give me a hard time because
-something you care about isn’t working like it should.</p>
-
-<p>In every one of those emails I feel the beating heart of our
-shared humanity. I feel a sense of deepening obligation to work
-harder and push further. But most of all, I feel a gratitude that
-I cannot put into words, that I somehow got to be the person on
-the other end of those emails, the leader of a company that
-ignites imaginations and enriches lives in such profound ways it
-defies description. What an honor and a privilege it has been.</p>
-</blockquote>
-
-<p>The language here feels looser, more casual, more <em>real</em> than anything Cook has said or written in public since his historic, seminal <a href="https://web.archive.org/web/20141101000208/http://www.businessweek.com/articles/2014-10-30/tim-cook-im-proud-to-be-gay">coming-out essay at Businessweek back in 2014</a>.</p>
-
-<p>Just a wonderful note. This feels like a very happy day for Tim Cook. Where has this guy been?</p>
-
-<div>
-<a  title="Permanent link to ‘‘Community Letter From Tim’’"  href="https://daringfireball.net/linked/2026/04/20/cook-community-letter">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
