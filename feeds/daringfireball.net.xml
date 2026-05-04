@@ -7,7 +7,27 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-03T23:27:00Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-03T23:47:32Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>‘2 Letters From Steve’</title>
+	<link rel="alternate" type="text/html" href="https://davidgelphman.wordpress.com/2013/03/29/2-letters-from-steve/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x5f" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/03/2-letters-from-steve" />
+	<id>tag:daringfireball.net,2026:/linked//6.42963</id>
+	<published>2026-05-03T23:47:11Z</published>
+	<updated>2026-05-03T23:47:32Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>I don’t want to spoil any of this story from David Gelphman, which he wrote back in 2013, but which I only came across this week. Go read it. But before you do, one bit of context you should keep in mind is that the original iPad was <em>unveiled</em> at a special Apple event <a href="https://www.apple.com/newsroom/2010/01/27Apple-Launches-iPad/">on 27 January 2010</a>, but it didn’t <em>ship</em> until the end of March. Gelphman’s story takes place in that interregnum.</p>
+
+<div>
+<a  title="Permanent link to ‘‘2 Letters From Steve’’"  href="https://daringfireball.net/linked/2026/05/03/2-letters-from-steve">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/05/crimes_against_decency_need_as_much_cover-up_as_crimes_against_the_law" />
 	<link rel="shorturl" href="http://df4.us/x5e" />
@@ -2216,55 +2236,6 @@ things up when they have that body of review data.</p>
 
 <div>
 <a  title="Permanent link to ‘Follow-Up Regarding App Store Reviews, Which Are Definitely Busted’"  href="https://daringfireball.net/linked/2026/04/17/follow-up-app-store-reviews">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>App Store Reviews Are Busted</title>
-	<link rel="alternate" type="text/html" href="https://blog.terrygodier.com/2026/04/13/app-store-reviews-are-busted.html" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x40" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/16/app-store-reviews-are-busted" />
-	<id>tag:daringfireball.net,2026:/linked//6.42912</id>
-	<published>2026-04-17T01:00:26Z</published>
-	<updated>2026-04-17T01:37:12Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Terry Godier:</p>
-
-<blockquote>
-  <p>For example, if you have a 4.1 star rating in the App Store, any 4
-star review is going to <em>decrease that average</em>. In other words,
-<em>leaving a 4 star review is essentially leaving a negative
-review</em>. [...]</p>
-
-<p>You will see a lot of 4 star reviews that say things like, “<em>This
-is my favorite app!</em>” or “<em>Gamechanger!</em>” The apps that tend to
-have these types of reviews are often over a 4.0 in the store and
-are being actively harmed average-wise by having them, even though
-the intent was clearly not to do so.</p>
-</blockquote>
-
-<p>Problem #1 is that star-rating systems <a href="https://daringfireball.net/linked/2017/04/13/star-ratings-are-garbage">absolutely suck for aggregation</a>. If you’re going to collect and average ratings from users, the system that works best is binary: thumbs-up or thumbs-down. <a href="http://daringfireball.net/linked/2017/03/17/netflix-stars-vs-thumbs-up">Netflix switched from stars to thumbs in 2017</a>, and <a href="https://daringfireball.net/linked/2017/03/18/youtube-thumbs-stars">YouTube switched all the way back in 2009</a>. The App Store should switch to thumbs.</p>
-
-<blockquote>
-  <p>The logical endpoint of apps optimizing for a 5 star review
-invalidates the system as meaningful on the store. The system
-becomes a better representation of the sophistication at review
-prompt execution than it does an accurate reflection of app
-product quality. The incentive isn’t to create an actual 5 star
-app, but rather to create a robust system that transmits only 5
-star reviews.</p>
-</blockquote>
-
-<p>Problem #2 is that even if the App Store switched from stars to thumbs, the system would still be gamified by developers, rewarding, as Godier aptly puts it, not the best apps but instead the apps that are best at “review prompt execution”. Apple should remove the APIs that allow apps to prompt for reviews, and forbid the practice of prompting for them. Nothing good, and much bad, comes from these prompts. Imagine being in a restaurant, and in the middle of your entree, the server comes to your table and hands you an iPad and asks you to rate the joint on Yelp. That’s what using most apps is like. And the apps that do the right thing — like Godier’s <a href="https://www.terrygodier.com/current">Current</a> — and never solicit a review like a needy hustler are penalized.</p>
-
-<p>Every time I see one of these prompts it’s like getting hit up by a panhandler — and some of the prompts come from Apple’s own apps. It’s all so <em>greasy</em>. One of the advantages of a walled garden ought to be keeping panhandlers and solicitors out.</p>
-
-<div>
-<a  title="Permanent link to ‘App Store Reviews Are Busted’"  href="https://daringfireball.net/linked/2026/04/16/app-store-reviews-are-busted">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
