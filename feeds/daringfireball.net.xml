@@ -7,7 +7,94 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-04T21:40:32Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-04T22:58:41Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Paul Thurrott Might Write a Book on Markdown</title>
+	<link rel="alternate" type="text/html" href="https://www.thurrott.com/paul/334577/the-markdown-book-on-writing?utm_source=dlvr.it&amp;utm_medium=mastodon" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x5q" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/04/thurrott-markdown-book" />
+	<id>tag:daringfireball.net,2026:/linked//6.42974</id>
+	<published>2026-05-04T22:58:40Z</published>
+	<updated>2026-05-04T22:58:41Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Paul Thurrott:</p>
+
+<blockquote>
+  <p>I may or may not write and publish a short e-book about Markdown
+sometime this year, most likely as part of a monthly focus. But
+l’ve written small parts of it already, as I do, and I figured it
+might be interesting for at least some readers. And so here’s an
+early draft of an introductory chapter that may or my not be
+called “On writing.” We’ll see.</p>
+</blockquote>
+
+<p>It’s odd how things turn out in life. Thurrott’s and my careers are almost uniquely parallel, but have seldom intersected. This book would have been a very surprising outcome to me, if you’d told me about it 20 years ago. But better this than me writing a book about something Thurrott created in 2002.</p>
+
+<div>
+<a  title="Permanent link to ‘Paul Thurrott Might Write a Book on Markdown’"  href="https://daringfireball.net/linked/2026/05/04/thurrott-markdown-book">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/05/y_combinators_stake_in_openai" />
+	<link rel="shorturl" href="http://df4.us/x5p" />
+	<id>tag:daringfireball.net,2026://1.42973</id>
+	<published>2026-05-04T22:47:01Z</published>
+	<updated>2026-05-04T22:47:01Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">The fact that Paul Graham personally has billions of dollars at stake with OpenAI doesn’t mean that his public opinion on Sam Altman’s trustworthiness and leadership is invalid. But it certainly seems like the sort of thing that ought to be disclosed when quoting Graham as an Altman character reference.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>Speaking of companies with <a href="https://daringfireball.net/linked/2026/05/04/google-owns-a-big-chunk-of-anthropic">valuable minority stakes in AI companies</a>, there’s one thing that stuck in my craw about the blockbuster <a href="https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted">Ronan Farrow / Andrew Marantz investigative piece on Sam Altman and OpenAI</a> last month for The New Yorker. It didn’t come up during <a href="https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry">Nilay Patel’s excellent interview with Farrow on Decoder</a>, either.</p>
+
+<p>Sam Altman was the president of Y Combinator for several years, and left to become the full-time CEO of OpenAI. The New Yorker quotes Y Combinator co-founder Paul Graham multiple times, in the context of Altman’s trustworthiness. (Some of those quotes are firsthand, others secondhand.) Graham’s role in the story — particularly his public remarks <em>after</em> publication — comprised an entire section in <a href="https://daringfireball.net/2026/04/when_he_is_alive_and_not_after_he_is_dead">my own take on the New Yorker piece</a>, wherein I concluded:</p>
+
+<blockquote>
+  <p>I would characterize Graham’s tweets re: Altman this week as
+emphasizing only that Altman was not fired or otherwise forced
+from YC, and could have stayed as CEO at YC if he’d found another
+CEO for OpenAI. But for all of Graham’s elucidating engagement on
+Twitter/X this week regarding this story, he’s dancing around the
+core question of the Farrow/Marantz investigation, the one right
+there in The New Yorker’s headline: Can Sam Altman be trusted?
+“<em>We didn’t ‘remove’ Sam Altman</em>” and “<em>We didn’t want him to
+leave</em>” are not the same things as saying, say, “<em>I think Sam
+Altman is honest and trustworthy</em>” or “<em>Sam Altman is a man of
+integrity</em>”. If Paul Graham were to say such things, clearly and
+unambiguously, those remarks would carry tremendous weight. But — rather conspicuously to my eyes — he’s not saying such things.</p>
+</blockquote>
+
+<p>The thing that stuck in my craw is this: <em>Does Y Combinator own a stake in OpenAI? And if they do, given OpenAI’s sky-high valuation, isn’t that stake worth billions of dollars?</em></p>
+
+<p>OpenAI was seeded by an offshoot of Y Combinator <a href="https://web.archive.org/web/20160611042811/https://ycr.org/">called YC Research</a> in 2016 — when Altman was running YC. In December 2023, the well-known AI expert (and AI-hype skeptic) <a href="https://garymarcus.substack.com/p/not-consistently-candid">Gary Marcus wrote the following</a>, in a piece on Altman’s trustworthiness in the wake of the OpenAI board saga that saw Altman fired, re-hired, and the board purged in the course of a tumultuous week:</p>
+
+<blockquote>
+  <p>After poking around, I found out that “I have no equity in OpenAI”
+was only half the truth; while Altman to my knowledge holds no
+<em>direct</em> equity in OpenAI, he does have an <em>indirect</em> stake in
+OpenAI, and that fact should have been disclosed.</p>
+
+<p>In particular, he own a stake of Y Combinator, and Y Combinator
+owns a stake in OpenAI. It may well be worth tens of millions of
+dollars; even for Altman, that’s not trivial. Since he was
+President of Y Combinator, and CEO of OpenAI; he surely was
+aware of this.</p>
+</blockquote>
+
+<p>So it’s well known that Y Combinator owns <em>some</em> stake in OpenAI. But how big is that stake? This seems like devilishly difficult information to obtain. I asked around and a little birdie who knows several OpenAI investors came back with an answer: Y Combinator owns about 0.6 percent of OpenAI. At OpenAI’s current <a href="https://openai.com/index/accelerating-the-next-phase-ai/">$852 billion valuation</a>, that’s worth over $5 billion.</p>
+
+<p>Graham <a href="https://www.youtube.com/watch?v=6u4JVz7iQTY">and his wife Jessica Livingston</a> are two of Y Combinator’s four founding partners. The fact that Paul Graham personally has billions of dollars at stake with OpenAI doesn’t mean that his public opinion on Sam Altman’s trustworthiness and leadership is invalid. But it certainly seems like the sort of thing that ought to be disclosed when quoting Graham as an Altman character reference. A billion dollars here, a billion there — that adds to up the sort of money that <em>might</em> skew a fellow’s opinion.</p>
+
+
+
+    ]]></content>
+  <title>★ Y Combinator’s Stake in OpenAI</title></entry><entry>
 	<title>Google Owns a Big Chunk of Anthropic</title>
 	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2025/03/11/technology/google-investment-anthropic.html?unlocked_article_code=1.f1A.eSTf.D5ECvk6f4DZ7" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x5o" />
@@ -1570,93 +1657,6 @@ Norwegian recreational craft of less than 15 meters in length
 
     ]]></content>
   <title>★ Norwegian Boating Licenses and Generational Law</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/04/we_dont_serve_their_kind_here" />
-	<link rel="shorturl" href="http://df4.us/x4q" />
-	<id>tag:daringfireball.net,2026://1.42938</id>
-	<published>2026-04-24T14:18:03Z</published>
-	<updated>2026-04-24T16:54:38Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">I think about this scene more and more lately.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>George Lucas got so many nuances right in <em>Star Wars</em>. Little touches that said so much. One of the most overlooked is a moment that I vividly remember from first seeing it, on the big screen, as a kindergartener or thereabouts. It’s during the scene where Luke enters the Mos Eisley cantina. We <em>still</em> haven’t met Han Solo and Chewbacca. And while we’ve seen space ships and droids, stormtroopers and Darth Vader, Jawas and Tusken Raiders, every character we’ve seen in the flesh is a human. And then, boom, 45 minutes into the movie, we enter the cantina, and the joint is absolutely lousy with dozens of wild and wildly different aliens — including the band playing that iconic jaunty song. We suddenly learn just how diverse the galaxy really is. <a href="https://www.youtube.com/watch?v=sPelOnd7Sik">It’s one of the best and most memorable scenes</a> in movie history.</p>
-
-<p>The moment I’m talking about is when Luke enters with C-3PO and R2-D2, and <a href="https://imsdb.com/scripts/Star-Wars-A-New-Hope.html">the frighteningly gruff bartender barks at him</a>:</p>
-
-<pre><code>                BARTENDER
-      We don't serve their kind here!
-
-Luke, still recovering from the shock of
-seeing so many outlandish creatures, doesn't
-quite catch the bartender's drift.
-
-                LUKE
-      What?
-
-                BARTENDER
-      Your droids. They'll have to wait 
-      outside. We don't want them here.
-
-Luke looks at old Ben, who is busy talking
-to one of the Galactic pirates. He notices
-several of the gruesome creatures along the
-bar are giving him a very unfriendly glare.
-
-Luke pats Threepio on the shoulder.
-
-                LUKE
-      Listen, why don't you wait out by 
-      the speeder. We don't want any 
-      trouble.
-
-                THREEPIO
-      I heartily agree with you sir.
-</code></pre>
-
-<p>As a kid, I didn’t get it. Why would you not want droids? <em>Star Wars</em> made robots seem so real, so fun. Why would you ban them? That scene has stuck with me for my entire life. I didn’t get <em>why</em>, but I understood what it meant about that galaxy: the underclass deeply resented droids. The bartender’s attitude wasn’t “<em>Hey kid, I’m sorry, but rules are rules and they’re not permitted.</em>” His attitude was “<em>Get those fucking things out of here.</em>”</p>
-
-<p>I think about this scene <a href="https://daringfireball.net/linked/2026/04/23/patel-software-brain">more and more lately</a>.</p>
-
-<!-- 
-TOFIX: Original formatting, that I rewrapped for better width on iPhone:
-
-                        BARTENDER
-            We don't serve their kind here!
-
-    Luke, still recovering from the shock of seeing so many 
-    outlandish creatures, doesn't quite catch the bartender's 
-    drift.
-
-                        LUKE
-            What?
-
-                        BARTENDER
-            Your droids. They'll have to wait 
-            outside. We don't want them here.
-
-    Luke looks at old Ben, who is busy talking to one of the 
-    Galactic pirates. He notices several of the gruesome creatures
-    along the bar are giving him a very unfriendly glare.
-
-    Luke pats Threepio on the shoulder.
-
-                        LUKE
-            Listen, why don't you wait out by 
-            the speeder. We don't want any 
-            trouble.
-
-                        THREEPIO
-            I heartily agree with you sir.
-
- -->
-
-
-
-    ]]></content>
-  <title>★ ‘We Don’t Serve Their Kind Here’</title></entry><entry>
 	<title>XOXO Explore</title>
 	<link rel="alternate" type="text/html" href="https://xoxofest.com/blog/2026-launching-xoxo-explore/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x4o" />
@@ -2180,79 +2180,4 @@ go-go years.</p>
 </div>
 
 	]]></content>
-	<title>[Sponsor] Rec League</title></entry><entry>
-	<title>Trump on Tim Apple</title>
-	<link rel="alternate" type="text/html" href="https://truthsocial.com/@realDonaldTrump/posts/116442276577696798" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x4c" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/21/trump-on-tim-apple" />
-	<id>tag:daringfireball.net,2026:/linked//6.42924</id>
-	<published>2026-04-21T19:17:34Z</published>
-	<updated>2026-04-21T20:49:16Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>The president of the United States, on his blog this morning (all capitalization, punctuation, and missing/wrong words verbatim):</p>
-
-<blockquote>
-  <p>I have always been a big fan of Tim Cook, and likewise, Steve
-Jobs, but if Steve was not taken from the Planet Earth so young,
-and ran the company instead of Tim, the company would have done
-well, but nowhere near as well as it has under Tim. For me it
-began with a phone call from Tim at the beginning of my First
-Term. He had a fairly large problem that only I, as President,
-could fix. Most people would have paid millions of dollars to a
-consultant, who I probably would not have known, but who would say
-that he knew me well. The fees would be paid but the job would not
-have gotten done. When I got the call I said, wow, it’s Tim Apple
-(Cook!) calling, how big is that? I was very impressed with myself
-to have the head of Apple calling to “kiss my ass.” Anyway, he
-explained his problem, a tough one it was, I felt he was right and
-got it taken care of, quickly and effectively. That was the
-beginning of a long and very nice relationship. During my five
-years as President, Tim would call me, but never too much, and I
-would help him where I could. Years latter, after 3 or 4 BIG
-HELPS, I started to say to people, anyone who would listen, that
-this guy is an amazing manager and leader. He makes these calls to
-me, I help him out (but not always, because he will, on occasion,
-be too aggressive in his ask!), and he gets the job done, QUICKLY,
-without a dime being given to those very expensive (millions of
-dollars!) consultants around town who sometimes get it done, and
-sometimes don’t. Anyway, Tim Cook had an AMAZING career, almost
-incomparable, and will go on and continue to do great work for
-Apple, and whatever else he chooses to work on. Quite simply, Tim
-Cook is an incredible guy!!! President DONALD J. TRUMP</p>
-</blockquote>
-
-<p>Matthew Yglesias, on Twitter/X, <a href="https://x.com/mattyglesias/status/2046565220844228626">first</a>:</p>
-
-<blockquote>
-  <p>You can see in Trump’s take on Tim Cook what he really likes about
-tariffs, which is nothing to do with economics and everything
-about how it makes business leaders dependent on his goodwill.</p>
-</blockquote>
-
-<p>and <a href="https://x.com/mattyglesias/status/2046569146750468511">second</a>:</p>
-
-<blockquote>
-  <p>Also appreciate that Trump threw in a hot take about Apple being
-better off without Steve Jobs.</p>
-
-<p>The man loves to post!</p>
-</blockquote>
-
-<p>Yglesias is exactly right re: Trump’s obsession with tariffs. There is zero underlying economic philosophy behind them. He likes tariffs because he sees them as a way to exert political power. I’d add only that Yglesias is being a tad deferential/euphemistic when he says “makes business leaders dependent on his goodwill”. Trump himself used the right phrase to describe why he likes tariffs — they get business leaders to “kiss his ass”. Trump’s own words.</p>
-
-<p>Yglesias’s second point is directly related to the first. There’s no evidence that Trump and Jobs ever met, personally, but <a href="https://www.vice.com/en/article/donald-trump-was-obsessed-with-steve-jobs-iphone-apple/">Trump admired Jobs</a> and has an intuitive understanding that Jobs would not have kissed his ass, and to Trump, that’s the most important thing about Cook. Rightly or wrongly, Cook took/takes that one for the team. Jobs wouldn’t have (and, if he had lived, would have probably sent COO Tim Cook to do it), and Trump knows it.</p>
-
-<p>Lastly, hat tip to Trump for the self-deprecating reference to his having <a href="https://www.youtube.com/watch?v=XHVxm12NbrY">mistakenly addressed Cook as “Tim Apple”</a> at a public meeting back in 2019. He’s still funny when he’s in the right mood.</p>
-
-<p><strong>Bonus:</strong> <a href="https://bsky.app/profile/mekka.mekka-tech.com/post/3mjzahrz2r222">Mekka Okereke color-coded each sentence of Trump’s post</a> in four categories: (1) praise for Cook; (2) belittling other people; (3) self glorification; and (4) putting his own name in all caps.</p>
-
-<div>
-<a  title="Permanent link to ‘Trump on Tim Apple’"  href="https://daringfireball.net/linked/2026/04/21/trump-on-tim-apple">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry></feed><!-- THE END -->
+	<title>[Sponsor] Rec League</title></entry></feed><!-- THE END -->
