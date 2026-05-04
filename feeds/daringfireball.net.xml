@@ -7,20 +7,49 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-03T23:47:32Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-04T00:38:33Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>X, the Platform of Free Speech</title>
+	<link rel="alternate" type="text/html" href="https://bsky.app/profile/gilduran.com/post/3mky5taqg3222" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x5g" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/03/x-the-platform-of-free-speech" />
+	<id>tag:daringfireball.net,2026:/linked//6.42964</id>
+	<published>2026-05-04T00:15:21Z</published>
+	<updated>2026-05-04T00:16:39Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Gil Durán, posting on Bluesky:</p>
+
+<blockquote>
+  <p>It’s official! I’m <em>permanently</em> banned from X for tweeting “TLDR:
+Fascism.” (appeal denied)</p>
+</blockquote>
+
+<p>“TLDR: Fascism” was Durán’s two-word response to <a href="https://x.com/PalantirTech/status/2045574398573453312">this 1,000-word essay</a> from Palantir describing their vision for a “Technological Republic”. (<a href="https://xcancel.com/PalantirTech/status/2045574398573453312">Alternative link to essay</a> if you don’t want to visit x.com.)</p>
+
+<p>Getting perma-banned from Twitter/X by Elon Musk gives Durán a nice Streisand-effect boost to promote his upcoming new book, <em><a href="https://www.simonandschuster.com/books/The-Nerd-Reich/Gil-Duran/9781668221402">The Nerd Reich</a></em>. If the book is even half as good as its title it should be a bestseller.</p>
+
+<div>
+<a  title="Permanent link to ‘X, the Platform of Free Speech’"  href="https://daringfireball.net/linked/2026/05/03/x-the-platform-of-free-speech">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘2 Letters From Steve’</title>
 	<link rel="alternate" type="text/html" href="https://davidgelphman.wordpress.com/2013/03/29/2-letters-from-steve/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x5f" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/03/2-letters-from-steve" />
 	<id>tag:daringfireball.net,2026:/linked//6.42963</id>
 	<published>2026-05-03T23:47:11Z</published>
-	<updated>2026-05-03T23:47:32Z</updated>
+	<updated>2026-05-04T00:38:33Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>I don’t want to spoil any of this story from David Gelphman, which he wrote back in 2013, but which I only came across this week. Go read it. But before you do, one bit of context you should keep in mind is that the original iPad was <em>unveiled</em> at a special Apple event <a href="https://www.apple.com/newsroom/2010/01/27Apple-Launches-iPad/">on 27 January 2010</a>, but it didn’t <em>ship</em> until the end of March. Gelphman’s story takes place in that interregnum.</p>
+<p>I don’t want to spoil any of this story from David Gelphman, which he wrote back in 2013, but which I only came across this week. Go read it. But before you do, one bit of context you should keep in mind is that the original iPad was <em>unveiled</em> at a special Apple event <a href="https://www.apple.com/newsroom/2010/01/27Apple-Launches-iPad/">on 27 January 2010</a>, but it didn’t <em>ship</em> until <a href="https://daringfireball.net/2010/04/the_ipad">early April</a>. Gelphman’s story takes place in that interregnum.</p>
 
 <div>
 <a  title="Permanent link to ‘‘2 Letters From Steve’’"  href="https://daringfireball.net/linked/2026/05/03/2-letters-from-steve">&nbsp;★&nbsp;</a>
@@ -2192,50 +2221,6 @@ display of the prompt to three occurrences per app within a
 
 <div>
 <a  title="Permanent link to ‘Apple’s Developer Guidelines for Ratings and Review Prompts’"  href="https://daringfireball.net/linked/2026/04/17/apples-developer-guidelines-for-ratings-and-review-prompts">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Follow-Up Regarding App Store Reviews, Which Are Definitely Busted</title>
-	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2026/04/16/app-store-reviews-are-busted" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x41" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/17/follow-up-app-store-reviews" />
-	<id>tag:daringfireball.net,2026:/linked//6.42913</id>
-	<published>2026-04-18T00:31:16Z</published>
-	<updated>2026-04-18T16:39:44Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>I wrote yesterday:</p>
-
-<blockquote>
-  <p>And the apps that do the right thing — like Godier’s <a href="https://www.terrygodier.com/current">Current</a> — and never solicit a review like a needy hustler are penalized.</p>
-</blockquote>
-
-<p>On Mastodon, <a href="https://mastodon.social/@stroughtonsmith/116418796444744247">Steven Troughton-Smith responded</a>:</p>
-
-<blockquote>
-  <p>Review prompts are the difference between a great app getting five
-positive reviews, and thousands of positive reviews. I would never
-recommend to a developer to not implement the APIs. It’s App Store
-Editorial suicide for most apps, since Apple tends to only pick
-things up when they have that body of review data.</p>
-</blockquote>
-
-<p>I can see how my describing <em>not</em> prompting for reviews as “the right thing” looks like I’m suggesting developers should not prompt for reviews. That wasn’t my intention.</p>
-
-<p>You have to play the game as the game stands, and Apple controls the game. And in the game as it stands, apps need 5-star reviews to gain traction in the App Store, perhaps especially so for apps in crowded categories. And for most apps, the only way to achieve that is through prompting. But the right thing to do, for the user experience in the app, is never to prompt for reviews.</p>
-
-<p>That’s the problem with how Apple has set this up — to be competitive, apps need to do the wrong thing. I’m a competitive bastard. If I had an app in the App Store today, I’d probably prompt for reviews. I don’t begrudge developers who do it today. That’s the game. I admire developers who refuse to play this part of the game. It’s noble. But it’s not a winning strategy. I want Apple to fix the game — that’s the only real solution.</p>
-
-<p>The system is so twisted that even Apple itself begs for these reviews from its own apps, even the system apps built into iOS. When else does Apple ever ask for anything?  It looks needy and pathetic. <a href="https://www.youtube.com/watch?v=2Wl4ZX4-ui8">Real Gil Gunderson vibes</a>.</p>
-
-<p>The funny thing is, this morning while I was reading the Mastodon thread with Troughton-Smith’s post, <a href="https://tapbots.com/ivory/">Ivory</a> <a href="https://daringfireball.net/misc/2026/04/ivory-review-prompt.png">prompted me for a rating</a>. Which I dutifully submitted. 5 stars, of course. Which brings me to another follow-up point. A few readers have emailed to object to the argument that it hurts developers to give apps anything short of a 5-star rating. (A few of these readers are from Germany, no surprise.) It’s logical, I agree, that a 4-star rating ought to be considered fair and just for a good app with obvious room for improvement. But anything short of 5 stars pulls down any good app’s average, because the overwhelming majority of users who rate apps only ever assign 5 stars for apps they like, or 1 star for apps they’re angry about. In a system where the overwhelming majority of users only ever assigns 1 or 5 stars, assigning 4 stars is effectively a mildly <em>negative</em> review. That sucks. Apple should fix it. But until they do (which, let’s face it, they probably won’t), obstinately ignoring that this is how App Store ratings work does not help good apps get the attention you think you’re helping them get with a 4-star rating.</p>
-
-<div>
-<a  title="Permanent link to ‘Follow-Up Regarding App Store Reviews, Which Are Definitely Busted’"  href="https://daringfireball.net/linked/2026/04/17/follow-up-app-store-reviews">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
