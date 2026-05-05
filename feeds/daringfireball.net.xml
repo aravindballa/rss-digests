@@ -7,7 +7,86 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-05T18:12:45Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-05T21:02:25Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/05/software_as_the_product_of_obsession_times_voice" />
+	<link rel="shorturl" href="http://df4.us/x5v" />
+	<id>tag:daringfireball.net,2026://1.42979</id>
+	<published>2026-05-05T21:01:05Z</published>
+	<updated>2026-05-05T21:01:06Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">You might think it counterintuitive that a movement obsessed with software would be spearheading a severe decline in the design quality of software, but in Patel’s definition, there’s no concept of software as art, as a practice, as a craft. Software brain is purely an obsession with software as a medium in and of itself. A means with no consideration for the end.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>Back in 2009, Merlin Mann and I jointly gave a talk at SxSW titled “<a href="https://daringfireball.net/2009/03/obsession_times_voice">Obsession Times Voice</a>”. Regarding how it turned out, <a href="https://daringfireball.net/2009/03/obsession_times_voice">I wrote</a>:</p>
+
+<blockquote>
+  <p>My muse for the session was this quote from Walt Disney: <em>“We
+don’t make movies to make money; we make money to make more
+movies.”</em> To me, that’s it. That’s the thing.</p>
+</blockquote>
+
+<p>Merlin and I were talking about independent writers and podcasters, because that’s what we were (and remain), but the concept applies just as perfectly to independent developers. This came to my mind after reading (<a href="https://daringfireball.net/linked/2026/05/05/pedometer-plus-plus-8">and linking to</a>) David Smith’s description of the new Pedometer++ today. Not just what it does, but why he spent <a href="https://david-smith.org/blog/2026/04/29/maps-on-watchos/">six years making it</a>. That’s the sort of productive obsession that fascinates me.</p>
+
+<p>Ice water is always refreshing, but it tastes better when you’re on a road trip to hell. It feels like the world of software is bifurcating quality-wise. This <a href="https://daringfireball.net/linked/2026/05/04/photoshop-modern-user-interface">whole</a> <a href="https://daringfireball.net/linked/2026/05/04/adobe-modern-webpages">thing</a> about <a href="https://mjtsai.com/blog/2026/04/30/photoshops-modern-spectrum-user-interface/">Adobe’s new craptacular “modern” UI language</a> (a.k.a. “<a href="https://spectrum.adobe.com/">Spectrum</a>”) exemplifies one side of that bifurcation — the bad-and-getting-worse side. Software that is the product not just of an ignorance of <a href="https://asktog.com/atc/principles-of-interaction-design/">long-established principles of interaction design</a>, but of a <a href="https://daringfireball.net/2025/12/bad_dye_job#:~:text=the%20key%20window">willful disdain for those principles</a>. What Adobe is now shipping is just inexplicably bad UI, ignoring literally decades of great work and long-mastered concepts — a lot of which work was <a href="https://daringfireball.net/linked/2026/05/04/adobe-modern-webpages">pioneered by Adobe itself</a>!</p>
+
+<p>The <a href="https://daringfireball.net/linked/2026/04/13/tahoe-reduce-transparency">whole</a> <a href="https://daringfireball.net/2026/03/what_to_do_about_those_menu_item_icons_in_macos_26_tahoe">thing</a> with <a href="https://daringfireball.net/2025/12/bad_dye_job">MacOS 26 Tahoe</a> is similar. To be clear, the UI crimes in Tahoe are deeply worrisome, but they are nowhere near as severe as those in Adobe’s Spectrum. But the problems with Tahoe are steps down the same fork in the road that Adobe took years ago. Spectrum is where Tahoe suggests that MacOS was headed under Alan Dye’s leadership: cross-platform sameness for the sake of sameness, with a complete disregard for longstanding platform nuances and idioms. In Spectrum’s case those platforms are MacOS and Windows and <a href="https://helpx.adobe.com/account/individual/subscriptions-and-plans/plan-types-and-eligibility/cc-app-web-mobile-access.html">the web</a>. In Tahoe’s case it’s MacOS and iOS.<sup id="fnr1-2026-05-05"><a href="#fn1-2026-05-05">1</a></sup></p>
+
+<p>The other side of the software fork is not deserted. It’s just populated, more than ever, by the products of small independent developers who obsess, first and foremost, over quality and artistic vision. Remarkable new software gems exhibiting spectacular UI design <a href="https://www.currentreader.app/">appear</a> <a href="https://daringfireball.net/linked/2026/05/04/chess-peace">all</a> the <a href="https://daringfireball.net/linked/2026/04/15/so-close-to-getting-it">time</a>. They’re just not coming from the biggest companies, the ones whose apps, <a href="https://daringfireball.net/linked/2026/03/28/netflix-wrecked-their-tvos-video-player">alas</a>, dominate not just our desktops and pockets but our entire culture today.<sup id="fnr2-2026-05-05"><a href="#fn2-2026-05-05">2</a></sup></p>
+
+<p>There’s always been software with poorly designed user interfaces. Much of it has been successful financially, sometimes spectacularly so. I’d argue, in all seriousness, that that’s the story of Microsoft in a nutshell. What’s new today is poorly designed software from developers <a href="https://daringfireball.net/linked/2026/04/16/miller-netflix-tvos">from whom we expect better</a>. In the old days there were people who would argue that prioritizing good user interface design was a waste of time — like spending hours decorating cupcakes destined for kindergarteners who are simply going to mash them into their mouths. (Again: cf. Microsoft’s undeniable market success.) What’s new today is people holding up objectively bad interaction design and proclaiming it to be good, and the product of teams that purportedly prioritize “design”, when it’s clear they have no idea what they’re talking about. It’s one thing to make something poorly designed and shrug on the grounds that it doesn’t matter. It’s another thing to make something poorly designed and hold it up as good design.</p>
+
+<p>We are justified to expect nothing short of <a href="https://www.folklore.org/How_to_Hire_Insanely_Great_Employees.html">insane greatness</a> from Apple, and solidly good design from Adobe. In principle, all software ought to have well-designed user interfaces. That’s never going to be the case. But software for designers — Adobe’s <em>raison d’être</em> — absolutely demands to be well-designed itself, like how <a href="https://daringfireball.net/linked/2009/03/31/zinsser">a book on writing</a> must itself <a href="https://daringfireball.net/linked/2009/03/23/strunk-and-white">be well-written</a>.</p>
+
+<p>Perhaps I was wrong, though, to describe Adobe’s new UI as inexplicable. It’s just indefensible. The explanation for so much software going so rotten from a UI-design perspective is, the more I think about it, related to <a href="https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation">Nilay Patel’s “Software Brain”</a> theory, which I’ve commented on both <a href="https://daringfireball.net/linked/2026/04/23/patel-software-brain">directly</a> and <a href="https://daringfireball.net/2026/04/we_dont_serve_their_kind_here">indirectly</a>. Here’s Patel’s definition of “software brain”:</p>
+
+<blockquote>
+  <p>The simplest definition I’ve come up with is that it’s when you
+see the whole world as a series of databases that can be
+controlled with the structured language of software code. Like I
+said, this is a powerful way of seeing things. So much of our
+lives run through databases, and a bunch of important companies
+have been built around maintaining those databases and providing
+access to them.</p>
+
+<p>Zillow is a database of houses. Uber is a database of cars and
+riders. YouTube is a database of videos. The Verge’s website is a
+database of stories. You can go on and on and on. Once you start
+seeing the world as a bunch of databases, it’s a small jump to
+feeling like you can control everything if you can just control
+the data.</p>
+
+<p>But that doesn’t always work.</p>
+</blockquote>
+
+<p>You might think it counterintuitive that a movement obsessed with software would be spearheading a severe decline in the design quality of software, but in Patel’s definition, there’s no concept of software as art, as a practice, as a craft. Software brain is purely an obsession with software as a medium in and of itself. A means with no consideration for the end.</p>
+
+<p>Framed in Walt Disney’s adage, software brain makes software only to make more money. The idea of making money in order to make more software — to afford the time and talent to <em>craft</em> it — does not compute. Framed in the metaphor that Steve Jobs used to <a href="https://www.youtube.com/watch?v=OesY-denV8k">close his introduction of the original iPad</a>, and returned to again <a href="https://www.youtube.com/watch?v=sUCpuaqlISQ">to close his final keynote at WWDC 2011</a>, software brain is nowhere near the intersection of technology and the liberal arts. Software brain is so far down Technology Street that it’s no longer in the same zip code as Liberal Arts Avenue. Another way, perhaps, to define <em>software brain</em> is that it’s the utter rejection of Jobs’s maxim that “technology is not enough”. With software brain, technology is all there is.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn1-2026-05-05">
+<p>I don’t want to belabor the similarities between Adobe’s Spectrum UI system and Apple’s Liquid Glass, because there are significant differences. Foremost, <a href="https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/">what’s wrong with Spectrum</a> is wrong everywhere. Photoshop with Adobe’s new “modern” UI is, I suspect, just as bad a Windows app as it is a Mac app. Whereas the usability problems with Liquid Glass are lopsided platform-wise. It’s a litany of disasters on MacOS 26 Tahoe, but actually pretty good on Apple’s other version 26 OSes, especially iOS. There are aspects of Liquid Glass on iOS 26 that some people don’t like, but they’re literally skin-deep. Cosmetic details. Functionally, iOS 26 is pretty strong, and Apple made some very nice changes regarding the placement of things like search fields to improve consistency system-wide. I still have iOS 18 running on my year-old iPhone 16 Pro, and there are very few things I prefer in iOS 18 versus iOS 26. Whereas I’d be sick if I had to work in MacOS 26 Tahoe every day.</p>
+
+<p>That’s my point here. iOS 26 doesn’t suffer in any way — not even one teensy little single way — from MacOS UI idioms being inappropriately applied to the iPhone. On the iPad, maybe there’s a little of that, like, say, the weird way iPadOS 26 uses Mac-style red / yellow / green window control buttons but makes them too small to use, so before you use them, <a href="https://sixcolors.com/post/2025/09/ipados-26-review-a-computer/">you need a gesture to embiggen them temporarily first</a>. But the implementation of “Liquid Glass” on MacOS Tahoe is just riddled with iOS-isms that aren’t appropriate on MacOS. So many decades-old Mac UI nuances and idioms were just ignored. They weren’t changed, they weren’t updated, they were just ignored. You either see that this is true or you don’t, and if you don’t see it, you shouldn’t be designing the Mac user interface.&nbsp;<a href="#fnr1-2026-05-05"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;︎</a></p>
+</li>
+
+
+<li id="fn2-2026-05-05">
+<p>Consider the age of television. Television is the broadcast of motion pictures with sound. Cinema is an artform. But at the peak of television’s hegemony over western culture and mass media, the artistic quality of almost everything on TV was terrible. It was slop. It wallowed in its own sloppiness. This, despite the fact that cinematic artists had largely mastered the artform in the decades preceding TV. TV became popular in the 1950s and culturally dominant in the 1960s. But <em>Citizen Kane</em> came out in 1941. The network executives with “TV brain” in the second half of the 20th century didn’t even consider TV as a medium for art. They just cared that it was watched. It was judged only by ratings and ad revenue, not artistic merit. That’s what’s happening with software right now. But remember too, that as dreadful television programming rocketed to stratospheric popularity in the 1970s, that same decade saw <a href="https://www.imdb.com/list/ls000335086/">a remarkable explosion in innovative filmmaking</a> in movie theaters. Keep the faith.&nbsp;<a href="#fnr2-2026-05-05"  class="footnoteBackLink"  title="Jump back to footnote 2 in the text.">&#x21A9;&#xFE0E;︎</a></p>
+</li>
+
+</ol>
+</div>
+
+
+
+    ]]></content>
+  <title>★ Software as the Product of Obsession Times Voice</title></entry><entry>
 	<title>Pedometer++ 8.0 </title>
 	<link rel="alternate" type="text/html" href="https://david-smith.org/blog/2026/04/29/maps-on-watchos/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x5u" />
@@ -96,7 +175,7 @@ best available on the App Store.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/04/adobe-modern-webpages" />
 	<id>tag:daringfireball.net,2026:/linked//6.42976</id>
 	<published>2026-05-05T02:17:00Z</published>
-	<updated>2026-05-05T02:25:11Z</updated>
+	<updated>2026-05-05T21:02:25Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -385,7 +464,7 @@ nobody had officially asked for and everybody apparently wanted.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/04/photoshop-modern-user-interface" />
 	<id>tag:daringfireball.net,2026:/linked//6.42969</id>
 	<published>2026-05-04T19:13:06Z</published>
-	<updated>2026-05-04T19:13:06Z</updated>
+	<updated>2026-05-05T21:02:17Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -1731,56 +1810,6 @@ of 2026. But let me be clear: This seems unlikely.</p>
 
     ]]></content>
   <title>★ Time to Serve Some Delicious Claim Chowder Regarding the Cook-Ternus CEO Transition</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law" />
-	<link rel="shorturl" href="http://df4.us/x4r" />
-	<id>tag:daringfireball.net,2026://1.42939</id>
-	<published>2026-04-24T16:09:50Z</published>
-	<updated>2026-04-24T18:48:01Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">My spitball idea for a generational law to keep more young people from ever starting a tobacco habit — and thus, nicotine addiction — would be through scaled taxation.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p><a href="https://www.sdir.no/en/Leisure-boat/Certificates/Boat-driver_46s-license/Boating-licence/">The Norwegian Maritime Authority</a>:</p>
-
-<blockquote>
-  <p>If you were born in 1980 or later and plan to operate a
-recreational craft of more than 8 metres in length or with an
-engine power of more than 25 hp, you need a boating licence. The
-boating licence is a certificate permitting you to operate
-Norwegian recreational craft of less than 15 meters in length
-(49.21 feet) in Norwegian territory.</p>
-</blockquote>
-
-<p>That’s an interesting example of generational law. It kind of sucked, I’m sure, if you were from a family of mariners and were born in 1980 and your sibling was born in 1979. You got stuck having to qualify for a license and your sibling did not. But: this is very different from an outright ban on those born after a certain year. It’s a relatively gentle change, and the cutoff had to apply somewhere. (The state of <a href="https://revisor.mo.gov/main/OneSection.aspx?section=306.127">Missouri has a similar law</a> with a birth cutoff of 1984.)</p>
-
-<p>This whole topic of generational law is fascinating. I’ve gotten more emails from readers — around the world — about <a href="https://daringfireball.net/linked/2026/04/23/united-kingdom-smoking-ban">my post on the U.K. ban on tobacco sales</a> to those born in 2009 or later than just about anything I’ve written about recently. Lots of amazing feedback — including a note pointing me to the above Norwegian law. I’m replying to a bunch but can’t reply to them all, and but I’m thankful for every one.</p>
-
-<p>What makes the Norwegian boat licensing cutoff unobjectionable to me is that it’s not binary. It’s not saying those born in 1979 can pilot a boat and those born in 1980 cannot. It’s only saying that there’s an additional restriction on those born in 1980. A generational restriction feels fundamentally different from a generational ban. A bunch of readers who support these generational tobacco bans point to other laws with age cutoffs, like when the age for buying alcohol changed from 18 to 21. I’m sure that sucked if you wanted to drink and were 18, 19, or 20 when the limit was raised to 21 in your state. (Or if you were 17, and went from being one year away to four years away with the swoop of your governor’s pen.) But everyone turns 21 eventually. Adults putting additional restrictions on the young feels to me entirely different than adults banning the young from ever partaking in something that they — the current adults who are imposing the restriction — can continue to do in perpetuity. It’s not just a violation of the idea that all adults are equals, but to me it’s just blatantly hypocritical.</p>
-
-<p>If you tell me I’m not permitted to do something, but others are, it makes me want to do that thing. And it really makes me want to give the finger to whoever is imposing the restriction. <em>Fine for you but not for me? Fuck you.</em></p>
-
-<p>Also, grandfathering devices (<em>old cars don’t need to meet new emission standards</em>) or buildings (<em>new buildings must have elevators for accessibility, but existing buildings aren’t required to add them</em>) feels fundamentally different from grandfathering people.</p>
-
-<p>To be clear, I support the <em>intention</em> of these tobacco laws, but I am highly dubious about their practical effect in addition to my objections to their fairness. Some people have a tendency to focus solely on intent and not on the practical effects of the law. That if the intent is good, the law must be good. I think laws are only good when their practical effects are beneficial. A well-intentioned law with no practical benefit is needless bureaucracy; a well-intentioned law with adverse practical effects is a bad law.<sup id="fnr1-2026-04-24L"><a href="#fn1-2026-04-24L">1</a></sup> I can’t help but think everyone who supports these generational smoking bans is stuck thinking of those below the age cut-off as the 17-year-olds they currently are. But they’re all going to be 40, 50, 60 years old eventually. It’s absurd to think about a 60-year-old man who needs to ask his 61-year-old friend to buy him smokes.</p>
-
-<p>My spitball idea for a generational law to keep more young people from ever starting a tobacco habit — and thus, nicotine addiction — would be through scaled taxation. Require everyone, no matter what age, to present ID when purchasing tobacco. Set the tax rate on the year they were born, with significantly higher taxes the younger they are. But with no wild fluctuation from someone else who is a year or two apart in age. Start with the highest rate for 21-year-olds, and lower those taxes by a point or two for every additional year old someone is. In this structure, no adult would be forbidden from buying tobacco, but someone who is 21 would pay significantly more for a pack of cigarettes than someone who is 65 — but only <em>slightly</em> more than someone who is, say, 22 or 23. Keep increasing the base rate for everyone, every year, so that everyone, no matter how old, has to pay slightly higher prices year after year. Thus the starting price, for newly-turned-21-year-olds, would escalate annually. That feels fair, should reduce the demand for a black market, and I think would have the practical effect of decreasing the number of young people who ever start — while also minimizing the punitive costs for older adults with decades-long addictions.</p>
-
-<div class="footnotes">
-<hr />
-<ol>
-<li id="fn1-2026-04-24L">
-<p>This is my objection to the EU’s DMA in a nutshell.&nbsp;<a href="#fnr1-2026-04-24L"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
-</li>
-</ol>
-</div>
-
-
-
-    ]]></content>
-  <title>★ Norwegian Boating Licenses and Generational Law</title></entry><entry>
 	<title>XOXO Explore</title>
 	<link rel="alternate" type="text/html" href="https://xoxofest.com/blog/2026-launching-xoxo-explore/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x4o" />
