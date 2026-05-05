@@ -7,7 +7,56 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-05T21:11:07Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-05T21:56:38Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion</title>
+	<link rel="alternate" type="text/html" href="https://politicalwire.com/2026/04/29/iran-war-has-cost-25-billion-so-far/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x5w" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/05/pentagon-cost-of-iran-war" />
+	<id>tag:daringfireball.net,2026:/linked//6.42980</id>
+	<published>2026-05-05T21:55:53Z</published>
+	<updated>2026-05-05T21:56:38Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Taegan Goddard, quoting the Financial Times last week:</p>
+
+<blockquote>
+  <p>The Pentagon said President Trump’s Iran war has cost the United
+States at least $25 billion, driven primarily by the military’s
+use of munitions, <a href="https://www.ft.com/content/1414942a-b314-443e-8bbc-8c13fa011d8e?syn-25a6b1a6=1">the Financial Times reports</a>.</p>
+</blockquote>
+
+<p>The New York Times had <a href="https://www.nytimes.com/interactive/2026/04/29/upshot/iran-war-cost-comparison.html?unlocked_article_code=1.gFA.uSGv.B8uoh3YLHCbZ">an interesting piece trying to put that number in context</a> (gift link):</p>
+
+<blockquote>
+  <p>$25 billion is similar to:</p>
+
+<ul>
+<li>The annual budget of NASA.</li>
+<li>Spending on military aid to Israel after Oct. 7.</li>
+<li>Spending by U.S.A.I.D. before it was disbanded.</li>
+<li>The cost to expand Obamacare subsidies for one year.</li>
+</ul>
+</blockquote>
+
+<p>These are all comparisons to other aspects of the U.S. federal budget. It’s interesting also to use this in comparison with the current moment in tech:</p>
+
+<ul>
+<li><a href="https://openai.com/index/accelerating-the-next-phase-ai/">OpenAI’s latest valuation</a> of $852 billion (I love the 2) equals 34 Iran Wars.</li>
+<li><a href="https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation">Anthropic’s $380 billion valuation</a> equals 15 Iran Wars.</li>
+<li>Apple’s <a href="https://daringfireball.net/linked/2026/05/01/tim-cooks-clever-solution-to-the-tariff-refund-puzzle">current four-year U.S. manufacturing commitment</a> of “more than $500 billion” equals 20 Iran Wars.</li>
+<li><a href="https://www.wsj.com/tech/google-earnings-alphabet-q3-2025-goog-stock-c202d18a">Google expects to spend between $91–93 billion</a> in capital expenditures this calendar year, mostly related to AI infrastructure. That’s a little over 3 Iran Wars this year.</li>
+<li><a href="https://theplutoproject.org/person/larry-ellison">Larry Ellison currently has a net worth of $220 billion</a>. That’s just short of 9 Iran Wars. But since the start of the war on February 28, his net worth has grown $46 billion. That’s about 2 Iran Wars during the time of the actual Iran War thus far.</li>
+</ul>
+
+<div>
+<a  title="Permanent link to ‘The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion’"  href="https://daringfireball.net/linked/2026/05/05/pentagon-cost-of-iran-war">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/05/software_as_the_product_of_obsession_times_voice" />
 	<link rel="shorturl" href="http://df4.us/x5v" />
@@ -2129,60 +2178,6 @@ layoffs ahead of Microsoft’s new financial year in July.</p>
 
 <div>
 <a  title="Permanent link to ‘Microsoft Offers Voluntary Retirement to Long-Serving Employees’"  href="https://daringfireball.net/linked/2026/04/23/microsoft-voluntary-retirement">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model</title>
-	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x4h" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/23/discord-group-has-claude-mythos-access" />
-	<id>tag:daringfireball.net,2026:/linked//6.42929</id>
-	<published>2026-04-23T17:28:23Z</published>
-	<updated>2026-04-23T20:53:11Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Rachel Metz, reporting for Bloomberg:</p>
-
-<blockquote>
-  <p>A small group of unauthorized users have accessed Anthropic PBC’s
-new Mythos AI model, a technology that the company says is so
-powerful it can enable dangerous cyberattacks, according to a
-person familiar with the matter and documentation viewed by
-Bloomberg News.</p>
-
-<p>A handful of users in a private online forum gained access to
-Mythos on the same day that Anthropic first announced a plan to
-release the model to a limited number of companies for testing
-purposes, said the person, who asked not to be named for fear of
-reprisal. The group has been using Mythos regularly since then,
-though not for cybersecurity purposes, said the person, who
-corroborated the account with screenshots and a live demonstration
-of the model.</p>
-</blockquote>
-
-<p><a href="https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlN4eENrYlgxMjAiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzkxNjUwMS9hbnRocm9waWMtbXl0aG9zLXVuYXV0aG9yaXplZC11c2Vycy1hY2Nlc3Mtc2VjdXJpdHkiLCJleHAiOjE3NzczOTUxMDUsImlhdCI6MTc3Njk2MzEwNX0._Lje0GOOEnDoKzXTe6af-pIdVsHBWFiTlgIuhFVtD2k&amp;utm_medium=gift-link">Jess Weatherbed, at The Verge</a> (gift link):</p>
-
-<blockquote>
-  <p>The model was reportedly accessed illicitly on April 7th, the same
-day that Anthropic announced it was releasing Mythos to a limited
-number of companies for testing. The group that gained the
-unauthorized access has not been publicly identified, though
-Bloomberg reports that its members are part of a Discord channel
-that seeks out information about unreleased AI models. [...] Other
-unreleased Anthropic AI models have also been accessed by the
-group, according to Bloomberg.</p>
-</blockquote>
-
-<p>So on the one hand, Anthropic itself is the one describing Mythos as a dangerous national security threat. On the other hand, their own security is so sloppy that rando hooligans on Discord have had access to Mythos since the day it was announced, and regularly access other unreleased Claude  models. This, just weeks after Anthropic screwed up and <a href="https://daringfireball.net/linked/2026/04/06/anthropic-claude-code-leak">accidentally exposed the entire source code to Claude Code</a>.</p>
-
-<p>If Mythos is as dangerous as Anthropic (including CEO Dario Amodei) claims, this is a colossal screw up. If a Discord group of AI enthusiasts has unauthorized access, why should we not assume that Chinese, Russian, North Korean, and Iranian intelligence agencies do too? And if this is no big deal, then Anthropic (and Amodei) are full of shit about how dangerous Mythos is. One way or the other it looks like a total clown show over there.</p>
-
-<div>
-<a  title="Permanent link to ‘Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model’"  href="https://daringfireball.net/linked/2026/04/23/discord-group-has-claude-mythos-access">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
