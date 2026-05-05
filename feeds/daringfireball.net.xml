@@ -7,7 +7,90 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-05T01:12:37Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-05T02:28:25Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	
+	<link rel="alternate" type="text/html" href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026" />
+	<link rel="shorturl" href="http://df4.us/x5t" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2026/05/workos_ready_to_sell_to_enterp" />
+	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.42977</id>
+	<author><name>Daring Fireball Department of Commerce</name></author>
+	<published>2026-05-05T02:28:25Z</published>
+	<updated>2026-05-05T02:28:25Z</updated>
+	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
+<p>If you’re building B2B SaaS, especially AI, you quickly need enterprise features like SSO, SCIM, and audit logs. Your developers shouldn’t waste cycles rebuilding that infrastructure. Free them to focus on what sets you apart.</p>
+
+<p><a href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026">WorkOS</a> gives you production-ready APIs for auth and access control that integrate directly into your product. Trusted by over 2,000 companies, including OpenAI, Anthropic, Cursor, and Vercel.</p>
+
+<p><a href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026">Build faster with WorkOS →</a></p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS: Ready to Sell to Enterprise? Your Product Is Ready, Your Auth Infrastructure Isn’t.’"  href="https://daringfireball.net/feeds/sponsors/2026/05/workos_ready_to_sell_to_enterp">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+	<title>[Sponsor] WorkOS: Ready to Sell to Enterprise? Your Product Is Ready, Your Auth Infrastructure Isn’t.</title></entry><entry>
+	<title>Chess Peace</title>
+	<link rel="alternate" type="text/html" href="https://chesspeace.app/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x5r" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/04/chess-peace" />
+	<id>tag:daringfireball.net,2026:/linked//6.42975</id>
+	<published>2026-05-05T02:18:00Z</published>
+	<updated>2026-05-05T02:18:41Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Chess Peace — a new iOS game by Sam Shepherd — is my kind of logic puzzle. Each puzzle is a board with a few unplaced chess pieces. To solve you need to place all the pieces so that none of them attack each other. There’s a timer if you care, but I don’t. Clever name too: the pieces need to be ... at peace with each other. You can download Chess Peace and try it out free of charge, and it’s just a one-time payment of $7 to unlock everything. Great simple premise, really well implemented.</p>
+
+<div>
+<a  title="Permanent link to ‘Chess Peace’"  href="https://daringfireball.net/linked/2026/05/04/chess-peace">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Adobe’s ‘Modern’ User Interface Is Just Webpages</title>
+	<link rel="alternate" type="text/html" href="https://pxlnv.com/linklog/adobe-modern-user-interface/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x5s" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/04/adobe-modern-webpages" />
+	<id>tag:daringfireball.net,2026:/linked//6.42976</id>
+	<published>2026-05-05T02:17:00Z</published>
+	<updated>2026-05-05T02:25:11Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Nick Heer:</p>
+
+<blockquote>
+  <p>I was going to write about how this stuff should have been tried
+with people who actually use Adobe’s apps in a high-pressure
+environment, but I am sure it was and, also, it does not matter.
+Wichary has it right. These are fundamental principles of user
+interface design that Adobe is ignoring because its internal
+tooling has taken precedence.</p>
+</blockquote>
+
+<p>I will quibble only with this line from Heer’s post:</p>
+
+<blockquote>
+  <p>Also, Adobe’s interface has always been unique and not quite at
+home on either MacOS or Windows.</p>
+</blockquote>
+
+<p>You have to go back to the 1990s and classic Mac OS, but Adobe’s best apps used to have exemplary native UIs. Apps like Photoshop helped push the state of the art in Mac UI forward. Tabbed palettes were a revelation. Fire up, say, <a href="https://infinitemac.org/1997/Mac%20OS%207.6">Photoshop 3.0 on MacOS 7.6</a>  and see what I mean.</p>
+
+<p>Also worth noting is how much this new “modern” UI isn’t just subjectively ugly, it’s objectively <a href="https://pdx.social/@louie/116496889426680429">breaking the habits</a> and expectations of users with <a href="https://sixcolors.com/link/2026/04/adobe-out-of-photoshop/">literally decades of experience</a> with Photoshop — users who, like me, remember when Adobe’s UI wasn’t just merely tolerable but actually good. It’s insane when you think about it.</p>
+
+<p>How did Adobe lose that good sense of yore? <a href="https://www.goodreads.com/quotes/102579-how-did-you-go-bankrupt-two-ways-gradually-then-suddenly">Two ways</a>. Gradually, then suddenly.</p>
+
+<div>
+<a  title="Permanent link to ‘Adobe’s ‘Modern’ User Interface Is Just Webpages’"  href="https://daringfireball.net/linked/2026/05/04/adobe-modern-webpages">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Paul Thurrott Might Write a Book on Markdown</title>
 	<link rel="alternate" type="text/html" href="https://www.thurrott.com/paul/334577/the-markdown-book-on-writing?utm_source=dlvr.it&amp;utm_medium=mastodon" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x5q" />
@@ -2063,121 +2146,4 @@ group, according to Bloomberg.</p>
 </div>
 
 	]]></content>
-  </entry><entry>
-	<title>There Are Corrections, and There Are Corrections</title>
-	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/04/21/nyregion/mets-mamdani-curse.html?unlocked_article_code=1.c1A.iLO0.Kqdo8aBhNAY1" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x4f" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/22/corrections" />
-	<id>tag:daringfireball.net,2026:/linked//6.42927</id>
-	<published>2026-04-22T18:16:30Z</published>
-	<updated>2026-04-22T18:16:30Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>The New York Times (gift link):</p>
-
-<blockquote>
-  <p><em>A correction was made on April 21, 2026:</em> Because of an editing
-error, an earlier version of this article misstated which day the
-New York Mets suffered their 11th straight loss. It was on Sunday,
-not Monday. Even the Mets cannot lose on an off day.</p>
-</blockquote>
-
-<p>This is to New York Times corrections what “<a href="https://daringfireball.net/linked/2023/04/17/headless-body-in-topless-bar">Headless Body in Topless Bar</a>” was to New York Post headlines — perfection.</p>
-
-<div>
-<a  title="Permanent link to ‘There Are Corrections, and There Are Corrections’"  href="https://daringfireball.net/linked/2026/04/22/corrections">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Ben Thompson on Tim Cook’s Legacy</title>
-	<link rel="alternate" type="text/html" href="https://stratechery.com/2026/tim-cooks-impeccable-timing/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x4e" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/22/thompson-cook" />
-	<id>tag:daringfireball.net,2026:/linked//6.42926</id>
-	<published>2026-04-22T16:35:37Z</published>
-	<updated>2026-04-22T18:06:37Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Ben Thompson at Stratechery, “Tim Cook’s Impeccable Timing”:</p>
-
-<blockquote>
-  <p>Cook was, without question, an operational genius. Moreover, this
-was clearly the case even before he scaled the iPhone to
-unimaginable scale. When Cook joined Apple in 1998 the company’s
-operations — centered on Apple’s own factories and warehouses — were a massive drag on the company; Cook methodically shut them
-down and shifted Apple’s manufacturing base to China, creating a
-just-in-time supply chain that year-after-year coordinated a
-worldwide network of suppliers to deliver Apple’s ever-expanding
-product line to customers’ doorsteps and a fleet of beautiful and
-brand-expanding stores. There was not, under Cook’s leadership, a
-single significant product issue or recall.</p>
-</blockquote>
-
-<p>That last sentence is something that Cook won’t get enough credit for. A major product defect or recall is just inherently more memorable than the <em>lack</em> of major defects or recalls. Compare and contrast to Samsung: <a href="https://en.wikipedia.org/wiki/Samsung_Galaxy_Note_7">2016’s Note 7 was recalled</a> for battery combustion; <a href="https://abcnews.com/Business/consumer-safety-bureau-battery-concerns-samsung-smartphones/story?id=42110287">six other Samsung models caught fire in 2016</a> too; the <a href="https://arstechnica.com/gadgets/2019/04/samsungs-galaxy-fold-gets-torn-down-ifixit-theorizes-why-its-so-fragile/">early Galaxy Fold phones were an outright debacle</a>. Nothing like that ever happened under Cook.</p>
-
-<blockquote>
-  <p>Cook also oversaw the introduction of major new products, most
-notably AirPods and Apple Watch; the “Wearables, Home, and
-Accessories” category delivered $35.4 billion in revenue last
-year, which would rank 128 on the Fortune 500. Still, both
-products are derivative of the iPhone; Cook’s signature 0 to 1
-product, the Apple Vision Pro, is more of a 0.5.</p>
-</blockquote>
-
-<p>I don’t think it’s worth discounting AirPods or Apple Watch as “derivative” of the iPhone. Yes, Apple Watch <em>requires</em> a paired iPhone, and while AirPods connect with Macs, iPads, and Apple TVs, they are of course primarily used paired with iPhones. But you can just as easily say that the iPhone was derivative of the iPod. And the iPod was derivative of iTunes. And iTunes was derivative of the Mac. And the iPhone was derivative of the Mac too, insofar as iOS and UIKit truly are stripped-down versions of MacOS and AppKit. Better, in my opinion, to simply give Tim Cook credit for overseeing the creation of two massively popular and successful new device platforms.</p>
-
-<p>For <a href="https://www.sec.gov/Archives/edgar/data/320193/000119312511282113/d220209d10k.htm">Apple’s 2011 fiscal year</a>, which covers the company’s last year under Steve Jobs, the company had $108 billion in total revenue. Inflation-adjusted that’s ~$159 billion in 2026 dollars. 2011 Mac revenue was $22 billion ($32 billion inflation-adjusted) and iPad revenue was $20 billion ($29 billion inflation-adjusted). iPhone revenue was $47 billion ($69 billion inflation-adjusted). So compared to where revenue was when Cook took the helm, the mostly-all-new-under-Cook Wearables category today is bigger than the Mac or iPad were under Jobs, and a very credible half the size of the iPhone.</p>
-
-<blockquote>
-  <p>Cook’s more momentous contribution to Apple’s top line was the
-elevation of Services. [...]</p>
-
-<p>Last year Apple Services generated 26% of Apple’s revenue and 41%
-of the company’s profit; more importantly, Services continues to
-grow year-over-year, even as iPhone growth has slowed from the
-go-go years.</p>
-</blockquote>
-
-<p>There was a legitimate widespread concern in the early years of the Cook era that the downside of the iPhone’s unprecedented success was that Apple’s financials were dangerously reliant on that single product. Even today the iPhone generates between 50–60 percent of Apple’s revenue each quarter, but it is quite obviously the growth of Services and Wearables that makes Apple’s overall revenue by product line look as balanced as it does. From <a href="https://sixcolors.com/post/2026/01/apple-announces-all-time-quarterly-record-of-143-8b/">Jason Snell’s report on Apple’s most recent quarter</a> (the best in Apple’s entire history):</p>
-
-<p><a href="https://sixcolors.com/post/2026/01/apple-announces-all-time-quarterly-record-of-143-8b/" class="noborder">
-  <img
-    src = "https://daringfireball.net/misc/2026/04/six-colors-aapl-revenue-by-product-q2-2026.png"
-    alt = "Apple Q2 2026 revenue percentage by product line."
-    width = 550
-  /></a></p>
-
-<p>There’s a totally reasonable concern that the growth of Services will pervert Apple’s priorities away from hardware products. I think that’s why naming John Ternus, the head of hardware, as the new CEO is an important statement in and of itself regarding where Tim Cook sees Apple’s North Star: hardware products.</p>
-
-<p>I believe that Cook’s focus on Services over the last decade was in no way about shifting the focus of the company away from its roots. Nor was it about growth for the sake of growth. I think it was about bringing balance to the balance sheet, to protect the company’s core mission of creating devices.</p>
-
-<div>
-<a  title="Permanent link to ‘Ben Thompson on Tim Cook’s Legacy’"  href="https://daringfireball.net/linked/2026/04/22/thompson-cook">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	
-	<link rel="alternate" type="text/html" href="https://recleague.com/?lyr_campaign=df" />
-	<link rel="shorturl" href="http://df4.us/x4d" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2026/04/rec_league" />
-	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.42925</id>
-	<author><name>Daring Fireball Department of Commerce</name></author>
-	<published>2026-04-22T03:03:18Z</published>
-	<updated>2026-04-22T03:03:18Z</updated>
-	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
-<p>Rec League is a new app for sharing what you’re into. Catalog recommendations into tidy collections: your guide to Rome, your open tabs, your bookshelf. Follow people whose perspectives you trust, and discover brilliant, unexpected intel. Recently featured as the “Best New App” in the App Store. One user calls it “the only social media I feel better after using.” Download now to share what you love.</p>
-
-<div>
-<a  title="Permanent link to ‘Rec League’"  href="https://daringfireball.net/feeds/sponsors/2026/04/rec_league">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-	<title>[Sponsor] Rec League</title></entry></feed><!-- THE END -->
+  </entry></feed><!-- THE END -->
