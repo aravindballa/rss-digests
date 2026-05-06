@@ -7,7 +7,50 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-06T00:36:30Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-06T19:29:09Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Luca Maestri Runs the Cafeteria</title>
+	<link rel="alternate" type="text/html" href="https://www.apple.com/leadership/luca-maestri/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x5z" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/06/maestri" />
+	<id>tag:daringfireball.net,2026:/linked//6.42983</id>
+	<published>2026-05-06T19:29:08Z</published>
+	<updated>2026-05-06T19:29:09Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Apple Newsroom, <a href="https://www.apple.com/newsroom/2024/08/apple-announces-chief-financial-officer-transition/">back in August 2024</a>:</p>
+
+<blockquote>
+  <p>Apple today announced that Chief Financial Officer Luca Maestri
+will transition from his role on January 1, 2025. Maestri will
+continue to lead the Corporate Services teams, including
+information systems and technology, information security, and real
+estate and development, reporting to Apple CEO Tim Cook. As part
+of a planned succession, Kevan Parekh, Apple’s Vice President of
+Financial Planning and Analysis, will become Chief Financial
+Officer and join the executive team.</p>
+</blockquote>
+
+<p>That continued leadership role wasn’t ceremonial. <a href="https://www.apple.com/leadership/luca-maestri/">Maestri still has an executive page</a>, which reads:</p>
+
+<blockquote>
+  <p>Luca Maestri is Apple’s vice president of Corporate Services,
+reporting to CEO Tim Cook. In this role, he oversees a range of
+functions, including information systems and technology,
+information security, real estate and development, Caffè Macs,
+and Claris.</p>
+</blockquote>
+
+<p>I find the mention of Caffè Macs to be utterly charming. (And the mention of <a href="https://www.claris.com/">Claris</a> to be at least a little interesting.)</p>
+
+<div>
+<a  title="Permanent link to ‘Luca Maestri Runs the Cafeteria’"  href="https://daringfireball.net/linked/2026/05/06/maestri">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens</title>
 	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2026/05/05/apple-mac-studio-mac-mini-ram-cuts/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x5y" />
@@ -2127,77 +2170,6 @@ challenge Amazon’s alleged anti-free speech motivations.</p>
 
 <div>
 <a  title="Permanent link to ‘Trump’s Blog Has Somehow Lost $1.1 Billion’"  href="https://daringfireball.net/linked/2026/04/23/nunes-out-truth-social">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Nilay Patel: ‘Beware Software Brain’</title>
-	<link rel="alternate" type="text/html" href="https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x4k" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/23/patel-software-brain" />
-	<id>tag:daringfireball.net,2026:/linked//6.42932</id>
-	<published>2026-04-23T20:13:49Z</published>
-	<updated>2026-04-23T20:13:50Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Nilay Patel, in a terrific essay (and Decoder one-sider) at The Verge:</p>
-
-<blockquote>
-  <p>In fact, the polling on this is so strong, I think it’s fair to
-say that a lot of people <em>hate</em> AI, and that <a href="https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup">Gen Z in particular
-seems to hate AI</a> more and more as they encounter it. There’s
-that NBC News poll <a href="https://www.theverge.com/ai-artificial-intelligence/891724/nbc-news-march-2026-poll-ai-ice">showing AI with worse favorability than
-ICE</a> and only a little bit above the war in Iran and the
-Democrats generally. That’s with nearly two thirds of respondents
-saying they used ChatGPT or Copilot in the last month. Quinnipiac
-just found that <a href="https://poll.qu.edu/poll-release?releaseid=3955">over half of Americans think AI will do more harm
-than good</a>, while more than 80 percent of people were either
-very concerned or somewhat concerned about the technology. Only 35
-percent of people were excited about it.</p>
-
-<p>Poll after poll shows that Gen Z uses AI the most and has the most
-negative feelings about it. A <a href="https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html">recent Gallup poll</a> found that
-only 18 percent of Gen Z was hopeful about AI, down from an
-already-bad 27 percent last year. At the same time, anger is
-growing: 31 percent of those Gen Z respondents said they feel
-angry about AI, up from 22 percent last year.</p>
-</blockquote>
-
-<p>A good friend texted me a few weeks ago that “the phrase ‘software is eating the world’ sure hits differently now” than when <a href="https://www.wsj.com/articles/SB10001424053111903480904576512250915629460?st=xPUYgp">Marc Andreessen coined the term back in 2011</a>. (Patel, in fact, references Andreessen’s seminal essay.) That same friend texted me a link to this piece by Patel this morning.</p>
-
-<p>Something is profoundly off in the computer industry when it comes to software broadly and AI specifically. It’s up for debate what exactly is off and what should be done about it, but the undeniable proof that something <em>is</em> profoundly off is the deep unpopularity surrounding everything related to AI. You can’t argue that the public always turns against groundbreaking technology. The last two epoch-defining shifts in technology were the smartphone in the 2000s, and the Internet/web in the 1990s. Neither of those moments generated this sort of mainstream popular backlash. I’d say in both of those cases, regular people were optimistically curious. The single most distinctive thing about “AI” today is the vociferous public opposition to it and deeply pessimistic expectations about what it’s going to do.</p>
-
-<blockquote>
-  <p>You can’t advertise people out of reacting to their own
-experiences. This is a fundamental disconnect between how tech
-people with software brains see the world and how regular people
-are living their lives.</p>
-
-<p>So what is software brain? The simplest definition I’ve come up
-with is that it’s when you see the whole world as a series of
-databases that can be controlled with the structured language of
-software code. Like I said, this is a powerful way of seeing
-things. So much of our lives run through databases, and a bunch of
-important companies have been built around maintaining those
-databases and providing access to them.</p>
-
-<p>Zillow is a database of houses. Uber is a database of cars and
-riders. YouTube is a database of videos. The Verge’s website is a
-database of stories. You can go on and on and on. Once you start
-seeing the world as a bunch of databases, it’s a small jump to
-feeling like you can control everything if you can just control
-the data.</p>
-
-<p>But that doesn’t always work.</p>
-</blockquote>
-
-<p>“Software brain” is a good term — a tidy two-word encapsulation of a sprawling worldview that is currently very much in vogue. Take some time to read Patel’s whole piece carefully. It feels important, and it’s really well considered.</p>
-
-<div>
-<a  title="Permanent link to ‘Nilay Patel: ‘Beware Software Brain’’"  href="https://daringfireball.net/linked/2026/04/23/patel-software-brain">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
