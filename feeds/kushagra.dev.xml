@@ -4,11 +4,55 @@
 	<subtitle>Kushagra Gour- Creativity freak!</subtitle>
 	<link href="https://kushagra.dev/feed/feed.xml" rel="self"/>
 	<link href="https://kushagra.dev"/>
-	<updated>2026-02-16T00:00:00+00:00</updated>
+	<updated>2026-05-06T00:00:00+00:00</updated>
 	<id>https://kushagra.dev/feed/feed.xml</id>
 	<author>
 		<name>Kushagra Gour</name>
 	</author>
+	
+	<entry>
+		<title>Vibecoding on Mac mini from anywhere</title>
+		<link href="https://kushagra.dev/blog/vibecoding-on-mac-mini-from-anywhere/"/>
+		<updated>2026-05-06T00:00:00+00:00</updated>
+		<id>https://kushagra.dev/blog/vibecoding-on-mac-mini-from-anywhere/</id>
+		<content type="html">&lt;p&gt;This post is about me wanting to use my Mac mini whenever I’m away from it. This use case started with me wanting to work from another room. Since all my work (and in-progress) is on the Mac mini (and it is not movable), I wanted to keep working on the same machine. (PS: yes I know there is GIT). And working these days means just prompting, so even a reliable SSH connection works. So here is how I did it.&lt;/p&gt;
+&lt;h3 id=&quot;step-1%3A-enable-remote-login-(ssh)-on-your-mac-mini&quot;&gt;Step 1: Enable Remote Login (SSH) on your Mac mini &lt;a class=&quot;bookmark&quot; href=&quot;#step-1%3A-enable-remote-login-(ssh)-on-your-mac-mini&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;You need to enable remote SSH on your Mac mini. Open &lt;strong&gt;System Settings → General → Sharing&lt;/strong&gt; and turn on &lt;strong&gt;Remote Login&lt;/strong&gt;. That’s it — your Mac mini is now accepting SSH connections on the local network.&lt;/p&gt;
+&lt;h3 id=&quot;step-2%3A-make-ssh-work-outside-your-home-wi%E2%80%91fi-(use-tailscale)&quot;&gt;Step 2: Make SSH work outside your home Wi‑Fi (use Tailscale) &lt;a class=&quot;bookmark&quot; href=&quot;#step-2%3A-make-ssh-work-outside-your-home-wi%E2%80%91fi-(use-tailscale)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;You still won’t be able to SSH into your Mac mini if you are away from your location, meaning you are not on the home Wi‑Fi. You basically need a public IP for your Mac mini. That’s where &lt;a href=&quot;https://tailscale.com/&quot;&gt;Tailscale&lt;/a&gt; comes in.&lt;/p&gt;
+&lt;p&gt;Tailscale gives you a secure private network where you can put all your devices: your Mac mini, your laptop, maybe your phone. Then each device can talk to the others over that private network — as if they were all sitting on the same Wi‑Fi, no matter where in the world they actually are.&lt;/p&gt;
+&lt;p&gt;Install Tailscale on both your Mac mini and your client device (laptop, phone), sign in with the same account on both, and you’re done. You’ll get a stable hostname/IP for your Mac mini that works from anywhere.&lt;/p&gt;
+&lt;h3 id=&quot;step-3%3A-prevent-the-mac-mini-from-sleeping-(so-it-stays-reachable)&quot;&gt;Step 3: Prevent the Mac mini from sleeping (so it stays reachable) &lt;a class=&quot;bookmark&quot; href=&quot;#step-3%3A-prevent-the-mac-mini-from-sleeping-(so-it-stays-reachable)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Cool, so now you can SSH to your Mac mini from anywhere in the world.&lt;/p&gt;
+&lt;p&gt;The issue is that most of us have a sleep timeout set on a Mac mini. This means that after a while the display turns off, then after some time the hard disk turns off, and the system goes to sleep.&lt;/p&gt;
+&lt;p&gt;When that happens, your SSH connection breaks and your Mac mini won’t be accessible anymore. You won’t be able to set up a new SSH connection either.&lt;/p&gt;
+&lt;p&gt;So we need to do one more thing to prevent it from sleeping. Run this command on your Mac mini:&lt;/p&gt;
+&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; pmset &lt;span class=&quot;token parameter variable&quot;&gt;-a&lt;/span&gt; disablesleep &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This makes sure your Mac mini does not sleep even after the display turns off. After some time the display will turn off, but don’t worry — at this point it will still be SSH-able.&lt;/p&gt;
+&lt;p&gt;Just make sure you don’t put your Mac mini to sleep explicitly (Eg. from Apple menu &amp;gt; Sleep). In that case, it won’t be accessible.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;⚠️ &lt;strong&gt;One important thing: don’t run this command on your laptop.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Laptops can be inside bags while they are on. If they don’t go to sleep when the lid is closed, ventilation can be blocked and the laptop can heat up.&lt;/p&gt;
+&lt;p&gt;This also applies to your Mac mini if it’s not properly ventilated or kept in a cool area. If so, avoid this.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;step-4%3A-keep-work-running-even-if-your-client-device-sleeps-(use-tmux)&quot;&gt;Step 4: Keep work running even if your client device sleeps (use tmux) &lt;a class=&quot;bookmark&quot; href=&quot;#step-4%3A-keep-work-running-even-if-your-client-device-sleeps-(use-tmux)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Now you can SSH to your Mac mini from anywhere in the world and your Mac mini won’t sleep. It will always be accessible over SSH.&lt;/p&gt;
+&lt;p&gt;But what about the machine you are SSH-ing from?&lt;/p&gt;
+&lt;p&gt;In my case, it was my MacBook Air. I can SSH into my Mac mini and then open Claude Code, give it a prompt, and the thing starts running.&lt;/p&gt;
+&lt;p&gt;Now let’s say I have to go somewhere and I close the lid of my MacBook Air. That will put the MacBook Air to sleep after some time, and then the SSH connection will terminate. That means the Claude Code run would also stop midway, and your work will be lost.&lt;/p&gt;
+&lt;p&gt;We need to do one final thing: when you SSH to your Mac mini, you should use the terminal through &lt;strong&gt;tmux&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;tmux is a terminal multiplexer that also has state persistence. If you run a session through tmux, anything that is going on will keep running even if the SSH connection closes.&lt;/p&gt;
+&lt;p&gt;That gives you two benefits:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Your MacBook Air, or whatever client device you are using, can go to sleep at any time. You can just walk away or shut down your client device, and your Mac mini will keep running Claude Code (or whatever you’re running) even if the SSH connection terminates. Next time you SSH back in, you just attach to the tmux session and pick up exactly where you left off.&lt;/li&gt;
+&lt;li&gt;A tmux session can also have multiple panes, just like you have in terminals like iTerm and Ghostty. To work on any project, you can maintain a tmux session per project which probably would have multiple panes for say, claude code, your server, vim etc etc. As soon as you attach to a particular session, all the panes related to that project — which you had opened last time — open up in one go. This is so cool to get in that working state very quickly. Also applies if you are working on a single machine too.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;PS: Credit to this tip goes to &lt;a href=&quot;https://x.com/ayysoni&quot;&gt;Ayush Soni&lt;/a&gt; who suggested this at the IndieHacking Retreat when I refused to close my laptop lid! 😆&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;That’s it. Three small pieces — SSH, Tailscale, and tmux — and your Mac mini quietly becomes a Vibe-coding machine you can use from anywhere, with work that survives sleeps and disconnects on either end.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>AI and my direction</title>
