@@ -11,11 +11,12 @@
 	</author>
 	
 	<entry>
-		<title>Vibecoding on Mac mini from anywhere</title>
+		<title>Vibe-coding on Mac mini from anywhere</title>
 		<link href="https://kushagra.dev/blog/vibecoding-on-mac-mini-from-anywhere/"/>
 		<updated>2026-05-06T00:00:00+00:00</updated>
 		<id>https://kushagra.dev/blog/vibecoding-on-mac-mini-from-anywhere/</id>
-		<content type="html">&lt;p&gt;This post is about me wanting to use my Mac mini whenever I’m away from it. This use case started with me wanting to work from another room. Since all my work (and in-progress) is on the Mac mini (and it is not movable), I wanted to keep working on the same machine. (PS: yes I know there is GIT). And working these days means just prompting, so even a reliable SSH connection works. So here is how I did it.&lt;/p&gt;
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://kushagra.dev/images/og/og-vibecoding-on-macmini.png&quot; alt=&quot;Vibecoding on Mac mini from anywhere&quot;&gt;&lt;/p&gt;
+&lt;p&gt;This post is about me wanting to use my Mac mini whenever I’m away from it. This use case started with me wanting to work from another room. Since all my work (and in-progress) is on the Mac mini (and it is not movable), I wanted to keep working on the same machine. (PS: yes I know there is GIT). And working these days means just prompting, so even a reliable SSH connection works. So here is how I did it.&lt;/p&gt;
 &lt;h3 id=&quot;step-1%3A-enable-remote-login-(ssh)-on-your-mac-mini&quot;&gt;Step 1: Enable Remote Login (SSH) on your Mac mini &lt;a class=&quot;bookmark&quot; href=&quot;#step-1%3A-enable-remote-login-(ssh)-on-your-mac-mini&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;You need to enable remote SSH on your Mac mini. Open &lt;strong&gt;System Settings → General → Sharing&lt;/strong&gt; and turn on &lt;strong&gt;Remote Login&lt;/strong&gt;. That’s it — your Mac mini is now accepting SSH connections on the local network.&lt;/p&gt;
 &lt;h3 id=&quot;step-2%3A-make-ssh-work-outside-your-home-wi%E2%80%91fi-(use-tailscale)&quot;&gt;Step 2: Make SSH work outside your home Wi‑Fi (use Tailscale) &lt;a class=&quot;bookmark&quot; href=&quot;#step-2%3A-make-ssh-work-outside-your-home-wi%E2%80%91fi-(use-tailscale)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
