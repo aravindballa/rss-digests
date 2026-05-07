@@ -7,7 +7,68 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-07T18:46:45Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-07T21:31:38Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Prolost Watches 1.0</title>
+	<link rel="alternate" type="text/html" href="https://prolost.com/blog/prolostwatches" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x64" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/07/prolost-watches-10" />
+	<id>tag:daringfireball.net,2026:/linked//6.42988</id>
+	<published>2026-05-07T21:27:27Z</published>
+	<updated>2026-05-07T21:31:38Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Stu Maschwitz:</p>
+
+<blockquote>
+  <p><a href="https://prolost.watch/">Prolost Watches</a> is an iPhone app for managing your watch
+collection. It’s part database, part journal; designed for the
+detail-obsessed mind of the watch fanatic. As you log each day’s
+choice of watch, insights are revealed. Wear logs trace a path on
+the map. Events from the past are resurfaced at opportune times.
+Finances mange themselves as you buy and sell. Your entire
+collection lives in your pocket, and you get to enjoy all your
+watches, even the ones you’re not wearing. [...]</p>
+
+<p>Prolost Watches is a one-time purchase. There’s no subscription,
+no ads, no account, and no server. Your data is secure and
+private, and never leaves your device. <a href="https://apps.apple.com/us/app/prolost-watches/id6758811451">Pre-order now</a> for
+US$14.99, with expected release on June 16 at US$19.99.</p>
+</blockquote>
+
+<p>I’m friends with Stu, I have my own little obsessively curated watch collection, and, for some of my interests in life, I love keeping a log of activity. So I jumped at the chance to beta test Prolost Watches. And it turns out, my watches are not one of those things I want to track in a log or database. I just want to continue doing what I’ve been doing ever since I went from owning only one watch to two: I pick the one I’m in the mood for that morning and I wear it for the day.</p>
+
+<p>I feel the same way about sleep tracking. I’m fortunate in that I sleep great every night. I’ve been sleeping better this past year than I have in my entire life. So while I have my Apple Watch(es) set to track my sleep overnight — because why not collect the data? — I don’t look at it or worry about it most days because all it tends to do is add a little stress to my mind over a something I ought not have even an iota of stress regarding. (I like wearing an Apple Watch while I sleep not for the sleep tracking but because it’s easy to read in the middle of the night in the dark.)</p>
+
+<p>But, that’s me. I obsessively track other things that most of you would think are a bit nutty to track. You don’t get to pick your obsessions, but you know what they are. If you’ve got a few watches and you think you’d be interested in tracking how often you wear each one, you should already have to above link to Prolost Watches open in a tab.</p>
+
+<p>Interesting too, is how Maschwitz made Prolost Watches:</p>
+
+<blockquote>
+  <p><a href="https://bitrig.com/">Bitrig</a> has changed a lot since I used the iPhone version to
+create the <a href="https://prolost.com/blog/drinkingbuddy">ill-fated</a> version of <a href="https://proloststore.com/products/drinkingbuddy">Drinking Buddy</a>. It’s now
+a native Mac app that allows prompt-base creation of native
+SwiftUI apps for iPhone, as well as iPad, Mac, and Apple Watch. It
+has a built-in simulator, and can preview your apps on your device
+as well. If <a href="https://lovable.dev/">Lovable</a> (which I used to create the shipping
+version of Drinking Buddy) is at one end of the spectrum — easy
+for anyone to use with little experience, and <a href="https://claude.ai/">Claude Code</a>
+running in the terminal is at the other, Bitrig is in a sweet spot
+right in the middle: a little nerdy, but with some well-considered
+creature comforts that, in my case, made it mostly a delight to
+craft and refine a complex app.</p>
+</blockquote>
+
+<p>The iPhone version of Bitrig got swept up in Apple’s infuriating but unsurprising <a href="https://9to5mac.com/2026/03/18/apple-pushing-back-on-vibe-coding-iphone-apps-developers-say/">crackdown on iOS vibe-coding apps a few months ago</a>. It’s still in the App Store, but hasn’t been updated in over five months. The Mac app is in active development. It’s kind of bananas that the iPhone is a nearly 20-year-old platform and you still can’t use an iPhone app to make iPhone apps. And when developers, like Bitrig, found ways to build atop LLM capabilities to make iPhone apps that can make iPhone apps, Apple put the kibosh on it.</p>
+
+<div>
+<a  title="Permanent link to ‘Prolost Watches 1.0’"  href="https://daringfireball.net/linked/2026/05/07/prolost-watches-10">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>The Greatest Match Cut in Cinematic History, Improved by Amazon Prime</title>
 	<link rel="alternate" type="text/html" href="https://bsky.app/profile/gethill.bsky.social/post/3ml6fyfv7kc2l" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x63" />
@@ -2121,45 +2182,4 @@ of 2026. But let me be clear: This seems unlikely.</p>
 
 
     ]]></content>
-  <title>★ Time to Serve Some Delicious Claim Chowder Regarding the Cook-Ternus CEO Transition</title></entry><entry>
-	<title>XOXO Explore</title>
-	<link rel="alternate" type="text/html" href="https://xoxofest.com/blog/2026-launching-xoxo-explore/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x4o" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/24/xoxo-explore" />
-	<id>tag:daringfireball.net,2026:/linked//6.42936</id>
-	<published>2026-04-24T13:28:41Z</published>
-	<updated>2026-04-24T14:18:23Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Andy McMillan and Andy Baio:</p>
-
-<blockquote>
-  <p>Today, over 10 years later, and almost two full years after we
-retired the festival for good, we’re finally launching that
-website. Named after what we thought would be a throwaway title
-for a short-lived GitHub repo, allow us to introduce <a href="https://xoxofest.com/">XOXO
-Explore</a>. [...]</p>
-
-<p>And, for the first time ever (!) on an XOXO website, we now have
-an actual <a href="https://xoxofest.com/about/">About</a> page, where we’ve attempted to explain what XOXO
-actually was, documenting the 12-year history of the festival and
-its related projects, and featuring a bunch of our favorite quotes
-from press and attendees over the years.</p>
-
-<p>You’ll also notice the entire site is littered with floating
-visual ephemera: design artifacts, illustrations, animations,
-photos, and videos, all pulled from our vast archive of
-commissions and collaborations.</p>
-</blockquote>
-
-<p>Conferences come and conferences go. But when they go, they tend to disappear. What a remarkable library, a record, XOXO Explore is.</p>
-
-<div>
-<a  title="Permanent link to ‘XOXO Explore’"  href="https://daringfireball.net/linked/2026/04/24/xoxo-explore">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry></feed><!-- THE END -->
+  <title>★ Time to Serve Some Delicious Claim Chowder Regarding the Cook-Ternus CEO Transition</title></entry></feed><!-- THE END -->
