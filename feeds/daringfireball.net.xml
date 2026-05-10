@@ -7,7 +7,31 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-07T23:05:15Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-10T13:43:34Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>WorkOS</title>
+	<link rel="alternate" type="text/html" href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x65" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/10/workos" />
+	<id>tag:daringfireball.net,2026:/linked//6.42989</id>
+	<published>2026-05-10T13:43:33Z</published>
+	<updated>2026-05-10T13:43:34Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks for WorkOS for, once again, sponsoring Daring Fireball for the last week. If you’re ready to sell to enterprise customers, your product may be ready — but is your auth infrastructure?</p>
+
+<p>If you’re building B2B SaaS, especially AI, you quickly need enterprise features like SSO, SCIM, and audit logs. Your developers shouldn’t waste cycles rebuilding that infrastructure. Free them to focus on what sets you apart. WorkOS gives you production-ready APIs for auth and access control that integrate directly into your product. Trusted by over 2,000 companies, including OpenAI, Anthropic, Cursor, and Vercel.</p>
+
+<p><a href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026">Build faster with WorkOS</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS’"  href="https://daringfireball.net/linked/2026/05/10/workos">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Prolost Watches 1.0</title>
 	<link rel="alternate" type="text/html" href="https://prolost.com/blog/prolostwatches" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x64" />
@@ -1975,50 +1999,6 @@ they’re up to now?</em>”</p>
 
     ]]></content>
   <title>★ The New York Times Printed the Wrong Crossword Grid Last Sunday, and I Find That Timing Serendipitous</title></entry><entry>
-	<title>Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis</title>
-	<link rel="alternate" type="text/html" href="https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x4t" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/26/samsung-mobile-division-possible-loss" />
-	<id>tag:daringfireball.net,2026:/linked//6.42941</id>
-	<published>2026-04-26T17:39:40Z</published>
-	<updated>2026-04-26T19:34:05Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Ben Schoon, 9to5Google:</p>
-
-<blockquote>
-  <p>In March, <a href="https://9to5google.com/2026/03/12/samsung-mobile-division-loss-report/">a report revealed</a> some of the internal cuts
-Samsung has been making for its mobile division, with the company
-initially concerned it could post an operating loss for the first
-time ever. It’s a big deal, as Samsung’s mobile (MX) division has
-historically always turned a profit.</p>
-
-<p>A new <a href="https://www.mt.co.kr/industry/2026/04/22/2026042115433622701">report out of Korea</a> (via <a href="https://x.com/jukan05/status/2046888729743356344">Jukan</a>) makes this
-seem all but certain.</p>
-
-<p>Apparently, Samsung’s TM Roh, the head of the company’s mobile
-division, has expressed concerns of the “possibility of an annual
-deficit for the MX business unit.” Previously, those concerns came
-from speculation and outside parties, but with such a high figure
-in Samsung’s organization worried, it’s clear things are looking
-pretty bleak.</p>
-</blockquote>
-
-<p><a href="https://daringfireball.net/linked/2013/02/07/apple-samsung-profits">Back in 2013</a> analysts pegged the profit share of the handset industry at 70 percent for Apple and 30 percent for Samsung. A lot of other smaller companies sold a lot of other phones, but, so that analysis went, none of them made any profits. A lot of them were losing money. I linked to <a href="https://daringfireball.net/linked/2016/11/04/iphone-profit-share-104">another such analysis in 2016</a> that pegged Apple’s share of phone profits at 104 percent, estimating that all other handset makers combined accounted for a 4% percent loss.</p>
-
-<p>Doesn’t seem like much has changed since then. I prompted ChatGPT and Gemini today with this request: “Create a table of the world’s mobile device makers, ranked by profit and profit share of the industry.” <a href="https://chatgpt.com/share/69ee4cb5-b0a0-83ea-ae95-5c06cff872f2">ChatGPT pegs Apple’s profit share</a> at 75–85%, Samsung’s at 10–20%, Huawei and Xiaomi in “low single digits”, and everyone else negligible. <a href="https://gemini.google.com/share/69df6828659f">Gemini pegs Apple’s share</a> at 85–90%, Samsung’s at 7–10%, Xiaomi at 1-2%, and everyone else negligible. This, despite both ChatGPT and Gemini agreeing that iPhones comprise only 20 percent of sales <em>by unit</em>. (Are ChatGPT and Gemini correct about the current profit share split of the mobile industry? I don’t know. But both cite sources in their answers, and it strikes me as very unlikely that their estimates are very far off.)</p>
-
-<p>If Samsung posts a mobile division loss this year, it could be the case that Apple will capture 100 percent of the profits in the phone industry with just 20 percent of the sales.</p>
-
-<div>
-<a  title="Permanent link to ‘Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis’"  href="https://daringfireball.net/linked/2026/04/26/samsung-mobile-division-possible-loss">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/04/delicious_claim_chowder_regarding_the_cook-ternus_ceo_transition" />
 	<link rel="shorturl" href="http://df4.us/x4s" />
