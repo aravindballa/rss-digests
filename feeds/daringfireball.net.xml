@@ -7,14 +7,14 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-11T22:57:00Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-11T23:13:27Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>iOS 26.5 Includes Beta Support for End-to-End Encrypted RCS Messaging</title>
 	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/05/end-to-end-encrypted-rcs-messaging-begins-rolling-out-today-in-beta/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x6a" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/11/ios-26-rcs-encryption" />
 	<id>tag:daringfireball.net,2026:/linked//6.42994</id>
 	<published>2026-05-11T22:57:00Z</published>
-	<updated>2026-05-11T22:57:00Z</updated>
+	<updated>2026-05-11T23:13:27Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -39,6 +39,8 @@ conversations.</p>
 <p>But the indication for this is subtle. You have to read the small print metadata in each chat to see if it’s encrypted. The message text remains the same shade of green. If it’s a group chat and even one single member isn’t on a phone and carrier that supports E2EE RCS, the entire chat will not be encrypted.</p>
 
 <p>With iMessage, all chats are always E2EE, and always have been. iMessage has been exclusively E2EE since it was created. With RCS you have to look in the metadata small print to check. That’s better than not supporting encryption at all, but my recommendation is to assume all RCS chats are not encrypted unless you double-check every time.</p>
+
+<p>Other than bug fixes, encrypted RCS <a href="https://mjtsai.com/blog/2026/05/11/ios-26-5-and-ipados-26-5/">is the biggest new feature in iOS 26.5</a>.</p>
 
 <div>
 <a  title="Permanent link to ‘iOS 26.5 Includes Beta Support for End-to-End Encrypted RCS Messaging’"  href="https://daringfireball.net/linked/2026/05/11/ios-26-rcs-encryption">&nbsp;★&nbsp;</a>
