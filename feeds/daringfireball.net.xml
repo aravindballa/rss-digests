@@ -7,7 +7,45 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-11T20:48:40Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-11T22:57:00Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>iOS 26.5 Includes Beta Support for End-to-End Encrypted RCS Messaging</title>
+	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/05/end-to-end-encrypted-rcs-messaging-begins-rolling-out-today-in-beta/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x6a" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/11/ios-26-rcs-encryption" />
+	<id>tag:daringfireball.net,2026:/linked//6.42994</id>
+	<published>2026-05-11T22:57:00Z</published>
+	<updated>2026-05-11T22:57:00Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Apple Newsroom:</p>
+
+<blockquote>
+  <p>Starting today, end-to-end encrypted RCS messaging begins rolling
+out in beta for iPhone users running iOS 26.5 with <a href="https://support.apple.com/en-us/109526">supported
+carriers</a> and Android users on the latest version of Google
+Messages. When RCS messages are end-to-end encrypted, they can’t
+be read while they’re sent between devices. Users will know that a
+conversation is end-to-end encrypted when they see a new lock icon
+in their RCS chats. Encryption is on by default and will be
+automatically enabled over time for new and existing RCS
+conversations.</p>
+</blockquote>
+
+<p>I hope this leads to a future where all RCS messages are end-to-end encrypted, but I doubt it. Currently this E2EE RCS depends both on the carriers (of both parties) in a direct chat, and the software running on their devices. The carrier list is pretty broad.</p>
+
+<p>But the indication for this is subtle. You have to read the small print metadata in each chat to see if it’s encrypted. The message text remains the same shade of green. If it’s a group chat and even one single member isn’t on a phone and carrier that supports E2EE RCS, the entire chat will not be encrypted.</p>
+
+<p>With iMessage, all chats are always E2EE, and always have been. iMessage has been exclusively E2EE since it was created. With RCS you have to look in the metadata small print to check. That’s better than not supporting encryption at all, but my recommendation is to assume all RCS chats are not encrypted unless you double-check every time.</p>
+
+<div>
+<a  title="Permanent link to ‘iOS 26.5 Includes Beta Support for End-to-End Encrypted RCS Messaging’"  href="https://daringfireball.net/linked/2026/05/11/ios-26-rcs-encryption">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>iPhone Models Ranked 1st, 2nd, 3rd, and 6th in Counterpoint’s List of 10 Bestselling Phones Worldwide in Q1 2026</title>
 	<link rel="alternate" type="text/html" href="https://appleworld.today/2026/05/apples-iphone-17-was-the-worlds-best-selling-smartphone-in-quarter-one-of-2026/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x69" />
@@ -1919,59 +1957,6 @@ for-profit plans.</p>
 
 <div>
 <a  title="Permanent link to ‘OpenAI Trial Starts With Two Very Different Tales of a Company’s Early Years’"  href="https://daringfireball.net/linked/2026/04/29/openai-trial-starts">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Playing With Fire</title>
-	<link rel="alternate" type="text/html" href="https://x.com/lifeof_jer/status/2048103471019434248?s=12" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x4z" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/29/playing-with-fire" />
-	<id>tag:daringfireball.net,2026:/linked//6.42947</id>
-	<published>2026-04-29T13:38:22Z</published>
-	<updated>2026-04-29T21:37:19Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jer Crane, in an article earlier this week posted on Twitter/X:</p>
-
-<blockquote>
-  <p>I’m Jer Crane, founder of PocketOS. We build software that
-rental businesses — primarily car rental operators — use to
-run their entire operations: reservations, payments, customer
-management, vehicle tracking, the works. Some of our customers
-are five-year subscribers who literally cannot operate their
-businesses without us.</p>
-
-<p>Yesterday afternoon, an AI coding agent — Cursor running
-Anthropic’s flagship Claude Opus 4.6 — deleted our production
-database and all volume-level backups in a single API call to
-Railway, our infrastructure provider.</p>
-
-<p>It took 9 seconds.</p>
-
-<p>The agent then, when asked to explain itself, produced a written
-confession enumerating the specific safety rules it had violated.</p>
-</blockquote>
-
-<p>A day later, Crane posted <a href="https://x.com/lifeof_jer/status/2048576568109527407">an update with good news</a>: “Railway CEO just DM’d me with update: They have recovered the data (thank God!).” I sincerely hope that works out.</p>
-
-<p>That said, my sympathy for his plight is minimal. If you play with fire, recklessly even, don’t act outraged when you get burned. You don’t get the benefits of driving a race car at 200 MPH without the associated risks. You don’t get the benefits of running a business with AI coding agents running loose on your production environment without the associated risks. Put that race car on a track, with no access to public roads. Keep that AI coding agent sandboxed away from your production database. Otherwise you get what you deserve. The difference with my fire analogy is that every mammal understands the basic dangers with fire; a lot of people letting AI coding agents run amok have no idea whatsoever what they’re actually doing.</p>
-
-<p><a href="https://mastodon.social/@scalzi/116478192063186637">John Scalzi, on Mastodon</a>:</p>
-
-<blockquote>
-  <p>I wouldn’t say that I enjoy these stories but I will say they
-certainly encourage me NOT to let “AI” anywhere anything I
-consider to be sensitive and/or valuable.</p>
-</blockquote>
-
-<p>Same thing goes for <a href="https://daringfireball.net/linked/2026/04/14/fraudulent-cryptocurrency-app-in-mac-app-store">cryptocurrency crime victims</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Playing With Fire’"  href="https://daringfireball.net/linked/2026/04/29/playing-with-fire">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
