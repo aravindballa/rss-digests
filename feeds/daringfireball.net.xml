@@ -7,14 +7,74 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-12T18:52:24Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-12T19:42:16Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Broadcasters Urge EU to Use the DMA to Go After Smart TV Platforms, None of Which Are From European Companies</title>
+	<link rel="alternate" type="text/html" href="https://www.reuters.com/sustainability/boards-policy-regulation/eu-digital-rules-should-apply-big-techs-smart-tvs-broadcasters-tell-antitrust-2026-03-23/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x6d" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/12/broadcasters-urge-eu-to-use-the-dma-to-go-after-smart-tv-platforms" />
+	<id>tag:daringfireball.net,2026:/linked//6.42997</id>
+	<published>2026-05-12T19:34:00Z</published>
+	<updated>2026-05-12T19:42:16Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Foo Yun Chee, reporting for Reuters back on March 23:</p>
+
+<blockquote>
+  <p>Google, Amazon, Apple and Samsung’s smart TVs and virtual
+assistants should fall under the EU’s toughest tech rules because
+of their growing market power, the world’s largest broadcasters
+told EU antitrust chief Teresa Ribera on Monday.</p>
+
+<p>The call by the Association of Commercial Television and Video on
+Demand Services in Europe (ACT) whose members include Canal+, RTL,
+Mediaset, ITV, Paramount+, NBCUniversal, Walt Disney, Warner Bros
+Discovery, Sky and TF1 Groupe underscores the battle between
+​broadcasters and Big Tech for market share in a lucrative
+industry.</p>
+
+<p>Android TV, which increased its market share from 16% to ​23%
+from 2019 to 2024, Amazon Fire OS whose market share rose from 5%
+to 12% in the same period and Samsung’s Tizen OS with its 24%
+market share should be designated as gatekeepers under the EU’s
+​Digital Markets Act, the broadcasters said, citing data from a
+2025 market study.</p>
+</blockquote>
+
+<p>Apple is mentioned only in the context of voice assistants, not Apple TV 4K:</p>
+
+<blockquote>
+  <p>The broadcasters also voiced concerns about virtual assistants,
+the most ​well known of which are Amazon’s ​Alexa and Apple’s
+Siri, while OpenAI entered the field last year with a beta feature
+called Tasks for its AI chatbot ChatGPT. The European Commission
+has yet to label any virtual assistants as gatekeepers under the
+DMA. [...]</p>
+
+<p>They urged Ribera to subject smart TVs and virtual assistants to
+the DMA on the basis of qualitative criteria even if they do not
+meet the quantitative benchmarks which ​are more than 45 million
+monthly active users and 75 billion euros ($87 ​billion) in market
+capitalisation.</p>
+</blockquote>
+
+<p>I found this story only after posting <a href="https://daringfireball.net/linked/2026/05/12/new-dma-compliance-features-for-eu-users-in-ios-265">the previous item</a>, trying to see if there were any DMA-related actions that I’d missed under Ribera’s leadership. I didn’t find much. And this Reuters story only says the broadcasters sent Ribera a letter asking her to go after smart TV platforms and voice assistants — there’s no suggestion that Ribera intends to do so.</p>
+
+<div>
+<a  title="Permanent link to ‘Broadcasters Urge EU to Use the DMA to Go After Smart TV Platforms, None of Which Are From European Companies’"  href="https://daringfireball.net/linked/2026/05/12/broadcasters-urge-eu-to-use-the-dma-to-go-after-smart-tv-platforms">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>New DMA Compliance Features for EU Users in iOS 26.5 (and Perhaps the EU Has Finally Come to Their Senses on Tech Regulation)</title>
 	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2026/05/11/ios-26-5-eu-third-party-wearable-changes/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x6c" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/12/new-dma-compliance-features-for-eu-users-in-ios-265" />
 	<id>tag:daringfireball.net,2026:/linked//6.42996</id>
 	<published>2026-05-12T18:52:12Z</published>
-	<updated>2026-05-12T18:52:24Z</updated>
+	<updated>2026-05-12T19:09:04Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -28,13 +88,13 @@ third-party wearables access some features that have historically
 been limited to the Apple Watch and AirPods.</p>
 
 <ul>
-<li><p><em>Proximity pairing</em> - Third-party earbuds are able to use
+<li><p><em>Proximity pairing</em> — Third-party earbuds are able to use
 proximity pairing to connect to an iPhone, similar to the
 AirPods. Bringing a set of earbuds that support the feature near
 an iPhone will initiate an AirPods-like one-tap pairing process,
 so third-party wearables like earbuds will no longer require
 multiple steps to pair.</p></li>
-<li><p><em>iPhone notifications</em> - Third-party accessories like
+<li><p><em>iPhone notifications</em> — Third-party accessories like
 smartwatches are able to receive notifications from the iPhone,
 and users are able to view and react to them. Interactive
 notifications from the iPhone have been limited to the Apple
@@ -43,7 +103,7 @@ display read-only notifications. Notifications can only be
 forwarded to a single connected device at a time, so turning on
 notifications for a third-party wearable disables notifications
 on Apple Watch.</p></li>
-<li><p><em>Live Activities</em> - Live Activities from the iPhone can be
+<li><p><em>Live Activities</em> — Live Activities from the iPhone can be
 displayed on a third-party wearable, similar to how Live
 Activities are shown on an Apple Watch.</p></li>
 </ul>
@@ -55,7 +115,7 @@ smartwatches, and headphones will be able to use the features.</p>
 
 <p>Two thoughts. First, I’d love to hear about any third-party devices that begin taking advantage of these EU-exclusive features.</p>
 
-<p>Second, it sure seems as though the European Commission has quietly walked away from using the DMA as a cudgel under the leadership of competition chief Teresa Ribera. I’d even forgotten her name. Margaret Vestager’s name, I still remember. I haven’t mentioned Ribera, or any new enforcement actions against Apple and iOS, in 13 months. <a href="https://daringfireball.net/linked/2025/04/23/ec-apple-meta-fines">The last was this post regarding a €500M fine</a> imposed against Apple in April last year, the culmination of an investigation that began under Vestager. I wrote then:</p>
+<p>Second, it sure seems as though the European Commission has quietly walked away from using the DMA as a cudgel under the leadership of competition chief Teresa Ribera. I’d even forgotten her name. Margrethe Vestager’s name, I still remember. I haven’t mentioned Ribera, or any new enforcement actions against Apple and iOS, in 13 months. <a href="https://daringfireball.net/linked/2025/04/23/ec-apple-meta-fines">The last was this post regarding a €500M fine</a> imposed against Apple in April last year, the culmination of an investigation that began under Vestager. I wrote then:</p>
 
 <blockquote>
   <p>This finding — and the scope of the fine (roughly $570M converted
@@ -1964,60 +2024,6 @@ looked puzzled.</p>
 
 <div>
 <a  title="Permanent link to ‘‘Elon Musk Appeared More Petty Than Prepared’’"  href="https://daringfireball.net/linked/2026/04/29/musk-more-petty-than-prepared">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘Sordid and Small’</title>
-	<link rel="alternate" type="text/html" href="https://www.theatlantic.com/technology/2026/04/openai-trial-elon-musk-sam-altman/686984/?gift=iWa_iB9lkw4UuiWbIbrWGYJmg9p-llxzEAgykQekDFA" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x51" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/29/wong-musk-v-altman-sordid-and-small" />
-	<id>tag:daringfireball.net,2026:/linked//6.42949</id>
-	<published>2026-04-29T15:03:21Z</published>
-	<updated>2026-04-29T15:03:21Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Matteo Wong, covering <em>Musk v. Altman</em> for The Atlantic (gift link):</p>
-
-<blockquote>
-  <p>Musk is asking that Altman be removed from OpenAI’s board, that
-the company convert back to a nonprofit, and for the return of
-allegedly “ill-gotten gains” — some $150 billion — which Musk
-says would go to OpenAI’s charitable trust. <a href="https://www.wsj.com/tech/elon-musk-is-an-underdog-in-his-180-billion-fight-against-openai-32a74332">Outside legal
-experts</a> say that Musk is unlikely to win all or even much
-of this. His argument is confusing: OpenAI has certainly evolved
-from a nonprofit lab to a revenue-chasing, consumer behemoth, and
-a chorus of critics has alleged that it has deviated from its
-original mission of ensuring that AGI benefits humanity. But Musk
-himself appears to have insisted that OpenAI couldn’t keep up as a
-nonprofit — for instance, in early 2018, he wrote an
-<a href="https://openai.com/index/openai-elon-musk/">email</a> to OpenAI leadership saying that merging the firm
-with Tesla “is the only path that could even hope to hold a candle
-to Google.” And even before he sued, Musk launched a rival
-for-profit company, xAI. “Mr. Musk’s lawsuit is a pageant of
-hypocrisy,” William Savitt, a lawyer for OpenAI, told the jury
-today, later adding that Musk had “sour grapes.” [...]</p>
-
-<p>The trial makes the AI boom seem sordid and small. In his sworn
-<a href="https://www.courtlistener.com/docket/69013420/379/76/musk-v-altman/">deposition</a>, Altman wrote that Musk used to message him
-complaints that he wanted more credit for the success of OpenAI
-and took offense at not being included in an anniversary photo.
-[...] Musk, for his part, has said that he would drop his lawsuit
-if OpenAI changed its name to “ClosedAI.” Yesterday, as jury
-selection began, Musk began furiously posting on X and repeatedly
-called his co-founder “Scam Altman.” Before the start of opening
-arguments today, Gonzalez Rogers admonished Musk and Altman for
-their social-media use, asking them to limit their “propensity” to
-post about the trial; both meekly assented, “Yes.”</p>
-</blockquote>
-
-<p>It all seems so petty and spiteful, but this is a real federal lawsuit with the entire future of the biggest startup in history at stake.</p>
-
-<div>
-<a  title="Permanent link to ‘‘Sordid and Small’’"  href="https://daringfireball.net/linked/2026/04/29/wong-musk-v-altman-sordid-and-small">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
