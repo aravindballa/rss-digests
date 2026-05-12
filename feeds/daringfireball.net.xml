@@ -7,7 +7,103 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-12T00:54:09Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-12T18:52:24Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>New DMA Compliance Features for EU Users in iOS 26.5 (and Perhaps the EU Has Finally Come to Their Senses on Tech Regulation)</title>
+	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2026/05/11/ios-26-5-eu-third-party-wearable-changes/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x6c" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/12/new-dma-compliance-features-for-eu-users-in-ios-265" />
+	<id>tag:daringfireball.net,2026:/linked//6.42996</id>
+	<published>2026-05-12T18:52:12Z</published>
+	<updated>2026-05-12T18:52:24Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Juli Clover, MacRumors:</p>
+
+<blockquote>
+  <p>To comply with the EU’s Digital Markets Act, Apple is letting
+third-party wearables access some features that have historically
+been limited to the Apple Watch and AirPods.</p>
+
+<ul>
+<li><p><em>Proximity pairing</em> - Third-party earbuds are able to use
+proximity pairing to connect to an iPhone, similar to the
+AirPods. Bringing a set of earbuds that support the feature near
+an iPhone will initiate an AirPods-like one-tap pairing process,
+so third-party wearables like earbuds will no longer require
+multiple steps to pair.</p></li>
+<li><p><em>iPhone notifications</em> - Third-party accessories like
+smartwatches are able to receive notifications from the iPhone,
+and users are able to view and react to them. Interactive
+notifications from the iPhone have been limited to the Apple
+Watch, while third-party wearables have only been able to
+display read-only notifications. Notifications can only be
+forwarded to a single connected device at a time, so turning on
+notifications for a third-party wearable disables notifications
+on Apple Watch.</p></li>
+<li><p><em>Live Activities</em> - Live Activities from the iPhone can be
+displayed on a third-party wearable, similar to how Live
+Activities are shown on an Apple Watch.</p></li>
+</ul>
+
+<p>Accessory makers will need to add support for the interoperability
+updates, so they may not be available right away. Third-party TVs,
+smartwatches, and headphones will be able to use the features.</p>
+</blockquote>
+
+<p>Two thoughts. First, I’d love to hear about any third-party devices that begin taking advantage of these EU-exclusive features.</p>
+
+<p>Second, it sure seems as though the European Commission has quietly walked away from using the DMA as a cudgel under the leadership of competition chief Teresa Ribera. I’d even forgotten her name. Margaret Vestager’s name, I still remember. I haven’t mentioned Ribera, or any new enforcement actions against Apple and iOS, in 13 months. <a href="https://daringfireball.net/linked/2025/04/23/ec-apple-meta-fines">The last was this post regarding a €500M fine</a> imposed against Apple in April last year, the culmination of an investigation that began under Vestager. I wrote then:</p>
+
+<blockquote>
+  <p>This finding — and the scope of the fine (roughly $570M converted
+from euros) — was completely in line with (at least my)
+expectations. Apple booked about $184B in profit last year, so
+this fine is about 0.3% of that. Maybe Apple just considers this
+the new cost of doing business in the EU? It’s not nothing, but
+it’s about 1/80th of the theoretical maximum fine the EU could
+have assessed, $39B.</p>
+
+<p>Something, not nothing, but definitely not a big deal. Teresa
+Ribera, the EC competition chief, is clearly trying to thread a
+political needle here. Fines big enough to create the impression
+that the EU is asserting itself, but small enough not to actually
+be all that inflammatory amidst the Trump-initiated mad-king trade
+war. Even Ribera’s job title — Executive Vice-President for
+Clean, Just and Competitive Transition — seems designed to
+de-escalate tensions. Margrethe Vestager was adamantly against
+American companies. Ribera is not.</p>
+</blockquote>
+
+<p>These new DMA compliance features are the result of <a href="https://daringfireball.net/linked/2025/03/19/eu-apple-interop-requirements">requirements imposed in March last year</a> — again, from investigations that began under Vestager, not Ribera. I wrote then:</p>
+
+<blockquote>
+  <p>Apple’s statement makes clear their staunch opposition to these
+decisions. But at least at a superficial level, the European
+Commission’s tenor has changed. The quotes from the Commission
+executives (Teresa Ribera, who replaced firebrand Margrethe
+Vestager as competition chief, and Henna Virkkunen) are anodyne.
+Nothing of the vituperativeness of the quotes from Vestager and
+<a href="https://daringfireball.net/linked/2024/09/16/breton-resigns">Thierry Breton</a> in years past. But the decisions themselves
+make clear that the EU isn’t backing down from its general
+position of seeing itself as the rightful decision-maker for how
+iOS should function and be engineered, and that Apple’s core
+competitive asset — making devices that work better together than
+those from other companies — isn’t legal under the DMA.</p>
+</blockquote>
+
+<p>I think that holds up. The EU hasn’t rescinded any of their existing requirements under the DMA. But Ribera has clearly deescalated the EU’s approach to regulating American companies in general, and Apple specifically. No new requirements in over a year, no new investigations, and no inflammatory rhetoric. (<a href="https://support.apple.com/en-us/120421">Still no iPhone Mirroring</a> in the EU, either, though, because they haven’t rescinded any already-imposed requirements.)</p>
+
+<p>Much better.</p>
+
+<div>
+<a  title="Permanent link to ‘New DMA Compliance Features for EU Users in iOS 26.5 (and Perhaps the EU Has Finally Come to Their Senses on Tech Regulation)’"  href="https://daringfireball.net/linked/2026/05/12/new-dma-compliance-features-for-eu-users-in-ios-265">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://drata.com/daring" />
 	<link rel="shorturl" href="http://df4.us/x6b" />
@@ -1922,60 +2018,6 @@ post about the trial; both meekly assented, “Yes.”</p>
 
 <div>
 <a  title="Permanent link to ‘‘Sordid and Small’’"  href="https://daringfireball.net/linked/2026/04/29/wong-musk-v-altman-sordid-and-small">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>OpenAI Trial Starts With Two Very Different Tales of a Company’s Early Years</title>
-	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/04/28/technology/openai-trial-elon-musk-sam-altman.html?unlocked_article_code=1.elA.u75G.-STmUe_pILOO" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x50" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/29/openai-trial-starts" />
-	<id>tag:daringfireball.net,2026:/linked//6.42948</id>
-	<published>2026-04-29T14:35:42Z</published>
-	<updated>2026-04-29T14:53:09Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Cade Metz and Mike Isaac, reporting for The New York Times from the Ronald V. Dellums U.S. Courthouse in Oakland (gift link):</p>
-
-<blockquote>
-  <p>On the first day of testimony in a landmark trial between Elon
-Musk and OpenAI’s Sam Altman, two notably different tales were
-offered of how OpenAI evolved from a nonprofit artificial
-intelligence lab into one of the most influential tech companies
-in the world.</p>
-
-<p>In Mr. Musk’s telling, OpenAI’s shift was one of the greatest
-heists in history — a nonprofit ripped from its promise of
-altruism by the greed of Mr. Altman, who founded OpenAI with Mr.
-Musk and a group of A.I. researchers more than 10 years ago. In
-OpenAI’s recounting of those early days, however, it was Mr. Musk
-who was the voracious capitalist. And when the lab’s other
-founders refused to go along with his plans, he left in a huff.</p>
-
-<p>“This lawsuit is very simple: It is not OK to steal a charity,”
-Mr. Musk said Tuesday on the witness stand in an Oakland, Calif.,
-courtroom. If Mr. Altman and OpenAI are allowed to continue with
-their plans, he added, “It will give license to looting every
-charity in America.”</p>
-
-<p>A nine-member jury, seated a day earlier in federal court by Judge
-Yvonne Gonzalez Rogers, will hear from tech moguls, former OpenAI
-board members and employees in what is expected to be a monthlong
-trial. The jurors’ decision could shift the balance of power among
-A.I. companies, with Mr. Musk seeking $150 billion in damages and
-an order that OpenAI, now valued at about $730 billion, unwind its
-for-profit plans.</p>
-</blockquote>
-
-<p>Gonzales Rogers, you will <a href="https://daringfireball.net/search/gonzales+rogers">surely remember</a>, presided over the <em>Epic v. Apple</em> case.</p>
-
-<p>Isaac is live-tweeting the testimony and goings-on <a href="https://x.com/MikeIsaac/">on Twitter/X</a>. Here’s <a href="https://x.com/MikeIsaac/status/2049128294839357447">his thread of posts yesterday</a>. Isaac is a terrific reporter, and I enjoy following his extemporaneous notes. It’s a <em>little</em> weird though that he’s posting these on Twitter/X, a site that is privately owned by one of the parties in the lawsuit. Musk’s empire is so sprawling that separate pieces inevitably collide.</p>
-
-<div>
-<a  title="Permanent link to ‘OpenAI Trial Starts With Two Very Different Tales of a Company’s Early Years’"  href="https://daringfireball.net/linked/2026/04/29/openai-trial-starts">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
