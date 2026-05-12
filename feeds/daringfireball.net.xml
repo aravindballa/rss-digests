@@ -7,14 +7,31 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-11T23:13:27Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-12T00:54:09Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	
+	<link rel="alternate" type="text/html" href="https://drata.com/daring" />
+	<link rel="shorturl" href="http://df4.us/x6b" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2026/05/drata_5" />
+	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.42995</id>
+	<author><name>Daring Fireball Department of Commerce</name></author>
+	<published>2026-05-12T00:54:08Z</published>
+	<updated>2026-05-12T00:54:09Z</updated>
+	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
+<p>Leverage autonomous AI agents to automate compliance, manage internal and third-party risk, and continuously prove your security posture. </p>
+
+<div>
+<a  title="Permanent link to ‘Drata’"  href="https://daringfireball.net/feeds/sponsors/2026/05/drata_5">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+	<title>[Sponsor] Drata</title></entry><entry>
 	<title>iOS 26.5 Includes Beta Support for End-to-End Encrypted RCS Messaging</title>
 	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/05/end-to-end-encrypted-rcs-messaging-begins-rolling-out-today-in-beta/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x6a" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/11/ios-26-rcs-encryption" />
 	<id>tag:daringfireball.net,2026:/linked//6.42994</id>
 	<published>2026-05-11T22:57:00Z</published>
-	<updated>2026-05-11T23:13:27Z</updated>
+	<updated>2026-05-12T00:23:53Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -34,7 +51,7 @@ automatically enabled over time for new and existing RCS
 conversations.</p>
 </blockquote>
 
-<p>I hope this leads to a future where all RCS messages are end-to-end encrypted, but I doubt it. Currently this E2EE RCS depends both on the carriers (of both parties) in a direct chat, and the software running on their devices. The carrier list is pretty broad.</p>
+<p>I hope this leads to a future where all RCS messages are end-to-end encrypted, but I doubt it. Currently this E2EE RCS depends both on the carriers (of both parties) in a direct chat, and the software running on their devices. The carrier list is pretty broad, but as far as I can tell, it <a href="https://daringfireball.net/linked/2024/12/16/google-fi-rcs-sync">still doesn’t include Google’s own Google Fi</a>.</p>
 
 <p>But the indication for this is subtle. You have to read the small print metadata in each chat to see if it’s encrypted. The message text remains the same shade of green. If it’s a group chat and even one single member isn’t on a phone and carrier that supports E2EE RCS, the entire chat will not be encrypted.</p>
 
@@ -104,7 +121,7 @@ conversations.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/11/gurman-on-macos-27-ui-and-vision-roadmap" />
 	<id>tag:daringfireball.net,2026:/linked//6.42991</id>
 	<published>2026-05-11T17:55:47Z</published>
-	<updated>2026-05-11T18:00:51Z</updated>
+	<updated>2026-05-12T00:25:13Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -134,7 +151,7 @@ quirks — particularly the transparency effects and shadows that
 can make lists and other text-heavy areas harder to read.</p>
 </blockquote>
 
-<p>Trying to argue that the differences between LCD an OLED displays has anything to do with MacOS 26 Tahoe’s UI problems is like arguing that the reason your undercooked poorly prepared food tastes like shit is that it was designed to be served on higher-quality dinnerware. A nicer display is just a nicer display. A bad UI is a bad UI. Shitty undercooked poorly prepared food is shitty undercooked poorly prepared food.</p>
+<p>Trying to argue that the differences between LCD and OLED displays have anything to do with MacOS 26 Tahoe’s UI problems is like arguing that the reason your undercooked poorly prepared food tastes like shit is that it was designed to be served on higher-quality dinnerware. A nicer display is just a nicer display. A bad UI is a bad UI. Shitty undercooked poorly prepared food is shitty undercooked poorly prepared food.</p>
 
 <p>You can actually see MacOS 26 Tahoe on an OLED display using <a href="https://support.apple.com/en-us/102597">Sidecar</a> with a recent iPad Pro. It doesn’t help. You can also see iOS 26 and iPadOS 26 on devices that don’t have OLED displays. It looks fine. The notion that anything on MacOS 26 Tahoe was optimized for OLED displays makes no sense — there are no MacBooks or Apple desktop displays that use OLED. OLED MacBooks are purportedly coming at the end of this year or next year, but by the time that happens we’ll be mid-cycle for MacOS 27. Lastly, Apple <em>just</em> came out with <a href="https://www.apple.com/shop/buy-mac/studio-display-xdr">the new $3,300 Studio Display XDR</a>, using Mini-LED not OLED technology, in March. Even the future of Mac display technology is only partially OLED.</p>
 
@@ -1963,29 +1980,6 @@ for-profit plans.</p>
 
 	]]></content>
   </entry><entry>
-	
-	<link rel="alternate" type="text/html" href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026" />
-	<link rel="shorturl" href="http://df4.us/x5d" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2026/04/workos_go_from_we_dont_support" />
-	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.42961</id>
-	<author><name>Daring Fireball Department of Commerce</name></author>
-	<published>2026-04-28T23:07:52Z</published>
-	<updated>2026-05-03T23:08:19Z</updated>
-	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
-<p>Every B2B company hits the same inflection point — enterprise customers show up and they need SSO, directory sync, audit logs, and role-based access before they’ll move forward. Most teams lose months building that infrastructure. It doesn’t have to be that way.</p>
-
-<p><a href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026">With WorkOS you get all of it</a>. One platform for auth, identity, and security. Infrastructure for teams that ship fast and stay fast.</p>
-
-<p>OpenAI, Anthropic, Cursor, and Perplexity already chose WorkOS over building it themselves.</p>
-
-<p><a href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026">Build faster with WorkOS →</a></p>
-
-<div>
-<a  title="Permanent link to ‘WorkOS: Go From ‘We Don’t Support SSO’ to Enterprise Ready in a Weekend’"  href="https://daringfireball.net/feeds/sponsors/2026/04/workos_go_from_we_dont_support">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-	<title>[Sponsor] WorkOS: Go From ‘We Don’t Support SSO’ to Enterprise Ready in a Weekend</title></entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/04/nyt_wrong_crossword_grid" />
 	<link rel="shorturl" href="http://df4.us/x4v" />
