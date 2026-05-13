@@ -7,37 +7,35 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-13T01:41:46Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
-	<title>Nextpad++</title>
-	<link rel="alternate" type="text/html" href="https://notepad-plus-plus.org/news/npp-trademark-infringement/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x6i" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/12/nextpad" />
-	<id>tag:daringfireball.net,2026:/linked//6.43002</id>
-	<published>2026-05-13T01:41:46Z</published>
-	<updated>2026-05-13T01:41:46Z</updated>
+<updated>2026-05-13T02:56:00Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/05/nextpad" />
+	<link rel="shorturl" href="http://df4.us/x6j" />
+	<id>tag:daringfireball.net,2026://1.43003</id>
+	<published>2026-05-13T02:22:16Z</published>
+	<updated>2026-05-13T02:56:00Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Windows Notepad is, more or less, the Windows peer to MacOS’s TextEdit — the built-in system text editor. For years, it was really basic — more basic than TextEdit. Recently Microsoft has started beefing it up, though, culminating last year <a href="https://daringfireball.net/linked/2025/06/06/markdown-support-in-windows-notepad">when they added fucking Markdown support</a>. Which still blows my mind.</p>
+	<summary type="text">Nextpad++ feels like a fever dream. Like what Mac apps would be if the Nazis had won WWII.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>Windows Notepad is, more or less, the Windows peer to MacOS’s TextEdit — the built-in system text editor. For years, it was really basic — so much more basic than TextEdit that it engendered no affection. You don’t see paeans to Notepad <a href="https://daringfireball.net/linked/2026/01/26/chayka-textedit">in The New Yorker</a>. Recently though, Microsoft has started beefing it up, culminating last year <a href="https://daringfireball.net/linked/2025/06/06/markdown-support-in-windows-notepad">when they added fucking Markdown support</a>. Which still blows my mind.</p>
 
-<p><a href="https://notepad-plus-plus.org/">Notepad++</a> is a longstanding open source (GPL) Windows text editor <a href="https://notepad-plus-plus.org/author/">by Don Ho</a>, which <a href="https://notepad-plus-plus.org/">debuted back in 2003</a>. Just adding “++” to the name feels misleading. The name implies that it’s like Microsoft’s Notepad but a little more. Notepad++ is in fact a wholly independent programming text editor, with a rich plugin library, and remains quite popular. To some extent Notepad++ sorta kinda the Windows peer to <a href="https://www.barebones.com/products/bbedit/">BBEdit</a>.</p>
+<p><a href="https://notepad-plus-plus.org/">Notepad++</a> is a longstanding open source (GPL) Windows text editor <a href="https://notepad-plus-plus.org/author/">by Don Ho</a>, which <a href="https://notepad-plus-plus.org/">debuted back in 2003</a>. Just adding “++” to the name might be misleading. The name implies that it’s like Microsoft’s Notepad <a href="https://www.waltdisney.org/blog/walts-own-words-plussing-disneyland">plus</a> a little more. But Notepad++ is in fact a wholly independent programming text editor, with a rich plugin library. It doesn’t resemble Microsoft’s Notepad much at all anymore. It’s over two decades old but remains quite popular. To some extent Notepad++ is sorta kinda the Windows peer to <a href="https://www.barebones.com/products/bbedit/">BBEdit</a>.</p>
 
-<p><a href="https://nextpad.org/author/">Nextpad++</a> is something new, <a href="https://nextpad.org/author/">from Andrey Letov</a>. It’s a Mac port of the Notepad++ GPL code, apparently in Objective-C. It launched a few weeks ago under the name “Notepad++ for Mac”, but Letov had <a href="https://notepad-plus-plus.org/news/npp-trademark-infringement/">no right or permission to the name</a>. That dispute has been settled, and Letov has renamed this project Nextpad++. The website’s <a href="https://nextpad.org/about/">About page</a> has entire sections for “How Nextpad++ for Mac Was Built” and “Technology Stack”, and neither of those mentions AI, but this thing almost <em>has</em> to have been built using AI vibe-coding agents. That same about page also says the project only started on March 10, and the 1.0 version (under the defunct “Notepad++ for Mac” name) shipped just a few weeks after that. Something of the scope of this port couldn’t happen at that pace without AI.</p>
+<p><a href="https://nextpad.org/author/">Nextpad++</a> is something new, <a href="https://nextpad.org/author/">from Andrey Letov</a>. It’s a Mac port of the Notepad++ GPL code. It launched a few weeks ago under the name “Notepad++ for Mac”, but Letov had <a href="https://notepad-plus-plus.org/news/npp-trademark-infringement/">no right or permission to the name</a>. That dispute has been settled, and Letov has renamed this project Nextpad++. The website’s <a href="https://nextpad.org/about/">About page</a> has entire sections for “How Nextpad++ for Mac Was Built” and “Technology Stack”, and neither of those mentions AI, but this thing <em>has</em> to have been built using AI vibe-coding agents. That same About page also says the project only started on March 10, and the 1.0 version (under the defunct “Notepad++ for Mac” name) shipped just a few weeks after that. Something of the scope of this port couldn’t happen at that pace without AI. <strong>Update:</strong> On <a href="https://nextpad.org/author/">the Author page</a>, not the About page, it states, “multi-agent AI development workflows are what make a one-person project at this scale practical”. <em>Possible</em>, sure, but I wouldn’t call this <em>practical</em>.</p>
 
-<p>Nextpad++ feels like a fever dream. Like what Mac apps would be if the Nazis had won WWII. Look, there are all sorts of foreign apps on the Mac. Electron apps. Apps ported with <a href="https://www.winehq.org/">Wine</a>. The curious new generation of lean-and-mean apps that are, in a technical sense, “native”, but are decidedly not Mac-assed apps, like <a href="https://zed.dev/">Zed</a> and <a href="https://tolaria.md/">Tolaria</a>. Those apps just feel like aliens on MacOS. Like new species. But the Mac is welcoming to them, <a href="https://daringfireball.net/2026/04/we_dont_serve_their_kind_here">like the Mos Eisley cantina</a>. We do serve their kind here. Nextpad++ doesn’t feel like an alien. It feels like Vincent D’Onofrio’s alien-bug-in-human-skin character from <em>Men in Black</em>.</p>
+<p>Nextpad++ feels like a fever dream. Like what Mac apps would be if the Nazis had won WWII. Look, there are all sorts of foreign apps on the Mac. <a href="https://daringfireball.net/2018/12/electron_and_the_decline_of_native_apps">Electron</a> apps. Apps ported with <a href="https://www.winehq.org/">Wine</a>. Web apps running in browser tabs or <a href="https://support.apple.com/guide/safari/add-to-dock-ibrw9e991864/mac">saved to the Dock</a>. The <a href="https://shapeof.com/archives/2026/4/tolaria_ai_and_rust.html">curious new generation</a> of lean-and-mean apps that are, in a technical sense, “native”, but are decidedly not Mac-assed apps, like <a href="https://zed.dev/">Zed</a> and <a href="https://tolaria.md/">Tolaria</a>. All those types of apps feel alien on MacOS. Like different species. They are apps for the Mac but aren’t Mac apps. The Mac, however, is welcoming to them all, <a href="https://daringfireball.net/2026/04/we_dont_serve_their_kind_here">like the Mos Eisley cantina</a>. We do serve their kind here. Nextpad++ isn’t like that. It doesn’t feel like an alien. It feels like Vincent D’Onofrio’s alien-bug-in-human-skin character from <em>Men in Black</em>.</p>
 
-<p>Letov’s website describes it as “A real Mac app, not a Wine wrapper: Objective-C++ on top of Scintilla and Cocoa, shipped as a Universal Binary for Apple Silicon (M1–M5) and Intel Macs.” Ostensibly that’s a good thing. But Nextpad++ looks and feels like something that should not exist. The promotional screenshots on the app’s own website show it <a href="https://daringfireball.net/misc/2026/05/nextpad++.png">with 50 inscrutable toolbar buttons</a>. It closes tabs on mousedown, not mouseup. Its default font is 10-point Courier New. No human being would port a complex Windows app like Notepad++ to the Mac like this.</p>
+<p>Letov’s website describes Nextpad++ as “A real Mac app, not a Wine wrapper: Objective-C++ on top of Scintilla and Cocoa, shipped as a Universal Binary for Apple Silicon (M1–M5) and Intel Macs.” Ostensibly that’s a good thing. The download is only 14 MB. But Nextpad++ looks and feels like something that should not exist. The promotional screenshots on the app’s own website show it <a href="https://daringfireball.net/misc/2026/05/nextpad++.png">with 50 inscrutable toolbar buttons</a>. It closes document tabs on mousedown, not mouseup. Its default font is 10-point Courier New. <a href="https://daringfireball.net/misc/2026/05/nextpad-editing-contextmenu.png">This</a> is a real dialog box. It offers <a href="https://daringfireball.net/misc/2026/05/nextpad-antialiasing.png">four settings for font antialiasing</a> — “Default”, “None”, “Antialiased”, and “LCD Optimized” — but the default is not “Default”. No human being would port a complex Windows app like Notepad++ to the Mac like this.</p>
 
-<p>I’m not anti-AI. I’m very much intrigued by the whole incipient vibe-coding phenomenon. But this app feels <em>unholy</em>. It’s spooky.</p>
+<p>I’m not anti-AI. I’m very much intrigued by the whole incipient vibe-coding phenomenon. But this app feels <em>unholy</em>.</p>
 
-<div>
-<a  title="Permanent link to ‘Nextpad++’"  href="https://daringfireball.net/linked/2026/05/12/nextpad">&nbsp;★&nbsp;</a>
-</div>
 
-	]]></content>
-  </entry><entry>
+
+    ]]></content>
+  <title>★ Nextpad++</title></entry><entry>
 	<title>Kagi Snaps</title>
 	<link rel="alternate" type="text/html" href="https://help.kagi.com/kagi/features/snaps.html" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x6h" />
@@ -93,7 +91,7 @@ to go to the curl repo.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/12/seriously-give-kagi-a-try" />
 	<id>tag:daringfireball.net,2026:/linked//6.43000</id>
 	<published>2026-05-12T20:31:49Z</published>
-	<updated>2026-05-12T20:36:31Z</updated>
+	<updated>2026-05-13T02:22:40Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -2017,6 +2015,55 @@ building based on information gathered from videos of the raids.</p>
 
 	]]></content>
   </entry><entry>
+	<title>Apple Q2 2026 Results</title>
+	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/04/apple-reports-second-quarter-results/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x57" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/04/30/apple-q2-2026-results" />
+	<id>tag:daringfireball.net,2026:/linked//6.42955</id>
+	<published>2026-05-01T00:41:20Z</published>
+	<updated>2026-05-01T00:41:41Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Apple Newsroom:</p>
+
+<blockquote>
+  <p>“Today Apple is proud to report our best March quarter ever, with
+revenue of $111.2 billion and double-digit growth across every
+geographic segment,” said Tim Cook, Apple’s CEO. “iPhone achieved
+a March quarter revenue record, fueled by such extraordinary
+demand for the iPhone 17 lineup. During the quarter, Services
+achieved yet another all-time record, and we were excited to
+introduce remarkable new products to our strongest lineup ever.
+That included the addition of the iPhone 17e and the M4-powered
+iPad Air, along with the launch of MacBook Neo, which is
+captivating customers all around the world.”</p>
+</blockquote>
+
+<p>Record results for the January–March quarter for revenue, profit, and iPhone revenue in particular. And iPhones were constrained by supply. Tim Cook led the analyst conference call because he’s still CEO, but John Ternus joined for the first time. Worth a listen to just their opening remarks.</p>
+
+<p>Over at Six Colors, <a href="https://sixcolors.com/post/2026/04/apple-announces-record-fiscal-second-quarter/">Jason Snell has the usual assortment of graphs</a> charting Apple’s numbers. Spoiler: up, up, up. And he has his usual <a href="https://sixcolors.com/post/2026/04/this-is-tim-and-john-and-kevin-transcript-of-apples-q2-2026-financial-call/">transcript of the analyst call</a>. From that transcript, this bit from Ternus’s prepared statement made me smile:</p>
+
+<blockquote>
+  <p>I want to echo Tim’s sentiment about our shareholders, especially
+those who have been with us for many years. Thank you so much for
+your confidence in our company. As you know, one of the hallmarks
+of Tim’s tenure has been a deep thoughtfulness, deliberateness,
+and discipline when it comes to the financial decision-making of
+the company, and I want you to know that is something Kevan and I
+intend to continue when I transition into the role in September.</p>
+</blockquote>
+
+<p>Translation: “<em>In case you were worried, we intend to keep making money hand over fist when I become CEO. I’m not coming into the job to spend the company’s money like a drunken sailor.</em>”</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Q2 2026 Results’"  href="https://daringfireball.net/linked/2026/04/30/apple-q2-2026-results">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/04/on_the_future_of_apples_vision_platform" />
 	<link rel="shorturl" href="http://df4.us/x56" />
@@ -2149,168 +2196,4 @@ they’re up to now?</em>”</p>
 
 
     ]]></content>
-  <title>★ The New York Times Printed the Wrong Crossword Grid Last Sunday, and I Find That Timing Serendipitous</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/04/delicious_claim_chowder_regarding_the_cook-ternus_ceo_transition" />
-	<link rel="shorturl" href="http://df4.us/x4s" />
-	<id>tag:daringfireball.net,2026://1.42940</id>
-	<published>2026-04-25T00:56:12Z</published>
-	<updated>2026-04-25T01:11:31Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">Every single word of the November 2025 Financial Times report, which Mark Gurman derided as “simply false”, was, in fact, exactly correct.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>In May 2024, Bloomberg ran a feature story by Mark Gurman under the headline, “<a href="https://www.bloomberg.com/news/articles/2024-05-08/apple-s-next-ceo-list-of-aapl-insiders-who-could-succeed-tim-cook">Tim Cook Can’t Run Apple Forever. Who’s Next?</a>” The subhead: “John Ternus, the head of hardware engineering, is emerging as a potential successor to the CEO.” The nut grafs from that piece:</p>
-
-<blockquote>
-  <p>There’s no reason to assume that a change at the helm is imminent.
-Cook may be older than the CEOs of the other tech companies at the
-top of the S&amp;P 500, but he’s hardly the oldest person running a
-major corporation. “If Trump or Biden can be president at 80, Tim
-Cook can be CEO of Apple for many more years. It used to be
-automatic that CEOs are moved out at 65,” says someone who knows
-him. “The world has changed.”</p>
-
-<p>While Cook hasn’t given any indication how long he’ll remain in
-charge — other than telling Dua Lipa it would be “a while” — people close to him believe he’ll be CEO at least another three
-years. After that, they say, he’ll start a charitable foundation
-to donate the wealth he accumulated at Apple.</p>
-
-<p>If Cook were to stay that long, people within Apple say, the most
-likely successor would be John Ternus, the hardware engineering
-chief. In a company whose success has always come from building
-category-defining gadgets, the ascension of a hardware engineering
-expert to the CEO job would seem logical. Ternus, who’s not yet
-50, would also be more likely than other members of the executive
-team to stick around for a long time, potentially providing
-another decade or more of Cook-esque stability.</p>
-
-<p>Ternus is well-liked inside Apple, and he’s earned the respect of
-Cook, Williams and other leaders. “Tim likes him a lot, because he
-can give a good presentation, he’s very mild-mannered, never puts
-anything into an email that is controversial and is a very
-reticent decision-maker,” says one person close to Apple’s
-executive team. “He has a lot of managerial characteristics like
-Tim.” Christopher Stringer, a former top Apple hardware designer,
-called Ternus a “trustworthy hand” who’s “never failed with any
-role he’s been elevated to.” Eddy Cue, the Apple executive known
-as Cook’s closest confidant, has privately told colleagues that
-Ternus should be the next CEO, according to a person with
-knowledge of the matter.</p>
-</blockquote>
-
-<p>Linking to Gurman’s report, <a href="https://daringfireball.net/linked/2024/05/08/ternus-gurman">I wrote</a>:</p>
-
-<blockquote>
-  <p>I wouldn’t have linked to this if not for the above line about
-Eddy Cue. If Cue is telling people that, that means a lot. No
-executive at Apple is more juiced-in company-wide than Cue. Cook’s
-first action as CEO <a href="https://9to5mac.com/2011/09/01/itunes-chief-eddy-cue-gets-promoted-to-senior-vice-president-of-internet-software-and-services/">was to promote Cue</a>, and Cue was arguably
-just as tight with and trusted by Steve Jobs.</p>
-</blockquote>
-
-<p>It was two more years, not three, but Gurman was the first to report that Ternus was the guy at the top of the list.</p>
-
-<p>There was no significant additional reporting between Gurman’s May 2024 Bloomberg report until November 15 last year, when the Financial Times published a blockbuster story under the headline “<a href="https://www.ft.com/content/0d424625-f4f8-4646-9f6e-927c8cbe0e3e">Apple Intensifies Succession Planning for CEO Tim Cook</a>”, with four bylines: “Tim Bradshaw, Stephen Morris and Michael Acton in San Francisco and Daniel Thomas in London”. Bradshaw is the FT’s lead Apple reporter, and it’s no coincidence his name was first among the four. The article gets right to the point at the start:</p>
-
-<blockquote>
-  <p>Apple is stepping up its succession planning efforts, as it
-prepares for Tim Cook to step down as chief executive as soon as
-next year. Several people familiar with discussions inside the
-tech group told the Financial Times that its board and senior
-executives have recently intensified preparations for Cook to hand
-over the reins at the $4tn company after more than 14 years.</p>
-
-<p>John Ternus, Apple’s senior vice-president of hardware
-engineering, is widely seen as Cook’s most likely successor,
-although no final decisions have been made, these people said.</p>
-
-<p>People close to Apple say the long-planned transition is not
-related to the company’s current performance, ahead of what is
-expected to be a blockbuster end-of-year sales period for the
-iPhone. [...]</p>
-
-<p>The company is unlikely to name a new CEO before its next earnings
-report in late January, which covers the critical holiday period.
-An announcement early in the year would give its new leadership
-team time to settle in ahead of its big annual keynote events, its
-developer conference in June and its iPhone launch in September,
-the people said. These people said that although preparations have
-intensified, the timing of any announcement could change.</p>
-</blockquote>
-
-<p>So, per the FT in November, Apple’s plan was to name Ternus as the company’s next CEO “early in the year”, after their Q1 results (January 29) but ahead of WWDC (June 8). The halfway point between those dates was April 4; <a href="https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/">Apple announced Ternus as the company’s next CEO on April 20</a>. Every single word of the FT report, in hindsight, was exactly correct. I can’t think of a way that their November story could have been more prescient. It was a home run. A report for the ages, like when CNet and The Wall Street Journal <a href="https://daringfireball.net/2005/06/see_you_intel">scooped the Mac’s transition to Intel processors on the eve of WWDC 2005</a>.</p>
-
-<p><a href="https://daringfireball.net/linked/2025/11/15/ft-apple-tim-cook-succession">My own take</a>, back in November when the FT report dropped, was that it had the distinct aroma of a deliberate expectations-setting <a href="https://daringfireball.net/linked/2026/04/13/john-martellaro-rip">leak</a>, and was almost certainly accurate:</p>
-
-<blockquote>
-  <p>That “several people” spoke to the FT about this says to me that
-those sources (members of the board?) did so with Cook’s blessing,
-and they want this announcement to be no more than a little
-surprising. [...]</p>
-
-<p>I would also bet that Cook moves into the role of executive
-chairman, and will still play a significant, if not leading, role
-for the company when it comes to domestic and <a href="https://daringfireball.net/2024/01/vestager_cook">international</a>
-<a href="https://daringfireball.net/linked/2025/05/27/cook-trump-middle-east">politics</a>. <a href="https://www.wsj.com/politics/elections/tim-cook-ceo-trump-relationship-ad106f36?st=KRSbZa&amp;reflink=desktopwebshare_permalink">Especially</a> with <a href="https://daringfireball.net/linked/2025/01/04/consider-cook-as-a-tragic-figure">regard</a> to
-<a href="https://daringfireball.net/linked/2025/09/10/trump-hosts-dinner-humiliating-tech-ceos">Trump</a>.</p>
-</blockquote>
-
-<p>Cook moving into the position of executive chairman and continuing to play a leading role as the company’s political ambassador was my own speculation, and that proved out. Easy money, making that prediction.</p>
-
-<p>One week after the FT’s report, in his Bloomberg “Power On” newsletter on November 23, <a href="https://www.bloomberg.com/news/newsletters/2025-11-23/apple-ios-27-snow-leopard-like-quality-focus-ai-features-tim-cook-retirement-mibq7jv8">Gurman wrote</a>:</p>
-
-<blockquote>
-  <p>In October, I wrote that the <a href="https://www.bloomberg.com/news/newsletters/2025-10-05/who-will-be-apple-s-next-ceo-after-tim-cook-apple-shelves-vision-air-m5-ipad">internal spotlight on Ternus was
-“intensifying,”</a> and that barring unforeseen circumstances
-he would be the leading candidate. But I didn’t put a date on when
-a change might happen. Then, around midnight two Fridays ago, the
-Financial Times published a report with three central claims:
-Apple is “intensifying” succession planning; Ternus is likely the
-next CEO; and Cook is expected to step down between late January
-and June.</p>
-
-<p>The first two points are anything but revelations if you’ve read
-Bloomberg coverage and Power On, or have simply been paying
-attention to the realities of Cook’s age and tenure. The timing,
-however, is another matter entirely. It’s a huge deal that the FT
-did this: A respected publication should only predict the CEO
-transition date for a company of Apple’s scale with a high level
-of confidence — based on people legitimately in the know.</p>
-
-<p>This is where I have concerns. Based on everything I’ve learned in
-recent weeks, I don’t believe a departure by the middle of next
-year is likely. In fact, I would be shocked if Cook steps down in
-the time frame outlined by the FT. Some people have speculated
-that the story was a “test balloon” orchestrated by Apple or
-someone close to Cook to prepare Wall Street for a change, but
-that isn’t the case either. I believe the story was simply false.</p>
-</blockquote>
-
-<p>Gurman must be well and truly “shocked” by this week’s announcements, because as it turns out, Cook is stepping aside exactly “in the time frame outlined by the FT”. The FT’s report was not “simply false”. It was, in fact, completely true. The Financial Times, which truly is a respected publication (with no black marks on its record, like, say, Bloomberg’s to-this-day-still-uncorrected <a href="https://daringfireball.net/search/the+big+hack+bloomberg">“The Big Hack” fiasco</a>), obviously did have a high level of confidence in Apple’s plans, because they were, in fact, briefed by people “legitimately in the know”. Gurman’s reading comprehension is questionable as well, because the FT did <em>not</em> report that Cook would “step down” between January and June. The FT report spoke only of “naming a new CEO” and making an “announcement” between January and June. That’s exactly what happened. Nor is anyone “departing” — but a change in leadership will occur in the middle of the year.</p>
-
-<p>In January, <a href="https://www.macrumors.com/2026/01/25/when-will-tim-cook-step-down-as-apple-ceo/">Gurman reiterated his stance that the FT was wrong</a>:</p>
-
-<blockquote>
-  <p>It’s just a question of timing. The Financial Times <a href="https://www.ft.com/content/0d424625-f4f8-4646-9f6e-927c8cbe0e3e">reported last
-year</a> that the change would happen as early as the beginning
-of 2026. But let me be clear: This seems unlikely.</p>
-</blockquote>
-
-<p>By <a href="https://daringfireball.net/linked/2025/12/01/gurman-pooh-poohs-ft-on-cook">pooh-poohing</a> the FT’s completely accurate reporting as “simply false”, Gurman wound up poo-pooing the bed. Calibrate the grains of salt with which you take his <a href="https://daringfireball.net/linked/2025/12/08/srouji">other reporting</a> on Apple executive goings-on accordingly. A humble correction and sincere apology to the Financial Times — and Tim Bradshaw personally — are surely forthcoming in this weekend’s edition of Power On.<sup id="fnr1-2026-04-24"><a href="#fn1-2026-04-24">1</a></sup></p>
-
-<div class="footnotes">
-<hr />
-<ol>
-<li id="fn1-2026-04-24">
-<p>And the check, I’m sure, is in the mail.&nbsp;<a href="#fnr1-2026-04-24"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
-</li>
-</ol>
-</div>
-
-
-
-    ]]></content>
-  <title>★ Time to Serve Some Delicious Claim Chowder Regarding the Cook-Ternus CEO Transition</title></entry></feed><!-- THE END -->
+  <title>★ The New York Times Printed the Wrong Crossword Grid Last Sunday, and I Find That Timing Serendipitous</title></entry></feed><!-- THE END -->
