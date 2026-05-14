@@ -7,7 +7,68 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-14T19:55:11Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-14T20:51:04Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Geoffrey Fowler and the Launch of the Youth AI Safety Institute</title>
+	<link rel="alternate" type="text/html" href="https://geoffreyfowler.substack.com/p/what-is-ai-doing-to-our-kids-im-going" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x6q" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/14/fowler-youth-ai-safety-institute" />
+	<id>tag:daringfireball.net,2026:/linked//6.43010</id>
+	<published>2026-05-14T20:51:04Z</published>
+	<updated>2026-05-14T20:51:04Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Geoffrey Fowler, on his blog, which, <a href="https://daringfireball.net/2025/08/the_substack_branding_and_faux_prestige_trap">alas</a>, he calls “<a href="https://daringfireball.net/2024/11/regarding_and_well_against_substack">a Substack</a>”:</p>
+
+<blockquote>
+  <p>I’m joining the <a href="http://institute.commonsensemedia.org/">Youth AI Safety Institute</a> as its first new
+employee. It’s a research and testing organization launching today
+under the umbrella of children’s nonprofit <a href="https://www.commonsense.org/">Common Sense
+Media</a>. Backed by a $20 million annual budget, the Institute
+aims to do something that doesn’t really exist yet: systematically
+test the AI products kids use, set safety standards, and publicly
+hold tech companies accountable for meeting them. Think crash test
+dummies for AI.</p>
+</blockquote>
+
+<p>On the surface this sounds like a great idea, and Fowler does have a strong background in consumer-oriented product reviews.</p>
+
+<blockquote>
+  <p>My title is Head of Public Engagement — a kind of
+editor-at-large. I’ll work alongside researchers, computer
+scientists, pediatricians, clinical psychologists and educators
+to investigate what happens when kids use AI products,
+including chatbots, games, educational apps, furry <a href="https://www.commonsensemedia.org/press-releases/common-sense-media-warns-against-ai-toy-companions-after-research-reveals-safety-risks">AI
+toys</a> and whatever comes next. My job is to help turn
+those findings into something families, educators, policymakers
+and tech leaders can use.</p>
+
+<p>“We safety-test kids’ PJs. Why not their AI?” says my new
+colleague at Common Sense, Bruce Reed, who helped craft the Biden
+White House’s groundbreaking 2023 AI Executive Order.</p>
+</blockquote>
+
+<p>What exactly did Biden’s AI Executive Order accomplish? As far as I know, absolutely nothing.</p>
+
+<blockquote>
+  <p>Some tech power players, including Anthropic and the OpenAI
+Foundation, have joined a consortium of foundations and private
+donors funding the Institute’s work. They get no say over what we
+publish. (And in my time at The Washington Post, I didn’t let
+<a href="https://geoffreyfowler.substack.com/p/washington-post-layoffs-bezos-tech-reporting">Jeff Bezos’ ownership</a> of the newspaper affect my
+<a href="https://www.washingtonpost.com/technology/2021/03/10/amazon-library-ebook-monopoly/">criticism</a> <a href="https://www.washingtonpost.com/technology/2023/05/01/amazon-clinic-hipaa-privacy/">of</a> <a href="https://www.washingtonpost.com/technology/2025/10/09/amazon-prime-day-prices/">Amazon</a>.)</p>
+</blockquote>
+
+<p>I’m not sure I’ve ever in my life used the phrase “Good luck with that” non-sarcastically, but in this case I mean it: good luck with that. I hope it works out, and someone has to pay the bills (and salaries). But color me skeptical about the foxes funding the henhouse inspectors.</p>
+
+<div>
+<a  title="Permanent link to ‘Geoffrey Fowler and the Launch of the Youth AI Safety Institute’"  href="https://daringfireball.net/linked/2026/05/14/fowler-youth-ai-safety-institute">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Tim Cook Is in Trump’s Executive Entourage for China Summit</title>
 	<link rel="alternate" type="text/html" href="https://www.the-independent.com/news/world/americas/us-politics/elon-musk-tim-cook-trump-china-tech-ceo-b2975568.html" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x6p" />
@@ -47,7 +108,7 @@ Apple” in the process.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/14/googlebooks" />
 	<id>tag:daringfireball.net,2026:/linked//6.43008</id>
 	<published>2026-05-14T19:02:21Z</published>
-	<updated>2026-05-14T19:55:11Z</updated>
+	<updated>2026-05-14T20:31:00Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -311,7 +372,7 @@ this early device.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/12/kagi-snaps" />
 	<id>tag:daringfireball.net,2026:/linked//6.43001</id>
 	<published>2026-05-12T21:06:21Z</published>
-	<updated>2026-05-13T15:11:38Z</updated>
+	<updated>2026-05-14T20:31:14Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -334,7 +395,7 @@ headphones”, would redirect the user to Reddit’s internal search.</p>
 
 <blockquote>
   <p>You can also use Snaps to quickly search within Kagi’s
-knowledgebase. For example, the <code>@help</code> snap searches the Kagi
+knowledge base. For example, the <code>@help</code> snap searches the Kagi
 help docs, handy for when you want to quickly look into a feature.</p>
 
 <p>User tip: “I recommend combining Snaps with the “I’m feeling
@@ -2002,26 +2063,6 @@ Fascism.” (appeal denied)</p>
 
 	]]></content>
   </entry><entry>
-	<title>‘2 Letters From Steve’</title>
-	<link rel="alternate" type="text/html" href="https://davidgelphman.wordpress.com/2013/03/29/2-letters-from-steve/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x5f" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/03/2-letters-from-steve" />
-	<id>tag:daringfireball.net,2026:/linked//6.42963</id>
-	<published>2026-05-03T23:47:11Z</published>
-	<updated>2026-05-04T14:13:09Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>I don’t want to spoil any of this story from David Gelphman, which he wrote back in 2013, but which I <s>only came across this week</s> <a href="https://daringfireball.net/linked/2013/03/29/ok">had read so long ago</a> I’d forgotten it. Go read it. But before you do, one bit of context you should keep in mind is that the original iPad was <em>unveiled</em> at a special Apple event <a href="https://www.apple.com/newsroom/2010/01/27Apple-Launches-iPad/">on 27 January 2010</a>, but it didn’t <em>ship</em> until <a href="https://daringfireball.net/2010/04/the_ipad">early April</a>. Gelphman’s story takes place in that interregnum.</p>
-
-<div>
-<a  title="Permanent link to ‘‘2 Letters From Steve’’"  href="https://daringfireball.net/linked/2026/05/03/2-letters-from-steve">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/05/crimes_against_decency_need_as_much_cover-up_as_crimes_against_the_law" />
 	<link rel="shorturl" href="http://df4.us/x5e" />
@@ -2195,4 +2236,9 @@ they’re up to now?</em>”</p>
 
 <p>Hardware brain is different from <a href="https://daringfireball.net/linked/2026/04/23/patel-software-brain">software brain</a>. Software brain says <em>Go faster; do more; the only mistake you can’t fix is having gone too slow.</em> Hardware brain says <em>Slow down; do less; focus; strive for perfection and never settle for less than excellence; mistakes are forever.</em> </p>
 
-<p>If his background in hardware means that incoming Apple CEO John Ternus has hardware brain, and will lead Apple accordingly, that suggests Apple will double down on <em>zigging</em> in the midst of a still-escalating AI hype cycle that has the r
+<p>If his background in hardware means that incoming Apple CEO John Ternus has hardware brain, and will lead Apple accordingly, that suggests Apple will double down on <em>zigging</em> in the midst of a still-escalating AI hype cycle that has the rest of the industry <em>zagging</em> ever more frenetically. That feels right to me.</p>
+
+
+
+    ]]></content>
+  <title>★ The New York Times Printed the Wrong Crossword Grid Last Sunday, and I Find That Timing Serendipitous</title></entry></feed><!-- THE END -->
