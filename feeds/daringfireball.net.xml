@@ -7,7 +7,27 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-15T19:55:04Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-15T20:19:08Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Wanton Destruction of CBS Property</title>
+	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=eBKWKu2Rqxc" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x6y" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/15/wanton-destruction-of-cbs-property" />
+	<id>tag:daringfireball.net,2026:/linked//6.43018</id>
+	<published>2026-05-15T20:12:09Z</published>
+	<updated>2026-05-15T20:12:09Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>“Good night and good luck, motherfuckers.”</p>
+
+<div>
+<a  title="Permanent link to ‘Wanton Destruction of CBS Property’"  href="https://daringfireball.net/linked/2026/05/15/wanton-destruction-of-cbs-property">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Dropover, a Mac Shelf Utility That Makes Clever Use of Mouse Shaking</title>
 	<link rel="alternate" type="text/html" href="https://dropoverapp.com/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x6x" />
@@ -159,13 +179,13 @@ trial. How good was it? Here are my favorite nuggets.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/14/neologism-poll" />
 	<id>tag:daringfireball.net,2026:/linked//6.43014</id>
 	<published>2026-05-15T00:53:54Z</published>
-	<updated>2026-05-15T00:53:54Z</updated>
+	<updated>2026-05-15T20:19:08Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>After posting <a href="https://daringfireball.net/linked/2026/05/14/vestager-ai-safety-institute">the previous item</a> referencing <em>dickpanels</em>, a term I’ve been using <a href="https://daringfireball.net/linked/2022/08/02/banish">since 2022</a>, it occurred me that they could also be called <em>dickovers</em> (like popovers, but dickheaded). The latter sounds more clever, but I worry it’s less clear. I’m seldom so indecisive, so I’m running a Mastodon poll.</p>
+<p>After posting <a href="https://daringfireball.net/linked/2026/05/14/vestager-ai-safety-institute">the previous item</a> referencing <em>dickpanels</em>, a term I’ve been using <a href="https://daringfireball.net/linked/2022/08/02/banish">since 2022</a>, it occurred to me that they could also be called <em>dickovers</em> (like popovers, but dickheaded). The latter sounds more clever, but I worry it’s less clear. I’m seldom so indecisive, so I’m running a Mastodon poll.</p>
 
 <div>
 <a  title="Permanent link to ‘Let’s Run a Neologism Poll’"  href="https://daringfireball.net/linked/2026/05/14/neologism-poll">&nbsp;★&nbsp;</a>
@@ -2016,72 +2036,6 @@ $3 billion in the A.I. company.</p>
 
 <div>
 <a  title="Permanent link to ‘Google Owns a Big Chunk of Anthropic’"  href="https://daringfireball.net/linked/2026/05/04/google-owns-a-big-chunk-of-anthropic">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>App Store Search Ads and the Slippery Slope</title>
-	<link rel="alternate" type="text/html" href="https://blog.thinktapwork.com/post/812803664980967425/ios-app-store-search-is-rotten" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x5n" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/04/ios-app-store-slippery-slope" />
-	<id>tag:daringfireball.net,2026:/linked//6.42971</id>
-	<published>2026-05-04T21:09:21Z</published>
-	<updated>2026-05-04T21:09:42Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jeremy Provost, on the blog for Think Tap Work, his mobile app development company:</p>
-
-<blockquote>
-  <p>iOS App Store search is no longer about relevance. It’s about ad
-inventory. With Apple’s introduction of a second search ad, for
-any query where we weren’t #1, we’ve effectively moved down one
-position. [...] If you’re counting at home, roughly 70% of the
-interface is covered in ads. A casino ad, to boot.</p>
-</blockquote>
-
-<p>That was a month ago. Two weeks later, <a href="https://blog.thinktapwork.com/post/813892238778286080/ios-app-store-search-is-rotten-follow-up">he posted a follow-up</a>, showing the effect on Think Tap Work’s apps in the App Store:</p>
-
-<blockquote>
-  <p>I wanted to share some updated numbers from our own apps. To
-isolate the impact, these numbers only include App Store Search
-<em>impressions</em> from <em>iOS devices</em>, comparing Mar 26–Apr 8 to the
-prior two weeks. In other words: how much visibility we’ve lost
-in search.</p>
-
-<ul>
-<li><a href="https://apps.apple.com/app/id1494942612">Morpho Converter</a>: 26% decrease</li>
-<li><a href="https://apps.apple.com/us/app/pop-out-timer-stopwatch-clock/id1352722326">Pop Out Timer</a>: 23% decrease</li>
-<li><a href="https://apps.apple.com/app/id1511771853">Attendant for Zoom</a>: 30% decrease</li>
-<li><a href="https://apps.apple.com/app/id1532789823">Participant</a>: 3% increase. As previously mentioned, we advertise
-Participant using Search Ads. It’s not surprising that it might
-be getting a bump from this change.</li>
-</ul>
-</blockquote>
-
-<p>The screenshot in his follow-up shows <em>another</em> casino ad, this time in a search for “Roblox”. Kinda gross.</p>
-
-<p>Here’s Wikipedia on the “<a href="https://en.wikipedia.org/wiki/Zero-one-infinity_rule">Zero-One-Infinity Rule</a>”:</p>
-
-<blockquote>
-  <p>The zero-one-infinity (ZOI) rule is a rule of thumb in software
-design proposed by early computing pioneer <a href="https://en.wikipedia.org/wiki/Willem_van_der_Poel">Willem van der Poel</a>.
-It argues that arbitrary limits on the number of instances of a
-particular type of data or structure should not be allowed.
-Instead, an entity should either be forbidden entirely, only one
-should be allowed, or any number of them should be allowed.</p>
-</blockquote>
-
-<p>In Apple Notes, you can only have one main window open. In Apple Mail, however, you can open as many Viewer Windows as you want. Both are compliant with the Zero-One-Infinity rule. An app that allowed you to open multiple viewer windows — but no more than some arbitrary limit — would not be. ZOI is a very good rule of thumb.</p>
-
-<p>I feel like a variation of Zero-One-Infinity is a good rule of thumb for ads, too. From the perspective of users — and probably developers — zero was the best number of ads for Apple to show in App Store search results. One was worse but acceptable. But now that they’re showing more than one, they’re on their way to infinity. They’ve started down the slippery slope. Remember when Google only showed one ad in search results?</p>
-
-<p>Anyway, who’s looking forward to <a href="https://daringfireball.net/linked/2026/03/27/apple-announces-ads-are-coming-to-apple-maps">ads in Apple Maps this summer</a>?</p>
-
-<div>
-<a  title="Permanent link to ‘App Store Search Ads and the Slippery Slope’"  href="https://daringfireball.net/linked/2026/05/04/ios-app-store-slippery-slope">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
