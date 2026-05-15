@@ -7,7 +7,78 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-15T01:08:52Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-15T18:37:41Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Aluminium OS: Google’s ‘Android for PC’ OS for Googlebooks</title>
+	<link rel="alternate" type="text/html" href="https://aluminium-os.com/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x6w" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/15/aluminiumos" />
+	<id>tag:daringfireball.net,2026:/linked//6.43016</id>
+	<published>2026-05-15T18:37:13Z</published>
+	<updated>2026-05-15T18:37:41Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>The high level pitch from Google’s official Aluminium OS website (note the British spelling):</p>
+
+<blockquote>
+  <p>Aluminium OS — internally codenamed ALOS — is Google’s entirely
+new Android-based operating system built specifically for laptops
+and desktop computers.</p>
+</blockquote>
+
+<p>I like the name and wish they’d stick with it. But <a href="https://www.theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjNVSjlWdlZESmgiLCJwIjoiL3RlY2gvOTI4NDc5L2dvb2dsZS1nb29nbGVib29rLWxhcHRvcHMtYW5kcm9pZC10ZWFzZS1hbHVtaW5pdW0tY2hyb21lYm9vayIsImV4cCI6MTc3OTIxNjg2NiwiaWF0IjoxNzc4Nzg0ODY2fQ.a74WT34THV0Ih1pGO7NH4daq39ytQXdhO4EAgE6HCeI">The Verge reported this week</a> — re: Google’s Googlebook teaser announcement — that Peter Du of Google’s global communications team told them “We’ll have more to share on the exact OS branding later this year. We can confirm it is not Aluminium — that is the codename, not the official branding.” Maybe they’re going to call it “Google OS” given that they’re calling the devices Googlebooks?</p>
+
+<blockquote>
+  <p>This is not ChromeOS with a Play Store tab. It is not an Android
+phone app scaling itself to a 15-inch display. Aluminium OS is
+built from the ground up on Android 17, with a completely custom
+window manager, a real taskbar, virtual desktops, and Gemini AI
+baked into every layer of the operating system.</p>
+
+<p>For over a decade, Google ran two separate systems in parallel — ChromeOS for laptops, Android for phones — and it showed. Apps
+behaved differently across devices, engineering teams were split
+across two codebases, and Google fell visibly behind Apple’s
+unified iPhone-iPad-Mac ecosystem. Aluminium OS is the decisive
+answer to all of that.</p>
+
+<p>The name itself is deliberate. ChromeOS came from Chromium — a
+metallic element ending in “-ium.” Aluminium follows the same
+pattern, but the British spelling highlights the prefix <em>Al</em>,
+standing for <em>Android-Linux</em>: an honest acknowledgment of what this
+platform is built on.</p>
+</blockquote>
+
+<p>I find this description so refreshing, and so un-Google-like. It’s human and humble. I love the flat-out acknowledgement that the Apple’s iPhone-iPad-Mac <a href="https://www.apple.com/macos/continuity/">Continuity</a> work has kicked Google’s ass. (It would be fascinating to see Apple acknowledge a similar degree of getting-its-ass kicked, naming exactly which platforms were kicking its ass, with regard to Siri. I will not hold my breath.)</p>
+
+<p>I’ve been vaguely aware <a href="https://www.androidauthority.com/google-combine-chrome-os-android-3577035/">since last year</a> that Google had announced plans to “combine” ChromeOS and Android. There’s two ways to do that: (a) run Android apps in ChromeOS and do away with Android, as an OS, for device classes other than phones; or (b) do away with ChromeOS and build out Android for tablet and PC form factors. Option (a) never made any sense to me. All OSes have built-in browsers and web rendering engines. A web rendering engine does not make for a good foundation for an OS. I never thought ChromeOS sounded like a good idea, and when I’ve tinkered with Chromebooks, the experience was even worse than I expected. Another dose of welcome humility on this Aluminium mini site is the acknowledgement that ChromeOS is a market failure outside K-12:</p>
+
+<blockquote>
+  <p>ChromeOS captured K-12 education but never broke into mainstream
+consumer or enterprise markets at scale. Aluminium OS is built for
+all segments.</p>
+</blockquote>
+
+<p>Reading the rest of this site, I am much more intrigued by Aluminium OS than I expected to be:</p>
+
+<blockquote>
+  <p><strong>On-Device Code Assistance</strong> <br />
+Write, debug, explain, and refactor code directly in the terminal — no separate paid extension, no cloud subscription for basics.</p>
+
+<p><strong>Natural Language Automation</strong> <br />
+Describe any repetitive task in plain English and Gemini automates
+it permanently as a saved one-command workflow.</p>
+</blockquote>
+
+<p>They’re saying Aluminium OS is meant to serve as a developer workstation. We shall see how that pans out, but that’s a level of ambition that ChromeOS never even aspired to, let alone reached.</p>
+
+<div>
+<a  title="Permanent link to ‘Aluminium OS: Google’s ‘Android for PC’ OS for Googlebooks’"  href="https://daringfireball.net/linked/2026/05/15/aluminiumos">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘Musk v. Altman’ Closing Arguments</title>
 	<link rel="alternate" type="text/html" href="https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImhxZzBnTXFpSk8iLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzkzMTAwNi9tdXNrLXYtYWx0bWFuLWNsb3NpbmctYXJndW1lbnRzLWFuYWx5c2lzIiwiZXhwIjoxNzc5MjM2OTUwLCJpYXQiOjE3Nzg4MDQ5NTB9.TXQtcV9vkuuKyqcrMaKtSqqoL9_wGWeSYgUyO6ZzK-Y" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x6v" />
@@ -2028,55 +2099,6 @@ nobody had officially asked for and everybody apparently wanted.</p>
 
 <div>
 <a  title="Permanent link to ‘‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’’"  href="https://daringfireball.net/linked/2026/05/04/noir-japanese-cookies">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern)</title>
-	<link rel="alternate" type="text/html" href="https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x5l" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/04/photoshop-modern-user-interface" />
-	<id>tag:daringfireball.net,2026:/linked//6.42969</id>
-	<published>2026-05-04T19:13:06Z</published>
-	<updated>2026-05-05T21:02:17Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Marcin Wichary at Unsung:</p>
-
-<blockquote>
-  <p>I’m angry. (Clearly.) We should all be angry in face of stuff like
-this. This is how people get fed up with software — because it
-feels unstable and deteriorates on its own <a href="https://unsung.aresluna.org/i-trust-in-textedit/">without needing
-to</a>.</p>
-
-<p>I know I <a href="https://unsung.aresluna.org/decentralization-does-not-always-equal-delight/">brought up</a> that an existing power user base can be
-a huge pain in the ass, and I am a decades-old Photoshop power
-user. But this is different than other examples where the product
-needs or at least wants to evolve past its core audience or toward
-a different market. For Photoshop here, nothing I see indicates
-any change in course or clientele — and yet all of these good
-moments in UI that used to help me out no longer exist.</p>
-
-<p>Plus, all those transgressions are solved problems. Those issues
-are not buried in pages of heavily litigated patents, or in seven
-collective brains of world-class interface designers whose
-driveways are presently occupied by cash-filled trucks sent over
-by frontier companies. This isn’t some long lost art that requires
-archaeologists to decipher. This feels like carelessness and
-laziness in face of basic UI engineering; in a likely
-internally-motivated effort to refresh the interface, the team
-threw an entire nursery worth of babies with the bathwater.</p>
-</blockquote>
-
-<p>The before-and-after screenshots look like examples from a lecture on user interface design — if you swap them around make the new ones “before” and the old ones “after”. Better balance, better focus behavior, appropriate platform-native typography.</p>
-
-<p>(Shades of <a href="https://daringfireball.net/2026/01/thoughts_and_observations_regarding_apple_creator_studio">Héliographe’s devastating critique</a> of the history of the app icon for Pages: “If you put the Apple icons in reverse it looks like the portfolio of someone getting really really good at icon design.”)</p>
-
-<div>
-<a  title="Permanent link to ‘Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern)’"  href="https://daringfireball.net/linked/2026/05/04/photoshop-modern-user-interface">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
