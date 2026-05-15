@@ -7,7 +7,42 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-15T18:37:41Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-15T19:24:11Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Dropover, a Mac Shelf Utility That Makes Clever Use of Mouse Shaking</title>
+	<link rel="alternate" type="text/html" href="https://dropoverapp.com/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x6x" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/15/dropover" />
+	<id>tag:daringfireball.net,2026:/linked//6.43017</id>
+	<published>2026-05-15T19:24:10Z</published>
+	<updated>2026-05-15T19:24:11Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Yesterday, regarding the “Magic Cursor” feature Google teased for its upcoming Googlebook/Aluminium OS platform, <a href="https://daringfireball.net/linked/2026/05/14/googlebooks">I wrote</a>:</p>
+
+<blockquote>
+  <p>Shaking your cursor over something is an interesting gesture. The
+only feature I’m aware of that uses that gesture is MacOS’s
+feature that makes your cursor bigger when you shake it, to help
+spot it on the display.</p>
+</blockquote>
+
+<p>Then, last evening, I selected a few files on my desktop, started dragging them, and shook my mouse cursor to conjure a drop shelf from <a href="https://dropoverapp.com/">Dropover</a>, a Mac utility by developer Damir Tursunović that I’ve been using for about two years. As soon I shook my mouse, I smiled and thought, “Well, I should mention that.” So here I am, mentioning the gesture and Dropover.</p>
+
+<p>Years ago <a href="https://daringfireball.net/linked/2017/05/26/yoink">I recommended Yoink</a>, which is very much a direct competitor to Dropover. The basic idea with both apps is that sometimes you want a temporary “shelf” on which to drop items — a way station between where you’re dragging the items from and where you want to drop them. <a href="https://eternalstorms.at/yoink/mac/">Yoink</a> has options to appear only when you drag to the left edge of the screen, or to appear as soon as you start dragging anything. I have always used Yoink with it configured to show its shelf at the edge of the screen, because I only want it to appear when I need it. Appearing on every single drag is, to me, distracting. But sometimes the left edge of the display feels far away.</p>
+
+<p>Dropover has two options for appearing only when you want it, right where your cursor currently is. The first is the aforementioned mid-drag shake gesture. The other is an option to appear, while dragging, only when holding down a modifier key. The default key is Shift, which is what I use, but you can choose between Shift, Command, and Control. When I first started using Dropover, I leaned more on pressing Shift to invoke it. As time has gone on, more and more I use the shake gesture without thinking about it. Like yesterday. It feels like you’re saying “<em>Give me a shelf right here</em>” when you shake mid-drag. It’s clever <em>and</em> convenient, and, unlike using a modifier key, doesn’t require you to involve your other hand. (Dropover also lets you optionally use your MacBook’s notch as a drop target, and both apps let you drop items on their menu bar icons.)</p>
+
+<p><a href="https://dropoverapp.com/">Dropover</a> is a free download <a href="https://apps.apple.com/us/app/dropover-easier-drag-drop/id1355679052?mt=12">from the Mac App Store</a> and unlocking all features costs just $7 (one-time purchase). <a href="https://eternalstorms.at/yoink/mac/">Yoink</a> costs $9, either from the web <a href="https://apps.apple.com/us/app/yoink-better-drag-and-drop/id457622435?mt=12">or the Mac App Store</a>. Both are terrific apps and are worth checking out. And if you’re not already using a utility of this sort, you probably should be.</p>
+
+<div>
+<a  title="Permanent link to ‘Dropover, a Mac Shelf Utility That Makes Clever Use of Mouse Shaking’"  href="https://daringfireball.net/linked/2026/05/15/dropover">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Aluminium OS: Google’s ‘Android for PC’ OS for Googlebooks</title>
 	<link rel="alternate" type="text/html" href="https://aluminium-os.com/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x6w" />
@@ -392,7 +427,7 @@ Apple” in the process.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/14/googlebooks" />
 	<id>tag:daringfireball.net,2026:/linked//6.43008</id>
 	<published>2026-05-14T19:02:21Z</published>
-	<updated>2026-05-14T20:31:00Z</updated>
+	<updated>2026-05-15T19:18:39Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -432,7 +467,7 @@ meeting by pointing at a date in an email or selecting images of
 furniture and a living space to visualize them together.</p>
 </blockquote>
 
-<p>Shaking your cursor over something is an interesting gesture. The only feature I’m aware of that uses that gesture is MacOS’s feature that makes your cursor bigger when you shake it, to help spot on the display. It seems a bit silly to me — why not just add the “Magic” features to a contextual menu? But, then again, here we are in 2026 and the standard gesture to invoke the Undo command on iOS is to shake your whole iPhone like a maraca.</p>
+<p>Shaking your cursor over something is an interesting gesture. The only feature I’m aware of that uses that gesture is MacOS’s feature that makes your cursor bigger when you shake it, to help spot it on the display. It seems a bit silly to me — why not just add the “Magic” features to a contextual menu? But, then again, here we are in 2026 and the standard gesture to invoke the Undo command on iOS is to shake your whole iPhone like a maraca.</p>
 
 <div>
 <a  title="Permanent link to ‘Google Announces Its Chromebook Successor: The Googlebook’"  href="https://daringfireball.net/linked/2026/05/14/googlebooks">&nbsp;★&nbsp;</a>
@@ -2053,52 +2088,6 @@ should be allowed, or any number of them should be allowed.</p>
 
 <div>
 <a  title="Permanent link to ‘App Store Search Ads and the Slippery Slope’"  href="https://daringfireball.net/linked/2026/05/04/ios-app-store-slippery-slope">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’</title>
-	<link rel="alternate" type="text/html" href="https://tokyopaladin.substack.com/p/the-japanese-oreo-noir-kills-the" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x5m" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/04/noir-japanese-cookies" />
-	<id>tag:daringfireball.net,2026:/linked//6.42970</id>
-	<published>2026-05-04T19:48:48Z</published>
-	<updated>2026-05-04T19:48:49Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jake Adelstein (author of <em>Tokyo Vice</em>) on his blog Tokyo Paladin:</p>
-
-<blockquote>
-  <p>For decades, Japan’s Oreos weren’t made by Nabisco at all. They
-were produced domestically by Yamazaki Biscuits, under a licensing
-arrangement with what eventually became Mondelez International.
-This was, by most accounts, a reasonable arrangement. The cookies
-were local. The quality was consistent. Nobody was complaining.</p>
-
-<p>Then Mondelez did what corporations do when things are working
-fine. The license expired, and Mondelez moved production of the
-Oreos it sells in Japan to China, exporting them to Japanese
-wholesalers and retailers. A cost decision. A spreadsheet
-decision. The kind of decision made in a room with no windows and
-a very good projector.</p>
-
-<p>Sensitive Japanese consumers noticed quickly — the taste had
-changed. Into that opening stepped the Noir, inheriting the flavor
-the old Oreo had left behind.</p>
-
-<p>Yamazaki Biscuits launched Noir in December 2017 as the successor
-nobody had officially asked for and everybody apparently wanted.</p>
-</blockquote>
-
-<p>I have a great affinity for <a href="https://newmansown.com/product/original-newman-os/">Newman-O’s</a>, which I’ve <a href="https://daringfireball.net/linked/2017/08/21/android-oreo">previously described</a> as “the cookies Oreos pretend to be”. Turns out though I’ve mostly sung the praises of Newman-O’s <a href="https://podsearch.david-smith.org/episodes/4994#segment647">on my podcast</a> and <a href="https://x.com/search?q=newman-o%20(from%3Agruber)&amp;src=typed_query">social media</a>, not here on Daring Fireball. I love Newman-O’s, never tire of them, and will fight any man who argues that Oreos taste better. In fact, late last night, when a friend texted me with a link to this story from Adelstein, I was by sheer happenstance eating a few Newman-O’s. True story.</p>
-
-<p>But now I’m fascinated by the existence of these Japanese rivals. A <em>spite</em> Oreo called Noir. They look and sound delicious, but they seem difficult to obtain in the U.S.</p>
-
-<div>
-<a  title="Permanent link to ‘‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’’"  href="https://daringfireball.net/linked/2026/05/04/noir-japanese-cookies">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
