@@ -7,7 +7,50 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-16T01:42:39Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-16T19:27:35Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>ArXiv to Ban Researchers for a Year if They Submit AI Slop</title>
+	<link rel="alternate" type="text/html" href="https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x71" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/16/arxiv-anti-slop-rule" />
+	<id>tag:daringfireball.net,2026:/linked//6.43021</id>
+	<published>2026-05-16T19:27:34Z</published>
+	<updated>2026-05-16T19:27:35Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Samantha Cole, writing for 404 Media:</p>
+
+<blockquote>
+  <p>Late Thursday evening, Thomas Dietterich, chair of the computer
+science section of ArXiv, <a href="https://x.com/tdietterich/status/2055000956144935055?s=20&amp;ref=404media.co">wrote on X</a>: “If generative AI
+tools generate inappropriate language, plagiarized content,
+biased content, errors, mistakes, incorrect references, or
+misleading content, and that output is included in scientific
+works, it is the responsibility of the author(s). We have
+recently clarified our penalties for this. If a submission
+contains incontrovertible evidence that the authors did not check
+the results of LLM generation, this means we can’t trust anything
+in the paper.” [...]</p>
+
+<p>“The penalty is a 1-year ban from arXiv followed by the
+requirement that subsequent arXiv submissions must first be
+accepted at a reputable peer-reviewed venue,” Dietterich wrote.
+Dietterich told me in an email on Friday morning that this is a
+one-strike rule — meaning authors caught just once including AI
+slop in submissions will be banned — but that decisions will be
+open to appeal.</p>
+</blockquote>
+
+<p>I see no cognitive dissonance in being pro-AI, in general, but vehemently anti-slop.</p>
+
+<div>
+<a  title="Permanent link to ‘ArXiv to Ban Researchers for a Year if They Submit AI Slop’"  href="https://daringfireball.net/linked/2026/05/16/arxiv-anti-slop-rule">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>The Talk Show: ‘A Sociopathic Father’</title>
 	<link rel="alternate" type="text/html" href="https://daringfireball.net/thetalkshow/2026/05/15/ep-447" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x6z" />
@@ -1934,54 +1977,6 @@ best available on the App Store.</p>
 
 <div>
 <a  title="Permanent link to ‘Chess Peace’"  href="https://daringfireball.net/linked/2026/05/04/chess-peace">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Adobe’s ‘Modern’ User Interface Is Just Webpages</title>
-	<link rel="alternate" type="text/html" href="https://pxlnv.com/linklog/adobe-modern-user-interface/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x5s" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/04/adobe-modern-webpages" />
-	<id>tag:daringfireball.net,2026:/linked//6.42976</id>
-	<published>2026-05-05T02:17:00Z</published>
-	<updated>2026-05-05T22:43:06Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Nick Heer:</p>
-
-<blockquote>
-  <p>If you do a little poking around in Adobe’s application bundles, a
-key reason for the jankiness of these user interfaces becomes
-apparent: it is because they are little webpages. These dialog
-boxes are HTML files that reference a chunky CSS file and oodles
-of JavaScript, and appear to be built with React. [...]</p>
-
-<p>I was going to write about how this stuff should have been tried
-with people who actually use Adobe’s apps in a high-pressure
-environment, but I am sure it was and, also, it does not matter.
-Wichary has it right. These are fundamental principles of user
-interface design that Adobe is ignoring because its internal
-tooling has taken precedence.</p>
-</blockquote>
-
-<p>I will quibble only with this line from Heer’s post:</p>
-
-<blockquote>
-  <p>Also, Adobe’s interface has always been unique and not quite at
-home on either MacOS or Windows.</p>
-</blockquote>
-
-<p>You have to go back to the 1990s and classic Mac OS, but Adobe’s best apps used to have exemplary native UIs. Apps like Photoshop helped push the state of the art in Mac UI forward. Tabbed palettes were a revelation. Fire up, say, <a href="https://infinitemac.org/1997/Mac%20OS%207.6">Photoshop 3.0 on MacOS 7.6</a>  and see what I mean.</p>
-
-<p>Also worth noting is how much this new “modern” UI isn’t just subjectively ugly, it’s objectively <a href="https://pdx.social/@louie/116496889426680429">breaking the habits</a> and expectations of users with <a href="https://sixcolors.com/link/2026/04/adobe-out-of-photoshop/">literally decades of experience</a> with Photoshop — users who, like me, remember when Adobe’s UI wasn’t just merely tolerable but actually good. It’s insane when you think about it.</p>
-
-<p>How did Adobe lose that good sense of yore? <a href="https://www.goodreads.com/quotes/102579-how-did-you-go-bankrupt-two-ways-gradually-then-suddenly">Two ways</a>. Gradually, then suddenly.</p>
-
-<div>
-<a  title="Permanent link to ‘Adobe’s ‘Modern’ User Interface Is Just Webpages’"  href="https://daringfireball.net/linked/2026/05/04/adobe-modern-webpages">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
