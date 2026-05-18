@@ -7,7 +7,79 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-17T17:59:15Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-18T15:11:07Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>AI Data Centers Are Deeply Unpopular, Across the Political Spectrum</title>
+	<link rel="alternate" type="text/html" href="https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x76" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/18/ai-data-centers-are-deeply-unpopular" />
+	<id>tag:daringfireball.net,2026:/linked//6.43026</id>
+	<published>2026-05-18T14:59:59Z</published>
+	<updated>2026-05-18T15:11:07Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jeffrey M. Jones, Gallup:</p>
+
+<blockquote>
+  <p>Seven in 10 Americans oppose constructing data centers for
+artificial intelligence in their local area, including nearly
+half, 48%, who are strongly opposed. Barely a quarter favor these
+projects, with 7% strongly in favor. [...]</p>
+
+<p>The data center question parallels the wording Gallup uses to ask
+about <a href="https://news.gallup.com/poll/708620/less-support-solar-wind-energy-nuclear.aspx">local nuclear power plant construction</a>. In the same
+March survey, 53% of Americans say they oppose building a nuclear
+energy plant in their area, far less than the 71% opposed to data
+center construction. Since Gallup first asked the nuclear power
+plant question in 2001, the high point in opposition has been 63%.</p>
+</blockquote>
+
+<p>It’s hard to overstate how unpopular this polling paints AI data centers. It’s just an absolute messaging and marketing disaster for the entire tech industry. Tellingly, the anti-AI-data-center sentiment is bipartisan:</p>
+
+<p><a href="https://daringfireball.net/misc/2026/05/gallup-data-center-poll-by-party.png" class="noborder">
+  <img
+    src = "https://daringfireball.net/misc/2026/05/gallup-data-center-poll-by-party.png"
+    alt = "Screenshot of Gallup AI polling for Democrats, Independents, and Republicans."
+    width = 631
+  /></a></p>
+
+<p>There are partisan differences, but only in slight degree. A savvy politician or party can grasp on this issue and carve out a broadly bipartisan anti-data-center, anti-AI message. US politics is so polarized in today’s era that the salience of this issue will not go unnoticed. The only thing the hyperscalars have on their side is money, but that fact is a significant factor in the general resentment toward the entire industry.</p>
+
+<p>To that point, Ben Thompson suggests (in today’s subscriber-only Stratechery column) <a href="https://stratechery.com/2026/data-center-discontent-understanding-the-opposition-fixing-the-problem/">that the industry simply pay residents</a>:</p>
+
+<blockquote>
+  <p>Instead, the most obvious solution is the most crass: simply start
+giving people money. If data centers are a resource for our AI
+future, then start paying people for that resource. If that data
+center up the road weren’t sold to my neighbors based on amorphous
+tax benefits that my local government may or may not spend
+appropriately, but rather were to result in a check in the mailbox
+every year, I suspect you could get a lot more people on board!</p>
+
+<p>Just to put some numbers on this, the data center up the road was
+expected to be 1.6 GW, which could generate around $3 billion in
+annual operator revenue. DeForest, the village it was to be built
+in, has around 11,500 people. You could pay every person in
+DeForest $10,000 a year for 3.8% of annual revenue grossed by the
+data center — I bet that proposal would have been approved, and I
+bet that the operator could very easily pass those costs on to the
+actual data center users (it also highlights how relatively
+pathetic QTS’s <a href="https://q.com/news/qts-advances-plans-for-state-of-the-art-data-center-campus-and-announces-50-million-community-commitment-for-dane-county/">$50 million commitment</a> was).</p>
+
+<p>I do get how ridiculous this sounds, but ridiculous is how we do
+things in America.</p>
+</blockquote>
+
+<p>After mulling the idea for a bit this morning, I’d say it’s unusual, but not ridiculous. Money talks.</p>
+
+<div>
+<a  title="Permanent link to ‘AI Data Centers Are Deeply Unpopular, Across the Political Spectrum’"  href="https://daringfireball.net/linked/2026/05/18/ai-data-centers-are-deeply-unpopular">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Drata</title>
 	<link rel="alternate" type="text/html" href="https://drata.com/daring" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x75" />
@@ -1896,58 +1968,6 @@ to 10 weeks.</p>
 
 <div>
 <a  title="Permanent link to ‘Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens’"  href="https://daringfireball.net/linked/2026/05/05/apple-cuts-mac-studio-and-mac-mini-options">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple Settles Class Action Lawsuit Over AI Features That Were Advertised but Didn’t Ship for $250 Million</title>
-	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/05/05/apple-reaches-250m-settlement-over-siri-delays-users-could-get-up-to-95-per-device/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x5x" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/05/apple-intelligence-lawsuit-settlement" />
-	<id>tag:daringfireball.net,2026:/linked//6.42981</id>
-	<published>2026-05-06T00:29:22Z</published>
-	<updated>2026-05-06T00:32:56Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Chance Miller, 9to5Mac:</p>
-
-<blockquote>
-  <p>Last March, Apple was <a href="https://9to5mac.com/2025/03/20/apple-intelligence-lawsuit-advertising/">hit with a class action lawsuit</a>
-after <a href="https://9to5mac.com/2025/03/07/apple-intelligence-personal-siri-delayed/">delaying</a> the launch of the “more personalized Siri”
-that was first announced at WWDC 2024. Apple agreed to settle the
-case in December, and the full settlement terms are now available.
-Apple is set to pay $250 million to settle the lawsuit, equating
-to an estimated $25 per device. That number could reach up to $95
-per device, depending on how many users submit claims. [...]</p>
-
-<p>As part of the settlement, Apple is not admitting any wrongdoing.
-The company continues to assert that “it acted in good faith and
-in a manner reasonably believed to be in accordance with all
-applicable rules, regulations, and laws.” In a statement to
-9to5Mac, an Apple spokesperson said:</p>
-
-<blockquote>
-  <p>Since the launch of Apple Intelligence, we have introduced dozens
-of features across many languages that are integrated across
-Apple’s platforms, relevant to what users do every day, and built
-with privacy protections at every step. These include Visual
-Intelligence, Live Translation, Writing Tools, Genmoji, Clean Up
-and many more.</p>
-
-<p>Apple has reached a settlement to resolve claims related to the
-availability of two additional features. We resolved this matter
-to stay focused on doing what we do best, delivering the most
-innovative products and services to our users.</p>
-</blockquote>
-</blockquote>
-
-<p>A $25/device settlement sounds about right. Apple ran ads showing features that <em>still</em> haven’t shipped. That they honestly intended to somehow ship those features, as promised, doesn’t mean the ads didn’t wind up being false.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Settles Class Action Lawsuit Over AI Features That Were Advertised but Didn’t Ship for $250 Million’"  href="https://daringfireball.net/linked/2026/05/05/apple-intelligence-lawsuit-settlement">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
