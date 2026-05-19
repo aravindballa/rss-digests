@@ -7,7 +7,37 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-19T01:27:16Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-19T15:45:17Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Andrej Karpathy Joined Anthropic</title>
+	<link rel="alternate" type="text/html" href="https://x.com/karpathy/status/2056753169888334312" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x7f" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/19/karpathy-anthropic" />
+	<id>tag:daringfireball.net,2026:/linked//6.43035</id>
+	<published>2026-05-19T15:42:38Z</published>
+	<updated>2026-05-19T15:45:17Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Andrej Karpathy, on Twitter/X (<a href="https://xcancel.com/karpathy/status/2056753169888334312">XCancel link</a>):</p>
+
+<blockquote>
+  <p>Personal update: I’ve joined Anthropic. I think the next few
+years at the frontier of LLMs will be especially formative. I am
+very excited to join the team here and get back to R&amp;D. I remain
+deeply passionate about education and plan to resume my work on
+it in time.</p>
+</blockquote>
+
+<p><a href="https://karpathy.ai/">Karpathy</a> is, to say the least, a star in the AI research field. He co-founded OpenAI in 2015, was director of AI at Tesla (reporting directly to Elon Musk) from 2017–2022, went back to OpenAI in 2023, and then left again in 2024 to start an AI education company named <a href="https://eurekalabs.ai/">Eureka Labs</a>. He <a href="https://x.com/karpathy/status/1886192184808149383">coined the term “vibe coding”</a> in February last year.</p>
+
+<div>
+<a  title="Permanent link to ‘Andrej Karpathy Joined Anthropic’"  href="https://daringfireball.net/linked/2026/05/19/karpathy-anthropic">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://workos.com/docs/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026" />
 	<link rel="shorturl" href="http://df4.us/x7e" />
@@ -1931,30 +1961,6 @@ from the M2 to upcoming M5), it’s now looking to go further.</p>
 
 <div>
 <a  title="Permanent link to ‘Tahoe’s UI Issues Have Nothing to Do With Display Technology, and Maybe, Just Maybe, We Should Stop Assuming Gurman Knows Anything About Apple’s Vision Hardware Roadmap’"  href="https://daringfireball.net/linked/2026/05/11/gurman-on-macos-27-ui-and-vision-roadmap">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>WorkOS</title>
-	<link rel="alternate" type="text/html" href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x65" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/10/workos" />
-	<id>tag:daringfireball.net,2026:/linked//6.42989</id>
-	<published>2026-05-10T14:05:00Z</published>
-	<updated>2026-05-10T14:05:18Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>My thanks for WorkOS for, once again, sponsoring Daring Fireball for the last week. If you’re ready to sell to enterprise customers, your product may be ready — but is your auth infrastructure?</p>
-
-<p>If you’re building B2B SaaS, especially AI, you quickly need enterprise features like SSO, SCIM, and audit logs. Your developers shouldn’t waste cycles rebuilding that infrastructure. Free them to focus on what sets you apart. WorkOS gives you production-ready APIs for auth and access control that integrate directly into your product. Trusted by over 2,000 companies, including OpenAI, Anthropic, Cursor, and Vercel.</p>
-
-<p><a href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026">Build faster with WorkOS</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘WorkOS’"  href="https://daringfireball.net/linked/2026/05/10/workos">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
