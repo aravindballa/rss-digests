@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-19T00:09:57Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-19T00:27:19Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>Jury Rejects Elon Musk’s Claim Against Sam Altman in Unanimous Verdict</title>
 	<link rel="alternate" type="text/html" href="https://www.nytimes.com/live/2026/05/18/technology/openai-trial-verdict-altman-musk?unlocked_article_code=1.jVA.Cc2V.IwYuu2r4SJfQ" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x7d" />
@@ -290,7 +290,7 @@ and increased conditionality.”</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/18/ai-data-centers-are-deeply-unpopular" />
 	<id>tag:daringfireball.net,2026:/linked//6.43026</id>
 	<published>2026-05-18T14:59:59Z</published>
-	<updated>2026-05-18T19:52:50Z</updated>
+	<updated>2026-05-19T00:27:19Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -321,7 +321,7 @@ plant question in 2001, the high point in opposition has been 63%.</p>
     width = 631
   /></a></p>
 
-<p>There are partisan differences, but only in slight degree. A savvy politician or party could grab this issue and carve out a broadly bipartisan anti-data-center, anti-AI message. US politics is so polarized in today’s era that the salience of this issue will not go unnoticed. The only thing the hyperscalars have on their side is money, but that fact is a significant factor in the general resentment toward the entire industry.</p>
+<p>There are partisan differences, but only in slight degree. A savvy politician or party could grab this issue and carve out a broadly bipartisan anti-data-center, anti-AI message. US politics is so polarized in today’s era that the salience of this issue will not go unnoticed. The only thing the hyperscalers have on their side is money, but that fact is a significant factor in the general resentment toward the entire industry.</p>
 
 <p>To that point, Ben Thompson suggests (in today’s subscriber-only Stratechery column) <a href="https://stratechery.com/2026/data-center-discontent-understanding-the-opposition-fixing-the-problem/">that the industry simply pay residents</a>:</p>
 
@@ -482,6 +482,7 @@ rely on our services.”</p>
 	</author>
 	<summary type="text">It’s not even a feature. It’s just technology.</summary>
 	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+
 <p>Steven Levy, writing for Wired last month after Apple’s CEO transition was announced, under the provocative headline “<a href="https://www.wired.com/story/apples-next-ceo-needs-to-launch-a-killer-ai-product/">Apple’s Next CEO Needs to Launch a Killer AI Product</a>” (<a href="https://apple.news/AdCC7y43rTQq6SZH2bDmqxA">News+ link</a> to get around Wired’s miserly paywall):</p>
 
 <blockquote>
@@ -534,6 +535,8 @@ agent do that.”</p>
 </li>
 </ol>
 </div>
+
+
 
 
     ]]></content>
@@ -1337,6 +1340,7 @@ this early device.</p>
 	</author>
 	<summary type="text">Nextpad++ feels like a fever dream. Like what Mac apps would be if the Nazis had won WWII.</summary>
 	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+
 <p>Windows Notepad is, more or less, the Windows peer to MacOS’s TextEdit — the built-in system text editor. For years, it was really basic — so much more basic than TextEdit that it engendered no affection. You don’t see paeans to Notepad <a href="https://daringfireball.net/linked/2026/01/26/chayka-textedit">in The New Yorker</a>. Recently though, Microsoft has started beefing it up, culminating last year <a href="https://daringfireball.net/linked/2025/06/06/markdown-support-in-windows-notepad">when they added fucking Markdown support</a>. Which still blows my mind.</p>
 
 <p><a href="https://notepad-plus-plus.org/">Notepad++</a> is a longstanding open source (GPL) Windows text editor <a href="https://notepad-plus-plus.org/author/">by Don Ho</a>, which <a href="https://notepad-plus-plus.org/">debuted back in 2003</a>. Just adding “++” to the name might be misleading. The name implies that it’s like Microsoft’s Notepad <a href="https://www.waltdisney.org/blog/walts-own-words-plussing-disneyland">plus</a> a little more. But Notepad++ is in fact a wholly independent programming text editor, with a rich plugin library. It doesn’t resemble Microsoft’s Notepad much at all anymore. It’s over two decades old but remains quite popular. To some extent Notepad++ is sorta kinda the Windows peer to <a href="https://www.barebones.com/products/bbedit/">BBEdit</a>.</p>
@@ -1348,6 +1352,8 @@ this early device.</p>
 <p>Letov’s website describes Nextpad++ as “A real Mac app, not a Wine wrapper: Objective-C++ on top of Scintilla and Cocoa, shipped as a Universal Binary for Apple Silicon (M1–M5) and Intel Macs.” Ostensibly that’s a good thing. The download is only 14 MB. But Nextpad++ looks and feels like something that should not exist. The promotional screenshots on the app’s own website show it <a href="https://daringfireball.net/misc/2026/05/nextpad++.png">with 50 inscrutable toolbar buttons</a>. It closes document tabs on mousedown, not mouseup. Its default font is 10-point Courier New. <a href="https://daringfireball.net/misc/2026/05/nextpad-editing-contextmenu.png">This</a> is a real dialog box. It offers <a href="https://daringfireball.net/misc/2026/05/nextpad-antialiasing.png">four settings for font antialiasing</a> — “Default”, “None”, “Antialiased”, and “LCD Optimized” — but the default is not “Default”. No human being would port a complex Windows app like Notepad++ to the Mac like this.</p>
 
 <p>I’m not anti-AI. I’m very much intrigued by the whole incipient vibe-coding phenomenon. But this app feels <em>unholy</em>.</p>
+
+
 
 
     ]]></content>
@@ -1944,6 +1950,7 @@ from the M2 to upcoming M5), it’s now looking to go further.</p>
 	</author>
 	<summary type="text">You might think it counterintuitive that a movement obsessed with software would be spearheading a severe decline in the design quality of software, but in Patel’s definition, there’s no concept of software as art, as a practice, as a craft. Software brain is purely an obsession with software as a medium in and of itself. A means with no consideration for the end.</summary>
 	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+
 <p>Back in 2009, Merlin Mann and I jointly gave a talk at SxSW titled “<a href="https://daringfireball.net/2009/03/obsession_times_voice">Obsession Times Voice</a>”. Regarding how it turned out, <a href="https://daringfireball.net/2009/03/obsession_times_voice">I wrote</a>:</p>
 
 <blockquote>
@@ -2008,6 +2015,8 @@ the data.</p>
 </div>
 
 
+
+
     ]]></content>
   <title>★ Software as the Product of Obsession Times Voice</title></entry><entry>
 	
@@ -2036,19 +2045,58 @@ the data.</p>
 	<link rel="shorturl" href="http://df4.us/x5p" />
 	<id>tag:daringfireball.net,2026://1.42973</id>
 	<published>2026-05-05T01:47:01Z</published>
-	<updated>2026-05-19T00:09:57Z</updated>
+	<updated>2026-05-19T00:24:18Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<summary type="text">The fact that Paul Graham personally has billions of dollars at stake with OpenAI doesn’t mean that his public opinion on Sam Altman’s trustworthiness and leadership is invalid. But it certainly seems like the sort of thing that ought to be disclosed when quoting Graham as an Altman character reference.</summary>
 	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>This is a test. 8:09pm.</p>
+
+<p>Speaking of companies with <a href="https://daringfireball.net/linked/2026/05/04/google-owns-a-big-chunk-of-anthropic">valuable minority stakes in AI companies</a>, there’s one thing that stuck in my craw about the blockbuster <a href="https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted">Ronan Farrow / Andrew Marantz investigative piece on Sam Altman and OpenAI</a> last month for The New Yorker. It didn’t come up during <a href="https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry">Nilay Patel’s excellent interview with Farrow on Decoder</a>, either.</p>
+
+<p>Sam Altman was the president of Y Combinator for several years, and left to become the full-time CEO of OpenAI. The New Yorker quotes Y Combinator co-founder Paul Graham multiple times, in the context of Altman’s trustworthiness. (Some of those quotes are firsthand, others secondhand.) Graham’s role in the story — particularly his public remarks <em>after</em> publication — comprised an entire section in <a href="https://daringfireball.net/2026/04/when_he_is_alive_and_not_after_he_is_dead">my own take on the New Yorker piece</a>, wherein I concluded:</p>
+
+<blockquote>
+  <p>I would characterize Graham’s tweets re: Altman this week as
+emphasizing only that Altman was not fired or otherwise forced
+from YC, and could have stayed as CEO at YC if he’d found another
+CEO for OpenAI. But for all of Graham’s elucidating engagement on
+Twitter/X this week regarding this story, he’s dancing around the
+core question of the Farrow/Marantz investigation, the one right
+there in The New Yorker’s headline: Can Sam Altman be trusted?
+“<em>We didn’t ‘remove’ Sam Altman</em>” and “<em>We didn’t want him to
+leave</em>” are not the same things as saying, say, “<em>I think Sam
+Altman is honest and trustworthy</em>” or “<em>Sam Altman is a man of
+integrity</em>”. If Paul Graham were to say such things, clearly and
+unambiguously, those remarks would carry tremendous weight. But — rather conspicuously to my eyes — he’s not saying such things.</p>
+</blockquote>
+
+<p>The thing that stuck in my craw is this: <em>Does Y Combinator own a stake in OpenAI? And if they do, given OpenAI’s sky-high valuation, isn’t that stake worth billions of dollars?</em></p>
+
+<p>OpenAI was seeded by an offshoot of Y Combinator <a href="https://web.archive.org/web/20160611042811/https://ycr.org/">called YC Research</a> in 2016 — when Altman was running YC. In December 2023, the well-known AI expert (and AI-hype skeptic) <a href="https://garymarcus.substack.com/p/not-consistently-candid">Gary Marcus wrote the following</a>, in a piece on Altman’s trustworthiness in the wake of the OpenAI board saga that saw Altman fired, re-hired, and the board purged in the course of a tumultuous week:</p>
+
+<blockquote>
+  <p>After poking around, I found out that “I have no equity in OpenAI”
+was only half the truth; while Altman to my knowledge holds no
+<em>direct</em> equity in OpenAI, he does have an <em>indirect</em> stake in
+OpenAI, and that fact should have been disclosed.</p>
+
+<p>In particular, he owns a stake of Y Combinator, and Y Combinator
+owns a stake in OpenAI. It may well be worth tens of millions of
+dollars; even for Altman, that’s not trivial. Since he was
+President of Y Combinator, and CEO of OpenAI; he surely was
+aware of this.</p>
+</blockquote>
+
+<p>So it’s well known that Y Combinator owns <em>some</em> stake in OpenAI. But how big is that stake? This seems like devilishly difficult information to obtain. I asked around and a little birdie who knows several OpenAI investors came back with an answer: Y Combinator owns about 0.6 percent of OpenAI. At OpenAI’s current <a href="https://openai.com/index/accelerating-the-next-phase-ai/">$852 billion valuation</a>, that’s worth over $5 billion.</p>
+
+<p>Graham <a href="https://www.youtube.com/watch?v=6u4JVz7iQTY">and his wife Jessica Livingston</a> are two of Y Combinator’s four founding partners. The fact that Paul Graham personally has billions of dollars at stake with OpenAI doesn’t mean that his public opinion on Sam Altman’s trustworthiness and leadership is invalid. But it certainly seems like the sort of thing that ought to be disclosed when quoting Graham as an Altman character reference. A billion dollars here, a billion there — that adds up to the sort of money that <em>might</em> skew a fellow’s opinion.</p>
 
 
-]]><p><a href="https://daringfireball.net/2026/05/y_combinators_stake_in_openai"><em>Please enjoy this post on its permalink page.</em></a></p>
 
-    </content>
+
+    ]]></content>
   <title>★ Y Combinator’s Stake in OpenAI</title></entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/05/crimes_against_decency_need_as_much_cover-up_as_crimes_against_the_law" />
@@ -2062,6 +2110,7 @@ the data.</p>
 	</author>
 	<summary type="text">There is no point getting any more outraged or disgusted at Meta for firing the Kenyan contractors who exposed the privacy fiasco of AI Glasses than you already were in the first place. They had to fire them.</summary>
 	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+
 <p>A follow-up point to <a href="https://daringfireball.net/linked/2026/05/01/meta-solved-their-problem">Friday’s post</a> about Meta unceremoniously shitcanning its entire contract with Sama, the Kenyan contractor that employed over 1,100 contractors to serve as Mechanical Turks for Meta’s AI efforts, after a few of the contractors told investigative reporters about the incredibly private things they witnessed from footage captured by users of Meta’s AI Glasses.</p>
 
 <p>There is no point getting <a href="https://pxlnv.com/linklog/meta-sama-contract-dispute/">any more</a> outraged or disgusted at Meta for firing these contractors than you already were in the first place. They had to fire them. The moment <a href="https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything">this investigative report was published in late February</a>, the fate of Sama’s Kenyan operation was sealed. They were toast. The key to understanding this is that Meta runs a criminal enterprise. Most of the organized crimes Meta commits aren’t crimes against the legal code (although <a href="https://www.reuters.com/legal/government/meta-faces-new-mexico-trial-that-could-force-changes-facebook-other-platforms-2026-05-02/">some</a> <a href="https://www.reuters.com/sustainability/boards-policy-regulation/italy-court-allows-class-action-against-meta-over-facebook-data-scraping-2026-04-14/">are</a>), but rather crimes against public perception and human decency. Remember <a href="https://daringfireball.net/linked/2024/03/29/meta-onavo-snapchat">what they did with Onavo</a>, their VPN product? Was that illegal? Dunno. Was it outrageous? Hell yes.</p>
@@ -2093,6 +2142,8 @@ the data.</p>
 </div>
 
 
+
+
     ]]></content>
   <title>★ Crimes Against Decency Need as Much Cover-Up as Crimes Against the Law</title></entry><entry>
     
@@ -2107,6 +2158,7 @@ the data.</p>
 	</author>
 	<summary type="text">It’s certainly possible that this Vision thing isn’t going to work out and Apple *will* throw in the towel on it. But that hasn’t happened, and if it does, it’s not going to come out of nowhere as a story on MacRumors for the people in VPG working on it.</summary>
 	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+
 <p>Juli Clover, writing at MacRumors under the rather incendiary headline “<a href="https://www.macrumors.com/2026/04/29/apple-vision-pro-m5-flop/">Apple Has Given Up on the Vision Pro After M5 Refresh Flop</a>”:</p>
 
 <blockquote>
@@ -2160,6 +2212,8 @@ Pro team has been redistributed to other teams within Apple. </p>
 </li>
 </ol>
 </div>
+
+
 
 
     ]]></content>
