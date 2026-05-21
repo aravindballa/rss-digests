@@ -7,7 +7,58 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-20T21:20:24Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-21T01:22:51Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>WSJ: ‘Google Unveils New Gemini AI Agent for Personal Tasks’</title>
+	<link rel="alternate" type="text/html" href="https://www.wsj.com/tech/ai/google-unveils-new-gemini-ai-agent-for-personal-tasks-b8093197?st=BFmPev" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x7i" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/20/wsj-google-gemini-spark" />
+	<id>tag:daringfireball.net,2026:/linked//6.43038</id>
+	<published>2026-05-21T01:05:14Z</published>
+	<updated>2026-05-21T01:05:14Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Katherine Blunt and Rolfe Winkler, reporting for The Wall Street Journal from Google I/O (gift link):</p>
+
+<blockquote>
+  <p>Google is supercharging its Gemini artificial-intelligence model
+to become more competitive in the era of agentic AI.</p>
+
+<p>The company has started rolling out what it calls Gemini Spark, a
+personal agent it says is capable of navigating a user’s digital
+life and acting on his or her behalf. The agent will work across
+many of Google’s products and run on the company’s cloud
+infrastructure. [...]</p>
+
+<p>The company has been testing Spark with a limited number of users
+and plans to make it available next week to those who pay for AI
+Ultra, a new subscription tier that costs $100 a month.</p>
+</blockquote>
+
+<p>A different top-level takeaway <a href="https://daringfireball.net/linked/2026/05/20/nyt-google-io">than the NYT’s</a>, which in turn was different from <a href="https://www.bloomberg.com/news/articles/2026-05-19/google-revamps-youtube-docs-with-artificial-intelligence-tools">Bloomberg’s</a>.</p>
+
+<p>Ben Thompson, <a href="https://stratechery.com/2026/google-i-o-world-models-i-o-spaghetti/">in a subscriber-only update at Stratechery</a>, sums it up:</p>
+
+<blockquote>
+  <p>Indeed, if you wanted a positive spin on Google’s plethora of
+announcements, it’s that the company is clearly fully committed to
+putting AI into anything and everything; if you want to put a
+negative spin, well, it’s the exact same thing. One of the
+enduring critiques of Google is that the company is unfocused and
+unmanageable, which, to the extent this keynote was a
+manifestation of the company it represents, the shoe fits.</p>
+</blockquote>
+
+<p>I personally find Google I/O days very hard to follow. My brain doesn’t jibe with the sprawling nature of the company. This year this was particularly so.</p>
+
+<div>
+<a  title="Permanent link to ‘WSJ: ‘Google Unveils New Gemini AI Agent for Personal Tasks’’"  href="https://daringfireball.net/linked/2026/05/20/wsj-google-gemini-spark">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>NYT: ‘Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years’</title>
 	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html?unlocked_article_code=1.jlA.95yh.ptfBUHf-rBtB&amp;smid=url-share" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x7h" />
@@ -77,7 +128,7 @@ reducing everyone to raw data providers.”</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/20/brye-garageband" />
 	<id>tag:daringfireball.net,2026:/linked//6.43036</id>
 	<published>2026-05-20T20:53:22Z</published>
-	<updated>2026-05-20T20:53:22Z</updated>
+	<updated>2026-05-21T01:22:51Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -107,7 +158,7 @@ do not need a degree, to make money and to do this as your job.</p>
 working on a budget, GarageBand’s free on any Apple device.</p>
 </blockquote>
 
-<p>If Brye’s story isn’t <em>exactly</em> what Steve Jobs was talking about when <a href="https://www.youtube.com/watch?v=RYTkVh33Ags">he introduced GarageBand in 2004</a> and <a href="https://youtu.be/gIq0__oVLKs?t=2844">GarageBand for iPad in 2011</a>, well, I don’t know what is. Right down to the fact that she did on school equipment. Her enthusiasm for the simplicity of the kit she used to record “<a href="https://music.apple.com/us/album/lemons-demo/1503424075?i=1503424077">Lemons</a>” is contagious.</p>
+<p>If Brye’s story isn’t <em>exactly</em> what Steve Jobs was talking about when <a href="https://www.youtube.com/watch?v=RYTkVh33Ags">he introduced GarageBand in 2004</a> and <a href="https://youtu.be/gIq0__oVLKs?t=2844">GarageBand for iPad in 2011</a>, well, I don’t know what is. Right down to the fact that she did it on school equipment. Her enthusiasm for the simplicity of the kit she used to record “<a href="https://music.apple.com/us/album/lemons-demo/1503424075?i=1503424077">Lemons</a>” is contagious.</p>
 
 <p>John Ternus (or whatshisname ... Tim Cook) should send this video to every single employee at Apple and tell them that this — <em>this</em> — is exactly Apple’s mission. To empower creative people to create great new things they didn’t believe were possible with the tools already in their hands.</p>
 
@@ -1941,36 +1992,6 @@ conversations.</p>
 
 <div>
 <a  title="Permanent link to ‘iOS 26.5 Includes Beta Support for End-to-End Encrypted RCS Messaging’"  href="https://daringfireball.net/linked/2026/05/11/ios-26-rcs-encryption">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>iPhone Models Ranked 1st, 2nd, 3rd, and 6th in Counterpoint’s List of 10 Bestselling Phones Worldwide in Q1 2026</title>
-	<link rel="alternate" type="text/html" href="https://appleworld.today/2026/05/apples-iphone-17-was-the-worlds-best-selling-smartphone-in-quarter-one-of-2026/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x69" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/11/iphones-counterpoint-share" />
-	<id>tag:daringfireball.net,2026:/linked//6.42993</id>
-	<published>2026-05-11T20:48:05Z</published>
-	<updated>2026-05-11T20:48:40Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Samsung phones took spots 4, 5, 7, 8, and 9. The one phone not from Apple or Samsung in the top 10 was the Xiaomi Redmi A5 at #10. As I <a href="https://daringfireball.net/linked/2025/08/18/bezos-numbers-smart-glasses-counterpoint">always say</a>, take these numbers with a grain of salt, but according to Counterpoint, the bestselling phones, in order, are:</p>
-
-<ol>
-<li>iPhone 17</li>
-<li>iPhone 17 Pro Max</li>
-<li>iPhone 17 Pro</li>
-</ol>
-
-<p>And Apple’s phone in spot #6 was not the iPhone Air, alas, but the year-old iPhone 16.</p>
-
-<p>(<a href="https://asymco.com/2026/05/06/iphones-where-first-second-third-and-sixth-most-popular-phones-during-the-first-quarter/">Via Horace Dediu</a>.)</p>
-
-<div>
-<a  title="Permanent link to ‘iPhone Models Ranked 1st, 2nd, 3rd, and 6th in Counterpoint’s List of 10 Bestselling Phones Worldwide in Q1 2026’"  href="https://daringfireball.net/linked/2026/05/11/iphones-counterpoint-share">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
