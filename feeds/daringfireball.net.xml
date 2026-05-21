@@ -7,7 +7,40 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-21T01:22:51Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-21T01:47:24Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>The Verge: ‘The 13 Biggest Announcements at Google I/O 2026’</title>
+	<link rel="alternate" type="text/html" href="https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Ik5tNTBSc0hxRXQiLCJwIjoiL3RlY2gvOTMzNDE1L2dvb2dsZS1pby0yMDI2LWJpZ2dlc3QtYW5ub3VuY2VtZW50cy1haS1nZW1pbmkiLCJleHAiOjE3Nzk3NTk5MjQsImlhdCI6MTc3OTMyNzkyNH0.g_JiqbJBfi9YcDT1re8aofzmpb3tcZNwY2jQybgwJL0" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x7j" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/20/the-verge-google-io" />
+	<id>tag:daringfireball.net,2026:/linked//6.43039</id>
+	<published>2026-05-21T01:47:24Z</published>
+	<updated>2026-05-21T01:47:24Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Andrew Liszewski and Stevie Bonifield, writing for The Verge (gift link):</p>
+
+<blockquote>
+  <p>Google’s I/O 2026 keynote today was once again full of AI-related
+announcements including a new family of Gemini 3.5 AI models, new
+features for Search and Gmail, and updates about its Project Aura
+smart glasses.</p>
+
+<p>If you weren’t able to <a href="https://www.theverge.com/tech/932939/google-io-2026-how-to-watch">tune into the event’s livestream today</a>
+or <a href="https://www.theverge.com/tech/932275/google-io-2026-live-blog-on-the-ground-at-googles-keynote">follow along with our live blog</a>, you can catch up on
+everything you missed in our roundup below.</p>
+</blockquote>
+
+<p>This roundup was the only way I could really make sense out of Google I/O.</p>
+
+<div>
+<a  title="Permanent link to ‘The Verge: ‘The 13 Biggest Announcements at Google I/O 2026’’"  href="https://daringfireball.net/linked/2026/05/20/the-verge-google-io">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>WSJ: ‘Google Unveils New Gemini AI Agent for Personal Tasks’</title>
 	<link rel="alternate" type="text/html" href="https://www.wsj.com/tech/ai/google-unveils-new-gemini-ai-agent-for-personal-tasks-b8093197?st=BFmPev" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x7i" />
@@ -1956,46 +1989,6 @@ those from other companies — isn’t legal under the DMA.</p>
 
 	]]></content>
 	<title>[Sponsor] Drata</title></entry><entry>
-	<title>iOS 26.5 Includes Beta Support for End-to-End Encrypted RCS Messaging</title>
-	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/05/end-to-end-encrypted-rcs-messaging-begins-rolling-out-today-in-beta/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x6a" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/11/ios-26-rcs-encryption" />
-	<id>tag:daringfireball.net,2026:/linked//6.42994</id>
-	<published>2026-05-11T22:57:00Z</published>
-	<updated>2026-05-12T00:23:53Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Apple Newsroom:</p>
-
-<blockquote>
-  <p>Starting today, end-to-end encrypted RCS messaging begins rolling
-out in beta for iPhone users running iOS 26.5 with <a href="https://support.apple.com/en-us/109526">supported
-carriers</a> and Android users on the latest version of Google
-Messages. When RCS messages are end-to-end encrypted, they can’t
-be read while they’re sent between devices. Users will know that a
-conversation is end-to-end encrypted when they see a new lock icon
-in their RCS chats. Encryption is on by default and will be
-automatically enabled over time for new and existing RCS
-conversations.</p>
-</blockquote>
-
-<p>I hope this leads to a future where all RCS messages are end-to-end encrypted, but I doubt it. Currently this E2EE RCS depends both on the carriers (of both parties) in a direct chat, and the software running on their devices. The carrier list is pretty broad, but as far as I can tell, it <a href="https://daringfireball.net/linked/2024/12/16/google-fi-rcs-sync">still doesn’t include Google’s own Google Fi</a>.</p>
-
-<p>But the indication for this is subtle. You have to read the small print metadata in each chat to see if it’s encrypted. The message text remains the same shade of green. If it’s a group chat and even one single member isn’t on a phone and carrier that supports E2EE RCS, the entire chat will not be encrypted.</p>
-
-<p>With iMessage, all chats are always E2EE, and always have been. iMessage has been exclusively E2EE since it was created. With RCS you have to look in the metadata small print to check. That’s better than not supporting encryption at all, but my recommendation is to assume all RCS chats are not encrypted unless you double-check every time.</p>
-
-<p>Other than bug fixes, encrypted RCS <a href="https://mjtsai.com/blog/2026/05/11/ios-26-5-and-ipados-26-5/">is the biggest new feature in iOS 26.5</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘iOS 26.5 Includes Beta Support for End-to-End Encrypted RCS Messaging’"  href="https://daringfireball.net/linked/2026/05/11/ios-26-rcs-encryption">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/05/software_as_the_product_of_obsession_times_voice" />
 	<link rel="shorturl" href="http://df4.us/x5v" />
