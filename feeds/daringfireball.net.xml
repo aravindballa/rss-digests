@@ -7,7 +7,73 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-21T23:59:53Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-22T01:02:21Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Apple Seeks Supreme Court Review of Contempt Finding and Injunction Scope in Epic Games Case</title>
+	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/05/21/apple-seeks-supreme-court-review-of-contempt-finding-and-injunction-scope-in-epic-games-case/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x7o" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/21/apple-scotus-epic" />
+	<id>tag:daringfireball.net,2026:/linked//6.43044</id>
+	<published>2026-05-22T01:00:47Z</published>
+	<updated>2026-05-22T01:02:21Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Marcus Mendes, reporting for 9to5Mac:</p>
+
+<blockquote>
+  <p>Apple today filed a request with the Supreme Court in an attempt
+to reverse key lower court rulings over the App Store injunction
+in its long-running legal battle with Epic Games. [...] In its
+petition, Apple is asking the Supreme Court to review two
+questions.</p>
+
+<p>The first is whether Apple should have been held in contempt for
+charging a commission on purchases made outside the App Store. The
+second is about the scope of the injunction.</p>
+
+<p>On the first point, Apple argues that the original injunction did
+not specifically address commissions. Instead, it says the order
+only prevented Apple from blocking developers from including
+buttons, external links, or other calls to action directing users
+to external purchasing options.</p>
+
+<p>According to Apple, that is not the same as saying the company
+could not charge a commission on those purchases. The Ninth
+Circuit acknowledged that the text of the injunction did not
+address commissions, but still upheld the contempt finding by
+relying on the idea that a party can violate the “spirit” of an
+injunction, even when the injunction does not specifically
+prohibit the conduct at issue.</p>
+</blockquote>
+
+<p>Apple’s argument here is that only the letter of the law matters, and the letter of the injunction did not say anything about charging commissions on external payments, and thus they can’t be held in contempt for violating something that was never spelled out explicitly.</p>
+
+<blockquote>
+  <p>As for the second point, regarding scope, Apple argues that the
+injunction extends far beyond Epic itself, as it applies to all
+registered developers worldwide with apps on the U.S. App Store
+storefront. That includes developers that were never part of the
+Epic case, and, as Apple has pointed out before, even companies
+that compete with Epic.</p>
+
+<p>Apple argues that this directly conflicts with the Supreme Court’s
+2025 decision in Trump v. CASA, which limited the ability of
+federal courts to issue broad injunctions that go beyond the
+parties actually involved in a case.</p>
+</blockquote>
+
+<p>Apple’s argument here is that even if the Supreme Court upholds the contempt finding, the exemption from commissions should only apply to Epic, not to all developers in the U.S. App Store. I am definitely not a constitutional law scholar, but I think this would have been a long-shot argument pre-CASA. But post-CASA I think Apple might have something here, with <a href="https://talkingpointsmemo.com/edblog/with-the-corrupt-supreme-court-its-calvinball-all-the-way-down/sharetoken/26b34b4b-6926-4466-8800-f3a168a48fb6">this Court</a>.</p>
+
+<p>Apple’s full petition is not yet publicly available, but should be soon from the Supreme Court’s website. I’ve seen a copy, and Mendes’s summary jibes with my reading. In the meantime, <a href="https://www.scotusblog.com/cases/trump-v-casa-inc/">here’s SCOTUSblog’s index page for <em>Trump v. CASA</em></a>, and here’s <a href="https://www.scotusblog.com/2025/07/trump-v-casa-and-the-future-of-the-universal-injunction/">Mila Sohoni’s analysis of the CASA ruling</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Seeks Supreme Court Review of Contempt Finding and Injunction Scope in Epic Games Case’"  href="https://daringfireball.net/linked/2026/05/21/apple-scotus-epic">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple TV to Broadcast Entire MLS Match Shot Using iPhones</title>
 	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/05/apple-tv-to-air-first-major-live-pro-sports-event-shot-on-iphone-17-pro/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x7n" />
@@ -1776,65 +1842,6 @@ to go to the curl repo.</p>
 
 <div>
 <a  title="Permanent link to ‘Kagi Snaps’"  href="https://daringfireball.net/linked/2026/05/12/kagi-snaps">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Seriously, Give Kagi a Try</title>
-	<link rel="alternate" type="text/html" href="https://daringfireball.net/2025/04/try_switching_to_kagi" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x6g" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/12/seriously-give-kagi-a-try" />
-	<id>tag:daringfireball.net,2026:/linked//6.43000</id>
-	<published>2026-05-12T20:31:49Z</published>
-	<updated>2026-05-13T02:22:40Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Quoting from a post I wrote a year ago:</p>
-
-<blockquote>
-  <p>Like, even if I <a href="https://udm14.com/">use the magic <code>&amp;udm=14</code> parameter</a> with
-Google search, <a href="https://daringfireball.net/linked/2024/05/23/udm14">to get “disenshittified” results from
-Google</a>, I find I get <em>better</em> results from Kagi. When I
-know there’s one right answer (say, a specific article I remember
-reading and want to find again), Kagi is more likely than Google
-to list it first. If it’s a years-old article, Kagi is <em>way</em> more
-likely than Google to find it at all. For me, Google (and, alas,
-DuckDuckGo too) have largely stopped working reliably for finding
-not-recent stuff on the web. Not true with Kagi.</p>
-
-<p>I used DuckDuckGo for years as my default search, and for those
-years, I found it largely on par with Google. But it felt like
-every once in a while — maybe, say, once or twice a month — DuckDuckGo would come up dry in its results. DuckDuckGo pioneered
-a trick <a href="https://duckduckgo.com/bangs">they call Bangs</a>. Include <code>!g</code> to any search terms,
-and instead of performing the search itself, DuckDuckGo will
-redirect that search to Google. They have a whole bunch of these
-Bangs — “!a” for Amazon search, “!nf” for Netflix. There are
-literally thousands of them (which of course they allow you to
-search for). The only one I ever really used though was <code>!g</code>, for
-redirecting my current search to Google because DuckDuckGo’s own
-results for the same terms was unsatisfying. My memory may not
-match with my actual usage, but like I said, I <em>feel</em> like I used
-this about once or twice a month for the several years I was using
-DuckDuckGo as my default search engine. Infrequently enough that
-it didn’t annoy me to the point of considering switching back to
-Google for default in-browser search, but frequently enough that I
-was annoyed enough to remember that I needed to use it at all.</p>
-
-<p><a href="https://help.kagi.com/kagi/features/bangs.html">Kagi supports Bangs too</a>, including <code>!g</code> for Google web
-search. I can’t remember the last time I felt the need to try
-using it. It’s been months, many months. And, the last few times
-I’ve tried it, Google’s results were no more help than Kagi’s.</p>
-</blockquote>
-
-<p>In the year since writing the above, I honestly don’t think I’ve resorted to the <code>!g</code> bang once. For me, Google web search is about as relevant to my life as Yahoo search. Something I used to use, something that used to be better, but which I’ve found a vastly superior alternative to. If Kagi went out of business or changed for the worse, I’d be heartsick. It’s truly one of the best services I’ve used, and it keeps getting better.</p>
-
-<p>Google Search is like watching <em>2001: A Space Odyssey</em> <a href="https://daringfireball.net/linked/2026/05/07/greatest-jump-cut-in-cinema-history-amazon-prime">with a goddamn Febreze ad stuck in the famed match cut</a>. Kagi search is like paying for a streaming service with no ads <em>and</em> higher image quality and better sound. It’s just plain better.</p>
-
-<div>
-<a  title="Permanent link to ‘Seriously, Give Kagi a Try’"  href="https://daringfireball.net/linked/2026/05/12/seriously-give-kagi-a-try">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
