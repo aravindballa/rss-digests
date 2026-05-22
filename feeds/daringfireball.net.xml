@@ -7,7 +7,96 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-22T01:02:21Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-22T17:15:02Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Stephen Colbert’s ‘The Late Show’ Finale</title>
+	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/05/22/arts/television/colbert-last-late-show.html?unlocked_article_code=1.kVA.GO3I.gVq9KeUrHEyM" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x7q" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/22/colbert-late-show-finale" />
+	<id>tag:daringfireball.net,2026:/linked//6.43046</id>
+	<published>2026-05-22T17:12:10Z</published>
+	<updated>2026-05-22T17:15:02Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>James Poniewozik, writing for The New York Times (gift link):</p>
+
+<blockquote>
+  <p>He didn’t land the pope, but he got a Beatle. He didn’t have a new
+project to announce, but he left us with a song (in fact two). He
+didn’t choose to end his show, but he ended it his own weird,
+wonderful way.</p>
+
+<p>Stephen Colbert hosted his final “Late Show” on Thursday night,
+completing the story of the TV year’s most notorious and rancorous
+cancellation. But his final hour-plus — an emotional and
+delightfully bizarre wake for a comedy institution — turned it
+into a cancellebration. [...]</p>
+
+<p>In fact, the episode gradually revealed a story arc, more like the
+closing episode of a surreal comedy than of a talk show.</p>
+</blockquote>
+
+<p>Series finales are so difficult to do well. I find them compelling even when they fall a little flat. Colbert’s finale last night was just amazingly good. Good and fun and surprising and perfectly on-brand. And what a song to end on. Perfect.</p>
+
+<div>
+<a  title="Permanent link to ‘Stephen Colbert’s ‘The Late Show’ Finale’"  href="https://daringfireball.net/linked/2026/05/22/colbert-late-show-finale">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Zero Sum Problems and Apple Sports</title>
+	<link rel="alternate" type="text/html" href="https://kieranhealy.org/blog/archives/2026/05/21/zero-sum-problems/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x7p" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/22/zero-sum-problems-and-apple-sports" />
+	<id>tag:daringfireball.net,2026:/linked//6.43045</id>
+	<published>2026-05-22T16:53:17Z</published>
+	<updated>2026-05-22T16:53:17Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Kieran Healy kindly accepted my <a href="https://daringfireball.net/linked/2026/05/21/apple-sports-world-cup">implicit homework assignment yesterday</a>, and wrote a piece on Apple Sports’s bizarre “zero sum” team stats visualization:</p>
+
+<blockquote>
+  <p>It also doesn’t do away with the core problem. That problem is
+principally one of information design rather than data
+visualization. What I mean is that what we’re trying to organize
+is, in effect, fifteen pairs of related but fundamentally distinct
+numbers. If we had fifteen <em>cases</em> and two <em>variables</em> things
+would be simple. But with fifteen variables and two cases … well,
+this is not the kind of thing you can make a single effective and
+non-confusing graph out of. That’s why I kind of sympathize with
+the designer. In a constrained space they have to show thirty
+numbers (thirty two, including the score). Lots of information. A
+straight table seems like it would be boring. Surely there’s some
+way to thematically integrate the numbers in a visually appealing
+manner that brings out some of the relationships across the rows.
+That’s what graphs do; it seems like the right thing to reach for.
+But at its heart this information is not a graph. It just sort of
+looks like one, and that ends up confusing people.</p>
+</blockquote>
+
+<p>Just a crackerjack explanation for why this presentation in Apple Sports is confusing, and for why it is a difficult problem to solve. The problem is further complicated by the fact that Apple Sports shows the same screen for all sports, just with different sport-specific stats. I think the solution is to just present these numbers in a table. Yes, tables are boring. But they’re not confusing. What Apple Sports is doing, in an attempt not to be boring, is confusing.</p>
+
+<p><strong>Sidenote:</strong> Healy writes:</p>
+
+<blockquote>
+  <p>I don’t know much about basketball, but I do know a bit about data
+visualization and in a pleasing coincidence my former student
+<a href="https://www.linkedin.com/in/joshua-fink">Josh Fink</a> is the A-VP of Basketball Data Science for the Spurs.</p>
+</blockquote>
+
+<p>I don’t want to get Healy in any trouble, especially after he responded to my prompt with such a remarkably thoughtful, helpfully illustrated little essay, but I was under the impression that it’s illegal for any <a href="https://kieranhealy.org/about/">professor at Duke</a> not to know much about basketball.</p>
+
+<div>
+<a  title="Permanent link to ‘Zero Sum Problems and Apple Sports’"  href="https://daringfireball.net/linked/2026/05/22/zero-sum-problems-and-apple-sports">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple Seeks Supreme Court Review of Contempt Finding and Injunction Scope in Epic Games Case</title>
 	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/05/21/apple-seeks-supreme-court-review-of-contempt-finding-and-injunction-scope-in-epic-games-case/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x7o" />
@@ -1731,42 +1820,6 @@ letting it rip.</p>
 
 	]]></content>
   </entry><entry>
-	<title>New Driver for the Old Griffin PowerMate</title>
-	<link rel="alternate" type="text/html" href="https://github.com/jameslockman/Griffin-PowerMate-Driver" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x6k" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/14/new-driver-for-the-old-griffin-powermate" />
-	<id>tag:daringfireball.net,2026:/linked//6.43004</id>
-	<published>2026-05-14T16:20:54Z</published>
-	<updated>2026-05-14T16:20:55Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>James Lockman:</p>
-
-<blockquote>
-  <p>This small driver enables the Griffin PowerMate, a nifty little
-device from days gone by. What does the PowerMate do? It is a knob
-that you can twist or that you can press. That’s it. It also has a
-blue LED in the base that can change intensity based on what
-you’re doing.</p>
-
-<p>When it was released, it was intended to assist video and audio
-production by adding a scrollable knob to your desktop. Of
-course, modern controllers exist that offer many more literal
-bells and whistles, but there is something... quaint... about
-this early device.</p>
-</blockquote>
-
-<p>I never bought a PowerMate but I was always on the cusp. I didn’t have a need for it all but it <a href="https://www.macworld.com/article/207617/griffinpowermate3software.html">just seemed cool</a>. What a fun idea to create a modern driver. (Lockman credits <a href="https://github.com/cursoragent">Cursor Agent</a> as a co-contributor, so this probably wouldn’t have happened if not for AI coding.)</p>
-
-<div>
-<a  title="Permanent link to ‘New Driver for the Old Griffin PowerMate’"  href="https://daringfireball.net/linked/2026/05/14/new-driver-for-the-old-griffin-powermate">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/05/nextpad" />
 	<link rel="shorturl" href="http://df4.us/x6j" />
@@ -1797,55 +1850,6 @@ this early device.</p>
 
     ]]></content>
   <title>★ Nextpad++</title></entry><entry>
-	<title>Kagi Snaps</title>
-	<link rel="alternate" type="text/html" href="https://help.kagi.com/kagi/features/snaps.html" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x6h" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/12/kagi-snaps" />
-	<id>tag:daringfireball.net,2026:/linked//6.43001</id>
-	<published>2026-05-12T21:06:21Z</published>
-	<updated>2026-05-15T01:08:52Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Kagi’s documentation:</p>
-
-<blockquote>
-  <p>Typing <code>@r headphones</code> will search for “headphones” but limit the
-results to reddit.com (<code>r</code> is the short code for Reddit). This
-allows you to quickly find relevant content on a specific site
-using Kagi’s powerful index. It is effectively the same as doing
-<code>headphones site:old.reddit.com</code>.</p>
-
-<p>Its relative, <a href="https://help.kagi.com/kagi/features/bangs.html">Bangs</a> feature, invoked by using “!r
-headphones”, would redirect the user to Reddit’s internal search.</p>
-</blockquote>
-
-<p>I learned about the snaps feature from <a href="https://blog.kagi.com/tips/snaps">a Kagi blog post</a> a few months ago, and I’ve been loving it ever since.  From that post:</p>
-
-<blockquote>
-  <p>You can also use Snaps to quickly search within Kagi’s
-knowledge base. For example, the <code>@help</code> snap searches the Kagi
-help docs, handy for when you want to quickly look into a feature.</p>
-
-<p>User tip: “I recommend combining Snaps with the “I’m feeling
-lucky” bang: <code>!</code> with no short code. Like searching <code>@gh curl !</code>
-to go to the curl repo.</p>
-</blockquote>
-
-<p>I’ve never actually looked any of these up. I just guessed at the ones I most want to use and they all worked on the first try. <code>@nyt</code> returns results from The New York Times; <code>@wsj</code> is for The Wall Street Journal. Take a guess what <code>@df</code> does.</p>
-
-<p><em>And</em> you can add your own custom bangs/snaps in Kagi’s settings. It’s easy. In fact, I created <a href="https://daringfireball.net/misc/2026/05/kagi-custom-nyt-bang.png">a custom <code>nyt</code> bang/snap shortcut</a> to override Kagi’s default. Kagi’s built-in <code>nyt</code> bang/snap uses the <code>query.nytimes.com</code> subdomain, which is outdated. You get better results just using <code>nytimes.com</code> with no subdomain. [<strong>Update:</strong> One day after posting this, Kagi has updated their built-in <code>nyt</code> bang/snap to use the top-level <code>nytimes.com</code> domain. Nice.]</p>
-
-<p>Also: Does your preferred search engine have a well-written comprehensive user manual? <a href="https://help.kagi.com/">Kagi does</a>. Good documentation is a tell-tale sign of a great product and a company that puts users first. There exist good products with bad or no documentation, but there are very few poor products with great documentation.</p>
-
-<div>
-<a  title="Permanent link to ‘Kagi Snaps’"  href="https://daringfireball.net/linked/2026/05/12/kagi-snaps">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://drata.com/daring" />
 	<link rel="shorturl" href="http://df4.us/x6b" />
