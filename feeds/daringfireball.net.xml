@@ -7,7 +7,31 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-24T23:33:09Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-25T15:09:43Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>WorkOS: ‘Agents Need Context. Ship the Integrations That Give It to Them.’</title>
+	<link rel="alternate" type="text/html" href="https://workos.com/docs/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x7u" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/25/workos" />
+	<id>tag:daringfireball.net,2026:/linked//6.43050</id>
+	<published>2026-05-25T15:09:17Z</published>
+	<updated>2026-05-25T15:09:43Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks to WorkOS for once again sponsoring DF last week. The context that actually matters isn’t in your database. It’s in the tools your users live in every day. Multi-stage agents stall the moment they hit a step they can’t see. And every missing integration is a different OAuth flow, a different token lifecycle, weeks of plumbing before the agent reads a single record.</p>
+
+<p><a href="https://workos.com/blog/workos-pipes-third-party-integrations?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026&amp;utm_content=product_name_link">WorkOS Pipes</a> connects your agent to the tools your users live in. Pre-built connectors for GitHub, Slack, Salesforce, Google Drive, and more. Pipes handles OAuth, token refresh, and credential storage. You call the real provider API with a fresh token, every time. Your agent pulls context at every step, for as long as the task runs.</p>
+
+<p><a href="https://workos.com/docs/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026">Give your agent context.</a></p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS: ‘Agents Need Context. Ship the Integrations That Give It to Them.’’"  href="https://daringfireball.net/linked/2026/05/25/workos">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Why Steve Kerr Stayed With the Warriors</title>
 	<link rel="alternate" type="text/html" href="https://www.espn.com/nba/story/_/id/48686303/steve-kerr-decision-return-coach-golden-state-warriors-steph-curry" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x7t" />
@@ -1804,77 +1828,6 @@ furniture and a living space to visualize them together.</p>
 
 <div>
 <a  title="Permanent link to ‘Google Announces Its Chromebook Successor: The Googlebook’"  href="https://daringfireball.net/linked/2026/05/14/googlebooks">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Gurman Reports that OpenAI Is Unhappy With Apple Deal</title>
-	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2026-05-14/openai-apple-partnership-frays-setting-up-possible-legal-fight?srnd=undefined&amp;embedded-checkout=true" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x6n" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/14/gurman-openai-apple" />
-	<id>tag:daringfireball.net,2026:/linked//6.43007</id>
-	<published>2026-05-14T18:27:50Z</published>
-	<updated>2026-05-14T18:27:51Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Mark Gurman, reporting for Bloomberg under the headline, “Apple-OpenAI Alliance Frays, Setting Up Possible Legal Fight”:</p>
-
-<blockquote>
-  <p>OpenAI lawyers are actively working with an outside legal firm on
-a range of options that could be formally executed in the near
-future, said the people, who asked not to be identified because
-the deliberations are private. That could include sending the
-iPhone maker a notice alleging breach of contract without
-necessarily filing a full lawsuit at the outset, according to the
-people. OpenAI enlisted the outside firm in recent days to help
-with the situation.</p>
-
-<p>OpenAI believed that the companies’ partnership, which wove
-ChatGPT into Apple software, would coax more users into
-subscribing to the chatbot. It also expected deeper integration
-across more Apple apps and prime placement within the Siri
-assistant.</p>
-</blockquote>
-
-<p>To be fair, <a href="https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino">Apple expected deeper integration</a> across more Apple apps by now, too.</p>
-
-<p>But what’s curious about this story is that it doesn’t even hint at what grounds OpenAI would have for legal action. Expecting deeper integration is one thing. Being contractually obligated to provide deeper integration is another. I don’t see how you run this story, with sources entirely from OpenAI, without describing what terms of the contract OpenAI considers breached.</p>
-
-<p>Some quotes from Gurman’s unnamed source:</p>
-
-<blockquote>
-  <p>“We have done everything from a product perspective,” said an
-OpenAI executive who asked not to be identified. “They have not,
-and worse, they haven’t even made an honest effort.” [...]</p>
-
-<p>“When we heard about this opportunity, it sounded amazing: being
-able to acquire a giant number of customers and have distribution
-in such a big mobile ecosystem,” said the OpenAI executive. At the
-time, though, Apple was unwilling to share exactly what the
-product would be, the person said. “They basically said, ‘OpenAI
-needs to take a leap of faith and trust us,’” the executive said,
-adding that the deal ended up being a failure for the startup.</p>
-</blockquote>
-
-<p>ChatGPT has been the #1 app in the App Store for most of the last two years. (It’s #2 today, behind <a href="https://about.instagram.com/blog/announcements/introducing-instants-for-sharing-in-the-moment">Instagram’s new Instants app</a>.) It’s impossible to say how much ChatGPT’s exclusive integration with Siri has helped with that, but it couldn’t have hurt.</p>
-
-<p>Lastly, regarding <a href="https://daringfireball.net/linked/2026/01/12/apple-google-foundation-models-cnbc">the deal Apple and Google announced in January</a> to power Apple’s Foundation Models with Google’s Gemini technology (but not Gemini the product), this brave anonymous OpenAI executive says Apple couldn’t break up with them because they wanted to break up with Apple first:</p>
-
-<blockquote>
-  <p>OpenAI wasn’t interested in working with Apple on the new models
-because it felt burned by the initial relationship, according to
-the people. “Apple has so much market power that they can dictate
-terms,” the executive said. “We already took this leap of faith
-with you, and it didn’t work out well.”</p>
-</blockquote>
-
-<p>This would be easier to take at face value if they’d said it before the Apple-Google partnership was announced, not months later.</p>
-
-<div>
-<a  title="Permanent link to ‘Gurman Reports that OpenAI Is Unhappy With Apple Deal’"  href="https://daringfireball.net/linked/2026/05/14/gurman-openai-apple">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
