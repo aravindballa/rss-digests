@@ -7,7 +7,53 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-25T18:22:13Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-25T18:54:53Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Trump Mobile Website Exposed the Number of Pre-Orders — Both Completed and Abandoned — and the Associated Customer Information</title>
+	<link rel="alternate" type="text/html" href="https://www.theguardian.com/us-news/2026/may/23/trump-mobile-investigating-potential-exposure-of-would-be-customers-personal-information" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x7w" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/25/trump-mobile-preorders" />
+	<id>tag:daringfireball.net,2026:/linked//6.43052</id>
+	<published>2026-05-25T18:54:37Z</published>
+	<updated>2026-05-25T18:54:53Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Catie McLeod, The Guardian:</p>
+
+<blockquote>
+  <p>Trump Mobile said in a statement that it was investigating the
+issue — “with the assistance of independent cybersecurity
+professionals” — in which the full names, addresses and phone
+numbers of people who filled out preorder forms appeared to be
+exposed. [...]</p>
+
+<p>Jonathan Soma, a programmer and professor at New York’s Columbia
+University, reviewed the code that the Australian had uncovered
+and copied from the Trump Mobile website. Soma said the website
+used a common e-commerce model, in which every potential order
+added another “1” to a list, the total of which had reached 27,224
+possible pre-orders on the available information.</p>
+
+<p>But he said the code reflected the last step before payment,
+meaning those who didn’t proceed with the purchase were also
+recorded in the data, even those people who have abandoned their
+carts without paying the deposit, so the true number of preorders
+was likely to be even lower.</p>
+
+<p>“I probably started three phone purchases and didn’t buy any of
+them,” he said.</p>
+</blockquote>
+
+<p>Auric Goldfinger is surely rolling over in his grave.</p>
+
+<div>
+<a  title="Permanent link to ‘Trump Mobile Website Exposed the Number of Pre-Orders — Both Completed and Abandoned — and the Associated Customer Information’"  href="https://daringfireball.net/linked/2026/05/25/trump-mobile-preorders">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>The History of ‘OK’</title>
 	<link rel="alternate" type="text/html" href="https://www.merriam-webster.com/wordplay/the-hilarious-history-of-ok-okay" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x7v" />
@@ -1785,39 +1831,6 @@ publish. (And in my time at The Washington Post, I didn’t let
 
 <div>
 <a  title="Permanent link to ‘Geoffrey Fowler and the Launch of the Youth AI Safety Institute’"  href="https://daringfireball.net/linked/2026/05/14/fowler-youth-ai-safety-institute">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Tim Cook Is in Trump’s Executive Entourage for China Summit</title>
-	<link rel="alternate" type="text/html" href="https://www.the-independent.com/news/world/americas/us-politics/elon-musk-tim-cook-trump-china-tech-ceo-b2975568.html" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x6p" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/14/cook-trump-china" />
-	<id>tag:daringfireball.net,2026:/linked//6.43009</id>
-	<published>2026-05-14T19:36:58Z</published>
-	<updated>2026-05-14T19:36:58Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Owen Scott, reporting for The Independent:</p>
-
-<blockquote>
-  <p>The list of tech and financial industry titans joining the
-commander-in-chief during his summit with China’s president Xi
-Jinping includes Elon Musk, BlackRock CEO Larry Fink, and Apple
-CEO Tim Cook. [...]</p>
-
-<p>Trump earlier confirmed a number of high-profile attendees <a href="https://truthsocial.com/@realDonaldTrump/posts/116565066757116256">in a
-lengthy post on Truth Social</a>, albeit referring to Cook as “Tim
-Apple” in the process.</p>
-</blockquote>
-
-<p>While he’s in such a jocular <a href="https://daringfireball.net/linked/2026/04/21/trump-on-tim-apple">nickname-y</a> mood, he should drop a reference to <a href="https://daringfireball.net/linked/2021/01/08/xi-the-pooh">Winnie the Pooh</a> into some of these posts on his blog.</p>
-
-<div>
-<a  title="Permanent link to ‘Tim Cook Is in Trump’s Executive Entourage for China Summit’"  href="https://daringfireball.net/linked/2026/05/14/cook-trump-china">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
