@@ -7,7 +7,56 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-27T15:43:45Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-28T14:11:04Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity</title>
+	<link rel="alternate" type="text/html" href="https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x80" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/28/surveil-web-page-visitors-by-analyzing-ssd-activity" />
+	<id>tag:daringfireball.net,2026:/linked//6.43056</id>
+	<published>2026-05-28T14:11:03Z</published>
+	<updated>2026-05-28T14:11:04Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Dan Goodin, reporting for Ars Technica:</p>
+
+<blockquote>
+  <p>The technique, laid out in a <a href="https://hannesweissteiner.com/pdfs/frost.pdf">research paper</a>, exploits a
+<a href="https://en.wikipedia.org/wiki/Side-channel_attack">side channel</a>, a form of leak resulting from physical
+manifestations such as electromagnetic emanations, data caches, or
+the time required to complete a task. By measuring the
+manifestations, attackers can decrypt encrypted traffic and infer
+other confidential data. [...]</p>
+
+<p>“Web browsers have evolved from simple document viewers into
+complex platforms capable of running sophisticated applications,”
+the paper authors wrote. “Companies like Google, Microsoft, and
+Adobe have developed full-fledged office suites, photo- and video
+editors, or even integrated development environments (IDEs) that
+run entirely within the browser.” The authors went on to note:
+“While these features enhance the capabilities of web applications
+and allow completely novel use cases, they also increase the
+browser’s attack surface, and some have already been shown to
+introduce new vulnerabilities.”</p>
+
+<p>Unlike previous contention side-channel attacks on SSDs, FROST
+runs exclusively in the browser. It uses JavaScript that interacts
+with the <a href="https://developer.mozilla.org/en-US/docs/Web/API/File_System_API/Origin_private_file_system">OPFS</a> (origin private file system), an allocated
+storage space that’s reserved for a specific site to run code
+needed to complete a given task. Websites can create one with no
+interaction required by the visitor.</p>
+</blockquote>
+
+<p>JavaScript, as I have <a href="https://daringfireball.net/linked/2025/01/18/google-search-javascript">suggested</a> <a href="https://daringfireball.net/2026/03/your_frustration_is_the_product">many</a> <a href="https://daringfireball.net/linked/2026/03/19/hacker-news-49mb-web-page">times</a>, was a terrible mistake for the web. It’s absurd that a web page can access local storage space.</p>
+
+<div>
+<a  title="Permanent link to ‘Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity’"  href="https://daringfireball.net/linked/2026/05/28/surveil-web-page-visitors-by-analyzing-ssd-activity">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://exe.dev/?df" />
 	<link rel="shorturl" href="http://df4.us/x7z" />
@@ -1750,50 +1799,6 @@ does not yet say.</p>
 
 <div>
 <a  title="Permanent link to ‘The Youth AI Safety Institute Has Margrethe Vestager’s Backing’"  href="https://daringfireball.net/linked/2026/05/14/vestager-ai-safety-institute">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Aided by Mythos Preview, Researchers Announce MacOS Kernel Exploit Circumventing M5 Memory Integrity Enforcement</title>
-	<link rel="alternate" type="text/html" href="https://blog.calif.io/p/first-public-kernel-memory-corruption" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x6s" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/14/m5-mie-exploit" />
-	<id>tag:daringfireball.net,2026:/linked//6.43012</id>
-	<published>2026-05-14T23:44:20Z</published>
-	<updated>2026-05-14T23:44:20Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Calif, <a href="https://calif.io/company">a security research team</a>, on their blog:</p>
-
-<blockquote>
-  <p>Many security experts consider Apple devices to be the most secure
-consumer platform. The latest flagship example is MIE (Memory
-Integrity Enforcement), Apple’s hardware-assisted memory safety
-system built around ARM’s MTE (Memory Tagging Extension). It was
-introduced as the marquee security feature for the Apple M5 and
-A19, specifically designed to stop memory corruption exploits, the
-vulnerability class behind many of the most sophisticated
-compromises on iOS and macOS. [...]</p>
-
-<p>Our macOS attack path was actually an accidental discovery. Bruce
-Dang found the bugs on April 25th. Dion Blazakis joined Calif on
-April 27th. Josh Maine built the tooling, and by May 1st we had a
-working exploit.</p>
-
-<p>We didn’t build the chain alone. Mythos Preview helped identify
-the bugs and assisted throughout exploit development. [...] To the
-best of our knowledge, this is the first public macOS kernel
-exploit on MIE hardware. Again, we’ll publish our 55-page report
-after Apple ships a fix.</p>
-</blockquote>
-
-<p>The Wall Street Journal <a href="https://blog.calif.io/p/first-public-kernel-memory-corruption">ran a story</a> on Calif’s announcement today that was heavy on hyperbole and extraordinarily light on technical details. Unsurprisingly, the team’s own blog post was much more informative and interesting. The achievement here is circumventing MIE.</p>
-
-<div>
-<a  title="Permanent link to ‘Aided by Mythos Preview, Researchers Announce MacOS Kernel Exploit Circumventing M5 Memory Integrity Enforcement’"  href="https://daringfireball.net/linked/2026/05/14/m5-mie-exploit">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
