@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-28T16:52:36Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-28T23:32:49Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras</title>
 	<link rel="alternate" type="text/html" href="https://tv.apple.com/us/sporting-event/mls-wrap-up/umc.cse.3a198p24hrehwhonbhgx2zvhv" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x81" />
@@ -332,7 +332,6 @@ meaning of <em>OK</em>.</p>
 	</author>
 	<summary type="text">The Supreme Court’s typographic style has been stunningly consistent for — no pun intended — well over a century.</summary>
 	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-
 <p>The 13 circuits of <a href="https://en.wikipedia.org/wiki/United_States_courts_of_appeals">the U.S. federal courts of appeals</a> operate with a fair amount of independence, including <a href="https://www.findlaw.com/legalblogs/greedy-associates/5-non-times-new-roman-fonts-courts-use-in-their-opinions/">their typographic choices</a>. I was reminded of this today while reading the <a href="https://daringfireball.net/linked/2026/05/22/ninth-circuit-epic-v-apple">aforelinked</a> decision <a href="https://cdn.ca9.uscourts.gov/datastore/opinions/2025/12/11/25-2935.pdf">from the Ninth Circuit in <em>Epic v. Apple</em></a>, because the Ninth Circuit sets their decisions in <a href="https://daringfireball.net/linked/2025/12/15/a-brief-history-of-timesnewroman">Times New Roman</a> — a font that <a href="https://daringfireball.net/linked/2025/12/10/">came up back in December</a> in the context of the Trump State Department.</p>
 
 <p>Long argument short, Times New Roman isn’t bad, but it isn’t good. It is the median choice. But <a href="https://www.reddit.com/r/LawSchool/comments/ge4tzq/different_fonts_used_by_us_court_of_appeals/">most of the circuit courts use it</a>: the Third, Fourth, Sixth, Eighth, Ninth, Tenth, and Eleventh. It could be worse: the <a href="https://media.ca1.uscourts.gov/pdf.opinions/14-1043P-01A.pdf">First</a> circuit not only uses Courier New (<a href="https://daringfireball.net/linked/2026/01/14/clintons-letter">the worst version of Courier</a>, so of course it’s the one Microsoft shipped with Windows), but fully justifies their text — contrary to the nature of a monospaced font. (The Fourth circuit only recently switched <a href="https://www.ca4.uscourts.gov/Opinions/Published/131839A.P.pdf">from Courier New</a> <a href="https://www.ca4.uscourts.gov/opinions/251012.P.pdf">to Times New Roman</a> — an upgrade, to be sure, but a disappointingly mediocre one.) It could be better: the <a href="https://ww3.ca2.uscourts.gov/decisions/OPN/24-341_opn.pdf">Second</a> and <a href="https://media.ca7.uscourts.gov/cgi-bin/OpinionsWeb/processWebInputExternal.pl?Submit=Display&amp;Path=Y2026/D05-20/C:24-2015:J:Hamilton:aut:T:fnOp:N:3544786:S:0">Seventh</a> use Palatino. (Note how much better that Seventh Circuit decision looks than the Second’s, with its wider margins creating a narrower column of text.)</p>
@@ -390,9 +389,6 @@ the first word is ever read.</p>
 </li>
 </ol>
 </div>
-
-
-
 
     ]]></content>
   <title>★ The Fonts of the U.S. Federal Courts</title></entry><entry>
@@ -1420,7 +1416,6 @@ rely on our services.”</p>
 	</author>
 	<summary type="text">It’s not even a feature. It’s just technology.</summary>
 	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-
 <p>Steven Levy, writing for Wired last month after Apple’s CEO transition was announced, under the provocative headline “<a href="https://www.wired.com/story/apples-next-ceo-needs-to-launch-a-killer-ai-product/">Apple’s Next CEO Needs to Launch a Killer AI Product</a>” (<a href="https://apple.news/AdCC7y43rTQq6SZH2bDmqxA">News+ link</a> to get around Wired’s miserly paywall):</p>
 
 <blockquote>
@@ -1473,9 +1468,6 @@ agent do that.”</p>
 </li>
 </ol>
 </div>
-
-
-
 
     ]]></content>
   <title>★ AI Is Technology, Not a Product</title></entry><entry>
@@ -1793,28 +1785,14 @@ trial. How good was it? Here are my favorite nuggets.</p>
 	<link rel="shorturl" href="http://df4.us/x6j" />
 	<id>tag:daringfireball.net,2026://1.43003</id>
 	<published>2026-05-13T02:22:16Z</published>
-	<updated>2026-05-13T22:51:46Z</updated>
+	<updated>2026-05-28T23:32:49Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<summary type="text">Nextpad++ feels like a fever dream. Like what Mac apps would be if the Nazis had won WWII.</summary>
 	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-
-<p>Windows Notepad is, more or less, the Windows peer to MacOS’s TextEdit — the built-in system text editor. For years, it was really basic — so much more basic than TextEdit that it engendered no affection. You don’t see paeans to Notepad <a href="https://daringfireball.net/linked/2026/01/26/chayka-textedit">in The New Yorker</a>. Recently though, Microsoft has started beefing it up, culminating last year <a href="https://daringfireball.net/linked/2025/06/06/markdown-support-in-windows-notepad">when they added fucking Markdown support</a>. Which still blows my mind.</p>
-
-<p><a href="https://notepad-plus-plus.org/">Notepad++</a> is a longstanding open source (GPL) Windows text editor <a href="https://notepad-plus-plus.org/author/">by Don Ho</a>, which <a href="https://notepad-plus-plus.org/">debuted back in 2003</a>. Just adding “++” to the name might be misleading. The name implies that it’s like Microsoft’s Notepad <a href="https://www.waltdisney.org/blog/walts-own-words-plussing-disneyland">plus</a> a little more. But Notepad++ is in fact a wholly independent programming text editor, with a rich plugin library. It doesn’t resemble Microsoft’s Notepad much at all anymore. It’s over two decades old but remains quite popular. To some extent Notepad++ is sorta kinda the Windows peer to <a href="https://www.barebones.com/products/bbedit/">BBEdit</a>.</p>
-
-<p><a href="https://nextpad.org/author/">Nextpad++</a> is something new, <a href="https://nextpad.org/author/">from Andrey Letov</a>. It’s a Mac port of the Notepad++ GPL code. It launched a few weeks ago under the name “Notepad++ for Mac”, but Letov had <a href="https://notepad-plus-plus.org/news/npp-trademark-infringement/">no right or permission to the name</a>. That dispute has been settled, and Letov has renamed this project Nextpad++. The website’s <a href="https://nextpad.org/about/">About page</a> has entire sections for “How Nextpad++ for Mac Was Built” and “Technology Stack”, and neither of those mentions AI, but this thing <em>has</em> to have been built using AI vibe-coding agents. That same About page also says the project only started on March 10, and the 1.0 version (under the defunct “Notepad++ for Mac” name) shipped just a few weeks after that. Something of the scope of this port couldn’t happen at that pace without AI. <strong>Update:</strong> On <a href="https://nextpad.org/author/">the Author page</a>, not the About page, it states, “multi-agent AI development workflows are what make a one-person project at this scale practical.” <em>Possible</em>, sure, but I wouldn’t call this <em>practical</em>.</p>
-
-<p>Nextpad++ feels like a fever dream. Like what Mac apps would be if the Nazis had won WWII. Look, there are all sorts of foreign apps on the Mac. <a href="https://daringfireball.net/2018/12/electron_and_the_decline_of_native_apps">Electron</a> apps. Apps ported with <a href="https://www.winehq.org/">Wine</a>. Web apps running in browser tabs or <a href="https://support.apple.com/guide/safari/add-to-dock-ibrw9e991864/mac">saved to the Dock</a>. The <a href="https://shapeof.com/archives/2026/4/tolaria_ai_and_rust.html">curious new generation</a> of lean-and-mean apps that are, in a technical sense, “native”, but are decidedly not Mac-assed apps, like <a href="https://zed.dev/">Zed</a> and <a href="https://tolaria.md/">Tolaria</a>. All those types of apps feel alien on MacOS. Like different species. They are apps for the Mac but aren’t Mac apps. The Mac, however, is welcoming to them all, <a href="https://daringfireball.net/2026/04/we_dont_serve_their_kind_here">like the Mos Eisley cantina</a>. We do serve their kind here. Nextpad++ isn’t like that. It doesn’t feel like an alien. It feels like Vincent D’Onofrio’s alien-bug-in-human-skin character from <em>Men in Black</em>.</p>
-
-<p>Letov’s website describes Nextpad++ as “A real Mac app, not a Wine wrapper: Objective-C++ on top of Scintilla and Cocoa, shipped as a Universal Binary for Apple Silicon (M1–M5) and Intel Macs.” Ostensibly that’s a good thing. The download is only 14 MB. But Nextpad++ looks and feels like something that should not exist. The promotional screenshots on the app’s own website show it <a href="https://daringfireball.net/misc/2026/05/nextpad++.png">with 50 inscrutable toolbar buttons</a>. It closes document tabs on mousedown, not mouseup. Its default font is 10-point Courier New. <a href="https://daringfireball.net/misc/2026/05/nextpad-editing-contextmenu.png">This</a> is a real dialog box. It offers <a href="https://daringfireball.net/misc/2026/05/nextpad-antialiasing.png">four settings for font antialiasing</a> — “Default”, “None”, “Antialiased”, and “LCD Optimized” — but the default is not “Default”. No human being would port a complex Windows app like Notepad++ to the Mac like this.</p>
-
-<p>I’m not anti-AI. I’m very much intrigued by the whole incipient vibe-coding phenomenon. But this app feels <em>unholy</em>.</p>
-
-
-
+<p><em><a href="https://daringfireball.net/2026/05/nextpad">Please enjoy this post on its permalink page</a>.</em></p>
 
     ]]></content>
   <title>★ Nextpad++</title></entry><entry>
@@ -1830,7 +1808,6 @@ trial. How good was it? Here are my favorite nuggets.</p>
 	</author>
 	<summary type="text">You might think it counterintuitive that a movement obsessed with software would be spearheading a severe decline in the design quality of software, but in Patel’s definition, there’s no concept of software as art, as a practice, as a craft. Software brain is purely an obsession with software as a medium in and of itself. A means with no consideration for the end.</summary>
 	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-
 <p>Back in 2009, Merlin Mann and I jointly gave a talk at SxSW titled “<a href="https://daringfireball.net/2009/03/obsession_times_voice">Obsession Times Voice</a>”. Regarding how it turned out, <a href="https://daringfireball.net/2009/03/obsession_times_voice">I wrote</a>:</p>
 
 <blockquote>
@@ -1894,9 +1871,6 @@ the data.</p>
 </ol>
 </div>
 
-
-
-
     ]]></content>
   <title>★ Software as the Product of Obsession Times Voice</title></entry><entry>
     
@@ -1911,7 +1885,6 @@ the data.</p>
 	</author>
 	<summary type="text">The fact that Paul Graham personally has billions of dollars at stake with OpenAI doesn’t mean that his public opinion on Sam Altman’s trustworthiness and leadership is invalid. But it certainly seems like the sort of thing that ought to be disclosed when quoting Graham as an Altman character reference.</summary>
 	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-
 <p>Speaking of companies with <a href="https://daringfireball.net/linked/2026/05/04/google-owns-a-big-chunk-of-anthropic">valuable minority stakes in AI companies</a>, there’s one thing that stuck in my craw about the blockbuster <a href="https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted">Ronan Farrow / Andrew Marantz investigative piece on Sam Altman and OpenAI</a> last month for The New Yorker. It didn’t come up during <a href="https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry">Nilay Patel’s excellent interview with Farrow on Decoder</a>, either.</p>
 
 <p>Sam Altman was the president of Y Combinator for several years, and left to become the full-time CEO of OpenAI. The New Yorker quotes Y Combinator co-founder Paul Graham multiple times, in the context of Altman’s trustworthiness. (Some of those quotes are firsthand, others secondhand.) Graham’s role in the story — particularly his public remarks <em>after</em> publication — comprised an entire section in <a href="https://daringfireball.net/2026/04/when_he_is_alive_and_not_after_he_is_dead">my own take on the New Yorker piece</a>, wherein I concluded:</p>
@@ -1952,9 +1925,6 @@ aware of this.</p>
 
 <p>Graham <a href="https://www.youtube.com/watch?v=6u4JVz7iQTY">and his wife Jessica Livingston</a> are two of Y Combinator’s four founding partners. The fact that Paul Graham personally has billions of dollars at stake with OpenAI doesn’t mean that his public opinion on Sam Altman’s trustworthiness and leadership is invalid. But it certainly seems like the sort of thing that ought to be disclosed when quoting Graham as an Altman character reference. A billion dollars here, a billion there — that adds up to the sort of money that <em>might</em> skew a fellow’s opinion.</p>
 
-
-
-
     ]]></content>
   <title>★ Y Combinator’s Stake in OpenAI</title></entry><entry>
     
@@ -1969,7 +1939,6 @@ aware of this.</p>
 	</author>
 	<summary type="text">There is no point getting any more outraged or disgusted at Meta for firing the Kenyan contractors who exposed the privacy fiasco of AI Glasses than you already were in the first place. They had to fire them.</summary>
 	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-
 <p>A follow-up point to <a href="https://daringfireball.net/linked/2026/05/01/meta-solved-their-problem">Friday’s post</a> about Meta unceremoniously shitcanning its entire contract with Sama, the Kenyan contractor that employed over 1,100 contractors to serve as Mechanical Turks for Meta’s AI efforts, after a few of the contractors told investigative reporters about the incredibly private things they witnessed from footage captured by users of Meta’s AI Glasses.</p>
 
 <p>There is no point getting <a href="https://pxlnv.com/linklog/meta-sama-contract-dispute/">any more</a> outraged or disgusted at Meta for firing these contractors than you already were in the first place. They had to fire them. The moment <a href="https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything">this investigative report was published in late February</a>, the fate of Sama’s Kenyan operation was sealed. They were toast. The key to understanding this is that Meta runs a criminal enterprise. Most of the organized crimes Meta commits aren’t crimes against the legal code (although <a href="https://www.reuters.com/legal/government/meta-faces-new-mexico-trial-that-could-force-changes-facebook-other-platforms-2026-05-02/">some</a> <a href="https://www.reuters.com/sustainability/boards-policy-regulation/italy-court-allows-class-action-against-meta-over-facebook-data-scraping-2026-04-14/">are</a>), but rather crimes against public perception and human decency. Remember <a href="https://daringfireball.net/linked/2024/03/29/meta-onavo-snapchat">what they did with Onavo</a>, their VPN product? Was that illegal? Dunno. Was it outrageous? Hell yes.</p>
@@ -1999,9 +1968,6 @@ aware of this.</p>
 
 </ol>
 </div>
-
-
-
 
     ]]></content>
   <title>★ Crimes Against Decency Need as Much Cover-Up as Crimes Against the Law</title></entry></feed><!-- THE END -->
