@@ -7,14 +7,30 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-29T21:19:33Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-29T23:48:59Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/05/what_is_a_dickover" />
+	<link rel="shorturl" href="http://df4.us/x83" />
+	<id>tag:daringfireball.net,2026://1.43059</id>
+	<published>2026-05-29T20:58:56Z</published>
+	<updated>2026-05-29T23:48:59Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">dickover — a modal panel, popover, or curtain presented by a website or app, deliberately obscuring its own content to frustrate the user with an unwanted, unnecessary, mandatory interaction; e.g. asking the user to accept “cookies”, subscribe to a newsletter, install the website’s mobile app, agree to terms of service, or anything else that the user couldn’t give two shits about.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p><em><a href="/2026/05/what_is_a_dickover">Please enjoy this article on its own webpage</a>. Trust me.</em></p>
+
+    ]]></content>
+  <title>★ What Is a Dickover?</title></entry><entry>
 	<title>One Group, Clearly, Is Deranged</title>
 	<link rel="alternate" type="text/html" href="https://paulkrugman.substack.com/p/whos-deranged-exactly" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x82" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/29/one-group-clearly-is-deranged" />
 	<id>tag:daringfireball.net,2026:/linked//6.43058</id>
 	<published>2026-05-29T16:22:10Z</published>
-	<updated>2026-05-29T19:19:26Z</updated>
+	<updated>2026-05-29T23:14:21Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -43,7 +59,7 @@ Only 19 percent of Americans.</p>
 
 <p>And let’s face it, “MAGA” is a euphemism for the Donald Trump cult of personality. These are the people who think it’s fine, just fine for him to be <a href="https://www.pbs.org/newshour/politics/ap-report-trump-eyes-former-institute-of-peace-building-for-new-board-of-peace-headquarters">putting his name</a> <a href="https://www.nytimes.com/2026/01/16/arts/as-kennedy-center-rebrands-its-mired-in-black-tape.html?unlocked_article_code=1.mFA.M_u0.3RpV7B7gn-go">on buildings</a>, <a href="https://daringfireball.net/linked/2026/03/28/trump-signature">his signature</a> (and <a href="https://www.washingtonpost.com/investigations/2026/05/28/trump-250-bill-pushed-by-treasury-appointees/">perhaps face</a>) on currency, putting his face on “special” edition <a href="https://www.cnn.com/2026/04/28/politics/us-trump-passport">US passports</a>, erecting <a href="https://time.com/article/2026/05/15/trump-gold-statue-controversy-comments-history/">gold statues of himself</a>, holding <a href="https://www.threads.com/@jdickerson/post/DY5WLT4EeyP">a UFC fight on the White House lawn</a> to celebrate his birthday — not to mention the not-even-trying-to-hide-it-or-excuse-it <a href="https://goodpoliticsbadpolitics.substack.com/p/the-slush-fund">abject corruption</a>.</p>
 
-<p>It’s rather depressing that 20 percent of the US population is in this cult. But I take solace that it’s <em>only</em> 20 percent. That’s not that much higher than the 13 percent who believe “Bigfoot / Sasquatch is a real, living creature”. This whole thing is a political boil that is starting to burst. Rats leave sinking ships.</p>
+<p>It’s rather depressing that 20 percent of the US population is in this cult. But I take solace that it’s <em>only</em> 20 percent. That’s not that much higher than <a href="https://civicscience.com/u-s-belief-in-sasquatch-has-risen-since-2020/">the 13 percent who believe</a> “Bigfoot / Sasquatch is a real, living creature”. This whole thing is a political boil that is starting to burst. Rats leave sinking ships.</p>
 
 <div>
 <a  title="Permanent link to ‘One Group, Clearly, Is Deranged’"  href="https://daringfireball.net/linked/2026/05/29/one-group-clearly-is-deranged">&nbsp;★&nbsp;</a>
@@ -1808,14 +1824,24 @@ trial. How good was it? Here are my favorite nuggets.</p>
 	<link rel="shorturl" href="http://df4.us/x6j" />
 	<id>tag:daringfireball.net,2026://1.43003</id>
 	<published>2026-05-13T02:22:16Z</published>
-	<updated>2026-05-29T21:19:33Z</updated>
+	<updated>2026-05-29T23:12:08Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<summary type="text">Nextpad++ feels like a fever dream. Like what Mac apps would be if the Nazis had won WWII.</summary>
 	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p><em><a href="https://daringfireball.net/">Please enjoy this post on its permalink page</a>.</em></p>
+<p>Windows Notepad is, more or less, the Windows peer to MacOS’s TextEdit — the built-in system text editor. For years, it was really basic — so much more basic than TextEdit that it engendered no affection. You don’t see paeans to Notepad <a href="https://daringfireball.net/linked/2026/01/26/chayka-textedit">in The New Yorker</a>. Recently though, Microsoft has started beefing it up, culminating last year <a href="https://daringfireball.net/linked/2025/06/06/markdown-support-in-windows-notepad">when they added fucking Markdown support</a>. Which still blows my mind.</p>
+
+<p><a href="https://notepad-plus-plus.org/">Notepad++</a> is a longstanding open source (GPL) Windows text editor <a href="https://notepad-plus-plus.org/author/">by Don Ho</a>, which <a href="https://notepad-plus-plus.org/">debuted back in 2003</a>. Just adding “++” to the name might be misleading. The name implies that it’s like Microsoft’s Notepad <a href="https://www.waltdisney.org/blog/walts-own-words-plussing-disneyland">plus</a> a little more. But Notepad++ is in fact a wholly independent programming text editor, with a rich plugin library. It doesn’t resemble Microsoft’s Notepad much at all anymore. It’s over two decades old but remains quite popular. To some extent Notepad++ is sorta kinda the Windows peer to <a href="https://www.barebones.com/products/bbedit/">BBEdit</a>.</p>
+
+<p><a href="https://nextpad.org/author/">Nextpad++</a> is something new, <a href="https://nextpad.org/author/">from Andrey Letov</a>. It’s a Mac port of the Notepad++ GPL code. It launched a few weeks ago under the name “Notepad++ for Mac”, but Letov had <a href="https://notepad-plus-plus.org/news/npp-trademark-infringement/">no right or permission to the name</a>. That dispute has been settled, and Letov has renamed this project Nextpad++. The website’s <a href="https://nextpad.org/about/">About page</a> has entire sections for “How Nextpad++ for Mac Was Built” and “Technology Stack”, and neither of those mentions AI, but this thing <em>has</em> to have been built using AI vibe-coding agents. That same About page also says the project only started on March 10, and the 1.0 version (under the defunct “Notepad++ for Mac” name) shipped just a few weeks after that. Something of the scope of this port couldn’t happen at that pace without AI. <strong>Update:</strong> On <a href="https://nextpad.org/author/">the Author page</a>, not the About page, it states, “multi-agent AI development workflows are what make a one-person project at this scale practical.” <em>Possible</em>, sure, but I wouldn’t call this <em>practical</em>.</p>
+
+<p>Nextpad++ feels like a fever dream. Like what Mac apps would be if the Nazis had won WWII. Look, there are all sorts of foreign apps on the Mac. <a href="https://daringfireball.net/2018/12/electron_and_the_decline_of_native_apps">Electron</a> apps. Apps ported with <a href="https://www.winehq.org/">Wine</a>. Web apps running in browser tabs or <a href="https://support.apple.com/guide/safari/add-to-dock-ibrw9e991864/mac">saved to the Dock</a>. The <a href="https://shapeof.com/archives/2026/4/tolaria_ai_and_rust.html">curious new generation</a> of lean-and-mean apps that are, in a technical sense, “native”, but are decidedly not Mac-assed apps, like <a href="https://zed.dev/">Zed</a> and <a href="https://tolaria.md/">Tolaria</a>. All those types of apps feel alien on MacOS. Like different species. They are apps for the Mac but aren’t Mac apps. The Mac, however, is welcoming to them all, <a href="https://daringfireball.net/2026/04/we_dont_serve_their_kind_here">like the Mos Eisley cantina</a>. We do serve their kind here. Nextpad++ isn’t like that. It doesn’t feel like an alien. It feels like Vincent D’Onofrio’s alien-bug-in-human-skin character from <em>Men in Black</em>.</p>
+
+<p>Letov’s website describes Nextpad++ as “A real Mac app, not a Wine wrapper: Objective-C++ on top of Scintilla and Cocoa, shipped as a Universal Binary for Apple Silicon (M1–M5) and Intel Macs.” Ostensibly that’s a good thing. The download is only 14 MB. But Nextpad++ looks and feels like something that should not exist. The promotional screenshots on the app’s own website show it <a href="https://daringfireball.net/misc/2026/05/nextpad++.png">with 50 inscrutable toolbar buttons</a>. It closes document tabs on mousedown, not mouseup. Its default font is 10-point Courier New. <a href="https://daringfireball.net/misc/2026/05/nextpad-editing-contextmenu.png">This</a> is a real dialog box. It offers <a href="https://daringfireball.net/misc/2026/05/nextpad-antialiasing.png">four settings for font antialiasing</a> — “Default”, “None”, “Antialiased”, and “LCD Optimized” — but the default is not “Default”. No human being would port a complex Windows app like Notepad++ to the Mac like this.</p>
+
+<p>I’m not anti-AI. I’m very much intrigued by the whole incipient vibe-coding phenomenon. But this app feels <em>unholy</em>.</p>
 
     ]]></content>
   <title>★ Nextpad++</title></entry><entry>
@@ -1949,48 +1975,4 @@ aware of this.</p>
 <p>Graham <a href="https://www.youtube.com/watch?v=6u4JVz7iQTY">and his wife Jessica Livingston</a> are two of Y Combinator’s four founding partners. The fact that Paul Graham personally has billions of dollars at stake with OpenAI doesn’t mean that his public opinion on Sam Altman’s trustworthiness and leadership is invalid. But it certainly seems like the sort of thing that ought to be disclosed when quoting Graham as an Altman character reference. A billion dollars here, a billion there — that adds up to the sort of money that <em>might</em> skew a fellow’s opinion.</p>
 
     ]]></content>
-  <title>★ Y Combinator’s Stake in OpenAI</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/05/crimes_against_decency_need_as_much_cover-up_as_crimes_against_the_law" />
-	<link rel="shorturl" href="http://df4.us/x5e" />
-	<id>tag:daringfireball.net,2026://1.42962</id>
-	<published>2026-05-03T23:25:41Z</published>
-	<updated>2026-05-04T01:51:06Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">There is no point getting any more outraged or disgusted at Meta for firing the Kenyan contractors who exposed the privacy fiasco of AI Glasses than you already were in the first place. They had to fire them.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>A follow-up point to <a href="https://daringfireball.net/linked/2026/05/01/meta-solved-their-problem">Friday’s post</a> about Meta unceremoniously shitcanning its entire contract with Sama, the Kenyan contractor that employed over 1,100 contractors to serve as Mechanical Turks for Meta’s AI efforts, after a few of the contractors told investigative reporters about the incredibly private things they witnessed from footage captured by users of Meta’s AI Glasses.</p>
-
-<p>There is no point getting <a href="https://pxlnv.com/linklog/meta-sama-contract-dispute/">any more</a> outraged or disgusted at Meta for firing these contractors than you already were in the first place. They had to fire them. The moment <a href="https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything">this investigative report was published in late February</a>, the fate of Sama’s Kenyan operation was sealed. They were toast. The key to understanding this is that Meta runs a criminal enterprise. Most of the organized crimes Meta commits aren’t crimes against the legal code (although <a href="https://www.reuters.com/legal/government/meta-faces-new-mexico-trial-that-could-force-changes-facebook-other-platforms-2026-05-02/">some</a> <a href="https://www.reuters.com/sustainability/boards-policy-regulation/italy-court-allows-class-action-against-meta-over-facebook-data-scraping-2026-04-14/">are</a>), but rather crimes against public perception and human decency. Remember <a href="https://daringfireball.net/linked/2024/03/29/meta-onavo-snapchat">what they did with Onavo</a>, their VPN product? Was that illegal? Dunno. Was it outrageous? Hell yes.</p>
-
-<p>Let’s just concede for the sake of argument that there’s nothing illegal about the way Meta was sending video footage from users’ AI Glasses to contractors in Kenya to review. I presume they’re still doing it today, just with different contractors, in a different computer cubicle sweatshop, perhaps in a different country. Nothing to cover up legally. But just the plain description of what they’re doing fills people with a visceral repulsion. However, people only have that visceral reaction <em>if they know what’s going on</em>. Part of the whole premise is that the whole thing has to be kept on the q.t.</p>
-
-<p>If it said right on the box that when you use Meta AI Glasses, the footage might be reviewed by third-party contractors, and when that footage is reviewed, you — the user whose footage is being reviewed — won’t know it’s happening and won’t get prompted first for permission (because you’ve actually OK’d it in advance just by hitting the “Accept” button on the long dense <a href="https://www.facebook.com/legal/ai-terms">terms of service</a> that literally almost <em>no one</em> reads because such terms are written in impenetrable legalese), almost no one would buy them. And if it were more widely known that this is how these glasses work, there’d be more of a social stigma surrounding those who wear them.<sup id="fnr1-2026-05-03"><a href="#fn1-2026-05-03">1</a></sup></p>
-
-<p>That, I think, is the primary reason why the contractors were in Kenya in the first place, and their replacements (now that Meta has terminated its contract with Sama) are surely still in some third-world country. It’s not about the lower wages (but that doesn’t hurt). It’s about the fact that the entire <em>existence</em> of the operation is easier to keep quiet when it’s literally on the other side of the planet. It’s a goddamn marvel that the investigative reporters from those two Swedish newspapers found them.</p>
-
-<p>Most illegal acts are scandalous, but many scandalous acts are perfectly legal. But all scandalous acts need to be covered up. The operation has to be kept quiet, has to be covered up, because it’s unacceptable. It’s outrageous. If this were more widely publicized, Meta would suffer on two fronts. First, it would become better known that there’s nothing artificial about some of what they call “AI” — it’s in fact powered by human intelligence, just in another hemisphere. Second, and related to the first, some of the interactions you have with Meta AI — including images and video you send it, and images and video captured by Meta AI Glasses — are reviewed by human contractors. People write things and show things to AI, thinking it’s kept private between them and a computer program, that they would never share if they knew it might be seen by human beings paid by the AI provider to refine the training and correct its mistakes. A lot of people only use these “AI” products because they have no idea what’s actually going on.</p>
-
-<p>“Three may keep a secret, if two of them are dead.” <br />
-—Benjamin Franklin, <em>Poor Richard’s Almanack</em></p>
-
-<p>Anyway, enjoy the Meta AI built into WhatsApp and Instagram. And maybe keep a link to that <a href="https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything">report on Meta’s contractors in Kenya</a> handy for anyone you meet who wears AI Glasses.</p>
-
-<div class="footnotes">
-<hr />
-<ol>
-
-<li id="fn1-2026-05-03">
-<p>It’s a fascinating mystery what becomes a scandal and what doesn’t. One flaw in our news media culture is that stories from other countries, especially countries where English is not the primary language, tend never to gain traction here. You’d think the Internet, and the rise of very good automated language translation, would change this. But that doesn’t seem to be the case. After this story came out in February — a joint investigation <a href="https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything">co-published by the Swedish publications Svenska Dagbladet</a> and Göteborgs-Posten — it just faded away after a few days. I remember thinking <a href="https://daringfireball.net/linked/2026/03/09/kenya-meta-contractors">when I linked to it</a>, “<em>Man, this feels potentially explosive — this might blow up into a big scandal.</em>” But it didn’t. I didn’t forget about it, but I hadn’t thought about it in weeks, until I happened to catch this news — <a href="https://pxlnv.com/linklog/meta-sama-contract-dispute/">via Nick Heer</a> — that Meta had severed ties with Sama, the contracting firm.</p>
-
-<p>I can’t help but think that if the exact same original report had been published by, say, The New York Times or The New Yorker, or in video form by 60 Minutes, that it might have blown up into a sizable scandal and public relations disaster for Meta. But as it stands, it largely passed without note. In addition to the fact that the original story was published in Sweden, the other missing factor is they didn’t publish leaked images or footage from users of Meta AI Glasses. We read testimony from these Kenyans that as part of their jobs, they watched AI Glasses owners having sex and going to the toilet, but we never see footage of AI Glasses owners having sex or going to the toilet. That shouldn’t make a huge difference, but human nature is such that it does.&nbsp;<a href="#fnr1-2026-05-03"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
-</li>
-
-</ol>
-</div>
-
-    ]]></content>
-  <title>★ Crimes Against Decency Need as Much Cover-Up as Crimes Against the Law</title></entry></feed><!-- THE END -->
+  <title>★ Y Combinator’s Stake in OpenAI</title></entry></feed><!-- THE END -->
