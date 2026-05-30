@@ -7,7 +7,77 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-05-30T13:22:54Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-05-30T15:46:42Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’</title>
+	<link rel="alternate" type="text/html" href="https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x86" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/30/meta-subscriptions-for-fun" />
+	<id>tag:daringfireball.net,2026:/linked//6.43062</id>
+	<published>2026-05-30T15:34:02Z</published>
+	<updated>2026-05-30T15:46:42Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Sarah Perez, reporting for TechCrunch:</p>
+
+<blockquote>
+  <p>Meta is doubling down on its subscription offerings. On Wednesday,
+the social networking giant announced it’s now rolling out its
+consumer subscription plans globally for its flagship apps,
+Instagram, Facebook, and WhatsApp, and beginning tests of new
+subscriptions for businesses, creators, and Meta AI users.</p>
+
+<p>For a few dollars per month, consumers subscribing to
+Instagram Plus ($3.99/mo), Facebook Plus ($3.99/mo), or
+WhatsApp Plus ($2.99/mo) will gain access to extra features,
+like profile customization, super reactions, and story
+insights, among other things.</p>
+
+<p>In an <a href="https://www.instagram.com/p/DY2dHCWMZST/?hl=en">announcement</a>, Meta’s head of product, Naomi Gleit,
+noted that “more fun features” will be added in the future.</p>
+</blockquote>
+
+<p>My first question about this was whether Meta would be using IAP on iOS and Android. On the one hand, Zuckerberg <em>really</em> resents Meta’s subservient position to Apple and Google in the mobile ecosystem — that’s what drove him to make a big wrong bet on the “metaverse” as the Next Big Thing. But on the other hand, what else are they going to do? Most people only use Meta’s platforms via the phone apps, and if they’re going to allow subscriptions via the apps, they have to pay Apple and Google their commissions.</p>
+
+<p>This point wasn’t addressed in Perez’s article, <a href="https://mastodon.social/@gruber/116649712592670940">so I asked her</a> on Mastodon, and <a href="https://mastodon.social/@Sarahp/116652361168853988">she confirmed</a> that they <em>will</em> be using IAP through both the App Store and Play Store. I’m curious how much they’ll try (and get away with) steering people to the web — both to avoid the store commissions <em>and</em> for direct control over the subscription relationship.</p>
+
+<div>
+<a  title="Permanent link to ‘Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’’"  href="https://daringfireball.net/linked/2026/05/30/meta-subscriptions-for-fun">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Daniel Jalkut on AI</title>
+	<link rel="alternate" type="text/html" href="https://mastodon.social/@danielpunkass/116639318125898071" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x85" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/30/jalkut-on-ai" />
+	<id>tag:daringfireball.net,2026:/linked//6.43061</id>
+	<published>2026-05-30T15:27:20Z</published>
+	<updated>2026-05-30T15:27:20Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Daniel Jalkut, on Mastodon (cross-posted to <a href="https://bsky.app/profile/danielpunkass.punkitup.com/post/3mmqcikjkjn2t">Bluesky</a> and <a href="https://www.threads.com/@danielpunkass/post/DYynPrFlt3Q">Threads</a>):</p>
+
+<blockquote>
+  <p>My take on AI is, essentially, everybody who’s against it is too
+against it and everybody who’s for it is too for it.</p>
+</blockquote>
+
+<p>I concur with this take completely.</p>
+
+<p>(<strong>Sidenote:</strong> The different reply threads on the three networks speak loudly to the cultural and algorithmic differences between them. Good lord has Meta steered Threads into “make people argumentative” engagement.)</p>
+
+<div>
+<a  title="Permanent link to ‘Daniel Jalkut on AI’"  href="https://daringfireball.net/linked/2026/05/30/jalkut-on-ai">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Yours Truly on TBPN Yesterday</title>
 	<link rel="alternate" type="text/html" href="https://www.youtube.com/live/sQVwLUxFdMY?t=1997" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x84" />
@@ -1690,106 +1760,6 @@ of AGI deployment when there is no AGI to deploy?)</p>
 
 <div>
 <a  title="Permanent link to ‘Wanton Destruction of CBS Property’"  href="https://daringfireball.net/linked/2026/05/15/wanton-destruction-of-cbs-property">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Dropover, a Mac Shelf Utility That Makes Clever Use of Mouse Shaking</title>
-	<link rel="alternate" type="text/html" href="https://dropoverapp.com/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x6x" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/15/dropover" />
-	<id>tag:daringfireball.net,2026:/linked//6.43017</id>
-	<published>2026-05-15T19:24:10Z</published>
-	<updated>2026-05-15T19:24:11Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Yesterday, regarding the “Magic Cursor” feature Google teased for its upcoming Googlebook/Aluminium OS platform, <a href="https://daringfireball.net/linked/2026/05/14/googlebooks">I wrote</a>:</p>
-
-<blockquote>
-  <p>Shaking your cursor over something is an interesting gesture. The
-only feature I’m aware of that uses that gesture is MacOS’s
-feature that makes your cursor bigger when you shake it, to help
-spot it on the display.</p>
-</blockquote>
-
-<p>Then, last evening, I selected a few files on my desktop, started dragging them, and shook my mouse cursor to conjure a drop shelf from <a href="https://dropoverapp.com/">Dropover</a>, a Mac utility by developer Damir Tursunović that I’ve been using for about two years. As soon I shook my mouse, I smiled and thought, “Well, I should mention that.” So here I am, mentioning the gesture and Dropover.</p>
-
-<p>Years ago <a href="https://daringfireball.net/linked/2017/05/26/yoink">I recommended Yoink</a>, which is very much a direct competitor to Dropover. The basic idea with both apps is that sometimes you want a temporary “shelf” on which to drop items — a way station between where you’re dragging the items from and where you want to drop them. <a href="https://eternalstorms.at/yoink/mac/">Yoink</a> has options to appear only when you drag to the left edge of the screen, or to appear as soon as you start dragging anything. I have always used Yoink with it configured to show its shelf at the edge of the screen, because I only want it to appear when I need it. Appearing on every single drag is, to me, distracting. But sometimes the left edge of the display feels far away.</p>
-
-<p>Dropover has two options for appearing only when you want it, right where your cursor currently is. The first is the aforementioned mid-drag shake gesture. The other is an option to appear, while dragging, only when holding down a modifier key. The default key is Shift, which is what I use, but you can choose between Shift, Command, and Control. When I first started using Dropover, I leaned more on pressing Shift to invoke it. As time has gone on, more and more I use the shake gesture without thinking about it. Like yesterday. It feels like you’re saying “<em>Give me a shelf right here</em>” when you shake mid-drag. It’s clever <em>and</em> convenient, and, unlike using a modifier key, doesn’t require you to involve your other hand. (Dropover also lets you optionally use your MacBook’s notch as a drop target, and both apps let you drop items on their menu bar icons.)</p>
-
-<p><a href="https://dropoverapp.com/">Dropover</a> is a free download <a href="https://apps.apple.com/us/app/dropover-easier-drag-drop/id1355679052?mt=12">from the Mac App Store</a> and unlocking all features costs just $7 (one-time purchase). <a href="https://eternalstorms.at/yoink/mac/">Yoink</a> costs $9, either from the web <a href="https://apps.apple.com/us/app/yoink-better-drag-and-drop/id457622435?mt=12">or the Mac App Store</a>. Both are terrific apps and are worth checking out. And if you’re not already using a utility of this sort, you probably should be.</p>
-
-<div>
-<a  title="Permanent link to ‘Dropover, a Mac Shelf Utility That Makes Clever Use of Mouse Shaking’"  href="https://daringfireball.net/linked/2026/05/15/dropover">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Aluminium OS: Google’s ‘Android for PC’ OS for Googlebooks</title>
-	<link rel="alternate" type="text/html" href="https://aluminium-os.com/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x6w" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/15/aluminiumos" />
-	<id>tag:daringfireball.net,2026:/linked//6.43016</id>
-	<published>2026-05-15T18:37:13Z</published>
-	<updated>2026-05-16T01:42:39Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p><strong>Update:</strong> I originally posted this item thinking the aluminium-os.com website was official. It’s not. And the fact that it’s not is only mentioned in small print in the page footer. My bad, and my apologies for not noticing. No wonder I thought the descriptions were so un-Google-like in language and humility. This also explains the incongruity between Google’s statement that “Aluminium OS” is only a codename, and the existence of this site premised on the idea that the platform is named Aluminium OS.]</p>
-
-<blockquote>
-  <p>Aluminium OS — internally codenamed ALOS — is Google’s entirely
-new Android-based operating system built specifically for laptops
-and desktop computers.</p>
-</blockquote>
-
-<p>I like the name and wish they’d stick with it. But <a href="https://www.theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjNVSjlWdlZESmgiLCJwIjoiL3RlY2gvOTI4NDc5L2dvb2dsZS1nb29nbGVib29rLWxhcHRvcHMtYW5kcm9pZC10ZWFzZS1hbHVtaW5pdW0tY2hyb21lYm9vayIsImV4cCI6MTc3OTIxNjg2NiwiaWF0IjoxNzc4Nzg0ODY2fQ.a74WT34THV0Ih1pGO7NH4daq39ytQXdhO4EAgE6HCeI">The Verge reported this week</a> — re: Google’s Googlebook teaser announcement — that Peter Du of Google’s global communications team told them “We’ll have more to share on the exact OS branding later this year. We can confirm it is not Aluminium — that is the codename, not the official branding.” Maybe they’re going to call it “Google OS” given that they’re calling the devices Googlebooks?</p>
-
-<blockquote>
-  <p>This is not ChromeOS with a Play Store tab. It is not an Android
-phone app scaling itself to a 15-inch display. Aluminium OS is
-built from the ground up on Android 17, with a completely custom
-window manager, a real taskbar, virtual desktops, and Gemini AI
-baked into every layer of the operating system.</p>
-
-<p>For over a decade, Google ran two separate systems in parallel — ChromeOS for laptops, Android for phones — and it showed. Apps
-behaved differently across devices, engineering teams were split
-across two codebases, and Google fell visibly behind Apple’s
-unified iPhone-iPad-Mac ecosystem. Aluminium OS is the decisive
-answer to all of that.</p>
-</blockquote>
-
-<p>I find this description so refreshing, and so un-Google-like. It’s human and humble. I love the flat-out acknowledgement that Apple’s iPhone-iPad-Mac <a href="https://www.apple.com/macos/continuity/">Continuity</a> work has kicked Google’s ass. (It would be fascinating to see Apple acknowledge a similar degree of getting-its-ass-kicked, naming exactly which platforms were kicking its ass, with regard to Siri. I will not hold my breath.)</p>
-
-<p>I’ve been vaguely aware <a href="https://www.androidauthority.com/google-combine-chrome-os-android-3577035/">since last year</a> that Google had announced plans to “combine” ChromeOS and Android. There’s two ways to do that: (a) run Android apps in ChromeOS and do away with Android, as an OS, for device classes other than phones; or (b) do away with ChromeOS and build out Android for tablet and PC form factors. Option (a) never made any sense to me. All OSes have built-in browsers and web rendering engines. A web rendering engine does not make for a good foundation for an OS. I never thought ChromeOS sounded like a good idea, and when I’ve tinkered with Chromebooks, the experience was even worse than I expected. Another dose of welcome humility on this Aluminium mini site is the acknowledgement that ChromeOS is a market failure outside K-12:</p>
-
-<blockquote>
-  <p>ChromeOS captured K-12 education but never broke into mainstream
-consumer or enterprise markets at scale. Aluminium OS is built for
-all segments.</p>
-</blockquote>
-
-<p>Reading the rest of this site, I am much more intrigued by Aluminium OS than I expected to be:</p>
-
-<blockquote>
-  <p><strong>On-Device Code Assistance</strong> <br />
-Write, debug, explain, and refactor code directly in the terminal — no separate paid extension, no cloud subscription for basics.</p>
-
-<p><strong>Natural Language Automation</strong> <br />
-Describe any repetitive task in plain English and Gemini automates
-it permanently as a saved one-command workflow.</p>
-</blockquote>
-
-<p>They’re saying Aluminium OS is meant to serve as a developer workstation. We shall see how that pans out, but that’s a level of ambition that ChromeOS never even aspired to, let alone reached.</p>
-
-<div>
-<a  title="Permanent link to ‘Aluminium OS: Google’s ‘Android for PC’ OS for Googlebooks’"  href="https://daringfireball.net/linked/2026/05/15/aluminiumos">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
