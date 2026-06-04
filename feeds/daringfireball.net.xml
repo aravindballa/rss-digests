@@ -7,14 +7,14 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-04T22:35:40Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
-	<title>The Talk Show Live From WWDC 2026: Tuesday June 9</title>
+<updated>2026-06-04T22:50:57Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>The Talk Show Live From WWDC 2026: Tuesday in San Jose</title>
 	<link rel="alternate" type="text/html" href="https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2026" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x8x" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/04/the-talk-show-live-tickets-2026" />
 	<id>tag:daringfireball.net,2026:/linked//6.43089</id>
 	<published>2026-06-04T22:05:05Z</published>
-	<updated>2026-06-04T22:05:05Z</updated>
+	<updated>2026-06-04T22:50:57Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -28,7 +28,7 @@
 <p>The annual live audience episode of The Talk Show during the week of WWDC. If you can make it, you should come. You’ll even enjoy the prelude, mingling with fellow DF readers and listeners.</p>
 
 <div>
-<a  title="Permanent link to ‘The Talk Show Live From WWDC 2026: Tuesday June 9’"  href="https://daringfireball.net/linked/2026/06/04/the-talk-show-live-tickets-2026">&nbsp;★&nbsp;</a>
+<a  title="Permanent link to ‘The Talk Show Live From WWDC 2026: Tuesday in San Jose’"  href="https://daringfireball.net/linked/2026/06/04/the-talk-show-live-tickets-2026">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
@@ -149,7 +149,7 @@ with extra power.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/04/remember-when-chrome-went-bad-on-macos" />
 	<id>tag:daringfireball.net,2026:/linked//6.43085</id>
 	<published>2026-06-04T18:10:19Z</published>
-	<updated>2026-06-04T21:23:17Z</updated>
+	<updated>2026-06-04T22:44:42Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -160,7 +160,7 @@ with extra power.</p>
 <blockquote>
   <p>Short story: Google Chrome installs an updater called Keystone on
 your computer, which is <a href="https://twitter.com/lorenb/timelines/1338892756752732169">bizarrely correlated</a> to massive
-unexplained CPU usage in WindowServer (a system process)<a href="https://chromeisbad.com/#hiding">1</a>, and
+unexplained CPU usage in WindowServer (a system process)<a href="https://chromeisbad.com/#hiding">[1]</a>, and
 <em>made my whole computer slow even when Chrome wasn’t running</em>.
 Deleting Chrome and Keystone made my computer <em>way, way faster,
 all the time</em>.</p>
