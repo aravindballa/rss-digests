@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-04T20:55:04Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-04T21:23:17Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>‘The Insider’</title>
 	<link rel="alternate" type="text/html" href="https://letterboxd.com/film/the-insider/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x8w" />
@@ -124,7 +124,7 @@ with extra power.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/04/remember-when-chrome-went-bad-on-macos" />
 	<id>tag:daringfireball.net,2026:/linked//6.43085</id>
 	<published>2026-06-04T18:10:19Z</published>
-	<updated>2026-06-04T20:55:04Z</updated>
+	<updated>2026-06-04T21:23:17Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -163,7 +163,7 @@ and WindowServer CPU was well under 10% again.</em></p>
 
 <p>The main point is it never should have happened in the first place. A third-party app should just be a third-party app — not add components to your system software just so it can update itself when it isn’t running. Background agents and extensions are <a href="https://rogueamoeba.com/">sometimes necessary</a> to the functionality of a product. Checking for software updates to a browser or AI chatbot, when those apps aren’t running, is not necessary. The golden rule applies: imagine if every app on your system installed its own background agent to check for software updates. Chrome is a popular browser on the Mac, but it’s just a web browser. Other web browsers do just fine checking for updates from the browser itself when they’re running. If the user is actually using an app regularly, it’ll get plenty of chances to check for updates when it’s running. If the user isn’t regularly using an app, why in the world should that seldom-used app have software running all the time in the background?</p>
 
-<p>This sort of chaos is <a href="https://daringfireball.net/2021/06/annotating_apples_anti-sideloading_white_paper">why Apple keeps iOS locked down</a>. There are no third-party login items on iOS that run in the background — let alone ones with no option to disable. No third-party app can do anything that causes the iOS window manager to consume 80 percent of the CPU while ostensibly idle. There are obviously trade-offs here. I rely on a Mac for my workstation because the Mac gives me the power to potentially shoot myself in the foot. But one major reason why iOS is an order of magnitude more popular than MacOS is because you cannot shoot yourself in the foot with it, even though that means you can’t use it do things that would require that power.</p>
+<p>This sort of chaos is <a href="https://daringfireball.net/2021/06/annotating_apples_anti-sideloading_white_paper">why Apple keeps iOS locked down</a>. There are no third-party login items on iOS that run in the background — let alone ones with no option to disable. No third-party app can do anything that causes the iOS window manager to consume 80 percent of the CPU while ostensibly idle. There are obviously trade-offs here. I rely on a Mac for my workstation because the Mac gives me the power to potentially shoot myself in the foot. But one major reason why iOS is an order of magnitude more popular than MacOS is because you cannot shoot yourself in the foot with it, even though that means you can’t use it to do things that would require that power.</p>
 
 <div>
 <a  title="Permanent link to ‘Remember When Chrome Went Bad on MacOS?’"  href="https://daringfireball.net/linked/2026/06/04/remember-when-chrome-went-bad-on-macos">&nbsp;★&nbsp;</a>
