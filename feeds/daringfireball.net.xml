@@ -7,7 +7,56 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-04T02:26:50Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-04T13:47:33Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>The AI-Driven Resurgence of Native Mac App Development</title>
+	<link rel="alternate" type="text/html" href="https://sixcolors.com/post/2026/06/road-to-wwdc-2026-whats-a-developer/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x8r" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/04/the-ai-driven-resurgence-of-mac-app-development" />
+	<id>tag:daringfireball.net,2026:/linked//6.43083</id>
+	<published>2026-06-04T13:43:26Z</published>
+	<updated>2026-06-04T13:47:33Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jason Snell at Six Colors, looking ahead to WWDC next week:</p>
+
+<blockquote>
+  <p>These days, I’m getting emails pitching me for an endless stream
+of new Mac apps. It’s quite remarkable because there was a
+period five or ten years ago when it seemed like all app
+development on Apple’s platforms was focused on iOS. Even more
+interesting, these are all indie Mac apps that seem to be built
+using native Mac frameworks, not the product of big corporations
+that are just rolling their cross-platform development system
+out everywhere. These apps seem to have a point of view and are
+focused on the Mac.</p>
+
+<p>Of course, it’s happening because of AI. [...]</p>
+
+<p>Mac users — some of them developers, some of them people who have
+never written software in their lives — are building apps that
+fulfill their imaginations.</p>
+
+<p>We now live in an era where, if you can dream an app, you can
+probably build it. Especially Mac utilities. And who cares more
+about native Mac software than Mac users? Certainly not those
+companies that gave up on Mac development and focused all their
+energies on giant cross-platform code bases to attract venture
+investment and big payouts.</p>
+</blockquote>
+
+<p>There are pros and cons to everything, but on the whole, AI-assisted programming has rejuvenated Mac development. It wasn’t moribund, but it was stagnant. And stagnation is the first step toward decline. Now it’s resurgent, and that’s a fun thing to see. And, I think, genuinely important for the future of the platform. I’ve been concerned for years that the biggest problem the Mac faces is that so many new apps for the platform <a href="https://daringfireball.net/2018/12/electron_and_the_decline_of_native_apps">weren’t Mac apps</a>. The Mac has never faced a decline in popularity, but truly native Mac application development (and the skills) did. Now it’s turning around. Mac users are thirsty for Mac apps, and with AI, they can quench their own thirst and tell the dullards promulgating Electron bundles to pound sand.</p>
+
+<p>(And Snell, it turns out, <a href="https://www.theincomparable.com/doubleender/">has joined the party</a>.)</p>
+
+<div>
+<a  title="Permanent link to ‘The AI-Driven Resurgence of Native Mac App Development’"  href="https://daringfireball.net/linked/2026/06/04/the-ai-driven-resurgence-of-mac-app-development">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Another Gem From the Annals of Nick Bilton Jackassery</title>
 	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2015/03/20/bilton-pseudoscience" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x8q" />
@@ -1632,39 +1681,6 @@ in a place right now, you can only speak of it in past-tense.</p>
 
 <div>
 <a  title="Permanent link to ‘‘Geography Is Four-Dimensional’’"  href="https://daringfireball.net/linked/2026/05/21/sivers-geography-4d">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>The Verge: ‘The 13 Biggest Announcements at Google I/O 2026’</title>
-	<link rel="alternate" type="text/html" href="https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Ik5tNTBSc0hxRXQiLCJwIjoiL3RlY2gvOTMzNDE1L2dvb2dsZS1pby0yMDI2LWJpZ2dlc3QtYW5ub3VuY2VtZW50cy1haS1nZW1pbmkiLCJleHAiOjE3Nzk3NTk5MjQsImlhdCI6MTc3OTMyNzkyNH0.g_JiqbJBfi9YcDT1re8aofzmpb3tcZNwY2jQybgwJL0" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x7j" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/20/the-verge-google-io" />
-	<id>tag:daringfireball.net,2026:/linked//6.43039</id>
-	<published>2026-05-21T01:47:24Z</published>
-	<updated>2026-05-21T01:47:24Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Andrew Liszewski and Stevie Bonifield, writing for The Verge (gift link):</p>
-
-<blockquote>
-  <p>Google’s I/O 2026 keynote today was once again full of AI-related
-announcements including a new family of Gemini 3.5 AI models, new
-features for Search and Gmail, and updates about its Project Aura
-smart glasses.</p>
-
-<p>If you weren’t able to <a href="https://www.theverge.com/tech/932939/google-io-2026-how-to-watch">tune into the event’s livestream today</a>
-or <a href="https://www.theverge.com/tech/932275/google-io-2026-live-blog-on-the-ground-at-googles-keynote">follow along with our live blog</a>, you can catch up on
-everything you missed in our roundup below.</p>
-</blockquote>
-
-<p>This roundup was the only way I could really make sense out of Google I/O.</p>
-
-<div>
-<a  title="Permanent link to ‘The Verge: ‘The 13 Biggest Announcements at Google I/O 2026’’"  href="https://daringfireball.net/linked/2026/05/20/the-verge-google-io">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
