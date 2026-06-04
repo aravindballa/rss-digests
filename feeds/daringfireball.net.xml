@@ -7,7 +7,30 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-04T20:25:27Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-04T20:55:04Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>‘The Insider’</title>
+	<link rel="alternate" type="text/html" href="https://letterboxd.com/film/the-insider/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x8w" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/04/the-insider" />
+	<id>tag:daringfireball.net,2026:/linked//6.43088</id>
+	<published>2026-06-04T20:42:35Z</published>
+	<updated>2026-06-04T20:42:36Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>All this Sturm und Drang surrounding 60 Minutes has me thinking about a re-watch of <em>The Insider</em>, Michael Mann’s great 1999 movie. Letterboxd’s synopsis:
+“A research chemist comes under personal and professional attack when he decides to appear in a 60 Minutes exposé on Big Tobacco.” It’s a great movie, and feels apt AF at the moment. <a href="https://www.youtube.com/watch?v=1_-Vu8LrUDk">Here’s the original segment on 60 Minutes</a>, which ran an entire half hour.</p>
+
+<p>What’s going on today is like if — instead of getting shady, threatening, and litigious — the tobacco companies had just purchased CBS, purged the staff at 60 Minutes, and hired a bunch of pro-cigarette stooges to replace them.</p>
+
+<div>
+<a  title="Permanent link to ‘‘The Insider’’"  href="https://daringfireball.net/linked/2026/06/04/the-insider">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’</title>
 	<link rel="alternate" type="text/html" href="https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdiRHFjMlJadmgiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk0MjI0Mi9taWNyb3NvZnQtYnVpbGQtYWktYWdlbnRzLW9wZW5haS1jb21wZXRpdGlvbiIsImV4cCI6MTc4MTAzNjQ2OSwiaWF0IjoxNzgwNjA0NDY5fQ.jP0KO9OVCO-fGkk1Utt0NIEn97JWaI8zs0zhjf2V2MQ" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x8v" />
@@ -101,7 +124,7 @@ with extra power.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/04/remember-when-chrome-went-bad-on-macos" />
 	<id>tag:daringfireball.net,2026:/linked//6.43085</id>
 	<published>2026-06-04T18:10:19Z</published>
-	<updated>2026-06-04T18:10:20Z</updated>
+	<updated>2026-06-04T20:55:04Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -138,9 +161,9 @@ and WindowServer CPU was well under 10% again.</em></p>
 
 <p>It seems as though Google eventually fixed these Chrome bugs — or Apple changed something in a MacOS update that fixed the bugs for them — but I’ve never seen a full explanation of the problem and eventual solution. Does anyone know what happened here?</p>
 
-<p>The main point is it never should have happened in the first place. A third-party app should just be a third-party app — not add components to your system software just so it can update itself when it isn’t running. Background agents and extensions are <a href="https://rogueamoeba.com/">sometimes necessary</a> to the functionality of a product. Checking for software updates to a browser or AI chatbot, when those apps aren’t running, is not necessary. The golden rule applies: imagine if every app on your system installed its own background agent to check for software updates. Chrome is a popular browser on the Mac, but it’s just a web browser. Other web browsers do just fine checking for updates from the browser itself when it’s running. If the user is actually using an app regularly, it’ll get plenty of chances to check for updates when it’s running. If the user isn’t regularly using an app, why in the world should that seldom-used app have software running all the time in the background?</p>
+<p>The main point is it never should have happened in the first place. A third-party app should just be a third-party app — not add components to your system software just so it can update itself when it isn’t running. Background agents and extensions are <a href="https://rogueamoeba.com/">sometimes necessary</a> to the functionality of a product. Checking for software updates to a browser or AI chatbot, when those apps aren’t running, is not necessary. The golden rule applies: imagine if every app on your system installed its own background agent to check for software updates. Chrome is a popular browser on the Mac, but it’s just a web browser. Other web browsers do just fine checking for updates from the browser itself when they’re running. If the user is actually using an app regularly, it’ll get plenty of chances to check for updates when it’s running. If the user isn’t regularly using an app, why in the world should that seldom-used app have software running all the time in the background?</p>
 
-<p>This sort of chaos is <a href="https://daringfireball.net/2021/06/annotating_apples_anti-sideloading_white_paper">why Apple keeps iOS locked down</a>. There are no third-party login items on iOS that run in the background — let alone ones with no option to disable. No third-party app can do anything that causes the iOS window manager to consume 80 percent of the CPU while ostensibly idle. There are obviously trade-offs here. I rely on a Mac for my workstation because the Mac gives me the power to potentially shoot myself in the foot. But iOS is an order of magnitude more popular than MacOS because you cannot shoot yourself in the foot with it, even though that means you can’t use it do things that would require that power.</p>
+<p>This sort of chaos is <a href="https://daringfireball.net/2021/06/annotating_apples_anti-sideloading_white_paper">why Apple keeps iOS locked down</a>. There are no third-party login items on iOS that run in the background — let alone ones with no option to disable. No third-party app can do anything that causes the iOS window manager to consume 80 percent of the CPU while ostensibly idle. There are obviously trade-offs here. I rely on a Mac for my workstation because the Mac gives me the power to potentially shoot myself in the foot. But one major reason why iOS is an order of magnitude more popular than MacOS is because you cannot shoot yourself in the foot with it, even though that means you can’t use it do things that would require that power.</p>
 
 <div>
 <a  title="Permanent link to ‘Remember When Chrome Went Bad on MacOS?’"  href="https://daringfireball.net/linked/2026/06/04/remember-when-chrome-went-bad-on-macos">&nbsp;★&nbsp;</a>
@@ -359,13 +382,13 @@ courage return.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/03/the-60-minutes-purge" />
 	<id>tag:daringfireball.net,2026:/linked//6.43079</id>
 	<published>2026-06-03T21:32:52Z</published>
-	<updated>2026-06-04T00:55:57Z</updated>
+	<updated>2026-06-04T20:44:18Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Paramount’s “Press Express” page promoting 60 Minutes still lists all eight correspondent from the 2025–2026 season, the program’s 58th. (Perhaps they fired the person responsible for keeping the cast page up to date.) In the order they appear on Paramount’s listing:</p>
+<p>Paramount’s “Press Express” page promoting 60 Minutes still lists all eight correspondents from the 2025–2026 season, the program’s 58th. (Perhaps they fired the person responsible for keeping the cast page up to date.) In the order they appear on Paramount’s listing:</p>
 
 <ul>
 <li>Lesley Stahl</li>
@@ -547,7 +570,7 @@ metaverse is...</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/02/the-metaverse-was-snake-oil-for-isolation" />
 	<id>tag:daringfireball.net,2026:/linked//6.43074</id>
 	<published>2026-06-02T20:42:33Z</published>
-	<updated>2026-06-02T20:42:34Z</updated>
+	<updated>2026-06-04T20:49:52Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -555,7 +578,7 @@ metaverse is...</p>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
 <p>A follow-up point from <a href="https://daringfireball.net/linked/2026/06/01/the-metaverse-fever-dream">my post yesterday linking to</a> Nick Heer’s blockbuster “<a href="https://pxlnv.com/blog/metaverse-fever-dream/">The Metaverse Fever Dream</a>”. In particular, the connection Heer draws between the rise of “metaverse” hype and the pandemic.</p>
 
-<p>I always sort of knew that metaverse hype roughly coincided with the Covid lockdown and our collective period of isolation and loneliness, a year-plus stretch when we relied mostly on computer platforms for nearly all socializing. But here in 2026 it’s now clear that metaverse hype and lockdown-induced isolation <em>exactly</em> coincided. They didn’t roughly overlap; they exactly overlapped. So much so that I’m now wondering if any of the “metaverse” hype would have happened if Covid hadn’t happened. Facebook still likely would’ve renamed itself, <a href="https://om.co/2025/04/28/no-gruber-this-is-why-facebook-renamed-itself/">because they’d so poisoned the “Facebook” brand itself</a>, but maybe to <a href="https://daringfireball.net/linked/2025/04/28/om-malik-facebook-rename">something other than “Meta”</a>.</p>
+<p>I always sort of knew that metaverse hype roughly coincided with the Covid lockdown and our collective period of isolation and loneliness, a year-plus stretch when we relied mostly on computer platforms for nearly all socializing. But here in 2026 it’s now clear that metaverse hype and lockdown-induced isolation coincided precisely. They didn’t roughly overlap; they exactly overlapped. So much so that I’m now wondering if any of the “metaverse” hype would have happened if Covid hadn’t happened. Facebook still likely would’ve renamed itself, <a href="https://om.co/2025/04/28/no-gruber-this-is-why-facebook-renamed-itself/">because they’d so poisoned the “Facebook” brand itself</a>, but maybe to <a href="https://daringfireball.net/linked/2025/04/28/om-malik-facebook-rename">something other than “Meta”</a>.</p>
 
 <p>We allowed the necessary <em>initial</em> emergency lockdown to extend indefinitely because it seemed like <em>maybe we could get by</em> for a long stretch using technology. The extended lockdown never would have happened if the Covid pandemic had broken out 20 or more years earlier. In 2020 and 2021, we could squint and say, sure, maybe kids can “go to school” via Zoom. We never would have kept all kids home for an entire year pre-Zoom. But the truth is Zoom “school” <a href="https://www.nationsreportcard.gov/highlights/ltt/2022/">wasn’t much better than no school at all</a>. Same for Zoom “work collaboration”, and Zoom “friend gatherings”. It was an illusion that today’s technology is even close to a sufficient substitute for being in each others’ physical presence. The siren call of “the metaverse” was exactly what we craved — technology that <em>would</em> be a sufficient substitute for real-world experiences and socializing. The best audience for snake oil are people with actual ailments. And during Covid, we were all ailing socially.</p>
 
@@ -1652,72 +1675,6 @@ closing episode of a surreal comedy than of a talk show.</p>
 
 <div>
 <a  title="Permanent link to ‘Stephen Colbert’s ‘The Late Show’ Finale’"  href="https://daringfireball.net/linked/2026/05/22/colbert-late-show-finale">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple Seeks Supreme Court Review of Contempt Finding and Injunction Scope in Epic Games Case</title>
-	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/05/21/apple-seeks-supreme-court-review-of-contempt-finding-and-injunction-scope-in-epic-games-case/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x7o" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/21/apple-scotus-epic" />
-	<id>tag:daringfireball.net,2026:/linked//6.43044</id>
-	<published>2026-05-22T01:00:47Z</published>
-	<updated>2026-05-22T01:02:21Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Marcus Mendes, reporting for 9to5Mac:</p>
-
-<blockquote>
-  <p>Apple today filed a request with the Supreme Court in an attempt
-to reverse key lower court rulings over the App Store injunction
-in its long-running legal battle with Epic Games. [...] In its
-petition, Apple is asking the Supreme Court to review two
-questions.</p>
-
-<p>The first is whether Apple should have been held in contempt for
-charging a commission on purchases made outside the App Store. The
-second is about the scope of the injunction.</p>
-
-<p>On the first point, Apple argues that the original injunction did
-not specifically address commissions. Instead, it says the order
-only prevented Apple from blocking developers from including
-buttons, external links, or other calls to action directing users
-to external purchasing options.</p>
-
-<p>According to Apple, that is not the same as saying the company
-could not charge a commission on those purchases. The Ninth
-Circuit acknowledged that the text of the injunction did not
-address commissions, but still upheld the contempt finding by
-relying on the idea that a party can violate the “spirit” of an
-injunction, even when the injunction does not specifically
-prohibit the conduct at issue.</p>
-</blockquote>
-
-<p>Apple’s argument here is that only the letter of the law matters, and the letter of the injunction did not say anything about charging commissions on external payments, and thus they can’t be held in contempt for violating something that was never spelled out explicitly.</p>
-
-<blockquote>
-  <p>As for the second point, regarding scope, Apple argues that the
-injunction extends far beyond Epic itself, as it applies to all
-registered developers worldwide with apps on the U.S. App Store
-storefront. That includes developers that were never part of the
-Epic case, and, as Apple has pointed out before, even companies
-that compete with Epic.</p>
-
-<p>Apple argues that this directly conflicts with the Supreme Court’s
-2025 decision in Trump v. CASA, which limited the ability of
-federal courts to issue broad injunctions that go beyond the
-parties actually involved in a case.</p>
-</blockquote>
-
-<p>Apple’s argument here is that even if the Supreme Court upholds the contempt finding, the exemption from commissions should only apply to Epic, not to all developers in the U.S. App Store. I am definitely not a constitutional law scholar, but I think this would have been a long-shot argument pre-CASA. But post-CASA I think Apple might have something here, with <a href="https://talkingpointsmemo.com/edblog/with-the-corrupt-supreme-court-its-calvinball-all-the-way-down/sharetoken/26b34b4b-6926-4466-8800-f3a168a48fb6">this Court</a>.</p>
-
-<p>Apple’s full petition is not yet publicly available, but should be soon from the Supreme Court’s website. I’ve seen a copy, and Mendes’s summary jibes with my reading. In the meantime, <a href="https://www.scotusblog.com/cases/trump-v-casa-inc/">here’s SCOTUSblog’s index page for <em>Trump v. CASA</em></a>, and here’s <a href="https://www.scotusblog.com/2025/07/trump-v-casa-and-the-future-of-the-universal-injunction/">Mila Sohoni’s analysis of the CASA ruling</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Seeks Supreme Court Review of Contempt Finding and Injunction Scope in Epic Games Case’"  href="https://daringfireball.net/linked/2026/05/21/apple-scotus-epic">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
