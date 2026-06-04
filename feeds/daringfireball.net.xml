@@ -7,7 +7,33 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-04T13:47:33Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-04T17:32:42Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Google’s Gemini Mac App Is Native, in a Distinctly Google Way, But Annoyingly Presumptuous</title>
+	<link rel="alternate" type="text/html" href="https://gemini.google/mac/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x8s" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/04/google-gemini-mac" />
+	<id>tag:daringfireball.net,2026:/linked//6.43084</id>
+	<published>2026-06-04T17:29:26Z</published>
+	<updated>2026-06-04T17:32:42Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Two months ago Google launched a new native Mac app for Gemini. I’ve been trying it, on and off, since. It’s ... not bad. Certainly better than Claude’s Electron shitbox. But the Gemini app isn’t all that good, either. I’m sticking with ChatGPT, which remains far and away the best native Mac client to an LLM. (And ChatGPT is not that great of a Mac app — it’s just the closest to good of the bunch.)</p>
+
+<p>The thing that really turns me off about the Gemini Mac app is Google’s gall. The Gemini app installs a background helper named “GeminiAppLauncher” in your login items. It also installs “GoogleUpdater” as a process with the privilege to launch in the background whenever it wants. Gemini never asks for permission to install either of these, and, most arrogantly, if you, as an informed user, remove either of them, the Gemini app silently adds them back. There is no setting in Gemini to disable this. There’s a mindset from some big companies that your system is theirs to play with at the system software level. Fuck that. <a href="https://mjtsai.com/blog/2026/04/16/gemini-app-for-mac/">Michael Tsai’s post</a> on the Gemini Mac app links to <a href="https://forums.macrumors.com/threads/google-launches-native-gemini-ai-app-for-mac.2481037/?post=34543484#post-34543484">this thread on MacRumors</a> regarding this pernicious auto-installed and auto-reinstalled login item. <a href="https://www.reddit.com/r/mac/comments/1smaz0b/the_gemini_app_is_now_on_mac/">Here’s another on Reddit</a>.</p>
+
+<p>I’d have been happy to keep the Gemini app installed if it just sat in my Applications folder when I wasn’t using it. But it doesn’t, and Google shows no signs of caring, so I just deleted it and uninstalled its background launch agents (in <code>~/Library/LaunchAgents/</code>). Feels great, like I took a much needed shower.</p>
+
+<p>(<strong>Sidenote:</strong> The Gemini Mac app is a native Mac app, but it is ... weird. <a href="https://mastodon.social/@ccgus/116410242771350931">Gus Mueller poked around at it</a> and found that it’s the product of a Java-to-Objective-C converter that Google made, and much of it was originally written for Android.)</p>
+
+<div>
+<a  title="Permanent link to ‘Google’s Gemini Mac App Is Native, in a Distinctly Google Way, But Annoyingly Presumptuous’"  href="https://daringfireball.net/linked/2026/06/04/google-gemini-mac">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>The AI-Driven Resurgence of Native Mac App Development</title>
 	<link rel="alternate" type="text/html" href="https://sixcolors.com/post/2026/06/road-to-wwdc-2026-whats-a-developer/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x8r" />
@@ -1654,33 +1680,6 @@ a quick glance.</p>
 
 <div>
 <a  title="Permanent link to ‘Google I/O Keynote in 54 Seconds’"  href="https://daringfireball.net/linked/2026/05/21/google-io-54-secs">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘Geography Is Four-Dimensional’</title>
-	<link rel="alternate" type="text/html" href="https://sive.rs/4d" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x7k" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/21/sivers-geography-4d" />
-	<id>tag:daringfireball.net,2026:/linked//6.43040</id>
-	<published>2026-05-21T14:39:19Z</published>
-	<updated>2026-05-21T14:39:20Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Derek Sivers:</p>
-
-<blockquote>
-  <p>When someone speaks of a place, you have to ask, “When?”
-<em>Geography is four-dimensional. You can’t know a place — only a
-place as it was at a time. Where is bound to when.</em> Unless you are
-in a place right now, you can only speak of it in past-tense.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘‘Geography Is Four-Dimensional’’"  href="https://daringfireball.net/linked/2026/05/21/sivers-geography-4d">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
