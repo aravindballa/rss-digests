@@ -7,7 +7,50 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-04T18:20:44Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-04T19:10:02Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Lingon and Lingon Pro 10</title>
+	<link rel="alternate" type="text/html" href="https://www.peterborgapps.com/lingon/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x8u" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/04/lingon" />
+	<id>tag:daringfireball.net,2026:/linked//6.43086</id>
+	<published>2026-06-04T18:43:47Z</published>
+	<updated>2026-06-04T18:44:13Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Peter Borg:</p>
+
+<blockquote>
+  <p>Lingon makes scheduling apps, scripts, shortcuts, and commands
+feel simple. Create a task in minutes, run it on a schedule, and
+stay in control.</p>
+
+<p>Lingon helps you run whatever you want whenever you want without
+living in Terminal. Schedule apps, scripts, shortcuts, and
+commands with a clear, friendly UI.</p>
+
+<p>Run tasks at specific times, on intervals or at login. Optional
+notifications make it easy to keep control.</p>
+
+<p>Two separate apps. Lingon is the simpler Mac App Store version and
+free to use, while Lingon Pro is the advanced one-time purchase
+with extra power.</p>
+</blockquote>
+
+<p><a href="https://www.peterborgapps.com/lingon/">Lingon and Lingon Pro</a> are great apps. I’ve been meaning to recommend them for a while.</p>
+
+<p>Back in 2023 <a href="https://daringfireball.net/2023/07/nerding_out_with_maestral_launchcontrol_and_keyboard_maestro">I wrote about a problem I was having with Maestral</a>, the incredible “works like Dropbox in the old days” open-source Dropbox client, where Maestral would just silently crash once in a while and I wouldn’t notice for a while. Then I would notice, manually re-launch Maestral, and have to wait while Maestral synced. Or, worse, I’d put a podcast recording in a shared folder and walk away from my computer, and my editor would never get the file because Maestral wasn’t running. My write-up described how I solved the problem with a Keyboard Maestro macro that runs once an hour — it checks if Maestral is running, and if it isn’t, launches it (and writes to a log, to satisfy my own curiosity). Borg wrote to me after I posted that and — very politely — explained that Lingon would make that much simpler.</p>
+
+<p>In addition to creating your own scripts and rules that run periodically, Lingon is great for inspecting all the login items and background agents on your system — whether they’re from Apple or third parties. Poking around at everything Google Gemini installed is what made me think to recommend Lingon today. At the very least you should install the free regular version. It’s just a great Mac utility from a great Mac developer. There’s nothing else like it.</p>
+
+<div>
+<a  title="Permanent link to ‘Lingon and Lingon Pro 10’"  href="https://daringfireball.net/linked/2026/06/04/lingon">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Remember When Chrome Went Bad on MacOS?</title>
 	<link rel="alternate" type="text/html" href="https://chromeisbad.com/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x8t" />
@@ -856,7 +899,7 @@ for diaper rash cream, and, voila! A podcast! (Sound on.)</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/31/the-talk-show-live-tickets-2026" />
 	<id>tag:daringfireball.net,2026:/linked//6.43064</id>
 	<published>2026-06-01T01:59:00Z</published>
-	<updated>2026-06-01T01:59:36Z</updated>
+	<updated>2026-06-04T19:10:02Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -1666,55 +1709,6 @@ World Cup 2026 in North America.</p>
 
 <div>
 <a  title="Permanent link to ‘Apple TV to Broadcast Entire MLS Match Shot Using iPhones’"  href="https://daringfireball.net/linked/2026/05/21/apple-tv-to-broadcast-entire-mls-match-shot-using-iphones">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple Sports Expands to More Than 90 New Countries on Cusp of World Cup</title>
-	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/05/apple-sports-expands-to-more-than-90-new-countries-and-regions/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x7m" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/21/apple-sports-world-cup" />
-	<id>tag:daringfireball.net,2026:/linked//6.43042</id>
-	<published>2026-05-21T19:13:56Z</published>
-	<updated>2026-05-21T20:12:35Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Apple Newsroom:</p>
-
-<blockquote>
-  <p>Apple Sports — the free app for iPhone that gives fans access to
-real-time scores, stats, and more — is now available to download
-on the App Store in more than 170 countries and regions around the
-world, including more than 90 newly added markets. Designed for
-speed and simplicity, the app delivers a personalized experience,
-putting fans’ favorite teams and leagues front and center with a
-simple, intuitive interface designed by Apple.</p>
-
-<p>Apple Sports is helping fans get ready for the World Cup by
-allowing them to explore tournament groupings and customize their
-scoreboards simply by following the entire tournament or their
-favorite national teams — making it easier to stay on top of key
-moments when the tournament kicks off in June. Following a team
-also enables Live Activities on a user’s iPhone Lock Screen or
-Apple Watch, letting them follow every moment of a match with just
-a quick glance.</p>
-</blockquote>
-
-<p>I’ve got some gripes about certain specific aspects of Apple Sports. Like, where does one even <em>start</em> to explain how much is wrong with <a href="https://daringfireball.net/misc/2026/05/apple-sports-team-stats-wtf.png">their zero-sum visualization of team stats</a>? Has anyone ever even seen a presentation like that before? <a href="https://kieranhealy.org/">Anyone</a>?</p>
-
-<p>But overall it really is a good app. I don’t love the UI layout but I don’t hate it, either, and it is interesting. It’s a very modern layout. Apple Sports is fast to load — the primary reason <a href="https://sixcolors.com/post/2024/02/apple-sports-a-free-iphone-app-to-get-you-the-score-fast/">Eddy Cue wanted the app in the first place</a> — and its Live Activities are very good. It remains my go-to for “checking scores” for every sport except baseball, for which I have a much better dedicated app.</p>
-
-<p>Yes, Apple promotes some of its own sports-related properties in the app occasionally. Just now I had a promotion for the F1 Canadian Grand Prix at the top. But the ads that do appear are always sports-related and never obscure content. That’s a fair deal.</p>
-
-<p><a href="https://daringfireball.net/2024/02/apple_sports">I was glad when Apple Sports debuted two years ago</a> and it’s lived on my first or second home screen ever since, depending on which sports are in season. I’m really glad Apple has stuck with it, shipping steady improvements on a regular basis. Expanding now to nearly the entire world is a big step. If you’re new to it, it might take some getting used to, but give it a shot. It stuck with me.</p>
-
-<p>Still kind of curious that Apple Sports remains iPhone-only — not even an iPad version — but in a way I find that charming too. Maybe Apple is tight on money?</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Sports Expands to More Than 90 New Countries on Cusp of World Cup’"  href="https://daringfireball.net/linked/2026/05/21/apple-sports-world-cup">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
