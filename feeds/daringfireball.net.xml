@@ -7,7 +7,106 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-05T15:26:30Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-05T20:46:57Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Nieman Journalism Lab: Twitter/X Punishes Accounts That Post Links</title>
+	<link rel="alternate" type="text/html" href="https://www.niemanlab.org/2026/04/do-links-hurt-news-publishers-on-twitter-our-analysis-suggests-yes/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x91" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/05/nieman-journalism-lab-twitter-links" />
+	<id>tag:daringfireball.net,2026:/linked//6.43093</id>
+	<published>2026-06-05T20:46:56Z</published>
+	<updated>2026-06-05T20:46:57Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Laura Hazard Owen, writing for Nieman Journalism Lab back in April:</p>
+
+<blockquote>
+  <p>I used Claude to help me scrape the 200 most recent tweets from 18
+large publishers’ X accounts and track the engagement (likes +
+comments + retweets) on each. Six of those publishers have
+paywalls: <a href="https://x.com/business">Bloomberg</a>, <a href="https://x.com/cnn">CNN</a>, <a href="https://x.com/Forbes">Forbes</a>, <a href="https://x.com/nytimes">The New
+York Times</a>, <a href="https://x.com/WSJ">The Wall Street Journal</a>, and <a href="https://x.com/washingtonpost">The
+Washington Post</a>. Nine don’t: <a href="https://x.com/AJEnglish">Al Jazeera English</a>,
+<a href="https://x.com/AP">AP</a>, <a href="https://x.com/BBCNews">BBC</a>, <a href="https://x.com/BreitbartNews">Breitbart News</a>, <a href="https://x.com/CBSNews">CBS News</a>,
+<a href="https://x.com/realDailyWire">Daily Wire</a>, <a href="https://x.com/FoxNews">Fox News</a>, <a href="https://x.com/NBCNews">NBC News</a>, and
+<a href="https://x.com/Reuters">Reuters</a>. The last three accounts I looked at — <a href="https://x.com/LeadingReport">Leading
+Report</a>, <a href="https://x.com/unusual_whales">unusual_whales,</a> and <a href="https://x.com/GlobeEyeNews">Globe Eye News</a> — are not news publishers, but aggregate breaking news in tweets
+without links. (Here, for example, is an example of a Leading
+Report <a href="https://x.com/LeadingReport/status/2041534947249242192">tweet</a>: “BREAKING: Iran has halted direct talks with
+the US, per WSJ.” They’re sometimes referred to as
+engagement-maxing accounts.</p>
+
+<p>These charts make it pretty clear that links in tweets hurt
+engagement. The connection was so apparent in my analysis that a
+graph including all 18 publishers is almost unreadable: The
+traditional, link-loving publishers are clustered in the bottom
+left corner (lots of links, little engagement) in a nearly
+indistinguishable mass of bubbles, no matter how large their
+followings are.</p>
+</blockquote>
+
+<p>Musk’s Twitter/X is not an aggregator for news. It’s a walled garden. But the type of garden where you need to keep your eyes open and your hand on your wallet. Sometimes it’s fun to visit a seedy neighborhood. But let’s not pretend it isn’t a seedy neighborhood just because, long ago, it used to be nice.</p>
+
+<div>
+<a  title="Permanent link to ‘Nieman Journalism Lab: Twitter/X Punishes Accounts That Post Links’"  href="https://daringfireball.net/linked/2026/06/05/nieman-journalism-lab-twitter-links">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Elon Musk’s X Is a Freak Show</title>
+	<link rel="alternate" type="text/html" href="https://www.natesilver.net/p/social-media-has-become-a-freak-show" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x90" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/05/musk-x-freak-show" />
+	<id>tag:daringfireball.net,2026:/linked//6.43092</id>
+	<published>2026-06-05T20:24:58Z</published>
+	<updated>2026-06-05T20:32:32Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Nate Silver, back in April, under the headline “Social Media Is Turning Into a Freak Show”, where by “social media” he mostly discusses Twitter/X:</p>
+
+<blockquote>
+  <p>But what does that remaining traffic consist of? I recently came
+across a <a href="https://x.com/kylewilsontharp/status/2037171182407999663">bubble chart</a> depicting the Twitter accounts that
+had received the most “engagement” in February 2026. It was
+depressing: most of the top accounts were extremely low-quality
+and highly partisan. I hadn’t even heard of many of them and only
+follow a handful of the top accounts. So I <a href="https://dashboards.cluvio.com/dashboards/qxny-9e5q-k65v/shared?filters=%7B%22platform_filter%22%3A%5B%5D%2C%22political_content%22%3A%5B%5D%2C%22political_lean%22%3A%5B%5D%7D&amp;reportId=k6zq-g911-3m2o&amp;sharingToken=78eb1196-5766-429d-acf8-edcfd96b7067&amp;timerange=1767225600~">tracked down the
+original data myself</a> and, with help from Claude, made my
+own improved version of the chart. Here, <em>voilà</em>, are the Twitter
+accounts with the most engagement so far in 2026:</p>
+
+<p><a href="/misc/2026/05/nate-silver-twitter-account-cloud.png" class="noborder">
+ <img
+  src = "/misc/2026/05/nate-silver-twitter-account-cloud.png"
+  alt = "Data from Cluvio showing most engagements among X accounts from Jan. 1 to Apr. 4, 2026."
+  width = 500
+ /></a></p>
+
+<p>It’s not hard to notice that Twitter has become extremely
+right-leaning. But I’d argue there’s an equally important trend:
+the top accounts are of incredibly low quality. Elon, with the
+<a href="https://www.theguardian.com/technology/2023/feb/15/elon-musk-changes-twitter-algorithm-super-bowl-slump-report">algorithmic boost</a> he built in for himself, is at the eye of
+the storm, of course. But “Catturd” literally gets far more
+engagement than the New York Times, for instance.</p>
+</blockquote>
+
+<p>There’s a common argument from proponents of the Musk-era X that the only problem is that left-leaning people have abandoned the platform. That the X algorithm is a contest and if only right-leaning accounts are playing, of course they’re winning. This is nonsense. The whole thing is rigged. Elon Musk’s outsized prominence as the most-engaged-with account is proof of that. Twitter existed for 16 years before Musk bought it. He wasn’t even close to the biggest account during that era. Then he bought it. Now his account is the biggest.</p>
+
+<p>As Silver’s data analysis shows, Musk’s X is not just dominated by right-wing accounts, it’s dominated by “<em>who the hell is that?</em>” right-wing slop accounts.</p>
+
+<p>The only way not to lose a rigged game is to refuse to play. X is still a thing. A lot of people, companies, and organizations still post there — treat it like their blogs — exclusively. I still wind up linking to posts on X because that’s where they are. That’s a whole separate discussion. But anyone who’s trying to “compete” there with subject matter that is even vaguely political has no chance of success unless what they’re posting is what Elon Musk wants to see promoted. It’s not like his thumb is on the scale, it’s like an anvil is on the scale. The conundrum is that there are still a lot interesting people posting interesting things there.</p>
+
+<div>
+<a  title="Permanent link to ‘Elon Musk’s X Is a Freak Show’"  href="https://daringfireball.net/linked/2026/06/05/musk-x-freak-show">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Checking in on Perplexity</title>
 	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2025/08/05/regarding-those-rumors-of-apple-pursuing-an-acquisition-of-perplexity" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x8z" />
@@ -1536,68 +1635,6 @@ meaning of <em>OK</em>.</p>
 
 <div>
 <a  title="Permanent link to ‘The History of ‘OK’’"  href="https://daringfireball.net/linked/2026/05/25/the-history-of-ok">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>WorkOS: ‘Agents Need Context. Ship the Integrations That Give It to Them.’</title>
-	<link rel="alternate" type="text/html" href="https://workos.com/docs/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x7u" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/25/workos" />
-	<id>tag:daringfireball.net,2026:/linked//6.43050</id>
-	<published>2026-05-25T15:09:17Z</published>
-	<updated>2026-05-25T15:09:43Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>My thanks to WorkOS for once again sponsoring DF last week. The context that actually matters isn’t in your database. It’s in the tools your users live in every day. Multi-stage agents stall the moment they hit a step they can’t see. And every missing integration is a different OAuth flow, a different token lifecycle, weeks of plumbing before the agent reads a single record.</p>
-
-<p><a href="https://workos.com/blog/workos-pipes-third-party-integrations?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026&amp;utm_content=product_name_link">WorkOS Pipes</a> connects your agent to the tools your users live in. Pre-built connectors for GitHub, Slack, Salesforce, Google Drive, and more. Pipes handles OAuth, token refresh, and credential storage. You call the real provider API with a fresh token, every time. Your agent pulls context at every step, for as long as the task runs.</p>
-
-<p><a href="https://workos.com/docs/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026">Give your agent context.</a></p>
-
-<div>
-<a  title="Permanent link to ‘WorkOS: ‘Agents Need Context. Ship the Integrations That Give It to Them.’’"  href="https://daringfireball.net/linked/2026/05/25/workos">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Why Steve Kerr Stayed With the Warriors</title>
-	<link rel="alternate" type="text/html" href="https://www.espn.com/nba/story/_/id/48686303/steve-kerr-decision-return-coach-golden-state-warriors-steph-curry" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x7t" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/24/kerr" />
-	<id>tag:daringfireball.net,2026:/linked//6.43049</id>
-	<published>2026-05-24T17:27:24Z</published>
-	<updated>2026-05-24T18:09:47Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Terrific, poignant profile of Warriors head coach Steve Kerr by Wright Thompson for ESPN:</p>
-
-<blockquote>
-  <p>Kerr doesn’t want the Warriors to end up like the New England Patriots, marred by grudges and grievances. He watched Michael Jordan retire, then unretire, then retire, then unretire. His friends used to grill him about MJ.</p>
-
-<p>“Why doesn’t he go out on top?”</p>
-
-<p>“Because he can’t,” Kerr told them.</p>
-
-<p>For the past few years, Kerr has watched his mentor, San Antonio Spurs coach Gregg Popovich, struggle through this same decision. Pop once called Steve to tell him he’d finally decided to retire. Steve congratulated him on a Hall of Fame career. A week later Pop signed an extension with San Antonio. Popovich finally officially quit six weeks before our lunch, six months after a stroke diminished him physically. People who loved him had to show him the door, as gently as possible. That hurt Steve. He respects Popovich so much. He loved playing for him and coaching with him. He once told Gregg he was the finest man he’d ever known and thanked him for all he’d done for him. Pop smiled and said his feet were made of clay like everyone else’s. Steve didn’t believe it then. Now he does.</p>
-
-<p>“I realized he couldn’t do it,” Kerr said. “He couldn’t walk away.”</p>
-
-<p>I asked how he’d avoided the trap. He laughed.</p>
-
-<p>“I’m sitting here wondering,” he said.</p>
-</blockquote>
-
-<p>It sounds so easy to go out on top. But it very seldom happens.</p>
-
-<div>
-<a  title="Permanent link to ‘Why Steve Kerr Stayed With the Warriors’"  href="https://daringfireball.net/linked/2026/05/24/kerr">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
