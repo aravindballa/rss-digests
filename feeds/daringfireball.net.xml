@@ -7,7 +7,56 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-04T22:50:57Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-05T00:43:33Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Some People Rooted for The Empire in ‘Star Wars’, Too</title>
+	<link rel="alternate" type="text/html" href="https://hotair.com/ed-morrissey/2026/06/03/cbs-fires-scott-pelley-after-trying-very-hard-to-get-fired-n3815553" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x8y" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/04/some-people-rooted-for-the-empire" />
+	<id>tag:daringfireball.net,2026:/linked//6.43090</id>
+	<published>2026-06-05T00:43:33Z</published>
+	<updated>2026-06-05T00:43:33Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Ed Morrissey, writing for Hot Air, thinks Scott Pelley got what he deserved and Bari Weiss is doing a good job running CBS News:</p>
+
+<blockquote>
+  <p>And Pelley forgot the Golden Rule: <em>He who has the gold makes the
+rules</em>. Instead, Pelley convinced himself of his own virtue and
+torched his own position — and if Bilton’s letter is accurate, in
+as mean-spirited and conceited a manner as possible. Pelley could
+have chosen a dignified resignation under protest, but instead
+pulled a power move in an attempt to intimidate Bilton, Weiss, and
+Ellison, only to discover that no one feared his absence. In fact,
+they’re probably happy to cut him loose.</p>
+
+<p>There’s always at least <em>one</em> person in these situations who
+thinks they’re untouchable. A wise executive knows to start by
+making an example of that person, and then see how many other
+people think they’re indispensable. It’s not as if TV news jobs
+are expanding these days, after all. Pelley’s going to find out
+the hard way that no one’s paying $5 million a year to emote into
+a camera from other people’s copy.</p>
+</blockquote>
+
+<p>It doesn’t even enter this man’s little mind that Pelley wasn’t concerned about his job, wasn’t concerned about his salary, but was concerned only with the integrity of the institution to which he’d committed decades of his career, and that he saw as his duty the need to stand up for his remaining and former colleagues. That Pelley himself has integrity. To the Trump lickspittles, everything is performative. They don’t just lack integrity, they don’t believe integrity is real.</p>
+
+<p><a href="https://x.com/katienotopoulos/status/2062229659966697857">Katie Notopoulos</a>:</p>
+
+<blockquote>
+  <p>The Scott Pelley story to me is a lesson in how if you work hard
+enough in your career to get Fuck You Money, the real reward is
+the day you need to say it, you can.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘Some People Rooted for The Empire in ‘Star Wars’, Too’"  href="https://daringfireball.net/linked/2026/06/04/some-people-rooted-for-the-empire">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>The Talk Show Live From WWDC 2026: Tuesday in San Jose</title>
 	<link rel="alternate" type="text/html" href="https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2026" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x8x" />
@@ -1615,57 +1664,6 @@ the first word is ever read.</p>
 
 	]]></content>
   </entry><entry>
-	<title>Zero Sum Problems and Apple Sports</title>
-	<link rel="alternate" type="text/html" href="https://kieranhealy.org/blog/archives/2026/05/21/zero-sum-problems/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x7p" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/22/zero-sum-problems-and-apple-sports" />
-	<id>tag:daringfireball.net,2026:/linked//6.43045</id>
-	<published>2026-05-22T17:15:00Z</published>
-	<updated>2026-05-22T17:22:32Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Kieran Healy kindly accepted my <a href="https://daringfireball.net/linked/2026/05/21/apple-sports-world-cup">implicit homework assignment yesterday</a>, and wrote a piece on Apple Sports’s bizarre “zero sum” team stats visualization:</p>
-
-<blockquote>
-  <p>It also doesn’t do away with the core problem. That problem is
-principally one of information design rather than data
-visualization. What I mean is that what we’re trying to organize
-is, in effect, fifteen pairs of related but fundamentally distinct
-numbers. If we had fifteen <em>cases</em> and two <em>variables</em> things
-would be simple. But with fifteen variables and two cases … well,
-this is not the kind of thing you can make a single effective and
-non-confusing graph out of. That’s why I kind of sympathize with
-the designer. In a constrained space they have to show thirty
-numbers (thirty two, including the score). Lots of information. A
-straight table seems like it would be boring. Surely there’s some
-way to thematically integrate the numbers in a visually appealing
-manner that brings out some of the relationships across the rows.
-That’s what graphs do; it seems like the right thing to reach for.
-But at its heart this information is not a graph. It just sort of
-looks like one, and that ends up confusing people.</p>
-</blockquote>
-
-<p>Just a crackerjack explanation for why this presentation in Apple Sports is confusing, and for why it is a difficult problem to solve. The problem is further complicated by the fact that Apple Sports shows the same screen for all sports, just with different sport-specific stats. I think the solution is to just present these numbers in a table. Yes, tables are boring. But they’re not confusing. What Apple Sports is doing, in an attempt not to be boring, is confusing.</p>
-
-<p><strong>Sidenote:</strong> Healy writes:</p>
-
-<blockquote>
-  <p>I don’t know much about basketball, but I do know a bit about data
-visualization and in a pleasing coincidence my former student
-<a href="https://www.linkedin.com/in/joshua-fink">Josh Fink</a> is the A-VP of Basketball Data Science for the Spurs.</p>
-</blockquote>
-
-<p>I don’t want to get Healy in any trouble, especially after he responded to my prompt with such a remarkably thoughtful, helpfully illustrated little essay, but I was under the impression that it’s illegal for any <a href="https://kieranhealy.org/about/">professor at Duke</a> not to know much about basketball.</p>
-
-<div>
-<a  title="Permanent link to ‘Zero Sum Problems and Apple Sports’"  href="https://daringfireball.net/linked/2026/05/22/zero-sum-problems-and-apple-sports">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/05/ai_is_technology_not_a_product" />
 	<link rel="shorturl" href="http://df4.us/x72" />
@@ -1738,7 +1736,7 @@ agent do that.”</p>
 	<link rel="shorturl" href="http://df4.us/x6j" />
 	<id>tag:daringfireball.net,2026://1.43003</id>
 	<published>2026-05-13T02:22:16Z</published>
-	<updated>2026-05-31T19:32:59Z</updated>
+	<updated>2026-06-04T23:55:35Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
