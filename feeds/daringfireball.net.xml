@@ -7,14 +7,95 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-08T01:07:40Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-08T02:09:01Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Mux — Video for Developers</title>
+	<link rel="alternate" type="text/html" href="https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x95" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/07/mux" />
+	<id>tag:daringfireball.net,2026:/linked//6.43097</id>
+	<published>2026-06-08T01:47:03Z</published>
+	<updated>2026-06-08T01:47:09Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks to Mux for sponsoring last week at DF. Mux is what developers reach for when they need to do more with video. Video files are packed with data and context waiting to be unlocked.</p>
+
+<p>Mux Robots are AI workflows that unlock that data inside your video for summarization, caption translation, moderation, and more. Configure once and your workflows run automatically on new uploads.</p>
+
+<p>Mux is video infrastructure trusted by Patreon, Substack, and Synthesia. Start building for free. Use code <strong>FIREBALL</strong> at signup for an extra $50 credit.</p>
+
+<div>
+<a  title="Permanent link to ‘Mux — Video for Developers’"  href="https://daringfireball.net/linked/2026/06/07/mux">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps" />
+	<link rel="shorturl" href="http://df4.us/x97" />
+	<id>tag:daringfireball.net,2026://1.43099</id>
+	<published>2026-06-08T01:30:00Z</published>
+	<updated>2026-06-08T02:09:01Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">Apple’s developer message used to be that it was not just easy to develop apps for their platforms, but that it was easy to develop good idiomatically native apps. That’s still true for AppKit and UIKit, but it’s never been true for SwiftUI, and SwiftUI is now seven years old.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>Paulo Andrade, last month, “<a href="https://pfandrade.me/blog/mac-assed-swiftui-app/">Using SwiftUI to Build a Mac-Assed App in 2026</a>”:</p>
+
+<blockquote>
+  <p>I recently launched the macOS version of <a href="https://shopie.io/">Shopie</a>, an app I first
+released on the iOS App Store late last year. Shopie helps you
+keep track of products you’re interested in by letting you create
+wishlists and notifying you whenever a product’s price,
+availability, and other details change.</p>
+
+<p>Unlike my other apps, where I typically blend AppKit (or UIKit)
+with SwiftUI, Shopie is built entirely in SwiftUI. I wanted to
+keep it that way to maximize code reuse across iOS, iPadOS, and
+now macOS. This post explores how far SwiftUI can take you on the
+Mac in 2026, especially if your goal is to build an app that feels
+truly native to the platform. It’s not meant to be an exhaustive
+review of SwiftUI on macOS. It’s simply a collection of recipes
+and issues I ran into while porting <a href="https://shopie.io/">Shopie</a>, a fairly small app,
+and keeping it 100% SwiftUI.</p>
+</blockquote>
+
+<p>Andrade’s examples are copious. His conclusion is damning:</p>
+
+<blockquote>
+  <p>Apple dropped the ball here. AppKit was ahead of its time and
+UIKit was a more polished version of AppKit. A serious
+cross-platform framework that unified the two should have happened
+long before SwiftUI. Instead, Apple left AppKit to fossilize and
+then tried to leapfrog the problem.</p>
+
+<p>You can see the result everywhere. SwiftUI is productive, modern,
+and often delightful, right up until you try to make a really good
+Mac app. Then suddenly you’re fighting the framework for things
+the Mac solved 20 years ago.</p>
+</blockquote>
+
+<p>There’s something really wrong with SwiftUI. Amongst the apps I use, the best example is Apple Journal. Basic stuff that’s worked reliably for decades — some things that heretofore had worked forever — are dangerously broken. If you’re running MacOS 26 Tahoe, open Journal and make a new dummy entry. Type something like “The quick brown fox.” Then double-click on the word “brown” and delete it. Now invoke Undo.</p>
+
+<p>What you expect is for the word “brown” to reappear. What happens is ... <em>the whole sentence disappears</em>. Gone. Invoke Redo and you only get back to “The quick fox.” The word “brown” is just gone forever. It’s nowhere in the Undo stack. That’s just profoundly fucked up. I’ve never seen anything like this with an AppKit app, ever. (I’ve never seen it with a UIKit app either — and the same thing happens on iOS with Journal. It’s just that you notice it less often because we don’t invoke Undo and Redo nearly as often there.)</p>
+
+<p>I actually use the Journal app and I’ve lost entire sentences of text to this incompetent implementation of Undo. Editing text in Journal is <em>dangerous</em> because SwiftUI is so bad at something as fundamental as text editing. AppKit has had this solved since 1989 or so, a decade before Apple reunified with NeXT. And my example here is just one of many. Andrade documents a whole bunch more in his post. <a href="https://shopie.io/">Shopie</a> is a good modern Mac app — you can practically see from reading his post that Andrade’s hands are scarred from dozens of paper cuts.</p>
+
+<p>So while the world is largely focused on Apple’s AI-related announcements at WWDC tomorrow, I’ve got SwiftUI (on all platforms) and Mac-assed Mac development high on my list. Apple’s developer message used to be that it was not just easy to develop apps for their platforms, but that it was easy to develop <em>good idiomatically native</em> apps. You got the correct complex behavior — for things like Undo/Redo — out of the box. That’s still true for AppKit and UIKit, but it’s never been true for SwiftUI, and <a href="https://www.apple.com/newsroom/2019/06/apple-unveils-groundbreaking-new-technologies-for-app-development/">SwiftUI is now seven years old</a>. That’s too long for any excuses to hold water. </p>
+
+    ]]></content>
+  <title>★ SwiftUI Only Makes It Easy to Develop Bad Apps</title></entry><entry>
 	<title>Alberto Romero on Apple’s AI Spending</title>
 	<link rel="alternate" type="text/html" href="https://www.thealgorithmicbridge.com/p/what-apple-knows-about-ai-that-silicon" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x96" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/07/alberto-romero-on-apples-ai-spending" />
 	<id>tag:daringfireball.net,2026:/linked//6.43098</id>
-	<published>2026-06-08T00:55:56Z</published>
-	<updated>2026-06-08T01:07:40Z</updated>
+	<published>2026-06-08T01:00:00Z</published>
+	<updated>2026-06-08T01:49:17Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -57,30 +138,6 @@ what it believes.</p>
 
 <div>
 <a  title="Permanent link to ‘Alberto Romero on Apple’s AI Spending’"  href="https://daringfireball.net/linked/2026/06/07/alberto-romero-on-apples-ai-spending">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Mux — Video for Developers</title>
-	<link rel="alternate" type="text/html" href="https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x95" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/07/mux" />
-	<id>tag:daringfireball.net,2026:/linked//6.43097</id>
-	<published>2026-06-07T17:36:38Z</published>
-	<updated>2026-06-07T17:36:40Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>My thanks to Mux for sponsoring last week at DF. Mux is what developers reach for when they need to do more with video. Video files are packed with data and context waiting to be unlocked.</p>
-
-<p>Mux Robots are AI workflows that unlock that data inside your video for summarization, caption translation, moderation, and more. Configure once and your workflows run automatically on new uploads.</p>
-
-<p>Mux is video infrastructure trusted by Patreon, Substack, and Synthesia. Start building for free. Use code <strong>FIREBALL</strong> at signup for an extra $50 credit.</p>
-
-<div>
-<a  title="Permanent link to ‘Mux — Video for Developers’"  href="https://daringfireball.net/linked/2026/06/07/mux">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
@@ -1878,58 +1935,4 @@ the data.</p>
 </div>
 
     ]]></content>
-  <title>★ Software as the Product of Obsession Times Voice</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/05/y_combinators_stake_in_openai" />
-	<link rel="shorturl" href="http://df4.us/x5p" />
-	<id>tag:daringfireball.net,2026://1.42973</id>
-	<published>2026-05-05T01:47:01Z</published>
-	<updated>2026-05-19T00:24:18Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">The fact that Paul Graham personally has billions of dollars at stake with OpenAI doesn’t mean that his public opinion on Sam Altman’s trustworthiness and leadership is invalid. But it certainly seems like the sort of thing that ought to be disclosed when quoting Graham as an Altman character reference.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>Speaking of companies with <a href="https://daringfireball.net/linked/2026/05/04/google-owns-a-big-chunk-of-anthropic">valuable minority stakes in AI companies</a>, there’s one thing that stuck in my craw about the blockbuster <a href="https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted">Ronan Farrow / Andrew Marantz investigative piece on Sam Altman and OpenAI</a> last month for The New Yorker. It didn’t come up during <a href="https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry">Nilay Patel’s excellent interview with Farrow on Decoder</a>, either.</p>
-
-<p>Sam Altman was the president of Y Combinator for several years, and left to become the full-time CEO of OpenAI. The New Yorker quotes Y Combinator co-founder Paul Graham multiple times, in the context of Altman’s trustworthiness. (Some of those quotes are firsthand, others secondhand.) Graham’s role in the story — particularly his public remarks <em>after</em> publication — comprised an entire section in <a href="https://daringfireball.net/2026/04/when_he_is_alive_and_not_after_he_is_dead">my own take on the New Yorker piece</a>, wherein I concluded:</p>
-
-<blockquote>
-  <p>I would characterize Graham’s tweets re: Altman this week as
-emphasizing only that Altman was not fired or otherwise forced
-from YC, and could have stayed as CEO at YC if he’d found another
-CEO for OpenAI. But for all of Graham’s elucidating engagement on
-Twitter/X this week regarding this story, he’s dancing around the
-core question of the Farrow/Marantz investigation, the one right
-there in The New Yorker’s headline: Can Sam Altman be trusted?
-“<em>We didn’t ‘remove’ Sam Altman</em>” and “<em>We didn’t want him to
-leave</em>” are not the same things as saying, say, “<em>I think Sam
-Altman is honest and trustworthy</em>” or “<em>Sam Altman is a man of
-integrity</em>”. If Paul Graham were to say such things, clearly and
-unambiguously, those remarks would carry tremendous weight. But — rather conspicuously to my eyes — he’s not saying such things.</p>
-</blockquote>
-
-<p>The thing that stuck in my craw is this: <em>Does Y Combinator own a stake in OpenAI? And if they do, given OpenAI’s sky-high valuation, isn’t that stake worth billions of dollars?</em></p>
-
-<p>OpenAI was seeded by an offshoot of Y Combinator <a href="https://web.archive.org/web/20160611042811/https://ycr.org/">called YC Research</a> in 2016 — when Altman was running YC. In December 2023, the well-known AI expert (and AI-hype skeptic) <a href="https://garymarcus.substack.com/p/not-consistently-candid">Gary Marcus wrote the following</a>, in a piece on Altman’s trustworthiness in the wake of the OpenAI board saga that saw Altman fired, re-hired, and the board purged in the course of a tumultuous week:</p>
-
-<blockquote>
-  <p>After poking around, I found out that “I have no equity in OpenAI”
-was only half the truth; while Altman to my knowledge holds no
-<em>direct</em> equity in OpenAI, he does have an <em>indirect</em> stake in
-OpenAI, and that fact should have been disclosed.</p>
-
-<p>In particular, he owns a stake of Y Combinator, and Y Combinator
-owns a stake in OpenAI. It may well be worth tens of millions of
-dollars; even for Altman, that’s not trivial. Since he was
-President of Y Combinator, and CEO of OpenAI; he surely was
-aware of this.</p>
-</blockquote>
-
-<p>So it’s well known that Y Combinator owns <em>some</em> stake in OpenAI. But how big is that stake? This seems like devilishly difficult information to obtain. I asked around and a little birdie who knows several OpenAI investors came back with an answer: Y Combinator owns about 0.6 percent of OpenAI. At OpenAI’s current <a href="https://openai.com/index/accelerating-the-next-phase-ai/">$852 billion valuation</a>, that’s worth over $5 billion.</p>
-
-<p>Graham <a href="https://www.youtube.com/watch?v=6u4JVz7iQTY">and his wife Jessica Livingston</a> are two of Y Combinator’s four founding partners. The fact that Paul Graham personally has billions of dollars at stake with OpenAI doesn’t mean that his public opinion on Sam Altman’s trustworthiness and leadership is invalid. But it certainly seems like the sort of thing that ought to be disclosed when quoting Graham as an Altman character reference. A billion dollars here, a billion there — that adds up to the sort of money that <em>might</em> skew a fellow’s opinion.</p>
-
-    ]]></content>
-  <title>★ Y Combinator’s Stake in OpenAI</title></entry></feed><!-- THE END -->
+  <title>★ Software as the Product of Obsession Times Voice</title></entry></feed><!-- THE END -->
