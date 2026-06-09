@@ -7,7 +7,54 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-08T02:09:01Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-09T01:54:29Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>From the Annals of People Having Knowledge of the Matter, Siri AI Extensions Edition</title>
+	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2026-03-26/apple-plans-to-open-up-siri-to-rival-ai-assistants-beyond-chatgpt-in-ios-27" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x98" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/08/gurman-siri-ai-extensions" />
+	<id>tag:daringfireball.net,2026:/linked//6.43100</id>
+	<published>2026-06-09T01:37:27Z</published>
+	<updated>2026-06-09T01:54:29Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Mark Gurman, reporting (?) for Bloomberg two short months ago:</p>
+
+<blockquote>
+  <p>Apple Inc. plans to open Siri to outside artificial intelligence
+assistants, a major move aimed at bolstering the iPhone as an AI
+platform. The company is preparing to make the change as part of a
+Siri overhaul in its upcoming iOS 27 operating system update,
+according to people with knowledge of the matter. The assistant
+can already tap into ChatGPT through a partnership with OpenAI,
+but Apple will now allow competing services to do the same.</p>
+
+<p>The company is developing new tools to allow AI chatbot apps
+installed via the App Store to integrate with the Siri assistant,
+said the people, who asked not to be identified because the plans
+haven’t been announced. The chatbots will also work with an
+upcoming Siri app and other features in the Apple Intelligence
+platform.</p>
+
+<p>That means, for instance, if users have Alphabet Inc.’s Google
+Gemini or Anthropic PBC’s Claude installed, they’d be able to send
+queries to those services from within the Siri voice assistant,
+just like they have been able to with ChatGPT since Apple
+Intelligence launched in 2024.</p>
+</blockquote>
+
+<p>Maybe Apple ran out of time today, and will announce this tomorrow? Maybe they forgot to announce it? Maybe they scrapped the next-generation Siri that existed two months ago and in the last month rebuilt an entire entirely new next-generation Siri. I’ll bet something like that is what happened.</p>
+
+<p>I mean, people had knowledge of the matter.</p>
+
+<div>
+<a  title="Permanent link to ‘From the Annals of People Having Knowledge of the Matter, Siri AI Extensions Edition’"  href="https://daringfireball.net/linked/2026/06/08/gurman-siri-ai-extensions">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Mux — Video for Developers</title>
 	<link rel="alternate" type="text/html" href="https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x95" />
@@ -37,7 +84,7 @@
 	<link rel="shorturl" href="http://df4.us/x97" />
 	<id>tag:daringfireball.net,2026://1.43099</id>
 	<published>2026-06-08T01:30:00Z</published>
-	<updated>2026-06-08T02:09:01Z</updated>
+	<updated>2026-06-09T01:40:05Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -83,7 +130,7 @@ the Mac solved 20 years ago.</p>
 
 <p>What you expect is for the word “brown” to reappear. What happens is ... <em>the whole sentence disappears</em>. Gone. Invoke Redo and you only get back to “The quick fox.” The word “brown” is just gone forever. It’s nowhere in the Undo stack. That’s just profoundly fucked up. I’ve never seen anything like this with an AppKit app, ever. (I’ve never seen it with a UIKit app either — and the same thing happens on iOS with Journal. It’s just that you notice it less often because we don’t invoke Undo and Redo nearly as often there.)</p>
 
-<p>I actually use the Journal app and I’ve lost entire sentences of text to this incompetent implementation of Undo. Editing text in Journal is <em>dangerous</em> because SwiftUI is so bad at something as fundamental as text editing. AppKit has had this solved since 1989 or so, a decade before Apple reunified with NeXT. And my example here is just one of many. Andrade documents a whole bunch more in his post. <a href="https://shopie.io/">Shopie</a> is a good modern Mac app — you can practically see from reading his post that Andrade’s hands are scarred from dozens of paper cuts.</p>
+<p>I actually use the Journal app and I’ve lost entire sentences of text to this incompetent implementation of Undo. Editing text in Journal is <em>dangerous</em> because SwiftUI is so bad at something as fundamental as text editing. AppKit has had this solved since 1989 or so, a decade before Apple reunified with NeXT. And my example here is just one of many. Andrade documents a whole bunch more in his post. [Shopie is a good modern Mac app — you can practically see from reading his post that Andrade’s hands are scarred from dozens of paper cuts.</p>
 
 <p>So while the world is largely focused on Apple’s AI-related announcements at WWDC tomorrow, I’ve got SwiftUI (on all platforms) and Mac-assed Mac development high on my list. Apple’s developer message used to be that it was not just easy to develop apps for their platforms, but that it was easy to develop <em>good idiomatically native</em> apps. You got the correct complex behavior — for things like Undo/Redo — out of the box. That’s still true for AppKit and UIKit, but it’s never been true for SwiftUI, and <a href="https://www.apple.com/newsroom/2019/06/apple-unveils-groundbreaking-new-technologies-for-app-development/">SwiftUI is now seven years old</a>. That’s too long for any excuses to hold water. </p>
 
@@ -1651,28 +1698,6 @@ Only 19 percent of Americans.</p>
 
 <div>
 <a  title="Permanent link to ‘One Group, Clearly, Is Deranged’"  href="https://daringfireball.net/linked/2026/05/29/one-group-clearly-is-deranged">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras</title>
-	<link rel="alternate" type="text/html" href="https://tv.apple.com/us/sporting-event/mls-wrap-up/umc.cse.3a198p24hrehwhonbhgx2zvhv" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x81" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/28/mls-iphone-17-pro-footage" />
-	<id>tag:daringfireball.net,2026:/linked//6.43057</id>
-	<published>2026-05-28T16:51:57Z</published>
-	<updated>2026-05-28T16:52:07Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>I’m not sure if <a href="https://tv.apple.com/us/sporting-event/mls-wrap-up/umc.cse.3a198p24hrehwhonbhgx2zvhv">this link</a> works outside the US, but Apple TV’s MLS Wrap-Up show has highlight from the LA Galaxy vs. Houston Dynamo FC match <a href="https://daringfireball.net/linked/2026/05/21/apple-tv-to-broadcast-entire-mls-match-shot-using-iphones">they shot exclusively using iPhone 17 Pros</a>. Follow the link, choose “English”, and then choose “Full Replay” — then skip to 40m:15s or so.</p>
-
-<p>They show one of the professional camera rigs they used, with a long lens attached. I’d say the match footage looks good, but also definitely does not look as good as usual. Impressive for a phone camera, but I’d be a tad annoyed if I were a Galaxy or Dynamo fan and one of my team’s matches was used for a stunt like this.</p>
-
-<div>
-<a  title="Permanent link to ‘Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras’"  href="https://daringfireball.net/linked/2026/05/28/mls-iphone-17-pro-footage">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
