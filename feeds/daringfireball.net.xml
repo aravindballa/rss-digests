@@ -7,14 +7,71 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-09T17:23:54Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-09T17:46:12Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Apple WWDC 2026 Keynote</title>
+	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=hF8swzNR1-o" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x9d" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/09/apple-wwdc-2026-keynote" />
+	<id>tag:daringfireball.net,2026:/linked//6.43105</id>
+	<published>2026-06-09T17:42:32Z</published>
+	<updated>2026-06-09T17:42:32Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>A brisk 76 minutes, including the post-credits Easter egg music video. The past few years ran about a half hour longer.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple WWDC 2026 Keynote’"  href="https://daringfireball.net/linked/2026/06/09/apple-wwdc-2026-keynote">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Apple’s WWDC AI Demos Were Real and in Real Time</title>
+	<link rel="alternate" type="text/html" href="https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x9c" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/09/apple-wwdc-demos" />
+	<id>tag:daringfireball.net,2026:/linked//6.43104</id>
+	<published>2026-06-09T17:38:21Z</published>
+	<updated>2026-06-09T17:38:22Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Julie Bort, TechCrunch:</p>
+
+<blockquote>
+  <p>But the most telling detail wasn’t what Apple announced. It was
+how it chose to show some things off. Many of the Apple
+Intelligence demoes featured someone standing, phone in hand,
+pressing buttons or using voice commands in real time, while
+another camera showed off the phone’s response.</p>
+
+<p>These weren’t live onstage, anything-could-go wrong demos; they
+were pre-taped. But they looked far more like proof of working
+features than what Apple showed at WWDC 2024, when the company
+<a href="https://techcrunch.com/2024/06/13/everything-apple-announced-wwdc-2024/">unveiled Apple Intelligence and a new Siri</a> to the world
+through slickly produced videos that turned out to be more promise
+than product.</p>
+</blockquote>
+
+<p>The demos were all shot in single takes, with no editing. In fact, I think most of them were single takes of multiple demos back-to-back. That’s the way it should be, even when they feel a little slow. When a demo feels slow, the solution isn’t to edit the video — it’s to make the feature work faster.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple’s WWDC AI Demos Were Real and in Real Time’"  href="https://daringfireball.net/linked/2026/06/09/apple-wwdc-demos">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple Introduces Siri AI</title>
 	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x9b" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/09/apple-introduces-siri-ai" />
 	<id>tag:daringfireball.net,2026:/linked//6.43103</id>
 	<published>2026-06-09T17:23:29Z</published>
-	<updated>2026-06-09T17:23:54Z</updated>
+	<updated>2026-06-09T17:46:12Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -49,7 +106,7 @@ extend almost any response from Siri into a rich conversation and
 ask follow-up questions.</p>
 </blockquote>
 
-<p>I like the name “Siri AI”. “New Siri” wouldn’t have legs because eventually this won’t be new. This should be the dividing line between Siri as we know it and Siri as it should be. The demos I’ve seen so far (I still don’t have access on iOS 27 testing device) are impressive. Well, impressive compared to old Siri. They’re table stakes for generative AI. But Siri AI is the only system that can draw upon your personal data in the apps on your devices, <em>and</em> perform actions based on the app intents supported by the apps on your devices. It is in some ways less capable than ChatGPT or Claude, but in other ways has more potential. It’s a very different approach and I think it’s the right one for Apple.</p>
+<p>I like the name “Siri AI”. “New Siri” wouldn’t have legs because eventually this won’t be new. This should be the dividing line between Siri as we know it and Siri as it should be. The demos I’ve seen so far (I still don’t have access on my iOS 27 testing device) are impressive. Well, impressive compared to old Siri. They’re table stakes for generative AI. But Siri AI is the only system that can draw upon your personal data in the apps on your devices, <em>and</em> perform actions based on the app intents supported by the apps on your devices. It is in some ways less capable than ChatGPT or Claude, but in other ways has more potential. It’s a very different approach and I think it’s the right one for Apple.</p>
 
 <p>They need to execute, they need to prove this can scale, and most of all, they need to get third-party apps on board with <a href="https://developer.apple.com/videos/play/wwdc2026/345">App Intents</a> and <a href="https://developer.apple.com/videos/play/wwdc2026/240">App Schemas</a>. But it seems like they’re doing all of that. This is not a done deal but it is very realistic.</p>
 
@@ -65,7 +122,7 @@ ask follow-up questions.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/09/apples-wwdc-apple-intelligence-announcement" />
 	<id>tag:daringfireball.net,2026:/linked//6.43102</id>
 	<published>2026-06-09T16:50:33Z</published>
-	<updated>2026-06-09T16:51:43Z</updated>
+	<updated>2026-06-09T17:45:39Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -92,7 +149,7 @@ security of iPhone into the cloud.</p>
 
 <p>What’s confusing about this Apple-Google partnership is that Google pretty much calls all things AI “Gemini”. The models are “Gemini”, the assistant is “Gemini”, and the feature integrations are “Gemini”. So Apple is taking pains to emphasize that they’re building atop the Gemini <em>models</em>, not the Gemini <em>assistant</em>.</p>
 
-<p>One way to think about it is this. Let’s say you’re a Google Gemini app user. That’s the assistant. Now you start using the new Apple Intelligence (that builds atop the Gemini models) and the new Siri AI (that builds atop the new Apple Intelligence). When you go back to the Google Gemini app, *nothing you did using Apple Intelligence and Siri AI is visible to the Gemini app. And nothing you continue to do in the Google Gemini app is visible to Apple Intelligence or Siri AI.</p>
+<p>One way to think about it is this. Let’s say you’re a Google Gemini app user. That’s the assistant. Now you start using the new Apple Intelligence (that builds atop the Gemini models) and the new Siri AI (that builds atop the new Apple Intelligence). When you go back to the Google Gemini app, <em>nothing you did</em> using Apple Intelligence and Siri AI is visible to the Gemini app. And nothing you continue to do in the Google Gemini app is visible to Apple Intelligence or Siri AI.</p>
 
 <div>
 <a  title="Permanent link to ‘Apple’s WWDC Announcement of the New Apple Intelligence System’"  href="https://daringfireball.net/linked/2026/06/09/apples-wwdc-apple-intelligence-announcement">&nbsp;★&nbsp;</a>
@@ -1664,76 +1721,6 @@ we’ll be getting someone new next month for Attempt 2 at WWDC.</p>
 
 <div>
 <a  title="Permanent link to ‘Take Two’"  href="https://daringfireball.net/linked/2026/05/31/take-two">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’</title>
-	<link rel="alternate" type="text/html" href="https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x86" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/30/meta-subscriptions-for-fun" />
-	<id>tag:daringfireball.net,2026:/linked//6.43062</id>
-	<published>2026-05-30T15:34:02Z</published>
-	<updated>2026-05-30T15:46:42Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Sarah Perez, reporting for TechCrunch:</p>
-
-<blockquote>
-  <p>Meta is doubling down on its subscription offerings. On Wednesday,
-the social networking giant announced it’s now rolling out its
-consumer subscription plans globally for its flagship apps,
-Instagram, Facebook, and WhatsApp, and beginning tests of new
-subscriptions for businesses, creators, and Meta AI users.</p>
-
-<p>For a few dollars per month, consumers subscribing to
-Instagram Plus ($3.99/mo), Facebook Plus ($3.99/mo), or
-WhatsApp Plus ($2.99/mo) will gain access to extra features,
-like profile customization, super reactions, and story
-insights, among other things.</p>
-
-<p>In an <a href="https://www.instagram.com/p/DY2dHCWMZST/?hl=en">announcement</a>, Meta’s head of product, Naomi Gleit,
-noted that “more fun features” will be added in the future.</p>
-</blockquote>
-
-<p>My first question about this was whether Meta would be using IAP on iOS and Android. On the one hand, Zuckerberg <em>really</em> resents Meta’s subservient position to Apple and Google in the mobile ecosystem — that’s what drove him to make a big wrong bet on the “metaverse” as the Next Big Thing. But on the other hand, what else are they going to do? Most people only use Meta’s platforms via the phone apps, and if they’re going to allow subscriptions via the apps, they have to pay Apple and Google their commissions.</p>
-
-<p>This point wasn’t addressed in Perez’s article, <a href="https://mastodon.social/@gruber/116649712592670940">so I asked her</a> on Mastodon, and <a href="https://mastodon.social/@Sarahp/116652361168853988">she confirmed</a> that they <em>will</em> be using IAP through both the App Store and Play Store. I’m curious how much they’ll try (and get away with) steering people to the web — both to avoid the store commissions <em>and</em> for direct control over the subscription relationship.</p>
-
-<div>
-<a  title="Permanent link to ‘Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’’"  href="https://daringfireball.net/linked/2026/05/30/meta-subscriptions-for-fun">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Daniel Jalkut on AI</title>
-	<link rel="alternate" type="text/html" href="https://mastodon.social/@danielpunkass/116639318125898071" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x85" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/30/jalkut-on-ai" />
-	<id>tag:daringfireball.net,2026:/linked//6.43061</id>
-	<published>2026-05-30T15:27:20Z</published>
-	<updated>2026-05-30T15:27:20Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Daniel Jalkut, on Mastodon (cross-posted to <a href="https://bsky.app/profile/danielpunkass.punkitup.com/post/3mmqcikjkjn2t">Bluesky</a> and <a href="https://www.threads.com/@danielpunkass/post/DYynPrFlt3Q">Threads</a>):</p>
-
-<blockquote>
-  <p>My take on AI is, essentially, everybody who’s against it is too
-against it and everybody who’s for it is too for it.</p>
-</blockquote>
-
-<p>I concur with this take completely.</p>
-
-<p>(<strong>Sidenote:</strong> The different reply threads on the three networks speak loudly to the cultural and algorithmic differences between them. Good lord has Meta steered Threads into “make people argumentative” engagement.)</p>
-
-<div>
-<a  title="Permanent link to ‘Daniel Jalkut on AI’"  href="https://daringfireball.net/linked/2026/05/30/jalkut-on-ai">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
