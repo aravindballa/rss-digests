@@ -7,7 +7,35 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-09T18:55:12Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-09T21:33:17Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Apple OS 27: The Small Things</title>
+	<link rel="alternate" type="text/html" href="https://blog.oneberri.com/posts/wwdc26-the-small-things" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x9f" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/09/the-small-things" />
+	<id>tag:daringfireball.net,2026:/linked//6.43107</id>
+	<published>2026-06-09T21:29:57Z</published>
+	<updated>2026-06-09T21:33:17Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Rishi Ó:</p>
+
+<blockquote>
+  <p>My favorite Apple updates are not the flashy new features, but the quiet little touches: annoyances fixed, workflows made smoother, rough edges sanded down, and longstanding flaws thoughtfully reworked. To me, they’re the clearest sign of a company that cares about its craft.</p>
+
+<p>Here’s a collection from a WWDC26 screen-grab, organized for easier reading, on improvements coming later this year.</p>
+</blockquote>
+
+<p>That’s a lot of bullet points.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple OS 27: The Small Things’"  href="https://daringfireball.net/linked/2026/06/09/the-small-things">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>The Talk Show Live From WWDC: Tonight, In-Person and Streaming</title>
 	<link rel="alternate" type="text/html" href="https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2026" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x9e" />
@@ -1695,28 +1723,6 @@ for diaper rash cream, and, voila! A podcast! (Sound on.)</p>
 
 <div>
 <a  title="Permanent link to ‘The Talk Show Live From WWDC 2026: Tuesday June 9’"  href="https://daringfireball.net/linked/2026/05/31/the-talk-show-live-tickets-2026">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>exe.dev</title>
-	<link rel="alternate" type="text/html" href="https://exe.dev/?df" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x89" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/31/exe-dev" />
-	<id>tag:daringfireball.net,2026:/linked//6.43065</id>
-	<published>2026-06-01T01:55:40Z</published>
-	<updated>2026-06-01T01:58:44Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>My thanks to exe.dev for sponsoring last week at DF (with a very <a href="https://daringfireball.net/misc/2026/05/exe-dev-cool.png">cool graphic ad</a> — just love the way it looks). <a href="https://exe.dev/?df">exe.dev</a> is a cloud for the agent era — it gives you a pool of VMs with SSH, root, and web auth by default. Secrets injected at the network edge stay out of the LLM’s hands. Persistent servers, internal tools, vibe coding, disposable devboxes, whatever. You can share your web server as easily as you can share a Google Doc, and your VMs share CPU/RAM — you pay for underlying resources, not per VM.</p>
-
-<p>It’s just a computer.</p>
-
-<div>
-<a  title="Permanent link to ‘exe.dev’"  href="https://daringfireball.net/linked/2026/05/31/exe-dev">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
