@@ -7,14 +7,37 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-09T03:22:21Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-09T04:29:43Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	
+	<link rel="alternate" type="text/html" href="https://youtu.be/Dqp_b8GHLXU?t=1074" />
+	<link rel="shorturl" href="http://df4.us/x99" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2026/06/workos_launches_authmd_--_an_o" />
+	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.43101</id>
+	<author><name>Daring Fireball Department of Commerce</name></author>
+	<published>2026-06-09T04:23:05Z</published>
+	<updated>2026-06-09T04:23:05Z</updated>
+	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
+<p>Sign-up forms were built for humans in browsers, so how do AI agents programmatically register with services?</p>
+
+<p>Enter auth.md. By exposing a single, machine-readable Markdown file at your service root, AI agents can dynamically discover your OAuth Protected Resource Metadata, parse required scopes, and authenticate seamlessly.</p>
+
+<p>With native support in WorkOS AuthKit, you can now implement this protocol out of the box, giving AI tools a standardized, secure way to log into your application.</p>
+
+<p>Read the <a href="https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026">auth.md docs</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS Launches auth.md — an Open Protocol for Agent Registration’"  href="https://daringfireball.net/feeds/sponsors/2026/06/workos_launches_authmd_--_an_o">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+	<title>[Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration</title></entry><entry>
 	<title>From the Annals of People Having Knowledge of the Matter, Siri AI Extensions Edition</title>
 	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2026-03-26/apple-plans-to-open-up-siri-to-rival-ai-assistants-beyond-chatgpt-in-ios-27" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x98" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/08/gurman-siri-ai-extensions" />
 	<id>tag:daringfireball.net,2026:/linked//6.43100</id>
 	<published>2026-06-09T01:37:27Z</published>
-	<updated>2026-06-09T03:22:21Z</updated>
+	<updated>2026-06-09T04:29:43Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -45,7 +68,7 @@ just like they have been able to with ChatGPT since Apple
 Intelligence launched in 2024.</p>
 </blockquote>
 
-<p>Maybe Apple ran out of time today, and will announce this tomorrow? Maybe they forgot to announce it? Maybe they scrapped the next-generation Siri that existed two months ago and in the last month rebuilt another entirely new next-generation Siri. I’ll bet something like that is what happened.</p>
+<p>Maybe Apple ran out of time today, and will announce this tomorrow? Maybe they forgot to announce it? Maybe they scrapped the next-generation Siri that existed two months ago and in the last month rebuilt another entirely new next-generation Siri? I’ll bet something like that is what happened.</p>
 
 <p>I mean, people had knowledge of the matter.</p>
 
@@ -1702,23 +1725,6 @@ Only 19 percent of Americans.</p>
 
 	]]></content>
   </entry><entry>
-	
-	<link rel="alternate" type="text/html" href="https://exe.dev/?df" />
-	<link rel="shorturl" href="http://df4.us/x7z" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2026/05/exedev" />
-	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.43055</id>
-	<author><name>Daring Fireball Department of Commerce</name></author>
-	<published>2026-05-25T23:57:24Z</published>
-	<updated>2026-05-25T23:57:52Z</updated>
-	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
-<p>A cloud for the agent era. Use <a href="https://exe.dev/?df">exe.dev</a> to get a pool of VMs with SSH, root, and web auth by default. Secrets injected at the network edge stay out of the LLM’s hands. Persistent servers, internal tools, vibe coding, disposable devboxes, whatever. It’s just a computer.</p>
-
-<div>
-<a  title="Permanent link to ‘exe.dev’"  href="https://daringfireball.net/feeds/sponsors/2026/05/exedev">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-	<title>[Sponsor] exe.dev</title></entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/05/the_fonts_of_the_us_federal_courts" />
 	<link rel="shorturl" href="http://df4.us/x7s" />
