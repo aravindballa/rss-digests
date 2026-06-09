@@ -7,7 +7,99 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-09T04:29:43Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-09T17:23:54Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Apple Introduces Siri AI</title>
+	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x9b" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/09/apple-introduces-siri-ai" />
+	<id>tag:daringfireball.net,2026:/linked//6.43103</id>
+	<published>2026-06-09T17:23:29Z</published>
+	<updated>2026-06-09T17:23:54Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Apple Newsroom yesterday:</p>
+
+<blockquote>
+  <p>This new version of Siri is built on Apple Intelligence, allowing
+Siri to draw on personal context understanding and help users find
+what they need in the moment across messages, emails, photos, and
+more. For example, users can ask Siri to find a restaurant
+recommendation a friend messaged them about, surface a hotel
+confirmation number from an old email, or pull up photos with
+friends and family from a recent trip. And personal context
+understanding extends to third-party apps when developers
+integrate with Spotlight.</p>
+
+<p>With even more systemwide app actions, Siri AI lets users get
+things done across apps, like drafting an email from scratch, or
+editing and sharing a set of photos. Using onscreen awareness,
+Siri AI can answer questions related to the content on a user’s
+screen. For example, if a user gets a text about a potluck with
+friends, they can brainstorm with Siri on what to bring and then
+add a recipe to the Notes app.</p>
+
+<p>In addition, Siri AI can use broad world knowledge to get
+up-to-date information from the web on virtually any topic and
+generate a helpful answer, such as when and where to see the next
+solar eclipse, or when a musician is coming to town. Users can
+extend almost any response from Siri into a rich conversation and
+ask follow-up questions.</p>
+</blockquote>
+
+<p>I like the name “Siri AI”. “New Siri” wouldn’t have legs because eventually this won’t be new. This should be the dividing line between Siri as we know it and Siri as it should be. The demos I’ve seen so far (I still don’t have access on iOS 27 testing device) are impressive. Well, impressive compared to old Siri. They’re table stakes for generative AI. But Siri AI is the only system that can draw upon your personal data in the apps on your devices, <em>and</em> perform actions based on the app intents supported by the apps on your devices. It is in some ways less capable than ChatGPT or Claude, but in other ways has more potential. It’s a very different approach and I think it’s the right one for Apple.</p>
+
+<p>They need to execute, they need to prove this can scale, and most of all, they need to get third-party apps on board with <a href="https://developer.apple.com/videos/play/wwdc2026/345">App Intents</a> and <a href="https://developer.apple.com/videos/play/wwdc2026/240">App Schemas</a>. But it seems like they’re doing all of that. This is not a done deal but it is very realistic.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Introduces Siri AI’"  href="https://daringfireball.net/linked/2026/06/09/apple-introduces-siri-ai">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Apple’s WWDC Announcement of the New Apple Intelligence System</title>
+	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x9a" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/09/apples-wwdc-apple-intelligence-announcement" />
+	<id>tag:daringfireball.net,2026:/linked//6.43102</id>
+	<published>2026-06-09T16:50:33Z</published>
+	<updated>2026-06-09T16:51:43Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Apple Newsroom:</p>
+
+<blockquote>
+  <p>These new capabilities are powered by the next generation of Apple
+Foundation Models, custom-built in collaboration with Google and
+its Gemini models for deeply integrated Apple Intelligence
+experiences. These latest models run on device and on servers
+using Private Cloud Compute.</p>
+
+<p>Every facet of the new Apple Intelligence architecture is built
+privacy-first, from the latest Apple Foundation Models to the core
+operating system technologies that integrate these models deep
+into Apple’s platforms. Apple Intelligence uses on-device
+processing and Private Cloud Compute to help protect users’
+privacy. Private Cloud Compute gives users access to
+frontier-level intelligence, while extending the privacy and
+security of iPhone into the cloud.</p>
+</blockquote>
+
+<p>What’s confusing about this Apple-Google partnership is that Google pretty much calls all things AI “Gemini”. The models are “Gemini”, the assistant is “Gemini”, and the feature integrations are “Gemini”. So Apple is taking pains to emphasize that they’re building atop the Gemini <em>models</em>, not the Gemini <em>assistant</em>.</p>
+
+<p>One way to think about it is this. Let’s say you’re a Google Gemini app user. That’s the assistant. Now you start using the new Apple Intelligence (that builds atop the Gemini models) and the new Siri AI (that builds atop the new Apple Intelligence). When you go back to the Google Gemini app, *nothing you did using Apple Intelligence and Siri AI is visible to the Gemini app. And nothing you continue to do in the Google Gemini app is visible to Apple Intelligence or Siri AI.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple’s WWDC Announcement of the New Apple Intelligence System’"  href="https://daringfireball.net/linked/2026/06/09/apples-wwdc-apple-intelligence-announcement">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://youtu.be/Dqp_b8GHLXU?t=1074" />
 	<link rel="shorturl" href="http://df4.us/x99" />
@@ -1646,26 +1738,6 @@ against it and everybody who’s for it is too for it.</p>
 
 	]]></content>
   </entry><entry>
-	<title>Yours Truly on TBPN Yesterday</title>
-	<link rel="alternate" type="text/html" href="https://www.youtube.com/live/sQVwLUxFdMY?t=1997" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x84" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/30/yours-truly-on-tbpn-yesterday" />
-	<id>tag:daringfireball.net,2026:/linked//6.43060</id>
-	<published>2026-05-30T12:28:10Z</published>
-	<updated>2026-05-30T12:28:45Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Fun show, <a href="https://x.com/tbpn/status/2060503549868757477?s=20">good questions</a> I thought.</p>
-
-<div>
-<a  title="Permanent link to ‘Yours Truly on TBPN Yesterday’"  href="https://daringfireball.net/linked/2026/05/30/yours-truly-on-tbpn-yesterday">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/05/what_is_a_dickover" />
 	<link rel="shorturl" href="http://df4.us/x83" />
@@ -1682,49 +1754,6 @@ against it and everybody who’s for it is too for it.</p>
 
     ]]></content>
   <title>★ What Is a Dickover?</title></entry><entry>
-	<title>One Group, Clearly, Is Deranged</title>
-	<link rel="alternate" type="text/html" href="https://paulkrugman.substack.com/p/whos-deranged-exactly" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x82" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/05/29/one-group-clearly-is-deranged" />
-	<id>tag:daringfireball.net,2026:/linked//6.43058</id>
-	<published>2026-05-29T16:22:10Z</published>
-	<updated>2026-05-29T23:14:21Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Paul Krugman, describing a few striking data visualizations:</p>
-
-<blockquote>
-  <p>YouGov’s surveys subdivide Republicans into those who do and those
-who don’t support MAGA — and the economic views of these two
-groups are very different. A remarkable 65 percent of non-MAGA
-Republicans say that the economy is getting worse, while only 11
-percent say that it is getting better. [...]</p>
-
-<p>Aside from MAGA Republicans, Americans are bunched at the upper
-left, with few people seeing the economy getting better and the
-vast majority seeing it as getting worse. Non-MAGA Republicans are
-much more similar in their views to independents, and even to
-Democrats, than they are to MAGA.</p>
-
-<p>So how big is the group that believes that we have a good economy?
-Only 19 percent of Americans.</p>
-</blockquote>
-
-<p>The MAGA/non-MAGA split amongst self-identifying Republicans is striking. Non-MAGA Republicans have views on the economy that almost exactly mirror those of independents — neither of which are that far from those of Democrats.</p>
-
-<p>And let’s face it, “MAGA” is a euphemism for the Donald Trump cult of personality. These are the people who think it’s fine, just fine for him to be <a href="https://www.pbs.org/newshour/politics/ap-report-trump-eyes-former-institute-of-peace-building-for-new-board-of-peace-headquarters">putting his name</a> <a href="https://www.nytimes.com/2026/01/16/arts/as-kennedy-center-rebrands-its-mired-in-black-tape.html?unlocked_article_code=1.mFA.M_u0.3RpV7B7gn-go">on buildings</a>, <a href="https://daringfireball.net/linked/2026/03/28/trump-signature">his signature</a> (and <a href="https://www.washingtonpost.com/investigations/2026/05/28/trump-250-bill-pushed-by-treasury-appointees/">perhaps face</a>) on currency, putting his face on “special” edition <a href="https://www.cnn.com/2026/04/28/politics/us-trump-passport">US passports</a>, erecting <a href="https://time.com/article/2026/05/15/trump-gold-statue-controversy-comments-history/">gold statues of himself</a>, holding <a href="https://www.threads.com/@jdickerson/post/DY5WLT4EeyP">a UFC fight on the White House lawn</a> to celebrate his birthday — not to mention the not-even-trying-to-hide-it-or-excuse-it <a href="https://goodpoliticsbadpolitics.substack.com/p/the-slush-fund">abject corruption</a>.</p>
-
-<p>It’s rather depressing that 20 percent of the US population is in this cult. But I take solace that it’s <em>only</em> 20 percent. That’s not that much higher than <a href="https://civicscience.com/u-s-belief-in-sasquatch-has-risen-since-2020/">the 13 percent who believe</a> “Bigfoot / Sasquatch is a real, living creature”. This whole thing is a political boil that is starting to burst. Rats leave sinking ships.</p>
-
-<div>
-<a  title="Permanent link to ‘One Group, Clearly, Is Deranged’"  href="https://daringfireball.net/linked/2026/05/29/one-group-clearly-is-deranged">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/05/the_fonts_of_the_us_federal_courts" />
 	<link rel="shorturl" href="http://df4.us/x7s" />
