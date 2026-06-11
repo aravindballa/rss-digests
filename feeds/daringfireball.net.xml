@@ -7,19 +7,66 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-11T00:07:41Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
-	<title>MacOS 27 Golden Gate Removes the Dumb Icons From Menu Items</title>
-	<link rel="alternate" type="text/html" href="https://mastodon.online/@nikitonsky/116720790550648158" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x9g" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/10/macos-27-menu-item-icons" />
-	<id>tag:daringfireball.net,2026:/linked//6.43108</id>
-	<published>2026-06-11T00:01:08Z</published>
-	<updated>2026-06-11T00:07:41Z</updated>
+<updated>2026-06-11T00:48:52Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage</title>
+	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/06/08/craig-federighi-details-apples-collaboration-with-google-for-siri-ai-in-ios-27/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x9i" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/10/federighi-google-gemini-partnership" />
+	<id>tag:daringfireball.net,2026:/linked//6.43110</id>
+	<published>2026-06-11T00:48:52Z</published>
+	<updated>2026-06-11T00:48:52Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Chance Miller, at 9to5Mac on Monday:</p>
+
+<blockquote>
+  <p>Apple’s Siri team, led by Craig Federighi, held a post-WWDC
+keynote tech talk with members of the press this afternoon to
+talk through iOS 27 and the new Siri AI. During the talk,
+Federighi shared more details about Apple’s collaboration with
+Google. Federighi was joined by Amar Subramanya (vice president
+of AI), Mike Rockwell (Siri lead), and Sebastien Marineau-Mes
+(software VP).</p>
+
+<p>On the Google collaboration, Federighi explained:</p>
+
+<blockquote>
+  <p>Of course, we don’t have the Gemini app as our app. In fact, none
+of that client code is part of how we run on iOS. For these
+models, we use none of the models that Google deploys to their
+customers, nor do we use the infrastructure and means by which
+they deploy models to their customers. And then, when it comes to
+the knowledge base, we of course don’t use Google Search or
+anything like that as the foundation of our system. So I hope
+that’s clear. The amount of the Google Assistant we use is none.</p>
+
+<p>So let’s talk about what we do use, or how our system is built.</p>
+</blockquote>
+</blockquote>
+
+<p>This “Tech Talk” was good. It was detailed and technical, and there were live on-stage demos of Siri AI in action from Mike Rockwell. I don’t think Apple is ever going to go back to live on-stage major keynotes, but I do think the company is returning to more live events, including demos. There was a big live Siri AI/Apple Intelligence session for developers Tuesday morning in Steve Jobs Theater, which also had live demos. More like this, please.</p>
+
+<div>
+<a  title="Permanent link to ‘Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage’"  href="https://daringfireball.net/linked/2026/06/10/federighi-google-gemini-partnership">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items" />
+	<link rel="shorturl" href="http://df4.us/x9h" />
+	<id>tag:daringfireball.net,2026://1.43109</id>
+	<published>2026-06-11T00:09:01Z</published>
+	<updated>2026-06-11T00:25:00Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">This is my favorite news from all of WWDC this week. I mean that. In a small way I mean it because I so loathe this aspect of MacOS Tahoe. But in a large way I mean it because it’s proof that the rot has been rooted out of Apple’s software design team.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
 <p>Perhaps the worst UI crime in MacOS 26 Tahoe was the inexplicable decision to add inscrutable, distracting icons next to every item in the menu bar. You will recall <a href="https://daringfireball.net/linked/2026/01/06/nielsen-icons-in-menus">Jim Nielsen writing about it</a>, rightly describing it as exactly the sort of thing that Mac users look down upon in platforms like Google Docs and Windows. You will also recall <a href="https://tonsky.me/blog/tahoe-icons/">Nikita “Tonsky” Prokopov writing about it</a>, illustrating that the bad idea wasn’t even implemented well, with different Apple apps using entirely different icons for the same menu items. You will also recall <a href="https://daringfireball.net/linked/2026/01/06/nielsen-icons-in-menus">my linking to Nielsen</a> (“I can tolerate being angry about UI changes Apple makes to the Mac. But I can’t tolerate being heartbroken.”) and <a href="https://daringfireball.net/linked/2026/01/05/hard-to-justify-tahoe-icons">to Prokopov</a> (“The fact that Tahoe’s menu item icons are glaringly inconsistent and often utterly inscrutable is the fudge icing on a shit cake, but the real embarrassment is that the idea ever got past the proposal stage. No real UI <em>or</em> icon designers think this is a good idea. None.”)</p>
 
 <p>Wonderful news in MacOS 27 Golden Gate: the icons are gone. It’s like Tahoe’s menu item icons never happened. <a href="https://mastodon.online/@nikitonsky/116720790550648158">Prokopov noted it on Mastodon</a> with before and after screenshots, and mentions that <a href="https://developer.apple.com/design/human-interface-guidelines/menus">Apple has updated the Human Interface Guidelines accordingly</a>:</p>
@@ -44,16 +91,12 @@
     width = 525
   /></a></p>
 
-<p>MacOS 26 Tahoe — across every Apple app on the system — is living example of the updated HIG’s “what not to do” example illustrations. If you’re stuck using Tahoe until Golden Gate arrives, <a href="https://daringfireball.net/2026/03/what_to_do_about_those_menu_item_icons_in_macos_26_tahoe">recall this tip</a> to alleviate the problem to some extent.</p>
+<p>MacOS 26 Tahoe — across every Apple app on the system — is a living example of the updated HIG’s “what not to do” example illustrations (including the second section about groups within a menu). If you’re stuck using Tahoe until Golden Gate arrives, <a href="https://daringfireball.net/2026/03/what_to_do_about_those_menu_item_icons_in_macos_26_tahoe">recall this tip</a> to alleviate the problem to some extent.</p>
 
-<p>This is my favorite news from all of WWDC this week. I mean that. In a small way I mean it because I so loathe this aspect of MacOS Tahoe. But in a large way I mean it because it’s proof that the rot has been rooted out of Apple’s software design team. I don’t know if all the untalented hacks are gone, but the untalented magazine-designer hacks with clout and influence all left with Alan Dye. I’ve spoken with a few people from Apple’s design team and they’re all loving the work they’re doing and the direction they’re taking Apple’s platforms.</p>
+<p>This is my favorite news from all of WWDC this week. I mean that. In a small way I mean it because I so loathe this aspect of MacOS Tahoe. But in a large way I mean it because it’s proof that the rot has been rooted out of Apple’s software design team. I don’t know if all the untalented hacks are gone, but the untalented magazine-designer hacks with clout and influence all left with Alan Dye. I’ve chatted with a few people from Apple’s design team this week and they’re all loving the work they’re doing and the direction they’re taking Apple’s platforms. Backtracking on these idiotic menu item icons was a necessary first step.</p>
 
-<div>
-<a  title="Permanent link to ‘MacOS 27 Golden Gate Removes the Dumb Icons From Menu Items’"  href="https://daringfireball.net/linked/2026/06/10/macos-27-menu-item-icons">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
+    ]]></content>
+  <title>★ Sweet Jeebus, MacOS 27 Golden Gate Removes the Dumb Icons From Menu Items</title></entry><entry>
 	<title>Apple OS 27: The Small Things</title>
 	<link rel="alternate" type="text/html" href="https://blog.oneberri.com/posts/wwdc26-the-small-things" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x9f" />
@@ -88,7 +131,7 @@
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/09/the-talk-show-live-tonight" />
 	<id>tag:daringfireball.net,2026:/linked//6.43106</id>
 	<published>2026-06-09T18:53:47Z</published>
-	<updated>2026-06-09T18:55:12Z</updated>
+	<updated>2026-06-11T00:09:21Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -1926,81 +1969,4 @@ agent do that.”</p>
 <p>I’m not anti-AI. I’m very much intrigued by the whole incipient vibe-coding phenomenon. But this app feels <em>unholy</em>.</p>
 
     ]]></content>
-  <title>★ Nextpad++</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/05/software_as_the_product_of_obsession_times_voice" />
-	<link rel="shorturl" href="http://df4.us/x5v" />
-	<id>tag:daringfireball.net,2026://1.42979</id>
-	<published>2026-05-05T21:01:05Z</published>
-	<updated>2026-05-05T21:01:06Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">You might think it counterintuitive that a movement obsessed with software would be spearheading a severe decline in the design quality of software, but in Patel’s definition, there’s no concept of software as art, as a practice, as a craft. Software brain is purely an obsession with software as a medium in and of itself. A means with no consideration for the end.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>Back in 2009, Merlin Mann and I jointly gave a talk at SxSW titled “<a href="https://daringfireball.net/2009/03/obsession_times_voice">Obsession Times Voice</a>”. Regarding how it turned out, <a href="https://daringfireball.net/2009/03/obsession_times_voice">I wrote</a>:</p>
-
-<blockquote>
-  <p>My muse for the session was this quote from Walt Disney: <em>“We
-don’t make movies to make money; we make money to make more
-movies.”</em> To me, that’s it. That’s the thing.</p>
-</blockquote>
-
-<p>Merlin and I were talking about independent writers and podcasters, because that’s what we were (and remain), but the concept applies just as perfectly to independent developers. This came to my mind after reading (<a href="https://daringfireball.net/linked/2026/05/05/pedometer-plus-plus-8">and linking to</a>) David Smith’s description of the new Pedometer++ today. Not just what it does, but why he spent <a href="https://david-smith.org/blog/2026/04/29/maps-on-watchos/">six years making it</a>. That’s the sort of productive obsession that fascinates me.</p>
-
-<p>Ice water is always refreshing, but it tastes better when you’re on a road trip to hell. It feels like the world of software is bifurcating quality-wise. This <a href="https://daringfireball.net/linked/2026/05/04/photoshop-modern-user-interface">whole</a> <a href="https://daringfireball.net/linked/2026/05/04/adobe-modern-webpages">thing</a> about <a href="https://mjtsai.com/blog/2026/04/30/photoshops-modern-spectrum-user-interface/">Adobe’s new craptacular “modern” UI language</a> (a.k.a. “<a href="https://spectrum.adobe.com/">Spectrum</a>”) exemplifies one side of that bifurcation — the bad-and-getting-worse side. Software that is the product not just of an ignorance of <a href="https://asktog.com/atc/principles-of-interaction-design/">long-established principles of interaction design</a>, but of a <a href="https://daringfireball.net/2025/12/bad_dye_job#:~:text=the%20key%20window">willful disdain for those principles</a>. What Adobe is now shipping is just inexplicably bad UI, ignoring literally decades of great work and long-mastered concepts — a lot of which work was <a href="https://daringfireball.net/linked/2026/05/04/adobe-modern-webpages">pioneered by Adobe itself</a>!</p>
-
-<p>The <a href="https://daringfireball.net/linked/2026/04/13/tahoe-reduce-transparency">whole</a> <a href="https://daringfireball.net/2026/03/what_to_do_about_those_menu_item_icons_in_macos_26_tahoe">thing</a> with <a href="https://daringfireball.net/2025/12/bad_dye_job">MacOS 26 Tahoe</a> is similar. To be clear, the UI crimes in Tahoe are deeply worrisome, but they are nowhere near as severe as those in Adobe’s Spectrum. But the problems with Tahoe are steps down the same fork in the road that Adobe took years ago. Spectrum is where Tahoe suggests that MacOS was headed under Alan Dye’s leadership: cross-platform sameness for the sake of sameness, with a complete disregard for longstanding platform nuances and idioms. In Spectrum’s case those platforms are MacOS and Windows and <a href="https://helpx.adobe.com/account/individual/subscriptions-and-plans/plan-types-and-eligibility/cc-app-web-mobile-access.html">the web</a>. In Tahoe’s case it’s MacOS and iOS.<sup id="fnr1-2026-05-05"><a href="#fn1-2026-05-05">1</a></sup></p>
-
-<p>The other side of the software fork is not deserted. It’s just populated, more than ever, by the products of small independent developers who obsess, first and foremost, over quality and artistic vision. Remarkable new software gems exhibiting spectacular UI design <a href="https://www.currentreader.app/">appear</a> <a href="https://daringfireball.net/linked/2026/05/04/chess-peace">all</a> the <a href="https://daringfireball.net/linked/2026/04/15/so-close-to-getting-it">time</a>. They’re just not coming from the biggest companies, the ones whose apps, <a href="https://daringfireball.net/linked/2026/03/28/netflix-wrecked-their-tvos-video-player">alas</a>, dominate not just our desktops and pockets but our entire culture today.<sup id="fnr2-2026-05-05"><a href="#fn2-2026-05-05">2</a></sup></p>
-
-<p>There’s always been software with poorly designed user interfaces. Much of it has been successful financially, sometimes spectacularly so. I’d argue, in all seriousness, that that’s the story of Microsoft in a nutshell. What’s new today is poorly designed software from developers <a href="https://daringfireball.net/linked/2026/04/16/miller-netflix-tvos">from whom we expect better</a>. In the old days there were people who would argue that prioritizing good user interface design was a waste of time — like spending hours decorating cupcakes destined for kindergarteners who are simply going to mash them into their mouths. (Again: cf. Microsoft’s undeniable market success.) What’s new today is people holding up objectively bad interaction design and proclaiming it to be good, and the product of teams that purportedly prioritize “design”, when it’s clear they have no idea what they’re talking about. It’s one thing to make something poorly designed and shrug on the grounds that it doesn’t matter. It’s another thing to make something poorly designed and hold it up as good design.</p>
-
-<p>We are justified to expect nothing short of <a href="https://www.folklore.org/How_to_Hire_Insanely_Great_Employees.html">insane greatness</a> from Apple, and solidly good design from Adobe. In principle, all software ought to have well-designed user interfaces. That’s never going to be the case. But software for designers — Adobe’s <em>raison d’être</em> — absolutely demands to be well-designed itself, like how <a href="https://daringfireball.net/linked/2009/03/31/zinsser">a book on writing</a> must itself <a href="https://daringfireball.net/linked/2009/03/23/strunk-and-white">be well-written</a>.</p>
-
-<p>Perhaps I was wrong, though, to describe Adobe’s new UI as inexplicable. It’s just indefensible. The explanation for so much software going so rotten from a UI-design perspective is, the more I think about it, related to <a href="https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation">Nilay Patel’s “Software Brain”</a> theory, which I’ve commented on both <a href="https://daringfireball.net/linked/2026/04/23/patel-software-brain">directly</a> and <a href="https://daringfireball.net/2026/04/we_dont_serve_their_kind_here">indirectly</a>. Here’s Patel’s definition of “software brain”:</p>
-
-<blockquote>
-  <p>The simplest definition I’ve come up with is that it’s when you
-see the whole world as a series of databases that can be
-controlled with the structured language of software code. Like I
-said, this is a powerful way of seeing things. So much of our
-lives run through databases, and a bunch of important companies
-have been built around maintaining those databases and providing
-access to them.</p>
-
-<p>Zillow is a database of houses. Uber is a database of cars and
-riders. YouTube is a database of videos. The Verge’s website is a
-database of stories. You can go on and on and on. Once you start
-seeing the world as a bunch of databases, it’s a small jump to
-feeling like you can control everything if you can just control
-the data.</p>
-
-<p>But that doesn’t always work.</p>
-</blockquote>
-
-<p>You might think it counterintuitive that a movement obsessed with software would be spearheading a severe decline in the design quality of software, but in Patel’s definition, there’s no concept of software as art, as a practice, as a craft. Software brain is purely an obsession with software as a medium in and of itself. A means with no consideration for the end.</p>
-
-<p>Framed in Walt Disney’s adage, software brain makes software only to make more money. The idea of making money in order to make more software — to afford the time and talent to <em>craft</em> it — does not compute. Framed in the metaphor that Steve Jobs used to <a href="https://www.youtube.com/watch?v=OesY-denV8k">close his introduction of the original iPad</a>, and returned to again <a href="https://www.youtube.com/watch?v=sUCpuaqlISQ">to close his final keynote at WWDC 2011</a>, software brain is nowhere near the intersection of technology and the liberal arts. Software brain is so far down Technology Street that it’s no longer in the same zip code as Liberal Arts Avenue. Another way, perhaps, to define <em>software brain</em> is that it’s the utter rejection of Jobs’s maxim that “technology is not enough”. With software brain, technology is all there is.</p>
-
-<div class="footnotes">
-<hr />
-<ol>
-
-<li id="fn1-2026-05-05">
-<p>I don’t want to belabor the similarities between Adobe’s Spectrum UI system and Apple’s Liquid Glass, because there are significant differences. Foremost, <a href="https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/">what’s wrong with Spectrum</a> is wrong everywhere. Photoshop with Adobe’s new “modern” UI is, I suspect, just as bad a Windows app as it is a Mac app. Whereas the usability problems with Liquid Glass are lopsided platform-wise. It’s a litany of disasters on MacOS 26 Tahoe, but actually pretty good on Apple’s other version 26 OSes, especially iOS. There are aspects of Liquid Glass on iOS 26 that some people don’t like, but they’re literally skin-deep. Cosmetic details. Functionally, iOS 26 is pretty strong, and Apple made some very nice changes regarding the placement of things like search fields to improve consistency system-wide. I still have iOS 18 running on my year-old iPhone 16 Pro, and there are very few things I prefer in iOS 18 versus iOS 26. Whereas I’d be sick if I had to work in MacOS 26 Tahoe every day.</p>
-
-<p>That’s my point here. iOS 26 doesn’t suffer in any way — not even one teensy little single way — from MacOS UI idioms being inappropriately applied to the iPhone. On the iPad, maybe there’s a little of that, like, say, the weird way iPadOS 26 uses Mac-style red / yellow / green window control buttons but makes them too small to use, so before you use them, <a href="https://sixcolors.com/post/2025/09/ipados-26-review-a-computer/">you need a gesture to embiggen them temporarily first</a>. But the implementation of “Liquid Glass” on MacOS Tahoe is just riddled with iOS-isms that aren’t appropriate on MacOS. So many decades-old Mac UI nuances and idioms were just ignored. They weren’t changed, they weren’t updated, they were just ignored. You either see that this is true or you don’t, and if you don’t see it, you shouldn’t be designing the Mac user interface.&nbsp;<a href="#fnr1-2026-05-05"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;︎</a></p>
-</li>
-
-
-<li id="fn2-2026-05-05">
-<p>Consider the age of television. Television is the broadcast of motion pictures with sound. Cinema is an artform. But at the peak of television’s hegemony over western culture and mass media, the artistic quality of almost everything on TV was terrible. It was slop. It wallowed in its own sloppiness. This, despite the fact that cinematic artists had largely mastered the artform in the decades preceding TV. TV became popular in the 1950s and culturally dominant in the 1960s. But <em>Citizen Kane</em> came out in 1941. The network executives with “TV brain” in the second half of the 20th century didn’t even consider TV as a medium for art. They just cared that it was watched. It was judged only by ratings and ad revenue, not artistic merit. That’s what’s happening with software right now. But remember too, that as dreadful television programming rocketed to stratospheric popularity in the 1970s, that same decade saw <a href="https://www.imdb.com/list/ls000335086/">a remarkable explosion in innovative filmmaking</a> in movie theaters. Keep the faith.&nbsp;<a href="#fnr2-2026-05-05"  class="footnoteBackLink"  title="Jump back to footnote 2 in the text.">&#x21A9;&#xFE0E;︎</a></p>
-</li>
-
-</ol>
-</div>
-
-    ]]></content>
-  <title>★ Software as the Product of Obsession Times Voice</title></entry></feed><!-- THE END -->
+  <title>★ Nextpad++</title></entry></feed><!-- THE END -->
