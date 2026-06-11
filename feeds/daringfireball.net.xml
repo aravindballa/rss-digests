@@ -7,7 +7,61 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-11T20:38:10Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-11T22:00:08Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Apple: ‘Due to DMA, Siri AI Delayed in EU for iOS 27 and iPadOS 27’</title>
+	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x9k" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/11/apple-dma-siri-ai" />
+	<id>tag:daringfireball.net,2026:/linked//6.43112</id>
+	<published>2026-06-11T21:58:49Z</published>
+	<updated>2026-06-11T22:00:08Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Apple Newsroom, in an Apple Newsroom post Monday:</p>
+
+<blockquote>
+  <p>According to EU regulators, the DMA requires Apple to give any AI
+system nearly unlimited access to a user’s device, as well as the
+ability to act on that access autonomously without a user’s
+ongoing visibility and control. That includes the ability to read
+and send messages, make purchases, access files, and execute
+actions across any app. Security researchers have already shown
+that AI systems can be hijacked to steal personal data — like
+passwords and photos — and to permanently alter files and
+account settings without a user’s consent. As AI systems gain
+more capabilities, these risks are quickly increasing in
+frequency and scope.</p>
+
+<p>Given the serious risks to users, Apple designed a solution called
+Trusted System Agent — an intermediary that would allow virtual
+assistants to safely access the same features and capabilities as
+Siri AI for devices in the EU. Apple also shared a plan to launch
+Siri AI in the EU while gradually rolling out this new solution
+over an 18-month period. The European Commission said no. In fact,
+the European Commission did not agree to any of Apple’s proposals.</p>
+
+<p>Apple will continue working to bring these features to the
+European Union as safely as possible. However, given the clear
+dangers to EU users and the regulators’ failure to acknowledge
+these risks, there is currently no timeline for Siri AI’s
+availability in the EU on iOS and iPadOS.</p>
+</blockquote>
+
+<p>There’s a lot to unpack here, including more background information — and on-the-record statements — from a briefing Apple held Tuesday that I was invited to at Apple Park. But the bottom line is that Apple’s public statements regarding the DMA and the European Commission have never been this strident before. In its public statements, Apple has always been <em>diplomatic</em>. That’s the word.</p>
+
+<p>Now, they’re a bit more on war footing. There’s a massive gulf between what Apple is willing to do with Siri AI in the EU and what the Commission is demanding from Apple for DMA compliance. As things stand there’s no middle ground. Apple’s offers for compromise have been rejected. Unless one side changes its mind and concedes its current position, Siri AI will <em>never</em> come to the EU, and what Apple is saying here is that they’re unwilling to create the open-access-to-user-data system that the EC is demanding.</p>
+
+<p>And from what I’ve seen so far in a day of testing Siri AI, EU iOS users are going to miss out on something really good.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple: ‘Due to DMA, Siri AI Delayed in EU for iOS 27 and iPadOS 27’’"  href="https://daringfireball.net/linked/2026/06/11/apple-dma-siri-ai">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film</title>
 	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=iEho3brGB64" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x9j" />
@@ -1736,63 +1790,6 @@ the new head of 60 Minutes.</p>
 
 <div>
 <a  title="Permanent link to ‘‘If You Take the Weasel Job Then You Must Be the Weasel’’"  href="https://daringfireball.net/linked/2026/06/01/weasel-job-60-minutes">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘We Are Living in Pinocchio’s World’</title>
-	<link rel="alternate" type="text/html" href="https://om.co/2026/05/25/we-are-living-in-pinocchios-world/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x8b" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/01/pinocchios-world" />
-	<id>tag:daringfireball.net,2026:/linked//6.43067</id>
-	<published>2026-06-01T20:05:17Z</published>
-	<updated>2026-06-02T16:03:07Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Om Malik:</p>
-
-<blockquote>
-  <p><em>The Adventures of Pinocchio</em> was published in serial form in
-1881, aimed at Italian children in the way the 19th century
-aimed things at children, full of suffering, consequence, and
-moral instruction delivered through catastrophe. The puppet is
-hanged. He is swallowed by a giant fish. He watches companions
-degrade into beasts of burden. The world he moves through is
-predatory at every level, and the institutions that should
-protect him are either absent, corrupted, or actively hostile to
-his interests. [...]</p>
-
-<p>Most people remember <em>Pinocchio</em> as a story about lying. The nose
-grows. You get caught. Lesson learned. But that reading misses
-almost everything Collodi was actually doing. The book is a close
-study of a society where deception has gone ambient, woven into
-every institution, every transaction. Courts punish victims.
-Authority figures perform competence without exercising it.
-Experts are decorative. Society holds together through spectacle
-and habit rather than accountability. Into this environment, a
-naive creature is released, constitutionally unable to resist a
-good story about easy reward.</p>
-
-<p>The nose is the least interesting lie in the book. The interesting
-lies are the ones that work.</p>
-</blockquote>
-
-<p>I’m not sure which sphere of interest this essay applies better to: post-AI tech, or post-Trump politics. I mean, goddamn, what a paragraph this one is:</p>
-
-<blockquote>
-  <p>The grifters and the hucksters and the influencers selling
-impossible things succeed because audiences reward certainty and
-punish doubt. They honor confidence and resist complication. A
-clean story about a genius who will fix everything travels faster
-than a difficult story about tradeoffs. The Field of Miracles
-stays open because people keep wanting to bury their coins there.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘‘We Are Living in Pinocchio’s World’’"  href="https://daringfireball.net/linked/2026/06/01/pinocchios-world">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
