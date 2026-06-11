@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-11T00:48:52Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-11T01:59:41Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage</title>
 	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/06/08/craig-federighi-details-apples-collaboration-with-google-for-siri-ai-in-ios-27/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x9i" />
@@ -60,7 +60,7 @@ that’s clear. The amount of the Google Assistant we use is none.</p>
 	<link rel="shorturl" href="http://df4.us/x9h" />
 	<id>tag:daringfireball.net,2026://1.43109</id>
 	<published>2026-06-11T00:09:01Z</published>
-	<updated>2026-06-11T00:25:00Z</updated>
+	<updated>2026-06-11T01:59:41Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -69,17 +69,19 @@ that’s clear. The amount of the Google Assistant we use is none.</p>
 	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
 <p>Perhaps the worst UI crime in MacOS 26 Tahoe was the inexplicable decision to add inscrutable, distracting icons next to every item in the menu bar. You will recall <a href="https://daringfireball.net/linked/2026/01/06/nielsen-icons-in-menus">Jim Nielsen writing about it</a>, rightly describing it as exactly the sort of thing that Mac users look down upon in platforms like Google Docs and Windows. You will also recall <a href="https://tonsky.me/blog/tahoe-icons/">Nikita “Tonsky” Prokopov writing about it</a>, illustrating that the bad idea wasn’t even implemented well, with different Apple apps using entirely different icons for the same menu items. You will also recall <a href="https://daringfireball.net/linked/2026/01/06/nielsen-icons-in-menus">my linking to Nielsen</a> (“I can tolerate being angry about UI changes Apple makes to the Mac. But I can’t tolerate being heartbroken.”) and <a href="https://daringfireball.net/linked/2026/01/05/hard-to-justify-tahoe-icons">to Prokopov</a> (“The fact that Tahoe’s menu item icons are glaringly inconsistent and often utterly inscrutable is the fudge icing on a shit cake, but the real embarrassment is that the idea ever got past the proposal stage. No real UI <em>or</em> icon designers think this is a good idea. None.”)</p>
 
+<p>Top third-party developers rightly <a href="https://weblog.rogueamoeba.com/2026/01/10/removing-tahoes-unwanted-menu-icons/">rejected the design</a>, adopting <a href="https://indieweb.social/@brentsimmons/115846213935605782">open source code from Brent Simmons</a> to disable the default “icons in all standard menu items” behavior.</p>
+
 <p>Wonderful news in MacOS 27 Golden Gate: the icons are gone. It’s like Tahoe’s menu item icons never happened. <a href="https://mastodon.online/@nikitonsky/116720790550648158">Prokopov noted it on Mastodon</a> with before and after screenshots, and mentions that <a href="https://developer.apple.com/design/human-interface-guidelines/menus">Apple has updated the Human Interface Guidelines accordingly</a>:</p>
 
 <blockquote>
   <p><b>Use menu item icons sparingly and with purpose.</b> Icons allow
-   people to find menu items more quickly, and help clarify what
-   selecting an item does. Use an icon to highlight the most
-   common actions and key features of your app, file system
-   locations, connected devices, visual concepts like rotating or
-   flipping an image, and user-generated content like folders and
-   documents. Don’t display an icon if you can’t find one that
-   clearly represents the menu item.</p>
+people to find menu items more quickly, and help clarify what
+selecting an item does. Use an icon to highlight the most common
+actions and key features of your app, file system locations,
+connected devices, visual concepts like rotating or flipping an
+image, and user-generated content like folders and documents.
+Don’t display an icon if you can’t find one that clearly
+represents the menu item.</p>
 </blockquote>
 
 <p>This updated advice in the HIG is perfect. Screenshot:</p>
