@@ -7,7 +7,72 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-13T02:11:38Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-13T17:02:59Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>U.S. Government Directs Anthropic to Shut Down Fable 5 and Mythos 5 Models on National Security Grounds</title>
+	<link rel="alternate" type="text/html" href="https://www.anthropic.com/news/fable-mythos-access" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x9o" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/13/us-government-forces-anthropic-to-shut-down-fable-5-and-mythos-5-models" />
+	<id>tag:daringfireball.net,2026:/linked//6.43116</id>
+	<published>2026-06-13T17:02:29Z</published>
+	<updated>2026-06-13T17:02:59Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Anthropic:</p>
+
+<blockquote>
+  <p>The US government, citing national security authorities, has
+issued an export control directive to suspend all access to Fable
+5 and Mythos 5 by any foreign national, whether inside or outside
+the United States, including foreign national Anthropic employees.
+The net effect of this order is that we must abruptly disable
+Fable 5 and Mythos 5 for all our customers to ensure compliance.
+Access to all other Anthropic models will not be affected.</p>
+
+<p>We received the directive from the government today at 5:21pm
+(ET). The letter did not provide specific details of its national
+security concern. Our understanding is that the government
+believes it has become aware of a method of bypassing, or
+“jailbreaking” Fable 5. We reviewed a demonstration of this
+specific technique being used to identify a small number of
+previously known, minor vulnerabilities. These vulnerabilities all
+appear relatively simple, and we have found that other
+publicly-available models are able to discover them as well
+without requiring a bypass.</p>
+</blockquote>
+
+<p><a href="https://www.anthropic.com/news/claude-fable-5-mythos-5">Fable 5 and Mythos 5 were announced on Tuesday</a> — that post has detailed comparisons, from Anthropic, on the models’ capabilities.</p>
+
+<p>Having the access ban extend all the way to “foreign national Anthropic employees” is, to say the least, aggressive. Whether that degree of restriction is truly warranted, I don’t think we, on the outside, can say. The Trump administration lacks credibility, to say the least, when it comes to foreign nationals. But it’s Anthropic itself that repeatedly compares the power of frontier models to nuclear weapons. Here’s CEO Dario Amodei, <a href="https://darioamodei.com/post/policy-on-the-ai-exponential">in an essay published just this month</a>:</p>
+
+<blockquote>
+  <p>There may come a time, perhaps relatively soon, when we need to go
+beyond this, when the most powerful AI systems look less like
+airplanes or automobiles and more like weaponizable nuclear
+materials — a threat to humanity rather than “just” a threat to
+public safety. If that occurs, we may need more aggressive
+regulatory measures than those I have laid out.</p>
+</blockquote>
+
+<p>If that occurs — or if it already <em>has</em> occurred — it’s obviously not the place of Anthropic (or OpenAI or Google) to render that judgment. <a href="https://stratechery.com/2026/anthropic-and-alignment/">Ben Thompson wrote about this presciently</a> back in March, and linking to his post, <a href="https://daringfireball.net/linked/2026/03/02/anthropic-and-alignment">I wrote</a>:</p>
+
+<blockquote>
+  <p>Nilay Patel, quoting the same section of Thompson’s column I
+quoted above, <a href="https://bsky.app/profile/reckless.bsky.social/post/3mg3qayzjlc2m">sees it as</a> “Ben Thompson making a
+full-throated case for fascism”. I see it as the case against
+<a href="https://en.wikipedia.org/wiki/Corporatocracy">corporatocracy</a>. Who sets our defense policies? Our
+democratically elected leaders, or the CEOs of corporate defense
+contractors?</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘U.S. Government Directs Anthropic to Shut Down Fable 5 and Mythos 5 Models on National Security Grounds’"  href="https://daringfireball.net/linked/2026/06/13/us-government-forces-anthropic-to-shut-down-fable-5-and-mythos-5-models">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/06/the_talk_show_live_from_wwdc_2026" />
 	<link rel="shorturl" href="http://df4.us/x9n" />
@@ -1731,49 +1796,6 @@ broke.</p></li>
 
 <div>
 <a  title="Permanent link to ‘Three Ways to Get Paid’"  href="https://daringfireball.net/linked/2026/06/02/zweig-three-ways-to-get-paid">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>The First-Time-Buyer-Discount Dickover Scheme</title>
-	<link rel="alternate" type="text/html" href="https://x.com/usgraphics/status/2060559523585355986" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x8f" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/02/blueball-dickovers" />
-	<id>tag:daringfireball.net,2026:/linked//6.43071</id>
-	<published>2026-06-02T15:08:12Z</published>
-	<updated>2026-06-02T15:56:30Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Neil Panchal, on Twitter/X (<a href="https://xcancel.com/usgraphics/status/2060559523585355986">XCancel link</a>):</p>
-
-<blockquote>
-  <p>Of all the dickovers, the dickover that blueballs you with some
-first-time buyer incentive. “Sign up and get 10% discount, new
-accounts only”, the dickover boasts.</p>
-
-<p>Never understood why you’d ever penalize returning customers with
-a dickover, blue-balling them with 10% off teaser that they’re
-ineligible for. wtf?</p>
-
-<p>And for first time buyers, they’d always feel left out if they
-don’t shove their email address in the dickover. The choice is
-an illusion with a penalty of 10%. But wait… there’s more! You
-only get a discount code if you, after clicking the confirmation
-email link, also sign up for their SMS marketing. You just got
-double dicked.</p>
-</blockquote>
-
-<p>I fell for this racket once, albeit with my eyes open. Last year I bought a cap from New Era’s website. They offered me some sort of discount for giving them my email address. I knew they were going to get my email anyway because I was going to buy the hat, so I figured why not. Only then — exactly as Panchal describes — did they say I also needed to give them my phone number and grant permission to text me marketing messages. Now I was pissed. I did it anyway, just to see what happened (and get the discount). As soon as I bought the hat, discount applied, I rescinded their permission to send me text messages <em>and</em> marketing emails. (They had already texted me like two marketing messages, in addition to the ones confirming my phone number.) Overall I’d have rather paid a few more dollars than go through the hassle, which is why my standard operating procedure is to decline all such entreaties. A real discount is just offering a lower price. Anything else is a scam of some sort.</p>
-
-<p>But the real problem is that it completely soured my impression of New Era. I am far less likely to purchase from them again. I will eventually buy a New Era cap again — their actual products are excellent, and they are the exclusive maker of official MLB on-field caps — but if I can buy it elsewhere, I will. I’ll go out of my way to avoid buying direct from New Era for the rest of my life.</p>
-
-<p>The marketing shitbirds who press for these schemes — and insist on adding <a href="https://daringfireball.net/2026/05/what_is_a_dickover">dickovers</a> and dickbars to websites — do so by pointing to data that shows that they do convert some number of users. “It works” they claim, pointing to data. What doesn’t show up in their data are interactions like mine. They don’t have analytics that measure that I now consider their website an antagonist to avoid at all costs.</p>
-
-<div>
-<a  title="Permanent link to ‘The First-Time-Buyer-Discount Dickover Scheme’"  href="https://daringfireball.net/linked/2026/06/02/blueball-dickovers">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
