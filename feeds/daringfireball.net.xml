@@ -7,7 +7,96 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-15T17:53:59Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-15T19:00:56Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>The European Commission Ruled Months Ago That Google’s Integration of Gemini in Android Violates the DMA</title>
+	<link rel="alternate" type="text/html" href="https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x9t" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/15/ec-google-gemini-ai-dma" />
+	<id>tag:daringfireball.net,2026:/linked//6.43121</id>
+	<published>2026-06-15T18:58:22Z</published>
+	<updated>2026-06-15T19:00:56Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Ryan Whitham, writing for Ars Technica back in April:</p>
+
+<blockquote>
+  <p>European regulators are proposing several broad changes to the way
+AI tools operate on Android phones. Some of this is
+straightforward, like allowing third-party AI tools to be invoked
+system-wide via hot words or button presses. This might also
+include allowing AI tools to view screen context when the user
+opens them. Context also extends to allowing alternative AI
+systems to access local data to generate proactive suggestions and
+summaries. The report actually describes something that sounds
+like Google’s Magic Cue, which relies on Gemini to offer
+suggestions based on your activity.</p>
+
+<p>Google has also started experimenting with allowing AI to control
+certain apps. As we saw when this feature <a href="https://arstechnica.com/reviews/2026/03/samsung-galaxy-s26-ultra-review-private-and-performant/">debuted on the Galaxy
+S26</a>, Gemini is currently pretty bad at using apps on your behalf.
+The commission wants to explore allowing other AI services to
+autonomously control installed apps and system features on Android
+phones. Maybe someone else could do better?</p>
+</blockquote>
+
+<p>Maybe! But also maybe it’s a bad idea for complex system architecture design to come from non-technical government bureaucrats. One of these maybes strikes me as a lot more likely than the other.</p>
+
+<blockquote>
+  <p>Many of the Gemini AI features in Android, including Magic Cue,
+rely on running local models, and Google has been slow to allow
+third parties the system access to make that work effectively. So
+the EU is also suggesting a mandate that would ensure developers
+have the necessary hardware access to run local models “with high
+levels of performance, availability and responsiveness.”</p>
+</blockquote>
+
+<p>What could go wrong?</p>
+
+<blockquote>
+  <p>Finally, Google may be required under the DMA to create new APIs
+and offer technical assistance to other AI makers who want to plug
+into Android. The commission also specifies that these tools must
+be made available free of charge.</p>
+</blockquote>
+
+<p>Of course, it’s not free of charge to provide technical assistance to one’s competitors. It’s actually a great expense.</p>
+
+<p>Here’s the <a href="https://ec.europa.eu/commission/presscorner/detail/en/ip_26_887">European Commission, announcing these “preliminary findings”</a>:</p>
+
+<blockquote>
+  <p>The proposed measures aim to ensure that competing AI services can
+effectively interact with applications on users’ Android devices
+and execute tasks accordingly, such as sending an email using the
+user’s preferred email app, ordering food or sharing a photo with
+friends. Currently, Google largely reserves these capabilities for
+use by its own AI offerings on Android phones and tablets. For
+example, the measures would allow competing AI services to be
+easily activated by users, using a custom ‘wake word’, a phrase
+that the user can speak to activate an AI service.</p>
+
+<p>The proposed measures will also enable competing providers of AI
+services to innovate and offer deeply integrated AI experiences to
+users on Android phones and tablets, along with Alphabet’s own AI
+services, such as Gemini. Opening up access to these capabilities
+will provide Android users across the EU with a wider choice of AI
+services.</p>
+</blockquote>
+
+<p>The difference between Google and Apple on this front is that Google just blazed ahead and shipped Gemini integrated into Android in the EU, and is now facing compliance problems after shipping. (Ask forgiveness.) Apple isn’t shipping Siri AI in the EU in iOS 27, knowing that it’s going to be deemed non-compliant. (Ask permission.)</p>
+
+<p>The EC presumes that these measures “will also enable competing providers of AI services to innovate and offer deeply integrated AI experiences to users on Android phones and tablets”. Again: maybe! But really all they can enforce is that “competing providers of AI services” will have the same level of system-level integration that Google’s AI services have. The easiest way to achieve that is by withdrawing Gemini integration from the EU, not by building APIs and privacy protection mechanisms to enable third-party providers what the EC is demanding.</p>
+
+<p>Google is learning the lesson Apple learned the hard way with all the existing features of iOS that were deemed not compliant with the DMA when it went into effect. The “ship it first and ask forgiveness / hope it’s deemed compliant” strategy is not a good one in the EU.</p>
+
+<div>
+<a  title="Permanent link to ‘The European Commission Ruled Months Ago That Google’s Integration of Gemini in Android Violates the DMA’"  href="https://daringfireball.net/linked/2026/06/15/ec-google-gemini-ai-dma">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>WorkOS Launches Auth.md — an Open Protocol for Agent Registration</title>
 	<link rel="alternate" type="text/html" href="https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x9s" />
@@ -1779,45 +1868,6 @@ whether it’s legal and what some are doing to try and stop it.</p>
 
 <div>
 <a  title="Permanent link to ‘The Underworld Market to Remove the Recording Indicator Light on Meta Glasses’"  href="https://daringfireball.net/linked/2026/06/03/the-underworld-market-to-remove-the-recording-indicator-light-on-meta-glasses">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Meta Reportedly Has a Slew of New Smart Glasses Planned for This Year</title>
-	<link rel="alternate" type="text/html" href="https://gizmodo.com/meta-has-a-ridiculous-amount-of-smart-glasses-planned-for-this-year-2000765741" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x8k" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/02/meta-glasses-this-year" />
-	<id>tag:daringfireball.net,2026:/linked//6.43076</id>
-	<published>2026-06-02T21:54:43Z</published>
-	<updated>2026-06-02T21:54:43Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>James Pero, summarizing for Gizmodo <a href="https://www.theinformation.com/articles/meta-memo-outlines-ambitious-hardware-plans-including-new-ai-pendant">this paywalled report by Jyoti Mann</a> for The Information:</p>
-
-<blockquote>
-  <p>But, wait, there’s more: in addition to the fall releases, The
-Information reports that Meta also has a pair slated for December,
-codenamed “Mojito VIP.” There are also two prototypes being tested
-in the fall, according to the report, including one called
-“Artemis” and another called “SSG,” which is short for
-“supersensing glasses.”</p>
-
-<p>The Information <a href="https://www.theinformation.com/articles/meta-renews-work-facial-recognition-tech-privacy-worries-fade">previously reported</a> that the “supersensing”
-pair would have always-on cameras capable of looking at your
-surroundings without you having to prompt the voice assistant or
-activate the camera with a button. The idea here is that, with a
-constant stream of visual information, the smart glasses could be
-a kind of ambient virtual assistant that remembers where you left
-your keys or other vision-based reminders.</p>
-</blockquote>
-
-<p>Spitball: Meta’s entire business is predicated on knowing as much about people as possible. Their interest in building out a virtual “metaverse” world was motivated by the fact they could track everything people do, see, say, and hear there. That <a href="https://daringfireball.net/linked/2026/06/01/the-metaverse-fever-dream">didn’t play out</a> so they’re pivoting to building out devices that will let them track everything people do, see, say, and hear in the real world.</p>
-
-<div>
-<a  title="Permanent link to ‘Meta Reportedly Has a Slew of New Smart Glasses Planned for This Year’"  href="https://daringfireball.net/linked/2026/06/02/meta-glasses-this-year">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
