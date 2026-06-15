@@ -7,7 +7,86 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-15T16:44:53Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-15T17:53:59Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>WorkOS Launches Auth.md — an Open Protocol for Agent Registration</title>
+	<link rel="alternate" type="text/html" href="https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x9s" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/15/workos-authmd" />
+	<id>tag:daringfireball.net,2026:/linked//6.43120</id>
+	<published>2026-06-15T17:53:50Z</published>
+	<updated>2026-06-15T17:53:59Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks to WorkOS for sponsoring DF last week to promote Auth.md, their new open protocol for AI agent registration.</p>
+
+<p>Sign-up forms were built for humans in browsers, so how do AI agents programmatically register with services? That’s the question Auth.md aims to answer. By exposing a single, machine-readable Markdown file at your service root, AI agents can dynamically discover your OAuth Protected Resource Metadata, parse required scopes, and authenticate seamlessly.</p>
+
+<p>Markdown, baby. Who’d have thunk it?</p>
+
+<p>With native support in WorkOS AuthKit, you can now implement this protocol out of the box, giving AI tools a standardized, secure way to log into your application. Read the <a href="https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026">Auth.md docs</a>, and watch its on-stage introduction <a href="https://youtu.be/Dqp_b8GHLXU?t=1074">at the MCP Night: Agent Night keynote</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS Launches Auth.md — an Open Protocol for Agent Registration’"  href="https://daringfireball.net/linked/2026/06/15/workos-authmd">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>‘Anthropic’s Safety Superpower’</title>
+	<link rel="alternate" type="text/html" href="https://stratechery.com/2026/anthropics-safety-superpower/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x9r" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/15/anthropic-safety-superpower" />
+	<id>tag:daringfireball.net,2026:/linked//6.43119</id>
+	<published>2026-06-15T17:18:46Z</published>
+	<updated>2026-06-15T17:18:46Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Ben Thompson, in his weekly free column at Stratechery:</p>
+
+<blockquote>
+  <p>On one hand, I actually don’t begrudge Anthropic not wanting to
+help its competitors; on the other hand, what should be
+blisteringly clear is that Anthropic does not think that anyone
+else other than them should even be making frontier LLMs.</p>
+
+<p>What makes this policy all the more remarkable is the fact that it
+was enacted only two months after Anthropic had that dispute with
+the Department of War: the latter wanted to use Claude for any
+legal use, while the former wanted more stringent controls around
+surveillance and autonomous weapons. What this degradation
+represented was both the capability and willingness of Anthropic
+to silently alter its models to achieve its policy preferences. In
+other words, Anthropic willfully validated some of its critics’
+worst fears in terms of being a supply chain risk.</p>
+
+<p>The broader takeaway from that previous episode, however, is that
+Anthropic believes that they are the ones who should have final
+say over how Anthropic is used; given that they think only they
+should be developing leading edge AI, they by extension think that
+only they should have final say over AI generally. When you
+further combine this realization with the company’s pronouncements
+about AI’s ability to conduct all economic activity, you realize
+that Anthropic’s leadership effectively wants to have power over
+everything and everyone.</p>
+</blockquote>
+
+<p>Anthropic is best seen as a religious organization. Their employees are true believers in a cause, and on a mission. Perhaps every successful company has a religious aspect at its core — like, maybe, Apple’s is design quality and user-centricism, Microsoft’s is market share with no regard for technical or design elegance, Google’s is market share with high regard for technical elegance, and Meta’s is strip-mining the world’s social graph for profit. These companies tend to attract employees who believe in the company’s core mission, and the employees who believe tend to be the ones who thrive and rise within the companies’ ranks to positions of influence.</p>
+
+<p>But Anthropic feels more like a real religion, where the core tenets must be taken on faith, and the priests (Anthropic employees) have a conviction about them. A religious fervor. If Apple gets too taken away by its cultural fervor for design, they do something silly like make a <a href="https://daringfireball.net/2014/09/apple_watch">$20,000 solid gold Apple Watch</a>. So what? If Microsoft or Google get taken away by their shared fervor for market share at all costs, they face antitrust remedies. A stifled market and abusive behavior from a monopolist isn’t good, but doesn’t end the world.</p>
+
+<p>A religious fervor that believes the company is building god-like “super intelligence” that will dwarf human intelligence — and that only the company’s priesthood can be trusted to define, create, control, and gate access to it — is something else entirely. I tend to think the Anthropic true believers are all wet — that LLMs, amazing though they are, are not a path toward “super intelligence”. But, they used to be clearly behind OpenAI in technical capability, then caught up, and now with Mythos/Fable, they are clearly ahead. I still think they’re wrong about where this is heading, but I don’t think we can say we <em>know</em> they’re wrong.</p>
+
+<div>
+<a  title="Permanent link to ‘‘Anthropic’s Safety Superpower’’"  href="https://daringfireball.net/linked/2026/06/15/anthropic-safety-superpower">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Trump’s Name (Set in the Wrong Font, of Course) Has Been Removed From the Kennedy Center</title>
 	<link rel="alternate" type="text/html" href="https://apple.news/ANLNtQOeuSkiJ35tzkYw9oA" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x9q" />
@@ -1739,59 +1818,6 @@ your keys or other vision-based reminders.</p>
 
 <div>
 <a  title="Permanent link to ‘Meta Reportedly Has a Slew of New Smart Glasses Planned for This Year’"  href="https://daringfireball.net/linked/2026/06/02/meta-glasses-this-year">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple, the Anti-‘Metaverse’ VR Company</title>
-	<link rel="alternate" type="text/html" href="https://daringfireball.net/2025/12/meta_says_fuck_that_metaverse_shit" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x8j" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/02/apple-the-anti-metaverse-vr-company" />
-	<id>tag:daringfireball.net,2026:/linked//6.43075</id>
-	<published>2026-06-02T20:48:08Z</published>
-	<updated>2026-06-02T20:48:09Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>One <a href="https://daringfireball.net/linked/2026/06/02/the-metaverse-was-snake-oil-for-isolation">more</a> bit of “<a href="https://daringfireball.net/linked/2026/06/01/the-metaverse-fever-dream">metaverse fever dream</a>” follow-up. The one company in the field that Nick Heer doesn’t mention is Apple, makers of the best-known (albeit not best-selling) virtual reality headset. Think and say what you want about the Vision platform (<a href="https://daringfireball.net/2026/04/on_the_future_of_apples_vision_platform">I still think</a> it’s the first inning of a long game), but no one at Apple ever once gave a hint of endorsing “metaverse” hype. In fact, <a href="https://daringfireball.net/2025/12/meta_says_fuck_that_metaverse_shit">as I’ve noted before</a>, at a 2022 WSJ event, seven months before Vision Pro was <em>announced</em> and over a year before it was released, <a href="https://www.youtube.com/watch?v=m-ugwoEOMvg&amp;t=1770s">Joanna Stern asked Greg Joswiak and Craig Federighi</a>:</p>
-
-<blockquote>
-  <p><strong>Stern:</strong> You have to finish this sentence, both of you. The
-metaverse is...</p>
-
-<p><strong>Joz:</strong> A word I’ll never use.</p>
-</blockquote>
-
-<p>“Fever dream” is right.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple, the Anti-‘Metaverse’ VR Company’"  href="https://daringfireball.net/linked/2026/06/02/apple-the-anti-metaverse-vr-company">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>The Metaverse Was Snake Oil for Isolation</title>
-	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2026/06/01/the-metaverse-fever-dream" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x8i" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/02/the-metaverse-was-snake-oil-for-isolation" />
-	<id>tag:daringfireball.net,2026:/linked//6.43074</id>
-	<published>2026-06-02T20:42:33Z</published>
-	<updated>2026-06-04T20:49:52Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>A follow-up point from <a href="https://daringfireball.net/linked/2026/06/01/the-metaverse-fever-dream">my post yesterday linking to</a> Nick Heer’s blockbuster “<a href="https://pxlnv.com/blog/metaverse-fever-dream/">The Metaverse Fever Dream</a>”. In particular, the connection Heer draws between the rise of “metaverse” hype and the pandemic.</p>
-
-<p>I always sort of knew that metaverse hype roughly coincided with the Covid lockdown and our collective period of isolation and loneliness, a year-plus stretch when we relied mostly on computer platforms for nearly all socializing. But here in 2026 it’s now clear that metaverse hype and lockdown-induced isolation coincided precisely. They didn’t roughly overlap; they exactly overlapped. So much so that I’m now wondering if any of the “metaverse” hype would have happened if Covid hadn’t happened. Facebook still likely would’ve renamed itself, <a href="https://om.co/2025/04/28/no-gruber-this-is-why-facebook-renamed-itself/">because they’d so poisoned the “Facebook” brand itself</a>, but maybe to <a href="https://daringfireball.net/linked/2025/04/28/om-malik-facebook-rename">something other than “Meta”</a>.</p>
-
-<p>We allowed the necessary <em>initial</em> emergency lockdown to extend indefinitely because it seemed like <em>maybe we could get by</em> for a long stretch using technology. The extended lockdown never would have happened if the Covid pandemic had broken out 20 or more years earlier. In 2020 and 2021, we could squint and say, sure, maybe kids can “go to school” via Zoom. We never would have kept all kids home for an entire year pre-Zoom. But the truth is Zoom “school” <a href="https://www.nationsreportcard.gov/highlights/ltt/2022/">wasn’t much better than no school at all</a>. Same for Zoom “work collaboration”, and Zoom “friend gatherings”. It was an illusion that today’s technology is even close to a sufficient substitute for being in each others’ physical presence. The siren call of “the metaverse” was exactly what we craved — technology that <em>would</em> be a sufficient substitute for real-world experiences and socializing. The best audience for snake oil are people with actual ailments. And during Covid, we were all ailing socially.</p>
-
-<div>
-<a  title="Permanent link to ‘The Metaverse Was Snake Oil for Isolation’"  href="https://daringfireball.net/linked/2026/06/02/the-metaverse-was-snake-oil-for-isolation">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
