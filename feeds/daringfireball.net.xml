@@ -7,14 +7,14 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-16T22:48:39Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-16T23:09:40Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>New in the App Store: Personalized Recommendations</title>
 	<link rel="alternate" type="text/html" href="https://techcrunch.com/2026/06/09/apples-app-store-rolls-out-personalized-recommendations/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x9w" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/16/app-store-personalized-recommendations" />
 	<id>tag:daringfireball.net,2026:/linked//6.43124</id>
 	<published>2026-06-16T16:12:31Z</published>
-	<updated>2026-06-16T16:12:31Z</updated>
+	<updated>2026-06-16T23:09:40Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -37,7 +37,7 @@ these new personalized suggestions in various places in the App
 Store, including the Apps or Games tab or on the Search tab.</p>
 </blockquote>
 
-<p>Via Michael Tsai, security research critics Mysk, posting <a href="https://x.com/mysk_co/status/2064401062224879888">on Twitter/X</a> (<a href="https://xcancel.com/mysk_co/status/2064401062224879888">XCancel link</a>), flag that the App Store app seemingly sends analytics usage data to Apple with everything you do in the App Store app, including exactly what you type, character-by-character.</p>
+<p>Security research critics Mysk, posting <a href="https://x.com/mysk_co/status/2064401062224879888">on Twitter/X</a> (<a href="https://xcancel.com/mysk_co/status/2064401062224879888">XCancel link</a>), report that the App Store app seemingly sends analytics usage data to Apple with everything you do in the App Store app, including exactly what you type, character-by-character — and that this isn’t for search suggestions, but for analytics. (<a href="https://mjtsai.com/blog/2026/06/12/app-store-personalized-recommendations-and-keylogging/">Via Michael Tsai</a>.)</p>
 
 <div>
 <a  title="Permanent link to ‘New in the App Store: Personalized Recommendations’"  href="https://daringfireball.net/linked/2026/06/16/app-store-personalized-recommendations">&nbsp;★&nbsp;</a>
