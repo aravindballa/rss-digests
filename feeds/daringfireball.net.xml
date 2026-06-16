@@ -7,7 +7,86 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-15T23:31:36Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-16T02:33:46Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	
+	<link rel="alternate" type="text/html" href="https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF" />
+	<link rel="shorturl" href="http://df4.us/x9v" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2026/06/video_for_developers" />
+	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.43123</id>
+	<author><name>Daring Fireball Department of Commerce</name></author>
+	<published>2026-06-16T02:33:37Z</published>
+	<updated>2026-06-16T02:33:46Z</updated>
+	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
+<p>Video is a boatload of data. Every video file in your product contains audio, objects, and scenes that most stacks can’t read or access.</p>
+
+<p>Mux Robots turns that data into video intelligence. Configure your video workflows once, and they run automatically on every new upload: ask questions, summarize, find key moments, and more. No asset webhooks or self-hosted glue code needed.</p>
+
+<p>Mux is video infrastructure for developers, trusted by Synthesia, Shopify, and the U.S. Soccer Federation. Start building for free. Use code FIREBALL at signup for an extra $50 credit.</p>
+
+<div>
+<a  title="Permanent link to ‘Mux — Video for Developers’"  href="https://daringfireball.net/feeds/sponsors/2026/06/video_for_developers">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+	<title>[Sponsor] Mux — Video for Developers</title></entry><entry>
+	<title>The Washington Post on the EU’s DMA Folly</title>
+	<link rel="alternate" type="text/html" href="https://www.washingtonpost.com/opinions/2026/06/14/apple-withholding-siri-ai-europe-is-another-dma-failure/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/x9u" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/15/washington-post-dma-folly" />
+	<id>tag:daringfireball.net,2026:/linked//6.43122</id>
+	<published>2026-06-16T02:20:30Z</published>
+	<updated>2026-06-16T02:26:20Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>The Washington Post editorial board yesterday (<a href="https://apple.news/AxhcCCGY8SS6bHY5xCvwhQA">News+ link</a>), “Why Europe Won’t Have the New Siri:</p>
+
+<blockquote>
+  <p>Brussels insists the decision is “<a href="https://www.washingtonpost.com/business/2026/06/09/siri-ai-europe-apple/19fab4a2-6401-11f1-bdd4-805ebb99a693_story.html">Apple’s and Apple’s only</a>” and
+that nothing in its flagship Digital Markets Act forbids the
+launch. That’s technically true and wholly beside the point.</p>
+
+<p>The law requires that the moment Siri AI ships in Europe, any
+rival AI agent must get the same sweeping access to a user’s
+messages, files and chat history. Apple proposed putting in a
+software security layer to make that safe and offered a phased
+rollout to build it. According to Apple, the European Commission
+<a href="https://apple.news/AqSYonAtHQfCs_AOO4-n44w">rejected the proposal</a>.</p>
+
+<p>The DMA was supposed to <a href="https://digital-markets-act.ec.europa.eu/index_en">open markets</a>. But its legal logic was
+born in the era of browsers, app stores and messaging apps. These
+components can be swapped like batteries.</p>
+</blockquote>
+
+<p>The DMA effectively demands everything to be swappable/interchangeable. So the European Commission is correct that the DMA does not forbid Apple from launching <em>a</em> version of Siri AI, it clearly forbids Apple from launching the version of Siri AI they actually built.</p>
+
+<blockquote>
+  <p>Behind all this lies the dream that Europe could be a “<a href="https://scholarship.law.columbia.edu/books/232/">regulatory
+superpower</a>.” It wanted to create a market too big to skip that
+would, by virtue of its heft, end up exporting its rules to the
+rest of the world. That hasn’t worked out.</p>
+
+<p>When adapting a product for Europe costs more than European market
+access is worth, companies no longer comply. They simply leave out
+the feature.</p>
+</blockquote>
+
+<p>That’s the folly of the DMA, or at least the maximal interpretation of the DMA that the European Commission is pursuing. It only makes sense under the assumption that the EU is too big a market to ignore, and the EU’s market might is such that systems will be designed to meet their compliance standards, regardless if the makers of these systems support the regulations or not. (And in the case of Apple with iOS and Google with Android, <a href="https://www.reuters.com/sustainability/boards-policy-regulation/apple-criticises-eu-measures-help-ai-rivals-access-google-services-2026-05-13/">the two companies are in lockstep</a> in their opposition to the EU’s regulations on system-level AI interoperability.)</p>
+
+<p>First, the EU is big but it isn’t <em>that</em> big. The best estimate I’ve seen is that <a href="https://daringfireball.net/2024/03/eu_share_of_apples_revenue">the EU accounts for about 7% of Apple’s worldwide revenue</a>. Plus, because of the DMA, the cost of doing business in the EU is now significantly more expensive for Apple and Google, because they need to engineer DMA-compliant versions of various features and systems. Unless, that is, they stop bringing a long and ever-growing list of new features to the EU.</p>
+
+<p>Which brings me to my second point. What exactly is the motivation for Apple and Google to engineer entirely separate systems for the EU to bring new features into compliance with the Commission’s broad interpretation of the DMA? Because if Apple doesn’t engineer a DMA-compliant version of Siri AI, iOS users in the EU will ... switch to Android, whose system-level AI was deemed noncompliant by the Commission a few months ago?</p>
+
+<p>This doesn’t directly hurt Apple. It doesn’t force Apple to design, engineer, and ship a compliant EU-exclusive version of Siri AI that supports plug-and-play LLM back ends. It only hurts iPhone <em>users</em> who live in the EU, who are stuck with the old dumb version of Siri for the foreseeable future. The European Commission is either stupid or insane.</p>
+
+<div>
+<a  title="Permanent link to ‘The Washington Post on the EU’s DMA Folly’"  href="https://daringfireball.net/linked/2026/06/15/washington-post-dma-folly">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>The European Commission Ruled Months Ago That Google’s Integration of Gemini in Android Violates the DMA</title>
 	<link rel="alternate" type="text/html" href="https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x9t" />
@@ -350,7 +429,7 @@ contractors?</p>
 	<link rel="shorturl" href="http://df4.us/x9n" />
 	<id>tag:daringfireball.net,2026://1.43115</id>
 	<published>2026-06-12T23:36:15Z</published>
-	<updated>2026-06-12T23:54:21Z</updated>
+	<updated>2026-06-16T02:24:48Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -370,6 +449,8 @@ contractors?</p>
 </iframe></p>
 
 <p><strong>Immersive 3D video with spatial audio:</strong> Coming soon, exclusively in <a href="https://sandwich.vision/">Sandwich Vision</a>’s <a href="https://apps.apple.com/app/theater-the-future-of-cinema/id6502666560">Theater</a> on Vision Pro, available on the App Store. The bandwidth-constrained immersive livestream Tuesday night looked cool; the on-demand version coming in a few days will look amazing.</p>
+
+<p><strong>Audio-only version:</strong> <a href="https://daringfireball.net/thetalkshow/2026/06/14/ep-449">In the usual place</a>, and wherever you get your podcasts.</p>
 
 <p><strong>Sponsored by:</strong></p>
 
@@ -1841,58 +1922,6 @@ provide details about specific segments.</p>
 
 	]]></content>
   </entry><entry>
-	<title>The Underworld Market to Remove the Recording Indicator Light on Meta Glasses</title>
-	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=EaJSPeJmqis" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x8l" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/03/the-underworld-market-to-remove-the-recording-indicator-light-on-meta-glasses" />
-	<id>tag:daringfireball.net,2026:/linked//6.43077</id>
-	<published>2026-06-03T19:39:13Z</published>
-	<updated>2026-06-03T19:39:14Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Joanna Stern, on YouTube:</p>
-
-<blockquote>
-  <p>People across the country are offering a service on Facebook
-Marketplace to disable the recording light on Ray-Ban Meta
-glasses. They call it “Stealth Mode.” Joanna paid $100 for the
-modification and went inside the growing business of turning smart
-glasses into covert cameras. She investigates who is doing it,
-whether it’s legal and what some are doing to try and stop it.</p>
-</blockquote>
-
-<p>Of course there’s a market for this. But the true chef’s kiss is that the market to find people who offer the service is on ... Facebook Marketplace. Using a Meta platform to find people to hack a Meta device so you can surreptitiously record strangers. So perfectly Meta.</p>
-
-<div>
-<a  title="Permanent link to ‘The Underworld Market to Remove the Recording Indicator Light on Meta Glasses’"  href="https://daringfireball.net/linked/2026/06/03/the-underworld-market-to-remove-the-recording-indicator-light-on-meta-glasses">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	
-	<link rel="alternate" type="text/html" href="https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF" />
-	<link rel="shorturl" href="http://df4.us/x8e" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2026/06/mux_video_for_developers" />
-	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.43070</id>
-	<author><name>Daring Fireball Department of Commerce</name></author>
-	<published>2026-06-02T01:45:43Z</published>
-	<updated>2026-06-02T01:45:44Z</updated>
-	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
-<p>Mux is what developers reach for when they need to do more with video. Video files are packed with data and context waiting to be unlocked.</p>
-
-<p>Mux Robots are AI workflows that unlock that data inside your video for summarization, caption translation, moderation, and more. Configure once and your workflows run automatically on new uploads.</p>
-
-<p>Mux is video infrastructure trusted by Patreon, Substack, and Synthesia. Start building for free. Use code <strong>FIREBALL</strong> at signup for an extra $50 credit.</p>
-
-<div>
-<a  title="Permanent link to ‘Mux — Video for Developers’"  href="https://daringfireball.net/feeds/sponsors/2026/06/mux_video_for_developers">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-	<title>[Sponsor] Mux — Video for Developers</title></entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/05/what_is_a_dickover" />
 	<link rel="shorturl" href="http://df4.us/x83" />
