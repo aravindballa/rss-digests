@@ -7,14 +7,14 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-15T21:25:07Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-15T23:31:36Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>The European Commission Ruled Months Ago That Google’s Integration of Gemini in Android Violates the DMA</title>
 	<link rel="alternate" type="text/html" href="https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/x9t" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/15/ec-google-gemini-ai-dma" />
 	<id>tag:daringfireball.net,2026:/linked//6.43121</id>
 	<published>2026-06-15T18:58:22Z</published>
-	<updated>2026-06-15T21:25:07Z</updated>
+	<updated>2026-06-15T23:31:36Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -53,7 +53,7 @@ have the necessary hardware access to run local models “with high
 levels of performance, availability and responsiveness.”</p>
 </blockquote>
 
-<p>What could go wrong?</p>
+<p><a href="https://www.reuters.com/sustainability/boards-policy-regulation/apple-criticises-eu-measures-help-ai-rivals-access-google-services-2026-05-13/">What</a> could go wrong?</p>
 
 <blockquote>
   <p>Finally, Google may be required under the DMA to create new APIs
@@ -87,7 +87,7 @@ services.</p>
 
 <p>The difference between Google and Apple on this front is that Google just blazed ahead and shipped Gemini integrated into Android in the EU, and is now facing compliance problems after shipping. (Ask forgiveness.) Apple isn’t shipping Siri AI in the EU in iOS 27, knowing that it’s going to be deemed non-compliant. (Ask permission.)</p>
 
-<p>The EC presumes that these measures “will also enable competing providers of AI services to innovate and offer deeply integrated AI experiences to users on Android phones and tablets”. Again: maybe! But really all they can enforce is that “competing providers of AI services” will have the same level of system-level integration that Google’s AI services have. The easiest way for Google to achieve that is by withdrawing Gemini integration from the EU, not by building APIs and privacy protection mechanisms to enable the capabilities for third-party providers that the EC is demanding.</p>
+<p>The EC presumes that these measures “will also enable competing providers of AI services to innovate and offer deeply integrated AI experiences to users on Android phones and tablets”. Again: maybe! But really all they can enforce is that “competing providers of AI services” will have the same level of system-level integration that Google’s AI services have. The easiest way for Google to achieve that is by withdrawing Gemini integration in Android from the EU, not by building APIs and privacy protection mechanisms to enable the capabilities for third-party providers that the EC is demanding.</p>
 
 <p>Google is learning the lesson Apple learned the hard way with all the existing features of iOS that were deemed noncompliant with the DMA when it went into effect. The “ship it first and ask forgiveness / hope it’s deemed compliant” strategy is not a good one in the EU.</p>
 
