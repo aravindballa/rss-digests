@@ -7,7 +7,121 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-18T15:49:47Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-18T17:14:44Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>New Domain for Sign In With Apple and iCloud+ Hide My Email</title>
+	<link rel="alternate" type="text/html" href="https://developer.apple.com/news/?id=sus6t6ab" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xa6" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/18/new-domain-for-signinwithapple-and-icloudhidemyemail" />
+	<id>tag:daringfireball.net,2026:/linked//6.43134</id>
+	<published>2026-06-18T17:13:48Z</published>
+	<updated>2026-06-18T17:14:44Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Apple Developer:</p>
+
+<blockquote>
+  <p>Later this summer, Apple will unify the email domains used by Sign
+in with Apple and iCloud+ Hide My Email under a single, shared
+domain: <code>private.icloud.com</code>.</p>
+
+<p>New addresses generated for both features will be issued on the
+new domain. For example:</p>
+
+<ul>
+<li><p>Sign in with Apple addresses, previously issued on
+<code>privaterelay.appleid.com</code>, will be issued on
+<code>private.icloud.com</code>.</p></li>
+<li><p>iCloud+ Hide My Email addresses, previously issued on
+<code>icloud.com</code>, will be issued on <code>private.icloud.com</code>.</p></li>
+</ul>
+
+<p>Existing addresses on the legacy domains will continue to work and
+forward mail to users without interruption.</p>
+</blockquote>
+
+<p><a href="https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/">Initial reaction</a> to this change is that it <a href="https://www.macrumors.com/2026/06/17/new-hide-my-email-domain-makes-it-easier-to-block/">might render “Hide My Email” ineffective</a>, because shitbird services will simply ban the domain, trying to force you to use your primary email address. It seems inevitable that <em>some</em> number of services will do this. But my retort is that a service that won’t accept these email addresses is one that I probably don’t want to have anything to do with. The only reason <em>not</em> to accept <code>private.icloud.com</code> email addresses is if you want to do something invasive with users’ actual email addresses.</p>
+
+<div>
+<a  title="Permanent link to ‘New Domain for Sign In With Apple and iCloud+ Hide My Email’"  href="https://daringfireball.net/linked/2026/06/18/new-domain-for-signinwithapple-and-icloudhidemyemail">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>NetNewsWire Status</title>
+	<link rel="alternate" type="text/html" href="https://inessential.com/2026/06/15/netnewswire-status.html" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xa5" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/18/netnewswire-status" />
+	<id>tag:daringfireball.net,2026:/linked//6.43133</id>
+	<published>2026-06-18T16:59:08Z</published>
+	<updated>2026-06-18T16:59:09Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Brent Simmons, writing at Inessential:</p>
+
+<blockquote>
+  <p>My hope for retirement was to get a lot of work done on
+<a href="https://netnewswire.com/">NetNewsWire</a>.</p>
+
+<p>A year ago it was in sore need of modernization, tech debt
+pay-off, and bug fixes. People were asking for features, but the
+foundation needed a ton of work before I could get on to adding
+new rooms.</p>
+
+<p>Here are some highlights of what we’ve done with 2,188 commits in
+the past year.</p>
+</blockquote>
+
+<p>NetNewsWire was already one of my favorite, most-used, most indispensable apps. Now it’s much better and improving steadily at a rapid clip. You love to see it.</p>
+
+<div>
+<a  title="Permanent link to ‘NetNewsWire Status’"  href="https://daringfireball.net/linked/2026/06/18/netnewswire-status">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>SpaceX, Newly Public, to Acquire Cursor for $60 Billion in SpaceX Funny-Money Stock</title>
+	<link rel="alternate" type="text/html" href="https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xa4" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/18/spacex-cursor" />
+	<id>tag:daringfireball.net,2026:/linked//6.43132</id>
+	<published>2026-06-18T16:49:00Z</published>
+	<updated>2026-06-18T16:49:01Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>CNBC, two days ago:</p>
+
+<blockquote>
+  <p>In November, Cursor said it crossed $1 billion in annualized
+revenue, according to a release at the time. Cursor was also
+ranked at No. 37 on the annual CNBC Disruptor 50 list in 2026. The
+$60 billion in class A common stack that SpaceX has agreed to pay
+to acquire Cursor represented a 3.4% dilution at the aerospace and
+tech conglomerate’s IPO valuation.</p>
+
+<p>Shares of SpaceX gained roughly 16% on Tuesday, topping Amazon and
+Microsoft by market cap and making it the fourth most valuable
+company in the U.S.</p>
+</blockquote>
+
+<p>SpaceX is an amazing company but this valuation is insane. The idea that it’s even close to as valuable as Microsoft or Amazon is bananas. SpaceX still isn’t even profitable, so its price-to-earnings ratio is literally infinity. It’s halfway through Thursday as I post this and SpaceX is down ~10 percent on the day, so a touch of sanity is being restored, at least at the moment.</p>
+
+<p>Cursor, with $1 billion in sales, certainly isn’t worth 60× revenue — especially in a business where it too isn’t profitable. But who cares when you’re paying with funny-money stock?</p>
+
+<div>
+<a  title="Permanent link to ‘SpaceX, Newly Public, to Acquire Cursor for $60 Billion in SpaceX Funny-Money Stock’"  href="https://daringfireball.net/linked/2026/06/18/spacex-cursor">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Tim Cook, in Interview With WSJ: ‘Unfortunately, Price Increases Are Unavoidable’</title>
 	<link rel="alternate" type="text/html" href="https://www.wsj.com/tech/apple-price-increases-memory-supply-199845b1?st=qWH3n1&amp;reflink=desktopwebshare_permalink" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xa3" />
@@ -1747,146 +1861,6 @@ the day you need to say it, you can.</p>
 
 <div>
 <a  title="Permanent link to ‘‘The Insider’’"  href="https://daringfireball.net/linked/2026/06/04/the-insider">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’</title>
-	<link rel="alternate" type="text/html" href="https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdiRHFjMlJadmgiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk0MjI0Mi9taWNyb3NvZnQtYnVpbGQtYWktYWdlbnRzLW9wZW5haS1jb21wZXRpdGlvbiIsImV4cCI6MTc4MTAzNjQ2OSwiaWF0IjoxNzgwNjA0NDY5fQ.jP0KO9OVCO-fGkk1Utt0NIEn97JWaI8zs0zhjf2V2MQ" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x8v" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/04/microsoft-openai" />
-	<id>tag:daringfireball.net,2026:/linked//6.43087</id>
-	<published>2026-06-04T20:25:27Z</published>
-	<updated>2026-06-04T22:35:40Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Hayden Field and Tom Warren, writing for The Verge (gift link):</p>
-
-<blockquote>
-  <p>This year’s Build had the vibe of a freshly single divorcée
-posting a thirst trap on Instagram. “It’s always fun to be at
-developer conferences in times of great change,” Microsoft CEO
-Satya Nadella said onstage Tuesday, adding that events like this
-are about “coming to grips with the new opportunity.”</p>
-
-<p>AI chief Mustafa Suleyman, in an interview with The Verge, put it
-even more bluntly.</p>
-
-<p>“The goal is to prove that we can become one of the top four labs
-in the world,” Suleyman said. “There’s three labs that matter,
-Google DeepMind, OpenAI, and Anthropic. We are not one of them at
-the moment, and that’s always been my intention. It’s why I came
-here. I want to build the very best frontier models in the world,
-fully multimodal, and in order to do that, we have to prove that
-we can do everything that we need to from the ground up, and we’re
-not just going to take from others.”</p>
-</blockquote>
-
-<p>Refreshingly blunt.</p>
-
-<p>But hasn’t that been Microsoft’s plan for Bing since it was announced in 2009? I mean I guess you can say that Bing is one of the top four search engines in the world. Maybe you can even say it’s one of the top two. But it’s irrelevant and uncompetitive with Google Search.</p>
-
-<div>
-<a  title="Permanent link to ‘‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’’"  href="https://daringfireball.net/linked/2026/06/04/microsoft-openai">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Lingon and Lingon Pro 10</title>
-	<link rel="alternate" type="text/html" href="https://www.peterborgapps.com/lingon/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x8u" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/04/lingon" />
-	<id>tag:daringfireball.net,2026:/linked//6.43086</id>
-	<published>2026-06-04T18:43:47Z</published>
-	<updated>2026-06-04T18:44:13Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Peter Borg:</p>
-
-<blockquote>
-  <p>Lingon makes scheduling apps, scripts, shortcuts, and commands
-feel simple. Create a task in minutes, run it on a schedule, and
-stay in control.</p>
-
-<p>Lingon helps you run whatever you want whenever you want without
-living in Terminal. Schedule apps, scripts, shortcuts, and
-commands with a clear, friendly UI.</p>
-
-<p>Run tasks at specific times, on intervals or at login. Optional
-notifications make it easy to keep control.</p>
-
-<p>Two separate apps. Lingon is the simpler Mac App Store version and
-free to use, while Lingon Pro is the advanced one-time purchase
-with extra power.</p>
-</blockquote>
-
-<p><a href="https://www.peterborgapps.com/lingon/">Lingon and Lingon Pro</a> are great apps. I’ve been meaning to recommend them for a while.</p>
-
-<p>Back in 2023 <a href="https://daringfireball.net/2023/07/nerding_out_with_maestral_launchcontrol_and_keyboard_maestro">I wrote about a problem I was having with Maestral</a>, the incredible “works like Dropbox in the old days” open-source Dropbox client, where Maestral would just silently crash once in a while and I wouldn’t notice for a while. Then I would notice, manually re-launch Maestral, and have to wait while Maestral synced. Or, worse, I’d put a podcast recording in a shared folder and walk away from my computer, and my editor would never get the file because Maestral wasn’t running. My write-up described how I solved the problem with a Keyboard Maestro macro that runs once an hour — it checks if Maestral is running, and if it isn’t, launches it (and writes to a log, to satisfy my own curiosity). Borg wrote to me after I posted that and — very politely — explained that Lingon would make that much simpler.</p>
-
-<p>In addition to creating your own scripts and rules that run periodically, Lingon is great for inspecting all the login items and background agents on your system — whether they’re from Apple or third parties. Poking around at everything Google Gemini installed is what made me think to recommend Lingon today. At the very least you should install the free regular version. It’s just a great Mac utility from a great Mac developer. There’s nothing else like it.</p>
-
-<div>
-<a  title="Permanent link to ‘Lingon and Lingon Pro 10’"  href="https://daringfireball.net/linked/2026/06/04/lingon">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Remember When Chrome Went Bad on MacOS?</title>
-	<link rel="alternate" type="text/html" href="https://chromeisbad.com/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x8t" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/04/remember-when-chrome-went-bad-on-macos" />
-	<id>tag:daringfireball.net,2026:/linked//6.43085</id>
-	<published>2026-06-04T18:10:19Z</published>
-	<updated>2026-06-04T22:44:42Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p><a href="https://daringfireball.net/search/tweetie+brichter">Loren Brichter</a>, back in 2020:</p>
-
-<blockquote>
-  <p>Short story: Google Chrome installs an updater called Keystone on
-your computer, which is <a href="https://twitter.com/lorenb/timelines/1338892756752732169">bizarrely correlated</a> to massive
-unexplained CPU usage in WindowServer (a system process)<a href="https://chromeisbad.com/#hiding">[1]</a>, and
-<em>made my whole computer slow even when Chrome wasn’t running</em>.
-Deleting Chrome and Keystone made my computer <em>way, way faster,
-all the time</em>.</p>
-
-<p>Long story: I noticed my brand new 16” MacBook Pro started acting
-sluggishly doing even trivial things like scrolling. Activity
-Monitor showed <em>nothing</em> from Google using the CPU, but
-<em>WindowServer</em> was taking ~80%, which is abnormally high (it
-should use &lt; 10% normally).</p>
-
-<p>Doing all the normal things (quitting apps, logging out other
-users, restarting, zapping PRAM/SMC, etc) did nothing, then I
-remembered I had installed Chrome a while back to test a website.</p>
-
-<p>I deleted Chrome, and noticed Keystone while deleting some of
-Chrome’s other preferences and caches. I deleted everything from
-Google I could find, restarted the computer, and it was like
-night-and-day. <em>Everything was instantly and noticeably faster,
-and WindowServer CPU was well under 10% again.</em></p>
-</blockquote>
-
-<p>Not all Mac users, but many, found that just having Chrome installed slowed down their Macs dramatically. Completely uninstalling Chrome — and its pernicious background agents — solved the problem. This years-old “Chrome Is Bad” saga came to mind when <a href="https://daringfireball.net/linked/2026/06/04/google-gemini-mac">I wrote about Google’s Gemini Mac app’s background agents</a>.</p>
-
-<p>It seems as though Google eventually fixed these Chrome bugs — or Apple changed something in a MacOS update that fixed the bugs for them — but I’ve never seen a full explanation of the problem and eventual solution. Does anyone know what happened here?</p>
-
-<p>The main point is it never should have happened in the first place. A third-party app should just be a third-party app — not add components to your system software just so it can update itself when it isn’t running. Background agents and extensions are <a href="https://rogueamoeba.com/">sometimes necessary</a> to the functionality of a product. Checking for software updates to a browser or AI chatbot, when those apps aren’t running, is not necessary. The golden rule applies: imagine if every app on your system installed its own background agent to check for software updates. Chrome is a popular browser on the Mac, but it’s just a web browser. Other web browsers do just fine checking for updates from the browser itself when they’re running. If the user is actually using an app regularly, it’ll get plenty of chances to check for updates when it’s running. If the user isn’t regularly using an app, why in the world should that seldom-used app have software running all the time in the background?</p>
-
-<p>This sort of chaos is <a href="https://daringfireball.net/2021/06/annotating_apples_anti-sideloading_white_paper">why Apple keeps iOS locked down</a>. There are no third-party login items on iOS that run in the background — let alone ones with no option to disable. No third-party app can do anything that causes the iOS window manager to consume 80 percent of the CPU while ostensibly idle. There are obviously trade-offs here. I rely on a Mac for my workstation because the Mac gives me the power to potentially shoot myself in the foot. But one major reason why iOS is an order of magnitude more popular than MacOS is because you cannot shoot yourself in the foot with it, even though that means you can’t use it to do things that would require that power.</p>
-
-<div>
-<a  title="Permanent link to ‘Remember When Chrome Went Bad on MacOS?’"  href="https://daringfireball.net/linked/2026/06/04/remember-when-chrome-went-bad-on-macos">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
