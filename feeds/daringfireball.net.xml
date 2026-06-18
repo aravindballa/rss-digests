@@ -7,7 +7,37 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-18T18:55:16Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-18T19:45:57Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Cotypist – Smart Autocomplete Utility for Mac</title>
+	<link rel="alternate" type="text/html" href="https://cotypist.app/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xa7" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/18/cotypist" />
+	<id>tag:daringfireball.net,2026:/linked//6.43135</id>
+	<published>2026-06-18T19:36:18Z</published>
+	<updated>2026-06-18T19:45:57Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Usually when I link to a new app, it’s something that I find useful personally. <a href="https://cotypist.app/">Cotypist</a> is something else. It’s an AI-powered autocomplete utility for the Mac, using on-device models and processing, by developer Daniel Gräfe of Accelerated Thought. It is very well-designed, and remarkably Mac-assed (right down to <a href="https://cotypist.app/uninstall">where it stores</a> its local data and AI models). It respects your privacy and all the best conventions of MacOS. Cotypist suggests a few words ahead of your insertion point at a time, and you can accept them by hitting Tab; if you want to ignore them, you just keep typing. The autocomplete suggestions appear inline, in whatever app you’re typing in, using your current font. I wasn’t even aware that was possible, but it is via MacOS’s rich accessibility APIs. Cotypist’s suggestions are eerily good. It’s even got a great name.</p>
+
+<p>Personally, I can’t stand using it.</p>
+
+<p>For me, it’s actually worse that the suggestions are so good, and so often on-point for what I intend to write. That’s why I can’t stand it. It’s like having a voice in my ear whispering my own thoughts before I think them. But are they my thoughts, or are they just <em>close</em> to my thoughts? They’re so close I can’t tell. And thus the experience of seeing these words appear before I’ve typed them feels more like a curse than a blessing, and a never-ending distraction. I’d find Cotypist far less distracting if its suggestions weren’t as good — but in that case it wouldn’t be nearly as interesting or useful, and I wouldn’t be writing about it at all.</p>
+
+<p>But I’m a writer. I enjoy writing. Writing is probably the most satisfying and fulfilling thing I do in life. I enjoy picking every word as I get to it. I find a blinking insertion point in the middle of a good but half-written sentence to be thrilling. But you might feel otherwise. Perhaps you find all writing to be a laborious chore, like washing dishes. Or you might have a job that requires answering a lot of repetitive emails. I’ve done email technical support in the past, and I would have killed for Cotypist then. I would imagine Cotypist is simply marvelous for someone who writes English as a second language.</p>
+
+<p>It’s absolutely worth trying if you think you might want to use it, and probably worth trying just to see it in action even if, like me, you don’t want something like this. Trying it out might change your mind. There’s a free tier for casual use (100 completed words per day), <a href="https://cotypist.app/pricing">and Plus and Pro paid tiers</a> for $6 and $9 per month. New installations get a 30-day free trial of the Pro tier.</p>
+
+<p><strong>See also:</strong> <a href="https://www.youtube.com/watch?v=npxlJdxSv4A">Quinn “Snazzy Labs” Nelson’s review on YouTube</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Cotypist – Smart Autocomplete Utility for Mac’"  href="https://daringfireball.net/linked/2026/06/18/cotypist">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>New Domain for Sign In With Apple and iCloud+ Hide My Email</title>
 	<link rel="alternate" type="text/html" href="https://developer.apple.com/news/?id=sus6t6ab" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xa6" />
@@ -1838,29 +1868,6 @@ the day you need to say it, you can.</p>
 
 <div>
 <a  title="Permanent link to ‘The Talk Show Live From WWDC 2026: Tuesday in San Jose’"  href="https://daringfireball.net/linked/2026/06/04/the-talk-show-live-tickets-2026">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘The Insider’</title>
-	<link rel="alternate" type="text/html" href="https://letterboxd.com/film/the-insider/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x8w" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/04/the-insider" />
-	<id>tag:daringfireball.net,2026:/linked//6.43088</id>
-	<published>2026-06-04T20:42:35Z</published>
-	<updated>2026-06-04T20:42:36Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>All this Sturm und Drang surrounding 60 Minutes has me thinking about a re-watch of <em>The Insider</em>, Michael Mann’s great 1999 movie. Letterboxd’s synopsis:
-“A research chemist comes under personal and professional attack when he decides to appear in a 60 Minutes exposé on Big Tobacco.” It’s a great movie, and feels apt AF at the moment. <a href="https://www.youtube.com/watch?v=1_-Vu8LrUDk">Here’s the original segment on 60 Minutes</a>, which ran an entire half hour.</p>
-
-<p>What’s going on today is like if — instead of getting shady, threatening, and litigious — the tobacco companies had just purchased CBS, purged the staff at 60 Minutes, and hired a bunch of pro-cigarette stooges to replace them.</p>
-
-<div>
-<a  title="Permanent link to ‘‘The Insider’’"  href="https://daringfireball.net/linked/2026/06/04/the-insider">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
