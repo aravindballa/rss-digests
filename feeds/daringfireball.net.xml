@@ -7,7 +7,59 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-18T01:33:51Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-18T15:49:47Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Tim Cook, in Interview With WSJ: ‘Unfortunately, Price Increases Are Unavoidable’</title>
+	<link rel="alternate" type="text/html" href="https://www.wsj.com/tech/apple-price-increases-memory-supply-199845b1?st=qWH3n1&amp;reflink=desktopwebshare_permalink" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xa3" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/18/cook-apple-price-increases" />
+	<id>tag:daringfireball.net,2026:/linked//6.43131</id>
+	<published>2026-06-18T15:49:47Z</published>
+	<updated>2026-06-18T15:49:47Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Rolfe Winkler, reporting for The Wall Street Journal (gift link):</p>
+
+<blockquote>
+  <p>Apple plans to raise prices on its products to offset the surging
+costs of memory and storage chips, Chief Executive Tim Cook said
+in an exclusive interview with The Wall Street Journal.</p>
+
+<p>“Unfortunately, price increases are unavoidable,” he said. “We’re
+doing our best to mitigate the huge increases that are being
+passed to us, and we’ve been trying to shield our customers from
+the increases, but the situation has become unsustainable.”</p>
+
+<p>Cook declined to offer details on the timing or scale of the
+planned price increases, nor which products would be affected.
+Apple’s next major product launch is likely to be in September
+when it releases the iPhone 18 lineup, expected to include a new
+foldable iPhone. [...]</p>
+
+<p>Cook said Apple wouldn’t use its cash and silicon expertise to
+build its own memory and storage factories. “We can’t do
+everything,” said Cook. “We know what we’re good at.” [...] Cook
+said during his time working in the electronics supply chain, from
+IBM to Compaq to Apple, he had never seen a commodity price swing
+like the one from the past six months. “This is a hundred-year
+flood,” said Cook. “I’ve never seen anything like it in any area
+in over 40 years.”</p>
+</blockquote>
+
+<p>Apple, to my recollection, has never before issued a warning about price increases. Keep in mind that Apple deals with prices in a very different way from its competitors. For Apple, prices are part of a product’s brand, so they don’t fluctuate with component costs. The trash can Mac Pro held its $3000 starting price for six years, despite its specs remaining effectively unchanged in that span.</p>
+
+<p>So when Apple raises prices on the iPhone 18 Pro models this September (and, presumably, launches the folding iPhone “Ultra” with an eye-watering prices), expect those prices to stick. And if Apple expects RAM and SSD component pricing to continue rising through 2027 — which is what many anticipate — they might build that into the pricing now. Raise prices by (say) $200 now rather than $100 this year and another $100 next year.</p>
+
+<p>Also, credit to Tim Cook for taking this one personally, months ahead of the iPhone 18 launch, rather than leaving it to John Ternus to serve up a surprise shit sandwich in his first keynote as CEO.</p>
+
+<div>
+<a  title="Permanent link to ‘Tim Cook, in Interview With WSJ: ‘Unfortunately, Price Increases Are Unavoidable’’"  href="https://daringfireball.net/linked/2026/06/18/cook-apple-price-increases">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly</title>
 	<link rel="alternate" type="text/html" href="https://www.theverge.com/tech/950492/snap-specs-ar-glasses-launch-date-preorder?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlZTMmZYVXprcHciLCJwIjoiL3RlY2gvOTUwNDkyL3NuYXAtc3BlY3MtYXItZ2xhc3Nlcy1sYXVuY2gtZGF0ZS1wcmVvcmRlciIsImV4cCI6MTc4MjE3Nzc0OSwiaWF0IjoxNzgxNzQ1NzQ5fQ.Pdh1hCJafS7ca3UfJ7pPoS-wRpZQ6tEAr7HEVfTOAd8" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xa2" />
@@ -1835,34 +1887,6 @@ and WindowServer CPU was well under 10% again.</em></p>
 
 <div>
 <a  title="Permanent link to ‘Remember When Chrome Went Bad on MacOS?’"  href="https://daringfireball.net/linked/2026/06/04/remember-when-chrome-went-bad-on-macos">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Google’s Gemini Mac App Is Native, in a Distinctly Google Way, But Annoyingly Presumptuous</title>
-	<link rel="alternate" type="text/html" href="https://gemini.google/mac/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x8s" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/04/google-gemini-mac" />
-	<id>tag:daringfireball.net,2026:/linked//6.43084</id>
-	<published>2026-06-04T17:29:26Z</published>
-	<updated>2026-06-04T18:20:44Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Two months ago Google launched a new native Mac app for Gemini. I’ve been trying it, on and off, since. It’s ... not bad. Certainly better than Claude’s Electron shitbox. But the Gemini app isn’t all that good, either. I’m sticking with ChatGPT, which remains far and away the best native Mac client to an LLM. (And ChatGPT is not that great of a Mac app — it’s just the closest to good of the bunch.)</p>
-
-<p>The thing that really turns me off about the Gemini Mac app is Google’s gall. The Gemini app installs a background helper named “GeminiAppLauncher” in your login items. It also installs “GoogleUpdater” as a process with the privilege to launch in the background whenever it wants. Gemini never asks for permission to install either of these, and, most arrogantly, if you, as an informed user, remove either of them, the Gemini app silently adds them back. There is no setting in Gemini to disable this. There’s a mindset from some big companies that your system is theirs to play with at the system software level. Fuck that. <a href="https://mjtsai.com/blog/2026/04/16/gemini-app-for-mac/">Michael Tsai’s post</a> on the Gemini Mac app links to <a href="https://forums.macrumors.com/threads/google-launches-native-gemini-ai-app-for-mac.2481037/?post=34543484#post-34543484">this thread on MacRumors</a> regarding this pernicious auto-installed and auto-reinstalled login item. <a href="https://www.reddit.com/r/mac/comments/1smaz0b/the_gemini_app_is_now_on_mac/">Here’s another on Reddit</a>.</p>
-
-<p>Google’s approach to its Mac software is disrespectful and entitled.</p>
-
-<p>I’d have been happy to keep the Gemini app installed if it just sat in my Applications folder when I wasn’t using it. But it doesn’t, and Google shows no signs of caring, so I just deleted it and uninstalled its background launch agents (in <code>~/Library/LaunchAgents/</code>). Feels great, like I took a much needed shower.</p>
-
-<p>(<strong>Sidenote:</strong> The Gemini Mac app is a native Mac app, but it is ... weird. <a href="https://mastodon.social/@ccgus/116410242771350931">Gus Mueller poked around at it</a> and found that it’s the product of a Java-to-Objective-C converter that Google made, and much of it was originally written for Android.)</p>
-
-<div>
-<a  title="Permanent link to ‘Google’s Gemini Mac App Is Native, in a Distinctly Google Way, But Annoyingly Presumptuous’"  href="https://daringfireball.net/linked/2026/06/04/google-gemini-mac">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
