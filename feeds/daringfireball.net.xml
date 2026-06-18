@@ -7,7 +7,47 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-18T01:15:27Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-18T01:33:51Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly</title>
+	<link rel="alternate" type="text/html" href="https://www.theverge.com/tech/950492/snap-specs-ar-glasses-launch-date-preorder?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlZTMmZYVXprcHciLCJwIjoiL3RlY2gvOTUwNDkyL3NuYXAtc3BlY3MtYXItZ2xhc3Nlcy1sYXVuY2gtZGF0ZS1wcmVvcmRlciIsImV4cCI6MTc4MjE3Nzc0OSwiaWF0IjoxNzgxNzQ1NzQ5fQ.Pdh1hCJafS7ca3UfJ7pPoS-wRpZQ6tEAr7HEVfTOAd8" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xa2" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/17/snap-specs-fugly" />
+	<id>tag:daringfireball.net,2026:/linked//6.43130</id>
+	<published>2026-06-18T01:33:15Z</published>
+	<updated>2026-06-18T01:33:51Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jay Peters, The Verge (gift link):</p>
+
+<blockquote>
+  <p>Snap is finally launching augmented glasses for the public. Specs,
+which Snap describes as “a wearable computer built into
+see-through augmented reality glasses,” will cost $2,195. You can
+preorder a pair of Specs now at specs.com with a $200 refundable
+deposit, and Snap says they’re expected to ship “this fall” in the
+US, UK, and France. [...]</p>
+
+<p>The company says that Specs are “fully standalone, with no puck
+and no tether.” (Which is perhaps a jab at Apple’s Vision Pro,
+which is tethered to a separate battery pack.) They’ll be offered
+in two sizes, a 47mm model weighing 132g and a 52mm model weighing
+136g, and will have removable inserts that Snap says will support
+“a wide range of prescriptions.”</p>
+</blockquote>
+
+<p>Unlike Vision Pro, Snap is presenting Specs as eyeglasses that users will wear out and about in their daily lives. Viewed perfectly straight-on and photographed by a professional fashion photographer — <a href="https://www.specs.com/">as presented on the Specs website</a> — they’re a bold look. Viewed from any other angle and captured normally, they look like goggles, not glasses. The frames look orthopedic and the lenses are not even close to clear. They make you look like you forgot to take off your goggles leaving the theater after a 3D movie — goggles that are big enough to wear over regular glasses.</p>
+
+<p>Maybe Specs are useful enough to justify looking so orthopedic, but I doubt it.</p>
+
+<div>
+<a  title="Permanent link to ‘Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly’"  href="https://daringfireball.net/linked/2026/06/17/snap-specs-fugly">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Vehicle Motion Cues — a.k.a. Apple’s Weird Anti-Nausea Dots</title>
 	<link rel="alternate" type="text/html" href="https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xa1" />
@@ -1823,55 +1863,6 @@ and WindowServer CPU was well under 10% again.</em></p>
 
 <div>
 <a  title="Permanent link to ‘Google’s Gemini Mac App Is Native, in a Distinctly Google Way, But Annoyingly Presumptuous’"  href="https://daringfireball.net/linked/2026/06/04/google-gemini-mac">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>The AI-Driven Resurgence of Native Mac App Development</title>
-	<link rel="alternate" type="text/html" href="https://sixcolors.com/post/2026/06/road-to-wwdc-2026-whats-a-developer/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x8r" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/04/the-ai-driven-resurgence-of-mac-app-development" />
-	<id>tag:daringfireball.net,2026:/linked//6.43083</id>
-	<published>2026-06-04T13:43:26Z</published>
-	<updated>2026-06-04T13:47:33Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jason Snell at Six Colors, looking ahead to WWDC next week:</p>
-
-<blockquote>
-  <p>These days, I’m getting emails pitching me for an endless stream
-of new Mac apps. It’s quite remarkable because there was a
-period five or ten years ago when it seemed like all app
-development on Apple’s platforms was focused on iOS. Even more
-interesting, these are all indie Mac apps that seem to be built
-using native Mac frameworks, not the product of big corporations
-that are just rolling their cross-platform development system
-out everywhere. These apps seem to have a point of view and are
-focused on the Mac.</p>
-
-<p>Of course, it’s happening because of AI. [...]</p>
-
-<p>Mac users — some of them developers, some of them people who have
-never written software in their lives — are building apps that
-fulfill their imaginations.</p>
-
-<p>We now live in an era where, if you can dream an app, you can
-probably build it. Especially Mac utilities. And who cares more
-about native Mac software than Mac users? Certainly not those
-companies that gave up on Mac development and focused all their
-energies on giant cross-platform code bases to attract venture
-investment and big payouts.</p>
-</blockquote>
-
-<p>There are pros and cons to everything, but on the whole, AI-assisted programming has rejuvenated Mac development. It wasn’t moribund, but it was stagnant. And stagnation is the first step toward decline. Now it’s resurgent, and that’s a fun thing to see. And, I think, genuinely important for the future of the platform. I’ve been concerned for years that the biggest problem the Mac faces is that so many new apps for the platform <a href="https://daringfireball.net/2018/12/electron_and_the_decline_of_native_apps">weren’t Mac apps</a>. The Mac has never faced a decline in popularity, but truly native Mac application development (and the skills) did. Now it’s turning around. Mac users are thirsty for Mac apps, and with AI, they can quench their own thirst and tell the dullards promulgating Electron bundles to pound sand.</p>
-
-<p>(And Snell, it turns out, <a href="https://www.theincomparable.com/doubleender/">has joined the party</a>.)</p>
-
-<div>
-<a  title="Permanent link to ‘The AI-Driven Resurgence of Native Mac App Development’"  href="https://daringfireball.net/linked/2026/06/04/the-ai-driven-resurgence-of-mac-app-development">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
