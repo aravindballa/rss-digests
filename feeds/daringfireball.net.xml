@@ -7,7 +7,48 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-20T01:21:20Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-20T01:29:30Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Another One for the ‘Sorry, We Used to Be Crap’ Truth-in-Advertising File: Carlsberg Beer</title>
+	<link rel="alternate" type="text/html" href="https://www.independent.co.uk/news/business/news/carlsberg-probably-not-best-beer-in-world-lager-brewer-a8874016.html" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xaf" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/19/carlsberg-not-the-best" />
+	<id>tag:daringfireball.net,2026:/linked//6.43143</id>
+	<published>2026-06-20T01:29:29Z</published>
+	<updated>2026-06-20T01:29:30Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Ben Chapman, reporting for The Independent in 2019:</p>
+
+<blockquote>
+  <p>After 40 years of advertising its lager as “Probably the best beer
+in the world”, Danish brewer Carlsberg has confessed that the
+famous slogan may not be true. Reacting to falling sales and
+increasingly harsh comments from drinkers about the taste of its
+beer, Carlsberg has launched a new recipe along with a more honest
+approach to marketing.</p>
+
+<p>The campaign declares: “Probably not the best beer in the world.
+So we’ve changed it. Somewhere along the line, we lost our way. We
+focused on brewing quantity, not quality. We became one of the
+cheapest, not the best.”</p>
+
+<p>As part of the new ad campaign Carlsberg is sharing negative
+comments about the old beer including, “Carlsberg tastes like
+stale breadsticks” and another comparing it to “drinking the
+bathwater your nan died in”.</p>
+</blockquote>
+
+<p>I drank a Carlsberg once. <a href="https://www.youtube.com/watch?v=Ad9mlvyA84E">Once</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Another One for the ‘Sorry, We Used to Be Crap’ Truth-in-Advertising File: Carlsberg Beer’"  href="https://daringfireball.net/linked/2026/06/19/carlsberg-not-the-best">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘What’s the Deal With Old Guys and Giant Glasses?’</title>
 	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=8DYGxn6Xvt0" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xae" />
@@ -1724,51 +1765,6 @@ what it believes.</p>
 
 <div>
 <a  title="Permanent link to ‘Alberto Romero on Apple’s AI Spending’"  href="https://daringfireball.net/linked/2026/06/07/alberto-romero-on-apples-ai-spending">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Halide Mark III</title>
-	<link rel="alternate" type="text/html" href="https://www.lux.camera/halide-mark-iii/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x94" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/06/halide-mark-iii" />
-	<id>tag:daringfireball.net,2026:/linked//6.43096</id>
-	<published>2026-06-07T00:49:15Z</published>
-	<updated>2026-06-07T03:17:01Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Ben Sandofsky, writing on the Lux Camera blog:</p>
-
-<blockquote>
-  <p>After decades of shooting digital, I returned to analog
-photography in 2023. I thought it would be challenging, given the
-limited selection of film stocks, only to be surprised by how
-freeing it felt. It felt so much better to have a handful of
-amazing choices rather than photo-editor with thousands of
-presets. We owe that to film engineers who spent years developing
-versatile film stocks that work in a variety of situations.</p>
-
-<p>Inspired by “Less, but better,” we partnered with the renowned
-Hollywood colorist <a href="https://cullenkellycolor.com/">Cullen Kelly</a> to develop a
-succinct set of gorgeous, <em>physically accurate</em> processes
-exclusive to Halide. Each look was engineered with a specific
-intent. We verified every look thousands of times on real-world
-reference photos.</p>
-
-<p>Put another way: every look is a banger.</p>
-</blockquote>
-
-<p>Halide has always been a great — maybe <em>the</em> great — iPhone camera app for shooting RAW, with the intention of developing your images by hand in post. It’s a great <em>camera</em> technically and a great <em>app</em> UI-wise. <a href="https://www.lux.camera/introducing-process-zero-for-iphone/">Mark II introduced Process Zero</a>, which, in their own description, “uses zero AI and zero computational photography to produce beautiful, film-like natural photos”. Process Zero was the first step toward the new built-in “looks” in Halide Mark III. I’ve been shooting with Mark III for a few weeks now, and they are, indeed, all bangers. And I <em>really</em> like that there aren’t that many of them. I wanted more looks than just Process Zero (which remains available, of course), but I feel a bit overwhelmed when faced with a dozen (or worse, dozen<em>s</em>) of choices for processing. I feel conflicted enough having to choose between <a href="https://daringfireball.net/2026/03/the_iphone_17e#fn2-2026-03-09">a handful</a> of <a href="https://daringfireball.net/2025/10/not_boring_camera_and_adobe_project_indigo">really good</a> third-party camera apps with which to shoot in the first place — it’s worse when I have to make too many choices within the camera app itself.</p>
-
-<p>What I want is to just point and shoot and be able to instantly share images with the look I want already applied. I’m picky but I’m also really lazy, and don’t want to do any editing in post on most of the shots I keep. But I do want to be able to edit in post if I want to, including changing the look losslessly. This mixture of point-and-shoot ease and pro-level control didn’t use to be possible. Now, though, it is, with apps like <a href="https://apps.apple.com/us/app/not-boring-camera/id6737783441">Not Boring Camera</a>, <a href="https://apps.apple.com/us/app/analogue-film-camera/id6748702405">Analogue</a>, and, now, <a href="https://apps.apple.com/us/app/halide-mark-iii-pro-camera/id885697368">Halide Mark III</a>.</p>
-
-<p>It’s been a <a href="https://www.macrumors.com/2026/03/21/apple-wanted-to-buy-halide-to-boost-iphone-18-pro/">turbulent</a> couple of months for Lux (to say the least), so I’m glad to see Sandofsky and team get Mark III out the door. If you, like me, had previously been impressed by Halide but didn’t use it because it required too much work in post, you should check out Mark III.</p>
-
-<div>
-<a  title="Permanent link to ‘Halide Mark III’"  href="https://daringfireball.net/linked/2026/06/06/halide-mark-iii">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
