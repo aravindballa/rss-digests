@@ -7,7 +7,55 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-21T22:40:09Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-22T17:12:51Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Dickover of the Week: The Observer</title>
+	<link rel="alternate" type="text/html" href="https://bvsveera.net/observer-dickover/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xai" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/22/dickover-the-observer" />
+	<id>tag:daringfireball.net,2026:/linked//6.43146</id>
+	<published>2026-06-22T17:12:42Z</published>
+	<updated>2026-06-22T17:12:51Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Bharet Iyer:</p>
+
+<blockquote>
+  <p>Let’s be real … if The Observer actually cared at all about your
+privacy, they wouldn’t share your personal data with ONE HUNDRED
+AND SIXTY ONE FUCKING PARTNERS. [...]</p>
+
+<p>Imagine if, upon purchasing <a href="https://en.wikipedia.org/wiki/The_Observer">a copy of the Sunday newspaper in
+1791</a>, you were followed around town by 161 men, taking note of
+everything you do throughout the day. Makes you wonder who’s
+really doing the observing.</p>
+</blockquote>
+
+<p>It’s bad enough to include 161 third-party trackers on a website. But it’s downright dystopic to declare your 161 third-party “partners” under the heading “We Care About Your Privacy”. That’s like beating someone in the head with a baseball bat while telling them “We care about your skull”, literally adding insult to injury.</p>
+
+<p>Yours truly back in 2020, “<a href="https://daringfireball.net/2020/09/online_privacy_real_world_privacy">Online Privacy Should Be Modeled on Real-World Privacy</a>”:</p>
+
+<blockquote>
+  <p>Imagine if you were out shopping, went into a drug store, examined
+a few bottles of sunscreen, but left the store without purchasing
+anything. And then immediately a stranger approached you with an
+offer for sunscreen. Such an encounter would trigger a fight or
+flight reaction — the needle on your innate creepometer would
+shoot right into the red. (Not to mention that if real-world
+tracking were like online tracking, you’d get the same creepy
+offer to buy sunscreen <em>even if you just bought some</em>.
+Tracking-based offers are both creepy, and, at times, annoyingly
+stupid.)</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘Dickover of the Week: The Observer’"  href="https://daringfireball.net/linked/2026/06/22/dickover-the-observer">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Before and After: MacOS 27 Golden Gate Beta 1’s App Icons</title>
 	<link rel="alternate" type="text/html" href="https://basicappleguy.com/basicappleblog/macos-golden-gate-icon-comparison" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xah" />
@@ -1127,7 +1175,7 @@ contractors?</p>
 	<link rel="shorturl" href="http://df4.us/x9n" />
 	<id>tag:daringfireball.net,2026://1.43115</id>
 	<published>2026-06-12T23:36:15Z</published>
-	<updated>2026-06-16T22:48:39Z</updated>
+	<updated>2026-06-22T16:44:03Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -1146,7 +1194,7 @@ contractors?</p>
     allowfullscreen>
 </iframe></p>
 
-<p><strong>Immersive 3D video with spatial audio:</strong> Coming soon, exclusively in <a href="https://sandwich.vision/">Sandwich Vision</a>’s <a href="https://apps.apple.com/app/theater-the-future-of-cinema/id6502666560">Theater</a> on Vision Pro, available on the App Store. The bandwidth-constrained immersive livestream Tuesday night looked cool; the on-demand version coming in a few days will look amazing.</p>
+<p><strong>Immersive 3D video with spatial audio:</strong> Available exclusively in <a href="https://sandwich.vision/">Sandwich Vision</a>’s <a href="https://apps.apple.com/app/theater-the-future-of-cinema/id6502666560">Theater</a> on Vision Pro, available on the App Store. The bandwidth-constrained immersive livestream Tuesday night looked cool; the on-demand version coming in a few days will look amazing.</p>
 
 <p><strong>Audio-only version:</strong> <a href="https://daringfireball.net/thetalkshow/2026/06/14/ep-449">In the usual place</a>, and wherever you get your podcasts.</p>
 
@@ -1647,53 +1695,6 @@ security of iPhone into the cloud.</p>
 
 	]]></content>
 	<title>[Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration</title></entry><entry>
-	<title>From the Annals of People Having Knowledge of the Matter, Siri AI Extensions Edition</title>
-	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2026-03-26/apple-plans-to-open-up-siri-to-rival-ai-assistants-beyond-chatgpt-in-ios-27" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x98" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/08/gurman-siri-ai-extensions" />
-	<id>tag:daringfireball.net,2026:/linked//6.43100</id>
-	<published>2026-06-09T01:37:27Z</published>
-	<updated>2026-06-09T04:29:43Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Mark Gurman, reporting (?) for Bloomberg two short months ago:</p>
-
-<blockquote>
-  <p>Apple Inc. plans to open Siri to outside artificial intelligence
-assistants, a major move aimed at bolstering the iPhone as an AI
-platform. The company is preparing to make the change as part of a
-Siri overhaul in its upcoming iOS 27 operating system update,
-according to people with knowledge of the matter. The assistant
-can already tap into ChatGPT through a partnership with OpenAI,
-but Apple will now allow competing services to do the same.</p>
-
-<p>The company is developing new tools to allow AI chatbot apps
-installed via the App Store to integrate with the Siri assistant,
-said the people, who asked not to be identified because the plans
-haven’t been announced. The chatbots will also work with an
-upcoming Siri app and other features in the Apple Intelligence
-platform.</p>
-
-<p>That means, for instance, if users have Alphabet Inc.’s Google
-Gemini or Anthropic PBC’s Claude installed, they’d be able to send
-queries to those services from within the Siri voice assistant,
-just like they have been able to with ChatGPT since Apple
-Intelligence launched in 2024.</p>
-</blockquote>
-
-<p>Maybe Apple ran out of time today, and will announce this tomorrow? Maybe they forgot to announce it? Maybe they scrapped the next-generation Siri that existed two months ago and in the last month rebuilt another entirely new next-generation Siri? I’ll bet something like that is what happened.</p>
-
-<p>I mean, people had knowledge of the matter.</p>
-
-<div>
-<a  title="Permanent link to ‘From the Annals of People Having Knowledge of the Matter, Siri AI Extensions Edition’"  href="https://daringfireball.net/linked/2026/06/08/gurman-siri-ai-extensions">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps" />
 	<link rel="shorturl" href="http://df4.us/x97" />
