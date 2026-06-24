@@ -7,7 +7,56 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-24T19:12:13Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-24T21:52:43Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>WebKit Always Enables the Copy Menu Item in Every App</title>
+	<link rel="alternate" type="text/html" href="https://lapcatsoftware.com/articles/2026/6/5.html" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xar" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/24/webkit-always-enables-the-copy-menu-item-in-every-app" />
+	<id>tag:daringfireball.net,2026:/linked//6.43155</id>
+	<published>2026-06-24T21:52:43Z</published>
+	<updated>2026-06-24T21:52:43Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jeff Johnson:</p>
+
+<blockquote>
+  <p>Several weeks ago, John Gruber of <a href="https://daringfireball.net/">Daring Fireball</a> asked me
+whether I could reproduce an issue he was seeing in Safari: when a
+web page is focused, the Copy menu item in the main menu is always
+enabled, regardless of whether there’s anything selected in the
+web page. I could indeed reproduce that issue, and it turns out to
+be the fault of WebKit. The issue also occurs in Mail app, when an
+email message is focused.</p>
+
+<p>On Apple platforms, WebKit is a public API, used by third-party
+apps in addition to Apple’s first-party apps. RSS readers such as
+<a href="https://netnewswire.com/">NetNewsWire</a> and <a href="https://www.vienna-rss.com/">Vienna</a>, preferred by Gruber and
+myself, respectively, use WebKit to display articles from RSS
+feeds. And sure enough, both apps exhibit the same issue: the Copy
+menu item is always enabled when an article is focused.</p>
+
+<p>What happens if you copy and paste from a WebKit WebView with no
+selection? Nothing happens, nothing is pasted. However,
+technically speaking, the clipboard is not empty.</p>
+</blockquote>
+
+<p>In most Mac apps, since the dawn of time, if there is nothing selected to be copied, the Edit → Copy (and Cut) commands are disabled. If you invoke the ⌘C shortcut while the Copy command is disabled, you hear an alert sound, letting you know that whatever you thought you were copying could not be copied because it wasn’t selected. That beep is useful context. This is proper behavior for all menu items — if they’re not available to do something, they should be disabled, and invoking a disabled menu item keyboard shortcut should beep. In any app that uses WebKit, since early in 2025, the Copy command is <em>always</em> enabled when a WebKit view has focus — but if nothing is selected, you get useless clipboard data that can’t actually be pasted anywhere. (And whatever was on your clipboard is now gone, or pushed back if you use a clipboard history utility.)</p>
+
+<p>This is clearly a bug. It cannot be acceptable that you can copy nothing, wiping out whatever was previously on the clipboard. (Or to be pedantic, to copy a useless inscrutable plist blob that can’t be pasted anywhere.)</p>
+
+<p>Johnson <a href="https://bugs.webkit.org/show_bug.cgi?id=313835">reported this bug in WebKit’s Bugzilla system</a>, but it was erroneously closed as “Won’t Fix”. There’s a conflation in the WebKit team’s closing of Johnson’s bug report between how the Edit → Copy command behaves in any WebKit-using app, and how JavaScript’s <code>document.execCommand("copy")</code> needs to be available even when there’s no selection in the WebKit view. WebKit engineers introduced the bug in application behavior when they attempted to fix <a href="https://bugs.webkit.org/show_bug.cgi?id=156529">the decade-old bug in the JavaScript behavior</a> last year.</p>
+
+<p>I was very glad to read on the WebKit blog, <a href="https://daringfireball.net/linked/2026/06/24/webkit-safari-27">just this morning</a>, that the WebKit team is encouraging the submission of bug reports. <a href="https://bugs.webkit.org/show_bug.cgi?id=313835">Here’s a bug</a> that has already been reported, with copious details, that they merely need to look at again.</p>
+
+<div>
+<a  title="Permanent link to ‘WebKit Always Enables the Copy Menu Item in Every App’"  href="https://daringfireball.net/linked/2026/06/24/webkit-always-enables-the-copy-menu-item-in-every-app">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>WebKit in Safari 27 Beta</title>
 	<link rel="alternate" type="text/html" href="https://webkit.org/blog/17967/news-from-wwdc26-webkit-in-safari-27-beta/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xaq" />
@@ -1611,45 +1660,6 @@ availability in the EU on iOS and iPadOS.</p>
 
 <div>
 <a  title="Permanent link to ‘Apple: ‘Due to DMA, Siri AI Delayed in EU for iOS 27 and iPadOS 27’’"  href="https://daringfireball.net/linked/2026/06/11/apple-dma-siri-ai">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film</title>
-	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=iEho3brGB64" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x9j" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/11/spielberg-bond" />
-	<id>tag:daringfireball.net,2026:/linked//6.43111</id>
-	<published>2026-06-11T20:38:09Z</published>
-	<updated>2026-06-11T23:46:13Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Steven Spielberg, on The Rest Is Entertainment on YouTube:</p>
-
-<blockquote>
-  <p>I approached Cubby Broccoli after <em>Jaws</em> was a big hit. I’d always
-wanted to make a James Bond film from the day I saw <em>Dr. No</em>, so I
-called Cubby after <em>Jaws</em> and volunteered. I said, “If you need a
-director, I would love to direct one.” And he said no. And he
-moved on.</p>
-
-<p>And then Cubby called me again after <em>Close Encounters</em> came out.
-And that was a big hit. And Cubby called me a few years after
-<em>Close Encounters</em> and said, “We’d like to use the five notes in
-<em>Moonraker</em>.” And I said, “I’ll make you a deal. I’ll give you
-permission to use the five notes if you let me direct a Bond
-film.” And he said “Nope.” But I gave him the five notes anyway.</p>
-</blockquote>
-
-<p>In <em>Moonraker</em>, the iconic <em>Close Encounters</em> notes are <a href="https://www.youtube.com/watch?v=kZci4tZ-Wfk">the passcode to the locked door of a secret lab</a> that Bond (Roger Moore) needs to enter. Probably not so secure to play the passcode digits audible, but it’s a fun Easter egg. I always presumed that EON used it as fair-use homage, without bothering to ask Spielberg or Columbia Pictures for permission.</p>
-
-<p>Spielberg, in his interview with The Rest Is Entertainment, goes on to explain the oft-repeated story that his disappointment over his rejection by Broccoli led to his collaboration with George Lucas to make <em>Raiders of the Lost Ark</em>, which I put on my short list for best movie ever made. The whole opening sequence of <em>Temple of Doom</em> — where Indiana Jones is wearing a dinner jacket and chaos erupts at a nightclub while Jones chases a vial of poison antidote while the other characters chase a diamond being kicked around the floor — is more Bond-like than most Bond films. (Oh, and that Shanghai nightclub’s name: Club Obi Wan. No need to ask permission for that one.)</p>
-
-<div>
-<a  title="Permanent link to ‘Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film’"  href="https://daringfireball.net/linked/2026/06/11/spielberg-bond">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
