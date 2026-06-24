@@ -7,7 +7,71 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-24T18:44:50Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-24T19:12:13Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>WebKit in Safari 27 Beta</title>
+	<link rel="alternate" type="text/html" href="https://webkit.org/blog/17967/news-from-wwdc26-webkit-in-safari-27-beta/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xaq" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/24/webkit-safari-27" />
+	<id>tag:daringfireball.net,2026:/linked//6.43154</id>
+	<published>2026-06-24T19:10:27Z</published>
+	<updated>2026-06-24T19:12:13Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>WebKit (back during WWDC):</p>
+
+<blockquote>
+  <p>If you look through the lists of features and fixes in Safari 27,
+you’ll notice that, although there are 58 brand-new features and
+525 fixes — the largest pile of fixes in any Safari release in
+recent memory — most of what is released is not about new things.</p>
+
+<p>Most of this work has been about existing features behaving more
+correctly, handling more edge cases, and fitting together with
+other features the way you’d expect. We committed our time to
+increasing quality — that’s the story of this release and the
+year that led to it. [...]</p>
+
+<p>If something has been bothering you, test it in Safari 27 beta.
+You might be pleasantly surprised. And if it hasn’t been fixed
+yet, <a href="https://bugs.webkit.org/">file a bug report</a>, or add a comment to an existing issue with
+a concrete scenario, a link to a real site, or a reduced test
+case. The more concrete the problem, the more helpful it is.</p>
+</blockquote>
+
+<p>Sounds like it’s a bit of a Snow Leopard year for WebKit, too, not just the OSes.</p>
+
+<div>
+<a  title="Permanent link to ‘WebKit in Safari 27 Beta’"  href="https://daringfireball.net/linked/2026/06/24/webkit-safari-27">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	
+	<link rel="alternate" type="text/html" href="http://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026" />
+	<link rel="shorturl" href="http://df4.us/xap" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2026/06/workos_agents_need_auth_theres" />
+	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.43153</id>
+	<author><name>Daring Fireball Department of Commerce</name></author>
+	<published>2026-06-24T18:46:46Z</published>
+	<updated>2026-06-24T18:46:47Z</updated>
+	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
+<p>When an AI agent tries to complete a task that requires a new account, it hits a wall: the sign-up form. There’s no standard for how an agent registers a user with an app on their behalf.</p>
+
+<p>auth.md is a file you host at your domain that tells agents how to register your users, which flows you support, what scopes you expose, and how credentials get issued. Think robots.txt, but for agent registration. It composes existing OAuth standards. </p>
+
+<p>Cloudflare, Firecrawl, and Resend have already adopted it.</p>
+
+<p>An open protocol authored by WorkOS. <a href="http://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026">Read the spec</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS: Agents Need Auth. There’s Now a Spec for It.’"  href="https://daringfireball.net/feeds/sponsors/2026/06/workos_agents_need_auth_theres">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+	<title>[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.</title></entry><entry>
 	<title>Designed in California: An Apple History Podcast</title>
 	<link rel="alternate" type="text/html" href="https://designed.fm/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xao" />
@@ -1590,53 +1654,6 @@ film.” And he said “Nope.” But I gave him the five notes anyway.</p>
 
 	]]></content>
   </entry><entry>
-	<title>Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage</title>
-	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/06/08/craig-federighi-details-apples-collaboration-with-google-for-siri-ai-in-ios-27/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x9i" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/10/federighi-google-gemini-partnership" />
-	<id>tag:daringfireball.net,2026:/linked//6.43110</id>
-	<published>2026-06-11T00:48:52Z</published>
-	<updated>2026-06-11T00:48:52Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Chance Miller, at 9to5Mac on Monday:</p>
-
-<blockquote>
-  <p>Apple’s Siri team, led by Craig Federighi, held a post-WWDC
-keynote tech talk with members of the press this afternoon to
-talk through iOS 27 and the new Siri AI. During the talk,
-Federighi shared more details about Apple’s collaboration with
-Google. Federighi was joined by Amar Subramanya (vice president
-of AI), Mike Rockwell (Siri lead), and Sebastien Marineau-Mes
-(software VP).</p>
-
-<p>On the Google collaboration, Federighi explained:</p>
-
-<blockquote>
-  <p>Of course, we don’t have the Gemini app as our app. In fact, none
-of that client code is part of how we run on iOS. For these
-models, we use none of the models that Google deploys to their
-customers, nor do we use the infrastructure and means by which
-they deploy models to their customers. And then, when it comes to
-the knowledge base, we of course don’t use Google Search or
-anything like that as the foundation of our system. So I hope
-that’s clear. The amount of the Google Assistant we use is none.</p>
-
-<p>So let’s talk about what we do use, or how our system is built.</p>
-</blockquote>
-</blockquote>
-
-<p>This “Tech Talk” was good. It was detailed and technical, and there were live on-stage demos of Siri AI in action from Mike Rockwell. I don’t think Apple is ever going to go back to live on-stage major keynotes, but I do think the company is returning to more live events, including demos. There was a big live Siri AI/Apple Intelligence session for developers Tuesday morning in Steve Jobs Theater, which also had live demos. More like this, please.</p>
-
-<div>
-<a  title="Permanent link to ‘Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage’"  href="https://daringfireball.net/linked/2026/06/10/federighi-google-gemini-partnership">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items" />
 	<link rel="shorturl" href="http://df4.us/x9h" />
@@ -1681,29 +1698,6 @@ represents the menu item.</p>
 
     ]]></content>
   <title>★ Sweet Jeebus, MacOS 27 Golden Gate Removes the Dumb Icons From Menu Items</title></entry><entry>
-	
-	<link rel="alternate" type="text/html" href="https://youtu.be/Dqp_b8GHLXU?t=1074" />
-	<link rel="shorturl" href="http://df4.us/x99" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2026/06/workos_launches_authmd_--_an_o" />
-	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.43101</id>
-	<author><name>Daring Fireball Department of Commerce</name></author>
-	<published>2026-06-09T04:23:05Z</published>
-	<updated>2026-06-24T18:44:50Z</updated>
-	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
-<p>Sign-up forms were built for humans in browsers, so how do AI agents programmatically register with services?</p>
-
-<p>Enter auth.md. By exposing a single, machine-readable Markdown file at your service root, AI agents can dynamically discover your OAuth Protected Resource Metadata, parse required scopes, and authenticate seamlessly.</p>
-
-<p>With native support in WorkOS AuthKit, you can now implement this protocol out of the box, giving AI tools a standardized, secure way to log into your application.</p>
-
-<p>Read the <a href="https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026">auth.md docs</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘WorkOS Launches Auth.md — an Open Protocol for Agent Registration’"  href="https://daringfireball.net/feeds/sponsors/2026/06/workos_launches_authmd_--_an_o">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-	<title>[Sponsor] WorkOS Launches Auth.md — an Open Protocol for Agent Registration</title></entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps" />
 	<link rel="shorturl" href="http://df4.us/x97" />
