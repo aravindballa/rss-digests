@@ -7,14 +7,14 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-25T22:49:33Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
-	<title>Apple Journal’s Atrocious Undo Bug Has Been Fixed (and SwiftUI Is Not to Blame)</title>
+<updated>2026-06-25T23:15:42Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Apple Journal’s Atrocious Undo Bug Has Been Fixed (and SwiftUI, Per Se, Is Not to Blame)</title>
 	<link rel="alternate" type="text/html" href="https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xav" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/25/apple-journal-undo-bug" />
 	<id>tag:daringfireball.net,2026:/linked//6.43159</id>
 	<published>2026-06-25T22:49:32Z</published>
-	<updated>2026-06-25T22:49:33Z</updated>
+	<updated>2026-06-25T22:54:59Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -74,7 +74,7 @@ fix it</em>.</p>
 <p>Well, the future is already here, because the buggy Undo behavior in Journal is fixed in developer beta 2 on both MacOS and iOS 27. Nice. I hope it gets fixed for the 26.6 releases too, but at the moment it’s still broken in the current developer beta of 26.6 (and, of course, still broken in all the v26.5 OSes). So be careful while writing in Journal.</p>
 
 <div>
-<a  title="Permanent link to ‘Apple Journal’s Atrocious Undo Bug Has Been Fixed (and SwiftUI Is Not to Blame)’"  href="https://daringfireball.net/linked/2026/06/25/apple-journal-undo-bug">&nbsp;★&nbsp;</a>
+<a  title="Permanent link to ‘Apple Journal’s Atrocious Undo Bug Has Been Fixed (and SwiftUI, Per Se, Is Not to Blame)’"  href="https://daringfireball.net/linked/2026/06/25/apple-journal-undo-bug">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
@@ -84,7 +84,7 @@ fix it</em>.</p>
 	<link rel="shorturl" href="http://df4.us/xau" />
 	<id>tag:daringfireball.net,2026://1.43158</id>
 	<published>2026-06-25T22:36:09Z</published>
-	<updated>2026-06-25T22:40:07Z</updated>
+	<updated>2026-06-25T23:15:42Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -105,7 +105,7 @@ fix it</em>.</p>
 .table-65EBF365-4DEE-4E25-8A8B-E9D8F4B95492 td:nth-child(4) { text-align: center }
 </style>
 <thead>
-<th></th><th>Old</th><th>New</th><th>Change</th>
+<th></th><th>Original</th><th>New</th><th>Change</th>
 </thead>
 <tbody>
 <tr>
@@ -168,7 +168,7 @@ fix it</em>.</p>
 </tbody>
 </table></p>
 
-<p><strong>Apple TV 4K</strong> was hit particularly hard on a percentage basis, with the 64 GB base model going up 54% and the 128 GB model (which also includes Ethernet) rising 67%. These increases especially hurt for a product that was already perceived — fairly or unfairly — as being too expensive compared to its competition. A Roku Ultra costs $100 and Roku Streaming Sticks start at $30, as do Amazon’s Fire TV Sticks. A replacement Siri Remote for Apple TV alone <a href="https://www.apple.com/shop/product/mw5g3am/a/siri-remote">costs $60</a>. It’s clearly the SSD storage in the Apple TV 4K that prompted this, but because people use them to “stream”, consumers don’t even think of Apple TV as having “storage”.</p>
+<p><strong>Apple TV 4K</strong> was hit particularly hard on a percentage basis, with the 64 GB base model going up 54% and the 128 GB model (which also includes a <a href="https://support.apple.com/en-us/102135">Thread radio</a> and Ethernet) rising 67%. These increases especially hurt for a product that was already perceived — fairly or unfairly — as being too expensive compared to its competition. A Roku Ultra costs $100 and Roku Streaming Sticks start at $30, as do Amazon’s Fire TV Sticks. A replacement Siri Remote for Apple TV alone <a href="https://www.apple.com/shop/product/mw5g3am/a/siri-remote">costs $60</a>. It’s clearly the SSD storage in the Apple TV 4K that prompted this, but because people use them to “stream”, consumers don’t even think of Apple TV as having “storage”.</p>
 
 <p>Poor <strong>Vision Pro</strong>’s meager 6% price increase feels more like a pep talk than a meaningful change. A signifier that Apple has not forgotten it exists. “<em>Don’t worry, buddy, you’re getting a price increase too, just like everyone else. We’ll bump you up ... I don’t know ... how about $200? There you go. Here’s a pat on the head too. Keep your chin up, kid.</em>”</p>
 
@@ -205,11 +205,11 @@ fix it</em>.</p>
 
 <ul>
 <li>14-inch M5 Pro 18/20 cores, 64 GB RAM, 4 TB SSD:
-<ul><li>Before: $4000</li>
-<li>After: $5200 (+30%)</li></ul></li>
+<ul><li>Was: $4,000</li>
+<li>Now: $5,200 (+30%)</li></ul></li>
 <li>14-inch M5 Max, 18/40 cores, 128 GB RAM, 8 TB SSD, nano-texture display:
-<ul><li>Before: $7,050</li>
-<li>After: $9,850 (+40%)</li></ul></li>
+<ul><li>Was: $7,050</li>
+<li>Now: $9,850 (+40%)</li></ul></li>
 </ul>
 
 <p>Add $300 to those prices if you prefer 16-inch — which brings the maxed-out configuration to $10,150, and still hits an even $10K if you omit the nano-texture option.</p>
