@@ -7,7 +7,50 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-24T21:52:43Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-25T17:05:33Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Apple Raises Prices on Most Products by 15–25 Percent, but Not iPhones, Watches, or AirPods</title>
+	<link rel="alternate" type="text/html" href="https://www.wsj.com/tech/apple-raises-prices-on-macs-ipads-by-200-or-more-on-some-models-a7463f99?st=zse57R" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xas" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/25/apple-raises-prices" />
+	<id>tag:daringfireball.net,2026:/linked//6.43156</id>
+	<published>2026-06-25T16:58:16Z</published>
+	<updated>2026-06-25T17:05:33Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Rolfe Winkler, reporting for The Wall Street Journal (gift link):</p>
+
+<blockquote>
+  <p>The company briefly took down its Apple Online Store early this
+morning as it typically does when announcing new products. When it
+came back online, the price tags for Mac computers rose roughly
+15% to 20% and iPad prices rose 15% to 25%.</p>
+
+<p>Among the price increases, the base MacBook Air rose $200 to
+$1,299; the base MacBook Pro increased $300 to $1,999; the
+entry-level MacBook Neo increased $100 to $699. The iPad Air
+increased $150 to $749 and the iPad Pro increased $200 to $1,199.</p>
+
+<p>iPhone prices were unchanged, though the company hinted at more
+increases in a statement.</p>
+
+<p>“We have now reached a point where we need to begin raising
+prices,” it said in the statement. “We have never seen a component
+price increase this much, this quickly.”</p>
+</blockquote>
+
+<p>MacRumors has a list of before/after prices</p>
+
+<p>Anyone who purchased a MacBook Neo for $600 (or $500 with education discount) between March and this morning purchased the lowest-price MacBook Apple has ever sold — and perhaps the lowest-price MacBook they ever will sell.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Raises Prices on Most Products by 15–25 Percent, but Not iPhones, Watches, or AirPods’"  href="https://daringfireball.net/linked/2026/06/25/apple-raises-prices">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>WebKit Always Enables the Copy Menu Item in Every App</title>
 	<link rel="alternate" type="text/html" href="https://lapcatsoftware.com/articles/2026/6/5.html" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xar" />
@@ -63,13 +106,13 @@ technically speaking, the clipboard is not empty.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/24/webkit-safari-27" />
 	<id>tag:daringfireball.net,2026:/linked//6.43154</id>
 	<published>2026-06-24T19:10:27Z</published>
-	<updated>2026-06-24T19:12:13Z</updated>
+	<updated>2026-06-25T16:19:16Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>WebKit (back during WWDC):</p>
+<p>The WebKit blog (back during WWDC):</p>
 
 <blockquote>
   <p>If you look through the lists of features and fixes in Safari 27,
@@ -1606,60 +1649,6 @@ them the possibility to do so.</p>
 
 <div>
 <a  title="Permanent link to ‘The European Commission Response to Siri AI and the DMA’"  href="https://daringfireball.net/linked/2026/06/12/the-european-commission-response-to-siri-ai-and-the-dma">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple: ‘Due to DMA, Siri AI Delayed in EU for iOS 27 and iPadOS 27’</title>
-	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x9k" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/11/apple-dma-siri-ai" />
-	<id>tag:daringfireball.net,2026:/linked//6.43112</id>
-	<published>2026-06-11T21:58:49Z</published>
-	<updated>2026-06-11T22:00:08Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Apple Newsroom, in an Apple Newsroom post Monday:</p>
-
-<blockquote>
-  <p>According to EU regulators, the DMA requires Apple to give any AI
-system nearly unlimited access to a user’s device, as well as the
-ability to act on that access autonomously without a user’s
-ongoing visibility and control. That includes the ability to read
-and send messages, make purchases, access files, and execute
-actions across any app. Security researchers have already shown
-that AI systems can be hijacked to steal personal data — like
-passwords and photos — and to permanently alter files and
-account settings without a user’s consent. As AI systems gain
-more capabilities, these risks are quickly increasing in
-frequency and scope.</p>
-
-<p>Given the serious risks to users, Apple designed a solution called
-Trusted System Agent — an intermediary that would allow virtual
-assistants to safely access the same features and capabilities as
-Siri AI for devices in the EU. Apple also shared a plan to launch
-Siri AI in the EU while gradually rolling out this new solution
-over an 18-month period. The European Commission said no. In fact,
-the European Commission did not agree to any of Apple’s proposals.</p>
-
-<p>Apple will continue working to bring these features to the
-European Union as safely as possible. However, given the clear
-dangers to EU users and the regulators’ failure to acknowledge
-these risks, there is currently no timeline for Siri AI’s
-availability in the EU on iOS and iPadOS.</p>
-</blockquote>
-
-<p>There’s a lot to unpack here, including more background information — and on-the-record statements — from a briefing Apple held Tuesday that I was invited to at Apple Park. But the bottom line is that Apple’s public statements regarding the DMA and the European Commission have never been this strident before. In its public statements, Apple has always been <em>diplomatic</em>. That’s the word.</p>
-
-<p>Now, they’re a bit more on war footing. There’s a massive gulf between what Apple is willing to do with Siri AI in the EU and what the Commission is demanding from Apple for DMA compliance. As things stand there’s no middle ground. Apple’s offers for compromise have been rejected. Unless one side changes its mind and concedes its current position, Siri AI will <em>never</em> come to the EU, and what Apple is saying here is that they’re unwilling to create the open-access-to-user-data system that the EC is demanding.</p>
-
-<p>And from what I’ve seen so far in a day of testing Siri AI, EU iOS users are going to miss out on something really good.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple: ‘Due to DMA, Siri AI Delayed in EU for iOS 27 and iPadOS 27’’"  href="https://daringfireball.net/linked/2026/06/11/apple-dma-siri-ai">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
