@@ -7,7 +7,31 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-26T15:14:58Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-26T15:39:38Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>The Price-Hiked Apple TV 4K Is 4 Years Old</title>
+	<link rel="alternate" type="text/html" href="https://buyersguide.macrumors.com/#Apple_TV" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xaw" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/26/price-hiked-apple-tv-4k-is-4-years-old" />
+	<id>tag:daringfireball.net,2026:/linked//6.43160</id>
+	<published>2026-06-26T15:39:38Z</published>
+	<updated>2026-06-26T15:39:38Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Via MacRumors’s Buyer Guide, the current third-gen Apple TV 4K models were <a href="https://www.apple.com/newsroom/2022/10/apple-introduces-the-powerful-next-generation-apple-tv-4k/">introduced in October 2022</a>, and <a href="https://support.apple.com/en-us/111839">sport the A15 Bionic chip</a> that debuted with <a href="https://daringfireball.net/2021/09/the_iphones_13">the iPhones 13</a> in 2021. It’s widely believed that new hardware models are coming this fall. <a href="https://daringfireball.net/2026/06/spensive_thoughts">I mentioned yesterday</a> that the steep price increases ($130 → $200 for the 64 GB base model; $150 → $250 for the 128 GB model with Ethernet and Thread networking) move Apple TV further out of line compared to the discount set-top boxes and sticks from companies like Roku and Amazon. But even setting aside the prices of competing devices, it just feels wrong to hike prices this much for four-year-old hardware running five-year-old pre-AI silicon. The higher-end model’s price went up 67 percent!</p>
+
+<p>The only way this makes sense is if these prices are really meant for the upcoming new hardware, and those new models are more ambitious home hubs that warrant $200–250 prices. This makes the current models a <em>really</em> bad deal for the next few months, but come September or October, Apple can introduce next-gen Apple Intelligence-ready Apple TV hardware and the prices can remain $200/250. It’s Apple, so maybe the new hardware will have prices that are even higher, and these increases are just stop-gaps to ease the eventual sticker shock upon the new hardware’s reveal.</p>
+
+<p>But as things stand today, no platform in Apple’s portfolio came out of these price increases looking worse than Apple TV. It’s especially painful to think about people buying one now, at these prices, only to have their purchase obsoleted in September or October. </p>
+
+<div>
+<a  title="Permanent link to ‘The Price-Hiked Apple TV 4K Is 4 Years Old’"  href="https://daringfireball.net/linked/2026/06/26/price-hiked-apple-tv-4k-is-4-years-old">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple Journal’s Atrocious Undo Bug Has Been Fixed (and SwiftUI, Per Se, Is Not to Blame)</title>
 	<link rel="alternate" type="text/html" href="https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xav" />
@@ -1721,71 +1745,6 @@ making any real money with it 🥲</p>
 
 <div>
 <a  title="Permanent link to ‘Apple’s Private Cloud Compute Is Severely Limited for Third-Party Developers’"  href="https://daringfireball.net/linked/2026/06/13/pcc-severely-limited-third-party-developers">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>U.S. Government Directs Anthropic to Shut Down Fable 5 and Mythos 5 Models on National Security Grounds</title>
-	<link rel="alternate" type="text/html" href="https://www.anthropic.com/news/fable-mythos-access" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x9o" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/13/us-government-forces-anthropic-to-shut-down-fable-5-and-mythos-5-models" />
-	<id>tag:daringfireball.net,2026:/linked//6.43116</id>
-	<published>2026-06-13T17:02:29Z</published>
-	<updated>2026-06-15T16:44:53Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Anthropic:</p>
-
-<blockquote>
-  <p>The US government, citing national security authorities, has
-issued an export control directive to suspend all access to Fable
-5 and Mythos 5 by any foreign national, whether inside or outside
-the United States, including foreign national Anthropic employees.
-The net effect of this order is that we must abruptly disable
-Fable 5 and Mythos 5 for all our customers to ensure compliance.
-Access to all other Anthropic models will not be affected.</p>
-
-<p>We received the directive from the government today at 5:21pm
-(ET). The letter did not provide specific details of its national
-security concern. Our understanding is that the government
-believes it has become aware of a method of bypassing, or
-“jailbreaking” Fable 5. We reviewed a demonstration of this
-specific technique being used to identify a small number of
-previously known, minor vulnerabilities. These vulnerabilities all
-appear relatively simple, and we have found that other
-publicly-available models are able to discover them as well
-without requiring a bypass.</p>
-</blockquote>
-
-<p><a href="https://www.anthropic.com/news/claude-fable-5-mythos-5">Fable 5 and Mythos 5 were announced on Tuesday</a> — that post has detailed comparisons, from Anthropic, on the models’ capabilities.</p>
-
-<p>Having the access ban extend all the way to “foreign national Anthropic employees” is, to say the least, aggressive. Whether that degree of restriction is truly warranted, I don’t think we, on the outside, can say. The Trump administration lacks credibility, to say the least, when it comes to foreign nationals. But it’s Anthropic itself that repeatedly compares the power of frontier models to nuclear weapons. Here’s CEO Dario Amodei, <a href="https://darioamodei.com/post/policy-on-the-ai-exponential">in an essay published just this month</a>:</p>
-
-<blockquote>
-  <p>There may come a time, perhaps relatively soon, when we need to go
-beyond this, when the most powerful AI systems look less like
-airplanes or automobiles and more like weaponizable nuclear
-materials — a threat to humanity rather than “just” a threat to
-public safety. If that occurs, we may need more aggressive
-regulatory measures than those I have laid out.</p>
-</blockquote>
-
-<p>If that occurs — or if it already <em>has</em> occurred — it’s obviously not the place of Anthropic (or OpenAI or Google) to render that judgment. <a href="https://stratechery.com/2026/anthropic-and-alignment/">Ben Thompson wrote about this presciently</a> back in March, and linking to his post, <a href="https://daringfireball.net/linked/2026/03/02/anthropic-and-alignment">I wrote</a>:</p>
-
-<blockquote>
-  <p>Nilay Patel, quoting the same section of Thompson’s column I
-quoted above, <a href="https://bsky.app/profile/reckless.bsky.social/post/3mg3qayzjlc2m">sees it as</a> “Ben Thompson making a
-full-throated case for fascism”. I see it as the case against
-<a href="https://en.wikipedia.org/wiki/Corporatocracy">corporatocracy</a>. Who sets our defense policies? Our
-democratically elected leaders, or the CEOs of corporate defense
-contractors?</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘U.S. Government Directs Anthropic to Shut Down Fable 5 and Mythos 5 Models on National Security Grounds’"  href="https://daringfireball.net/linked/2026/06/13/us-government-forces-anthropic-to-shut-down-fable-5-and-mythos-5-models">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
