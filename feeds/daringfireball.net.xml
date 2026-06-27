@@ -7,7 +7,102 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-27T22:39:52Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-27T23:42:59Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/06/bernie_sanders_ideologue" />
+	<link rel="shorturl" href="http://df4.us/xb6" />
+	<id>tag:daringfireball.net,2026://1.43170</id>
+	<published>2026-06-27T23:35:00Z</published>
+	<updated>2026-06-27T23:42:59Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">Sanders’s tweet is better punctuated and capitalized, but it’s the same argument as Trump’s. Zero economic sense, 100 percent ideological wishful thinking.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p><a href="https://x.com/sensanders/status/2070213058950287865">Bernie Sanders, posting on Twitter/X</a> Thursday (don’t complain to me that he doesn’t use <a href="https://bsky.app/profile/sanders.senate.gov">his Bluesky account</a>):</p>
+
+<blockquote>
+  <p>Corporate greed is Tim Cook, the billionaire Apple CEO, claiming
+that hiking prices on Apple products by over $200 is “unavoidable”
+after it made $112 billion in profits last year &amp; spent $310
+billion on stock buybacks.</p>
+
+<p>These price hikes aren’t unavoidable. They’re unacceptable.</p>
+</blockquote>
+
+<p>It boggles the mind how anyone could post this and not question the common sense napkin math of a company spending 3× its annual profit on stock buybacks. That’s theoretically possible, I suppose, but obviously unsustainable. A company would have to burn through a cash hoard or incur massive amounts of debt to spend 3× its profit on anything. It makes no sense. Someone who doesn’t consider the common sense of those numbers probably shouldn’t be spouting off on anything related to economics. And of course Apple files <a href="https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm">an annual report with the SEC</a>, easily searchable via the web, which plainly shows that the company spent $89 billion on stock repurchases last year, and paid shareholders $15 billion in dividends. Those numbers make sense for a company that earned $112 billion in profit.</p>
+
+<p>I suspect Sanders is so ignorant of basic economics that he sees the ampersand in his tweet as additive — that Apple made $112 billion in profit <em>and</em> spent $310 billion in buybacks and thus had something like $420 billion of money “in the black” with which they could eat the cost of rising RAM and SSD components. But they’re not additive. Stock repurchases are purchases. If Apple actually <em>had</em> spent $310 billion on stock buybacks last year — which, to repeat, they most certainly did not — even Karl Marx might excuse them for raising prices on their products this year, because they’d be in a $200 billion hole they needed to dig out of.</p>
+
+<p>But such concerns, obvious to anyone who’s taken an Econ 101 course in college, seldom stop ideologues.</p>
+
+<p>Putting aside Sanders’s factually incorrect and nonsensical $310 billion figure, let’s just consider this general scenario: A company makes a product that consists of essential components they must purchase from suppliers. <em>Something happens</em> — outside the company’s control — that causes those essential components to rise in price significantly. Therefore the cost of goods for the company’s product increases significantly. What should the company do? Raise prices and pass those increased costs on to their customers, maintaining the same level of profit for themselves? Or hold prices steady and eat those costs, accepting lower profits or even negative margins, so that customers remain unaffected?</p>
+
+<p>One can hold logically consistent views at both extremes. At one end, the belief that business is business and higher costs naturally result in higher prices passed along to customers. At the other end, the belief that companies should put the welfare of their customers ahead of their own profit seeking. Perhaps you think the answer is somewhere in-between: somewhat higher prices and somewhat lower profit margins.
+What you cannot do is hold a philosophically consistent logically coherent view where your answer to how a company should respond in such a scenario is contingent on what the “<em>something happens</em>” is that caused component prices to rise.</p>
+
+<p>When the “<em>something happens</em>” is a global RAM and SSD shortage resulting from the AI datacenter capex spending spree, Sanders’s tweet makes clear that he’s of the opinion that Apple should eat these costs.</p>
+
+<p>But when the “<em>something happens</em>” was Trump’s tariffs, <a href="https://www.sanders.senate.gov/press-releases/news-sanders-statement-on-trumps-escalating-trade-war-with-the-world/">Sanders argued</a> (emphasis added) that “Trump’s across-the-board tariffs are not the way to do it. We do not need a blanket and arbitrary sales tax on imported goods <em>which will raise prices on products</em> that the American people desperately need.” <a href="https://www.sanders.senate.gov/press-releases/news-sanders-statement-on-trump-tariff-announcement/">And again</a>: “Trump’s blanket tariffs <em>will just raise prices for American consumers</em> and hurt our relationships with allies, undermining our global position.” Not “might” raise prices. “Will” raise prices.</p>
+
+<p>Sanders arguing today that Apple should eat the entire cost of rising RAM and SSD components makes no more sense than <a href="https://daringfireball.net/linked/2025/05/19/trump-walmart-tariffs">this tweet from Donald Trump a year ago</a>:</p>
+
+<blockquote>
+  <p>Walmart should STOP trying to blame Tariffs as the reason for
+raising prices throughout the chain. Walmart made BILLIONS OF
+DOLLARS last year, far more than expected. Between Walmart and
+China they should, as is said, “EAT THE TARIFFS,” and not charge
+valued customers ANYTHING. I’ll be watching, and so will your
+customers!!!</p>
+</blockquote>
+
+<p>Sanders’s tweet is better punctuated and capitalized, but it’s the same argument. Zero economic sense, 100 percent ideological wishful thinking. Yelling angrily doesn’t make your argument any more compelling logically.</p>
+
+    ]]></content>
+  <title>★ Bernie Sanders: Ideologue and Economic Ignoramus</title></entry><entry>
+	<title>Micron Executive Sumit Sadana Tells Tim Cook to Stop Hitting Himself</title>
+	<link rel="alternate" type="text/html" href="https://www.wsj.com/tech/apple-raises-prices-on-macs-ipads-by-200-or-more-on-some-models-a7463f99?st=B1aQCP&amp;reflink=desktopwebshare_permalink" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xb7" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/27/micron-sadana-cook-hitting-himself" />
+	<id>tag:daringfireball.net,2026:/linked//6.43171</id>
+	<published>2026-06-27T23:30:00Z</published>
+	<updated>2026-06-27T23:36:17Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>From the bottom of Rolfe Winkler’s report for The Wall Street Journal Thursday, on Apple’s unprecedented price increases (gift link):</p>
+
+<blockquote>
+  <p>Apple’s price hikes arrived the day after Micron Technology, the
+big American maker of memory and storage, reported blowout
+quarterly earnings, touting gross profit margins that topped 80%.
+Shares jumped 16% after the close and appeared likely to power a
+Thursday rally among semiconductor stocks. [...]</p>
+
+<p>In an interview Wednesday night, Micron Chief Business Officer
+Sumit Sadana said the company couldn’t make investments during the
+memory market’s last downturn, when Micron’s gross profits went
+negative, in part because certain customers took advantage to pay
+rock-bottom prices.</p>
+
+<p>“We told a couple of the customers who were being very aggressive
+with pricing at that time that this is not constructive,” he said,
+without naming Apple, adding that low prices discouraged capital
+investments. “A lot of the industry investments got shut down in
+2023 because of really poor pricing and really poor margins.”</p>
+</blockquote>
+
+<p>I overlooked this segment when I read (<a href="https://daringfireball.net/linked/2026/06/25/apple-raises-prices">and linked to</a>) Winkler’s report Thursday. It really does seem clear that Sadana is blaming Apple for not cutting Micron any slack when the supply/demand curve for RAM had a different look in 2023. I’m sure Micron’s current 80 percent margins are here to stay this time, so getting a few jabs in at Apple will never come back to bite Micron and Sadana.</p>
+
+<div>
+<a  title="Permanent link to ‘Micron Executive Sumit Sadana Tells Tim Cook to Stop Hitting Himself’"  href="https://daringfireball.net/linked/2026/06/27/micron-sadana-cook-hitting-himself">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple Faced Bipartisan Opposition When It Last Lobbied to Buy Chinese RAM in 2022</title>
 	<link rel="alternate" type="text/html" href="https://www.warner.senate.gov/newsroom/press-releases/warner-rubio-urge-dni-to-review-risk-chinese-chipmaker-ymtc-presents-to-national-security/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xb5" />
@@ -1798,38 +1893,6 @@ delayed this year?</p>
 
 	]]></content>
   </entry><entry>
-	<title>Yours Truly on The Vergecast: ‘# the **Epic** Story of Markdown’</title>
-	<link rel="alternate" type="text/html" href="https://www.theverge.com/podcast/950082/markdown-history-gruber-vergecast" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/x9z" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/17/vergecast-epic-story-of-markdown" />
-	<id>tag:daringfireball.net,2026:/linked//6.43127</id>
-	<published>2026-06-17T15:37:42Z</published>
-	<updated>2026-06-17T15:38:12Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>David Pierce, host of The Vergecast:</p>
-
-<blockquote>
-  <p>So where did Markdown come from? It came from John Gruber. John
-joins the show, along with Anil Dash, to tell the story of where
-Markdown came from and <a href="https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/">how it took over the world</a>.</p>
-</blockquote>
-
-<p>Markdown has been growing steadily for years, but it’s seen a step change in popularity now that it’s been embraced as the lingua franca of LLM agentic systems. I had an interesting all-too-brief chat last week in Cupertino with some people from Apple’s developer tools team about how it feels to see Markdown spread everywhere — <a href="https://daringfireball.net/misc/2026/06/apple-developer-%E2%80%98markdown%E2%80%99-WWDC-2026.png">including WWDC</a>. In a word, gratifying.</p>
-
-<p>But the biggest reason for Markdown’s continuing success isn’t Markdown itself. It’s the triumph of plain text files, both for system configuration and for the interchange of human-readable (and thus, LLM-readable) prose. Markdown isn’t really a “syntax”. It’s a set of conventions for formatting plain text. If everyone agrees to the same basic conventions, plain text can be significantly more expressive than a string of unformatted characters.</p>
-
-<p>That’s it. So what I find gratifying isn’t that my “language” continues to thrive, because it’s not a language. It’s that the way I like to format plain text when I’m writing, and the way I like to see plain text formatted when I’m reading, has so thoroughly won the world’s mindshare battle. “Ha-ha”, I say, to people who want *this* to mean bold, not italic. (And to Slack and WhatsApp, I say “Fuck you.”)</p>
-
-<div>
-<a  title="Permanent link to ‘Yours Truly on The Vergecast: ‘# the **Epic** Story of Markdown’’"  href="https://daringfireball.net/linked/2026/06/17/vergecast-epic-story-of-markdown">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF" />
 	<link rel="shorturl" href="http://df4.us/x9v" />
@@ -1991,20 +2054,4 @@ the Mac solved 20 years ago.</p>
 <p>So while the world is largely focused on Apple’s AI-related announcements at WWDC tomorrow, I’ve got SwiftUI (on all platforms) and Mac-assed Mac development high on my list. Apple’s developer message used to be that it was not just easy to develop apps for their platforms, but that it was easy to develop <em>good idiomatically native</em> apps. You got the correct complex behavior — for things like Undo/Redo — out of the box. That’s still true for AppKit and UIKit, but it’s never been true for SwiftUI, and <a href="https://www.apple.com/newsroom/2019/06/apple-unveils-groundbreaking-new-technologies-for-app-development/">SwiftUI is now seven years old</a>. That’s too long for any excuses to hold water. </p>
 
     ]]></content>
-  <title>★ SwiftUI Only Makes It Easy to Develop Bad Apps</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/05/what_is_a_dickover" />
-	<link rel="shorturl" href="http://df4.us/x83" />
-	<id>tag:daringfireball.net,2026://1.43059</id>
-	<published>2026-05-29T20:58:56Z</published>
-	<updated>2026-05-31T22:58:20Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">dickover — a modal panel, popover, or curtain presented by a website or app, deliberately obscuring its own content to frustrate the user with an unwanted, unnecessary, mandatory interaction; e.g. asking the user to accept “cookies”, subscribe to a newsletter, install the website’s mobile app, agree to terms of service, or anything else that the user couldn’t give two shits about.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p><em><a href="/2026/05/what_is_a_dickover">Please enjoy this article on its own webpage</a>. Trust me.</em></p>
-
-    ]]></content>
-  <title>★ What Is a Dickover?</title></entry></feed><!-- THE END -->
+  <title>★ SwiftUI Only Makes It Easy to Develop Bad Apps</title></entry></feed><!-- THE END -->
