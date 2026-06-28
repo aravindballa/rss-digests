@@ -7,7 +7,66 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-27T23:45:40Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-28T17:21:43Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>PuffPal, an App for Accessing Cannabis Clubs, Leaked 1 Million Users’ Passports</title>
+	<link rel="alternate" type="text/html" href="https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdjV0Y5TTBuM0ciLCJwIjoiL3RlY2gvOTQ3MTU3L3Bhc3Nwb3J0cy1kYXRhLWJyZWFjaC1jYW5uYWJpcy1jbHViLXN5c3RlbXMtbmVmb3MtcHVmZnBhbCIsImV4cCI6MTc4MzA5NDY0NiwiaWF0IjoxNzgyNjYyNjQ2fQ.7SjX6B8AAGhzsdrtD5asJWBwzQvTDUD31hWte7K1oec" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xb8" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/28/puffpal-passport-leak" />
+	<id>tag:daringfireball.net,2026:/linked//6.43172</id>
+	<published>2026-06-28T17:21:42Z</published>
+	<updated>2026-06-28T17:21:43Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Sean Hollister, writing for The Verge (gift link):</p>
+
+<blockquote>
+  <p>If you’ve visited a cannabis club in Spain, [Sammy] Azdoufal says, chances
+are your photo ID was among them — and possibly your phone
+number, address, your favorite strains of cannabis, and how much
+you consumed each month while there. Azdoufal says celebrities are
+in the database, too, and visitors from all over the world,
+including 30,000 from the United States. “They have famous
+people,” says Azdoufal. “People who don’t want everyone to know
+they smoke weed.”</p>
+
+<p>But when Azdoufal decompiled that PuffPal app, <a href="https://github.com/xn0tsa/because-i-got-high">he explains in his
+report</a>, he discovered that Nefos had no meaningful level of
+security. He discovered a secret key for the Stripe payments
+platform sitting inside the app in plain text. He discovered he
+could pull up any member’s profile just by changing one number. If
+those profiles included their phone number, home address,
+passport, and weed preferences, he now had access to them too.</p>
+
+<p>And then, he discovered that those passports, drivers licenses,
+and photo IDs were stored at public URLs as simple as this:
+<code>https://ccsnubev2.com/v8/images/_{club}/ID/{user_id}-front.jpg</code></p>
+
+<p>Those clubs were uploading 5,000 new photo IDs with these insecure
+URLs every day, Azdoufal tells me.</p>
+</blockquote>
+
+<p><a href="https://github.com/xn0tsa/because-i-got-high">Azdoufal’s full report on the leak</a>, including the ease with which he discovered it, is worth reading.</p>
+
+<p><a href="https://www.schneier.com/blog/archives/2026/06/one-million-passports-leaked-online.html">Bruce Schneier</a>:</p>
+
+<blockquote>
+  <p>Note what happened. A high-value credential — a passport — was
+used in an ancillary low-value authentication system: ID
+verification for cannabis dispensaries. And it’s the low-value
+system that got hacked, putting the high-value credential at risk.</p>
+</blockquote>
+
+<p>Access to cannabis clubs has to be age verified. The security ought not be shit, but age verification is part of the industry. But now think about the legislation being proposed and passed around the world requiring age verification for just doing anything online. These sort of identity leaks are the inevitable result.</p>
+
+<div>
+<a  title="Permanent link to ‘PuffPal, an App for Accessing Cannabis Clubs, Leaked 1 Million Users’ Passports’"  href="https://daringfireball.net/linked/2026/06/28/puffpal-passport-leak">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/06/bernie_sanders_ideologue" />
 	<link rel="shorturl" href="http://df4.us/xb6" />
@@ -1857,38 +1916,6 @@ to use an iPhone, iPad, or MacBook inside a moving vehicle.</p>
 
 <div>
 <a  title="Permanent link to ‘Vehicle Motion Cues — a.k.a. Apple’s Weird Anti-Nausea Dots’"  href="https://daringfireball.net/linked/2026/06/17/vehicle-motion-cues----aka-apples-weird-anti-nausea-dots">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Yours Truly on MacBreak Weekly: Is the New Siri AI Good?</title>
-	<link rel="alternate" type="text/html" href="https://twit.tv/shows/macbreak-weekly/episodes/1029?autostart=false" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xa0" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/17/yours-truly-on-macbreak-weekly" />
-	<id>tag:daringfireball.net,2026:/linked//6.43128</id>
-	<published>2026-06-17T15:41:54Z</published>
-	<updated>2026-06-17T16:03:29Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>MacBreak Weekly:</p>
-
-<blockquote>
-  <p>John Gruber of Daring Fireball joins the MacBreak Weekly panel
-this week! A deep dive into Apple’s new Siri following WWDC. Why
-Apple Intelligence &amp; the new Siri are not coming to the EU
-initially later this year. And could the iPhone Ultra’s launch be
-delayed this year?</p>
-</blockquote>
-
-<p>It’s fun to be the guest, not the host, of a podcast. I took Jason Snell’s usual panelist spot this week, alongside Leo Laporte, Andy Ihnatko, and Christina Warren. Lots to cover, including a week of real-life experience using the new Siri AI. (It’s really good!)</p>
-
-<p>Also, sometimes you just know what the episode title of a podcast is going to be, the moment a phrase is uttered. This was one of those episodes, with “<a href="https://intimatefunctionalities.com/">Intimate Functionalities</a>”.</p>
-
-<div>
-<a  title="Permanent link to ‘Yours Truly on MacBreak Weekly: Is the New Siri AI Good?’"  href="https://daringfireball.net/linked/2026/06/17/yours-truly-on-macbreak-weekly">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
