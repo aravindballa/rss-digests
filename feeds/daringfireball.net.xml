@@ -7,7 +7,115 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-30T17:23:42Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-30T19:35:44Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/06/scotus_geofence_warrant_search" />
+	<link rel="shorturl" href="http://df4.us/xbi" />
+	<id>tag:daringfireball.net,2026://1.43182</id>
+	<published>2026-06-30T18:52:47Z</published>
+	<updated>2026-06-30T19:35:44Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">Google no longer collects this information in a way that is susceptible to geofence warrants, and, more importantly, Apple never did.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p><a href="https://www.scotusblog.com/2026/06/court-rules-that-law-enforcements-use-of-geofence-warrant-was-a-search/">Amy Howe, writing at the ever-excellent SCOTUSblog</a>:</p>
+
+<blockquote>
+  <p>The Supreme Court on Monday <a href="https://www.supremecourt.gov/opinions/25pdf/25-112_0am4.pdf">ruled</a> that when law enforcement
+officials used a “geofence warrant” — a warrant that instructed
+Google to provide location data for cellphone users who were near
+a particular place during a specific time period — to obtain
+evidence used to convict a Virginia man of a 2019 bank robbery,
+they conducted a “search” for purposes of the Fourth Amendment. By
+a vote of 6-3, the justices sent Okello Chatrie’s case back to the
+lower court for it to consider whether, as the Fourth Amendment
+requires, the search was “reasonable.”</p>
+
+<p>Writing for the majority, Justice Elena Kagan emphasized that
+“[a]n individual has a reasonable expectation of privacy in
+records about his cell phone’s location, and police intrude on
+that constitutionally protected interest when they demand the
+information — even though for only a limited time, and from a
+third-party tech company.” [...]</p>
+
+<p>The issue at the center of <a href="https://www.scotusblog.com/cases/chatrie-v-united-states/"><em>Chatrie v. United States</em></a> arose
+after a man armed with a gun entered a federal credit union
+outside Richmond, Virginia, and gave the teller a note demanding
+money. He made off with nearly $200,000, but law enforcement
+officials did not have any leads until they served Google with a
+geofence warrant, which directed the tech company to provide
+location data for cellphone users who were near the bank at the
+time of the robbery.</p>
+</blockquote>
+
+<p>I agree, wholeheartedly, with the decision. Howe’s coverage, being at SCOTUSblog, is unsurprisingly concerned with the legal aspects. But I’m also fascinated by the technical aspects. It’s remarkable — and regrettable — that Google had this geofence information in the first place. The data was part of a grossly invasive and ill-conceived feature Google called “Location History”, and was used to power a feature called “Timeline” in Google Maps. The data was stored unencrypted by Google in the cloud, tied to your Google account, thus making it available to these geofence warrants.</p>
+
+<p>Back in <a href="https://blog.google/products/maps/updates-to-location-history-and-new-controls-coming-soon-to-maps/">December 2023 Google announced</a> that it was changing the way it stored this data, defaulting instead to on-device storage and using end-to-end encryption (that Google itself cannot decrypt) for location data it holds online. This change had long been advocated by the EFF, <a href="https://www.eff.org/deeplinks/2023/12/end-geofence-warrants">which celebrated Google’s policy change</a>. (Notably, Chatrie robbed that credit union in 2019.)</p>
+
+<p>Most people have an unshakeable belief in the widely-held misconception that “everything” we do — everywhere we go, even <a href="https://simonwillison.net/2025/Jan/2/they-spy-on-you-but-not-like-that/">everything we say</a> — in the presence of our phones is tracked and recorded, and traceable back to us individually. It’s not at all ridiculous that this belief is so common, given that it is technically feasible. Our phones are precise GPS devices, they do have good microphones, and they are (almost) always connected to cellular and/or Wi-Fi networks. And the surveillance advertising industrial complex — primarily Meta and Google — is so uncannily good at serving ads based on our recent personal interests that the most obvious explanation for how they do it is “they listen to us and track us and record everything we do”. That’s <em>not</em> how they do it. But “they listen to us and track us and record everything we do” is an explanation that everyone can easily understand. If that <em>were</em> how Meta and Google served targeted ads to us, everyone could understand how the ads are so often so uncannily and creepily accurate. The way it actually works is complex and complicated, and thus in the realm of <a href="https://en.wikipedia.org/wiki/Clarke%27s_three_laws">Arthur C. Clarke’s maxim</a> that “any sufficiently advanced technology is indistinguishable from magic”. Incorrect explanations that people understand resonate and take hold and become entrenched beliefs; correct explanations that people don’t understand are dismissed and are not believed. (Exhibit A: evolution.) This is why it is such a precious gift to be able to explain complex technical and scientific subject matter in ways that many people can understand.<sup id="fnr1-2026-06-30"><a href="#fn1-2026-06-30">1</a></sup></p>
+
+<p>And lo, now here’s a Supreme Court case showing that when the police asked for a list of people whose phones were near a particular bank at a particular time on a particular day, Google had that information and handed it over. <em>Chatrie v. United States</em> is not a particularly celebrated case, but this will only contribute to the entrenching of superstitious incorrect conspiracy theories about the data that “they” — big tech companies — collect about us.</p>
+
+<p>But Google no longer collects this information in a way that is susceptible to geofence warrants, and, more importantly, <em>Apple never did</em>. <a href="https://daringfireball.net/linked/2023/12/18/google-geofence-warrants">From my own December 2023 post on Google’s decision</a> to change how it collects this data to ensure privacy:</p>
+
+<blockquote>
+  <p>The reason these overly broad geofence warrants “almost always”
+were specific to Google is that Apple never collected location
+data that could be collected in the aggregate like this. From
+<a href="https://www.apple.com/legal/transparency/pdf/requests-2022-H1-en.pdf">Apple’s most recent government transparency report</a>
+(PDF), covering the first half of 2022:</p>
+
+<blockquote>
+  <p>Apple may also receive requests from government agencies seeking
+customer data related to specific latitude and longitudes
+coordinates (geofence) for a specified time period. Apple does
+not have any data to provide in response to geofence requests.</p>
+</blockquote>
+
+<p>I checked with a source at Apple, and they believe they have never
+collected or stored geolocation data in a manner that can be
+linked to groups of individuals in a certain area or areas.</p>
+</blockquote>
+
+<p>So the whole question of geofence-warrant fishing expeditions may have been obviated two years ago by Google for Android users, and was never an issue for iPhone users. Unless, perhaps, they used the Google Maps app on their iPhones and granted it the “always on” location access that it asks for. I suspect, but do not know, that iPhone users who granted “always on” location access to Google Maps (or any other Google iOS app that asked for it? — <em>all</em> of their <a href="https://apps.apple.com/us/app/google/id284815942">iOS apps</a> seem to ask for location permissions, but I don’t know how many other than Google Maps ask for always-on access) were just as susceptible to these geofence warrants as Android users.</p>
+
+<p>This decision should still serve as good precedent for location data held by other companies, and I hope the decision serves as good precedent for <em>any</em> searchable <a href="https://www.dol.gov/general/ppii">Personally Identifiable Information</a> susceptible to fishing-expedition warrants in general.</p>
+
+<p>But the bottom line is: Apple has never held data tracking your location, and while Google did, they no longer do.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1-2026-06-30">
+<p>It’s good for the expert, too, <a href="https://daringfireball.net/linked/2017/06/14/feynman-freshman-lecture">to prove that they can explain complex subject matter at the level of a freshman lecture</a> — which is the only way to prove that they truly understand it themselves.&nbsp;<a href="#fnr1-2026-06-30"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
+</li>
+</ol>
+</div>
+
+    ]]></content>
+  <title>★ The Supreme Court Rules That Law Enforcement’s Use of ‘Geofence Warrant’ Was a ‘Search’ (But May Be Moot, Technically, Since 2024)</title></entry><entry>
+	<title>Three Players From the Japanese Men’s National Team vs. 100 School Children</title>
+	<link rel="alternate" type="text/html" href="https://x.com/BallStreet/status/950382135969566720" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xbh" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/30/3-men-vs-100-kids" />
+	<id>tag:daringfireball.net,2026:/linked//6.43181</id>
+	<published>2026-06-30T18:50:54Z</published>
+	<updated>2026-06-30T18:50:55Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>I know there’s been a lot of exciting World Cup action this week, but this 2018 clip from Japan is the best soccer video I’ve seen a long while.</p>
+
+<div>
+<a  title="Permanent link to ‘Three Players From the Japanese Men’s National Team vs. 100 School Children’"  href="https://daringfireball.net/linked/2026/06/30/3-men-vs-100-kids">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>CMA Consultation on Mobile App Steering and NFC Access</title>
 	<link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/cma-consults-on-new-requirements-for-apple-and-googles-mobile-platforms" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xbg" />
@@ -1972,43 +2080,6 @@ of Amazon.com and Netflix for ad dollars.</p>
 
 	]]></content>
   </entry><entry>
-	<title>Verizon, Formerly Menace Mobile</title>
-	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=lzmntndEXWo" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xa8" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/18/verizon-formerly-menace-mobile" />
-	<id>tag:daringfireball.net,2026:/linked//6.43136</id>
-	<published>2026-06-19T00:58:25Z</published>
-	<updated>2026-06-19T01:02:13Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Verizon has sprung for <a href="https://www.youtube.com/watch?v=lzmntndEXWo">a new ad campaign</a> set in the <em>Austin Powers</em> world, with four stars from the cast — Mike Myers, of course, as Dr. Evil; Rob Lowe as Number Two (Robert Wagner is alive but is 96); Seth Green as Evil’s son Scott, and Mindy Sterling as Frau Farbissina — and director Jay Roach. The premise of the two-minute spot is that Dr. Evil is proposing “Menace Mobile”, a wireless carrier with confusing pricing and plans. Scott pooh-poohs the idea on the grounds that “This isn’t evil. This is just typical phone company stuff.” Then, after some back-and-forth, comes this exchange:</p>
-
-<blockquote>
-  <p>Scott: Diabolical phone companies are why we’re all switching to
-Verizon.</p>
-
-<p>Dr. Evil: I thought Verizon was just like the rest of the wireless
-organizations.</p>
-
-<p>Scott: Well, they were, but not anymore. They just got rid of
-activation and upgrade fees. They’re changing everything.</p>
-</blockquote>
-
-<p>I don’t think the commercial is particularly funny, alas, but I do find it extraordinary, because of the exchange quoted above. “Well, they were, but not anymore” is one the most extraordinary lines I’ve heard in a commercial. They’re just flat out admitting that, until recently, they ran their business like a scheme from Dr. Evil.</p>
-
-<p>I’ve been on Verizon for a long time. It’s expensive, but so was AT&amp;T, and I’ve always felt like I got better service and better coverage from Verizon (which is why I switched in the first place). But just last year I did the wrong thing when I bought my iPhone 17 Pro. I should have bought it unlocked, but instead I bought it as a device upgrade tied to my Verizon account, and the bastards nicked me for a $30 upgrade fee. I’d like to think that will never happen again because they’re actually dropping all of their bullshit fees, but I’ll believe it when I see it.</p>
-
-<p><em><a href="https://letterboxd.com/film/austin-powers-international-man-of-mystery/">Austin Powers</a></em>, by the way, came out in 1997. In the film, Powers was frozen since 1967. That means next year, we’ll be as far removed from the debut of the movie as unfrozen Austin Powers was from the groovy 60s in the film.</p>
-
-<div>
-<a  title="Permanent link to ‘Verizon, Formerly Menace Mobile’"  href="https://daringfireball.net/linked/2026/06/18/verizon-formerly-menace-mobile">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/06/the_talk_show_live_from_wwdc_2026" />
 	<link rel="shorturl" href="http://df4.us/x9n" />
@@ -2092,61 +2163,4 @@ represents the menu item.</p>
 <p>This is my favorite news from all of WWDC this week. I mean that. In a small way I mean it because I so loathe this aspect of MacOS Tahoe. But in a large way I mean it because it’s proof that the rot has been rooted out of Apple’s software design team. I don’t know if all the untalented hacks are gone, but the untalented magazine-designer hacks with clout and influence all left with Alan Dye. I’ve chatted with a few people from Apple’s design team this week and they’re all loving the work they’re doing and the direction they’re taking Apple’s platforms. Backtracking on these idiotic menu item icons was a necessary first step.</p>
 
     ]]></content>
-  <title>★ Sweet Jeebus, MacOS 27 Golden Gate Removes the Dumb Icons From Menu Items</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps" />
-	<link rel="shorturl" href="http://df4.us/x97" />
-	<id>tag:daringfireball.net,2026://1.43099</id>
-	<published>2026-06-08T01:30:00Z</published>
-	<updated>2026-06-09T01:40:05Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">Apple’s developer message used to be that it was not just easy to develop apps for their platforms, but that it was easy to develop good idiomatically native apps. That’s still true for AppKit and UIKit, but it’s never been true for SwiftUI, and SwiftUI is now seven years old.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>Paulo Andrade, last month, “<a href="https://pfandrade.me/blog/mac-assed-swiftui-app/">Using SwiftUI to Build a Mac-Assed App in 2026</a>”:</p>
-
-<blockquote>
-  <p>I recently launched the macOS version of <a href="https://shopie.io/">Shopie</a>, an app I first
-released on the iOS App Store late last year. Shopie helps you
-keep track of products you’re interested in by letting you create
-wishlists and notifying you whenever a product’s price,
-availability, and other details change.</p>
-
-<p>Unlike my other apps, where I typically blend AppKit (or UIKit)
-with SwiftUI, Shopie is built entirely in SwiftUI. I wanted to
-keep it that way to maximize code reuse across iOS, iPadOS, and
-now macOS. This post explores how far SwiftUI can take you on the
-Mac in 2026, especially if your goal is to build an app that feels
-truly native to the platform. It’s not meant to be an exhaustive
-review of SwiftUI on macOS. It’s simply a collection of recipes
-and issues I ran into while porting <a href="https://shopie.io/">Shopie</a>, a fairly small app,
-and keeping it 100% SwiftUI.</p>
-</blockquote>
-
-<p>Andrade’s examples are copious. His conclusion is damning:</p>
-
-<blockquote>
-  <p>Apple dropped the ball here. AppKit was ahead of its time and
-UIKit was a more polished version of AppKit. A serious
-cross-platform framework that unified the two should have happened
-long before SwiftUI. Instead, Apple left AppKit to fossilize and
-then tried to leapfrog the problem.</p>
-
-<p>You can see the result everywhere. SwiftUI is productive, modern,
-and often delightful, right up until you try to make a really good
-Mac app. Then suddenly you’re fighting the framework for things
-the Mac solved 20 years ago.</p>
-</blockquote>
-
-<p>There’s something really wrong with SwiftUI. Amongst the apps I use, the best example is Apple Journal. Basic stuff that’s worked reliably for decades — some things that heretofore had worked forever — are dangerously broken. If you’re running MacOS 26 Tahoe, open Journal and make a new dummy entry. Type something like “The quick brown fox.” Then double-click on the word “brown” and delete it. Now invoke Undo.</p>
-
-<p>What you expect is for the word “brown” to reappear. What happens is ... <em>the whole sentence disappears</em>. Gone. Invoke Redo and you only get back to “The quick fox.” The word “brown” is just gone forever. It’s nowhere in the Undo stack. That’s just profoundly fucked up. I’ve never seen anything like this with an AppKit app, ever. (I’ve never seen it with a UIKit app either — and the same thing happens on iOS with Journal. It’s just that you notice it less often because we don’t invoke Undo and Redo nearly as often there.)</p>
-
-<p>I actually use the Journal app and I’ve lost entire sentences of text to this incompetent implementation of Undo. Editing text in Journal is <em>dangerous</em> because SwiftUI is so bad at something as fundamental as text editing. AppKit has had this solved since 1989 or so, a decade before Apple reunified with NeXT. And my example here is just one of many. Andrade documents a whole bunch more in his post. [Shopie is a good modern Mac app — you can practically see from reading his post that Andrade’s hands are scarred from dozens of paper cuts.</p>
-
-<p>So while the world is largely focused on Apple’s AI-related announcements at WWDC tomorrow, I’ve got SwiftUI (on all platforms) and Mac-assed Mac development high on my list. Apple’s developer message used to be that it was not just easy to develop apps for their platforms, but that it was easy to develop <em>good idiomatically native</em> apps. You got the correct complex behavior — for things like Undo/Redo — out of the box. That’s still true for AppKit and UIKit, but it’s never been true for SwiftUI, and <a href="https://www.apple.com/newsroom/2019/06/apple-unveils-groundbreaking-new-technologies-for-app-development/">SwiftUI is now seven years old</a>. That’s too long for any excuses to hold water. </p>
-
-    ]]></content>
-  <title>★ SwiftUI Only Makes It Easy to Develop Bad Apps</title></entry></feed><!-- THE END -->
+  <title>★ Sweet Jeebus, MacOS 27 Golden Gate Removes the Dumb Icons From Menu Items</title></entry></feed><!-- THE END -->
