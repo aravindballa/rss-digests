@@ -7,7 +7,58 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-29T23:21:45Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-30T00:59:08Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Data Breach at Indian Supplier Tata Electronics Exposes iPhone 18 Pro Details and Photos</title>
+	<link rel="alternate" type="text/html" href="https://www.reuters.com/business/media-telecom/apple-iphone-18-pro-supplier-list-parts-photos-exposed-tata-data-leak-2026-06-29/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xbe" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/29/tata-electronics-breach" />
+	<id>tag:daringfireball.net,2026:/linked//6.43178</id>
+	<published>2026-06-30T00:59:08Z</published>
+	<updated>2026-06-30T00:59:08Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Munsif Vengattil, Aditya Kalra, and Stephen Nellis, reporting for Reuters:</p>
+
+<blockquote>
+  <p>Sensitive lists of components and suppliers, ​and photos of
+Apple’s upcoming iPhone 18 Pro models are part of <a href="https://www.reuters.com/business/media-telecom/indias-tata-electronics-hit-by-cyber-breach-claiming-expose-apple-tesla-trade-2026-06-22/">files</a>
+posted on the dark web by the ransomware group that stole data
+from the U.S. firm’s Indian supplier Tata Electronics, according
+to documents and a source.</p>
+
+<p>The exposure threatens the carefully negotiated business of
+building the iPhone, which Apple assembles from a thicket of
+suppliers worldwide. It could also upset Apple and its
+relationship with Tata given most of the supplier
+arrangements are fiercely protected by Apple, and could also
+hand rivals, counterfeiters and its own vendors a ​view of
+who makes what. [...]</p>
+
+<p>Apple ​considers this detail sensitive and is concerned about
+the documents being shared on the dark web as they relate to
+unreleased models, according to the person familiar with the
+matter. The data maps suppliers to iPhone parts, which Apple
+does not disclose in its public database of suppliers, the
+person added.</p>
+
+<p>In all, the documents detail hundreds of parts to be on the
+upcoming iPhone 18 Pro models. The records also show where Apple
+draws a part from several suppliers and where it relies on just a
+few, laying bare both its bargaining leverage and its
+vulnerabilities.</p>
+</blockquote>
+
+<p>I’m going to say that describing Apple as “concerned” about this data breach might be the biggest euphemism I’ve heard this year. I’m sure they’re furious. Someone at Apple is responsible for putting this trust in Tata, and executives at Tata are surely panicked that they’ve lost future business with Apple.</p>
+
+<div>
+<a  title="Permanent link to ‘Data Breach at Indian Supplier Tata Electronics Exposes iPhone 18 Pro Details and Photos’"  href="https://daringfireball.net/linked/2026/06/29/tata-electronics-breach">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://dayoneapp.com/blog/introducing-daily-chat/" />
 	<link rel="shorturl" href="http://df4.us/xbd" />
@@ -1918,41 +1969,6 @@ forward mail to users without interruption.</p>
 
 <div>
 <a  title="Permanent link to ‘New Domain for Sign In With Apple and iCloud+ Hide My Email’"  href="https://daringfireball.net/linked/2026/06/18/new-domain-for-signinwithapple-and-icloudhidemyemail">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>NetNewsWire Status</title>
-	<link rel="alternate" type="text/html" href="https://inessential.com/2026/06/15/netnewswire-status.html" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xa5" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/18/netnewswire-status" />
-	<id>tag:daringfireball.net,2026:/linked//6.43133</id>
-	<published>2026-06-18T16:59:08Z</published>
-	<updated>2026-06-18T16:59:09Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Brent Simmons, writing at Inessential:</p>
-
-<blockquote>
-  <p>My hope for retirement was to get a lot of work done on
-<a href="https://netnewswire.com/">NetNewsWire</a>.</p>
-
-<p>A year ago it was in sore need of modernization, tech debt
-pay-off, and bug fixes. People were asking for features, but the
-foundation needed a ton of work before I could get on to adding
-new rooms.</p>
-
-<p>Here are some highlights of what we’ve done with 2,188 commits in
-the past year.</p>
-</blockquote>
-
-<p>NetNewsWire was already one of my favorite, most-used, most indispensable apps. Now it’s much better and improving steadily at a rapid clip. You love to see it.</p>
-
-<div>
-<a  title="Permanent link to ‘NetNewsWire Status’"  href="https://daringfireball.net/linked/2026/06/18/netnewswire-status">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
