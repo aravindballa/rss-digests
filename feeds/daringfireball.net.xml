@@ -7,14 +7,50 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-30T16:07:57Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-06-30T16:37:18Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>CMA Consultation on Mobile App Steering and NFC Access</title>
+	<link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/cma-consults-on-new-requirements-for-apple-and-googles-mobile-platforms" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xbg" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/30/cma-consultation" />
+	<id>tag:daringfireball.net,2026:/linked//6.43180</id>
+	<published>2026-06-30T16:33:55Z</published>
+	<updated>2026-06-30T16:34:23Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>The UK Competition and Markets Authority: </p>
+
+<blockquote>
+  <p>‘Steering’ — the ability for developers to engage with customers
+about off‑platform options — is currently banned by Apple and
+restricted by Google in the UK. Lifting these constraints would
+allow developers to bypass mandatory fees set by platforms.</p>
+
+<p>The CMA’s consultation includes principles to ensure that the fees
+Apple and Google charge for steering are fair and reasonable.
+Using an evidence-based framework, the CMA would expect steering
+fees to be lower than current app store charges, with savings
+passed onto UK customers or invested back into the developers’
+businesses to support future innovation.</p>
+</blockquote>
+
+<p><a href="https://www.macrumors.com/2025/12/17/japan-app-store-feature-updates/">Japan’s MSCA</a> is <a href="https://daringfireball.net/2025/12/apple_japan_msca_compliance">a good model</a> for this.</p>
+
+<div>
+<a  title="Permanent link to ‘CMA Consultation on Mobile App Steering and NFC Access’"  href="https://daringfireball.net/linked/2026/06/30/cma-consultation">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>U.K. Regulator Considers Requiring App Store to Allow Steering to the Web, and iOS NFC to Be Open</title>
 	<link rel="alternate" type="text/html" href="https://www.reuters.com/world/uk-regulator-proposes-easing-apple-google-app-store-payment-rules-2026-06-30/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xbf" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/30/uk-cma-regulations-app-store-nfc" />
 	<id>tag:daringfireball.net,2026:/linked//6.43179</id>
 	<published>2026-06-30T15:44:49Z</published>
-	<updated>2026-06-30T16:07:57Z</updated>
+	<updated>2026-06-30T16:37:18Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -58,7 +94,7 @@ commissions don’t raise prices ought to be taken with a few grains
 of salt.</p>
 </blockquote>
 
-<p>Requiring Apple to allow apps to steer users to the web to make payments is, <a href="https://daringfireball.net/2025/12/apple_japan_msca_compliance">I’ve long argued</a>, sensible regulation. <a href="https://daringfireball.net/2024/01/coming_to_grips_with_apples_seemingly_unshakable_sense_of_app_store_entitlement">I’ve also long argued</a> that Apple has been obstinate in not  disallowing it. If in-app payments — through Apple’s system — can’t compete with out-of-app payments on the web, something is wrong with IAP. But it’s wrong to assume that payments outside IAP will result in lower prices and better policies for users. IAP subscriptions easy to cancel and <a href="https://support.apple.com/en-us/118428?device-type=mac">listed all in one place</a>. Web subscriptions are often notoriously difficult to cancel and manage.</p>
+<p>Requiring Apple to allow apps to steer users to the web to make payments is, <a href="https://daringfireball.net/2025/12/apple_japan_msca_compliance">I’ve long argued</a>, sensible regulation. <a href="https://daringfireball.net/2024/01/coming_to_grips_with_apples_seemingly_unshakable_sense_of_app_store_entitlement">I’ve also long argued</a> that Apple has been obstinate in disallowing it. If in-app payments — through Apple’s system — can’t compete with out-of-app payments on the web, something is wrong with IAP. But it’s wrong to assume that payments outside IAP will result in lower prices and better policies for users. IAP subscriptions easy to cancel and <a href="https://support.apple.com/en-us/118428?device-type=mac">listed all in one place</a>. Web subscriptions are often notoriously difficult to cancel and manage.</p>
 
 <p>Back to Reuters:</p>
 
@@ -1969,36 +2005,6 @@ activation and upgrade fees. They’re changing everything.</p>
 
 <div>
 <a  title="Permanent link to ‘Verizon, Formerly Menace Mobile’"  href="https://daringfireball.net/linked/2026/06/18/verizon-formerly-menace-mobile">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Cotypist – Smart Autocomplete Utility for Mac</title>
-	<link rel="alternate" type="text/html" href="https://cotypist.app/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xa7" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/18/cotypist" />
-	<id>tag:daringfireball.net,2026:/linked//6.43135</id>
-	<published>2026-06-18T19:36:18Z</published>
-	<updated>2026-06-18T19:45:57Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Usually when I link to a new app, it’s something that I find useful personally. <a href="https://cotypist.app/">Cotypist</a> is something else. It’s an AI-powered autocomplete utility for the Mac, using on-device models and processing, by developer Daniel Gräfe of Accelerated Thought. It is very well-designed, and remarkably Mac-assed (right down to <a href="https://cotypist.app/uninstall">where it stores</a> its local data and AI models). It respects your privacy and all the best conventions of MacOS. Cotypist suggests a few words ahead of your insertion point at a time, and you can accept them by hitting Tab; if you want to ignore them, you just keep typing. The autocomplete suggestions appear inline, in whatever app you’re typing in, using your current font. I wasn’t even aware that was possible, but it is via MacOS’s rich accessibility APIs. Cotypist’s suggestions are eerily good. It’s even got a great name.</p>
-
-<p>Personally, I can’t stand using it.</p>
-
-<p>For me, it’s actually worse that the suggestions are so good, and so often on-point for what I intend to write. That’s why I can’t stand it. It’s like having a voice in my ear whispering my own thoughts before I think them. But are they my thoughts, or are they just <em>close</em> to my thoughts? They’re so close I can’t tell. And thus the experience of seeing these words appear before I’ve typed them feels more like a curse than a blessing, and a never-ending distraction. I’d find Cotypist far less distracting if its suggestions weren’t as good — but in that case it wouldn’t be nearly as interesting or useful, and I wouldn’t be writing about it at all.</p>
-
-<p>But I’m a writer. I enjoy writing. Writing is probably the most satisfying and fulfilling thing I do in life. I enjoy picking every word as I get to it. I find a blinking insertion point in the middle of a good but half-written sentence to be thrilling. But you might feel otherwise. Perhaps you find all writing to be a laborious chore, like washing dishes. Or you might have a job that requires answering a lot of repetitive emails. I’ve done email technical support in the past, and I would have killed for Cotypist then. I would imagine Cotypist is simply marvelous for someone who writes English as a second language.</p>
-
-<p>It’s absolutely worth trying if you think you might want to use it, and probably worth trying just to see it in action even if, like me, you don’t want something like this. Trying it out might change your mind. There’s a free tier for casual use (100 completed words per day), <a href="https://cotypist.app/pricing">and Plus and Pro paid tiers</a> for $6 and $9 per month. New installations get a 30-day free trial of the Pro tier.</p>
-
-<p><strong>See also:</strong> <a href="https://www.youtube.com/watch?v=npxlJdxSv4A">Quinn “Snazzy Labs” Nelson’s review on YouTube</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Cotypist – Smart Autocomplete Utility for Mac’"  href="https://daringfireball.net/linked/2026/06/18/cotypist">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
