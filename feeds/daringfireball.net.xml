@@ -7,7 +7,53 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-06-30T21:06:59Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-01T14:46:59Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>404 Media: Vulnerability in iCloud’s ‘Hide My Email’ Reveals Peoples’ Real Email Addresses</title>
+	<link rel="alternate" type="text/html" href="https://www.404media.co/apple-hide-my-email-vulnerability-reveals-peoples-real-email-addresses/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xbm" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/01/hide-my-email-not-so-hidden" />
+	<id>tag:daringfireball.net,2026:/linked//6.43186</id>
+	<published>2026-07-01T14:42:02Z</published>
+	<updated>2026-07-01T14:46:59Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Joseph Cox, reporting for 404 Media:</p>
+
+<blockquote>
+  <p>404 Media is not revealing the exact details of the vulnerability
+because it can still be exploited as of Monday, when 404 Media
+verified the issue with one of our own hidden email addresses.</p>
+
+<p>“Apple Hide My Email is leaking email addresses that are supposed
+to be hidden. We reported the issue and replication instructions
+to Apple over a year ago. We don’t know why it hasn’t been fixed,
+but we don’t feel comfortable waiting any longer. Hide My Email
+users deserve to know that it may be possible for attackers to
+discover their hidden email addresses,” Tyler Murphy, the
+co-founder of EasyOptOuts, which discovered and reported the issue
+to Apple, told 404 Media. [...]</p>
+
+<p>To test the issue I generated a new Hide My Email address and
+provided it to Murphy. Around five minutes later, he replied with
+my real email address linked to my Apple account which was
+supposed to be hidden.</p>
+
+<p>“We don’t know the full scope of the issue, but in our limited
+tests with volunteers, 100% of Hide My Email addresses were
+exploitable,” Murphy said.</p>
+</blockquote>
+
+<p>Not good. Especially the “We reported the issue and replication instructions to Apple over a year ago” part. (Is this possibly related to the WWDC news that <a href="https://daringfireball.net/linked/2026/06/18/new-domain-for-signinwithapple-and-icloudhidemyemail">Apple is merging the domain names</a> used for Sign In With Apple and Hide My Email? I can’t see why, but who knows?)</p>
+
+<div>
+<a  title="Permanent link to ‘404 Media: Vulnerability in iCloud’s ‘Hide My Email’ Reveals Peoples’ Real Email Addresses’"  href="https://daringfireball.net/linked/2026/07/01/hide-my-email-not-so-hidden">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Gnome</title>
 	<link rel="alternate" type="text/html" href="https://lexfriedman.com/gnome/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xbl" />
@@ -2121,46 +2167,6 @@ conducted in partnership with NBC News.</p>
 
 <div>
 <a  title="Permanent link to ‘Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro’"  href="https://daringfireball.net/linked/2026/06/19/trump-phone-htc-u24">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Fox to Buy Roku Streaming Service in $25 Billion Deal</title>
-	<link rel="alternate" type="text/html" href="https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9?st=mKdQwC&amp;reflink=desktopwebshare_permalink" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xac" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/19/fox-to-buy-roku" />
-	<id>tag:daringfireball.net,2026:/linked//6.43140</id>
-	<published>2026-06-19T18:29:40Z</published>
-	<updated>2026-06-19T18:30:36Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>The Wall Street Journal on Monday:</p>
-
-<blockquote>
-  <p>Fox Corp. said it is acquiring Roku in a deal valued at around
-$25 billion, making a major bet on the future of ad-supported
-streaming. The deal — Fox’s largest to date — brings together a media
-company known for its live news and sports programming with the
-biggest provider of streaming platforms for connected TVs.</p>
-
-<p>It will add scale to Fox’s streaming business, currently home to
-free, ad-supported streaming service Tubi, which the company
-bought for $400 million in 2020, and subscription-based Fox One
-and Fox Nation.</p>
-
-<p>In addition to distributing other streaming services through
-connected TVs and devices, Roku has its own ad-supported Roku
-Channel. The combined company will better compete with the likes
-of Amazon.com and Netflix for ad dollars.</p>
-</blockquote>
-
-<p>I’m late to comment on this, but this seems stupid. Roku sucks. I know they’ve got a 25 percent or so share of the smart TV interface market, but no one is attached to Roku. The entirety of their market share is people who don’t care. That’s not worth $25 billion. Shit platforms seldom last, and the ones that do last achieve monopolies. I think Roku’s share is going to slip, not grow.</p>
-
-<div>
-<a  title="Permanent link to ‘Fox to Buy Roku Streaming Service in $25 Billion Deal’"  href="https://daringfireball.net/linked/2026/06/19/fox-to-buy-roku">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
