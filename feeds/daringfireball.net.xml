@@ -7,7 +7,57 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-01T19:55:27Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-01T23:27:07Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/07/a_tale_of_two_modems" />
+	<link rel="shorturl" href="http://df4.us/xbq" />
+	<id>tag:daringfireball.net,2026://1.43190</id>
+	<published>2026-07-01T23:26:45Z</published>
+	<updated>2026-07-01T23:27:07Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">Cellular download speed and reception is nearly a solved problem for my needs. Battery life is not.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p><a href="https://appleinsider.com/articles/26/06/30/iphone-18-pro-leaks-qualcomm-or-apple-c2-model-a20-details-camera-upgrades">Marko Zivkovic, reporting for AppleInsider</a> regarding some of the data revealed by Tata Electronics’s massive data breach:</p>
+
+<blockquote>
+  <p>For the U.S. variant of the iPhone 18 Pro, which will feature
+mmWave compatibility, Apple seemingly plans to use Qualcomm modem
+hardware. Multiple Qualcomm components, including the SDX80M,
+SDR875, QDM8771, QDM8720, PMK75, PMX75, and QET7100A, are
+referenced in a bill of materials related to the iPhone 18 Pro
+model Apple plans to sell in the United States.</p>
+
+<p>As for the iPhone 18 models which will be sold elsewhere, Tata
+documentation suggests these configurations will use Apple’s
+proprietary C2 modem. While this approach may sound unusual, there
+is at least one possible explanation.</p>
+
+<p>Apple’s current in-house modems, the C1 and the C1X, do not
+support 5G mmWave, and it looks as though the C2 will continue
+this trend. Until Apple develops a modem compatible with mmWave,
+it looks as though the company will offer mmWave support to iPhone
+18 Pro users by using Qualcomm hardware.</p>
+</blockquote>
+
+<p>This immediately raises the question of which modem is “better”, and I suspect the answer requires nuance. Apple’s C1 and C1X modems are, <a href="https://birchtree.me/blog/battery-test-iphone-air-a-bunch-of/">by all accounts</a>, noticeably more power efficient than Qualcomm’s. An iPhone with an Apple C-series modem should get longer batter life than an otherwise identical iPhone with a Qualcomm modem. The obvious advantage to the Qualcomm modems is support for 5G mmWave, the super high-speed 5G bands primarily offered by Verizon.</p>
+
+<p>Personally, I don’t care about mmWave speeds. It literally makes no difference in my experience compared to regular 5G speeds. In fact, ever since WWDC a few weeks ago, I’ve had my iPhone 17 Pro set to use LTE instead of 5G. (Settings: Cellular: Cellular Data Options: Voice &amp; Data.) I literally notice no difference in speed and I presume that battery life is improved. Battery life certainly isn’t worse. (I switched to LTE after a friend at WWDC suggested that LTE has better range/penetration in places like airports, especially when you’ve boarded a plane but haven’t taken off yet.)</p>
+
+<p>Just now I used Ookla’s <a href="https://apps.apple.com/us/app/speedtest-by-ookla/id300704847">Speedtest app</a> to test the difference here in my office. I got 80 Mbps down / 15 Mbps up on LTE; 320 Mbps down / 18 Mbps up on 5G. That’s on Verizon’s network (which does offer mmWave throughout center city Philly, but seemingly not here at my house), with my iPhone 17 Pro (which uses a Qualcomm modem). I tested again, minutes later, using an iPhone Air (which uses Apple’s C1X modem) and got 390 Mbps down / 21 Mbps up on 5G (and similar 80 Mbps down / 13 Mbps up on LTE).</p>
+
+<p>So 5G is clearly faster than LTE here at home for me, using either iPhone model. But why should I care about that difference? Having a phone that can pull 320 Mbps down over cellular is like having a car that can go 320 MPH — an interesting technical feat, but of no practical value to me whatsoever. I never feel like I’m waiting for anything to load because I’m on LTE. LTE is fast enough, and regular 5G is more than fast enough. 5G mmWave is simply a waste of battery life as far as I’m concerned.</p>
+
+<p>So Apple’s C-series modems win on battery life, and Qualcomm’s modems win for high-speed mmWave support. But Qualcomm’s speed edge is theoretical, not practical. Apple’s C1/C1X energy efficiency edge is very much practical. I’ve used both the 17 Pro and iPhone Air in a variety of places over the last year, and I’ve noticed no real difference in being able to get a decent signal in rural areas, either.</p>
+
+<p>On the surface it sounds like a tradeoff — that Qualcomm’s modems consume more battery but deliver higher download speeds. But in practice that tradeoff only comes into play if you’re a Verizon user and happen to be within 50 meters or so of a mmWave-equipped cell tower, and that crazy high bandwidth doesn’t really make anything you do with your phone any faster than regular 5G (or LTE, I say). In reality I’d rather have an Apple C-series modem — I’d get better battery efficiency all the time, the same network performance almost all the time, and I don’t care at all about the rare times when I could get the crazy-high-speed mmWave bandwidth that Apple’s C1 and C1X modems don’t support (and perhaps still won’t support with the upcoming C2). Cellular download speed and reception is nearly a solved problem for my needs. Battery life is not.</p>
+
+<p>So why wouldn’t Apple just use the C2 everywhere, including the U.S.? I suspect Apple is hoist not with their own, but with Verizon’s petard here. Faster-than-you-practically-need download speeds are a carrier bragging point. Longer battery life and plenty-fast-enough download speeds are an Apple bragging point. Verizon — and to a lesser extent, AT&amp;T — spent a fortune building out mmWave networks. They don’t want to sell flagship phones that don’t support them. Apple’s flagship iPhones have supported those networks since 2020. Remember <a href="https://x.com/OnlyTechAE/status/1316529781777760256">how many times Tim Cook and Verizon’s CEO uttered “5G”</a> at the Covid era iPhone 12 event? If Zivkovic’s analysis of this stolen data from Tata is correct, and Apple is going to use Qualcomm’s models <em>only</em> in iPhone 18 Pro models sold in the U.S., I think the reason why is Verizon and AT&amp;T bragging points, not any practical user benefit. And the result <em>may</em> be that U.S. iPhone 18 Pro models get somewhat worse battery life than those in the rest of the world.</p>
+
+    ]]></content>
+  <title>★ A Tale of Two Modems</title></entry><entry>
 	<title>PlayStation Plus and Xbox Game Pass Subscriptions</title>
 	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2026/07/01/valve-on-subsidizing-hardware" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xbp" />
@@ -2229,48 +2279,4 @@ this is simply an early-beta artifact or the intended final look.</p>
 <p>Watch on a big screen if you can (real, or virtual). All credit and thanks for the video production go to my friends at <a href="https://sandwich.co/">Sandwich</a>, who, as ever, are nothing short of a joy to work with.</p>
 
     ]]></content>
-  <title>★ The Talk Show: Live From WWDC 2026</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items" />
-	<link rel="shorturl" href="http://df4.us/x9h" />
-	<id>tag:daringfireball.net,2026://1.43109</id>
-	<published>2026-06-11T00:09:01Z</published>
-	<updated>2026-06-11T01:59:41Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">This is my favorite news from all of WWDC this week. I mean that. In a small way I mean it because I so loathe this aspect of MacOS Tahoe. But in a large way I mean it because it’s proof that the rot has been rooted out of Apple’s software design team.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>Perhaps the worst UI crime in MacOS 26 Tahoe was the inexplicable decision to add inscrutable, distracting icons next to every item in the menu bar. You will recall <a href="https://daringfireball.net/linked/2026/01/06/nielsen-icons-in-menus">Jim Nielsen writing about it</a>, rightly describing it as exactly the sort of thing that Mac users look down upon in platforms like Google Docs and Windows. You will also recall <a href="https://tonsky.me/blog/tahoe-icons/">Nikita “Tonsky” Prokopov writing about it</a>, illustrating that the bad idea wasn’t even implemented well, with different Apple apps using entirely different icons for the same menu items. You will also recall <a href="https://daringfireball.net/linked/2026/01/06/nielsen-icons-in-menus">my linking to Nielsen</a> (“I can tolerate being angry about UI changes Apple makes to the Mac. But I can’t tolerate being heartbroken.”) and <a href="https://daringfireball.net/linked/2026/01/05/hard-to-justify-tahoe-icons">to Prokopov</a> (“The fact that Tahoe’s menu item icons are glaringly inconsistent and often utterly inscrutable is the fudge icing on a shit cake, but the real embarrassment is that the idea ever got past the proposal stage. No real UI <em>or</em> icon designers think this is a good idea. None.”)</p>
-
-<p>Top third-party developers rightly <a href="https://weblog.rogueamoeba.com/2026/01/10/removing-tahoes-unwanted-menu-icons/">rejected the design</a>, adopting <a href="https://indieweb.social/@brentsimmons/115846213935605782">open source code from Brent Simmons</a> to disable the default “icons in all standard menu items” behavior.</p>
-
-<p>Wonderful news in MacOS 27 Golden Gate: the icons are gone. It’s like Tahoe’s menu item icons never happened. <a href="https://mastodon.online/@nikitonsky/116720790550648158">Prokopov noted it on Mastodon</a> with before and after screenshots, and mentions that <a href="https://developer.apple.com/design/human-interface-guidelines/menus">Apple has updated the Human Interface Guidelines accordingly</a>:</p>
-
-<blockquote>
-  <p><b>Use menu item icons sparingly and with purpose.</b> Icons allow
-people to find menu items more quickly, and help clarify what
-selecting an item does. Use an icon to highlight the most common
-actions and key features of your app, file system locations,
-connected devices, visual concepts like rotating or flipping an
-image, and user-generated content like folders and documents.
-Don’t display an icon if you can’t find one that clearly
-represents the menu item.</p>
-</blockquote>
-
-<p>This updated advice in the HIG is perfect. Screenshot:</p>
-
-<p><a href="https://daringfireball.net/misc/2026/06/hig-menu-item-icons.png" class="noborder">
-  <img
-    src = "https://daringfireball.net/misc/2026/06/hig-menu-item-icons.png"
-    alt = "Screenshot from the updated HIG, with illustrations of menus with and without unnecessary icons."
-    width = 525
-  /></a></p>
-
-<p>MacOS 26 Tahoe — across every Apple app on the system — is a living example of the updated HIG’s “what not to do” example illustrations (including the second section about groups within a menu). If you’re stuck using Tahoe until Golden Gate arrives, <a href="https://daringfireball.net/2026/03/what_to_do_about_those_menu_item_icons_in_macos_26_tahoe">recall this tip</a> to alleviate the problem to some extent.</p>
-
-<p>This is my favorite news from all of WWDC this week. I mean that. In a small way I mean it because I so loathe this aspect of MacOS Tahoe. But in a large way I mean it because it’s proof that the rot has been rooted out of Apple’s software design team. I don’t know if all the untalented hacks are gone, but the untalented magazine-designer hacks with clout and influence all left with Alan Dye. I’ve chatted with a few people from Apple’s design team this week and they’re all loving the work they’re doing and the direction they’re taking Apple’s platforms. Backtracking on these idiotic menu item icons was a necessary first step.</p>
-
-    ]]></content>
-  <title>★ Sweet Jeebus, MacOS 27 Golden Gate Removes the Dumb Icons From Menu Items</title></entry></feed><!-- THE END -->
+  <title>★ The Talk Show: Live From WWDC 2026</title></entry></feed><!-- THE END -->
