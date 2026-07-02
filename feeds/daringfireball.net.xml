@@ -7,13 +7,13 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-01T23:27:07Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-02T13:06:01Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/07/a_tale_of_two_modems" />
 	<link rel="shorturl" href="http://df4.us/xbq" />
 	<id>tag:daringfireball.net,2026://1.43190</id>
 	<published>2026-07-01T23:26:45Z</published>
-	<updated>2026-07-01T23:27:07Z</updated>
+	<updated>2026-07-02T13:06:01Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -42,7 +42,7 @@ it looks as though the company will offer mmWave support to iPhone
 18 Pro users by using Qualcomm hardware.</p>
 </blockquote>
 
-<p>This immediately raises the question of which modem is “better”, and I suspect the answer requires nuance. Apple’s C1 and C1X modems are, <a href="https://birchtree.me/blog/battery-test-iphone-air-a-bunch-of/">by all accounts</a>, noticeably more power efficient than Qualcomm’s. An iPhone with an Apple C-series modem should get longer batter life than an otherwise identical iPhone with a Qualcomm modem. The obvious advantage to the Qualcomm modems is support for 5G mmWave, the super high-speed 5G bands primarily offered by Verizon.</p>
+<p>This immediately raises the question of which modem is “better”, and I suspect the answer requires nuance. Apple’s C1 and C1X modems are, <a href="https://birchtree.me/blog/battery-test-iphone-air-a-bunch-of/">by all accounts</a>, noticeably more power efficient than Qualcomm’s. An iPhone with an Apple C-series modem should get longer battery life than an otherwise identical iPhone with a Qualcomm modem. The obvious advantage to the Qualcomm modems is support for 5G mmWave, the super high-speed 5G bands primarily offered by Verizon.</p>
 
 <p>Personally, I don’t care about mmWave speeds. It literally makes no difference in my experience compared to regular 5G speeds. In fact, ever since WWDC a few weeks ago, I’ve had my iPhone 17 Pro set to use LTE instead of 5G. (Settings: Cellular: Cellular Data Options: Voice &amp; Data.) I literally notice no difference in speed and I presume that battery life is improved. Battery life certainly isn’t worse. (I switched to LTE after a friend at WWDC suggested that LTE has better range/penetration in places like airports, especially when you’ve boarded a plane but haven’t taken off yet.)</p>
 
