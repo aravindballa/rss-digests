@@ -7,14 +7,93 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-02T16:14:33Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-02T17:14:07Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>‘Why Is Meta Destroying Its Engineering Organization?’</title>
+	<link rel="alternate" type="text/html" href="https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xbt" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/02/orosz-meta-engineering-culture" />
+	<id>tag:daringfireball.net,2026:/linked//6.43193</id>
+	<published>2026-07-02T17:09:42Z</published>
+	<updated>2026-07-02T17:14:07Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Gergely Orosz, writing at The Pragmatic Engineer (which, <a href="https://daringfireball.net/search/substack">sadly</a>, is a Substack blog):</p>
+
+<blockquote>
+  <p><em>The biggest problem: people stop caring about real work and focus
+on performative work.</em> Let’s check the four ingredients that
+Meta’s leadership has decided to introduce to their workplace:</p>
+
+<ol>
+<li>Tracking the keyboards and mouse clicks of all engineers, where
+legally possible</li>
+<li>Reassign a good chunk of engineers to full-time data labeling</li>
+<li>Let staff know that 10% of them will be laid off</li>
+<li>Have a culture where devs optimize for any and all metrics
+measured during PSC</li>
+<li>Measure token usage as part of PSC</li>
+</ol>
+
+<p>Shake this mix up well, and what do you get? Two things:</p>
+
+<ol>
+<li><p><em>Everyone overuses AI to boost their personal stats.</em> An
+engineering workforce that pretends to work with as much AI,
+and as little human input, as possible. It’s a strange
+incentive where an outage caused by a failure to review code
+properly is not grounds for dismissal, but writing code by hand — instead of having an AI agent write it — could cost you
+your job.</p></li>
+<li><p><em>Every longer-tenured engineer is seeking a new job, or at
+least considering it.</em> Those who have been around at Meta
+longer term have seen enough.</p></li>
+</ol>
+</blockquote>
+
+<p>PSC is “Performance Summary Cycle”, Meta’s stringent cut-throat performance review system. Orosz’s report is extraordinarily well-sourced by current and recently former Meta engineers. Towards the end of the piece, Orosz addresses the “just ask Meta AI to give you the account” <a href="https://daringfireball.net/linked/2026/07/02/meta-ai-ask-for-instagram-accounts">Instagram account hijackings</a>, which he describes, without hyperbole, as “the most embarrassing outage in Meta’s history”. Orosz’s sources report, unsurprisingly, that the breach was the result of AI — AI writing the code, AI reviewing the code, and AI taking over for human technical support.</p>
+
+<p>As for who is responsible, it’s Zuckerberg and AI “genius” Alexandr Wang:</p>
+
+<blockquote>
+  <p>In June that year, Meta acquired a 49% stake in Scale AI to reboot
+its AI efforts for a whopping $14.8B, and brought in Scale AI’s
+CEO, Alexandr Wang to take over Meta’s AI strategy. [...] Based on
+the investment made into Scale AI and Wang, it’s pretty clear that
+Meta — and Zuckerberg — is determined to build a
+state-of-the-art LLM that can be competitive with the latest
+versions of Claude and ChatGPT. But Meta has to start pretty much
+from scratch, and it’s up to Alexandr Wang to deliver. [...]</p>
+
+<p>Zuckerberg has full control over the business, and has made the
+decisions to reallocate a good part of engineering folks to data
+labeling, to roll out tracking software, and to lay off 10% of
+staff when Meta achieved record revenue and profits. As the CEO,
+the buck clearly stops with him.</p>
+
+<p>But it’s hard to unsee that — outside of layoffs — everything
+that Meta is doing is taken from the Scale AI playbook, and that
+surely comes from Wang.</p>
+</blockquote>
+
+<p>It sounds like in addition to running Meta’s “AI strategy”, Zuckerberg has effectively put Wang in charge of engineering at Meta, and Wang is trying to replace human engineers with AI. During the transition, the job of engineers at Meta has changed from writing code to training AI systems that Zuckerberg and Wang aren’t even trying to hide are intended to replace the people. What the Oompa Loompas were to Willy Wonka, Zuckerberg wants AI to be for him.</p>
+
+<p>I’m not sure it’s any more realistic. Meta has always been a bad company. Now it seems like a bad company that’s lost its fucking mind.</p>
+
+<div>
+<a  title="Permanent link to ‘‘Why Is Meta Destroying Its Engineering Organization?’’"  href="https://daringfireball.net/linked/2026/07/02/orosz-meta-engineering-culture">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>MG Siegler Got Banned From WhatsApp for No Reason</title>
 	<link rel="alternate" type="text/html" href="https://spyglass.org/whatsapp-ban/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xbs" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/02/mg-siegler-whatsapp-ban" />
 	<id>tag:daringfireball.net,2026:/linked//6.43192</id>
 	<published>2026-07-02T16:13:13Z</published>
-	<updated>2026-07-02T16:13:14Z</updated>
+	<updated>2026-07-02T16:18:10Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -58,6 +137,8 @@ is Meta no longer giving a shit about the product or the
 experience, just the monetization. They’re ready to fucking <a href="https://spyglass.org/meta-apple-ai-strategy/">milk
 it</a>.</p>
 </blockquote>
+
+<p>Oh, and while MG was (is?) banned from his WhatsApp account, messages from other people go through to his account with no indication to the sender that he can’t see them. What a fucking system.</p>
 
 <div>
 <a  title="Permanent link to ‘MG Siegler Got Banned From WhatsApp for No Reason’"  href="https://daringfireball.net/linked/2026/07/02/mg-siegler-whatsapp-ban">&nbsp;★&nbsp;</a>
@@ -2230,54 +2311,6 @@ C. Clarke, and the Making of a Masterpiece</em>)</li>
 
 <div>
 <a  title="Permanent link to ‘Criterion Collection: The Complete Kubrick’"  href="https://daringfireball.net/linked/2026/06/22/criterion-collection-the-complete-kubrick">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Dickover of the Week: The Observer</title>
-	<link rel="alternate" type="text/html" href="https://bvsveera.net/observer-dickover/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xai" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/22/dickover-the-observer" />
-	<id>tag:daringfireball.net,2026:/linked//6.43146</id>
-	<published>2026-06-22T17:12:42Z</published>
-	<updated>2026-06-22T23:56:28Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Bharat Iyer:</p>
-
-<blockquote>
-  <p>Let’s be real … if The Observer actually cared at all about your
-privacy, they wouldn’t share your personal data with ONE HUNDRED
-AND SIXTY ONE FUCKING PARTNERS. [...]</p>
-
-<p>Imagine if, upon purchasing <a href="https://en.wikipedia.org/wiki/The_Observer">a copy of the Sunday newspaper in
-1791</a>, you were followed around town by 161 men, taking note of
-everything you do throughout the day. Makes you wonder who’s
-really doing the observing.</p>
-</blockquote>
-
-<p>It’s bad enough to include 161 third-party trackers on a website. But it’s downright dystopic to declare your 161 third-party “partners” under the heading “We Care About Your Privacy”. That’s like beating someone in the head with a baseball bat while telling them “We care about your skull”, literally adding insult to injury.</p>
-
-<p>Yours truly back in 2020, “<a href="https://daringfireball.net/2020/09/online_privacy_real_world_privacy">Online Privacy Should Be Modeled on Real-World Privacy</a>”:</p>
-
-<blockquote>
-  <p>Imagine if you were out shopping, went into a drug store, examined
-a few bottles of sunscreen, but left the store without purchasing
-anything. And then immediately a stranger approached you with an
-offer for sunscreen. Such an encounter would trigger a fight or
-flight reaction — the needle on your innate creepometer would
-shoot right into the red. (Not to mention that if real-world
-tracking were like online tracking, you’d get the same creepy
-offer to buy sunscreen <em>even if you just bought some</em>.
-Tracking-based offers are both creepy, and, at times, annoyingly
-stupid.)</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘Dickover of the Week: The Observer’"  href="https://daringfireball.net/linked/2026/06/22/dickover-the-observer">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
