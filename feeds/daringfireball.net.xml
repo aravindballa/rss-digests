@@ -7,7 +7,48 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-02T19:38:46Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-02T20:32:32Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>I Repeat Myself (5G vs. LTE Edition)</title>
+	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2022/03/23/5g-battery-life" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xbx" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/02/i-repeat-myself" />
+	<id>tag:daringfireball.net,2026:/linked//6.43197</id>
+	<published>2026-07-02T20:32:31Z</published>
+	<updated>2026-07-02T20:32:32Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Back in March 2022, Nicole Nguyen of The Wall Street Journal <a href="https://www.wsj.com/articles/5g-drains-your-iphones-battery-heres-what-you-can-do-about-it-11647716969?st=dejaoo8lf1p8v2w&amp;reflink=desktopwebshare_twitter">compared the battery life effects of 5G vs. LTE</a> by streaming videos on several iPhone and iPad models. She found that using LTE saved significant battery life. (It would be nice if someone re-ran similar tests on more recent devices — just because it was true with the iPhone 13 Pro doesn’t mean it’s true with current models. But I’ll bet it is.)</p>
+
+<p>Anyway, linking to her report, I wrote:</p>
+
+<blockquote>
+  <p>With both regular 5G and LTE, I typically get between 50–100 Mbps
+down — and I see a regular 5G connection far far more often than
+I do 5G ultra wideband. I don’t see any practical advantage to
+regular 5G compared to LTE. Those crazy-fast ultra-wideband
+download speeds are like owning a car that can go 200 MPH. So I’m
+just going to set my iPhone to use LTE all the time and save
+battery life. I’ll turn 5G Auto back on if I ever run into a
+situation where my LTE signal seems weak or slow.</p>
+</blockquote>
+
+<p>Which rings several bells with my “<a href="https://daringfireball.net/2026/07/a_tale_of_two_modems">A Tale of Two Modems</a>” post yesterday, regarding <a href="https://appleinsider.com/articles/26/06/30/iphone-18-pro-leaks-qualcomm-or-apple-c2-model-a20-details-camera-upgrades">an AppleInsider report</a> that data stolen from Apple supplier Tata Electronics shows that Apple is going to use Qualcomm’s mmWave-supporting cellular modems only in models of the iPhone 18 Pro sold in the U.S.</p>
+
+<p>But so what happened to my LTE setting? If I switched to LTE in 2022 because the battery life savings were noticeable and 5G’s faster download speeds were not, how’d I wind up back on 5G in 2026 and switching to LTE again only earlier this month?</p>
+
+<p>I don’t remember exactly, to be honest. I do know that I never switched back to 5G because I found LTE slow. As best I can remember, I switched back at some point when testing a new iPhone and ... just stopped thinking about it and never switched back to full-time LTE. But I’m on LTE again now, and I’m not switching back unless (a) I do find LTE slow, or (b) someone publishes results from a testing showing that 5G no longer consumes more battery power than LTE on current iPhone models.</p>
+
+<p>Oh, and to that point — a few readers emailed to say that one reason to prefer 5G, especially if you’re within range of a mmWave tower, is if you’re sharing your cellular connection to a Mac (or multiple Macs) via hotspot tethering. Yes, for sure. Another point that’s been raised is that 5G is supposedly better than LTE in crowded/congested situations like a stadium or arena full of people. Maybe? But in both cases, you know those situations when you encounter them, and you can use LTE all day most days and just turn on 5G when you’re using your iPhone as a hotspot, or when you find yourself in a crowded stadium. I’m saying try turning 5G off day-to-day, not telling you to sign up for a cellular plan without 5G (which I’m not even sure you can buy anymore).</p>
+
+<div>
+<a  title="Permanent link to ‘I Repeat Myself (5G vs. LTE Edition)’"  href="https://daringfireball.net/linked/2026/07/02/i-repeat-myself">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Truth Social Is Still Just Trump’s Blog</title>
 	<link rel="alternate" type="text/html" href="https://daringfireball.net/2025/06/truth_social_is_just_trumps_blog" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xbw" />
@@ -125,7 +166,7 @@ limousine or presidential helicopter.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/02/claude-fable-and-kayfabe" />
 	<id>tag:daringfireball.net,2026:/linked//6.43194</id>
 	<published>2026-07-02T18:29:01Z</published>
-	<updated>2026-07-02T19:13:15Z</updated>
+	<updated>2026-07-02T19:55:39Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -156,7 +197,7 @@ Government and strengthen America’s leadership in AI.</p>
 
 <p>I don’t think a goddamn thing happened in the last two weeks, and if anything did happen, it sure as shit wasn’t anything that Lutnick understood. There should be real government oversight regulating frontier AI, but this is just pantomime performative nonsense.</p>
 
-<p>The entire Trump 2.0 term (and much of the 1.0 term before it) can be summarized with a single word: <a href="https://www.merriam-webster.com/dictionary/kayfabe">kayfabe</a>, “the tacit agreement between professional wrestlers and their fans to pretend that overtly staged wrestling events, stories, characters, etc., are genuine”. Trumpism and MAGA is entirely about the belief system that everything is bullshit. Everyone is crooked, every supposed fact is merely an opinion, and everything is ultimately subject to the whims of whoever has power. The fix is not just in, it’s always been in, and always will be in. What Trump says is true is true because he’s the fucking president. Trump himself <a href="https://www.nbcnews.com/politics/donald-trump/read-transcript-president-donald-trump-interviewed-nbc-news-meet-press-rcna348508">asserts that “evidence” is what he claims to see</a> — not what he can actually show for others to see. If Trump says we won the war he needlessly started with Iran, then we won it. If Trump says there’s a peace deal, then there’s a peace deal. The FIFA “peace prize” Trump was awarded last year was no more legitimate or earned or <em>meaningful</em> than a WWE championship belt. It’s pro wrestling not just writ large, but (alas for the entire world) writ very large.</p>
+<p>The entire Trump 2.0 term (and much of the 1.0 term before it) can be summarized with a single word: <a href="https://www.merriam-webster.com/dictionary/kayfabe">kayfabe</a>, “the tacit agreement between professional wrestlers and their fans to pretend that overtly staged wrestling events, stories, characters, etc., are genuine”. Trumpism and MAGA is entirely about the belief system that everything is bullshit. Everyone is crooked, every supposed fact is merely an opinion, and everything is ultimately subject to the whims of whoever has power. The fix is not just in, it’s always been in, and always will be in. What Trump says is true is true because he’s the fucking president. Trump himself <a href="https://www.nbcnews.com/politics/donald-trump/read-transcript-president-donald-trump-interviewed-nbc-news-meet-press-rcna348508">asserts that “evidence” is what he claims to see</a> — not what he can actually show for others to see. If Trump says we won the war he needlessly started with Iran, then we won it. If Trump says there’s a peace deal <a href="https://x.com/HunterBiden/status/2072738034311745948">38 times</a>, then there have been 38 peace deals. The FIFA “peace prize” Trump was awarded last year was no more legitimate or earned or <em>meaningful</em> than a WWE championship belt. It’s pro wrestling not just writ large, but (alas for the entire world) writ very large.</p>
 
 <p>When you view Trump and his administration through the prism of kayfabe, it doesn’t make actual sense, but you can see how they think it makes sense.</p>
 
@@ -353,7 +394,7 @@ offload important functions to AI.</p>
 	<link rel="shorturl" href="http://df4.us/xbq" />
 	<id>tag:daringfireball.net,2026://1.43190</id>
 	<published>2026-07-01T23:26:45Z</published>
-	<updated>2026-07-02T13:06:01Z</updated>
+	<updated>2026-07-02T20:07:49Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -395,6 +436,8 @@ it looks as though the company will offer mmWave support to iPhone
 <p>On the surface it sounds like a tradeoff — that Qualcomm’s modems consume more battery but deliver higher download speeds. But in practice that tradeoff only comes into play if you’re a Verizon user and happen to be within 50 meters or so of a mmWave-equipped cell tower, and that crazy high bandwidth doesn’t really make anything you do with your phone any faster than regular 5G (or LTE, I say). In reality I’d rather have an Apple C-series modem — I’d get better battery efficiency all the time, the same network performance almost all the time, and I don’t care at all about the rare times when I could get the crazy-high-speed mmWave bandwidth that Apple’s C1 and C1X modems don’t support (and perhaps still won’t support with the upcoming C2). Cellular download speed and reception is nearly a solved problem for my needs. Battery life is not.</p>
 
 <p>So why wouldn’t Apple just use the C2 everywhere, including the U.S.? I suspect Apple is hoist not with their own, but with Verizon’s petard here. Faster-than-you-practically-need download speeds are a carrier bragging point. Longer battery life and plenty-fast-enough download speeds are an Apple bragging point. Verizon — and to a lesser extent, AT&amp;T — spent a fortune building out mmWave networks. They don’t want to sell flagship phones that don’t support them. Apple’s flagship iPhones have supported those networks since 2020. Remember <a href="https://x.com/OnlyTechAE/status/1316529781777760256">how many times Tim Cook and Verizon’s CEO uttered “5G”</a> at the Covid era iPhone 12 event? If Zivkovic’s analysis of this stolen data from Tata is correct, and Apple is going to use Qualcomm’s models <em>only</em> in iPhone 18 Pro models sold in the U.S., I think the reason why is Verizon and AT&amp;T bragging points, not any practical user benefit. And the result <em>may</em> be that U.S. iPhone 18 Pro models get somewhat worse battery life than those in the rest of the world.</p>
+
+<p><strong>Previously:</strong> <a href="https://daringfireball.net/linked/2022/03/23/5g-battery-life">Nicole Nguyen Tests 5G’s Effect on Battery Life on iPhones and iPads</a> (March 2022).</p>
 
     ]]></content>
   <title>★ A Tale of Two Modems</title></entry><entry>
@@ -2314,34 +2357,6 @@ case. The more concrete the problem, the more helpful it is.</p>
 
 <div>
 <a  title="Permanent link to ‘The Talk Show: ‘Perp Walk for Selfies’’"  href="https://daringfireball.net/linked/2026/06/23/the-talk-show-450">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Ultra-Wide 0.5× Lenses Have Utility Beyond ‘Photography’</title>
-	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2026/06/22/gurman-iphone-air-2" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xam" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/22/ultra-wide-05x-lenses-have-utility-beyond-photography" />
-	<id>tag:daringfireball.net,2026:/linked//6.43150</id>
-	<published>2026-06-23T01:21:38Z</published>
-	<updated>2026-06-23T16:20:17Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Some follow-up thoughts on <a href="https://daringfireball.net/linked/2026/06/22/gurman-iphone-air-2">my earlier piece</a>, regarding the second-gen iPhone Air’s additional camera lens being a 0.5× ultra-wide, not a 3× or 4× telephoto:</p>
-
-<p>Ultimately, it’s the fact that I use my 0.5× lens not so much for photography but for scanning documents and notes, and taking “What is this?” images of things in my hand, that explains its utility compared to a telephoto. I think of photography as meaning, roughly, “I’m trying to capture an aesthetically pleasing image that I intend to keep in perpetuity, to enjoy and remember for years to come.”</p>
-
-<p>A telephoto is only good for photography, in that sense. The ultra-wide lens is a tool with additional utility beyond capturing photos you want to keep in any artistic or emotional sense. You can always grit your teeth and use digital zoom if you don’t have a telephoto, but you can’t fake going wider or, importantly, closer. The minimum focal distance of the iPhone 17 Pro 1× lens is 20 cm. The minimum focal distance of the iPhone Air 1× lens is 15 cm. Those extra 5 cm make a difference, but the iPhone Pro’s 0.5× lens has a minimum focal distance of just 2 cm. It can focus on pretty much anything you put in front of it. The iPhone Air’s 1× lens can’t do that. With Apple Intelligence and Siri AI, taking macro photos of objects and text, simply to ask Siri or another chatbot about them, is increasingly important.</p>
-
-<p>One reader, who previously owned iPhone Pro models, but bought an Air last year, emailed to say: “It would be <em>nice</em> to have the telephoto; it’s <em>annoying</em> not having the ultra wide. When I was buying it I thought I’d miss the telephoto but actually it’s the other way around. If they add ultra wide it will be an instant upgrade for me.”</p>
-
-<p>I think that sentiment sums it up.</p>
-
-<div>
-<a  title="Permanent link to ‘Ultra-Wide 0.5× Lenses Have Utility Beyond ‘Photography’’"  href="https://daringfireball.net/linked/2026/06/22/ultra-wide-05x-lenses-have-utility-beyond-photography">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
