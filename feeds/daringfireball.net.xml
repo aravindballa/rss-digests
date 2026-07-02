@@ -7,14 +7,111 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-02T21:31:05Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-02T22:30:40Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>April Report From Ookla: ‘A Return to mmWave 5G’</title>
+	<link rel="alternate" type="text/html" href="https://www.ookla.com/articles/a-return-to-mmwave-5g" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xc0" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/02/ookla-report-5g-mmwave" />
+	<id>tag:daringfireball.net,2026:/linked//6.43200</id>
+	<published>2026-07-02T22:30:40Z</published>
+	<updated>2026-07-02T22:30:40Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Mike Dano, in a long (<em>too</em> long, I say) report for Ookla (makers of the nifty <a href="https://apps.apple.com/us/app/speedtest-by-ookla/id300704847">Speedtest app</a>):</p>
+
+<blockquote>
+  <p>Further, few other countries in the world followed in the mmWave
+footsteps of the U.S., with international spectrum regulators
+instead putting a focus on releasing mid-band spectrum for 5G.</p>
+
+<p>However, mmWave networks haven’t disappeared. New drive test data
+from Ookla’s RootMetrics, coupled with crowdsourced information
+from Ookla’s Speedtest Insights, shows the ongoing growth of
+mmWave 5G networks in the U.S., as well as the remarkable
+performance characteristics of those systems.</p>
+
+<ul>
+<li><p>Across all of RootMetrics’ testing in the second half of 2025,
+in both urban (metro) and rural (state) areas, mmWave showed up
+in 2.2% of Verizon’s samples. For AT&amp;T, that figure was 0.2%.
+For T-Mobile, that figure was almost 0% (and as a result, this
+report will mainly focus on Verizon and AT&amp;T).</p></li>
+<li><p>Verizon’s mmWave connections showed up in 75 markets in the
+first half of 2024 (out of a total of 125 markets), a figure
+that rose to 91 in the second half of 2025. That’s almost triple
+the number of markets where RootMetrics recorded AT&amp;T mmWave
+systems in the second half of 2025. 5G mmWave from T-Mobile,
+meanwhile, only showed up in 1 market covered by RootMetrics
+technicians during the second half of 2025.</p></li>
+<li><p>Most mmWave samples were obtained within 150 meters (about 500
+feet) of a mmWave transmission site, reflecting the spectrum’s
+relatively diminutive coverage area. However, download speeds
+over mmWave connections reached beyond 1 Gbps in some markets.</p></li>
+<li><p>Denver, Atlanta, Philadelphia, and Boston are top mmWave cities
+for Verizon. Roughly 60% of RootMetrics’ outdoor testing
+samples landed on Verizon’s mmWave in these cities in the
+second half of 2025.</p></li>
+</ul>
+</blockquote>
+
+<p>So mmWave is almost entirely a U.S. thing, and within the U.S. mostly a Verizon thing and sort of an AT&amp;T thing.</p>
+
+<p><strong>Previously:</strong> A year ago <a href="https://daringfireball.net/linked/2025/03/21/ookla-16e-c1-modem-results">I linked to</a> an Ookla <a href="https://www.ookla.com/articles/apples-c1-modem-early-adopters">report on the iPhone 16e’s cellular performance</a>, it being the first iPhone to ship with an Apple C-series modem. Performance was very good!</p>
+
+<div>
+<a  title="Permanent link to ‘April Report From Ookla: ‘A Return to mmWave 5G’’"  href="https://daringfireball.net/linked/2026/07/02/ookla-report-5g-mmwave">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Introducing the Safari MCP Server for Web Developers</title>
+	<link rel="alternate" type="text/html" href="https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xbz" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/02/safari-mcp" />
+	<id>tag:daringfireball.net,2026:/linked//6.43199</id>
+	<published>2026-07-02T21:55:31Z</published>
+	<updated>2026-07-02T21:55:31Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Saron Yitbarek, writing on the WebKit blog, with a nice post-WWDC surprise:</p>
+
+<blockquote>
+  <p>In <a href="https://developer.apple.com/safari/technology-preview/">Safari Technology Preview 247</a>, we’re introducing the
+Safari MCP server — a Model Context Protocol server for web
+developers that makes your web development and debugging workflow
+faster and more powerful. We know agents are increasingly integral
+to the coding process and the Safari MCP server gives your agent
+the ability to know how your code actually renders in the browser
+by connecting it to a Safari browser window.</p>
+
+<p>Any MCP-compatible client can connect to the Safari MCP server. By
+connecting your agent to a Safari browser window, your agent can
+emulate what your users experience, giving it the information it
+needs to debug more autonomously, like access to the DOM, network
+requests, screenshots, and console output.</p>
+</blockquote>
+
+<p><a href="https://www.anthropic.com/news/model-context-protocol">MCP is Anthropic’s open protocol</a>, so it was designed for Claude, but all sorts of other tools use it too — Gemini CLI, Cursor, GitHub Copilot, and more. MCP really is open, not “open”.</p>
+
+<div>
+<a  title="Permanent link to ‘Introducing the Safari MCP Server for Web Developers’"  href="https://daringfireball.net/linked/2026/07/02/safari-mcp">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>EveryMac Turns 30</title>
 	<link rel="alternate" type="text/html" href="https://everymac.com/whatsnew/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xby" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/02/everymac-turns-30" />
 	<id>tag:daringfireball.net,2026:/linked//6.43198</id>
 	<published>2026-07-02T21:31:04Z</published>
-	<updated>2026-07-02T21:31:05Z</updated>
+	<updated>2026-07-02T21:52:25Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -30,7 +127,7 @@ original 128k to the current line. Thank you very much for your
 support through the years.</p>
 </blockquote>
 
-<p>Daring Fireball turns 24 next month, which doesn’t sound that much older than 30. But the way things work (in my mind at least) is that sites that are still around but were established years prior to my starting Daring Fireball are the real “old guard”. I still feel like DF is a newcomer next a site like EveryMac. 1996 for chrissakes. Steve Jobs wasn’t even back at Apple yet. What a great run it’s been and continues to be for EveryMac.</p>
+<p>Daring Fireball turns 24 next month, which doesn’t sound that much younger than 30. But the way things work (in my mind at least) is that sites that are still around but were established years prior to my starting Daring Fireball are the real “old guard”. I still feel like DF is a newcomer next to a site like EveryMac. 1996 for chrissakes. Steve Jobs wasn’t even back at Apple yet. What a great run it’s been and continues to be for EveryMac.</p>
 
 <p>Michael Tsai (whose eponymous blog is the <a href="https://mjtsai.com/blog/archives/">same age</a> as Daring Fireball) <a href="https://mjtsai.com/blog/2026/07/02/everymac-at-30/">asked EveryMac proprietor Brock Kyle how it started</a>. The final line of his answer: “I miss the ethos of those days.”</p>
 
@@ -2275,47 +2372,6 @@ technically speaking, the clipboard is not empty.</p>
 
 	]]></content>
   </entry><entry>
-	<title>WebKit in Safari 27 Beta</title>
-	<link rel="alternate" type="text/html" href="https://webkit.org/blog/17967/news-from-wwdc26-webkit-in-safari-27-beta/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xaq" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/24/webkit-safari-27" />
-	<id>tag:daringfireball.net,2026:/linked//6.43154</id>
-	<published>2026-06-24T19:10:27Z</published>
-	<updated>2026-06-25T16:19:16Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>The WebKit blog (back during WWDC):</p>
-
-<blockquote>
-  <p>If you look through the lists of features and fixes in Safari 27,
-you’ll notice that, although there are 58 brand-new features and
-525 fixes — the largest pile of fixes in any Safari release in
-recent memory — most of what is released is not about new things.</p>
-
-<p>Most of this work has been about existing features behaving more
-correctly, handling more edge cases, and fitting together with
-other features the way you’d expect. We committed our time to
-increasing quality — that’s the story of this release and the
-year that led to it. [...]</p>
-
-<p>If something has been bothering you, test it in Safari 27 beta.
-You might be pleasantly surprised. And if it hasn’t been fixed
-yet, <a href="https://bugs.webkit.org/">file a bug report</a>, or add a comment to an existing issue with
-a concrete scenario, a link to a real site, or a reduced test
-case. The more concrete the problem, the more helpful it is.</p>
-</blockquote>
-
-<p>Sounds like it’s a bit of a Snow Leopard year for WebKit, too, not just the OSes.</p>
-
-<div>
-<a  title="Permanent link to ‘WebKit in Safari 27 Beta’"  href="https://daringfireball.net/linked/2026/06/24/webkit-safari-27">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="http://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026" />
 	<link rel="shorturl" href="http://df4.us/xap" />
@@ -2339,26 +2395,6 @@ case. The more concrete the problem, the more helpful it is.</p>
 
 	]]></content>
 	<title>[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.</title></entry><entry>
-	<title>Designed in California: An Apple History Podcast</title>
-	<link rel="alternate" type="text/html" href="https://designed.fm/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xao" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/24/designed-in-california" />
-	<id>tag:daringfireball.net,2026:/linked//6.43152</id>
-	<published>2026-06-24T15:17:18Z</published>
-	<updated>2026-06-24T15:17:19Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Kickstarter campaign from Jason Snell and Myke Hurley to fund a 50-episode narrative podcast on Apple’s 50-year history. (Actually, with stretch goals, more than 50 episodes.) The campaign has already hit its primary funding goal but there’s a week left in the campaign and more stretch goals to hit. Jason and I spoke at length about Designed in California on <a href="https://daringfireball.net/thetalkshow/2026/06/23/ep-450">the latest episode of my podcast</a>, and like I said there — if you enjoy podcasts like The Talk Show and <a href="https://relay.fm/upgrade">Upgrade</a> and aren’t backing this campaign, you’re not hooked up right. Really looking forward to this when episodes start dropping.</p>
-
-<div>
-<a  title="Permanent link to ‘Designed in California: An Apple History Podcast’"  href="https://daringfireball.net/linked/2026/06/24/designed-in-california">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/06/the_talk_show_live_from_wwdc_2026" />
 	<link rel="shorturl" href="http://df4.us/x9n" />
