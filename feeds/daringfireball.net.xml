@@ -7,7 +7,127 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-03T17:06:40Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-03T21:24:05Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job" />
+	<link rel="shorturl" href="http://df4.us/xc1" />
+	<id>tag:daringfireball.net,2026://1.43201</id>
+	<published>2026-07-03T21:24:05Z</published>
+	<updated>2026-07-03T21:24:05Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">Felix Rieseberg, quite obviously, is the answer to the question why Claude is an Electron app. It’s like wondering why all the screws in a building were hammered into the walls, and then finding out that the guy who oversaw construction founded and co-owns the world’s biggest hammer manufacturer.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>Anthropic released the first version of the Claude “desktop” app for MacOS in October 2024 — an Electron clunker that <a href="https://x.com/sdw/status/1852065949312233854">did not impress UI designers</a>. When it came out, <a href="https://daringfireball.net/linked/2024/10/31/anthropic-mac-app-electron-turd">I wrote</a>:</p>
+
+<blockquote>
+  <p><a href="https://openai.com/chatgpt/download/">ChatGPT’s native Mac app</a>, on the other hand, is a truly
+native Mac app. It looks like a Mac app and feels like a Mac app
+because it really is a Mac app. I’ve liked it ever since it
+launched <a href="https://www.cultofmac.com/news/chatgpt-finally-gets-official-mac-app">back in May</a>, and it keeps getting better. And
+I keep using it more and more as my go-to resource for answering
+questions.</p>
+
+<p>I asked Claude, “What is the best way to engineer a native Mac
+app? What frameworks and developer tools should one use if the
+goal is a great Mac experience?” <a href="https://daringfireball.net/misc/2024/10/claude-mac-why.png">Claude’s answer</a>
+started by positing it as a decision between SwiftUI and AppKit.
+Perhaps Anthropic’s Mac engineers should have asked Claude this
+same question before they built this turd of an Electron app.</p>
+</blockquote>
+
+<p>In March of this year, linking to Anthropic’s announcement that Claude Code and Claude Cowork can take control of your Mac to accomplish agentic tasks, <a href="https://daringfireball.net/linked/2026/03/24/claude-control-mac">I returned to the same question</a>:</p>
+
+<blockquote>
+  <p>The Claude Mac client itself remains a lazy Electron clunker. If
+Claude Code is so good I don’t get why they don’t prove it by
+using it to make an even halfway decent native Mac app.</p>
+</blockquote>
+
+<p>I’m not the only one who has pondered this. Drew Breunig wrote “<a href="https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html">Why is Claude an Electron App?</a>” in February this year:</p>
+
+<blockquote>
+  <p>On the surface, this ability should render Electron’s benefits
+obsolete! Rather than write one web app and ship it to each
+platform, we should write <em>one spec and test suite</em> and use coding
+agents to ship <em>native</em> code to each platform. If this ability is
+real and adopted, users get snappy, performant, native apps from
+small, focused teams serving a broad market.</p>
+
+<p>But we’re still leaning on Electron. Even Anthropic, one of the
+leaders in AI coding tools, who keeps publishing flashy agentic
+coding achievements, still uses Electron in the Claude desktop
+app. And it’s slow, buggy, and bloated app.</p>
+
+<p><em>So why are we still using Electron and not embracing the
+agent-powered, spec driven development future?</em></p>
+
+<p>For one thing, coding agents are <em>really</em> good at the first 90% of
+dev. But that last bit — nailing down all the edge cases and
+continuing support once it meets the real world — remains hard,
+tedious, and requires plenty of agent hand-holding. [...]</p>
+
+<p>For now, Electron still makes sense. Coding agents are amazing.
+But the last mile of dev and the support surface area remains a
+real concern.</p>
+</blockquote>
+
+<p>I’m with Breunig up until the point where he accepts coding agents struggling with the final 10 percent as a justification for choosing Electron to create a Mac app. Plenty of people — individuals and teams alike — are using Claude Code to create terrific new native Mac apps. Just among my friends, <a href="https://misterplimsoll.app/">Glenn Fleishman</a>, <a href="https://lexfriedman.com/gnome/">Lex Friedman</a>, and <a href="https://sixcolors.com/post/2026/06/road-to-wwdc-2026-whats-a-developer/">Jason Snell<s>man</s></a>, have all in recent months used not just AI coding assistants in general, but Claude Code specifically, to create genuinely native Mac apps that meet their own personal high standards for Mac-assedness, forged through decades of literally professional Mac snobbery. A comprehensive catalog of Mac-assed apps made with the assistance of Claude Code, would, I suspect, be remarkably long.</p>
+
+<p>The struggle with the last 10 percent is unrelated to AI coding. It’s the nature of all software engineering. There’s a well-known adage that Wikipedia names the “<a href="https://en.wikipedia.org/wiki/Ninety–ninety_rule">Ninety-Ninety Rule</a>”, attributed to Tom Cargill of Bell Labs:</p>
+
+<blockquote>
+  <p>The first 90 percent of the code accounts for the first 90 percent
+of the development time. The remaining 10 percent of the code
+accounts for the other 90 percent of the development time.</p>
+</blockquote>
+
+<p>Cargill’s mathematically humorous formulation resonates because it not only explains why the final 10 percent consumes half the time, but also why software projects tend to take twice as long as expected. This universal truth holds whether the code is human-written, AI-generated, or a mix of both.</p>
+
+<p>Breunig gets closer to the truth in a postscript, linking to <a href="https://news.ycombinator.com/item?id=47104973">the Hacker News thread discussing his post</a>. The top-rated comment in the HN thread is from <a href="https://borischerny.com/">Boris Cherny</a>, who works at Anthropic on the Claude Code team. <a href="https://news.ycombinator.com/item?id=47106368">Cherny wrote</a>:</p>
+
+<blockquote>
+  <p>Boris from the Claude Code team here.</p>
+
+<p>Some of the engineers working on the app worked on Electron back
+in the day, so preferred building non-natively. It’s also a nice
+way to share code so we’re guaranteed that features across web
+and desktop have the same look and feel. Finally, Claude is
+great at it.</p>
+
+<p>That said, engineering is all about tradeoffs and this may change
+in the future!</p>
+</blockquote>
+
+<p>I would rephrase the guarantee that “features across web and desktop have the same look and feel” as guaranteeing that the Mac app is restrained by the limits of the web and cut off from the breadth of idiomatically native functionality provided by the Mac’s native frameworks. Electron guarantees that an app feels just as wrong on all platforms. But the more relevant tidbit is this sentence: “Some of the engineers working on the app worked on Electron back in the day, so preferred building non-natively.” So it’s not that <em>Claude</em> somehow prefers Electron, but that “some of the engineers” at Anthropic do.</p>
+
+<p><em>Some</em> is doing some heavy lifting there, given that “some of the engineers” includes <a href="https://felixrieseberg.com/about-me/">Felix Rieseberg</a>, currently Anthropic’s engineering lead for Claude Cowork and Claude Code Desktop, and previously engineering lead for the Claude apps for MacOS and Windows. Rieseberg didn’t merely “work on Electron back in the day”. He is one of the principal people responsible for creating Electron, and <a href="https://www.electronjs.org/governance">remains today one of three members of the Electron project’s Administrative Working Group</a> that “oversees the entire governance and project”. He literally <a href="https://www.safaribooksonline.com/library/view/introducing-electron/9781491996041/?ref=felixrieseberg.com">wrote <em>the</em> book on Electron</a>.</p>
+
+<p>Felix Rieseberg, quite obviously, is the answer to the question why Claude is an Electron app. It’s like wondering why all the screws in a building were hammered into the walls, and then finding out that the guy who oversaw construction founded and co-owns the world’s biggest hammer manufacturer. Windows uses Philips head screws, Linux uses hex screws, and MacOS requires Torx (<a href="https://www.nytimes.com/wirecutter/reviews/torx-screws-review/">of course</a>) — but a hammer works the same way with all screws. That’s Electron. That’s Rieseberg’s baby.</p>
+
+<p>Rieseberg, it turns out, hasn’t only had a hand in Claude being an Electron app. Per both <a href="https://felixrieseberg.com/about-me/">his personal home page</a> and <a href="https://www.linkedin.com/in/felixrieseberg/">LinkedIn profile</a>, before joining Anthropic he spent over two years as the engineering manager for the desktop team at Notion, <a href="https://www.notion.com/desktop">whose client for Mac</a> is a massive 518 MB Electron app and a <a href="https://www.reddit.com/r/macapps/comments/1g153yc/anyone_here_using_the_notion_app_it_seems_like_it/">notoriously</a> non-native experience.<sup id="fnr1-2026-07-03"><a href="#fn1-2026-07-03">1</a></sup> Before Notion, Rieseberg spent 2016–2021 “as a Senior Staff Engineer and Engineering Manager at Slack, where I got to support a team of amazing C++ engineers building the cross-platform desktop framework Electron — as well as Slack’s desktop apps for macOS, Windows, and Linux.”<sup id="fnr2-2026-07-03"><a href="#fn2-2026-07-03">2</a></sup></p>
+
+<p>Finding out that one guy — who is a senior Electron maintainer — has led the teams for the desktop clients for Slack, Notion, and now Claude is like discovering that it was one guy — whose family business was a distillery — who helmed the Titanic, piloted the Hindenburg, and then served as air traffic controller for Amelia Earhart.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn1-2026-07-03">
+<p>Notion, it’s worth pointing out, has perhaps seen the error of their ways. Apple <a href="https://www.macrumors.com/2026/06/12/notion-is-migrating-to-swiftui/">prominently featured Notion</a> during the <a href="https://developer.apple.com/videos/play/wwdc2026/102">Platforms State of the Union technical keynote</a> at WWDC last month, saying, “And apps that previously used cross-platform or web technologies like Notion are migrating their user interface to SwiftUI because they want a level of performance and UI consistency that other technologies can’t deliver.” Perhaps Claude will similarly seek to wash the Electron stink off the Claude app eventually. I suspect an Electron codebase is like sap, though — sticky, dirty, and harder to wash off the longer you wait.&nbsp;<a href="#fnr1-2026-07-03"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
+</li>
+
+<li id="fn2-2026-07-03">
+<p>Before getting promoted to engineering manager in charge of all of Slack’s “desktop” apps, Rieseberg started at Slack <a href="https://www.linkedin.com/in/felixrieseberg/">as engineering team lead for Windows</a>, which offers an inkling as to his platform taste.&nbsp;<a href="#fnr2-2026-07-03"  class="footnoteBackLink"  title="Jump back to footnote 2 in the text.">&#x21A9;&#xFE0E;︎</a></p>
+</li>
+
+</ol>
+</div>
+
+    ]]></content>
+  <title>★ Claude’s Criminally Bad Electron Mac App Is an Inside Job</title></entry><entry>
 	<title>April Report From Ookla: ‘A Return to mmWave 5G’</title>
 	<link rel="alternate" type="text/html" href="https://www.ookla.com/articles/a-return-to-mmwave-5g" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xc0" />
@@ -2394,44 +2514,4 @@ technically speaking, the clipboard is not empty.</p>
 </div>
 
 	]]></content>
-	<title>[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/06/the_talk_show_live_from_wwdc_2026" />
-	<link rel="shorturl" href="http://df4.us/x9n" />
-	<id>tag:daringfireball.net,2026://1.43115</id>
-	<published>2026-06-12T23:36:15Z</published>
-	<updated>2026-06-22T16:44:03Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">Recorded in front of a live audience at The California Theatre in San Jose on Tuesday 9 June 2026, special guests Joanna Stern and Nilay Patel join John Gruber to discuss Apple’s announcements at WWDC 2026.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>Recorded in front of a live audience at The California Theatre in San Jose on Tuesday 9 June 2026, special guests Joanna Stern and Nilay Patel join John Gruber to discuss Apple’s announcements at WWDC 2026.</p>
-
-<p><iframe
-    style = "margin-left: -25px;"
-    width="512" height="288"
-    src="https://www.youtube-nocookie.com/embed/osBiD_XxrjQ?si=ANItt5dxnKMKAsn4"
-    title="YouTube video player" frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-</iframe></p>
-
-<p><strong>Immersive 3D video with spatial audio:</strong> Available exclusively in <a href="https://sandwich.vision/">Sandwich Vision</a>’s <a href="https://apps.apple.com/app/theater-the-future-of-cinema/id6502666560">Theater</a> on Vision Pro, available on the App Store. The bandwidth-constrained immersive livestream Tuesday night looked cool; the on-demand version coming in a few days will look amazing.</p>
-
-<p><strong>Audio-only version:</strong> <a href="https://daringfireball.net/thetalkshow/2026/06/14/ep-449">In the usual place</a>, and wherever you get your podcasts.</p>
-
-<p><strong>Sponsored by:</strong></p>
-
-<ul>
-<li><p><a href="https://detailspro.app/talkshow/">DetailsPro</a> — Design with SwiftUI anytime, anywhere: on iPhone, iPad, Mac, or Apple Vision Pro. Get one year of DetailsPro Premium for $26 (normally $59.99) with this link.</p></li>
-<li><p><a href="https://flighty.com/careers">Flighty</a> — The world’s best flight tracker and travel app. Now hiring one Senior Product Designer and one Senior Full-Stack iOS Engineer.</p></li>
-<li><p><a href="https://www.finalist.works/talkshow/">Finalist</a> — A daily planner for iPhone, iPad and Mac, built on proven paper-based planning methods. Use this link to get six months free.</p></li>
-</ul>
-
-<p>Watch on a big screen if you can (real, or virtual). All credit and thanks for the video production go to my friends at <a href="https://sandwich.co/">Sandwich</a>, who, as ever, are nothing short of a joy to work with.</p>
-
-    ]]></content>
-  <title>★ The Talk Show: Live From WWDC 2026</title></entry></feed><!-- THE END -->
+	<title>[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.</title></entry></feed><!-- THE END -->
