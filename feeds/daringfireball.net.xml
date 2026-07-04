@@ -7,7 +7,51 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-04T17:48:47Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-04T19:28:46Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>From the DF Archive: ‘Electron and the Decline of Native Apps’</title>
+	<link rel="alternate" type="text/html" href="https://daringfireball.net/2018/12/electron_and_the_decline_of_native_apps" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xc3" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/04/from-the-archive-electron-decline-of-native-apps" />
+	<id>tag:daringfireball.net,2026:/linked//6.43203</id>
+	<published>2026-07-04T19:28:45Z</published>
+	<updated>2026-07-04T19:28:46Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Yours truly, back in 2018:</p>
+
+<blockquote>
+  <p>I don’t share the depth of their pessimism regarding native apps,
+but Electron is without question a scourge. I think the Mac will
+prove more resilient than Windows, because the Mac is the platform
+that attracts people who care. But I worry.</p>
+
+<p>In some ways, the worst thing that ever happened to the Mac is
+that it got so much more popular a decade ago. In theory, that
+should have been nothing but good news for the platform — more
+users means more attention from developers. The more Mac users
+there are, the more Mac apps we should see. The problem is, the
+users who really care about good native apps — users who know
+<a href="https://developer.apple.com/design/human-interface-guidelines/macos/">HIG</a> violations when they see them, who care about performance,
+who care about Mac apps being <em>right</em> — were mostly already on
+the Mac. A lot of newer Mac users either don’t know or don’t care
+about what makes for a good Mac app.</p>
+</blockquote>
+
+<p>This eight-year-old piece holds up well. My concern was justified, but so too was my lack of defeatist pessimism. Truly native, idiomatically correct Mac-assed Mac apps are resurgent. Electron and is brethren non-native frameworks have not receded, but they haven’t gained further ground. For every Claude (Electron) there’s a ChatGPT (AppKit). I’m seeing more new good Mac apps released today than I was in 2018, and longstanding Mac stalwarts <a href="https://sixcolors.com/post/2026/05/bbedit-16-offers-speed-boosts-and-shortcuts-and-emoji-upgrades/">continue to thrive</a>.</p>
+
+<p>Apple itself is a good example. The Mac version of Journal, first introduced in MacOS 26 Tahoe, is a profound disappointment — not just because of <a href="https://daringfireball.net/linked/2026/06/25/apple-journal-undo-bug">serious bugs</a> but because it’s un-Mac-like in sad ways. You can’t open an entry into its own window, for example. But the brand-new Siri app in the developer betas of MacOS 27 Golden Gate is pretty Mac-like. You can double-click chats in list view to open them in their own windows, for example. (You can’t double-click chats in grid view to open them into windows, though — presumably a bug.) Siri is not a great Mac app but it does feel like a Mac app, and it’s only a 1.0 in its second developer beta. It doesn’t feel like an iOS app running in a Mac window, like Journal does.</p>
+
+<p>The ironic frustration with <a href="https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job">Anthropic’s Claude app being an Electron turd</a> is that Claude and especially Claude Code are so capable of helping to create good native Mac apps. It’s one thing for a big company or organization with cross-platform aspirations but no institutional Mac expertise, like Notion or Slack or Discord, to choose Electron to create their Mac client. It’s another when it’s a company like Anthropic, whose only product’s single most impressive ability is generating programming code, including high-quality AppKit and SwiftUI code for the Mac. To return to my <a href="https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job">hammering-screws-into-the-walls metaphor from yesterday</a>, it’s as though the building into which Anthropic decided to hammer all the screws is a renowned screwdriver factory.</p>
+
+<div>
+<a  title="Permanent link to ‘From the DF Archive: ‘Electron and the Decline of Native Apps’’"  href="https://daringfireball.net/linked/2026/07/04/from-the-archive-electron-decline-of-native-apps">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Fantastical 4.1.15 Adds Calendar Mirroring</title>
 	<link rel="alternate" type="text/html" href="https://flexibits.com/blog/2026/06/double-booked-never-heard-of-it-meet-calendar-mirroring-in-fantastical/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xc2" />
@@ -2444,49 +2488,6 @@ below or by posting and tagging his accounts on <a href="https://x.com/om">X/Twi
 
 	]]></content>
   </entry><entry>
-	<title>Apple Raises Prices on Most Products by 15–25 Percent, but Not iPhones, Watches, or AirPods</title>
-	<link rel="alternate" type="text/html" href="https://www.wsj.com/tech/apple-raises-prices-on-macs-ipads-by-200-or-more-on-some-models-a7463f99?st=zse57R" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xas" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/25/apple-raises-prices" />
-	<id>tag:daringfireball.net,2026:/linked//6.43156</id>
-	<published>2026-06-25T16:58:16Z</published>
-	<updated>2026-06-25T17:16:44Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Rolfe Winkler, reporting for The Wall Street Journal (gift link):</p>
-
-<blockquote>
-  <p>The company briefly took down its Apple Online Store early this
-morning as it typically does when announcing new products. When it
-came back online, the price tags for Mac computers rose roughly
-15% to 20% and iPad prices rose 15% to 25%.</p>
-
-<p>Among the price increases, the base MacBook Air rose $200 to
-$1,299; the base MacBook Pro increased $300 to $1,999; the
-entry-level MacBook Neo increased $100 to $699. The iPad Air
-increased $150 to $749 and the iPad Pro increased $200 to $1,199.</p>
-
-<p>iPhone prices were unchanged, though the company hinted at more
-increases in a statement.</p>
-
-<p>“We have now reached a point where we need to begin raising
-prices,” it said in the statement. “We have never seen a component
-price increase this much, this quickly.”</p>
-</blockquote>
-
-<p><a href="https://www.macrumors.com/2026/06/25/apple-just-increased-prices/">MacRumors has a list of before/after prices</a>. Christ, they even raised the price of the poor Vision Pro by 6 percent, from $3,500 to $3,700.</p>
-
-<p>Anyone who purchased a MacBook Neo for $600 (or $500 with education discount) between March and this morning purchased the lowest-price MacBook Apple has ever sold — and perhaps the lowest-price MacBook they ever will sell.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Raises Prices on Most Products by 15–25 Percent, but Not iPhones, Watches, or AirPods’"  href="https://daringfireball.net/linked/2026/06/25/apple-raises-prices">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="http://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026" />
 	<link rel="shorturl" href="http://df4.us/xap" />
@@ -2502,4 +2503,11 @@ price increase this much, this quickly.”</p>
 
 <p>Cloudflare, Firecrawl, and Resend have already adopted it.</p>
 
-<p>An open protocol authored by WorkOS. <a href="http://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newslette
+<p>An open protocol authored by WorkOS. <a href="http://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026">Read the spec</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS: Agents Need Auth. There’s Now a Spec for It.’"  href="https://daringfireball.net/feeds/sponsors/2026/06/workos_agents_need_auth_theres">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+	<title>[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.</title></entry></feed><!-- THE END -->
