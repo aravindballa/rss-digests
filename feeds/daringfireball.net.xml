@@ -7,14 +7,14 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-04T16:57:23Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-04T17:48:47Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>Fantastical 4.1.15 Adds Calendar Mirroring</title>
 	<link rel="alternate" type="text/html" href="https://flexibits.com/blog/2026/06/double-booked-never-heard-of-it-meet-calendar-mirroring-in-fantastical/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xc2" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/04/fantastical-calendar-mirroring" />
 	<id>tag:daringfireball.net,2026:/linked//6.43202</id>
 	<published>2026-07-04T16:57:22Z</published>
-	<updated>2026-07-04T16:57:23Z</updated>
+	<updated>2026-07-04T17:48:47Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -44,7 +44,7 @@ you’re unavailable.</p>
 
 <p>The icing on the cake is Fantastical’s longstanding “Combine identical events” preference setting. Because I have that setting on, I don’t see duplicate “Dithering” events — one from my Dithering calendar, and another from my family calendar. I just see one event for each scheduled recording, with a striped dual-color swatch that indicates that this one event exists on both calendars. It’s just perfect.</p>
 
-<p><strong>One more thing:</strong> Also somewhat recently, <a href="https://www.youtube.com/watch?app=desktop&amp;v=BcO0R-DfOg4">Fantastical added support for Anthropic’s MCP</a> to integrate your calendaring with Claude Desktop. I don’t really use Claude so this didn’t hit for me personally, but it seems cool enough that it made me at least consider, for a moment, switching from ChatGPT to Claude. Then I remembered <a href="https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job">what the Claude app is like</a>.</p>
+<p><strong>One more thing:</strong> Also somewhat recently, <a href="https://flexibits.com/blog/2026/03/feature-spotlight-introducing-the-fantastical-connector-mcp-for-claude/">Fantastical added support for Anthropic’s MCP</a> to integrate your calendaring with Claude Desktop. David Sparks made a <a href="https://www.youtube.com/watch?app=desktop&amp;v=BcO0R-DfOg4">short demo video that shows it off</a>. I don’t really use Claude so this didn’t hit for me personally, but it seems cool enough that it made me at least consider, for a moment, switching from ChatGPT to Claude. Then I remembered <a href="https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job">what the Claude app is like</a>.</p>
 
 <div>
 <a  title="Permanent link to ‘Fantastical 4.1.15 Adds Calendar Mirroring’"  href="https://daringfireball.net/linked/2026/07/04/fantastical-calendar-mirroring">&nbsp;★&nbsp;</a>
@@ -2502,11 +2502,4 @@ price increase this much, this quickly.”</p>
 
 <p>Cloudflare, Firecrawl, and Resend have already adopted it.</p>
 
-<p>An open protocol authored by WorkOS. <a href="http://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026">Read the spec</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘WorkOS: Agents Need Auth. There’s Now a Spec for It.’"  href="https://daringfireball.net/feeds/sponsors/2026/06/workos_agents_need_auth_theres">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-	<title>[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.</title></entry></feed><!-- THE END -->
+<p>An open protocol authored by WorkOS. <a href="http://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newslette
