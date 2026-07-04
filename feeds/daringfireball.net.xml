@@ -7,13 +7,13 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-03T23:06:20Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-04T01:12:15Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job" />
 	<link rel="shorturl" href="http://df4.us/xc1" />
 	<id>tag:daringfireball.net,2026://1.43201</id>
 	<published>2026-07-03T21:24:05Z</published>
-	<updated>2026-07-03T23:06:20Z</updated>
+	<updated>2026-07-04T01:12:15Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -59,7 +59,7 @@ small, focused teams serving a broad market.</p>
 <p>But we’re still leaning on Electron. Even Anthropic, one of the
 leaders in AI coding tools, who keeps publishing flashy agentic
 coding achievements, still uses Electron in the Claude desktop
-app. And it’s slow, buggy, and bloated app.</p>
+app. And it’s a slow, buggy, and bloated app.</p>
 
 <p><em>So why are we still using Electron and not embracing the
 agent-powered, spec driven development future?</em></p>
