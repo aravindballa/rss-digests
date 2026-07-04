@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-04T21:02:44Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-04T22:25:25Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>Day One Journal</title>
 	<link rel="alternate" type="text/html" href="https://dayoneapp.com/blog/introducing-daily-chat/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xc4" />
@@ -40,7 +40,7 @@
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/04/from-the-archive-electron-decline-of-native-apps" />
 	<id>tag:daringfireball.net,2026:/linked//6.43203</id>
 	<published>2026-07-04T19:28:45Z</published>
-	<updated>2026-07-04T19:28:46Z</updated>
+	<updated>2026-07-04T22:25:25Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -66,7 +66,7 @@ the Mac. A lot of newer Mac users either don’t know or don’t care
 about what makes for a good Mac app.</p>
 </blockquote>
 
-<p>This eight-year-old piece holds up well. My concern was justified, but so too was my lack of defeatist pessimism. Truly native, idiomatically correct Mac-assed Mac apps are resurgent. Electron and is brethren non-native frameworks have not receded, but they haven’t gained further ground. For every Claude (Electron) there’s a ChatGPT (AppKit). I’m seeing more new good Mac apps released today than I was in 2018, and longstanding Mac stalwarts <a href="https://sixcolors.com/post/2026/05/bbedit-16-offers-speed-boosts-and-shortcuts-and-emoji-upgrades/">continue to thrive</a>.</p>
+<p>This eight-year-old piece holds up well. My concern was justified, but so too was my lack of defeatist pessimism. Truly native, idiomatically correct Mac-assed Mac apps are resurgent. Electron and its brethren non-native frameworks have not receded, but they haven’t gained further ground. For every Claude (Electron) there’s a ChatGPT (AppKit). I’m seeing more new good Mac apps released today than I was in 2018, and longstanding Mac stalwarts <a href="https://sixcolors.com/post/2026/05/bbedit-16-offers-speed-boosts-and-shortcuts-and-emoji-upgrades/">continue to thrive</a>. High tide seems to have passed without washing the native platform away.</p>
 
 <p>Apple itself is a good example. The Mac version of Journal, first introduced in MacOS 26 Tahoe, is a profound disappointment — not just because of <a href="https://daringfireball.net/linked/2026/06/25/apple-journal-undo-bug">serious bugs</a> but because it’s un-Mac-like in sad ways. You can’t open an entry into its own window, for example. But the brand-new Siri app in the developer betas of MacOS 27 Golden Gate is pretty Mac-like. You can double-click chats in list view to open them in their own windows, for example. (You can’t double-click chats in grid view to open them into windows, though — presumably a bug.) Siri is not a great Mac app but it does feel like a Mac app, and it’s only a 1.0 in its second developer beta. It doesn’t feel like an iOS app running in a Mac window, like Journal does.</p>
 
@@ -84,7 +84,7 @@ about what makes for a good Mac app.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/04/fantastical-calendar-mirroring" />
 	<id>tag:daringfireball.net,2026:/linked//6.43202</id>
 	<published>2026-07-04T16:57:22Z</published>
-	<updated>2026-07-04T17:48:47Z</updated>
+	<updated>2026-07-04T21:47:22Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -114,7 +114,7 @@ you’re unavailable.</p>
 
 <p>The icing on the cake is Fantastical’s longstanding “Combine identical events” preference setting. Because I have that setting on, I don’t see duplicate “Dithering” events — one from my Dithering calendar, and another from my family calendar. I just see one event for each scheduled recording, with a striped dual-color swatch that indicates that this one event exists on both calendars. It’s just perfect.</p>
 
-<p><strong>One more thing:</strong> Also somewhat recently, <a href="https://flexibits.com/blog/2026/03/feature-spotlight-introducing-the-fantastical-connector-mcp-for-claude/">Fantastical added support for Anthropic’s MCP</a> to integrate your calendaring with Claude Desktop. David Sparks made a <a href="https://www.youtube.com/watch?app=desktop&amp;v=BcO0R-DfOg4">short demo video that shows it off</a>. I don’t really use Claude so this didn’t hit for me personally, but it seems cool enough that it made me at least consider, for a moment, switching from ChatGPT to Claude. Then I remembered <a href="https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job">what the Claude app is like</a>.</p>
+<p><strong>One more thing:</strong> Also somewhat recently, <a href="https://flexibits.com/blog/2026/03/feature-spotlight-introducing-the-fantastical-connector-mcp-for-claude/">Fantastical added support for Anthropic’s MCP</a> to integrate your calendaring with Claude Desktop and every other AI agent that <a href="https://daringfireball.net/linked/2026/07/02/safari-mcp">supports the standard</a>. David Sparks made a <a href="https://www.youtube.com/watch?app=desktop&amp;v=BcO0R-DfOg4">short demo video that shows it off</a>. I don’t really use Claude so this didn’t hit for me personally, but it seems cool enough that it made me at least consider, for a moment, switching from ChatGPT to Claude. Then I remembered <a href="https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job">what the Claude app is like</a>.</p>
 
 <div>
 <a  title="Permanent link to ‘Fantastical 4.1.15 Adds Calendar Mirroring’"  href="https://daringfireball.net/linked/2026/07/04/fantastical-calendar-mirroring">&nbsp;★&nbsp;</a>
