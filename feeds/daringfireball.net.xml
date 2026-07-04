@@ -7,7 +7,51 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-04T01:12:15Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-04T16:57:23Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Fantastical 4.1.15 Adds Calendar Mirroring</title>
+	<link rel="alternate" type="text/html" href="https://flexibits.com/blog/2026/06/double-booked-never-heard-of-it-meet-calendar-mirroring-in-fantastical/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xc2" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/04/fantastical-calendar-mirroring" />
+	<id>tag:daringfireball.net,2026:/linked//6.43202</id>
+	<published>2026-07-04T16:57:22Z</published>
+	<updated>2026-07-04T16:57:23Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Flexibits:</p>
+
+<blockquote>
+  <p>Calendar Mirroring allows you to connect two separate calendars
+(like work and personal) so that events from one automatically
+show up on the other.</p>
+
+<p>The best part? <em>No event information is sent to Flexibits servers
+or saved outside of your device.</em></p>
+
+<p>You can choose to show full event details or just block the time
+out as a mysterious, professional “Busy”. Your coworkers don’t
+need to know you’re getting a root canal, they just need to know
+you’re unavailable.</p>
+</blockquote>
+
+<p>In Flexibits’s example scenario, the idea is that you have a personal calendar with important events that you want to mirror to your work calendar, to block the times for those events off — and you might just want them marked as “Busy” on your work calendar, rather than revealing the actual details.</p>
+
+<p>I’ve been using this feature in beta for a few months and love it, even though my use case is seemingly simple. For recording episodes of <a href="https://dithering.fm/">Dithering</a>, Ben Thompson and I have a shared Microsoft 365 calendar. (You can guess which of the two of us set that up by that fact.) Fantastical has long had terrific built-in support for Microsoft 365 accounts. So for me, those events have always just shown up in Fantastical. For me.</p>
+
+<p>The problem is, my wife and I share an iCloud calendar, where we put events we want each other to know about. My Dithering recordings have never shown up there. Ben and I record on a pretty regular schedule, but it’s always been a minor irritation that my wife can’t see when I’m booked for Dithering. Fantastical’s new mirroring feature solves this perfectly. I set up a mirror to copy all events from my Dithering calendar to my family calendar, keeping the original event titles rather than obscuring them as “Busy”. (The titles all just say “Dithering”.)</p>
+
+<p>The icing on the cake is Fantastical’s longstanding “Combine identical events” preference setting. Because I have that setting on, I don’t see duplicate “Dithering” events — one from my Dithering calendar, and another from my family calendar. I just see one event for each scheduled recording, with a striped dual-color swatch that indicates that this one event exists on both calendars. It’s just perfect.</p>
+
+<p><strong>One more thing:</strong> Also somewhat recently, <a href="https://www.youtube.com/watch?app=desktop&amp;v=BcO0R-DfOg4">Fantastical added support for Anthropic’s MCP</a> to integrate your calendaring with Claude Desktop. I don’t really use Claude so this didn’t hit for me personally, but it seems cool enough that it made me at least consider, for a moment, switching from ChatGPT to Claude. Then I remembered <a href="https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job">what the Claude app is like</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Fantastical 4.1.15 Adds Calendar Mirroring’"  href="https://daringfireball.net/linked/2026/07/04/fantastical-calendar-mirroring">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job" />
 	<link rel="shorturl" href="http://df4.us/xc1" />
@@ -2439,55 +2483,6 @@ price increase this much, this quickly.”</p>
 
 <div>
 <a  title="Permanent link to ‘Apple Raises Prices on Most Products by 15–25 Percent, but Not iPhones, Watches, or AirPods’"  href="https://daringfireball.net/linked/2026/06/25/apple-raises-prices">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>WebKit Always Enables the Copy Menu Item in Every App</title>
-	<link rel="alternate" type="text/html" href="https://lapcatsoftware.com/articles/2026/6/5.html" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xar" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/24/webkit-always-enables-the-copy-menu-item-in-every-app" />
-	<id>tag:daringfireball.net,2026:/linked//6.43155</id>
-	<published>2026-06-24T21:52:43Z</published>
-	<updated>2026-06-24T21:52:43Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jeff Johnson:</p>
-
-<blockquote>
-  <p>Several weeks ago, John Gruber of <a href="https://daringfireball.net/">Daring Fireball</a> asked me
-whether I could reproduce an issue he was seeing in Safari: when a
-web page is focused, the Copy menu item in the main menu is always
-enabled, regardless of whether there’s anything selected in the
-web page. I could indeed reproduce that issue, and it turns out to
-be the fault of WebKit. The issue also occurs in Mail app, when an
-email message is focused.</p>
-
-<p>On Apple platforms, WebKit is a public API, used by third-party
-apps in addition to Apple’s first-party apps. RSS readers such as
-<a href="https://netnewswire.com/">NetNewsWire</a> and <a href="https://www.vienna-rss.com/">Vienna</a>, preferred by Gruber and
-myself, respectively, use WebKit to display articles from RSS
-feeds. And sure enough, both apps exhibit the same issue: the Copy
-menu item is always enabled when an article is focused.</p>
-
-<p>What happens if you copy and paste from a WebKit WebView with no
-selection? Nothing happens, nothing is pasted. However,
-technically speaking, the clipboard is not empty.</p>
-</blockquote>
-
-<p>In most Mac apps, since the dawn of time, if there is nothing selected to be copied, the Edit → Copy (and Cut) commands are disabled. If you invoke the ⌘C shortcut while the Copy command is disabled, you hear an alert sound, letting you know that whatever you thought you were copying could not be copied because it wasn’t selected. That beep is useful context. This is proper behavior for all menu items — if they’re not available to do something, they should be disabled, and invoking a disabled menu item keyboard shortcut should beep. In any app that uses WebKit, since early in 2025, the Copy command is <em>always</em> enabled when a WebKit view has focus — but if nothing is selected, you get useless clipboard data that can’t actually be pasted anywhere. (And whatever was on your clipboard is now gone, or pushed back if you use a clipboard history utility.)</p>
-
-<p>This is clearly a bug. It cannot be acceptable that you can copy nothing, wiping out whatever was previously on the clipboard. (Or to be pedantic, to copy a useless inscrutable plist blob that can’t be pasted anywhere.)</p>
-
-<p>Johnson <a href="https://bugs.webkit.org/show_bug.cgi?id=313835">reported this bug in WebKit’s Bugzilla system</a>, but it was erroneously closed as “Won’t Fix”. There’s a conflation in the WebKit team’s closing of Johnson’s bug report between how the Edit → Copy command behaves in any WebKit-using app, and how JavaScript’s <code>document.execCommand("copy")</code> needs to be available even when there’s no selection in the WebKit view. WebKit engineers introduced the bug in application behavior when they attempted to fix <a href="https://bugs.webkit.org/show_bug.cgi?id=156529">the decade-old bug in the JavaScript behavior</a> last year.</p>
-
-<p>I was very glad to read on the WebKit blog, <a href="https://daringfireball.net/linked/2026/06/24/webkit-safari-27">just this morning</a>, that the WebKit team is encouraging the submission of bug reports. <a href="https://bugs.webkit.org/show_bug.cgi?id=313835">Here’s a bug</a> that has already been reported, with copious details, that they merely need to look at again.</p>
-
-<div>
-<a  title="Permanent link to ‘WebKit Always Enables the Copy Menu Item in Every App’"  href="https://daringfireball.net/linked/2026/06/24/webkit-always-enables-the-copy-menu-item-in-every-app">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
