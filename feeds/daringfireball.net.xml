@@ -7,20 +7,48 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-06T19:59:21Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-06T21:37:16Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Markdown Now Has a UTI in Apple’s Version 27 OSes</title>
+	<link rel="alternate" type="text/html" href="https://developer.apple.com/documentation/uniformtypeidentifiers/uttype-swift.struct/markdown" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xca" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/06/markdown-uti-os-27" />
+	<id>tag:daringfireball.net,2026:/linked//6.43210</id>
+	<published>2026-07-06T20:38:43Z</published>
+	<updated>2026-07-06T20:38:44Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>The third developer betas of Apple’s 27 OSes dropped today, and this new page in Apple’s developer documentation drew my attention — a built-in Uniform Type Identifier for Markdown data:</p>
+
+<blockquote>
+  <p><strong>UTI:</strong> <code>net.daringfireball.markdown</code></p>
+
+<p><strong>Conforms to:</strong> <code>public.utf8-plain-text</code></p>
+</blockquote>
+
+<p>I had previously recommended conforming to <code>public.plain-text</code> but stated that the text encoding should be UTF-8. I’ve updated <a href="https://daringfireball.net/linked/2011/08/05/markdown-uti">my own recommendation</a> to <code>public.utf8-plain-text</code> to enshrine the UTF-8 encoding. (Back in 2004 UTF-8 support was far from universal. Today it is.)</p>
+
+<div>
+<a  title="Permanent link to ‘Markdown Now Has a UTI in Apple’s Version 27 OSes’"  href="https://daringfireball.net/linked/2026/07/06/markdown-uti-os-27">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Backblaze Versus Dropbox</title>
 	<link rel="alternate" type="text/html" href="https://mjtsai.com/blog/2025/12/19/backblaze-no-longer-backs-up-dropbox/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xc9" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/06/backblaze-versus-dropbox" />
 	<id>tag:daringfireball.net,2026:/linked//6.43209</id>
 	<published>2026-07-06T18:34:38Z</published>
-	<updated>2026-07-06T18:34:38Z</updated>
+	<updated>2026-07-06T21:37:16Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>There’s a been a lot of (justified) concern and consternation over the last year regarding Backblaze — an online backup service whose simple pitch is that it backs up your entire entire computer, both the startup drive and external drives — and online file storage services like iCloud Drive, Dropbox, Google Drive, and Microsoft OneDrive. Backblaze stopped including the contents of such services in its backups.  Michael Tsai (as usual) collected a <a href="https://mjtsai.com/blog/2025/12/19/backblaze-no-longer-backs-up-dropbox/">long list of links regarding this</a>.</p>
+<p>There’s a been a lot of (justified) concern and consternation over the last year regarding Backblaze — an online backup service whose simple pitch is that it backs up your entire computer, including the startup drive <em>and</em> external drives — and online file storage services like iCloud Drive, Dropbox, Google Drive, and Microsoft OneDrive. Backblaze stopped including the contents of such services in its backups.  Michael Tsai (as usual) collected a <a href="https://mjtsai.com/blog/2025/12/19/backblaze-no-longer-backs-up-dropbox/">long list of links regarding this</a>.</p>
 
 <p>The whole thing is complicated and confusing. The basic gist, I think, is that Backblaze has stopped trying to back up the contents from these services because sometimes the files aren’t really there on your local file system, but they sorta kinda look like they’re there. That’s what I meant in my post earlier today about Maestral regarding Apple’s modern File Provider APIs. You know how sometimes in iCloud Drive — or Dropbox or OneDrive or anything else that might use these APIs — you can see a file or folder in the Finder, but there’s a “cloud” icon next to it, and you have to click the cloud icon to actually download it? That.</p>
 
@@ -2108,71 +2136,6 @@ products.</p>
 
 <div>
 <a  title="Permanent link to ‘Grok Is a Generative Porno App’"  href="https://daringfireball.net/linked/2026/06/27/grok-is-a-generative-porno-app">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>OpenAI Announces, But Is Blocked From Releasing, New GPT-5.6 Models</title>
-	<link rel="alternate" type="text/html" href="https://openai.com/index/previewing-gpt-5-6-sol/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xb1" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/27/openai-gpt-5-6-models" />
-	<id>tag:daringfireball.net,2026:/linked//6.43165</id>
-	<published>2026-06-27T19:49:41Z</published>
-	<updated>2026-06-27T19:53:30Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>OpenAI yesterday:</p>
-
-<blockquote>
-  <p>We’re beginning a limited preview of the GPT‑5.6 series: Sol, our
-flagship model; Terra, a balanced model for everyday work; and
-Luna, a fast and affordable model. Terra has competitive
-performance to GPT‑5.5 while being 2× cheaper and Luna brings
-strong capability at our lowest cost.</p>
-
-<p>GPT‑5.6 Sol launches with our most robust safety stack to date. We
-strengthened protections for higher-risk activity, sensitive cyber
-requests, and repeated misuse, and spent multiple weeks finding
-weaknesses, pressure-testing our system, and hardening it against
-real-world attacks.</p>
-
-<p>We believe in broad access, and we plan to make GPT‑5.6 Sol,
-Terra, and Luna generally available in the coming weeks. As part
-of our ongoing engagement with the U.S. government, we previewed
-our plans and the models’ capabilities ahead of today’s launch. At
-their request, we are starting with a limited preview for a small
-group of trusted partners whose participation has been shared with
-the government, before releasing more broadly.</p>
-</blockquote>
-
-<p>Stephanie Palazzolo, <a href="https://www.theinformation.com/articles/trump-administration-asks-openai-stagger-release-new-model-security-concerns">reporting for The Information</a> (and <a href="https://x.com/steph_palazzolo/status/2070241787180966279">posted to X</a>) regarding an internal Q&amp;A hosted by CEO Sam Altman:</p>
-
-<blockquote>
-  <p>The reason for the staggered release, Altman explained: The
-federal government asked it to do so. Altman said that this was
-the best path for widely releasing the model as soon as possible,
-said one of the people. In a Thursday memo, Altman told staff that
-the government would be “approving access customer by customer
-during this preview period” for GPT 5.6. He added that he hoped
-there would be a more general release a “couple of weeks later” if
-all went well. [...]</p>
-
-<p>Even so, after OpenAI had shared its plans for the limited release
-with top government officials earlier this week, Altman still
-received a call from Commerce Secretary Howard Lutnick cautioning
-the company against launching without receiving approvals from
-other agencies, according to a person familiar with the call.</p>
-</blockquote>
-
-<p>It is perfectly reasonable to believe that the U.S. government should have regulatory approval over frontier AI models. It’s absurd to think this should be run by an apparatchik with zero AI expertise like Commerce Secretary Howard Lutnick.</p>
-
-<p>AI regulation should be thoughtful, measured, consistent, objective, and deeply informed. It should not be impulsive, impetuous, petty, uninformed, subjective, inconsistent, and transactional. The latter, however, is what we’re getting.</p>
-
-<div>
-<a  title="Permanent link to ‘OpenAI Announces, But Is Blocked From Releasing, New GPT-5.6 Models’"  href="https://daringfireball.net/linked/2026/06/27/openai-gpt-5-6-models">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
