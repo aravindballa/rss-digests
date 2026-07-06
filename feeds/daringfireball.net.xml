@@ -7,7 +7,52 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-04T22:25:25Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-06T14:35:02Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Jason Snell Ends His Column, and 28-Year Run, at Macworld</title>
+	<link rel="alternate" type="text/html" href="https://www.macworld.com/article/3175482" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xc5" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/06/snell-macworld-column" />
+	<id>tag:daringfireball.net,2026:/linked//6.43205</id>
+	<published>2026-07-06T14:35:02Z</published>
+	<updated>2026-07-06T14:35:02Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jason Snell, at Macworld:</p>
+
+<blockquote>
+  <p>My first day on the job at Macworld, Apple was perilously close to
+going out of business. It was the fall of 1997, and Steve Jobs had
+returned to Apple and engineered the ejection of Gil Amelio as
+CEO, but there was no iMac yet, no visible turnaround in terms of
+products at all. Beyond the release of the iconic “Think
+Different” ad campaign, there was nothing.</p>
+
+<p>Apple’s survival hung by a thread. Steve Jobs asked everyone to
+trust him. <a href="https://www.macworld.com/article/3100197/ive-been-to-a-lot-of-apple-keynotes-ill-never-forget-these-two.html">At Macworld Expo</a>, he had enlisted Bill
+Gates–Bill Gates, of all people!–to help him instill belief in the
+world that Apple would find a way to survive.</p>
+
+<p>The world was skeptical, to say the least. My family asked what
+job I thought I’d get once Apple went out of business. The
+magazine I had worked at for four years, <a href="https://go.skimresources.com/?id=111346X1569486&amp;xs=1&amp;url=https://vintageapple.org/macuser/&amp;xcust=1-0-3175482-1-0-0-0-0&amp;sref=https://www.macworld.com/article/3175482">MacUser</a>, had
+folded, and some of us had been transferred over to our rival,
+Macworld, presumably to publish issues until Apple finally gave up
+the ghost and died. We existed to minimize the loss exposure of
+our respective publishing companies.</p>
+
+<p>1997 was weird, folks. And that’s how my tenure at Macworld
+started.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘Jason Snell Ends His Column, and 28-Year Run, at Macworld’"  href="https://daringfireball.net/linked/2026/07/06/snell-macworld-column">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Day One Journal</title>
 	<link rel="alternate" type="text/html" href="https://dayoneapp.com/blog/introducing-daily-chat/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xc4" />
@@ -2257,77 +2302,6 @@ tirelessly to find solutions.</p>
 
 <div>
 <a  title="Permanent link to ‘The Price-Hiked Apple TV 4K Is 4 Years Old’"  href="https://daringfireball.net/linked/2026/06/26/price-hiked-apple-tv-4k-is-4-years-old">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple Journal’s Atrocious Undo Bug Has Been Fixed (and SwiftUI, Per Se, Is Not to Blame)</title>
-	<link rel="alternate" type="text/html" href="https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xav" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/25/apple-journal-undo-bug" />
-	<id>tag:daringfireball.net,2026:/linked//6.43159</id>
-	<published>2026-06-25T22:49:32Z</published>
-	<updated>2026-06-25T22:54:59Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>On the eve of WWDC, in a post arguing that “<a href="https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps">SwiftUI Only Makes It Easy to Develop Bad Apps</a>”, I wrote about an atrocious bug in Apple’s Journal app:</p>
-
-<blockquote>
-  <p>If you’re running MacOS 26 Tahoe, open Journal and make a new
-dummy entry. Type something like “The quick brown fox.” Then
-double-click on the word “brown” and delete it. Now invoke Undo.</p>
-
-<p>What you expect is for the word “brown” to reappear. What
-happens is ... <em>the whole sentence disappears</em>. Gone. Invoke
-Redo and you only get back to “The quick fox.” The word “brown”
-is just gone forever. It’s nowhere in the Undo stack. That’s
-just profoundly fucked up. I’ve never seen anything like this
-with an AppKit app, ever. (I’ve never seen it with a UIKit app
-either — and the same thing happens on iOS with Journal. It’s
-just that you notice it less often because we don’t invoke Undo
-and Redo nearly as often there.)</p>
-</blockquote>
-
-<p>Marcin Wichary, <a href="https://unsung.aresluna.org/ive-lost-entire-sentences-of-text-to-this-incompetent-implementation/">linking to my post</a> from his remarkably good, remarkably prolific blog <a href="https://unsung.aresluna.org/">Unsung</a>, wrote:</p>
-
-<blockquote>
-  <p>Software engineering typically has some categories of bugs and
-failures that result in immediate action — a night shift, a war
-room, “sevs,” and so on. Those are, in my experience, things like:</p>
-
-<ul>
-<li>the app crashes,</li>
-<li>the site doesn’t load,</li>
-<li>there is data loss.</li>
-</ul>
-
-<p>Depending on what you work on, this list will also likely include
-security problems, regulatory considerations, privacy-leaking
-bugs, and so on. In a more mature organization, these are all well
-documented, but even in early startups there is some shared
-understanding that some bugs are bigger than life and they take
-immense priority over pretty much anything else.</p>
-
-<p>At any company, a version of this list needs to exist for
-front-end and user-experience problems, and undo should be on top
-of that list. If you break undo, <em>you drop what you’re doing to
-fix it</em>.</p>
-</blockquote>
-
-<p>This seems to be what exactly happened. I don’t understand how Journal’s data-destroying Undo bug persisted as long as it did, but after I wrote about it two weeks ago, I heard from Apple PR that:</p>
-
-<ul>
-<li>The text editing component in Journal is in fact UIKit, not SwiftUI, so I was wrong to blame SwiftUI just because Journal is largely SwiftUI-based.</li>
-<li>The bug had been identified and fixed for a future update.</li>
-</ul>
-
-<p>Well, the future is already here, because the buggy Undo behavior in Journal is fixed in developer beta 2 on both MacOS and iOS 27. Nice. I hope it gets fixed for the 26.6 releases too, but at the moment it’s still broken in the current developer beta of 26.6 (and, of course, still broken in all the v26.5 OSes). So be careful while writing in Journal.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Journal’s Atrocious Undo Bug Has Been Fixed (and SwiftUI, Per Se, Is Not to Blame)’"  href="https://daringfireball.net/linked/2026/06/25/apple-journal-undo-bug">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
