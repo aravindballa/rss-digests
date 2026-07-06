@@ -7,7 +7,128 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-06T14:35:02Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-06T18:08:54Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Allen Pike, Back in November: ‘Why Is ChatGPT for Mac So Good?’</title>
+	<link rel="alternate" type="text/html" href="https://allenpike.com/2025/why-is-chatgpt-so-good-claude/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xc8" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/06/allen-pike-chatgpt" />
+	<id>tag:daringfireball.net,2026:/linked//6.43208</id>
+	<published>2026-07-06T17:37:05Z</published>
+	<updated>2026-07-06T17:41:07Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Allen Pike, back in November (and corresponding <a href="https://news.ycombinator.com/item?id=46105896">Hacker News thread</a>):</p>
+
+<blockquote>
+  <p>Still, I wouldn’t count out the possibility of a change in course
+here. While mobile is king, desktop is still where work happens.
+While OpenAI has <a href="https://techcrunch.com/2025/10/23/openai-buys-sky-an-ai-interface-for-mac/">acquired Sky</a> to double down on desktop,
+Google has long been all-in on the browser. That leaves Anthropic
+as the challenger on desktop, with their latest models begging to
+be paired with well-crafted apps.</p>
+</blockquote>
+
+<p>A few months ago Google launched a native Gemini app for the Mac. A month ago <a href="https://daringfireball.net/linked/2026/06/04/google-gemini-mac">I wrote about why it’s not that great, and annoyingly presumptuous</a>. Almost all good Mac apps are native; not all native Mac apps are good.</p>
+
+<p>What keeps me using ChatGPT and keeps me away from using Claude is not that ChatGPT happens to be written using native APIs like AppKit. It’s that it looks and feels like a Mac app — you know, with a Settings window that is ... a window. And even more so, with very cool features like its ability to attach a chat to an open document in BBEdit or Notes. When ChatGPT is attached to an open document in another app, it’s not a snapshot at the moment of attachment, like what you’d get by copying and pasting the whole thing into the chat, or by dragging the current version of the file into the chat. It’s a live ongoing attachment, so as the attached document/note changes, ChatGPT sees the changes. It’s such a great feature, and I don’t think it exists on any platform but the Mac. And it <em>couldn’t</em> exist on iOS, <a href="https://daringfireball.net/linked/2024/01/03/unknown-items-in-icloud-photos">by design</a>, doesn’t allow for inter-application communication.</p>
+
+<p><a href="https://daringfireball.net/linked/2026/03/24/openai-superapp">I worry</a> for ChatGPT’s <a href="https://daringfireball.net/2026/04/openai_future">future</a>, though.</p>
+
+<blockquote>
+  <p>While Anthropic could surprise everybody by dropping a native Mac
+app, I would bet against that. There’s a lot of headroom available
+to them just by investing in doing Electron well, mixing in bits
+of native code where needed, and hill-climbing from “website in
+shell” to “great app that happens to use web technology”.</p>
+
+<p>Just as ChatGPT’s unexpected success woke OpenAI to the
+opportunities of being more product-centric, the breakout hit of
+Claude Code might warm Anthropic to the importance of investing in
+delightful tools. Last year they <a href="https://www.anthropic.com/news/mike-krieger-joins-anthropic">brought on Mike Krieger as
+CPO</a>, who certainly seems like he could rally a team in this
+direction given the chance.</p>
+</blockquote>
+
+<p>I don’t know what Krieger is doing there, but it sure doesn’t seem like he’s focused on creating delightful tools.</p>
+
+<p><strong>See Also:</strong> <a href="https://daringfireball.net/thetalkshow/2024/12/02/ep-415">In December 2024 Allen Pike was my guest on The Talk Show</a>, for an episode largely focused on AI.</p>
+
+<div>
+<a  title="Permanent link to ‘Allen Pike, Back in November: ‘Why Is ChatGPT for Mac So Good?’’"  href="https://daringfireball.net/linked/2026/07/06/allen-pike-chatgpt">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>ATP Member Special: Mac-Assed Mac Apps</title>
+	<link rel="alternate" type="text/html" href="https://atp.fm/atp-dev-mac-assed-mac-apps" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xc7" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/06/atp-mac-assed" />
+	<id>tag:daringfireball.net,2026:/linked//6.43207</id>
+	<published>2026-07-06T17:13:52Z</published>
+	<updated>2026-07-06T17:13:52Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>A banger of an Accidental Tech Podcast members-only special, <a href="https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job">right on time</a>. ATP memberships are just $8/month or $88/year, and the members-only episodes alone are worth the price.</p>
+
+<p>They do a great job explaining what makes for a Mac-assed Mac app, but an even better job talking about why users <em>and</em> developers should care about them.</p>
+
+<div>
+<a  title="Permanent link to ‘ATP Member Special: Mac-Assed Mac Apps’"  href="https://daringfireball.net/linked/2026/07/06/atp-mac-assed">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Maestral, the Open Source Splendidly Simple Mac Dropbox Client, Has Been Retired</title>
+	<link rel="alternate" type="text/html" href="https://maestral.app/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xc6" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/06/maestral-retired" />
+	<id>tag:daringfireball.net,2026:/linked//6.43206</id>
+	<published>2026-07-06T17:04:44Z</published>
+	<updated>2026-07-06T18:08:54Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Maestral developer Sam Schott, on the Maestral website:</p>
+
+<blockquote>
+  <p>As of June 2026, Maestral is no longer actively maintained. The
+current version will continue to work until certificates expire.</p>
+</blockquote>
+
+<p>Schott, <a href="https://github.com/samschott/maestral">on Maestral’s GitHub project page</a>:</p>
+
+<blockquote>
+  <p>As of 2026-07-28, this project is archived. It’s been a fun
+challenge to develop a syncing client, but unfortunately, I find
+too little time to invest in Maestral these days. I’ve also moved
+away from using Dropbox myself.</p>
+
+<p>Maestral will still remain usable in the medium term, but will no
+longer be actively maintained or receive updates.</p>
+</blockquote>
+
+<p>You get what you pay for, and Maestral is free of charge and open source. But man, this is a real bummer. I absolutely <em>love</em> Maestral. It restores Dropbox to its original vision — a folder on my Mac that syncs. Nothing at all like the bloated app that Dropbox’s first-party Mac client has grown into. And it doesn’t use any of MacOS’s modern <a href="https://developer.apple.com/documentation/fileprovider">File Provider APIs</a>, which in my experience provide me with no benefits that I want, and saddle me with much needless complexity that I don’t. With Maestral, it’s just a quiet app that runs in the background, consumes preciously few CPU and memory resources, it just syncs a folder of your choosing to your Dropbox account. I of course chose <code>~/Dropbox/</code>. It’s always been super robust for me. It’s not a hack — it syncs to Dropbox using Dropbox’s APIs.</p>
+
+<p>As of today Maestral continues to work just fine. I don’t know when these certificates are expiring. And I don’t know what I’m going to do when they do. I might try moving everything from my Dropbox account to iCloud Drive. That certainly seems worth trying before I resort to going back to Dropbox’s own monstrosity of a Mac client.</p>
+
+<p>In theory, because Maestral is open source, someone could fork it and keep it going. But my impression has always been that it was a one-man show from Schott, and if he’s personally no longer using Dropbox, it’s easy to see why he’s lost interest in maintaining Maestral.</p>
+
+<p>So it goes.</p>
+
+<div>
+<a  title="Permanent link to ‘Maestral, the Open Source Splendidly Simple Mac Dropbox Client, Has Been Retired’"  href="https://daringfireball.net/linked/2026/07/06/maestral-retired">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Jason Snell Ends His Column, and 28-Year Run, at Macworld</title>
 	<link rel="alternate" type="text/html" href="https://www.macworld.com/article/3175482" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xc5" />
@@ -2069,57 +2190,6 @@ AI models.</p>
 
 	]]></content>
   </entry><entry>
-	<title>The Steam Machine</title>
-	<link rel="alternate" type="text/html" href="https://www.theverge.com/games/952765/steam-machine-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Illsb3pPdVlCSmQiLCJwIjoiL2dhbWVzLzk1Mjc2NS9zdGVhbS1tYWNoaW5lLXJldmlldyIsImV4cCI6MTc4MzAxOTM4OCwiaWF0IjoxNzgyNTg3Mzg4fQ.ksUd5qynurLxKTvjnCTD3mj4xzH9gdFgqAzFJ577ZcE&amp;utm_medium=gift-link" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xaz" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/27/the-steam-machine" />
-	<id>tag:daringfireball.net,2026:/linked//6.43163</id>
-	<published>2026-06-27T19:14:16Z</published>
-	<updated>2026-06-29T23:21:45Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Sean Hollister, writing for The Verge (gift link):</p>
-
-<blockquote>
-  <p>Since the Magnavox Odyssey came out in 1972, game consoles have
-been built with the same basic goal: to effortlessly play
-proprietary games on a TV screen. Nintendo, Sony, and Microsoft
-have spent decades essentially selling the same product. A few
-consoles could do more, but the formula you know and love remains
-<em>buy box, plug into TV, insert game, play</em>.</p>
-
-<p>The Steam Machine aims to be something bigger. It’s a vision of a
-box with fewer restrictions and an almost endless catalog of games — for those willing to spend nearly twice the price of a
-PlayStation 5.</p>
-
-<p>That’s right. Today, Valve has announced the Steam Machine will
-start at $1,049 without a gamepad or $1,128 bundled with one, but
-you aren’t getting a significant boost in performance over the
-5.5-year-old Sony PS5 you can still buy today. <a href="https://www.theverge.com/games/902224/sony-ps5-playstation-price-hike">Even after three
-price hikes</a>, a vanilla $650 PS5 offers sharper images in
-<em>Cyberpunk 2077</em> and <em>Horizon Zero Dawn</em> <em>Remastered</em> in my tests.
-So how can Valve possibly charge over a grand, you might ask?</p>
-
-<p>It’s because the Steam Machine is, let’s say, a PC-plus. It’s a PC
-that acts more like a console than any you’ve used before. It’s
-<em>incredibly</em> cool and quiet, so much smaller than a PS5,
-surprisingly smooth, and completely navigable with any modern
-gamepad you own. You don’t need a mouse, keyboard, or even Valve’s
-own touchpad-equipped <a href="https://www.theverge.com/games/918610/valve-steam-controller-review">Steam Controller</a> to download, launch,
-or play games. Joysticks do the job.</p>
-</blockquote>
-
-<p>The price is eye-opening, but that’s the theme across all consumer hardware this year. It’s hard not to root for Valve with its expanding hardware ambitions, but Hollister’s review shows just how far they have to go to achieve “plug it in, insert game, play” simplicity.</p>
-
-<div>
-<a  title="Permanent link to ‘The Steam Machine’"  href="https://daringfireball.net/linked/2026/06/27/the-steam-machine">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/06/om" />
 	<link rel="shorturl" href="http://df4.us/xay" />
@@ -2248,64 +2318,6 @@ such study.</p>
 
     ]]></content>
   <title>★ Om</title></entry><entry>
-	<title>Apple’s Full Statement on Yesterday’s Price Increases</title>
-	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2026/06/25/apple-explains-why-it-raised-prices/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xax" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/26/apples-full-statement-on-yesterdays-price-increases" />
-	<id>tag:daringfireball.net,2026:/linked//6.43161</id>
-	<published>2026-06-26T16:38:31Z</published>
-	<updated>2026-06-26T16:38:31Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Apple, in a statement issues to the press yesterday, quoted fully by MacRumors:</p>
-
-<blockquote>
-  <p>The consumer electronics industry is facing an unprecedented
-challenge. The rapid expansion of AI data centers has created an
-extraordinary surge in demand for memory and storage. We have
-never seen a component price increase this much, this quickly. We
-have shielded our customers from these increases so far, but we
-have now reached a point where we need to begin raising prices on
-a number of products, including today’s increases for iPad and
-Mac. We know this is not welcome news, and we are working
-tirelessly to find solutions.</p>
-</blockquote>
-
-<p>I saw a few other publications quote a sentence or two from the statement, but I like to see the whole thing. It’s not long.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple’s Full Statement on Yesterday’s Price Increases’"  href="https://daringfireball.net/linked/2026/06/26/apples-full-statement-on-yesterdays-price-increases">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>The Price-Hiked Apple TV 4K Is 4 Years Old</title>
-	<link rel="alternate" type="text/html" href="https://buyersguide.macrumors.com/#Apple_TV" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xaw" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/26/price-hiked-apple-tv-4k-is-4-years-old" />
-	<id>tag:daringfireball.net,2026:/linked//6.43160</id>
-	<published>2026-06-26T15:39:38Z</published>
-	<updated>2026-06-26T15:39:38Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Via MacRumors’s Buyer Guide, the current third-gen Apple TV 4K models were <a href="https://www.apple.com/newsroom/2022/10/apple-introduces-the-powerful-next-generation-apple-tv-4k/">introduced in October 2022</a>, and <a href="https://support.apple.com/en-us/111839">sport the A15 Bionic chip</a> that debuted with <a href="https://daringfireball.net/2021/09/the_iphones_13">the iPhones 13</a> in 2021. It’s widely believed that new hardware models are coming this fall. <a href="https://daringfireball.net/2026/06/spensive_thoughts">I mentioned yesterday</a> that the steep price increases ($130 → $200 for the 64 GB base model; $150 → $250 for the 128 GB model with Ethernet and Thread networking) move Apple TV further out of line compared to the discount set-top boxes and sticks from companies like Roku and Amazon. But even setting aside the prices of competing devices, it just feels wrong to hike prices this much for four-year-old hardware running five-year-old pre-AI silicon. The higher-end model’s price went up 67 percent!</p>
-
-<p>The only way this makes sense is if these prices are really meant for the upcoming new hardware, and those new models are more ambitious home hubs that warrant $200–250 prices. This makes the current models a <em>really</em> bad deal for the next few months, but come September or October, Apple can introduce next-gen Apple Intelligence-ready Apple TV hardware and the prices can remain $200/250. It’s Apple, so maybe the new hardware will have prices that are even higher, and these increases are just stop-gaps to ease the eventual sticker shock upon the new hardware’s reveal.</p>
-
-<p>But as things stand today, no platform in Apple’s portfolio came out of these price increases looking worse than Apple TV. It’s especially painful to think about people buying one now, at these prices, only to have their purchase obsoleted in September or October. </p>
-
-<div>
-<a  title="Permanent link to ‘The Price-Hiked Apple TV 4K Is 4 Years Old’"  href="https://daringfireball.net/linked/2026/06/26/price-hiked-apple-tv-4k-is-4-years-old">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/06/spensive_thoughts" />
 	<link rel="shorturl" href="http://df4.us/xau" />
