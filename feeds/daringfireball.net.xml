@@ -7,14 +7,42 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-06T18:08:54Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-06T19:59:21Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Backblaze Versus Dropbox</title>
+	<link rel="alternate" type="text/html" href="https://mjtsai.com/blog/2025/12/19/backblaze-no-longer-backs-up-dropbox/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xc9" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/06/backblaze-versus-dropbox" />
+	<id>tag:daringfireball.net,2026:/linked//6.43209</id>
+	<published>2026-07-06T18:34:38Z</published>
+	<updated>2026-07-06T18:34:38Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>There’s a been a lot of (justified) concern and consternation over the last year regarding Backblaze — an online backup service whose simple pitch is that it backs up your entire entire computer, both the startup drive and external drives — and online file storage services like iCloud Drive, Dropbox, Google Drive, and Microsoft OneDrive. Backblaze stopped including the contents of such services in its backups.  Michael Tsai (as usual) collected a <a href="https://mjtsai.com/blog/2025/12/19/backblaze-no-longer-backs-up-dropbox/">long list of links regarding this</a>.</p>
+
+<p>The whole thing is complicated and confusing. The basic gist, I think, is that Backblaze has stopped trying to back up the contents from these services because sometimes the files aren’t really there on your local file system, but they sorta kinda look like they’re there. That’s what I meant in my post earlier today about Maestral regarding Apple’s modern File Provider APIs. You know how sometimes in iCloud Drive — or Dropbox or OneDrive or anything else that might use these APIs — you can see a file or folder in the Finder, but there’s a “cloud” icon next to it, and you have to click the cloud icon to actually download it? That.</p>
+
+<p>With Maestral none of that comes into play. Maestral just keeps a folder on your local computer in sync with the contents of your Dropbox account. Just like the original Dropbox first-party app back in the day. So if you use Maestral, Backblaze <em>does</em> backup your Dropbox folder, because your Dropbox folder is just a regular folder (albeit, probably, a big one). It’s not a magic folder. Just a regular folder. And the Maestral software keeps its contents in sync. With software that uses Apple’s File Provider APIs — which effectively includes iCloud Drive — what you see as a user are magic folders, and the magic is undocumented.</p>
+
+<p>Now, it turns out that Dropbox’s own first-party Mac client still has an available mode that that doesn’t use the File Provider APIs. Some people who use that old-school mode report that Backblaze still backs up their Dropbox folder. Some people say it doesn’t. Like I said, it’s confusing and complicated and undocumented on all sides. I would rather not worry about it. And with Maestral, I haven’t had to worry about it. When Maestral stops working, I might have to start worrying about it.</p>
+
+<p>The first item Tsai links to is <a href="https://talk.tidbits.com/t/warning-backblaze-now-ignoring-dropbox-google-drive-onedrive-icloud-drive-etc/32529">this post from Rob Holliday to the venerable TidBITS-Talk forum</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Backblaze Versus Dropbox’"  href="https://daringfireball.net/linked/2026/07/06/backblaze-versus-dropbox">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Allen Pike, Back in November: ‘Why Is ChatGPT for Mac So Good?’</title>
 	<link rel="alternate" type="text/html" href="https://allenpike.com/2025/why-is-chatgpt-so-good-claude/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xc8" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/06/allen-pike-chatgpt" />
 	<id>tag:daringfireball.net,2026:/linked//6.43208</id>
 	<published>2026-07-06T17:37:05Z</published>
-	<updated>2026-07-06T17:41:07Z</updated>
+	<updated>2026-07-06T19:59:21Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -33,7 +61,7 @@ be paired with well-crafted apps.</p>
 
 <p>A few months ago Google launched a native Gemini app for the Mac. A month ago <a href="https://daringfireball.net/linked/2026/06/04/google-gemini-mac">I wrote about why it’s not that great, and annoyingly presumptuous</a>. Almost all good Mac apps are native; not all native Mac apps are good.</p>
 
-<p>What keeps me using ChatGPT and keeps me away from using Claude is not that ChatGPT happens to be written using native APIs like AppKit. It’s that it looks and feels like a Mac app — you know, with a Settings window that is ... a window. And even more so, with very cool features like its ability to attach a chat to an open document in BBEdit or Notes. When ChatGPT is attached to an open document in another app, it’s not a snapshot at the moment of attachment, like what you’d get by copying and pasting the whole thing into the chat, or by dragging the current version of the file into the chat. It’s a live ongoing attachment, so as the attached document/note changes, ChatGPT sees the changes. It’s such a great feature, and I don’t think it exists on any platform but the Mac. And it <em>couldn’t</em> exist on iOS, <a href="https://daringfireball.net/linked/2024/01/03/unknown-items-in-icloud-photos">by design</a>, doesn’t allow for inter-application communication.</p>
+<p>What keeps me using ChatGPT and keeps me away from using Claude is not that ChatGPT happens to be written using native APIs like AppKit. It’s that it looks and feels like a Mac app — you know, with a Settings window that is ... a window. And even more so, with very cool features like its ability to attach a chat to an open document in BBEdit or Notes. When ChatGPT is attached to an open document in another app, it’s not a snapshot at the moment of attachment, like what you’d get by copying and pasting the whole thing into the chat, or by dragging the current version of the file into the chat. It’s a live ongoing attachment, so as the attached document/note changes, ChatGPT sees the changes. It’s such a great feature, and I don’t think it exists on any platform but the Mac. And it <em>couldn’t</em> exist on iOS, which, because of its <a href="https://daringfireball.net/linked/2024/01/03/unknown-items-in-icloud-photos">kindergarten-safety-scissors design</a>, doesn’t allow for inter-application communication.</p>
 
 <p><a href="https://daringfireball.net/linked/2026/03/24/openai-superapp">I worry</a> for ChatGPT’s <a href="https://daringfireball.net/2026/04/openai_future">future</a>, though.</p>
 
@@ -55,6 +83,8 @@ direction given the chance.</p>
 <p>I don’t know what Krieger is doing there, but it sure doesn’t seem like he’s focused on creating delightful tools.</p>
 
 <p><strong>See Also:</strong> <a href="https://daringfireball.net/thetalkshow/2024/12/02/ep-415">In December 2024 Allen Pike was my guest on The Talk Show</a>, for an episode largely focused on AI.</p>
+
+<p><strong>Update:</strong> I was correct — Krieger is still at Anthropic but <a href="https://www.theverge.com/ai-artificial-intelligence/861475/anthropic-ai-c-suite-internal-incubator-labs-team-mike-krieger">at the start of this year</a> he left his role as chief product officer to head up their “<a href="https://www.anthropic.com/news/introducing-anthropic-labs">Labs</a>” team, where they’re building new product experiments. Krieger spoke about the role shift briefly <a href="https://www.youtube.com/live/I2cbIws9j10?t=4343s">during an interview last week</a> at the “AI Engineer World’s Fair” conference.</p>
 
 <div>
 <a  title="Permanent link to ‘Allen Pike, Back in November: ‘Why Is ChatGPT for Mac So Good?’’"  href="https://daringfireball.net/linked/2026/07/06/allen-pike-chatgpt">&nbsp;★&nbsp;</a>
@@ -90,7 +120,7 @@ direction given the chance.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/06/maestral-retired" />
 	<id>tag:daringfireball.net,2026:/linked//6.43206</id>
 	<published>2026-07-06T17:04:44Z</published>
-	<updated>2026-07-06T18:08:54Z</updated>
+	<updated>2026-07-06T18:52:12Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -115,7 +145,7 @@ away from using Dropbox myself.</p>
 longer be actively maintained or receive updates.</p>
 </blockquote>
 
-<p>You get what you pay for, and Maestral is free of charge and open source. But man, this is a real bummer. I absolutely <em>love</em> Maestral. It restores Dropbox to its original vision — a folder on my Mac that syncs. Nothing at all like the bloated app that Dropbox’s first-party Mac client has grown into. And it doesn’t use any of MacOS’s modern <a href="https://developer.apple.com/documentation/fileprovider">File Provider APIs</a>, which in my experience provide me with no benefits that I want, and saddle me with much needless complexity that I don’t. With Maestral, it’s just a quiet app that runs in the background, consumes preciously few CPU and memory resources, it just syncs a folder of your choosing to your Dropbox account. I of course chose <code>~/Dropbox/</code>. It’s always been super robust for me. It’s not a hack — it syncs to Dropbox using Dropbox’s APIs.</p>
+<p>You get what you pay for, and Maestral is free of charge and open source. But man, this is a real bummer. I absolutely <em><a href="https://daringfireball.net/2023/07/nerding_out_with_maestral_launchcontrol_and_keyboard_maestro">love</a></em> Maestral. It restores Dropbox to its original vision — a folder on my Mac that syncs. Nothing at all like the bloated app that Dropbox’s first-party Mac client has grown into. And it doesn’t use any of MacOS’s modern <a href="https://developer.apple.com/documentation/fileprovider">File Provider APIs</a>, which in my experience provide me with no benefits that I want, and saddle me with much needless complexity that I don’t. With Maestral, it’s just a quiet app that runs in the background, consumes preciously few CPU and memory resources, and <a href="https://maestral.app/about/">just syncs</a> a folder of your choosing to your Dropbox account. I of course chose <code>~/Dropbox/</code>. It’s always been super robust for me. It’s not a hack — it syncs to Dropbox using Dropbox’s APIs.</p>
 
 <p>As of today Maestral continues to work just fine. I don’t know when these certificates are expiring. And I don’t know what I’m going to do when they do. I might try moving everything from my Dropbox account to iCloud Drive. That certainly seems worth trying before I resort to going back to Dropbox’s own monstrosity of a Mac client.</p>
 
@@ -2143,49 +2173,6 @@ other agencies, according to a person familiar with the call.</p>
 
 <div>
 <a  title="Permanent link to ‘OpenAI Announces, But Is Blocked From Releasing, New GPT-5.6 Models’"  href="https://daringfireball.net/linked/2026/06/27/openai-gpt-5-6-models">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>White House Grants Access to Anthropic’s Mythos Model to 100+ U.S. Institutions; Fable Still Shut Down</title>
-	<link rel="alternate" type="text/html" href="https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xb0" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/27/white-house-mythos-access" />
-	<id>tag:daringfireball.net,2026:/linked//6.43164</id>
-	<published>2026-06-27T19:37:58Z</published>
-	<updated>2026-06-27T19:43:04Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Reed Albergotti and Ben Smith, reporting last night for Semaphor:</p>
-
-<blockquote>
-  <p>The decision, in a letter sent Friday afternoon to Anthropic, is a
-major de-escalation in the confrontation between the Trump
-Administration and one of the world’s most valuable private
-companies. Two weeks ago the administration imposed export
-controls on Mythos, leading to a shut down of the model and its
-cousin Fable 5 after warnings from Amazon and other companies that
-they could be “jailbroken” for malicious purposes.</p>
-
-<p>The letter is silent on Fable 5, a weaker version of Mythos that
-was briefly the most powerful AI model widely available to
-consumers. People close to the talks said they are moving toward
-releasing Fable as well, though that timeline is unclear. [...]</p>
-
-<p>Lutnick’s letter marks the beginnings of a new regulatory regime
-that gives the US government control over the release of frontier
-AI models.</p>
-</blockquote>
-
-<p>A completely ad hoc policy of “<em>Whatever the White House says, goes</em>” is the makings of a terrible regulatory framework for AI. This would be true no matter who was president at the moment. But it’s particularly disastrous for this administration, which is both utterly transactional and staffed <a href="https://www.nature.com/immersive/d41586-026-00088-9/index.html">from top to bottom with anti-science know-nothings</a> confident that their “<a href="https://daringfireball.net/linked/2020/11/30/asimov-cult-of-ignorance">ignorance is just as good as your knowledge</a>”.</p>
-
-<p>Howard Lutnick is making these determinations? I mean come on.</p>
-
-<div>
-<a  title="Permanent link to ‘White House Grants Access to Anthropic’s Mythos Model to 100+ U.S. Institutions; Fable Still Shut Down’"  href="https://daringfireball.net/linked/2026/06/27/white-house-mythos-access">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
