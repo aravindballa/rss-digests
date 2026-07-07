@@ -7,20 +7,58 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-06T23:26:32Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-07T15:40:59Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices</title>
+	<link rel="alternate" type="text/html" href="https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xcc" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/07/dev-beta-3-siri-voice-sliders" />
+	<id>tag:daringfireball.net,2026:/linked//6.43212</id>
+	<published>2026-07-07T15:22:26Z</published>
+	<updated>2026-07-07T15:38:57Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Sarah Perez, writing for TechCrunch:</p>
+
+<blockquote>
+  <p>With the latest iOS 27 developer beta, Apple is giving testers an
+early look at one of the upcoming improvements to <a href="https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/">its AI-powered
+Siri</a>: the ability to adjust how quickly and expressively
+the AI assistant speaks. In iOS 27 beta 3, out today, Apple has
+enabled the voice controls for “Pace” and “Expressivity” that were
+previously labeled as “Coming soon” in the first developer beta
+releases.</p>
+</blockquote>
+
+<p>I started running developer beta 1 on a spare iPhone the day it came at WWDC. It proved so stable, and Siri AI so useful, that I moved my primary iPhone 17 Pro to the iOS 27 betas with beta 2. But I’ve more or less been living on iOS 27 developer betas for a month now. If you’re as reckless as me, you’re probably doing so already too. If you’re not, you should probably at least wait for the public betas, the first of which I’ll bet is imminent. The stability of these betas right out of the gate is proof that this really is a Snow Leopard-type fix-and-improve-the-foundations year. I love it.</p>
+
+<p>As for the new Siri voices, I think both of the new voices that are available so far are very good. Voice 1 is female and voice 2 is male; I’ve spent days with both but prefer the female voice. (I’d pay a fortune for a male voice that sounded like HAL 9000; I don’t like this guy who sounds, I don’t know, like a child psychologist or something. I don’t want “friendly”, which to me sounds saccharine and phony from a computer. The female voice sounds more emotionally removed, and thus honest, to me.)</p>
+
+<p>Credit to Apple here. Now that these sliders are available, I have to say they nailed the defaults. After a month using them without the sliders, I thought that once the settings became available I might want to tone expressivity <em>down</em> one notch and/or turn the pace <em>up</em> one notch. But, no. A little less expressivity doesn’t make voice 1 sound less phony to me — it makes her sound a tad stoned. And even one click more pace sounds too fast for me — hurried, not curt. Nailing defaults is hard and I think Apple nailed these.</p>
+
+<p>(The system dictionary definition of <em>curt</em>: “rudely brief”. That’s what I want from an AI voice. That’s a computer being honest about what it is.)</p>
+
+<div>
+<a  title="Permanent link to ‘OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices’"  href="https://daringfireball.net/linked/2026/07/07/dev-beta-3-siri-voice-sliders">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/07/eliminate_app_icon_squircle_jail" />
 	<link rel="shorturl" href="http://df4.us/xcb" />
 	<id>tag:daringfireball.net,2026://1.43211</id>
 	<published>2026-07-06T22:23:46Z</published>
-	<updated>2026-07-06T23:26:32Z</updated>
+	<updated>2026-07-07T15:40:59Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<summary type="text">Shape was often the most iconic thing about an icon. Now it’s no part at all.</summary>
 	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>Paul Kafasis, writing at Rogue Amoeba’s blog, “<a href="https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/">Free the Icons</a>”:</p>
+<p>Paul Kafasis, in a post at Rogue Amoeba’s blog titled “<a href="https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/">Free the Icons</a>”:</p>
 
 <blockquote>
   <p>Apple’s prohibition on shapes is a step backward for both
@@ -55,7 +93,7 @@ Developers adopted it because they wanted to, and because users
 desired it.</p>
 </blockquote>
 
-<p>John Siracusa has a long memory, cares deeply about Mac design, and is not prone to hyperbole (putting it mildly). I’m not sure I agree with him that this is “the worst design-related thing Apple has ever done to Mac developers”, but it’s certainly on the short list for consideration. And I can’t think of any other design crime Apple has ever foisted on Mac developers that I’d argue (with Siracusa) was worse.</p>
+<p>John Siracusa has a long memory, cares deeply about Mac design, and is not prone to hyperbole (putting it mildly). I’m not sure I agree with him that this is “the worst design-related thing Apple has ever done to Mac developers”, but it’s certainly on the short list for consideration. And, like Siracusa, I can’t think of any other design crime Apple has ever foisted on Mac developers that I’d argue (with Siracusa) was worse.</p>
 
 <p>It’s one thing for Apple to force all of its own app icons into the same identical shape. That would be bad enough, because Apple’s own Mac apps are numerous and popular, and as the platform owner Apple necessarily sets the direction that many third-party apps follow. But it’s just downright <em>spiteful</em> to enforce it platform-wide. Apple decided they’re no longer going to create nice icons with unique, interesting, and most importantly, <em>distinctive</em> shapes — but they no longer allow third-party apps to either. It’s like Apple decided every single one of its own apps must wear a stupid-looking hat, and they put those stupid-looking hats on third-party apps too, whether the developers of those apps want them or not. Scratch that. Not <em>hats</em> but <em>helmets</em>. The mandatory squircle makes identifying apps at a glance harder in the same way that it’s difficult to identify individual people if they’re all wearing same-shaped helmets. Real helmets at least serve an important safety purpose. The squircles are like stupid <em>unnecessary</em> helmets.</p>
 
@@ -140,7 +178,7 @@ differentiation and uniqueness in icons. But not anymore.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/06/backblaze-versus-dropbox" />
 	<id>tag:daringfireball.net,2026:/linked//6.43209</id>
 	<published>2026-07-06T18:34:38Z</published>
-	<updated>2026-07-06T22:29:09Z</updated>
+	<updated>2026-07-07T15:38:21Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -150,9 +188,9 @@ differentiation and uniqueness in icons. But not anymore.</p>
 
 <p>The whole thing is complicated and confusing. The basic gist, I think, is that Backblaze has stopped trying to back up the contents from these services because sometimes the files aren’t really there on your local file system, but they sorta kinda look like they’re there. That’s what I meant in my post earlier today about Maestral regarding Apple’s modern File Provider APIs. You know how sometimes in iCloud Drive — or Dropbox or OneDrive or anything else that might use these APIs — you can see a file or folder in the Finder, but there’s a “cloud” icon next to it, and you have to click the cloud icon to actually download it? That.</p>
 
-<p>With Maestral none of that comes into play. Maestral just keeps a folder on your local computer in sync with the contents of your Dropbox account. Just like the original Dropbox first-party app back in the day. So if you use Maestral, Backblaze <em>does</em> backup your Dropbox folder, because your Dropbox folder is just a regular folder (albeit, probably, a big one). It’s not a magic folder. Just a regular folder. And the Maestral software keeps its contents in sync. With software that uses Apple’s File Provider APIs — which effectively includes iCloud Drive — what you see as a user are magic folders, and the magic is undocumented.</p>
+<p>With Maestral none of that comes into play. Maestral just keeps a folder on your local computer in sync with the contents of your Dropbox account. Just like the original Dropbox first-party app back in the day. So if you use Maestral, Backblaze <em>does</em> back up your Dropbox folder, because your Dropbox folder is just a regular folder (albeit, probably, a big one). It’s not a magic folder. Just a regular folder. And the Maestral software keeps its contents in sync. With software that uses Apple’s File Provider APIs — which effectively includes iCloud Drive — what you see as a user are magic folders, and the magic is undocumented.</p>
 
-<p>Now, it turns out that Dropbox’s own first-party Mac client still has an available mode that that doesn’t use the File Provider APIs. Some people who use that old-school mode report that Backblaze still backs up their Dropbox folder. Some people say it doesn’t. Like I said, it’s confusing and complicated and undocumented on all sides. I would rather not worry about it. And with Maestral, I haven’t had to worry about it. When Maestral stops working, I might have to start worrying about it.</p>
+<p>Now, it turns out that Dropbox’s own first-party Mac client still has an available mode that doesn’t use the File Provider APIs. Some people who use that old-school mode report that Backblaze still backs up their Dropbox folder. Some people say it doesn’t. Like I said, it’s confusing and complicated and undocumented on all sides. I would rather not worry about it. And with Maestral, I haven’t had to worry about it. When Maestral stops working, I might have to start worrying about it.</p>
 
 <p>The first item Tsai links to is <a href="https://talk.tidbits.com/t/warning-backblaze-now-ignoring-dropbox-google-drive-onedrive-icloud-drive-etc/32529">this post from Rob Halliday to the venerable TidBITS-Talk forum</a>.</p>
 
@@ -2193,47 +2231,6 @@ of the company, including engaging with policymakers around the world.” It occ
 
 <div>
 <a  title="Permanent link to ‘FT Reports That Apple Is Lobbying to Buy Memory Chips From Blacklisted Chinese Company CXMT’"  href="https://daringfireball.net/linked/2026/06/27/ft-apple-cxmt">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Grok Is a Generative Porno App</title>
-	<link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/xai-bets-groks-racy-side?rc=jfy0lk" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xb2" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/27/grok-is-a-generative-porno-app" />
-	<id>tag:daringfireball.net,2026:/linked//6.43166</id>
-	<published>2026-06-27T19:57:52Z</published>
-	<updated>2026-06-27T21:53:41Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Grace Kay and Theo Wayt, writing for the paywalled-with-no-gift-links The Information:</p>
-
-<blockquote>
-  <p>xAI launched an upgraded video model last week, highlighting how
-it’s pushing ahead with its own visual efforts even as it brings
-in outside help to compete with rivals in areas like coding.
-SpaceX also touted the popularity of its AI video tools ahead of
-its blockbuster IPO. What SpaceX didn’t mention, however, is that
-much of the consumer demand stems from Grok’s looser content
-rules, which have made it a major destination for generating
-pornography and other racy content.</p>
-
-<p>Indeed, two recent xAI employees estimated that well over half of
-Grok’s overall traffic was driven by pornographic images and
-videos, adult role-play chats or other NSFW activity. On forums
-for Grok users, many of the most popular posts are porn. Users can
-generate visuals in several ways, including picking the video
-models through the consumer app or tapping them through other Grok
-products.</p>
-</blockquote>
-
-<p>Maybe that’s a sustainable business model. But I don’t think it’s what SpaceX hype investors think they’re putting their money into. If they renamed the companies to SpaceXXX and xxxAI it might dampen enthusiasm for the stock, but make more clear what they’re selling.</p>
-
-<div>
-<a  title="Permanent link to ‘Grok Is a Generative Porno App’"  href="https://daringfireball.net/linked/2026/06/27/grok-is-a-generative-porno-app">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
