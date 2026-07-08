@@ -7,7 +7,67 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-08T18:57:23Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-08T21:03:22Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Mac Apps Can Escape From Squircle Jail If They’re Not in the Mac App Store</title>
+	<link rel="alternate" type="text/html" href="https://tyler.io/2026/07/05/escape-from-squircle-jail/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xci" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/08/escape-from-squircle-jail" />
+	<id>tag:daringfireball.net,2026:/linked//6.43218</id>
+	<published>2026-07-08T21:03:21Z</published>
+	<updated>2026-07-08T21:03:22Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Tyler Hall:</p>
+
+<blockquote>
+  <p>We all know about macOS Tahoe’s <a href="https://daringfireball.net/linked/2025/11/07/tahoes-terrible-icons">terrible app icons</a> and how
+3rd party developers have been confined to <a href="https://atp.fm/643?utm_source=irisphotos">squircle jail</a>.</p>
+
+<p>If you’re lucky enough to distribute an app outside the Mac App
+Store, you can break free of squircle jail using
+<a href="https://developer.apple.com/documentation/appkit/nsdocktileplugin">NSDockTilePlugIn</a>. It’s not strictly the intended use-case of
+that API. And it’s not allowed in the Mac App Store, either. But
+it can solve the problem.</p>
+
+<p>So today’s release of Iris adds three additional app icons to
+choose from in the app’s <em>Special</em> <s>Preferences</s> Settings pane.
+And since they use the NSDockTilePlugIn API, the custom icon
+remains even when you quit the app.</p>
+</blockquote>
+
+<p>Iris is far from the only app using this or <a href="https://mastodon.social/@ccgus/116852529899432537">other techniques</a> to sort-of escape squircle jail.</p>
+
+<div>
+<a  title="Permanent link to ‘Mac Apps Can Escape From Squircle Jail If They’re Not in the Mac App Store’"  href="https://daringfireball.net/linked/2026/07/08/escape-from-squircle-jail">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>‘Searching for SmarterChild’ Kickstarter</title>
+	<link rel="alternate" type="text/html" href="https://www.kickstarter.com/projects/smarterchild/searching-for-smarterchild-a-feature-documentary/creator" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xch" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/08/searching-for-smarterchild" />
+	<id>tag:daringfireball.net,2026:/linked//6.43217</id>
+	<published>2026-07-08T20:02:10Z</published>
+	<updated>2026-07-08T20:02:11Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>After my reading my <a href="https://daringfireball.net/linked/2026/07/08/">posts earlier today</a> about ELIZA, the first “hit” chatbot from the 1960s, DF reader <em>AP</em> sent me a link to the Kickstarter page for <em>Searching for SmarterChild</em>, a project from documentary filmmakers Lindsey Sitz and Zan Gillies to make a movie about SmarterChild, an AOL Instant Messenger chatbot that once had 30 million “friends” (a.k.a. users). I don’t recall ever hearing of SmarterChild before, let alone using it. (I think I was on a very different level of the Internet back then.)</p>
+
+<p>But this looks like a great indie nerd documentary. The Kickstarter campaign has just one week left and they’re a wee bit short of their primary goal, and quite a bit short of their stretch goals. I just chipped in. Maybe you should too.</p>
+
+<div>
+<a  title="Permanent link to ‘‘Searching for SmarterChild’ Kickstarter’"  href="https://daringfireball.net/linked/2026/07/08/searching-for-smarterchild">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>My Conversation With ELIZA</title>
 	<link rel="alternate" type="text/html" href="https://sites.google.com/view/elizaarchaeology/try-eliza?authuser=0" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xcg" />
@@ -164,7 +224,7 @@ to project our own complexity onto the undeserving object”.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/08/app-icon-conventions-from-the-original-macintosh" />
 	<id>tag:daringfireball.net,2026:/linked//6.43214</id>
 	<published>2026-07-08T14:36:57Z</published>
-	<updated>2026-07-08T14:39:32Z</updated>
+	<updated>2026-07-08T20:28:01Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -187,7 +247,7 @@ because documents don’t do anything. But we’re not here to talk
 about document icons.</p>
 </blockquote>
 
-<p>I never loved the hand on these icons. It felt too uniform. It functioned like a “this is an application” badge, but such a badge never felt necessary to me. But it was so ubiquitous I sort of stopped seeing it, and now, in hindsight, it holds some nostalgic warmth. Right from the start, though, TeachText didn’t have a hand — just a pencil. This is from System 1.0:</p>
+<p>I never loved the hand on these icons. It felt too uniform. It functioned like a “this is an application” badge, but such a badge never felt necessary to me. But it was so ubiquitous I sort of stopped seeing it, and now, in hindsight, it holds some nostalgic warmth. Right from the start, though, TeachText didn’t have a hand — just a pencil:</p>
 
 <p><a href="https://daringfireball.net/misc/2026/06/system-1-teachtext-font_mover.png" class="noborder">
   <img
@@ -195,6 +255,8 @@ about document icons.</p>
     alt = "Screenshot from Macintosh System 1.0 (1984), showing the icons for the TeachText and Font Mover applications in the Finder."
     width = 300
   /></a></p>
+
+<p>[<strong>Update:</strong> Turns out TeachText didn’t appear <a href="https://web.archive.org/web/20130103030320/http://www.mac-history.net/computer-history/2008-05-27/mac-os-42/attachment/macos42-1">until 1986</a> and System 4.1. <a href="https://mastodon.social/@Cdespinosa/114836289587676676">Before that</a>, MacWrite was bundled with the Macintosh and served as the system text document reader. I wrongly thought that TeachText was part of System 1 because it’s on <a href="https://infinitemac.org/1984/System%201.0">Infinite Mac’s System 1 disk image</a>; but that image contains apps from the future that still ran with backwards compatibility on System 1. You can see the 1986 copyright in <a href="https://daringfireball.net/misc/2026/06/teachtext-about-box.png">TeachText’s about box</a>, which also gives credit by name to its author at Apple, Bryan Stearns. It may well be the case that all app icons from Apple for System 1 in 1984 had the hand-with-tool badge.]</p>
 
 <p>That TeachText icon was prescient about <a href="https://old.reddit.com/r/mac/comments/v6ylwz/does_anyone_recall_this_old_textedit_icon_mac/">the future</a> of good icon design. A year later the renamed and expanded (it now moved desk accessories in addition to fonts) Font/DA Mover lost the hand and became a fun truck (also prescient of <a href="https://www.macosicongallery.com/icons/transmit-2013-07-08/">great icons to come</a>):</p>
 
@@ -2183,65 +2245,6 @@ Doerr for “patently trying to hijack the political process.”</p>
 
 	]]></content>
   </entry><entry>
-	<title>PuffPal, an App for Accessing Cannabis Clubs, Leaked 1 Million Users’ Passports</title>
-	<link rel="alternate" type="text/html" href="https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdjV0Y5TTBuM0ciLCJwIjoiL3RlY2gvOTQ3MTU3L3Bhc3Nwb3J0cy1kYXRhLWJyZWFjaC1jYW5uYWJpcy1jbHViLXN5c3RlbXMtbmVmb3MtcHVmZnBhbCIsImV4cCI6MTc4MzA5NDY0NiwiaWF0IjoxNzgyNjYyNjQ2fQ.7SjX6B8AAGhzsdrtD5asJWBwzQvTDUD31hWte7K1oec" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xb8" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/28/puffpal-passport-leak" />
-	<id>tag:daringfireball.net,2026:/linked//6.43172</id>
-	<published>2026-06-28T17:21:42Z</published>
-	<updated>2026-06-29T23:00:58Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Sean Hollister, writing for The Verge (gift link):</p>
-
-<blockquote>
-  <p>If you’ve visited a cannabis club in Spain, [Sammy] Azdoufal says, chances
-are your photo ID was among them — and possibly your phone
-number, address, your favorite strains of cannabis, and how much
-you consumed each month while there. Azdoufal says celebrities are
-in the database, too, and visitors from all over the world,
-including 30,000 from the United States. “They have famous
-people,” says Azdoufal. “People who don’t want everyone to know
-they smoke weed.”</p>
-
-<p>But when Azdoufal decompiled that PuffPal app, <a href="https://github.com/xn0tsa/because-i-got-high">he explains in his
-report</a>, he discovered that Nefos had no meaningful level of
-security. He discovered a secret key for the Stripe payments
-platform sitting inside the app in plain text. He discovered he
-could pull up any member’s profile just by changing one number. If
-those profiles included their phone number, home address,
-passport, and weed preferences, he now had access to them too.</p>
-
-<p>And then, he discovered that those passports, drivers licenses,
-and photo IDs were stored at public URLs as simple as this:
-<code>https://ccsnubev2.com/v8/images/_{club}/ID/{user_id}-front.jpg</code></p>
-
-<p>Those clubs were uploading 5,000 new photo IDs with these insecure
-URLs every day, Azdoufal tells me.</p>
-</blockquote>
-
-<p><a href="https://github.com/xn0tsa/because-i-got-high">Azdoufal’s full report on the leak</a>, including the ease with which he discovered it, is worth reading.</p>
-
-<p><a href="https://www.schneier.com/blog/archives/2026/06/one-million-passports-leaked-online.html">Bruce Schneier</a>:</p>
-
-<blockquote>
-  <p>Note what happened. A high-value credential — a passport — was
-used in an ancillary low-value authentication system: ID
-verification for cannabis dispensaries. And it’s the low-value
-system that got hacked, putting the high-value credential at risk.</p>
-</blockquote>
-
-<p>Access to cannabis clubs has to be age verified. The security ought not be shit, but age verification is part of the industry. But now think about the legislation being proposed and passed around the world requiring age verification for just doing anything online. This sort of identity leaks is the inevitable result. And for a lot of these use cases for age verification, the security expertise is going to be even lower.</p>
-
-<div>
-<a  title="Permanent link to ‘PuffPal, an App for Accessing Cannabis Clubs, Leaked 1 Million Users’ Passports’"  href="https://daringfireball.net/linked/2026/06/28/puffpal-passport-leak">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/06/bernie_sanders_ideologue" />
 	<link rel="shorturl" href="http://df4.us/xb6" />
@@ -2295,48 +2298,6 @@ customers!!!</p>
 
     ]]></content>
   <title>★ Bernie Sanders: Ideologue and Economic Ignoramus</title></entry><entry>
-	<title>Micron Executive Sumit Sadana Tells Tim Cook to Stop Hitting Himself</title>
-	<link rel="alternate" type="text/html" href="https://www.wsj.com/tech/apple-raises-prices-on-macs-ipads-by-200-or-more-on-some-models-a7463f99?st=B1aQCP&amp;reflink=desktopwebshare_permalink" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xb7" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/27/micron-sadana-cook-hitting-himself" />
-	<id>tag:daringfireball.net,2026:/linked//6.43171</id>
-	<published>2026-06-27T23:30:00Z</published>
-	<updated>2026-06-27T23:36:17Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>From the bottom of Rolfe Winkler’s report for The Wall Street Journal Thursday, on Apple’s unprecedented price increases (gift link):</p>
-
-<blockquote>
-  <p>Apple’s price hikes arrived the day after Micron Technology, the
-big American maker of memory and storage, reported blowout
-quarterly earnings, touting gross profit margins that topped 80%.
-Shares jumped 16% after the close and appeared likely to power a
-Thursday rally among semiconductor stocks. [...]</p>
-
-<p>In an interview Wednesday night, Micron Chief Business Officer
-Sumit Sadana said the company couldn’t make investments during the
-memory market’s last downturn, when Micron’s gross profits went
-negative, in part because certain customers took advantage to pay
-rock-bottom prices.</p>
-
-<p>“We told a couple of the customers who were being very aggressive
-with pricing at that time that this is not constructive,” he said,
-without naming Apple, adding that low prices discouraged capital
-investments. “A lot of the industry investments got shut down in
-2023 because of really poor pricing and really poor margins.”</p>
-</blockquote>
-
-<p>I overlooked this segment when I read (<a href="https://daringfireball.net/linked/2026/06/25/apple-raises-prices">and linked to</a>) Winkler’s report Thursday. It really does seem clear that Sadana is blaming Apple for not cutting Micron any slack when the supply/demand curve for RAM had a different look in 2023. I’m sure Micron’s current 80 percent margins are here to stay this time, so getting a few jabs in at Apple will never come back to bite Micron and Sadana.</p>
-
-<div>
-<a  title="Permanent link to ‘Micron Executive Sumit Sadana Tells Tim Cook to Stop Hitting Himself’"  href="https://daringfireball.net/linked/2026/06/27/micron-sadana-cook-hitting-himself">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/06/om" />
 	<link rel="shorturl" href="http://df4.us/xay" />
