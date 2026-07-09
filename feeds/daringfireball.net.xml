@@ -7,7 +7,169 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-09T17:19:27Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-09T20:40:32Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Today’s the Day OpenAI Fucked Up the ChatGPT Mac App</title>
+	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/07/09/openai-announcing-the-next-chapter-for-chatgpt-today-watch-here/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xco" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/09/todays-the-day-openai-fucked-up-the-chatgpt-mac-app" />
+	<id>tag:daringfireball.net,2026:/linked//6.43224</id>
+	<published>2026-07-09T20:13:57Z</published>
+	<updated>2026-07-09T20:19:49Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Zac Hall, writing at 9to5Mac about OpenAI’s <a href="https://openai.com/index/gpt-5-6/">sprawling product announcements</a> today:</p>
+
+<blockquote>
+  <p>To summarize today’s desktop app changes:</p>
+
+<ul>
+<li><p>The existing ChatGPT app is now ChatGPT Classic.</p></li>
+<li><p>Codex is now the new ChatGPT desktop app. It still looks like
+Codex and includes the Codex icon as an option, but it’s now
+called ChatGPT.</p></li>
+<li><p>ChatGPT for desktop includes ChatGPT Work and ChatGPT Codex,
+which share plug-ins. ChatGPT Codex mode shows more technical
+details that ChatGPT Work abstracts away from the user.</p></li>
+<li><p>It’s possible to have ChatGPT Classic, ChatGPT, and Codex
+installed, but the way forward seems to be just running the new
+ChatGPT desktop app. Codex users can still use the Codex app
+icon, but the app will be called ChatGPT.</p></li>
+</ul>
+</blockquote>
+
+<p>Looks like I picked the wrong week to quit sniffing glue.</p>
+
+<blockquote>
+  <p>The ChatGPT Classic app looks more native Mac-like, so that might
+be an issue for users.</p>
+</blockquote>
+
+<p>The longstanding native ChatGPT Mac app — the one apparently now called ChatGPT Classic, is a 159 MB bundle. The new ChatGPT superapp — which in addition to combining the simple chatbot, <a href="https://openai.com/index/chatgpt-for-your-most-ambitious-work/">ChatGPT Work</a>, and Codex, also includes the remnants of the <a href="https://9to5mac.com/2026/07/09/openai-is-discontinuing-chatgpt-atlas-its-standalone-desktop-browser/">now-discontinued Atlas standalone web browser</a> — <a href="https://mastodon.social/@ccgus/116891511328402300">is a svelte 1.5 GB Electron bundle</a>, which doesn’t sound super to me at all.</p>
+
+<div>
+<a  title="Permanent link to ‘Today’s the Day OpenAI Fucked Up the ChatGPT Mac App’"  href="https://daringfireball.net/linked/2026/07/09/todays-the-day-openai-fucked-up-the-chatgpt-mac-app">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Apple’s Classic Mac Era Forays Into ‘Apps as Tiled Buttons’ Simplified Computing: At Ease and Launcher</title>
+	<link rel="alternate" type="text/html" href="https://daringfireball.net/2026/07/whats_good_for_the_ios_goose_is_often_not_good_for_the_macos_gander" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xcn" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/09/at-ease-and-launcher" />
+	<id>tag:daringfireball.net,2026:/linked//6.43223</id>
+	<published>2026-07-09T19:50:58Z</published>
+	<updated>2026-07-09T19:50:59Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Some historical follow-up regarding just-click-it launching and apps as tiled buttons with a uniform square shape. Back in the System 7 era in the 1990s, <a href="http://toastytech.com/guis/atease.html">Apple sold (sold!) a product called At Ease</a> (via  Nathan Lineback’s venerable GUI Galley):</p>
+
+<p><a href="https://daringfireball.net/misc/2026/06/at-ease.png" class="noborder">
+  <img
+    src = "https://daringfireball.net/misc/2026/06/at-ease.png"
+    alt = "Screenshot of At Ease on System 7.5."
+    width = 320
+  /></a></p>
+
+<p>I don’t recall ever using At Ease, nor seeing anyone who did.</p>
+
+<p>A few years later, Apple built <a href="https://www.linkedresources.com/teach/MacOS_classic/launcher.php">a feature called Launcher into Mac OS 8</a> (via LinkedResources):</p>
+
+<p><a href="https://daringfireball.net/misc/2026/06/mac-os-launcher.gif" class="noborder">
+  <img
+    src = "https://daringfireball.net/misc/2026/06/mac-os-launcher.gif"
+    alt = "Screenshot of Launcher on Mac OS 8."
+  /></a></p>
+
+<p>Launcher, I never used personally, but I do remember being something of a thing. At Ease was an early effort to create a primitive “can’t mess it up” baby computer mode for the Mac. Launcher was more of a stilted attempt to sherlock great utilities like <a href="https://daringfireball.net/linked/2019/10/08/dragthing-rip">DragThing</a> (R.I.P.). It wasn’t a baby computer mode, but an attempt to provide a bit of a power-user mode. I mean, when you first tried it, one of the default apps it included was Script Editor. Even the name “Launcher” evokes power-user utilities of today like <a href="https://www.alfredapp.com/">Alfred</a>, <a href="https://www.raycast.com/">Raycast</a>, and my favorite, <a href="https://www.obdev.at/launchbar">LaunchBar</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple’s Classic Mac Era Forays Into ‘Apps as Tiled Buttons’ Simplified Computing: At Ease and Launcher’"  href="https://daringfireball.net/linked/2026/07/09/at-ease-and-launcher">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/07/ternus_apple_slippery_slope" />
+	<link rel="shorturl" href="http://df4.us/xcm" />
+	<id>tag:daringfireball.net,2026://1.43222</id>
+	<published>2026-07-09T19:17:37Z</published>
+	<updated>2026-07-09T20:40:32Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">What gave Tim Cook’s privacy letter heft in 2014 wasn’t just the clarity of its plain language, but the fact that you didn’t have to take his word for it that the ads Apple showed you respected your privacy, because Apple didn’t show you ads in 2014.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>In September 2014, in the wake of a series of hacks <a href="https://daringfireball.net/linked/2014/09/02/icloud-security">that stole private photos from the iCloud accounts of multiple celebrities</a>, Tim Cook wrote an open letter to customers that was published at <code>apple.com/privacy</code>. Apple seemingly no longer hosts a copy of the letter. (That <a href="https://daringfireball.net/2007/02/reading_between_the_lines">tends to happen</a> to <a href="https://daringfireball.net/linked/2010/04/29/jobs-thoughts-on-flash">memorable open letters</a> from Apple CEOs.) The Wall Street Journal’s fast-loading website <a href="https://blogs.wsj.com/digits/2014/09/18/read-apple-ceo-tim-cooks-letter-on-privacy/?st=fRtsBk">still hosts a copy of the letter</a>, as does <a href="https://web.archive.org/web/20140927000921/http://www.apple.com/privacy/">the Internet Archive’s essential but slow-loading site</a>.</p>
+
+<p>Cook’s letter is cogent and clear, and well worth reading in full today. But when you do, you can see why Apple no longer hosts a copy:</p>
+
+<blockquote>
+  <p>A few years ago, users of Internet services began to realize that
+when an online service is free, you’re not the customer. You’re
+the product. But at Apple, we believe a great customer experience
+shouldn’t come at the expense of your privacy.</p>
+
+<p>Our business model is very straightforward: We sell great
+products. We don’t build a profile based on your email content or
+web browsing habits to sell to advertisers. We don’t “monetize”
+the information you store on your iPhone or in iCloud. And we
+don’t read your email or your messages to get information to
+market to you. Our software and services are designed to make our
+devices better. Plain and simple.</p>
+
+<p>One very small part of our business does serve advertisers, and
+that’s iAd. We built an advertising network because some app
+developers depend on that business model, and we want to support
+them as well as a free iTunes Radio service. iAd sticks to the
+same privacy policy that applies to every other Apple product. It
+doesn’t get data from Health and HomeKit, Maps, Siri, iMessage,
+your call history, or any iCloud service like Contacts or Mail,
+and you can always just opt out altogether.</p>
+</blockquote>
+
+<p>Some of this remains true, but has lost some <a href="https://www.merriam-webster.com/dictionary/truthiness">truthiness</a> — and truthiness matters. But some of it is no longer true, period. It’s no longer just “one small part” of Apple’s business that serves advertisers. Here in 2026, search results in the App Store not only show paid ads — <a href="https://daringfireball.net/2022/10/app_store_ads_gone_wild">frequently for casinos</a> — but the search results are <a href="https://blog.thinktapwork.com/post/812803664980967425/ios-app-store-search-is-rotten">visually <em>dominated</em></a> by paid ads <a href="https://daringfireball.net/linked/2026/05/04/ios-app-store-slippery-slope">now that Apple has added a second ad to results</a>. Apple News+ is a paid subscription that offers a genuinely great value for the number of paywalled publishers whose content it includes, but articles on the News app tend to include the weirdest AI-generated ads on the Internet. (How many young blond women am I supposed to believe <a href="https://daringfireball.net/misc/2026/06/apple-news-blond-women-hearing-aids.jpeg">need hearing aids</a>?) And — at this writing, <a href="https://daringfireball.net/misc/2026/06/Ads_on_Apple_Maps%E2%80%932026-07-09.pdf">still “coming soon”</a> — Apple is launching <a href="https://ads.apple.com/maps">ads on Apple Maps</a>. Apple Maps remains free of charge to use, so according to Tim Cook, we’re not the customer. We’re the product. Or, if you prefer, our <a href="https://daringfireball.net/2026/03/your_frustration_is_the_product">frustration is the product</a>.</p>
+
+<p>I thought to revisit Cook’s 2014 “you’re not the customer, you’re the product” letter today in light of <a href="https://daringfireball.net/linked/2026/07/09/meta-instagram-ai-defaults">Meta’s new policy of defaulting Instagram users into having their personal content serve as grist</a> for AI-generated content created by other users. <a href="https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html?unlocked_article_code=1.wVA.Q5Do.Uvg5yPwCEB5H">The New York Times described</a> Meta’s on-by-default policy as “surprising”; I say it’s not surprising <em>at all</em>. Meta has never shown any respect for its users’ privacy, and when they’ve claimed to, <a href="https://x.com/rmac18/status/2074949389702029811">everyone knew it was a sham</a>. They no longer show any respect <a href="https://daringfireball.net/linked/2026/07/02/orosz-meta-engineering-culture">for their own engineers’ privacy</a> for chrissake.</p>
+
+<p>But Apple? Apple meant it. And I think they still do. But I think they’re lost in the weeds on two fronts:</p>
+
+<ol>
+<li>Squeezing out every extra cent of Services revenue they can.</li>
+<li>Satisfied in their own deep knowledge of how their systems are designed to safeguard users’ privacy and personal data.</li>
+</ol>
+
+<p>Issue #1 is self-explanatory. The ratio of ads to organic results in App Store search — especially when measured in screen area — is clearly not aligned with Cook’s 2014 statement that “Our software and services are designed to make our devices better. Plain and simple.” Obviously not. The design of App Store search today is to generate more revenue for Apple. That’s not criminal, but it’s a change.</p>
+
+<p>Issue #2 is more subtle. Apple really does have a religious fervor for privacy. Consider ads for Maps. It hasn’t shipped yet but <a href="https://ads.apple.com/maps">Apple states</a>, “Run ads in a privacy-first environment that respects your customers, who already trust Maps. No tracking — just helpful discovery.” I’m quite sure that’s all completely true. I just wrote last week about how <a href="https://daringfireball.net/2026/06/scotus_geofence_warrant_search">Apple has never had to deal with “geofence warrants” for its location services</a> because Apple has never kept personally-identifiable usage data for location. They not only <em>don’t</em> give advertisers — or law enforcement — your location data, but <em>can’t</em>, because they don’t collect it and never did.</p>
+
+<p>So let’s just concede that the upcoming ads in Apple Maps are completely private. How many users are going to believe that? Or assume it? I think very few. People see ads and they think “I’m being tracked.” When Apple starts showing ads in Maps, many — perhaps most — users are going to think they’re being tracked by Apple and their location “is being sold” to advertisers.</p>
+
+<p>It’s not true. Apple knows it’s not true, because they built and control all of the systems involved. Apple is very proud that this is true, and they should be. It’s a good thing and it really is an important institutional value at the company. It’s a religious fervor. On this particular issue Apple really is set apart from its peer-sized companies in technology.</p>
+
+<p>But that’s not what the general population believes. The general population thinks of “Big Tech” as a single, almost unified, hegemony. A lot of “Apple users” only use one Apple platform, the iPhone, and if they own another Apple product or two they’re iPhone peripherals like AirPods and Apple Watch. If they believe Apple is ethically better with regard to privacy (or anything else) than other companies, it’s only a <em>little</em> better. Most people have no idea whatsoever how anything Apple sells actually works. It’s all magic. That’s why <a href="https://journals.sagepub.com/doi/10.1177/20539517251337102">a majority of adults believe</a> that apps on their devices surreptitiously listen to and record real-world conversations in order to show them eerily-accurate targeted ads. Apple has actually done a lot of hard engineering and design work to guarantee that software on your devices <em>can’t</em> surreptitiously listen to you. But most people don’t know that and wouldn’t understand it if it were explained to them. All they know is that they were talking about Frisbees the other day, after having not uttering the word “Frisbee” in years, and now they’re seeing ads for flying discs in Instagram — and the only explanation that makes any sense to them is that their phone “listens” and betrays their privacy.</p>
+
+<p>What gave Tim Cook’s privacy letter heft in 2014 wasn’t just the clarity of its plain language, but the fact that you didn’t have to take his word for it that the ads Apple showed you respected your privacy, because Apple didn’t show you ads in 2014.<sup id="fnr1-2026-07-09"><a href="#fn1-2026-07-09">1</a></sup> Apple today can’t say that. Apple can prove to itself, and to technically sophisticated outsiders who are willing to listen, that it can serve ads — even in Maps — in privacy-protecting ways. But the only way they can prove to <em>most people</em> that they’re not betraying the privacy of their location data or app usage is not to sell such ads in first place. Seeing is believing, and when people see ads in their maps app, they believe they’re being tracked.</p>
+
+<p>John Ternus should return Apple’s privacy policy to its 2014 clarity. The trust Apple would earn from such a move would far out-value whatever revenue these ads pad to their already hefty and ever-increasing quarterly Services numbers. “<em>The companies that offer you services free-of-charge to show you ads are betraying your privacy and disrespecting your attention</em>” is a powerful marketing message that only one major tech company used to be able to credibly make. That’s always been a resonant message, but never more so than today, in the age of AI. Ternus should make the slight course correction needed so that Apple can hammer that message once again.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1-2026-07-09">
+<p>The genius — cynical genius, perhaps, but genius — part of Apple’s privacy stance regarding advertising is that they’ve made veritable mountains of profit through <a href="https://daringfireball.net/linked/2023/10/27/google-aggregate-search-default">the traffic acquisition cost partnership with Google</a> for web search traffic originating from Safari. That deal made Apple one of the most profitable companies in the highly lucrative Internet advertising industry without themselves needing to sell or display a single ad. Apple’s hands are clean from that deal except for whatever germs they pick up counting the $20+ billion in cash that Google trucks over from Mountain View to Cupertino every year. The ads Apple shows in the App Store and (soon) in Maps will dirty their reputation while generating far, far less money than they continue to rake from the Google/Safari deal, which deal leaves Apple’s reputation unsullied.&nbsp;<a href="#fnr1-2026-07-09"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
+</li>
+</ol>
+</div>
+
+    ]]></content>
+  <title>★ John Ternus Should Reverse Apple’s Slide Down the Advertising Slippery Slope</title></entry><entry>
 	<title>Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI</title>
 	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html?unlocked_article_code=1.wVA.Q5Do.Uvg5yPwCEB5H" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xcl" />
@@ -48,7 +210,7 @@ create new A.I. images, the company wrote in a blog post.</p>
 	<link rel="shorturl" href="http://df4.us/xck" />
 	<id>tag:daringfireball.net,2026://1.43220</id>
 	<published>2026-07-09T01:45:08Z</published>
-	<updated>2026-07-09T01:45:09Z</updated>
+	<updated>2026-07-09T20:23:31Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -80,7 +242,7 @@ is and was this okay for you, but it’s not for macOS?</p>
 
 <p>Plus, Macintosh icons have four decades of <a href="https://basicappleguy.com/basicappleblog/macos-icon-history">glorious history</a>. Style and fashion change over time. But limitations should not be imposed where freedom once reigned. </p>
 
-<p>And shape as a differentiating factor is not mere decoration. We have long known this. We all knew this. And not only did Apple know it, the rest of us knew it because we learned it from Apple. Via the Internet Archive, <a href="https://web.archive.org/web/20181206014649/https://developer.apple.com/design/human-interface-guidelines/macos/icons-and-images/app-icon/">here’s Apple’s Macintosh Human Interface Guidelines from 2018</a>,<sup id="fnr1-2026-07-08"><a href="#fn1-2026-07-08">1</a></sup> which is not that long ago:</p>
+<p>And shape as a differentiating factor is not mere decoration. We have long known this. We all knew this. And not only did Apple know it, the rest of us knew it because we learned it from Apple. Via the Internet Archive, <a href="https://web.archive.org/web/20181206014649/https://developer.apple.com/design/human-interface-guidelines/macos/icons-and-images/app-icon/">here’s Apple’s Macintosh Human Interface Guidelines from 2018</a>,<sup id="fnr1-2026-07-08"><a href="#fn1-2026-07-08">1</a></sup> which was not that long ago:</p>
 
 <blockquote>
   <p><em>Consider giving your app icon a realistic, unique shape.</em> In
@@ -2202,130 +2364,4 @@ vulnerabilities.</p>
 </div>
 
 	]]></content>
-	<title>[Sponsor] Day One Journal</title></entry><entry>
-	<title>Auth.md — an Open Protocol for Agent Registration From WorkOS</title>
-	<link rel="alternate" type="text/html" href="https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xbc" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/28/workos-auth-md" />
-	<id>tag:daringfireball.net,2026:/linked//6.43176</id>
-	<published>2026-06-29T01:32:24Z</published>
-	<updated>2026-06-29T01:33:02Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>My thanks to WorkOS for sponsoring DF last week to promote Auth.md, their new open protocol for AI agent registration. (Who’d have thunk that I’d be getting paid to promote new uses for Markdown <a href="https://daringfireball.net/2004/03/dive_into_markdown">22 years after releasing it</a>?)</p>
-
-<p>Sign-up forms were built for humans in browsers, so how do AI agents programmatically register with services? That’s the question Auth.md aims to answer. It’s a single Markdown file you host at your domain that tells agents how to register your users, which flows you support, what scopes you expose, and how credentials get issued. It’s like robots.txt but for agent registration.</p>
-
-<p>Cloudflare, Firecrawl, and Resend have already adopted it.</p>
-
-<p>An open protocol authored by WorkOS. <a href="http://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026">Read the spec</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Auth.md — an Open Protocol for Agent Registration From WorkOS’"  href="https://daringfireball.net/linked/2026/06/28/workos-auth-md">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Daniel Agee: ‘Remembering Om’</title>
-	<link rel="alternate" type="text/html" href="https://glass.photo/highlights/remembering-om" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xbb" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/28/agee-om-glass" />
-	<id>tag:daringfireball.net,2026:/linked//6.43175</id>
-	<published>2026-06-29T01:21:49Z</published>
-	<updated>2026-06-29T01:21:49Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Daniel Agee, an early member of the team at Glass, writing on the Glass blog:</p>
-
-<blockquote>
-  <p>It’s not lost on us that <a href="https://glass.photo/om">Om’s photography</a>, often taken in frozen
-lands in or around the arctic circle, was the polar opposite of
-his personality. While he focused on subtle shapes and hidden
-landscapes, he was the sun of any group he was in. Folks just
-naturally fell into his orbit.</p>
-</blockquote>
-
-<p>Agee’s lovely piece is replete with photos by Om. </p>
-
-<blockquote>
-  <p>A veteran of the internet publishing space, he was one of the
-first to take the now well-worn path of technology writing into
-venture capital. When we briefly explored raising a small round of
-VC funding after our launch to support our growth, Om was our
-first call. He answered and immediately said, “I love you guys,
-I’ll invest the money if you want it, but don’t fucking do it.
-What you have is special. Don’t fucking ruin it.”</p>
-
-<p>That’s Om. Simple and to the point. That simplicity showed up in
-his photography practice. Strip away everything from a photograph,
-down to the bare minimum of contrast or shadow. What do you focus
-on? What do you see? How can something so simple be so fulfilling?</p>
-</blockquote>
-
-<p>That is exactly how Om spoke. Always. To the point. Why waste time? Why mince words? Why make someone guess what you really think? Our instincts say otherwise, but it’s not rude to be blunt. <a href="https://www.vanityfair.com/news/tech/2014/10/jony-ive-lessons-from-steve-jobs">Unmoderated honesty is a profound courtesy</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Daniel Agee: ‘Remembering Om’’"  href="https://daringfireball.net/linked/2026/06/28/agee-om-glass">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/06/bernie_sanders_ideologue" />
-	<link rel="shorturl" href="http://df4.us/xb6" />
-	<id>tag:daringfireball.net,2026://1.43170</id>
-	<published>2026-06-27T23:35:00Z</published>
-	<updated>2026-06-27T23:45:40Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">Sanders’s tweet is better punctuated and capitalized, but it’s the same argument as Trump’s. Zero economic sense, 100 percent ideological wishful thinking.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p><a href="https://x.com/sensanders/status/2070213058950287865">Bernie Sanders, posting on Twitter/X</a> Thursday (don’t complain to me that he doesn’t use <a href="https://bsky.app/profile/sanders.senate.gov">his Bluesky account</a>):</p>
-
-<blockquote>
-  <p>Corporate greed is Tim Cook, the billionaire Apple CEO, claiming
-that hiking prices on Apple products by over $200 is “unavoidable”
-after it made $112 billion in profits last year &amp; spent $310
-billion on stock buybacks.</p>
-
-<p>These price hikes aren’t unavoidable. They’re unacceptable.</p>
-</blockquote>
-
-<p>It boggles the mind how anyone could post this and not question the common sense napkin math of a company spending 3× its annual profit on stock buybacks. That’s theoretically possible, I suppose, but obviously unsustainable. A company would have to burn through a cash hoard or incur massive amounts of debt to spend 3× its profit on anything. It makes no sense. Someone who doesn’t consider the common sense of those numbers probably shouldn’t be spouting off on anything related to economics. And of course Apple files <a href="https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm">an annual report with the SEC</a>, easily searchable via the web, which plainly shows that the company spent $89 billion on stock repurchases last year, and paid shareholders $15 billion in dividends. Those numbers make sense for a company that earned $112 billion in profit.</p>
-
-<p>I suspect Sanders is so ignorant of basic economics that he sees the ampersand in his tweet as additive — that Apple made $112 billion in profit <em>and</em> spent $310 billion in buybacks and thus had something like $420 billion of money “in the black” with which they could eat the cost of rising RAM and SSD components. But they’re not additive. Stock repurchases are purchases. If Apple actually <em>had</em> spent $310 billion on stock buybacks last year — which, to repeat, they most certainly did not — even Karl Marx might excuse them for raising prices on their products this year, because they’d be in a $200 billion hole they needed to dig out of.</p>
-
-<p>But such concerns, obvious to anyone who’s taken an Econ 101 course in college, seldom stop ideologues.</p>
-
-<p>Putting aside Sanders’s factually incorrect and nonsensical $310 billion figure, let’s just consider this general scenario: A company makes a product that consists of essential components they must purchase from suppliers. <em>Something happens</em> — outside the company’s control — that causes those essential components to rise in price significantly. Therefore the cost of goods for the company’s product increases significantly. What should the company do? Raise prices and pass those increased costs on to their customers, maintaining the same level of profit for themselves? Or hold prices steady and eat those costs, accepting lower profits or even negative margins, so that customers remain unaffected?</p>
-
-<p>One can hold logically consistent views at both extremes. At one end, the belief that business is business and higher costs naturally result in higher prices passed along to customers. At the other end, the belief that companies should put the welfare of their customers ahead of their own profit seeking. Perhaps you think the answer is somewhere in-between: somewhat higher prices and somewhat lower profit margins.
-What you cannot do is hold a philosophically consistent logically coherent view where your answer to how a company should respond in such a scenario is contingent on what the “<em>something happens</em>” is that caused component prices to rise.</p>
-
-<p>When the “<em>something happens</em>” is a global RAM and SSD shortage resulting from the AI datacenter capex spending spree, Sanders’s tweet makes clear that he’s of the opinion that Apple should eat these costs.</p>
-
-<p>But when the “<em>something happens</em>” was Trump’s tariffs, <a href="https://www.sanders.senate.gov/press-releases/news-sanders-statement-on-trumps-escalating-trade-war-with-the-world/">Sanders argued</a> that (emphasis added) “Trump’s across-the-board tariffs are not the way to do it. We do not need a blanket and arbitrary sales tax on imported goods <em>which will raise prices on products</em> that the American people desperately need.” <a href="https://www.sanders.senate.gov/press-releases/news-sanders-statement-on-trump-tariff-announcement/">And again</a>: “Trump’s blanket tariffs <em>will just raise prices for American consumers</em> and hurt our relationships with allies, undermining our global position.” Not “might” raise prices. “Will” raise prices.</p>
-
-<p>Sanders arguing today that Apple should eat the entire cost of rising RAM and SSD components makes no more sense than <a href="https://daringfireball.net/linked/2025/05/19/trump-walmart-tariffs">this tweet from Donald Trump a year ago</a>:</p>
-
-<blockquote>
-  <p>Walmart should STOP trying to blame Tariffs as the reason for
-raising prices throughout the chain. Walmart made BILLIONS OF
-DOLLARS last year, far more than expected. Between Walmart and
-China they should, as is said, “EAT THE TARIFFS,” and not charge
-valued customers ANYTHING. I’ll be watching, and so will your
-customers!!!</p>
-</blockquote>
-
-<p>Sanders’s tweet is better punctuated and capitalized, but it’s the same illogic. Zero economic sense, 100 percent ideological wishful thinking. Yelling angrily doesn’t make your argument any more compelling or coherent.</p>
-
-    ]]></content>
-  <title>★ Bernie Sanders: Ideologue and Economic Ignoramus</title></entry></feed><!-- THE END -->
+	<title>[Sponsor] Day One Journal</title></entry></feed><!-- THE END -->
