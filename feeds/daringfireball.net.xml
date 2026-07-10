@@ -7,7 +7,95 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-10T14:30:19Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-10T21:20:22Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Apple Sues OpenAI, io, and Former Employees, Alleging Theft of Trade Secrets</title>
+	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xcq" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/10/apple-sues-openai" />
+	<id>tag:daringfireball.net,2026:/linked//6.43226</id>
+	<published>2026-07-10T21:01:43Z</published>
+	<updated>2026-07-10T21:20:22Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Chance Miller, 9to5Mac:</p>
+
+<blockquote>
+  <p>The lawsuit names Chang Liu and Tang Tan as two of the defendants.
+Tang Tan served as VP of product design at Apple, leading iPhone
+and Apple Watch product design. He departed the company in
+February 2024 to work with Jony Ive. Chang Liu, meanwhile, worked
+at Apple for eight years and was a senior system electrical
+engineer before departing to join OpenAI in January 2026.</p>
+
+<p>Apple’s lawsuit also names OpenAI and io Products as defendants.</p>
+
+<p>OpenAI’s hardware efforts are being led by Jony Ive, Apple’s
+former chief design officer. OpenAI acquired Ive’s startup io
+as part of a $6.5 billion deal last year. OpenAI’s takeover of
+the company included more than 50 engineers, developers, and
+other employees. In its original announcement, OpenAI touted
+that Ive founded io in collaboration with Scott Cannon, Evans
+Hankey, and Tan.</p>
+
+<p>Hankey led Apple’s design team for several years after Ive
+departed the company. She departed in 2022 before reuniting with
+Ive as part of io. Cannon also previously worked at Apple.</p>
+
+<p>Ive, Hankey, and Cannon are not personally mentioned anywhere in
+Apple’s initial filing today.</p>
+</blockquote>
+
+<p><a href="https://daringfireball.net/misc/2026/06/Apple_Inc._v._Chang_Liu_et_al.pdf">Here’s a copy of Apple’s complaint I’m hosting</a>. You should read the complaint to form your own opinion on the allegations. The complaint goes so far out of its way to <em>avoid</em> mentioning Ive or Hankey by name that it describes io’s founding thus, on page 4 (italics added):</p>
+
+<blockquote>
+  <p>OpenAI and its cohorts have been engaging in a coordinated pattern
+of misconduct at an institutional level as well. This includes io
+(which OpenAI acquired), <em>a venture co-founded by Mr. Tan and
+other former Apple leaders</em>. The Corporate Defendants, with or
+through their employees or partners, have been acting in concert
+and as an enterprise, exploiting Apple’s confidential information
+to advance OpenAI’s efforts to enter the consumer hardware market.
+They have used confidential Apple information in approaching
+Apple’s trusted partners, even having one carry out a specific
+trade secret metal-finishing technique for OpenAI, misleading the
+partner to believe they had Apple’s permission to do so.</p>
+
+<p>This is the tip of the iceberg. Apple lacks visibility into what’s
+been happening behind closed doors at OpenAI, where such
+misconduct is normalized and exemplified by leadership. This much
+is clear, however: at every level, from members of its Technical
+Staff to its Chief Hardware Officer, and in coordination with
+business partners, OpenAI has been stealing Apple’s trade secrets
+and confidential information. As a natural result, OpenAI’s
+nascent hardware business now rests on the shakiest of
+foundations, rotten to its core by its illegal reliance on
+misappropriated trade secrets.</p>
+</blockquote>
+
+<p>Footnote 13 on p. 15 states:</p>
+
+<blockquote>
+  <p>Apple and OpenAI have a commercial relationship involving the
+integration of OpenAI’s ChatGPT into Apple Intelligence. The
+companies have entered into a written agreement governing that
+integration. That agreement is not at issue here. OpenAI’s acts of
+trade secret misappropriation alleged herein do not arise from and
+have no connection to that agreement.</p>
+</blockquote>
+
+<p>Be that as it may, legally, it seems untenable for that Apple Intelligence partnership to continue after this.</p>
+
+<p><strong>See also:</strong> <a href="https://www.techmeme.com/260710/p25#a260710p25">Techmeme’s roundup</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Sues OpenAI, io, and Former Employees, Alleging Theft of Trade Secrets’"  href="https://daringfireball.net/linked/2026/07/10/apple-sues-openai">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Shocking No One, Fidji Simo, Would-Be Usurper, Is Out at OpenAI</title>
 	<link rel="alternate" type="text/html" href="https://www.wsj.com/tech/openai-top-executive-fidji-simo-to-step-down-c3daca47?st=NfBZTe" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xcp" />
@@ -2285,78 +2373,6 @@ businesses to support future innovation.</p>
 
 <div>
 <a  title="Permanent link to ‘CMA Consultation on Mobile App Steering and NFC Access’"  href="https://daringfireball.net/linked/2026/06/30/cma-consultation">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>U.K. Regulator Considers Requiring App Store to Allow Steering to the Web, and iOS NFC to Be Open</title>
-	<link rel="alternate" type="text/html" href="https://www.reuters.com/world/uk-regulator-proposes-easing-apple-google-app-store-payment-rules-2026-06-30/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xbf" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/30/uk-cma-regulations-app-store-nfc" />
-	<id>tag:daringfireball.net,2026:/linked//6.43179</id>
-	<published>2026-06-30T15:44:49Z</published>
-	<updated>2026-06-30T17:23:42Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Sam Tabahriti, reporting for Reuters:</p>
-
-<blockquote>
-  <p>Britain’s competition regulator ​on Tuesday proposed allowing app
-developers to steer users to alternative payment options outside
-Apple and Alphabet’s Google app stores to cut fees and boost
-competition. The Competition and Markets Authority said the proposals would
-remove restrictions that currently prevent UK developers from
-directing users to off-platform payment options, which are banned
-by Apple and restricted by Google.</p>
-
-<p>The watchdog said any fees charged by two of the world’s largest
-technology companies ​for allowing such “steering” would need to
-be fair and reasonable, and should be lower than current app store
-commissions, with ​savings passed on to consumers or reinvested in
-innovation.</p>
-</blockquote>
-
-<p>How does one mandate that the savings be passed on to consumers? You may recall that last year Apple published a study — that it commissioned itself — suggesting otherwise. <a href="https://daringfireball.net/linked/2025/12/08/dutch-app-store-antitrust-suit">I wrote in December</a>:</p>
-
-<blockquote>
-  <p>This all comes back to the argument that Apple’s App Store
-commission inflates prices. <a href="https://developer.apple.com/download/files/DMA-Study-Nov-2025.pdf">A recent Apple-funded (and
-Apple-promoted) study</a> suggests this is not true — that
-with lower commissions mandated by the DMA, prices paid by
-consumers stayed the same and the difference went to the
-developers. That’s <a href="https://pxlnv.com/linklog/apple-dma-commission-study/">good if you’re a developer</a>, but it’s
-not the argument being made by these consumer advocate groups.</p>
-
-<p>That said, <a href="https://pxlnv.com/linklog/apple-dma-commission-study/">I pointed out just the other day</a> that Tiimo, a
-to-do app that Apple just named as the iPhone app of the year in
-the 2025 App Awards, charges about 20 percent less for
-subscriptions on its website compared to its in-app subscriptions.
-An Apple-funded, Apple-promoted study showing that the App Store’s
-commissions don’t raise prices ought to be taken with a few grains
-of salt.</p>
-</blockquote>
-
-<p>Requiring Apple to allow apps to steer users to the web to make payments is, <a href="https://daringfireball.net/2025/12/apple_japan_msca_compliance">I’ve long argued</a>, sensible regulation. <a href="https://daringfireball.net/2024/01/coming_to_grips_with_apples_seemingly_unshakable_sense_of_app_store_entitlement">I’ve also long argued</a> that Apple has been obstinate in disallowing it. If in-app payments — through Apple’s system — can’t compete with out-of-app payments on the web, something is wrong with IAP. But it’s wrong to assume that payments outside IAP will result in lower prices and better policies for users. IAP subscriptions are easy to cancel and <a href="https://support.apple.com/en-us/118428?device-type=mac">listed all in one place</a>. Web subscriptions are often notoriously difficult to cancel and manage.</p>
-
-<p>Back to Reuters:</p>
-
-<blockquote>
-  <p>The CMA said it was also considering requiring Apple to open up
-access to its near-field communication technology, which is used
-for contactless payments, potentially allowing developers to offer
-payment services within their own iOS apps. This could enable UK
-fintech companies to build alternatives to ​Apple’s wallet,
-including account-to-account payments and emerging technologies
-such as digital currencies, the CMA said.</p>
-</blockquote>
-
-<p>Even more so than opening up third-party in-app payment processing, this seems like something only “fintech” companies are asking for. For users I think the only result will be a loss of interoperability and increase in confusion. Users get one Wallet app today, with all their credit, debit, and loyalty cards, and all their tickets for things like events and travel. A scenario where each credit card company, airline, and event/ticketing company can mandate the installation of their own app, with access to the iPhone’s NFC, does not strike me as a good outcome. </p>
-
-<div>
-<a  title="Permanent link to ‘U.K. Regulator Considers Requiring App Store to Allow Steering to the Web, and iOS NFC to Be Open’"  href="https://daringfireball.net/linked/2026/06/30/uk-cma-regulations-app-store-nfc">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
