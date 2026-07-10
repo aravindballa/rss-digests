@@ -7,7 +7,75 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-09T20:40:32Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-10T00:35:59Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Shocking No One, Fidji Simo, Would-Be Usurper, Is Out at OpenAI</title>
+	<link rel="alternate" type="text/html" href="https://www.wsj.com/tech/openai-top-executive-fidji-simo-to-step-down-c3daca47?st=NfBZTe" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xcp" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/09/fidji-simo-out" />
+	<id>tag:daringfireball.net,2026:/linked//6.43225</id>
+	<published>2026-07-10T00:35:59Z</published>
+	<updated>2026-07-10T00:35:59Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Berber Jin and Anissa Gardizy, reporting for The Wall Street Journal (gift link):</p>
+
+<blockquote>
+  <p>Fidji Simo, OpenAI’s No. 2 executive, plans to step down from her
+full-time role after an extended medical leave. She communicated
+her decision in a note to staff Thursday, saying that her medical
+condition had worsened and her road to recovery would be much
+longer than anticipated. She will become a part-time adviser to
+the company. [...]</p>
+
+<p>The company abruptly pivoted its focus to building AI-powered
+coding tools for businesses after falling behind Anthropic in that
+lucrative market. Simo led early efforts to create a
+coding-focused “superapp,” which OpenAI launched today, and cut
+side projects such as the video-generator app Sora.</p>
+</blockquote>
+
+<p>Quoting from the <a href="https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted">Ronan Farrow / Andrew Mantz blockbuster New Yorker profile of Sam Altman</a> back <a href="https://daringfireball.net/2026/04/when_he_is_alive_and_not_after_he_is_dead">in April</a>:</p>
+
+<blockquote>
+  <p>Several executives connected to OpenAI have expressed ongoing
+reservations about Altman’s leadership and floated Fidji Simo, who
+was formerly the C.E.O. of Instacart and now serves as OpenAI’s
+C.E.O. for AGI Deployment, as a successor. Simo herself has
+privately said that she believes Altman may eventually step down,
+a person briefed on a recent discussion told us. (Simo disputes
+this. Instacart recently reached a settlement with the F.T.C., in
+which it admitted no wrongdoing but agreed to pay a
+sixty-million-dollar fine for alleged deceptive practices under
+Simo’s leadership.)</p>
+</blockquote>
+
+<p><a href="https://daringfireball.net/linked/2026/03/31/bi-fidji-simo">Yours truly back in March</a>:</p>
+
+<blockquote>
+  <p>This whole dumb “superapp” idea that leaked last week sounds
+exactly like the sort of thing someone who ran the Facebook app
+would think is a good idea. The difference, I expect, is that
+Facebook is free to let product quality (and experience quality)
+fall by the wayside because their social platforms have such
+powerful network effects. People stay on Facebook and Instagram
+even as the experiences worsen because everyone they know is also
+still on those apps. There’s no network effect like that for
+ChatGPT. Claude is already rising to near-equal status in
+popularity, and Gemini isn’t far behind, and Simo hasn’t even
+started enshittifying ChatGPT yet. People will just switch.</p>
+</blockquote>
+
+<p><a href="https://daringfireball.net/linked/2026/07/09/todays-the-day-openai-fucked-up-the-chatgpt-mac-app">And here we are</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Shocking No One, Fidji Simo, Would-Be Usurper, Is Out at OpenAI’"  href="https://daringfireball.net/linked/2026/07/09/fidji-simo-out">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Today’s the Day OpenAI Fucked Up the ChatGPT Mac App</title>
 	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/07/09/openai-announcing-the-next-chapter-for-chatgpt-today-watch-here/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xco" />
@@ -2289,57 +2357,6 @@ such as digital currencies, the CMA said.</p>
 
 <div>
 <a  title="Permanent link to ‘U.K. Regulator Considers Requiring App Store to Allow Steering to the Web, and iOS NFC to Be Open’"  href="https://daringfireball.net/linked/2026/06/30/uk-cma-regulations-app-store-nfc">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Data Breach at Indian Supplier Tata Electronics Exposes iPhone 18 Pro Details and Photos</title>
-	<link rel="alternate" type="text/html" href="https://www.reuters.com/business/media-telecom/apple-iphone-18-pro-supplier-list-parts-photos-exposed-tata-data-leak-2026-06-29/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xbe" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/06/29/tata-electronics-breach" />
-	<id>tag:daringfireball.net,2026:/linked//6.43178</id>
-	<published>2026-06-30T00:59:08Z</published>
-	<updated>2026-06-30T00:59:08Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Munsif Vengattil, Aditya Kalra, and Stephen Nellis, reporting for Reuters:</p>
-
-<blockquote>
-  <p>Sensitive lists of components and suppliers, ​and photos of
-Apple’s upcoming iPhone 18 Pro models are part of <a href="https://www.reuters.com/business/media-telecom/indias-tata-electronics-hit-by-cyber-breach-claiming-expose-apple-tesla-trade-2026-06-22/">files</a>
-posted on the dark web by the ransomware group that stole data
-from the U.S. firm’s Indian supplier Tata Electronics, according
-to documents and a source.</p>
-
-<p>The exposure threatens the carefully negotiated business of
-building the iPhone, which Apple assembles from a thicket of
-suppliers worldwide. It could also upset Apple and its
-relationship with Tata given most of the supplier
-arrangements are fiercely protected by Apple, and could also
-hand rivals, counterfeiters and its own vendors a ​view of
-who makes what. [...]</p>
-
-<p>Apple ​considers this detail sensitive and is concerned about
-the documents being shared on the dark web as they relate to
-unreleased models, according to the person familiar with the
-matter. The data maps suppliers to iPhone parts, which Apple
-does not disclose in its public database of suppliers, the
-person added.</p>
-
-<p>In all, the documents detail hundreds of parts to be on the
-upcoming iPhone 18 Pro models. The records also show where Apple
-draws a part from several suppliers and where it relies on just a
-few, laying bare both its bargaining leverage and its
-vulnerabilities.</p>
-</blockquote>
-
-<p>I’m going to say that describing Apple as “concerned” about this data breach might be the biggest euphemism I’ve heard this year. I’m sure they’re furious. Someone at Apple is responsible for putting this trust in Tata, and executives at Tata are surely panicked that they’ve lost future business with Apple.</p>
-
-<div>
-<a  title="Permanent link to ‘Data Breach at Indian Supplier Tata Electronics Exposes iPhone 18 Pro Details and Photos’"  href="https://daringfireball.net/linked/2026/06/29/tata-electronics-breach">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
