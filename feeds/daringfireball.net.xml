@@ -7,7 +7,31 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-12T21:18:25Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-12T22:33:20Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>WorkOS Pipes</title>
+	<link rel="alternate" type="text/html" href="https://workos.com/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xda" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/12/workos-pipes" />
+	<id>tag:daringfireball.net,2026:/linked//6.43246</id>
+	<published>2026-07-12T22:17:54Z</published>
+	<updated>2026-07-12T22:17:55Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks, once again, to WorkOS for sponsoring DF last week. Users expect apps and agents to reach the tools they already work in. Every integration that gets you there is a different OAuth flow, a different token lifecycle, and weeks of infrastructure before you write a line of product code.</p>
+
+<p><a href="https://workos.com/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026">WorkOS Pipes handles it with one API call</a>. Pre-built connectors for GitHub, Slack, Salesforce, Google Drive, and more. Pipes handles OAuth, token refresh, and credential storage. You call the real provider API with a fresh token, every time.</p>
+
+<p><a href="https://workos.com/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026">Connect to 100+ providers with WorkOS Pipes</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS Pipes’"  href="https://daringfireball.net/linked/2026/07/12/workos-pipes">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’</title>
 	<link rel="alternate" type="text/html" href="https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xd9" />
@@ -51,7 +75,7 @@ a small update to the issues I wrote about before.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/12/how-uis-degrade-over-time" />
 	<id>tag:daringfireball.net,2026:/linked//6.43244</id>
 	<published>2026-07-12T19:51:16Z</published>
-	<updated>2026-07-12T19:51:16Z</updated>
+	<updated>2026-07-12T21:56:08Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -1152,7 +1176,7 @@ be an issue for users.</p>
 	<link rel="shorturl" href="http://df4.us/xcm" />
 	<id>tag:daringfireball.net,2026://1.43222</id>
 	<published>2026-07-09T19:17:37Z</published>
-	<updated>2026-07-11T00:31:11Z</updated>
+	<updated>2026-07-12T22:33:20Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -1198,7 +1222,7 @@ and you can always just opt out altogether.</p>
 <li>Satisfied in their own deep knowledge of how their systems are designed to safeguard users’ privacy and personal data.</li>
 </ol>
 
-<p>Issue #1 is self-explanatory. The ratio of ads to organic results in App Store search — especially when measured in screen area — is clearly not aligned with Cook’s 2014 statement that “Our software and services are designed to make our devices better. Plain and simple.” Obviously not. The design of App Store search today is to generate more revenue for Apple. That’s not criminal, but it’s a change.</p>
+<p>Issue #1 is self-explanatory. The ratio of ads to organic results in App Store search — especially when measured in screen area — is clearly not aligned with Cook’s 2014 statement that “Our software and services are designed to make our devices better. Plain and simple.” Obviously not. App Store search today is designed primarily to generate more revenue for Apple. That’s not criminal, but it’s a change.</p>
 
 <p>Issue #2 is more subtle. Apple really does have a religious fervor for privacy. Consider ads for Maps. It hasn’t shipped yet but <a href="https://ads.apple.com/maps">Apple states</a>, “Run ads in a privacy-first environment that respects your customers, who already trust Maps. No tracking — just helpful discovery.” I’m quite sure that’s all completely true. I just wrote last week about how <a href="https://daringfireball.net/2026/06/scotus_geofence_warrant_search">Apple has never had to deal with “geofence warrants” for its location services</a> because Apple has never kept personally-identifiable usage data for location. They not only <em>don’t</em> give advertisers — or law enforcement — your location data, but <em>can’t</em>, because they don’t collect it and never did.</p>
 
@@ -1208,7 +1232,7 @@ and you can always just opt out altogether.</p>
 
 <p>But that’s not what the general population believes. The general population thinks of “Big Tech” as a single, almost unified, hegemony. A lot of “Apple users” only use one Apple platform, the iPhone, and if they own another Apple product or two they’re iPhone peripherals like AirPods and Apple Watch. If they believe Apple is ethically better with regard to privacy (or anything else) than other companies, it’s only a <em>little</em> better. Most people have no idea whatsoever how anything Apple sells actually works. It’s all magic. That’s why <a href="https://journals.sagepub.com/doi/10.1177/20539517251337102">a majority of adults believe</a> that apps on their devices surreptitiously listen to and record real-world conversations in order to show them eerily-accurate targeted ads. Apple has actually done a lot of hard engineering and design work to guarantee that software on your devices <em>can’t</em> surreptitiously listen to you. But most people don’t know that and wouldn’t understand it if it were explained to them. All they know is that they were talking about Frisbees the other day, after not having uttered the word “Frisbee” in years, and now they’re seeing ads for flying discs in Instagram — and the only explanation that makes any sense to them is that their phone “listens” and betrays their privacy.</p>
 
-<p>What gave Tim Cook’s privacy letter heft in 2014 wasn’t just the clarity of its plain language, but the fact that you didn’t have to take his word for it that the ads Apple showed you respected your privacy, because Apple didn’t show you ads in 2014.<sup id="fnr1-2026-07-09"><a href="#fn1-2026-07-09">1</a></sup> Apple today can’t say that. Apple can prove to itself, and to technically sophisticated outsiders who are willing to listen, that it can serve ads — even in Maps — in privacy-protecting ways. But the only way they can prove to <em>most people</em> that they’re not betraying the privacy of their location data or app usage is not to sell such ads in first place. Seeing is believing, and when people see ads in their maps app, they believe they’re being tracked.</p>
+<p>What gave Tim Cook’s privacy letter heft in 2014 wasn’t just the clarity of its plain language, but the fact that you didn’t have to take his word for it that the ads Apple showed you respected your privacy, because Apple didn’t show you ads in 2014.<sup id="fnr1-2026-07-09"><a href="#fn1-2026-07-09">1</a></sup> Apple today can’t say that. Apple can prove to itself, and to technically sophisticated outsiders who are willing to listen, that it can serve ads — even in Maps — in privacy-protecting ways. But the only way they can prove to <em>most people</em> that they’re not betraying the privacy of their location data or app usage is not to sell such ads in the first place. Seeing is believing, and when people see ads in their maps app, they believe they’re being tracked.</p>
 
 <p>John Ternus should return Apple’s privacy policy to its 2014 clarity. The trust Apple would earn from such a move would far out-value whatever revenue these ads pad to their already hefty and ever-increasing quarterly Services numbers. “<em>The companies that offer you services free-of-charge to show you ads are betraying your privacy and disrespecting your attention</em>” is a powerful marketing message that only one major tech company used to be able to credibly make. That’s always been a resonant message, but never more so than today, in the age of AI. Ternus should make the slight course correction needed so that Apple can hammer that message once again.</p>
 
@@ -2261,65 +2285,6 @@ in the future!</p>
 
     ]]></content>
   <title>★ Claude’s Criminally Bad Electron Mac App Is an Inside Job</title></entry><entry>
-	<title>April Report From Ookla: ‘A Return to mmWave 5G’</title>
-	<link rel="alternate" type="text/html" href="https://www.ookla.com/articles/a-return-to-mmwave-5g" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xc0" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/02/ookla-report-5g-mmwave" />
-	<id>tag:daringfireball.net,2026:/linked//6.43200</id>
-	<published>2026-07-02T22:30:40Z</published>
-	<updated>2026-07-02T22:30:40Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Mike Dano, in a long (<em>too</em> long, I say) report for Ookla (makers of the nifty <a href="https://apps.apple.com/us/app/speedtest-by-ookla/id300704847">Speedtest app</a>):</p>
-
-<blockquote>
-  <p>Further, few other countries in the world followed in the mmWave
-footsteps of the U.S., with international spectrum regulators
-instead putting a focus on releasing mid-band spectrum for 5G.</p>
-
-<p>However, mmWave networks haven’t disappeared. New drive test data
-from Ookla’s RootMetrics, coupled with crowdsourced information
-from Ookla’s Speedtest Insights, shows the ongoing growth of
-mmWave 5G networks in the U.S., as well as the remarkable
-performance characteristics of those systems.</p>
-
-<ul>
-<li><p>Across all of RootMetrics’ testing in the second half of 2025,
-in both urban (metro) and rural (state) areas, mmWave showed up
-in 2.2% of Verizon’s samples. For AT&amp;T, that figure was 0.2%.
-For T-Mobile, that figure was almost 0% (and as a result, this
-report will mainly focus on Verizon and AT&amp;T).</p></li>
-<li><p>Verizon’s mmWave connections showed up in 75 markets in the
-first half of 2024 (out of a total of 125 markets), a figure
-that rose to 91 in the second half of 2025. That’s almost triple
-the number of markets where RootMetrics recorded AT&amp;T mmWave
-systems in the second half of 2025. 5G mmWave from T-Mobile,
-meanwhile, only showed up in 1 market covered by RootMetrics
-technicians during the second half of 2025.</p></li>
-<li><p>Most mmWave samples were obtained within 150 meters (about 500
-feet) of a mmWave transmission site, reflecting the spectrum’s
-relatively diminutive coverage area. However, download speeds
-over mmWave connections reached beyond 1 Gbps in some markets.</p></li>
-<li><p>Denver, Atlanta, Philadelphia, and Boston are top mmWave cities
-for Verizon. Roughly 60% of RootMetrics’ outdoor testing
-samples landed on Verizon’s mmWave in these cities in the
-second half of 2025.</p></li>
-</ul>
-</blockquote>
-
-<p>So mmWave is almost entirely a U.S. thing, and within the U.S. mostly a Verizon thing and sort of an AT&amp;T thing.</p>
-
-<p><strong>Previously:</strong> A year ago <a href="https://daringfireball.net/linked/2025/03/21/ookla-16e-c1-modem-results">I linked to</a> an Ookla <a href="https://www.ookla.com/articles/apples-c1-modem-early-adopters">report on the iPhone 16e’s cellular performance</a>, it being the first iPhone to ship with an Apple C-series modem. Performance was very good!</p>
-
-<div>
-<a  title="Permanent link to ‘April Report From Ookla: ‘A Return to mmWave 5G’’"  href="https://daringfireball.net/linked/2026/07/02/ookla-report-5g-mmwave">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/07/a_tale_of_two_modems" />
 	<link rel="shorturl" href="http://df4.us/xbq" />
