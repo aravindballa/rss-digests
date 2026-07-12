@@ -7,7 +7,99 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-12T17:19:36Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-12T18:11:18Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>TwoMillionKit: Use Private Cloud Compute in MacOS 27 Foundation Models Without an Entitlement</title>
+	<link rel="alternate" type="text/html" href="https://github.com/insidegui/TwoMillionKit" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xd6" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/12/twomillionkit" />
+	<id>tag:daringfireball.net,2026:/linked//6.43242</id>
+	<published>2026-07-12T18:04:05Z</published>
+	<updated>2026-07-12T18:04:29Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Guilherme Rambo:</p>
+
+<blockquote>
+  <p>Apple ships the <code>fm</code> command-line tool in macOS 27, which can be
+used to run inference with the local system model or Private Cloud
+Compute from Terminal or scripts. You know what else can run
+command-line tools? Mac apps! 😃</p>
+
+<p>I decided to spend some of my Codex tokens and take GPT 5.6 Sol
+for a spin. I asked it to create this Swift package. All it does
+is provide a <code>LanguageModel</code> implementation that uses the <code>fm</code>
+command-line tool under the hood, meaning that any Mac app can use
+the Private Cloud Compute model without requiring a special
+entitlement from Apple.</p>
+
+<p>The main limitation is that this will not work for sandboxed Mac
+apps, so any Mac app distributed via the Mac App Store won’t be
+able to use it.</p>
+
+<p>But for developers of Mac apps distributed outside the Mac App
+Store, this provides a simple and entitlement-free way to use
+Private Cloud Compute in their apps.</p>
+
+<p>Use sparingly and at your own risk.</p>
+</blockquote>
+
+<p>This is a workaround for <a href="https://daringfireball.net/linked/2026/06/13/pcc-severely-limited-third-party-developers">Apple’s current limitation</a> that only grants access to Private Cloud Compute to “developers in the App Store Small Business Program with fewer than two million first time App Store downloads”. Hence Rambo’s clever name for the framework.</p>
+
+<div>
+<a  title="Permanent link to ‘TwoMillionKit: Use Private Cloud Compute in MacOS 27 Foundation Models Without an Entitlement’"  href="https://daringfireball.net/linked/2026/07/12/twomillionkit">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Sam Altman and Elon Musk Argue Over Who’s Running the Bigger Scam</title>
+	<link rel="alternate" type="text/html" href="https://x.com/sama/status/2075982617976230043" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xd5" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/12/altman-musk" />
+	<id>tag:daringfireball.net,2026:/linked//6.43241</id>
+	<published>2026-07-12T17:45:57Z</published>
+	<updated>2026-07-12T18:06:05Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p><a href="https://x.com/elonmusk/status/2075892136604573903">Elon Musk</a>, linking to his own tweet from March that “Sam Altman is super good at scamming”:</p>
+
+<blockquote>
+  <p>He takes scamming to a whole new level</p>
+</blockquote>
+
+<p><a href="https://x.com/sama/status/2075982617976230043">Sam Altman</a>:</p>
+
+<blockquote>
+  <p>homeboy you’re the one sellling public market investors on short-term space datacenters</p>
+</blockquote>
+
+<p><a href="https://x.com/elonmusk/status/2076070258654183767">Musk</a>:</p>
+
+<blockquote>
+  <p>We start flying them next year. Maybe you can come see them if
+your parole officer approves.</p>
+
+<p>After stealing an open source AI charity, you then stole all of
+Apple’s phone technology! Wow.</p>
+
+<p>What do you plan for an encore? That’s tough to beat.</p>
+</blockquote>
+
+<p>(All spelling, capitalization, and punctuation <em>sic</em>.)</p>
+
+<p>These are two of the CEOs of the most valuable companies on the planet. Say what you want about it, but Musk’s Twitter/X is like nothing else that’s ever existed. <a href="https://daringfireball.net/misc/2026/06/musk-altman-scamming.png">Screenshot of the thread</a> for posterity, and <a href="https://xcancel.com/sama/status/2075982617976230043">an XCancel link</a> for those icked by X itself.</p>
+
+<div>
+<a  title="Permanent link to ‘Sam Altman and Elon Musk Argue Over Who’s Running the Bigger Scam’"  href="https://daringfireball.net/linked/2026/07/12/altman-musk">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Lunacy — Jeff Halter’s Lunatic Fringe Player</title>
 	<link rel="alternate" type="text/html" href="https://morphing.cloud/lunacy/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xd4" />
@@ -175,7 +267,7 @@ chat history.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/11/evans-chatgpt" />
 	<id>tag:daringfireball.net,2026:/linked//6.43236</id>
 	<published>2026-07-11T22:16:21Z</published>
-	<updated>2026-07-12T00:26:06Z</updated>
+	<updated>2026-07-12T17:50:09Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -201,7 +293,7 @@ Google Drive?</p>
 
 <p>It is sometimes observed that in companies dominated by internal politics, their shipped product (and public keynotes) reflect the company’s org chart. That’s never been truer than with the new ChatGPT app. OpenAI’s internal org chart is <a href="https://www.theverge.com/ai-artificial-intelligence/964489/openais-head-of-safety-is-out">a complete disorganized mess</a>. This new app perfectly reflects that.</p>
 
-<p>The old ChatGPT app was focused. That’s the app that still ships for mobile (which includes iPad, which tells you whether OpenAI thinks iPad is a real computer or a big iPhone), and is, for some Mac users, left installed on their systems as “ChatGPT Classic”. The new app is an incredibly confusing sloppy mess. At a glance it <em>looks</em> like a polished app. But the UI is <a href="https://daringfireball.net/misc/2026/06/chatgpt-slop.png">just slop</a>. It has the veneer of a polished app without actually being organized or structured or labeled in ways that add clarity and coherence. It’s playing dress-up as a big-boy app. My understanding from people adjacent to OpenAI is that the company’s senior executives are singularly consumed with FOMO obsession regarding Anthropic, and the only real clout within the company belongs to the AI researchers. Not product designers or app craftspeople. What the researchers say goes, and with this update, we can see their level of taste in app design.</p>
+<p>The old ChatGPT app was focused. That’s the app that still ships for mobile (which includes iPad, which tells you whether OpenAI thinks iPad is a real computer or a big iPhone), and is, for some Mac users, left installed on their systems as “ChatGPT Classic”. The new app is an incredibly confusing sloppy mess. At a glance it <em>looks</em> like a polished app. But the UI is <a href="https://daringfireball.net/misc/2026/06/chatgpt-slop.png">just slop</a>. It has the veneer of a polished app without actually being organized or structured or labeled in ways that add clarity and coherence. It’s playing dress-up as a big-boy app. My understanding from people adjacent to OpenAI is that the company’s senior executives are singularly consumed with FOMO obsession regarding Anthropic, and the only real clout within the company belongs to the AI researchers. Not product designers or app craftspeople. What the researchers say goes, and with this update, <a href="https://www.threads.com/@benedictevans/post/DaqWnvPFJkj">we can see their level of taste</a> in app design.</p>
 
 <p>The app icon for the new “super” app should be <a href="https://www.youtube.com/watch?v=WPc-VEqBPHI">the Homer</a>.</p>
 
@@ -409,12 +501,12 @@ until his signature line:</p>
     ]]></content>
   <title>★ Exactly Like Om Malik</title></entry><entry>
 	<title>Gurman on Tang Tan and Paul Meade</title>
-	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple" />
+	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Mzc3OTcwMCwiZXhwIjoxNzg0Mzg0NTAwLCJhcnRpY2xlSWQiOiJUSFpEVUhLR0lGUEMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.lF9LVTMyaJOToYhpwph5JjsSJEjdBGXLbenBKQdpHhc&amp;leadSource=uverify%20wall" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xcy" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/11/gurman-tan-meade" />
 	<id>tag:daringfireball.net,2026:/linked//6.43234</id>
 	<published>2026-07-11T18:02:17Z</published>
-	<updated>2026-07-11T18:02:18Z</updated>
+	<updated>2026-07-12T18:11:18Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -2209,117 +2301,6 @@ situation where my LTE signal seems weak or slow.</p>
 
 	]]></content>
   </entry><entry>
-	<title>Truth Social Is Still Just Trump’s Blog</title>
-	<link rel="alternate" type="text/html" href="https://daringfireball.net/2025/06/truth_social_is_just_trumps_blog" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xbw" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/02/truth-social-is-still-just-trumps-blog" />
-	<id>tag:daringfireball.net,2026:/linked//6.43196</id>
-	<published>2026-07-02T19:38:45Z</published>
-	<updated>2026-07-02T19:38:46Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>After <a href="https://daringfireball.net/linked/2026/07/02/claude-fable-and-kayfabe">I linked to</a> Commerce Secretary Howard Lutnick <a href="https://x.com/howardlutnick/status/2072100729603452965">posting on Twitter/X</a> about the Trump administration allowing Anthropic to once again release Claude Fable 5, I was reminded once again that no one else in the Trump administration uses Truth Social other than Trump himself. Not even Lutnick, a lickspittle among lickspittles.<sup>*</sup> The rest of them all use X. Which in turn reminds me of <a href="https://daringfireball.net/2025/06/truth_social_is_just_trumps_blog">my observation from a year ago</a>:</p>
-
-<blockquote>
-  <p>I’ve been thinking about this for a few weeks, and in that time,
-Trump’s own posts on Truth Social have made the news on a
-near-daily basis. I’ve never once, ever, seen a post from anyone
-else on Truth Social make the news. Trump is not just the one and
-only person of consequence using it, his is the one and only
-account on Truth Social that you ever, <em>ever</em> hear about.</p>
-
-<p>If Truth Social were actually <em>meant</em> to compete with X, Threads,
-Bluesky, and Mastodon, this almost certainly would have been a
-source of conflict between Trump and Musk. Because, if it were
-meant to be an actual competitive social network, it would occur
-to Trump to require all his flunkeys and toadies not only to post
-to Truth Social, but to <em>stop</em> posting to X. But he hasn’t done
-that, because Truth Social is functioning as intended: it’s just
-an outlet for Trump to spew his demented <a href="https://daringfireball.net/linked/2025/05/23/trump-cook-apple-india">mad-king musings</a>
-(today he’s <a href="https://daringfireball.net/misc/2025/06/trump-retweet-rushmore.jpeg">retweeting calls</a> for him to be added to Mount
-Rushmore) and, most importantly, get some of his all-caps-laden
-bangers read aloud on the TV news.</p>
-</blockquote>
-
-<p><small>* Every single time I type Lutnick’s name I’m tempted to spell it “Nutlick”, but that’s too immature for the hallowed pages of this website.</small></p>
-
-<div>
-<a  title="Permanent link to ‘Truth Social Is Still Just Trump’s Blog’"  href="https://daringfireball.net/linked/2026/07/02/truth-social-is-still-just-trumps-blog">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘A Perfect Reflection of Trump’s Washington’</title>
-	<link rel="alternate" type="text/html" href="https://politicalwire.com/2026/06/19/a-perfect-reflection-of-trumps-washington/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xbv" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/02/perfect-reflection" />
-	<id>tag:daringfireball.net,2026:/linked//6.43195</id>
-	<published>2026-07-02T19:14:31Z</published>
-	<updated>2026-07-02T19:15:15Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Taegan Goddard, two weeks ago at Political Wire:</p>
-
-<blockquote>
-  <p>The Lincoln Memorial Reflecting Pool has become an almost
-too-perfect metaphor for Donald Trump’s presidency.</p>
-
-<p>He promised a quick, cheap fix.</p>
-
-<p>Instead, taxpayers got a no-bid project that ballooned to more
-than $14 million, delivered a freshly painted pool in “American
-Flag Blue,” and then promptly watched it turn green with algae as
-the new coating began to peel just days after it was supposedly
-finished.</p>
-
-<p>That is Trumpism in miniature: a grand declaration, a flashy
-cosmetic overhaul, a politically connected contractor, and an
-immediate failure blamed on someone else.</p>
-
-<p>Washington was supposed to be made beautiful again.</p>
-
-<p>Instead, the Reflecting Pool now looks like a murky swamp — a fitting reflection of a capital overwhelmed by corruption
-and chaos.</p>
-</blockquote>
-
-<p><a href="https://daringfireball.net/linked/2026/07/02/claude-fable-and-kayfabe">Like I just wrote</a>, it’s all <a href="https://www.merriam-webster.com/dictionary/kayfabe">kayfabe</a>. It was never about actually improving the Reflecting Pool. All that mattered was that Trump <em>said</em> he would. The only real part was the taxpayer money funneled to a Trump crony. Just like how in pro wrestling, they charge fans real money for tickets. That’s real too.</p>
-
-<p>Just like in pro wrestling, Trump has even explained it all away by <a href="https://www.yahoo.com/news/politics/articles/trump-now-blames-box-cutter-or-knife-for-14m-reflecting-pool-woes-as-blue-paint-peels-off-algae-plagued-icon-212349755.html">pinning the blame on non-existent “vandals”</a> who not only caused the weeks-old $14-million pool lining to peel, but somehow filled the pool with left-wing algae. When I was a kid there was a WWF wrestler named “Cowboy” Bob Orton. Orton broke his arm (for real) and was given a special dispensation to wrestle while wearing a cast. Orton’s arm was <em>actually</em> broken for 8 weeks, but it was kayfabe “broken” <a href="https://en.wikipedia.org/wiki/Bob_Orton_Jr.#:~:text=the%20%22cast%22%20gimmick">for an entire year</a> — during which he used the cast to bash the heads of his opponents when the referee was “distracted”. Trump’s Reflecting Pool vandals are no more real than the doctors who vouched that Orton needed to wear a hard cast for an entire year. (Orton might as well be Trump’s next secretary of health and human services.)</p>
-
-<p><a href="https://www.nytimes.com/2026/07/01/us/politics/trump-washington-dc-construction.html?unlocked_article_code=1.ulA.UG16.st-ONg5iYjwm&amp;smid=url-share">Katie Rogers at The New York Times yesterday reported</a> on how the entire city of Washington is now a fenced-in mess for the nation’s 250th birthday, the ostensible occasion for all these supposedly beautifying projects in the first place:</p>
-
-<blockquote>
-  <p>Presiding over a series of fenced-off or under-construction
-festivities ahead of the country’s 250th celebration is President
-Trump, who does not seem to mind that some of the nation’s most
-enduring symbols of liberty and expression are closed off and
-militarized.</p>
-
-<p>“Good Morning from the Pool!” he <a href="https://truthsocial.com/@realDonaldTrump/posts/116821495184772843">wrote on social media</a>
-late last week, posting an image of three soldiers standing guard
-at the pool’s edge, just in front of the Lincoln Memorial.</p>
-
-<p>In his drive to “beautify” the nation’s capital, Mr. Trump seems
-to have turned portions of the city into either a construction
-zone or an armed camp as he seeks to prove that he alone can
-improve a city he interacts with primarily from his armored
-limousine or presidential helicopter.</p>
-</blockquote>
-
-<p>There’s no “seems to have” about it. Trump did this. That’s like saying “Trump seems to have demolished the East Wing of the White House.” He did it. He did not beautify Washington DC for the nation’s 250th birthday this weekend. He trashed it. But he says he beautified it so that’s all that matters in MAGA Land.</p>
-
-<div>
-<a  title="Permanent link to ‘‘A Perfect Reflection of Trump’s Washington’’"  href="https://daringfireball.net/linked/2026/07/02/perfect-reflection">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/07/a_tale_of_two_modems" />
 	<link rel="shorturl" href="http://df4.us/xbq" />
@@ -2381,4 +2362,15 @@ it looks as though the company will offer mmWave support to iPhone
 	<published>2026-06-29T23:17:38Z</published>
 	<updated>2026-07-04T21:02:18Z</updated>
 	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
-<p>
+<p>Day One recognizes that many people struggle with journaling not because they can’t write, but because they don’t know how to begin or what a “good” journal entry about their day looks like. That’s why we built Daily Chat, a guided reflection experience that helps you talk through your day, organize your thoughts, and shape them into a journal entry.</p>
+
+<p>Early testers commented: “<em>Day One’s new Daily Chat is a true game changer for my daily journaling. The AI-powered chat makes capturing thoughts effortless and inspires creativity like never before. Writing my diary has never been this intuitive and fun!</em>”</p>
+
+<p>Try it for yourself, it will change the way you think about journaling.</p>
+
+<div>
+<a  title="Permanent link to ‘Day One Journal’"  href="https://daringfireball.net/feeds/sponsors/2026/06/day_one_journal">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+	<title>[Sponsor] Day One Journal</title></entry></feed><!-- THE END -->
