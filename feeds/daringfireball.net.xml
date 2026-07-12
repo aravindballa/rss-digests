@@ -7,14 +7,14 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-11T22:38:40Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-12T00:12:43Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>Can Someone Explain to Me How to Get ‘ChatGPT Classic’?</title>
 	<link rel="alternate" type="text/html" href="https://help.openai.com/en/articles/20001276-moving-to-the-new-chatgpt-desktop-app" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xd2" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/11/can-someone-explain-to-me-how-to-get-chatgpt-classic" />
 	<id>tag:daringfireball.net,2026:/linked//6.43238</id>
 	<published>2026-07-11T22:38:39Z</published>
-	<updated>2026-07-11T22:38:40Z</updated>
+	<updated>2026-07-12T00:02:29Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -45,9 +45,9 @@ features may be available only in the new app.</li>
 
 <p>If I run the installer on the disk image when the old ChatGPT app is not running, the old app gets replaced by the new one in my Applications folder, and the old app is moved to the Trash. There is no app named “ChatGPT Classic”.</p>
 
-<p>I mean, their Help document does say “the new app <em>may</em> install alongside your current app”, and “if both remained installed”, so they seem just as confused as I am. And while you can, for now at least, just remain on the old version of the app and still get model updates and bug fixes, there is seemingly no way to download a new copy of the classic ChatGPT Mac app if you don’t already have a copy.</p>
+<p>I mean, their Help document does say “the new app <em>may</em> install alongside your current app”, and “<em>if</em> both remained installed”, so they seem just as confused as I am. And while you can, for now at least, just remain on the old version of the app and still get model updates and bug fixes, there is seemingly no way to download a new copy of the classic ChatGPT Mac app if you don’t already have a copy. The update installation is seemingly non-deterministic.</p>
 
-<p>This is an app with over a billion users. I know there aren’t a billion users of the native Mac app, but, still. It’s one of the most popular apps any company has ever made.</p>
+<p>This is an app with over a billion users. I know there aren’t a billion users of the native Mac app, but, still. It’s one of the most popular apps any company has ever made, and the biggest update they’ve ever shipped is an incoherent confusing mess.</p>
 
 <div>
 <a  title="Permanent link to ‘Can Someone Explain to Me How to Get ‘ChatGPT Classic’?’"  href="https://daringfireball.net/linked/2026/07/11/can-someone-explain-to-me-how-to-get-chatgpt-classic">&nbsp;★&nbsp;</a>
@@ -101,7 +101,7 @@ chat history.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/11/evans-chatgpt" />
 	<id>tag:daringfireball.net,2026:/linked//6.43236</id>
 	<published>2026-07-11T22:16:21Z</published>
-	<updated>2026-07-11T22:21:31Z</updated>
+	<updated>2026-07-12T00:12:43Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -125,7 +125,7 @@ Google Drive?</p>
 
 <p>I forget how I made the Setup dickbar disappear despite my not using Slack or Google Drive. It was confusing.</p>
 
-<p>It is sometimes observed that in companies dominated by internal politics, their shipped product (and public keynotes) reflect the company’s org chart. That’s never been truer than with the new ChatGPT app. OpenAI’s internal org chart is <a href="https://www.theverge.com/ai-artificial-intelligence/964489/openais-head-of-safety-is-out">a complete disorganized mess</a>. This new app perfectly reflect that.</p>
+<p>It is sometimes observed that in companies dominated by internal politics, their shipped product (and public keynotes) reflect the company’s org chart. That’s never been truer than with the new ChatGPT app. OpenAI’s internal org chart is <a href="https://www.theverge.com/ai-artificial-intelligence/964489/openais-head-of-safety-is-out">a complete disorganized mess</a>. This new app perfectly reflects that.</p>
 
 <p>The old ChatGPT app was focused. That’s the app that still ships for mobile (which includes iPad, which tells you whether OpenAI thinks iPad is a real computer or a big iPhone), and is, for some Mac users, left installed on their systems as “ChatGPT Classic”. The new app is an incredibly confusing sloppy mess. At a glance it <em>looks</em> like a polished app. But the UI is <a href="https://daringfireball.net/misc/2026/06/chatgpt-slop.png">just slop</a>. It has the veneer of a polished app without actually being organized or structured or labeled in ways that add clarity and coherence. It’s playing dress-up as a big-boy app. My understanding from people adjacent to OpenAI is that the company’s senior executives are singularly consumed with FOMO obsession regarding Anthropic, and the only A-team within the company are the AI researchers. Not product designers or app craftspeople.</p>
 
