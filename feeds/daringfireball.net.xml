@@ -7,7 +7,47 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-12T15:42:22Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-12T17:19:36Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Lunacy — Jeff Halter’s Lunatic Fringe Player</title>
+	<link rel="alternate" type="text/html" href="https://morphing.cloud/lunacy/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xd4" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/12/lunacy" />
+	<id>tag:daringfireball.net,2026:/linked//6.43240</id>
+	<published>2026-07-12T17:19:36Z</published>
+	<updated>2026-07-12T17:19:36Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>After <a href="https://daringfireball.net/linked/2026/07/12/stacks">linking</a> to <a href="https://morphing.cloud/hypercard/">Stacks</a>, his remarkable new modern HyperCard player, I made the terrible mistake of clicking around the rest of Jeff Halter’s website, and fell upon Lunacy:</p>
+
+<blockquote>
+  <p>Created by <a href="https://www.benhaller.com/">Ben Haller</a> and released in the early ’90s as
+part of the Macintosh <em>More After Dark</em> software package, <em>Lunatic
+Fringe</em> was unique among screensavers in that it was not just a
+passive animation to watch, but an interactive game! Toggling the
+Caps Lock key while the screensaver was running popped you into a
+space shooter where you could fly around, collect power-ups, and
+blast a variety of baddies all in pursuit of a high score. It was
+a blast.</p>
+
+<p>Running <em>Lunatic Fringe</em> on a modern computer has been a
+challenge. <a href="http://www.sealiesoftware.com/fringe/index.html">Fringe Player</a> by Greg Parker filled this need
+during Apple’s PPC and Intel era, but is not supported on modern
+Apple platforms. Lunacy brings <em>Lunatic Fringe</em> to the present: a
+native Swift app with a built-in emulation engine that runs the
+original module, unchanged, on modern Apple platforms.</p>
+</blockquote>
+
+<p>Lunatic Fringe is one of my all-time favorite classic Mac games. Lunacy is a great modern player, including CRT simulation to make the game look a lot more like it did back in the day.</p>
+
+<div>
+<a  title="Permanent link to ‘Lunacy — Jeff Halter’s Lunatic Fringe Player’"  href="https://daringfireball.net/linked/2026/07/12/lunacy">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Stacks — HyperCard Player for Modern MacOS</title>
 	<link rel="alternate" type="text/html" href="https://morphing.cloud/hypercard/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xd3" />
@@ -2280,55 +2320,6 @@ limousine or presidential helicopter.</p>
 
 	]]></content>
   </entry><entry>
-	<title>Claude Fable and Kayfabe</title>
-	<link rel="alternate" type="text/html" href="https://www.anthropic.com/news/redeploying-fable-5" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xbu" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/02/claude-fable-and-kayfabe" />
-	<id>tag:daringfireball.net,2026:/linked//6.43194</id>
-	<published>2026-07-02T18:29:01Z</published>
-	<updated>2026-07-02T19:55:39Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Anthropic:</p>
-
-<blockquote>
-  <p>On Friday, June 12, the US government applied export controls to
-our newest models, Claude Fable 5 and Claude Mythos 5. This
-required us to restrict access to foreign nationals, whether
-inside or outside the United States. Because the order took effect
-immediately and we had no reliable way to verify nationality in
-real-time, we suspended access to both models for all users.</p>
-
-<p>As of today, June 30, the export controls on Fable 5 and Mythos 5
-<a href="https://x.com/howardlutnick/status/2072100729603452965">have been
-lifted</a>.</p>
-</blockquote>
-
-<p>That’s a link to <a href="https://x.com/howardlutnick/status/2072100729603452965">this tweet on Twitter/X</a> from Commerce Secretary Howard Lutnick:</p>
-
-<blockquote>
-  <p>Over the past two weeks, we have worked closely with Anthropic to
-analyze and approve Fable 5 to ensure alignment across the US
-Government and strengthen America’s leadership in AI.</p>
-</blockquote>
-
-<p>I don’t think a goddamn thing happened in the last two weeks, and if anything did happen, it sure as shit wasn’t anything that Lutnick understood. There should be real government oversight regulating frontier AI, but this is just pantomime performative nonsense.</p>
-
-<p>The entire Trump 2.0 term (and much of the 1.0 term before it) can be summarized with a single word: <a href="https://www.merriam-webster.com/dictionary/kayfabe">kayfabe</a>, “the tacit agreement between professional wrestlers and their fans to pretend that overtly staged wrestling events, stories, characters, etc., are genuine”. Trumpism and MAGA is entirely about the belief system that everything is bullshit. Everyone is crooked, every supposed fact is merely an opinion, and everything is ultimately subject to the whims of whoever has power. The fix is not just in, it’s always been in, and always will be in. What Trump says is true is true because he’s the fucking president. Trump himself <a href="https://www.nbcnews.com/politics/donald-trump/read-transcript-president-donald-trump-interviewed-nbc-news-meet-press-rcna348508">asserts that “evidence” is what he claims to see</a> — not what he can actually show for others to see. If Trump says we won the war he needlessly started with Iran, then we won it. If Trump says there’s a peace deal <a href="https://x.com/HunterBiden/status/2072738034311745948">38 times</a>, then there have been 38 peace deals. The FIFA “peace prize” Trump was awarded last year was no more legitimate or earned or <em>meaningful</em> than a WWE championship belt. It’s pro wrestling not just writ large, but (alas for the entire world) writ very large.</p>
-
-<p>When you view Trump and his administration through the prism of kayfabe, it doesn’t make actual sense, but you can see how they think it makes sense.</p>
-
-<p>I’m not accusing Anthropic of being in cahoots, per se, with the Trump administration on this whole “Fable is so good that it’s too dangerous ... <em>wait two weeks</em> ... OK now everyone can have it” back and forth. But they played along. “The AI model the Trump administration didn’t want you to have” is advertising no money could buy.</p>
-
-<div>
-<a  title="Permanent link to ‘Claude Fable and Kayfabe’"  href="https://daringfireball.net/linked/2026/07/02/claude-fable-and-kayfabe">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/07/a_tale_of_two_modems" />
 	<link rel="shorturl" href="http://df4.us/xbq" />
@@ -2390,15 +2381,4 @@ it looks as though the company will offer mmWave support to iPhone
 	<published>2026-06-29T23:17:38Z</published>
 	<updated>2026-07-04T21:02:18Z</updated>
 	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
-<p>Day One recognizes that many people struggle with journaling not because they can’t write, but because they don’t know how to begin or what a “good” journal entry about their day looks like. That’s why we built Daily Chat, a guided reflection experience that helps you talk through your day, organize your thoughts, and shape them into a journal entry.</p>
-
-<p>Early testers commented: “<em>Day One’s new Daily Chat is a true game changer for my daily journaling. The AI-powered chat makes capturing thoughts effortless and inspires creativity like never before. Writing my diary has never been this intuitive and fun!</em>”</p>
-
-<p>Try it for yourself, it will change the way you think about journaling.</p>
-
-<div>
-<a  title="Permanent link to ‘Day One Journal’"  href="https://daringfireball.net/feeds/sponsors/2026/06/day_one_journal">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-	<title>[Sponsor] Day One Journal</title></entry></feed><!-- THE END -->
+<p>
