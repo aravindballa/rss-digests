@@ -7,7 +7,44 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-12T19:51:16Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-12T21:18:25Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’</title>
+	<link rel="alternate" type="text/html" href="https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xd9" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/12/andrade-swiftui" />
+	<id>tag:daringfireball.net,2026:/linked//6.43245</id>
+	<published>2026-07-12T21:18:24Z</published>
+	<updated>2026-07-12T21:18:25Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Paulo Andrade:</p>
+
+<blockquote>
+  <p>My <a href="https://pfandrade.me/blog/mac-assed-swiftui-app/">last post</a> on using SwiftUI to build a Mac-assed app got
+a bit more traction than I expected. It was mentioned on Mastodon
+<a href="https://mastodon.social/@stroughtonsmith/116545164468952303">several</a> <a href="https://mastodon.social/@stroughtonsmith/116545164468952303/quotes">times</a>, included in <a href="https://iosdevweekly.com/issues/750/#fuwtRgx">iOS Dev Weekly</a>,
+inspired May’s edition of the <a href="https://swiftcarnival.github.io/">Swift Blog Carnival</a>, and was
+eventually mentioned by <a href="https://mastodon.social/@gruber">John Gruber</a>, arguably the person
+most to blame for popularizing the term “Mac-assed”, on <a href="https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps">Daring
+Fireball</a>.</p>
+
+<p>All this attention also resulted in an engineer from Apple
+reaching out with some notes. We exchanged a few emails, I filed a
+few radars, and now that WWDC 27 is behind us, this post serves as
+a small update to the issues I wrote about before.</p>
+</blockquote>
+
+<p>There’s real progress here, but I think <a href="https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps">my main point</a> still stands: SwiftUI is now seven years old and it does not make it easy to create great Mac apps.</p>
+
+<div>
+<a  title="Permanent link to ‘Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’’"  href="https://daringfireball.net/linked/2026/07/12/andrade-swiftui">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>How UIs Degrade Over Time</title>
 	<link rel="alternate" type="text/html" href="https://grumpy.website/1723" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xd8" />
@@ -2279,44 +2316,6 @@ second half of 2025.</p></li>
 
 <div>
 <a  title="Permanent link to ‘April Report From Ookla: ‘A Return to mmWave 5G’’"  href="https://daringfireball.net/linked/2026/07/02/ookla-report-5g-mmwave">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Introducing the Safari MCP Server for Web Developers</title>
-	<link rel="alternate" type="text/html" href="https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xbz" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/02/safari-mcp" />
-	<id>tag:daringfireball.net,2026:/linked//6.43199</id>
-	<published>2026-07-02T21:55:31Z</published>
-	<updated>2026-07-02T21:55:31Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Saron Yitbarek, writing on the WebKit blog, with a nice post-WWDC surprise:</p>
-
-<blockquote>
-  <p>In <a href="https://developer.apple.com/safari/technology-preview/">Safari Technology Preview 247</a>, we’re introducing the
-Safari MCP server — a Model Context Protocol server for web
-developers that makes your web development and debugging workflow
-faster and more powerful. We know agents are increasingly integral
-to the coding process and the Safari MCP server gives your agent
-the ability to know how your code actually renders in the browser
-by connecting it to a Safari browser window.</p>
-
-<p>Any MCP-compatible client can connect to the Safari MCP server. By
-connecting your agent to a Safari browser window, your agent can
-emulate what your users experience, giving it the information it
-needs to debug more autonomously, like access to the DOM, network
-requests, screenshots, and console output.</p>
-</blockquote>
-
-<p><a href="https://www.anthropic.com/news/model-context-protocol">MCP is Anthropic’s open protocol</a>, so it was designed for Claude, but all sorts of other tools use it too — Gemini CLI, Cursor, GitHub Copilot, and more. MCP really is open, not “open”.</p>
-
-<div>
-<a  title="Permanent link to ‘Introducing the Safari MCP Server for Web Developers’"  href="https://daringfireball.net/linked/2026/07/02/safari-mcp">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
