@@ -7,7 +7,77 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-12T19:36:38Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-12T19:51:16Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>How UIs Degrade Over Time</title>
+	<link rel="alternate" type="text/html" href="https://grumpy.website/1723" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xd8" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/12/how-uis-degrade-over-time" />
+	<id>tag:daringfireball.net,2026:/linked//6.43244</id>
+	<published>2026-07-12T19:51:16Z</published>
+	<updated>2026-07-12T19:51:16Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>These examples are from Windows, but the same degradation is true for the standard look for MacOS alerts too. There was a time when system UI chrome was improving in clarity, everywhere. Today we live in an age when it’s degrading in clarity, everywhere. It’s rather inexplicable.</p>
+
+<div>
+<a  title="Permanent link to ‘How UIs Degrade Over Time’"  href="https://daringfireball.net/linked/2026/07/12/how-uis-degrade-over-time">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>‘Every Frame Perfect’</title>
+	<link rel="alternate" type="text/html" href="https://tonsky.me/blog/every-frame-perfect/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xd7" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/12/every-frame-perfect" />
+	<id>tag:daringfireball.net,2026:/linked//6.43243</id>
+	<published>2026-07-12T19:48:09Z</published>
+	<updated>2026-07-12T19:48:09Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Nikita “Tonsky” Prokopov:</p>
+
+<blockquote>
+  <p>The rule of thumb is:</p>
+
+<p><em>If I take a screenshot of your app at any moment, you should be
+able to explain what I see.</em></p>
+
+<p>Why care about every frame? It builds trust. Users can’t see the
+code, so UI is the only way for them to judge the quality of the
+app. If UI looks good, that means developers had time to polish
+it, which means that they probably spent a comparable amount of
+time to iron out the code. It’s a heuristic, but a reasonable one.</p>
+
+<p>Now, what does it mean in practice? I can think of a few things:</p>
+
+<ul>
+<li>No white flashes between screens.</li>
+<li>No partially loaded content.</li>
+<li>No relayout while content loads.</li>
+<li>Internally consistent. If one part of the UI says “1 update
+available”, another part should not say “Checking for
+updates...”</li>
+<li>Precise animations.</li>
+</ul>
+
+<p>Animations often end up being forgotten. A UI might look great in
+both start and end states but very janky in between.</p>
+</blockquote>
+
+<p>“Every frame perfect” is a great mantra for UI craftsmanship. If you care about every frame, that discipline will be palpable, even though almost no users will ever examine your animations and transitions frame-by-frame, and most will happen too quickly to see in real time. If you cut corners on interstitial states “because no one will notice”, you’ll start cutting corners elsewhere.</p>
+
+<div>
+<a  title="Permanent link to ‘‘Every Frame Perfect’’"  href="https://daringfireball.net/linked/2026/07/12/every-frame-perfect">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>TwoMillionKit: Use Private Cloud Compute in MacOS 27 Foundation Models Without an Entitlement</title>
 	<link rel="alternate" type="text/html" href="https://github.com/insidegui/TwoMillionKit" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xd6" />
@@ -2247,79 +2317,6 @@ requests, screenshots, and console output.</p>
 
 <div>
 <a  title="Permanent link to ‘Introducing the Safari MCP Server for Web Developers’"  href="https://daringfireball.net/linked/2026/07/02/safari-mcp">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>EveryMac Turns 30</title>
-	<link rel="alternate" type="text/html" href="https://everymac.com/whatsnew/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xby" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/02/everymac-turns-30" />
-	<id>tag:daringfireball.net,2026:/linked//6.43198</id>
-	<published>2026-07-02T21:31:04Z</published>
-	<updated>2026-07-02T21:52:25Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>EveryMac:</p>
-
-<blockquote>
-  <p>Thirty years is a long time — and a great deal has changed since
-then — but what has not changed is that EveryMac.com has been
-there to provide you with detailed info on every Mac from the
-original 128k to the current line. Thank you very much for your
-support through the years.</p>
-</blockquote>
-
-<p>Daring Fireball turns 24 next month, which doesn’t sound that much younger than 30. But the way things work (in my mind at least) is that sites that are still around but were established years prior to my starting Daring Fireball are the real “old guard”. I still feel like DF is a newcomer next to a site like EveryMac. 1996 for chrissakes. Steve Jobs wasn’t even back at Apple yet. What a great run it’s been and continues to be for EveryMac.</p>
-
-<p>Michael Tsai (whose eponymous blog is the <a href="https://mjtsai.com/blog/archives/">same age</a> as Daring Fireball) <a href="https://mjtsai.com/blog/2026/07/02/everymac-at-30/">asked EveryMac proprietor Brock Kyle how it started</a>. The final line of his answer: “I miss the ethos of those days.”</p>
-
-<div>
-<a  title="Permanent link to ‘EveryMac Turns 30’"  href="https://daringfireball.net/linked/2026/07/02/everymac-turns-30">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>I Repeat Myself (5G vs. LTE Edition)</title>
-	<link rel="alternate" type="text/html" href="https://daringfireball.net/linked/2022/03/23/5g-battery-life" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xbx" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/02/i-repeat-myself" />
-	<id>tag:daringfireball.net,2026:/linked//6.43197</id>
-	<published>2026-07-02T20:32:31Z</published>
-	<updated>2026-07-02T20:32:32Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Back in March 2022, Nicole Nguyen of The Wall Street Journal <a href="https://www.wsj.com/articles/5g-drains-your-iphones-battery-heres-what-you-can-do-about-it-11647716969?st=dejaoo8lf1p8v2w&amp;reflink=desktopwebshare_twitter">compared the battery life effects of 5G vs. LTE</a> by streaming videos on several iPhone and iPad models. She found that using LTE saved significant battery life. (It would be nice if someone re-ran similar tests on more recent devices — just because it was true with the iPhone 13 Pro doesn’t mean it’s true with current models. But I’ll bet it is.)</p>
-
-<p>Anyway, linking to her report, I wrote:</p>
-
-<blockquote>
-  <p>With both regular 5G and LTE, I typically get between 50–100 Mbps
-down — and I see a regular 5G connection far far more often than
-I do 5G ultra wideband. I don’t see any practical advantage to
-regular 5G compared to LTE. Those crazy-fast ultra-wideband
-download speeds are like owning a car that can go 200 MPH. So I’m
-just going to set my iPhone to use LTE all the time and save
-battery life. I’ll turn 5G Auto back on if I ever run into a
-situation where my LTE signal seems weak or slow.</p>
-</blockquote>
-
-<p>Which rings several bells with my “<a href="https://daringfireball.net/2026/07/a_tale_of_two_modems">A Tale of Two Modems</a>” post yesterday, regarding <a href="https://appleinsider.com/articles/26/06/30/iphone-18-pro-leaks-qualcomm-or-apple-c2-model-a20-details-camera-upgrades">an AppleInsider report</a> that data stolen from Apple supplier Tata Electronics shows that Apple is going to use Qualcomm’s mmWave-supporting cellular modems only in models of the iPhone 18 Pro sold in the U.S.</p>
-
-<p>But so what happened to my LTE setting? If I switched to LTE in 2022 because the battery life savings were noticeable and 5G’s faster download speeds were not, how’d I wind up back on 5G in 2026 and switching to LTE again only earlier this month?</p>
-
-<p>I don’t remember exactly, to be honest. I do know that I never switched back to 5G because I found LTE slow. As best I can remember, I switched back at some point when testing a new iPhone and ... just stopped thinking about it and never switched back to full-time LTE. But I’m on LTE again now, and I’m not switching back unless (a) I do find LTE slow, or (b) someone publishes results from a testing showing that 5G no longer consumes more battery power than LTE on current iPhone models.</p>
-
-<p>Oh, and to that point — a few readers emailed to say that one reason to prefer 5G, especially if you’re within range of a mmWave tower, is if you’re sharing your cellular connection to a Mac (or multiple Macs) via hotspot tethering. Yes, for sure. Another point that’s been raised is that 5G is supposedly better than LTE in crowded/congested situations like a stadium or arena full of people. Maybe? But in both cases, you know those situations when you encounter them, and you can use LTE all day most days and just turn on 5G when you’re using your iPhone as a hotspot, or when you find yourself in a crowded stadium. I’m saying try turning 5G off day-to-day, not telling you to sign up for a cellular plan without 5G (which I’m not even sure you can buy anymore).</p>
-
-<div>
-<a  title="Permanent link to ‘I Repeat Myself (5G vs. LTE Edition)’"  href="https://daringfireball.net/linked/2026/07/02/i-repeat-myself">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
