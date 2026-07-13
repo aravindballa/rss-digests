@@ -7,7 +7,62 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-12T22:33:20Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-13T15:31:34Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?</title>
+	<link rel="alternate" type="text/html" href="https://arstechnica.com/tech-policy/2025/08/elon-musk-sues-apple-openai-to-block-exclusive-iphone-chatgpt-integration/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xdb" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/13/musk-v-apple" />
+	<id>tag:daringfireball.net,2026:/linked//6.43247</id>
+	<published>2026-07-13T15:24:53Z</published>
+	<updated>2026-07-13T15:31:34Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Ashley Belanger, reporting for Ars Technica back in August 2025:</p>
+
+<blockquote>
+  <p>After a public <a href="https://arstechnica.com/tech-policy/2025/08/apple-gets-yanked-into-elon-musks-chatbot-war-with-openai/">outburst over Grok’s App Store rankings</a>,
+on Monday, Elon Musk followed through on his threat to sue Apple
+and OpenAI.</p>
+
+<p>At first, Musk appeared fixated on ChatGPT consistently topping
+Apple’s “Must Have” app list — which Grok has never made — claiming Apple seemed to preference OpenAI, an Apple partner, over
+all chatbot rivals. But Musk’s <a href="https://cdn.arstechnica.net/wp-content/uploads/2025/08/X-Corp-v-Apple-8-25-25-Complaint.pdf">filing</a> shows that the X
+and xAI owner isn’t just trying to push for more Grok downloads on
+iPhones — he’s concerned that Apple and OpenAI have teamed up to
+completely dash his <a href="https://arstechnica.com/tech-policy/2024/03/elon-musks-improbable-path-to-making-x-an-everything-app/">“everything app” dreams</a>, which was
+the <a href="https://arstechnica.com/tech-policy/2023/03/fast-moving-musk-makes-very-slow-progress-turning-twitter-into-everything-app/">reason he bought Twitter</a>.</p>
+</blockquote>
+
+<p>For what it’s worth, I just looked at the App Store <a href="https://daringfireball.net/misc/2026/06/app-store-popular-list-2026-07-13.png">editorially-curated “Popular iPhone Apps” list</a>, and ChatGPT is in the top spot. Given <a href="https://daringfireball.net/linked/2026/07/10/apple-sues-openai">the lawsuit Apple filed</a> against OpenAI last week, I’d say this is pretty good anecdata that these editorial decisions in the App Store aren’t driven by favoritism. The top 10 downloads list for free iPhone apps currently looks like this (for me here in the U.S. App Store):</p>
+
+<ol>
+<li>Paramount+</li>
+<li>Netflix Game Controller</li>
+<li>ChatGPT</li>
+<li>Kalshi: Trade the World Cup</li>
+<li>Peacock TV: Stream TV &amp; Movies</li>
+<li>Netshort - Popular Dramas &amp; TV</li>
+<li>Threads</li>
+<li>TikTok Pro - Events</li>
+<li>Freecash - Get Paid Real Money</li>
+<li>Depop - Buy &amp; Sell Clothes</li>
+</ol>
+
+<p>There are some real winners on that list. But only one AI app: ChatGPT.</p>
+
+<p>Musk alleges that the top downloads list is crooked too. That’s just projection. If Musk ran a popular App Store he’d put his thumb on the scale to make sure his own apps always top the list. That’s <a href="https://daringfireball.net/linked/2026/06/05/musk-x-freak-show">what he’s done with his personal account</a>, and accounts aligned with his politics, on Twitter/X. Because that’s what he would do, he thinks that’s what Apple does. Crooks think everyone is crooked. I really do think he believes the App Store’s top download lists are fixed, and that Grok is on the wrong side of the fix. It’s just one of several ways that Musk is not hooked up right.</p>
+
+<p>I suspect, though, that <a href="https://daringfireball.net/linked/2026/07/12/altman-musk">he’s no longer worried</a> that Apple is putting its thumb on the scale to favor OpenAI. Maybe he should <em>never-mind</em> this lawsuit.</p>
+
+<div>
+<a  title="Permanent link to ‘Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?’"  href="https://daringfireball.net/linked/2026/07/13/musk-v-apple">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>WorkOS Pipes</title>
 	<link rel="alternate" type="text/html" href="https://workos.com/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xda" />
@@ -2117,50 +2172,6 @@ about what makes for a good Mac app.</p>
 
 <div>
 <a  title="Permanent link to ‘From the DF Archive: ‘Electron and the Decline of Native Apps’’"  href="https://daringfireball.net/linked/2026/07/04/from-the-archive-electron-decline-of-native-apps">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Fantastical 4.1.15 Adds Calendar Mirroring</title>
-	<link rel="alternate" type="text/html" href="https://flexibits.com/blog/2026/06/double-booked-never-heard-of-it-meet-calendar-mirroring-in-fantastical/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xc2" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/04/fantastical-calendar-mirroring" />
-	<id>tag:daringfireball.net,2026:/linked//6.43202</id>
-	<published>2026-07-04T16:57:22Z</published>
-	<updated>2026-07-04T21:47:22Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Flexibits:</p>
-
-<blockquote>
-  <p>Calendar Mirroring allows you to connect two separate calendars
-(like work and personal) so that events from one automatically
-show up on the other.</p>
-
-<p>The best part? <em>No event information is sent to Flexibits servers
-or saved outside of your device.</em></p>
-
-<p>You can choose to show full event details or just block the time
-out as a mysterious, professional “Busy”. Your coworkers don’t
-need to know you’re getting a root canal, they just need to know
-you’re unavailable.</p>
-</blockquote>
-
-<p>In Flexibits’s example scenario, the idea is that you have a personal calendar with important events that you want to mirror to your work calendar, to block the times for those events off — and you might just want them marked as “Busy” on your work calendar, rather than revealing the actual details.</p>
-
-<p>I’ve been using this feature in beta for a few months and love it, even though my use case is seemingly simple. For recording episodes of <a href="https://dithering.fm/">Dithering</a>, Ben Thompson and I have a shared Microsoft 365 calendar. (You can guess which of the two of us set that up by that fact.) Fantastical has long had terrific built-in support for Microsoft 365 accounts. So for me, those events have always just shown up in Fantastical. For me.</p>
-
-<p>The problem is, my wife and I share an iCloud calendar, where we put events we want each other to know about. My Dithering recordings have never shown up there. Ben and I record on a pretty regular schedule, but it’s always been a minor irritation that my wife can’t see when I’m booked for Dithering. Fantastical’s new mirroring feature solves this perfectly. I set up a mirror to copy all events from my Dithering calendar to my family calendar, keeping the original event titles rather than obscuring them as “Busy”. (The titles all just say “Dithering”.)</p>
-
-<p>The icing on the cake is Fantastical’s longstanding “Combine identical events” preference setting. Because I have that setting on, I don’t see duplicate “Dithering” events — one from my Dithering calendar, and another from my family calendar. I just see one event for each scheduled recording, with a striped dual-color swatch that indicates that this one event exists on both calendars. It’s just perfect.</p>
-
-<p><strong>One more thing:</strong> Also somewhat recently, <a href="https://flexibits.com/blog/2026/03/feature-spotlight-introducing-the-fantastical-connector-mcp-for-claude/">Fantastical added support for Anthropic’s MCP</a> to integrate your calendaring with Claude Desktop and every other AI agent that <a href="https://daringfireball.net/linked/2026/07/02/safari-mcp">supports the standard</a>. David Sparks made a <a href="https://www.youtube.com/watch?app=desktop&amp;v=BcO0R-DfOg4">short demo video that shows it off</a>. I don’t really use Claude so this didn’t hit for me personally, but it seems cool enough that it made me at least consider, for a moment, switching from ChatGPT to Claude. Then I remembered <a href="https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job">what the Claude app is like</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Fantastical 4.1.15 Adds Calendar Mirroring’"  href="https://daringfireball.net/linked/2026/07/04/fantastical-calendar-mirroring">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
