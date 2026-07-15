@@ -7,7 +7,132 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-15T22:35:19Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-15T23:03:17Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Gurman on OpenAI’s Upcoming Hardware Product: ‘Movable, Screenless Speaker Built as AI Companion’</title>
+	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2026-07-14/openai-s-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDA2MjAxMywiZXhwIjoxNzg0NjY2ODEzLCJhcnRpY2xlSWQiOiJUSTYwSllUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.DfRN0afk0TFIaHFw9zEKYjehnfMsZfKC7gPoVos8WPI&amp;leadSource=article-gifting" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xdg" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/15/gurman-io-product" />
+	<id>tag:daringfireball.net,2026:/linked//6.43252</id>
+	<published>2026-07-15T23:02:54Z</published>
+	<updated>2026-07-15T23:03:17Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Mark Gurman, reporting for Bloomberg:</p>
+
+<blockquote>
+  <p>OpenAI believes the product’s defining feature will be its
+personality and ability to connect on a humanlike level with
+users. The speaker incorporates mechanical elements that can
+move on their own, creating a sense that it is alive and not
+just an object responding to commands. The machine also will
+draw on personal information such as emails to better understand
+its owner.</p>
+
+<p>The goal is for the device to feel like a companion and become a
+physical manifestation of OpenAI’s ChatGPT. Still, the exact plans
+could change as the company works through the development and
+legal process. [...]</p>
+
+<p>Another central difference is that the device includes a
+rechargeable battery, allowing it to be carried from room to room
+throughout the day. A user could bring it into the laundry room
+while doing chores, move it into the kitchen for cooking
+assistance, and later place it in a living room or bedroom to have
+it play music. It can also remain plugged into a single room if
+the customer chooses.</p>
+</blockquote>
+
+<p>This description doesn’t sound compelling at all to me. If it’s able to move at all, then it ought to be autonomous. Star Wars-style droids are, in my opinion, the end game here. That’s ambitious though. I don’t think either AI <em>or</em> robotics are there yet. But if it can’t move itself, it needs to be wearable, not luggable.</p>
+
+<p>No one wants a companion they need to lug around.</p>
+
+<div>
+<a  title="Permanent link to ‘Gurman on OpenAI’s Upcoming Hardware Product: ‘Movable, Screenless Speaker Built as AI Companion’’"  href="https://daringfireball.net/linked/2026/07/15/gurman-io-product">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Eric Seufert: ‘Did Apple Just Signal a Third-Party Expansion of Apple Ads?’</title>
+	<link rel="alternate" type="text/html" href="https://mobiledevmemo.com/did-apple-just-signal-a-third-party-expansion-of-apple-ads/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xdf" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/15/seufert-apple-ads" />
+	<id>tag:daringfireball.net,2026:/linked//6.43251</id>
+	<published>2026-07-15T22:52:22Z</published>
+	<updated>2026-07-15T22:52:23Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Eric Seufert, Mobile Dev Memo:</p>
+
+<blockquote>
+  <p>The new language could simply accommodate the availability of
+Apple-owned services on the web and through third-party devices
+and operating systems; the Apple TV app, for instance, is
+available on smart TVs, streaming devices, and game consoles. But
+the addition of “other properties” is conspicuously broad and
+appears to give Apple the contractual latitude to distribute ads
+beyond its own services entirely. This would allow for a material
+expansion of the company’s advertising surface area.</p>
+
+<p>Further, if Apple does indeed plan to expand Apple Ads to
+third-party surfaces, it would explain why the company <a href="https://mobiledevmemo.com/wwdc-2026-implications-for-the-app-economy/">did not
+reveal an update</a> to its AdAttributionKit (AAK, formerly
+SKAdNetwork, or SKAN) attribution framework at this year’s WWDC.</p>
+</blockquote>
+
+<p>That would be one way to go.</p>
+
+<div>
+<a  title="Permanent link to ‘Eric Seufert: ‘Did Apple Just Signal a Third-Party Expansion of Apple Ads?’’"  href="https://daringfireball.net/linked/2026/07/15/seufert-apple-ads">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Apple Updates Advertising Services Policy With New Rules for Ads in Maps</title>
+	<link rel="alternate" type="text/html" href="https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xde" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/15/apple-maps-ad-rules" />
+	<id>tag:daringfireball.net,2026:/linked//6.43250</id>
+	<published>2026-07-15T22:48:20Z</published>
+	<updated>2026-07-15T22:53:11Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Sarah Perez, TechCrunch:</p>
+
+<blockquote>
+  <p>In a newly published <a href="https://ads.apple.com/news-and-stocks-maps-and-sports-programming-policies">Apple Advertising Services policy,</a>
+effective as of July 14, 2026, the iPhone maker shares its rules
+for advertising on Apple Maps. Notably, it prohibits the broad
+category of home services businesses, like plumbing, electrical,
+locksmith, HVAC, pest control, roofing, and general contracting
+services, among others. [...]</p>
+
+<p>The broader policy also prohibits deceptive or profane ads,
+political ads, and ads featuring weapons, violence, controlled
+substances, defamatory material, and more.</p>
+
+<p>Although Apple may expand to other ad categories over time, its
+initial approach positions Maps and its ads as a more curated,
+navigation-focused product, rather than an extension of a web
+search engine.</p>
+</blockquote>
+
+<p>The easiest way to keep scammy and predatory ads out of Apple Maps would be, you know, <a href="https://daringfireball.net/2026/07/ternus_apple_slippery_slope">not to sell ads in Apple Maps</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Updates Advertising Services Policy With New Rules for Ads in Maps’"  href="https://daringfireball.net/linked/2026/07/15/apple-maps-ad-rules">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple Intelligence OK’d to Launch in China, Using AI Models from Baidu and Alibaba</title>
 	<link rel="alternate" type="text/html" href="https://www.scmp.com/tech/policy/article/3360685/china-approves-apple-intelligence-phones-alibaba-baidu-emerging-partners" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xdd" />
@@ -2084,122 +2209,6 @@ direction given the chance.</p>
 
 <div>
 <a  title="Permanent link to ‘ATP Member Special: Mac-Assed Mac Apps’"  href="https://daringfireball.net/linked/2026/07/06/atp-mac-assed">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Maestral, the Open Source Splendidly Simple Mac Dropbox Client, Has Been Retired</title>
-	<link rel="alternate" type="text/html" href="https://maestral.app/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xc6" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/06/maestral-retired" />
-	<id>tag:daringfireball.net,2026:/linked//6.43206</id>
-	<published>2026-07-06T17:04:44Z</published>
-	<updated>2026-07-06T18:52:12Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Maestral developer Sam Schott, on the Maestral website:</p>
-
-<blockquote>
-  <p>As of June 2026, Maestral is no longer actively maintained. The
-current version will continue to work until certificates expire.</p>
-</blockquote>
-
-<p>Schott, <a href="https://github.com/samschott/maestral">on Maestral’s GitHub project page</a>:</p>
-
-<blockquote>
-  <p>As of 2026-07-28, this project is archived. It’s been a fun
-challenge to develop a syncing client, but unfortunately, I find
-too little time to invest in Maestral these days. I’ve also moved
-away from using Dropbox myself.</p>
-
-<p>Maestral will still remain usable in the medium term, but will no
-longer be actively maintained or receive updates.</p>
-</blockquote>
-
-<p>You get what you pay for, and Maestral is free of charge and open source. But man, this is a real bummer. I absolutely <em><a href="https://daringfireball.net/2023/07/nerding_out_with_maestral_launchcontrol_and_keyboard_maestro">love</a></em> Maestral. It restores Dropbox to its original vision — a folder on my Mac that syncs. Nothing at all like the bloated app that Dropbox’s first-party Mac client has grown into. And it doesn’t use any of MacOS’s modern <a href="https://developer.apple.com/documentation/fileprovider">File Provider APIs</a>, which in my experience provide me with no benefits that I want, and saddle me with much needless complexity that I don’t. With Maestral, it’s just a quiet app that runs in the background, consumes preciously few CPU and memory resources, and <a href="https://maestral.app/about/">just syncs</a> a folder of your choosing to your Dropbox account. I of course chose <code>~/Dropbox/</code>. It’s always been super robust for me. It’s not a hack — it syncs to Dropbox using Dropbox’s APIs.</p>
-
-<p>As of today Maestral continues to work just fine. I don’t know when these certificates are expiring. And I don’t know what I’m going to do when they do. I might try moving everything from my Dropbox account to iCloud Drive. That certainly seems worth trying before I resort to going back to Dropbox’s own monstrosity of a Mac client.</p>
-
-<p>In theory, because Maestral is open source, someone could fork it and keep it going. But my impression has always been that it was a one-man show from Schott, and if he’s personally no longer using Dropbox, it’s easy to see why he’s lost interest in maintaining Maestral.</p>
-
-<p>So it goes.</p>
-
-<div>
-<a  title="Permanent link to ‘Maestral, the Open Source Splendidly Simple Mac Dropbox Client, Has Been Retired’"  href="https://daringfireball.net/linked/2026/07/06/maestral-retired">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Jason Snell Ends His Column, and 28-Year Run, at Macworld</title>
-	<link rel="alternate" type="text/html" href="https://www.macworld.com/article/3175482" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xc5" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/06/snell-macworld-column" />
-	<id>tag:daringfireball.net,2026:/linked//6.43205</id>
-	<published>2026-07-06T14:35:02Z</published>
-	<updated>2026-07-06T14:35:02Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jason Snell, at Macworld:</p>
-
-<blockquote>
-  <p>My first day on the job at Macworld, Apple was perilously close to
-going out of business. It was the fall of 1997, and Steve Jobs had
-returned to Apple and engineered the ejection of Gil Amelio as
-CEO, but there was no iMac yet, no visible turnaround in terms of
-products at all. Beyond the release of the iconic “Think
-Different” ad campaign, there was nothing.</p>
-
-<p>Apple’s survival hung by a thread. Steve Jobs asked everyone to
-trust him. <a href="https://www.macworld.com/article/3100197/ive-been-to-a-lot-of-apple-keynotes-ill-never-forget-these-two.html">At Macworld Expo</a>, he had enlisted Bill
-Gates–Bill Gates, of all people!–to help him instill belief in the
-world that Apple would find a way to survive.</p>
-
-<p>The world was skeptical, to say the least. My family asked what
-job I thought I’d get once Apple went out of business. The
-magazine I had worked at for four years, <a href="https://go.skimresources.com/?id=111346X1569486&amp;xs=1&amp;url=https://vintageapple.org/macuser/&amp;xcust=1-0-3175482-1-0-0-0-0&amp;sref=https://www.macworld.com/article/3175482">MacUser</a>, had
-folded, and some of us had been transferred over to our rival,
-Macworld, presumably to publish issues until Apple finally gave up
-the ghost and died. We existed to minimize the loss exposure of
-our respective publishing companies.</p>
-
-<p>1997 was weird, folks. And that’s how my tenure at Macworld
-started.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘Jason Snell Ends His Column, and 28-Year Run, at Macworld’"  href="https://daringfireball.net/linked/2026/07/06/snell-macworld-column">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Day One Journal</title>
-	<link rel="alternate" type="text/html" href="https://dayoneapp.com/blog/introducing-daily-chat/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xc4" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/04/day-one-journal" />
-	<id>tag:daringfireball.net,2026:/linked//6.43204</id>
-	<published>2026-07-04T21:02:43Z</published>
-	<updated>2026-07-04T21:02:44Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>My thanks to Day One Journal for once <a href="https://daringfireball.net/feeds/sponsors/2024/01/day_one_journal_app">again</a> sponsoring Daring Fireball. Day One first launched in 2011 and has been <em>the</em> stalwart of journaling apps on Mac and iOS ever since. Day One’s apps exhibit a commitment to technical and design excellence, and, more importantly, everything they do is deeply informed by the intense personal nature of keeping a journal. (Or journals — Day One lets you create as many separate journals as you want.) The Day One Mac app is Mac-assed and the iPhone and iPad apps are, well, iOS-assed. Fast, familiar, consistent, and intuitive.</p>
-
-<p>Day One recognizes that many people struggle with journalling not because they can’t write, but because they don’t know how to begin or what a “good” journal entry about their day looks like. That’s why they built Daily Chat, a guided reflection experience that helps you talk through your day, organize your thoughts, and shape them into a journal entry.</p>
-
-<p>Early testers commented: “<em>Day One’s new Daily Chat is a true game changer for my daily journaling. The AI-powered chat makes capturing thoughts effortless and inspires creativity like never before. Writing my diary has never been this intuitive and fun!</em>”</p>
-
-<p><a href="https://dayoneapp.com/blog/introducing-daily-chat/">Try it for yourself</a>, it will change the way you think about journaling.</p>
-
-<div>
-<a  title="Permanent link to ‘Day One Journal’"  href="https://daringfireball.net/linked/2026/07/04/day-one-journal">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
