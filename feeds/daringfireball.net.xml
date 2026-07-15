@@ -7,7 +7,54 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-14T14:40:50Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-15T22:35:19Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Apple Intelligence OK’d to Launch in China, Using AI Models from Baidu and Alibaba</title>
+	<link rel="alternate" type="text/html" href="https://www.scmp.com/tech/policy/article/3360685/china-approves-apple-intelligence-phones-alibaba-baidu-emerging-partners" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xdd" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/15/apple-intelligence-china-baidu-alibaba" />
+	<id>tag:daringfireball.net,2026:/linked//6.43249</id>
+	<published>2026-07-15T22:35:18Z</published>
+	<updated>2026-07-15T22:35:19Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Ben Jiang, reporting from Beijing for the South China Morning Post:</p>
+
+<blockquote>
+  <p>Chinese regulators have granted Apple a long-awaited licence to
+roll out its artificial intelligence service on iPhones in the
+country, with Alibaba Group Holding and Baidu serving as technical
+partners.</p>
+
+<p>The Cyberspace Administration of China (CAC), the country’s
+internet watchdog, published a notice on Wednesday confirming the
+licence for Apple Intelligence — the AI feature used to summarise
+emails, draft reports, edit images and perform other tasks. It was
+granted alongside six other smartphone-based AI services,
+including those for Samsung and Huawei Technologies.</p>
+
+<p>An Alibaba representative told the South China Morning Post on
+Wednesday that its Qwen large-language model would “be integrated
+into Apple Intelligence experiences within iOS, iPadOS, macOS and
+visionOS for users in China”. This would allow users to access the
+model’s capabilities such as text and image generation, the
+representative said. Alibaba owns the South China Morning Post.</p>
+
+<p>A Baidu representative also told the SCMP on Wednesday that it was
+working with Apple to develop AI features for Apple Intelligence
+in China.</p>
+</blockquote>
+
+<p>This isn’t about Siri AI, announced last month at WWDC for iOS 27 — this is the initial approval for Apple Intelligence, which was announced two years ago and rolled out in iOS 18. It’s unclear in any of <a href="https://www.techmeme.com/260715/p12#a260715p12">this coverage today</a> whether this is a green light for Siri AI this year too.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Intelligence OK’d to Launch in China, Using AI Models from Baidu and Alibaba’"  href="https://daringfireball.net/linked/2026/07/15/apple-intelligence-china-baidu-alibaba">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://paper.design/?utm_source=df" />
 	<link rel="shorturl" href="http://df4.us/xdc" />
@@ -2153,50 +2200,6 @@ started.</p>
 
 <div>
 <a  title="Permanent link to ‘Day One Journal’"  href="https://daringfireball.net/linked/2026/07/04/day-one-journal">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>From the DF Archive: ‘Electron and the Decline of Native Apps’</title>
-	<link rel="alternate" type="text/html" href="https://daringfireball.net/2018/12/electron_and_the_decline_of_native_apps" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xc3" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/04/from-the-archive-electron-decline-of-native-apps" />
-	<id>tag:daringfireball.net,2026:/linked//6.43203</id>
-	<published>2026-07-04T19:28:45Z</published>
-	<updated>2026-07-04T22:25:25Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Yours truly, back in 2018:</p>
-
-<blockquote>
-  <p>I don’t share the depth of their pessimism regarding native apps,
-but Electron is without question a scourge. I think the Mac will
-prove more resilient than Windows, because the Mac is the platform
-that attracts people who care. But I worry.</p>
-
-<p>In some ways, the worst thing that ever happened to the Mac is
-that it got so much more popular a decade ago. In theory, that
-should have been nothing but good news for the platform — more
-users means more attention from developers. The more Mac users
-there are, the more Mac apps we should see. The problem is, the
-users who really care about good native apps — users who know
-<a href="https://developer.apple.com/design/human-interface-guidelines/macos/">HIG</a> violations when they see them, who care about performance,
-who care about Mac apps being <em>right</em> — were mostly already on
-the Mac. A lot of newer Mac users either don’t know or don’t care
-about what makes for a good Mac app.</p>
-</blockquote>
-
-<p>This eight-year-old piece holds up well. My concern was justified, but so too was my lack of defeatist pessimism. Truly native, idiomatically correct Mac-assed Mac apps are resurgent. Electron and its brethren non-native frameworks have not receded, but they haven’t gained further ground. For every Claude (Electron) there’s a ChatGPT (AppKit). I’m seeing more new good Mac apps released today than I was in 2018, and longstanding Mac stalwarts <a href="https://sixcolors.com/post/2026/05/bbedit-16-offers-speed-boosts-and-shortcuts-and-emoji-upgrades/">continue to thrive</a>. High tide seems to have passed without washing the native platform away.</p>
-
-<p>Apple itself is a good example. The Mac version of Journal, first introduced in MacOS 26 Tahoe, is a profound disappointment — not just because of <a href="https://daringfireball.net/linked/2026/06/25/apple-journal-undo-bug">serious bugs</a> but because it’s un-Mac-like in sad ways. You can’t open an entry into its own window, for example. But the brand-new Siri app in the developer betas of MacOS 27 Golden Gate is pretty Mac-like. You can double-click chats in list view to open them in their own windows, for example. (You can’t double-click chats in grid view to open them into windows, though — presumably a bug.) Siri is not a great Mac app but it does feel like a Mac app, and it’s only a 1.0 in its second developer beta. It doesn’t feel like an iOS app running in a Mac window, like Journal does.</p>
-
-<p>The ironic frustration with <a href="https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job">Anthropic’s Claude app being an Electron turd</a> is that Claude and especially Claude Code are so capable of helping to create good native Mac apps. It’s one thing for a big company or organization with cross-platform aspirations but no institutional Mac expertise, like Notion or Slack or Discord, to choose Electron to create their Mac client. It’s another when it’s a company like Anthropic, whose only product’s single most impressive ability is generating programming code, including high-quality AppKit and SwiftUI code for the Mac. To return to my <a href="https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job">hammering-screws-into-the-walls metaphor from yesterday</a>, it’s as though the building into which Anthropic decided to hammer all the screws is a renowned screwdriver factory.</p>
-
-<div>
-<a  title="Permanent link to ‘From the DF Archive: ‘Electron and the Decline of Native Apps’’"  href="https://daringfireball.net/linked/2026/07/04/from-the-archive-electron-decline-of-native-apps">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
