@@ -7,7 +7,35 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-16T19:46:09Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-16T23:29:14Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Dithering: ‘Apple Sues OpenAI’</title>
+	<link rel="alternate" type="text/html" href="https://dithering.passport.online/member/episode/apple-sues-open-ai" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xdl" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/16/dithering-apple-sues-openai" />
+	<id>tag:daringfireball.net,2026:/linked//6.43257</id>
+	<published>2026-07-16T23:28:09Z</published>
+	<updated>2026-07-16T23:29:14Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p><a href="https://dithering.fm/" class="noborder">
+  <img
+    src = "https://daringfireball.net/misc/2026/06/dithering-cover-jul-2026.jpg"
+    alt = "Cover art for Dithering in July 2026. Two young women jumping and frolicking in the summer."
+  /></a></p>
+
+<p>Tuesday’s episode of Dithering was a good one, especially for the DF audience, so we’ve moved it outside the paywall and <a href="https://dithering.passport.online/member/episode/apple-sues-open-ai">made it free-to-listen on the web</a>. (We don’t (yet?) have an RSS feed that you can put in your podcast player for these occasional free episodes, alas.) I have a slightly different take on Apple’s lawsuit against OpenAI than I’ve seen expressed elsewhere.</p>
+
+<p>If you don’t subscribe to Dithering, you probably should. Two episodes per week, 15 minutes per episode. Not a minute less, not a minute more. $7/month or $70/year — or, get it included with the Stratechery Plus bundle.</p>
+
+<div>
+<a  title="Permanent link to ‘Dithering: ‘Apple Sues OpenAI’’"  href="https://daringfireball.net/linked/2026/07/16/dithering-apple-sues-openai">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>OpenAI Takes a Second Crack at a Response to Apple’s Trade Secret Theft Lawsuit</title>
 	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2026-07-14/openai-says-it-s-not-aware-of-any-evidence-that-apple-lawsuit-has-merit" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xdk" />
@@ -2113,44 +2141,6 @@ them for utilities like Disk First Aid and Font/DA Mover.</p>
 
 	]]></content>
 	<title>[Sponsor] WorkOS Pipes: More Context Makes for Smarter Products</title></entry><entry>
-	<title>OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices</title>
-	<link rel="alternate" type="text/html" href="https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xcc" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/07/dev-beta-3-siri-voice-sliders" />
-	<id>tag:daringfireball.net,2026:/linked//6.43212</id>
-	<published>2026-07-07T15:22:26Z</published>
-	<updated>2026-07-07T23:55:38Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Sarah Perez, writing for TechCrunch:</p>
-
-<blockquote>
-  <p>With the latest iOS 27 developer beta, Apple is giving testers an
-early look at one of the upcoming improvements to <a href="https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/">its AI-powered
-Siri</a>: the ability to adjust how quickly and expressively
-the AI assistant speaks. In iOS 27 beta 3, out today, Apple has
-enabled the voice controls for “Pace” and “Expressivity” that were
-previously labeled as “Coming soon” in the first developer beta
-releases.</p>
-</blockquote>
-
-<p>I started running developer beta 1 on a spare iPhone the day it came at WWDC. It proved so stable, and Siri AI so useful, that I moved my primary iPhone 17 Pro to the iOS 27 betas with beta 2. So I’ve more or less been living on iOS 27 developer betas for a month now. If you’re as reckless as me, you’re probably doing so already too. If you’re not, you should probably at least wait for the public betas, the first of which I’ll bet is imminent. The stability of these betas right out of the gate is proof that this really is a Snow Leopard-type fix-and-improve-the-foundations year. I love it.</p>
-
-<p>As for the new Siri voices, I think both of the new voices that are available so far are very good. Voice 1 is female and voice 2 is male; I’ve spent days with both but prefer the female voice. (I’d pay a fortune for a male voice that sounded like HAL 9000; I don’t like this guy who sounds, I don’t know, like a child psychologist or something. I don’t want “friendly”, which to me sounds saccharine and phony from a computer. The female voice sounds more emotionally removed, and thus honest, to me.)</p>
-
-<p>Credit to Apple here. Now that these sliders are available, I have to say they nailed the defaults. After a month using them without the sliders, I thought that once the settings became available I might want to tone expressivity <em>down</em> one notch and/or turn the pace <em>up</em> one notch. But, no. A little less expressivity doesn’t make voice 1 sound less phony to me — it makes her sound a tad stoned. And even one click more pace sounds too fast for me — hurried, not curt. Nailing defaults is hard and I think Apple nailed these.</p>
-
-<p>(The system dictionary definition of <em>curt</em>: “rudely brief”. That’s what I want from an AI voice. That’s a computer being honest about what it is.)</p>
-
-<div>
-<a  title="Permanent link to ‘OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices’"  href="https://daringfireball.net/linked/2026/07/07/dev-beta-3-siri-voice-sliders">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/07/eliminate_app_icon_squircle_jail" />
 	<link rel="shorturl" href="http://df4.us/xcb" />
