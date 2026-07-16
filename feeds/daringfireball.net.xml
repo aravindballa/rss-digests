@@ -7,7 +7,37 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-16T19:41:10Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-16T19:46:09Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>OpenAI Takes a Second Crack at a Response to Apple’s Trade Secret Theft Lawsuit</title>
+	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2026-07-14/openai-says-it-s-not-aware-of-any-evidence-that-apple-lawsuit-has-merit" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xdk" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/16/openai-takes-a-second-crack" />
+	<id>tag:daringfireball.net,2026:/linked//6.43256</id>
+	<published>2026-07-16T19:44:47Z</published>
+	<updated>2026-07-16T19:46:09Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>OpenAI, in a statement to Bloomberg this week:</p>
+
+<blockquote>
+  <p>“While we take these allegations seriously, we’re not aware of any
+evidence that this complaint has merit. We believe in fair
+competition and allowing people the freedom to work wherever they
+choose, and we’re focused on building innovative technology that
+empowers people everywhere.”</p>
+</blockquote>
+
+<p>“We’re not aware of any evidence that this complaint has merit” is very different from, say, “This complaint has no merit.” <a href="https://daringfireball.net/linked/2026/07/10/openai-pusateri-statement">Again</a>, a curious response.</p>
+
+<div>
+<a  title="Permanent link to ‘OpenAI Takes a Second Crack at a Response to Apple’s Trade Secret Theft Lawsuit’"  href="https://daringfireball.net/linked/2026/07/16/openai-takes-a-second-crack">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Lawyer for Apple Mixed Up Two OpenAI Employees’ Names, Sent One Email to the Wrong Guy, Back in February</title>
 	<link rel="alternate" type="text/html" href="https://www.nbcnews.com/tech/apple/apple-openai-lawsuit-suit-trade-product-hardware-email-sam-altman-rcna587376" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xdj" />
@@ -2219,36 +2249,6 @@ differentiation and uniqueness in icons. But not anymore.</p>
 
     ]]></content>
   <title>★ Apple Should Eliminate the App Icon ‘Squircle Jail’</title></entry><entry>
-	<title>Markdown Now Has a Uniform Type Identifer (UTI) in Apple’s Version 27 OSes</title>
-	<link rel="alternate" type="text/html" href="https://developer.apple.com/documentation/uniformtypeidentifiers/uttype-swift.struct/markdown" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xca" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/06/markdown-uti-os-27" />
-	<id>tag:daringfireball.net,2026:/linked//6.43210</id>
-	<published>2026-07-06T20:38:43Z</published>
-	<updated>2026-07-08T18:57:23Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>The third developer betas of Apple’s 27 OSes dropped today, and this new page in Apple’s developer documentation drew my attention — a built-in Uniform Type Identifier for Markdown data:</p>
-
-<blockquote>
-  <p>The identifier for this type is <code>net.daringfireball.markdown</code>.</p>
-
-<p>This type conforms to <code>[utf8PlainText]</code>.</p>
-</blockquote>
-
-<p>My main link here is to the Swift documentation, but <a href="https://developer.apple.com/documentation/uniformtypeidentifiers/uttypemarkdown?language=objc">it’s available in good old Objective-C too</a>.</p>
-
-<p>I had previously recommended conforming to <code>public.plain-text</code> but stated that the text encoding should be UTF-8. I’ve updated <a href="https://daringfireball.net/linked/2011/08/05/markdown-uti">my own recommendation</a> to <code>public.utf8-plain-text</code> to enshrine the UTF-8 encoding. (Back in 2004 UTF-8 support was far from universal. Today it is.)</p>
-
-<div>
-<a  title="Permanent link to ‘Markdown Now Has a Uniform Type Identifer (UTI) in Apple’s Version 27 OSes’"  href="https://daringfireball.net/linked/2026/07/06/markdown-uti-os-27">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job" />
 	<link rel="shorturl" href="http://df4.us/xc1" />
