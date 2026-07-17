@@ -7,14 +7,108 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-17T19:26:50Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-17T20:27:54Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>OpenAI’s Product Shake-Up</title>
+	<link rel="alternate" type="text/html" href="https://www.wired.com/story/openai-reorg-greg-brockman-product/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xdv" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/17/openais-product-shake-up" />
+	<id>tag:daringfireball.net,2026:/linked//6.43267</id>
+	<published>2026-07-17T20:27:53Z</published>
+	<updated>2026-07-17T20:27:54Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Wired, back on May 15:</p>
+
+<blockquote>
+  <p>OpenAI says it’s folding ChatGPT, its AI coding agent Codex, and
+its developer-facing API into one core product team. The company
+says that Codex is increasingly powering its consumer and
+enterprise offerings, which are gaining the ability to perform
+digital tasks autonomously on behalf of users.</p>
+
+<p>Other OpenAI leaders are also taking on larger roles at the
+company as part of the changes. OpenAI’s head of Codex, Thibault
+Sottiaux, has been tapped to lead the company’s core product and
+platform teams. Sottiaux was a key leader in building Codex into
+one of the company’s fastest-growing products of all time. He’s
+also one of the leaders overseeing development of OpenAI’s
+forthcoming “super app,” which aims to combine Codex, ChatGPT, and
+the company’s Atlas web browser into a unified desktop
+application.</p>
+</blockquote>
+
+<p>I’ll give them credit for sticking with a plan for two whole months to get this out the door.</p>
+
+<div>
+<a  title="Permanent link to ‘OpenAI’s Product Shake-Up’"  href="https://daringfireball.net/linked/2026/07/17/openais-product-shake-up">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>MG Siegler: ‘OpenAI Makes ChatGPT ChatGPT Again’</title>
+	<link rel="alternate" type="text/html" href="https://spyglass.org/chatgpt-brings-back-chatgpt/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xdu" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/17/chatgpt-siegler" />
+	<id>tag:daringfireball.net,2026:/linked//6.43266</id>
+	<published>2026-07-17T19:48:53Z</published>
+	<updated>2026-07-17T20:15:21Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>MG Siegler, writing at Spyglass:</p>
+
+<blockquote>
+  <p>In that light, we can see the dilemma. But there were also
+probably about a dozen better ways to do this roll-out — as
+highlighted by how fast they’re fixing these things — and they
+just missed the mark. While they undoubtedly knew there would be
+some backlash, they probably didn’t realize there would be <em>this
+much</em>. Again. All that points to perhaps <a href="https://spyglass.org/openai-chatgpt-gpt-5-backlash/">a disturbing trend</a>
+where OpenAI doesn’t really understand their user base. Which you
+almost can understand given how they clearly stumbled into ChatGPT
+in the first place. Still, here they are with those billion users.
+A problem that all of their competitors would love to have. But
+still a problem if you want to fundamentally change what you are
+<a href="https://spyglass.org/openai-product-launches/">as a product</a>..</p>
+
+<p>But those are bigger, existential issues. All I wanted was chat
+back in the ChatGPT app. Front and center. And I got it. It’s not
+perfect. It’s still bloated. But at least it’s usable again now
+and not a confusing mess of ideas out of the box.</p>
+</blockquote>
+
+<p>MG is pretty scathing, but I still think he’s taking it too easy on OpenAI for a what a colossal fuck-up this remains. There was nothing wrong with the way things were, with two apps — the simple ChatGPT and the complex Codex. (Well, the Codex Mac app being an Electron turd was wrong, but that complaint seems quaint at this point.)</p>
+
+<p>Adding “ChatGPT” as a tab to Codex is fine. Renaming Codex to “ChatGPT” is stupid. They have <em>not</em> made ChatGPT “ChatGPT” again.</p>
+
+<p>There is nothing — not one single tiny feature — in the new ChatGPT app that makes me want to use it instead of ChatGPT Classic. And there is so much in ChatGPT Classic that works better or just isn’t available in the new ChatGPT. You can’t even just delete a chat in the new app — you have to “archive” it first, then fish around to find the archive and delete it there.</p>
+
+<p>I don’t think the problem is that OpenAI “doesn’t really understand their user base”. I think it’s that decisions are now being made by AI research eggheads who don’t understand their own products. So of course they don’t understand their user base — who uses the ChatGPT product — either. I mean what sense does it make that the ChatGPT app for iOS and Android is still the old ChatGPT, which on the Mac is now “ChatGPT Classic”, but there’s a totally different app that is an entire order of magnitude more complicated on the Mac now named “ChatGPT”?</p>
+
+<p>The only good solution is to pretend this last week didn’t happen and go back to calling ChatGPT “ChatGPT” and Codex “Codex”. If they want to give one of them a new name, don’t call ChatGPT “ChatGPT Classic” — instead rename Codex “ChatGPT Codex”. There, done. All problems solved.</p>
+
+<p>The Codex app is clearly capable of amazing things. But the reason that there are a billion users of ChatGPT but only a few million users of Codex — <a href="https://openai.com/index/codex-for-knowledge-work/">by OpenAI’s own accounting</a> — is because ChatGPT is simple and focused and based on a single coherent concept: chat. The frustration of the eggheads now running product at OpenAI is obvious: how come these hundreds of millions of morons using ChatGPT aren’t running Codex instead? Somehow they thought they could fix this by giving Codex the ChatGPT name. This is like if Apple had gotten rid of the Messages app on the Mac and replaced it with Xcode, which they renamed to “Messages”. Now they’ve put an “iMessage” tab in the Xcode sidebar and re-released the Messages app everyone knew and loved as “Messages Classic”.</p>
+
+<p>OpenAI separated itself from its competition — especially Anthropic — by being good at product. Now their product decisions are being made by people who don’t understand why Apple makes both iMovie and Final Cut Pro, or GarageBand and Logic Pro.</p>
+
+<div>
+<a  title="Permanent link to ‘MG Siegler: ‘OpenAI Makes ChatGPT ChatGPT Again’’"  href="https://daringfireball.net/linked/2026/07/17/chatgpt-siegler">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>OpenAI Starts Cleaning Up the Utter Mess It Made of ChatGPT</title>
 	<link rel="alternate" type="text/html" href="https://x.com/thsottiaux/status/2077928427936710901" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xdt" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/17/openai-chatgpt-mess" />
 	<id>tag:daringfireball.net,2026:/linked//6.43265</id>
 	<published>2026-07-17T19:10:43Z</published>
-	<updated>2026-07-17T19:26:50Z</updated>
+	<updated>2026-07-17T20:26:56Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -54,9 +148,9 @@ try), and as a result, we’ve made some changes.</p>
     width = 525
 /></a></p>
 
-<p>What they’re trying to say here is that if you’ve ever installed the <em>new</em> ChatGPT the “Install Update” button in this dialog with do nothing. It will take some time to do nothing, but ultimately do nothing. Except quit ChatGPT.</p>
+<p>What they’re trying to say here is that if you’ve ever installed the <em>new</em> ChatGPT the “Install Update” button in this dialog will do nothing. It will take some time to do nothing, but ultimately do nothing. Except quit ChatGPT.</p>
 
-<p>If you’ve never installed the new ChatGPT, this dialog box will update the old ChatGPT to the latest version, which is now renamed “ChatGPT Classic”. If have tried the new ChatGPT, you need to install ChatGPT Classic manually, even though you’re seeing this update dialog box in a slightly older version of the app you want to keep using. But at least they now offer a supported way <a href="https://persistent.oaistatic.com/sidekick/public/ChatGPT_Classic.pkg">to install ChatGPT Classic</a>.</p>
+<p>If you’ve never installed the new ChatGPT, this dialog box will update the old ChatGPT to the latest version, which is now renamed “ChatGPT Classic”. If you have tried the new ChatGPT, you need to install ChatGPT Classic manually, even though you’re seeing this update dialog box in a slightly older version of the app you want to keep using. But at least they now offer a supported way <a href="https://persistent.oaistatic.com/sidekick/public/ChatGPT_Classic.pkg">to install ChatGPT Classic</a>.</p>
 
 <p>This whole thing makes the <a href="https://en.wikipedia.org/wiki/New_Coke">“New Coke”/”Coke Classic” fiasco</a> from the 1980s look like a well-thought-out change.</p>
 
@@ -1769,121 +1863,6 @@ have no connection to that agreement.</p>
 
 <div>
 <a  title="Permanent link to ‘Apple Sues OpenAI, io, and Former Employees, Alleging Theft of Trade Secrets’"  href="https://daringfireball.net/linked/2026/07/10/apple-sues-openai">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Shocking No One, Fidji Simo, Would-Be Usurper, Is Out at OpenAI</title>
-	<link rel="alternate" type="text/html" href="https://www.wsj.com/tech/openai-top-executive-fidji-simo-to-step-down-c3daca47?st=NfBZTe" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xcp" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/09/fidji-simo-out" />
-	<id>tag:daringfireball.net,2026:/linked//6.43225</id>
-	<published>2026-07-10T00:35:59Z</published>
-	<updated>2026-07-11T22:21:22Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Berber Jin and Anissa Gardizy, reporting for The Wall Street Journal (gift link):</p>
-
-<blockquote>
-  <p>Fidji Simo, OpenAI’s No. 2 executive, plans to step down from her
-full-time role after an extended medical leave. She communicated
-her decision in a note to staff Thursday, saying that her medical
-condition had worsened and her road to recovery would be much
-longer than anticipated. She will become a part-time adviser to
-the company. [...]</p>
-
-<p>The company abruptly pivoted its focus to building AI-powered
-coding tools for businesses after falling behind Anthropic in that
-lucrative market. Simo led early efforts to create a
-coding-focused “superapp,” which OpenAI launched today, and cut
-side projects such as the video-generator app Sora.</p>
-</blockquote>
-
-<p>Quoting from the <a href="https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted">Ronan Farrow / Andrew Mantz blockbuster New Yorker profile of Sam Altman</a> back <a href="https://daringfireball.net/2026/04/when_he_is_alive_and_not_after_he_is_dead">in April</a>:</p>
-
-<blockquote>
-  <p>Several executives connected to OpenAI have expressed ongoing
-reservations about Altman’s leadership and floated Fidji Simo, who
-was formerly the C.E.O. of Instacart and now serves as OpenAI’s
-C.E.O. for AGI Deployment, as a successor. Simo herself has
-privately said that she believes Altman may eventually step down,
-a person briefed on a recent discussion told us. (Simo disputes
-this. Instacart recently reached a settlement with the F.T.C., in
-which it admitted no wrongdoing but agreed to pay a
-sixty-million-dollar fine for alleged deceptive practices under
-Simo’s leadership.)</p>
-</blockquote>
-
-<p><a href="https://daringfireball.net/linked/2026/03/31/bi-fidji-simo">Yours truly back in March</a>:</p>
-
-<blockquote>
-  <p>This whole dumb “superapp” idea that leaked last week sounds
-exactly like the sort of thing someone who ran the Facebook app
-would think is a good idea. The difference, I expect, is that
-Facebook is free to let product quality (and experience quality)
-fall by the wayside because their social platforms have such
-powerful network effects. People stay on Facebook and Instagram
-even as the experiences worsen because everyone they know is also
-still on those apps. There’s no network effect like that for
-ChatGPT. Claude is already rising to near-equal status in
-popularity, and Gemini isn’t far behind, and Simo hasn’t even
-started enshittifying ChatGPT yet. People will just switch.</p>
-</blockquote>
-
-<p><a href="https://daringfireball.net/linked/2026/07/09/todays-the-day-openai-fucked-up-the-chatgpt-mac-app">And here we are</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Shocking No One, Fidji Simo, Would-Be Usurper, Is Out at OpenAI’"  href="https://daringfireball.net/linked/2026/07/09/fidji-simo-out">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Today’s the Day OpenAI Fucked Up the ChatGPT Mac App</title>
-	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/07/09/openai-announcing-the-next-chapter-for-chatgpt-today-watch-here/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xco" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/09/todays-the-day-openai-fucked-up-the-chatgpt-mac-app" />
-	<id>tag:daringfireball.net,2026:/linked//6.43224</id>
-	<published>2026-07-09T20:13:57Z</published>
-	<updated>2026-07-11T22:21:08Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Zac Hall, writing at 9to5Mac about OpenAI’s <a href="https://openai.com/index/gpt-5-6/">sprawling product announcements</a> today:</p>
-
-<blockquote>
-  <p>To summarize today’s desktop app changes:</p>
-
-<ul>
-<li><p>The existing ChatGPT app is now ChatGPT Classic.</p></li>
-<li><p>Codex is now the new ChatGPT desktop app. It still looks like
-Codex and includes the Codex icon as an option, but it’s now
-called ChatGPT.</p></li>
-<li><p>ChatGPT for desktop includes ChatGPT Work and ChatGPT Codex,
-which share plug-ins. ChatGPT Codex mode shows more technical
-details that ChatGPT Work abstracts away from the user.</p></li>
-<li><p>It’s possible to have ChatGPT Classic, ChatGPT, and Codex
-installed, but the way forward seems to be just running the new
-ChatGPT desktop app. Codex users can still use the Codex app
-icon, but the app will be called ChatGPT.</p></li>
-</ul>
-</blockquote>
-
-<p>Looks like I picked the wrong week to quit sniffing glue.</p>
-
-<blockquote>
-  <p>The ChatGPT Classic app looks more native Mac-like, so that might
-be an issue for users.</p>
-</blockquote>
-
-<p>The longstanding native ChatGPT Mac app — the one apparently now called ChatGPT Classic — is a 159 MB bundle. The new ChatGPT superapp — which in addition to combining the simple chatbot, <a href="https://openai.com/index/chatgpt-for-your-most-ambitious-work/">ChatGPT Work</a>, and Codex, also includes the remnants of the <a href="https://9to5mac.com/2026/07/09/openai-is-discontinuing-chatgpt-atlas-its-standalone-desktop-browser/">now-discontinued Atlas standalone web browser</a> — <a href="https://mastodon.social/@ccgus/116891511328402300">is a svelte 1.5 GB Electron bundle</a>, which doesn’t sound super to me at all.</p>
-
-<div>
-<a  title="Permanent link to ‘Today’s the Day OpenAI Fucked Up the ChatGPT Mac App’"  href="https://daringfireball.net/linked/2026/07/09/todays-the-day-openai-fucked-up-the-chatgpt-mac-app">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
