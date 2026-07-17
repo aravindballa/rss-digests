@@ -7,7 +7,49 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-17T00:40:28Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-17T02:01:37Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>European Commission Adds Exemptions for Watches and Earbuds to Portable Battery Removal Rules</title>
+	<link rel="alternate" type="text/html" href="https://environment.ec.europa.eu/news/commission-adds-exemptions-portable-battery-removal-rules-2026-07-14_en" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xdn" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/16/eu-battery-exemptions" />
+	<id>tag:daringfireball.net,2026:/linked//6.43259</id>
+	<published>2026-07-17T02:01:37Z</published>
+	<updated>2026-07-17T02:01:37Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>The European Commission:</p>
+
+<blockquote>
+  <p>The European Commission adopted a <a href="https://environment.ec.europa.eu/publications/delegated-regulation-removability-and-replaceability-portable-batteries_en">delegated act</a> today (14
+July) introducing new rules that exempt additional products from
+EU requirements on the removability and replaceability of portable
+batteries.</p>
+
+<p>Under the EU’s <a href="https://eur-lex.europa.eu/eli/reg/2023/1542/oj">Batteries Regulation</a>, portable batteries in
+products sold in the EU must generally be removable and
+replaceable by consumers. This helps extend products’ lifetime by
+allowing battery replacements and supports recycling by making it
+easier to collect used batteries. [...]</p>
+
+<p>The Commission is now adding <em>six new product categories</em> to the
+existing list of exemptions. This includes wearable devices such
+as smartwatches and fitness trackers, electric toys, and products
+within the scope of the <a href="https://single-market-economy.ec.europa.eu/sectors/mechanical-engineering/equipment-potentially-explosive-atmospheres-atex_en">ATEX Directive</a> (equipment used in
+explosive atmospheres such as explosion-proof motors, sensors,
+pumps or forklift trucks).</p>
+</blockquote>
+
+<p>See, exemptions aren’t hard, especially to stupid regulations.</p>
+
+<div>
+<a  title="Permanent link to ‘European Commission Adds Exemptions for Watches and Earbuds to Portable Battery Removal Rules’"  href="https://daringfireball.net/linked/2026/07/16/eu-battery-exemptions">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Quiche Browser Now Defaults to No-AI Web Search Results</title>
 	<link rel="alternate" type="text/html" href="https://mastodon.social/@quicheindustries/116918456229212087" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xdm" />
@@ -2000,91 +2042,6 @@ came to you.</p>
 
 <div>
 <a  title="Permanent link to ‘My Conversation With Eliza’"  href="https://daringfireball.net/linked/2026/07/08/my-conversation-with-eliza">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>The Eliza Archaeology Project</title>
-	<link rel="alternate" type="text/html" href="https://findingeliza.org/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xcf" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/08/eliza-archaeology" />
-	<id>tag:daringfireball.net,2026:/linked//6.43215</id>
-	<published>2026-07-08T17:20:44Z</published>
-	<updated>2026-07-09T17:16:48Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>The Eliza Archaeology Project:</p>
-
-<blockquote>
-  <p>ELIZA is the original and highly influential chatbot that launched
-the genre of human-computer interactions using text-based agents.
-It was created at MIT in the 1960s as part of Project MAC by it’s
-[<em>sic</em>] designer and programmer, Joseph Weizenbaum. ELIZA not only
-allowed Weizenbaum to develop a mode of interaction with computers
-that is highly interactive, it also contributed to the way in
-which people were starting to conceptualize computers as having
-the capacity to usefully engage in conversation. You can <a href="https://sites.google.com/view/elizaarchaeology/try-eliza?authuser=0">try an
-accurate reimplementation of ELIZA</a> developed as part of this
-project.</p>
-
-<p>We plan to contextualize the program, offering its history and
-context as well as offering a detailed explanation of how <a href="https://sites.google.com/view/elizaarchaeology/code?authuser=0">the
-code works</a>. This project will look at the culture of
-programming in which Weizenbaum was working and then explore his
-turn from ELIZA/DOCTOR, as he began to warn of the hazards of
-treating machines like humans. We will look at later works
-inspired by ELIZA and consider its influences on the way talking
-computer programs are represented in literature and film.</p>
-</blockquote>
-
-<p><a href="https://kottke.org/26/07/0049283-inventing-eliza">Via Jason Kottke</a>, who also links to <a href="https://mitpress.mit.edu/9780262052481/inventing-eliza/">an upcoming book from the same team</a>.</p>
-
-<p>Their blog has an entry that discusses something I’ve been meaning to link to for a while, <a href="https://sites.google.com/view/elizaarchaeology/blog/3-weizenbaums-secretary">regarding Weizenbaum’s secretary</a>:</p>
-
-<blockquote>
-  <p>Nonetheless, it is clear that Weizenbaum’s secretary actually used
-the ELIZA system. As he writes in Weizenbaum (1967: 477):</p>
-
-<blockquote>
-  <p>My secretary watched me work on this program over a long period
-of time. One day she asked to be permitted to talk with the
-system. Of course, she knew she was talking to a machine. Yet,
-after I watched her type in a few sentences she turned to me and
-said “Would you mind leaving the room, please?”</p>
-</blockquote>
-
-<p>Weizenbaum writes about the effect, later actually coined the
-“Eliza Effect”, that this dyadic conversation could have between
-user and computer:</p>
-
-<blockquote>
-  <p>What I had not realized is that extremely short exposures to a
-relatively simple computer program could induce powerful
-delusional thinking in quite normal people. This insight led me
-to attach new importance to questions of the relationship between
-the individual and the computer, and hence to resolve to think
-about them.</p>
-</blockquote>
-
-<p>The Eliza Effect is the propensity for humans to ascribe
-understanding and intelligence to computer systems. Hofstadter
-(1995: 167) described it as “the susceptibility of people to read
-far more understanding than is warranted into strings of symbols — especially words — strung together by computers”, a compelling
-description written in 1995 but which accurately describes
-generative AI systems today like ChatGPT. Similarly, Turkle
-described that “the Eliza effect refers to our more general
-tendency to treat responsive computer programs as more intelligent
-than they really are. Very small amounts of interactivity cause us
-to project our own complexity onto the undeserving object”.</p>
-</blockquote>
-
-<p>Chatbot technology has changed tremendously since the 1960s. Human nature has not changed at all.</p>
-
-<div>
-<a  title="Permanent link to ‘The Eliza Archaeology Project’"  href="https://daringfireball.net/linked/2026/07/08/eliza-archaeology">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
