@@ -7,7 +7,73 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-17T17:05:21Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-17T18:13:16Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Linus Torvalds: ‘AI Is a Tool, Just Like Other Tools We Use. And It’s Clearly a Useful One.’</title>
+	<link rel="alternate" type="text/html" href="https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xds" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/17/torvalds-on-ai" />
+	<id>tag:daringfireball.net,2026:/linked//6.43264</id>
+	<published>2026-07-17T18:13:16Z</published>
+	<updated>2026-07-17T18:13:16Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Linus Torvalds:</p>
+
+<blockquote>
+  <p>I realize that some people really dislike AI, but this is an area
+where I’m willing to absolutely put my foot down as the top-level
+maintainer.</p>
+
+<p>Linux is not one of those anti-AI projects, and if somebody has
+issues with that, they can do the open-source thing and fork it.</p>
+
+<p>Or just walk away.</p>
+
+<p>AI is a tool, just like other tools we use. And it’s clearly a
+useful one.</p>
+
+<p>It may not have been that “clearly” even just a year ago, but it’s
+no longer in question today.</p>
+
+<p>There are other questions around AI (like what the economy of it
+will actually look like in the end), but “is it useful” is no
+longer one of those questions. Anybody who doubts that clearly
+hasn’t actually used it.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘Linus Torvalds: ‘AI Is a Tool, Just Like Other Tools We Use. And It’s Clearly a Useful One.’’"  href="https://daringfireball.net/linked/2026/07/17/torvalds-on-ai">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>BBEdit 16</title>
+	<link rel="alternate" type="text/html" href="https://www.barebones.com/products/bbedit/bbedit16.html" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xdr" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/17/bbedit-16" />
+	<id>tag:daringfireball.net,2026:/linked//6.43263</id>
+	<published>2026-07-17T17:31:11Z</published>
+	<updated>2026-07-17T17:33:49Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p><a href="https://daringfireball.net/linked/2026/07/17/artfultype">Speaking of BBEdit</a>, version 16 dropped just before WWDC, and adds a slew of nifty improvements, headlined by vastly expanded support for Shortcuts. You can also search for text <em>in images</em>, use the W3C HTML syntax checker, and of all things, vi keyboard emulation. There’s a lot more, of course, and as always the changes, improvements, and additions are copiously documented in <a href="https://www.barebones.com/support/bbedit/notes-16.0.html">the release notes</a>.</p>
+
+<p>New licenses are $60, upgrades from v15 cost $30, and upgrades from older versions are $40. In the Mac App Store it’s a $5/month or $50/year subscription.</p>
+
+<p><strong>See also:</strong> <a href="https://sixcolors.com/post/2026/05/bbedit-16-offers-speed-boosts-and-shortcuts-and-emoji-upgrades/">Jason Snell at Six Colors</a> and <a href="https://tidbits.com/2026/05/25/bbedit-16-searches-for-text-in-images-adds-shortcuts-actions-and-more/">Adam Engst at TidBITs</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘BBEdit 16’"  href="https://daringfireball.net/linked/2026/07/17/bbedit-16">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>ArtfulType: Markdown Writing App for the 68K Macintosh</title>
 	<link rel="alternate" type="text/html" href="https://github.com/ActionRetro/ArtfulType" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xdq" />
@@ -1883,41 +1949,6 @@ and you can always just opt out altogether.</p>
 
     ]]></content>
   <title>★ John Ternus Should Reverse Apple’s Slide Down the Advertising Slippery Slope</title></entry><entry>
-	<title>Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI</title>
-	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html?unlocked_article_code=1.wVA.Q5Do.Uvg5yPwCEB5H" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xcl" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/09/meta-instagram-ai-defaults" />
-	<id>tag:daringfireball.net,2026:/linked//6.43221</id>
-	<published>2026-07-09T14:10:59Z</published>
-	<updated>2026-07-09T17:00:04Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Eli Tan, reporting for The New York Times (gift link):</p>
-
-<blockquote>
-  <p>The company’s new A.I. image generator has a surprising twist: It
-allows people to use images from public Instagram accounts.</p>
-
-<p>When Meta unveiled an <a href="https://www.nytimes.com/2026/07/07/technology/meta-ai-muse-image.html">artificial intelligence image generator</a>
-called Muse Image on Tuesday, it came with a feature that let
-users create A.I. images based on people’s Instagram photos. Any
-adult with a public Instagram account was automatically opted in.
-Using the Meta AI app, the company’s stand-alone chatbot, other
-users could pull from “part or all of your published photos” to
-create new A.I. images, the company wrote in a blog post.</p>
-</blockquote>
-
-<p>This is an utterly <em>un</em>surprising twist, given the entire history of the company. There are settings to turn this off (which Tan explains how to find), but to me it really does show that Meta views its users as something akin to vassals.</p>
-
-<div>
-<a  title="Permanent link to ‘Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI’"  href="https://daringfireball.net/linked/2026/07/09/meta-instagram-ai-defaults">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/07/whats_good_for_the_ios_goose_is_often_not_good_for_the_macos_gander" />
 	<link rel="shorturl" href="http://df4.us/xck" />
@@ -1981,46 +2012,6 @@ rounded rectangle shape that people associate with iOS app icons.</p>
 
     ]]></content>
   <title>★ What’s Good for the iOS Goose Is Often Not Good for the MacOS Gander</title></entry><entry>
-	<title>‘Parry Encounters the Doctor’ — Chatbot on Chatbot Action Circa 1973</title>
-	<link rel="alternate" type="text/html" href="https://www.rfc-editor.org/info/rfc439/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xcj" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/08/parry" />
-	<id>tag:daringfireball.net,2026:/linked//6.43219</id>
-	<published>2026-07-08T22:38:06Z</published>
-	<updated>2026-07-09T17:19:27Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Back in the primordial days of AI, Parry was an ELIZA-style chatbot created by psychiatrist Kenneth Colby to simulate the words of a paranoid schizophrenic. Someone had the genius idea to connect it to Eliza (a.k.a. “Doctor”). Vint Cerf published the transcript as an RFC in 1973, and I laughed my ass off reading it. A taste:</p>
-
-<blockquote>
-  <p><em>Do you know anything about bookies?</em></p>
-
-<p>What makes you think I know anything about bookies?</p>
-
-<p><em>A bookie didn’t pay me off once.</em></p>
-
-<p>What does that suggest to you?</p>
-
-<p><em>I beat up the bookie who did not pay off, and I thought he might use his friends in the underworld to get even with me.</em></p>
-
-<p>What else would you like to discuss?</p>
-
-<p><em>What do you know about racketeers?</em></p>
-</blockquote>
-
-<p><a href="https://mastodon.social/@HootenHaller/116886431616601833">Thanks to Bob Peterson</a> for the link.</p>
-
-<p>Vint Cerf, by the way, <a href="https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/">retired from Google last week</a> at the spry age of 83.</p>
-
-<div>
-<a  title="Permanent link to ‘‘Parry Encounters the Doctor’ — Chatbot on Chatbot Action Circa 1973’"  href="https://daringfireball.net/linked/2026/07/08/parry">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://workos.com/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026" />
 	<link rel="shorturl" href="http://df4.us/xcd" />
