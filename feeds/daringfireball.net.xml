@@ -7,7 +7,51 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-19T16:38:25Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-19T17:22:00Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil</title>
+	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/07/17/investigation-reveals-dozens-of-disguised-gambling-apps-on-the-app-store-in-brazil/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xe2" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/19/9to5mac-brazil-gambling-apps" />
+	<id>tag:daringfireball.net,2026:/linked//6.43274</id>
+	<published>2026-07-19T17:18:57Z</published>
+	<updated>2026-07-19T17:22:00Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>9to5Mac:</p>
+
+<blockquote>
+  <p>Brazilian users browsing the App Store rankings in categories
+such as Navigation, Travel, and Weather have noticed a growing
+number of poorly made games appearing among the top results, many
+of them featuring AI-generated illustrations of animals as their
+app icons.</p>
+
+<p>As it turns out, these are so-called jacket apps, which are just a
+front for hidden betting and gambling apps. A 9to5Mac
+investigation has uncovered more than 60 apps that behave exactly
+as depicted in their App Store screenshots when accessed from
+virtually anywhere in the world, except Brazil.</p>
+
+<p>When opened from a Brazilian IP address, the same apps instead
+reveal online betting platforms, as shown in the example below,
+which is currently the top app in the Weather category.</p>
+</blockquote>
+
+<p>Obviously the main problem is that these apps disguise themselves Trojan Horse-style, and slip through App Store review undetected. I don’t think it’s reasonable to think App Store review could catch every attempt at this sort of thing though — if the horses are disguised well-enough, some of them are going to slip through. That’s actually fine.</p>
+
+<p>But the first example 9to5Mac cites isn’t well disguised at all. What sense does it make that “PotatoPlot Puzzle” — a game featuring a rabbit potato farmer — is a <em>weather</em> app? How is that not a red flag right there?</p>
+
+<p>Also, this app rose to become not just popular, but the number one weather app in Brazil, a nation with over 200 million citizens. In my <a href="https://daringfireball.net/search/bunco+squad">yearslong argument that Apple should commission an internal bunco squad</a> dedicated to hunting down scammers in the App Store, I always mention that the point of such a squad shouldn’t be to make the App Store 100 percent scammer-free — which I believe is an impossible goal that would set the team up for failure. The point should be only to make the App Store free of <em>successful</em> scams. Focus on the most popular apps and the most lucrative apps. There’s simply no feasible excuse for PotatoPlot Puzzle to have become the most popular “weather app” in Brazil.</p>
+
+<div>
+<a  title="Permanent link to ‘9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil’"  href="https://daringfireball.net/linked/2026/07/19/9to5mac-brazil-gambling-apps">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/07/mornings_in_cupertino_have_the_aroma_of_napalm_once_again" />
 	<link rel="shorturl" href="http://df4.us/xe1" />
@@ -2079,39 +2123,6 @@ innovative technology that empowers people everywhere.</p>
 
 	]]></content>
   </entry><entry>
-	<title>Ice Cold</title>
-	<link rel="alternate" type="text/html" href="https://www.threads.com/@alexheath/post/DaoI2jaEioX" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xcw" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/10/ice-cold" />
-	<id>tag:daringfireball.net,2026:/linked//6.43232</id>
-	<published>2026-07-11T03:14:28Z</published>
-	<updated>2026-07-11T03:16:29Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Alex Heath, on Threads:</p>
-
-<blockquote>
-  <p>At WWDC, Apple execs I met with were ice-cold when I asked about
-their OpenAI partnership.</p>
-
-<p>Now we know why: Apple just sued OpenAI for allegedly stealing
-trade secrets related to consumer hardware (Apple and OAI senior
-leaders are in Sun Valley this week. Yikes!)</p>
-</blockquote>
-
-<p>I noticed the same ice-cold reaction to my questions about ChatGPT and Siri. (In fact, I think Heath and I even talked about it together when we bumped into each other at the end of the day on Monday during WWDC week.) At the time I took it as Apple execs not wanting to distract from the fact that Siri AI with Apple Intelligence, with no third-party plug-in, was truly competitive. But in hindsight their coolness, I think, was about this.</p>
-
-<p>There was no response like, say, “<em>We think ChatGPT is great and we’re happy to keep it available in iOS 27 as an option for our customers who love that experience, but the new Siri AI truly stands on its own.</em>” That’s a typical Apple answer. But what they actually said was just more like “<em>The ChatGPT extension remains available.</em>” I didn’t think much of it at the time but now it stands out.</p>
-
-<div>
-<a  title="Permanent link to ‘Ice Cold’"  href="https://daringfireball.net/linked/2026/07/10/ice-cold">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/07/ternus_apple_slippery_slope" />
 	<link rel="shorturl" href="http://df4.us/xcm" />
@@ -2489,4 +2500,4 @@ in the future!</p>
 </div>
 
     ]]></content>
-  <title>★ Claude’s Criminally Bad Electron Mac App Is an Inside 
+  <title>★ Claude’s Criminally Bad Electron Mac App Is an Inside Job</title></entry></feed><!-- THE END -->
