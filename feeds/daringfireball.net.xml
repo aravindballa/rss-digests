@@ -7,7 +7,59 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-19T22:31:11Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-20T16:27:37Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>‘Who’s Afraid of Chinese Models?’</title>
+	<link rel="alternate" type="text/html" href="https://stratechery.com/2026/whos-afraid-of-chinese-models/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xe4" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/20/thompson-chinese-models-distillation" />
+	<id>tag:daringfireball.net,2026:/linked//6.43276</id>
+	<published>2026-07-20T16:27:36Z</published>
+	<updated>2026-07-20T16:27:37Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Ben Thompson, on the hype regarding Kimi K3, at Stratechery:</p>
+
+<blockquote>
+  <p>This is a point that bears repeating: because U.S. open weight
+model makers must follow the frontier labs’ terms of service, they
+(1) are worse than Chinese alternatives and (2) end up distilling
+the distillation, just with a detour through Chinese labs.
+Wouldn’t it be better if western open weight model makers could go
+to the source?</p>
+
+<p>To that end, here’s an even more interesting question around
+distillation: why exactly is it bad? After all, what are large
+language models but the distillation of all of the knowledge on
+the open Internet, scraped by the frontier labs and distilled into
+the models that are themselves being distilled? Who is exactly
+being wronged here?</p>
+
+<p>In fact, this paradox is the solution. I believe that open weight
+models are good for innovation (and, per the above, I think that
+labs on the frontier will be fine), but it’s a problem to be
+dependent on China. The U.S. should pass a law that (1) makes
+explicit that collecting data for training models is fair use, and
+(2) bars terms of service that forbid distillation, for U.S.
+companies at a minimum. Stopping distillation — which is
+literally just querying the API — is nearly impossible; the U.S.
+should go the other way and lean into a new copyright policy that
+both indemnifies the labs and also guarantees that what they
+learned fuels further innovation for everyone else.</p>
+</blockquote>
+
+<p>To be clear — and Thompson emphasizes this point too — the leading Chinese models like K3 aren’t good <em>only</em> because of distillation. They’re not entirely rip-offs. But distillation is clearly an essential part of the formula they’re using to keep releasing models that are 6–9 months behind the U.S. frontier state of the art. So the Chinese treat all models as “open”, regardless of the terms of service. But anyone in the U.S. or other western countries that respect copyright who wants to distill a good model has to wait for the Chinese to release their models, like K3.</p>
+
+<p>And that second paragraph I quote above distills (sorry) exactly why I want to bring out the world’s smallest violin to play a sad song for OpenAI and Anthropic regarding their objections to their frontier models being distilled against their terms of service.</p>
+
+<div>
+<a  title="Permanent link to ‘‘Who’s Afraid of Chinese Models?’’"  href="https://daringfireball.net/linked/2026/07/20/thompson-chinese-models-distillation">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Paper</title>
 	<link rel="alternate" type="text/html" href="https://paper.design/?utm_source=df" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xe3" />
@@ -2087,32 +2139,6 @@ Platforms Inc.</p>
 
 <div>
 <a  title="Permanent link to ‘Gurman on Tang Tan and Paul Meade’"  href="https://daringfireball.net/linked/2026/07/11/gurman-tan-meade">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>John Ternus Calls Sam Altman</title>
-	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ClASuxd8jQY" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xcr" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/10/ternus-calls-altman" />
-	<id>tag:daringfireball.net,2026:/linked//6.43227</id>
-	<published>2026-07-11T03:45:00Z</published>
-	<updated>2026-07-11T03:47:41Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>“Yeah, who’s this?”</p>
-
-<p>“You know who this is.”</p>
-
-<p>“Yes I do, yes I do. I sent a guy to deliver the package ... he didn’t call. Is everything alright?”</p>
-
-<p>“Tell you what. Forget the money.”</p>
-
-<div>
-<a  title="Permanent link to ‘John Ternus Calls Sam Altman’"  href="https://daringfireball.net/linked/2026/07/10/ternus-calls-altman">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
