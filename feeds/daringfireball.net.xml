@@ -7,7 +7,102 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-21T16:09:43Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-21T22:49:04Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing" />
+	<link rel="shorturl" href="http://df4.us/xe6" />
+	<id>tag:daringfireball.net,2026://1.43278</id>
+	<published>2026-07-21T22:49:03Z</published>
+	<updated>2026-07-21T22:49:04Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">What the EC is dictating to Google is just breathtaking in scope.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p><a href="https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1634">The European Commission, last week</a>:</p>
+
+<blockquote>
+  <p>Today, the European Commission has issued two sets of binding
+specification measures to Google under the Digital Markets Act.</p>
+
+<p>The aim of the first specification measures is to ensure that
+competitors’ Artificial Intelligence (AI) services can compete
+with Google’s own AI services, such as Gemini, by having equal
+access to features on Google’s Android devices.</p>
+
+<p>The aim of the second specification measures is to rebalance the
+playing field by giving third-party search engines access to
+search data that only Google Search can collect at scale.</p>
+</blockquote>
+
+<p>They provide separate “Q&amp;A” overviews of the guidance <a href="https://digital-markets-act.ec.europa.eu/developer-portal/interoperability/alphabet-specification-proceedings-interoperability-ai-services_en">for Android AI interoperability</a> and <a href="https://digital-markets-act.ec.europa.eu/developer-portal/data-access/alphabet-specification-proceedings-sharing-google-search-data_en">web search sharing</a>, and the full guidance documents are PDFs (<a href="https://ec.europa.eu/competition/digital_markets_act/cases/202629/DMA_100220_2683.pdf">Case DMA.100220</a> for Android AI, <a href="https://ec.europa.eu/competition/digital_markets_act/cases/202629/DMA_100209_2712.pdf">Case DMA.100209</a> for web search). I suggest reading the two Q&amp;A overviews, unless you’re having trouble falling asleep at night, in which case you’ll love the full PDF decisions.</p>
+
+<p>Both decisions are interesting. With search, Google is required to share with competitors — search engines and AI chatbots alike — a massive amount of user data from Google Search user interactions. What terms people search for, what they click on in results, what languages and devices they use. It’s all ostensibly anonymized but that’s tricky when it comes to search terms. A lot of the terms people type into web search fields are to some degree personally identifying. The EC seems to be saying it’s Google’s problem to filter out things like passwords and usernames and omit them from the shared datasets. Google can charge money for this access, but only under “fair, reasonable, and non-discriminatory (FRAND)” prices, based on a Commission-defined methodology.</p>
+
+<p>More interesting to me, however, is the guidance pertaining to on-device AI on Android devices. What the EC is dictating to Google is just breathtaking in scope. The EC is demanding that Google create APIs that allow third-party AI assistants to do everything Google Gemini does now, including:</p>
+
+<ul>
+<li>Control hardware buttons (to invoke the assistant).</li>
+<li>Capture anything on screen, from any app.</li>
+<li>Seemingly unfettered access to microphones and cameras and other sensors on the device.</li>
+<li>Unfettered background operation. Third-party AI assistants must be permitted to execute in the background whenever they want, for as long as they want.</li>
+<li>Execute their own audio models on the digital signal processor, so they can listen at all times for their own custom “Hey Dingus” wake phrases/hot words.</li>
+<li>Google must allow concurrent access to always-on hot word detection. So if you have Claude and ChatGPT and Grok and Meta AI installed, all of them — in addition to Gemini — must be permitted to have always-on audio detection concurrently. Google is permitted to do some vetting here, but this seems like madness.</li>
+<li>Third-party models get access to Google’s on-device local models.</li>
+</ul>
+
+<p>Also, in my reading, the EC is demanding that Google make available to third-party AI assistants all information in Google’s own apps (Gmail, Google Calendar, Google Docs, Google Maps, etc.) that Gemini has access to. There is no opt-out for Google regarding data from their own apps. Nor, I think, does this guidance allow third-party apps from other developers to only support specific system-level AI models. Like, let’s say you’re Slack, and you use the APIs to make the content from within Slack available to Gemini on the device. These guidelines don’t permit Google to allow Slack to say that they trust Gemini but only Gemini. If a third-party app like Slack supports making its data available to <em>any</em> system-level AI provider, it must make its data available to <em>every</em> system-level AI provider.</p>
+
+<p>There’s a lot more. Basically, though, the EC is demanding that third-party AI assistants be enabled to become part of the system software, not just apps. I’m sure some people think this is a great idea. It’s the user’s device, they should be allowed to make ChatGPT or Claude or Meta AI part of their OS if they want. It’s up to them. Put users in control.</p>
+
+<p>This is how PCs have traditionally worked, but many normal people’s PCs are a mess of third-party software running in the background. That includes the Mac. If you ask a normal person “What third-party software runs in the background on your Mac or PC?” they would have no idea. It’s all just magic to them. If Google supports this guidance, it could turn Android phones in the EU into PCs. Honestly, some of the stuff the EC is requiring is lower-level than what MacOS and Windows allow third-party software to do.</p>
+
+<p>What the EC’s “guidance” describes in this document is an entirely different operating system than the Android that Google has designed. The European Commission obviously thinks it is their place to design operating systems. Maybe you do too. <a href="https://blog.google/company-news/inside-google/around-the-globe/google-europe/the-dma-should-not-undercut-security-privacy-for-europeans/">Google obviously disagrees</a>, and <a href="https://www.reuters.com/sustainability/boards-policy-regulation/apple-criticises-eu-measures-help-ai-rivals-access-google-services-2026-05-13/">so does Apple</a>. And so should most people who have any idea how these devices work. This is a recipe for disaster, if Google were to enact it and third-party AI assistants took advantage of it.</p>
+
+<p>That second “if” is a big one. One possible scenario that I consider quite likely is that Google could spend years of engineering time and human resources building out APIs to enable all of this, in the safest and most private ways possible, and no major AI assistant adopts it. That’s the way it’s turned out with a whole slew of DMA compliance for Apple and Google. Apple built an entire complex set of APIs to enable <a href="https://developer.apple.com/documentation/browserenginekit">third-party web browser rendering engines</a>, exclusively for compliance with the DMA, and there exist no third-party web browser rendering engines for iOS. Not one. Because while the EU is a big market, it’s not big enough to justify building a custom web browser just for the EU alone.</p>
+
+<p>Ways I can see this playing out, in order of likelihood:</p>
+
+<p>(A) Google enacts all of this and no major AI assistants support it because it’s only for Android, only in the EU. And it’s not like ChatGPT and Claude are seeing a lack of usage as things stand now. In this scenario Google just wastes massive time and engineering talent building APIs that never get used, and Android users in the EU get hassled with additional annoying choice and permission screens just to use the Gemini features that are built into Android.</p>
+
+<p>(B) Google enacts all of this and major AI assistants <em>do</em> support it. Unintended results include massive privacy violations where third-party assistants exfiltrate on-device data to the cloud, Meta uses on-device third-party data for the targeting of ads, and users who take advantage of these third-party assistants see significant battery life drain as third-party assistants run without limits in the background and run expensive inference locally to save on their own server costs.</p>
+
+<p>(C) Google enacts all of this, major AI assistants <em>do</em> support it, and there are no privacy scandals, nor any issues with battery life, because each of the companies that makes these assistants develops them with respect for user privacy and for device resources like CPU and memory consumption. </p>
+
+<p>(D) Google pulls system-integrated Gemini from Android in the EU, or severely restricts its capabilities. Rather than elevate third-party assistants from apps to system software, demote Gemini to the privileges of a mere app and leave Android users in the EU without a system-integrated AI assistant.</p>
+
+<p>Under all scenarios, future feature updates to system-level AI in Android will appear late or never in the EU. No future new features can debut in the EU at the same time as the rest of the world because for DMA compliance, Google will need to add support for third-party assistants to do the same things. And they’re not going to hold new features for the rest of the world waiting for that.</p>
+
+<p>I’m not even sure (D) is permitted under this Commission guidance, given that Google started shipping Gemini on Android last year. The entire guidance document is written under the presumption that Google will comply by building the APIs that the guidance demands, not by achieving parity by removing Gemini system integration features. It would be awkward and unpopular for Google to ship updates to Android that <em>remove</em> core AI features, but that might be more palatable than the alternative.<sup id="fnr1-2026-07-21"><a href="#fn1-2026-07-21">1</a></sup> Note that with iOS, to my recollection, Apple hasn’t pulled any existing features from the EU. They’ve only withheld or delayed <em>new</em> features. Google’s on-device Gemini horse is already out of the barn.</p>
+
+<p>Lastly, although this guidance document pertains to Android, not iOS, I see no reason to think the European Commission wouldn’t demand all or most of the same things from Apple. They haven’t given Apple any guidance yet, because it’s European Commission policy to give guidance only after a DMA-designator gatekeeper ships something that is then ruled non-compliant. But it’s hard to imagine Apple accepting most of these terms. Unfettered background processing and access to the microphone, cameras, and sensors? Third-party audio models running on the hardware DSP listening for wake words? Granting third-party assistants unsupervised access to all user data from apps published using <a href="https://developer.apple.com/documentation/appintents">App Intents</a>?</p>
+
+<p>Apple unfortunately hasn’t shared any technical details describing its proposal for a “Trusted System Agent” that it shared with the EC last year. But whatever Apple’s vision for the Trusted System Agent is, I don’t see how the EC would deem it compliant with the DMA if they want from Apple anything close to what they are now demanding from Google. There are no checks and balances or oversight that Google is permitted to apply to third-party assistants in this guidance. If Gemini can do something, third-party agents must be able to as well. Because Gemini gets to run in the background as much as Google sees fit, third-party assistants must be permitted to run in the background as much as <em>they</em> see fit. And if those third-party assistant developers — OpenAI, Anthropic, xAI, and Meta — have different opinions than Google on how much CPU usage is appropriate in the background, how much RAM and storage is appropriate to consume, or how respectfully to treat users’ on-device data, well that’s just tough noogies. If the user OK’s it, then it’s OK.</p>
+
+<p>A month ago, after WWDC, when this guidance pertaining to Android AI was rumored to be forthcoming, <a href="https://daringfireball.net/linked/2026/06/15/ec-google-gemini-ai-dma">I wrote</a>:</p>
+
+<blockquote>
+  <p>Google is learning the lesson Apple learned the hard way with all
+the existing features of iOS that were deemed noncompliant with
+the DMA when it went into effect. The “ship it first and ask
+forgiveness / hope it’s deemed compliant” strategy is not a good
+one in the EU.</p>
+</blockquote>
+
+<p>I genuinely wonder what the European Commission thinks the purpose of Android is. Google created Android for the benefit of its own services. Google was worried about Microsoft, not Apple, at the time, but they wanted to ensure their own services were available on a major mobile platform. I’m really not seeing how it’s more attractive to Google to comply with this guidance than to just pull system-level Gemini in the EU. Either they waste a small fortune building APIs no one will use, or, they spend that small fortune buildings APIs for the benefit of their biggest competitors. I get it that that’s the intended price to pay for being a designated DMA gatekeeper. But what’s the motivation for Google to do this rather than just walk away from system-integrated AI on Android in the EU? It certainly doesn’t look like the competing platform, iOS, is going to offer it in the EU anytime soon either.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1-2026-07-21">
+<p>If you are handed a mandate that everyone must be able to run at the same speed, and you can’t figure out how to make slow people faster, you can comply by forcing the fast to wear weighted boots. This is where utopian egalitarian initiatives often lead.&nbsp;<a href="#fnr1-2026-07-21"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
+</li>
+</ol>
+</div>
+
+    ]]></content>
+  <title>★ European Commission: ‘Guidance to Google for AI Interoperability on Android &amp; Sharing of Google Search’</title></entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://workos.com/blog/management-mcp-server?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026" />
 	<link rel="shorturl" href="http://df4.us/xe5" />
@@ -2409,124 +2504,4 @@ differentiation and uniqueness in icons. But not anymore.</p>
 </div>
 
     ]]></content>
-  <title>★ Apple Should Eliminate the App Icon ‘Squircle Jail’</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job" />
-	<link rel="shorturl" href="http://df4.us/xc1" />
-	<id>tag:daringfireball.net,2026://1.43201</id>
-	<published>2026-07-03T21:24:05Z</published>
-	<updated>2026-07-04T01:12:15Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">Felix Rieseberg, quite obviously, is the answer to the question why Claude is an Electron app. It’s like wondering why all the screws in a building were hammered into the walls, and then finding out that the guy who oversaw construction founded and co-owns the world’s biggest hammer manufacturer.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>Anthropic released the first version of the Claude “desktop” app for MacOS in October 2024 — an Electron clunker that <a href="https://x.com/sdw/status/1852065949312233854">did not impress UI designers</a>. When it came out, <a href="https://daringfireball.net/linked/2024/10/31/anthropic-mac-app-electron-turd">I wrote</a>:</p>
-
-<blockquote>
-  <p><a href="https://openai.com/chatgpt/download/">ChatGPT’s native Mac app</a>, on the other hand, is a truly
-native Mac app. It looks like a Mac app and feels like a Mac app
-because it really is a Mac app. I’ve liked it ever since it
-launched <a href="https://www.cultofmac.com/news/chatgpt-finally-gets-official-mac-app">back in May</a>, and it keeps getting better. And
-I keep using it more and more as my go-to resource for answering
-questions.</p>
-
-<p>I asked Claude, “What is the best way to engineer a native Mac
-app? What frameworks and developer tools should one use if the
-goal is a great Mac experience?” <a href="https://daringfireball.net/misc/2024/10/claude-mac-why.png">Claude’s answer</a>
-started by positing it as a decision between SwiftUI and AppKit.
-Perhaps Anthropic’s Mac engineers should have asked Claude this
-same question before they built this turd of an Electron app.</p>
-</blockquote>
-
-<p>In March of this year, linking to Anthropic’s announcement that Claude Code and Claude Cowork can take control of your Mac to accomplish agentic tasks, <a href="https://daringfireball.net/linked/2026/03/24/claude-control-mac">I returned to the same question</a>:</p>
-
-<blockquote>
-  <p>The Claude Mac client itself remains a lazy Electron clunker. If
-Claude Code is so good I don’t get why they don’t prove it by
-using it to make an even halfway decent native Mac app.</p>
-</blockquote>
-
-<p>I’m not the only one who has pondered this. Drew Breunig wrote “<a href="https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html">Why is Claude an Electron App?</a>” in February this year:</p>
-
-<blockquote>
-  <p>On the surface, this ability should render Electron’s benefits
-obsolete! Rather than write one web app and ship it to each
-platform, we should write <em>one spec and test suite</em> and use coding
-agents to ship <em>native</em> code to each platform. If this ability is
-real and adopted, users get snappy, performant, native apps from
-small, focused teams serving a broad market.</p>
-
-<p>But we’re still leaning on Electron. Even Anthropic, one of the
-leaders in AI coding tools, who keeps publishing flashy agentic
-coding achievements, still uses Electron in the Claude desktop
-app. And it’s a slow, buggy, and bloated app.</p>
-
-<p><em>So why are we still using Electron and not embracing the
-agent-powered, spec driven development future?</em></p>
-
-<p>For one thing, coding agents are <em>really</em> good at the first 90% of
-dev. But that last bit — nailing down all the edge cases and
-continuing support once it meets the real world — remains hard,
-tedious, and requires plenty of agent hand-holding. [...]</p>
-
-<p>For now, Electron still makes sense. Coding agents are amazing.
-But the last mile of dev and the support surface area remains a
-real concern.</p>
-</blockquote>
-
-<p>I’m with Breunig up until the point where he accepts coding agents struggling with the final 10 percent as a justification for choosing Electron to create a Mac app. Plenty of people — individuals and teams alike — are using Claude Code to create terrific new native Mac apps. Just among my friends, <a href="https://misterplimsoll.app/">Glenn Fleishman</a>, <a href="https://lexfriedman.com/gnome/">Lex Friedman</a>, and <a href="https://sixcolors.com/post/2026/06/road-to-wwdc-2026-whats-a-developer/">Jason Snell<s>man</s></a>, have all in recent months used not just AI coding assistants in general, but Claude Code specifically, to create genuinely native Mac apps that meet their own personal high standards for Mac-assedness, forged through decades of literally professional Mac snobbery. A comprehensive catalog of Mac-assed apps made with the assistance of Claude Code, would, I suspect, be remarkably long.</p>
-
-<p>The struggle with the last 10 percent is unrelated to AI coding. It’s the nature of all software engineering. There’s a well-known adage that Wikipedia names the “<a href="https://en.wikipedia.org/wiki/Ninety–ninety_rule">Ninety-Ninety Rule</a>”, attributed to Tom Cargill of Bell Labs:</p>
-
-<blockquote>
-  <p>The first 90 percent of the code accounts for the first 90 percent
-of the development time. The remaining 10 percent of the code
-accounts for the other 90 percent of the development time.</p>
-</blockquote>
-
-<p>Cargill’s mathematically humorous formulation resonates because it not only explains why the final 10 percent consumes half the time, but also why software projects tend to take twice as long as expected. This universal truth holds whether the code is human-written, AI-generated, or a mix of both.</p>
-
-<p>Breunig gets closer to the truth in a postscript, linking to <a href="https://news.ycombinator.com/item?id=47104973">the Hacker News thread discussing his post</a>. The top-rated comment in the HN thread is from <a href="https://borischerny.com/">Boris Cherny</a>, who works at Anthropic on the Claude Code team. <a href="https://news.ycombinator.com/item?id=47106368">Cherny wrote</a>:</p>
-
-<blockquote>
-  <p>Boris from the Claude Code team here.</p>
-
-<p>Some of the engineers working on the app worked on Electron back
-in the day, so preferred building non-natively. It’s also a nice
-way to share code so we’re guaranteed that features across web
-and desktop have the same look and feel. Finally, Claude is
-great at it.</p>
-
-<p>That said, engineering is all about tradeoffs and this may change
-in the future!</p>
-</blockquote>
-
-<p>I would rephrase the guarantee that “features across web and desktop have the same look and feel” as guaranteeing that the Mac app is restrained by the limits of the web and cut off from the breadth of idiomatically native functionality provided by the Mac’s native frameworks. Electron guarantees that an app feels just as wrong on all platforms. But the more relevant tidbit is this sentence: “Some of the engineers working on the app worked on Electron back in the day, so preferred building non-natively.” So it’s not that <em>Claude</em> somehow prefers Electron, but that “some of the engineers” at Anthropic do.</p>
-
-<p><em>Some</em> is doing some heavy lifting there, given that “some of the engineers” includes <a href="https://felixrieseberg.com/about-me/">Felix Rieseberg</a>, currently Anthropic’s engineering lead for Claude Cowork and Claude Code Desktop, and previously engineering lead for the Claude apps for MacOS and Windows. Rieseberg didn’t merely “work on Electron back in the day”. He is one of the principal people responsible for creating Electron, and <a href="https://www.electronjs.org/governance">remains today one of three members of the Electron project’s Administrative Working Group</a> that “oversees the entire governance and project”. He literally <a href="https://www.safaribooksonline.com/library/view/introducing-electron/9781491996041/?ref=felixrieseberg.com">wrote <em>the</em> book on Electron</a>.</p>
-
-<p>Felix Rieseberg, quite obviously, is the answer to the question why Claude is an Electron app. It’s like wondering why all the screws in a building were hammered into the walls, and then finding out that the guy who oversaw construction founded and co-owns the world’s biggest hammer manufacturer. Windows uses Philips head screws, Linux uses hex screws, and MacOS requires Torx (<a href="https://www.nytimes.com/wirecutter/reviews/torx-screws-review/">of course</a>) — but a hammer works the same way with all screws. That’s Electron. That’s Rieseberg’s baby.</p>
-
-<p>Rieseberg, it turns out, hasn’t only had a hand in Claude being an Electron app. Per both <a href="https://felixrieseberg.com/about-me/">his personal home page</a> and <a href="https://www.linkedin.com/in/felixrieseberg/">LinkedIn profile</a>, before joining Anthropic he spent over two years as the engineering manager for the desktop team at Notion, <a href="https://www.notion.com/desktop">whose client for Mac</a> is a massive 518 MB Electron app and a <a href="https://www.reddit.com/r/macapps/comments/1g153yc/anyone_here_using_the_notion_app_it_seems_like_it/">notoriously</a> non-native experience.<sup id="fnr1-2026-07-03"><a href="#fn1-2026-07-03">1</a></sup> Before Notion, Rieseberg spent 2016–2021 “as a Senior Staff Engineer and Engineering Manager at Slack, where I got to support a team of amazing C++ engineers building the cross-platform desktop framework Electron — as well as Slack’s desktop apps for macOS, Windows, and Linux.”<sup id="fnr2-2026-07-03"><a href="#fn2-2026-07-03">2</a></sup></p>
-
-<p>Finding out that one guy — who is a senior Electron maintainer — has led the teams for the desktop clients for Slack, Notion, and now Claude is like discovering that it was one guy — whose family business was a distillery — who helmed the Titanic, piloted the Hindenburg, and then served as air traffic controller for Amelia Earhart.</p>
-
-<div class="footnotes">
-<hr />
-<ol>
-
-<li id="fn1-2026-07-03">
-<p>Notion, it’s worth pointing out, has perhaps seen the error of their ways. Apple <a href="https://www.macrumors.com/2026/06/12/notion-is-migrating-to-swiftui/">prominently featured Notion</a> during the <a href="https://developer.apple.com/videos/play/wwdc2026/102">Platforms State of the Union technical keynote</a> at WWDC last month, saying, “And apps that previously used cross-platform or web technologies like Notion are migrating their user interface to SwiftUI because they want a level of performance and UI consistency that other technologies can’t deliver.” This, just one year after Rieseberg left for Anthropic. Perhaps Claude will similarly seek to wash the Electron stink off the Claude app eventually. I suspect an Electron codebase is like sap, though — sticky, dirty, and harder to wash off the longer you wait.&nbsp;<a href="#fnr1-2026-07-03"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
-</li>
-
-<li id="fn2-2026-07-03">
-<p>Before getting promoted to engineering manager in charge of all of Slack’s “desktop” apps, Rieseberg started at Slack <a href="https://www.linkedin.com/in/felixrieseberg/">as engineering team lead for Windows</a>, which offers an inkling as to his platform taste.&nbsp;<a href="#fnr2-2026-07-03"  class="footnoteBackLink"  title="Jump back to footnote 2 in the text.">&#x21A9;&#xFE0E;︎</a></p>
-</li>
-
-</ol>
-</div>
-
-    ]]></content>
-  <title>★ Claude’s Criminally Bad Electron Mac App Is an Inside Job</title></entry></feed><!-- THE END -->
+  <title>★ Apple Should Eliminate the App Icon ‘Squircle Jail’</title></entry></feed><!-- THE END -->
