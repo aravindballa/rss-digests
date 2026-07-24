@@ -7,7 +7,50 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-24T17:35:58Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-24T18:55:05Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Coiner of ‘Enshittification’ Endorses ‘Dickover’</title>
+	<link rel="alternate" type="text/html" href="https://pluralistic.net/2026/07/21/dickovers/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xef" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/24/coiner-of-enshittification-endorses-dickover" />
+	<id>tag:daringfireball.net,2026:/linked//6.43287</id>
+	<published>2026-07-24T18:51:29Z</published>
+	<updated>2026-07-24T18:55:05Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p><a href="https://daringfireball.net/linked/2026/07/24/dickover-of-the-week-tomtoc">Speaking of dickovers</a>, here’s Cory Doctorow, writing this week at Pluralistic:</p>
+
+<blockquote>
+  <p>Seizing the means of computation isn’t theft, it’s <em>bargaining</em>.
+Commercial surveillance companies will tell you that by spying on
+you, they are simply engaged in a marketplace exchange in which
+you swap your privacy for access to online services. But they are
+running a very curious sort of market: it’s a “market” where as
+soon as you stop to browse someone’s wares, the stallholder gets
+to reach into your pocket and clean out your wallet. In “markets,”
+prices are announced and bargained over, not set unilaterally and
+extracted from anyone unwise enough to cross the threshold.</p>
+
+<p>Adblocking, dickover blocking and other customizations are a way
+for you to bargain back, to answer the opening bid of “How about
+you give me all of your data forever and let me do anything I want
+with it?” with “How about ‘nah?’”</p>
+</blockquote>
+
+<p>Doctorow’s specific advice is to switch to Firefox for your browser and Linux as your desktop OS. You’re probably not going to do either of those things. But the <em>spirit</em> of his advice is that you should avail yourself of <a href="https://github.com/gala8y/kill-sticky--forked">bookmarklets</a> and browser extensions that fight back against shitty ads and dickovers. There are some great options for Safari. <a href="https://underpassapp.com/StopTheMadness/">StopTheMadness Pro</a> is great for for creating custom rules to permanently block specific page elements. <a href="https://apps.apple.com/us/app/ublock-origin-lite/id6745342698">uBlock Origin Lite</a> is a free-of-charge content blocker that is incredibly effective, and very configurable (but complicated). <a href="https://www.magiclasso.co/">Magic Lasso</a> is a paid content blocker — $30/year — which includes synced blocking on iOS, MacOS, and even Apple TV. Magic Lasso offers a much more approachable configuration interface, and includes a “just turn it on” easy-to-use private VPN feature that allows for blocking ads in <em>all</em> apps, including Apple News.</p>
+
+<p>Bargaining back is exactly what using content blockers is. There’s no reason to feel guilty about it.</p>
+
+<p>(Magic Lasso has previously been a DF sponsor, but not since <a href="https://daringfireball.net/linked/2021/05/09/magic-lasso">May 2021</a>. I’m recommending Magic Lasso here only as a happy paying user.)</p>
+
+<div>
+<a  title="Permanent link to ‘Coiner of ‘Enshittification’ Endorses ‘Dickover’’"  href="https://daringfireball.net/linked/2026/07/24/coiner-of-enshittification-endorses-dickover">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Dickover of the Week: Tomtoc</title>
 	<link rel="alternate" type="text/html" href="https://daringfireball.net/2026/05/what_is_a_dickover" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xed" />
@@ -128,7 +171,7 @@ incredible journey one last time.</p>
 	<link rel="shorturl" href="http://df4.us/xea" />
 	<id>tag:daringfireball.net,2026://1.43282</id>
 	<published>2026-07-23T19:08:57Z</published>
-	<updated>2026-07-24T16:17:18Z</updated>
+	<updated>2026-07-24T18:10:05Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -180,7 +223,7 @@ with Taboola, I don’t expect it to make any discernible difference
 in the ad quality or frequency. Maybe it will improve the variety?</p>
 </blockquote>
 
-<p>Privacy is not the issue with Apple’s Taboola partnership, or Apple advertising in general. The issues are quality and user experience. I was correct that the partnership has made no discernible difference in ad quality or frequency. And it hasn’t made any improvement to variety either. <a href="https://daringfireball.net/misc/2026/07/apple-news-blond-women-hearing-aids.jpeg">Here’s a collection of ads I continue to see in Apple News</a> — often with the same ad appearing 3–4 times in the same article, as I scroll. (I posted the same image in my recent article “<a href="https://daringfireball.net/2026/07/ternus_apple_slippery_slope">John Ternus Should Reverse Apple’s Slide Down the Advertising Slippery Slope</a>”, if you’re thinking it looks familiar.)</p>
+<p>Privacy is not the issue with Apple’s Taboola partnership, or Apple advertising in general. The issues are quality and user experience. I was correct that the partnership has made no discernible difference in ad quality or frequency. And it hasn’t made any improvement to variety either. <a href="https://mastodon.social/@gruber/116901983997962549">Here’s a collection of ads I continue to see in Apple News</a> — often with the same ad appearing 3–4 times in the same article, as I scroll. (I posted the same image in my recent article “<a href="https://daringfireball.net/2026/07/ternus_apple_slippery_slope">John Ternus Should Reverse Apple’s Slide Down the Advertising Slippery Slope</a>”, if you’re thinking it looks familiar.)</p>
 
 <p>The ads I see in Apple News are not relevant or informed. And, to be clear, I have “Personalized Ads” turned <em>on</em> in Settings → Privacy &amp; Security → Apple Advertising (which makes me wonder if turning that <em>off</em> might actually make the ads even worse). The ads shown in the App Store <a href="https://daringfireball.net/linked/2026/05/04/ios-app-store-slippery-slope">never seem contextually relevant to me</a>. So I have no faith that the ads that Apple is supposedly on the cusp of serving in Apple Maps are going to be good.</p>
 
@@ -2006,52 +2049,6 @@ both start and end states but very janky in between.</p>
 
 <div>
 <a  title="Permanent link to ‘‘Every Frame Perfect’’"  href="https://daringfireball.net/linked/2026/07/12/every-frame-perfect">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>TwoMillionKit: Use Private Cloud Compute in MacOS 27 Foundation Models Without an Entitlement</title>
-	<link rel="alternate" type="text/html" href="https://github.com/insidegui/TwoMillionKit" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xd6" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/12/twomillionkit" />
-	<id>tag:daringfireball.net,2026:/linked//6.43242</id>
-	<published>2026-07-12T18:04:05Z</published>
-	<updated>2026-07-12T18:04:29Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Guilherme Rambo:</p>
-
-<blockquote>
-  <p>Apple ships the <code>fm</code> command-line tool in macOS 27, which can be
-used to run inference with the local system model or Private Cloud
-Compute from Terminal or scripts. You know what else can run
-command-line tools? Mac apps! 😃</p>
-
-<p>I decided to spend some of my Codex tokens and take GPT 5.6 Sol
-for a spin. I asked it to create this Swift package. All it does
-is provide a <code>LanguageModel</code> implementation that uses the <code>fm</code>
-command-line tool under the hood, meaning that any Mac app can use
-the Private Cloud Compute model without requiring a special
-entitlement from Apple.</p>
-
-<p>The main limitation is that this will not work for sandboxed Mac
-apps, so any Mac app distributed via the Mac App Store won’t be
-able to use it.</p>
-
-<p>But for developers of Mac apps distributed outside the Mac App
-Store, this provides a simple and entitlement-free way to use
-Private Cloud Compute in their apps.</p>
-
-<p>Use sparingly and at your own risk.</p>
-</blockquote>
-
-<p>This is a workaround for <a href="https://daringfireball.net/linked/2026/06/13/pcc-severely-limited-third-party-developers">Apple’s current limitation</a> that only grants access to Private Cloud Compute to “developers in the App Store Small Business Program with fewer than two million first time App Store downloads”. Hence Rambo’s clever name for the framework.</p>
-
-<div>
-<a  title="Permanent link to ‘TwoMillionKit: Use Private Cloud Compute in MacOS 27 Foundation Models Without an Entitlement’"  href="https://daringfireball.net/linked/2026/07/12/twomillionkit">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
