@@ -7,7 +7,91 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-24T20:06:36Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-24T21:02:16Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/07/regarding_ad_blockers_and_daring_fireball" />
+	<link rel="shorturl" href="http://df4.us/xeg" />
+	<id>tag:daringfireball.net,2026://1.43288</id>
+	<published>2026-07-24T20:57:20Z</published>
+	<updated>2026-07-24T21:02:16Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">Ultimately, when you install a content blocker extension, you take responsibility for any overzealousness in what they block.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>Following up on the previous item today, re: <a href="https://daringfireball.net/linked/2026/07/24/coiner-of-enshittification-endorses-dickover">content blockers and ad-blocking</a>, I ran into a weird situation a few weeks ago with my column “<a href="https://daringfireball.net/2026/07/ternus_apple_slippery_slope">John Ternus Should Reverse Apple’s Slide Down the Advertising Slippery Slope</a>”. That article contains this sentence, in Markdown:</p>
+
+<pre><code>And -- at this writing, still "coming soon" -- Apple is
+launching [ads on Apple Maps][🗺️].
+
+[🗺️]: https://ads.apple.com/maps
+</code></pre>
+
+<p>The problem is that anyone reading that article in NetNewsWire saw it rendered like this, with the words “ads on Apple Maps”<sup id="fnr1-2026-07-24"><a href="#fn1-2026-07-24">1</a></sup> omitted:</p>
+
+<p><a href="https://daringfireball.net/misc/2026/07/nnw-ad-blocking.png" class="noborder">
+<img
+    src = "https://daringfireball.net/misc/2026/07/nnw-ad-blocking.png"
+    alt = "Screenshot of article text from NetNewsWire."
+    width = 550
+/></a></p>
+
+<p>It looks like I forgot to finish writing that sentence. But I did. NetNewsWire simply omits the hyperlinked words. After a few readers reported this, I immediately suspected the problem was the “ads.apple.com” domain. I’ve never linked to that domain before, and many ad blockers just block any domain that starts with a domain prefix like <code>ads.*</code>.</p>
+
+<p>And that’s exactly what the problem is. I had no idea that NetNewsWire filtered any content whatsoever (and I sort of think it shouldn’t), but DF reader Antonio Germano searched through NetNewsWire’s open-source code and found it in <a href="https://github.com/Ranchero-Software/NetNewsWire/blob/main/Shared/Article%20Rendering/core.css">the <code>core.css</code> file</a>, line 49:</p>
+
+<pre><code>38  /*Block ads and junk*/
+39  
+40  iframe[src*="feedads" ],
+41  iframe[src*="doubleclick"],
+42  iframe[src*="plusone.google"] {
+43      display: none !important;
+44  }
+45  
+46  a[href*=".ads."],
+47  a[href*="feedads" ],
+48  a[href*="doubleclick"],
+49  a[href*="//ads."],
+</code></pre>
+
+<p>The culprit identified, I dutifully pinged my friend <a href="https://inessential.com/">Brent Simmons</a> to report the problem. But then I had to decide what to do about it. I have no idea which feed readers are being used to read Daring Fireball’s <a href="https://daringfireball.net/feeds/">feeds</a>, but NetNewsWire is surely one of the most popular, and probably <em>the</em> most popular. It’s the feed reader I use personally. I can’t change the contents of NetNewsWire’s <code>core.css</code> file, so I can’t keep NetNewsWire from stripping out words that link to Apple’s <code>ads.apple.com</code> domain. What I could do is not link to <code>ads.apple.com</code>, like, say by changing my link from <code>ads.apple.com/maps</code> to a shorten-and-redirect URL like <code>bit.ly/4wmXFSE</code> that <a href="https://bit.ly/4wmXFSE">points back</a> to Apple’s original URL.</p>
+
+<p>But I didn’t do that. I don’t like playing whack-a-mole to work around bugs in other software. I have enough trouble fixing my own mistakes. I also don’t like the idea of showing everyone a “Click it and find out where it actually goes” mystery URL from Bitly rather than the direct URL. It’s a general principle thing, and also a much better policy for links that are meant to last for decades.</p>
+
+<p>What I really don’t like about NetNewsWire’s ad-blocking here is that it just <em>omits</em> the linked text. It doesn’t remove the link but leave the words; it removes the words that are hyperlinked to the blocked domain. I’ve run into this with other content blocking extensions. For example, the Banish extension for Safari, <a href="https://daringfireball.net/linked/2022/08/02/banish">which I recommended back in 2022</a>. At some point a year or two ago, Banish started blocking links to Apple’s App Store domain, and it did so by removing the words that link to the App Store. That’s crazy. I linked to the App Store in my own post recommending Banish, which means if you have Banish installed and read that post, you won’t see the headline of the post (nor be able to following the link). I think there are other content blockers that do the same thing with text that links to the App Store.<sup id="fnr2-2026-07-24"><a href="#fn2-2026-07-24">2</a></sup></p>
+
+<p>So what do I do about that? Do I stop linking to the App Store? That’s dumb. Do I create custom URL redirects for every single link I make to the App Store? That’s work I don’t need or want to do, and adds a layer of abstraction that confuses everyone who isn’t using a content blocker with such a stupid rule. So I just ignore it. But that means an untold number of readers, who are using such content blockers, are just missing words in my articles whenever I link to the App Store. Well, so be it. Ideally, content blockers “just work” — blocking only things you want blocked, never things you don’t want blocked. Nothing is perfect however. What’s pernicious about blockers that remove the actual words that link to certain domains is that that’s not expected behavior. From the reader’s perspective, it really just looks like an editing error on the part of the website, not a content blocker with an overzealous pattern-matching rule.</p>
+
+<p>Ultimately, though, when you install a content blocker extension, you take responsibility for any overzealousness in what they block.</p>
+
+<hr />
+
+<p>Let me use this opportunity to make a small personal request. The display ads on Daring Fireball are unobtrusive and limited to one per page. They are also entirely private, and always have been. There not only are no cookies or JavaScript that attempt to track you, but the ads themselves are served from the <code>daringfireball.net</code> domain. I turn down advertisers who request to serve images (or “tracking pixels”, which are just invisible images) from <em>their</em> domains. (Such requests are infrequent, thankfully.) I don’t display the ads in between paragraphs mid-article, a common practice that to me is disrespectful both to the writer <em>and</em> reader. In short, I try to keep the ads on Daring Fireball not merely unobjectionable, but something that actually adds to the site. I actually like the ads in certain high-quality print magazines, like The New Yorker. My goal for the ads on DF is for them to be like that.</p>
+
+<p>In short, I hope they’re the sort of ads readers don’t want to block. I’m pleased to say that most of the ad-blocking content blocking extensions I’ve personally tried do not block ads on Daring Fireball by default. In other cases, they do, but it’s easy to adjust the per-domain settings to allow them. In <a href="https://daringfireball.net/linked/2026/07/24/coiner-of-enshittification-endorses-dickover">the previous post</a>, I recommended <a href="https://apps.apple.com/us/app/ublock-origin-lite/id6745342698">uBlock Origin Lite</a> (free, a bit complex) and <a href="https://www.magiclasso.co/">Magic Lasso</a> (paid, much simpler). Magic Lasso does not block ads on DF by default. I don’t remember what uBlock Origin does by default, but it’s trivial to change it to allow them.</p>
+
+<p>If you use an ad blocker and it currently blocks the ads on DF, I humbly ask you to consider taking a moment to tweak the settings to permit them. If you are the developer of an ad blocker, I ask you to consider allowlisting Daring Fireball <em>by default</em>.</p>
+
+<p>If you are a reader and you really do want to block DF’s ads, please, go right ahead. I find that an odd mindset, but it’s your web browser and your call. No hard feelings. (Please further note that I have no JavaScript code that attempts to detect whether you’re blocking DF’s ads in order to nag you.)</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn1-2026-07-24">
+<p>I omitted the Markdown creating a link on the words “still ‘coming soon’” for clarity, to emphasize only the problematic link in my original prose. (Also, it’s fun to use emoji as named link definitions, like in this example.)&nbsp;<a href="#fnr1-2026-07-24"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;︎</a></p>
+</li>
+
+<li id="fn2-2026-07-24">
+<p>I of course reported this to the developer of Banish, twice, but he never responded. I, err, banished Banish from my own devices, and upon finishing this article, I’m going to update my 2022 recommendation of Banish to un-recommend it.&nbsp;<a href="#fnr2-2026-07-24"  class="footnoteBackLink"  title="Jump back to footnote 2 in the text.">&#x21A9;&#xFE0E;</a></p>
+</li>
+
+</ol>
+</div>
+
+    ]]></content>
+  <title>★ Regarding Ad Blockers and Daring Fireball</title></entry><entry>
 	<title>Coiner of ‘Enshittification’ Endorses ‘Dickover’</title>
 	<link rel="alternate" type="text/html" href="https://pluralistic.net/2026/07/21/dickovers/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xef" />
@@ -2348,67 +2432,4 @@ and you can always just opt out altogether.</p>
 </div>
 
     ]]></content>
-  <title>★ John Ternus Should Reverse Apple’s Slide Down the Advertising Slippery Slope</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/07/whats_good_for_the_ios_goose_is_often_not_good_for_the_macos_gander" />
-	<link rel="shorturl" href="http://df4.us/xck" />
-	<id>tag:daringfireball.net,2026://1.43220</id>
-	<published>2026-07-09T01:45:08Z</published>
-	<updated>2026-07-24T16:14:40Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">App icons in MacOS are not mere buttons. You can drag them, move them, and drop things on them. You click them to select, and double-click to launch. They are richer objects that deserve a richer visual vocabulary.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>Tobias Steinke, <a href="https://mstdn.social/@gewappnet/116878216947000298">replying on Mastodon</a> to my “<a href="https://daringfireball.net/2026/07/eliminate_app_icon_squircle_jail">Apple Should Eliminate the App Icon ‘Squircle Jail’</a>” piece:</p>
-
-<blockquote>
-  <p>But iOS app icons (and iPadOS) were always in squircle shape. Why
-is and was this okay for you, but it’s not for macOS?</p>
-</blockquote>
-
-<p>This is a good and fair question. But I not only have an answer, I have an answer that clarifies why this entire debate is important. That “design is how it works” applies even to something as seemingly superficial as icons.</p>
-
-<p>There are all sorts of limitations and simplifications in iOS that would be bad ideas to bring to MacOS, which would range in effect from disappointing to frustrating to maddening to ruinous. Where squircle jail falls on that scale is subjective. It’s certainly not ruinous, but I’d say it’s maddening. (iOS baby-computer-isms that would be ruinous to bring to MacOS would include killing AppKit, removing the Unix terminal layer, or requiring all apps to come from the App Store.)</p>
-
-<p>MacOS has suffered many such frustrating decisions before. E.g., it arguably makes sense for iOS to omit always-visible scroll bars because screen real estate is so limited. <a href="https://daringfireball.net/2026/01/resizing_windows_macos_26">It makes no such sense on the Mac</a>.</p>
-
-<p>As for mandatory squircle shapes for app icons in particular:</p>
-
-<p>(a) I don’t think this is a good mandate for iOS either;</p>
-
-<p>(b) it was always so for iOS, though, so it’s not like Apple has ever taken away rich creative icon shapes on the platform;</p>
-
-<p>(c) MacOS is a far richer and more precise environment than iOS.</p>
-
-<p>App icons on the iOS home screen are effectively simple buttons. I think it’s rather obvious that’s why they have had that squircle/roundsquare shape <a href="https://daringfireball.net/misc/2026/07/iphone-indexhero20070109.jpeg">ever since the iPhone was announced in January 2007</a> (<a href="https://web.archive.org/web/20070115035115/apple.com/iphone/">source</a>). They’re one-tap launchers. App icons in MacOS are not mere buttons. You can drag them, move them, and drop things on them. You click them to select, and double-click to launch. They are richer objects that deserve a richer visual vocabulary. iOS is a world meant for fat-tipped Magic Markers and blunt safety scissors. MacOS is a world meant to support fine-tipped drafting pens and precision razor-sharp X-ACTO knives.</p>
-
-<p>Plus, Macintosh icons have four decades of <a href="https://basicappleguy.com/basicappleblog/macos-icon-history">glorious history</a>. Style and fashion change over time. But limitations should not be imposed where freedom once reigned. </p>
-
-<p>And shape as a differentiating factor is not mere decoration. We have long known this. We all knew this. And not only did Apple know it, the rest of us knew it because we learned it from Apple. Via the Internet Archive, <a href="https://web.archive.org/web/20181206014649/https://developer.apple.com/design/human-interface-guidelines/macos/icons-and-images/app-icon/">here’s Apple’s Macintosh Human Interface Guidelines from 2018</a>,<sup id="fnr1-2026-07-08"><a href="#fn1-2026-07-08">1</a></sup> which was not that long ago:</p>
-
-<blockquote>
-  <p><em>Consider giving your app icon a realistic, unique shape.</em> In
-macOS, app icons can have the shape of the objects they depict. A
-unique outline focuses attention on the object and makes it easy
-to recognize the icon at a glance. If necessary, you can use a
-circular shape to encapsulate a set of images. Avoid using the
-rounded rectangle shape that people associate with iOS app icons.</p>
-</blockquote>
-
-<p>“A unique outline focuses attention on the object and makes it easy to recognize the icon at a glance.” Eight short years ago. That is not the description of a fad or fashion. It is a description of human perception. Our unchanging nature.</p>
-
-<p>So much collective hard-earned wisdom has been ignored of late. But it’s <a href="https://github.com/gingerbeardman/apple-human-interface-guidelines">not lost or forgotten</a>. Chapter 11 of the <a href="https://daringfireball.net/misc/2026/07/2002%20Aqua%20Human%20Interface%20Guidelines.pdf">2002 Aqua Human Interface Guidelines</a> is a good place to start remembering. There was <a href="https://blog.cocoia.com/2008/the-origin-of-the-inimitable-icons/">tremendous thought, rigor, and logic behind those guidelines</a> — all of it in the name of creating a visual language for icons that most people simply thought looked cool as fuck.</p>
-
-<div class="footnotes">
-<hr />
-<ol>
-<li id="fn1-2026-07-08">
-<p>It caught my attention that as recently as 2018, Apple still published platform-specific Human Interface Guidelines. At some point after that they did a <a href="https://daringfireball.net/2025/12/bad_dye_job">Dye job</a> on the whole thing and now there’s just one <a href="https://developer.apple.com/design/human-interface-guidelines/">Apple Human Interface Guidelines</a>. Instead of platform-specific HIGs, there’s one HIG, with platform-specific call-outs as sidebars within the text. This is no little thing. It’s emblematic of Apple shipping user interfaces that are ignorant of the principles Apple itself forged over the previous decades. It’s like trying to make movies without ever having watched and studied the best movies made in the past, or writing a novel without having read a fucking book. It’s not just the Mac that should have its own HIG. Each of Apple’s platforms should. (iPadOS can share iOS’s.) There could be a “foundations” HIG that serves as a primer on fundamentals, but platform-specific HIGs could — and in the past, did — explain in detail <i>why</i> they are discrete platforms with different idioms, capabilities, and requirements.&nbsp;<a href="#fnr1-2026-07-08"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
-</li>
-</ol>
-</div>
-
-    ]]></content>
-  <title>★ What’s Good for the iOS Goose Is Often Not Good for the MacOS Gander</title></entry></feed><!-- THE END -->
+  <title>★ John Ternus Should Reverse Apple’s Slide Down the Advertising Slippery Slope</title></entry></feed><!-- THE END -->
