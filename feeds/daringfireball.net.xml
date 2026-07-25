@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-25T20:40:09Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-25T21:54:51Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>‘AI Mania Is Eviscerating Global Decision-Making’</title>
 	<link rel="alternate" type="text/html" href="https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xem" />
@@ -66,7 +66,7 @@ The gist of his argument is that the entire corporate world — not merely t
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/25/eu-fines-google-1b" />
 	<id>tag:daringfireball.net,2026:/linked//6.43293</id>
 	<published>2026-07-25T17:44:13Z</published>
-	<updated>2026-07-25T17:45:29Z</updated>
+	<updated>2026-07-25T21:54:51Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -86,7 +86,7 @@ using enhanced visuals and filters, while similar third-party
 services do not have the same prominence.</p>
 </blockquote>
 
-<p>So if you search for the score of a sporting event, it’s illegal in the EU for Google to show you the score, <a href="https://daringfireball.net/misc/2026/07/google-sports.png">like this search I just tried</a>. What the EC is saying that is because Google Search is so popular, it’s no longer allowed to improve.</p>
+<p>So if you search for the score of a sporting event, it’s illegal in the EU for Google to show you the score, <a href="https://daringfireball.net/misc/2026/07/google-sports.png">like this search I just tried</a>. What the EC is saying is that because Google Search is so popular, it’s no longer allowed to improve. It is utterly impossible to imagine how this is for the benefit of EU citizens.</p>
 
 <p>What generates more for the EU, fines against US tech companies, or tax income from EU tech companies? <a href="https://x.com/levelsio/status/2080314960656159018">Here’s a viral post on Twitter/X</a> that claims it’s now fines against US tech companies. The amounts certainly seem to be in the same ballpark.</p>
 
@@ -271,7 +271,7 @@ client for Mac.</p>
 	<link rel="shorturl" href="http://df4.us/xeg" />
 	<id>tag:daringfireball.net,2026://1.43288</id>
 	<published>2026-07-24T20:57:20Z</published>
-	<updated>2026-07-25T16:29:11Z</updated>
+	<updated>2026-07-25T21:53:59Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -329,7 +329,7 @@ launching [ads on Apple Maps][🗺️].
 
 <p>In short, I hope they’re the sort of ads readers don’t want to block. I’m pleased to say that most of the ad-blocking content blocking extensions I’ve personally tried do not block ads on Daring Fireball by default. In other cases, they do, but it’s easy to adjust the per-domain settings to allow them. In <a href="https://daringfireball.net/linked/2026/07/24/coiner-of-enshittification-endorses-dickover">the previous post</a>, I recommended <a href="https://apps.apple.com/us/app/ublock-origin-lite/id6745342698">uBlock Origin Lite</a> (free, a bit complex) and <a href="https://www.magiclasso.co/">Magic Lasso</a> (paid, much simpler). Magic Lasso does not block ads on DF by default. I don’t remember what uBlock Origin does by default, but it’s trivial to change it to allow them.</p>
 
-<p>If you use an ad blocker and it currently blocks the ads on DF, I humbly ask you to consider taking a moment to tweak the settings to permit them. (If you are using a blocker that strips the ads from DF by default, you can do do me an additional favor and <a href="https://daringfireball.net/contact/">shoot me a short email</a> telling me which one. I’m curious.) If you are the developer of an ad blocker, I ask you to consider allowlisting Daring Fireball <em>by default</em>.</p>
+<p>If you use an ad blocker and it currently blocks the ads on DF, I humbly ask you to consider taking a moment to tweak the settings to permit them. (If you are using a blocker that strips the ads from DF by default, you can do me an additional favor and <a href="https://daringfireball.net/contact/">shoot me a short email</a> telling me which one. I’m curious.) If you are the developer of an ad blocker, I ask you to consider allowlisting Daring Fireball <em>by default</em>.</p>
 
 <p>If you are a reader and you really do want to block DF’s ads, please, go right ahead. I find that an odd mindset, but it’s your web browser and your call. No hard feelings. (Please further note that I have no JavaScript code that attempts to detect whether you’re blocking DF’s ads in order to nag you.)</p>
 
