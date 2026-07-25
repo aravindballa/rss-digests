@@ -7,7 +7,59 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-25T17:45:29Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-25T18:57:31Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>‘AI Mania Is Eviscerating Global Decision-Making’</title>
+	<link rel="alternate" type="text/html" href="https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xem" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh" />
+	<id>tag:daringfireball.net,2026:/linked//6.43294</id>
+	<published>2026-07-25T18:15:12Z</published>
+	<updated>2026-07-25T18:15:12Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Fascinating essay by Nikhil Suresh:</p>
+
+<blockquote>
+  <p>On a trip overseas, I had the privilege of a meeting with one of
+the Fortune 500 executives mentioned at the beginning of the post,
+who will remain anonymous so that they are not executed by firing
+squad by their board. As we were chatting, it became clear that
+they were very switched-on and technically competent, and they
+<em>also</em> happened to be at a company that had committed to the usual
+battery of exorbitant claims about their recent innovations — we’ve 100×’d our productivity, AI is the future of everything, I
+am but a vessel for OpenAI to make love to my wife. You know,
+normal things. But since I had them there without any microphones
+around, I asked <em>why</em> this was being repeated without opposition.
+Was it just sales fluff?</p>
+
+<p>The answer was a lot more interesting. It was <em>partially</em>
+ridiculous sales material being delivered to an easily excitable
+audience, but this was not the dominant factor constraining
+honesty. Executives at their <em>customers</em> were saying absurd things
+about achieving 100× productivity, and this meant that if any
+executive at the <em>vendor</em> said that these gains were not
+plausible, it would undermine the credibility of the customer’s
+executive, be perceived as an attack (or heresy), and possibly
+result in an enterprise contract cancellation. And getting
+enterprise contracts cancelled because you wanted to opine on
+something that doesn’t really matter to your organisation’s
+mission is a great way to get fired.</p>
+</blockquote>
+
+<p>The whole essay is very much worth reading, and might make you feel saner for harboring your own doubts regarding just how much has been changed in the world by generative AI.
+The gist of his argument is that the entire corporate world — not merely the computer/tech/industry — is caught up in an AI mania that brooks no dissent. It’s a religious fervor and heretics are excommunicated. But the dissenters, who feel they must remain silent, are largely correct.</p>
+
+<p>One way I’ve been thinking about AI mania is this: Computers have profoundly changed the world. There can be no dispute about that. Computers continue to improve in capability as networking effects grow and especially as Moore’s Law makes them faster and more capable at a pace unlike any other previous technical revolution. But most people are incapable of understanding how computers really work, and thus personally aren’t able to <em>do</em> much with them. Computers, for most people, are communication tools, not creative tools. Generative AI changes that. People with no computer aptitude are able to create things or discover things via ChatGPT and Claude that were simply beyond their ken heretofore. Per Clarke’s third law, “Any sufficiently advanced technology is indistinguishable from magic”. Generative AI feels a bit magical to all of us, even those of us with mid-to-high levels of understanding how computers work and how to make them work. But it feels like the first time ever that computers have been tools for their own creation for a lot of rather dimwitted but confident corporate manager/executive types. This moment feels like the Big Bang to them. The religiosity of this is such that there is no way to convince them that AI, as it stands today, is impressive and useful and innovative, yes, but <em>several orders of magnitude less so</em> than they’re imagining that it is. No way to convince them, that is, until the bubble bursts.</p>
+
+<div>
+<a  title="Permanent link to ‘‘AI Mania Is Eviscerating Global Decision-Making’’"  href="https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>EU Fines Google $1 Billion for DMA Competition Violations, Including Making Search Results More Useful</title>
 	<link rel="alternate" type="text/html" href="https://digital-markets-act.ec.europa.eu/commission-fines-google-eur890-million-breaches-digital-markets-act-2026-07-23_en" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xel" />
@@ -183,7 +235,7 @@ ignorance is just as good as your knowledge”.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/25/birc" />
 	<id>tag:daringfireball.net,2026:/linked//6.43289</id>
 	<published>2026-07-25T15:39:51Z</published>
-	<updated>2026-07-25T15:39:52Z</updated>
+	<updated>2026-07-25T18:57:31Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -204,7 +256,7 @@ pretty satisfied with the result. Say hi to bIRC — an IRCv3
 client for Mac.</p>
 </blockquote>
 
-<p>I was never a big IRC user, personally, and haven’t used IRC in years. But I installed bIRC just because it looks so good, and took it for a brief test drive. It’s nice. And it is <em>very</em> Mac-assed in a modern way. It’s got <a href="https://birc.app/documentation/">a nice documentation page</a> too. There are (alas) many great apps that lack good documentation, but there are very few apps with good documentation that aren’t great apps. bIRC is free to download and use from the App Store, and there’s a nice suite of additional pro features you can unlock for a one-time $13 purchase. I bought the pro upgrade despite seldom using IRC just to celebrate a killer new Mac app.</p>
+<p>I was never a big IRC user, personally, and haven’t used IRC in years. But I installed bIRC just because it looks so good, and took it for a brief test drive. It’s nice. And it is <em>very</em> Mac-assed in a modern way. It’s got <a href="https://birc.app/documentation/">a detailed documentation page</a> too. There are (alas) many great apps that lack good documentation, but there are very few apps with good documentation that aren’t great apps. bIRC is free to download and use from the App Store, and there’s a suite of additional fun/pro features you can unlock for a one-time $13 purchase. I bought the pro upgrade despite seldom using IRC just to celebrate a killer new Mac app.</p>
 
 <div>
 <a  title="Permanent link to ‘bIRC — A New Native IRC Client for Mac’"  href="https://daringfireball.net/linked/2026/07/25/birc">&nbsp;★&nbsp;</a>
@@ -2081,53 +2133,6 @@ search engine.</p>
 
 <div>
 <a  title="Permanent link to ‘Apple Updates Advertising Services Policy With New Rules for Ads in Maps’"  href="https://daringfireball.net/linked/2026/07/15/apple-maps-ad-rules">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple Intelligence OK’d to Launch in China, Using AI Models from Baidu and Alibaba</title>
-	<link rel="alternate" type="text/html" href="https://www.scmp.com/tech/policy/article/3360685/china-approves-apple-intelligence-phones-alibaba-baidu-emerging-partners" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xdd" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/15/apple-intelligence-china-baidu-alibaba" />
-	<id>tag:daringfireball.net,2026:/linked//6.43249</id>
-	<published>2026-07-15T22:35:18Z</published>
-	<updated>2026-07-15T22:35:19Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Ben Jiang, reporting from Beijing for the South China Morning Post:</p>
-
-<blockquote>
-  <p>Chinese regulators have granted Apple a long-awaited licence to
-roll out its artificial intelligence service on iPhones in the
-country, with Alibaba Group Holding and Baidu serving as technical
-partners.</p>
-
-<p>The Cyberspace Administration of China (CAC), the country’s
-internet watchdog, published a notice on Wednesday confirming the
-licence for Apple Intelligence — the AI feature used to summarise
-emails, draft reports, edit images and perform other tasks. It was
-granted alongside six other smartphone-based AI services,
-including those for Samsung and Huawei Technologies.</p>
-
-<p>An Alibaba representative told the South China Morning Post on
-Wednesday that its Qwen large-language model would “be integrated
-into Apple Intelligence experiences within iOS, iPadOS, macOS and
-visionOS for users in China”. This would allow users to access the
-model’s capabilities such as text and image generation, the
-representative said. Alibaba owns the South China Morning Post.</p>
-
-<p>A Baidu representative also told the SCMP on Wednesday that it was
-working with Apple to develop AI features for Apple Intelligence
-in China.</p>
-</blockquote>
-
-<p>This isn’t about Siri AI, announced last month at WWDC for iOS 27 — this is the initial approval for Apple Intelligence, which was announced two years ago and rolled out in iOS 18. It’s unclear in any of <a href="https://www.techmeme.com/260715/p12#a260715p12">this coverage today</a> whether this is a green light for Siri AI this year too.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Intelligence OK’d to Launch in China, Using AI Models from Baidu and Alibaba’"  href="https://daringfireball.net/linked/2026/07/15/apple-intelligence-china-baidu-alibaba">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
