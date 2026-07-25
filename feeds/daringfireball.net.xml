@@ -7,7 +7,90 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-25T16:29:11Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-25T17:45:29Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>EU Fines Google $1 Billion for DMA Competition Violations, Including Making Search Results More Useful</title>
+	<link rel="alternate" type="text/html" href="https://digital-markets-act.ec.europa.eu/commission-fines-google-eur890-million-breaches-digital-markets-act-2026-07-23_en" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xel" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/25/eu-fines-google-1b" />
+	<id>tag:daringfireball.net,2026:/linked//6.43293</id>
+	<published>2026-07-25T17:44:13Z</published>
+	<updated>2026-07-25T17:45:29Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>The European Commission on Thursday:</p>
+
+<blockquote>
+  <p>The Commission found that Google gives preferential treatment to
+its own services, including shopping, hotels, transport and sports
+results, over those of third parties in Google Search, thereby
+breaching its obligations under the DMA.</p>
+
+<p>Google displays its own services more prominently in search
+results, including at the top of the search results page or by
+using enhanced visuals and filters, while similar third-party
+services do not have the same prominence.</p>
+</blockquote>
+
+<p>So if you search for the score of a sporting event, it’s illegal in the EU for Google to show you the score, <a href="https://daringfireball.net/misc/2026/07/google-sports.png">like this search I just tried</a>. What the EC is saying that is because Google Search is so popular, it’s no longer allowed to improve.</p>
+
+<p>What generates more for the EU, fines against US tech companies, or tax income from EU tech companies? <a href="https://x.com/levelsio/status/2080314960656159018">Here’s a viral post on Twitter/X</a> that claims it’s now fines against US tech companies. The amounts certainly seem to be in the same ballpark.</p>
+
+<div>
+<a  title="Permanent link to ‘EU Fines Google $1 Billion for DMA Competition Violations, Including Making Search Results More Useful’"  href="https://daringfireball.net/linked/2026/07/25/eu-fines-google-1b">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Court Grants SerpApi’s Motion to Dismiss Google Lawsuit</title>
+	<link rel="alternate" type="text/html" href="https://serpapi.com/blog/google-v-serpapi-the-court-granted-our-motion-to-dismiss/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xek" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/25/serpapi-google-dismissed" />
+	<id>tag:daringfireball.net,2026:/linked//6.43292</id>
+	<published>2026-07-25T17:27:19Z</published>
+	<updated>2026-07-25T17:27:20Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Julien Khaleghy, CEO of SerpApi:</p>
+
+<blockquote>
+  <p>The U.S. District Court for the Northern District of California
+granted our motion to dismiss Google’s lawsuit, marking a win not
+just for SerpApi, but for all who depend on an open internet.
+We’re pleased that the court rejected Google’s attempts to expand
+the DMCA to assert control over access to public pages. The
+internet’s founding principle — open access to usable information — is essential to driving innovation and ensuring everyone
+benefits from the promise of data. SerpApi will continue
+supporting developers, AI companies, researchers, and businesses
+that rely on access to public search information.</p>
+</blockquote>
+
+<p>Yours truly, back in March, <a href="https://daringfireball.net/linked/2026/03/02/serpapi-motion-to-dismiss">when SerpApi filed the motion to dismiss</a>:</p>
+
+<blockquote>
+  <p>I’ve come around on SerpApi in the last few months. <a href="https://daringfireball.net/linked/2025/10/23/reddit-files-lawsuit-against-serpapi">My initial
+take</a> was that it surely must be illegal for a company to
+scrape Google’s search results and offer access to that data as an
+API. But I’ve come around to the argument that what SerpApi is
+doing to obtain Google search results is, well, exactly how Google
+scrapes the rest of the entire web to build its search index. It’s
+all just scraping publicly accessible web pages.</p>
+
+<p><a href="https://www.techdirt.com/2025/12/24/google-built-its-empire-scraping-the-web-now-its-suing-to-stop-others-from-scraping-google/">This December piece by Mike Masnick at Techdirt</a> is what
+began to change my mind.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘Court Grants SerpApi’s Motion to Dismiss Google Lawsuit’"  href="https://daringfireball.net/linked/2026/07/25/serpapi-google-dismissed">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple Maps to Power Navigation Experience for Ford’s New EVs</title>
 	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xej" />
@@ -47,7 +130,7 @@ seamless hands-free driving experience.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/25/measles" />
 	<id>tag:daringfireball.net,2026:/linked//6.43290</id>
 	<published>2026-07-25T16:06:52Z</published>
-	<updated>2026-07-25T16:17:15Z</updated>
+	<updated>2026-07-25T17:21:59Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -60,7 +143,7 @@ seamless hands-free driving experience.</p>
 announced that there have been 2,318 confirmed cases of measles so
 far this year. The case count toppled the record <a href="https://www.nytimes.com/2025/07/09/well/us-measles-record-outbreaks.html">set last
 year</a>, when measles infected more than 2,200 Americans and
-killed <a href="https://www.nytimes.com/2025/02/26/us/texas-measles-outbreak-death.html">two</a><a href="https://www.nytimes.com/2025/04/06/health/measles-death-texas.html">unvaccinated children</a>. More measles
+killed <a href="https://www.nytimes.com/2025/02/26/us/texas-measles-outbreak-death.html">two</a> <a href="https://www.nytimes.com/2025/04/06/health/measles-death-texas.html">unvaccinated children</a>. More measles
 cases have been reported in the United States in the last two
 years than in all the years from 2000 through 2024 combined.</p>
 
@@ -2072,85 +2155,6 @@ in China.</p>
 
 	]]></content>
 	<title>[Sponsor] Paper</title></entry><entry>
-	<title>Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?</title>
-	<link rel="alternate" type="text/html" href="https://arstechnica.com/tech-policy/2025/08/elon-musk-sues-apple-openai-to-block-exclusive-iphone-chatgpt-integration/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xdb" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/13/musk-v-apple" />
-	<id>tag:daringfireball.net,2026:/linked//6.43247</id>
-	<published>2026-07-13T15:24:53Z</published>
-	<updated>2026-07-24T16:20:02Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Ashley Belanger, reporting for Ars Technica back in August 2025:</p>
-
-<blockquote>
-  <p>After a public <a href="https://arstechnica.com/tech-policy/2025/08/apple-gets-yanked-into-elon-musks-chatbot-war-with-openai/">outburst over Grok’s App Store rankings</a>,
-on Monday, Elon Musk followed through on his threat to sue Apple
-and OpenAI.</p>
-
-<p>At first, Musk appeared fixated on ChatGPT consistently topping
-Apple’s “Must Have” app list — which Grok has never made — claiming Apple seemed to preference OpenAI, an Apple partner, over
-all chatbot rivals. But Musk’s <a href="https://cdn.arstechnica.net/wp-content/uploads/2025/08/X-Corp-v-Apple-8-25-25-Complaint.pdf">filing</a> shows that the X
-and xAI owner isn’t just trying to push for more Grok downloads on
-iPhones — he’s concerned that Apple and OpenAI have teamed up to
-completely dash his <a href="https://arstechnica.com/tech-policy/2024/03/elon-musks-improbable-path-to-making-x-an-everything-app/">“everything app” dreams</a>, which was
-the <a href="https://arstechnica.com/tech-policy/2023/03/fast-moving-musk-makes-very-slow-progress-turning-twitter-into-everything-app/">reason he bought Twitter</a>.</p>
-</blockquote>
-
-<p>For what it’s worth, I just looked at the App Store <a href="https://daringfireball.net/misc/2026/07/app-store-popular-list-2026-07-13.png">editorially-curated “Popular iPhone Apps” list</a>, and ChatGPT is in the top spot. Given <a href="https://daringfireball.net/linked/2026/07/10/apple-sues-openai">the lawsuit Apple filed</a> against OpenAI last week, I’d say this is pretty good anecdata that these editorial decisions in the App Store aren’t driven by favoritism. The top 10 downloads list for free iPhone apps currently looks like this (for me here in the U.S. App Store):</p>
-
-<ol>
-<li>Paramount+</li>
-<li>Netflix Game Controller</li>
-<li>ChatGPT</li>
-<li>Kalshi: Trade the World Cup</li>
-<li>Peacock TV: Stream TV &amp; Movies</li>
-<li>Netshort - Popular Dramas &amp; TV</li>
-<li>Threads</li>
-<li>TikTok Pro - Events</li>
-<li>Freecash - Get Paid Real Money</li>
-<li>Depop - Buy &amp; Sell Clothes</li>
-</ol>
-
-<p>There are some real winners on that list. But only one AI app: ChatGPT.</p>
-
-<p>Musk alleges that the top downloads list is crooked too. That’s just projection. If Musk ran a popular App Store he’d put his thumb on the scale to make sure his own apps always top the list. That’s <a href="https://daringfireball.net/linked/2026/06/05/musk-x-freak-show">what he’s done with his personal account</a>, and accounts aligned with his politics, on Twitter/X. Because that’s what he would do, he thinks that’s what Apple does. I really do think he believes the App Store’s top download lists are fixed, and that Grok is on the wrong side of the fix. Crooks think everyone is crooked. It’s just one of several ways that Musk is not hooked up right.</p>
-
-<p>I suspect, though, that <a href="https://daringfireball.net/linked/2026/07/12/altman-musk">he’s no longer worried</a> that Apple is putting its thumb on the scale to favor OpenAI. Maybe he should <em>never-mind</em> this lawsuit.</p>
-
-<div>
-<a  title="Permanent link to ‘Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?’"  href="https://daringfireball.net/linked/2026/07/13/musk-v-apple">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>WorkOS Pipes</title>
-	<link rel="alternate" type="text/html" href="https://workos.com/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xda" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/12/workos-pipes" />
-	<id>tag:daringfireball.net,2026:/linked//6.43246</id>
-	<published>2026-07-12T22:17:54Z</published>
-	<updated>2026-07-12T22:17:55Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>My thanks, once again, to WorkOS for sponsoring DF last week. Users expect apps and agents to reach the tools they already work in. Every integration that gets you there is a different OAuth flow, a different token lifecycle, and weeks of infrastructure before you write a line of product code.</p>
-
-<p><a href="https://workos.com/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026">WorkOS Pipes handles it with one API call</a>. Pre-built connectors for GitHub, Slack, Salesforce, Google Drive, and more. Pipes handles OAuth, token refresh, and credential storage. You call the real provider API with a fresh token, every time.</p>
-
-<p><a href="https://workos.com/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026">Connect to 100+ providers with WorkOS Pipes</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘WorkOS Pipes’"  href="https://daringfireball.net/linked/2026/07/12/workos-pipes">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/07/exactly_like_om_malik" />
 	<link rel="shorturl" href="http://df4.us/xcz" />
