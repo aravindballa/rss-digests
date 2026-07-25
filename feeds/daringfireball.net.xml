@@ -7,7 +7,42 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-24T21:02:16Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-25T15:39:52Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>bIRC — A New Native IRC Client for Mac</title>
+	<link rel="alternate" type="text/html" href="https://birc.app/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xeh" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/25/birc" />
+	<id>tag:daringfireball.net,2026:/linked//6.43289</id>
+	<published>2026-07-25T15:39:51Z</published>
+	<updated>2026-07-25T15:39:52Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>For a long time the best native Mac IRC client was <a href="https://www.codeux.com/textual/">Textual</a>, but although Textual still works, <a href="https://help.codeux.com/textual/">it’s been sunset</a> by the author. Not to fear, however. Fredrik Blank <a href="https://www.fredrikblank.com/blog/birc-irc-client-for-mac-macos/">just launched</a> bIRC:</p>
+
+<blockquote>
+  <p>Creating an IRC client in 2026 is not something that will pay the
+bills : ) It would be just for the joy of programming. But the
+amount of work involved always made me throw the thought aside.</p>
+
+<p>But one night when I had nothing better to do, I started
+implementing the good old spec in Swift (RFC 2812). And then I got
+motivated to continue, adding IRCv3 extensions and UI. Been
+working on it on and off on it since the end of 2025. Now I feel
+pretty satisfied with the result. Say hi to bIRC — an IRCv3
+client for Mac.</p>
+</blockquote>
+
+<p>I was never a big IRC user, personally, and haven’t used IRC in years. But I installed bIRC just because it looks so good, and took it for a brief test drive. It’s nice. And it is <em>very</em> Mac-assed in a modern way. It’s got <a href="https://birc.app/documentation/">a nice documentation page</a> too. There are (alas) many great apps that lack good documentation, but there are very few apps with good documentation that aren’t great apps. bIRC is free to download and use from the App Store, and there’s a nice suite of additional pro features you can unlock for a one-time $13 purchase. I bought the pro upgrade despite seldom using IRC just to celebrate a killer new Mac app.</p>
+
+<div>
+<a  title="Permanent link to ‘bIRC — A New Native IRC Client for Mac’"  href="https://daringfireball.net/linked/2026/07/25/birc">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/07/regarding_ad_blockers_and_daring_fireball" />
 	<link rel="shorturl" href="http://df4.us/xeg" />
@@ -2083,56 +2118,6 @@ a small update to the issues I wrote about before.</p>
 
 <div>
 <a  title="Permanent link to ‘How UIs Degrade Over Time’"  href="https://daringfireball.net/linked/2026/07/12/how-uis-degrade-over-time">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘Every Frame Perfect’</title>
-	<link rel="alternate" type="text/html" href="https://tonsky.me/blog/every-frame-perfect/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xd7" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/12/every-frame-perfect" />
-	<id>tag:daringfireball.net,2026:/linked//6.43243</id>
-	<published>2026-07-12T19:48:09Z</published>
-	<updated>2026-07-12T19:48:09Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Nikita “Tonsky” Prokopov:</p>
-
-<blockquote>
-  <p>The rule of thumb is:</p>
-
-<p><em>If I take a screenshot of your app at any moment, you should be
-able to explain what I see.</em></p>
-
-<p>Why care about every frame? It builds trust. Users can’t see the
-code, so UI is the only way for them to judge the quality of the
-app. If UI looks good, that means developers had time to polish
-it, which means that they probably spent a comparable amount of
-time to iron out the code. It’s a heuristic, but a reasonable one.</p>
-
-<p>Now, what does it mean in practice? I can think of a few things:</p>
-
-<ul>
-<li>No white flashes between screens.</li>
-<li>No partially loaded content.</li>
-<li>No relayout while content loads.</li>
-<li>Internally consistent. If one part of the UI says “1 update
-available”, another part should not say “Checking for
-updates...”</li>
-<li>Precise animations.</li>
-</ul>
-
-<p>Animations often end up being forgotten. A UI might look great in
-both start and end states but very janky in between.</p>
-</blockquote>
-
-<p>“Every frame perfect” is a great mantra for UI craftsmanship. If you care about every frame, that discipline will be palpable, even though almost no users will ever examine your animations and transitions frame-by-frame, and most will happen too quickly to see in real time. If you cut corners on interstitial states “because no one will notice”, you’ll start cutting corners elsewhere.</p>
-
-<div>
-<a  title="Permanent link to ‘‘Every Frame Perfect’’"  href="https://daringfireball.net/linked/2026/07/12/every-frame-perfect">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
