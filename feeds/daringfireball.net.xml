@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-25T18:57:31Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-25T20:40:09Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>‘AI Mania Is Eviscerating Global Decision-Making’</title>
 	<link rel="alternate" type="text/html" href="https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xem" />
@@ -102,7 +102,7 @@ services do not have the same prominence.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/25/serpapi-google-dismissed" />
 	<id>tag:daringfireball.net,2026:/linked//6.43292</id>
 	<published>2026-07-25T17:27:19Z</published>
-	<updated>2026-07-25T17:27:20Z</updated>
+	<updated>2026-07-25T20:37:29Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -136,6 +136,8 @@ all just scraping publicly accessible web pages.</p>
 <p><a href="https://www.techdirt.com/2025/12/24/google-built-its-empire-scraping-the-web-now-its-suing-to-stop-others-from-scraping-google/">This December piece by Mike Masnick at Techdirt</a> is what
 began to change my mind.</p>
 </blockquote>
+
+<p>Even Google seems to understand <a href="https://x.com/effthealgorithm/status/2079923114029257084?s=20">the logical bind they’re in here, regarding scraping</a>.</p>
 
 <div>
 <a  title="Permanent link to ‘Court Grants SerpApi’s Motion to Dismiss Google Lawsuit’"  href="https://daringfireball.net/linked/2026/07/25/serpapi-google-dismissed">&nbsp;★&nbsp;</a>
@@ -707,7 +709,7 @@ explained in a <a href="https://docs.craft.do/editor/d/a89c6d38-642e-8105-e733-9
 	<link rel="shorturl" href="http://df4.us/xe6" />
 	<id>tag:daringfireball.net,2026://1.43278</id>
 	<published>2026-07-21T22:49:03Z</published>
-	<updated>2026-07-22T00:29:47Z</updated>
+	<updated>2026-07-25T20:40:09Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -756,7 +758,7 @@ search data that only Google Search can collect at scale.</p>
 
 <p>That second “if” is a big one. One possible scenario that I consider quite likely is that Google could spend years of engineering time and human resources building out APIs to enable all of this, in the safest and most private ways possible, and no major AI assistant adopts it. That’s the way it’s turned out with a whole slew of DMA compliance for Apple and Google. Apple built an entire complex set of APIs to enable <a href="https://developer.apple.com/documentation/browserenginekit">third-party web browser rendering engines</a>, exclusively for compliance with the DMA, and there exist no third-party web browser rendering engines for iOS. Not one. Because while the EU is a big market, it’s not big enough to justify building a custom web browser just for the EU alone.</p>
 
-<p>Ways I can see this playing out, in order of likelihood:</p>
+<p>Ways I can see this playing out, in order of likelihood (most likely first):</p>
 
 <p>(A) Google enacts all of this and no major AI assistants support it because it’s only for Android, only in the EU. And it’s not like ChatGPT and Claude are seeing a lack of usage as things stand now. In this scenario Google just wastes massive time and engineering talent building APIs that never get used, and Android users in the EU get hassled with additional annoying choice and permission screens just to use the Gemini features that are built into Android.</p>
 
