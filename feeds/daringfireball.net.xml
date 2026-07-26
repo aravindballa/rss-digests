@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-25T21:54:51Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-26T17:07:19Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>‘AI Mania Is Eviscerating Global Decision-Making’</title>
 	<link rel="alternate" type="text/html" href="https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xem" />
@@ -66,7 +66,7 @@ The gist of his argument is that the entire corporate world — not merely t
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/25/eu-fines-google-1b" />
 	<id>tag:daringfireball.net,2026:/linked//6.43293</id>
 	<published>2026-07-25T17:44:13Z</published>
-	<updated>2026-07-25T21:54:51Z</updated>
+	<updated>2026-07-26T17:05:50Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -86,7 +86,7 @@ using enhanced visuals and filters, while similar third-party
 services do not have the same prominence.</p>
 </blockquote>
 
-<p>So if you search for the score of a sporting event, it’s illegal in the EU for Google to show you the score, <a href="https://daringfireball.net/misc/2026/07/google-sports.png">like this search I just tried</a>. What the EC is saying is that because Google Search is so popular, it’s no longer allowed to improve. It is utterly impossible to imagine how this is for the benefit of EU citizens.</p>
+<p>So if you search for the score of a sporting event, it’s illegal in the EU for Google to show you the score, <a href="https://daringfireball.net/misc/2026/07/google-sports.png">like this search I just tried</a>. What the EC is saying is that because Google Search is so popular, it’s no longer allowed to improve. It is impossible to imagine how this benefits EU citizens.</p>
 
 <p>What generates more for the EU, fines against US tech companies, or tax income from EU tech companies? <a href="https://x.com/levelsio/status/2080314960656159018">Here’s a viral post on Twitter/X</a> that claims it’s now fines against US tech companies. The amounts certainly seem to be in the same ballpark.</p>
 
@@ -271,7 +271,7 @@ client for Mac.</p>
 	<link rel="shorturl" href="http://df4.us/xeg" />
 	<id>tag:daringfireball.net,2026://1.43288</id>
 	<published>2026-07-24T20:57:20Z</published>
-	<updated>2026-07-25T21:53:59Z</updated>
+	<updated>2026-07-26T17:07:19Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -317,7 +317,7 @@ launching [ads on Apple Maps][🗺️].
 
 <p>But I didn’t do that. I don’t like playing whack-a-mole to work around bugs in other software. I have enough trouble fixing my own mistakes. I also don’t like the idea of showing everyone a “Click it and find out where it actually goes” mystery URL from Bitly rather than the direct URL. It’s a general principle thing, and also a much better policy for links that are meant to last for decades.</p>
 
-<p>What I really don’t like about NetNewsWire’s ad-blocking here is that it just <em>omits</em> the linked text. It doesn’t remove the link but leave the words; it removes the words that are hyperlinked to the blocked domain. I’ve run into this with other content blocking extensions. For example, the Banish extension for Safari, <a href="https://daringfireball.net/linked/2022/08/02/banish">which I recommended back in 2022</a>. At some point a year or two ago, Banish started blocking links to Apple’s App Store domain, and it did so by removing the words that link to the App Store. That’s crazy. I linked to the App Store in my own post recommending Banish, which means if you have Banish installed and read that post, you won’t see the headline of the post (nor be able to following the link). I think there are other content blockers that do the same thing with text that links to the App Store.<sup id="fnr2-2026-07-24"><a href="#fn2-2026-07-24">2</a></sup></p>
+<p>What I really don’t like about NetNewsWire’s ad-blocking here is that it just <em>omits</em> the linked text. It doesn’t remove the link but leave the words; it removes the words that are hyperlinked to the blocked domain. I’ve run into this with other content blocking extensions. For example, the Banish extension for Safari, <a href="https://daringfireball.net/linked/2022/08/02/banish">which I recommended back in 2022</a>. At some point a year or two ago, Banish started blocking links to Apple’s App Store domain, and it did so by removing the words that link to the App Store. That’s crazy. I linked to the App Store in my own post recommending Banish, which means if you have Banish installed and read that post, you won’t see the headline of the post (nor be able to follow the link). I think there are other content blockers that do the same thing with text that links to the App Store.<sup id="fnr2-2026-07-24"><a href="#fn2-2026-07-24">2</a></sup></p>
 
 <p>So what do I do about that? Do I stop linking to the App Store? That’s dumb. Do I create custom URL redirects for every single link I make to the App Store? That’s work I don’t need or want to do, and adds a layer of abstraction that confuses everyone who isn’t using a content blocker with such a stupid rule. So I just ignore it. But that means an untold number of readers, who are using such content blockers, are just missing words in my articles whenever I link to the App Store. Well, so be it. Ideally, content blockers “just work” — blocking only things you want blocked, never things you don’t want blocked. Nothing is perfect however. What’s pernicious about blockers that remove the actual words that link to certain domains is that that’s not expected behavior. From the reader’s perspective, it really just looks like an editing error on the part of the website, not a content blocker with an overzealous pattern-matching rule.</p>
 
