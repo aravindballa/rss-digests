@@ -7,7 +7,79 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-26T17:07:19Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-27T16:43:47Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/07/ads_in_software_are_like_stickers_on_laptops" />
+	<link rel="shorturl" href="http://df4.us/xen" />
+	<id>tag:daringfireball.net,2026://1.43295</id>
+	<published>2026-07-27T16:32:51Z</published>
+	<updated>2026-07-27T16:32:51Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">Putting themselves in customers’ shoes today, how many ads do Apple’s executives want stuck in the results when they search for an app in the App Store?</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>Regarding my <a href="https://daringfireball.net/2026/07/ads_on_apple_news_suck">recent</a> <a href="https://daringfireball.net/2026/07/ternus_apple_slippery_slope">pieces</a> regarding Apple’s shitty ads in the App Store and Apple News (and, perhaps soon, Apple Maps), a friend sent me this pithy take:</p>
+
+<blockquote>
+  <p>The ads Apple is happy to inflict on us in its apps are the
+equivalent of the stickers it would never allow on its physical
+products.</p>
+</blockquote>
+
+<p><em>Bullseye.</em></p>
+
+<p>That’s what those stickers on PCs are: they’re ads. Intel pays for the “Intel Inside” stickers that booger up PC laptop palm rests. Longtime readers will recall that <a href="https://www.apple.com/newsroom/archive/2007/08/">back in August 2007</a>, Apple held a Town Hall event to introduce new iMacs and some iLife and iWork software updates. In a post-event Q&amp;A (imagine that), <a href="https://daringfireball.net/linked/2007/08/09/keefe">Bob Keefe of Cox Newspapers asked</a> “Can you say why you all are not participating in the Intel Inside program, putting the stickers on your new or previous Macs?” This question was so absurd <em>from the perspective of those who covered Apple closely</em> that it prompted outright laughter. <a href="https://www.macworld.com/article/186895/stickergate.html">Jason Snell wrote a great column</a> arguing that it was actually a good question.</p>
+
+<p>Here’s the whole exchange (<a href="https://web.archive.org/web/20080820104510/http://www.macuser.com/steve-jobs/world_exclusive_bob_keefe_is_n_1.php">via Dan Moren</a>, then at MacUser). Give it a listen, it’s only 100 seconds or so:</p>
+
+<p><audio
+    src = "https://daringfireball.net/misc/2007/08/stickerquestion.mp3"
+    controls
+    preload = "none"
+></p>
+
+<p>Keefe asks, Steve Jobs answers, Phil Schiller answers, and then Jobs closes it. Jobs broke the ice in his initial answer, with “What can I say? We like our own stickers better.” I was in the room, and that line killed. Jobs at his best. But you can tell that Jobs wasn’t really sure how to answer at first. He didn’t want to throw any shade at Intel, Apple’s partner, but he knew there was a key point to make here about Apple.</p>
+
+<p>The whole thing is funny because at a fundamental level we all just know in our bones that Apple never even considered putting “Intel Inside” stickers on Macs. But <em>why</em>? For eons, mankind knew that when you drop something, it will fall to the ground. But <em>why</em>? Gravity is worth asking about. Worth figuring out. I think that’s the point of Snell’s 2007 column arguing that people (like me) were wrong to mock Keefe for asking.</p>
+
+<p>It’s when Jobs comes back to the question, after Schiller, that we get the real answer:</p>
+
+<blockquote>
+  <p>You know, we put ourselves in the customers’ shoes and we say,
+what do <em>we</em> want stuck on our product when we take it out of the
+box? And the answer is, nothing.</p>
+</blockquote>
+
+<p><em>That’s</em> the answer. Apple still treats its hardware with that level of respect. With reverence. iPhones don’t even say “iPhone” on the hardware. No model or serial numbers. No small print. Just an Apple logo on the back.</p>
+
+<p>Putting themselves in customers’ shoes today, how many ads do Apple’s executives want stuck in the results when they search for an app in the App Store? We know the honest answer. But the answer <a href="https://daringfireball.net/misc/2026/07/app-store-ads-search-for-signal.png">evidenced by the actual App Store</a> is “Two really big ones, including one in the first spot.”</p>
+
+    ]]></content>
+  <title>★ Ads in Software Are Like Stickers on Laptops</title></entry><entry>
+	<title>WorkOS MCP</title>
+	<link rel="alternate" type="text/html" href="https://workos.com/blog/management-mcp-server?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xeo" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/27/workos-mcp" />
+	<id>tag:daringfireball.net,2026:/linked//6.43296</id>
+	<published>2026-07-27T16:30:00Z</published>
+	<updated>2026-07-27T16:39:00Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks to WorkOS for sponsoring last week at DF to promote their MCP server. Debugging SSO, managing users, adjusting auth policies, configuring branding: every configuration task has lived behind a UI that only a human can drive.</p>
+
+<p>The <a href="https://workos.com/docs/mcp?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026">WorkOS MCP</a> server gives agents the same access as your dashboard login. Hundreds of operations, discoverable at runtime. Connect in one command via OAuth, with scoped tokens instead of a master API key. Pass a screenshot of your marketing site and ask your agent to match the login page. If a human had to do it before, an agent can do it now. <a href="https://workos.com/blog/management-mcp-server?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026">Connect your agent today</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS MCP’"  href="https://daringfireball.net/linked/2026/07/27/workos-mcp">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘AI Mania Is Eviscerating Global Decision-Making’</title>
 	<link rel="alternate" type="text/html" href="https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xem" />
@@ -806,7 +878,7 @@ one in the EU.</p>
 	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.43277</id>
 	<author><name>Daring Fireball Department of Commerce</name></author>
 	<published>2026-07-20T23:13:48Z</published>
-	<updated>2026-07-20T23:13:49Z</updated>
+	<updated>2026-07-27T16:43:47Z</updated>
 	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
 <p>Debugging SSO, managing users, adjusting auth policies, configuring branding: every configuration task has lived behind a UI that only a human can drive.</p>
 
@@ -2099,46 +2171,6 @@ SKAdNetwork, or SKAN) attribution framework at this year’s WWDC.</p>
 
 	]]></content>
   </entry><entry>
-	<title>Apple Updates Advertising Services Policy With New Rules for Ads in Maps</title>
-	<link rel="alternate" type="text/html" href="https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xde" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/15/apple-maps-ad-rules" />
-	<id>tag:daringfireball.net,2026:/linked//6.43250</id>
-	<published>2026-07-15T22:48:20Z</published>
-	<updated>2026-07-15T22:53:11Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Sarah Perez, TechCrunch:</p>
-
-<blockquote>
-  <p>In a newly published <a href="https://ads.apple.com/news-and-stocks-maps-and-sports-programming-policies">Apple Advertising Services policy,</a>
-effective as of July 14, 2026, the iPhone maker shares its rules
-for advertising on Apple Maps. Notably, it prohibits the broad
-category of home services businesses, like plumbing, electrical,
-locksmith, HVAC, pest control, roofing, and general contracting
-services, among others. [...]</p>
-
-<p>The broader policy also prohibits deceptive or profane ads,
-political ads, and ads featuring weapons, violence, controlled
-substances, defamatory material, and more.</p>
-
-<p>Although Apple may expand to other ad categories over time, its
-initial approach positions Maps and its ads as a more curated,
-navigation-focused product, rather than an extension of a web
-search engine.</p>
-</blockquote>
-
-<p>The easiest way to keep scammy and predatory ads out of Apple Maps would be, you know, <a href="https://daringfireball.net/2026/07/ternus_apple_slippery_slope">not to sell ads in Apple Maps</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Updates Advertising Services Policy With New Rules for Ads in Maps’"  href="https://daringfireball.net/linked/2026/07/15/apple-maps-ad-rules">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://paper.design/?utm_source=df" />
 	<link rel="shorturl" href="http://df4.us/xdc" />
@@ -2381,80 +2413,4 @@ until his signature line:</p>
 </blockquote>
 
     ]]></content>
-  <title>★ Exactly Like Om Malik</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/07/ternus_apple_slippery_slope" />
-	<link rel="shorturl" href="http://df4.us/xcm" />
-	<id>tag:daringfireball.net,2026://1.43222</id>
-	<published>2026-07-09T19:17:37Z</published>
-	<updated>2026-07-24T16:16:41Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">What gave Tim Cook’s privacy letter heft in 2014 wasn’t just the clarity of its plain language, but the fact that you didn’t have to take his word for it that the ads Apple showed you respected your privacy, because Apple didn’t show you ads in 2014.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>In September 2014, in the wake of a series of hacks <a href="https://daringfireball.net/linked/2014/09/02/icloud-security">that stole private photos from the iCloud accounts of multiple celebrities</a>, Tim Cook wrote an open letter to customers that was published at <code>apple.com/privacy</code>. Apple seemingly no longer hosts a copy of the letter. (That <a href="https://daringfireball.net/2007/02/reading_between_the_lines">tends to happen</a> to <a href="https://daringfireball.net/linked/2010/04/29/jobs-thoughts-on-flash">memorable open letters</a> from Apple CEOs.) The Wall Street Journal’s fast-loading website <a href="https://blogs.wsj.com/digits/2014/09/18/read-apple-ceo-tim-cooks-letter-on-privacy/?st=fRtsBk">still hosts a copy of the letter</a>, as does <a href="https://web.archive.org/web/20140927000921/http://www.apple.com/privacy/">the Internet Archive’s essential but slow-loading site</a>.</p>
-
-<p>Cook’s letter is cogent and clear, and well worth reading in full today. But when you do, you can see why Apple no longer hosts a copy:</p>
-
-<blockquote>
-  <p>A few years ago, users of Internet services began to realize that
-when an online service is free, you’re not the customer. You’re
-the product. But at Apple, we believe a great customer experience
-shouldn’t come at the expense of your privacy.</p>
-
-<p>Our business model is very straightforward: We sell great
-products. We don’t build a profile based on your email content or
-web browsing habits to sell to advertisers. We don’t “monetize”
-the information you store on your iPhone or in iCloud. And we
-don’t read your email or your messages to get information to
-market to you. Our software and services are designed to make our
-devices better. Plain and simple.</p>
-
-<p>One very small part of our business does serve advertisers, and
-that’s iAd. We built an advertising network because some app
-developers depend on that business model, and we want to support
-them as well as a free iTunes Radio service. iAd sticks to the
-same privacy policy that applies to every other Apple product. It
-doesn’t get data from Health and HomeKit, Maps, Siri, iMessage,
-your call history, or any iCloud service like Contacts or Mail,
-and you can always just opt out altogether.</p>
-</blockquote>
-
-<p>Some of this remains true, but has lost some <a href="https://www.merriam-webster.com/dictionary/truthiness">truthiness</a> — and truthiness matters. But some of it is no longer true, period. It’s no longer just “one small part” of Apple’s business that serves advertisers. Here in 2026, search results in the App Store not only show paid ads — <a href="https://daringfireball.net/2022/10/app_store_ads_gone_wild">frequently for casinos</a> — but the search results are <a href="https://blog.thinktapwork.com/post/812803664980967425/ios-app-store-search-is-rotten">visually <em>dominated</em></a> by paid ads <a href="https://daringfireball.net/linked/2026/05/04/ios-app-store-slippery-slope">now that Apple has added a second ad to results</a>. Apple News+ is a paid subscription that offers a genuinely great value for the number of paywalled publishers whose content it includes, but articles on the News app tend to include the weirdest AI-generated ads on the Internet. (How many young blond women am I supposed to believe <a href="https://daringfireball.net/misc/2026/07/apple-news-blond-women-hearing-aids.jpeg">need hearing aids</a>?) And — at this writing, <a href="https://daringfireball.net/misc/2026/07/Ads_on_Apple_Maps%E2%80%932026-07-09.pdf">still “coming soon”</a> — Apple is launching <a href="https://ads.apple.com/maps">ads on Apple Maps</a>. Apple Maps remains free of charge to use, so according to Tim Cook, we’re not the customer. We’re the product. Or, if you prefer, our <a href="https://daringfireball.net/2026/03/your_frustration_is_the_product">frustration is the product</a>.</p>
-
-<p>I thought to revisit Cook’s 2014 “you’re not the customer, you’re the product” letter today in light of <a href="https://daringfireball.net/linked/2026/07/09/meta-instagram-ai-defaults">Meta’s new policy of defaulting Instagram users into having their personal content serve as grist</a> for AI-generated content created by other users. <a href="https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html?unlocked_article_code=1.wVA.Q5Do.Uvg5yPwCEB5H">The New York Times described</a> Meta’s on-by-default policy as “surprising”; I say it’s not surprising <em>at all</em>. Meta has never shown any respect for its users’ privacy, and when they’ve claimed to, <a href="https://x.com/rmac18/status/2074949389702029811">everyone knew it was a sham</a>. They no longer show any respect <a href="https://daringfireball.net/linked/2026/07/02/orosz-meta-engineering-culture">for their own engineers’ privacy</a> for chrissake.</p>
-
-<p>But Apple? Apple meant it. And I think they still do. But I think they’re lost in the weeds on two fronts:</p>
-
-<ol>
-<li>Squeezing out every extra cent of Services revenue they can.</li>
-<li>Satisfied in their own deep knowledge of how their systems are designed to safeguard users’ privacy and personal data.</li>
-</ol>
-
-<p>Issue #1 is self-explanatory. The ratio of ads to organic results in App Store search — especially when measured in screen area — is clearly not aligned with Cook’s 2014 statement that “Our software and services are designed to make our devices better. Plain and simple.” Obviously not. App Store search today is designed primarily to generate more revenue for Apple. That’s not criminal, but it’s a change.</p>
-
-<p>Issue #2 is more subtle. Apple really does have a religious fervor for privacy. Consider ads for Maps. It hasn’t shipped yet but <a href="https://ads.apple.com/maps">Apple states</a>, “Run ads in a privacy-first environment that respects your customers, who already trust Maps. No tracking — just helpful discovery.” I’m quite sure that’s all completely true. I just wrote last week about how <a href="https://daringfireball.net/2026/06/scotus_geofence_warrant_search">Apple has never had to deal with “geofence warrants” for its location services</a> because Apple has never kept personally-identifiable usage data for location. They not only <em>don’t</em> give advertisers — or law enforcement — your location data, but <em>can’t</em>, because they don’t collect it and never did.</p>
-
-<p>So let’s just concede that the upcoming ads in Apple Maps are completely private. How many users are going to believe that? Or assume it? I think very few. People see ads and they think “I’m being tracked.” When Apple starts showing ads in Maps, many — perhaps most — users are going to think they’re being tracked by Apple and their location “is being sold” to advertisers.</p>
-
-<p>It’s not true. Apple knows it’s not true, because they built and control all of the systems involved. Apple is very proud that this is true, and they should be. It’s a good thing and it really is an important institutional value at the company. It’s a religious fervor. On this particular issue Apple really is set apart from its peer-sized companies in technology.</p>
-
-<p>But that’s not what the general population believes. The general population thinks of “Big Tech” as a single, almost unified, hegemony. A lot of “Apple users” only use one Apple platform, the iPhone, and if they own another Apple product or two they’re iPhone peripherals like AirPods and Apple Watch. If they believe Apple is ethically better with regard to privacy (or anything else) than other companies, it’s only a <em>little</em> better. Most people have no idea whatsoever how anything Apple sells actually works. It’s all magic. That’s why <a href="https://journals.sagepub.com/doi/10.1177/20539517251337102">a majority of adults believe</a> that apps on their devices surreptitiously listen to and record real-world conversations in order to show them eerily-accurate targeted ads. Apple has actually done a lot of hard engineering and design work to guarantee that software on your devices <em>can’t</em> surreptitiously listen to you. But most people don’t know that and wouldn’t understand it if it were explained to them. All they know is that they were talking about Frisbees the other day, after not having uttered the word “Frisbee” in years, and now they’re seeing ads for flying discs in Instagram — and the only explanation that makes any sense to them is that their phone “listens” and betrays their privacy.</p>
-
-<p>What gave Tim Cook’s privacy letter heft in 2014 wasn’t just the clarity of its plain language, but the fact that you didn’t have to take his word for it that the ads Apple showed you respected your privacy, because Apple didn’t show you ads in 2014.<sup id="fnr1-2026-07-09"><a href="#fn1-2026-07-09">1</a></sup> Apple today can’t say that. Apple can prove to itself, and to technically sophisticated outsiders who are willing to listen, that it can serve ads — even in Maps — in privacy-protecting ways. But the only way they can prove to <em>most people</em> that they’re not betraying the privacy of their location data or app usage is not to sell such ads in the first place. Seeing is believing, and when people see ads in their maps app, they believe they’re being tracked.</p>
-
-<p>John Ternus should return Apple’s privacy policy to its 2014 clarity. The trust Apple would earn from such a move would far out-value whatever revenue these ads pad to their already hefty and ever-increasing quarterly Services numbers. “<em>The companies that offer you services free-of-charge to show you ads are betraying your privacy and disrespecting your attention</em>” is a powerful marketing message that only one major tech company used to be able to credibly make. That’s always been a resonant message, but never more so than today, in the age of AI. Ternus should make the slight course correction needed so that Apple can hammer that message once again.</p>
-
-<div class="footnotes">
-<hr />
-<ol>
-<li id="fn1-2026-07-09">
-<p>The genius — cynical genius, perhaps, but genius — part of Apple’s privacy stance regarding advertising is that they’ve made veritable mountains of profit through <a href="https://daringfireball.net/linked/2023/10/27/google-aggregate-search-default">the traffic acquisition cost partnership with Google</a> for web search traffic originating from Safari. That deal made Apple one of the most profitable companies in the highly lucrative Internet advertising industry without themselves needing to sell or display a single ad. Apple’s hands are clean from that deal except for whatever germs they pick up counting the $20+ billion in cash that Google trucks over from Mountain View to Cupertino every year. The ads Apple shows in the App Store and (soon) in Maps will dirty their reputation while generating far, far less money than they continue to rake from the Google/Safari deal, which deal leaves Apple’s reputation unsullied.&nbsp;<a href="#fnr1-2026-07-09"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
-</li>
-</ol>
-</div>
-
-    ]]></content>
-  <title>★ John Ternus Should Reverse Apple’s Slide Down the Advertising Slippery Slope</title></entry></feed><!-- THE END -->
+  <title>★ Exactly Like Om Malik</title></entry></feed><!-- THE END -->
