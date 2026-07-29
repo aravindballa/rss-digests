@@ -7,7 +7,67 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-29T16:51:15Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-29T20:56:33Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Apple Says iOS 27 ‘Restricted Mode’ Isn’t for Users Who Miss Payments in New Apple Upgrade Program</title>
+	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/07/28/apple-says-ios-27-restricted-mode-isnt-for-new-upgrade-program-leases/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xew" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/29/ios-27-restricted-mode" />
+	<id>tag:daringfireball.net,2026:/linked//6.43304</id>
+	<published>2026-07-29T20:56:33Z</published>
+	<updated>2026-07-29T20:56:33Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Last week <a href="https://9to5mac.com/2026/07/21/ios-27-code-suggests-apple-could-restrict-leased-devices-after-missed-payments/">9to5Mac reported</a> on code in the latest iOS 27 developer beta seemingly meant to restrict leased devices after the user had missed one or more payments. When engaged, Restricted Mode limits the device to the following apps:</p>
+
+<ul>
+<li>Accessibility Reader</li>
+<li>App Store</li>
+<li>Health</li>
+<li>Magnifier</li>
+<li>Phone</li>
+<li>Clock</li>
+<li>Settings</li>
+<li>Wallet</li>
+<li>Passwords</li>
+</ul>
+
+<p>And some limited access to apps like Messages or health-related apps that might have critical messages.</p>
+
+<p>Many people reasonably speculated that this feature was related to Apple Upgrade, Apple’s new device leasing partnership with Klarna, which Mark Gurman spoiled a few weeks ago. But an Apple spokesman <a href="https://www.theverge.com/tech/972063/apple-upgrade-program-no-restricted-mode">confirmed to Emma Roth at The Verge today</a> that “There will be no restricted mode and/or there will be no limitations put on device functionality due to missed payments or default with the Apple Upgrade program.”</p>
+
+<p>Writing again today, <a href="https://9to5mac.com/2026/07/28/apple-says-ios-27-restricted-mode-isnt-for-new-upgrade-program-leases/">here’s 9to5Mac’s Marcus Mendes</a>:</p>
+
+<blockquote>
+  <p>Apple, however, did not tell The Verge what Restricted Mode <em>is</em>
+intended for. One possibility is that it was developed for
+financing programs offered by carriers, retailers, or other
+partners outside Apple Upgrade, potentially including markets
+where device restrictions are already used to enforce installment
+agreements.</p>
+
+<p>In India, lenders have worked in the past with smartphone
+manufacturers to remotely block financed devices after borrowers
+missed payments. As <a href="https://economictimes.indiatimes.com/tech/technology/smartphone-emi-defaults-rise-as-lenders-stop-remote-cell-blocking/articleshow/125622029.cms?utm_source=chatgpt.com&amp;from=mdr">The Economic Times</a> reported last year,
+the Reserve Bank of India (RBI) told non-bank lenders to stop the
+practice in late 2024, amid concerns about lenders sharing
+customers’ default information with device manufacturers.</p>
+
+<p>The regulator may now permit a more limited version of the
+practice. As <a href="https://www.reuters.com/world/india/india-cenbank-proposes-allowing-lenders-curb-usage-phones-bought-loans-case-2026-05-20/?utm_source=chatgpt.com">Reuters</a> reported in May, the RBI proposed
+allowing lenders to restrict certain functions on financed phones
+once a loan is at least 90 days overdue, provided the borrower
+agreed to the measure in the contract and received advance notice.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘Apple Says iOS 27 ‘Restricted Mode’ Isn’t for Users Who Miss Payments in New Apple Upgrade Program’"  href="https://daringfireball.net/linked/2026/07/29/ios-27-restricted-mode">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple Upgrade — New Program With Klarna for Leasing iPhones, Macs, iPads, and More for Near-Zero Interest</title>
 	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xev" />
@@ -2188,34 +2248,6 @@ the default search engine.
 
 <div>
 <a  title="Permanent link to ‘Quiche Browser Now Defaults to No-AI Web Search Results’"  href="https://daringfireball.net/linked/2026/07/16/quiche-browser-now-defaults-to-no-ai-web-search-results">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Dithering: ‘Apple Sues OpenAI’</title>
-	<link rel="alternate" type="text/html" href="https://dithering.passport.online/member/episode/apple-sues-open-ai" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xdl" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/16/dithering-apple-sues-openai" />
-	<id>tag:daringfireball.net,2026:/linked//6.43257</id>
-	<published>2026-07-16T23:28:09Z</published>
-	<updated>2026-07-24T16:19:33Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p><a href="https://dithering.fm/" class="noborder">
-  <img
-    src = "https://daringfireball.net/misc/2026/07/dithering-cover-jul-2026.jpg"
-    alt = "Cover art for Dithering in July 2026. Two young women jumping and frolicking in the summer."
-  /></a></p>
-
-<p>Tuesday’s episode of Dithering was a good one, especially for the DF audience, so we’ve moved it outside the paywall and <a href="https://dithering.passport.online/member/episode/apple-sues-open-ai">made it free-to-listen on the web</a>. (We don’t (yet?) have an RSS feed that you can put in your podcast player for these occasional free episodes, alas.) I have a slightly different take on Apple’s lawsuit against OpenAI than I’ve seen expressed elsewhere.</p>
-
-<p>If you don’t subscribe to Dithering, you probably should. Two episodes per week, 15 minutes per episode. Not a minute less, not a minute more. $7/month or $70/year — or, get it included with the Stratechery Plus bundle.</p>
-
-<div>
-<a  title="Permanent link to ‘Dithering: ‘Apple Sues OpenAI’’"  href="https://daringfireball.net/linked/2026/07/16/dithering-apple-sues-openai">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
