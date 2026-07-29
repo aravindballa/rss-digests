@@ -7,7 +7,96 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-29T15:28:03Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-29T16:51:15Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Apple Upgrade — New Program With Klarna for Leasing iPhones, Macs, iPads, and More for Near-Zero Interest</title>
+	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xev" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/29/apple-upgrade" />
+	<id>tag:daringfireball.net,2026:/linked//6.43303</id>
+	<published>2026-07-29T16:51:15Z</published>
+	<updated>2026-07-29T16:51:15Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Apple Newsroom:</p>
+
+<blockquote>
+  <p>Apple today announced <a href="https://www.apple.com/shop/apple-upgrade">Apple Upgrade</a>, a new product leasing
+program provided by Klarna for iPhone, Apple Watch, Mac, and iPad
+available on the Apple Store online, in the Apple Store app, and
+at Apple Store locations in the United States. Apple Upgrade makes
+it even easier for customers to get the Apple products they love
+with a leasing plan that is right for them. [...]</p>
+
+<p>Apple Upgrade offers 12- and 24-month leasing options for iPhone
+and Apple Watch, and 24- and 36-month leasing options for Mac and
+iPad. Leasing prices start as low as $17.99 per month for iPhone,
+$11.99 for Apple Watch, $24.99 for Mac, and $11.99 for iPad. When
+customers first enroll in Apple Upgrade, they can further lower
+their monthly lease payments by trading in their currently owned
+device through <a href="https://www.apple.com/shop/trade-in/">Apple Trade In</a>. Customers can also earn 3 percent
+Daily Cash back when making their lease payments with Apple Card.</p>
+</blockquote>
+
+<p><a href="https://mjtsai.com/blog/2026/07/28/apple-upgrade/">Michael Tsai</a>, quoting Juli Clover at MacRumors:</p>
+
+<blockquote>
+  <p><a href="https://www.macrumors.com/2026/07/28/apple-upgrade-program-klarna/">Juli Clover</a>:</p>
+
+<blockquote>
+  <p>The payoff amount is the difference between what was paid during
+the leasing period and the retail price of the device, minus any
+remaining trade-in credits. Klarna is not charging a fee for the
+leasing program, so an iPhone that’s $1,099 can be leased and
+then purchased for $1,099 with no extra cost beyond taxes.</p>
+</blockquote>
+
+<p>I guess this means that, for a bit of hassle, you can essentially
+buy the device for the list price at 0% interest.</p>
+</blockquote>
+
+<p>If you’d rather lease or buy over time, this seems like as good a deal as you could hope for, without any catches.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Upgrade — New Program With Klarna for Leasing iPhones, Macs, iPads, and More for Near-Zero Interest’"  href="https://daringfireball.net/linked/2026/07/29/apple-upgrade">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Pastebot 3</title>
+	<link rel="alternate" type="text/html" href="https://tapbots.com/pastebot/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xeu" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/29/pastebot-3" />
+	<id>tag:daringfireball.net,2026:/linked//6.43302</id>
+	<published>2026-07-29T16:07:03Z</published>
+	<updated>2026-07-29T16:07:04Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>New from Tapbots: version 3 of their excellent clipboard manager for Mac. There are <em>so</em> many clipboard managers for the Mac. I run two other apps — <a href="https://www.keyboardmaestro.com/">Keyboard Maestro</a> and <a href="https://www.obdev.at/launchbar">LaunchBar</a> — that offer good clipboard managers as ancillary features. But for years now I’ve chosen to use Pastebot. Chief among my favorite features:</p>
+
+<ul>
+<li>Remembers up to 1,500 clippings (up from a mere 1,000 in v2).</li>
+<li>Syncs via iCloud. If I copy something on one Mac, it’s in my Pastebot history on my others Macs.</li>
+<li>That sweet Tapbots UI.</li>
+</ul>
+
+<p>Pastebot 3 requires MacOS 26 Tahoe or later. That means I’m only using it on secondary Macs for now — my primary workstation will continue running MacOS 15 Sequoia until I upgrade directly to 27 Golden Gate later this year. But iCloud sync continues to work between Pastebot 2 and 3.</p>
+
+<p>New features include more powerful filters (e.g. you can use a filter to copy a URL and then paste that URL in Markdown’s link syntax), a CLI tool (as yet undocumented), and Shortcuts support.</p>
+
+<p>$39 for a license via direct purchase, with a $13 discount for users of previous versions. It’s still pending approval in the Mac App Store, where it will cost $25/year or $3/month.</p>
+
+<div>
+<a  title="Permanent link to ‘Pastebot 3’"  href="https://daringfireball.net/linked/2026/07/29/pastebot-3">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Count Those Underscores</title>
 	<link rel="alternate" type="text/html" href="https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xet" />
@@ -2127,102 +2216,6 @@ the default search engine.
 
 <div>
 <a  title="Permanent link to ‘Dithering: ‘Apple Sues OpenAI’’"  href="https://daringfireball.net/linked/2026/07/16/dithering-apple-sues-openai">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>OpenAI Takes a Second Crack at a Response to Apple’s Trade Secret Theft Lawsuit</title>
-	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2026-07-14/openai-says-it-s-not-aware-of-any-evidence-that-apple-lawsuit-has-merit" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xdk" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/16/openai-takes-a-second-crack" />
-	<id>tag:daringfireball.net,2026:/linked//6.43256</id>
-	<published>2026-07-16T19:44:47Z</published>
-	<updated>2026-07-16T19:46:09Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>OpenAI, in a statement to Bloomberg this week:</p>
-
-<blockquote>
-  <p>“While we take these allegations seriously, we’re not aware of any
-evidence that this complaint has merit. We believe in fair
-competition and allowing people the freedom to work wherever they
-choose, and we’re focused on building innovative technology that
-empowers people everywhere.”</p>
-</blockquote>
-
-<p>“We’re not aware of any evidence that this complaint has merit” is very different from, say, “This complaint has no merit.” <a href="https://daringfireball.net/linked/2026/07/10/openai-pusateri-statement">Again</a>, a curious response.</p>
-
-<div>
-<a  title="Permanent link to ‘OpenAI Takes a Second Crack at a Response to Apple’s Trade Secret Theft Lawsuit’"  href="https://daringfireball.net/linked/2026/07/16/openai-takes-a-second-crack">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Lawyer for Apple Mixed Up Two OpenAI Employees’ Names, Sent One Email to the Wrong Guy, Back in February</title>
-	<link rel="alternate" type="text/html" href="https://www.nbcnews.com/tech/apple/apple-openai-lawsuit-suit-trade-product-hardware-email-sam-altman-rcna587376" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xdj" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/16/apple-lawyer-name-mixup" />
-	<id>tag:daringfireball.net,2026:/linked//6.43255</id>
-	<published>2026-07-16T19:34:13Z</published>
-	<updated>2026-07-16T19:41:10Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>David Ingram, reporting for NBC News (which recently added a paywall without gift links, alas):</p>
-
-<blockquote>
-  <p>Apple alleged in a lawsuit last week that OpenAI “never responded”
-to its concerns this year about what Apple believed was trade
-secret theft. But emails reviewed by NBC News show that’s not the
-full story: OpenAI did respond in February to Apple’s initial
-outreach. The communications became bogged down and, according to
-OpenAI, abruptly stopped after an outside attorney representing
-Apple mixed up the names and email addresses of two OpenAI
-employees who had the last names Wang and Chang.</p>
-
-<p>The emails show that Gabriel Gross, a lawyer for Apple with the
-law firm Weil, Gotshal &amp; Manges, intended to email an OpenAI
-employee with the last name Wang but instead emailed a different
-employee with the last name Chang and confused their interactions.
-Gross apologized a day later for his mistake, but the interaction
-appeared to upset OpenAI’s general counsel, who asked Apple to
-remove the outside counsel from the matter. Apple declined. [...]</p>
-
-<p>By the next morning, a Tuesday, Gross had realized his error and
-wrote a third email to Chang. He said he had intended to send
-the second email to the former Apple employee who had gone to
-work at OpenAI.</p>
-
-<p>“After we had emailed Mr. Wang yesterday about retaining Apple
-information, he promptly called me and offered to cooperate with
-Apple in resolving any issues. I then intended to email him again,
-but accidentally replied to my email chain with you instead. I
-apologize for the confusion that likely caused,” Gross wrote.</p>
-
-<p>Based on that email, Chang believed the issue had been resolved
-and didn’t respond, according to Pusateri, the OpenAI
-spokesperson.</p>
-</blockquote>
-
-<p>It’s slightly embarrassing to conflate two rhyming surnames and mistakenly send an email intended for one person to the other, but I don’t see how this is a big deal. And I definitely don’t see how it refutes Apple’s claim that OpenAI didn’t respond to Apple’s February letter laying out their initial accusations. The back and forth seems to have gone like this, paraphrasing:</p>
-
-<p>Apple lawyer: <em>Here’s a letter and three exhibits where we lay out our claims of trade secret malfeasance at OpenAI.</em></p>
-
-<p>Apple lawyer, to the wrong person: <em>Thanks for the phone call.</em></p>
-
-<p>OpenAI lawyer, who had not yet responded: <em>WTF? I never called this guy.</em></p>
-
-<p>Apple lawyer: <em>Sorry, that second email wasn’t for you, I made a mistake.</em></p>
-
-<p>And then at that point, we’re to believe that the OpenAI lawyer presumed the entire matter was settled? That makes no sense. If this is OpenAI’s defense they’re in bigger trouble than I thought. And why did NBC News think this was exculpatory in any way?</p>
-
-<div>
-<a  title="Permanent link to ‘Lawyer for Apple Mixed Up Two OpenAI Employees’ Names, Sent One Email to the Wrong Guy, Back in February’"  href="https://daringfireball.net/linked/2026/07/16/apple-lawyer-name-mixup">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
