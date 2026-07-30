@@ -7,7 +7,38 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-07-30T20:41:44Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-07-30T21:09:52Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Mark Zuckerberg: ‘The AI Future Is for Everyone’</title>
+	<link rel="alternate" type="text/html" href="https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20?st=T6AAwM" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xf1" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/30/zuck-ai-for-everyone" />
+	<id>tag:daringfireball.net,2026:/linked//6.43309</id>
+	<published>2026-07-30T21:09:51Z</published>
+	<updated>2026-07-30T21:09:52Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Mark Zuckerberg, in an op-ed Tuesday for The Wall Street Journal (gift link; and irony isn’t lost that “everyone” needs a paid WSJ subscription to read this):</p>
+
+<blockquote>
+  <p>We are fortunate to live at an incredible moment in history. In
+the next few years, people will be able to use superintelligence
+beyond human capacity to create and discover extraordinary new
+things, build new businesses, express our ideas, learn new
+concepts, and improve our lives, health, relationships and
+careers.</p>
+</blockquote>
+
+<p>Perhaps we’ll be able to use it to build a metaverse too. Or to keep our attention on a major initiative for more than two or three years.</p>
+
+<div>
+<a  title="Permanent link to ‘Mark Zuckerberg: ‘The AI Future Is for Everyone’’"  href="https://daringfireball.net/linked/2026/07/30/zuck-ai-for-everyone">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple Releases iOS and MacOS 26.6, MacOS 15.7.8, and More</title>
 	<link rel="alternate" type="text/html" href="https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xf0" />
@@ -2241,30 +2272,6 @@ hasn’t actually used it.</p>
 
 <div>
 <a  title="Permanent link to ‘BBEdit 16’"  href="https://daringfireball.net/linked/2026/07/17/bbedit-16">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>ArtfulType: Markdown Writing App for the 68K Macintosh</title>
-	<link rel="alternate" type="text/html" href="https://github.com/ActionRetro/ArtfulType" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xdq" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/17/artfultype" />
-	<id>tag:daringfireball.net,2026:/linked//6.43262</id>
-	<published>2026-07-17T17:05:20Z</published>
-	<updated>2026-07-24T16:18:43Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Sean Malseed — “Action Retro” on YouTube — created a Markdown editor for the original Macintosh. <a href="https://github.com/ActionRetro/ArtfulType">Source code on GitHub</a>; <a href="https://youtu.be/HEheu_r9UGw?is=LZ_HTonXROFGnYcS">intro video on YouTube</a>. It’s written in C, not Pascal, and uses the modern <a href="https://github.com/autc04/Retro68">Retro68</a> GCC-derived compiler.</p>
-
-<p>I absolutely love that this exists. I don’t like the actual app at all. I guess “full screen” mode is the point of some “distraction free” editors, but I for one would never look twice at a Mac app that didn’t use windows. Full-screen mode just wasn’t a thing back then, except for games. ArtfulType is not a Mac-assed 1984 Mac app.</p>
-
-<p>If I wanted to write in Markdown on a classic Mac, I’d use BBEdit, which was the app I originally created Markdown for use in. And <a href="https://www.barebones.com/products/bbedit/">one</a> of <a href="https://redsweater.com/marsedit/">two</a> apps I primarily still use it in. But BBEdit won’t run on an original 128 KB Macintosh, because Rich Siegel didn’t create it until 1989, and the earliest public version was <a href="https://daringfireball.net/misc/2026/07/bbedit-2.1.3.png">BBEdit 2</a> in 1992. BBEdit 2.1.3 does run in <a href="https://infinitemac.org/1987/System%205.0">System 5 on Infinite Mac</a>, but crashes if launched on <a href="https://infinitemac.org/1986/System%203.0">System 3</a>. I 100 percent see the appeal of using a 1980s retro Mac, but I don’t see the appeal of using one that can’t run System 6.</p>
-
-<div>
-<a  title="Permanent link to ‘ArtfulType: Markdown Writing App for the 68K Macintosh’"  href="https://daringfireball.net/linked/2026/07/17/artfultype">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
