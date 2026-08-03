@@ -7,20 +7,78 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-03T21:45:41Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-03T22:36:56Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	
+	<link rel="alternate" type="text/html" href="https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026" />
+	<link rel="shorturl" href="http://df4.us/xff" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2026/08/mcp_vs_rest_the_right_way_to_c" />
+	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.43323</id>
+	<author><name>Daring Fireball Department of Commerce</name></author>
+	<published>2026-08-03T22:26:01Z</published>
+	<updated>2026-08-03T22:26:01Z</updated>
+	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
+<p>REST serves the developers building against your API. <a href="https://workos.com/guide/model-context-protocol?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026&amp;utm_content=body_guide">MCP serves the agents</a> now trying to use it. Most teams treat these as competing standards and have to pick one.</p>
+
+<p>They’re not rivals, they’re layers: most MCP servers just call REST internally to do the real work. The best ones don’t convert every endpoint into a tool, they design around what the agent’s trying to accomplish.</p>
+
+<p>Shipping that server also means shipping OAuth 2.1 with scoped tokens. <a href="https://workos.com/docs/authkit/mcp?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026&amp;utm_content=body_authkit">WorkOS AuthKit already speaks that spec</a>, so you skip building an auth provider on top.</p>
+
+<p><a href="https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026">Read the breakdown →</a></p>
+
+<div>
+<a  title="Permanent link to ‘MCP vs. REST: The Right Way to Connect Agents to Your API’"  href="https://daringfireball.net/feeds/sponsors/2026/08/mcp_vs_rest_the_right_way_to_c">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+	<title>[Sponsor] MCP vs. REST: The Right Way to Connect Agents to Your API</title></entry><entry>
+	<title>John Ternus Has Rehired Former Hardware VP Laura Legros</title>
+	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2026/08/03/apple-john-ternus-hiring-retired-vp/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xfe" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/03/ternus-rehired-legros" />
+	<id>tag:daringfireball.net,2026:/linked//6.43322</id>
+	<published>2026-08-03T22:01:41Z</published>
+	<updated>2026-08-03T22:01:42Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Juli Clover, MacRumors:</p>
+
+<blockquote>
+  <p>Incoming Apple CEO John Ternus is rehiring Laura Legros, a former
+vice president of hardware engineering who retired from Apple in
+2022, <a href="https://www.bloomberg.com/news/articles/2026-08-03/apple-s-new-ceo-taps-retired-hardware-executive-for-management-team">reports Bloomberg</a>. Legros previously managed product
+delivery, development schedules, and coordination across
+engineering teams. Under Ternus, she will work across different
+parts of the company, and report directly to him.</p>
+
+<p>According to Bloomberg, Legros was one of Ternus’ most trusted
+deputies before she retired. She has presented at past Apple
+events, introducing the 2018 MacBook Air and the 2020 iPad Air.</p>
+</blockquote>
+
+<p>The 2018 introduction of the first retina MacBook Air <a href="https://daringfireball.net/2018/11/the_2018_retina_macbook_air">was an interesting event</a>. I noted at the time that it was conspicuous how seldom Apple mentioned “Intel”, despite the fact that all that products introduced ran on Intel chips. Then you <a href="https://daringfireball.net/2018/11/the_2018_retina_macbook_air">look at the specs of that MacBook Air compared to the then-current iPad Pros</a> and you can see why Apple, privately, was seething.</p>
+
+<div>
+<a  title="Permanent link to ‘John Ternus Has Rehired Former Hardware VP Laura Legros’"  href="https://daringfireball.net/linked/2026/08/03/ternus-rehired-legros">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>The Information on Apple’s Unusual Use of iCloud for Confidential Work</title>
 	<link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/apple-icloud-policy-fueled-employee-leaks-ahead-openai-suit?rc=jfy0lk" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xfd" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/03/the-information-apple-employees-icloud" />
 	<id>tag:daringfireball.net,2026:/linked//6.43321</id>
 	<published>2026-08-03T21:45:40Z</published>
-	<updated>2026-08-03T21:45:41Z</updated>
+	<updated>2026-08-03T22:36:56Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Aaron “<a href="https://daringfireball.net/linked/2024/03/28/apple-sues-leaker-andrew-aude">Homeboy</a>” Tilley, reporting for The Information (paywalled without gift links, alas):</p>
+<p>Aaron “<a href="https://daringfireball.net/linked/2024/03/28/apple-sues-leaker-andrew-aude">Homeboy</a>” Tilley, reporting for The Information (paywalled without gift links, alas, but <a href="https://www.macrumors.com/2026/08/03/apple-icloud-sharing-ex-employees/">MacRumors has a summary</a>):</p>
 
 <blockquote>
   <p>When new employees join Apple, the company often issues them an
@@ -54,7 +112,7 @@ outside workplace directories remain available to them.</p>
 
 <p>Another factor that plays into this, I think, but which Tilley doesn’t address, is that your Apple ID is not an email address. Your Apple ID is an account that has one or more email addresses associated with it. Let’s say your personal iCloud account has two email addresses associated with it: example@icloud.com and example@gmail.com. Then you take a job at Apple and get the address example@apple.com. When you leave Apple, you lose access to the @apple.com address. But anything shared with your Apple ID through iCloud is still shared with <em>you</em>. You still have the same Apple ID account, even though you no longer have an employee @apple.com email account. Overall, this is a humane way of dealing with digital identity. Your Apple ID account is <em>you</em>, the person, not “example@icloud.com”, one specific unique email address. And you, the person, may well have multiple email addresses — all of which can be associated with your one Apple ID account. That makes Apple IDs more nuanced and complicated than a simple mapping of one email address = one account. And it obviously makes access restrictions more complicated.</p>
 
-<p>Let’s say you delete your Gmail account. Now you can’t access your old example@gmail.com email address. But your iCloud access to items shared with your Apple ID still works, even for items that were sent to your now-deleted @gmail.com address. That’s just now how “work stuff” is accessed at most companies.</p>
+<p>Let’s say you delete your Gmail account. Now you can’t access your old example@gmail.com email address. But your iCloud access to items shared with your Apple ID still works, even for items that were sent to your now-deleted @gmail.com address. That’s just not how “work stuff” is accessed at most companies.</p>
 
 <p>Tilley’s report at The Information is presented as being potentially relevant to Apple’s trade secret lawsuit against OpenAI, but Apple, in a statement to The Information, says it is not:</p>
 
@@ -1989,27 +2047,6 @@ one in the EU.</p>
 
     ]]></content>
   <title>★ European Commission: ‘Guidance to Google for AI Interoperability on Android &amp; Sharing of Google Search’</title></entry><entry>
-	
-	<link rel="alternate" type="text/html" href="https://workos.com/blog/management-mcp-server?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026" />
-	<link rel="shorturl" href="http://df4.us/xe5" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2026/07/workos_mcp_manage_your_auth_pl" />
-	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.43277</id>
-	<author><name>Daring Fireball Department of Commerce</name></author>
-	<published>2026-07-20T23:13:48Z</published>
-	<updated>2026-07-27T16:43:47Z</updated>
-	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
-<p>Debugging SSO, managing users, adjusting auth policies, configuring branding: every configuration task has lived behind a UI that only a human can drive.</p>
-
-<p>The <a href="https://workos.com/docs/mcp?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026">WorkOS MCP</a> server gives agents the same access as your dashboard login. Hundreds of operations, discoverable at runtime. Connect in one command via OAuth, with scoped tokens instead of a master API key. Pass a screenshot of your marketing site and ask your agent to match the login page. If a human had to do it before, an agent can do it now.</p>
-
-<p><a href="https://workos.com/blog/management-mcp-server?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026">Connect your agent →</a></p>
-
-<div>
-<a  title="Permanent link to ‘WorkOS MCP: Manage Your Auth Platform From Any AI Agent’"  href="https://daringfireball.net/feeds/sponsors/2026/07/workos_mcp_manage_your_auth_pl">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-	<title>[Sponsor] WorkOS MCP: Manage Your Auth Platform From Any AI Agent</title></entry><entry>
 	<title>‘Who’s Afraid of Chinese Models?’</title>
 	<link rel="alternate" type="text/html" href="https://stratechery.com/2026/whos-afraid-of-chinese-models/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xe4" />
@@ -2130,45 +2167,4 @@ which is currently the top app in the Weather category.</p>
   <p>The company thanked 9to5Mac for its investigation and added that,
 prior to our reporting, it had already investigated and taken
 action against 25 similar apps, while also terminating the
-developer accounts associated with them.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil’"  href="https://daringfireball.net/linked/2026/07/19/9to5mac-brazil-gambling-apps">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple Sends Letters to Dozens of Former Employees Now at OpenAI</title>
-	<link rel="alternate" type="text/html" href="https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?syn-25a6b1a6=1" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xe0" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/18/apple-letters-to-openai-employees" />
-	<id>tag:daringfireball.net,2026:/linked//6.43272</id>
-	<published>2026-07-18T22:47:59Z</published>
-	<updated>2026-07-18T22:48:00Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Michael Acton, reporting for the Financial Times from San Francisco:</p>
-
-<blockquote>
-  <p>About 40 former employees now working at OpenAI have been sent
-letters directing them to preserve documents and communications
-and demanding meetings with Apple’s lawyers, according to multiple
-people familiar with the matter. Apple and OpenAI declined to
-comment.</p>
-
-<p>The decision to hit employees with personal legal letters
-highlights Apple’s aggressive tactics after it last week launched
-a blockbuster lawsuit accusing OpenAI and two employees of
-stealing secret hardware plans.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘Apple Sends Letters to Dozens of Former Employees Now at OpenAI’"  href="https://daringfireball.net/linked/2026/07/18/apple-letters-to-openai-employees">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry></feed><!-- THE END -->
+developer acc
