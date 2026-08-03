@@ -7,7 +7,73 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-03T20:34:13Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-03T21:45:41Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>The Information on Apple’s Unusual Use of iCloud for Confidential Work</title>
+	<link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/apple-icloud-policy-fueled-employee-leaks-ahead-openai-suit?rc=jfy0lk" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xfd" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/03/the-information-apple-employees-icloud" />
+	<id>tag:daringfireball.net,2026:/linked//6.43321</id>
+	<published>2026-08-03T21:45:40Z</published>
+	<updated>2026-08-03T21:45:41Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Aaron “<a href="https://daringfireball.net/linked/2024/03/28/apple-sues-leaker-andrew-aude">Homeboy</a>” Tilley, reporting for The Information (paywalled without gift links, alas):</p>
+
+<blockquote>
+  <p>When new employees join Apple, the company often issues them an
+iPhone and Mac and pays for an iCloud account with a large amount
+of online storage capacity. Crucially, during the onboarding
+process, Apple encourages new hires to use their preexisting
+personal Apple IDs with this iCloud account, through which their
+co-workers can share internal Apple documents and other files
+with them.</p>
+
+<p>There’s a practical reason for Apple’s policy. Users of iPhones
+can only log into a single primary Apple ID that unlocks all
+iCloud capabilities at a time. Apple employees who want to
+maintain separate work and personal Apple IDs need to carry two
+iPhones with them. As a result, most Apple employees opt to use
+their personal Apple IDs to access their iCloud accounts, former
+employees said.</p>
+
+<p>When employees leave Apple, the company revokes access to a
+dedicated iCloud directory for Apple work files, as well as an
+authentication system for logging into other internal services,
+such as Slack. But former employees say the company doesn’t do a
+thorough job during the offboarding process of looking for
+confidential files that have slipped through the cracks. Because
+those former employees typically continue to use their personal
+Apple IDs with their iCloud accounts, any Apple documents stored
+outside workplace directories remain available to them.</p>
+</blockquote>
+
+<p>If you use your personal Apple ID, you get a magic “Apple Work” folder in iCloud Drive. When you leave Apple, that “Apple Work” folder disappears. But any other files or folders that were shared with you that were <em>outside</em> that magic folder are still in your iCloud Drive, because it’s still your personal iCloud account.</p>
+
+<p>Another factor that plays into this, I think, but which Tilley doesn’t address, is that your Apple ID is not an email address. Your Apple ID is an account that has one or more email addresses associated with it. Let’s say your personal iCloud account has two email addresses associated with it: example@icloud.com and example@gmail.com. Then you take a job at Apple and get the address example@apple.com. When you leave Apple, you lose access to the @apple.com address. But anything shared with your Apple ID through iCloud is still shared with <em>you</em>. You still have the same Apple ID account, even though you no longer have an employee @apple.com email account. Overall, this is a humane way of dealing with digital identity. Your Apple ID account is <em>you</em>, the person, not “example@icloud.com”, one specific unique email address. And you, the person, may well have multiple email addresses — all of which can be associated with your one Apple ID account. That makes Apple IDs more nuanced and complicated than a simple mapping of one email address = one account. And it obviously makes access restrictions more complicated.</p>
+
+<p>Let’s say you delete your Gmail account. Now you can’t access your old example@gmail.com email address. But your iCloud access to items shared with your Apple ID still works, even for items that were sent to your now-deleted @gmail.com address. That’s just now how “work stuff” is accessed at most companies.</p>
+
+<p>Tilley’s report at The Information is presented as being potentially relevant to Apple’s trade secret lawsuit against OpenAI, but Apple, in a statement to The Information, says it is not:</p>
+
+<blockquote>
+  <p>In a statement, Apple said: “This case is about OpenAI employees
+wrongfully taking Apple’s secret and confidential information
+regarding our unreleased technologies, processes, and products.
+Nothing in the filing relates to documents shared by, or stored
+in, iCloud.” The company said it doesn’t pursue legal claims
+against former employees who accidentally hold on to Apple
+documents in their personal iCloud accounts.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘The Information on Apple’s Unusual Use of iCloud for Confidential Work’"  href="https://daringfireball.net/linked/2026/08/03/the-information-apple-employees-icloud">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Om Malik’s Final Essay: ‘The Myth, the Mythos and the Man’</title>
 	<link rel="alternate" type="text/html" href="https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xfc" />
@@ -2102,80 +2168,6 @@ stealing secret hardware plans.</p>
 
 <div>
 <a  title="Permanent link to ‘Apple Sends Letters to Dozens of Former Employees Now at OpenAI’"  href="https://daringfireball.net/linked/2026/07/18/apple-letters-to-openai-employees">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple Books and Amazon Are Lousy With AI-Generated Books Ripping Off Legitimate Authors</title>
-	<link rel="alternate" type="text/html" href="https://thenewthings.com/p/apple-big-ai-book-slop-problem" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xdz" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/17/joanna-stern-ai-ripoff-books" />
-	<id>tag:daringfireball.net,2026:/linked//6.43271</id>
-	<published>2026-07-18T00:33:15Z</published>
-	<updated>2026-07-19T22:27:19Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p><a href="https://thenewthings.com/p/apple-big-ai-book-slop-problem">Joanna Stern at New Things, last month</a>:</p>
-
-<blockquote>
-  <p>Last month, just days after my book went on sale, AI knockoffs of
-the ebook version flooded Apple Books. There was <em>Joanna Stern On
-I Am Not A Robot</em> by Sophie Mercer. <em>I AM NOT A ROBOT</em> by Finn
-Tech. <em>I AM NOT A ROBOT</em> by Joana Stern — with one “n.” (<a href="https://www.youtube.com/shorts/IFLMpFzdtgc?feature=share&amp;utm_campaign=apple-s-big-ai-book-slop-problem&amp;utm_medium=referral&amp;utm_source=thenewthings.com">Watch
-our latest video</a> showing all these titles and more.)</p>
-
-<p>In total, I found ten AI-generated ebooks clearly riding on mine,
-with AI-generated covers mimicking the style of my real one — the
-same blue, yellow and red color palette. Most were priced at
-$9.99, but some have gone as high as $20.99. [...]</p>
-
-<p>After I contacted Apple about my own book’s clones back in May,
-the knockoffs quickly disappeared. [...] But now, a month after
-that first Apple cleanup, the problem is back. At the start of
-this week, there were at least three other <em>I AM NOT A ROBOT</em>
-counterfeits on Apple Books. (They seem to have since been
-removed.)</p>
-
-<p>And I’m not alone. Lena Dunham’s <em>Famesick</em> has multiple
-lookalikes on the platform. Haley Sacks’s <em>Future Rich Person</em> has
-copycats that even use AI generated images of women on the cover
-that resemble the real author.</p>
-</blockquote>
-
-<p><a href="https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html?unlocked_article_code=1.ylA.d9nK.UpBzYfszrwa_">Kashmir Hill at The New York Times today</a> (gift link):</p>
-
-<blockquote>
-  <p>Recently, I received a strange text from a new acquaintance. “You
-have your own biography???” it read. “How did you neglect to tell
-me this?”</p>
-
-<p>This was news to me. I went to Amazon to investigate. There it
-was. A biography of Kashmir Hill — title: “The Biography of
-Kashmir Hill” — had been released nearly a year earlier, in
-August 2025. My life story had a mottled brown cover and a
-publisher I’d never heard of before. It had no reviews until I
-wrote one, asking, as the subject of this work, if I could please
-speak to the author. The hardcover cost $26.99, which seemed a
-bit steep, but my editor splurged on a copy and I was forced to
-read it.</p>
-
-<p>My biography is 90 pages long and should be shorter. It combines
-facts about me that are widely available on the internet, such as
-where I grew up, with generic insights that could be true of
-anyone, like a horoscope spread over dozens of pages. “You cannot
-understand Kashmir Hill without understanding her
-contradictions,” my biographer wrote, along with an
-excruciatingly long description of my elaborate coffee-making
-ritual. (Fact check: My husband does it.)</p>
-</blockquote>
-
-<p>It’s not just an e-book problem. Printing services are so cheap nowadays that some of these mooks (like one “author” Hill spoke to) are commissioning print editions for <em>hundreds</em> of these slopfests.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Books and Amazon Are Lousy With AI-Generated Books Ripping Off Legitimate Authors’"  href="https://daringfireball.net/linked/2026/07/17/joanna-stern-ai-ripoff-books">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
