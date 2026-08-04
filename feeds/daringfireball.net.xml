@@ -7,7 +7,52 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-04T15:14:08Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-04T16:35:52Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Apple Seeks Preliminary Injunction Against OpenAI in Trade Secrets Case</title>
+	<link rel="alternate" type="text/html" href="https://www.reuters.com/legal/litigation/apple-seeks-preliminary-injunction-against-openai-trade-secrets-case-2026-08-04/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xfi" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/04/apple-seeks-preliminary-injunction-against-openai" />
+	<id>tag:daringfireball.net,2026:/linked//6.43326</id>
+	<published>2026-08-04T16:02:35Z</published>
+	<updated>2026-08-04T16:35:52Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Reuters:</p>
+
+<blockquote>
+  <p>Apple on Monday asked a U.S. judge for a preliminary injunction
+barring two former employees ​and OpenAI from accessing,
+acquiring, using or disclosing alleged confidential information as
+it moves ahead with its trade secrets case. [...]</p>
+
+<p>The iPhone maker also filed a concurrent motion on Monday seeking
+expedited discovery, including production of documents relating to
+the defendants’ alleged access ​of Apple’s proprietary and trade
+secret information. It asked the judge to order the two ​former
+Apple employees named in the lawsuit, Chang Liu and Tang Yew Tan,
+to sit for depositions, along with OpenAI employee Yu-Ting Peng
+and an unnamed OpenAI employee who previously worked at ​Apple.</p>
+</blockquote>
+
+<p>The request for expedited discovery and the depositions, I understand. Apple wants to move fast, and they want to get depositions (especially, I’m sure, with Tan) now. The preliminary injunction request, though, I think Reuters is underplaying here.</p>
+
+<p><a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.38.0.pdf">I suggest reading Apple’s actual motion</a>, not the news coverage. From Apple’s motion:</p>
+
+<blockquote>
+  <p>OpenAI, its people, and partners should not be permitted to
+develop, release, and benefit from products using and developed
+with the benefit of Apple’s trade secrets.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘Apple Seeks Preliminary Injunction Against OpenAI in Trade Secrets Case’"  href="https://daringfireball.net/linked/2026/08/04/apple-seeks-preliminary-injunction-against-openai">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Bending Spoons to Buy Airtable for $1.3 Billion</title>
 	<link rel="alternate" type="text/html" href="https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xfh" />
@@ -2113,56 +2158,4 @@ one in the EU.</p>
 </div>
 
     ]]></content>
-  <title>★ European Commission: ‘Guidance to Google for AI Interoperability on Android &amp; Sharing of Google Search’</title></entry><entry>
-	<title>‘Who’s Afraid of Chinese Models?’</title>
-	<link rel="alternate" type="text/html" href="https://stratechery.com/2026/whos-afraid-of-chinese-models/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xe4" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/20/thompson-chinese-models-distillation" />
-	<id>tag:daringfireball.net,2026:/linked//6.43276</id>
-	<published>2026-07-20T16:27:36Z</published>
-	<updated>2026-07-21T14:33:41Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Ben Thompson, on the hype regarding Kimi K3, at Stratechery:</p>
-
-<blockquote>
-  <p>This is a point that bears repeating: because U.S. open weight
-model makers must follow the frontier labs’ terms of service, they
-(1) are worse than Chinese alternatives and (2) end up distilling
-the distillation, just with a detour through Chinese labs.
-Wouldn’t it be better if western open weight model makers could go
-to the source?</p>
-
-<p>To that end, here’s an even more interesting question around
-distillation: why exactly is it bad? After all, what are large
-language models but the distillation of all of the knowledge on
-the open Internet, scraped by the frontier labs and distilled into
-the models that are themselves being distilled? Who is exactly
-being wronged here?</p>
-
-<p>In fact, this paradox is the solution. I believe that open weight
-models are good for innovation (and, per the above, I think that
-labs on the frontier will be fine), but it’s a problem to be
-dependent on China. The U.S. should pass a law that (1) makes
-explicit that collecting data for training models is fair use, and
-(2) bars terms of service that forbid distillation, for U.S.
-companies at a minimum. Stopping distillation — which is
-literally just querying the API — is nearly impossible; the U.S.
-should go the other way and lean into a new copyright policy that
-both indemnifies the labs and also guarantees that what they
-learned fuels further innovation for everyone else.</p>
-</blockquote>
-
-<p>To be clear — and Thompson emphasizes this point too — the leading Chinese models like K3 aren’t good <em>only</em> because of distillation. They’re not entirely rip-offs. But distillation is clearly an essential part of the formula they’re using to keep releasing models that are 6–9 months behind the U.S. frontier state of the art. So the Chinese treat all models as “open”, regardless of the terms of service. But anyone in the U.S. or other western countries that respect copyright — or contracted terms of service — who wants to distill a good model has to wait for the Chinese to release their models, like K3.</p>
-
-<p>And that second paragraph I quote above distills (sorry) exactly why I want to bring out the world’s smallest violin to play a sad song for OpenAI and Anthropic regarding their objections to their frontier models being distilled against their terms of service.</p>
-
-<div>
-<a  title="Permanent link to ‘‘Who’s Afraid of Chinese Models?’’"  href="https://daringfireball.net/linked/2026/07/20/thompson-chinese-models-distillation">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry></feed><!-- THE END -->
+  <title>★ European Commission: ‘Guidance to Google for AI Interoperability on Android &amp; Sharing of Google Search’</title></entry></feed><!-- THE END -->
