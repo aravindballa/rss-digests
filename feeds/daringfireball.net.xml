@@ -7,13 +7,35 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-04T23:12:24Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-05T14:57:48Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Hacker News Thread on OpenAI’s ‘Apple Is Getting This Wrong’ Post</title>
+	<link rel="alternate" type="text/html" href="https://news.ycombinator.com/item?id=49164649" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xfl" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/05/hn-openai-response" />
+	<id>tag:daringfireball.net,2026:/linked//6.43329</id>
+	<published>2026-08-05T14:57:47Z</published>
+	<updated>2026-08-05T14:57:48Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>There’s an old adage that you should never bring a knife to a gunfight. <a href="https://daringfireball.net/2026/08/openai_apple_is_getting_this_wrong">My take on OpenAI’s response yesterday</a> was expressing incredulity that OpenAI was bringing, like, a box of chocolates to the gunfight. Apple is trying to kill io, and OpenAI’s public response is basically “<em>We love you guys, can’t we just be friends?</em>”</p>
+
+<p>This thread on Hacker News though points out that their response doesn’t even explain what they’re responding to. There’s no context. They just assume the reader is up to date on the lawsuit Apple filed. If you didn’t know anything about the suit and started with this post, it would make no sense at all. I’ve heard from friends there that the OpenAI culture is “too online”, and this might be the best proof of it.</p>
+
+<div>
+<a  title="Permanent link to ‘Hacker News Thread on OpenAI’s ‘Apple Is Getting This Wrong’ Post’"  href="https://daringfireball.net/linked/2026/08/05/hn-openai-response">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/08/openai_apple_is_getting_this_wrong" />
 	<link rel="shorturl" href="http://df4.us/xfk" />
 	<id>tag:daringfireball.net,2026://1.43328</id>
 	<published>2026-08-04T22:51:19Z</published>
-	<updated>2026-08-04T23:12:24Z</updated>
+	<updated>2026-08-05T14:47:59Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -81,7 +103,7 @@ activity, but instead relate to Apple’s third-party cloud storage.</p>
 
 <p>The iMessage transcripts that OpenAI provides at the bottom of their post do not contradict Apple’s claims at all. Apple’s motion states that Liu helped former colleagues find certain documents that were in iCloud; that’s what OpenAI’s transcript shows. But that’s not in dispute. Apple also claims that Liu accessed confidential information, presumably in Box and definitely not in iCloud Drive, on five different occasions, up until 27 April 2026, over three months after he left Apple. These chat transcripts offer no explanation for that. The chat transcripts explain iCloud Drive access that Apple itself says is not in dispute, and do not explain the 37 documents Liu downloaded from the third-party cloud provider (Box?) that Apple says are at the heart of naming him in the lawsuit. <a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.45.0_4.pdf">Here is Apple’s declaration from digital forensic specialist Daniel Roffman</a>, documenting Liu’s access to confidential files post-employment (albeit with significant redactions).</p>
 
-<p>I do not understand why OpenAI is treating this is a PR problem instead of as a legal problem. Dan Moren, <a href="https://sixcolors.com/link/2026/08/openai-apple-is-getting-this-wrong/">linking to it from Six Colors</a>, is of similar mind, writing:</p>
+<p>I do not understand why OpenAI is treating this as a PR problem instead of as a legal problem. Dan Moren, <a href="https://sixcolors.com/link/2026/08/openai-apple-is-getting-this-wrong/">linking to it from Six Colors</a>, is of similar mind, writing:</p>
 
 <blockquote>
   <p>What kept running through my head while reading this was the old
@@ -2156,50 +2178,6 @@ Apple Maps?</p>
 
 <div>
 <a  title="Permanent link to ‘John Dvorak on Computer Chronicles in 1987 to Discuss the Then-New IBM PS/2’"  href="https://daringfireball.net/linked/2026/07/23/dvorak-computer-chronicles">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>John Dvorak Drops Dead at 80</title>
-	<link rel="alternate" type="text/html" href="https://appleinsider.com/articles/26/07/23/famed-technology-journalist-john-c-dvorak-dies-aged-80" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xe8" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/23/dvorak-dies-at-80" />
-	<id>tag:daringfireball.net,2026:/linked//6.43280</id>
-	<published>2026-07-23T17:10:47Z</published>
-	<updated>2026-07-23T17:10:47Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>William Gallagher, AppleInsider:</p>
-
-<blockquote>
-  <p>Legendary technology columnist, pundit, author and podcast host
-John C. Dvorak has died, age 80. He is survived by his wife
-Mimi Dvorak.</p>
-
-<p>Today Dvorak is best known for co-hosting the “No Agenda” podcast
-with Adam Curry, where he would critique mainstream news media.
-His death was <a href="https://x.com/NA_Announce/status/2079952538040672302">first announced by the podcast on X</a>, although note
-that Dvorak’s age is mistakenly given as 74.</p>
-</blockquote>
-
-<p><a href="https://mailchi.mp/nashownotes/rip-jcd-no-agenda-newsletter?e=85c9e2d6b2">From the No Agenda News newsletter yesterday</a>:</p>
-
-<blockquote>
-  <p>For a man who spent decades famously predicting the catastrophic
-demise of almost every major technological innovation, it is with
-the heaviest of hearts we must announce that John’s own hardware
-finally gave out on Monday morning, July 20th, 2026, at the age of
-80. He went peacefully, albeit suddenly, with Mimi at his side,
-critiquing the acting and story line of <em>NCIS</em>.</p>
-</blockquote>
-
-<p>His death truly seems quite sudden — <a href="https://www.noagendashow.net/listen/1887">the most recent episode</a> of No Agenda dropped on Sunday, the day before he died.</p>
-
-<div>
-<a  title="Permanent link to ‘John Dvorak Drops Dead at 80’"  href="https://daringfireball.net/linked/2026/07/23/dvorak-dies-at-80">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
