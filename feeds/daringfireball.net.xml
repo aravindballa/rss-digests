@@ -7,7 +7,72 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-05T21:53:24Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-05T23:16:48Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Shawn Smucker: ‘Please Use AI’</title>
+	<link rel="alternate" type="text/html" href="https://shawnsmucker.substack.com/p/please-use-ai" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xfs" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/05/please-use-ai" />
+	<id>tag:daringfireball.net,2026:/linked//6.43336</id>
+	<published>2026-08-05T23:16:47Z</published>
+	<updated>2026-08-05T23:16:48Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>I find most poetry obtuse, dancing around a point rather than making one sharply. Not this one.</p>
+
+<div>
+<a  title="Permanent link to ‘Shawn Smucker: ‘Please Use AI’’"  href="https://daringfireball.net/linked/2026/08/05/please-use-ai">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Matthew Green on Anthropic’s New Cryptanalysis Results</title>
+	<link rel="alternate" type="text/html" href="https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xfr" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/05/green-ai-cryptography" />
+	<id>tag:daringfireball.net,2026:/linked//6.43335</id>
+	<published>2026-08-05T23:08:52Z</published>
+	<updated>2026-08-05T23:08:53Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Matthew Green:</p>
+
+<blockquote>
+  <p>If you’re under the impression that these models are “glorified
+autocomplete” or that progress is slowing down, I need to urge
+you: <em>stop thinking that.</em> The models are very intelligent and
+capable, they are getting better at a fast clip. I can cite
+measurable and impressive progress over just the past five months
+on specific types of problem I’ve asked them to look at. If
+there’s a ceiling out there, I don’t yet see evidence of it. The
+people who think models are dumb are mostly using Google’s free AI
+search results, and not interacting with the high-end stuff (which
+only costs $20, so it’s not out of reach.) And they’re mostly not
+working in new areas.</p>
+
+<p><em>On the other hand:</em> if you think that models are
+super-intelligent or that AGI is already here, you should also
+stop thinking that. Working with these tools is like swimming in a
+pond where the ground drops off sharply. One minute you’re wading
+comfortably and there’s support under your feet. Then suddenly you
+cross a specific line, and you’re back to swimming on your own.
+This analogy is my best way to explain what it feels like when the
+model goes from helpful to clueless.</p>
+</blockquote>
+
+<p>Green is second-to-none in his ability to explain advanced cryptography in easily understood ways, without dumbing it down.</p>
+
+<div>
+<a  title="Permanent link to ‘Matthew Green on Anthropic’s New Cryptanalysis Results’"  href="https://daringfireball.net/linked/2026/08/05/green-ai-cryptography">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Uh, I’m Pretty Sure People Would Know</title>
 	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/08/04/magazine/trump-rfk-steak-kimchi-diet.html?unlocked_article_code=1.21A.ymed.OyFVP85xWyNK" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xfq" />
@@ -2001,41 +2066,6 @@ ignorance is just as good as your knowledge”.</p>
 
 	]]></content>
   </entry><entry>
-	<title>bIRC — A New Native IRC Client for Mac</title>
-	<link rel="alternate" type="text/html" href="https://birc.app/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xeh" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/25/birc" />
-	<id>tag:daringfireball.net,2026:/linked//6.43289</id>
-	<published>2026-07-25T15:39:51Z</published>
-	<updated>2026-07-25T18:57:31Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>For a long time the best native Mac IRC client was <a href="https://www.codeux.com/textual/">Textual</a>, but although Textual still works, <a href="https://help.codeux.com/textual/">it’s been sunset</a> by the author. Not to fear, however. Fredrik Blank <a href="https://www.fredrikblank.com/blog/birc-irc-client-for-mac-macos/">just launched</a> bIRC:</p>
-
-<blockquote>
-  <p>Creating an IRC client in 2026 is not something that will pay the
-bills : ) It would be just for the joy of programming. But the
-amount of work involved always made me throw the thought aside.</p>
-
-<p>But one night when I had nothing better to do, I started
-implementing the good old spec in Swift (RFC 2812). And then I got
-motivated to continue, adding IRCv3 extensions and UI. Been
-working on it on and off on it since the end of 2025. Now I feel
-pretty satisfied with the result. Say hi to bIRC — an IRCv3
-client for Mac.</p>
-</blockquote>
-
-<p>I was never a big IRC user, personally, and haven’t used IRC in years. But I installed bIRC just because it looks so good, and took it for a brief test drive. It’s nice. And it is <em>very</em> Mac-assed in a modern way. It’s got <a href="https://birc.app/documentation/">a detailed documentation page</a> too. There are (alas) many great apps that lack good documentation, but there are very few apps with good documentation that aren’t great apps. bIRC is free to download and use from the App Store, and there’s a suite of additional fun/pro features you can unlock for a one-time $13 purchase. I bought the pro upgrade despite seldom using IRC just to celebrate a killer new Mac app.</p>
-
-<div>
-<a  title="Permanent link to ‘bIRC — A New Native IRC Client for Mac’"  href="https://daringfireball.net/linked/2026/07/25/birc">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/07/regarding_ad_blockers_and_daring_fireball" />
 	<link rel="shorturl" href="http://df4.us/xeg" />
@@ -2120,49 +2150,6 @@ launching [ads on Apple Maps][🗺️].
 
     ]]></content>
   <title>★ Regarding Ad Blockers and Daring Fireball</title></entry><entry>
-	<title>Coiner of ‘Enshittification’ Endorses ‘Dickover’</title>
-	<link rel="alternate" type="text/html" href="https://pluralistic.net/2026/07/21/dickovers/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xef" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/24/coiner-of-enshittification-endorses-dickover" />
-	<id>tag:daringfireball.net,2026:/linked//6.43287</id>
-	<published>2026-07-24T18:51:29Z</published>
-	<updated>2026-07-24T20:06:36Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p><a href="https://daringfireball.net/linked/2026/07/24/dickover-of-the-week-tomtoc">Speaking of dickovers</a>, here’s Cory Doctorow, writing this week at Pluralistic:</p>
-
-<blockquote>
-  <p>Seizing the means of computation isn’t theft, it’s <em>bargaining</em>.
-Commercial surveillance companies will tell you that by spying on
-you, they are simply engaged in a marketplace exchange in which
-you swap your privacy for access to online services. But they are
-running a very curious sort of market: it’s a “market” where as
-soon as you stop to browse someone’s wares, the stallholder gets
-to reach into your pocket and clean out your wallet. In “markets,”
-prices are announced and bargained over, not set unilaterally and
-extracted from anyone unwise enough to cross the threshold.</p>
-
-<p>Adblocking, dickover blocking and other customizations are a way
-for you to bargain back, to answer the opening bid of “How about
-you give me all of your data forever and let me do anything I want
-with it?” with “How about ‘nah?’”</p>
-</blockquote>
-
-<p>Doctorow’s specific advice is to switch to Firefox for your browser and Linux as your desktop OS. You’re probably not going to do either of those things. But the <em>spirit</em> of his advice is that you should avail yourself of <a href="https://github.com/gala8y/kill-sticky--forked">bookmarklets</a> and browser extensions that fight back against shitty ads and dickovers. There are some great options for Safari. <a href="https://underpassapp.com/StopTheMadness/">StopTheMadness Pro</a> is great for creating custom rules to permanently block specific page elements. <a href="https://apps.apple.com/us/app/ublock-origin-lite/id6745342698">uBlock Origin Lite</a> is a free-of-charge content blocker that is incredibly effective, and very configurable (but complicated). <a href="https://www.magiclasso.co/">Magic Lasso</a> is a paid content blocker — $30/year — which includes synced blocking on iOS, MacOS, and even Apple TV. Magic Lasso offers a much more approachable configuration interface, and includes a “just turn it on” easy-to-use private VPN feature that allows for blocking ads in <em>all</em> apps, including Apple News.</p>
-
-<p>Bargaining back is exactly what using content blockers is. There’s no reason to feel guilty about it.</p>
-
-<p>(Magic Lasso has previously been a DF sponsor, but not since <a href="https://daringfireball.net/linked/2021/05/09/magic-lasso">May 2021</a>. I’m recommending Magic Lasso here only as a happy paying user.)</p>
-
-<div>
-<a  title="Permanent link to ‘Coiner of ‘Enshittification’ Endorses ‘Dickover’’"  href="https://daringfireball.net/linked/2026/07/24/coiner-of-enshittification-endorses-dickover">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/07/ads_on_apple_news_suck" />
 	<link rel="shorturl" href="http://df4.us/xea" />
