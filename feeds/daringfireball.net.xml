@@ -7,7 +7,114 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-07T17:28:11Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-07T18:13:56Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>An AI Model From Meta Also Hacked Another Company During Testing</title>
+	<link rel="alternate" type="text/html" href="https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xg6" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/07/meta-ai-cyberattack" />
+	<id>tag:daringfireball.net,2026:/linked//6.43350</id>
+	<published>2026-08-07T18:13:55Z</published>
+	<updated>2026-08-07T18:13:56Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Simon Willison:</p>
+
+<blockquote>
+  <p>So that’s Anthropic, OpenAI, and Meta. Google Gemini really needs
+to catch up on accidentally cyberattacking other companies.</p>
+</blockquote>
+
+<p>I’m surprised Willison hasn’t heard about <a href="https://daringfireball.net/linked/2026/08/07/leadership-shake-up-at-google-deepmind">how much <em>momentum</em> Gemini has</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘An AI Model From Meta Also Hacked Another Company During Testing’"  href="https://daringfireball.net/linked/2026/08/07/meta-ai-cyberattack">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Meta: Introducing Muse Code and Muse Spark 1.2</title>
+	<link rel="alternate" type="text/html" href="https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xg5" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/07/meta-ai-muse-code" />
+	<id>tag:daringfireball.net,2026:/linked//6.43349</id>
+	<published>2026-08-07T18:05:03Z</published>
+	<updated>2026-08-07T18:05:03Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Meta AI:</p>
+
+<blockquote>
+  <p>We’re excited to release Muse Code (beta), a terminal coding agent
+powered by Muse Spark 1.2, our newest model. This marks our next
+step toward the frontier, with larger and much more capable models
+on the way. [...]</p>
+
+<p>Muse Code takes on complex software engineering tasks across large
+repositories: planning changes, writing code, and validating the
+results. It can coordinate multiple persistent subagents for each
+task, solving difficult problems faster, more accurately, and with
+less intervention.</p>
+</blockquote>
+
+<p>Terminal-only (so far), so it avoids the whole native-app-versus-Electron-shit-sandwich debate. They’ve embedded some fun interactive examples of Spark’s output right in the web page.</p>
+
+<p><a href="https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything">Simon Willison</a>:</p>
+
+<blockquote>
+  <p>An interesting twist on pricing is that the model <a href="https://developer.meta.com/ai/models/muse-spark/">is offered</a>
+as two different model IDs. <code>muse-spark-1.2</code> is priced at
+$1.25/million input and $4.25/million output — close to Gemini
+3.6 Flash ($1.50/$7.50) — but if you agree to let Meta use your
+data “to improve our products” you can use
+<code>muse-spark-1.2-contributor</code> which is $0.10/$0.20 — a huge
+discount, closer to GPT-5.6 Luna ($0.20/$1.20) and Gemini 3.1
+Flash-Lite ($0.25/$1.50).</p>
+</blockquote>
+
+<p>That’s over a 10× discount in exchange for giving your data to Meta. I can see the appeal if don’t care about the privacy of your data and code, like, say, if you’re using Muse Spark to generate code for a throwaway project, or for something that’s open source anyway. But I wonder if Meta has considered that this offer might spook would-be users who absolutely do not want to grant Meta the user of their data. One would hope that the two systems have a strong firewall between them. But given <a href="https://daringfireball.net/linked/2026/07/09/meta-instagram-ai-defaults">Meta’s contempt for the sanctity of user data</a>, it’s not at all unreasonable to suspect that the difference here is like reserving a no-smoking seat in an airplane <a href="https://en.wikipedia.org/wiki/Inflight_smoking">with a smoking section</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Meta: Introducing Muse Code and Muse Spark 1.2’"  href="https://daringfireball.net/linked/2026/08/07/meta-ai-muse-code">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>App Store Review Times Are Failing to Meet the AI-Driven Influx of Submissions</title>
+	<link rel="alternate" type="text/html" href="https://macaw.social/@mergesort/117055390966724799" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xg4" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/07/app-store-review-times-plinky" />
+	<id>tag:daringfireball.net,2026:/linked//6.43348</id>
+	<published>2026-08-07T17:45:22Z</published>
+	<updated>2026-08-07T17:46:25Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Joe Fabisevich, on Mastodon:</p>
+
+<blockquote>
+  <p>I submitted Plinky 6.0.4 for review last week. The macOS app was
+approved in 4 hours, the iOS app is still waiting for review. Sure
+do love to distribute software distribution this way.</p>
+</blockquote>
+
+<p>He’s not an outlier; I see comments like this from App Store developers everywhere I look.</p>
+
+<p>(<a href="https://www.plinky.app/">Plinky</a>, by the way, is an intriguing link-bookmarking app that syncs across iOS and MacOS. It’s not for me, but the nature of my work is such that I have very unusual bookmarking needs. Plinky offers a bunch of convenient ways to stash new bookmarks with the low friction. It’s a labor of love — it’s totally obvious that Fabisevich himself is the number one user of Plinky, and that’s almost always true of the very best apps.)</p>
+
+<div>
+<a  title="Permanent link to ‘App Store Review Times Are Failing to Meet the AI-Driven Influx of Submissions’"  href="https://daringfireball.net/linked/2026/08/07/app-store-review-times-plinky">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Leadership Shake-Up at Google DeepMind</title>
 	<link rel="alternate" type="text/html" href="https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xg3" />
@@ -1848,155 +1955,6 @@ the two offerings are not the same. Here are the key differences.</p>
 
 <div>
 <a  title="Permanent link to ‘The Differences Between the New ‘Apple Upgrade’ and the Old ‘iPhone Upgrade Program’’"  href="https://daringfireball.net/linked/2026/07/30/apple-upgrade-vs-iphone-upgrade-program">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple Says iOS 27 ‘Restricted Mode’ Isn’t for Users Who Miss Payments in New Apple Upgrade Program</title>
-	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/07/28/apple-says-ios-27-restricted-mode-isnt-for-new-upgrade-program-leases/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xew" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/29/ios-27-restricted-mode" />
-	<id>tag:daringfireball.net,2026:/linked//6.43304</id>
-	<published>2026-07-29T20:56:33Z</published>
-	<updated>2026-07-29T20:56:33Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Last week <a href="https://9to5mac.com/2026/07/21/ios-27-code-suggests-apple-could-restrict-leased-devices-after-missed-payments/">9to5Mac reported</a> on code in the latest iOS 27 developer beta seemingly meant to restrict leased devices after the user had missed one or more payments. When engaged, Restricted Mode limits the device to the following apps:</p>
-
-<ul>
-<li>Accessibility Reader</li>
-<li>App Store</li>
-<li>Health</li>
-<li>Magnifier</li>
-<li>Phone</li>
-<li>Clock</li>
-<li>Settings</li>
-<li>Wallet</li>
-<li>Passwords</li>
-</ul>
-
-<p>And some limited access to apps like Messages or health-related apps that might have critical messages.</p>
-
-<p>Many people reasonably speculated that this feature was related to Apple Upgrade, Apple’s new device leasing partnership with Klarna, which Mark Gurman spoiled a few weeks ago. But an Apple spokesman <a href="https://www.theverge.com/tech/972063/apple-upgrade-program-no-restricted-mode">confirmed to Emma Roth at The Verge today</a> that “There will be no restricted mode and/or there will be no limitations put on device functionality due to missed payments or default with the Apple Upgrade program.”</p>
-
-<p>Writing again today, <a href="https://9to5mac.com/2026/07/28/apple-says-ios-27-restricted-mode-isnt-for-new-upgrade-program-leases/">here’s 9to5Mac’s Marcus Mendes</a>:</p>
-
-<blockquote>
-  <p>Apple, however, did not tell The Verge what Restricted Mode <em>is</em>
-intended for. One possibility is that it was developed for
-financing programs offered by carriers, retailers, or other
-partners outside Apple Upgrade, potentially including markets
-where device restrictions are already used to enforce installment
-agreements.</p>
-
-<p>In India, lenders have worked in the past with smartphone
-manufacturers to remotely block financed devices after borrowers
-missed payments. As <a href="https://economictimes.indiatimes.com/tech/technology/smartphone-emi-defaults-rise-as-lenders-stop-remote-cell-blocking/articleshow/125622029.cms?utm_source=chatgpt.com&amp;from=mdr">The Economic Times</a> reported last year,
-the Reserve Bank of India (RBI) told non-bank lenders to stop the
-practice in late 2024, amid concerns about lenders sharing
-customers’ default information with device manufacturers.</p>
-
-<p>The regulator may now permit a more limited version of the
-practice. As <a href="https://www.reuters.com/world/india/india-cenbank-proposes-allowing-lenders-curb-usage-phones-bought-loans-case-2026-05-20/?utm_source=chatgpt.com">Reuters</a> reported in May, the RBI proposed
-allowing lenders to restrict certain functions on financed phones
-once a loan is at least 90 days overdue, provided the borrower
-agreed to the measure in the contract and received advance notice.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘Apple Says iOS 27 ‘Restricted Mode’ Isn’t for Users Who Miss Payments in New Apple Upgrade Program’"  href="https://daringfireball.net/linked/2026/07/29/ios-27-restricted-mode">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple Upgrade — New Program With Klarna for Leasing iPhones, Macs, iPads, and More for Near-Zero Interest</title>
-	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xev" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/29/apple-upgrade" />
-	<id>tag:daringfireball.net,2026:/linked//6.43303</id>
-	<published>2026-07-29T16:51:15Z</published>
-	<updated>2026-07-29T16:51:15Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Apple Newsroom:</p>
-
-<blockquote>
-  <p>Apple today announced <a href="https://www.apple.com/shop/apple-upgrade">Apple Upgrade</a>, a new product leasing
-program provided by Klarna for iPhone, Apple Watch, Mac, and iPad
-available on the Apple Store online, in the Apple Store app, and
-at Apple Store locations in the United States. Apple Upgrade makes
-it even easier for customers to get the Apple products they love
-with a leasing plan that is right for them. [...]</p>
-
-<p>Apple Upgrade offers 12- and 24-month leasing options for iPhone
-and Apple Watch, and 24- and 36-month leasing options for Mac and
-iPad. Leasing prices start as low as $17.99 per month for iPhone,
-$11.99 for Apple Watch, $24.99 for Mac, and $11.99 for iPad. When
-customers first enroll in Apple Upgrade, they can further lower
-their monthly lease payments by trading in their currently owned
-device through <a href="https://www.apple.com/shop/trade-in/">Apple Trade In</a>. Customers can also earn 3 percent
-Daily Cash back when making their lease payments with Apple Card.</p>
-</blockquote>
-
-<p><a href="https://mjtsai.com/blog/2026/07/28/apple-upgrade/">Michael Tsai</a>, quoting Juli Clover at MacRumors:</p>
-
-<blockquote>
-  <p><a href="https://www.macrumors.com/2026/07/28/apple-upgrade-program-klarna/">Juli Clover</a>:</p>
-
-<blockquote>
-  <p>The payoff amount is the difference between what was paid during
-the leasing period and the retail price of the device, minus any
-remaining trade-in credits. Klarna is not charging a fee for the
-leasing program, so an iPhone that’s $1,099 can be leased and
-then purchased for $1,099 with no extra cost beyond taxes.</p>
-</blockquote>
-
-<p>I guess this means that, for a bit of hassle, you can essentially
-buy the device for the list price at 0% interest.</p>
-</blockquote>
-
-<p>If you’d rather lease or buy over time, this seems like as good a deal as you could hope for, without any catches.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Upgrade — New Program With Klarna for Leasing iPhones, Macs, iPads, and More for Near-Zero Interest’"  href="https://daringfireball.net/linked/2026/07/29/apple-upgrade">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Pastebot 3</title>
-	<link rel="alternate" type="text/html" href="https://tapbots.com/pastebot/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xeu" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/29/pastebot-3" />
-	<id>tag:daringfireball.net,2026:/linked//6.43302</id>
-	<published>2026-07-29T16:07:03Z</published>
-	<updated>2026-07-30T20:21:52Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>New from Tapbots: version 3 of their excellent clipboard manager for Mac. There are <em>so</em> many clipboard managers for the Mac. I run two other apps — <a href="https://www.keyboardmaestro.com/">Keyboard Maestro</a> and <a href="https://www.obdev.at/launchbar">LaunchBar</a> — that offer good clipboard managers as ancillary features. But for years now I’ve chosen to use Pastebot. Chief among my favorite features:</p>
-
-<ul>
-<li>Remembers up to 1,500 clippings (up from a mere 1,000 in v2).</li>
-<li>Syncs via iCloud. If I copy something on one Mac, it’s in my Pastebot history on my other Macs.</li>
-<li>That sweet Tapbots UI.</li>
-</ul>
-
-<p>Pastebot 3 requires MacOS 26 Tahoe or later. That means I’m only using it on secondary Macs for now — my primary workstation will continue running MacOS 15 Sequoia until I upgrade directly to 27 Golden Gate later this year. But iCloud sync continues to work between Pastebot 2 and 3.</p>
-
-<p>New features include more powerful filters (e.g. you can use a filter to copy a URL and then paste that URL in Markdown’s link syntax), a CLI tool (as yet undocumented), and Shortcuts support.</p>
-
-<p>$39 for a license via direct purchase, with a $13 discount for users of previous versions. It’s still pending approval in the Mac App Store, where it will cost $25/year or $3/month.</p>
-
-<div>
-<a  title="Permanent link to ‘Pastebot 3’"  href="https://daringfireball.net/linked/2026/07/29/pastebot-3">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
