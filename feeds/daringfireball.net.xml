@@ -7,7 +7,145 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-07T15:00:47Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-07T17:28:11Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Leadership Shake-Up at Google DeepMind</title>
+	<link rel="alternate" type="text/html" href="https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xg3" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/07/leadership-shake-up-at-google-deepmind" />
+	<id>tag:daringfireball.net,2026:/linked//6.43347</id>
+	<published>2026-08-07T17:23:17Z</published>
+	<updated>2026-08-07T17:23:18Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Demis Hassabis, CEO of Google DeepMind, the company’s artificial intelligence research lab:</p>
+
+<blockquote>
+  <p>We have arrived at a pivotal moment in human history. I’ve been
+working towards AGI my whole life and now, like many of you, I
+feel it is close at hand. It’s critical that we collectively get
+the next steps right to ensure this all goes well for humanity and
+we usher in an incredible new age of discovery and wonder.</p>
+
+<p>With this backdrop, I’ve decided that now is the right time for me
+to hand over my day-to-day operational responsibilities at GDM, so
+that I have the time and space to focus on the big picture and
+help influence what is to come to the best of my ability. I will
+be taking on a new strategic role as Chair of GDM and Chief
+Scientist of Alphabet, and I’m excited to announce that Koray will
+be stepping up to lead GDM as SVP of Google DeepMind, in addition
+to his role as Chief AI Architect of Google.</p>
+</blockquote>
+
+<p>Google published Hassabis’s letter alongside a letter from Sundar Puchai, and all of this is happening alongside four longtime Google leaders <a href="https://daringfireball.net/linked/2026/08/07/levy-discovery-loop">leaving to form a new AI-focused company</a>. The headline of Google’s dual-memo announcement was “The Next Chapter of Our AI Momentum”, and Pichai uses the same word in 10 percent of his 30 sentences (emphasis added):</p>
+
+<blockquote>
+  <p>And you saw the incredible <em>momentum</em> at earnings across all our
+businesses, including Search, YouTube, and Cloud. […]</p>
+
+<p>Google DeepMind: We are building strong <em>momentum</em>: Flash is in high
+demand, our Cyber model is live, and Gemma models have surpassed
+900M+ downloads. […]</p>
+
+<p>With today’s changes we’re going to keep driving our <em>momentum</em>.
+Onwards!</p>
+</blockquote>
+
+<p>Methinks he doth protest too much. If Google really had the momentum in AI that Pichai is declaring, I suspect Gemini might have suggested he’s overusing the word.</p>
+
+<div>
+<a  title="Permanent link to ‘Leadership Shake-Up at Google DeepMind’"  href="https://daringfireball.net/linked/2026/08/07/leadership-shake-up-at-google-deepmind">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>‘Google’s Top AI Brains Are Leaving to Launch Discovery Loop’</title>
+	<link rel="alternate" type="text/html" href="https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/?ref=spyglass.org" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xg2" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/07/levy-discovery-loop" />
+	<id>tag:daringfireball.net,2026:/linked//6.43346</id>
+	<published>2026-08-07T17:05:02Z</published>
+	<updated>2026-08-07T17:06:05Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Steven Levy, writing for Wired:</p>
+
+<blockquote>
+  <p>Today it’s official: After almost 27 years, Dean is leaving
+Google, along with Ghemawat and two other top-tier AI scientists,
+to found a company called <a href="https://www.discoveryloop.com">Discovery Loop</a>.</p>
+
+<p>Even though Google will take a stake in the new company, it’s a
+devastating blow to the search giant as it attempts to keep pace
+in the frantic AI model competition. It’s bad enough that Dean and
+Ghemawat, who were among the company’s first hires, are leaving — that’s like Mick Jagger and Keith Richards ditching the Rolling
+Stones to start a new band. Worse, the other cofounders are also
+supernovas in the AI firmament: <a href="https://research.google.com/pubs/OriolVinyals.html?ref=ruder.io">Oriol Vinyals</a>, VP of research
+at DeepMind and a technical lead for Gemini, and <a href="https://www.historyofdatascience.com/quoc-v-le-fast-furious-and-automatic/">Quoc Le</a>, a
+cofounder of Google Brain and the key scientist behind Google’s
+<a href="https://arxiv.org/abs/2003.03384">AutoML-Zero,</a> a project that uses machine learning algorithms
+to autonomously build AI products.</p>
+
+<p>In an interview I did with the cofounders just before launch, Dean
+tells me the idea came up only a few weeks ago. He was quickly
+joined by the other three, who are not only long-time colleagues
+but friends who vacation together. “We were working on different
+things, but we were all starting to see the possibility of AI
+being able to automate scientific and engineering loops,” he says.</p>
+</blockquote>
+
+<p>I think the Jagger/Richards analogy is strained, to say the least, but the tectonic plates have shifted this week over in Googleland. This might be to Google what io is to Apple — something that ought to have happened within rather than requiring departures of legendary talent.</p>
+
+<div>
+<a  title="Permanent link to ‘‘Google’s Top AI Brains Are Leaving to Launch Discovery Loop’’"  href="https://daringfireball.net/linked/2026/08/07/levy-discovery-loop">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours" />
+	<link rel="shorturl" href="http://df4.us/xg1" />
+	<id>tag:daringfireball.net,2026://1.43345</id>
+	<published>2026-08-07T16:40:11Z</published>
+	<updated>2026-08-07T17:28:11Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">https://blog.terrygodier.com/2026/08/07/browsers-have-standards-the-app.html</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>Terry Godier, “<a href="https://blog.terrygodier.com/2026/08/07/browsers-have-standards-the-app.html">Browsers Have Standards, the App Store Has Judgment</a>”:</p>
+
+<blockquote>
+  <p>A while ago I tried to submit an iOS app for <a href="https://darkhours.io/">Dark Hours</a>, my
+astronomy website for normal people. It was rejected on the
+grounds that it was astrology.</p>
+
+<p>It has no tarot function, no horoscopes, and nothing that I, or
+anyone else I’ve asked, would associate with astrology.</p>
+</blockquote>
+
+<p>I penned <a href="https://daringfireball.net/linked/2024/04/11/astrology-astronomy-eclipse">a nice little rant two years ago</a> expressing my fury over the way that kooks promoting astrology often try to insinuate that their voodoo pseudoscience is even vaguely related to the hard science of astronomy. And it really is an unfortunate fluke of the English language that two subjects with a contentious relationship are differentiated as words by two letters. Even if you know the difference between the two, and care, if you’re reading quickly your eyes might conflate one word for the other.</p>
+
+<p>But if you actually look at Godier’s <a href="https://darkhours.io/">Dark Hours</a>, for even just a few seconds, it is instantly obvious that it pertains to the science of astronomy and has absolutely nothing — zero, zilch, nada — to do with astrology. So even if Apple’s App Store reviewer misread the submission’s description, and wrongly assumed it was yet another quack astrology app, if they <em>launched</em> it and spent just a few seconds poking around, they should have instantly recognized their incorrect assumption. But that’s not what happened. They rejected the app on the utterly incorrect grounds that it pertained to astrology. If this was an honest mistake from a reasonable judicial board, you’d expect the interaction with Godier, the developer, to have gone something like this:</p>
+
+<p>App Review: <em><strong>REJECTED</strong>: Astrology.</em> <br />
+Developer: <em>No, it’s astroNoMy not astroLoGy.</em> <br />
+App Review: <em>Oh, sorry! Carry on, <strong>APPROVED</strong>.</em></p>
+
+<p>But that’s not what happened at all. Godier proceeded through a series of escalations up to the App Review Board and the Review Board responded that they determined the original rejection was <em>valid</em> because, I shit you not, “We understand that the app includes a live tarot reading feature.” Which isn’t even about astrology. It’s straight out of Kafka.</p>
+
+<p>Dark Hours is not just merely <em>un</em>related to astrology (let alone tarot-card reading). It’s actually exquisitely well-designed and painstaking crafted. It’s exactly the sort of app that the App Store ought to celebrate and highlight. It doesn’t just belong in the category of astronomy apps in the App Store, it will raise the quality bar for astronomy apps in the App Store. iOS-exclusive, native Liquid Glass UI, smooth scrolling, beautiful typography and layout, and way more useful as a native mobile app than as a website. <a href="https://darkhours.io/">Go check out the website</a> and I’m sure you’ll agree that it’s the sort of thing that would be even cooler as an app. But it <em>is</em> an app, and the app <em>is</em> better and more useful than the website version, and Godier has fought to get it approved. But Apple’s App Review Board said no, on fallacious easily-refuted grounds. This isn’t just contrary to the benefit of developers, like Godier. It’s obviously contrary to the benefit of Apple itself, which  should not just <em>accept</em> an app like Dark Hours, but <em>celebrate</em> it as an exemplar of the platform.</p>
+
+<p>Mistakes happen. But in a functioning system mistakes get corrected, and mistakes as obvious as this one get corrected almost instantly and include a quick apology for the conflation. The App Store is not a functioning system.</p>
+
+    ]]></content>
+  <title>★ App Store Rejection of the Week: Dark Hours</title></entry><entry>
 	<title>Meta Ordered to Pay $942 Million in New Mexico Child-Safety Lawsuit</title>
 	<link rel="alternate" type="text/html" href="https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7?st=WwRP65" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xg0" />
@@ -1863,128 +2001,6 @@ buy the device for the list price at 0% interest.</p>
 
 	]]></content>
   </entry><entry>
-	<title>Count Those Underscores</title>
-	<link rel="alternate" type="text/html" href="https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xet" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/29/count-those-underscores" />
-	<id>tag:daringfireball.net,2026:/linked//6.43301</id>
-	<published>2026-07-29T15:28:02Z</published>
-	<updated>2026-07-30T20:00:34Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Nate Anderson, reporting for Ars Technica under the headline “A Missing Underscore Sent Innocent Man to Prison for 18 Months”:</p>
-
-<blockquote>
-  <p>Police were looking for a man using the Kik messaging service
-under the name “fus__ro_dah” (two underscores after “fus”), but
-they accidentally requested records for the username
-“fus_ro_dah” (one underscore after “fus”). This one-character
-difference led them not to the perpetrator but to a Canadian man
-named Brandon Klayme. [...]</p>
-
-<p>Despite finding no evidence of the crime on his digital devices,
-Canadian police arrested Klayme in 2020 on child sex abuse
-charges. He was convicted after a trial in 2023 and sentenced in
-2024 to 18 months in prison. He served the full term.</p>
-
-<p>Even after release, Klayme continued to fight his conviction. In
-the process of preparing his appeal, the username mistake that led
-to all these years of disruption was finally discovered. On
-Thursday, the Nova Scotia Court of Appeal overturned Klayme’s
-conviction, writing: “Mr. Klayme is factually innocent of the
-offences. He should never have been charged, let alone convicted.”</p>
-</blockquote>
-
-<p><a href="https://onefoottsunami.com/2026/07/29/a-missing-underscore/">Via Paul Kafasis</a>, who asks:</p>
-
-<blockquote>
-  <p>While I understand how the mistake led to this poor guy becoming a
-suspect, I really can’t fathom how he was convicted. What the hell
-happened during that trial?</p>
-</blockquote>
-
-<p>Contra Ars’s headline, it wasn’t the missing underscore that sent Klayme to prison for 18 months.</p>
-
-<p><strong>Update:</strong> Guy Chapman observes that this is basically the central plot of <a href="https://www.themoviedb.org/movie/68-brazil?language=en-US">Terry Gilliam’s <em>Brazil</em></a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Count Those Underscores’"  href="https://daringfireball.net/linked/2026/07/29/count-those-underscores">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘eBay’s Bizarre Cyberstalking Saga Ends With a $56 Million Settlement’</title>
-	<link rel="alternate" type="text/html" href="https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xes" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/29/ebay-stalking-settlement" />
-	<id>tag:daringfireball.net,2026:/linked//6.43300</id>
-	<published>2026-07-29T14:43:24Z</published>
-	<updated>2026-08-02T17:48:18Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Emma Roth, The Verge:</p>
-
-<blockquote>
-  <p>eBay and three former executives <a href="https://www.scallimurphy.com/ebay-cyberstalking-lawsuit-settlement/">will pay $55.7 million</a> as
-part of a settlement with a Massachusetts couple targeted with a
-bizarre harassment and cyberstalking campaign in 2019, as
-<a href="https://www.cnbc.com/2026/07/28/ebay-blogger-harassment-stalking-steiner.html">reported earlier by CNBC</a>. The settlement will resolve a
-lengthy legal saga that revealed how <a href="https://www.theverge.com/2020/9/26/21457487/go-read-this-ebay-stalking-harassment-new-york-times">eBay’s former executives
-sent live insects</a>, a bloody pig mask, a funeral wreath, and
-other strange items to David and Ina Steiner over their
-newsletter’s coverage of eBay.</p>
-
-<p>The Steiners, who operate the EcommerceBytes newsletter, sued eBay
-and its former executives — including ex-CEO Devin Wenig — in
-2021. The lawsuit <a href="https://storage.courtlistener.com/recap/gov.uscourts.mad.236568/gov.uscourts.mad.236568.1.0_1.pdf">accused the company</a> and its executives of
-launching a coordinated effort to “intimidate, threaten to kill,
-torture, terrorize, stalk and silence” the Steiners in an attempt
-to “stifle” their eBay-related reporting.</p>
-</blockquote>
-
-<p>I don’t think I’ve ever linked to this saga before, but I’m not sure why. One of those stories that slipped through the cracks. It’s an astonishing tale. Could be the basis for a Coen brothers movie.</p>
-
-<p>From David Streitfeld’s 2020 <a href="https://www.nytimes.com/2020/09/26/technology/ebay-cockroaches-stalking-scandal.html?unlocked_article_code=1.1VA.jF7I.EmTOxL0tiGj6">overview of the saga for The New York Times</a> (gift link):</p>
-
-<blockquote>
-  <p>Prosecutors say that on Aug. 7, Ms. Popp — the “Mom” to Mr.
-Baugh’s “Dad” — began sending Twitter messages to Ms. Steiner
-via a fake account, @Tui_Elei. The profile picture was a skull,
-and he seemed to be an eBay user from Samoa who believed that
-EcommerceBytes had harmed his sales. Ms. Steiner ignored the
-messages, even as the tone got angrier and more abusive.
-@Tui_Elei wrote: “I guess im goin to have to get ur attention
-another way bitch…”</p>
-
-<p>A parade of disturbing deliveries began at 4 p.m. on Aug. 10, when
-a package containing a bloody pig mask arrived at the Steiners’
-home. Fourteen minutes later, @Tui_Elei wrote: “DO I HAVE UR
-ATTENTION NOW????”</p>
-
-<p>The Steiners received a book titled “Grief Diaries: Surviving the
-Loss of a Spouse” and a funeral wreath. They got fly larvae and
-live spiders and a box of cockroaches. Copies of the September
-issue of “Hustler: Barely Legal” touting “eye-popping
-18-year-olds” arrived at the homes of neighbors with David
-Steiner’s name on them. The Twitter bombardment continued, as
-@Tui_Elei began to hint at violence: “wen u hurt our bizness u
-hurt our familys… Ppl will do ANYTHING 2 protect family!!!!”</p>
-</blockquote>
-
-<p>It’s certainly not how anyone would plan a business strategy, but this settlement seemingly makes the Steiners some of the most successful independent writers in history. <a href="https://www.ecommercebytes.com/C/blog/blog.pl?/pl/2026/7/1785201549.html">Here’s Ina Steiner’s piece on the settlement</a> at eCommerceBytes.</p>
-
-<div>
-<a  title="Permanent link to ‘‘eBay’s Bizarre Cyberstalking Saga Ends With a $56 Million Settlement’’"  href="https://daringfireball.net/linked/2026/07/29/ebay-stalking-settlement">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://fail.xyz/phone/" />
 	<link rel="shorturl" href="http://df4.us/xeq" />
@@ -2135,98 +2151,4 @@ launching [ads on Apple Maps][🗺️].
 </div>
 
     ]]></content>
-  <title>★ Regarding Ad Blockers and Daring Fireball</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/07/ads_on_apple_news_suck" />
-	<link rel="shorturl" href="http://df4.us/xea" />
-	<id>tag:daringfireball.net,2026://1.43282</id>
-	<published>2026-07-23T19:08:57Z</published>
-	<updated>2026-07-24T18:10:05Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">The obvious truth is that Apple’s ads just plain suck. They are not good at advertising-based services. And it shouldn’t be surprising that they’re not good at advertising-based services, because the incentives for advertising-based services are in direct opposition to the incentives for everything Apple actually is good at.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p><a href="https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/">Kirk McElhearn, back in February</a>:</p>
-
-<blockquote>
-  <p>I use Apple News to keep up on topics that I don’t find in sources
-I pay for (The Guardian and The New York Times). But there’s no
-way I’m going to pay the exorbitant price Apple wants for Apple
-News+ — £13 — because, while you get more publications, you
-still get ads.</p>
-
-<p>And those ads have gotten worse recently. Many if not most of them
-look like and probably are scams. Here are a few examples from
-Apple News today.</p>
-</blockquote>
-
-<p>One of the ads he examined was, supposedly, from a small company going out of business because the proprietor — supposedly a straight-out-of-Central-Casting kind old woman — was retiring after 26 years. McElhearn looked up the domain name and it had only just been created last year, and was registered from a company in China.</p>
-
-<p>Two years ago this very week, I wrote about <a href="https://daringfireball.net/2024/07/apple_taboola_sitting_in_a_tree">Apple striking a deal with Taboola to sell ads for Apple News</a>. In that post, I quoted <a href="https://www.threads.net/@eric_seufert/post/C9gjkA_OXYw">Eric Seufert (of Mobile Dev Memo) posting on Threads</a>:</p>
-
-<blockquote>
-  <p>Regarding Taboola’s partnership with Apple: I’ve seen people claim
-that this is somehow hypocritical from a privacy perspective,
-assuming that Taboola’s somewhat obnoxious, clickbait-style ads
-must invasively target user profiles and browsing histories.</p>
-
-<p>They don’t. They are targeted entirely contextually. That’s
-the point.</p>
-
-<p>Want brash, garish advertising plastered all over the web? Reject
-ads personalization. Want relevant, informed advertising? Embrace
-ads personalization.</p>
-</blockquote>
-
-<p>Now quoting from myself in that same article:</p>
-
-<blockquote>
-  <p>If you told me that the ads in Apple News have been sold by
-Taboola for the last few years, I’d have said, “Oh, that makes
-sense.” Because the ads in Apple News — at least the ones I see — already look like chumbox Taboola ads. Even worse, they’re
-incredibly repetitious. [...]</p>
-
-<p>So while I don’t think it’s good news that Apple is partnering
-with Taboola, I don’t expect it to make any discernible difference
-in the ad quality or frequency. Maybe it will improve the variety?</p>
-</blockquote>
-
-<p>Privacy is not the issue with Apple’s Taboola partnership, or Apple advertising in general. The issues are quality and user experience. I was correct that the partnership has made no discernible difference in ad quality or frequency. And it hasn’t made any improvement to variety either. <a href="https://mastodon.social/@gruber/116901983997962549">Here’s a collection of ads I continue to see in Apple News</a> — often with the same ad appearing 3–4 times in the same article, as I scroll. (I posted the same image in my recent article “<a href="https://daringfireball.net/2026/07/ternus_apple_slippery_slope">John Ternus Should Reverse Apple’s Slide Down the Advertising Slippery Slope</a>”, if you’re thinking it looks familiar.)</p>
-
-<p>The ads I see in Apple News are not relevant or informed. And, to be clear, I have “Personalized Ads” turned <em>on</em> in Settings → Privacy &amp; Security → Apple Advertising (which makes me wonder if turning that <em>off</em> might actually make the ads even worse). The ads shown in the App Store <a href="https://daringfireball.net/linked/2026/05/04/ios-app-store-slippery-slope">never seem contextually relevant to me</a>. So I have no faith that the ads that Apple is supposedly on the cusp of serving in Apple Maps are going to be good.</p>
-
-<p>Back in March I wrote:</p>
-
-<blockquote>
-  <p>I’m not going to prejudge the actual experience, and you shouldn’t
-either. I also <a href="https://mister.computer/@kyle/114014624058008824">do not begrudge Apple for wanting to monetize
-Maps</a>. But if the addition of ads does make the Apple
-Maps experience worse, why won’t Apple let us buy our way out of
-seeing them? <a href="https://help.netflix.com/en/node/24926">Netflix</a> doesn’t force us to watch their
-ads. <a href="https://www.youtube.com/premium">YouTube Premium</a> is arguably the best
-bang-for-the-buck in the entire world of content subscriptions.
-Why should <a href="https://www.apple.com/apple-one/">Apple One</a> subscribers still see these ads in
-Apple Maps?</p>
-</blockquote>
-
-<p>This to me is proof that Apple leadership is suffering from cognitive dissonance over their slide into advertising. They’re conflating cause and effect. The Apple brand stands for high-quality superior user experiences because the devices and software Apple makes traditionally deliver high-quality superior user experiences. The work Apple ships is what makes the brand what it is. But now they’re stricken with the mindset that it’s the Apple brand that makes something a high-quality superior experience. If it comes from Apple it must be great — that sort of thinking. The ads in Apple News and the App Store can’t be detrimental to the user experiences and at times even embarrassingly crude or downright scammy because Apple doesn’t ship things that are detrimental to the user experience or embarrassingly crude — and certainly never with even a whiff of scamminess.</p>
-
-<p>My theory is that’s why Apple isn’t allowing users to buy our way out of the ads. When streaming services like Netflix let you pay more money for ad-free tiers, it’s an explicit acknowledgement that the experience with ads is worse. Apple doesn’t offer ad-free tiers for the App Store or (soon) Apple Maps<sup id="fnr1-2026-07-23"><a href="#fn1-2026-07-23">1</a></sup> because, I think, they can’t bring themselves to admit that by adding ads to these services <em>they have made them worse</em>. If you refuse to admit that the ads make these services worse, you also can’t admit that there’s a reason to offer an ad-free experience. So the thinking is something like “<em>Apple always focuses on the user experience, and never deliberately makes the user experience worse. Therefore, if an Apple service shows ads, those ads are high quality and don’t detract from the quality of the product or the experience of using it. Therefore, there’s no reason to offer users a paid ad-free tier, because there’s no reason to want to avoid Apple’s ads.</em>”</p>
-
-<p>It’s a textbook case of Upton Sinclair’s famous adage: “It is difficult to get a man to understand something, when his salary depends upon his not understanding it.” The obvious truth is that Apple’s ads just plain suck. They are not good at advertising-based services. And it shouldn’t be surprising that they’re not good at advertising-based services, because the incentives for advertising-based services are in direct opposition to the incentives for everything Apple actually is good at. To wit: offering superior products worth paying a premium price for.</p>
-
-<p>One can argue that an ad-free Apple Maps experience ought to be included with the price of the devices Apple sells (which, of course, has been true until now). It’s even easier to argue that the App Store ought to be ad-free for everyone, based on its exclusive role in software distribution and the 15–30 percent commission Apple takes on every transaction. But if Apple simply made the App Store and Apple Maps ad-free for users paying for iCloud+ or Apple One, I’d stop complaining. That would make it clear: the full Apple experience requires not just an Apple device, but an Apple subscription. But the way things stand now, that ad-free experience isn’t even available.</p>
-
-<div class="footnotes">
-<hr />
-<ol>
-<li id="fn1-2026-07-23">
-<p>Apple News is different because the inclusion of ads is controlled by the publishers, not by Apple. If you read <a href="https://apple.news/TMDi_OFIRSe2BQoupq1S1Gw">Daring Fireball on Apple News</a>, for example, you don’t see their crummy chumbox ads, because I don’t participate in that system. Most of the cringe-inducing ads I see in Apple News are seemingly sold through Apple Ads, though, so I’m not arguing that Apple isn’t ultimately responsible for the Apple News reading experience. I’m saying they can’t just flip a switch and offer a paid-subscription no-ads Apple News experience without the agreement of every single participating publisher. The App Store and Apple Maps, however, are services under Apple’s complete control. Every ad shown in those apps is Apple’s choice to show.&nbsp;<a href="#fnr1-2026-07-23"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
-</li>
-</ol>
-</div>
-
-    ]]></content>
-  <title>★ The Ads on Apple News Continue to Suck, but at Least There Are a Lot of Them</title></entry></feed><!-- THE END -->
+  <title>★ Regarding Ad Blockers and Daring Fireball</title></entry></feed><!-- THE END -->
