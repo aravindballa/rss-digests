@@ -7,7 +7,60 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-08T16:56:00Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-08T19:31:52Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Maybe ‘Steal Underpants by Blowing a Fortune on AI Tokens’ Is, in Fact, Not a Good Business Plan</title>
+	<link rel="alternate" type="text/html" href="https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xga" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/08/accenture-stealing-underpants-ai-markdown" />
+	<id>tag:daringfireball.net,2026:/linked//6.43354</id>
+	<published>2026-08-08T19:31:52Z</published>
+	<updated>2026-08-08T19:31:52Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Joseph Cox, writing for 404 Media (paywalled, sans gift links, alas):</p>
+
+<blockquote>
+  <p>Consulting giant Accenture is trying to figure out how to stop
+non-technical workers from blowing through companies’ AI token
+budget on trivial tasks like converting PDFs to presentation
+slides, according to leaked audio obtained by 404 Media. Across
+the industry Accenture is seeing “soaring token spend,” according
+to the audio. [...] It also undercuts the narrative that
+superpowered engineers generating mountains of code are behind the
+AI boom. In many cases it is non-technical staff burning through
+tokens for non-specialized tasks. [...]</p>
+
+<p>At one point in the meeting, Kwak and Eduardo Salamanca de
+Diego, senior manager of product management at the company’s
+Center for Advanced AI, start presenting about what is described
+as “token ops.”</p>
+
+<p>Kwak says he knows people aren’t using slides these days, but
+he has some. As he appears to be preparing to present, Stuart
+Henderson, Accenture’s client group lead, interrupts. He
+jokes he hopes Kwak didn’t just convert a PDF into images and
+then into Markdown files. “I’m learning that’s one of the big
+token chewers,” Henderson says. “Turning PDFs into Markdown:
+is that right?”</p>
+
+<p>That’s when Kwak says that’s what Accenture’s own data shows.</p>
+</blockquote>
+
+<p>My impression of consulting giants like Accenture (McKinsey, Bain, Deloitte, KPMG...) has always been that they are very good at <em>looking</em> smart but in fact very bad at actually <em>being</em> smart. The idea that they’re spending serious money on AI tokens to turn PDFs and <a href="https://www.edwardtufte.com/book/the-cognitive-style-of-powerpoint-pitching-out-corrupts-within-ebook/">PowerPoint decks</a> into Markdown only makes me think I’ve overestimated the median intelligence of the people who work there. I really thought Markdown couldn’t get more successful but this takes the cake. I love it that my little baby is helping burn these companies’ cash. This is so stupid it hurts to think about.</p>
+
+<p>Markdown is something you <em>start with</em> because it’s easy to write and universally readable. You write Markdown and use that to make slides — like, say, with <a href="https://ia.net/presenter">iA Presenter</a> — not the other way around.</p>
+
+<p>(<a href="https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/">Via Simon Willison</a>.)</p>
+
+<div>
+<a  title="Permanent link to ‘Maybe ‘Steal Underpants by Blowing a Fortune on AI Tokens’ Is, in Fact, Not a Good Business Plan’"  href="https://daringfireball.net/linked/2026/08/08/accenture-stealing-underpants-ai-markdown">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Simon Willison on Blogging</title>
 	<link rel="alternate" type="text/html" href="https://writethatblog.substack.com/p/simon-willison-on-technical-blogging" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xg9" />
@@ -1893,47 +1946,6 @@ careers.</p>
 
 <div>
 <a  title="Permanent link to ‘Mark Zuckerberg: ‘The AI Future Is for Everyone’’"  href="https://daringfireball.net/linked/2026/07/30/zuck-ai-for-everyone">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple Releases iOS and MacOS 26.6, MacOS 15.7.8, and More</title>
-	<link rel="alternate" type="text/html" href="https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xf0" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/07/30/ios-macos-26-6" />
-	<id>tag:daringfireball.net,2026:/linked//6.43308</id>
-	<published>2026-07-30T20:41:43Z</published>
-	<updated>2026-07-30T20:41:44Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Samuel Axon, Ars Technica:</p>
-
-<blockquote>
-  <p>Apple has released iOS, iPadOS, macOS, watchOS, and tvOS 26.6.
-Apart from potential security hotfixes, these are likely the last
-updates before the arrival of iOS 27, macOS 27, and so on.</p>
-
-<p>All of today’s releases include minor bug fixes, and there are
-numerous security updates: <a href="https://support.apple.com/en-gb/128067">more than 150 for macOS 26.6</a>.
-Apple also rolled out macOS 14.8.8 and macOS 15.7.8 for older
-devices, also focused on security fixes.</p>
-
-<p>In terms of new features, you won’t find many in these releases,
-as they mainly pave the way for the next major OS update, likely
-to hit sometime in September. Most notably, the release notes for
-iOS and iPadOS 26.6 say the update “optimizes the Spotlight index
-to prepare for iOS 27.” This update will kick off some indexing
-work that will then be leveraged in an ostensibly much more robust
-Spotlight search feature when iOS 27 launches next month.</p>
-</blockquote>
-
-<p>I don’t mean to pick nits, but there’s nothing “ostensible” about it. You can use the new Spotlight index via Siri AI in the OS 27 beta releases and it’s <em>really</em> good. The initial background indexing took almost a full week for me on iOS, I suspect because I have so much email archived, but anyone who upgrades to these 26.6 releases now shouldn’t have to wait at all after upgrading to 27.0 in September. Or even if you wait for the 27.1 releases — you won’t need to wait for Siri AI to have your full semantic index at hand.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Releases iOS and MacOS 26.6, MacOS 15.7.8, and More’"  href="https://daringfireball.net/linked/2026/07/30/ios-macos-26-6">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
