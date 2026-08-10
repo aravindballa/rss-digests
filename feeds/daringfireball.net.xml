@@ -7,7 +7,74 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-09T23:54:18Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-10T15:34:51Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>The NYT and WSJ on Apple, China, and the RAM Crisis</title>
+	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/08/10/technology/memory-chip-shortage-ai.html?unlocked_article_code=1.4VA.49f7.Qj8S541DkkOz" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xge" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/10/the-nyt-and-wsj-on-apple-china-and-the-ram-crisis" />
+	<id>tag:daringfireball.net,2026:/linked//6.43358</id>
+	<published>2026-08-10T15:21:29Z</published>
+	<updated>2026-08-10T15:34:51Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Kalley Huang, reporting from San Francisco, and Ana Swanson, from Washington, <a href="https://www.nytimes.com/2026/08/10/technology/memory-chip-shortage-ai.html?unlocked_article_code=1.4VA.49f7.Qj8S541DkkOz">for The New York Times</a> (gift link):</p>
+
+<blockquote>
+  <p>Apple, which has cited the memory chip shortage for recent price
+increases, is working with other consumer electronics companies to
+push for permission to buy memory chips from China, which faces
+certain restrictions, seven people said.</p>
+
+<p>Apple was in talks in 2022 to buy memory chips from Yangtze Memory
+Technologies Corporation, or YMTC, but those efforts fizzled under
+pressure from U.S. lawmakers.</p>
+
+<p>Many officials appear unsympathetic to Apple’s desire to buy
+Chinese chips, because the company has promised for years to move
+more of its supply chain to the United States but has made only
+small steps toward that goal, four people said. Other critics of
+the plan said that China was also experiencing a similar chip
+crunch, and had proved itself to be a risky supplier when it
+restricted its mineral exports last year.</p>
+</blockquote>
+
+<p>Raffaele Huang and Rolfe Winkler, <a href="https://www.wsj.com/tech/apple-tests-chinese-memory-chips-as-supply-squeeze-bites-d292bb97?st=RwyNAQ">reporting for The Wall Street Journal</a> (also a gift link):</p>
+
+<blockquote>
+  <p>Apple has been testing memory chips from China’s CXMT across
+product lines including iPhones and MacBooks, according to people
+familiar with the matter, as the U.S. company addresses a memory
+crunch during the artificial-intelligence boom.</p>
+
+<p>Apple has held early talks with CXMT about supplying components
+with the goal of using them in some devices sold in China, the
+people said. Apple hopes to win the White House’s blessing to do
+business with the Chinese company. [...]</p>
+
+<p>Apple often tailors components to its devices to maximize
+performance. Using standard CXMT memory chips could force Apple to
+redesign certain parts of its products. Industry analysts also say
+CXMT’s technology still trails its foreign competitors, in part
+because the company’s access to the most sophisticated chip-making
+equipment is restricted.</p>
+
+<p>At present, CXMT wouldn’t be a panacea for Apple. The Chinese
+company has maxed out its production capacity this year, leaving
+little room for new international clients, the people familiar
+with the matter said.</p>
+</blockquote>
+
+<p>The gist of both reports is that <a href="https://daringfireball.net/linked/2026/06/27/apple-faced-bipartisan-opposition-to-chinese-ram">just like in 2022</a>, Apple might not get permission from the U.S. government to use Chinese RAM, even for devices sold in China. And, even if they do secure permission, it might not actually help much with the supply crunch.</p>
+
+<div>
+<a  title="Permanent link to ‘The NYT and WSJ on Apple, China, and the RAM Crisis’"  href="https://daringfireball.net/linked/2026/08/10/the-nyt-and-wsj-on-apple-china-and-the-ram-crisis">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>WorkOS: Connect Your Agents to Your API</title>
 	<link rel="alternate" type="text/html" href="https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xgd" />
@@ -1896,52 +1963,6 @@ phone at $13.99/month: <em>$720 for the year</em>.</p>
 
 <div>
 <a  title="Permanent link to ‘The Apple Upgrade Situation’"  href="https://daringfireball.net/linked/2026/08/01/the-apple-upgrade-situation">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple Q3 2026 Results</title>
-	<link rel="alternate" type="text/html" href="https://sixcolors.com/post/2026/07/apple-announces-record-q3-results/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xf4" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/01/apple-q3-2026-results" />
-	<id>tag:daringfireball.net,2026:/linked//6.43312</id>
-	<published>2026-08-01T16:15:15Z</published>
-	<updated>2026-08-01T16:15:16Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jason Snell:</p>
-
-<blockquote>
-  <p>On Thursday, Apple announced <a href="https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/">record third-quarter earnings</a>,
-with total revenue of $109.4B, up 16 percent from the year-ago
-quarter. iPhone revenue was up 22%, Mac revenue was up 10.4%,
-Services revenue was up 12%, and Wearables revenue was up 6%. iPad
-revenue was down 6%.</p>
-</blockquote>
-
-<p>Six Colors also has their usual <a href="https://sixcolors.com/post/2026/07/one-last-time-this-is-tim-transcript-of-apples-q3-2026-financial-call/">transcript of the analyst call</a>, Tim Cook’s 90th and final one. </p>
-
-<p>Over at MacRumors, <a href="https://www.macrumors.com/2026/07/31/tim-cook-apple-15-years/">Juli Clover wrote a retrospective on Tim Cook’s 15-year run as CEO</a>:</p>
-
-<blockquote>
-  <p>When Cook took over as CEO, Apple’s revenue for all of 2011 was
-$108 billion. Apple reported $109.4 billion for Q3 2026, earning
-its 2011 revenue in a single quarter. We don’t have the numbers
-for fiscal 2026 yet, but in fiscal 2025, revenue was $416
-billion. [...]</p>
-
-<p>A day after Cook took over in August 2011, Apple’s stock price was
-$13.35 (split-adjusted). Today, it opened at $304.81, a roughly
-23× increase.</p>
-</blockquote>
-
-<p>Apple did alright under Cook.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Q3 2026 Results’"  href="https://daringfireball.net/linked/2026/08/01/apple-q3-2026-results">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
