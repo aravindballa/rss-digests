@@ -7,7 +7,71 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-10T22:25:00Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-11T18:02:37Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Anthropic Posts ‘How Claude Marks AI-Generated Content’ Without Explaining How Claude Marks AI-Generated Content</title>
+	<link rel="alternate" type="text/html" href="https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xgk" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/11/anthropic-claude-watermarks" />
+	<id>tag:daringfireball.net,2026:/linked//6.43364</id>
+	<published>2026-08-11T17:59:22Z</published>
+	<updated>2026-08-11T18:02:37Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Anthropic support page:</p>
+
+<blockquote>
+  <p>Anthropic has signed the EU AI Act’s Article 50(2) Code of
+Practice on Transparency of AI-Generated Content, as a provider of
+both generative AI models and generative AI systems. This article
+describes how we’re planning to put those commitments into
+practice, how marking works, and what its limitations are. We’ll
+update this article and publish more detailed technical guidance
+as it becomes available.</p>
+</blockquote>
+
+<p>Regarding generated plain text output:</p>
+
+<blockquote>
+  <p>When a supported Claude model generates text, it weaves an
+imperceptible watermark directly into the text itself. You won’t
+see it, and it doesn’t change the meaning, quality, or readability
+of Claude’s response.</p>
+
+<p>Because the watermark is part of the text, it will travel with the
+text when it’s copied and pasted elsewhere, and may persist
+through some editing. Watermarking will be applied at the model
+level, which means it will be present no matter which Claude
+product or surface the text comes from. [...]</p>
+
+<p>We’re also working to enable users and other third parties to
+detect Claude’s embedded watermarks and provenance metadata.
+Detection checks whether a piece of text or a file carries a
+supported Claude mark. If a supported mark is found, it indicates
+that the content may have been processed by Claude.</p>
+
+<p>We’ll share details on detection mechanisms in forthcoming
+technical documentation.</p>
+</blockquote>
+
+<p>Anthropic is claiming this is for compliance with an EU law but that “Marking will apply to output from supported models wherever Claude is offered, worldwide.”</p>
+
+<p>This is infuriatingly opaque. I won’t speak to the “signed providence metadata” they say they’ll be embedding in generated <em>files</em> like PDFs, SVGs, PNGs, and JPEGs. That’s important but it’s complex. Plain text is simple. A string of text is just one character followed by another. I <em>presume</em> that Claude is going to start “embedding” invisible characters/byte sequences between visible characters? What they’re claiming to do here seems impossible, frankly, and anything they attempt to embed invisibly is going to cause immediately problems.</p>
+
+<p>Let’s say I have Claude generate the phrase “Hello world”. Claude creates the string of characters “<em>Hello«invisible characters that comprise a “watermark” here</em>» world”. I paste this on the web. Humans who look at it will see “Hello world” but the invisible characters are there. Character-count-limited social media platforms will show that the string contains more than the 11 visible characters in “Hello world”. If the “watermark” is not comprised of invisible characters but rather visible ones, how in the world does this jibe with their claim that it’s “imperceptible”? (<a href="https://www.reddit.com/r/ClaudeAI/comments/1vky8at/claude_will_watermark_generated_content_thank_you/">This Reddit thread</a> claims that’s how it will work — “It’s a form of steganography where the model subtly biases its word choice to create a statistical pattern that can be detected later.” How in the world can that be squared with “it doesn’t change the meaning, quality, or readability”?)</p>
+
+<p>What happens if you copy my text and quote it in something you write, by hand? Now you’ve got a watermark in <em>your</em> prose, invisible characters or something, that implicates that your prose is AI-generated? Even though you didn’t use AI and just copy and pasted text from me? Madness.</p>
+
+<p>They obviously need to explain exactly what they’re embedding in text if anyone is actually going to detect it, but if they explain it, anyone can simply remove it. And what happens, for example, if someone just OCRs Claude-generated text rather than selects and copies it? This is all <a href="https://www.reddit.com/r/ClaudeAI/comments/1vky8at/claude_will_watermark_generated_content_thank_you/">so stupid</a>. I have never been happier that I’ve never actually used Claude for anything.</p>
+
+<div>
+<a  title="Permanent link to ‘Anthropic Posts ‘How Claude Marks AI-Generated Content’ Without Explaining How Claude Marks AI-Generated Content’"  href="https://daringfireball.net/linked/2026/08/11/anthropic-claude-watermarks">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://drata.com/daring" />
 	<link rel="shorturl" href="http://df4.us/xgj" />
@@ -1883,42 +1947,6 @@ millions of dollars in devices they never got paid for.</p>
 
     ]]></content>
   <title>★ Why Apple Requires a Cellular Account Through a Big Three Carrier to Lease an iPhone</title></entry><entry>
-	<title>Ulysses S. Grant on the Future Dividing Line</title>
-	<link rel="alternate" type="text/html" href="https://www.snopes.com/fact-check/grant-next-civil-war/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xfa" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/03/grant" />
-	<id>tag:daringfireball.net,2026:/linked//6.43318</id>
-	<published>2026-08-03T17:14:42Z</published>
-	<updated>2026-08-03T17:15:09Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Ulysses S. Grant, in 1875:</p>
-
-<blockquote>
-  <p>Where the citizen is sovereign and the official the servant, where
-no power is exercised except by the will of the people, it is
-important that the sovereign — the people — should possess
-intelligence.</p>
-
-<p>The free school is the promoter of that intelligence which is to
-preserve us as a free nation. If we are to have another contest in
-the near future of our national existence, I predict that the
-dividing line will not be Mason and Dixon’s, but between
-patriotism and intelligence on the one side, and superstition,
-ambition, and ignorance on the other.</p>
-</blockquote>
-
-<p>Not sure if the 2020s count as “the near future”, but holy hell is that a spot-on synopsis of our current moment.</p>
-
-<div>
-<a  title="Permanent link to ‘Ulysses S. Grant on the Future Dividing Line’"  href="https://daringfireball.net/linked/2026/08/03/grant">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/07/temu_is_a_comically_bad_app" />
 	<link rel="shorturl" href="http://df4.us/xf2" />
