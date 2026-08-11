@@ -7,7 +7,57 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-11T20:38:16Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-11T21:37:07Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>The Economist: ‘How to Spot AI Writing’</title>
+	<link rel="alternate" type="text/html" href="https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=YWNmMzkyMzAtNTRjMy00MTYyLWE4MGUtYjRmNTMyYjIzY2Fm" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xgq" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/11/economist-ai-writing" />
+	<id>tag:daringfireball.net,2026:/linked//6.43370</id>
+	<published>2026-08-11T21:37:06Z</published>
+	<updated>2026-08-11T21:37:07Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>The Economist (gift link):</p>
+
+<blockquote>
+  <p>You can discover AI’s hallmarks by comparing the writing of man
+and machine. To do this you need a baseline that is distinctive
+and familiar. The Economist turned to prose that we’re sure is
+human and that readers will recognise: our own. We designed a
+study to ask top LLMs — OpenAI’s ChatGPT, Anthropic’s Claude,
+Google’s Gemini and xAI’s Grok-to write versions of our articles
+without consulting the web. (As a prompt, we gave them the
+AI-generated summaries that we have experimentally added to some
+of our articles.)</p>
+
+<p>This gave us a corpus of human and AI creations and we compared
+them across 55,940 sentences and 1.2m words. To make sure we were
+detecting AI quirks rather than our own, we also checked the AI
+texts against journalism from CNN, the New York Times and the
+Washington Post. Excerpts from hit novels published between 1950
+and 2022 offered another test.</p>
+
+<p>Our findings are surprising. AI prose is distinguishable by word
+and punctuation choice as well as sentence and paragraph
+structure. But its hallmarks are not what you might expect, partly
+because its writing style has changed with software updates. That
+does not mean that LLMs are great writers: their prose lacks
+lucidity and elegance and is often formulaic. So those aspiring to
+be impressive (human) storytellers should avoid the following
+peculiarities in their own prose.</p>
+</blockquote>
+
+<p>On point for <a href="https://daringfireball.net/linked/2026/08/11/anthropic-claude-watermarks">today</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘The Economist: ‘How to Spot AI Writing’’"  href="https://daringfireball.net/linked/2026/08/11/economist-ai-writing">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Alex Micek on BMW’s iDrive ‘Special Surprises’</title>
 	<link rel="alternate" type="text/html" href="https://tumbledry.org/2026/08/07/idrive_ads" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xgp" />
@@ -227,7 +277,7 @@ the wrong direction.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/11/anthropic-claude-watermarks" />
 	<id>tag:daringfireball.net,2026:/linked//6.43364</id>
 	<published>2026-08-11T17:59:22Z</published>
-	<updated>2026-08-11T20:06:34Z</updated>
+	<updated>2026-08-11T21:19:23Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -271,9 +321,11 @@ technical documentation.</p>
 
 <p>Anthropic is claiming this is for compliance with an EU law but that “Marking will apply to output from supported models wherever Claude is offered, worldwide.”</p>
 
-<p>This is infuriatingly opaque. I won’t speak to the “signed provenance metadata” they say they’ll be embedding in generated <em>files</em> like PDFs, SVGs, PNGs, and JPEGs. That’s important but it’s complex. Plain text is simple. A string of text is just one character followed by another. I <em>presume</em> that Claude is going to start “embedding” invisible characters/byte sequences between visible characters? What they’re claiming to do here seems impossible, frankly, and anything they attempt to embed invisibly is going to cause immediate problems.</p>
+<p>This is infuriatingly opaque. I won’t speak to the “signed provenance metadata” they say they’ll be embedding in generated <em>files</em> like PDFs, SVGs, PNGs, and JPEGs. That’s important but it’s complex. Plain text is simple. A string of text is just one character followed by another. At first I presumed that Claude is going to start “embedding” invisible characters/byte sequences between visible characters — which would unavoidably cause immediate problems.</p>
 
-<p>Let’s say I have Claude generate the phrase “Hello world”. (Two words is surely too short to bother with “AI generated” detection — I’m using a two-word phrase here for simplicity in the example.) Claude creates the string of characters “<em>Hello«invisible characters that comprise a “watermark” here</em>» world”. I paste this on the web. Humans who look at it will see “Hello world” but the invisible characters are there. Character-count-limited social media platforms will show that the string contains more than the 11 visible characters in “Hello world”. If the “watermark” is not comprised of invisible characters but rather visible ones, how in the world does this jibe with their claim that it’s “imperceptible”? (<a href="https://www.reddit.com/r/ClaudeAI/comments/1vky8at/claude_will_watermark_generated_content_thank_you/">This Reddit thread</a> claims that’s how it will work — “It’s a form of steganography where the model subtly biases its word choice to create a statistical pattern that can be detected later.” How in the world can that be squared with “it doesn’t change the meaning, quality, or readability”?) And any sort of semantic detection like this is going to cause false-positive problems.</p>
+<p>Let’s say I have Claude generate the phrase “Hello world”. (Two words is surely too short to bother with “AI generated” detection — I’m using a two-word phrase here for simplicity in the example.) Claude creates the string of characters “<em>Hello«invisible characters that comprise a “watermark” here</em>» world”. I paste this on the web. Humans who look at it will see “Hello world” but the invisible characters are there. Character-count-limited social media platforms will show that the string contains more than the 11 visible characters in “Hello world”.</p>
+
+<p>If the “watermark” is not comprised of invisible characters but rather visible ones, how in the world does this jibe with their claim that it’s “imperceptible”? <a href="https://www.reddit.com/r/ClaudeAI/comments/1vky8at/claude_will_watermark_generated_content_thank_you/">This Reddit thread</a> claims that’s how it will work — “It’s a form of steganography where the model subtly biases its word choice to create a statistical pattern that can be detected later.” How in the world can that be squared with “it doesn’t change the meaning, quality, or readability”? And any sort of semantic detection like this is going to cause false-positive problems.</p>
 
 <p>If I ask a tool to generate text or suggest text for me, I expect that tool to generate the best possible word choices it can. Not corrupt its output for the sake of watermarking. If they go through with this, this ought to be poison to the Claude brand.</p>
 
@@ -1798,51 +1850,6 @@ has, but that is not well-served by repeated threats.</p>
 
 <div>
 <a  title="Permanent link to ‘Yours Truly on TBPN Yesterday’"  href="https://daringfireball.net/linked/2026/08/04/yours-truly-on-tbpn-yesterday">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple Seeks Preliminary Injunction Against OpenAI in Trade Secrets Case</title>
-	<link rel="alternate" type="text/html" href="https://www.reuters.com/legal/litigation/apple-seeks-preliminary-injunction-against-openai-trade-secrets-case-2026-08-04/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xfi" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/04/apple-seeks-preliminary-injunction-against-openai" />
-	<id>tag:daringfireball.net,2026:/linked//6.43326</id>
-	<published>2026-08-04T16:02:35Z</published>
-	<updated>2026-08-04T16:35:52Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Reuters:</p>
-
-<blockquote>
-  <p>Apple on Monday asked a U.S. judge for a preliminary injunction
-barring two former employees ​and OpenAI from accessing,
-acquiring, using or disclosing alleged confidential information as
-it moves ahead with its trade secrets case. [...]</p>
-
-<p>The iPhone maker also filed a concurrent motion on Monday seeking
-expedited discovery, including production of documents relating to
-the defendants’ alleged access ​of Apple’s proprietary and trade
-secret information. It asked the judge to order the two ​former
-Apple employees named in the lawsuit, Chang Liu and Tang Yew Tan,
-to sit for depositions, along with OpenAI employee Yu-Ting Peng
-and an unnamed OpenAI employee who previously worked at ​Apple.</p>
-</blockquote>
-
-<p>The request for expedited discovery and the depositions, I understand. Apple wants to move fast, and they want to get depositions (especially, I’m sure, with Tan) now. The preliminary injunction request, though, I think Reuters is underplaying here.</p>
-
-<p><a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.38.0.pdf">I suggest reading Apple’s actual motion</a>, not the news coverage. From Apple’s motion:</p>
-
-<blockquote>
-  <p>OpenAI, its people, and partners should not be permitted to
-develop, release, and benefit from products using and developed
-with the benefit of Apple’s trade secrets.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘Apple Seeks Preliminary Injunction Against OpenAI in Trade Secrets Case’"  href="https://daringfireball.net/linked/2026/08/04/apple-seeks-preliminary-injunction-against-openai">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
