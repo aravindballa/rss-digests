@@ -7,7 +7,60 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-12T19:59:35Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-12T21:04:07Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Google Introduces ‘Camera Looks’ With Pixel 11 Phones</title>
+	<link rel="alternate" type="text/html" href="https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xgy" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/12/google-introduces-camera-looks" />
+	<id>tag:daringfireball.net,2026:/linked//6.43378</id>
+	<published>2026-08-12T20:58:15Z</published>
+	<updated>2026-08-12T21:04:07Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>David Imel, The Verge:</p>
+
+<blockquote>
+  <p>But in our current moment, the photos people are drawn to are not
+flawless — and that’s created a real problem for the people
+making smartphone cameras. “The gap between what two random people
+want from their camera is growing dramatically,” says Isaac
+Reynolds, who leads the Pixel camera team at Google. Some people
+want a perfectly optimized photo, Reynolds says. “But there’s a
+growing number of people who want something that they feel is more
+authentic or traditional, by their definition.”</p>
+
+<p>That’s what Reynolds and the Pixel team are setting out to solve
+with Camera Looks, a total rethink of how the camera captures and
+styles an image on the Pixel 11 series. The phones include a new
+suite of processing tools aimed at giving people much more
+control over the camera’s output. At first glance, they look a
+lot like filters, with names like Black Tie, Classic, and most
+strikingly, Digi, in reference to the growing trend of buying
+cheap digital cameras from the early aughts. But unlike a filter,
+which generally applies editing tweaks after the processing
+happens, Camera Looks is changing how image data is processed at
+the sensor level.</p>
+</blockquote>
+
+<p>This sounds a lot like Apple’s “Photographic Styles” in the iPhone 13 and later, but with the addition of some control over grain and sharpness. I love grain, and the thing I like least about Apple’s built-in photo processing is the way it attempts to eliminate all noise. I like digital cameras that embrace noise and try to make it pleasing, rather than over-processing to try to pretend these tiny sensors aren’t inherently noisy. So I say kudos to Google for loosening up on “everyone gets the over-sharpened, over-smoothed look”.</p>
+
+<p>But, that said, what’s made me happy over the last year is shooting almost all my photos with third-party apps — in particular, <a href="https://halide.cam/">Halide</a>, <a href="https://notbor.ing/product/camera">Not Boring Camera</a>, and <a href="https://analoguecapture.com/">Analogue</a> — that give me low-level control over processing through LUTs (or in Halide’s parlance, “looks”). These apps give me the looks I want just through point-and-shoot photography. No need to process images after shooting. But because they (optionally) shoot RAW, I <em>can</em> reprocess in post without losing any original sensor data. I can shoot in black-and-white and subsequently change my mind and reprocess with a color look later. These apps enable honest film-look photography without looking at all gimmicky, and without baking any sort of filtering into the image data in my camera roll. It’s the best of both worlds. It’s also way, way fussier than the built-in Camera app should be.</p>
+
+<p>Anyway, all this Pixel announcement news today has me thinking that these days, I never hear much about Pixel cameras or image processing. In the early years of the Pixel lineup, there was a common view that Pixel phones were the best camera phones in the world. I never believed that, but I did think they were an interesting alternative, taking different but equally valid philosophical choices than Apple. Apple has always insisted on instant processing. You snap the shutter and the iPhone saves your image instantly. Pixel cameras often undertook seconds-long processing. That enabled features the iPhone couldn’t offer.</p>
+
+<p>I think it’s pretty easy to pinpoint when things changed for Pixel — <a href="https://www.theverge.com/2020/7/20/21331331/google-pixel-camera-app-lead-adobe-marc-levoy?scrolla=5eb6d68b7fedc32c19ef33b4">when Marc Levoy left Google for Adobe in 2020</a> (where he now leads the team making <a href="https://research.adobe.com/articles/indigo/indigo.html">the very intriguing Indigo camera app</a>, that is exclusively available for iPhone and which offers a slew of innovative computational photography features).</p>
+
+<p>When Levoy was leading Google’s camera photography team, there was a credible argument that Pixel phones were the best <em>still</em> camera phones in the world. (They were never even close on video.) Ever since, I never hear about them except in the middle of August each year, when Google announces new Pixel hardware. See you in 12 months.</p>
+
+<div>
+<a  title="Permanent link to ‘Google Introduces ‘Camera Looks’ With Pixel 11 Phones’"  href="https://daringfireball.net/linked/2026/08/12/google-introduces-camera-looks">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>TechCrunch on Google’s Pixel 11 Lineup</title>
 	<link rel="alternate" type="text/html" href="https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xgx" />
@@ -1689,51 +1742,6 @@ intrusive videos onto its dashboard space.</p>
 
 <div>
 <a  title="Permanent link to ‘Shawn Smucker: ‘Please Use AI’’"  href="https://daringfireball.net/linked/2026/08/05/please-use-ai">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Matthew Green on Anthropic’s New Cryptanalysis Results</title>
-	<link rel="alternate" type="text/html" href="https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xfr" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/05/green-ai-cryptography" />
-	<id>tag:daringfireball.net,2026:/linked//6.43335</id>
-	<published>2026-08-05T23:08:52Z</published>
-	<updated>2026-08-05T23:08:53Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Matthew Green:</p>
-
-<blockquote>
-  <p>If you’re under the impression that these models are “glorified
-autocomplete” or that progress is slowing down, I need to urge
-you: <em>stop thinking that.</em> The models are very intelligent and
-capable, they are getting better at a fast clip. I can cite
-measurable and impressive progress over just the past five months
-on specific types of problem I’ve asked them to look at. If
-there’s a ceiling out there, I don’t yet see evidence of it. The
-people who think models are dumb are mostly using Google’s free AI
-search results, and not interacting with the high-end stuff (which
-only costs $20, so it’s not out of reach.) And they’re mostly not
-working in new areas.</p>
-
-<p><em>On the other hand:</em> if you think that models are
-super-intelligent or that AGI is already here, you should also
-stop thinking that. Working with these tools is like swimming in a
-pond where the ground drops off sharply. One minute you’re wading
-comfortably and there’s support under your feet. Then suddenly you
-cross a specific line, and you’re back to swimming on your own.
-This analogy is my best way to explain what it feels like when the
-model goes from helpful to clueless.</p>
-</blockquote>
-
-<p>Green is second-to-none in his ability to explain advanced cryptography in easily understood ways, without dumbing it down.</p>
-
-<div>
-<a  title="Permanent link to ‘Matthew Green on Anthropic’s New Cryptanalysis Results’"  href="https://daringfireball.net/linked/2026/08/05/green-ai-cryptography">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
