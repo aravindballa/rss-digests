@@ -7,20 +7,20 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-11T23:26:53Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-12T01:26:11Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>The Economist: ‘How to Spot AI Writing’</title>
 	<link rel="alternate" type="text/html" href="https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=NzBlNTc2OGItMDgxNS00N2EzLWE4NmUtZDgzZmE4Y2FkM2Mw" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xgq" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/11/economist-ai-writing" />
 	<id>tag:daringfireball.net,2026:/linked//6.43370</id>
 	<published>2026-08-11T21:37:06Z</published>
-	<updated>2026-08-11T23:26:53Z</updated>
+	<updated>2026-08-12T01:26:11Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>The Economist (gift link):</p>
+<p>The Economist (‘twas a gift link, but alas, I guess gift views have been used up — here’s <a href="https://archive.ph/20260811223012/https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing">an archive link</a> in case the gift links is vexing you):</p>
 
 <blockquote>
   <p>You can discover AI’s hallmarks by comparing the writing of man
@@ -51,6 +51,31 @@ peculiarities in their own prose.</p>
 </blockquote>
 
 <p>On point for <a href="https://daringfireball.net/linked/2026/08/11/anthropic-claude-watermarks">today</a>.</p>
+
+<p>Some specific findings:</p>
+
+<blockquote>
+  <p>Much of this language could be described as what George Orwell
+called “pretentious diction”. He railed against writers who “dress
+up simple statements” with complicated words and jargon to sound
+clever. Such pontificating penmen, Orwell observed, also believe
+that “Latin or Greek words are grander than Saxon ones”. (Bots
+agree: more Latinate suffixes crop up in their writing than in
+human texts.)</p>
+
+<p>Then look at punctuation. Many believe LLMs stuff their prose with
+em-dashes, but that is not true after the most recent updates.
+Today only Claude uses more em-dashes than human writers, with
+ChatGPT using markedly fewer than any other writer in our study.
+Humans rejoice — and start using dashes again.</p>
+
+<p>A better way to spot AI-generated writing would be to look for
+texts without much punctuation at all. LLMS are very Joycean about
+it: they use fewer commas and semicolons than humans (and hardly
+any parentheses). They use less punctuation in part because they
+write longer sentences — “and” is their most overused word — and
+in part because they do not quote experts.</p>
+</blockquote>
 
 <div>
 <a  title="Permanent link to ‘The Economist: ‘How to Spot AI Writing’’"  href="https://daringfireball.net/linked/2026/08/11/economist-ai-writing">&nbsp;★&nbsp;</a>
