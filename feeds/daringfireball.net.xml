@@ -7,7 +7,68 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-14T16:07:56Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-14T17:16:15Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/08/iphone_camera_lens_scratch_resistance" />
+	<link rel="shorturl" href="http://df4.us/xh3" />
+	<id>tag:daringfireball.net,2026://1.43383</id>
+	<published>2026-08-14T17:16:15Z</published>
+	<updated>2026-08-14T17:16:15Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">The exposed lens covers are made of sapphire, not glass, and are thus incredibly scratch resistant. And even if, somehow, do you pick up a scratch on a lens cover, it almost certainly won’t affect image quality at all.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>Following up on <a href="https://daringfireball.net/linked/2026/08/13/ceramic-shield-2-is-the-real-deal">my post yesterday about modern iPhones and scratch resistance</a>, and my personal habits of (a) almost never using an iPhone case, and (b) never setting the iPhone face down except on soft (cloth) surfaces.</p>
+
+<p>I should have anticipated this, because I’ve had this conversation with real-world normies repeatedly in recent years, but I got a <a href="https://mastodon.social/@irace/117085815636856963">bunch</a> of <a href="https://mastodon.social/@febuiles/117089438630870060">questions</a> from people who say they’re wary of every putting their iPhone down on its <em>back</em> because they’re worried about scratching the camera lenses. That’s not a silly thing to worry about. It looks like those lenses are glass; glass scratches; and it sure seems like a scratched camera lens might forever ruin all the photos and videos you take with the camera.</p>
+
+<p>There are a couple misconceptions here though. First, the flat round circles exposed on the back of your phone aren’t the camera lenses. Those are covers over the lenses, which are smaller, round, and recessed. You can look through the covers and see the actual spherical lenses inside. The exposed lens covers are made of sapphire, not glass, and are thus incredibly scratch resistant. They’re by far the most scratch-resistant parts of the phone. I’ve never once found even a tiny scratch on any of my iPhone camera lens covers, and I’ve never taken any particular care to avoid scratching them. I mean, I don’t drag the lenses face-down on surfaces. I’m not <em>trying</em> to scratch them. But I set my phones down on hard surfaces lenses-down all the time and they never seem to pick up even fine scratches.</p>
+
+<p>Zack “JerryRigEverything” Nelson is <a href="https://www.youtube.com/JerryRigEverything">the guy on YouTube</a> who makes videos where he scratches the hell out of products to see how durable they are. (And he bends them, burns them, and abuses them in other creative ways.) In his iPhone 17 Pro video, <a href="https://youtu.be/KrOBzFwVzwA?t=250">starting around the 4:10 mark</a>, he tries scratching the sapphire lens covers with a sharp razor blade. No effect. Sapphire is far more likely to shatter than scratch, because it’s so hard. (You may recall that a decade ago Apple pursued using sapphire for the <em>displays</em> of iPhone but <a href="https://daringfireball.net/linked/2014/10/06/gt-advanced">it didn’t work out</a>.) Don’t try scratching your lenses with a diamond hardness pick and you’ll be fine.</p>
+
+<p>Also, believe it or not, a fine scratch on the lens cover will almost certainly not affect image quality <em>at all</em>. Trying sticking a piece of hair (which is probably much thicker than a typical scratch) to the surface of your iPhone 1× main camera lens. Take a picture. Clean the hair off the lens. Retake the same picture. You almost certainly won’t see <em>any difference at all</em>. <a href="https://www.dpreview.com/videos/4128862298/dpreview-tv-how-much-do-scratches-dust-and-fingerprints-affect-lens-image-quality/">Here’s a great video from DPReview back in 2020</a> showing just how much dust or scratching you need to put on the outside of a lens to degrade image quality. It’s counterintuitive but the surface of the lens is not where light is focused — the sensor, inside the camera, is.</p>
+
+    ]]></content>
+  <title>★ You Don’t Need to Worry About Scratching Your iPhone Camera Lenses</title></entry><entry>
+	<title>Google’s ‘Material 3’ Design Write-Up Is 93.3 Percent Embarrassing</title>
+	<link rel="alternate" type="text/html" href="https://design.google/library/expressive-material-design-google-research" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xh2" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/14/google-design-93-percent" />
+	<id>tag:daringfireball.net,2026:/linked//6.43382</id>
+	<published>2026-08-14T16:33:55Z</published>
+	<updated>2026-08-14T16:33:55Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>This page from Google Design on their “Material 3” UI language came to my attention after <a href="https://daringfireball.net/linked/2026/08/12/google-design-pants-pissed">my snarky post</a> about the ungainly new to-do app <a href="https://x.com/googledesign/status/2087195277094695096">they bizarrely bragged</a> about on Twitter/X this week. I don’t think this “Material 3” page is new — I think it’s a few years old — but I’d never seen it before.</p>
+
+<p>First, it’s crazy that (in desktop browsers with a mouse cursor) they change the I-beam cursor for text selection to ... a circle. I guess it looks kind of fun but the whole point of the I-beam cursor is to enable precise character selection. They changed that to something that makes precise selection as difficult as possible. It’d be better to just an arrow pointer than a goddamn circle. This, from the UI design team.</p>
+
+<p>Second, this paragraph made me honestly wonder if I was reading a spoof, a years-old unfunny April Fool’s “prank”. But as far as I can tell this is totally straight, not a prank:</p>
+
+<blockquote>
+  <p>These factors can be quantified in users’ responses to new M3
+Expressive designs. We found a 32% increase in subculture
+perception, which indicates that expressive design makes a brand
+feel more relevant and “in-the-know.” We also saw a 34% boost in
+modernity, making a brand feel fresh and forward-thinking. On top
+of that, there was a 30% jump in rebelliousness, suggesting that
+expressive design positions a brand as bold, innovative, and
+willing to break from convention.</p>
+</blockquote>
+
+<p>Nothing says rebellious and “in-the-know” like assigning precise percentages to “rebelliousness”, “modernity”, and “subculture perception”.</p>
+
+<div>
+<a  title="Permanent link to ‘Google’s ‘Material 3’ Design Write-Up Is 93.3 Percent Embarrassing’"  href="https://daringfireball.net/linked/2026/08/14/google-design-93-percent">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Ceramic Shield 2 Is the Real Deal</title>
 	<link rel="alternate" type="text/html" href="https://www.tomsguide.com/phones/iphones/iphone-17-and-iphone-air-durability-testing-heres-how-the-new-iphones-stand-up-to-bending-scratching-and-dropping" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xh1" />
@@ -1702,58 +1763,6 @@ misappropriation claim against Defendant Tan.</p>
 
 	]]></content>
   </entry><entry>
-	<title>BMW Executive in 2023: No Plans to Sell in-Vehicle Ads</title>
-	<link rel="alternate" type="text/html" href="https://www.mediapost.com/publications/article/391876/bmw-exec-no-plans-to-sell-in-vehicle-ads.html" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xfv" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/06/bmw-no-ads" />
-	<id>tag:daringfireball.net,2026:/linked//6.43339</id>
-	<published>2026-08-06T16:46:02Z</published>
-	<updated>2026-08-06T17:01:10Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Tanya Gazdik, reporting for MediaPost back in December 2023:</p>
-
-<blockquote>
-  <p>Despite the ever-expanding screens in its vehicles, including an
-available 31-inch backseat theatre screen, BMW has no plans to
-sell advertising on any of them. Radio commercials are intrusive
-enough, says Stephan Durach, the brand’s senior vice president,
-connected company development.</p>
-
-<p>“At the end of the day, I think your car is your last private
-space,” Durach told a small group of media members last week
-during a roundtable discussion. “It’s where you can do whatever
-you want by yourself — you have the right temperature, the music
-you want. To say I’m selling the screen to play a commercial — I
-don’t see it. It’s a private space.”</p>
-</blockquote>
-
-<p><a href="https://daringfireball.net/linked/2026/08/06/bmw-spider-man-ad">So much for that</a>.</p>
-
-<blockquote>
-  <p>BMW has not been afraid to push the envelope to find new ways to
-make money. The automaker was the first to charge a fee for heated
-seats in its vehicles in some overseas markets. But earlier this
-fall, the automaker dropped the heated seats subscription option
-after customers expressed discontent for having to pay to unlock
-existing functions in their cars.</p>
-</blockquote>
-
-<p>“Discontent” is doing a lot of work there.</p>
-
-<p>I got this MediaPost link from <a href="https://www.spiegel.de/wirtschaft/unternehmen/bmw-spider-man-werbung-auf-autodisplay-nervt-fahrer-a-e5d25764-6425-4d33-a93a-f4b34e811f02">this article in Der Spiegel</a>, regarding the outrage over the Spider-Man ad BMW injected into the dashboards of its vehicles around the world last week. The Der Spiegel article is in German, but according to Safari’s translation to English, a BMW spokesperson had the temerity to claim that the Spider-Man promotion is not an advertisement, but instead “a special surprise for its customers”, and that it is “not intended to advertise the film or serve as a conventional film trailer. In this respect, it is also not classic advertising — and no advertising will continue to be displayed in the vehicle.”</p>
-
-<p>If BMW was paid by Sony for this, it’s by definition an advertisement. If I owned a BMW and this fucking thing showed up on my dashboard I’d feel compelled to take it back to the dealership and drive it right through the window into the showroom, to reciprocate with “a special surprise” for them.</p>
-
-<div>
-<a  title="Permanent link to ‘BMW Executive in 2023: No Plans to Sell in-Vehicle Ads’"  href="https://daringfireball.net/linked/2026/08/06/bmw-no-ads">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/08/openai_apple_is_getting_this_wrong" />
 	<link rel="shorturl" href="http://df4.us/xfk" />
@@ -2112,88 +2121,4 @@ box? And the answer is, nothing.</p>
 <p>Putting themselves in customers’ shoes today, how many ads do Apple’s executives want stuck in the results when they search for an app in the App Store? We know the honest answer. But the answer <a href="https://daringfireball.net/misc/2026/07/app-store-ads-search-for-signal.png">evidenced by the actual App Store</a> is “Two really big ones, including one in the first spot.”</p>
 
     ]]></content>
-  <title>★ Ads in Software Are Like Stickers on Laptops</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/07/regarding_ad_blockers_and_daring_fireball" />
-	<link rel="shorturl" href="http://df4.us/xeg" />
-	<id>tag:daringfireball.net,2026://1.43288</id>
-	<published>2026-07-24T20:57:20Z</published>
-	<updated>2026-07-31T18:46:59Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">Ultimately, when you install a content blocker extension, you take responsibility for any overzealousness in what they block.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>Following up on the previous item today, re: <a href="https://daringfireball.net/linked/2026/07/24/coiner-of-enshittification-endorses-dickover">content blockers and ad-blocking</a>, I ran into a weird situation a few weeks ago with my column “<a href="https://daringfireball.net/2026/07/ternus_apple_slippery_slope">John Ternus Should Reverse Apple’s Slide Down the Advertising Slippery Slope</a>”. That article contains this sentence, in Markdown:</p>
-
-<pre><code>And -- at this writing, still "coming soon" -- Apple is
-launching [ads on Apple Maps][🗺️].
-
-[🗺️]: https://ads.apple.com/maps
-</code></pre>
-
-<p>The problem is that anyone reading that article in NetNewsWire saw it rendered like this, with the words “ads on Apple Maps”<sup id="fnr1-2026-07-24"><a href="#fn1-2026-07-24">1</a></sup> omitted:</p>
-
-<p><a href="https://daringfireball.net/misc/2026/07/nnw-ad-blocking.png" class="noborder">
-<img
-    src = "https://daringfireball.net/misc/2026/07/nnw-ad-blocking.png"
-    alt = "Screenshot of article text from NetNewsWire."
-    width = 550
-/></a></p>
-
-<p>It looks like I forgot to finish writing that sentence. NetNewsWire simply omits the hyperlinked words. After a few readers reported this, I immediately suspected the problem was the “ads.apple.com” domain. I’ve never linked to that domain before, and many ad blockers just block any domain that starts with a domain prefix like <code>ads.*</code>.</p>
-
-<p>And that’s exactly what the problem is. I had no idea that NetNewsWire filtered any content whatsoever (and I sort of think it shouldn’t), but DF reader Antonio Germano searched through NetNewsWire’s open-source code and found it in <a href="https://github.com/Ranchero-Software/NetNewsWire/blob/main/Shared/Article%20Rendering/core.css">the <code>core.css</code> file</a>, line 49:</p>
-
-<pre><code>38  /*Block ads and junk*/
-39  
-40  iframe[src*="feedads" ],
-41  iframe[src*="doubleclick"],
-42  iframe[src*="plusone.google"] {
-43      display: none !important;
-44  }
-45  
-46  a[href*=".ads."],
-47  a[href*="feedads" ],
-48  a[href*="doubleclick"],
-49  a[href*="//ads."],
-</code></pre>
-
-<p>The culprit identified, I dutifully pinged my friend <a href="https://inessential.com/">Brent Simmons</a> to report the problem. But then I had to decide what to do about it. I have no idea which feed readers are being used to read Daring Fireball’s <a href="https://daringfireball.net/feeds/">feeds</a>, but NetNewsWire is surely one of the most popular, and probably <em>the</em> most popular. It’s the feed reader I use personally. I can’t change the contents of NetNewsWire’s <code>core.css</code> file, so I can’t keep NetNewsWire from stripping out words that link to Apple’s <code>ads.apple.com</code> domain. What I could do is not link to <code>ads.apple.com</code>, like, say by changing my link from <code>ads.apple.com/maps</code> to a shorten-and-redirect URL like <code>bit.ly/4wmXFSE</code> that <a href="https://bit.ly/4wmXFSE">points back</a> to Apple’s original URL.</p>
-
-<p>But I didn’t do that. I don’t like playing whack-a-mole to work around bugs in other software. I have enough trouble fixing my own mistakes. I also don’t like the idea of showing everyone a “Click it and find out where it actually goes” mystery URL from Bitly rather than the direct URL. It’s a general principle thing, and also a much better policy for links that are meant to last for decades.</p>
-
-<p>What I really don’t like about NetNewsWire’s ad-blocking here is that it just <em>omits</em> the linked text. It doesn’t remove the link but leave the words; it removes the words that are hyperlinked to the blocked domain. I’ve run into this with other content blocking extensions. For example, the Banish extension for Safari, <a href="https://daringfireball.net/linked/2022/08/02/banish">which I recommended back in 2022</a>. At some point a year or two ago, Banish started blocking links to Apple’s App Store domain, and it did so by removing the words that link to the App Store. That’s crazy. I linked to the App Store in my own post recommending Banish, which means if you have Banish installed and read that post, you won’t see the headline of the post (nor be able to follow the link). I think there are other content blockers that do the same thing with text that links to the App Store.<sup id="fnr2-2026-07-24"><a href="#fn2-2026-07-24">2</a></sup></p>
-
-<p>So what do I do about that? Do I stop linking to the App Store? That’s dumb. Do I create custom URL redirects for every single link I make to the App Store? That’s work I don’t need or want to do, and adds a layer of abstraction that confuses everyone who isn’t using a content blocker with such a stupid rule. So I just ignore it. But that means an untold number of readers, who are using such content blockers, are just missing words in my articles whenever I link to the App Store. Well, so be it. Ideally, content blockers “just work” — blocking only things you want blocked, never things you don’t want blocked. Nothing is perfect however. What’s pernicious about blockers that remove the actual words that link to certain domains is that that’s not expected behavior. From the reader’s perspective, it really just looks like an editing error on the part of the website, not a content blocker with an overzealous pattern-matching rule.</p>
-
-<p>Ultimately, though, when you install a content blocker extension, you take responsibility for any overzealousness in what it blocks.</p>
-
-<hr />
-
-<p>Let me use this opportunity to make a small personal request. The display ads on Daring Fireball are unobtrusive and limited to one per page. They are also entirely private, and always have been. There not only are no cookies or JavaScript that attempt to track you, but the ads themselves are served from the <code>daringfireball.net</code> domain. I turn down advertisers who request to serve images (or “tracking pixels”, which are just invisible images) from <em>their</em> domains. (Such requests are infrequent, thankfully.) I don’t display the ads in between paragraphs mid-article, a common practice that to me is disrespectful both to the writer <em>and</em> reader. In short, I try to keep the ads on Daring Fireball not merely unobjectionable, but something that actually adds to the site. I actually like the ads in certain high-quality print magazines, like The New Yorker. My goal for the ads on DF is for them to be like that.</p>
-
-<p>In short, I hope they’re the sort of ads readers don’t want to block. I’m pleased to say that most of the ad-blocking content blocking extensions I’ve personally tried do not block ads on Daring Fireball by default. In other cases, they do, but it’s easy to adjust the per-domain settings to allow them. In <a href="https://daringfireball.net/linked/2026/07/24/coiner-of-enshittification-endorses-dickover">the previous post</a>, I recommended <a href="https://apps.apple.com/us/app/ublock-origin-lite/id6745342698">uBlock Origin Lite</a> (free, a bit complex) and <a href="https://www.magiclasso.co/">Magic Lasso</a> (paid, much simpler). Magic Lasso does not block ads on DF by default. I don’t remember what uBlock Origin does by default, but it’s trivial to change it to allow them.</p>
-
-<p>If you use an ad blocker and it currently blocks the ads on DF, I humbly ask you to consider taking a moment to tweak the settings to permit them. (If you are using a blocker that strips the ads from DF by default, you can do me an additional favor and <a href="https://daringfireball.net/contact/">shoot me a short email</a> telling me which one. I’m curious.) If you are the developer of an ad blocker, I ask you to consider allowlisting Daring Fireball <em>by default</em>.</p>
-
-<p>If you are a reader and you really do want to block DF’s ads, please, go right ahead. I find that an odd mindset, but it’s your web browser and your call. No hard feelings. (Please further note that I have no JavaScript code that attempts to detect whether you’re blocking DF’s ads in order to nag you.)</p>
-
-<div class="footnotes">
-<hr />
-<ol>
-
-<li id="fn1-2026-07-24">
-<p>I omitted the Markdown creating a link on the words “still ‘coming soon’” for clarity, to emphasize only the problematic link in my original prose. (Also, it’s fun to use emoji as named link definitions, like in this example.)&nbsp;<a href="#fnr1-2026-07-24"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;︎</a></p>
-</li>
-
-<li id="fn2-2026-07-24">
-<p>I of course reported this to the developer of Banish, twice, but he never responded. I, err, banished Banish from my own devices, and upon finishing this article, I’m going to update my 2022 recommendation of Banish to un-recommend it.&nbsp;<a href="#fnr2-2026-07-24"  class="footnoteBackLink"  title="Jump back to footnote 2 in the text.">&#x21A9;&#xFE0E;</a></p>
-</li>
-
-</ol>
-</div>
-
-    ]]></content>
-  <title>★ Regarding Ad Blockers and Daring Fireball</title></entry></feed><!-- THE END -->
+  <title>★ Ads in Software Are Like Stickers on Laptops</title></entry></feed><!-- THE END -->
