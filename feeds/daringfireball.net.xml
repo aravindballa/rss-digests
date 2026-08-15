@@ -7,7 +7,27 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-14T20:07:59Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-15T21:46:41Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Drata</title>
+	<link rel="alternate" type="text/html" href="https://drata.com/daring" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xh4" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/15/drata" />
+	<id>tag:daringfireball.net,2026:/linked//6.43384</id>
+	<published>2026-08-15T21:40:15Z</published>
+	<updated>2026-08-15T21:40:16Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks to Drata for sponsoring last week at DF. Their message is short and sweet: Leverage autonomous AI agents to automate compliance, manage internal and third-party risk, and continuously prove your security posture.</p>
+
+<div>
+<a  title="Permanent link to ‘Drata’"  href="https://daringfireball.net/linked/2026/08/15/drata">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/08/iphone_camera_lens_scratch_resistance" />
 	<link rel="shorturl" href="http://df4.us/xh3" />
@@ -503,7 +523,7 @@ in macOS 27 Beta 5.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/11/economist-ai-writing" />
 	<id>tag:daringfireball.net,2026:/linked//6.43370</id>
 	<published>2026-08-11T21:37:06Z</published>
-	<updated>2026-08-12T19:17:28Z</updated>
+	<updated>2026-08-15T21:46:41Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -559,7 +579,7 @@ ChatGPT using markedly fewer than any other writer in our study.
 Humans rejoice — and start using dashes again.</p>
 
 <p>A better way to spot AI-generated writing would be to look for
-texts without much punctuation at all. LLMS are very Joycean about
+texts without much punctuation at all. LLMs are very Joycean about
 it: they use fewer commas and semicolons than humans (and hardly
 any parentheses). They use less punctuation in part because they
 write longer sentences — “and” is their most overused word — and
@@ -1729,38 +1749,6 @@ misappropriation claim against Defendant Tan.</p>
 
 <div>
 <a  title="Permanent link to ‘Brendan Leonard: ‘Do It 14,000 Times Slower With This One Trick’’"  href="https://daringfireball.net/linked/2026/08/06/do-it-14000-times-slower">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Add a Shortcut to Control Center to Open the Current App’s Preferences in the Settings App</title>
-	<link rel="alternate" type="text/html" href="https://x.com/SnazzyLabs/status/1969247088488624253?s=20" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xfw" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/06/shortcut-control-center-current-app-settings" />
-	<id>tag:daringfireball.net,2026:/linked//6.43340</id>
-	<published>2026-08-06T17:36:22Z</published>
-	<updated>2026-08-06T20:32:12Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Regarding my <a href="https://daringfireball.net/linked/2026/08/06/stopthescript-is-a-dickover-killer">earlier complaint</a> about it being a slog to open Safari’s preferences in the Settings app on iOS, a few readers pointed me to this tweet last year from Quinn Nelson, showing how to build (or <a href="https://www.icloud.com/shortcuts/5d69e334840d4493a32db5ab330c712b">download from iCloud</a>) a simple Shortcuts shortcut that you can add to Control Center to open the current app’s preferences in Settings. Works great.</p>
-
-<p><strong>Update:</strong> <a href="https://mastodon.social/@stephenrobles/117049907923574037">Stephen Robles</a>:</p>
-
-<blockquote>
-  <p>I made a few riffs off that one as well:</p>
-
-<ul>
-<li><a href="https://shortcut.bot/46qt0sY">Jump to current app notification settings</a></li>
-<li><a href="https://shortcut.bot/4rH7AAp">Current app storage</a></li>
-<li><a href="https://shortcut.bot/4u1MJbA">Open current app in App Store</a></li>
-</ul>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘Add a Shortcut to Control Center to Open the Current App’s Preferences in the Settings App’"  href="https://daringfireball.net/linked/2026/08/06/shortcut-control-center-current-app-settings">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
