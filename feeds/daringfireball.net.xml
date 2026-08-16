@@ -7,14 +7,14 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-16T15:00:12Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-16T15:51:39Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>XCancel — An Unofficial Twitter/X Mirror</title>
 	<link rel="alternate" type="text/html" href="https://xcancel.com/about" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xh5" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/16/xcancel" />
 	<id>tag:daringfireball.net,2026:/linked//6.43385</id>
 	<published>2026-08-16T14:33:16Z</published>
-	<updated>2026-08-16T15:00:12Z</updated>
+	<updated>2026-08-16T15:51:39Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -42,7 +42,7 @@ faster (eg. timelines load 2-4× faster).</p>
 
 <p>Also, it’s tiresome and repetitive to include an extra link to XCancel every time I link to a tweet on Twitter/X. If you would prefer to view <code>x.com</code> links on <code>xcancel.com</code>, you should automate the redirection. If you use Safari, <a href="https://apps.apple.com/us/app/xcancel-redirect/id6785266128">XCancel Redirect</a> is a free extension that claims to do just what you think it does. (I haven’t tried it.) Or you can use a general-purpose redirect extension. <a href="https://redirectweb.net/">RedirectWeb</a> is a good one that I can recommend. Also, Jeff Johnson’s excellent <a href="https://underpassapp.com/StopTheMadness/">StopTheMadness</a> — an extension I rely on for multiple purposes and <a href="https://daringfireball.net/linked/2024/05/15/stopthemadness-pro">frequently</a> <a href="https://daringfireball.net/linked/2026/03/19/stopthemadness-and-stopthescript">recommend</a>. With StopTheMadness, you can redirect all x.com URLs to xcancel.com with the following rules (you need the leading and trailing slashes in the pattern to tell STM that it’s a regex pattern, not a plain text string):</p>
 
-<p>Pattern: <code>/https?://(www.)?x[.]com/</code> <br />
+<p>Pattern: <code>/https?://(www[.])?x[.]com/</code> <br />
 Replacement: <code>https://xcancel.com</code> <br />
 Enabled on platforms: <code>All</code></p>
 
