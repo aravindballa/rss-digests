@@ -7,7 +7,52 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-16T16:34:13Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-16T17:07:38Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>‘Anthropic’s Weak Watermarks Appease a Weak Law’</title>
+	<link rel="alternate" type="text/html" href="https://blog.j11y.io/2026-08-12_Anthropics-weak-watermarks-appease-a-weak-law/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xh7" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/16/padolsey-anthropic-eu-weak-law" />
+	<id>tag:daringfireball.net,2026:/linked//6.43387</id>
+	<published>2026-08-16T17:07:37Z</published>
+	<updated>2026-08-16T17:07:38Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>James Padolsey, on the Claude-text-watermarking-to-comply-with-an-EU-regulation imbroglio:</p>
+
+<blockquote>
+  <p>The same thought that led to this law could have applied to
+calculators at the time of their inception, had their outputs
+revealed themselves through artefacts. Thankfully, a sum borne of
+the brain is treated no differently from one produced by a
+calculator. Likewise with spellcheckers. To make assistance
+suspect only once the tool becomes capable enough to compose a
+whole sentence is not a principled boundary. It is a moral premium
+placed on difficulty itself.</p>
+
+<p>Anthropic has nevertheless chosen a blanket, model-level
+implementation that appears broader than the law’s minimum
+requirement. That may be convenient compliance engineering, but it
+discards distinctions the law expressly attempted to preserve. The
+result is a signal broad enough to implicate harmless and
+assistive use, yet fragile enough to be removed by a motivated
+person through substantial recomposition. It risks concentrating
+suspicion on ordinary and assistive users while remaining weakest
+against deliberate deception.</p>
+</blockquote>
+
+<p>Padolsey is the creator of <a href="https://declaude.org/">Declaude</a>, a delightfully simple web app that allows you to “Paste in AI-flavored text and get the same content back as plain prose”. Declaude’s original purpose is cleaning the cutesy Claude personality stink from text (whether it was created by Claude or any other LLM), but, if Anthropic persists in its stated plan to begin adulterating all text Claude generates, Declaude will also serve as a copy-paste single-extra-step way to eliminates those marks. Declaude is interesting and useful already, but goes to show how ill-considered <a href="https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content">this EU regulation</a> is.</p>
+
+<p>Padolsey <em>also</em> wrote and programmed <a href="https://declaude.org/watermarking/">a splendid interactive essay</a> that explains and illustrated how the “watermarking” scheme Anthropic is adopting (and Google Gemini has already adopted) works.</p>
+
+<div>
+<a  title="Permanent link to ‘‘Anthropic’s Weak Watermarks Appease a Weak Law’’"  href="https://daringfireball.net/linked/2026/08/16/padolsey-anthropic-eu-weak-law">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Trump Administration ‘Not in Favor’ of Apple Using Chinese RAM</title>
 	<link rel="alternate" type="text/html" href="https://www.wsj.com/tech/apple-china-memory-chip-plan-57773a83?st=vfe1SA" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xh6" />
@@ -1751,54 +1796,6 @@ trillion in damages.</p>
 
 <div>
 <a  title="Permanent link to ‘Meta Ordered to Pay $942 Million in New Mexico Child-Safety Lawsuit’"  href="https://daringfireball.net/linked/2026/08/07/meta-ordered-to-pay-942-million-in-new-mexico-child-safety-lawsuit">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Gurman on OpenAI’s Device: ‘A Doughnut-Shaped Speaker That Costs Over $300’</title>
-	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjA0NjY3NSwiZXhwIjoxNzg2NjUxNDc1LCJhcnRpY2xlSWQiOiJUSjlNQ01UOU5KTFUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.pj0oCNz7Ez90rn67tMWib-ed2PxcUAhAG2-hlVQ_DRg&amp;leadSource=article-gifting" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xfz" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/06/gurman-openai-device" />
-	<id>tag:daringfireball.net,2026:/linked//6.43343</id>
-	<published>2026-08-06T23:47:32Z</published>
-	<updated>2026-08-06T23:48:27Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Mark Gurman, reporting for Bloomberg (gift link):</p>
-
-<blockquote>
-  <p>OpenAI expects users to rely on the smart speaker throughout the
-day. It will work similarly to the company’s ChatGPT voice mode on
-smartphone apps, but with more advanced models for humanlike
-interactivity. The device is designed to learn more about a user
-over time, letting it tailor conversations and act more like a
-real person.</p>
-
-<p>The circle-shaped device will include parts that move on their
-own, according to the people. That will help show when it’s
-responding and interacting with the user. The goal is to make the
-object feel more alive than today’s stationary speaker products.
-The product will have speaker grills and microphones for fielding
-commands and conversing with users. The battery-powered item will
-be designed to work in different positions — in a user’s hand,
-say, or placed on a nightstand or kitchen counter.</p>
-
-<p>OpenAI is also planning to include lights on the device to
-demonstrate when it’s listening and make interactions feel more
-personal. A camera system and other sensors, meanwhile, will
-perceive the surrounding environment and feed visual information
-into the AI.</p>
-</blockquote>
-
-<p>This doesn’t sound like a “smart speaker” with lights, moving parts, cameras, and other sensors. It sounds like a robot companion, and a robot companion obviously needs a speaker, amongst its other essential features. It’s like calling R2-D2 “a smart speaker” — it wouldn’t be wrong but it’s missing the point. (You could technically call the iPhone “a smart speaker”.) What the io device seems to be missing is autonomous movement. So you need to carry it around like a mogwai, rather than it following you around or going places on its own. I couldn’t give two shits about an OpenAI “smart speaker” if the point is just to play music and podcasts, but a handheld cross between R2-D2 and C-3PO, <em>that</em> could be fucking cool.</p>
-
-<p>It’s a pet, it sounds like. A revolutionary pet, if they pull it off. And people love their pets.</p>
-
-<div>
-<a  title="Permanent link to ‘Gurman on OpenAI’s Device: ‘A Doughnut-Shaped Speaker That Costs Over $300’’"  href="https://daringfireball.net/linked/2026/08/06/gurman-openai-device">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
