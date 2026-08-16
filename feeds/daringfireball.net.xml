@@ -7,7 +7,55 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-16T03:02:24Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-16T14:34:37Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>XCancel — An Unofficial Twitter/X Mirror</title>
+	<link rel="alternate" type="text/html" href="https://xcancel.com/about" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xh5" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/16/xcancel" />
+	<id>tag:daringfireball.net,2026:/linked//6.43385</id>
+	<published>2026-08-16T14:33:16Z</published>
+	<updated>2026-08-16T14:34:37Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>XCancel:</p>
+
+<blockquote>
+  <p>XCancel is an instance of Nitter.</p>
+
+<p>Nitter is a free and open source alternative Twitter front-end
+focused on privacy and performance. The source is available on
+GitHub at <a href="https://github.com/zedeus/nitter">https://github.com/zedeus/nitter</a> [...]</p>
+
+<p>Using an instance of Nitter (hosted on a VPS for example), you can
+browse Twitter without JavaScript while retaining your privacy. In
+addition to respecting your privacy, Nitter is on average around
+15 times lighter than Twitter, and in most cases serves pages
+faster (eg. timelines load 2-4× faster).</p>
+</blockquote>
+
+<p>I personally <a href="https://daringfireball.net/linked/2026/06/05/musk-x-freak-show">don’t care for</a> Elon Musk’s X-rebranded Twitter. I also realize that some of you outright despise it, and, worse, that under Musk, they make it difficult to view content if you’re not signed into an account or if you have JavaScript disabled. So, sometimes, when I link to posts or threads on Twitter/X, I include a link to the same content at XCancel.</p>
+
+<p>XCancel isn’t perfect, alas. Just this week <a href="https://daringfireball.net/linked/2026/08/12/google-design-pants-pissed">I linked to</a> a tweet <a href="https://x.com/googledesign/status/2087195277094695096">from Google Design</a> that contained an animation of an Android app that they were inexplicably proud to show off. The <a href="https://xcancel.com/googledesign/status/2087195277094695096">XCancel cache of that tweet</a> only showed it as animated to some people. Others just saw a static image. I don’t know why. That’s XCancel’s problem, not mine.</p>
+
+<p>Also, it’s tiresome and repetitive to include an extra link to XCancel every time I link to a tweet on Twitter/X. If you would prefer to view <code>x.com</code> links on <code>xcancel.com</code>, you should automate the redirection. If you use Safari, <a href="https://apps.apple.com/us/app/xcancel-redirect/id6785266128">XCancel Redirect</a> is a free extension that claims to do just what you think it does. (I haven’t tried it.) Or you can use a general-purpose redirect extension. <a href="https://redirectweb.net/">RedirectWeb</a> is a good one that I can recommend. Also, Jeff Johnson’s excellent <a href="https://underpassapp.com/StopTheMadness/">StopTheMadness</a> — an extension I rely on for multiple purposes and <a href="https://daringfireball.net/linked/2024/05/15/stopthemadness-pro">frequently</a> <a href="https://daringfireball.net/linked/2026/03/19/stopthemadness-and-stopthescript">recommend</a>. With StopTheMadness, you can redirect all x.com URLs to xcancel.com with the following rules (you need the leading and trailing slashes in the pattern to tell STM that it’s a regex pattern, not a plain text string):</p>
+
+<p>Pattern: <code>/https?://(www.)?x[.]com/</code> <br />
+Replacement: <code>https://xcancel.com</code> <br />
+Enabled on platforms: <code>All</code></p>
+
+<p>I understand not wanting to visit Twitter/X. But if you feel that way that’s your problem, not mine. And if you’re wondering why I don’t just refuse to link to anything on Twitter/X, that just isn’t practical. I wish it weren’t so, but many people, including senior <a href="https://x.com/tim_cook">Apple</a> <a href="https://x.com/gregjoz">executives</a>, and many organizations post interesting content exclusively to Twitter/X. If something posted to Twitter/X is also available elsewhere, I link to the elsewhere version. But if it’s exclusively available on Twitter/X and interesting, I link to the original.</p>
+
+<p>My linking to original content on Twitter/X does not perpetuate Twitter/X’s <a href="https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/">relative popularity</a>. Original content appearing exclusively on Twitter/X does.</p>
+
+<div>
+<a  title="Permanent link to ‘XCancel — An Unofficial Twitter/X Mirror’"  href="https://daringfireball.net/linked/2026/08/16/xcancel">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Drata</title>
 	<link rel="alternate" type="text/html" href="https://drata.com/daring" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xh4" />
@@ -1729,26 +1777,6 @@ misappropriation claim against Defendant Tan.</p>
 
 <div>
 <a  title="Permanent link to ‘OpenAI Files 28-Page Motion to Dismiss Apple’s Lawsuit (PDF Link)’"  href="https://daringfireball.net/linked/2026/08/06/openai-files-motion-to-dismiss">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Brendan Leonard: ‘Do It 14,000 Times Slower With This One Trick’</title>
-	<link rel="alternate" type="text/html" href="https://semi-rad.com/2026/08/do-it-14000-times-slower-with-this-one-trick/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xfx" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/06/do-it-14000-times-slower" />
-	<id>tag:daringfireball.net,2026:/linked//6.43341</id>
-	<published>2026-08-06T20:23:52Z</published>
-	<updated>2026-08-06T20:23:53Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>This comic from Brendan Leonard is a fine companion to yesterday’s items (<a href="https://daringfireball.net/linked/2026/08/05/altman-notopoulos-parenting">here</a> and <a href="https://daringfireball.net/linked/2026/08/05/please-use-ai">here</a>) on pausing to consider if our use of AI is helping us focus our time on what we love to do, or, instead, robbing us of the things that make us human. The bit about making a sandwich hit close enough to home for me to make me laugh aloud.</p>
-
-<div>
-<a  title="Permanent link to ‘Brendan Leonard: ‘Do It 14,000 Times Slower With This One Trick’’"  href="https://daringfireball.net/linked/2026/08/06/do-it-14000-times-slower">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
