@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-16T20:41:28Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-17T03:19:09Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>The Information Profiles Cami Clark — Dario Amodei’s Wife, Ivanka Trump’s Friend, One-Time Would-Be Pornographer, and Anthropic’s ‘First Lady’</title>
 	<link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/anthropics-first-lady-took-winding-road-top?rc=jfy0lk" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xh8" />
@@ -66,7 +66,7 @@ under the radar.</p>
 	<link rel="shorturl" href="http://df4.us/xh9" />
 	<id>tag:daringfireball.net,2026://1.43389</id>
 	<published>2026-08-16T19:26:33Z</published>
-	<updated>2026-08-16T20:41:28Z</updated>
+	<updated>2026-08-17T03:19:09Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -92,7 +92,7 @@ of Claude’s response.</p>
 
 <h2>How It’s <em>Actually</em> Going to Work</h2>
 
-<p>Yesterday, on an entirely different website than <a href="https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content">the original</a> “How Claude marks AI-generated content” article (the one that didn’t explain anything at all about it works), Anthropic published “<a href="https://www.anthropic.com/news/claude-text-watermark">How Claude’s Text Watermark Works</a>”, which does actually explain in layman-accessible terms how it’s going to work. I will return to Anthropic’s new highly euphemistic and slightly misleading description below.</p>
+<p>Yesterday, on an entirely different website than <a href="https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content">the original</a> “How Claude marks AI-generated content” article (the one that didn’t explain anything at all about how it works), Anthropic published “<a href="https://www.anthropic.com/news/claude-text-watermark">How Claude’s Text Watermark Works</a>”, which does actually explain in layman-accessible terms how it’s going to work. I will return to Anthropic’s new highly euphemistic and slightly misleading description below.</p>
 
 <p>There’s a bunch of research on this topic, some of which I have also linked to below. But the very best description of the general idea behind the technique is an interactive essay by James Padolsey, “<a href="https://declaude.org/watermarking/">How AI Text Watermarking Works”</a>. It’s a wonderfully cogent read, and the interactive elements splendidly illustrate the main concepts. A+ work. If you have any interest in this at all, I dare say you must read — and play with — Padolsey’s piece.</p>
 
@@ -106,7 +106,7 @@ of Claude’s response.</p>
 
 <h2>Objections to the Technical Premise</h2>
 
-<p>One of my fundamental problem with this is that no two synonyms carry the <em>exact</em> same meaning. “<em>He leaped at the chance</em>” and “<em>He jumped at the opportunity</em>” are very similar sentences expressing the same general sentiment, but they are <em>not</em> the same. The exact words we choose when writing matter. I want any LLM I use to choose the very best, most precise words at every single decision point. An obvious constraint that I accept is time and computation. Within the constraint of executing inference quickly, and at a certain cost per token, I want the best words. This constraint matches human writing. I could surely write a better column by taking longer to write it. I write with a sense of how much care I should put into every word and punctuation choice I make. I take more time with certain paragraphs, sentences, or even individual word choices when my gut feeling says I should.</p>
+<p>One of my fundamental problems with this is that no two synonyms carry the <em>exact</em> same meaning. “<em>He leaped at the chance</em>” and “<em>He jumped at the opportunity</em>” are very similar sentences expressing the same general sentiment, but they are <em>not</em> the same. The exact words we choose when writing matter. I want any LLM I use to choose the very best, most precise words at every single decision point. An obvious constraint that I accept is time and computation. Within the constraint of executing inference quickly, and at a certain cost per token, I want the best words. This constraint matches human writing. I could surely write a better column by taking longer to write it. I write with a sense of how much care I should put into every word and punctuation choice I make. I take more time with certain paragraphs, sentences, or even individual word choices when my gut feeling says I should.</p>
 
 <p>In other words, these are <em>necessary</em> trade-offs. These factors are all in <em>my</em> interest: speed, cost, quality. Ideally I would like perfect writing, at instantaneous generation speed, at zero cost. None of those things are possible. Computation is not free of charge (and cloud-based LLM inference with leading models is actually expensive). Inference is not instantaneous. And great writing, whether natural or artificial, can only <em>approach</em> perfection.</p>
 
@@ -191,9 +191,9 @@ the human eye, and doesn’t affect the quality of the output.</p>
 
 <p>But Google’s absurd description puts the lie to their own claim that it isn’t noticeable, and it serves to show just how little regard the people behind these generated-text fingerprinting schemes have for the actual craft of writing. Of course <em>bananas</em> has a higher probability score than <em>airplanes</em>, because airplanes aren’t fruit. But what about <em>pineapple</em>? Should the sentence complete to “mango and bananas” or “mango and pineapple”? That’s a good question, and the only acceptable answer for why an LLM should choose <em>bananas</em> instead of <em>pineapple</em> (or <em>coconut</em>, or <em>guava</em>, or <em>papaya</em>...) is that it has determined that it’s the best fit for the intended meaning, tone, and sentiment of the text. Not because <em>bananas</em> is on the watermarking “green” list and <em>pineapple</em> is on the “red” list, even though <em>pineapple</em> might be the better fit. Google’s own supposedly jocular description of how SynthID works in fact captures how the scheme perverts the text it generates.</p>
 
-<p>They’re saying you won’t notice because if it only chooses <em>bananas</em> over <em>pineapple</em> for these fingerprinting purposes, well, they’re both tropical fruits and who cares. But it’s utter nonsense that the difference is “not noticeable to the human eye”. The semantic difference between <em>banana</em> and <em>pineapple</em> is just as noticeable to the human eye as the as the taste of the two are to the human tongue.</p>
+<p>They’re saying you won’t notice because if it only chooses <em>bananas</em> over <em>pineapple</em> for these fingerprinting purposes, well, they’re both tropical fruits and who cares. But it’s utter nonsense that the difference is “not noticeable to the human eye”. The semantic difference between <em>banana</em> and <em>pineapple</em> is just as noticeable to the human eye as the taste of the two are to the human tongue.</p>
 
-<p>If it did produce “My favorite tropical fruits are mango and airplanes”, it’d be incredibly stupid, but it wouldn’t be <em>offensive</em> because we’d all recognize that something completely off-key happened. What’s offensive is that with a system like SynthId in place, where the fingerprinting decisions are motivated by a secret key, we have no idea whether it completed to “mangos and bananas” because <em>bananas</em> was determined to be the best next token, or because <em>bananas</em> is in the “green” bucket of words. It calls every single word choice into question.</p>
+<p>If it did produce “My favorite tropical fruits are mango and airplanes”, it’d be incredibly stupid, but it wouldn’t be <em>offensive</em> because we’d all recognize that something completely off-key happened. What’s offensive is that with a system like SynthId in place, where the fingerprinting decisions are motivated by a secret key, we have no idea whether it completed to “mango and bananas” because <em>bananas</em> was determined to be the best next token, or because <em>bananas</em> is in the “green” bucket of words. It calls every single word choice into question.</p>
 
 <p><a href="https://www.nature.com/articles/s41586-024-08025-4">Here’s a paper published in Nature</a> where Google’s team behind SynthID published their work, after putting it into production with Gemini (née Bard):</p>
 
@@ -221,14 +221,14 @@ large-scale production system.</p>
 <p>To this I say:</p>
 
 <ul>
-<li><p>Gemini/Bard’s thumbs-up/thumbs-down buttons are not a good experiment for evaluating the effect on quality. If a chatbot tells me “My favorite tropical fruits are mango and bananas” instead of “mango and pineapple”, I’m not going to give the response a thumbs down because of the fruit it chose. I’d give it a thumbs down if said “airplanes”, yes, but that’s a strawman. (The paper in Nature even uses the “My favorite tropical fruits are mango and ...” example as an illustration, but in the paper, the only four next tokens considered are, in order of probability distribution, mango, lychee, papaya, and durian. No airplanes. And, conveniently, in the paper’s example, the “winner” of the watermarking “tournament” just happens to be mango, the one that would have been selected as the best if the watermarking weren’t in place.)</p></li>
+<li><p>Gemini/Bard’s thumbs-up/thumbs-down buttons are not a good experiment for evaluating the effect on quality. If a chatbot tells me “My favorite tropical fruits are mango and bananas” instead of “mango and pineapple”, I’m not going to give the response a thumbs down because of the fruit it chose. I’d give it a thumbs down if it said “airplanes”, yes, but that’s a strawman. (The paper in Nature even uses “My favourite tropical fruit is ...” as an illustration, but in the paper, the only four next tokens considered are, in order of probability distribution, mango, lychee, papaya, and durian. No airplanes. And, conveniently, in the paper’s example, the “winner” of the watermarking “tournament” just happens to be mango, the one that would have been selected as the best if the watermarking weren’t in place.)</p></li>
 <li><p>A “difference in response quality and utility, as judged by humans” that is “negligible” does not mean <em>imperceptible</em>. What they really mean is that it’s only slightly worse and that everyone is either too stupid to notice or too indifferent to care.</p></li>
 <li><p>It’s widely considered that Gemini is behind ChatGPT and Claude in quality. Perhaps the fact that they’ve put SynthID-text into production is one of many reasons why. I personally agree that Gemini’s prose is inferior. Maybe the use of SynthID has nothing to do with the fact that I, along with the general public consensus, consider Gemini to be a second-rate chatbot — but in that case, maybe it’s the fact that Gemini is a second-rate chatbot that makes the difference “negligible” when Google started mixing in SynthID-motivated tokens in its results. It’s a lot more likely that your restaurant customers won’t notice that you replaced your regular coffee <a href="https://www.youtube.com/watch?v=3CoLiyUZXW4">with Folgers Crystals</a> if your regular coffee is second-rate to start with.</p></li>
 </ul>
 
 <h2>Anthropic</h2>
 
-<p>Now, finally, back to Anthropic’s new “<a href="https://www.anthropic.com/news/claude-text-watermark">How Claude’s Text Watermark Works</a>” published yesterday. I have some comments.</p>
+<p>Now, finally, back to Anthropic’s new “<a href="https://www.anthropic.com/news/claude-text-watermark">How Claude’s Text Watermark Works</a>”, published yesterday. I have some comments.</p>
 
 <blockquote>
   <p>To summarize:</p>
