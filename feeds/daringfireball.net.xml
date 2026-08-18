@@ -7,7 +7,31 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-18T19:32:44Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-18T22:23:45Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Apple Gives Legal Middle Finger to DOJ Challenge on Apple’s July Discovery Win</title>
+	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/08/17/apple-dojs-latest-challenge-in-antitrust-case-fails-at-every-level/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xhi" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/18/apple-middle-finger-doj" />
+	<id>tag:daringfireball.net,2026:/linked//6.43398</id>
+	<published>2026-08-18T22:23:45Z</published>
+	<updated>2026-08-18T22:23:45Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Marcus Mendes at 9to5Mac has <a href="https://9to5mac.com/2026/08/17/apple-dojs-latest-challenge-in-antitrust-case-fails-at-every-level/">a fun update</a> on <em>U.S. v. Apple</em>, the ill-considered antitrust case started by the Biden administration. A bunch of what the DOJ argues are anticompetitive features in Apple’s platforms, Apple argues are in fact privacy and security related.</p>
+
+<p>Back in July <a href="https://9to5mac.com/2026/07/15/apple-wins-discovery-fight-over-federal-agency-documents-in-doj-antitrust-case/">Apple won a big discovery ruling</a> — Apple asked for documents from 14 federal agencies — including the CIA, FBI, Department of Defense, NSA, and State Department — to see the reasons why those agencies purchase iPhones, iPads, and Macintosh computers. And in July, Apple won. They get to see what these federal agencies say about those features.</p>
+
+<p>The DOJ filed a longshot “<em>Hey, no fair</em>” complaint trying to overrule that discovery ruling. Now Apple has <a href="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/gov.uscourts.njd_.544402.493.0.pdf">filed a retort</a> saying the July order should stand, and the DOJ should get ready to argue in court that it’s unlawful for Apple to implement the sort of features that are the very reason why security-minded federal agencies purchase Apple devices.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Gives Legal Middle Finger to DOJ Challenge on Apple’s July Discovery Win’"  href="https://daringfireball.net/linked/2026/08/18/apple-middle-finger-doj">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Organized Thieves Are Targeting AI Server Chips With Violent Highway Hijackings</title>
 	<link rel="alternate" type="text/html" href="https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xhh" />
@@ -2289,67 +2313,6 @@ is that right?”</p>
 
 <div>
 <a  title="Permanent link to ‘Maybe ‘Steal Underpants by Blowing a Fortune on AI Tokens’ Is, in Fact, Not a Good Business Plan’"  href="https://daringfireball.net/linked/2026/08/08/accenture-stealing-underpants-ai-markdown">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Simon Willison on Blogging</title>
-	<link rel="alternate" type="text/html" href="https://writethatblog.substack.com/p/simon-willison-on-technical-blogging" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xg9" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/07/simon-willison-on-blogging" />
-	<id>tag:daringfireball.net,2026:/linked//6.43353</id>
-	<published>2026-08-07T20:36:58Z</published>
-	<updated>2026-08-07T20:36:59Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Simon Willison, with Cynthia Dunlop for her tech blogger interview series (from back in January, but he just got around <a href="https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/">to linking to it</a> so I just got around to seeing it):</p>
-
-<blockquote>
-  <p><em>Any lessons learned that you want to share with the community?</em></p>
-
-<p>My number one tip for blogging is to lower your standards! Aim to
-hit publish while you are still actively unhappy with what you
-have written, because the only alternative is a huge folder full
-of drafts and never publishing anything at all.</p>
-
-<p>Nobody will ever know how perfect the thing you <em>intended</em> to write
-would have been. The flaws you see in your writing are invisible
-to everyone else.</p>
-</blockquote>
-
-<p>This is excellent advice. Me, I try to get into the mindset of playing live music, not recording a studio album. Except when I’m writing a piece where I really want it to be an album. Those aren’t <em>rare</em>, per se, but they’re <em>occasional</em>. If I tried to make every post a hall-of-famer I’d never get anything out.</p>
-
-<p>I’m aiming for professionalism. I’m performing live in front of an audience — not just jamming in my garage or bedroom, fucking around. So I’m careful and concentrate. I want to hit every note, in time. But at my best I’m moving from song to song.</p>
-
-<p>But that leads to Dunlop’s next question for Willison:</p>
-
-<blockquote>
-  <p><em>Your advice for people just getting started with blogging?</em></p>
-
-<p>Just start. It’s so easy to get caught in the trap of obsessing
-over the design of your blog, and planning for content that you
-never actually get around to writing. As long as each entry has a
-date on it and a permanent URL, it counts as a blog. I think
-adding an Atom or RSS feed is important too, but you can get
-started without one — don’t treat that as a blocker.</p>
-
-<p>Don’t worry if nobody reads it. People are unlikely to stumble on
-your blog organically, but what matters is not the quantity but
-the quality of your readers. If the only person who reads your
-blog is a hiring manager that you send a link to, and that gets
-you an interview, your blog has already paid itself off many
-times over.</p>
-</blockquote>
-
-<p>That’s the hard part about getting started, or at least it was for me. When you already have an audience it’s easier to take it seriously, to concentrate, to focus, to <em>strive</em> for perfection even though you will fall short. If you’re playing music in an empty room it’s harder to do that, to play the same way you would with an audience of dozens, hundreds, or thousands of people in front of you.</p>
-
-<p>But just imagine they’re there. They will be if you keep it up. That’s one of my bits of advice to new bloggers: I firmly believe all blogs eventually get the audience they deserve, <em>if</em> they keep going. Write for the audience you want, not the audience you have.</p>
-
-<div>
-<a  title="Permanent link to ‘Simon Willison on Blogging’"  href="https://daringfireball.net/linked/2026/08/07/simon-willison-on-blogging">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
