@@ -7,13 +7,13 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-18T00:55:13Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-18T03:04:56Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking" />
 	<link rel="shorturl" href="http://df4.us/xhc" />
 	<id>tag:daringfireball.net,2026://1.43392</id>
 	<published>2026-08-18T00:55:13Z</published>
-	<updated>2026-08-18T00:55:13Z</updated>
+	<updated>2026-08-18T03:04:56Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -30,7 +30,7 @@
 
 <p>The temperature-based randomness — which is what makes LLM output non-deterministic — is in place to help make the output <em>better</em>. The prose is clearly better with a temperature of 1 (with weighted randomness) than at temperature 0 (with no randomness). The watermarking schemes, on the other hand, are applying predictable-with-the-secret-key randomness for an entirely different purpose than improving the quality of the output, and thus, I believe, inherently make the output at least slightly worse.</p>
 
-<p>Advocates of LLM watermarking schemes for text argue that the schemes don’t necessarily lower the quality of the generated prose, because they don’t change the temperatures — they only change the source of the randomness. <a href="https://bitsplitting.org/2026/08/17/ai-cant-adulterate-its-own-writing/">Daniel Jalkut wrote a good piece today about this</a>. I hope that’s true. I believe it’s possible that it is true. I think it’s highly unlikely that it is true. If it <em>were</em> true I think they’d show examples proving that it’s true. Also, <a href="https://www.anthropic.com/news/claude-text-watermark">Anthropic itself admits that it can’t properly watermark text that is programming language code</a>:</p>
+<p>Advocates of LLM watermarking schemes for text argue that the schemes don’t necessarily lower the quality of the generated prose, because they don’t change the temperatures — they only change the source of the randomness. <a href="https://bitsplitting.org/2026/08/17/ai-cant-adulterate-its-own-writing/">Daniel Jalkut wrote a good piece today about this</a>. I hope that’s true. I believe it’s possible that it is true. I think it’s highly unlikely that it is true. I do not see how a detectable signal can be added  encoded in the choice of words <a href="https://social.coop/@gregtitus/117111452635879834">without affecting the meaning of the prose</a>. If it <em>were</em> true I think they’d show examples proving that it’s true. Also, <a href="https://www.anthropic.com/news/claude-text-watermark">Anthropic itself admits that it can’t properly watermark text that is programming language code</a>:</p>
 
 <blockquote>
   <p>For the same reason, code — which in very many cases has to be
