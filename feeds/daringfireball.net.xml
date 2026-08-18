@@ -7,7 +7,35 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-18T03:37:15Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-18T12:47:53Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Nature Is Healing: MacOS 27 Golden Gate Beta 6 Adds Redesigned Traffic Light Window Controls</title>
+	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/08/17/macos-27-golden-gate-beta-6-features-redesigned-traffic-light-window-controls/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xhe" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/18/golden-gate-27-window-controls" />
+	<id>tag:daringfireball.net,2026:/linked//6.43394</id>
+	<published>2026-08-18T12:32:38Z</published>
+	<updated>2026-08-18T12:47:53Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Zac Hall, 9to5Mac:</p>
+
+<blockquote>
+  <p>macOS 27 Golden Gate beta 6 introduces redesigned traffic light window controls. The new look resembles older Mac OS X systems with more detail in each button.</p>
+</blockquote>
+
+<p>These changes can’t improve fast enough for me — I am impatient. The MacOS user interface had been in a slow, steady, sad, no-fun decline for years, and then, a year ago, the bottom fell out with the disaster of 26 Tahoe.</p>
+
+<p>But <em>all</em> the changes in 27 Golden Gate are in the right direction. Golden Gate is not a mixed bag. Designers with taste and talent are back at the helm. And I love that they’re still pushing UI changes in mid-August, in the home stretch of the .0 beta cycle.</p>
+
+<div>
+<a  title="Permanent link to ‘Nature Is Healing: MacOS 27 Golden Gate Beta 6 Adds Redesigned Traffic Light Window Controls’"  href="https://daringfireball.net/linked/2026/08/18/golden-gate-27-window-controls">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>MacOS 26.7 Tahoe Release Candidate Contains a Video Demonstrating Camera-Equipped AirPods in Action</title>
 	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2026/08/17/camera-equipped-airpods-macos-26-7/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xhd" />
@@ -2281,56 +2309,6 @@ to catch up on accidentally cyberattacking other companies.</p>
 
 <div>
 <a  title="Permanent link to ‘An AI Model From Meta Also Hacked Another Company During Testing’"  href="https://daringfireball.net/linked/2026/08/07/meta-ai-cyberattack">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Meta: Introducing Muse Code and Muse Spark 1.2</title>
-	<link rel="alternate" type="text/html" href="https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xg5" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/07/meta-ai-muse-code" />
-	<id>tag:daringfireball.net,2026:/linked//6.43349</id>
-	<published>2026-08-07T18:05:03Z</published>
-	<updated>2026-08-07T18:48:48Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Meta AI:</p>
-
-<blockquote>
-  <p>We’re excited to release Muse Code (beta), a terminal coding agent
-powered by Muse Spark 1.2, our newest model. This marks our next
-step toward the frontier, with larger and much more capable models
-on the way. [...]</p>
-
-<p>Muse Code takes on complex software engineering tasks across large
-repositories: planning changes, writing code, and validating the
-results. It can coordinate multiple persistent subagents for each
-task, solving difficult problems faster, more accurately, and with
-less intervention.</p>
-</blockquote>
-
-<p>Terminal-only (so far), so it avoids the whole native-app-versus-Electron-shit-sandwich debate. They’ve embedded some fun interactive examples of Spark’s output right in the web page.</p>
-
-<p><a href="https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything">Simon Willison</a>:</p>
-
-<blockquote>
-  <p>An interesting twist on pricing is that the model <a href="https://developer.meta.com/ai/models/muse-spark/">is offered</a>
-as two different model IDs. <code>muse-spark-1.2</code> is priced at
-$1.25/million input and $4.25/million output — close to Gemini
-3.6 Flash ($1.50/$7.50) — but if you agree to let Meta use your
-data “to improve our products” you can use
-<code>muse-spark-1.2-contributor</code> which is $0.10/$0.20 — a huge
-discount, closer to GPT-5.6 Luna ($0.20/$1.20) and Gemini 3.1
-Flash-Lite ($0.25/$1.50).</p>
-</blockquote>
-
-<p>That’s over a 10× discount in exchange for giving your data to Meta. I can see the appeal if you don’t care about the privacy of your data and code, like, say, if you’re using Muse Spark to generate code for a throwaway project, or for something that’s open source anyway. But I wonder if Meta has considered that this offer might spook would-be users who absolutely do not want to grant Meta the rights to their data. One would hope that the two systems have a strong firewall between them. But given <a href="https://daringfireball.net/linked/2026/07/09/meta-instagram-ai-defaults">Meta’s well-established contempt for the sanctity of user data</a>, it’s not at all unreasonable to suspect that the difference here is like reserving a no-smoking seat in an airplane <a href="https://en.wikipedia.org/wiki/Inflight_smoking">with a smoking section</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Meta: Introducing Muse Code and Muse Spark 1.2’"  href="https://daringfireball.net/linked/2026/08/07/meta-ai-muse-code">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
