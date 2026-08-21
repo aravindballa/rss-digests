@@ -7,7 +7,395 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-18T22:54:44Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-21T15:38:57Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Bluesky’s Active User Base Is Shrinking, and Remains Tiny Compared to Threads and Twitter/X</title>
+	<link rel="alternate" type="text/html" href="https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xhr" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/21/bluesky-user-base-is-tiny" />
+	<id>tag:daringfireball.net,2026:/linked//6.43407</id>
+	<published>2026-08-21T13:36:58Z</published>
+	<updated>2026-08-21T13:36:59Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Sarah Perez, writing at TechCrunch last week:</p>
+
+<blockquote>
+  <p>Decentralized social network Bluesky was one of the bigger
+beneficiaries of the <a href="https://techcrunch.com/2024/11/12/bluesky-is-seeing-an-exodus-of-unhappy-x-users-following-the-election/">exodus from Elon Musk’s X in November
+2024,</a> following the U.S. elections. But now, nearly two years
+later, the social network and would-be X competitor is struggling
+to hold on to its momentum.</p>
+
+<p>According to data from digital intelligence provider
+<a href="http://similarweb.com/">Similarweb</a>, Bluesky’s mobile app had 10.4 million monthly
+active users worldwide in June 2026, down 27.2% year-over-year. In
+addition, mobile daily active users continued to decline, falling
+25.6% year-over-year in July to around 3 million.</p>
+</blockquote>
+
+<p>As always, take all third-party analytics and usage data about app usage <a href="https://daringfireball.net/2023/08/whats_the_deal_with_sensor_tower">with an enormous grain of salt</a>. Third-party data companies can only estimate this data, they can’t know it. It’s like <a href="https://talkingpointsmemo.com/edblog/is-there-a-polling-crisis-and-why-should-we-care-if-there-is">comparing polling data to election results</a>.</p>
+
+<p>But I think it’s obviously true that Threads and Twitter/X both have hundreds of millions of active users, and Bluesky has like maybe 10 million. Even if Bluesky has three times more actual users than Similarweb’s data suggests, that would still suggest that Bluesky’s user base is an entire order of magnitude smaller than Threads or Twitter/X. And Mastodon is so small that no one even mentions it anymore in these comparisons. Mastodon and the whole ActivityPub world make Bluesky look large and culturally relevant.</p>
+
+<p>Small is not necessarily bad. My favorite of these networks, personally, is Mastodon. I like my community there <em>because</em> it’s small and generally free of both drama and nonsense. But small precludes mainstream cultural relevance.</p>
+
+<div>
+<a  title="Permanent link to ‘Bluesky’s Active User Base Is Shrinking, and Remains Tiny Compared to Threads and Twitter/X’"  href="https://daringfireball.net/linked/2026/08/21/bluesky-user-base-is-tiny">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Bluesky Is Full of Anti-AI Zealots</title>
+	<link rel="alternate" type="text/html" href="https://bsky.app/profile/masnick.com/post/3mtk7cuvbok2x" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xhq" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/21/bluesky-is-full-of-anti-ai-zealots" />
+	<id>tag:daringfireball.net,2026:/linked//6.43406</id>
+	<published>2026-08-21T12:52:47Z</published>
+	<updated>2026-08-21T12:52:48Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Mike Masnick, in a thread on Bluesky:</p>
+
+<blockquote>
+  <p>Multiple people I know have told me that they love the idea of
+Bluesky, and want it to succeed, but have abandoned it for X
+because the use agentic tools in their work and find them
+incredibly useful, and feel that any mention of their usage here
+leads to hate and ridicule.</p>
+
+<p>I wouldn’t bring this up if it was just one person, but it was
+multiple people since the beginning of August who mentioned in
+passing something to the effect of either “I’d spend more time on
+Bluesky if people weren’t so anti-AI” <em>or</em> “As much as I hate to
+be there all the useful AI talk is on X.” [...]</p>
+
+<p>I’m not telling anyone what to do or what tech to use or what to
+like or not like. I’m just relaying that the reputation this place
+now has is one that a large segment of the population who are NOT
+fascists, saying they don’t feel comfortable here because a main
+area of their interest is considered worthy of being mocked and
+attacked. And even as I’ve explained that I’ve been able to have
+positive conversations about productive AI usage here with many of
+you, the reputation of the community here as insisting their own
+lived experience can’t possibly be real has driven them away.</p>
+</blockquote>
+
+<p>It’s not just “the reputation”. That really is the culture of Bluesky. I’ve obviously written more about AI this month than usual — in particular, my two long pieces regarding <a href="https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing">watermarking LLM-generated text</a> through <a href="https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking">word-choice diddling</a>. I don’t really write much about AI generally.</p>
+
+<p>Broadly, I’m making two arguments against text watermarking. First, that the embedding of a detectable signal (even if subtle) must necessarily degrade the quality of the generated prose (even if only slightly), and that this is an unacceptable trade-off for feature that has no benefit to the user and in fact can only be used <em>against</em> the user. Second, that even if I’m wrong about the first part, and a clever enough watermarking scheme <em>can</em> embed a detectable signature without any degradation of prose quality, this is a bad idea and should be rejected.</p>
+
+<p>Reaction to my takes on text watermarking have largely been about these two arguments. Some people agree with me that what watermarking proponents are claiming is not possible — the text quality must degrade. Others agree that while it must have an effect on text quality, it in fact is so subtle that it truly does not matter and even a careful reader will not notice an overall degradation. Others disagree, tell me I don’t understand the cleverness of the systems, and are convinced that somehow  this watermarking truly embeds a detectable signal in prose without any degradation of text quality whatsoever. There’s a range of disagreement, but it’s all reasonable. Likewise on the broader question of whether it’s a good idea or not to even try to do this.</p>
+
+<p>The reaction on Bluesky to my recent work is like nothing else. It’s largely in the vein that watermarking can’t possible make AI-generated text worse because it’s already random gibberish, and that the only explanation for my being opposed to this is that I must be using AI to generated my own writing and I’m upset that my scheme will soon be detectable. <a href="https://bsky.app/profile/gruber.foo/post/3mt7wgebucvqv">Read the replies to this one</a>; they speak for themselves.</p>
+
+<p><a href="https://daringfireball.net/linked/2026/05/30/jalkut-on-ai">I continue to think</a> my friend <a href="https://bsky.app/profile/danielpunkass.punkitup.com/post/3mmqcikjkjn2t">Daniel Jalkut has espoused the one true take</a>: “My take on AI is, essentially, everybody who’s against it is too against it and everybody who’s for it is too for it.” It is way less inflammatory to espouse an AI-skeptical stance on Twitter/X than it is to simply state that AI can be truly useful on Bluesky.</p>
+
+<p>Anyway, Masnick, <a href="https://bsky.app/profile/masnick.com/post/3mtke5x362g2x">at the end of the day yesterday</a>:</p>
+
+<p>The people bitching about me turning off replies on my thread earlier today are doing an excellent job reinforcing why I was right to turn off replies.</p>
+
+<div>
+<a  title="Permanent link to ‘Bluesky Is Full of Anti-AI Zealots’"  href="https://daringfireball.net/linked/2026/08/21/bluesky-is-full-of-anti-ai-zealots">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>How Bluesky and Threads Sneak Their Logos Into iOS Screenshots</title>
+	<link rel="alternate" type="text/html" href="https://timmarinin.net/2026/bluesky-screenshots/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xhp" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/20/bluesky-threads-sneak-logo-into-screenshots" />
+	<id>tag:daringfireball.net,2026:/linked//6.43405</id>
+	<published>2026-08-21T03:03:08Z</published>
+	<updated>2026-08-21T03:06:19Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Bluesky and Threads both pull the same trick: When you take a screenshot on iOS of an individual tweet, they replace the “Follow” button in their user interface with their logo. Tim Marinin noticed this in the Bluesky app, got curious, and because they publish the app’s source code, he dug in to figure out how they do this:</p>
+
+<blockquote>
+  <p>The answer was in the file literally called <a href="https://github.com/bluesky-social/social-app/blob/main/src/screens/PostThread/components/GrowthHack.tsx">GrowthHack.tsx</a>,
+introduced in January 2026 by <a href="https://github.com/mozzius">mozzius</a>. But it merely
+used a dependency, so to understand I looked into package
+<a href="https://github.com/mozzius/expo-privacy-sensitive">expo-privacy-sensitive</a>, also by them.</p>
+
+<p>The package creates <code>UITextField</code> with <code>isSecureTextEntry</code>
+property set to true and renders the actual content (the button)
+into that field’s <code>.layer</code>. When I take the screenshot, iOS hides
+this UITextField by blanking the layer, allowing the Bluesky logo
+to flutter its wings through (it was here the whooole time). For
+other platforms it simply renders content as-is, without masking.</p>
+</blockquote>
+
+<p>Marinin says, “I think it’s cute.”</p>
+
+<p>I think it’s bullshit. If I take a screenshot I want to see exactly what is on my screen. If I take a photograph with a Sony camera, they don’t put a fucking Sony logo in the image. Screenshots should be purely WYSIWYG, and it’s obvious that the <code>isSecureTextEntry</code> property is meant to obscure the contents of secure text entry fields. It’s clever, but it’s bullshit.</p>
+
+<p>It’s a bit like the bullshit some apps pull where they append extra text on the clipboard when you copy and paste — like Apple Books, which adds quotation marks around the text you copied (a little annoying) <a href="https://daringfireball.net/misc/2026/08/apple-books-paste-bullshit.png">and appends five lines of attribution cruft</a> (a lot annoying). But at least with Books’s attribution cruft, you can just delete the extra lines (and the additional quotation marks). With this stunt Bluesky and Threads are pulling, there’s no way to capture a screenshot of what you actually see in the app.</p>
+
+<p>I’m not surprised Threads does something sneaky like this; I am surprised that Bluesky does.</p>
+
+<div>
+<a  title="Permanent link to ‘How Bluesky and Threads Sneak Their Logos Into iOS Screenshots’"  href="https://daringfireball.net/linked/2026/08/20/bluesky-threads-sneak-logo-into-screenshots">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/08/apple_eu_business_terms_conceding_little" />
+	<link rel="shorturl" href="http://df4.us/xho" />
+	<id>tag:daringfireball.net,2026://1.43404</id>
+	<published>2026-08-20T15:12:16Z</published>
+	<updated>2026-08-21T15:38:57Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">Thanks to the DMA’s sprawling scope, complexity, and overreach, Apple came out of this conceding only 4 percent of the App Store’s 30 percent commission, and no reduction at all to the 15 percent for subscriptions after the first year.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p><a href="https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/">Apple Newsroom, on Tuesday</a>:</p>
+
+<blockquote>
+  <p>Apple today announced changes to its business terms for apps in
+the European Union, following close collaboration with the
+European Commission. These changes resolve Apple’s disagreements
+with the Commission over business terms and alternative
+distribution. They also reduce complexity by moving every
+developer that distributes apps in the EU to a single set of
+business terms. Developers can sign the new terms today, and
+changes will go into effect on October 1. [...]
+Under the new terms:</p>
+
+<ul>
+<li><p><strong>For App Store apps using Apple In-App Purchase</strong>, the
+commission will be 26 percent. For the vast majority of
+developers, including those in the App Store Small Business
+Program, Mini Apps Partner Program, or Video Partner Program,
+and for auto-renewing subscriptions after their first year, it
+will be 15 percent.</p></li>
+<li><p><strong>For App Store apps using alternative payment processing</strong>, the
+commission will be 20 percent. Developers in the programs
+mentioned above will pay a reduced rate of 10 percent.</p></li>
+<li><p><strong>For App Store apps that link out of the app to complete
+purchases</strong>, the commission will be 15 percent. Developers in
+the programs mentioned above will pay a reduced rate of 10
+percent.</p></li>
+<li><p><strong>For apps distributed via alternative app marketplaces or the
+web</strong>, Apple will charge a 5 percent Core Technology Commission.</p></li>
+</ul>
+</blockquote>
+
+<p>This is a near-total victory for Apple. The only real concession is that for apps in the App Store using Apple’s own payment system (the default), the main commission drops from 30 percent to 26 percent in the EU. That’s the deal the EU squeezed out of Apple for EU developers: going from 30 to 26 percent for purchases and the first year of subscriptions.</p>
+
+<p>All apps have to pay at least the 5 percent Core Technology Commission, even if they’re distributed outside the App Store. I could collect a lot of claim chowder from people who told me that Apple’s CTC was never going to pass muster. Maybe it wouldn’t have under the old EC regime of the <a href="https://daringfireball.net/2024/03/more_on_the_eus_market_might#:~:text=Margrethe%20Vestager%20herself">crusading hypocrite Margrethe Vestager</a> and the <a href="https://daringfireball.net/linked/2024/09/16/breton-resigns">buffoonish Thierry Breton</a>, but the European Commission is under <a href="https://daringfireball.net/linked/2026/05/12/teresa-ribera-visited-the-us-and-no-one-noticed">new</a>, <a href="https://daringfireball.net/linked/2026/05/12/new-dma-compliance-features-for-eu-users-in-ios-265">more temperate leadership</a>.</p>
+
+<p>Ben Thompson, <a href="https://stratechery.com/2026/apple-settles-with-e-u-u-s-app-store-fees-att-rules-in-germany/">in a subscriber-only Stratechery update</a>, works out the implied values from these fees:</p>
+
+<blockquote>
+  <ul>
+<li>The implied value of Apple’s APIs is 5% of an app’s revenue</li>
+<li>The implied value of App Store distribution is 10% of an app’s
+revenue</li>
+<li>The implied value of in-app payment APIs is 5% of an app’s
+revenue</li>
+<li>The implied value of in-app purchase using Apple’s payment
+processing is 6% of an app’s revenue</li>
+</ul>
+
+<p>Now take these numbers with a grain of salt — given the fact the
+European Commission appears to have blessed these figures, they
+were almost certainly a matter of negotiation — but they do seem
+directionally correct: being in the App Store is the most valuable
+(thus 10%), and then 5% was ascribed to Apple’s APIs in their
+various forms; of these, the “Core Technology Commission” is
+obviously more valuable than the APIs used for in-app payment
+processing by third parties, but you can see how they landed at
+the same spot.</p>
+
+<p>The interesting number is the implied 6% for Apple’s payment
+processing. The fully loaded cost for credit card fees — which
+have both a swipe fee and a percentage fee — refunds, disputes,
+etc. is pretty close to 6%; in other words, it appears that the
+European Commission has decided that Apple shouldn’t make anything
+for actually charging money. And again, I can see how they got
+there: anyone can charge money, but Apple did actually make the
+various APIs developers use, along with the App Store.</p>
+</blockquote>
+
+<p>The 6 percent no-profit fee for payment processing is where the difference between the global 30% and the new EU 26% falls. Given its druthers, it seems clear Apple would charge 10%, not 6%, for payment processing, and give itself some margin on payment processing.</p>
+
+<p>Don’t take my word that this agreement is a sweeping victory for Apple — with the company conceding only the reduction from 30 to 26 percent for App Store payments — and a capitulation by the EC. <a href="https://x.com/EpicNewsroom/status/2089787577062559951">Here’s Epic Games, posting on Twitter/X</a>:</p>
+
+<blockquote>
+  <p>Apple announced new junk fees in the EU that do nothing to open up
+the mobile app ecosystem to competition, as required by Digital
+Market Act. [<em>sic</em>] [...]</p>
+
+<p>The law makes it clear that Apple must allow developers to offer
+link outs to the web for purchases “free of charge” and has to
+allow “effective use” of competing stores. Apple’s terms
+deliberately violate the Digital Markets Act. If the Commission
+accepts the terms and drops their ongoing enforcement actions, the
+law will become meaningless and consumers and developers will not
+experience the benefits it was designed to provide.</p>
+</blockquote>
+
+<p>I don’t think Epic understands that <a href="https://www.independent.ie/business/apple-will-change-its-app-store-rules-to-end-its-dispute-with-the-eu/a/160196535.html">the Commission <em>has</em> accepted these terms</a>, and they’re a result of negotiations. It’s over.</p>
+
+<p>Another way to see how clearly this is a win for Apple is to go back and imagine an entirely different DMA. Consider if the DMA had simply stated that 30 percent is too high a commission for app stores on “gatekeeping” platforms, and the one and only purpose of the DMA was to set a new, more reasonable maximum commission rate. If that had been the case, there’s no way the rate would have been 26 percent. It almost certainly would have been 20 percent at the most, perhaps something more like 15 percent. Thanks to the DMA’s sprawling scope, complexity, and overreach, Apple came out of this conceding only 4 percent of the App Store’s 30 percent commission, and no reduction at all to the 15 percent for subscriptions after the first year.</p>
+
+<p>The very funniest thing Apple could do now would be to drop the baseline commission everywhere else in the world from 30 to 25 percent.</p>
+
+    ]]></content>
+  <title>★ Apple and European Commission Reach Agreement on App Payment Terms Under DMA, With Apple Conceding Very Little</title></entry><entry>
+	<title>Gurman Says No Camera-Equipped AirPods Until 2027</title>
+	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2026-08-19/apple-s-camera-equipped-ai-airpods-remain-on-track-for-2027-despite-video-leak" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xhn" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/19/gurman-airpods-camera-next-year" />
+	<id>tag:daringfireball.net,2026:/linked//6.43403</id>
+	<published>2026-08-20T02:28:03Z</published>
+	<updated>2026-08-20T02:28:11Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Mark Gurman, Bloomberg:</p>
+
+<blockquote>
+  <p>Earlier this week, a developer version of a Mac computer software
+update accidentally included references to several upcoming Apple
+products, including a video of the AirPods with cameras in
+action. [...]</p>
+
+<p>But the product challenges are still being resolved, and the
+camera AirPods remain off the company’s 2026 release schedule.
+Apple continues to believe the earbuds will launch in 2027, said
+the people, who asked not to be identified when discussing
+unannounced products.</p>
+</blockquote>
+
+<p>If true, it makes that video even stranger.</p>
+
+<div>
+<a  title="Permanent link to ‘Gurman Says No Camera-Equipped AirPods Until 2027’"  href="https://daringfireball.net/linked/2026/08/19/gurman-airpods-camera-next-year">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/08/apple_testflight_list_sort_order" />
+	<link rel="shorturl" href="http://df4.us/xhm" />
+	<id>tag:daringfireball.net,2026://1.43402</id>
+	<published>2026-08-19T21:39:47Z</published>
+	<updated>2026-08-19T21:39:47Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">It’s 2026 and an important, much-used app from Apple doesn’t offer basic list sorting controls that would have been a glaring omission 40 years ago. This was a completely solved problem decades ago, when computer RAM was measured in *kilo*bytes.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p><a href="https://9to5mac.com/2026/07/21/apple-just-improved-testflight-for-users-with-a-lot-of-beta-apps/">Zac Hall at 9to5Mac, a month ago</a>:</p>
+
+<blockquote>
+  <p>Sometimes a small change can make a big impact. That’s especially
+true for Apple’s latest TestFlight update for users with a lot of
+pre-release software.</p>
+
+<p>Apple just updated TestFlight for iPhone, iPad, Mac, and more.
+The new version, 4.3, introduces “a search field to quickly
+find apps.”</p>
+
+<p>A quick comparison to version 4.2.2. shows just that: TestFlight
+now includes a search field along the bottom on iPhone and at the
+top of the sidebar on Mac.</p>
+</blockquote>
+
+<p>This was a one-step-forward/two-steps-back regression. Of course it’s better to be able to search a list than not to have a search feature.</p>
+
+<p>But when Apple implemented this change, they also changed the sort order of the list of apps you’re registered to test. Starting with this update, the list is sorted in alphabetical order. For as long as I can remember — perhaps dating back to <a href="https://techcrunch.com/2014/02/21/rumor-testflight-owner-burstly-is-being-acquired-by-apple/">when TestFlight was a third-party utility</a> — the list was ordered by <em>recency</em>. The most recently updated app was at the top; the oldest at the bottom. Sorting by recency is really the only sort order that makes sense when you’re registered for dozens (or more) of apps. For me, trying to see if there is an update to a new app <a href="https://marco.org/2026/08/14/unforgetful">whose name starts with U</a> now requires scrolling through over 100 items.</p>
+
+<p>Sorting this list alphabetically by app name is like sorting my email by sender name. The main reason I ever open the app is to see what’s new. There’s no way now to see which apps have been updated recently other than painstakingly scrolling through what, for me, is a very long list.</p>
+
+<p>I didn’t complain about this when the sort order changed last month because I figured it was an oopsie — that alphabetical order was supposed to kick in only when displaying search results, not by default. But here we are a month later and the presentation of apps in TestFlight makes me a little irritated every day. Do people inside Apple not use TestFlight themselves?</p>
+
+<p>Also, if I consider the broader view, this really speaks to how much we’ve lost in terms of UI vocabulary. For <em>decades</em>, any list of items with names and dates could be sorted by name or date, ascending or descending, through the standard use of clickable headers at the top of every list. This was true for almost any such list in any app, on any platform — Mac, Windows, Unix, Amiga, whatever. This was just basic GUI stuff. Like: Can you select, copy, and paste text? Can you present a menu of command options? Can you assign keyboard shortcuts to frequently used commands? Can you sort a list of items by useful criteria like name or date?</p>
+
+<p>iOS in 2007 introduced a simplified UI vocabulary that omitted many of these baseline GUI features. That seemed like a reasonable trade-off for a device with a 3.5-inch display and fat fingers as the only input device. But then iOS became popular and Apple stopped bringing the richer UI vocabulary of the Mac to iOS — copy-and-paste, for example, <a href="https://daringfireball.net/2009/06/copy_and_paste">didn’t appear until iOS 3.0</a> (then named “iPhone OS”) — and started bringing iOS’s simplified, child-like UI grammar to MacOS. I’m only writing this article because Apple changed the sort order of apps in TestFlight from date to name. But the real problem is that there is only one sort order in TestFlight. I just can’t emphasize how ridiculous it would have been for any app, on any platform, to offer a list like this without “Name” and “Date” headers at the top that you could click to change the sort order (including clicking them again to switch between ascending and descending).</p>
+
+<p>It’s 2026 and an important, much-used app from Apple doesn’t offer basic list sorting controls that would have been a glaring omission 40 years ago. We don’t complain because TestFlight isn’t an anomaly in this regard. Many (most?) apps from Apple today have lists that omit headers to control sort order, even though changing sort order is often very useful, and intuitively sortable list views used to be so bog-standard that we all just took them for granted.</p>
+
+<p>It certainly shouldn’t have taken until July 2026 to be able to search in TestFlight, either. And being able to search, and see the results sorted alphabetically, shouldn’t mean you can no longer view the full list sorted by recency. These limitations are all so crude. It’s the GUI equivalent of borderline illiteracy.<sup id="fnr1-2026-08-19"><a href="#fn1-2026-08-19">1</a></sup></p>
+
+<p>I mean really, what are we doing here? This was a completely solved problem decades ago, when computer RAM was measured in <em>kilo</em>bytes. It’s like if most new books just no longer contained page numbers, because a cadre of dilettante designers decided that they prefer the way pocket-sized pamphlets look without them, and what works for an 8-page pamphlet must surely work for a 300-page novel.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1-2026-08-19">
+<p>Here’s another one: selecting multiple items in a list and then taking action on those items at once. This was a completely solved GUI problem. The Mac had standards for selecting a range of items (Shift-clicking) and selecting/de-selecting items non-contiguously (Command-clicking). You can still do this in Mac-assed Mac apps. But in apps like TestFlight you can’t. While suffering through this new alphabetical sort order for the last month, I’ve spent a minute or two every day deleting old apps from my list to winnow it down. This is a painstaking multi-step process for each app, and can only be done one app at a time. Why in the world can’t we select multiple apps at once and take an action like “Stop Testing” on the entire selection in one fell swoop? (Part of the answer might be that TestFlight appears to be largely written in <a href="https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps">SwiftUI, not AppKit</a>.)&nbsp;<a href="#fnr1-2026-08-19"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
+</li>
+</ol>
+</div>
+
+    ]]></content>
+  <title>★ Apple Screwed Up the TestFlight App’s Sort Order a Month Ago, and It’s Still Screwed Up, but the More I Think About It, the More Clear It Is They Started Screwing This Up 15 Years Ago</title></entry><entry>
+	<title>NBC News Strikes Ad Sales Deal With Taboola for Programmatic Display Ads</title>
+	<link rel="alternate" type="text/html" href="https://www.axios.com/2026/08/18/nbc-news-taboola-programmatic-display-ads" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xhl" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/19/nbc-news-taboola" />
+	<id>tag:daringfireball.net,2026:/linked//6.43401</id>
+	<published>2026-08-19T14:52:59Z</published>
+	<updated>2026-08-19T14:53:00Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Sara Fischer, Axios:</p>
+
+<blockquote>
+  <p>Ad tech giant Taboola has struck a deal with NBC News to
+exclusively power all of its programmatic, or automated, display
+advertising sales, CEO Adam Singolda tells Axios.</p>
+</blockquote>
+
+<p>Worked out great for Apple with Apple News. <a href="https://daringfireball.net/2024/07/apple_taboola_sitting_in_a_tree">They struck a deal with Taboola two years ago</a> and the ads in Apple News today <a href="https://daringfireball.net/2026/07/ads_on_apple_news_suck">are super premium</a> and <a href="https://mastodon.social/@gruber/116901983997962549">something</a> the company <a href="https://daringfireball.net/2026/07/ternus_apple_slippery_slope">can be really proud of</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘NBC News Strikes Ad Sales Deal With Taboola for Programmatic Display Ads’"  href="https://daringfireball.net/linked/2026/08/19/nbc-news-taboola">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	
+	<link rel="alternate" type="text/html" href="https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026" />
+	<link rel="shorturl" href="http://df4.us/xhk" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2026/08/workos_agents_can_now_sign_up" />
+	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.43400</id>
+	<author><name>Daring Fireball Department of Commerce</name></author>
+	<published>2026-08-19T04:30:16Z</published>
+	<updated>2026-08-19T04:30:17Z</updated>
+	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
+<p>Agents are hitting your signup flow and bouncing off a browser login built for humans. Every one that gives up is a signup you never see.</p>
+
+<p><a href="https://workos.com/docs/authkit/agent-auth?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026">WorkOS Agent Registration</a> turns that traffic into signups. Enroll via the dashboard and AuthKit publishes an auth.md file agents read to register for scoped, short-lived credentials you control.</p>
+
+<p><a href="https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026">Make your app agent-ready →</a></p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS: Agents Can Now Sign Up for Your App’"  href="https://daringfireball.net/feeds/sponsors/2026/08/workos_agents_can_now_sign_up">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+	<title>[Sponsor] WorkOS: Agents Can Now Sign Up for Your App</title></entry><entry>
 	<title>Disney’s ABC Sues Trump’s FCC Over Challenge to Its Broadcast License</title>
 	<link rel="alternate" type="text/html" href="https://www.wsj.com/business/media/disneys-abc-sues-fcc-over-challenge-to-its-broadcast-licenses-64e8f794?st=XTL4tA" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xhj" />
@@ -118,7 +506,7 @@ center gear remains unaccounted for.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/18/dickover-makes-it-into-the-guardian" />
 	<id>tag:daringfireball.net,2026:/linked//6.43396</id>
 	<published>2026-08-18T16:03:32Z</published>
-	<updated>2026-08-18T19:32:44Z</updated>
+	<updated>2026-08-19T13:03:06Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -148,7 +536,7 @@ suggestions.</p>
 
 <p>Next stop for <em>dickover</em>: the OED.</p>
 
-<p><strong>Update:</strong> Filed under “<a href="https://mastodon.social/@macfixer/117118016960985251">Shit You Can’t Make Up</a>”, many of you, upon following the above link to The Guardian, <a href="https://daringfireball.net/misc/2026/08/guardian-dickover-dickover.png">are seeing something like this</a>.</p>
+<p><strong>Update:</strong> Filed under “<a href="https://mastodon.social/@macfixer/117118016960985251">Shit You Can’t Make Up</a>”, many of you, upon following the above link to The Guardian, <a href="https://daringfireball.net/misc/2026/08/guardian-dickover-dickover.png">are seeing something like this</a> — and, unsurprisingly, it’s <a href="https://mastodon.social/@roee/117119090454107910">worse on a mobile device</a>.</p>
 
 <div>
 <a  title="Permanent link to ‘‘Dickover’ Makes It Into The Guardian’"  href="https://daringfireball.net/linked/2026/08/18/dickover-makes-it-into-the-guardian">&nbsp;★&nbsp;</a>
@@ -2023,158 +2411,6 @@ as ambisonic microphones capture sounds in Spatial Audio.</p>
 
 	]]></content>
   </entry><entry>
-	<title>Michael Tsai on My Retraction of the Astrology/Astronomy App Store Rejection Story</title>
-	<link rel="alternate" type="text/html" href="https://mjtsai.com/blog/2026/08/07/dark-hours-rejected-from-the-app-store/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xgg" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/10/tsai-app-store-retraction" />
-	<id>tag:daringfireball.net,2026:/linked//6.43360</id>
-	<published>2026-08-10T20:18:48Z</published>
-	<updated>2026-08-10T20:18:49Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Michael Tsai:</p>
-
-<blockquote>
-  <p>I’m really unhappy about this, both for my role in spreading a
-false story and because I think it will hurt the cause of
-reforming App Review. I know there <em>are</em> many crazy rejections and
-have experienced some first-hand. This story was believable
-because of that well-known history and because Godier didn’t seem
-like a nobody trying to get attention — he was the developer of
-another highly regarded app. But now people are going to point to
-true developer stories and accuse them of being fakes, too.</p>
-</blockquote>
-
-<p>Same.</p>
-
-<div>
-<a  title="Permanent link to ‘Michael Tsai on My Retraction of the Astrology/Astronomy App Store Rejection Story’"  href="https://daringfireball.net/linked/2026/08/10/tsai-app-store-retraction">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘The Problem With Vibe-Coded Flattery’</title>
-	<link rel="alternate" type="text/html" href="https://tedium.co/2026/08/09/vibe-coding-insincerity/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xgf" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/10/the-problem-with-vibe-coded-flattery" />
-	<id>tag:daringfireball.net,2026:/linked//6.43359</id>
-	<published>2026-08-10T16:42:01Z</published>
-	<updated>2026-08-10T16:49:00Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Ernie Smith at Tedium:</p>
-
-<blockquote>
-  <p>I’m seeing email after email suggesting these users built a thing
-they’re truly passionate about. But if we can’t trust that this
-passion is real, legit, and from the heart, we’re in trouble.</p>
-
-<p>Take a step back. Is this thing you built a reflection of you?</p>
-</blockquote>
-
-<p>I think it’s fun and exciting that I’m getting a lot more emails about a lot more new apps. But a fair chunk of those emails are themselves clearly written by an AI chatbot. It’s so obvious. Those go straight in the trash.</p>
-
-<div>
-<a  title="Permanent link to ‘‘The Problem With Vibe-Coded Flattery’’"  href="https://daringfireball.net/linked/2026/08/10/the-problem-with-vibe-coded-flattery">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>The NYT and WSJ on Apple, China, and the RAM Crisis</title>
-	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/08/10/technology/memory-chip-shortage-ai.html?unlocked_article_code=1.4VA.49f7.Qj8S541DkkOz" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xge" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/10/the-nyt-and-wsj-on-apple-china-and-the-ram-crisis" />
-	<id>tag:daringfireball.net,2026:/linked//6.43358</id>
-	<published>2026-08-10T15:21:29Z</published>
-	<updated>2026-08-10T15:34:51Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Kalley Huang, reporting from San Francisco, and Ana Swanson, from Washington, <a href="https://www.nytimes.com/2026/08/10/technology/memory-chip-shortage-ai.html?unlocked_article_code=1.4VA.49f7.Qj8S541DkkOz">for The New York Times</a> (gift link):</p>
-
-<blockquote>
-  <p>Apple, which has cited the memory chip shortage for recent price
-increases, is working with other consumer electronics companies to
-push for permission to buy memory chips from China, which faces
-certain restrictions, seven people said.</p>
-
-<p>Apple was in talks in 2022 to buy memory chips from Yangtze Memory
-Technologies Corporation, or YMTC, but those efforts fizzled under
-pressure from U.S. lawmakers.</p>
-
-<p>Many officials appear unsympathetic to Apple’s desire to buy
-Chinese chips, because the company has promised for years to move
-more of its supply chain to the United States but has made only
-small steps toward that goal, four people said. Other critics of
-the plan said that China was also experiencing a similar chip
-crunch, and had proved itself to be a risky supplier when it
-restricted its mineral exports last year.</p>
-</blockquote>
-
-<p>Raffaele Huang and Rolfe Winkler, <a href="https://www.wsj.com/tech/apple-tests-chinese-memory-chips-as-supply-squeeze-bites-d292bb97?st=RwyNAQ">reporting for The Wall Street Journal</a> (also a gift link):</p>
-
-<blockquote>
-  <p>Apple has been testing memory chips from China’s CXMT across
-product lines including iPhones and MacBooks, according to people
-familiar with the matter, as the U.S. company addresses a memory
-crunch during the artificial-intelligence boom.</p>
-
-<p>Apple has held early talks with CXMT about supplying components
-with the goal of using them in some devices sold in China, the
-people said. Apple hopes to win the White House’s blessing to do
-business with the Chinese company. [...]</p>
-
-<p>Apple often tailors components to its devices to maximize
-performance. Using standard CXMT memory chips could force Apple to
-redesign certain parts of its products. Industry analysts also say
-CXMT’s technology still trails its foreign competitors, in part
-because the company’s access to the most sophisticated chip-making
-equipment is restricted.</p>
-
-<p>At present, CXMT wouldn’t be a panacea for Apple. The Chinese
-company has maxed out its production capacity this year, leaving
-little room for new international clients, the people familiar
-with the matter said.</p>
-</blockquote>
-
-<p>The gist of both reports is that <a href="https://daringfireball.net/linked/2026/06/27/apple-faced-bipartisan-opposition-to-chinese-ram">just like in 2022</a>, Apple might not get permission from the U.S. government to use Chinese RAM, even for devices sold in China. And, even if they do secure permission, it might not actually help much with the supply crunch.</p>
-
-<div>
-<a  title="Permanent link to ‘The NYT and WSJ on Apple, China, and the RAM Crisis’"  href="https://daringfireball.net/linked/2026/08/10/the-nyt-and-wsj-on-apple-china-and-the-ram-crisis">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>WorkOS: Connect Your Agents to Your API</title>
-	<link rel="alternate" type="text/html" href="https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xgd" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/09/workos" />
-	<id>tag:daringfireball.net,2026:/linked//6.43357</id>
-	<published>2026-08-09T23:54:18Z</published>
-	<updated>2026-08-09T23:54:18Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>My thanks to WorkOS for, once again, sponsoring DF last week. What’s the best way to connect AI agents to your API? REST is great for human developers; <a href="https://workos.com/guide/model-context-protocol?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026&amp;utm_content=body_guide">MCP serves the agents</a>. Many teams treat REST and MCP as competing standards, and through choice or necessity, pick one. But they ought not be considered rivals. They’re separate layers. Most MCP servers just call REST internally to do the real work. The best ones don’t convert every endpoint into a tool, they focus on what the agents are actually trying to accomplish.</p>
-
-<p>That layered approach also means shipping OAuth 2.1 with scoped tokens. <a href="https://workos.com/docs/authkit/mcp?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026&amp;utm_content=body_authkit">WorkOS AuthKit already speaks that spec</a>, so you skip building an auth provider on top. <a href="https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026">Check out WorkOS’s breakdown on MCP vs. REST</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘WorkOS: Connect Your Agents to Your API’"  href="https://daringfireball.net/linked/2026/08/09/workos">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week" />
 	<link rel="shorturl" href="http://df4.us/xgc" />
@@ -2257,311 +2493,4 @@ App Store.</p>
 </div>
 
     ]]></content>
-  <title>★ Retraction: The App Store Rejection of the Week That Was, in Fact, a Correct Rejection</title></entry><entry>
-	<title>Corrupt Minds Think Alike</title>
-	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/08/06/business/fifa-world-cup-privatization.html?unlocked_article_code=1.3VA.4zqH.Pul7X9bQ2kv0&amp;smid=bs-share" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xgb" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/08/corrupt-minds-think-alike" />
-	<id>tag:daringfireball.net,2026:/linked//6.43355</id>
-	<published>2026-08-08T20:32:11Z</published>
-	<updated>2026-08-08T20:32:12Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Tariq Panja, reporting for The New York Times:</p>
-
-<blockquote>
-  <p>The five men should have been in a celebratory mood. FIFA had just
-pulled off a World Cup that broke records on a number of fronts.
-Its spectacular culmination, the final, was a day away from
-kickoff.</p>
-
-<p>But their mood was anything but jubilant. The men, a group of top
-directors known as the FIFA bureau of the management board, had
-been summoned to a hastily organized meeting at the Waldorf
-Astoria hotel in Manhattan, according to three people familiar
-with the discussions speaking on condition of anonymity because
-the talks were private. The directors had until midnight to sign
-off on a plan that threatened to change soccer forever and would
-almost certainly lead to a major schism among the sport’s leaders.</p>
-
-<p>The project purported to sell a 20 percent stake in FIFA to a
-group of investors led by Joshua Kushner, the brother of President
-Trump’s son-in-law Jared Kushner. Such a move would put into
-private hands a portion of the World Cup, an event that has been
-run and controlled by FIFA, a nonprofit in Zurich, for 96 years.</p>
-</blockquote>
-
-<p>I don’t know what’s dumber — this stupid corrupt scheme to privatize the World Cup, or me, for not assuming from the start that the Trump family was involved in it somehow.</p>
-
-<div>
-<a  title="Permanent link to ‘Corrupt Minds Think Alike’"  href="https://daringfireball.net/linked/2026/08/08/corrupt-minds-think-alike">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/08/openai_apple_is_getting_this_wrong" />
-	<link rel="shorturl" href="http://df4.us/xfk" />
-	<id>tag:daringfireball.net,2026://1.43328</id>
-	<published>2026-08-04T22:51:19Z</published>
-	<updated>2026-08-05T19:21:30Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">A blog post is an unusual way to respond to a high-stakes lawsuit, but OpenAI is an unusual company. A few snippets from their post, and some commentary.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p><a href="https://openai.com/index/apple-is-getting-this-wrong/">OpenAI published an unbylined blog post</a> overnight, responding in public — but not yet in court — to Apple’s new motion for a preliminary injunction. It’s an unusual move to respond to a high-stakes legal filing with a blog post, but OpenAI is an unusual company. A few snippets from their post, and some commentary:</p>
-
-<blockquote>
-  <p>Apple had claimed that they contacted OpenAI in February and that
-we didn’t respond. They now admit that their outside lawyers
-emailed the wrong person after confusing two Asian last names — only after we brought this to their attention.</p>
-</blockquote>
-
-<p>OpenAI is <a href="https://daringfireball.net/linked/2026/07/16/apple-lawyer-name-mixup">hanging on</a> to the fact that Apple’s outside counsel, Gabriel Gross, sent one email to the wrong address, and quickly emailed an apology. In OpenAI’s phrasing, it sounds like Apple’s attorney sent the entire initial letter of concern to the wrong person, and that’s why OpenAI never responded — because it wasn’t sent to the correct person (OpenAI general counsel Che Chang). That’s not what happened. The initial blockbuster “hey we think you guys are stealing our trade secrets and we want to talk to you about it” letter <em>was</em> sent to Che Chang. And Che Chang never did respond to Apple’s lawyers. That a mistaken email thanking Che Chang for a phone call that never happened (because that email was intended for another OpenAI employee) was also sent is irrelevant. I don’t understand why OpenAI is continuing to focus on this inconsequential mistake. (<a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.38.0.pdf">Apple’s motion</a> for a preliminary injunction includes the full text of the mistaken email and subsequent apology.)</p>
-
-<blockquote>
-  <p>Apple accuses Chang Liu of accessing Apple confidential
-information after leaving the company, but only now admits that
-Apple employees reached out to him and asked for his help to
-locate this information (you can read the messages <a href="https://openai.com/index/apple-is-getting-this-wrong/#messages">here</a>).
-Apple now tries to shift the blame to “residual access”, but they
-also don’t disclose that this is a common issue with Apple which
-is caused by them failing to properly manage system access when
-people leave. What that means in practice is that former employees
-who are trying to do the right thing when they leave still have
-access to Apple files — despite not wanting them or even being
-aware of them.</p>
-</blockquote>
-
-<p>OpenAI is seemingly alluding to Apple’s unusual use of iCloud Drive, tied to employees’ personal Apple Account IDs, <a href="https://daringfireball.net/linked/2026/08/03/the-information-apple-employees-icloud">that I (coincidentally?) wrote about yesterday</a>. Apple’s motion for injunction, however, addresses this very point. From page 3 of the motion:</p>
-
-<blockquote>
-  <p>Mr. Liu resigned on Thursday, January 22, 2026, and provided
-notice that he would start at OpenAI the following Tuesday. On his
-last day, he failed to respond to Apple’s attempt to schedule his
-exit interview or sign his confidentiality reminder.</p>
-
-<p>In the days following his departure, Mr. Liu seemed initially
-cooperative and aware of his obligations to Apple. He worked with
-others on his former Apple team to return certain Apple
-information remaining on his personal iCloud account to
-Apple.<sup>1</sup> He also continued to converse with former
-co-workers, for example, to answer questions about his earlier
-work and where certain information was stored. But these
-interactions and exchanges cannot explain the repeated,
-unauthorized downloading of voluminous technical files from
-Apple’s cloud-based storage discussed below, which Mr. Liu
-performed on multiple occasions from February to April 2026 while
-employed by OpenAI.</p>
-</blockquote>
-
-<p>That footnote reads:</p>
-
-<blockquote>
-  <p><sup>1</sup> While Apple seeks discovery into what Apple
-confidential information Mr. Liu accessed from his personal
-storage accounts (including iCloud) and devices after his
-departure, the specific unauthorized downloads referenced in the
-complaint and at the heart of this motion are not based on iCloud
-activity, but instead relate to Apple’s third-party cloud storage.</p>
-</blockquote>
-
-<p>Nowhere in any of Apple’s filings (<a href="https://www.courtlistener.com/docket/73602437/apple-inc-v-liu/">here’s the Court Listener index page</a> for all the documents filed in the case) does it say who the third-party cloud storage provider is, but I’m almost certain it’s Box, which I know is widely used throughout Apple.</p>
-
-<p>The iMessage transcripts that OpenAI provides at the bottom of their post do not contradict Apple’s claims at all. Apple’s motion states that Liu helped former colleagues find certain documents that were in iCloud; that’s what OpenAI’s transcript shows. But that’s not in dispute. Apple also claims that Liu accessed confidential information, presumably in Box and definitely not in iCloud Drive, on five different occasions, up until 27 April 2026, over three months after he left Apple. These chat transcripts offer no explanation for that. The chat transcripts explain iCloud Drive access that Apple itself says is not in dispute, and do not explain the 37 documents Liu downloaded from the third-party cloud provider (Box?) that Apple says are at the heart of naming him in the lawsuit. <a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.45.0_4.pdf">Here is Apple’s declaration from digital forensic specialist Daniel Roffman</a>, documenting Liu’s access to confidential files post-employment (albeit with significant redactions).</p>
-
-<p>I do not understand why OpenAI is treating this as a PR problem instead of as a legal problem. Dan Moren, <a href="https://sixcolors.com/link/2026/08/openai-apple-is-getting-this-wrong/">linking to it from Six Colors</a>, is of similar mind, writing:</p>
-
-<blockquote>
-  <p>What kept running through my head while reading this was the old
-legal chestnut: “If you have the facts on your side, pound the
-facts. If you have the law on your side, pound the law. If you
-have neither on your side, pound the table.”</p>
-</blockquote>
-
-<p>Thus far this feels like table-pounding from OpenAI to me. Their blog post does, however, move the ball from “<a href="https://daringfireball.net/linked/2026/07/10/openai-pusateri-statement">we have no interest</a>” in Apple’s trade secrets to “we don’t have them”, (emphasis added):</p>
-
-<blockquote>
-  <p>Apple also accuses Tang Tan of trying to get and use their trade
-secrets. However, Tang has always been clear with the team that
-we do not want, and must not use, any confidential information
-from other companies. Tang served Apple for more than 24 years
-and was widely known as one of the most innovative leaders at the
-company. [...]</p>
-
-<p>Apple’s request for a preliminary injunction is both based on
-false information and completely unnecessary <em>because we do not
-have, nor want, any of their trade secrets</em>. We’re much more
-interested in building innovative products and technologies that
-push the frontier.</p>
-</blockquote>
-
-<p>To me, the most interesting response from OpenAI wasn’t their blog post. It was an email released by Apple, as “<a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.47.6_4.pdf">Exhibit F</a>” to one of their expert declarations submitted to the court last night. OpenAI has retained the renowned law firm Quinn Emanuel as outside counsel, and this exhibit is a long email from Quinn Emanuel attorney Patrick Curran to Apple’s attorneys. From that email, dated Monday July 20, Curran writes:</p>
-
-<blockquote>
-  <p>You also ask that we “revisit” the specific points proposed in
-your July 15 letter. It appears that you want to move backwards.
-As noted, we already discussed these during our meet and confer
-but Apple was unable to respond to basic questions my colleagues
-raised about these requests. For example, your letter proposes
-that OpenAI “[p]roduce witnesses to testify at deposition” but
-Apple was unable to identify who those witnesses would be.
-Similarly, Apple was unsure when we asked if it was actually
-proposing that hundreds of OpenAI employees fill out
-“questionnaires” even if Apple has no basis to allege (and is
-indeed not alleging) that such employees have any connection to
-this litigation. The seven sections in your letter are broadly
-worded and remain vague and general. This is not what a forensic
-protocol looks like and we’re sure you understand that you will
-not get this as relief from the court. You first need to
-(preliminarily) identify the TS you are suing for, and your email
-states that you “appreciate the need” to do so. Any protocol will
-be informed by such identification. A forensic protocol cannot be
-based on general terms like “Apple confidential information”; you
-need to tell us what you’re looking for, and it sounds like you
-understand that and are prepared to do so. The efficient way
-forward is therefore to tackle these issues as part of the
-negotiation of a proper, detailed forensic protocol. If you
-instead prefer to move for a PI because OpenAI did not agree off
-the bat to subject hundreds of employees to “questionnaires” about
-“Apple confidential information” generally, that is unfortunate — and inconsistent with what I understand both our clients have
-requested. If you choose this path instead of working with us, we
-look forward to filing an opposition that sets the record
-straight.</p>
-</blockquote>
-
-<p>Apple, obviously, did choose this path (“PI” = preliminary injunction), and I too look forward to OpenAI’s setting the record straight, especially if they do so in plainspoken language like Curran’s in this email. Curran continues:</p>
-
-<blockquote>
-  <p>Finally, although I know OpenAI would like to resolve this
-amicably, as their counsel I have to tell you what I think you
-already know — this case lacks merit. You have not articulated
-any basis to support a preliminary injunction. Your complaint is
-predicated on a misrepresentation of facts and allegations that
-are speculative at best. It fails to even remotely identify any
-trade secrets. You are attacking ordinary business practices (used
-widely across the industry). You are complaining about situations
-that you have caused, including through your own procedures and
-decisions. We stand ready to oppose any preliminary injunction
-motion and tell the world what really happened here to set the
-record straight. We made clear we would prefer to quickly and
-collaboratively address any legitimate concerns that your client
-has, but that is not well-served by repeated threats.</p>
-</blockquote>
-
-<p>This email is a far better response than what OpenAI published on their blog.</p>
-
-    ]]></content>
-  <title>★ OpenAI Responds to Apple’s Lawsuit and Motion for Preliminary Injunction: ‘Apple Is Getting This Wrong’</title></entry><entry>
-	
-	<link rel="alternate" type="text/html" href="https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026" />
-	<link rel="shorturl" href="http://df4.us/xff" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2026/08/mcp_vs_rest_the_right_way_to_c" />
-	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.43323</id>
-	<author><name>Daring Fireball Department of Commerce</name></author>
-	<published>2026-08-03T22:26:01Z</published>
-	<updated>2026-08-03T22:26:01Z</updated>
-	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
-<p>REST serves the developers building against your API. <a href="https://workos.com/guide/model-context-protocol?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026&amp;utm_content=body_guide">MCP serves the agents</a> now trying to use it. Most teams treat these as competing standards and have to pick one.</p>
-
-<p>They’re not rivals, they’re layers: most MCP servers just call REST internally to do the real work. The best ones don’t convert every endpoint into a tool, they design around what the agent’s trying to accomplish.</p>
-
-<p>Shipping that server also means shipping OAuth 2.1 with scoped tokens. <a href="https://workos.com/docs/authkit/mcp?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026&amp;utm_content=body_authkit">WorkOS AuthKit already speaks that spec</a>, so you skip building an auth provider on top.</p>
-
-<p><a href="https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026">Read the breakdown →</a></p>
-
-<div>
-<a  title="Permanent link to ‘MCP vs. REST: The Right Way to Connect Agents to Your API’"  href="https://daringfireball.net/feeds/sponsors/2026/08/mcp_vs_rest_the_right_way_to_c">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-	<title>[Sponsor] MCP vs. REST: The Right Way to Connect Agents to Your API</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/08/followup_big_three_carrier_requirement" />
-	<link rel="shorturl" href="http://df4.us/xfb" />
-	<id>tag:daringfireball.net,2026://1.43319</id>
-	<published>2026-08-03T17:19:34Z</published>
-	<updated>2026-08-03T17:19:35Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">For many years now, part of the co-marketing agreements between Apple and the Big Three is Apple agreeing to require a postpaid account with a Big Three carrier for all “special” iPhone financing deals, including the old iPhone Upgrade Program and the new Apple Upgrade leasing.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>Following up from last week, <a href="https://daringfireball.net/linked/2026/07/30/apple-upgrade-vs-iphone-upgrade-program">when I asked</a>:</p>
-
-<blockquote>
-  <p>When you lease an iPhone through Apple Upgrade, you need a
-cellular account on one of the big three U.S. carriers: AT&amp;T,
-T-Mobile, or Verizon. That kind of stinks, and I’m not quite sure
-I understand why. You’re leasing the iPhone through Apple and
-Klarna, not the carrier, so I don’t know why Apple cares. If you
-know why, <a href="https://daringfireball.net/contact/">shoot me a message</a> and explain it. Is it just a
-simplistic credit-risk evaluation, where prepaid plan-holders and
-MVNO users in general are viewed suspiciously?</p>
-</blockquote>
-
-<p>I got a slew of messages about this. Credit-risk assessment is seemingly part of it. There’s a lot of fraud in iPhone purchases specifically and cell phone service generally. The big three carriers do a significant amount of risk assessment before letting you open a new postpaid account; that you have an active account with one of them is a signal that you’re not trying to lease an iPhone using phony credentials in order to sell it.</p>
-
-<p>But the bigger reason is the complex nature of the contracts between Apple and each of the big three carriers. A reader who worked on the carrier team at Apple for a long time (but left a few years ago) wrote:</p>
-
-<blockquote>
-  <p>In response to your question on why Apple would only offer iPhone
-on the “Big 3” for the new Upgrade Program: Every year, the
-Carrier Teams at Apple negotiate a deal/program (hundreds of
-millions of dollars) with each of those Big 3. In return for those
-dollars, Apple will make concessions exactly like this (or
-similar.) This is also why, for example, their logos appear more
-prominently or are the only ones called out on signage,
-commercials, etc… Although they really aren’t threatened by MVNO’s
-(the ones they don’t own) or regional carriers, it’s more like
-Apple is selling it as part of a package deal that’s exclusively
-offered to its biggest and best “tier 1” partners. It also acts as
-a carrot to perpetually try to motivate smaller partners into
-behavior Apple wants.</p>
-</blockquote>
-
-<p>This might change — some of the bigger MVNOs are trying to work their way into “tier 1” (or maybe create a new “tier 1.5”). But for many years now, part of the co-marketing agreements between Apple and the Big Three is Apple agreeing to require a postpaid account with a Big Three carrier for all “special” iPhone financing deals, including the old iPhone Upgrade Program and the new Apple Upgrade leasing.</p>
-
-<p>One interesting exception is that Boost Mobile is included alongside the Big Three for Apple Card Monthly Installments (ACMI), a program that offers 0% APR on certain products if you pay for them using an Apple Card. <a href="https://support.apple.com/en-us/104950">From the ACMI small print</a>:</p>
-
-<blockquote>
-  <p>In order to buy an iPhone with ACMI, you must select one of the
-following carriers (prepaid carrier plans are not supported):
-AT&amp;T, Boost Mobile, T-Mobile, or Verizon. An iPhone purchased with
-ACMI is always unlocked, so you can switch carriers at any time,
-subject to your carrier’s terms.</p>
-</blockquote>
-
-<p>So perhaps some of the bigger MVNO carriers might work their way into Apple Upgrade — but if they do, it sounds like they’ll need to pay Apple for the privilege.</p>
-
-<p>With regard to fraud, a former Apple Store retail employee wrote:</p>
-
-<blockquote>
-  <p>I left in 2019, but I’d estimate on some days a double digit
-percentage of in-person phone sales were fraudulent.</p>
-
-<p>This behavior absolutely exploded when you started to be able to
-do carrier financing in the store. They had stolen the identity
-of a legit account holder, come into the store with the info
-needed to access the account. They always wanted the highest end
-phone, and would pay the sales tax due at time of sale in cash.
-Never wanted any accessories. Never wanted to open the box or set
-up the phone.</p>
-
-<p>As bad as it was with the activation requirement, it would be way
-worse without it. I believe it’s gotten a lot better, and the
-carriers have more advanced systems in place to detect and deter
-this behavior now. But ultimately, the carriers ate the cost for
-millions of dollars in devices they never got paid for.</p>
-</blockquote>
-
-<p>I suspect that reader is correct that Apple, in collaboration with the carriers, has cracked down on this.</p>
-
-    ]]></content>
-  <title>★ Why Apple Requires a Cellular Account Through a Big Three Carrier to Lease an iPhone</title></entry></feed><!-- THE END -->
+  <title>★ Retraction: The App Store Rejection of the Week That Was, in Fact, a Correct Rejection</title></entry></feed><!-- THE END -->
