@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-21T23:18:41Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-21T23:29:26Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>The Fourth Horseman of the File-Format-Hegemony Apocalypse</title>
 	<link rel="alternate" type="text/html" href="https://techcommunity.microsoft.com/blog/onedriveblog/introducing-markdown-support-in-sharepoint-and-onedrive/4512174" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xhu" />
@@ -69,7 +69,7 @@ plans to roll it out to all U.S. stores and clubs by the end of
 	<link rel="shorturl" href="http://df4.us/xhs" />
 	<id>tag:daringfireball.net,2026://1.43408</id>
 	<published>2026-08-21T16:09:11Z</published>
-	<updated>2026-08-21T16:11:32Z</updated>
+	<updated>2026-08-21T23:29:26Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -78,7 +78,7 @@ plans to roll it out to all U.S. stores and clubs by the end of
 	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
 <p>It occurred to me last night that I’d gotten less feedback regarding recent posts than usual. There were a <a href="https://daringfireball.net/2026/08/apple_testflight_list_sort_order">few</a> <a href="https://daringfireball.net/linked/2026/08/20/bluesky-threads-sneak-logo-into-screenshots">items</a> I’d posted in recent days that I felt sure to hear from readers about, both yay and nay. But: nothing. Crickets chirping. I almost always hear from squeaky wheels in the EU when I write about Apple and the DMA, for example, but I heard nothing about <a href="https://daringfireball.net/2026/08/apple_eu_business_terms_conceding_little">my take yesterday that Apple has effectively pantsed the European Commission</a> regarding App Store commissions.</p>
 
-<p>I noticed this morning that the bot that auto-posts new articles to the <a href="https://mastodon.social/@daringfireball">DF account Mastodon</a> hadn’t posted since Tuesday night. But it wasn’t the Mastodon posting bot that was broken. It was a different automated task that updates the RSS and JSON feeds. That’s what broke sometime between Tuesday night and Wednesday morning. The Mastodon posting bot reads the RSS feed, and if there’s nothing new in the RSS feed, there’s nothing for the bot to post. Still though, I thought it was weird that no one who <a href="https://daringfireball.net/feeds/">follows DF from the feeds</a> had emailed, texted, or @replied to me to complain that new articles on the website had stopped appearing in the feeds. No one.</p>
+<p>I noticed this morning that the bot that auto-posts new articles to the <a href="https://mastodon.social/@daringfireball">DF Mastodon account</a> hadn’t posted since Tuesday night. But it wasn’t the Mastodon posting bot that was broken. It was a different automated task that updates the RSS and JSON feeds. That’s what broke sometime between Tuesday night and Wednesday morning. The Mastodon posting bot reads the RSS feed, and if there’s nothing new in the RSS feed, there’s nothing for the bot to post. Still though, I thought it was weird that no one who <a href="https://daringfireball.net/feeds/">follows DF from the feeds</a> had emailed, texted, or @replied to me to complain that new articles on the website had stopped appearing in the feeds. No one.</p>
 
 <p>Then, I remembered that the DF website home page is generated from ... the RSS feed.<sup id="fnr1-2026-08-21"><a href="#fn1-2026-08-21">1</a></sup></p>
 
@@ -242,7 +242,7 @@ other platforms it simply renders content as-is, without masking.</p>
 	<link rel="shorturl" href="http://df4.us/xho" />
 	<id>tag:daringfireball.net,2026://1.43404</id>
 	<published>2026-08-20T15:12:16Z</published>
-	<updated>2026-08-21T15:38:57Z</updated>
+	<updated>2026-08-21T23:27:18Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -318,7 +318,7 @@ there: anyone can charge money, but Apple did actually make the
 various APIs developers use, along with the App Store.</p>
 </blockquote>
 
-<p>The 6 percent no-profit fee for payment processing is where the difference between the global 30% and the new EU 26% falls. Given its druthers, it seems clear Apple would charge 10%, not 6%, for payment processing, and give itself some margin on payment processing.</p>
+<p>The 6 percent no-profit fee for payment processing is where the difference between the global 30% and the new EU 26% falls. Given its druthers, it seems clear Apple would charge 10%, not 6%, for payment processing, to give itself some margin on payment processing.</p>
 
 <p>Don’t take my word that this agreement is a sweeping victory for Apple — with the company conceding only the reduction from 30 to 26 percent for App Store payments — and a capitulation by the EC. <a href="https://x.com/EpicNewsroom/status/2089787577062559951">Here’s Epic Games, posting on Twitter/X</a>:</p>
 
