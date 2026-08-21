@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-21T23:29:26Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-21T23:46:32Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>The Fourth Horseman of the File-Format-Hegemony Apocalypse</title>
 	<link rel="alternate" type="text/html" href="https://techcommunity.microsoft.com/blog/onedriveblog/introducing-markdown-support-in-sharepoint-and-onedrive/4512174" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xhu" />
@@ -69,14 +69,14 @@ plans to roll it out to all U.S. stores and clubs by the end of
 	<link rel="shorturl" href="http://df4.us/xhs" />
 	<id>tag:daringfireball.net,2026://1.43408</id>
 	<published>2026-08-21T16:09:11Z</published>
-	<updated>2026-08-21T23:29:26Z</updated>
+	<updated>2026-08-21T23:46:32Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<summary type="text">https://daringfireball.net/</summary>
 	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>It occurred to me last night that I’d gotten less feedback regarding recent posts than usual. There were a <a href="https://daringfireball.net/2026/08/apple_testflight_list_sort_order">few</a> <a href="https://daringfireball.net/linked/2026/08/20/bluesky-threads-sneak-logo-into-screenshots">items</a> I’d posted in recent days that I felt sure to hear from readers about, both yay and nay. But: nothing. Crickets chirping. I almost always hear from squeaky wheels in the EU when I write about Apple and the DMA, for example, but I heard nothing about <a href="https://daringfireball.net/2026/08/apple_eu_business_terms_conceding_little">my take yesterday that Apple has effectively pantsed the European Commission</a> regarding App Store commissions.</p>
+<p>It occurred to me last night that I’d gotten less feedback regarding recent posts than usual. There were a <a href="https://daringfireball.net/2026/08/apple_testflight_list_sort_order">few</a> <a href="https://daringfireball.net/linked/2026/08/20/bluesky-threads-sneak-logo-into-screenshots">items</a> I’d posted in recent days that I felt sure to hear from readers about, both yea and nay. But: nothing. Crickets chirping. I almost always hear from squeaky wheels in the EU when I write about Apple and the DMA, for example, but I heard nothing about <a href="https://daringfireball.net/2026/08/apple_eu_business_terms_conceding_little">my take yesterday that Apple has effectively pantsed the European Commission</a> regarding App Store commissions.</p>
 
 <p>I noticed this morning that the bot that auto-posts new articles to the <a href="https://mastodon.social/@daringfireball">DF Mastodon account</a> hadn’t posted since Tuesday night. But it wasn’t the Mastodon posting bot that was broken. It was a different automated task that updates the RSS and JSON feeds. That’s what broke sometime between Tuesday night and Wednesday morning. The Mastodon posting bot reads the RSS feed, and if there’s nothing new in the RSS feed, there’s nothing for the bot to post. Still though, I thought it was weird that no one who <a href="https://daringfireball.net/feeds/">follows DF from the feeds</a> had emailed, texted, or @replied to me to complain that new articles on the website had stopped appearing in the feeds. No one.</p>
 
