@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-21T16:11:32Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-21T17:00:52Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/08/df_posts_drop_in_a_forest" />
 	<link rel="shorturl" href="http://df4.us/xhs" />
@@ -85,7 +85,7 @@ addition, mobile daily active users continued to decline, falling
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/21/bluesky-is-full-of-anti-ai-zealots" />
 	<id>tag:daringfireball.net,2026:/linked//6.43406</id>
 	<published>2026-08-21T12:52:47Z</published>
-	<updated>2026-08-21T12:52:48Z</updated>
+	<updated>2026-08-21T17:00:52Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -96,7 +96,7 @@ addition, mobile daily active users continued to decline, falling
 <blockquote>
   <p>Multiple people I know have told me that they love the idea of
 Bluesky, and want it to succeed, but have abandoned it for X
-because the use agentic tools in their work and find them
+because they use agentic tools in their work and find them
 incredibly useful, and feel that any mention of their usage here
 leads to hate and ridicule.</p>
 
@@ -119,17 +119,19 @@ lived experience can’t possibly be real has driven them away.</p>
 
 <p>It’s not just “the reputation”. That really is the culture of Bluesky. I’ve obviously written more about AI this month than usual — in particular, my two long pieces regarding <a href="https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing">watermarking LLM-generated text</a> through <a href="https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking">word-choice diddling</a>. I don’t really write much about AI generally.</p>
 
-<p>Broadly, I’m making two arguments against text watermarking. First, that the embedding of a detectable signal (even if subtle) must necessarily degrade the quality of the generated prose (even if only slightly), and that this is an unacceptable trade-off for feature that has no benefit to the user and in fact can only be used <em>against</em> the user. Second, that even if I’m wrong about the first part, and a clever enough watermarking scheme <em>can</em> embed a detectable signature without any degradation of prose quality, this is a bad idea and should be rejected.</p>
+<p>Broadly, I’m making two arguments against text watermarking. First, that the embedding of a detectable signal (even if subtle) must necessarily degrade the quality of the generated prose (even if only slightly), and that this is an unacceptable trade-off for a feature that has no benefit to the user and in fact can only be used <em>against</em> the user. Second, that even if I’m wrong about the first part, and a clever enough watermarking scheme <em>can</em> embed a detectable signature without any degradation of prose quality, this is a bad idea and should be rejected.</p>
 
 <p>Reaction to my takes on text watermarking have largely been about these two arguments. Some people agree with me that what watermarking proponents are claiming is not possible — the text quality must degrade. Others agree that while it must have an effect on text quality, it in fact is so subtle that it truly does not matter and even a careful reader will not notice an overall degradation. Others disagree, tell me I don’t understand the cleverness of the systems, and are convinced that somehow  this watermarking truly embeds a detectable signal in prose without any degradation of text quality whatsoever. There’s a range of disagreement, but it’s all reasonable. Likewise on the broader question of whether it’s a good idea or not to even try to do this.</p>
 
-<p>The reaction on Bluesky to my recent work is like nothing else. It’s largely in the vein that watermarking can’t possible make AI-generated text worse because it’s already random gibberish, and that the only explanation for my being opposed to this is that I must be using AI to generated my own writing and I’m upset that my scheme will soon be detectable. <a href="https://bsky.app/profile/gruber.foo/post/3mt7wgebucvqv">Read the replies to this one</a>; they speak for themselves.</p>
+<p>The reaction on Bluesky to my recent work is like nothing else. It’s largely in the vein that watermarking can’t possibly make AI-generated text worse because it’s already random gibberish, and that the only explanation for my being opposed to this is that I must be using AI to produce my own writing and I’m upset that my scheme will soon be detectable. <a href="https://bsky.app/profile/gruber.foo/post/3mt7wgebucvqv">Read the replies to this one</a>; they speak for themselves.</p>
 
 <p><a href="https://daringfireball.net/linked/2026/05/30/jalkut-on-ai">I continue to think</a> my friend <a href="https://bsky.app/profile/danielpunkass.punkitup.com/post/3mmqcikjkjn2t">Daniel Jalkut has espoused the one true take</a>: “My take on AI is, essentially, everybody who’s against it is too against it and everybody who’s for it is too for it.” It is way less inflammatory to espouse an AI-skeptical stance on Twitter/X than it is to simply state that AI can be truly useful on Bluesky.</p>
 
 <p>Anyway, Masnick, <a href="https://bsky.app/profile/masnick.com/post/3mtke5x362g2x">at the end of the day yesterday</a>:</p>
 
-<p>The people bitching about me turning off replies on my thread earlier today are doing an excellent job reinforcing why I was right to turn off replies.</p>
+<blockquote>
+  <p>The people bitching about me turning off replies on my thread earlier today are doing an excellent job reinforcing why I was right to turn off replies.</p>
+</blockquote>
 
 <div>
 <a  title="Permanent link to ‘Bluesky Is Full of Anti-AI Zealots’"  href="https://daringfireball.net/linked/2026/08/21/bluesky-is-full-of-anti-ai-zealots">&nbsp;★&nbsp;</a>
