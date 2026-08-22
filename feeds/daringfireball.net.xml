@@ -7,7 +7,102 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-21T23:46:32Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-22T14:20:34Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>WorkOS: Agents Can Now Sign Up for Your App</title>
+	<link rel="alternate" type="text/html" href="https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xhw" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/22/workos-agents-sign-up" />
+	<id>tag:daringfireball.net,2026:/linked//6.43412</id>
+	<published>2026-08-22T14:18:29Z</published>
+	<updated>2026-08-22T14:18:30Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks to WorkOS for sponsoring <a href="https://daringfireball.net/2026/08/df_posts_drop_in_a_forest">the Daring Fireball weekly newsletter</a> this week to promote their Agent Registration. Agents are hitting your signup flow and they’re bouncing off a browser login that was designed for humans. Every one that gives up is a signup you never see.</p>
+
+<p><a href="https://workos.com/docs/authkit/agent-auth?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026">WorkOS Agent Registration</a> turns that traffic into signups. Enroll via the dashboard and AuthKit publishes an auth.md file that agents read to register for scoped, short-lived credentials you control.</p>
+
+<p><a href="https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026">Make your app agent-ready today</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS: Agents Can Now Sign Up for Your App’"  href="https://daringfireball.net/linked/2026/08/22/workos-agents-sign-up">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Dutch Regulator Fines Uber $1 Billion Suspending Dishonest Drivers</title>
+	<link rel="alternate" type="text/html" href="https://www.reuters.com/world/dutch-regulator-fines-uber-966-million-automating-driver-suspensions-document-2026-08-21/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xhv" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/22/dutch-regular-uber-fine" />
+	<id>tag:daringfireball.net,2026:/linked//6.43411</id>
+	<published>2026-08-22T14:12:07Z</published>
+	<updated>2026-08-22T14:20:34Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Toby Sterling, reporting for Reuters:</p>
+
+<blockquote>
+  <p>The Dutch Data Protection Authority has fined Uber €825 million
+($966 million) for deactivating driver accounts through automated
+systems without adequately informing them, according to an August
+17 decision reviewed by Reuters.</p>
+
+<p>The penalty would be the second-largest issued yet under Europe’s
+General Data Protection Regulation. It is behind only a €1.2
+billion fine imposed on Meta by Ireland in 2023 for unlawfully
+transferring European ​Facebook users’ data to the United States.
+Meta is appealing.</p>
+
+<p>Uber said it would also appeal. [...]</p>
+
+<p>The Dutch authority confirmed the decision later on Friday. “Uber
+has committed ​serious infringements,” in deactivating driver
+accounts without warning or human involvement, the organisation’s
+deputy chair Monique Verdier said in a statement. “From one moment
+​to the next they no longer had any income ... A computer should
+not make decisions on its own that have (such) major
+consequences.”</p>
+</blockquote>
+
+<p>This really takes the cake:</p>
+
+<blockquote>
+  <p>GDPR rules ban decisions made solely by computer algorithms when
+they have a significant impact on people’s lives, saying such
+decisions require meaningful human review and a way to challenge a
+decision.</p>
+
+<p>Uber temporarily suspended accounts of some drivers who ​were
+suspected of fraud, including ​when its systems concluded drivers
+had taken unnecessary detours to inflate fares or accepted trips
+without intending to complete them. Uber said such suspensions
+were usually brief, and it did not permanently deactivate such
+accounts without human review. Drivers with low ​customer ratings
+were sometimes permanently deactivated by computer, the Dutch
+agency said. Uber disputed that, saying ​it had never automated
+permanent deactivation decisions.</p>
+
+<p>The company said one reason it considers the fine disproportionate
+is that only a small number of drivers were affected, with 126
+having been deactivated in Europe as a result of low customer
+ratings in 2021.</p>
+</blockquote>
+
+<p>Maybe Reuters’s reporting is incomplete, but there’s no allegation that the grounds for these suspensions were incorrect. They suspended drivers who were pulling long-haul scams to run up fare prices, and the annoying thing where they accept a ride and then never show up, hoping the customer will eventually get frustrated and cancel the trip themselves. (My understanding is that drivers do this when they’re driving for, say, both Uber and Lyft. They’ll accept a ride from Uber and then if a more appealing offer comes from Lyft, they’ll accept that one too and just never pick up the customer they accepted from Uber.)</p>
+
+<p>Per this fine, it’s unlawful in the EU for Uber to monitor its drivers for pulling scams against customers, or just never picking riders up, leaving them stranded. I mean, I’m not a member of the “Uber Labor Practices” fan club, but one of the best things about Uber compared to taxis is that they monitor for and take action against scam drivers. Where does customer experience factor into this?</p>
+
+<div>
+<a  title="Permanent link to ‘Dutch Regulator Fines Uber $1 Billion Suspending Dishonest Drivers’"  href="https://daringfireball.net/linked/2026/08/22/dutch-regular-uber-fine">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>The Fourth Horseman of the File-Format-Hegemony Apocalypse</title>
 	<link rel="alternate" type="text/html" href="https://techcommunity.microsoft.com/blog/onedriveblog/introducing-markdown-support-in-sharepoint-and-onedrive/4512174" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xhu" />
@@ -2262,160 +2357,6 @@ agents work side by side, with a Developer Platform teams can build on.</li>
 
 <div>
 <a  title="Permanent link to ‘The Talk Show: ‘Getting the Snack Right’’"  href="https://daringfireball.net/linked/2026/08/11/the-talk-show-454">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Netflix Has Peaked</title>
-	<link rel="alternate" type="text/html" href="https://sharptext.net/2026/is-netflix-washed-now/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xgl" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/11/netflix-has-peaked" />
-	<id>tag:daringfireball.net,2026:/linked//6.43365</id>
-	<published>2026-08-11T18:54:53Z</published>
-	<updated>2026-08-11T20:17:15Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Andrew Sharp, writing at Sharp Text last month after Netflix’s earnings, asking “<a href="https://sharptext.net/2026/is-netflix-washed-now/">Is Netflix Washed Now?</a>”:</p>
-
-<blockquote>
-  <p>I offer this observation as a swirl of heightened anxiety
-surrounds the company, so let me clarify one thing up front: I’m
-not predicting imminent doom. Netflix content reaches a staggering
-<a href="https://www.bloomberg.com/news/newsletters/2026-07-12/netflix-combats-questions-about-slowing-growth?cmpid=screentime&amp;utm_campaign=screentime&amp;utm_medium=email&amp;utm_source=newsletter&amp;utm_term=260712&amp;utm_content=6453">85% of American viewers</a> and has <a href="https://thehill.com/homenews/media/5697585-netflix-booming-subscription-business/">325 million subscribers
-globally</a>. Growth is <a href="https://www.bloomberg.com/news/articles/2026-04-16/netflix-revenue-beats-estimates-as-hastings-steps-down">slowing</a>, but that’s the law of
-large numbers. If practically everyone in America and much of the
-world is already subscribed to some version of Netflix, and churn
-rates are still low, then any concern is relative. Going forward:
-cable is still dying, and even if the biggest premium distribution
-platform in the world can’t make great content of its own, it can
-still license movies, TV and sports rights. Netflix can then
-spread those costs across hundreds of millions of subscribers and
-a steadily growing ads business, seeing more engagement in a week
-than Apple TV sees in a year.</p>
-
-<p>So no, the company’s not doomed today or destined for collapse
-tomorrow. Instead, I think what’s interesting to consider is that
-Netflix has almost certainly peaked. As a cultural force, as a
-business success story, and as an entertainment death star
-destined to swallow Hollywood whole, the arrows are all pointing
-the wrong direction.</p>
-</blockquote>
-
-<p>Sometimes the problem with a company isn’t that it isn’t a good business, but merely that it isn’t <em>as</em> good a business as it holds itself up to be. A billion-dollar business ought to be a good thing, but it’s a disaster if the company is valued by investors as a trillion-dollar business. That’s Netflix.</p>
-
-<p>To me it’s backwards that Netflix is valued at $300 billion, <a href="https://companiesmarketcap.com/">roughly the 50th most valued company in the world</a>, and Disney is valued at $180 billion, roughly 120th. Netflix has a streaming video service and owns some IP, like <em>Stranger Things</em> and <em>Squid Game</em>. Disney owns two streaming video services (Disney+ and Hulu), and owns some IP. Little stuff like Mickey Mouse, <em>Star Wars</em>, <em>Marvel</em>, the Disney princesses, and everything from Pixar. Netflix has started dabbling in sports; Disney owns ESPN. Disney owns the world’s biggest and best theme parks and an entire cruise ship line.</p>
-
-<p>It’s true that Netflix’s streaming service is by far the biggest in the world, and likely will remain so for the foreseeable future. But Disney+ combined with Hulu is clearly in second place globally.</p>
-
-<p>For the most recent 12 months:</p>
-
-<p><table class="table-F0A58456-C897-4AD9-A289-6E1AF664FBB5" width=300>
-<style>
-.table-F0A58456-C897-4AD9-A289-6E1AF664FBB5 th:nth-child(1) { text-align: left }
-.table-F0A58456-C897-4AD9-A289-6E1AF664FBB5 td:nth-child(1) { text-align: left }
-.table-F0A58456-C897-4AD9-A289-6E1AF664FBB5 th:nth-child(2) { text-align: center }
-.table-F0A58456-C897-4AD9-A289-6E1AF664FBB5 td:nth-child(2) { text-align: center }
-.table-F0A58456-C897-4AD9-A289-6E1AF664FBB5 th:nth-child(3) { text-align: center }
-.table-F0A58456-C897-4AD9-A289-6E1AF664FBB5 td:nth-child(3) { text-align: center }
-</style>
-<thead>
-<th></th><th>Disney</th><th>Netflix</th>
-</thead>
-<tbody>
-<tr>
-<td>Revenue</td><td>$97 B</td><td>$48 B</td>
-</tr>
-<tr>
-<td>Net Profit</td><td>$11 B</td><td>$14 B</td>
-</tr>
-<tr>
-<td>Net Margin</td><td>11.5%</td><td>28%</td>
-</tr>
-<tr>
-<td></td><td></td><td></td>
-</tr>
-</tbody>
-</table></p>
-
-<p>Netflix is generating slightly more profit on half the revenue. With its theme parks, resorts, and cruise ships, big parts of Disney are effectively hardware, not software — so it’s almost inevitable its margins will be lower than a pure software play like Netflix. But those “hardware” businesses diversify Disney. How confident are you that Netflix will remain the undisputed leader in streaming 10 years from now, or 25? I’d bet good money that Walt Disney World will be the world’s biggest, best, and most profitable theme park <em>50 years from now</em>. And it’s a joke to compare the value and longevity of the two companies’ IP.</p>
-
-<p>I don’t know that Disney is undervalued by the market, but I sure think Netflix is overvalued. And as for quality, I’ve watched a bit more Netflix original content this summer than I had of late. David Attenborough’s <em><a href="https://www.netflix.com/title/81674730">A Gorilla Story</a></em> was a splendid documentary, but nature documentaries don’t pay the bills. A few other things I watched (or at least watched part of) were <a href="https://www.netflix.com/title/82016571">absolute dreck</a>. Not high-quality fun trash like <em><a href="https://www.netflix.com/title/81115994">Tiger King</a></em> but amateur-hour I’m-worried-I-lost-a-few-IQ-points-by-watching-it trash. We pay $27/month for Netflix premium and I can say unequivocally that it’s not worth it. I continue paying for it because I’m willing to overpay for it the same way I am for beverages at a hotel — it’s money I’m willing to squander, knowing full well I’m squandering it.</p>
-
-<p>It feels to me like Mr. Market is getting increasingly skeptical whether Netflix justifies its valuation, and Netflix is getting a little squirrelly and desperate trying to come up with an answer. Simple question: what’s their moat? It sure isn’t content quality.</p>
-
-<div>
-<a  title="Permanent link to ‘Netflix Has Peaked’"  href="https://daringfireball.net/linked/2026/08/11/netflix-has-peaked">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Anthropic Posts ‘How Claude Marks AI-Generated Content’ Without Explaining How Claude Marks AI-Generated Content</title>
-	<link rel="alternate" type="text/html" href="https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xgk" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/11/anthropic-claude-watermarks" />
-	<id>tag:daringfireball.net,2026:/linked//6.43364</id>
-	<published>2026-08-11T17:59:22Z</published>
-	<updated>2026-08-11T21:19:23Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Anthropic support page:</p>
-
-<blockquote>
-  <p>Anthropic has signed the EU AI Act’s Article 50(2) Code of
-Practice on Transparency of AI-Generated Content, as a provider of
-both generative AI models and generative AI systems. This article
-describes how we’re planning to put those commitments into
-practice, how marking works, and what its limitations are. We’ll
-update this article and publish more detailed technical guidance
-as it becomes available.</p>
-</blockquote>
-
-<p>Regarding generated plain text output:</p>
-
-<blockquote>
-  <p>When a supported Claude model generates text, it weaves an
-imperceptible watermark directly into the text itself. You won’t
-see it, and it doesn’t change the meaning, quality, or readability
-of Claude’s response.</p>
-
-<p>Because the watermark is part of the text, it will travel with the
-text when it’s copied and pasted elsewhere, and may persist
-through some editing. Watermarking will be applied at the model
-level, which means it will be present no matter which Claude
-product or surface the text comes from. [...]</p>
-
-<p>We’re also working to enable users and other third parties to
-detect Claude’s embedded watermarks and provenance metadata.
-Detection checks whether a piece of text or a file carries a
-supported Claude mark. If a supported mark is found, it indicates
-that the content may have been processed by Claude.</p>
-
-<p>We’ll share details on detection mechanisms in forthcoming
-technical documentation.</p>
-</blockquote>
-
-<p>Anthropic is claiming this is for compliance with an EU law but that “Marking will apply to output from supported models wherever Claude is offered, worldwide.”</p>
-
-<p>This is infuriatingly opaque. I won’t speak to the “signed provenance metadata” they say they’ll be embedding in generated <em>files</em> like PDFs, SVGs, PNGs, and JPEGs. That’s important but it’s complex. Plain text is simple. A string of text is just one character followed by another. At first I presumed that Claude is going to start “embedding” invisible characters/byte sequences between visible characters — which would unavoidably cause immediate problems.</p>
-
-<p>Let’s say I have Claude generate the phrase “Hello world”. (Two words is surely too short to bother with “AI generated” detection — I’m using a two-word phrase here for simplicity in the example.) Claude creates the string of characters “<em>Hello«invisible characters that comprise a “watermark” here</em>» world”. I paste this on the web. Humans who look at it will see “Hello world” but the invisible characters are there. Character-count-limited social media platforms will show that the string contains more than the 11 visible characters in “Hello world”.</p>
-
-<p>If the “watermark” is not comprised of invisible characters but rather visible ones, how in the world does this jibe with their claim that it’s “imperceptible”? <a href="https://www.reddit.com/r/ClaudeAI/comments/1vky8at/claude_will_watermark_generated_content_thank_you/">This Reddit thread</a> claims that’s how it will work — “It’s a form of steganography where the model subtly biases its word choice to create a statistical pattern that can be detected later.” How in the world can that be squared with “it doesn’t change the meaning, quality, or readability”? And any sort of semantic detection like this is going to cause false-positive problems.</p>
-
-<p>If I ask a tool to generate text or suggest text for me, I expect that tool to generate the best possible word choices it can. Not corrupt its output for the sake of watermarking. If they go through with this, this ought to be poison to the Claude brand.</p>
-
-<p>What happens if you copy my text and quote it in something you write, by hand? Now you’ve got a watermark in <em>your</em> prose, invisible characters or something, that implicates that your prose is AI-generated? Even though you didn’t use AI and just copy and pasted text from me? Madness.</p>
-
-<p>They obviously need to explain exactly what they’re embedding in text if anyone is actually going to detect it, but if they explain it, anyone can simply remove it. And what happens, for example, if someone just OCRs Claude-generated text rather than selects and copies it? This is all <a href="https://www.reddit.com/r/ClaudeAI/comments/1vky8at/claude_will_watermark_generated_content_thank_you/">so stupid</a>. I have never been happier that I’ve never actually used Claude for anything.</p>
-
-<div>
-<a  title="Permanent link to ‘Anthropic Posts ‘How Claude Marks AI-Generated Content’ Without Explaining How Claude Marks AI-Generated Content’"  href="https://daringfireball.net/linked/2026/08/11/anthropic-claude-watermarks">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
