@@ -7,7 +7,57 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-22T18:55:51Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-23T17:38:34Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Cooper Sharp Proves That American Cheese Can Be Great Cheese</title>
+	<link rel="alternate" type="text/html" href="https://sixcolors.com/member/2026/08/this-week-in-apple-lets-fight/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xhy" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/23/moltz-cooper-sharp" />
+	<id>tag:daringfireball.net,2026:/linked//6.43414</id>
+	<published>2026-08-23T17:36:28Z</published>
+	<updated>2026-08-23T17:38:34Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>John Moltz, in his weekly members-only column for Six Colors (no gift links, but Moltz’s column is <a href="https://sixcolors.com/subscribe/">worth the subscription</a> in and of itself):</p>
+
+<blockquote>
+  <p>This week <a href="https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content">Anthropic announced</a> that in order to identify AI from
+human-generated content it would be watermarking all text it
+generates by subtly altering the randomness at which its models
+picked the next word. While this might seem a perfectly cromulent
+means of accomplishing a worthy goal, it really rubbed John Gruber
+the wrong way, as if someone suggested putting autocomplete Swiss
+on his Philly cheesesteak AI.</p>
+</blockquote>
+
+<p><a href="https://coopercheese.com/products/cooper-sharp-white">Cooper Sharp</a> cheese is the way to go. The best new cheesesteak joint in town — <a href="https://readingterminalmarket.org/merchant/uncle-gus/">Uncle Gus’s</a> — <em>only</em> offers Cooper Sharp, in fact.</p>
+
+<blockquote>
+  <p>Surely a fair number of the hundreds and hundreds of bees that
+have nested in Gruber’s extremely fancy bonnet are a result of the
+fact that this all ostensibly in response to a mandate from the
+EU. But, as James Thomson has suggested, Anthropic might actually
+<em>want</em> to watermark so that it doesn’t scoop up is own output to
+train its models, thereby degrading the results. In fact, the
+company would probably love to be able to figure out other
+companies’ watermarks and have them not be able to figure out its
+watermark.</p>
+</blockquote>
+
+<p>For the record, my opposition to Claude’s plan to begin watermark-adulterating all generated text, worldwide, has nothing to do with it ostensibly being to comply with a regulation from the EU. I do think the EU regulation is deeply ill-considered (and, having been drafted in 2024, already technically out of date), but I’d have written everything I wrote (and will continue to write) about the matter even if the EU had no AI-related regulations in place. In fact, while writing <a href="https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing">my initial piece</a>, I really wished this had nothing to do with the EU, because pointing out the folly of the regulation (and the ridiculousness of company supposedly worth $2 trillion being technically unable to comply with an EU regulation only within the EU itself) seemed a distraction from my point, regarding the ramifications of watermarking text by way of detectable word choices. Moltz’s aside here confirms that.</p>
+
+<p>Also, more and more, I do think this has little to do with the EU regulation and everything to do with Anthropic and Google wanting to watermark the text that Claude and Gemini generate for their own purposes, to identify text to avoid training future models on to avoid <a href="https://en.wikipedia.org/wiki/Model_collapse">model collapse/AI inbreeding</a>. I suspect blaming the decision on the EU “Code of Practice” regulation is just scapegoating on Anthropic’s part.</p>
+
+<p>(As a bonus, Moltz has a deliciously sharp (no cheese pun intended) take on the schadenfreude-rich saga of MacStories returning to Twitter/X.)</p>
+
+<div>
+<a  title="Permanent link to ‘Cooper Sharp Proves That American Cheese Can Be Great Cheese’"  href="https://daringfireball.net/linked/2026/08/23/moltz-cooper-sharp">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’</title>
 	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html?unlocked_article_code=1.7VA.r3Ue.GTc_tOhX0qSn" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xhx" />
@@ -2318,44 +2368,6 @@ But. In the meantime, I feel helpless, discouraged, deeply <em>sad</em>.</p>
 
 <div>
 <a  title="Permanent link to ‘BMW Probably Paid Sony for the Spider-Man Dashboard Ads, Not the Other Way Around’"  href="https://daringfireball.net/linked/2026/08/11/bmw-spider-man-who-paid-who">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Mark Zuckerberg Posts 6,500-Word AI Essay</title>
-	<link rel="alternate" type="text/html" href="https://www.meta.com/thefutureisforeveryone/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xgn" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/11/zuckerberg-essay" />
-	<id>tag:daringfireball.net,2026:/linked//6.43367</id>
-	<published>2026-08-11T19:36:36Z</published>
-	<updated>2026-08-11T19:37:53Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p><a href="https://daringfireball.net/linked/2026/07/30/zuck-ai-for-everyone">Two weeks ago</a> Zuckerberg published a 1,000-word essay, “<a href="https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20?st=foa4Pe">The AI Future Is for Everyone</a>”. This week he published an expanded 6,500-word version of the essay on Meta’s website. Somehow it almost says nothing more than the original. This tidbit, however, struck me as notable:</p>
-
-<blockquote>
-  <p>For example, in Richland Parish, Louisiana, where Meta is building
-a large data center, teachers received a $50,000 bonus this year
-because of the increased tax revenue from our investment. The
-superintendent told us that teachers are now moving there from
-across the country and he believes it will become one of the
-nation’s best school districts.</p>
-
-<p>Unlike the concern about knowledge work displacement, there is a
-shortage of skilled tradespeople like carpenters, electricians,
-and construction workers to support the demand for infrastructure
-buildout. Meta has created America’s Workforce Academy to provide
-free training for skilled tradespeople and guaranteed high-paying
-jobs in the areas we’re building data centers.</p>
-</blockquote>
-
-<p>Those $50K bonuses to public-school teachers <a href="https://www.nytimes.com/2026/06/23/us/louisana-teachers-bonus-meta-tax-revenue.html?unlocked_article_code=1.4lA.WA0a.H9T0e98nc0AU">are real</a>, and they’re more than most of those teachers’ annual salaries. That’s <a href="https://daringfireball.net/linked/2026/05/18/alaska-permanent-fund">the sort of thing</a> that could turn public sentiment on data center construction around. <a href="https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx">But it hasn’t turned around yet</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Mark Zuckerberg Posts 6,500-Word AI Essay’"  href="https://daringfireball.net/linked/2026/08/11/zuckerberg-essay">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
