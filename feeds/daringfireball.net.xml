@@ -7,14 +7,14 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-23T21:03:55Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-23T22:10:54Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>Cooper Sharp Proves That American Cheese Can Be Great Cheese</title>
 	<link rel="alternate" type="text/html" href="https://sixcolors.com/member/2026/08/this-week-in-apple-lets-fight/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xhy" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/23/moltz-cooper-sharp" />
 	<id>tag:daringfireball.net,2026:/linked//6.43414</id>
 	<published>2026-08-23T17:36:28Z</published>
-	<updated>2026-08-23T21:03:55Z</updated>
+	<updated>2026-08-23T22:10:54Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -46,7 +46,7 @@ companies’ watermarks and have them not be able to figure out its
 watermark.</p>
 </blockquote>
 
-<p>For the record, my opposition to Claude’s plan to begin watermark-adulterating all generated text, worldwide, has nothing to do with it ostensibly being to comply with a regulation from the EU. I do think the EU regulation is deeply ill-considered (and, having been drafted in 2024, already technically out of date), but I’d have written everything I wrote (and will continue to write) about the matter even if the EU had no AI-related regulations in place. In fact, while writing <a href="https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing">my initial piece</a>, I really wished this had nothing to do with the EU, because pointing out the folly of the regulation (and the ridiculousness of a company supposedly worth $2 trillion being technically unable to comply with an EU regulation only within the EU itself) seemed a distraction from my point, regarding the ramifications of watermarking text by way of detectable word choices. Moltz’s aside here confirms that.</p>
+<p>For the record, my opposition to Claude’s plan to begin watermark-adulterating all generated text, worldwide, has nothing to do with it ostensibly being to comply with a regulation from the EU. I do think the EU regulation is deeply ill-considered (and, having been drafted in 2024, already technically out of date), but I’d have written everything I wrote (and will continue to write) about the matter even if the EU had no AI-related regulations in place. In fact, while writing <a href="https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing">my initial piece</a>, I really wished this had nothing to do with the EU, because pointing out the folly of the regulation (and the ridiculousness of a company supposedly worth $2 trillion being technically unable to comply with an EU regulation without applying the changes globally) seemed a distraction from my point, regarding the ramifications of watermarking text by way of detectable word choices. Moltz’s aside here confirms that.</p>
 
 <p>Also, more and more, I do think this has little to do with the EU regulation and everything to do with Anthropic and Google wanting to watermark the text that Claude and Gemini generate for their own purposes, to identify text to avoid training future models on to avoid <a href="https://en.wikipedia.org/wiki/Model_collapse">model collapse/AI inbreeding</a>. I suspect blaming the decision on the EU “Code of Practice” regulation is just scapegoating on Anthropic’s part.</p>
 
