@@ -7,7 +7,40 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-24T22:47:20Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-24T23:33:51Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Apple Rethinks Plan to Merge ‘Hide My Email’ Domain Name With ‘Sign In With Apple’</title>
+	<link rel="alternate" type="text/html" href="https://developer.apple.com/news/?id=1ptvdtcm" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xi2" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/24/apple-rethinks-hide-my-email-domain" />
+	<id>tag:daringfireball.net,2026:/linked//6.43418</id>
+	<published>2026-08-24T23:33:50Z</published>
+	<updated>2026-08-24T23:33:51Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Apple Developer News:</p>
+
+<blockquote>
+  <p>Starting later this year, new Sign in with Apple addresses,
+previously issued on <code>privaterelay.appleid.com</code>, will be issued on
+<code>private.icloud.com</code>. Existing addresses on
+<code>privaterelay.appleid.com</code> will continue to work and forward mail
+to users without interruption.</p>
+
+<p>After further consideration and reviewing community feedback,
+iCloud+ Hide My Email addresses will remain on <code>icloud.com</code>.</p>
+</blockquote>
+
+<p><a href="https://daringfireball.net/linked/2026/06/18/new-domain-for-signinwithapple-and-icloudhidemyemail">Back in June, Apple announced</a> plans to merge both systems onto the new <code>private.icloud.com</code> domain. The objection to this plan was rather obvious: it’s fine for Sign In With Apple to use an easily distinguishable domain name, because they only sites that see such email addresses are those that support Sign In With Apple (SIWA). The problem with moving Hide My Email (HME) addresses to a distinguishable domain name is that we often want to use such hidden email addresses on sites that would prefer to block those addresses and try to force us to use our “real” addresses. A little birdie suggested to me after I wrote about it in June that there were strong objections to the merger internally all along, from the HME side. Seems like those objections have won out.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Rethinks Plan to Merge ‘Hide My Email’ Domain Name With ‘Sign In With Apple’’"  href="https://daringfireball.net/linked/2026/08/24/apple-rethinks-hide-my-email-domain">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/08/what_is_the_point_of_the_dma" />
 	<link rel="shorturl" href="http://df4.us/xi1" />
@@ -2345,81 +2378,6 @@ in macOS 27 Beta 5.</p>
 
 <div>
 <a  title="Permanent link to ‘Nature Is Healing’"  href="https://daringfireball.net/linked/2026/08/12/nature-is-healing">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>The Economist: ‘How to Spot AI Writing’</title>
-	<link rel="alternate" type="text/html" href="https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=NzBlNTc2OGItMDgxNS00N2EzLWE4NmUtZDgzZmE4Y2FkM2Mw" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xgq" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/11/economist-ai-writing" />
-	<id>tag:daringfireball.net,2026:/linked//6.43370</id>
-	<published>2026-08-11T21:37:06Z</published>
-	<updated>2026-08-15T21:46:41Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>The Economist (‘twas a gift link, but alas, I guess gift views have been used up — here’s <a href="https://archive.ph/20260811223012/https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing">an archive link</a> in case the gift link is vexing you):</p>
-
-<blockquote>
-  <p>You can discover AI’s hallmarks by comparing the writing of man
-and machine. To do this you need a baseline that is distinctive
-and familiar. The Economist turned to prose that we’re sure is
-human and that readers will recognise: our own. We designed a
-study to ask top LLMs — OpenAI’s ChatGPT, Anthropic’s Claude,
-Google’s Gemini and xAI’s Grok — to write versions of our articles
-without consulting the web. (As a prompt, we gave them the
-AI-generated summaries that we have experimentally added to some
-of our articles.)</p>
-
-<p>This gave us a corpus of human and AI creations and we compared
-them across 55,940 sentences and 1.2m words. To make sure we were
-detecting AI quirks rather than our own, we also checked the AI
-texts against journalism from CNN, the New York Times and the
-Washington Post. Excerpts from hit novels published between 1950
-and 2022 offered another test.</p>
-
-<p>Our findings are surprising. AI prose is distinguishable by word
-and punctuation choice as well as sentence and paragraph
-structure. But its hallmarks are not what you might expect, partly
-because its writing style has changed with software updates. That
-does not mean that LLMs are great writers: their prose lacks
-lucidity and elegance and is often formulaic. So those aspiring to
-be impressive (human) storytellers should avoid the following
-peculiarities in their own prose.</p>
-</blockquote>
-
-<p>On point for <a href="https://daringfireball.net/linked/2026/08/11/anthropic-claude-watermarks">today</a>.</p>
-
-<p>Some specific findings:</p>
-
-<blockquote>
-  <p>Much of this language could be described as what George Orwell
-called “pretentious diction”. He railed against writers who “dress
-up simple statements” with complicated words and jargon to sound
-clever. Such pontificating penmen, Orwell observed, also believe
-that “Latin or Greek words are grander than Saxon ones”. (Bots
-agree: more Latinate suffixes crop up in their writing than in
-human texts.)</p>
-
-<p>Then look at punctuation. Many believe LLMs stuff their prose with
-em-dashes, but that is not true after the most recent updates.
-Today only Claude uses more em-dashes than human writers, with
-ChatGPT using markedly fewer than any other writer in our study.
-Humans rejoice — and start using dashes again.</p>
-
-<p>A better way to spot AI-generated writing would be to look for
-texts without much punctuation at all. LLMs are very Joycean about
-it: they use fewer commas and semicolons than humans (and hardly
-any parentheses). They use less punctuation in part because they
-write longer sentences — “and” is their most overused word — and
-in part because they do not quote experts.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘The Economist: ‘How to Spot AI Writing’’"  href="https://daringfireball.net/linked/2026/08/11/economist-ai-writing">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
