@@ -7,7 +7,41 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-25T21:39:15Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-25T22:17:40Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Update Regarding the Base Prices of the M5 Max Mac Studio</title>
+	<link rel="alternate" type="text/html" href="https://daringfireball.net/2026/08/configurations_and_pricing_for_new_mac_minis_and_mac_studios" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xi7" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/25/update-regarding-the-base-prices-of-the-m5-max-mac-studio" />
+	<id>tag:daringfireball.net,2026:/linked//6.43423</id>
+	<published>2026-08-25T22:17:40Z</published>
+	<updated>2026-08-25T22:17:40Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>I made a mistake in <a href="https://daringfireball.net/2026/08/configurations_and_pricing_for_new_mac_minis_and_mac_studios">my table earlier today</a> regarding the base price of <a href="https://www.apple.com/shop/buy-mac/mac-studio/m5-max-chip-18-core-cpu-32-core-gpu-36gb-memory-512gb-storage">the M5 Max Mac Studio</a>, but my mistake was because of a rather sneaky design in Apple’s purchasing flow. Apple’s web interface looks like this:</p>
+
+<p><a href="https://daringfireball.net/misc/2026/08/m5-max-mac-studio-sneaky-pricing.png" class="noborder">
+<img
+    src = "https://daringfireball.net/misc/2026/08/m5-max-mac-studio-sneaky-pricing.png"
+    alt = "Screenshot from Apple.com, showing the 40-core GPU version of the M5 Max Mac Studio as “+ $300”."
+/></a></p>
+
+<p>Both of the available M5 Max SoCs have 18-core CPUs, but the entry model (that starts at $2,500) has a 32-core GPU, and the upgraded chip has a 40-core GPU. That upgrade is labeled “+ $300”, which makes it look as though the starting price for the 18/40-core model is $2,800. That’s the price I put in the original version of my chart.</p>
+
+<p>But if you select that option, you’ll notice that the actual starting price jumps from $2,500 to $3,100 — a $600 difference, not $300. The reason is that the $2500 18/32-core version only comes with one option for RAM: 32 GB. The 18/40-core chip has three tiers for RAM: 48, 64, and 128 GB. So when you switch from the 18/32-core chip to the 18/40-core chip, you don’t just get 8 extra GPU cores (which Apple is saying costs $300), but the base RAM jumps from 32 to 48 GB, and that costs you an <em>additional</em> $300.</p>
+
+<p>Apple does show a blue notification stripe when you change chips here, which states “Based on your new selection, other parts of your configuration have been updated. Please review the changes.” But because the RAM options are mutually exclusive between the two M5 Max variants, it’s easy to make the mistake I did, and think the base price for the 18/40-core M5 Max Studio is <code>$2,500 + $300 = $2,800</code>, when in fact it’s <code>$2,500 + $300 + $300 = $3,100</code>.</p>
+
+<p>I regret the error, and we all regret how expensive all of this has gotten.</p>
+
+<div>
+<a  title="Permanent link to ‘Update Regarding the Base Prices of the M5 Max Mac Studio’"  href="https://daringfireball.net/linked/2026/08/25/update-regarding-the-base-prices-of-the-m5-max-mac-studio">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Footnote Regarding the GDPR and Cookie Permission Prompts</title>
 	<link rel="alternate" type="text/html" href="https://daringfireball.net/2026/08/what_is_the_point_of_the_dma#fn1-2026-08-24" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xi6" />
@@ -44,7 +78,7 @@ web browser. Job well done.</p>
 	<link rel="shorturl" href="http://df4.us/xi5" />
 	<id>tag:daringfireball.net,2026://1.43421</id>
 	<published>2026-08-25T14:38:01Z</published>
-	<updated>2026-08-25T21:39:15Z</updated>
+	<updated>2026-08-25T21:57:10Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -58,13 +92,13 @@ web browser. Job well done.</p>
 <pre><code>12-core CPU, 12-core GPU: $900
   RAM:
        16 GB      $0
-       24 GB    +200
-       32 GB    +400
+       24 GB    $200
+       32 GB    $400
   SSD:
       256 GB      $0
-      512 GB    +200
-        1 TB    +500
-        2 TB   +1000
+      512 GB    $200
+        1 TB    $500
+        2 TB   $1000
 </code></pre>
 
 <h2>Mac Mini M5 Pro</h2>
@@ -230,7 +264,7 @@ iCloud+ Hide My Email addresses will remain on <code>icloud.com</code>.</p>
 	<link rel="shorturl" href="http://df4.us/xi1" />
 	<id>tag:daringfireball.net,2026://1.43417</id>
 	<published>2026-08-24T22:47:20Z</published>
-	<updated>2026-08-25T19:23:42Z</updated>
+	<updated>2026-08-25T21:58:43Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -301,7 +335,7 @@ the necessary iOS paraphernalia in them.</p>
 <hr />
 <ol>
 <li id="fn1-2026-08-24">
-<p>This also explains the European Commission’s obvious satisfaction with <a href="https://gdpr.eu/cookies/">the GDPR’s “cookie” regulations</a> for the web. Defenders of this aspect of the GDPR always retort with the same argument, correctly pointing out that the GDPR does not <em>require</em> annoying cookie-permission <a href="https://daringfireball.net/2026/05/what_is_a_dickover">dickovers</a> and dickbars. The GDPR presents websites with a choice: don’t track users with cookies, or, get their permission before you do. And it just turned out that the overwhelming majority of the commercial web chooses the latter option. Like, the intention might have been for most websites to face this choice and decide, “<em>Oh, jeez, we don’t want to badger our visitors with endless annoying dickovers, so we better scrap all our tracking cookies.</em>” But of course that’s not what these websites did. The result we now face — especially within the EU, where the web experience is positively lousy with cookie-permission prompts — was entirely predictable given the options presented by the GDPR. Defenders of the GDPR defend it on the grounds that it presents a good intention — reducing the practice of unnecessary tracking on the web. And those defenders pin the blame for the infestation of cookie-permission banners on the websites that choose to present them. Critics of the GDPR (and you know which side I’m on) simply point to the actual practical effects of the law. Before the GDPR, there were no cookie-permission dickovers; after, they’re everywhere, especially in the EU, but they’re also quite prevalent outside the EU. And, the practice of unnecessary tracking on the web is completely unchanged. If anything it’s probably more widespread now than before the GDPR. The best way to handle unnecessary tracking is to encourage users to use better web browsers with effective content-blocking extensions installed.</p>
+<p>This also explains the European Commission’s obvious satisfaction with <a href="https://gdpr.eu/cookies/">the GDPR’s “cookie” regulations</a> for the web. Defenders of this aspect of the GDPR always retort with the same argument, correctly pointing out that the GDPR does not <em>require</em> annoying cookie-permission <a href="https://daringfireball.net/2026/05/what_is_a_dickover">dickovers</a> and dickbars. The GDPR presents websites with a choice: don’t track users with cookies, or, get their permission before you do. And it just turned out that the overwhelming majority of the commercial web has chosen the latter option. Like, the intention might have been for most websites to face this choice and decide, “<em>Oh, jeez, we don’t want to badger our visitors with endless annoying dickovers, so we better scrap all our tracking cookies.</em>” But of course that’s not what these websites did. The result we now face — especially within the EU, where the web experience is positively lousy with cookie-permission prompts — was entirely predictable given the options presented by the GDPR. Defenders of the GDPR defend it on the grounds that it presents a good intention — reducing the practice of unnecessary tracking on the web. And those defenders pin the blame for the infestation of cookie-permission banners on the websites that choose to present them. Critics of the GDPR (and you know which side I’m on) simply point to the actual practical effects of the law. Before the GDPR, there were no cookie-permission dickovers; after, they’re everywhere, especially in the EU, but they’re also quite prevalent outside the EU. And, the practice of unnecessary tracking on the web is completely unchanged. If anything it’s probably more widespread now than before the GDPR. The best way to handle unnecessary tracking is to encourage users to use better web browsers with effective content-blocking extensions installed.</p>
 
 <p>The GDPR is a wide-ranging set of regulations and some of them are truly excellent, giving EU citizens rights to control their own data. But the “cookie permission” nonsense has, in practice, done nothing for the web except make it worse. It hasn’t done a thing to improve personal privacy, and has resulted in a veritable deluge of annoying cookie-permission prompts. The main result of those ubiquitous prompts has been to encourage more people to spend their time using native mobile apps in lieu of the web. But the European Commission looks at this situation and pats itself on the back. If they saw the deluge of cookie-permission prompts as a problem, an unintended consequence worth fixing, they would fix it. The GPDR went into effect 10 years ago. By their inaction, they obviously think it’s working just fine. I think they look at the situation and realize, with satisfaction, that every time any website presents a cookie-permission dickover, that dickover effectively has a “Brought to you by the European Commission” badge on it. They were here, they did something, and everyone around the world sees the fruits of the GDPR cookie regulations every time they open their web browser. Job well done.&nbsp;<a href="#fnr1-2026-08-24"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
 </li>
@@ -2110,45 +2144,6 @@ further improve customer privacy.”</p>
 
 <div>
 <a  title="Permanent link to ‘Amazon Is Spiting Customers With Unhelpful Order Confirmation Emails’"  href="https://daringfireball.net/linked/2026/08/12/amazon-spite">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>App Store Scam of the Week: ‘TabControl Extension’ for Safari</title>
-	<link rel="alternate" type="text/html" href="https://lapcatsoftware.com/articles/2026/8/4.html" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xgt" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/12/app-store-scam-tabcontrol" />
-	<id>tag:daringfireball.net,2026:/linked//6.43373</id>
-	<published>2026-08-12T15:06:05Z</published>
-	<updated>2026-08-12T15:06:18Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jeff Johnson:</p>
-
-<blockquote>
-  <p>These purported reviews, all but one of which is 5 stars, are all
-in English. Yet none of them is in the US App Store. I also looked
-at other English-speaking countries such as <a href="https://apps.apple.com/au/app/tabcontrol-extension/id6756828264">Australia</a> and
-<a href="https://apps.apple.com/ca/app/tabcontrol-extension/id6756828264">Canada</a> but found no reviews. Also suspicious is that the name
-of every reviewer was a first name followed by an initial for the
-last name. If you’ve ever looked through App Store user reviews,
-it’s unusual to find this naming format. In most cases, the name
-on App Store user reviews is a uniquely chosen username, with no
-space character, often suffixed by a number.</p>
-
-<p>The final and most conclusive evidence that these reviews are
-fake, totally invented out of thin air by the developer (or more
-likely, by an LLM), is that the dates on the reviews, such as “Mar
-12,” predate the release of TabControl Extension in the App Store!</p>
-</blockquote>
-
-<p>God only knows what this obvious AI slop scam is doing with the data from users’ Safari tabs. It’s currently the 12th or 13th most popular Safari extension in the App Store.</p>
-
-<div>
-<a  title="Permanent link to ‘App Store Scam of the Week: ‘TabControl Extension’ for Safari’"  href="https://daringfireball.net/linked/2026/08/12/app-store-scam-tabcontrol">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
