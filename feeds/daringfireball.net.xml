@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-25T14:40:43Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-25T15:41:21Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/08/configurations_and_pricing_for_new_mac_minis_and_mac_studios" />
 	<link rel="shorturl" href="http://df4.us/xi5" />
@@ -199,7 +199,7 @@ iCloud+ Hide My Email addresses will remain on <code>icloud.com</code>.</p>
 	<link rel="shorturl" href="http://df4.us/xi1" />
 	<id>tag:daringfireball.net,2026://1.43417</id>
 	<published>2026-08-24T22:47:20Z</published>
-	<updated>2026-08-24T22:47:20Z</updated>
+	<updated>2026-08-25T15:41:21Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -235,9 +235,9 @@ developers, which the EC seems to believe Apple’s terms have
 accomplished.</p>
 </blockquote>
 
-<p>I don’t think that was ever the point of the DMA. It’s what a lot of developers who themselves wanted more competition and choice — and freedom — on iOS presumed was the point of the DMA. The European Commission paid lip service to these ideals, which encouraged people to think these ideals were the point of the DMA. But what I’ve consistently argued is that the only actual point of the DMA is for the European Commission to impose unnecessary bureaucracy and inconvenience into major markets where it previously had no footprint. They had no noble goal. They just wanted to erect a bureaucratic structure that clearly shows “<em>The European Commission was here and did something.</em>” Impose copious fines on Apple, Google, Microsoft, and Meta; inconvenience those companies <em>and their users in the EU</em>; all to show that something has been done. (And to cash the checks from <a href="https://daringfireball.net/linked/2026/07/25/eu-fines-google-1b">the fines</a> they <a href="https://daringfireball.net/linked/2026/07/17/google-eu-fine">eventually</a> collect.)</p>
+<p>I don’t think that was ever the point of the DMA. It’s what a lot of developers who themselves wanted more competition and choice — and freedom — on iOS presumed was the point of the DMA. The European Commission paid lip service to these ideals, which encouraged people to think these ideals were the point of the DMA. But what I’ve consistently argued is that the only actual point of the DMA is for the European Commission to impose unnecessary bureaucracy and inconvenience on major markets where it previously had no footprint. They had no noble goal. They just wanted to erect a bureaucratic structure that clearly shows “<em>The European Commission was here and did something.</em>” Impose copious fines on Apple, Google, Microsoft, and Meta; inconvenience those companies <em>and their users in the EU</em>; all to show that something has been done. (And to cash the checks from <a href="https://daringfireball.net/linked/2026/07/25/eu-fines-google-1b">the fines</a> they <a href="https://daringfireball.net/linked/2026/07/17/google-eu-fine">eventually</a> collect.)</p>
 
-<p>That’s why the <a href="https://eur-lex.europa.eu/eli/reg/2022/1925/oj/eng">text of the DMA itself</a> is so hard to read and understand. There is no clear intent of “opening up competition and choice” hidden in the murky, impenetrable prose of the DMA. The murky impenetrableness of the law is a reflection of its actual intent: murky impenetrable bureaucracy.</p>
+<p>That’s why the <a href="https://eur-lex.europa.eu/eli/reg/2022/1925/oj/eng">text of the DMA itself</a> is so hard to read and understand. There is no clear intent of “opening up competition and choice” hidden in the murky, impenetrable prose of the DMA. The murky impenetrableness of the law is a reflection of its actual intent: murky impenetrable bureaucracy.<sup id="fnr1-2026-08-24"><a href="#fn1-2026-08-24">1</a></sup></p>
 
 <p><a href="https://news.ycombinator.com/item?id=49348358">Here’s a commenter on Hacker News</a> (via <a href="https://mjtsai.com/blog/2026/08/18/new-eu-app-store-terms-to-comply-with-dma/">Michael Tsai’s roundup</a>) who can’t believe it:</p>
 
@@ -265,6 +265,17 @@ the necessary iOS paraphernalia in them.</p>
 </ul>
 
 <p>I’m sure some of you think I’m all wet in my argument that the point of the DMA was merely to impose ongoing bureaucratic complexity. But my view jibes with the reality of how it’s worked out. Compare and contrast <a href="https://daringfireball.net/2025/12/apple_japan_msca_compliance">with the Mobile Software Competition Act in Japan</a>. Apple complied with the clearly stated requirements of the MSCA with no drama, Japanese users aren’t missing out on features like iPhone Mirroring, and the only delay for Siri AI in Japan <a href="https://www.apple.com/apple-intelligence/#footnote-1">is language support</a>. Japanese iOS users get all the “good parts” of Apple’s regulatory compliance that EU users do, with <em>none</em> of the rather severe hindrances.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1-2026-08-24">
+<p>This also explains the European Commission’s obvious satisfaction with <a href="https://gdpr.eu/cookies/">the GDPR’s “cookie” regulations</a> for the web. Defenders of this aspect of the GDPR always retort with the same argument, correctly pointing out that the GDPR does not <em>require</em> annoying cookie-permission <a href="https://daringfireball.net/2026/05/what_is_a_dickover">dickovers</a> and dickbars. The GDPR presents websites with a choice: don’t track users with cookies, or, get their permission before you do. And it just turned out that the overwhelming majority of the commercial web chooses the latter option. Like, the intention might have been for most websites to face this choice and decide, “<em>Oh, jeez, we don’t want to badger our visitors with endless annoying dickovers, so we better scrap all our tracking cookies.</em>” But of course that’s not what these websites did. The result we now face — especially within the EU, where the web experience is positively lousy with cookie-permission prompts — was entirely predictable given the options presented by the GDPR. Defenders of the GDPR defend it on the grounds that it presents a good intention — reducing the practice of unnecessary tracking on the web. And those defenders pin the blame for the infestation of cookie-permission banners on the websites that choose to present them. Critics of the GDPR (and you know which side I’m on) simply point to the actual practical effects of the law. Before the GDPR, there were no cookie-permission dickovers; after, they’re everywhere, especially in the EU, but they’re also quite prevalent outside the EU. And, the practice of unnecessary tracking on the web is completely unchanged. If anything it’s probably more widespread now than before the GDPR. The best way to handle unnecessary tracking is to encourage users to use better web browsers with effective content-blocking extensions installed.</p>
+
+<p>The GDPR is a wide-ranging set of regulations and some of them are truly excellent, giving EU citizens rights to control their own data. But the “cookie permission” nonsense has, in practice, done nothing for the web except make it worse. It hasn’t done a thing to improve personal privacy, and has resulted in a veritable deluge of annoying cookie-permission prompts. The main result of those ubiquitous prompts has been to encourage more people to spend their time using native mobile apps in lieu of the web. But the European Commission looks at this situation and pats itself on the back. If they saw the deluge of cookie-permission prompts as a problem, an unintended consequence worth fixing, they would fix it. The GPDR went into effect 10 years ago. By their inaction, they obviously think it’s working just fine. I think they look at the situation and realize, with satisfaction, that every time any website presents a cookie-permission dickover, that dickover effectively has a “Brought to you by the European Commission” badge on it. They were here, they did something, and everyone around the world sees the fruits of the GDPR cookie regulations every time they open their web browser. Job well done.&nbsp;<a href="#fnr1-2026-08-24"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
+</li>
+</ol>
+</div>
 
     ]]></content>
   <title>★ What Is the Point of the DMA?</title></entry><entry>
