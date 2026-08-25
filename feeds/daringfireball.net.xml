@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-25T19:23:42Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-25T20:14:22Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>Footnote Regarding the GDPR and Cookie Permission Prompts</title>
 	<link rel="alternate" type="text/html" href="https://daringfireball.net/2026/08/what_is_the_point_of_the_dma#fn1-2026-08-24" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xi6" />
@@ -44,7 +44,7 @@ web browser. Job well done.</p>
 	<link rel="shorturl" href="http://df4.us/xi5" />
 	<id>tag:daringfireball.net,2026://1.43421</id>
 	<published>2026-08-25T14:38:01Z</published>
-	<updated>2026-08-25T19:12:22Z</updated>
+	<updated>2026-08-25T20:14:22Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -58,13 +58,13 @@ web browser. Job well done.</p>
 <pre><code>12-core CPU, 12-core GPU: $900
   RAM:
        16 GB      $0
-       24 GB    $200
-       32 GB    $400
+       24 GB    +200
+       32 GB    +400
   SSD:
       256 GB      $0
-      512 GB    $200
-        1 TB    $500
-        2 TB   $1000
+      512 GB    +200
+        1 TB    +500
+        2 TB   +1000
 </code></pre>
 
 <h2>Mac Mini M5 Pro</h2>
@@ -120,12 +120,12 @@ web browser. Job well done.</p>
 <h2>Notes</h2>
 
 <ul>
-<li>Ethernet: Across all Mac Mini models, upgrading from 2.5 gigabit to 10 gigabit is $100. On Mac Studio, 10 gigabit is standard on all models.</li>
-<li>If you configure an M6 Mac Mini with 2 TB of storage, the SSD upgrade ($1,000) costs more than the entire base model computer ($900). So too with the 4 TB SSD upgrade for the M5 Pro Mini ($1,800 upgrade for a $1,700 computer).</li>
-<li>Both Mac Mini and Mac Studio are available in a wide array of cool color choices, including silver.</li>
-<li>It kind of stinks that there are no RAM options for the M5 Ultra Studio between the 96 GB base and the $4,000 256 GB upgrade. There “should be” a 128 GB tier, but if you squint <a href="https://mastodon.social/@ajfrompgh/117156994437443045">you can see why</a> they did it this way.</li>
-<li>The best currently-available-to-order Mac Studio (36/80 cores, 256 GB RAM, 16 TB SSD) costs $18,300. But if you’re OK with the base 30/64-core chip and just 8 TB storage, you can cut the price to a smooth $13,000.</li>
-<li>“Coming late October” = “Bend over”.</li>
+<li><p>Ethernet: Across all Mac Mini models, upgrading from 2.5 gigabit to 10 gigabit is $100. On Mac Studio, 10 gigabit is standard on all models.</p></li>
+<li><p>If you configure an M6 Mac Mini with 2 TB of storage, the SSD upgrade ($1,000) costs more than the entire base model computer ($900). So too with the 4 TB SSD upgrade for the M5 Pro Mini ($1,800 upgrade for a $1,700 computer).</p></li>
+<li><p>Both Mac Mini and Mac Studio are available in a wide array of cool color choices, including silver.</p></li>
+<li><p>It kind of stinks that there are no RAM options for the M5 Ultra Studio between the 96 GB base and the $4,000 256 GB upgrade. There “should be” a 128 GB tier, but if you squint <a href="https://mastodon.social/@ajfrompgh/117156994437443045">you can see why</a> they did it this way.</p></li>
+<li><p>The best currently-available-to-order Mac Studio (36/80 cores, 256 GB RAM, 16 TB SSD) costs $18,300. But if you’re OK with the base 30/64-core chip and just 8 TB storage, you can cut the price to a smooth $13,000.</p></li>
+<li><p>“Coming late October” = “Bend over”.</p></li>
 </ul>
 
     ]]></content>
