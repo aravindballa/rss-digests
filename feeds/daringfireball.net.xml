@@ -7,14 +7,288 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-26T21:55:54Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-08-27T23:12:43Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Afterglow — Classic After Dark Screen Savers on Today’s MacOS</title>
+	<link rel="alternate" type="text/html" href="https://morphing.cloud/afterglow/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xii" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/27/afterglow" />
+	<id>tag:daringfireball.net,2026:/linked//6.43434</id>
+	<published>2026-08-27T21:49:50Z</published>
+	<updated>2026-08-27T23:12:43Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jeff Halter has done it again: after <a href="https://daringfireball.net/linked/2026/07/12/lunacy">bringing back</a> the single greatest After Dark module (Ben Haller’s Lunatic Fringe game, via a modern runtime named <a href="https://morphing.cloud/lunacy/">Lunacy</a>), he’s now released Afterglow:</p>
+
+<blockquote>
+  <p>Running After Dark modules in the present day has involved fussy
+configuration of Mac OS emulators or vintage hardware. Even then,
+no single emulator or vintage computer can faithfully run every
+module: some animate too fast, some too slow.</p>
+
+<p>Afterglow is an emulator built specifically for running After Dark
+modules — the original 68k module code, not a remake or port — with no dependencies on ROMs or classic Mac OS. Created in the
+spirit of software preservation, it makes After Dark easy to enjoy
+today and for years to come.</p>
+</blockquote>
+
+<p>All this in the <a href="https://daringfireball.net/linked/2026/07/12/stacks">same summer</a> during which Halter released <a href="https://morphing.cloud/hypercard/">Stacks</a>, his beautiful native modern HyperCard player. And don’t even look at his reproduction of <a href="https://morphing.cloud/macwarehouse/1997/">volume 68 of MacWarehouse from 1997</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Afterglow — Classic After Dark Screen Savers on Today’s MacOS’"  href="https://daringfireball.net/linked/2026/08/27/afterglow">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>The Load-Bearing Vocabulary of Claude</title>
+	<link rel="alternate" type="text/html" href="https://louisabraham.github.io/load-bearing/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xih" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/27/the-load-bearing-vocabulary-of-claude" />
+	<id>tag:daringfireball.net,2026:/linked//6.43433</id>
+	<published>2026-08-27T21:09:42Z</published>
+	<updated>2026-08-27T21:09:42Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Fun (but depressing?) data analysis project from Louis Abraham, showing how repetitive Claude is in the words it chooses when submitting GitHub pull requests. Abraham, in the project’s readme:</p>
+
+<blockquote>
+  <p>GitHub pull request descriptions, grouped by the words they are
+written with rather than by anything they were told to look for:
+eight ways of writing, and every description belongs to one of
+them. One of the eight was 1.0% of the corpus at the start of 2025
+and is 45% of it by the middle of 2026.</p>
+</blockquote>
+
+<p>If you want to get a little more depressed, I’ve been doing deeper reading into AI watermarking research, and one of the admissions in <a href="https://www.nature.com/articles/s41586-024-08025-4">Google’s white paper on SynthID-Text</a> — the watermarking scheme Anthropic says Claude is going to start using — is that the technique incurs “some reduction to inter-response diversity”. That means different answers to the same prompt become more similar to each other — there’s less variety to watermarked text responses. That’s a load-bearing problem given that Claude clearly already struggles in this regard <em>before</em> watermarking its output.</p>
+
+<div>
+<a  title="Permanent link to ‘The Load-Bearing Vocabulary of Claude’"  href="https://daringfireball.net/linked/2026/08/27/the-load-bearing-vocabulary-of-claude">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Elizabeth Warren’s Incoherent Outrage Regarding Apple’s Tariff Refund</title>
+	<link rel="alternate" type="text/html" href="https://www.warren.senate.gov/newsroom/press-releases/warren-pushes-giant-corporations-to-give-billions-in-tariff-refunds-back-to-consumers/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xig" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/27/elizabeth-warren-apple-tariff-refunds" />
+	<id>tag:daringfireball.net,2026:/linked//6.43432</id>
+	<published>2026-08-27T20:46:08Z</published>
+	<updated>2026-08-27T20:46:22Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p><a href="https://daringfireball.net/linked/2026/08/27/panic-playdate-tariff-refunds">Speaking of tariff refunds</a>, here’s an official statement from Senator Elizabeth Warren from a few weeks ago:</p>
+
+<blockquote>
+  <p>U.S. Senator Elizabeth Warren (D-Mass.) wrote to Target, Apple,
+Amazon, Nike, Motorola, Walmart, and Energizer pushing these
+companies — each of which have or are expected to receive massive
+rebates from the Trump Administration for tariffs paid last year — to provide refunds to customers.</p>
+
+<p>“I urge you to pass along any refund you may receive to the
+consumers who paid higher prices for your products while the
+tariffs were in place,” wrote Senator Warren.</p>
+</blockquote>
+
+<p><a href="https://x.com/SenWarren/status/2085880463982281196">On Twitter/X, she posted</a>:</p>
+
+<blockquote>
+  <p>NEW: Apple reportedly got $2.2 BILLION back in tariff refunds.
+Amazon got $600 MILLION.</p>
+
+<p>What’s their plan to give YOU your money back?</p>
+</blockquote>
+
+<p>Warren published the letters she sent to the CEOs, <a href="https://www.warren.senate.gov/wp-content/uploads/2026/08/Tariff-Refund-Letters.pdf">including Tim Cook</a>:</p>
+
+<blockquote>
+  <p>Reports indicate that Apple has applied for a refund of the
+roughly $3.3 billion in tariffs you paid in 2025, and as of July
+30th, that you have received nearly $2.2 billion in refunds.
+This amounts to a multi-billion dollar windfall, which could still
+grow if more of your refund petitions are granted. You have
+claimed that you “plan to reinvest any amount we receive back into
+U.S. innovation and advanced manufacturing,” but this vague
+statement offers no clarity as to where this money will go:
+indeed, it implies that you will not be returning it to the
+millions of consumers who purchased Apple products last year and
+paid higher prices. [...]</p>
+
+<p>You have received an astronomical cash infusion in the form of a
+tariff refund, and Apple customers who paid increased prices for
+your products, ostensibly due to tariffs, deserve to know how that
+money will be spent. Your vague statements about “reinvesting”
+the refund leave hardworking Americans who paid hundreds of
+dollars more to buy Apple products in the dark about why they paid
+those increased prices and where their money will go. To better
+understand the disposition of any tariff refund you might receive,
+I request that you respond to the following questions by August
+21, 2026.</p>
+</blockquote>
+
+<p>Amongst the 11 questions she asks, the only one that seems pertinent is #5:</p>
+
+<blockquote>
+  <p>(5) How much did Apple increase prices on products in 2025? <br />
+(a) For what products did Apple increase prices, and how many of
+   these products were directly impacted by tariffs?</p>
+</blockquote>
+
+<p>Unless I’m missing something, the answers are “$0” and “none”. Apple increased none of its prices on any of its products in response to tariffs in 2025. The iPhone 17 lineup, in fact, surprised many observers and <a href="https://www.investing.com/news/stock-market-news/apple-event-expected-to-feature-a-slimmer-iphone-as-pricing-ai-questions-linger-4230858">made news by holding prices steady</a>.</p>
+
+<p>In May 2025, <a href="https://www.warren.senate.gov/newsroom/press-releases/warren-gallego-whitehouse-booker-delauro-colleagues-demand-ftc-stop-corporations-from-using-trumps-tariffs-as-an-excuse-to-price-gouge-americans/">Warren co-signed a letter to the FTC</a> encouraging them to discourage large profitable companies from raising prices due to tariffs. Apple — a large profitable company — didn’t raise prices at all, which seemingly was what Warren thought they should do. But now she’s expressing outrage that Apple got a refund for the tariffs whose costs the company covered, and her followers are left to believe that Apple <em>did</em> raise prices and is keeping the money.</p>
+
+<div>
+<a  title="Permanent link to ‘Elizabeth Warren’s Incoherent Outrage Regarding Apple’s Tariff Refund’"  href="https://daringfireball.net/linked/2026/08/27/elizabeth-warren-apple-tariff-refunds">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Panic Is Refunding Tariff Fees to Playdate Buyers</title>
+	<link rel="alternate" type="text/html" href="https://www.gamedeveloper.com/business/playdate-maker-is-refunding-tariff-fees-to-customers" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xif" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/27/panic-playdate-tariff-refunds" />
+	<id>tag:daringfireball.net,2026:/linked//6.43431</id>
+	<published>2026-08-27T20:10:13Z</published>
+	<updated>2026-08-27T20:10:14Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Nicole Carpenter and Diego Argüello, reporting for Game Developer:</p>
+
+<blockquote>
+  <p>“There was a specific window of time this year where we charged
+tariffs to customers,” Panic co-founder Cabel Sasser explained in
+an e-mail to Game Developer confirming the news. “We tried
+absorbing the cost for a while, but that was financially difficult
+for a small company like ours. We made the tariff a very obvious
+and clearly labeled line item on checkout for any customer
+affected.”</p>
+
+<p>Panic also <a href="https://help.play.date/orders/tariffs/">set up a website</a> to explain the 19% tariff surcharge.
+[...] The refund amount a customer will get back depends on how
+much they purchased.</p>
+
+<p>“It’s just not our money to keep, and it felt really good to give
+it back,” Sasser said. “That’s an easy way to know you made the
+right decision.”</p>
+
+<p>He continued: “Still, it took a lot of work for us to file all the
+paperwork to get the refund from the government, and it took work
+to build a little system to process the refund, and sometimes it
+felt like, wait, why are we seemingly doing more work than even
+gigantic companies are on this issue? That felt weird. But I guess
+it makes sense in a way, because our small size means we’re far
+more directly affected by something like a tariff.”</p>
+
+<p>Sasser said he hopes Panic never has to talk about tariffs again.</p>
+</blockquote>
+
+<p>Cool story from a cool company, and amen to the day we never hear about tariffs again.</p>
+
+<div>
+<a  title="Permanent link to ‘Panic Is Refunding Tariff Fees to Playdate Buyers’"  href="https://daringfireball.net/linked/2026/08/27/panic-playdate-tariff-refunds">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Ads in Apple Maps Have Now Launched</title>
+	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/08/25/apple-maps-launches-ads-on-iphone-heres-whats-new/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xie" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/27/ads-in-apple-maps" />
+	<id>tag:daringfireball.net,2026:/linked//6.43430</id>
+	<published>2026-08-27T20:02:35Z</published>
+	<updated>2026-08-27T20:04:35Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Ryan Christoffel, 9to5Mac:</p>
+
+<blockquote>
+  <p>Apple confirmed to 9to5Mac that the ads rollout in Maps began in
+the last few days. And it will continue ramping in the weeks ahead
+to all users.</p>
+
+<p>There are two places you’ll find ads in the Maps app:</p>
+
+<ol>
+<li>Before searching: Suggested Places in the search screen will
+feature an ad.</li>
+<li>After searching: Ads will appear in search results when
+relevant.</li>
+</ol>
+</blockquote>
+
+<p>Before searching, I saw an ad for an HVAC contractor 12 miles away in “Suggested Places”. Knock on wood but I currently have no HVAC problems, and even if I did, I’d just call someone and have them come here. Then I waited a few minutes and looked again. This time I <a href="https://daringfireball.net/misc/2026/08/tommys-express-carwash.jpeg">saw an ad</a> for Tommy’s Express Car Wash (“Get your first month free”), 23 miles away in the middle of a suburban shopping mall. Apple Maps estimates it would take me 1 hour 8 minutes to drive there right now. I’ll get right on that.</p>
+
+<p>The first organic (non-ad) suggested place is a coffee shop 300 feet away.</p>
+
+<div>
+<a  title="Permanent link to ‘Ads in Apple Maps Have Now Launched’"  href="https://daringfireball.net/linked/2026/08/27/ads-in-apple-maps">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>‘How Europe Is Killing Makers and Micro-Entrepreneurs’</title>
+	<link rel="alternate" type="text/html" href="https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xid" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/27/lectronz-europe-epr" />
+	<id>tag:daringfireball.net,2026:/linked//6.43429</id>
+	<published>2026-08-27T19:42:48Z</published>
+	<updated>2026-08-27T19:42:48Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Alain Pannetrat, founder of Lectronz:</p>
+
+<blockquote>
+  <p><a href="https://lectronz.com/">Lectronz</a> is a marketplace for open-source hardware makers and
+DIY electronics. Most of our sellers are not factories or
+well-funded start-ups. They are engineers, independent designers,
+and hardware enthusiasts working from spare rooms, garages, and
+tiny workshops.</p>
+
+<p>Some earn a living from their products. Some sell only a handful
+of boards each year. Others build ten units simply because they
+created something useful and want to share it with the community.
+Occasionally, one of those experiments grows into a real business.
+Every <a href="https://www.arduino.cc/">Arduino</a> begins somewhere.</p>
+
+<p>But the European Union’s new packaging rules now threaten to kill
+the world of makers and micro-entrepreneurs, putting jobs,
+livelihoods and an entire ecosystem of innovation at risk.</p>
+</blockquote>
+
+<p>Pannetrat says these new regulations will require even one-person hobbyists to spend hundreds of euros per year (and file paperwork) for each country they ship to. The costs will far outstrip the money they make from selling a few dozen gadgets or circuit boards, and the hassles are probably worse than the costs. But these regulations are no big deal at all to big companies like Amazon — they only hurt smaller companies, and they’re effectively crushing to hobbyists.</p>
+
+<p>A couple of years ago <a href="https://www.phila.gov/programs/plastic-bag-ban/">Philadelphia banned retailers from using plastic bags</a>. It’s worked out great. More people bring reusable shopping bags with them, and if you need a bag from the store, you get paper bags that they charge you a nickel each for. A small price to encourage bag reuse, and the end result is no more plastic bags. Regulations can be very effective without adding any complexity or annoyance to daily life.</p>
+
+<div>
+<a  title="Permanent link to ‘‘How Europe Is Killing Makers and Micro-Entrepreneurs’’"  href="https://daringfireball.net/linked/2026/08/27/lectronz-europe-epr">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>POSIWID: The Purpose of a System Is What It Does</title>
 	<link rel="alternate" type="text/html" href="https://en.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xic" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/26/posiwid" />
 	<id>tag:daringfireball.net,2026:/linked//6.43428</id>
 	<published>2026-08-26T20:18:04Z</published>
-	<updated>2026-08-26T20:18:04Z</updated>
+	<updated>2026-08-27T20:47:52Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -36,7 +310,7 @@ perspective can balance political understandings of system
 behaviour with a more straightforwardly descriptive view.</p>
 </blockquote>
 
-<p>I don’t recall seeing POSIWID before, but I love the concept. A friend sent this to me, with the quip that I forgot to include a link to it in my “<a href="https://daringfireball.net/2026/08/what_is_the_point_of_the_dma">What Is the Point of the DMA?</a>” piece this week. Indeed, it encapsulates my arguments about the DMA specifically and the European Commission generally. The purpose the DMA is what it does, not what you imagine it is <em>intended</em> to do.</p>
+<p>I don’t recall seeing POSIWID before, but I love the concept. A friend sent this to me, with the quip that I forgot to include a link to it in my “<a href="https://daringfireball.net/2026/08/what_is_the_point_of_the_dma">What Is the Point of the DMA?</a>” piece this week. Indeed, it encapsulates my arguments about the DMA specifically and the European Commission generally. The purpose of the DMA is what it does, not what you imagine it is <em>intended</em> to do.</p>
 
 <p>In the same vein, I have been thinking too about the famous anecdote <a href="https://fortune.com/article/inside-apple/">reported by Adam Lashinsky for Fortune back in 2011</a>:</p>
 
@@ -170,7 +444,7 @@ XCancel.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/25/dolly-parton-rip" />
 	<id>tag:daringfireball.net,2026:/linked//6.43424</id>
 	<published>2026-08-25T22:39:12Z</published>
-	<updated>2026-08-25T22:39:12Z</updated>
+	<updated>2026-08-27T19:17:55Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -184,7 +458,7 @@ nephew Bryan Seaver. No cause was provided. Concerns about Ms.
 Parton’s health were raised last year as she <a href="https://www.nytimes.com/2025/09/29/arts/music/dolly-parton-las-vegas.html">postponed</a>
 and later canceled a Las Vegas residency, and intensified to the
 point that she took to social media in October to announce, <a href="https://www.nytimes.com/2025/10/08/arts/music/dolly-parton-health.html">“I
-ain’t dead yet.”</a>This May, she said that she had responded
+ain’t dead yet.”</a> This May, she said that she had responded
 well to treatment after her immune and digestive systems had, as
 she put it, “got all out of whack” in recent years.</p>
 
@@ -1918,217 +2192,6 @@ existing suppliers to increase U.S. production.</p>
 
 <div>
 <a  title="Permanent link to ‘Trump Administration ‘Not in Favor’ of Apple Using Chinese RAM’"  href="https://daringfireball.net/linked/2026/08/16/lutnick-trump-apple-chinese-ram">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>XCancel — An Unofficial Twitter/X Mirror</title>
-	<link rel="alternate" type="text/html" href="https://xcancel.com/about" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xh5" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/16/xcancel" />
-	<id>tag:daringfireball.net,2026:/linked//6.43385</id>
-	<published>2026-08-16T14:33:16Z</published>
-	<updated>2026-08-16T15:51:39Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>XCancel:</p>
-
-<blockquote>
-  <p>XCancel is an instance of Nitter.</p>
-
-<p>Nitter is a free and open source alternative Twitter front-end
-focused on privacy and performance. The source is available on
-GitHub at <a href="https://github.com/zedeus/nitter">https://github.com/zedeus/nitter</a> [...]</p>
-
-<p>Using an instance of Nitter (hosted on a VPS for example), you can
-browse Twitter without JavaScript while retaining your privacy. In
-addition to respecting your privacy, Nitter is on average around
-15 times lighter than Twitter, and in most cases serves pages
-faster (eg. timelines load 2-4× faster).</p>
-</blockquote>
-
-<p>I personally <a href="https://daringfireball.net/linked/2026/06/05/musk-x-freak-show">don’t care for</a> Elon Musk’s X-rebranded Twitter. I also realize that some of you outright despise it, and, worse, that under Musk, they make it difficult to view content if you’re not signed into an account or if you have JavaScript disabled. So, sometimes, when I link to posts or threads on Twitter/X, I include a link to the same content at XCancel.</p>
-
-<p>XCancel isn’t perfect, alas. Just this week <a href="https://daringfireball.net/linked/2026/08/12/google-design-pants-pissed">I linked to</a> a tweet <a href="https://x.com/googledesign/status/2087195277094695096">from Google Design</a> that contained an animation of an Android app that they were inexplicably proud to show off. The <a href="https://xcancel.com/googledesign/status/2087195277094695096">XCancel cache of that tweet</a> only showed it as animated to some people. Others just saw a static image. I don’t know why. That’s XCancel’s problem, not mine.</p>
-
-<p>Also, it’s tiresome and repetitive to include an extra link to XCancel every time I link to a tweet on Twitter/X. If you would prefer to view <code>x.com</code> links on <code>xcancel.com</code>, you should automate the redirection. If you use Safari, <a href="https://apps.apple.com/us/app/xcancel-redirect/id6785266128">XCancel Redirect</a> is a free extension that claims to do just what you think it does. (I haven’t tried it.) Or you can use a general-purpose redirect extension. <a href="https://redirectweb.net/">RedirectWeb</a> is a good one that I can recommend. Also, Jeff Johnson’s excellent <a href="https://underpassapp.com/StopTheMadness/">StopTheMadness</a> — an extension I rely on for multiple purposes and <a href="https://daringfireball.net/linked/2024/05/15/stopthemadness-pro">frequently</a> <a href="https://daringfireball.net/linked/2026/03/19/stopthemadness-and-stopthescript">recommend</a>. With StopTheMadness, you can redirect all x.com URLs to xcancel.com with the following rules (you need the leading and trailing slashes in the pattern to tell STM that it’s a regex pattern, not a plain text string):</p>
-
-<p>Pattern: <code>/https?://(www[.])?x[.]com/</code> <br />
-Replacement: <code>https://xcancel.com</code> <br />
-Enabled on platforms: <code>All</code></p>
-
-<p>I understand not wanting to visit Twitter/X. But if you feel that way, I do sympathize, but that’s <em>your</em> decision, and you should use tools to redirect Twitter/X links automatically. And if you’re wondering why I don’t just refuse to link to anything on Twitter/X, that just isn’t practical. I wish it weren’t so, but many people, including senior <a href="https://x.com/tim_cook">Apple</a> <a href="https://x.com/gregjoz">executives</a>, and many organizations post interesting content exclusively to Twitter/X. If something posted to Twitter/X is also available elsewhere, I link to the elsewhere version. But if it’s exclusively available on Twitter/X and interesting, I link to the original.</p>
-
-<p>My linking to original content on Twitter/X does not perpetuate Twitter/X’s <a href="https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/">relative popularity</a>. Original content appearing exclusively on Twitter/X does.</p>
-
-<div>
-<a  title="Permanent link to ‘XCancel — An Unofficial Twitter/X Mirror’"  href="https://daringfireball.net/linked/2026/08/16/xcancel">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Drata</title>
-	<link rel="alternate" type="text/html" href="https://drata.com/daring" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xh4" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/15/drata" />
-	<id>tag:daringfireball.net,2026:/linked//6.43384</id>
-	<published>2026-08-15T21:40:15Z</published>
-	<updated>2026-08-15T21:40:16Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>My thanks to Drata for sponsoring last week at DF. Their message is short and sweet: Leverage autonomous AI agents to automate compliance, manage internal and third-party risk, and continuously prove your security posture.</p>
-
-<div>
-<a  title="Permanent link to ‘Drata’"  href="https://daringfireball.net/linked/2026/08/15/drata">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Google’s ‘Material 3’ Design Write-Up Is 93.3 Percent Embarrassing</title>
-	<link rel="alternate" type="text/html" href="https://design.google/library/expressive-material-design-google-research" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xh2" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/14/google-design-93-percent" />
-	<id>tag:daringfireball.net,2026:/linked//6.43382</id>
-	<published>2026-08-14T16:33:55Z</published>
-	<updated>2026-08-14T17:40:41Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>This page from Google Design on their “Material 3” UI language came to my attention after <a href="https://daringfireball.net/linked/2026/08/12/google-design-pants-pissed">my snarky post</a> about the ungainly new to-do app <a href="https://x.com/googledesign/status/2087195277094695096">they bizarrely bragged</a> about on Twitter/X this week. I don’t think this “Material 3” page is new — I think it’s a few years old — but I’d never seen it before.</p>
-
-<p>First, it’s crazy that (in desktop browsers with a mouse cursor) they change the I-beam cursor for text selection to ... a circle. I guess it looks kind of fun but the whole point of the I-beam cursor is to enable precise character selection. They changed that to something that makes precise selection as difficult as possible. It’d be better to just use an arrow pointer than to replace the I-beam with a goddamn circle. This, from the UI design team.</p>
-
-<p>Second, this paragraph made me honestly wonder if I was reading a spoof, a years-old unfunny April Fool’s “prank”. But as far as I can tell this is totally straight, not a prank:</p>
-
-<blockquote>
-  <p>These factors can be quantified in users’ responses to new M3
-Expressive designs. We found a 32% increase in subculture
-perception, which indicates that expressive design makes a brand
-feel more relevant and “in-the-know.” We also saw a 34% boost in
-modernity, making a brand feel fresh and forward-thinking. On top
-of that, there was a 30% jump in rebelliousness, suggesting that
-expressive design positions a brand as bold, innovative, and
-willing to break from convention.</p>
-</blockquote>
-
-<p>Nothing says rebellious and “in-the-know” like assigning precise percentages to “rebelliousness”, “modernity”, and “subculture perception”.</p>
-
-<p><strong>Update:</strong> Believe it or not there is <a href="https://www.youtube.com/watch?v=AySXu8x-RnA">video of the Google Design team putting this research together</a>. Worth a watch.</p>
-
-<div>
-<a  title="Permanent link to ‘Google’s ‘Material 3’ Design Write-Up Is 93.3 Percent Embarrassing’"  href="https://daringfireball.net/linked/2026/08/14/google-design-93-percent">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Ceramic Shield 2 Is the Real Deal</title>
-	<link rel="alternate" type="text/html" href="https://www.tomsguide.com/phones/iphones/iphone-17-and-iphone-air-durability-testing-heres-how-the-new-iphones-stand-up-to-bending-scratching-and-dropping" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xh1" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/13/ceramic-shield-2-is-the-real-deal" />
-	<id>tag:daringfireball.net,2026:/linked//6.43381</id>
-	<published>2026-08-13T15:46:41Z</published>
-	<updated>2026-08-13T15:46:42Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Philip Michaels, writing last September for Tom’s Guide:</p>
-
-<blockquote>
-  <p><a href="https://www.youtube.com/watch?v=i9HXGAOtn2A">iPhone 17 torture test videos done by JerryRigEverything</a>
-indicate that Ceramic Shield 2 certainly resists scratching, with
-scratch testing leaving only light scratches at level 7 on the
-Mohs scale of hardness. Scratches typically show up on glass at
-levels 5 or 6 on that scale.</p>
-
-<p>“Ceramic Shield 2 is indeed the best we’ve ever seen,”
-JerryRigEverything remarks in the <a href="https://www.youtube.com/watch?v=KrOBzFwVzwA">iPhone 17 Pro testing
-video</a>.</p>
-
-<p>That backs up <a href="https://www.tomsguide.com/phones/iphones/apples-iphone-durability-test-clips-show-how-it-made-sure-the-iphone-air-and-iphone-17-series-are-built-to-last">Apple’s own Ceramic Shield 2 video</a>, in which
-a mineral tip can be seen rubbing against a Ceramic Shield
-2-coated display. There’s residue left on the screen, but it’s
-material from that tip, as it wipes away fairly easily.</p>
-</blockquote>
-
-<p>I <a href="https://daringfireball.net/linked/2026/08/12/stern-pixel-hilight">mentioned yesterday</a> that I try never to place my iPhones face down, to avoid scratches, and that my nearly year-old iPhone 17 Pro seemingly has not one visible scratch on the front glass. Not even a single micro abrasion I can see, even when tilting it with the display off to hunt for them. Surely Apple’s Ceramic Shield 2, which is intended to provide best-ever scratch resistance, is a factor too — and likely the biggest factor. Apple at its best.</p>
-
-<div>
-<a  title="Permanent link to ‘Ceramic Shield 2 Is the Real Deal’"  href="https://daringfireball.net/linked/2026/08/13/ceramic-shield-2-is-the-real-deal">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Google Design Pisses Its Pants on Twitter/X</title>
-	<link rel="alternate" type="text/html" href="https://x.com/googledesign/status/2087195277094695096" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xh0" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/12/google-design-pants-pissed" />
-	<id>tag:daringfireball.net,2026:/linked//6.43380</id>
-	<published>2026-08-13T01:03:45Z</published>
-	<updated>2026-08-14T16:07:56Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>A few years ago I’d have looked at this post and maybe leaned toward the idea that a precocious 8th grader somewhere hacked into the @GoogleDesign Twitter account and tried to pass off their little to-do app as having come from Google’s design team. But this is apparently real. I almost hope it’s AI slop and that there aren’t any human designers there who think anything in this app has appropriate proportions or is aesthetically pleasing.</p>
-
-<p>(<a href="https://xcancel.com/googledesign/status/2087195277094695096">Here’s an XCancel link</a> for the x.com averse. You can just change any x.com/* URL to xcancel.com/*. But, alas, the XCancel mirror of the original tweet loses the animation showing the UI in motion — for some, but not all, users.)</p>
-
-<div>
-<a  title="Permanent link to ‘Google Design Pisses Its Pants on Twitter/X’"  href="https://daringfireball.net/linked/2026/08/12/google-design-pants-pissed">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Joanna Stern on the Pixel 11 ‘HiLight’ Notification Light</title>
-	<link rel="alternate" type="text/html" href="https://thenewthings.com/p/the-new-pixel-feature-i-want-on-my-iphone?gift_content=e9bf3ebd-db33-4ee5-91b0-84d7acac3263" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xgz" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/12/stern-pixel-hilight" />
-	<id>tag:daringfireball.net,2026:/linked//6.43379</id>
-	<published>2026-08-12T21:23:30Z</published>
-	<updated>2026-08-13T18:05:11Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Joanna Stern, writing at The New Things (gift link):</p>
-
-<blockquote>
-  <p>I used to love the blinking notification light on my BlackBerry,
-and later my Droid 2. It was a simple way to know I had a message
-without actually looking at my messages. Then BlackBerry let you
-customize the color, and it was a rainbow dream.</p>
-
-<p>Google’s HiLight takes it a step further by letting you assign
-different colors to VIP contacts. So when your phone is face
-down, you can tell who’s trying to reach you without picking it
-up. It looks cool. The big bummer? At launch, it only works for
-phone calls.</p>
-
-<p>Google told me it’s “continuing to invest in this technology” and
-that messaging notifications are coming. Still, it’s odd they
-aren’t there at launch, especially since Google found plenty of
-colors for Gemini. The ring changes hue depending on whether the
-AI is listening, thinking or responding.</p>
-</blockquote>
-
-<p>I have no interest in this because a few years ago I stopped ever putting my iPhone on any surface face down. I don’t use a case, so setting the phone face down is a good way to pick up scratches. I stopped doing that, ever, and now I’ve got a nearly year-old iPhone 17 Pro that seemingly doesn’t have even a <em>micro</em> abrasion on the display glass. </p>
-
-<p>And it seems downright goofy that it’s launching with support only for phone calls. Google can’t even launch a blinking light right on these Pixel phones.</p>
-
-<div>
-<a  title="Permanent link to ‘Joanna Stern on the Pixel 11 ‘HiLight’ Notification Light’"  href="https://daringfireball.net/linked/2026/08/12/stern-pixel-hilight">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
