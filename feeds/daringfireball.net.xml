@@ -7,7 +7,28 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-08-30T18:35:42Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-09-01T07:59:07Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	
+	<link rel="alternate" type="text/html" href="https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026" />
+	<link rel="shorturl" href="http://df4.us/xit" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2026/09/workos_how_to_give_an_agent_a" />
+	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.43445</id>
+	<author><name>Daring Fireball Department of Commerce</name></author>
+	<published>2026-09-01T07:59:07Z</published>
+	<updated>2026-09-01T07:59:07Z</updated>
+	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
+<p>Give an agent an access token and it spreads: into the context window, into tool call logs, into notes it keeps between steps. Each copy works from anywhere, long after the fact.</p>
+
+<p><a href="https://workos.com/docs/pipes/relay?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026&amp;utm_content=docs">Relay</a> keeps the credential at WorkOS. Your agent names the user, WorkOS attaches that token, refreshes it, and releases it only to allowlisted hosts. A hijacked agent session is a live process you can kill.</p>
+
+<p><a href="https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026">Learn how it works →</a></p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS: How to Give an Agent a Task Instead of a Token’"  href="https://daringfireball.net/feeds/sponsors/2026/09/workos_how_to_give_an_agent_a">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+	<title>[Sponsor] WorkOS: How to Give an Agent a Task Instead of a Token</title></entry><entry>
 	<title>Finalist 4</title>
 	<link rel="alternate" type="text/html" href="https://www.finalist.works/?utm_source=df-aug-2026" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xis" />
@@ -1958,27 +1979,6 @@ advertising sales, CEO Adam Singolda tells Axios.</p>
 
 	]]></content>
   </entry><entry>
-	
-	<link rel="alternate" type="text/html" href="https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026" />
-	<link rel="shorturl" href="http://df4.us/xhk" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2026/08/workos_agents_can_now_sign_up" />
-	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.43400</id>
-	<author><name>Daring Fireball Department of Commerce</name></author>
-	<published>2026-08-19T04:30:16Z</published>
-	<updated>2026-08-19T04:30:17Z</updated>
-	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
-<p>Agents are hitting your signup flow and bouncing off a browser login built for humans. Every one that gives up is a signup you never see.</p>
-
-<p><a href="https://workos.com/docs/authkit/agent-auth?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026">WorkOS Agent Registration</a> turns that traffic into signups. Enroll via the dashboard and AuthKit publishes an auth.md file agents read to register for scoped, short-lived credentials you control.</p>
-
-<p><a href="https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026">Make your app agent-ready →</a></p>
-
-<div>
-<a  title="Permanent link to ‘WorkOS: Agents Can Now Sign Up for Your App’"  href="https://daringfireball.net/feeds/sponsors/2026/08/workos_agents_can_now_sign_up">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-	<title>[Sponsor] WorkOS: Agents Can Now Sign Up for Your App</title></entry><entry>
 	<title>Disney’s ABC Sues Trump’s FCC Over Challenge to Its Broadcast License</title>
 	<link rel="alternate" type="text/html" href="https://www.wsj.com/business/media/disneys-abc-sues-fcc-over-challenge-to-its-broadcast-licenses-64e8f794?st=XTL4tA" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xhj" />
