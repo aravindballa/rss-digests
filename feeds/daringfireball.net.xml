@@ -7,14 +7,74 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-09-01T17:41:19Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-09-01T20:26:15Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Tim Cook’s Departure Memo on His Last Day as CEO</title>
+	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/08/31/read-tim-cooks-full-memo-to-apple-employees-on-his-last-day-as-ceo/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xiv" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/01/tim-cook-departure-memo" />
+	<id>tag:daringfireball.net,2026:/linked//6.43447</id>
+	<published>2026-09-01T18:11:57Z</published>
+	<updated>2026-09-01T20:26:15Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Tim Cook:</p>
+
+<blockquote>
+  <p>There is something truly special about Apple. I am most proud of
+what an annual report could never capture. This place is proof
+that culture triumphs over everything. We share a belief that what
+we build matters, and that we have both the opportunity and the
+responsibility to leave the world better than we found it. That
+purpose is part of what makes this place extraordinary. Apple
+helps nurture it, but I believe it lived within each of you long
+before you arrived here. It is what brought you to this company
+and what continues to drive the work you do every day. Together,
+we have created something far greater than any one of us could
+have imagined or accomplished alone. And that’s the secret to our
+success. We bring out the best in each other. We lift each other
+up. We have made it possible to leave our “dent in the universe,”
+as Steve once described it, because of who we are and what we
+believe, because of what we value and how we see the world. How
+fortunate we are. How fortunate I am.</p>
+</blockquote>
+
+<p>That’s the best paragraph of the memo. I like those last two “fortunate” lines, and I think they’re the most open Cook gets. But on the whole the memo reads to me like the <a href="https://www.reddit.com/r/TheFarSide/comments/1cx5ag8/okay_ginger_ive_had_it/">classic Far Side cartoon</a> about the dog listening to its owner: “<em>Blah blah</em> Apple, <em>blah blah blah blah</em> Apple. <em>Blah blah</em>....”</p>
+
+<p>The truth is he was CEO for 15 years and he revealed very little of true self to the public. That’s fine. In a meta sense, remaining so private <em>was</em> revealing. I think that’s who Tim Cook is — an intensely private man who took on a high-profile public role. The more revealing stories about the real Cook aren’t his public performances or memos. There’s the 2009 “<a href="https://daringfireball.net/linked/2009/01/16/cook-fortune">Why are you still here?</a>” one with Sabih Khan. And then there’s a remark I came upon recently, re-reading chapter 35 of Walter Isaacson’s <em>Steve Jobs</em>, regarding Jobs’s 2009 medical leave of absence:</p>
+
+<blockquote>
+  <p>Cook had done a good job running the company during Jobs’s
+absence. He kept Apple’s temperamental actors performing well,
+and he avoided stepping into the limelight. Jobs liked strong
+personalities, up to a point, but he had never truly empowered
+a deputy or shared the stage. It was hard to be his understudy.
+You were damned if you shone, and damned if you didn’t. Cook
+had managed to navigate those shoals. He was calm and decisive
+when in command, but he didn’t seek any notice or acclaim for
+himself. “Some people resent the fact that Steve gets credit
+for everything, but I’ve never given a rat’s ass about that,”
+said Cook. “Frankly speaking, I’d prefer my name never be in
+the paper.”</p>
+</blockquote>
+
+<p><em>That’s</em> Tim Cook. He clearly feels the same way now as he did when he told that to Isaacson before he took the CEO job.</p>
+
+<div>
+<a  title="Permanent link to ‘Tim Cook’s Departure Memo on His Last Day as CEO’"  href="https://daringfireball.net/linked/2026/09/01/tim-cook-departure-memo">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple Reveals Forensic Evidence From Chang Liu’s MacBook in OpenAI Lawsuit</title>
 	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xiu" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/01/apple-reveals-change-liu-evidence-openai-lawsuit" />
 	<id>tag:daringfireball.net,2026:/linked//6.43446</id>
 	<published>2026-09-01T17:36:08Z</published>
-	<updated>2026-09-01T17:41:19Z</updated>
+	<updated>2026-09-01T18:04:14Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -45,7 +105,7 @@ development work.</p></li>
 
 <p>9to5Mac is hosting a <a href="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple_Inc_v_Liu_et_al__candce-26-07078__0094.1.pdf">copy of the original filing</a> from Apple’s lawyers.</p>
 
-<p>The first point seems really bad for OpenAI. On the fourth point, I’m not sure what Apple is alleging here — I <em>think</em> they’re alleging that Liu took an Apple internal engineering app with him over to OpenAI? This is the entirety of the that from Apple’s filing:</p>
+<p>The first point seems really bad for OpenAI. On the fourth point, I’m not sure what Apple is alleging here — I <em>think</em> they’re alleging that Liu took an Apple internal engineering app with him over to OpenAI? This is the entirety of that allegation from Apple’s filing:</p>
 
 <blockquote>
   <p>D. New evidence shows previously unknown use of a tool at OpenAI
@@ -2071,30 +2131,6 @@ licenses because of its speech.”</p>
 
 <div>
 <a  title="Permanent link to ‘Disney’s ABC Sues Trump’s FCC Over Challenge to Its Broadcast License’"  href="https://daringfireball.net/linked/2026/08/18/disney-abc-sues-trump-fcc">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple Gives Legal Middle Finger to DOJ Challenge on Apple’s July Discovery Win</title>
-	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/08/17/apple-dojs-latest-challenge-in-antitrust-case-fails-at-every-level/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xhi" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/18/apple-middle-finger-doj" />
-	<id>tag:daringfireball.net,2026:/linked//6.43398</id>
-	<published>2026-08-18T22:23:45Z</published>
-	<updated>2026-08-18T22:23:45Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Marcus Mendes at 9to5Mac has <a href="https://9to5mac.com/2026/08/17/apple-dojs-latest-challenge-in-antitrust-case-fails-at-every-level/">a fun update</a> on <em>U.S. v. Apple</em>, the ill-considered antitrust case started by the Biden administration. A bunch of what the DOJ argues are anticompetitive features in Apple’s platforms, Apple argues are in fact privacy and security related.</p>
-
-<p>Back in July <a href="https://9to5mac.com/2026/07/15/apple-wins-discovery-fight-over-federal-agency-documents-in-doj-antitrust-case/">Apple won a big discovery ruling</a> — Apple asked for documents from 14 federal agencies — including the CIA, FBI, Department of Defense, NSA, and State Department — to see the reasons why those agencies purchase iPhones, iPads, and Macintosh computers. And in July, Apple won. They get to see what these federal agencies say about those features.</p>
-
-<p>The DOJ filed a longshot “<em>Hey, no fair</em>” complaint trying to overrule that discovery ruling. Now Apple has <a href="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/gov.uscourts.njd_.544402.493.0.pdf">filed a retort</a> saying the July order should stand, and the DOJ should get ready to argue in court that it’s unlawful for Apple to implement the sort of features that are the very reason why security-minded federal agencies purchase Apple devices.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Gives Legal Middle Finger to DOJ Challenge on Apple’s July Discovery Win’"  href="https://daringfireball.net/linked/2026/08/18/apple-middle-finger-doj">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
