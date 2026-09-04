@@ -7,7 +7,55 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-09-04T18:07:49Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-09-04T20:55:29Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Apple Fixed ‎TestFlight’s Screwy Sort Order</title>
+	<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/testflight/id899247664" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xj3" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/04/testflight-sort-order-fixed" />
+	<id>tag:daringfireball.net,2026:/linked//6.43455</id>
+	<published>2026-09-04T20:04:47Z</published>
+	<updated>2026-09-04T20:55:29Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p><a href="https://daringfireball.net/2026/08/apple_testflight_list_sort_order">I wrote two weeks ago</a> about how the v4.3.0 update to TestFlight (released on July 21) broke the sort order for apps in the sidebar. Apple yesterday released v4.3.1, with these helpful release notes:</p>
+
+<blockquote>
+  <p>This update includes stability improvements and bug fixes.</p>
+</blockquote>
+
+<p>One of the weirdest parts about this sort-order bug is that <a href="https://daringfireball.net/linked/2026/08/24/more-on-testflights-screwy-sort-order">it only affected some people</a>. I was obviously one of them; <a href="https://mastodon.social/@siracusa/117135117635246786">so was John Siracusa</a>. For both of us, yesterday’s v4.3.1 update fixes the bug.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Fixed ‎TestFlight’s Screwy Sort Order’"  href="https://daringfireball.net/linked/2026/09/04/testflight-sort-order-fixed">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Vinted</title>
+	<link rel="alternate" type="text/html" href="https://www.vinted.com/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xj2" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/04/vinted" />
+	<id>tag:daringfireball.net,2026:/linked//6.43454</id>
+	<published>2026-09-04T19:55:45Z</published>
+	<updated>2026-09-04T19:55:45Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Remarking on MapQuest taking the #1 spot in the App Store (in the wake of their decision to ignore President Trump’s fiat renaming of Lake Ontario to “Lake America”), <a href="https://daringfireball.net/linked/2026/09/03/mapquest-surge">I mentioned yesterday</a> that I’d never heard of Vinted, the #3 app. (A day later and MapQuest is still #1, by the way.)</p>
+
+<p>Vinted, it turns out, is an eBay-like market for buying and selling used clothing. <a href="https://www.vinted.com/about">From a Lithuanian startup</a> and the whole thing has been popular in Europe for a while, and obviously now is gaining popularity in the U.S.</p>
+
+<div>
+<a  title="Permanent link to ‘Vinted’"  href="https://daringfireball.net/linked/2026/09/04/vinted">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/09/writing_with_unnatural_constraints" />
 	<link rel="shorturl" href="http://df4.us/xj1" />
@@ -1676,7 +1724,7 @@ fun recent-hire-at-Apple Chris Espinosa is having with it</a>.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/24/more-on-testflights-screwy-sort-order" />
 	<id>tag:daringfireball.net,2026:/linked//6.43415</id>
 	<published>2026-08-24T15:22:16Z</published>
-	<updated>2026-08-24T15:22:17Z</updated>
+	<updated>2026-09-04T20:05:56Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -1687,6 +1735,8 @@ fun recent-hire-at-Apple Chris Espinosa is having with it</a>.</p>
 <p>The weird thing is, back on August 13, the iPhone version of TestFlight started showing my lists in recency-of-last-update order once again. There was no update to the TestFlight app itself. I just started seeing the list in the correct order once again. It was only on my iPhone though — on my Macs and iPad, TestFlight continued to sort apps alphabetically. Then, two days later, my iPhone went back to alphabetical order, and it’s been stuck there ever since.</p>
 
 <p>When the list is sorted by recency, there’s also a “Currently Testing” header at the top of the list, and there are other (disclosable) categories like “Incompatible” and “Previously Tested” at the bottom of the list. When the list is sorted alphabetically, none of these category headers are visible.</p>
+
+<p><strong>Update:</strong> The bug was <a href="https://daringfireball.net/linked/2026/09/04/testflight-sort-order-fixed">seemingly fixed</a> in v4.3.1 on September 3.</p>
 
 <div>
 <a  title="Permanent link to ‘More on TestFlight’s Screwy Sort Order’"  href="https://daringfireball.net/linked/2026/08/24/more-on-testflights-screwy-sort-order">&nbsp;★&nbsp;</a>
@@ -1893,42 +1943,6 @@ ratings in 2021.</p>
 
 	]]></content>
   </entry><entry>
-	<title>Walmart Finally Caves, Will Soon Support Apple Pay</title>
-	<link rel="alternate" type="text/html" href="https://corporate.walmart.com/news/2026/08/21/more-ways-to-pay-tap-to-pay-is-coming-to-walmart-and-sams-club" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xht" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/21/walmart-apple-pay-finally" />
-	<id>tag:daringfireball.net,2026:/linked//6.43409</id>
-	<published>2026-08-21T19:34:55Z</published>
-	<updated>2026-08-21T19:34:55Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Walmart:</p>
-
-<blockquote>
-  <p>When we think about convenience, we think about a lot of things,
-but making shopping feel simpler and more seamless from start to
-finish is a big part. And one of the moments where that matters
-most is at checkout.</p>
-
-<p>We want customers and members to have choice in how they pay, so
-they can check out in the way that works best for them. Now,
-beginning Aug. 24, we will be adding Tap to Pay to our payment
-options at select Walmart stores and Sam’s Club locations, with
-plans to roll it out to all U.S. stores and clubs by the end of
-2026 and to fuel stations by mid-2027.</p>
-</blockquote>
-
-<p>When I think about convenience, I think about <a href="https://daringfireball.net/linked/2019/01/22/currentc">CurrentC</a>, scanning stupid-ass QR codes, and <a href="https://www.apple.com/newsroom/2014/09/09Apple-Announces-Apple-Pay/">waiting 12 years</a> to adopt Apple Pay.</p>
-
-<div>
-<a  title="Permanent link to ‘Walmart Finally Caves, Will Soon Support Apple Pay’"  href="https://daringfireball.net/linked/2026/08/21/walmart-apple-pay-finally">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/08/df_posts_drop_in_a_forest" />
 	<link rel="shorturl" href="http://df4.us/xhs" />
@@ -1960,46 +1974,6 @@ plans to roll it out to all U.S. stores and clubs by the end of
 
     ]]></content>
   <title>★ When New DF Posts Drop in a Forest and No One Is There to Read Them</title></entry><entry>
-	<title>Bluesky’s Active User Base Is Shrinking, and Remains Tiny Compared to Threads and Twitter/X</title>
-	<link rel="alternate" type="text/html" href="https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xhr" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/21/bluesky-user-base-is-tiny" />
-	<id>tag:daringfireball.net,2026:/linked//6.43407</id>
-	<published>2026-08-21T13:36:58Z</published>
-	<updated>2026-08-21T13:36:59Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Sarah Perez, writing at TechCrunch last week:</p>
-
-<blockquote>
-  <p>Decentralized social network Bluesky was one of the bigger
-beneficiaries of the <a href="https://techcrunch.com/2024/11/12/bluesky-is-seeing-an-exodus-of-unhappy-x-users-following-the-election/">exodus from Elon Musk’s X in November
-2024,</a> following the U.S. elections. But now, nearly two years
-later, the social network and would-be X competitor is struggling
-to hold on to its momentum.</p>
-
-<p>According to data from digital intelligence provider
-<a href="http://similarweb.com/">Similarweb</a>, Bluesky’s mobile app had 10.4 million monthly
-active users worldwide in June 2026, down 27.2% year-over-year. In
-addition, mobile daily active users continued to decline, falling
-25.6% year-over-year in July to around 3 million.</p>
-</blockquote>
-
-<p>As always, take all third-party analytics and usage data about app usage <a href="https://daringfireball.net/2023/08/whats_the_deal_with_sensor_tower">with an enormous grain of salt</a>. Third-party data companies can only estimate this data, they can’t know it. It’s like <a href="https://talkingpointsmemo.com/edblog/is-there-a-polling-crisis-and-why-should-we-care-if-there-is">comparing polling data to election results</a>.</p>
-
-<p>But I think it’s obviously true that Threads and Twitter/X both have hundreds of millions of active users, and Bluesky has like maybe 10 million. Even if Bluesky has three times more actual users than Similarweb’s data suggests, that would still suggest that Bluesky’s user base is an entire order of magnitude smaller than Threads or Twitter/X. And Mastodon is so small that no one even mentions it anymore in these comparisons. Mastodon and the whole ActivityPub world make Bluesky look large and culturally relevant.</p>
-
-<p>Small is not necessarily bad. My favorite of these networks, personally, is Mastodon. I like my community there <em>because</em> it’s small and generally free of both drama and nonsense. But small precludes mainstream cultural relevance.</p>
-
-<div>
-<a  title="Permanent link to ‘Bluesky’s Active User Base Is Shrinking, and Remains Tiny Compared to Threads and Twitter/X’"  href="https://daringfireball.net/linked/2026/08/21/bluesky-user-base-is-tiny">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/08/apple_eu_business_terms_conceding_little" />
 	<link rel="shorturl" href="http://df4.us/xho" />
