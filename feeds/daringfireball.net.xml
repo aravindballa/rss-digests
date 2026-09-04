@@ -7,7 +7,56 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-09-04T16:16:12Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-09-04T18:07:49Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/09/writing_with_unnatural_constraints" />
+	<link rel="shorturl" href="http://df4.us/xj1" />
+	<id>tag:daringfireball.net,2026://1.43453</id>
+	<published>2026-09-04T18:07:18Z</published>
+	<updated>2026-09-04T18:07:49Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">It’s sophistry to argue that one can write within a constraint without the constraint affecting the quality of the writing.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>Marcin Wichary, <a href="https://unsung.aresluna.org/i-just-chose-words-carefully/">writing at Unsung</a>, regarding <a href="https://gamefaqs.gamespot.com/snes/588741-super-metroid/faqs/10114">a rather subtly astonishing FAQ for the game Super Metroid</a>, written in the late 1990s by “rs1n”. It’s over 17,000 words long, and the whole thing is full-justified when viewed with a monospaced font, using no trickery with extra spaces or hyphenation to achieve the layout:</p>
+
+<blockquote>
+  <p>The author lightly covers in the FAQ at the bottom:</p>
+
+<blockquote>
+  <p>What program did you use to justify the text?</p>
+
+<p>None. I just chose words carefully so that everything lined up on
+the right hand side. Everything was done with an ASCII editor.</p>
+</blockquote>
+
+<p>I’m sharing this mostly as a curiosity; some rewrites for physical
+books are par the course to avoid widows and orphans, but you
+don’t see them as much in onscreen writing.</p>
+</blockquote>
+
+<p>The FAQ reads pretty well, but to my ear, there’s something obviously off about it. The justification gimmick is very fun and the fact that the prose reads as well as it does is quite the feather in rs1n’s cap. He tried something very difficult and pulled it off with aplomb. And I’m sure many people have read the FAQ without even noticing the accomplishment, or considering just how difficult it is to write with such an unyielding constraint. There were many FAQs and other documents from the plain-text era that were full-justified, using extra spaces between words and paragraphs and occasional hyphenation to achieve the effect. rs1n’s FAQ achieves the effect with no trickery, and the result looks so natural that it doesn’t call attention to itself. It just looks nice.</p>
+
+<p>But it doesn’t <em>read</em> entirely naturally. It’s stilted, as though written by someone for whom English is their second language. Which, for all I know, is true for rs1n, but I doubt it — I think the ESL-like stiltedness is just the result of making word choices to fit the line length, not simply for meaning and tone.</p>
+
+<p>The line-length constraint brings to mind <a href="https://en.wikipedia.org/wiki/Lipogram">lipograms</a>, “writing paragraphs or longer works in which a particular letter or group of letters is avoided”. Ernest Vincent Wright published an entire novel in 1939, <em><a href="https://en.wikipedia.org/wiki/Gadsby_(novel)">Gadsby</a></em>, without using the letter <em>e</em>. The Wikipedia page for lipograms lists more examples. That’s a hell of a trick, but there’s a reason why <em>Gadsby</em> is almost unheard-of, and Fitzgerald’s <em>The Great Gatsby</em> remains famous. <em>Gadsby</em> is <a href="https://www.gutenberg.org/ebooks/47342">miserable to read</a>. Wright was obviously a fine writer. <em>Gadsby</em>’s “Introduction” is written without the no-<em>e</em>’s constraint — and largely about the no-<em>e</em>’s constraint — and it reads just fine. But the text of the novel is a goddamn laborious slog. I couldn’t get through more than two paragraphs before deciding that my point was proven. It’s a fun challenge to compose lipograms but it’s no way to actually write. The gimmick necessarily becomes the highest priority of your word choices, not clarity or meaning.</p>
+
+<p>So too, goes my thinking, regarding the “watermarking” of AI-generated text through word choices alone. Fitting words into the watermarking pattern surely results in prose <em>far</em> less stilted than omitting the letter <em>e</em>, and surely also less stilted than rs1n’s hard-wrapped-at-75-characters-per-line Super Metroid FAQ, but it’s necessarily stilted to some degree. It’s sophistry to argue that one can write within a constraint without the constraint affecting the quality of the writing.</p>
+
+<h2>Bonus Quibble</h2>
+
+<p>Wichary opens his post with the following:</p>
+
+<blockquote>
+  <p>I don’t think anyone particularly enjoys typesetting in monospace.</p>
+</blockquote>
+
+<p>I disagree! I think typesetting in monospace is fun — or at least <em>satisfying</em>. I think it’s part of the appeal of Markdown that you can make a document look <em>just right</em>. <a href="https://daringfireball.net/2026/09/writing_with_unnatural_constraints.text">What you see reading Markdown</a> is what I saw writing it. And just look at the fun people still have printing “large type” banners <a href="https://www.figlet.org/">using ASCII punctuation characters</a> or <a href="https://www.macstories.net/news/notesctl-a-club-macstories-preview-of-federicos-advanced-apple-notes-cli-tool/">fancier box-drawing Unicode glyphs</a>. When you format something in plain text, you know exactly how it’s going to look everywhere.</p>
+
+    ]]></content>
+  <title>★ Writing With Unnatural Constraints</title></entry><entry>
 	<title>FBI Probes Service Selling 153M+ Drivers Licenses</title>
 	<link rel="alternate" type="text/html" href="https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xj0" />
@@ -2057,61 +2106,4 @@ experience the benefits it was designed to provide.</p>
 <p>The very funniest thing Apple could do now would be to drop the baseline commission everywhere else in the world from 30 to 25 percent.</p>
 
     ]]></content>
-  <title>★ Apple and European Commission Reach Agreement on App Payment Terms Under DMA, With Apple Conceding Very Little</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/08/apple_testflight_list_sort_order" />
-	<link rel="shorturl" href="http://df4.us/xhm" />
-	<id>tag:daringfireball.net,2026://1.43402</id>
-	<published>2026-08-19T21:39:47Z</published>
-	<updated>2026-08-19T21:39:47Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">It’s 2026 and an important, much-used app from Apple doesn’t offer basic list sorting controls that would have been a glaring omission 40 years ago. This was a completely solved problem decades ago, when computer RAM was measured in *kilo*bytes.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p><a href="https://9to5mac.com/2026/07/21/apple-just-improved-testflight-for-users-with-a-lot-of-beta-apps/">Zac Hall at 9to5Mac, a month ago</a>:</p>
-
-<blockquote>
-  <p>Sometimes a small change can make a big impact. That’s especially
-true for Apple’s latest TestFlight update for users with a lot of
-pre-release software.</p>
-
-<p>Apple just updated TestFlight for iPhone, iPad, Mac, and more.
-The new version, 4.3, introduces “a search field to quickly
-find apps.”</p>
-
-<p>A quick comparison to version 4.2.2. shows just that: TestFlight
-now includes a search field along the bottom on iPhone and at the
-top of the sidebar on Mac.</p>
-</blockquote>
-
-<p>This was a one-step-forward/two-steps-back regression. Of course it’s better to be able to search a list than not to have a search feature.</p>
-
-<p>But when Apple implemented this change, they also changed the sort order of the list of apps you’re registered to test. Starting with this update, the list is sorted in alphabetical order. For as long as I can remember — perhaps dating back to <a href="https://techcrunch.com/2014/02/21/rumor-testflight-owner-burstly-is-being-acquired-by-apple/">when TestFlight was a third-party utility</a> — the list was ordered by <em>recency</em>. The most recently updated app was at the top; the oldest at the bottom. Sorting by recency is really the only sort order that makes sense when you’re registered for dozens (or more) of apps. For me, trying to see if there is an update to a new app <a href="https://marco.org/2026/08/14/unforgetful">whose name starts with U</a> now requires scrolling through over 100 items.</p>
-
-<p>Sorting this list alphabetically by app name is like sorting my email by sender name. The main reason I ever open the app is to see what’s new. There’s no way now to see which apps have been updated recently other than painstakingly scrolling through what, for me, is a very long list.</p>
-
-<p>I didn’t complain about this when the sort order changed last month because I figured it was an oopsie — that alphabetical order was supposed to kick in only when displaying search results, not by default. But here we are a month later and the presentation of apps in TestFlight makes me a little irritated every day. Do people inside Apple not use TestFlight themselves?</p>
-
-<p>Also, if I consider the broader view, this really speaks to how much we’ve lost in terms of UI vocabulary. For <em>decades</em>, any list of items with names and dates could be sorted by name or date, ascending or descending, through the standard use of clickable headers at the top of every list. This was true for almost any such list in any app, on any platform — Mac, Windows, Unix, Amiga, whatever. This was just basic GUI stuff. Like: Can you select, copy, and paste text? Can you present a menu of command options? Can you assign keyboard shortcuts to frequently used commands? Can you sort a list of items by useful criteria like name or date?</p>
-
-<p>iOS in 2007 introduced a simplified UI vocabulary that omitted many of these baseline GUI features. That seemed like a reasonable trade-off for a device with a 3.5-inch display and fat fingers as the only input device. But then iOS became popular and Apple stopped bringing the richer UI vocabulary of the Mac to iOS — copy-and-paste, for example, <a href="https://daringfireball.net/2009/06/copy_and_paste">didn’t appear until iOS 3.0</a> (then named “iPhone OS”) — and started bringing iOS’s simplified, child-like UI grammar to MacOS. I’m only writing this article because Apple changed the sort order of apps in TestFlight from date to name. But the real problem is that there is only one sort order in TestFlight. I just can’t emphasize how ridiculous it would have been for any app, on any platform, to offer a list like this without “Name” and “Date” headers at the top that you could click to change the sort order (including clicking them again to switch between ascending and descending).</p>
-
-<p>It’s 2026 and an important, much-used app from Apple doesn’t offer basic list sorting controls that would have been a glaring omission 40 years ago. We don’t complain because TestFlight isn’t an anomaly in this regard. Many (most?) apps from Apple today have lists that omit headers to control sort order, even though changing sort order is often very useful, and intuitively sortable list views used to be so bog-standard that we all just took them for granted.</p>
-
-<p>It certainly shouldn’t have taken until July 2026 to be able to search in TestFlight, either. And being able to search, and see the results sorted alphabetically, shouldn’t mean you can no longer view the full list sorted by recency. These limitations are all so crude. It’s the GUI equivalent of borderline illiteracy.<sup id="fnr1-2026-08-19"><a href="#fn1-2026-08-19">1</a></sup></p>
-
-<p>I mean really, what are we doing here? This was a completely solved problem decades ago, when computer RAM was measured in <em>kilo</em>bytes. It’s like if most new books just no longer contained page numbers, because a cadre of dilettante designers decided that they prefer the way pocket-sized pamphlets look without them, and what works for an 8-page pamphlet must surely work for a 300-page novel.</p>
-
-<div class="footnotes">
-<hr />
-<ol>
-<li id="fn1-2026-08-19">
-<p>Here’s another one: selecting multiple items in a list and then taking action on those items at once. This was a completely solved GUI problem. The Mac had standards for selecting a range of items (Shift-clicking) and selecting/de-selecting items non-contiguously (Command-clicking). You can still do this in Mac-assed Mac apps. But in apps like TestFlight you can’t. While suffering through this new alphabetical sort order for the last month, I’ve spent a minute or two every day deleting old apps from my list to winnow it down. This is a painstaking multi-step process for each app, and can only be done one app at a time. Why in the world can’t we select multiple apps at once and take an action like “Stop Testing” on the entire selection in one fell swoop? (Part of the answer might be that TestFlight appears to be largely written in <a href="https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps">SwiftUI, not AppKit</a>.)&nbsp;<a href="#fnr1-2026-08-19"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
-</li>
-</ol>
-</div>
-
-    ]]></content>
-  <title>★ Apple Screwed Up the TestFlight App’s Sort Order a Month Ago, and It’s Still Screwed Up, but the More I Think About It, the More Clear It Is They Started Screwing This Up 15 Years Ago</title></entry></feed><!-- THE END -->
+  <title>★ Apple and European Commission Reach Agreement on App Payment Terms Under DMA, With Apple Conceding Very Little</title></entry></feed><!-- THE END -->
