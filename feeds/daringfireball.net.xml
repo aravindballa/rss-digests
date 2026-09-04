@@ -7,7 +7,33 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-09-03T21:20:00Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-09-04T01:36:58Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>OpenAI Soft-Releases GPT‑6 Astra</title>
+	<link rel="alternate" type="text/html" href="https://simonwillison.net/2026/Sep/3/gpt6-astra/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xiz" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/03/gpt-6-astra" />
+	<id>tag:daringfireball.net,2026:/linked//6.43451</id>
+	<published>2026-09-04T01:35:24Z</published>
+	<updated>2026-09-04T01:36:58Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Simon Willison:</p>
+
+<blockquote>
+  <p>GPT-6 Astra is “rolling out today to a limited set of organizations and over the coming days will become available to all ChatGPT Plus, Pro, Business, and Enterprise users, as well as through the OpenAI API and AWS” — I’ve not tried it yet myself, so I don’t have a great deal to say about it yet.</p>
+
+<p>It’s going to be API priced at the same rate as Claude Fable 5 and 5.1: $10/million input and $50/million output. This is clearly OpenAI’s Fable competitor, and appears to score higher than Fable on most of OpenAI’s self-reported benchmarks.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘OpenAI Soft-Releases GPT‑6 Astra’"  href="https://daringfireball.net/linked/2026/09/03/gpt-6-astra">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Phil Schiller Steps Down From Running App Store and Product Events</title>
 	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2026-08-31/apple-s-phil-schiller-steps-down-from-running-app-store-and-product-events?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODE5Mzk5NywiZXhwIjoxNzg4Nzk4Nzk3LCJhcnRpY2xlSWQiOiJUS0VDTE1LSkg2VjQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.G1fAbZQH31AQBLUajPYPUJ7BqRyeIUN7SbxQZFAqMXE" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xiy" />
@@ -1933,48 +1959,6 @@ lived experience can’t possibly be real has driven them away.</p>
 
 <div>
 <a  title="Permanent link to ‘Bluesky Is Full of Anti-AI Zealots’"  href="https://daringfireball.net/linked/2026/08/21/bluesky-is-full-of-anti-ai-zealots">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>How Bluesky and Threads Sneak Their Logos Into iOS Screenshots</title>
-	<link rel="alternate" type="text/html" href="https://timmarinin.net/2026/bluesky-screenshots/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xhp" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/20/bluesky-threads-sneak-logo-into-screenshots" />
-	<id>tag:daringfireball.net,2026:/linked//6.43405</id>
-	<published>2026-08-21T03:03:08Z</published>
-	<updated>2026-08-21T03:06:19Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Bluesky and Threads both pull the same trick: When you take a screenshot on iOS of an individual tweet, they replace the “Follow” button in their user interface with their logo. Tim Marinin noticed this in the Bluesky app, got curious, and because they publish the app’s source code, he dug in to figure out how they do this:</p>
-
-<blockquote>
-  <p>The answer was in the file literally called <a href="https://github.com/bluesky-social/social-app/blob/main/src/screens/PostThread/components/GrowthHack.tsx">GrowthHack.tsx</a>,
-introduced in January 2026 by <a href="https://github.com/mozzius">mozzius</a>. But it merely
-used a dependency, so to understand I looked into package
-<a href="https://github.com/mozzius/expo-privacy-sensitive">expo-privacy-sensitive</a>, also by them.</p>
-
-<p>The package creates <code>UITextField</code> with <code>isSecureTextEntry</code>
-property set to true and renders the actual content (the button)
-into that field’s <code>.layer</code>. When I take the screenshot, iOS hides
-this UITextField by blanking the layer, allowing the Bluesky logo
-to flutter its wings through (it was here the whooole time). For
-other platforms it simply renders content as-is, without masking.</p>
-</blockquote>
-
-<p>Marinin says, “I think it’s cute.”</p>
-
-<p>I think it’s bullshit. If I take a screenshot I want to see exactly what is on my screen. If I take a photograph with a Sony camera, they don’t put a fucking Sony logo in the image. Screenshots should be purely WYSIWYG, and it’s obvious that the <code>isSecureTextEntry</code> property is meant to obscure the contents of secure text entry fields. It’s clever, but it’s bullshit.</p>
-
-<p>It’s a bit like the bullshit some apps pull where they append extra text on the clipboard when you copy and paste — like Apple Books, which adds quotation marks around the text you copied (a little annoying) <a href="https://daringfireball.net/misc/2026/08/apple-books-paste-bullshit.png">and appends five lines of attribution cruft</a> (a lot annoying). But at least with Books’s attribution cruft, you can just delete the extra lines (and the additional quotation marks). With this stunt Bluesky and Threads are pulling, there’s no way to capture a screenshot of what you actually see in the app.</p>
-
-<p>I’m not surprised Threads does something sneaky like this; I am surprised that Bluesky does.</p>
-
-<div>
-<a  title="Permanent link to ‘How Bluesky and Threads Sneak Their Logos Into iOS Screenshots’"  href="https://daringfireball.net/linked/2026/08/20/bluesky-threads-sneak-logo-into-screenshots">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
