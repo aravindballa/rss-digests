@@ -7,7 +7,55 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-09-04T01:36:58Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-09-04T16:16:12Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>FBI Probes Service Selling 153M+ Drivers Licenses</title>
+	<link rel="alternate" type="text/html" href="https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xj0" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/04/fbi-krebs-153-million-ids" />
+	<id>tag:daringfireball.net,2026:/linked//6.43452</id>
+	<published>2026-09-04T16:15:43Z</published>
+	<updated>2026-09-04T16:16:12Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Brian Krebs, reporting at KrebsOnSecurity:</p>
+
+<blockquote>
+  <p>On Monday, Aug. 31, a source alerted KrebsOnSecurity to a service
+advertised by a new user on the Russian cybercrime forum Exploit,
+offering access to digital scans of identity documents on more
+than 170 million people in North America. The source brought it to
+my attention because the proprietor of this identity theft service
+offered my Virginia drivers license as a free sample in their
+initial sales thread on Exploit.</p>
+
+<p>The service, dubbed Nexus, claims to have more than 153 million
+drivers licenses for people in the United States and Canada, as
+well as more than 10 million identification cards; more than three
+million travel documents and/or international IDs; and at least
+579,000 medical cards.</p>
+
+<p>A quick look around Nexus finds they are likely not exaggerating
+about that 153 million number: Running a blank search in Nexus
+(with no search parameters entered) returns approximately 11.5
+million pages of results, with roughly 15 results displayed per
+page. It includes documents from people in both Canada and the
+United States, but the bulk of these records are on Americans:
+searching for just Canadian drivers licenses returns approximately
+1.1 million results, with the largest concentration from Ontario
+(473,673 records).</p>
+</blockquote>
+
+<p>Krebs seemingly tracked down the source: <a href="https://idscan.net/">IDScan.net</a>, an outfit that is used by car rental agencies like Hertz (seemingly where they got Krebs’s own drivers license) and marijuana dispensaries. They kept over 150 million ID card scans and lost them all in a data breach. Unreal.</p>
+
+<div>
+<a  title="Permanent link to ‘FBI Probes Service Selling 153M+ Drivers Licenses’"  href="https://daringfireball.net/linked/2026/09/04/fbi-krebs-153-million-ids">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>OpenAI Soft-Releases GPT‑6 Astra</title>
 	<link rel="alternate" type="text/html" href="https://simonwillison.net/2026/Sep/3/gpt6-astra/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xiz" />
@@ -1899,66 +1947,6 @@ addition, mobile daily active users continued to decline, falling
 
 <div>
 <a  title="Permanent link to ‘Bluesky’s Active User Base Is Shrinking, and Remains Tiny Compared to Threads and Twitter/X’"  href="https://daringfireball.net/linked/2026/08/21/bluesky-user-base-is-tiny">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Bluesky Is Full of Anti-AI Zealots</title>
-	<link rel="alternate" type="text/html" href="https://bsky.app/profile/masnick.com/post/3mtk7cuvbok2x" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xhq" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/21/bluesky-is-full-of-anti-ai-zealots" />
-	<id>tag:daringfireball.net,2026:/linked//6.43406</id>
-	<published>2026-08-21T12:52:47Z</published>
-	<updated>2026-08-21T17:00:52Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Mike Masnick, in a thread on Bluesky:</p>
-
-<blockquote>
-  <p>Multiple people I know have told me that they love the idea of
-Bluesky, and want it to succeed, but have abandoned it for X
-because they use agentic tools in their work and find them
-incredibly useful, and feel that any mention of their usage here
-leads to hate and ridicule.</p>
-
-<p>I wouldn’t bring this up if it was just one person, but it was
-multiple people since the beginning of August who mentioned in
-passing something to the effect of either “I’d spend more time on
-Bluesky if people weren’t so anti-AI” <em>or</em> “As much as I hate to
-be there all the useful AI talk is on X.” [...]</p>
-
-<p>I’m not telling anyone what to do or what tech to use or what to
-like or not like. I’m just relaying that the reputation this place
-now has is one that a large segment of the population who are NOT
-fascists, saying they don’t feel comfortable here because a main
-area of their interest is considered worthy of being mocked and
-attacked. And even as I’ve explained that I’ve been able to have
-positive conversations about productive AI usage here with many of
-you, the reputation of the community here as insisting their own
-lived experience can’t possibly be real has driven them away.</p>
-</blockquote>
-
-<p>It’s not just “the reputation”. That really is the culture of Bluesky. I’ve obviously written more about AI this month than usual — in particular, my two long pieces regarding <a href="https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing">watermarking LLM-generated text</a> through <a href="https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking">word-choice diddling</a>. I don’t really write much about AI generally.</p>
-
-<p>Broadly, I’m making two arguments against text watermarking. First, that the embedding of a detectable signal (even if subtle) must necessarily degrade the quality of the generated prose (even if only slightly), and that this is an unacceptable trade-off for a feature that has no benefit to the user and in fact can only be used <em>against</em> the user. Second, that even if I’m wrong about the first part, and a clever enough watermarking scheme <em>can</em> embed a detectable signature without any degradation of prose quality, this is a bad idea and should be rejected.</p>
-
-<p>Reaction to my takes on text watermarking have largely been about these two arguments. Some people agree with me that what watermarking proponents are claiming is not possible — the text quality must degrade. Others agree that while it must have an effect on text quality, it in fact is so subtle that it truly does not matter and even a careful reader will not notice an overall degradation. Others disagree, tell me I don’t understand the cleverness of the systems, and are convinced that somehow  this watermarking truly embeds a detectable signal in prose without any degradation of text quality whatsoever. There’s a range of disagreement, but it’s all reasonable. Likewise on the broader question of whether it’s a good idea or not to even try to do this.</p>
-
-<p>The reaction on Bluesky to my recent work is like nothing else. It’s largely in the vein that watermarking can’t possibly make AI-generated text worse because it’s already random gibberish, and that the only explanation for my being opposed to this is that I must be using AI to produce my own writing and I’m upset that my scheme will soon be detectable. <a href="https://bsky.app/profile/gruber.foo/post/3mt7wgebucvqv">Read the replies to this one</a>; they speak for themselves.</p>
-
-<p><a href="https://daringfireball.net/linked/2026/05/30/jalkut-on-ai">I continue to think</a> my friend <a href="https://bsky.app/profile/danielpunkass.punkitup.com/post/3mmqcikjkjn2t">Daniel Jalkut has espoused the one true take</a>: “My take on AI is, essentially, everybody who’s against it is too against it and everybody who’s for it is too for it.” It is way less inflammatory to espouse an AI-skeptical stance on Twitter/X than it is to simply state that AI can be truly useful on Bluesky.</p>
-
-<p>Anyway, Masnick, <a href="https://bsky.app/profile/masnick.com/post/3mtke5x362g2x">at the end of the day yesterday</a>:</p>
-
-<blockquote>
-  <p>The people bitching about me turning off replies on my thread earlier today are doing an excellent job reinforcing why I was right to turn off replies.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘Bluesky Is Full of Anti-AI Zealots’"  href="https://daringfireball.net/linked/2026/08/21/bluesky-is-full-of-anti-ai-zealots">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
