@@ -7,7 +7,36 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-09-05T00:05:47Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-09-05T16:08:25Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>‘Bob and Van’</title>
+	<link rel="alternate" type="text/html" href="https://marco.org/2026/09/04/bob-and-van" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xj6" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/05/bob-and-van" />
+	<id>tag:daringfireball.net,2026:/linked//6.43458</id>
+	<published>2026-09-05T16:08:24Z</published>
+	<updated>2026-09-05T16:08:25Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Marco Arment:</p>
+
+<blockquote>
+  <p>And I can’t help but feel that maybe we were better off before we
+knew <em>everyone’s</em> hot takes on <em>everything.</em></p>
+
+<p>The town coffee shop was just a coffee shop. We weren’t publicly
+shamed for going there because one of the owners was an ass. It
+was just a place to hang out with our friends.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘‘Bob and Van’’"  href="https://daringfireball.net/linked/2026/09/05/bob-and-van">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Adobe Names Anil Chakravarthy as CEO, Replacing Shantanu Narayen</title>
 	<link rel="alternate" type="text/html" href="https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xj5" />
@@ -1901,30 +1930,6 @@ watermark.</p>
 
 <div>
 <a  title="Permanent link to ‘Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’’"  href="https://daringfireball.net/linked/2026/08/22/canada-pm-on-us-trustworthiness">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>WorkOS: Agents Can Now Sign Up for Your App</title>
-	<link rel="alternate" type="text/html" href="https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xhw" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/22/workos-agents-sign-up" />
-	<id>tag:daringfireball.net,2026:/linked//6.43412</id>
-	<published>2026-08-22T14:18:29Z</published>
-	<updated>2026-08-22T14:18:30Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>My thanks to WorkOS for sponsoring <a href="https://daringfireball.net/2026/08/df_posts_drop_in_a_forest">the Daring Fireball weekly newsletter</a> this week to promote their Agent Registration. Agents are hitting your signup flow and they’re bouncing off a browser login that was designed for humans. Every one that gives up is a signup you never see.</p>
-
-<p><a href="https://workos.com/docs/authkit/agent-auth?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026">WorkOS Agent Registration</a> turns that traffic into signups. Enroll via the dashboard and AuthKit publishes an auth.md file that agents read to register for scoped, short-lived credentials you control.</p>
-
-<p><a href="https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026">Make your app agent-ready today</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘WorkOS: Agents Can Now Sign Up for Your App’"  href="https://daringfireball.net/linked/2026/08/22/workos-agents-sign-up">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
