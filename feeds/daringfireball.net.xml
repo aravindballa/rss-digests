@@ -7,7 +7,71 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-09-06T17:51:09Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-09-06T19:06:28Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>WorkOS: How to Give an Agent a Task Instead of a Token</title>
+	<link rel="alternate" type="text/html" href="https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xjd" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/06/workos-agent-task" />
+	<id>tag:daringfireball.net,2026:/linked//6.43465</id>
+	<published>2026-09-06T19:06:27Z</published>
+	<updated>2026-09-06T19:06:28Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks to WorkOS for once again sponsoring Daring Fireball. Give an agent an access token and it spreads: into the context window, into tool call logs, into notes it keeps between steps. Each copy works from anywhere, long after the fact.</p>
+
+<p><a href="https://workos.com/docs/pipes/relay?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026&amp;utm_content=docs">Relay</a> keeps the credential at WorkOS. Your agent names the user, WorkOS attaches that token, refreshes it, and releases it only to allowlisted hosts. A hijacked agent session is a live process you can kill.</p>
+
+<p><a href="https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026">Learn how it works</a> at WorkOS’s blog.</p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS: How to Give an Agent a Task Instead of a Token’"  href="https://daringfireball.net/linked/2026/09/06/workos-agent-task">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Matt Haughey: ‘The Car Industry a/B Tested Selling a Car With and Without CarPlay and the Results Are Not Shocking’</title>
+	<link rel="alternate" type="text/html" href="https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xjc" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/06/haughey-chevy-honda-carplay" />
+	<id>tag:daringfireball.net,2026:/linked//6.43464</id>
+	<published>2026-09-06T19:04:12Z</published>
+	<updated>2026-09-06T19:04:13Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Matt Haughey:</p>
+
+<blockquote>
+  <p>One case in point is the Honda Prologue EV. It’s a partnership
+between Honda and Chevrolet, where the Prologue is basically a
+Chevy Blazer EV with Honda badges, slight visual differences in
+the sheetmetal and interior, but all the underpinnings are
+straight up Chevy. Even though the keys say Honda on a Prologue,
+it’s a General Motors key design with a Honda logo over it.</p>
+
+<p>But one big difference the Prologue has from the Blazer it is
+based on is this: it includes Apple CarPlay and Android Auto
+integration. [...]</p>
+
+<p>For the years these cars were sold together, the Honda outsold the
+Blazer by 43%, 73%, and 166% in each time period. Today in 2026,
+people are buying a Honda Prologue over one and a half times more
+often than the Chevy Blazer EV the Prologue is based on.</p>
+</blockquote>
+
+<p>It’s not a perfect test. It’s reasonable to argue that Honda has a better brand and reputation than Chevrolet, and is just plain better at selling cars. But the trendline over the last three years is pretty stark.</p>
+
+<div>
+<a  title="Permanent link to ‘Matt Haughey: ‘The Car Industry a/B Tested Selling a Car With and Without CarPlay and the Results Are Not Shocking’’"  href="https://daringfireball.net/linked/2026/09/06/haughey-chevy-honda-carplay">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Trump Administration Launches Rip-Off Video Games at Arcade.gov</title>
 	<link rel="alternate" type="text/html" href="https://x.com/WhiteHouse/status/2095615734567100766" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xjb" />
@@ -1679,37 +1743,6 @@ was the best of America.</p>
 
 	]]></content>
   </entry><entry>
-	<title>Footnote Regarding the GDPR and Cookie Permission Prompts</title>
-	<link rel="alternate" type="text/html" href="https://daringfireball.net/2026/08/what_is_the_point_of_the_dma#fn1-2026-08-24" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xi6" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/25/footnote-regarding-the-gdpr-and-cookie-permission-prompts" />
-	<id>tag:daringfireball.net,2026:/linked//6.43422</id>
-	<published>2026-08-25T15:46:27Z</published>
-	<updated>2026-08-26T00:10:11Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>If you already read my “<a href="https://daringfireball.net/2026/08/what_is_the_point_of_the_dma">What Is the Point of the DMA?</a>” piece yesterday, this morning I added a lengthy footnote regarding the DMA’s predecessor, the GDPR. Click through to read the entire note, but here’s the kicker:</p>
-
-<blockquote>
-  <p>The GDPR went into effect 10 years ago. By their inaction, they
-obviously think it’s working just fine. I think they look at the
-situation and realize, with satisfaction, that every time any
-website presents a cookie-permission dickover, that dickover
-effectively has a “Brought to you by the European Commission”
-badge on it. They were here, they did something, and everyone
-around the world sees the fruits of the GDPR cookie regulations
-every time they open their web browser. Job well done.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘Footnote Regarding the GDPR and Cookie Permission Prompts’"  href="https://daringfireball.net/linked/2026/08/25/footnote-regarding-the-gdpr-and-cookie-permission-prompts">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/08/configurations_and_pricing_for_new_mac_minis_and_mac_studios" />
 	<link rel="shorturl" href="http://df4.us/xi5" />
@@ -1801,47 +1834,6 @@ every time they open their web browser. Job well done.</p>
 
     ]]></content>
   <title>★ Memory and Storage Configurations and Pricing for the New Mac Minis (M6/M5 Pro) and Mac Studios (M5 Max/M5 Ultra)</title></entry><entry>
-	<title>Apple Introduces M6 and M5 Ultra Chips, in New Mac Mini and Mac Studio</title>
-	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xi4" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/25/m6-and-m5-ultra-chips" />
-	<id>tag:daringfireball.net,2026:/linked//6.43420</id>
-	<published>2026-08-25T13:10:18Z</published>
-	<updated>2026-08-25T13:10:18Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Apple Newsroom:</p>
-
-<blockquote>
-  <p>Apple today debuted M6 in the new Mac mini and M5 Ultra in the
-new Mac Studio, providing an extraordinary leap in performance
-and AI capabilities. M6, Apple’s first state-of-the-art
-2-nanometer chip, advances every compute block, delivering gains
-across every dimension of performance. The chip features a larger
-12-core CPU complex with the world’s fastest CPU core, a larger
-12-core GPU with Neural Accelerators, a Dual 16-core Neural
-Engine, and up to 170GB/s of unified memory bandwidth. M5 Ultra,
-the ultimate powerhouse for pro and AI workloads, uses
-next-generation UltraFusion technology to form a quad-die
-architecture for the first time in an M-series system on a chip
-(SoC). The chip includes an up-to-36-core CPU and up-to-80-core
-GPU with a massive 1.2TB/s of unified memory bandwidth, 50
-percent more than M3 Ultra.</p>
-</blockquote>
-
-<p>The <a href="https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/">new Mac Mini</a> (M6 and M5 Pro) and <a href="https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/">Mac Studio</a> (M5 Max and M5 Ultra) are available for preorder today, but none of them ship until September 22.</p>
-
-<p>All are slated to ship with MacOS 27 Golden Gate. On a background briefing for these new desktops yesterday, I asked if that implied that MacOS 27 would be released to the public on or before September 22, and the folks from Apple just sort of smiled and said they had no comment on anything other than the new hardware.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Introduces M6 and M5 Ultra Chips, in New Mac Mini and Mac Studio’"  href="https://daringfireball.net/linked/2026/08/25/m6-and-m5-ultra-chips">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://www.finalist.works/?utm_source=df-aug-2026" />
 	<link rel="shorturl" href="http://df4.us/xi3" />
