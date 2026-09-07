@@ -7,14 +7,115 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-09-06T22:28:16Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-09-07T17:37:10Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/09/its_true_that_i_stole_your_lighter" />
+	<link rel="shorturl" href="http://df4.us/xjf" />
+	<id>tag:daringfireball.net,2026://1.43467</id>
+	<published>2026-09-07T16:31:55Z</published>
+	<updated>2026-09-07T16:33:20Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">What we want is a system where geographic names are determined democratically, by voting. And that is the system we in fact have.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>Last week <a href="https://blog.google/products-and-platforms/products/maps/gnis-lake-ontario-lake-america-name-change/">both Google</a> <a href="https://www.macrumors.com/2026/09/01/apple-maps-lake-america/">and Apple</a> updated their maps to accommodate Trump changing the United States Geological Survey’s recognized name for Lake Ontario to “Lake America”. Just as with Trump’s fiat renaming of the Gulf of Mexico back in the first days of his 2.0 administration, Google and Apple are showing the same names to the same people, by region. Here are the names you now see for Lake Ontario, based on what region your device is set to:</p>
+
+<ul>
+<li>United States: “Lake America”</li>
+<li>Canada: “Lake Ontario”</li>
+<li>Everywhere else in the world: “Lake Ontario (Lake America)”</li>
+</ul>
+
+<p>This is exactly the same as <a href="https://daringfireball.net/2025/02/golfo_del_gringo_loco">their joint solution to the Gulf of Mexico renaming</a> — the U.S. sees “Gulf of America”, Mexico sees “Gulf of Mexico”, and the rest of the world sees “Gulf of Mexico (Gulf of America)”.</p>
+
+<p>Here is the solution I strongly believe Google and Apple <em>should</em> follow:</p>
+
+<ul>
+<li>United States: “Lake America (Lake Ontario)” and “Gulf of America (Gulf of Mexico)”</li>
+<li>Everywhere else in the world: “Lake Ontario” and “Gulf of Mexico”</li>
+</ul>
+
+<p>There is no reason to show these new Trump-dictated names anywhere outside the U.S., even putting them in parentheses. There is no reason to show only the actual traditional names exclusively for users in Canada (for Lake Ontario) and Mexico (for the Gulf). Treating Canada and Mexico as special cases only makes sense if they’re part of some sort of dispute over the names. They’re not. The names of these two bodies of water are not contentious. There is no long-simmering debate about them, like there is with <a href="https://en.wikipedia.org/wiki/Denali–Mount_McKinley_naming_dispute">Denali/Mount McKinley in Alaska</a>. The one and only country on the planet with a crackpot kook-ridden government that claims these bodies of water have new names is the United States; the only country that should see the new names is the United States.<sup id="fnr1-2026-09-07-maps"><a href="#fn1-2026-09-07-maps">1</a></sup></p>
+
+<p>So, I disagree with how Google and Apple have chosen to handle these re-namings. But it <em>is</em> correct that users in the United States do see the new names.</p>
+
+<p><a href="https://ihnatko.com/she-made-harry-eat/">Here’s Andy Ihnakto, at his eponymous website</a>:</p>
+
+<blockquote>
+  <p>We all have every right to be upset. Google’s receiving plenty of
+flak over this move (as is Apple; Apple Maps now shows “Lake
+America,” reportedly after <a href="https://apnews.com/article/apple-lake-ontario-america-trump-93232341c99a10d35338d3f1afd54171?ref=ihnatko.com">being pressured directly by
+Trump</a>). I dislike Google’s and Apple’s choices, but I can’t
+personally fault them.</p>
+
+<p>That said, Trump’s move is clearly meant to antagonize Canada
+during a volatile period in our relations. He’s throwing gasoline
+on a tariff fight that’s already creating uncertainty and
+suffering among vulnerable businesses and consumers on both sides
+of what was once an impeccably peaceful border. Google and Apple
+didn’t need to move so damned <em>quickly</em>. I wish they’d deferred
+the name change long enough for things to cool down a little.
+Doing so would have avoided creating the perception of handing one
+side a swift, validating victory.</p>
+</blockquote>
+
+<p>I doubt a cooling-off period would help. Wounds don’t feel better when they’re reopened after healing. It’s best to get it over with. Applying the change to Google and Apple Maps while the <a href="https://www.usgs.gov/tools/geographic-names-information-system-gnis">GNIS</a> database ink is still wet at least serves to remind <em>who</em> made this change and why. And whose change it rightfully is to make.</p>
+
+<p>This is a bitter pill for some to swallow. What a lot of people want is for Google and Apple to just ignore the U.S. government’s official new names. E.g., to pick just one high-profile pundit, here’s Kara Swisher <a href="https://www.threads.com/@karaswisher/post/Dcq_BjdEQyF">regarding Google</a> (“quislings”) <a href="https://www.threads.com/@karaswisher/post/DcwocY9kio6">and Apple</a> (“craven”, “pathetic”). But I suspect, quite strongly, that the people who profess to be the most angry at Apple and Google for going along with this change are the same people who would argue most strongly that Goliath tech companies and mega-billionaires wield too much anti-democratic power and influence.</p>
+
+<p>It’s not coherent to argue that Google and Apple should decide which names to put on their maps only when <em>you</em> want them to ignore the names from the official government database. Neither Google nor Apple are going to sell their maps apps, but it’s not outlandish to think that in some alternative universe, one or more of the leading maps app might be owned by, say, Elon Musk or Larry Ellison. Would the people who want Apple and Google to ignore the official names from the GNIS support the same stance if the two leading maps apps were owned by SpaceX and Oracle instead? Obviously they would not.</p>
+
+<p>What we want is a system where geographic names are determined democratically, by voting. And that is the system we in fact have. Trump won. The Department of the Interior has the power to change these names. If you’re angry that their official names in the United States are now Lake America and Gulf of America, stay angry that Trump won the 2024 election. Stay angry that our president continues to debase his office and embarrass our nation. Directing your anger at Google and Apple for reflecting that change is shooting the messengers.</p>
+
+<p>But this is why I find it embarrassing that both Google and Apple are foisting these absurd names on the rest of the world, even if only between parentheses. These names are nonsense, and they are Americans’ nonsense to deal with.</p>
+
+<p>China is another country with ridiculous geographic dogma. China demands that Taiwan, which is an independent free nation, be <a href="https://www.rfa.org/english/news/afcl/fact-check-apple-maps-taiwan-03072024174451.html">falsely labelled as a province of China</a>. Apple Maps reflects that policy — <em>within China</em>. It doesn’t label Taiwan as “(Province of China)” on maps outside China. Bullshit inside parentheses is still bullshit. Less seriously but more preposterously, the Chinese government also insists that the obscure Diaoyu Islands, subject of a long-running territorial dispute with Japan, <a href="https://daringfireball.net/2025/02/golfo_del_gringo_loco#:~:text=China%E2%80%99s%20State%20Bureau%20of%20Surveying%20and%20Mapping">be drawn larger than they actually are on maps</a>. Apple Maps dutifully renders those inflated false island sizes to users in China. It doesn’t show them to users anywhere else in the world — not as even as dotted outlines. Chinese users see Chinese government dogmatic nonsense; no one else does.</p>
+
+<p>So too it should be for U.S. government dogmatic nonsense. Spreading the nonsense to the world only makes it more embarrassing.</p>
+
+<p>Neither Google nor Apple claim to be cartographic editorial authorities. I do not think we should want them to be. Other non-governmental institutions do claim to be independent authorities. <a href="https://en.wikipedia.org/wiki/Associated_Press_v._Budowich">The Associated Press has stuck to their guns</a> even in the face of losing its White House press pool seat over their refusal to adopt the “Gulf of America” name. And then there’s Wikipedia, whose reputation, integrity, popularity, and independence <a href="https://gizmodo.com/is-elon-musks-grokipedia-dead-no-longer-updates-articles-2000795280">haunt</a> the right wing. <a href="https://www.politico.com/news/2026/09/02/tech-lake-ontario-01062631">From Politico, last week</a>:</p>
+
+<blockquote>
+  <p>Other platforms will soon follow, a senior administration official
+told Politico on Tuesday. “We got Lake America changed on Google
+Maps, and many other maps are changing in a couple days. And
+Wikipedia is going to change as well,” said the official, who was
+granted anonymity to speak frankly.</p>
+
+<p>As of Wednesday, Wikipedia was still using the original names of
+both the Gulf of Mexico and Lake Ontario, while noting that Trump
+had signed orders to rename them.</p>
+</blockquote>
+
+<p>Regarding this, <a href="https://bsky.app/profile/molly.wiki/post/3murrlnufd22w">Molly White noted</a>:</p>
+
+<blockquote>
+  <p>A Wikipedia editor put it well: “You almost want to pat them on
+the head and say ‘Yes, of course it will’ in the same way you’d
+tell a small child that Santa Claus will be delivering their
+presents.”</p>
+</blockquote>
+
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1-2026-09-07-maps">
+<p>And, I feel strongly, the traditional names should remain visible, in parentheses, even for users in the U.S. for a period of, say, five years. What is someone who doesn’t follow current events — god bless them — to think if they go looking for Lake Ontario on Google Maps or Apple Maps and doesn’t see it?&nbsp;<a href="#fnr1-2026-09-07-maps"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
+</li>
+</ol>
+</div>
+
+    ]]></content>
+  <title>★ It’s True That I Stole Your Lighter, and It’s Also True That I Lost the Map</title></entry><entry>
 	<title>Meta AI Has a Native Mac App Now, and It Seems Decent</title>
 	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/08/19/meta-ai-is-now-available-as-a-more-capable-desktop-app-for-mac/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xje" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/06/meta-ai-mac-app" />
 	<id>tag:daringfireball.net,2026:/linked//6.43466</id>
 	<published>2026-09-06T20:44:27Z</published>
-	<updated>2026-09-06T20:48:23Z</updated>
+	<updated>2026-09-07T17:37:10Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -44,9 +145,9 @@ question. This is context gathering rather than computer control
 for now.</p>
 </blockquote>
 
-<p>Passes the Settings window sniff test too — it actually has a Settings window.</p>
+<p>Passes the Settings window sniff test too — it actually has a Settings window. Meta, institutionally, seems more keen on native Mac apps <a href="https://daringfireball.net/2025/11/meta_whatsapp_windows_shitty_web_app">than they are native Windows apps</a>.</p>
 
-<p>Meta, institutionally, seems more keen on native Mac apps <a href="https://daringfireball.net/2025/11/meta_whatsapp_windows_shitty_web_app">than they are native Windows apps</a>.</p>
+<p><strong>Update:</strong> The Mac app is <em>not</em> available in the App Store. You need to download it directly from Meta’s web page, using the <a href="https://daringfireball.net/misc/2026/09/meta-ai-mac-download-link.png">“Download for Mac (Beta)” link</a>. The ChatGPT and Claude Mac apps aren’t in the Mac App Store either — they do too many things outside the App Store’s mandatory <a href="https://news.ycombinator.com/item?id=16351522">sandbox</a> (and probably use APIs require special entitlements in the App Store too).</p>
 
 <div>
 <a  title="Permanent link to ‘Meta AI Has a Native Mac App Now, and It Seems Decent’"  href="https://daringfireball.net/linked/2026/09/06/meta-ai-mac-app">&nbsp;★&nbsp;</a>
@@ -1982,111 +2083,4 @@ the necessary iOS paraphernalia in them.</p>
 </div>
 
     ]]></content>
-  <title>★ When New DF Posts Drop in a Forest and No One Is There to Read Them</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/08/apple_eu_business_terms_conceding_little" />
-	<link rel="shorturl" href="http://df4.us/xho" />
-	<id>tag:daringfireball.net,2026://1.43404</id>
-	<published>2026-08-20T15:12:16Z</published>
-	<updated>2026-08-24T22:10:32Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">Thanks to the DMA’s sprawling scope, complexity, and overreach, Apple came out of this conceding only 4 percent of the App Store’s 30 percent commission, and no reduction at all to the 15 percent for subscriptions after the first year.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p><a href="https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/">Apple Newsroom, on Tuesday</a>:</p>
-
-<blockquote>
-  <p>Apple today announced changes to its business terms for apps in
-the European Union, following close collaboration with the
-European Commission. These changes resolve Apple’s disagreements
-with the Commission over business terms and alternative
-distribution. They also reduce complexity by moving every
-developer that distributes apps in the EU to a single set of
-business terms. Developers can sign the new terms today, and
-changes will go into effect on October 1. [...]
-Under the new terms:</p>
-
-<ul>
-<li><p><b>For App Store apps using Apple In-App Purchase</b>, the
-commission will be 26 percent. For the vast majority of
-developers, including those in the App Store Small Business
-Program, Mini Apps Partner Program, or Video Partner Program,
-and for auto-renewing subscriptions after their first year, it
-will be 15 percent.</p></li>
-<li><p><b>For App Store apps using alternative payment processing</b>, the
-commission will be 20 percent. Developers in the programs
-mentioned above will pay a reduced rate of 10 percent.</p></li>
-<li><p><b>For App Store apps that link out of the app to complete
-purchases</b>, the commission will be 15 percent. Developers in
-the programs mentioned above will pay a reduced rate of 10
-percent.</p></li>
-<li><p><b>For apps distributed via alternative app marketplaces or the
-web</b>, Apple will charge a 5 percent Core Technology Commission.</p></li>
-</ul>
-</blockquote>
-
-<p>This is a near-total victory for Apple. The only real concession is that for apps in the App Store using Apple’s own payment system (the default), the main commission drops from 30 percent to 26 percent in the EU. That’s the deal the EU squeezed out of Apple for EU developers: going from 30 to 26 percent for purchases and the first year of subscriptions.</p>
-
-<p>All apps have to pay at least the 5 percent Core Technology Commission, even if they’re distributed outside the App Store. I could collect a lot of claim chowder from people who told me that Apple’s CTC was never going to pass muster. Maybe it wouldn’t have under the old EC regime of the <a href="https://daringfireball.net/2024/03/more_on_the_eus_market_might#:~:text=Margrethe%20Vestager%20herself">crusading hypocrite Margrethe Vestager</a> and the <a href="https://daringfireball.net/linked/2024/09/16/breton-resigns">buffoonish Thierry Breton</a>, but the European Commission is under <a href="https://daringfireball.net/linked/2026/05/12/teresa-ribera-visited-the-us-and-no-one-noticed">new</a>, <a href="https://daringfireball.net/linked/2026/05/12/new-dma-compliance-features-for-eu-users-in-ios-265">more temperate leadership</a>.</p>
-
-<p>Ben Thompson, <a href="https://stratechery.com/2026/apple-settles-with-e-u-u-s-app-store-fees-att-rules-in-germany/">in a subscriber-only Stratechery update</a>, works out the implied values from these fees:</p>
-
-<blockquote>
-  <ul>
-<li>The implied value of Apple’s APIs is 5% of an app’s revenue</li>
-<li>The implied value of App Store distribution is 10% of an app’s
-revenue</li>
-<li>The implied value of in-app payment APIs is 5% of an app’s
-revenue</li>
-<li>The implied value of in-app purchase using Apple’s payment
-processing is 6% of an app’s revenue</li>
-</ul>
-
-<p>Now take these numbers with a grain of salt — given the fact the
-European Commission appears to have blessed these figures, they
-were almost certainly a matter of negotiation — but they do seem
-directionally correct: being in the App Store is the most valuable
-(thus 10%), and then 5% was ascribed to Apple’s APIs in their
-various forms; of these, the “Core Technology Commission” is
-obviously more valuable than the APIs used for in-app payment
-processing by third parties, but you can see how they landed at
-the same spot.</p>
-
-<p>The interesting number is the implied 6% for Apple’s payment
-processing. The fully loaded cost for credit card fees — which
-have both a swipe fee and a percentage fee — refunds, disputes,
-etc. is pretty close to 6%; in other words, it appears that the
-European Commission has decided that Apple shouldn’t make anything
-for actually charging money. And again, I can see how they got
-there: anyone can charge money, but Apple did actually make the
-various APIs developers use, along with the App Store.</p>
-</blockquote>
-
-<p>The 6 percent no-profit fee for payment processing is where the difference between the global 30% and the new EU 26% falls. Given its druthers, it seems clear Apple would charge 10%, not 6%, for payment processing, to give itself some margin on payment processing.</p>
-
-<p>Don’t take my word that this agreement is a sweeping victory for Apple — with the company conceding only the reduction from 30 to 26 percent for App Store payments — and a capitulation by the EC. <a href="https://x.com/EpicNewsroom/status/2089787577062559951">Here’s Epic Games, posting on Twitter/X</a>:</p>
-
-<blockquote>
-  <p>Apple announced new junk fees in the EU that do nothing to open up
-the mobile app ecosystem to competition, as required by Digital
-Market Act. [<em>sic</em>] [...]</p>
-
-<p>The law makes it clear that Apple must allow developers to offer
-link outs to the web for purchases “free of charge” and has to
-allow “effective use” of competing stores. Apple’s terms
-deliberately violate the Digital Markets Act. If the Commission
-accepts the terms and drops their ongoing enforcement actions, the
-law will become meaningless and consumers and developers will not
-experience the benefits it was designed to provide.</p>
-</blockquote>
-
-<p>I don’t think Epic understands that <a href="https://www.independent.ie/business/apple-will-change-its-app-store-rules-to-end-its-dispute-with-the-eu/a/160196535.html">the Commission <em>has</em> accepted these terms</a>, and they’re a result of negotiations. It’s over.</p>
-
-<p>Another way to see how clearly this is a win for Apple is to go back and imagine an entirely different DMA. Consider if the DMA had simply stated that 30 percent is too high a commission for app stores on “gatekeeping” platforms, and the one and only purpose of the DMA was to set a new, more reasonable maximum commission rate. If that had been the case, there’s no way the rate would have been 26 percent. It almost certainly would have been 20 percent at the most, perhaps something more like 15 percent. Thanks to the DMA’s sprawling scope, complexity, and overreach, Apple came out of this conceding only 4 percent of the App Store’s 30 percent commission, and no reduction at all to the 15 percent for subscriptions after the first year.</p>
-
-<p>The very funniest thing Apple could do now would be to drop the baseline commission everywhere else in the world from 30 to 25 percent.</p>
-
-    ]]></content>
-  <title>★ Apple and European Commission Reach Agreement on App Payment Terms Under DMA, With Apple Conceding Very Little</title></entry></feed><!-- THE END -->
+  <title>★ When New DF Posts Drop in a Forest and No One Is There to Read Them</title></entry></feed><!-- THE END -->
