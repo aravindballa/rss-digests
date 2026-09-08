@@ -7,7 +7,35 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-09-08T12:35:24Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-09-08T14:55:22Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/09/superduper_4" />
+	<link rel="shorturl" href="http://df4.us/xjl" />
+	<id>tag:daringfireball.net,2026://1.43473</id>
+	<published>2026-09-08T14:55:20Z</published>
+	<updated>2026-09-08T14:55:22Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">SuperDuper feels like impossibly good software.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>I have mentioned and recommended <a href="https://www.shirt-pocket.com/superduper4.php">Shirt Pocket’s Mac backup app SuperDuper</a> quite <a href="https://daringfireball.net/search/super+duper">a few times</a> over the years, and for good reason: it performs very important functions very well. Version 4, which shipped just over a month ago, is an extraordinary update to an extraordinary app.</p>
+
+<p>Visually, the interface is all new. That took some getting used to, but not much. It didn’t take long for me to see how the new UI is better in every way. The style of presentation is new and modern, but the core idea remains the same: the interface of SuperDuper is self-explanatory. It explains what, exactly, is going to happen. It remains a marvel of clarity, especially when you consider the complexity of what it does.</p>
+
+<p>Functionally, SuperDuper 4 is also much improved. SuperDuper has never been slow, but now some copy operations are over 2× faster. Scheduling options are more powerful. You don’t need to worry about the details to use SuperDuper, but the details are there for your inspection.</p>
+
+<p>Shirt Pocket’s Dave Nanian designed it, implemented it, and <a href="https://www.shirt-pocket.com/guide.php">thoroughly documented</a> it. I don’t know how that’s possible. SuperDuper feels like impossibly good software. Read his post <a href="https://www.shirt-pocket.com/blog/supererduperer">announcing version 4</a> to start, then catch up on <a href="https://www.shirt-pocket.com/blog/">the rest of the blog</a> to get a feeling for how much work he’s put into SuperDuper 4. Just extraordinary.</p>
+
+<p>In the 22 years since SuperDuper first shipped, Shirt Pocket has never charged for updates and never raised the price. (This too seems impossible, at least for a company that remains in business.) Version 4 costs $44 — an astonishing value — and discounts are available for anyone who bought version 3 after July 2020. Sans license, free of charge, SuperDuper 4 still allows you to make bootable backups.</p>
+
+<p>I recommend SuperDuper 4 wholeheartedly.</p>
+
+<p><strong>See also:</strong> <a href="https://sixcolors.com/post/2026/08/review-superduper-4-gets-a-stem-to-stern-revamp-but-is-just-as-seaworthy-as-ever/">Dan Moren at Six Colors</a> and <a href="https://mjtsai.com/blog/2026/08/13/superduper-4/">Michael Tsai</a>.</p>
+
+    ]]></content>
+  <title>★ SuperDuper 4</title></entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://glyphsapp.com/" />
 	<link rel="shorturl" href="http://df4.us/xjk" />
@@ -2055,35 +2083,4 @@ the necessary iOS paraphernalia in them.</p>
 </div>
 
     ]]></content>
-  <title>★ What Is the Point of the DMA?</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/08/df_posts_drop_in_a_forest" />
-	<link rel="shorturl" href="http://df4.us/xhs" />
-	<id>tag:daringfireball.net,2026://1.43408</id>
-	<published>2026-08-21T16:09:11Z</published>
-	<updated>2026-08-21T23:46:32Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">https://daringfireball.net/</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>It occurred to me last night that I’d gotten less feedback regarding recent posts than usual. There were a <a href="https://daringfireball.net/2026/08/apple_testflight_list_sort_order">few</a> <a href="https://daringfireball.net/linked/2026/08/20/bluesky-threads-sneak-logo-into-screenshots">items</a> I’d posted in recent days that I felt sure to hear from readers about, both yea and nay. But: nothing. Crickets chirping. I almost always hear from squeaky wheels in the EU when I write about Apple and the DMA, for example, but I heard nothing about <a href="https://daringfireball.net/2026/08/apple_eu_business_terms_conceding_little">my take yesterday that Apple has effectively pantsed the European Commission</a> regarding App Store commissions.</p>
-
-<p>I noticed this morning that the bot that auto-posts new articles to the <a href="https://mastodon.social/@daringfireball">DF Mastodon account</a> hadn’t posted since Tuesday night. But it wasn’t the Mastodon posting bot that was broken. It was a different automated task that updates the RSS and JSON feeds. That’s what broke sometime between Tuesday night and Wednesday morning. The Mastodon posting bot reads the RSS feed, and if there’s nothing new in the RSS feed, there’s nothing for the bot to post. Still though, I thought it was weird that no one who <a href="https://daringfireball.net/feeds/">follows DF from the feeds</a> had emailed, texted, or @replied to me to complain that new articles on the website had stopped appearing in the feeds. No one.</p>
-
-<p>Then, I remembered that the DF website home page is generated from ... the RSS feed.<sup id="fnr1-2026-08-21"><a href="#fn1-2026-08-21">1</a></sup></p>
-
-<p>So, yeah, pretty much no one but me realized that I’d written seven new posts after the last update Tuesday night. Oops. Needless to say, it no longer seems surprising at all that I haven’t heard anything from readers in a few days. My apologies for delivering most of this week’s output all at once. We can pretend today that DF is a weekly newsletter.</p>
-
-<div class="footnotes">
-<hr />
-<ol>
-<li id="fn1-2026-08-21">
-<p>The system that conked out that in turn prevented the feed generation script from seeing new content has conked out once before in recent memory — last October. But when it conked out in October I noticed within a few hours, because readers kept complaining about the same typo that I had fixed, in my CMS, but which was still visible on the home page, because the home page only gets updated from the feed content. I never previously considered adding some sort of alert to check on this, because I always presumed I’d notice if new items I published weren’t appearing on the home page or in the feeds.&nbsp;<a href="#fnr1-2026-08-21"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
-</li>
-</ol>
-</div>
-
-    ]]></content>
-  <title>★ When New DF Posts Drop in a Forest and No One Is There to Read Them</title></entry></feed><!-- THE END -->
+  <title>★ What Is the Point of the DMA?</title></entry></feed><!-- THE END -->
