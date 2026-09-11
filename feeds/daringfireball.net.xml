@@ -7,7 +7,39 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-09-11T19:15:52Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-09-11T21:36:19Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Clarus the Dogcow Easter Egg in iOS 27 Settings</title>
+	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/09/11/apple-hid-a-classic-mac-easter-egg-in-the-ios-27-settings-app/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xjs" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/11/clarus-settings-ios-27" />
+	<id>tag:daringfireball.net,2026:/linked//6.43480</id>
+	<published>2026-09-11T20:33:03Z</published>
+	<updated>2026-09-11T20:33:03Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Benjamin Mayo, 9to5Mac:</p>
+
+<blockquote>
+  <p>Many have complained that Apple design has been sapped of some of
+its trademark whimsy in recent years. Well, here’s the latest
+example of how the tides seem to be changing.</p>
+
+<p>Buried in the Settings app on iOS 27, Apple has hidden an easter
+egg that hails back from classic Mac OS; Clarus the Dogcow. Here’s
+how to trigger it …</p>
+</blockquote>
+
+<p>Very fun. Alas, this easter egg isn’t present in MacOS 27, only iOS 27. But the MacOS 27 version of the Liquid Glass settings panel does have a drawing glitch <a href="https://daringfireball.net/misc/2026/09/no-moof-for-mac.mov">that makes the magnifying glass in the fake search field flicker terribly</a>, so Golden Gate does have that going for it.</p>
+
+<div>
+<a  title="Permanent link to ‘Clarus the Dogcow Easter Egg in iOS 27 Settings’"  href="https://daringfireball.net/linked/2026/09/11/clarus-settings-ios-27">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>XCancel Is Back</title>
 	<link rel="alternate" type="text/html" href="https://xcancel.com/cdclegal" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xjr" />
@@ -116,7 +148,7 @@ USB-C port hidden behind a sliding cap.</p>
 	<link rel="shorturl" href="http://df4.us/xjn" />
 	<id>tag:daringfireball.net,2026://1.43475</id>
 	<published>2026-09-09T00:55:53Z</published>
-	<updated>2026-09-11T19:07:53Z</updated>
+	<updated>2026-09-11T21:36:19Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -150,34 +182,19 @@ reviews out.</p>
 
 <p>The iPhone 17 Pro comes in two sizes: regular and Max. I find the Max sizes too big — unpleasant to hold, unpleasant to pocket. The iPhone Air comes in only one size — a sort of one-size-fits-all midway point between the regular iPhone models and Max models.</p>
 
-<p><table class="table-BD81DA9A-8BB8-41EE-A176-9F781C68AAFB" width=425>
-<style>
-.table-BD81DA9A-8BB8-41EE-A176-9F781C68AAFB th:nth-child(1) { text-align: left }
-.table-BD81DA9A-8BB8-41EE-A176-9F781C68AAFB td:nth-child(1) { text-align: left }
-.table-BD81DA9A-8BB8-41EE-A176-9F781C68AAFB th:nth-child(2) { text-align: center }
-.table-BD81DA9A-8BB8-41EE-A176-9F781C68AAFB td:nth-child(2) { text-align: center }
-.table-BD81DA9A-8BB8-41EE-A176-9F781C68AAFB th:nth-child(3) { text-align: center }
-.table-BD81DA9A-8BB8-41EE-A176-9F781C68AAFB td:nth-child(3) { text-align: center }
-.table-BD81DA9A-8BB8-41EE-A176-9F781C68AAFB th:nth-child(4) { text-align: center }
-.table-BD81DA9A-8BB8-41EE-A176-9F781C68AAFB td:nth-child(4) { text-align: center }
-.table-BD81DA9A-8BB8-41EE-A176-9F781C68AAFB th:nth-child(5) { text-align: center }
-.table-BD81DA9A-8BB8-41EE-A176-9F781C68AAFB td:nth-child(5) { text-align: center }
-</style>
-<thead>
-<th></th><th>Width</th><th>Height</th><th>Thickness</th><th>Weight</th>
-</thead>
-<tbody>
-<tr>
-<td>iPhone 17 Pro Max</td><td>78mm</td><td>163mm</td><td>8.75mm</td><td>233g</td>
-</tr>
-<tr>
-<td>iPhone Air</td><td>75mm</td><td>156mm</td><td>5.64mm</td><td>165g</td>
-</tr>
-<tr>
-<td>iPhone 17 Pro</td><td>72mm</td><td>150mm</td><td>8.75mm</td><td>206g</td>
-</tr>
-</tbody>
-</table></p>
+<pre><code>                    WIDTH    HEIGHT   THICKNESS   WEIGHT
+iPhone 17 Pro Max    78mm     163mm     8.75mm     233g
+       iPhone Air    75mm     156mm     5.64mm     165g
+    iPhone 17 Pro    72mm     150mm     8.75mm     206g
+</code></pre>
+
+<!--
+
+
+70a62dd8dd157eec2ce222ebeaf6013b
+
+
+-->
 
 <p>Width- and height-wise, the Air is pretty much halfway between the Pro and Pro Max. For me, in practice, the factor that really matters is width — and I find the Air too wide. Just holding the phones as objects to admire, the dramatic thinness and lighter weight make the iPhone Air the nicest, by far. But holding them to actually <em>use</em>, I find the Air feels too wide. Specifically, too wide to use with one hand, gripping it with my palm and fingers and swiping and tapping with my thumb. If I had my druthers, the <em>regular</em>-sized iPhones would be slightly smaller, footprint-wise. The regular iPhone 17 Pro is pretty much as wide as can be for me to use it one-handed. The Air is too wide for that — it’s a two-handed device for me. And that was the dealbreaker.<sup id="fnr3-2026-09-08"><a href="#fn3-2026-09-08">3</a></sup> I use my iPhone one-handed frequently, often while walking around the city carrying a bag or beverage in my other hand.</p>
 
@@ -1859,36 +1876,6 @@ today and for years to come.</p>
 
 <div>
 <a  title="Permanent link to ‘Afterglow — Classic After Dark Screen Savers on Today’s MacOS’"  href="https://daringfireball.net/linked/2026/08/27/afterglow">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>The Load-Bearing Vocabulary of Claude</title>
-	<link rel="alternate" type="text/html" href="https://louisabraham.github.io/load-bearing/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xih" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/27/the-load-bearing-vocabulary-of-claude" />
-	<id>tag:daringfireball.net,2026:/linked//6.43433</id>
-	<published>2026-08-27T21:09:42Z</published>
-	<updated>2026-08-27T21:09:42Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Fun (but depressing?) data analysis project from Louis Abraham, showing how repetitive Claude is in the words it chooses when submitting GitHub pull requests. Abraham, in the project’s readme:</p>
-
-<blockquote>
-  <p>GitHub pull request descriptions, grouped by the words they are
-written with rather than by anything they were told to look for:
-eight ways of writing, and every description belongs to one of
-them. One of the eight was 1.0% of the corpus at the start of 2025
-and is 45% of it by the middle of 2026.</p>
-</blockquote>
-
-<p>If you want to get a little more depressed, I’ve been doing deeper reading into AI watermarking research, and one of the admissions in <a href="https://www.nature.com/articles/s41586-024-08025-4">Google’s white paper on SynthID-Text</a> — the watermarking scheme Anthropic says Claude is going to start using — is that the technique incurs “some reduction to inter-response diversity”. That means different answers to the same prompt become more similar to each other — there’s less variety to watermarked text responses. That’s a load-bearing problem given that Claude clearly already struggles in this regard <em>before</em> watermarking its output.</p>
-
-<div>
-<a  title="Permanent link to ‘The Load-Bearing Vocabulary of Claude’"  href="https://daringfireball.net/linked/2026/08/27/the-load-bearing-vocabulary-of-claude">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
