@@ -7,7 +7,39 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-09-10T20:18:54Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-09-11T16:42:15Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>iPhone Duo Only Works With the $80 USB-C Apple Pencil, Not the $130 Apple Pencil Pro</title>
+	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2026/09/09/apple-pencil-usb-c-iphone-duo/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xjq" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/11/iphone-duo-pencil-support" />
+	<id>tag:daringfireball.net,2026:/linked//6.43478</id>
+	<published>2026-09-11T16:32:21Z</published>
+	<updated>2026-09-11T16:42:15Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Juli Clover, MacRumors:</p>
+
+<blockquote>
+  <p>It’s likely the iPhone Duo doesn’t support the Apple Pencil Pro
+because there’s no magnetic surface for charging the pencil. The
+Apple Pencil Pro charges magnetically when connected to a
+compatible iPad, while the Apple Pencil with USB-C charges with a
+USB-C port hidden behind a sliding cap.</p>
+</blockquote>
+
+<p>Charging is the least of the problems. Because the Duo doesn’t have the magnetic attachment for Pencil Pro, there’s no way to even <em>pair</em> a Pencil Pro. The easiest way to think about it isn’t to compare which devices support which features (like pressure sensitivity, or double-tapping) — it’s just to think about which devices can even <em>pair</em> with which Pencil models. Unless I’m missing an exception in <a href="https://support.apple.com/en-us/108937">Apple’s compatibility support document</a>, if a Pencil-compatible iPad or iPhone can pair with a certain Pencil’s connector, then it can use that Pencil. The iPads with both the magnetic attachment point and USB-C can use either the Pencil Pro or regular Pencil, and the devices without the magnetic attachment can only use the regular Pencil.</p>
+
+<p>But the bottom line is that Apple’s entire Pencil compatibility story remains a mess. Imagine you own an iPad Pro and a Pencil Pro, and you love using the Pencil. You’ve always wanted to be able to use a Pencil with your iPhone. Now you can, if you buy a Duo. But you also have to buy a different Pencil — and then pack two different Pencils whenever you leave the house with both your iPad and iPhone. That’s ridiculous.</p>
+
+<div>
+<a  title="Permanent link to ‘iPhone Duo Only Works With the $80 USB-C Apple Pencil, Not the $130 Apple Pencil Pro’"  href="https://daringfireball.net/linked/2026/09/11/iphone-duo-pencil-support">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple’s OS 27 Updates Will Be Released on Monday, 14 September</title>
 	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/09/09/apple-confirms-macos-27-golden-gate-launch-date-september-14/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xjp" />
@@ -1907,56 +1939,6 @@ I request that you respond to the following questions by August
 
 <div>
 <a  title="Permanent link to ‘Elizabeth Warren’s Incoherent Outrage Regarding Apple’s Tariff Refund’"  href="https://daringfireball.net/linked/2026/08/27/elizabeth-warren-apple-tariff-refunds">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Panic Is Refunding Tariff Fees to Playdate Buyers</title>
-	<link rel="alternate" type="text/html" href="https://www.gamedeveloper.com/business/playdate-maker-is-refunding-tariff-fees-to-customers" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xif" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/27/panic-playdate-tariff-refunds" />
-	<id>tag:daringfireball.net,2026:/linked//6.43431</id>
-	<published>2026-08-27T20:10:13Z</published>
-	<updated>2026-08-27T20:10:14Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Nicole Carpenter and Diego Argüello, reporting for Game Developer:</p>
-
-<blockquote>
-  <p>“There was a specific window of time this year where we charged
-tariffs to customers,” Panic co-founder Cabel Sasser explained in
-an e-mail to Game Developer confirming the news. “We tried
-absorbing the cost for a while, but that was financially difficult
-for a small company like ours. We made the tariff a very obvious
-and clearly labeled line item on checkout for any customer
-affected.”</p>
-
-<p>Panic also <a href="https://help.play.date/orders/tariffs/">set up a website</a> to explain the 19% tariff surcharge.
-[...] The refund amount a customer will get back depends on how
-much they purchased.</p>
-
-<p>“It’s just not our money to keep, and it felt really good to give
-it back,” Sasser said. “That’s an easy way to know you made the
-right decision.”</p>
-
-<p>He continued: “Still, it took a lot of work for us to file all the
-paperwork to get the refund from the government, and it took work
-to build a little system to process the refund, and sometimes it
-felt like, wait, why are we seemingly doing more work than even
-gigantic companies are on this issue? That felt weird. But I guess
-it makes sense in a way, because our small size means we’re far
-more directly affected by something like a tariff.”</p>
-
-<p>Sasser said he hopes Panic never has to talk about tariffs again.</p>
-</blockquote>
-
-<p>Cool story from a cool company, and amen to the day we never hear about tariffs again.</p>
-
-<div>
-<a  title="Permanent link to ‘Panic Is Refunding Tariff Fees to Playdate Buyers’"  href="https://daringfireball.net/linked/2026/08/27/panic-playdate-tariff-refunds">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
