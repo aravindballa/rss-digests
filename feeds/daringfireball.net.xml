@@ -7,14 +7,160 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-09-12T00:22:37Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-09-12T15:36:53Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Yours Truly on Off Protocol With Jim Ray</title>
+	<link rel="alternate" type="text/html" href="https://atproto.com/off-protocol/2026-09-11-make-your-own-thing-john-gruber" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xjx" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/12/yours-truly-on-off-protocol-with-jim-ray" />
+	<id>tag:daringfireball.net,2026:/linked//6.43485</id>
+	<published>2026-09-12T15:36:53Z</published>
+	<updated>2026-09-12T15:36:53Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My old friend Jim Ray now runs developer relations at Bluesky, and part of that gig is hosting a podcast, Off Protocol (“a show about building a better Internet”). I was delighted to appear as his latest guest. I generally don’t like talking about my career, but I did enjoy talking about it with Jim. He has that effect on people.</p>
+
+<div>
+<a  title="Permanent link to ‘Yours Truly on Off Protocol With Jim Ray’"  href="https://daringfireball.net/linked/2026/09/12/yours-truly-on-off-protocol-with-jim-ray">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>T-Mobile Is Charging $5/Month for iPhone Handoff</title>
+	<link rel="alternate" type="text/html" href="https://www.t-mobile.com/news/devices/iphone-18-pro-iphone-duo-apple-watch-release" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xjw" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/12/tmobile-iphone-handoff-price-gauging" />
+	<id>tag:daringfireball.net,2026:/linked//6.43484</id>
+	<published>2026-09-12T15:24:09Z</published>
+	<updated>2026-09-12T15:26:12Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>T-Mobile, in their iPhone 18 Pro / iPhone Duo press release:</p>
+
+<blockquote>
+  <p>Plus, T‑Mobile is one of the first to support Apple’s new <a href="https://www.t-mobile.com/devices/new-apple-iphone-release">iPhone
+Handoff</a> feature, where customers with two compatible iPhone
+models can use their T‑Mobile number across both devices and
+choose which phone is active at any given time. The secondary
+iPhone works seamlessly, including essential T‑Mobile services
+like calls, texts, data, mobile hotspot, Scam Shield and
+T-Satellite on eligible plans, allowing customers to get the most
+from two devices without clunky handoffs or the hassle of managing
+another number. iPhone Handoff is available on any iPhone with iOS
+27 via iPhone settings and ready to use from day one on the new
+iPhone 18 Pro lineup and iPhone Duo. T‑Mobile is introducing the
+feature at $5/month.</p>
+</blockquote>
+
+<p>This seems like a ridiculous thing to charge for. It’s not adding a separate device to your plan, like adding a cellular iPad or even an Apple Watch. It’s just switching your active eSIM between two iPhones. You can do this for free, now, on any carrier via Settings → Cellular — but it takes a bunch of taps, confirmation on both iPhones, and a few minutes for the carrier to register the eSIM transfer. iPhone Handoff just eliminates all the annoying friction and waiting.</p>
+
+<p>But, it’s utterly unsurprising that a carrier will charge a ridiculous monthly fee. I’ll be very surprised (pleasantly) if Verizon doesn’t do the same. <a href="https://daringfireball.net/linked/2026/01/16/verizon-20-bucks">Verizon charges for <em>everything</em></a>.</p>
+
+<p>Still curious to me why AT&amp;T isn’t yet announced as supporting iPhone Handoff at all. I have no idea why anyone remains on that turd of a network unless they live or work in a location where only AT&amp;T provides a good signal, but even then, if it were me, I’d use AT&amp;T by way of <a href="https://www.usmobile.com/blog/darkstar-is-here/">US Mobile</a>. AT&amp;T is the worst company I’ve ever dealt with, and I live in <a href="https://www.vulture.com/2011/01/30_rock_kabletown_nbc.html">Kabletown</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘T-Mobile Is Charging $5/Month for iPhone Handoff’"  href="https://daringfireball.net/linked/2026/09/12/tmobile-iphone-handoff-price-gauging">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Tristan Buckmaster’s Statement on Getting Scooped by OpenAI on the Navier-Stokes Problem</title>
+	<link rel="alternate" type="text/html" href="https://cims.nyu.edu/~tristanb/statement.pdf" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xjv" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/12/buckmaster-statement" />
+	<id>tag:daringfireball.net,2026:/linked//6.43483</id>
+	<published>2026-09-12T14:55:12Z</published>
+	<updated>2026-09-12T14:55:12Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Tristan Buckmaster, <a href="https://cims.nyu.edu/~tristanb/">professor of mathematics at NYU</a>, in his own statement, regarding his and Levent Alpöge’s interactions with employees at OpenAI regarding <a href="https://daringfireball.net/linked/2026/09/12/marcus-ai-drama">this week’s math-proof controversy</a>:</p>
+
+<blockquote>
+  <p>I asked when the first prompt had been sent by them. This question
+was not answered directly by OpenAI for some time. Eventually it
+was agreed that it had been sent in the past few days, after
+information about our work had reached OpenAI.</p>
+
+<p>I asked whether the model had been trained on, or had access to,
+our sessions in Codex, into which we had been putting all our
+drafts for the whole of this project. I was told the model did not
+look up user data. I asked again, about training, and I did not
+get an answer.</p>
+
+<p>Two proposals were offered to me. The first was that we post our
+Euler result, and that OpenAI post its Navier-Stokes result the
+next day. The second was that, after posting Euler, I alone write
+a paper presenting the Navier-Stokes result, acknowledging that an
+internal OpenAI model had resolved it. Sebastien twice asserted
+that he wanted Levent removed from authorship, and said it would
+all be simple if only it were not the case that, and it was so
+annoying that, Levent works at Anthropic. It was also said that if
+OpenAI posted after us, they would say that we deserved the Clay
+Prize, and that we were the “closest humans to the problem”. I
+declined both offers.</p>
+
+<p>I said that if OpenAI released its result in the way proposed I
+would go public with what happened. The reply was, “Why would you
+ruin your career?” I replied that I am an academic, and asked why
+he thought going public would ruin my career. The reply was, “If
+you don’t want me to be nice, then I don’t have to be nice.”</p>
+</blockquote>
+
+<p>“Sebastien” is <a href="https://en.wikipedia.org/wiki/Sébastien_Bubeck">Sebastien Bubeck</a>, who came to OpenAI by way of Microsoft (<a href="https://daringfireball.net/linked/2026/09/04/nba-clippers-ballmer">shocker</a>).</p>
+
+<div>
+<a  title="Permanent link to ‘Tristan Buckmaster’s Statement on Getting Scooped by OpenAI on the Navier-Stokes Problem’"  href="https://daringfireball.net/linked/2026/09/12/buckmaster-statement">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Gary Marcus on This Week in AI Drama</title>
+	<link rel="alternate" type="text/html" href="https://garymarcus.substack.com/p/two-dire-warnings-one-from-terence" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xju" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/12/marcus-ai-drama" />
+	<id>tag:daringfireball.net,2026:/linked//6.43482</id>
+	<published>2026-09-12T14:25:07Z</published>
+	<updated>2026-09-12T14:25:30Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>I have been busy with new-iPhone-week stuff, so I haven’t been able to follow either of these stories closely, but <a href="https://garymarcus.substack.com/p/two-dire-warnings-one-from-terence">Marcus summarizes them both well</a>. First: the drama regarding OpenAI claiming a solution to the Navier-Stokes math problem. In short, OpenAI continues to prove itself to be a company full of cheaters. In this case, they seemingly were willing to tank the company’s reputation to win a math contest. Apparently they <a href="https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/">spent $23 million in compute</a> to win a contest with a $1 million prize, and <a href="https://x.com/markchen90/status/2097400166554993041">admit they used a model</a> that might have trained on the work mathematicians Tristan Buckmaster and Levent Alpöge had been working on for months, who had been using a combination of tools from OpenAI and Anthropic (where Alpöge is employed). With no hyperbole, the message here seems to be “Don’t use Codex or ChatGPT unless you’re OK with OpenAI stealing your work if it’s of interest to them.”</p>
+
+<p>As for Anthropic, the news of the week is this guy Jacob Coxon, <a href="https://x.com/hilbertspaess/status/2097476196791709843">who quit the company in a public huff</a> (on X, where most of this public drama is taking place), because he thinks they’re increasingly reckless despite everyone inside Anthropic believing that there’s a good chance LLMs will destroy humanity (or at least civilization?) in the next few years. <a href="https://x.com/evanhub/status/2097497037956891126">Here’s Evan Hubinger</a>, still at Anthropic, not dismissing Coxon as an alarmist but <em>agreeing</em> with him: </p>
+
+<blockquote>
+  <p>Jacob is correct here — we really do earnestly believe AI could
+kill all humans! I personally think it is >10% within the next
+decade. I believe Anthropic is trying its best, but we do not yet
+have a plan to solve alignment for superintelligence and are not
+clearly on track to.</p>
+</blockquote>
+
+<p>This is crazy talk. Put aside whatever the actual risks are. If you truly believe there’s a greater than 10 percent chance that “AI could kill all humans ... within the next decade”, this is not how a reasonable person in their right mind would talk about it. Coxon thinks he’s blowing the whistle that Anthropic is a threat to the world. What’s he’s actually done is confirm that Anthropic is a cult, and its employees can’t really be talked to rationally, because they’re cultists. Sometimes members leave cults and they reveal to the world details about what’s going on inside the cult. But a lot of the time <a href="https://www.aetv.com/articles/manson-family-members-charles-manson">you can tell those whistleblowers still aren’t hooked up right</a>, because they’re still people who joined and spent years inside a cult. They leave the cult not because they suddenly snap back to sanity but for other reasons.</p>
+
+<div>
+<a  title="Permanent link to ‘Gary Marcus on This Week in AI Drama’"  href="https://daringfireball.net/linked/2026/09/12/marcus-ai-drama">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Last Year’s iPhone Share Amongst Users of Widgetsmith</title>
 	<link rel="alternate" type="text/html" href="https://mastodon.social/@_Davidsmith/117253170115740653" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xjt" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/11/last-years-iphone-share-amongst-users-of-widgetsmith" />
 	<id>tag:daringfireball.net,2026:/linked//6.43481</id>
 	<published>2026-09-12T00:19:57Z</published>
-	<updated>2026-09-12T00:22:37Z</updated>
+	<updated>2026-09-12T14:14:27Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -59,7 +205,7 @@ iPhone 17 Pro Max   29.9%
 
 <p>If the iPhone Air 2 rumored to be coming in the spring doesn’t turn things around, it might follow the Mini as a twice-and-done design.</p>
 
-<p>That said, the 17e seemingly isn’t setting the world on fire either. That’s a bit surprising to me. (Maybe the sort of people who buy the “e” models (and the SE models before them aren’t the demographic for an app like Widgetsmith.)</p>
+<p>That said, the 17e seemingly isn’t setting the world on fire either. That’s a bit surprising to me. (Maybe the sort of people who buy the “e” models (and the SE models before them) aren’t the demographic for an app like Widgetsmith.)</p>
 
 <div>
 <a  title="Permanent link to ‘Last Year’s iPhone Share Amongst Users of Widgetsmith’"  href="https://daringfireball.net/linked/2026/09/11/last-years-iphone-share-amongst-users-of-widgetsmith">&nbsp;★&nbsp;</a>
@@ -1676,233 +1822,6 @@ of the hand, which I certainly do.</p>
 
 <div>
 <a  title="Permanent link to ‘We Certainly Have Made a Hames Out of This’"  href="https://daringfireball.net/linked/2026/08/28/making-a-hames-out-of-it">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘Not Sure How You Own Canada by Deleting Your Own History’</title>
-	<link rel="alternate" type="text/html" href="https://x.com/MattWalshBlog/status/2093060290371870948" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xim" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/28/matt-walsh-lake-ontario" />
-	<id>tag:daringfireball.net,2026:/linked//6.43438</id>
-	<published>2026-08-28T16:25:33Z</published>
-	<updated>2026-08-28T21:04:35Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Matt Walsh, <a href="https://en.wikipedia.org/wiki/Matt_Walsh_(political_commentator)">described by Wikipedia</a> as “an American far-right political commentator and podcast host” (a description that sounds harsh, but I’d say <a href="https://www.splcenter.org/resources/extremist-files/matt-walsh/">is describing him euphemistically</a>), on Twitter/X (retweeting the official White House account’s <a href="https://x.com/WhiteHouse/status/2093027464545018109">announcement</a> of the name change):</p>
-
-<blockquote>
-  <p>This will be an unpopular opinion on the Right but I think this is
-kind of dumb, even as a troll. Lake Ontario was given that name on
-maps by European explorers long before the Canadian province of
-Ontario was named. There are several cities in America called
-Ontario — at least one of them predating the Canadian province by
-like 100 years — because the word originates with native tribes
-in North America. It’s not a Canadian invention. Canadians never
-uniquely owned the lake or the name. So in effect all you’re doing
-here is actually giving them credit for a thing that wasn’t theirs
-to begin with. Yeah it’s funny when Canadians are upset I guess or
-whatever, but Lake Ontario, the name itself, is <em>American</em> history
-dating back many centuries. Not sure how you own Canada by
-deleting your own history.</p>
-
-<p>Politically this is also stupid because the number one challenge
-Republicans will face in the midterms is the charge that they
-haven’t used their time in power to advance the interests of
-everyday Americans. This kind of thing will be used as evidence
-to make that case. That might not be fair. Sure technically you
-can advance the interests of everyday Americans and also do dumb
-shit like this. But the fact is that far from “making liberal
-heads explore [<em>sic</em>],” you’re actually handing them a political gift. It
-helps their case much more than it helps ours. And, like I said,
-the historical logic here is totally confused. Lake Ontario was
-not named after the Canadian province of Ontario. It’s the other
-way around.</p>
-</blockquote>
-
-<p>Good sign that the whole mad-king thing is running on fumes when even Daily Wire commentators agree that this is stupid and isn’t even an effective troll. Every deluded fool runs into reality eventually. (<a href="https://www.status.news/p/puck-redbird-investors-paramount-gerry-cardinale">Via Oliver Darcy’s Status</a>.)</p>
-
-<p><strong>Also:</strong> Applying a new name to the Gulf of Mexico is equally ahistorical — Mexico only achieved independence from Spain in 1821; the Gulf’s name is twice as old as Mexico as a nation and 150 years older than the United States.</p>
-
-<div>
-<a  title="Permanent link to ‘‘Not Sure How You Own Canada by Deleting Your Own History’’"  href="https://daringfireball.net/linked/2026/08/28/matt-walsh-lake-ontario">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>From the DF Archive: ‘Golfo Del Gringo Loco’</title>
-	<link rel="alternate" type="text/html" href="https://daringfireball.net/2025/02/golfo_del_gringo_loco" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xil" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/28/df-archive-golfo-del-gringo-loco" />
-	<id>tag:daringfireball.net,2026:/linked//6.43437</id>
-	<published>2026-08-28T15:00:39Z</published>
-	<updated>2026-08-28T15:32:00Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Yours truly back in February 2025:</p>
-
-<blockquote>
-  <p>The motivation behind the name change is simple as well. Trump
-didn’t change the US’s officially recognized name of, say, the
-Atlantic Ocean or the continent of Africa. He just as easily
-could, but he won’t.</p>
-</blockquote>
-
-<p>I’m starting to worry how well <a href="https://daringfireball.net/linked/2026/08/28/trump-lake-ontario">that’s going to hold up</a>.</p>
-
-<blockquote>
-  <p>And it’s not like “Gulf of Mexico” was on a list of “debatable or
-controversial names” until he created this controversy out of thin
-air. It’s just the one name on the globe that a president of the
-United States can change to stick it to Mexico, a country Donald
-Trump <a href="https://www.cnn.com/2018/02/27/politics/judge-curiel-trump-border-wall/index.html">has objectively racist feelings toward</a>. Trump
-never campaigned on building a wall at our <em>northern</em> border with
-Canada, nor has he (yet?) attempted to rename Lake Ontario.</p>
-</blockquote>
-
-<p>That “(yet?)” held up very well, alas. The rest of my essay holds up very well too, I think, especially pertaining to how Google and Apple present the change in their respective maps apps:</p>
-
-<blockquote>
-  <p>So whether Google and Apple should show the new name at all
-shouldn’t be the question we’re asking. The right question is
-necessarily more nuanced: Who should see which names, where? And
-Google and Apple’s answers to <em>that</em> question are, alas,
-disappointing and worrisome. I’ll repeat the seemingly identical
-policy both companies are <em>actually</em> presenting today, by region:</p>
-
-<ul>
-<li>United States: “Gulf of America”.</li>
-<li>Mexico: “Gulf of Mexico”.</li>
-<li>Everywhere else in the world: “Gulf of Mexico (Gulf of
-America)”.</li>
-</ul>
-
-<p>The best politically realistic option they could have chosen would
-be (I’ll use italics to emphasize that these are my own
-suggestions):</p>
-
-<ul>
-<li><em>United States: “Gulf of America (Gulf of Mexico)”</em>.</li>
-<li><em>Everywhere else in the world: “Gulf of Mexico”</em>.</li>
-</ul>
-
-<p>There’s no good reason to even show “Gulf of America” in
-parentheses outside the US. We’re the ones with the stupid name
-change on the books, so we’re the ones who should get stuck seeing
-the stupid name. No one else should suffer the consequences of our
-political lunacy. But it <em>is</em> correct to show us, in America, the
-new dumb “Gulf of America” name. Again, if it were up to me,
-American users would see “Gulf of America (Gulf of Mexico)”, and
-everyone else would just see “Gulf of Mexico”. But that’s surely
-the best we in the reality-based community could hope for.</p>
-</blockquote>
-
-<p>Earlier in the essay, I wrote:</p>
-
-<blockquote>
-  <p>To ignore political reality is to court political controversy. It
-is not in the interests of large multinational corporations to
-court controversy. But it’s not possible to <em>avoid</em> controversy.
-What is reasonable is to minimize controversy.</p>
-</blockquote>
-
-<p>Trump has delivered fresh “Lake America” shit sandwiches for Google and Apple to eat. I suggest that the path I recommended 18 months ago remains the path of eating the least shit, maintaining the most integrity, and courting the least collective controversy. Label it “Lake America (Lake Ontario)” to those of us here in the U.S., and keep it as “Lake Ontario” with no mention of Trump’s petulant fiat name anywhere else in the world.</p>
-
-<div>
-<a  title="Permanent link to ‘From the DF Archive: ‘Golfo Del Gringo Loco’’"  href="https://daringfireball.net/linked/2026/08/28/df-archive-golfo-del-gringo-loco">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Trump Declares That Lake Ontario Is Now ‘Lake America’</title>
-	<link rel="alternate" type="text/html" href="https://www.notus.org/trump-white-house/lake-america-ontario-canada-trade-war-trump-executive-order-rename" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xik" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/28/trump-lake-ontario" />
-	<id>tag:daringfireball.net,2026:/linked//6.43436</id>
-	<published>2026-08-28T14:02:53Z</published>
-	<updated>2026-08-28T14:17:34Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jackie Llanos and Jenna Monnin, reporting for NOTUS:</p>
-
-<blockquote>
-  <p>President Donald Trump on Thursday signed an executive order meant
-to rename Lake Ontario “Lake America,” taking his <a href="https://truthsocial.com/@realDonaldTrump/posts/117155789874645152">apparent jab</a>
-at Canada one step further as a trade war between the two
-countries escalates.</p>
-
-<p>The president said the name change was “effective immediately”
-during a signing ceremony in the Oval Office. The executive order
-directs Interior Secretary Doug Burgum to update the Geographic
-Names Information Service to reflect the name change. When asked
-by reporters about the move, Trump said he was sending “no
-message” to Canada with the name change.</p>
-
-<p>“Lake of America was something I’ve been thinking about for a long
-time,” the president said. “Actually, as you know, we took
-something called the Gulf of Mexico, we changed it, and now it’s
-very routinely the Gulf of America.”</p>
-</blockquote>
-
-<p>Aaron Rupar has video clips of Trump declaring the change in an Oval Office press event, <a href="https://bsky.app/profile/atrupar.com/post/3mu3fnbvwde2p">here</a> and <a href="https://bsky.app/profile/atrupar.com/post/3mu3fiix3j72i">here</a>. In the second clip Trump ruminates, “So if you think about it, we have a gulf, and we have a lake, now all we need is an ocean, so maybe we’ll have to change the name of the Atlantic and/or the Pacific. Maybe we’ll change them both.” Those who deny that he’s a mad king slipping ever deeper into dementia might say, well, he’s obviously joking. But if I had told those same people just two years ago, in the run up to his reelection, that Trump was going to declare new names for the Gulf of Mexico and Lake Ontario, they’d have said <em>I</em> was crazy because that would be nutty.</p>
-
-<p>It is nutty. Renaming these large bodies of water is nuts. He’s nuts. This is not complicated. Crazy people do crazy things and this is obviously crazy. I often use the phrase jokingly but Donald Trump is not hooked up right, and the proof is right before our eyes on camera every day.</p>
-
-<p><strong>Factoid:</strong> HOMES is the <a href="https://www.scientificamerican.com/article/bring-science-home-mnemonics/#:~:text=HOMES">longstanding mnemonic</a> for recalling the five Great Lake names: Huron, Ontario, Michigan, Erie, Superior. “Hames”, <a href="https://scrabble.merriam.com/finder/hames">technically</a>, is a playable Scrabble/Wordle word (“a part of a horse collar”), but it’s far too obscure to serve as a mnemonic. That leaves one word in the English language consisting of the five necessary letters: SHAME.</p>
-
-<div>
-<a  title="Permanent link to ‘Trump Declares That Lake Ontario Is Now ‘Lake America’’"  href="https://daringfireball.net/linked/2026/08/28/trump-lake-ontario">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>U.S. Judge Blocks Trump Defense Department’s Anthropic Blacklisting</title>
-	<link rel="alternate" type="text/html" href="https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xij" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/27/anthropic-beats-defense-department" />
-	<id>tag:daringfireball.net,2026:/linked//6.43435</id>
-	<published>2026-08-28T02:59:46Z</published>
-	<updated>2026-08-28T03:00:33Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jack Queen, Reuters:</p>
-
-<blockquote>
-  <p>A U.S. judge on Thursday blocked the Pentagon’s blacklisting of
-Anthropic, ​the latest turn in the Claude maker’s high-stakes
-fight with the military over AI safety on the battlefield.</p>
-
-<p>Anthropic’s lawsuit in California federal court alleges that
-Defense Secretary Pete Hegseth overstepped his authority when
-he designated Anthropic a national security supply-chain risk,
-a label the government can apply to companies that expose
-military systems to potential infiltration or sabotage by
-adversaries. [...]</p>
-
-<p>U.S. District Judge Rita Lin, an appointee of former Democratic
-President Joe Biden, ​made the ruling in a 59-page order where she
-found that the Pentagon’s decision was “illegal and baseless.”</p>
-
-<p>“The empty invocation of national ​security is not a blank check
-to punish and retaliate against government critics,” she wrote.</p>
-</blockquote>
-
-<p>The imperial aspects of Trump 2.0 are increasingly coming apart at the seams.</p>
-
-<div>
-<a  title="Permanent link to ‘U.S. Judge Blocks Trump Defense Department’s Anthropic Blacklisting’"  href="https://daringfireball.net/linked/2026/08/27/anthropic-beats-defense-department">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
