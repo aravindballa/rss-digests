@@ -7,14 +7,73 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-09-11T21:36:19Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
-	<title>Clarus the Dogcow Easter Egg in iOS 27 Settings</title>
+<updated>2026-09-12T00:19:58Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Last Year’s iPhone Share Amongst Users of Widgetsmith</title>
+	<link rel="alternate" type="text/html" href="https://mastodon.social/@_Davidsmith/117253170115740653" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xjt" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/11/last-years-iphone-share-amongst-users-of-widgetsmith" />
+	<id>tag:daringfireball.net,2026:/linked//6.43481</id>
+	<published>2026-09-12T00:19:57Z</published>
+	<updated>2026-09-12T00:19:58Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>David Smith, developer of the widely-used <a href="https://widgetsmith.app/">Widgetsmith</a>, on Mastodon:</p>
+
+<blockquote>
+  <p>The eve of iPhone 18 Pro pre-orders seems a good time to look back
+at the iPhone 17 family’s adoption. Here’s the 17 family data as a
+percentage of overall usage for Widgetsmith.</p>
+
+<p>Generally they followed the usual adoption pattern, and overall
+did very well ending at around 20% of total usage.</p>
+
+<p>With the exception of the Air really struggling to find market
+share. For comparison the 16 Plus ended its first year at around
+1.4% (vs the Air’s 0.3%).</p>
+</blockquote>
+
+<p><a href="https://daringfireball.net/misc/2026/09/widgetsmith-iphones-17-share.png">The chart</a> looks rough for the iPhone Air. Amongst all Widgetsmith users, here’s the share as of September by model:</p>
+
+<pre><code>        iPhone 17   7.2%
+iPhone 17 Pro Max   5.9%
+    iPhone 17 Pro   5.8%
+       iPhone 17e   0.5%
+       iPhone Air   0.3%
+</code></pre>
+
+<p>But if we only consider the 19.7 percent of Widgetsmith users using one of these new 17-generation iPhones, the percentages look like this:</p>
+
+<pre><code>        iPhone 17   36.5%
+iPhone 17 Pro Max   29.9%
+    iPhone 17 Pro   29.4%
+       iPhone 17e    2.5%
+       iPhone Air    1.5%
+</code></pre>
+
+<p>In the entire year since the iPhone Air was announced, I’ve never seen Apple advertise it. No billboards, no commercials. It raises a chicken/egg question: did no one buy it because Apple didn’t market it, or did Apple not market it because no one wanted it?</p>
+
+<p>It’s a shame, because I truly believe not only that it’s the nicest iPhone Apple has ever made, but that if most people tried it, they’d love it. They don’t need a bigger battery and, wouldn’t take better photos with a Pro model, and would love the thin feel and low weight. But the shame of these low iPhone Air sales reminds me, very much, of the late great iPhone 12 and 13 Mini — also a truly great design, also terribly disappointing sales numbers.</p>
+
+<p>If the iPhone Air 2 rumored to be coming in the spring doesn’t turn things around, it might follow the Mini as a twice-and-done design.</p>
+
+<p>That said, the 17e isn’t setting the world on fire either. That’s a bit surprising to me. (Maybe the sort of people who buy the “e” models (and the SE models before them aren’t the demographic for an app like Widgetsmith.)</p>
+
+<div>
+<a  title="Permanent link to ‘Last Year’s iPhone Share Amongst Users of Widgetsmith’"  href="https://daringfireball.net/linked/2026/09/11/last-years-iphone-share-amongst-users-of-widgetsmith">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Clarus the Dogcow Easter Egg in Apple’s OS 27 Settings</title>
 	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/09/11/apple-hid-a-classic-mac-easter-egg-in-the-ios-27-settings-app/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xjs" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/11/clarus-settings-ios-27" />
 	<id>tag:daringfireball.net,2026:/linked//6.43480</id>
 	<published>2026-09-11T20:33:03Z</published>
-	<updated>2026-09-11T20:33:03Z</updated>
+	<updated>2026-09-11T23:52:10Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -34,8 +93,10 @@ how to trigger it …</p>
 
 <p>Very fun. Alas, this easter egg isn’t present in MacOS 27, only iOS 27. But the MacOS 27 version of the Liquid Glass settings panel does have a drawing glitch <a href="https://daringfireball.net/misc/2026/09/no-moof-for-mac.mov">that makes the magnifying glass in the fake search field flicker terribly</a>, so Golden Gate does have that going for it.</p>
 
+<p><strong>Update:</strong> A bunch of readers have kindly reported that the Clarus easter egg is present in MacOS 27 Golden Gate, <a href="https://x.com/avstorm/status/2097787965552406756">illustrated on X by Andreas Storm</a> and <a href="https://512pixels.net/2026/09/liquid-glass-dogcow/">at 512 Pixels by Stephen Hackett</a>. I still can’t get it to work on the MacBook Neo I’m running the latest beta of Golden Gate on though. One of the readers who sent a note says they don’t see the magnifying glass flicker, either.</p>
+
 <div>
-<a  title="Permanent link to ‘Clarus the Dogcow Easter Egg in iOS 27 Settings’"  href="https://daringfireball.net/linked/2026/09/11/clarus-settings-ios-27">&nbsp;★&nbsp;</a>
+<a  title="Permanent link to ‘Clarus the Dogcow Easter Egg in Apple’s OS 27 Settings’"  href="https://daringfireball.net/linked/2026/09/11/clarus-settings-ios-27">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
@@ -1842,40 +1903,6 @@ to punish and retaliate against government critics,” she wrote.</p>
 
 <div>
 <a  title="Permanent link to ‘U.S. Judge Blocks Trump Defense Department’s Anthropic Blacklisting’"  href="https://daringfireball.net/linked/2026/08/27/anthropic-beats-defense-department">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Afterglow — Classic After Dark Screen Savers on Today’s MacOS</title>
-	<link rel="alternate" type="text/html" href="https://morphing.cloud/afterglow/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xii" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/08/27/afterglow" />
-	<id>tag:daringfireball.net,2026:/linked//6.43434</id>
-	<published>2026-08-27T21:49:50Z</published>
-	<updated>2026-08-27T23:12:43Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jeff Halter has done it again: after <a href="https://daringfireball.net/linked/2026/07/12/lunacy">bringing back</a> the single greatest After Dark module (Ben Haller’s Lunatic Fringe game, via a modern runtime named <a href="https://morphing.cloud/lunacy/">Lunacy</a>), he’s now released Afterglow:</p>
-
-<blockquote>
-  <p>Running After Dark modules in the present day has involved fussy
-configuration of Mac OS emulators or vintage hardware. Even then,
-no single emulator or vintage computer can faithfully run every
-module: some animate too fast, some too slow.</p>
-
-<p>Afterglow is an emulator built specifically for running After Dark
-modules — the original 68k module code, not a remake or port — with no dependencies on ROMs or classic Mac OS. Created in the
-spirit of software preservation, it makes After Dark easy to enjoy
-today and for years to come.</p>
-</blockquote>
-
-<p>All this in the <a href="https://daringfireball.net/linked/2026/07/12/stacks">same summer</a> during which Halter released <a href="https://morphing.cloud/hypercard/">Stacks</a>, his beautiful native modern HyperCard player. And don’t even look at his reproduction of <a href="https://morphing.cloud/macwarehouse/1997/">volume 68 of MacWarehouse from 1997</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Afterglow — Classic After Dark Screen Savers on Today’s MacOS’"  href="https://daringfireball.net/linked/2026/08/27/afterglow">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
