@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-09-12T21:19:16Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-09-13T21:13:27Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>Unread 5.0</title>
 	<link rel="alternate" type="text/html" href="https://www.goldenhillsoftware.com/2026/09/unread-50/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xk0" />
@@ -164,13 +164,13 @@ feature at $5/month.</p>
 
 	]]></content>
   </entry><entry>
-	<title>Tristan Buckmaster’s Statement on Getting Scooped by OpenAI on the Navier-Stokes Problem</title>
+	<title>Tristan Buckmaster’s Statement on Getting Scooped by OpenAI on the Navier–Stokes Problem</title>
 	<link rel="alternate" type="text/html" href="https://cims.nyu.edu/~tristanb/statement.pdf" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xjv" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/12/buckmaster-statement" />
 	<id>tag:daringfireball.net,2026:/linked//6.43483</id>
 	<published>2026-09-12T14:55:12Z</published>
-	<updated>2026-09-12T14:55:12Z</updated>
+	<updated>2026-09-13T21:02:22Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -191,9 +191,9 @@ look up user data. I asked again, about training, and I did not
 get an answer.</p>
 
 <p>Two proposals were offered to me. The first was that we post our
-Euler result, and that OpenAI post its Navier-Stokes result the
+Euler result, and that OpenAI post its Navier–Stokes result the
 next day. The second was that, after posting Euler, I alone write
-a paper presenting the Navier-Stokes result, acknowledging that an
+a paper presenting the Navier–Stokes result, acknowledging that an
 internal OpenAI model had resolved it. Sebastien twice asserted
 that he wanted Levent removed from authorship, and said it would
 all be simple if only it were not the case that, and it was so
@@ -212,7 +212,7 @@ you don’t want me to be nice, then I don’t have to be nice.”</p>
 <p>“Sebastien” is <a href="https://en.wikipedia.org/wiki/Sébastien_Bubeck">Sebastien Bubeck</a>, who came to OpenAI by way of Microsoft (<a href="https://daringfireball.net/linked/2026/09/04/nba-clippers-ballmer">shocker</a>).</p>
 
 <div>
-<a  title="Permanent link to ‘Tristan Buckmaster’s Statement on Getting Scooped by OpenAI on the Navier-Stokes Problem’"  href="https://daringfireball.net/linked/2026/09/12/buckmaster-statement">&nbsp;★&nbsp;</a>
+<a  title="Permanent link to ‘Tristan Buckmaster’s Statement on Getting Scooped by OpenAI on the Navier–Stokes Problem’"  href="https://daringfireball.net/linked/2026/09/12/buckmaster-statement">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
@@ -223,13 +223,13 @@ you don’t want me to be nice, then I don’t have to be nice.”</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/12/marcus-ai-drama" />
 	<id>tag:daringfireball.net,2026:/linked//6.43482</id>
 	<published>2026-09-12T14:25:07Z</published>
-	<updated>2026-09-12T21:19:16Z</updated>
+	<updated>2026-09-13T21:13:27Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>I have been busy with new-iPhone-week stuff, so I haven’t been able to follow either of these stories closely, but <a href="https://garymarcus.substack.com/p/two-dire-warnings-one-from-terence">Marcus summarizes them both well</a>. First: the drama regarding OpenAI claiming a solution to the Navier-Stokes math problem. In short, OpenAI continues to prove itself to be a company full of cheaters. In this case, they seemingly were willing to tank the company’s reputation to win a math contest. Apparently they <a href="https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/">spent $23 million in compute</a> to win a contest with a $1 million prize, and <a href="https://x.com/markchen90/status/2097400166554993041">admit they used a model</a> that might have trained on the work mathematicians Tristan Buckmaster and Levent Alpöge had been working on for months, who had been using a combination of tools from OpenAI and Anthropic (where Alpöge is employed). With no hyperbole, the message here seems to be “Don’t use Codex or ChatGPT unless you’re OK with OpenAI stealing your work if it’s of interest to them.”</p>
+<p>I have been busy with new-iPhone-week stuff, so I haven’t been able to follow either of these stories closely, but <a href="https://garymarcus.substack.com/p/two-dire-warnings-one-from-terence">Marcus summarizes them both well</a>. First: the drama regarding OpenAI claiming a solution to the Navier–Stokes math problem. In short, OpenAI continues to prove itself to be a company full of cheaters. In this case, they seemingly were willing to tank the company’s reputation to first claim the solution to one of mathematics’ top unsolved problems. Apparently they <a href="https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/">spent $23 million in compute</a> to win a $1 million prize, and <a href="https://x.com/markchen90/status/2097400166554993041">admit they used a model</a> that might have trained on the work mathematicians Tristan Buckmaster and Levent Alpöge had been working on for months, who had been using a combination of tools from OpenAI and Anthropic (where Alpöge is employed). With no hyperbole, the message here seems to be “Don’t use Codex or ChatGPT unless you’re OK with OpenAI stealing your work if it’s of interest to them.”</p>
 
 <p>As for Anthropic, the news of the week is this guy Jacob Coxon, <a href="https://x.com/hilbertspaess/status/2097476196791709843">who quit the company in a public huff</a> (on X, where most of this public drama is taking place), because he thinks they’re increasingly reckless despite everyone inside Anthropic believing that there’s a good chance LLMs will destroy humanity (or at least civilization?) in the next few years. <a href="https://x.com/evanhub/status/2097497037956891126">Here’s Evan Hubinger</a>, still at Anthropic, not dismissing Coxon as an alarmist but <em>agreeing</em> with him: </p>
 
