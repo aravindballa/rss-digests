@@ -7,14 +7,41 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-09-14T13:28:37Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-09-14T17:22:51Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Dumpster Fire – Litterbox-Inspired Extension for Firefox</title>
+	<link rel="alternate" type="text/html" href="https://addons.mozilla.org/en-US/firefox/addon/dumpster-fire/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xk3" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/14/dumpster-fire" />
+	<id>tag:daringfireball.net,2026:/linked//6.43491</id>
+	<published>2026-09-14T14:47:43Z</published>
+	<updated>2026-09-14T14:47:44Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Miles Abbott:</p>
+
+<blockquote>
+  <p>Open x.com links in a popup so you can read the one post and
+leave. Port of the Litterbox Safari extension.</p>
+</blockquote>
+
+<p>Litterbox is a cleverer name, but Dumpster Fire is funnier.</p>
+
+<div>
+<a  title="Permanent link to ‘Dumpster Fire – Litterbox-Inspired Extension for Firefox’"  href="https://daringfireball.net/linked/2026/09/14/dumpster-fire">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>XCancel Shuts Down Again</title>
 	<link rel="alternate" type="text/html" href="https://xcancel.com/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xk2" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/14/xcancel-shuts-down-again" />
 	<id>tag:daringfireball.net,2026:/linked//6.43490</id>
 	<published>2026-09-14T13:24:10Z</published>
-	<updated>2026-09-14T13:28:37Z</updated>
+	<updated>2026-09-14T17:22:51Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -28,7 +55,7 @@ proceedings, we are required to suspend this service again until
 further notice. We can’t share more details.</p>
 </blockquote>
 
-<p>Not surprised, and not sure what to make of the “can’t share more details” part. Again, if you want to avoid visiting X but want to see the content posted there linked from other sites (and, let’s admit it at this point, there’s not just a lot posted on X, it’s resurgent in popularity), install a browser extension like <a href="https://andadinosaur.com/launch-litterbox">Litterbox</a> (Safari) or <a href="https://daringfireball.net/linked/2026/09/12/post-peek">Post Peek</a> (Chrome).</p>
+<p>Not surprised, and not sure what to make of the “can’t share more details” part. Again, if you want to avoid visiting X but want to see the content posted there linked from other sites (and, let’s admit it at this point: there’s not just a lot posted on X, it is outright resurgent in popularity), install a browser extension like <a href="https://andadinosaur.com/launch-litterbox">Litterbox</a> (Safari) or <a href="https://daringfireball.net/linked/2026/09/12/post-peek">Post Peek</a> (Chrome).</p>
 
 <div>
 <a  title="Permanent link to ‘XCancel Shuts Down Again’"  href="https://daringfireball.net/linked/2026/09/14/xcancel-shuts-down-again">&nbsp;★&nbsp;</a>
@@ -1684,64 +1711,6 @@ the paper.”</p>
 
 <div>
 <a  title="Permanent link to ‘Tim Cook’s Departure Memo on His Last Day as CEO’"  href="https://daringfireball.net/linked/2026/09/01/tim-cook-departure-memo">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple Reveals Forensic Evidence From Chang Liu’s MacBook in OpenAI Lawsuit</title>
-	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xiu" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/01/apple-reveals-change-liu-evidence-openai-lawsuit" />
-	<id>tag:daringfireball.net,2026:/linked//6.43446</id>
-	<published>2026-09-01T17:36:08Z</published>
-	<updated>2026-09-01T18:04:14Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Chance Miller, 9to5Mac:</p>
-
-<blockquote>
-  <p>In today’s filing, Apple says that Liu’s lawyers recently handed
-over his MacBook that he used after leaving Apple. According to
-Apple, an “initial forensic analysis” of that MacBook revealed
-four things, quoted from Apple’s filing:</p>
-
-<ul>
-<li><p>Mr. Liu not only downloaded a confidential Apple circuit
-schematic but also used it in his work at OpenAI;</p></li>
-<li><p>Far from his unauthorized access to Apple’s third-party cloud
-storage being unknown to him, Mr. Liu and others at OpenAI were
-well-aware of that access;</p></li>
-<li><p>Mr. Liu, upon learning of Apple’s internal investigation of him,
-sent instructions for destroying evidence to an OpenAI colleague
-who confirmed she would comply; and</p></li>
-<li><p>Mr. Liu used a tool in his work at OpenAI that has the same name
-as an internal Apple engineering application used for Apple
-development work.</p></li>
-</ul>
-</blockquote>
-
-<p>9to5Mac is hosting a <a href="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple_Inc_v_Liu_et_al__candce-26-07078__0094.1.pdf">copy of the original filing</a> from Apple’s lawyers.</p>
-
-<p>The first point seems really bad for OpenAI. On the fourth point, I’m not sure what Apple is alleging here — I <em>think</em> they’re alleging that Liu took an Apple internal engineering app with him over to OpenAI? This is the entirety of that allegation from Apple’s filing:</p>
-
-<blockquote>
-  <p>D. New evidence shows previously unknown use of a tool at OpenAI
-   that has the same name as an Apple internal engineering tool.</p>
-
-<p>The MacBook also reveals additional acts of potential trade secret
-misappropriation previously unknown to Apple. While working at
-OpenAI, Mr. Liu referred to using a tool and related software
-packages with names identical to proprietary internal engineering
-tools used at Apple.</p>
-</blockquote>
-
-<p>It sounds like the MacBook Apple examined didn’t have the proprietary app on it — just emails or messages where Liu referenced using it.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Reveals Forensic Evidence From Chang Liu’s MacBook in OpenAI Lawsuit’"  href="https://daringfireball.net/linked/2026/09/01/apple-reveals-change-liu-evidence-openai-lawsuit">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
