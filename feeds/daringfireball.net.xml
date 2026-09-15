@@ -7,13 +7,48 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-09-15T18:13:39Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-09-15T20:43:54Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>FT: ‘Steve Bannon and Bernie Sanders Unite in AI Safety Call’</title>
+	<link rel="alternate" type="text/html" href="https://www.ft.com/content/bab5c4c5-5377-4dd0-8b46-d8c4ce9a36d5?syn-25a6b1a6=1" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xk7" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/15/bannon-sanders" />
+	<id>tag:daringfireball.net,2026:/linked//6.43495</id>
+	<published>2026-09-15T19:01:30Z</published>
+	<updated>2026-09-15T19:01:30Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Joe Miller, reporting for the Financial Times (<a href="https://politicalwire.com/2026/09/14/steve-bannon-and-bernie-sanders-unite-in-ai-safety-call/">via Political Wire</a>):</p>
+
+<blockquote>
+  <p>Veteran socialist Bernie Sanders and rightwing activist Steve
+Bannon are joining forces to call for greater guardrails on AI,
+even as Donald Trump insists concerns about the technology are a
+hoax that will help China overtake the US.</p>
+
+<p>In a sign of how the outcry over AI safety is reshaping the US
+political landscape, speakers from the far right and left of the
+political spectrum will join an event billed as the “Pro-Human
+Assembly” in Washington on Tuesday to urge lawmakers to do more to
+tackle the effects of AI.</p>
+</blockquote>
+
+<p>One take would be that Sanders is a voice of sound reason and compassion, and Bannon is aligned with him on this issue in the way that a stopped clock shows the correct time twice a day. Another take is the <a href="https://www.slowboring.com/p/the-origins-of-horseshoe-politics">horseshoe theory</a>, which holds that leftwing and rightwing zealots are more alike than different, because they’re all crackpot ideologues.</p>
+
+<div>
+<a  title="Permanent link to ‘FT: ‘Steve Bannon and Bernie Sanders Unite in AI Safety Call’’"  href="https://daringfireball.net/linked/2026/09/15/bannon-sanders">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/09/thoughts_and_observations_on_apples_surprise_and_shine_event" />
 	<link rel="shorturl" href="http://df4.us/xk6" />
 	<id>tag:daringfireball.net,2026://1.43494</id>
 	<published>2026-09-15T17:54:09Z</published>
-	<updated>2026-09-15T18:13:39Z</updated>
+	<updated>2026-09-15T20:43:54Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -202,7 +237,7 @@ old tapping and swiping, it’ll be a phone.</p>
 
 <ul>
 <li><p>Photographic Styles is now up to version 3, adding new controls for “texture”, film-look, and grain. One stated goal of this is to enable shooting images with a less processed look; on the other end of the aesthetic spectrum, though, I think it will also enable shooting with a <em>more</em> processed look, with the addition of “glow” and “soft skin” as texture alternatives alongside “film” (which is the only texture with the new grain option). The other, and default, texture option is “standard”, which effectively means no texture processing.</p></li>
-<li><p>Apple Reference Image is a new shooting mode (main 1× camera only, because it’s tied to new features on that sensor) that performs pixel-by-pixel signing of the sensor data and embeds that signature in the file. After capture, reference images can be sent to Private Cloud Compute servers for verification and comparison to the original image sensor data. To capture images in Apple Reference format, you must shoot them in that mode, and you must enable that shooting mode first. The embedded sensor data doesn’t make files that much larger, but the sensor data does uniquely identify your iPhone. That’s part of the verification. When you share a photo captured in Apple Reference Image format, you have the option to share a plain version without the embedded verification data. Apple Reference Image capture is not available in the EU or China, the world’s two largest bastions of freedom, but <a href="https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/#:~:text=In%20the%20EU">according to an Apple footnote</a>, users in the EU “with iOS 27, iPadOS 27, and macOS 27 will be able to develop and view reference images.”</p></li>
+<li><p>Apple Reference Image is a new shooting mode (main 1× camera only, because it’s tied to new features on that sensor) that performs pixel-by-pixel signing of the sensor data and embeds that signature in the file. After capture, reference images can be sent to Private Cloud Compute servers for verification and comparison to the original image sensor data. To capture images in Apple Reference format, you must shoot them in that mode, and you must enable that shooting mode first. The embedded sensor data doesn’t make files that much larger, but the sensor data stored in the file does uniquely identify your iPhone. When you “develop” a reference image — something the user must choose to do (not something that happens automatically each time you capture one) — the raw sensor data, sensor identifier, and time window when the image was captured are sent to Private Cloud Compute, but the sensor and image IDs are anonymized and hashed during development. When you share a photo captured in Apple Reference Image format, you have the option to share a plain version without the embedded verification data. Apple Reference Image capture is not available in the EU or China, the world’s two largest bastions of freedom, but <a href="https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/#:~:text=In%20the%20EU">according to an Apple footnote</a>, users in the EU “with iOS 27, iPadOS 27, and macOS 27 will be able to develop and view reference images.”</p></li>
 <li><p>Cinematic Mode can now be applied after shooting a regular video; on previous iPhones the Cinematic Mode effect was only available via a specific shooting mode.</p></li>
 </ul>
 
@@ -297,7 +332,7 @@ old tapping and swiping, it’ll be a phone.</p>
 <li><p>The interior display has a matte nano-texture display. It looks great and apparently this is a key element of Apple’s efforts to make the crease as unnoticeable as possible. By next year I expect all competing foldables to have matte interior displays and 1.4 : 1 aspect ratio displays.</p></li>
 <li><p>It is very satisfying to open and close.</p></li>
 <li><p>The outer glossy screen has a “Center Stage” 12 megapixel front-facing camera, that seems equivalent if not identical to the Center Stage front cameras in the iPhone 17 generation phones. Year-ago tech but still high quality. There’s a circular hole punch in the corner of the display for this camera.</p></li>
-<li><p>The inner matte screen has an under-the-display “FaceTime” camera for which Apple hasn’t even given a megapixel count. Clearly this is a lesser camera — the question is how much lesser. The idea presumably is that this camera is for use in Zoom or FaceTime apps, where you might want to use the bigger inner display to view the meeting, and don’t care as much about your own image quality. If the Duo is opened, and you care about image quality for self portraits, you can shoot using the <em>main</em> camera and use the outer display to frame yourself. When not using the inner FaceTime camera, there is no visible cutout showing where it goes. If you look closely at the display however, you can see where it is. Under-display cameras aren’t magic.</p></li>
+<li><p>The inner matte screen has an under-the-display “FaceTime” camera for which Apple hasn’t even given a megapixel count. Clearly this is a lesser camera — the question is how much lesser. The idea presumably is that this camera is solely for use in Zoom or FaceTime apps, where you might want to use the bigger inner display to view the meeting, and don’t care as much about your own image quality. But there’s no reason ever to capture a self portrait with the camera on the larger inner display. If the Duo is opened, and you care about image quality for self portraits, you can shoot using the <em>main</em> camera and use the small display to frame yourself, turning the large display around to the back. When not using the inner FaceTime camera, there is no visible cutout showing where it goes. If you look closely at the display however, you can see where it is. Under-display cameras aren’t magic.</p></li>
 <li><p>The regular cameras are a 1× / 2× main, and a 0.5× ultra wide. I suspect the main 1× camera is very similar optically to that of the iPhone Air, but it has A20 Pro features like Photographic Styles 3. (The Air only has last year’s Photographic Styles 2.)</p></li>
 </ul>
 
@@ -433,7 +468,7 @@ Station.</p>
 </li>
 
 <li id="fn10-2026-09-15">
-<p>Back in 2021 during the COVID era, <a href="https://daringfireball.net/2021/02/unlock_with_apple_watch_with_face_mask">iOS 14.5 added a then-much-needed feature</a> that allowed Apple Watch to unlock your iPhone. That feature <a href="https://support.apple.com/guide/watch/unlock-your-iphone-apd2a4393dc1/watchos">remains available</a>, and I guess that’s what Apple is promoting for use with iPhone Duo. But I had to check that this feature was still available in iOS because I haven’t used it since last wearing face mask five or six years ago.&nbsp;<a href="#fnr10-2026-09-15"  class="footnoteBackLink"  title="Jump back to footnote 10 in the text.">&#x21A9;&#xFE0E;︎</a></p>
+<p>Back in 2021 during the COVID era, <a href="https://daringfireball.net/2021/02/unlock_with_apple_watch_with_face_mask">iOS 14.5 added a then-much-needed feature</a> that allowed Apple Watch to unlock your iPhone. That feature <a href="https://support.apple.com/guide/watch/unlock-your-iphone-apd2a4393dc1/watchos">remains available</a>, and I guess that’s what Apple is promoting for use with iPhone Duo. But I had to check that this feature was still available in iOS because I haven’t used it since last wearing a face mask four or five years ago.&nbsp;<a href="#fnr10-2026-09-15"  class="footnoteBackLink"  title="Jump back to footnote 10 in the text.">&#x21A9;&#xFE0E;︎</a></p>
 </li>
 
 <li id="fn11-2026-09-15">
@@ -2030,7 +2065,7 @@ searching for just Canadian drivers licenses returns approximately
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/03/schiller-steps-down" />
 	<id>tag:daringfireball.net,2026:/linked//6.43450</id>
 	<published>2026-09-03T16:39:09Z</published>
-	<updated>2026-09-03T21:13:56Z</updated>
+	<updated>2026-09-15T20:38:01Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -2050,7 +2085,7 @@ latest change in recent days, according to people with
 knowledge of the matter.</p>
 </blockquote>
 
-<p>This is true, I’ve confirmed. Seems natural for this to coincide with the CEO transition. What a run for Schiller.</p>
+<p>This is true, I’ve confirmed. (And the decision was not made “in recent days”, although the org chart change might have been.) Seems natural for this to coincide with the CEO transition. What a run for Schiller.</p>
 
 <div>
 <a  title="Permanent link to ‘Phil Schiller Steps Down From Running App Store and Product Events’"  href="https://daringfireball.net/linked/2026/09/03/schiller-steps-down">&nbsp;★&nbsp;</a>
@@ -2097,38 +2132,6 @@ overall over the weekend. The app’s usage also jumped to roughly
 
 <div>
 <a  title="Permanent link to ‘MapQuest Refuses to Relabel Lake Ontario, Rewarded With Surge in Popularity’"  href="https://daringfireball.net/linked/2026/09/03/mapquest-surge">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>iOS 27 Introduces New ‘iPhone Handoff’ Feature</title>
-	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2026/09/02/ios-27-iphone-handoff-feature/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xiw" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/02/iphone-handoff" />
-	<id>tag:daringfireball.net,2026:/linked//6.43448</id>
-	<published>2026-09-02T20:58:28Z</published>
-	<updated>2026-09-02T21:11:54Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Joe Rossignol, MacRumors:</p>
-
-<blockquote>
-  <p>“iPhone Handoff” can be set up from the Settings app, under the Cellular menu. During the setup process, you can choose which iPhone you want to be the main device that you use most often and which one you want to be the companion device.</p>
-
-<p>Apple says a user’s main eSIM will remain on the main iPhone, while the companion iPhone will receive a companion eSIM, and this will enable you to switch between the devices back and forth while using the same phone number.</p>
-
-<p>All cellular settings are managed on the main iPhone, and location sharing is based on whichever iPhone is actively using the phone number.</p>
-</blockquote>
-
-<p>This sounds amazing for those of us who use multiple iPhones. It’s not a common use case but it’s not <em>that</em> unusual. Developers come to mind, as do, <em>ahem</em>, new-phone reviewers. I presume there are a lot of people in Cupertino who use multiple iPhones, too.</p>
-
-<p>The only downside is that it requires carrier support. Hopefully they’ll all adopt it as quickly as they did for, say, cellular Apple Watches.</p>
-
-<div>
-<a  title="Permanent link to ‘iOS 27 Introduces New ‘iPhone Handoff’ Feature’"  href="https://daringfireball.net/linked/2026/09/02/iphone-handoff">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
