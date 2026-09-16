@@ -7,7 +7,35 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-09-16T02:38:52Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-09-16T14:35:50Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>AirPods 5 With Wireless Charging Case Works With MagSafe, But Not Magnetically</title>
+	<link rel="alternate" type="text/html" href="https://www.apple.com/airpods-5/specs/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xk9" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/16/airpods-5-magsafe" />
+	<id>tag:daringfireball.net,2026:/linked//6.43497</id>
+	<published>2026-09-16T14:35:49Z</published>
+	<updated>2026-09-16T14:35:50Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>In <a href="https://daringfireball.net/2026/09/thoughts_and_observations_on_apples_surprise_and_shine_event">my long take yesterday</a> on Apple’s event last week, I wrote that when you pay $20 extra to get the $150 AirPods 5 With Wireless Charging Case, that the case is compatible for inductive charging with “MagSafe, Qi, or Apple Watch pucks”. But the compatibility section of Apple’s tech specs page for AirPods 5 doesn’t list MagSafe:</p>
+
+<blockquote>
+  <p>Works with USB‑C connector, Apple Watch charger, or Qi‑certified chargers</p>
+</blockquote>
+
+<p>That’s because for Apple, true MagSafe compatibility means magnetic attachment. The AirPods 5 case doesn’t have magnets; AirPods Pro cases do. So when you charge AirPods Pro with MagSafe, they snap to the puck. I can snap my AirPods Pro 3 case onto a nearly vertical MagSafe charger, like <a href="https://nomadgoods.com/products/stand-one-4th-gen-carbide">the Nomad Stand One</a> I keep next to my keyboard. (Great product — you should get one. I have two; the other is on my nightstand.) I can’t charge the AirPods 5 case on that stand because without magnets it just falls off.</p>
+
+<p>But if I lay the AirPods 5 case on a horizontal MagSafe puck, it charges just fine. That’s because MagSafe pucks are themselves Qi-compatible. I see why Apple is a stickler for this — the “mag” in MagSafe carries an obvious meaning — but by not mentioning MagSafe at all it’s reasonable to draw the conclusion that AirPods 5 With Wireless Charging Case doesn’t work with MagSafe at all.</p>
+
+<div>
+<a  title="Permanent link to ‘AirPods 5 With Wireless Charging Case Works With MagSafe, But Not Magnetically’"  href="https://daringfireball.net/linked/2026/09/16/airpods-5-magsafe">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘Apple Reference Image: A New Approach for Verified Photography’</title>
 	<link rel="alternate" type="text/html" href="https://security.apple.com/blog/apple-reference-image/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xk8" />
@@ -2102,40 +2130,6 @@ searching for just Canadian drivers licenses returns approximately
 
 <div>
 <a  title="Permanent link to ‘OpenAI Soft-Releases GPT‑6 Astra’"  href="https://daringfireball.net/linked/2026/09/03/gpt-6-astra">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Phil Schiller Steps Down From Running App Store and Product Events</title>
-	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2026-08-31/apple-s-phil-schiller-steps-down-from-running-app-store-and-product-events?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODE5Mzk5NywiZXhwIjoxNzg4Nzk4Nzk3LCJhcnRpY2xlSWQiOiJUS0VDTE1LSkg2VjQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.G1fAbZQH31AQBLUajPYPUJ7BqRyeIUN7SbxQZFAqMXE" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xiy" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/03/schiller-steps-down" />
-	<id>tag:daringfireball.net,2026:/linked//6.43450</id>
-	<published>2026-09-03T16:39:09Z</published>
-	<updated>2026-09-15T20:38:01Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Mark Gurman:</p>
-
-<blockquote>
-  <p>Apple Inc.’s Phil Schiller, one of the most visible and
-influential executives across both the Steve Jobs and Tim Cook
-eras, has stepped down from his role leading the App Store and
-product events.</p>
-
-<p>The 66-year-old executive, who was Apple’s senior vice
-president of marketing until leaving that job in 2020, made the
-latest change in recent days, according to people with
-knowledge of the matter.</p>
-</blockquote>
-
-<p>This is true, I’ve confirmed. (And the decision was not made “in recent days”, although the org chart change might have been.) Seems natural for this to coincide with the CEO transition. What a run for Schiller.</p>
-
-<div>
-<a  title="Permanent link to ‘Phil Schiller Steps Down From Running App Store and Product Events’"  href="https://daringfireball.net/linked/2026/09/03/schiller-steps-down">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
