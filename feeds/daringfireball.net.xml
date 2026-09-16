@@ -7,14 +7,93 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-09-16T21:19:08Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-09-16T22:54:15Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps</title>
+	<link rel="alternate" type="text/html" href="https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xkd" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/16/xcode-27-iphone-duo" />
+	<id>tag:daringfireball.net,2026:/linked//6.43501</id>
+	<published>2026-09-16T22:40:41Z</published>
+	<updated>2026-09-16T22:53:35Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>A note flagged “Important” atop the Xcode 27.2 release notes:</p>
+
+<blockquote>
+  <p>The iOS SDK and simulator support for iPhone Duo will be available
+later this month in an upcoming release of Xcode 27.1.</p>
+</blockquote>
+
+<p>Adapting apps for the Duo is not just a simple “recompile with the new SDK”. It’s different. For just about all apps it’s going to be a significant amount of work, and for some apps it’s going to be a <em>lot</em> of work. But without Xcode 27.1, developers cannot get started. Developers wanted this SDK a week ago. And when day one preorder buyers start using their Duos on October 23, they’re going to wish Apple had shipped this SDK last week too.</p>
+
+<div>
+<a  title="Permanent link to ‘Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps’"  href="https://daringfireball.net/linked/2026/09/16/xcode-27-iphone-duo">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Is That a Duo in Ternus’s Pocket or Was He Just Happy That Apple TV Shows Won 28 Emmys?</title>
+	<link rel="alternate" type="text/html" href="https://x.com/DEADLINE/status/2099645816361332775" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xkc" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/16/duo-ternus-pocket" />
+	<id>tag:daringfireball.net,2026:/linked//6.43500</id>
+	<published>2026-09-16T22:21:30Z</published>
+	<updated>2026-09-16T22:21:30Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Note the reaction from the Deadline reporter.</p>
+
+<div>
+<a  title="Permanent link to ‘Is That a Duo in Ternus’s Pocket or Was He Just Happy That Apple TV Shows Won 28 Emmys?’"  href="https://daringfireball.net/linked/2026/09/16/duo-ternus-pocket">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Woz Launches Merch Store</title>
+	<link rel="alternate" type="text/html" href="https://x.com/stevewoz/status/2100074363605397658" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xkb" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/16/woz" />
+	<id>tag:daringfireball.net,2026:/linked//6.43499</id>
+	<published>2026-09-16T21:38:27Z</published>
+	<updated>2026-09-16T22:54:15Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Steve Wozniak:</p>
+
+<blockquote>
+  <p>I’ve decided it’s time to have a little more fun on X this
+year! 😄⚡</p>
+
+<p>I get to speak at some amazing events, meet fascinating people,
+hear great stories, and occasionally find myself in places I
+never expected to be. So I figured… why not share some of those
+moments here?</p>
+</blockquote>
+
+<p>He announced this on X, you will note, not “social media”.</p>
+
+<div>
+<a  title="Permanent link to ‘Woz Launches Merch Store’"  href="https://daringfireball.net/linked/2026/09/16/woz">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple OS 27.2 Betas Are Out; Version 27.1 Is the Duo-Exclusive iOS Fork</title>
 	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2026/09/16/heres-why-apple-released-ios-27-2-beta/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xka" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/16/272-betas" />
 	<id>tag:daringfireball.net,2026:/linked//6.43498</id>
 	<published>2026-09-16T18:36:08Z</published>
-	<updated>2026-09-16T20:00:54Z</updated>
+	<updated>2026-09-16T22:47:13Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -29,12 +108,12 @@ testing. Yes, you read that correctly: iOS 27.2, not iOS 27.1.</p>
 <p>Why no iOS 27.1 beta? The answer likely relates to the iPhone Duo.</p>
 </blockquote>
 
-<p>This unusual version numbering is entirely about the Duo. The Duo is on its own fork of iOS — heretofore to keep details about its software secret / internal to Apple. When it launches October 23, Apple has already announced it will ship with iOS 27.1. Apple is thus using 27.2 as the version number for the first post-27.0 updates to all of its OSes for devices other than the Duo, to keep those version numbers aligned. The 27.2 releases, I am to understand, are scheduled to ship in October too. I bet they’ll ship <em>after</em> the iPhone Duo launches on October 23. So, putting beta releases aside, we’ll see the versions hit the public in numeric order:</p>
+<p>This unusual version numbering is entirely about the Duo. The Duo is on its own branch of iOS — heretofore to keep details about its software secret / internal to Apple. When it launches October 23, Apple has already announced it will ship with iOS 27.1. Apple is thus using 27.2 as the version number for the first post-27.0 updates to all of its OSes for devices other than the Duo, to keep those version numbers aligned. The 27.2 releases, I am to understand, are scheduled to ship in October too. I bet they’ll ship <em>after</em> the iPhone Duo launches on October 23. So, putting beta releases aside, we’ll see the versions hit the public in numeric order:</p>
 
 <ul>
 <li>All OS 27.0 releases: two days ago.</li>
 <li>iOS 27.1: October 23, exclusively on the iPhone Duo.</li>
-<li>All OS 27.2.0 releases: probably in late October, after the 23rd, but with the Duo remaining on its own 27.1 fork.</li>
+<li>All OS 27.2.0 releases: probably in late October, after the 23rd, but with the Duo remaining on its own 27.1 branch.</li>
 </ul>
 
 <p>Then, with a subsequent 27.2.x update, the Duo will join the other devices and version numbers across all devices on all platforms will converge, in November or early December. I believe that’s the plan. Maybe Duo convergence will wait for 27.3, but I think it’ll be a 27.2.x update.</p>
@@ -2004,54 +2083,6 @@ persuasive.</p>
 
 	]]></content>
   </entry><entry>
-	<title>Apple Fixed ‎TestFlight’s Screwy Sort Order</title>
-	<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/testflight/id899247664" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xj3" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/04/testflight-sort-order-fixed" />
-	<id>tag:daringfireball.net,2026:/linked//6.43455</id>
-	<published>2026-09-04T20:04:47Z</published>
-	<updated>2026-09-04T20:55:29Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p><a href="https://daringfireball.net/2026/08/apple_testflight_list_sort_order">I wrote two weeks ago</a> about how the v4.3.0 update to TestFlight (released on July 21) broke the sort order for apps in the sidebar. Apple yesterday released v4.3.1, with these helpful release notes:</p>
-
-<blockquote>
-  <p>This update includes stability improvements and bug fixes.</p>
-</blockquote>
-
-<p>One of the weirdest parts about this sort-order bug is that <a href="https://daringfireball.net/linked/2026/08/24/more-on-testflights-screwy-sort-order">it only affected some people</a>. I was obviously one of them; <a href="https://mastodon.social/@siracusa/117135117635246786">so was John Siracusa</a>. For both of us, yesterday’s v4.3.1 update fixes the bug.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Fixed ‎TestFlight’s Screwy Sort Order’"  href="https://daringfireball.net/linked/2026/09/04/testflight-sort-order-fixed">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Vinted</title>
-	<link rel="alternate" type="text/html" href="https://www.vinted.com/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xj2" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/04/vinted" />
-	<id>tag:daringfireball.net,2026:/linked//6.43454</id>
-	<published>2026-09-04T19:55:45Z</published>
-	<updated>2026-09-04T19:55:45Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Remarking on MapQuest taking the #1 spot in the App Store (in the wake of their decision to ignore President Trump’s fiat renaming of Lake Ontario to “Lake America”), <a href="https://daringfireball.net/linked/2026/09/03/mapquest-surge">I mentioned yesterday</a> that I’d never heard of Vinted, the #3 app. (A day later and MapQuest is still #1, by the way.)</p>
-
-<p>Vinted, it turns out, is an eBay-like market for buying and selling used clothing. <a href="https://www.vinted.com/about">From a Lithuanian startup</a> and the whole thing has been popular in Europe for a while, and obviously now is gaining popularity in the U.S.</p>
-
-<div>
-<a  title="Permanent link to ‘Vinted’"  href="https://daringfireball.net/linked/2026/09/04/vinted">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/09/writing_with_unnatural_constraints" />
 	<link rel="shorturl" href="http://df4.us/xj1" />
@@ -2101,54 +2132,6 @@ don’t see them as much in onscreen writing.</p>
 
     ]]></content>
   <title>★ Writing With Unnatural Constraints</title></entry><entry>
-	<title>FBI Probes Service Selling 153M+ Drivers Licenses</title>
-	<link rel="alternate" type="text/html" href="https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xj0" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/04/fbi-krebs-153-million-ids" />
-	<id>tag:daringfireball.net,2026:/linked//6.43452</id>
-	<published>2026-09-04T16:15:43Z</published>
-	<updated>2026-09-04T16:16:12Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Brian Krebs, reporting at KrebsOnSecurity:</p>
-
-<blockquote>
-  <p>On Monday, Aug. 31, a source alerted KrebsOnSecurity to a service
-advertised by a new user on the Russian cybercrime forum Exploit,
-offering access to digital scans of identity documents on more
-than 170 million people in North America. The source brought it to
-my attention because the proprietor of this identity theft service
-offered my Virginia drivers license as a free sample in their
-initial sales thread on Exploit.</p>
-
-<p>The service, dubbed Nexus, claims to have more than 153 million
-drivers licenses for people in the United States and Canada, as
-well as more than 10 million identification cards; more than three
-million travel documents and/or international IDs; and at least
-579,000 medical cards.</p>
-
-<p>A quick look around Nexus finds they are likely not exaggerating
-about that 153 million number: Running a blank search in Nexus
-(with no search parameters entered) returns approximately 11.5
-million pages of results, with roughly 15 results displayed per
-page. It includes documents from people in both Canada and the
-United States, but the bulk of these records are on Americans:
-searching for just Canadian drivers licenses returns approximately
-1.1 million results, with the largest concentration from Ontario
-(473,673 records).</p>
-</blockquote>
-
-<p>Krebs seemingly tracked down the source: <a href="https://idscan.net/">IDScan.net</a>, an outfit that is used by car rental agencies like Hertz (seemingly where they got Krebs’s own drivers license) and marijuana dispensaries. They kept over 150 million ID card scans and lost them all in a data breach. Unreal.</p>
-
-<div>
-<a  title="Permanent link to ‘FBI Probes Service Selling 153M+ Drivers Licenses’"  href="https://daringfireball.net/linked/2026/09/04/fbi-krebs-153-million-ids">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/08/thoughts_and_observations_apple_immersive_mlb_broadcast" />
 	<link rel="shorturl" href="http://df4.us/xir" />
