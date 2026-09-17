@@ -7,7 +7,51 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-09-16T22:54:15Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-09-17T14:41:53Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Why Do U.S. Models of the iPhone 18 Pro Max, and Only U.S. Models of the 18 Pro Max, Use Qualcomm Cellular Modems Instead of Apple’s Own Superior C2 Modem?</title>
+	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2026/09/12/iphone-18-pro-max-us-model-difference/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xke" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/17/iphone-18-pro-c2-vs-qualcomm-modems" />
+	<id>tag:daringfireball.net,2026:/linked//6.43502</id>
+	<published>2026-09-17T14:41:53Z</published>
+	<updated>2026-09-17T14:41:53Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Joe Rossignol at MacRumors over the weekend:</p>
+
+<blockquote>
+  <p>Apple now says the iPhone 18 Pro has a C2 modem worldwide, while
+the iPhone 18 Pro Max uses the chip in every country except for
+the U.S. [...]</p>
+
+<p>Apple has yet to provide an explanation for this modem difference,
+so we can only speculate for now. In 2023, <a href="https://investor.qualcomm.com/news-events/press-releases/news-details/2023/Qualcomm-Announces-Agreement-with-Apple-for-Chip-Supply-09-11-2023/default.aspx">Qualcomm announced</a>
+that it would supply Apple with smartphone modems through 2026, so
+perhaps Apple is equipping the U.S. version of the iPhone 18 Pro
+Max with a Qualcomm modem in order to honor this agreement in a
+minimum way.</p>
+
+<p>Apple’s C2 modem supports ultra-fast mmWave 5G in the U.S., unlike
+its previous-generation C1 and C1X modems. Qualcomm modems in the
+iPhone 12 and newer already supported mmWave 5G in the U.S., so
+Apple is playing catch up here. Apple said the C2 delivers
+“meaningfully faster uploads” compared to the C1X while consuming
+15% less energy.</p>
+</blockquote>
+
+<p>I’d say Apple <em>played</em> catch-up here, past tense. They caught up in terms of support for mmWave. And ever since the C1 first shipped <a href="https://daringfireball.net/2025/02/the_iphone_16e">with the iPhone 16e in early 2025</a>, Apple has been noticeably <em>ahead</em> of Qualcomm on energy efficiency.</p>
+
+<p>Apple isn’t explaining why the U.S. iPhone 18 Pro Max models are the only 18 Pro models worldwide using Qualcomm modems, but I think Rossignol’s explanation must basically be it: they needed to use it in <em>some</em> models in order to minimally comply with their 2023 contract with Qualcomm.</p>
+
+<div>
+<a  title="Permanent link to ‘Why Do U.S. Models of the iPhone 18 Pro Max, and Only U.S. Models of the 18 Pro Max, Use Qualcomm Cellular Modems Instead of Apple’s Own Superior C2 Modem?’"  href="https://daringfireball.net/linked/2026/09/17/iphone-18-pro-c2-vs-qualcomm-modems">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps</title>
 	<link rel="alternate" type="text/html" href="https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xkd" />
@@ -134,7 +178,7 @@ testing. Yes, you read that correctly: iOS 27.2, not iOS 27.1.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/16/airpods-5-magsafe" />
 	<id>tag:daringfireball.net,2026:/linked//6.43497</id>
 	<published>2026-09-16T14:35:49Z</published>
-	<updated>2026-09-16T21:19:08Z</updated>
+	<updated>2026-09-17T13:42:22Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -148,7 +192,7 @@ testing. Yes, you read that correctly: iOS 27.2, not iOS 27.1.</p>
 
 <p>That’s because for Apple, true MagSafe compatibility means magnetic attachment. The AirPods 5 case doesn’t have MagSafe magnets (the case is seemingly too small), only magnets for the Apple Watch puck. AirPods Pro cases have magnets to attach to both pucks. So when you charge AirPods Pro with MagSafe, they snap to the puck. I can snap my AirPods Pro 3 case onto a nearly vertical MagSafe charger, like <a href="https://nomadgoods.com/products/stand-one-4th-gen-carbide">the Nomad Stand One</a> I keep next to my keyboard. (Great product — you should get one. I have two; the other is on my nightstand.) I can’t charge the AirPods 5 case on that stand because it just falls off.</p>
 
-<p>But if I lay the AirPods 5 case on a horizontal MagSafe puck, it charges just fine. That’s because MagSafe pucks are themselves Qi-compatible. I see why Apple is a stickler for this — the “mag” in MagSafe carries an obvious meaning — but by not mentioning MagSafe at all it’s reasonable to draw the conclusion that the AirPods 5 Wireless Charging Case doesn’t work with MagSafe at all.</p>
+<p>But if I lay the AirPods 5 case on a horizontal MagSafe puck, it charges just fine. That’s because MagSafe pucks are themselves Qi-compatible. I see why Apple is a stickler for this — the “Mag” in MagSafe carries an obvious meaning — but by not mentioning MagSafe, it’s reasonable to draw the conclusion that the AirPods 5 Wireless Charging Case doesn’t work with MagSafe at all.</p>
 
 <div>
 <a  title="Permanent link to ‘AirPods 5 With Wireless Charging Case Works With MagSafe, But Not Magnetically’"  href="https://daringfireball.net/linked/2026/09/16/airpods-5-magsafe">&nbsp;★&nbsp;</a>
@@ -243,7 +287,7 @@ tackle the effects of AI.</p>
 	<link rel="shorturl" href="http://df4.us/xk6" />
 	<id>tag:daringfireball.net,2026://1.43494</id>
 	<published>2026-09-15T17:54:09Z</published>
-	<updated>2026-09-16T01:58:14Z</updated>
+	<updated>2026-09-17T14:31:03Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -422,7 +466,7 @@ old tapping and swiping, it’ll be a phone.</p>
 
 <p>It’s worth pointing out here that coincident with the announcement of the iPhones 18 Pro and Duo on Wednesday, <a href="https://www.macrumors.com/2026/09/09/apple-raises-iphone-17-prices/">Apple raised the prices of all existing iPhones in its lineup</a> by the same amounts, depending on storage — $100 for models with 128, 256, or 512 GB storage; and $300 for the iPhone Air with 1 TB.</p>
 
-<p>Technically, the iPhone 18 Pro mostly offers three new things compared to the 17 Pro: the A20 Pro SoC (faster cores, two Neural Engines instead of one, and 50% faster memory bandwidth); variable aperture on the 1× main camera, ranging from ƒ1.48 to ƒ4.0; and an all-new thermal management system, including a much larger vapor chamber. The A20 Pro means peak performance is faster; the new thermal system allows it to maintain peak performance longer.</p>
+<p>Technically, the iPhone 18 Pro mostly offers three new things compared to the 17 Pro: the A20 Pro SoC (faster cores, two Neural Engines instead of one, and 50% faster memory bandwidth); variable aperture on the 1× main camera, ranging from ƒ/1.48 to ƒ/4.0; and an all-new thermal management system, including a much larger vapor chamber. The A20 Pro means peak performance is faster; the new thermal system allows it to maintain peak performance longer.</p>
 
 <p>In a curious decision, the regular-sized 18 Pro models ship with Apple’s C2 cellular modem worldwide, but the <a href="https://www.macrumors.com/2026/09/12/iphone-18-pro-max-us-model-difference/">18 Pro Max models use a Qualcomm modem in the U.S.</a>, and <a href="https://x.com/LelloucheNico/status/2098370012570333689">the C2 everywhere else</a>. Apple’s C-series modems are power efficiency marvels, with (in my experience) just as good reception and speed. I’d be just ever so slightly bummed about this if I were a Pro Max fan in the US.</p>
 
@@ -2031,54 +2075,6 @@ said. He will also join Adobe’s board.</p>
 
 <div>
 <a  title="Permanent link to ‘Adobe Names Anil Chakravarthy as CEO, Replacing Shantanu Narayen’"  href="https://daringfireball.net/linked/2026/09/04/adobe-new-ceo">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>NBA Brings the Hammer on the Clippers — $30 Million Fine, 5 First-Round Draft Picks, and Steve Ballmer Is Banned for a Year</title>
-	<link rel="alternate" type="text/html" href="https://www.nytimes.com/athletic/7513882/2026/09/02/clippers-kawhi-leonard-punishment-fine-suspensions-nba-investigation/?unlocked_article_code=1.-lA.wcSN.awOHwzojR5nR" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xj4" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/04/nba-clippers-ballmer" />
-	<id>tag:daringfireball.net,2026:/linked//6.43456</id>
-	<published>2026-09-04T23:23:34Z</published>
-	<updated>2026-09-04T23:28:14Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Mike Vorkunov, reporting for The Athletic (gift link):</p>
-
-<blockquote>
-  <p>The NBA <a href="https://pr.nba.com/nba-investigation-clippers-kawhi-leonard/">levied the largest punishment in league history</a> on the LA
-Clippers and owner Steve Ballmer on Wednesday after a year-long
-investigation determined that they circumvented the league’s
-salary cap rules to help funnel millions to Kawhi Leonard. The
-Clippers will lose five first-round picks — selections in 2029,
-2030, 2031, 2032 and 2033 — and are being fined $30 million, the
-league announced.</p>
-
-<p>Ballmer has been suspended for one year, the NBA said, “for
-knowingly seeking to help Mr. Leonard obtain off-court income
-opportunities.” The NBA said Ballmer approved a Clippers deal with
-Aspiration because he knew it was a precondition for the company
-to enter into a sponsorship deal with Leonard.</p>
-
-<p>The Clippers, according to NBA investigators, tried to evade NBA
-rules on circumvention by creating a “novel theory” that it was OK
-to introduce business partners to players if the player or their
-representative asked for introductions. The NBA did not find that
-persuasive.</p>
-</blockquote>
-
-<p>Basically Steve Ballmer invested over $50 million in a now-bankrupt startup named Aspiration. Aspiration was the jersey-patch sponsor for the Clippers, and after Leonard signed with the Clippers, Aspiration signed Leonard to a $28 million no-show “endorsement” deal. Leonard asked for, and then received, more money than his on-the-books salary. </p>
-
-<p>It’s a classic Microsoft dirty-tricks move to circumvent the NBA’s player salary cap. There’s nothing illegal about what Ballmer and the Clippers did. They violated league rules, not the law. The difference is that the NBA is a league with a strong commissioner’s office that can investigate cheating and impose serious penalties. If tech companies were teams in a similar league, Microsoft would have been fined dozens of times throughout the ’80s and ’90s and ’00s. Ballmer would have been suspended multiple times and Bill Gates would have been suspended so many times he probably would have been kicked out of the league. If there was anything underhanded Microsoft could do to get ahead — or to stick the knife in a competitor — they did it.</p>
-
-<p>That worked out fabulously well for Microsoft. It doesn’t work in the NBA. The Clippers remain a loser franchise that not only has never won a title, but has never even appeared in the Finals. Losing a first-round draft pick each year from 2029–2033 (inclusive) certainly won’t help get them off the schneid.</p>
-
-<div>
-<a  title="Permanent link to ‘NBA Brings the Hammer on the Clippers — $30 Million Fine, 5 First-Round Draft Picks, and Steve Ballmer Is Banned for a Year’"  href="https://daringfireball.net/linked/2026/09/04/nba-clippers-ballmer">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
