@@ -7,14 +7,74 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-09-20T15:56:36Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-09-20T17:52:15Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>WorkOS: How SSO Works and the Fastest Way to Add It</title>
+	<link rel="alternate" type="text/html" href="https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xku" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/20/workos-sso" />
+	<id>tag:daringfireball.net,2026:/linked//6.43518</id>
+	<published>2026-09-20T17:35:31Z</published>
+	<updated>2026-09-20T17:36:26Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks to WorkOS for sponsoring this last week — a big week — at DF.</p>
+
+<p>SSO is table stakes for enterprise deals, but building it into your app yourself means writing SAML controllers, parsing XML assertions, and handling IdP-specific quirks for each provider. Learn how SAML flows work, the tradeoffs between building or buying, and best practices for security, routing, and UX.</p>
+
+<p>Or, skip the hassle and add SSO with <a href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026">WorkOS</a>. Read <a href="https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026">their developer’s guide to learn more</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS: How SSO Works and the Fastest Way to Add It’"  href="https://daringfireball.net/linked/2026/09/20/workos-sso">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>GM Revives CarPlay for 2027 Trucks</title>
+	<link rel="alternate" type="text/html" href="https://www.autoweek.com/news/a73761352/gm-revives-apple-carplay-for-2027-chevy-silverado-gmc-sierra/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xkv" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/20/gm-carplay-never-mind" />
+	<id>tag:daringfireball.net,2026:/linked//6.43519</id>
+	<published>2026-09-20T17:30:00Z</published>
+	<updated>2026-09-20T17:52:15Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Natalie Neff, Autoweek:</p>
+
+<blockquote>
+  <p>General Motors is reversing course after having begun to remove
+Apple CarPlay from its vehicles, showing off instead a redesigned
+infotainment interface for the 2027 Chevrolet Silverado and GMC
+Sierra pickups that melds the smartphone apps with the truck’s
+native vehicle controls on the same screen.</p>
+
+<p>The new system, which will roll out later this year, marks a
+significant walk-back after the automaker faced widespread
+criticism for removing Apple CarPlay and Android Auto from its
+Ultium-based electric vehicles beginning with the 2024 Chevrolet
+Blazer EV.</p>
+</blockquote>
+
+<p>One of the dumbest own goals in recent memory. Tesla gets away with not supporting CarPlay because they created their own system that’s so good that many Tesla owners prefer it, or, at least find it good enough as an alternative. GM tried to replace CarPlay with a system that no one liked.</p>
+
+<div>
+<a  title="Permanent link to ‘GM Revives CarPlay for 2027 Trucks’"  href="https://daringfireball.net/linked/2026/09/20/gm-carplay-never-mind">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Marques Brownlee’s iPhone 18 Pro Review</title>
 	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ohqxP8EEumo" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xkt" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/20/mkbhd-iphone-18-pro" />
 	<id>tag:daringfireball.net,2026:/linked//6.43517</id>
 	<published>2026-09-20T15:35:55Z</published>
-	<updated>2026-09-20T15:56:36Z</updated>
+	<updated>2026-09-20T16:29:57Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -22,7 +82,7 @@
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
 <p>He takes the same “<em>this is pretty much exactly what Apple used to label an ‘S’ year</em>” angle I did, so, unsurprisingly, I think his review is spot-on. Brownlee emphasizes one point that I should have, but didn’t: according to Apple’s published specs, the regular iPhone 18 Pro gets longer battery life than the iPhone 17 Pro Max. That’s just a year-over-year spec that anyone can understand, for an attribute that everyone cares about.</p>
 
-<p><strong>Sidenote, per that point:</strong> Brownlee wonders why Apple still refuses to publish the capacities of iPhone batteries in mAh. We eventually find out when people take new iPhones apart, so why not publish the numbers? Brownlee only mentions batteries but I’ll point out that Apple still does the same thing with RAM. There is no spec on the tech specs page for any iPhone telling you how much RAM it has. In some ways this is a little silly, but the way Apple thinks about it is that they only publish specs that they think are useful for comparison. Storage is useful for comparison, so Apple dutifully publishes storage capacities. In fact that the spec by which they price higher tiers. Battery <em>life</em> is useful for comparison, so Apple publishes that as a spec, based on multiple use cases. But mAh capacity of the battery, to Apple’s mind, isn’t useful for comparison. Not for comparison to Android phones, especially, and not even for comparison to other iPhone models. If they published a spec that says iPhone A has a 4,000 mAh battery and some Samsung phone has a 5,000 mAh battery, one could conclude that the Samsung phone “wins”. Obviously a bigger battery leads to longer battery life, but battery capacity alone doesn’t tell the battery life story for any device. The main reason that the year-over-year iPhone Pro battery life has improved so much that the regular iPhone 18 Pro gets longer battery life than the 17 Pro Max isn’t related to battery size — it’s the increased efficiency of the A20 Pro SoC (and perhaps secondarily the improved thermal system). Same thing for RAM. To Apple’s mind, iPhones perform much better with less physical RAM than Android phones do, so they don’t think RAM-vs.-RAM is a useful comparison. In fact, they think looking at RAM would be misleading. So they don’t publish it. They know that those of us who care are going to learn how much RAM is in these phones (12 GB, just like last year’s 17 Pro models), and how big the batteries are in mAh. But they’re only going to list the specs that they think are useful for comparison purposes.</p>
+<p><strong>Sidenote, per that point:</strong> Brownlee wonders why Apple still refuses to publish the capacities of iPhone batteries in mAh. We eventually find out when people take new iPhones apart, so why not publish the numbers? Brownlee only mentions batteries but I’ll point out that Apple still does the same thing with RAM. There is no spec on the tech specs page for any iPhone telling you how much RAM it has. In some ways this is a little silly, but the way Apple thinks about it is that they only publish specs that they think are useful for comparison. Storage is useful for comparison, so Apple dutifully publishes storage capacities. In fact that is the spec by which they price higher tiers. Battery <em>life</em> is useful for comparison, so Apple publishes that as a spec, based on multiple use cases. But mAh capacity of the battery, to Apple’s mind, isn’t useful for comparison. Not for comparison to Android phones, especially, and not even for comparison to other iPhone models. If they published a spec that says iPhone A has a 4,000 mAh battery and some Samsung phone has a 5,000 mAh battery, one could conclude that the Samsung phone “wins”. Obviously a bigger battery leads to longer battery life, but battery capacity alone doesn’t tell the battery life story for any device. The main reason that the year-over-year iPhone Pro battery life has improved so much that the regular iPhone 18 Pro gets longer battery life than the 17 Pro Max isn’t related to battery size — it’s the increased efficiency of the A20 Pro SoC (and perhaps secondarily the improved thermal system). Same thing for RAM. To Apple’s mind, iPhones perform much better with less physical RAM than Android phones do, so they don’t think RAM-vs.-RAM is a useful comparison. In fact, they think looking at RAM would be misleading. So they don’t publish it. They know that those of us who care are going to learn how much RAM is in these phones (12 GB, just like last year’s 17 Pro models), and how big the batteries are in mAh. But they’re only going to list the specs that they think are useful for comparison purposes.</p>
 
 <div>
 <a  title="Permanent link to ‘Marques Brownlee’s iPhone 18 Pro Review’"  href="https://daringfireball.net/linked/2026/09/20/mkbhd-iphone-18-pro">&nbsp;★&nbsp;</a>
@@ -433,7 +493,7 @@ true exposure, which is why we’re making this update!</p>
 	<link rel="shorturl" href="http://df4.us/xkf" />
 	<id>tag:daringfireball.net,2026://1.43503</id>
 	<published>2026-09-18T02:05:11Z</published>
-	<updated>2026-09-18T16:40:20Z</updated>
+	<updated>2026-09-20T17:44:02Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -460,9 +520,9 @@ true exposure, which is why we’re making this update!</p>
 | 11. | [iPhone X]      | 2017 | Holy shit redux
 | 12. | [iPhone XS]     | 2018 |
 | 13. | [iPhone 11 Pro] | 2019 | 3rd camera
-| 14. | [iPhone 12 Pro] | 2020 |
-| 15. | [iPhone 13 Pro] | 2021 |
-| 16. | [iPhone 14 Pro] | 2022 |
+| 14. | [iPhone 12 Pro] | 2020 | MagSafe
+| 15. | [iPhone 13 Pro] | 2021 | ProMotion
+| 16. | [iPhone 14 Pro] | 2022 | Notch → Dynamic Island
 | 17. | [iPhone 15 Pro] | 2023 | Pro video, USB-C, Action button
 | 18. | [iPhone 16 Pro] | 2024 | Camera Control button
 | 19. | [iPhone 17 Pro] | 2025 | Camera plateau expands, Ceramic Shield 2
@@ -568,19 +628,19 @@ table th {
   <td align="right">14.</td>
   <td align="left"><a href="https://daringfireball.net/2020/10/the_iphone_12_and_iphone_12_pro">iPhone 12 Pro</a></td>
   <td align="left">2020</td>
-  <td align="left"></td>
+  <td align="left">MagSafe</td>
 </tr>
 <tr>
   <td align="right">15.</td>
   <td align="left"><a href="https://daringfireball.net/2021/09/the_iphones_13">iPhone 13 Pro</a></td>
   <td align="left">2021</td>
-  <td align="left"></td>
+  <td align="left">ProMotion</td>
 </tr>
 <tr>
   <td align="right">16.</td>
   <td align="left"><a href="https://daringfireball.net/2022/09/the_iphones_14_pro">iPhone 14 Pro</a></td>
   <td align="left">2022</td>
-  <td align="left"></td>
+  <td align="left">Notch → Dynamic Island</td>
 </tr>
 <tr>
   <td align="right">17.</td>
@@ -2347,69 +2407,6 @@ iPhone 17 Pro Max    78mm     163mm     8.75mm     233g
 
 	]]></content>
 	<title>[Sponsor] Glyphs 4</title></entry><entry>
-	<title>Trackables 1.5</title>
-	<link rel="alternate" type="text/html" href="https://trackables.app/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xjj" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/07/trackables" />
-	<id>tag:daringfireball.net,2026:/linked//6.43471</id>
-	<published>2026-09-07T22:01:27Z</published>
-	<updated>2026-09-07T22:02:33Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Trackables:</p>
-
-<blockquote>
-  <p>There are plenty of health tracking apps. Surprisingly, nearly all
-of them are bloated, subscription-gated, or blatantly harvesting
-our data; often all three. We wanted something simpler, less
-annoying and more fun, that’s where it started.</p>
-
-<p>Trackables turns the data your Apple Watch already collects — activity, sleep, steps, heart rate — into a clear, friendly,
-transparent interface.</p>
-</blockquote>
-
-<p>Totally free of charge, totally private, made by a small team of ex-Apple folks. (They might add a paid tier in the future, but core functionality will remain free.) I’ve been using Trackables for months and it’s just a better dashboard to the stats I care about than the Health app itself.</p>
-
-<p>(One interesting detail: HealthKit only makes raw data available to apps. Apple Health’s “sleep score” isn’t part of that data — only the raw input, like how many hours you slept, and how much time was spent in each sleep stage. So Trackables computes its own sleep score. When I bother to compare, Trackable’s score is almost always similar to Apple’s, but seldom exactly the same. But I personally find that Trackable’s sleep score corresponds better to how I feel I slept. Which, admittedly, is <a href="https://mastodon.social/@gruber/116137135641505082">usually pretty good</a>.)</p>
-
-<div>
-<a  title="Permanent link to ‘Trackables 1.5’"  href="https://daringfireball.net/linked/2026/09/07/trackables">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>The Onion’s Exclusive Interview With Larry Ellison</title>
-	<link rel="alternate" type="text/html" href="https://theonion.com/the-onions-exclusive-interview-with-larry-ellison/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xjh" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/07/onion-ellison" />
-	<id>tag:daringfireball.net,2026:/linked//6.43469</id>
-	<published>2026-09-07T20:09:27Z</published>
-	<updated>2026-09-07T21:30:19Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>The Onion:</p>
-
-<blockquote>
-  <p><em>The Onion: How did you get into the entertainment industry?</em></p>
-
-<p>Ellison: I remember going to the movies as a kid, and when the
-houselights went down and that hush fell over the crowd, I’d
-think to myself: I’d like to build a massive propaganda apparatus
-one day.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘The Onion’s Exclusive Interview With Larry Ellison’"  href="https://daringfireball.net/linked/2026/09/07/onion-ellison">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/09/its_true_that_i_stole_your_lighter" />
 	<link rel="shorturl" href="http://df4.us/xjf" />
