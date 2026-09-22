@@ -7,7 +7,57 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-09-21T22:04:42Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-09-21T23:04:15Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	
+	<link rel="alternate" type="text/html" href="https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF" />
+	<link rel="shorturl" href="http://df4.us/xl6" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2026/09/mux_turn_your_video_into_conte" />
+	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.43530</id>
+	<author><name>Daring Fireball Department of Commerce</name></author>
+	<published>2026-09-21T23:04:15Z</published>
+	<updated>2026-09-21T23:04:15Z</updated>
+	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
+<p>Video isn’t just something to stream; it’s structured data you build with.</p>
+
+<p>Mux Robots, hosted AI workflows, turns video into context. Generate chapters, find key moments, translate audio, and more, through one API call, with no model hosting to maintain. Each workflow is evaluated against real video, not generic benchmarks. Configure the workflows once, and every new upload runs automatically.</p>
+
+<p>Mux is video infrastructure trusted by Patreon, Substack, and Perplexity. Start building for free. Use code <strong>FIREBALL</strong> for an extra $50 credit.</p>
+
+<div>
+<a  title="Permanent link to ‘Mux: Turn Your Video Into Context’"  href="https://daringfireball.net/feeds/sponsors/2026/09/mux_turn_your_video_into_conte">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+	<title>[Sponsor] Mux: Turn Your Video Into Context</title></entry><entry>
+	<title>Lex Friedman Brings Back Strategery</title>
+	<link rel="alternate" type="text/html" href="https://lexontech.org/strategery-is-back-and-im-the-developer" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xl5" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/21/strategery-friedman" />
+	<id>tag:daringfireball.net,2026:/linked//6.43529</id>
+	<published>2026-09-21T22:52:44Z</published>
+	<updated>2026-09-21T23:02:53Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>I first recommended Strategery <a href="https://daringfireball.net/linked/2009/05/04/strategery">back in May 2009</a>, including a link to <a href="https://www.macworld.com/article/196162/strategery.html">Friedman’s review at Macworld</a>. I described it thus:</p>
+
+<blockquote>
+  <p>Strategery is a beautiful $2 Risk-like strategy game for the
+iPhone. Lots of fun and the gameplay has a great feel.</p>
+</blockquote>
+
+<p>Still lots of fun and still has a great feel. <a href="https://strategerygame.com/app">It now costs $5</a>, but, if you’re an existing user — even if you only paid $2 back when I told you to 17 years ago — it’s a free update. And it’s a great story: the original Strategery game <a href="https://mastodon.social/@jimray/117138792023999673">finally gave up the compatibility ghost with iOS 27</a>. Friedman made his own version of the game, including multiplayer support, but before releasing it on his own under a new name, he reached out to the original developers and it turns out everyone was happy to make a deal. Sometimes all you need to do is ask.</p>
+
+<p>(First thing you should do after installing the new version is go into settings and turn on “Classic Hex Edges”. The default style — Lex edges? — doesn’t look right.)</p>
+
+<div>
+<a  title="Permanent link to ‘Lex Friedman Brings Back Strategery’"  href="https://daringfireball.net/linked/2026/09/21/strategery-friedman">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>GM Confirms They’re Still Smoking Crack</title>
 	<link rel="alternate" type="text/html" href="https://x.com/JoannaStern/status/2102105565195288859" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xl4" />
@@ -2206,47 +2256,6 @@ clearer why many shouldn’t.</p>
 
 	]]></content>
   </entry><entry>
-	<title>T-Mobile Is Charging $5/Month for iPhone Handoff</title>
-	<link rel="alternate" type="text/html" href="https://www.t-mobile.com/news/devices/iphone-18-pro-iphone-duo-apple-watch-release" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xjw" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/12/tmobile-iphone-handoff-price-gauging" />
-	<id>tag:daringfireball.net,2026:/linked//6.43484</id>
-	<published>2026-09-12T15:24:09Z</published>
-	<updated>2026-09-12T15:26:12Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>T-Mobile, in their iPhone 18 Pro / iPhone Duo press release:</p>
-
-<blockquote>
-  <p>Plus, T‑Mobile is one of the first to support Apple’s new <a href="https://www.t-mobile.com/devices/new-apple-iphone-release">iPhone
-Handoff</a> feature, where customers with two compatible iPhone
-models can use their T‑Mobile number across both devices and
-choose which phone is active at any given time. The secondary
-iPhone works seamlessly, including essential T‑Mobile services
-like calls, texts, data, mobile hotspot, Scam Shield and
-T-Satellite on eligible plans, allowing customers to get the most
-from two devices without clunky handoffs or the hassle of managing
-another number. iPhone Handoff is available on any iPhone with iOS
-27 via iPhone settings and ready to use from day one on the new
-iPhone 18 Pro lineup and iPhone Duo. T‑Mobile is introducing the
-feature at $5/month.</p>
-</blockquote>
-
-<p>This seems like a ridiculous thing to charge for. It’s not adding a separate device to your plan, like adding a cellular iPad or even an Apple Watch. It’s just switching your active eSIM between two iPhones. You can do this for free, now, on any carrier via Settings → Cellular — but it takes a bunch of taps, confirmation on both iPhones, and a few minutes for the carrier to register the eSIM transfer. iPhone Handoff just eliminates all the annoying friction and waiting.</p>
-
-<p>But, it’s utterly unsurprising that a carrier will charge a ridiculous monthly fee. I’ll be very surprised (pleasantly) if Verizon doesn’t do the same. <a href="https://daringfireball.net/linked/2026/01/16/verizon-20-bucks">Verizon charges for <em>everything</em></a>.</p>
-
-<p>Still curious to me why AT&amp;T isn’t yet announced as supporting iPhone Handoff at all. I have no idea why anyone remains on that turd of a network unless they live or work in a location where only AT&amp;T provides a good signal, but even then, if it were me, I’d use AT&amp;T by way of <a href="https://www.usmobile.com/blog/darkstar-is-here/">US Mobile</a>. AT&amp;T is the worst company I’ve ever dealt with, and I live in <a href="https://www.vulture.com/2011/01/30_rock_kabletown_nbc.html">Kabletown</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘T-Mobile Is Charging $5/Month for iPhone Handoff’"  href="https://daringfireball.net/linked/2026/09/12/tmobile-iphone-handoff-price-gauging">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/09/the_iphone_air_and_iphone_17_pro" />
 	<link rel="shorturl" href="http://df4.us/xjn" />
@@ -2388,25 +2397,6 @@ iPhone 17 Pro Max    78mm     163mm     8.75mm     233g
 
     ]]></content>
   <title>★ SuperDuper 4</title></entry><entry>
-	
-	<link rel="alternate" type="text/html" href="https://glyphsapp.com/" />
-	<link rel="shorturl" href="http://df4.us/xjk" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2026/09/glyphs_4" />
-	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.43472</id>
-	<author><name>Daring Fireball Department of Commerce</name></author>
-	<published>2026-09-07T22:16:26Z</published>
-	<updated>2026-09-07T22:16:27Z</updated>
-	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
-<p>Glyphs 4 is here: a Mac-native app for creating fonts, lettering, icons, and pictograms. Draw with flexible strokes and efficiently reuse shapes across huge glyph sets, explore variable vector designs with complex higher-order interpolation. Build and manage massive font families and icon sets with ease, export all modern font formats, SVG, PNG and PDF. Hundreds of refinements and native Tahoe support make designing, testing and shipping your vectors smoother than ever. Glyphs 4: Create. Love the process.</p>
-
-<p><a href="https://glyphsapp.com/">Discover Glyphs 4</a>, and use code <strong>FIREBALL</strong> to save $30 if you purchase in the next month.</p>
-
-<div>
-<a  title="Permanent link to ‘Glyphs 4’"  href="https://daringfireball.net/feeds/sponsors/2026/09/glyphs_4">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-	<title>[Sponsor] Glyphs 4</title></entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/09/its_true_that_i_stole_your_lighter" />
 	<link rel="shorturl" href="http://df4.us/xjf" />
