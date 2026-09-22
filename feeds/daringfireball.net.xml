@@ -7,7 +7,190 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-09-22T19:25:53Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-09-22T22:34:32Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Meta’s New Muse AI Agent Read Jason Aten’s Messages Database</title>
+	<link rel="alternate" type="text/html" href="https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xlc" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/22/aten-muse" />
+	<id>tag:daringfireball.net,2026:/linked//6.43536</id>
+	<published>2026-09-22T21:26:24Z</published>
+	<updated>2026-09-22T22:34:32Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jason Aten, writing for Inc:</p>
+
+<blockquote>
+  <p>Then, yesterday, I was having a conversation with my Primary
+Technology podcast co-host, Stephen Robles, about the new
+iPhones. Moments later, I got a push notification from Muse
+suggesting that the conversation we were having would make for a
+good column and offered to put together research for me to write
+about. It even flagged a message from my editor about having a
+column ready for Monday.</p>
+
+<p>Not only had I not asked it to do that sort of thing, I never gave
+it permission to read my messages. In fact, I remember explicitly
+choosing not to let it have access to my messages, calendar, and
+other personal information.</p>
+
+<p>Stranger still was what happened when I asked Muse how it knew.</p>
+</blockquote>
+
+<p>Like I <a href="https://www.threads.com/share/JLXMWFkcA/">told Aten on Threads</a>, Muse was right about one thing: it did give him a good idea for a column. Later on, Aten writes:</p>
+
+<blockquote>
+  <p>I also want to be clear about something else: If your response
+to this is that, of course, Meta would do this — it’s Meta — you are just letting them off the hook. You’re normalizing
+behavior that should not be normal, and you should not let them
+off the hook.</p>
+</blockquote>
+
+<p>My response to this is a little more complex than that. At the top level, this is why I don’t run any AI agents, from any source, on my production/work Macs where all my personal information and communication apps are. And if I eventually do, I’ll pay surgical attention to the permissions I grant them.</p>
+
+<p>But at a second level, I do think “Of course Meta would do this”. If I were going to run an AI agent on my personal Mac today, Meta’s would be among the last I’d choose. They’re the proverbial scorpion and <a href="https://en.wikipedia.org/wiki/The_Scorpion_and_the_Frog">we’re the frogs</a>. I’m genuinely curious about Muse, and might soon try it — but I’ll try it on a machine without most of my data on it. This isn’t “letting them off the hook” — this is keeping Meta on the hook, where they belong.</p>
+
+<div>
+<a  title="Permanent link to ‘Meta’s New Muse AI Agent Read Jason Aten’s Messages Database’"  href="https://daringfireball.net/linked/2026/09/22/aten-muse">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Why Didn’t Google Build Muse?</title>
+	<link rel="alternate" type="text/html" href="https://spyglass.org/why-didnt-google-build-muse/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xlb" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/22/why-didnt-google-build-muse" />
+	<id>tag:daringfireball.net,2026:/linked//6.43535</id>
+	<published>2026-09-22T20:51:12Z</published>
+	<updated>2026-09-22T20:55:11Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>MG Siegler, writing at Spyglass:</p>
+
+<blockquote>
+  <p>The number one response I’ve gotten to <a href="https://spyglass.org/metas-amusing-muse/">my thoughts on Meta’s Muse
+personal assistant agent</a> is some variation of “I will never
+trust Meta with my data.” But the number two response is arguably
+more interesting (and related): “Why didn’t Google build this?”</p>
+
+<p>The short answer to this is undoubtedly: they’re working on it.
+But the longer answer is probably more interesting here too.</p>
+</blockquote>
+
+<p>Siegler’s take is basically that Google lacks focus. They’ve got multiple AI agent products, none of which are hitting — which as he points out <a href="https://www.theverge.com/2021/6/21/22538240/google-chat-allo-hangouts-talk-messaging-mess-timeline">has been their decades-long problem with messaging apps</a>. Say what you want about Meta as a company and Mark Zuckerberg as a leader, but they (and he) have focus. <a href="https://daringfireball.net/linked/2025/04/28/om-malik-facebook-rename">I make fun of them</a> (and him) for going all-in on “the metaverse” only to lose all interest in it just a few years later, but to play devil’s advocate, that’s how focus works.</p>
+
+<div>
+<a  title="Permanent link to ‘Why Didn’t Google Build Muse?’"  href="https://daringfireball.net/linked/2026/09/22/why-didnt-google-build-muse">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Amazon Blocks Meta’s Muse AI Assistant</title>
+	<link rel="alternate" type="text/html" href="https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xla" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/22/amazon-blocks-muse" />
+	<id>tag:daringfireball.net,2026:/linked//6.43534</id>
+	<published>2026-09-22T20:43:32Z</published>
+	<updated>2026-09-22T20:43:32Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Todd Bishop, reporting at GeekWire:</p>
+
+<blockquote>
+  <p>Amazon says it has cut off Meta’s new Muse personal AI agent from
+shopping on Amazon.com on behalf of customers, after attempting
+unsuccessfully to get the Facebook parent company to voluntarily
+exclude the e-commerce site from the experience.</p>
+
+<p>The problem, Amazon says, is that it never agreed to any of it.
+Meta didn’t tell Amazon that Muse would access its store, the
+agent doesn’t identify itself when it browses, and it appears to
+capture and store customer credentials, which the company says
+could create privacy and security risks.</p>
+
+<p>As of Sunday night, people trying to use Muse to shop on Amazon
+were seeing the popup, “Continued access by an unauthorized AI
+agent violates Amazon’s Conditions of Use, to which our customers
+have agreed.”</p>
+</blockquote>
+
+<p>On the one hand, Muse is software, and Amazon cutting off an unauthorized software client from accessing its store seems like a normal thing for Amazon to do. I suspect Meta has protections in place to prevent other agents from acting as clients for Instagram or Facebook.</p>
+
+<p>But on the other hand, an agent is an agent. If I hired a human personal assistant and told them to buy some stuff at Amazon for me, they’d just do it, and Amazon wouldn’t — and seemingly couldn’t — stop it. How is Muse different than that other than the fact it’s an AI assistant, not a human one? I’m sure Amazon’s answer is that they don’t care about the philosophical debate; they’re not going to sit back and let Meta software spider their store and aggregate purchasing data.</p>
+
+<div>
+<a  title="Permanent link to ‘Amazon Blocks Meta’s Muse AI Assistant’"  href="https://daringfireball.net/linked/2026/09/22/amazon-blocks-muse">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Meta’s New Muse AI Agent App Overtakes ChatGPT as Top iPhone App</title>
+	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/09/18/metas-new-muse-ai-agent-app-overtakes-chatgpt-as-top-iphone-app/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xl9" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/22/meta-muse-app-store" />
+	<id>tag:daringfireball.net,2026:/linked//6.43533</id>
+	<published>2026-09-22T20:12:41Z</published>
+	<updated>2026-09-22T20:35:51Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Zac Hall, writing for 9to5 Mac on Friday:</p>
+
+<blockquote>
+  <p>Meta’s new Muse AI agent app has taken the top spot on the free
+iPhone charts for the U.S. App Store, displacing OpenAI’s ChatGPT
+from the first place.</p>
+
+<p>Muse by Meta only <a href="https://9to5mac.com/2026/09/17/meta-ai-launches-muse-personal-agent-including-a-new-mobile-app-for-iphone/">launched this month</a>, although the app
+has been around for a couple of weeks. This means new installs are
+picking up and boosting the app on the App Store’s top charts
+beyond the day-one launch.</p>
+
+<p>Just yesterday, Meta expanded Muse app availability to include the
+Mac. The desktop version of the app doesn’t contribute to the App
+Store ranking, however, as it’s downloadable from the web.</p>
+</blockquote>
+
+<p>Four days later and Muse <a href="https://apps.apple.com/us/iphone/charts/36?chart=top-free">still holds</a> the #1 spot in the U.S. iOS App Store. Here’s the top 15 today (with the full, sometimes insipid, name of each app, and my own commentary in brackets):</p>
+
+<ol>
+<li>Muse from Meta</li>
+<li>ChatGPT</li>
+<li>Vinted: Pre-loved marketplace [if this crap was loved why did they sell it?]</li>
+<li>StoryReel: Drama Shorts &amp; TV</li>
+<li>Google Gemini</li>
+<li>Polymarket: Trade Live Sports [trading, not gambling!]</li>
+<li>PineDrama — Short Dramas</li>
+<li>TikTok Pro — Events</li>
+<li>Depop — Buy &amp; Sell Clothes</li>
+<li>CapCut: Photo &amp; Video Editor</li>
+<li>Kalshi: Trade Football &amp; more [but the “more” is definitely not gambling!]</li>
+<li>Claude by Anthropic</li>
+<li>Google</li>
+<li>The White House</li>
+<li>Threads</li>
+</ol>
+
+<p>Hit apps come and go. Temu had been at or near the top for a long while, but now sits at #20. But ChatGPT has been at or very near the top for years now. Anthropic is on the cusp of a record-breaking IPO based on the strength of its enterprise success. #12 is nothing to sneeze at — clearly, Claude is a consumer hit. But it’s behind Gemini, and all of these apps are typically behind ChatGPT.</p>
+
+<p>The odds are that Muse won’t stay at the top for long. And eventually, ChatGPT will decline in popularity. But Muse is off to a big start. And ChatGPT’s persistence atop the App Store is quite remarkable.</p>
+
+<div>
+<a  title="Permanent link to ‘Meta’s New Muse AI Agent App Overtakes ChatGPT as Top iPhone App’"  href="https://daringfireball.net/linked/2026/09/22/meta-muse-app-store">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Xcode 27.2 Now Supports a New JSON Project File Format</title>
 	<link rel="alternate" type="text/html" href="https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xl8" />
@@ -2174,117 +2357,6 @@ leave. Port of the Litterbox Safari extension.</p>
 
 <div>
 <a  title="Permanent link to ‘Dumpster Fire – Litterbox-Inspired Extension for Firefox’"  href="https://daringfireball.net/linked/2026/09/14/dumpster-fire">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>XCancel Shuts Down Again</title>
-	<link rel="alternate" type="text/html" href="https://xcancel.com/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xk2" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/14/xcancel-shuts-down-again" />
-	<id>tag:daringfireball.net,2026:/linked//6.43490</id>
-	<published>2026-09-14T13:24:10Z</published>
-	<updated>2026-09-14T17:22:51Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>XCancel:</p>
-
-<blockquote>
-  <p>Unfortunately, due to a new development in the ongoing legal
-proceedings, we are required to suspend this service again until
-further notice. We can’t share more details.</p>
-</blockquote>
-
-<p>Not surprised, and not sure what to make of the “can’t share more details” part. Again, if you want to avoid visiting X but want to see the content posted there linked from other sites (and, let’s admit it at this point: there’s not just a lot posted on X, it is outright resurgent in popularity), install a browser extension like <a href="https://andadinosaur.com/launch-litterbox">Litterbox</a> (Safari) or <a href="https://daringfireball.net/linked/2026/09/12/post-peek">Post Peek</a> (Chrome).</p>
-
-<div>
-<a  title="Permanent link to ‘XCancel Shuts Down Again’"  href="https://daringfireball.net/linked/2026/09/14/xcancel-shuts-down-again">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Glyphs 4</title>
-	<link rel="alternate" type="text/html" href="https://glyphsapp.com/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xk1" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/13/glyphs-4" />
-	<id>tag:daringfireball.net,2026:/linked//6.43489</id>
-	<published>2026-09-13T21:44:17Z</published>
-	<updated>2026-09-14T03:25:51Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>My thanks to Glyphs for sponsoring this last week at DF. Glyphs 4 is a truly native Mac app for creating fonts, lettering, icons, and pictograms. Glyphs lets you draw with flexible strokes and efficiently reuse shapes across huge sets of glyphs, and explore variable vector designs with complex higher-order interpolation. Glyphs lets you build and manage massive font family and icon sets with ease, and it exports all modern font formats, as well as SVG, PNG, and PDF.</p>
-
-<p>Earlier this year Glyph co-creators <a href="https://glyphsapp.com/news/frederic-w-goudy-award-2026-for-the-makers-of-glyphs">Georg Seifert and Rainer Scheichelbauer were awarded</a> the <a href="https://www.rit.edu/carycollection/rit-frederic-w-goudy-award">RIT Frederic W. Goudy Award</a> for their work on Glyphs. The list of previous winners of this prestigious award reads like a hall of fame for typography: Matthew Carter, Adrian Frutiger, Gudrun and Hermann Zapf, Robert Bringhurst, and Robert Slimbach, to name a few.</p>
-
-<p>Glyphs hits my personal interests hard. I’m deeply interested in and fascinated by typography, and nothing pleases me more than a Mac-assed Mac app. I am not, however, a typeface designer. Glyphs is so good, though, that it makes me want to be. This comment from one Glyphs user says a lot: “After using Glyphs, the pen tool in Illustrator feels like carving a chicken with a chainsaw.” In addition to Glyphs 4, the complete font editor, they also offer <a href="https://glyphsapp.com/buy">Glyphs Mini</a>, a “light-weight Mac font editor for beginners”. Their documentation is thorough, and both Glyphs 4 and Glyphs Mini have 30-day free trials. To say it’s been a pleasure to have Glyphs sponsor Daring Fireball is an understatement.</p>
-
-<p><a href="https://glyphsapp.com/">Download Glyphs 4 today</a>, and make note of a special offer just for DF readers: use code <strong>FIREBALL</strong> to save $30 if you purchase in the next month.</p>
-
-<div>
-<a  title="Permanent link to ‘Glyphs 4’"  href="https://daringfireball.net/linked/2026/09/13/glyphs-4">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Unread 5.0</title>
-	<link rel="alternate" type="text/html" href="https://www.goldenhillsoftware.com/2026/09/unread-50/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xk0" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/12/unread-5" />
-	<id>tag:daringfireball.net,2026:/linked//6.43488</id>
-	<published>2026-09-12T19:27:37Z</published>
-	<updated>2026-09-12T19:28:19Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>John Brayton:</p>
-
-<blockquote>
-  <p>Unread 5.0 is <a href="https://apps.apple.com/us/app/unread-an-rss-reader/id1363637349">available now from the App Store</a>. This update adds these improvements and more:</p>
-
-<ul>
-<li>Improvements around hero images, article list thumbnails, and widget thumbnails</li>
-<li>Syncing with FreshRSS and Miniflux</li>
-<li>The ability to quickly mark old articles read</li>
-</ul>
-</blockquote>
-
-<p>I’m a NetNewsWire man personally, but I’ve <a href="https://daringfireball.net/linked/2020/03/20/unread-2">long admired Unread</a> as a different, very good take on a feed reader. Just a gorgeous app. One of the very best things about RSS is that feed readers take such different shapes and approaches.</p>
-
-<div>
-<a  title="Permanent link to ‘Unread 5.0’"  href="https://daringfireball.net/linked/2026/09/12/unread-5">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Post Peek — Litterbox-Inspired Tweet Viewing Extension for Chrome</title>
-	<link rel="alternate" type="text/html" href="https://github.com/tsvb/post-peek" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xjz" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/12/post-peek" />
-	<id>tag:daringfireball.net,2026:/linked//6.43487</id>
-	<published>2026-09-12T18:05:01Z</published>
-	<updated>2026-09-12T18:05:01Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Tim VanBenschoten:</p>
-
-<blockquote>
-  <p>Post Peek is an independent, open-source project inspired by
-<a href="https://andadinosaur.com/launch-litterbox">Litterbox</a>, the Safari extension by Zhenyi Tan (And a Dinosaur).</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘Post Peek — Litterbox-Inspired Tweet Viewing Extension for Chrome’"  href="https://daringfireball.net/linked/2026/09/12/post-peek">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
