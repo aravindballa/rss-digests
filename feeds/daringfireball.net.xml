@@ -7,7 +7,58 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-09-22T15:44:45Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-09-22T19:25:53Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Xcode 27.2 Now Supports a New JSON Project File Format</title>
+	<link rel="alternate" type="text/html" href="https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xl8" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/22/xcode-json-project-files" />
+	<id>tag:daringfireball.net,2026:/linked//6.43532</id>
+	<published>2026-09-22T19:25:52Z</published>
+	<updated>2026-09-22T19:25:53Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Apple Developer:</p>
+
+<blockquote>
+  <p>Xcode now supports a JSON-based project format (.xcproj) that’s
+more readable, merge-friendly, and easier for coding agents to
+edit. Enable it in the file inspector. Projects using .xcproj also
+open in earlier versions of Xcode 27.</p>
+</blockquote>
+
+<p>Apple released, on GitHub, <a href="https://github.com/apple/xcode-project-format">a Swift library (and CLI tool)</a> for reading, writing, and manipulating this new project format. <a href="https://mjtsai.com/blog/2026/09/17/xcodes-new-xcproj-files-are-json/">Michael Tsai has a list of developer reactions</a>, where are universally positive. A sampling:</p>
+
+<p><a href="https://mastodon.social/@simonbs/117282260955657402">Simon B. Støvring</a>:</p>
+
+<blockquote>
+  <p>Developers have been screaming for a friendlier Xcode project format for years. I’m one of them.</p>
+</blockquote>
+
+<p><a href="https://mastodon.social/@tonyarnold/117283237592284302">Tony Arnold</a>:</p>
+
+<blockquote>
+  <p>I’ve been waiting for something like this for most of my career! 🎉</p>
+</blockquote>
+
+<p><a href="https://mastodon.social/@cocoaphony/117284198012341992">Rob Napier</a>:</p>
+
+<blockquote>
+  <p>It does feel like another case of “we’ve quickly done a thing to help AI that we’ve been unwilling to do for years to help humans.” I’m seeing that happen across the industry.</p>
+
+<p>It is very welcome and appreciated, and lots of thanks to the teams involved. It’s also frustrating that it took “it can help AI” to make it happen.</p>
+</blockquote>
+
+<p>The old .pbxproj project format was <em>not</em> XML; it was an old <a href="https://daringfireball.net/misc/2026/09/PropertyLists.pdf">NeXT-style “ASCII” property list</a> — a file format that is surprisingly JSON-like considering that it predates not only JSON, but JavaScript (JSON = <a href="https://www.json.org/json-en.html">JavaScript Object Notation</a>). The problem developers have long had with the old .pbxproj project file isn’t about the old plist format, but instead the way the object graph was represented in it. Everything was represented by opaque ID values; one small change in Xcode often resulted in multiple changes on different lines in the .pbxproj file. While technically that format is a human-readable (and thus LLM-readable) text file, it effectively needed to be treated as a binary file.</p>
+
+<div>
+<a  title="Permanent link to ‘Xcode 27.2 Now Supports a New JSON Project File Format’"  href="https://daringfireball.net/linked/2026/09/22/xcode-json-project-files">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Siri AI Class-Action Lawsuit Settlement Website Is Now Live</title>
 	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2026/09/20/siri-ai-settlement-website-now-live/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xl7" />
@@ -2234,44 +2285,6 @@ further notice. We can’t share more details.</p>
 
 <div>
 <a  title="Permanent link to ‘Post Peek — Litterbox-Inspired Tweet Viewing Extension for Chrome’"  href="https://daringfireball.net/linked/2026/09/12/post-peek">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Where Are the AI-Generated Killer Apps?</title>
-	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/09/12/opinion/ai-software-coding-apps.html?unlocked_article_code=1.AlE.C9EE.H2j5a1eHFUbQ&amp;smid=nytcore-ios-share" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xjy" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/12/paul-ford-ai-killer-apps" />
-	<id>tag:daringfireball.net,2026:/linked//6.43486</id>
-	<published>2026-09-12T16:23:57Z</published>
-	<updated>2026-09-12T16:25:41Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Paul Ford, writing for The New York Times (gift link):</p>
-
-<blockquote>
-  <p>For a while, I must admit, it looked as if software developer
-roles like mine were done for. How could we fight against tireless
-robots? But our industry is slowly realizing that making truly
-cutting-edge software still requires humans to think and work
-together, to maximize their skill sets and to practice their
-respective crafts. A.I. can write very good software, but it also
-makes it easy to do someone else’s job badly, which is part of why
-all those projects fail. Now that everyone can code, it’s become
-clearer why many shouldn’t.</p>
-</blockquote>
-
-<p>Ford, <a href="https://bsky.app/profile/ftrain.bsky.social/post/3mvd5gb4as22r">linking to his own column on Bluesky</a>:</p>
-
-<blockquote>
-  <p>I just want one killer app before we get a killer robot. </p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘Where Are the AI-Generated Killer Apps?’"  href="https://daringfireball.net/linked/2026/09/12/paul-ford-ai-killer-apps">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
