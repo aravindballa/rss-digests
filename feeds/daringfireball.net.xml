@@ -7,14 +7,118 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-09-23T23:41:47Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-09-24T17:41:10Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>‘Apple Opens Apple Music Hall, a State-of-the-Art Live Music Venue in London’</title>
+	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xlm" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/24/apple-music-hall" />
+	<id>tag:daringfireball.net,2026:/linked//6.43546</id>
+	<published>2026-09-24T17:29:49Z</published>
+	<updated>2026-09-24T17:29:50Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Apple Newsroom:</p>
+
+<blockquote>
+  <p>Apple today announced the opening of Apple Music Hall, a brand-new
+state-of-the-art live music venue in London’s storied Battersea
+Power Station, designed to connect artists and fans through
+bespoke, intimate performances unlike anywhere else.</p>
+</blockquote>
+
+<p>Apple might be the most interesting architecture company in the world this century. They have a core look and feel they apply to their own facilities built from the ground up (e.g., Apple Park, <a href="https://www.apple.com/retail/michiganavenue/">certain</a> flagship retail stores), but they also have <a href="https://www.apple.com/newsroom/2018/11/apple-champs-elysees-to-open-on-famed-parisian-avenue-this-sunday/">tremendous respect</a> for <a href="https://www.apple.com/newsroom/2019/05/apple-carnegie-library-opens-saturday-in-washington-dc/">historic buildings</a> they take over.</p>
+
+<p>The balconies in Apple Music Hall are bronze, but the lighting (at least in Apple’s photos) is so warm that the balconies look a little like giant Mac Minis.</p>
+
+<div>
+<a  title="Permanent link to ‘‘Apple Opens Apple Music Hall, a State-of-the-Art Live Music Venue in London’’"  href="https://daringfireball.net/linked/2026/09/24/apple-music-hall">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Ed Zitron’s AI Prediction Track Record</title>
+	<link rel="alternate" type="text/html" href="https://danluu.com/zitron/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xll" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/24/luu-zitron-claim-chowder" />
+	<id>tag:daringfireball.net,2026:/linked//6.43545</id>
+	<published>2026-09-24T17:10:56Z</published>
+	<updated>2026-09-24T17:10:56Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Dan Luu serves up some copiously documented claim chowder:</p>
+
+<blockquote>
+  <p>After this point, most further predictions that I saw were either
+non-falsifiable or resolve in the future. Note that I didn’t
+attempt to catalogue statements that are nonsensical or were
+simply factually incorrect statements at the time, such as his
+December 2024 claim that “Generative AI’s products have
+effectively been trapped in amber for over a year.” January 2026
+claim that “[models are] basically the same as they were a year
+ago. They have the same efficacy”. Zitron has not only made
+forward-looking statements that AI capabilities will not improve,
+he’s also consistently made backwards-looking statements that
+capabilities have not improved which, while obviously false at the
+time, seem to play well to his base (along with his other false
+statements). If you connect all his statements together, it’s
+implied that AI had the same capabilities in January 2026 as they
+did in December 2023 (and if you connect later statements, it’s
+actually implied that capabilities in August 2026 are the same as
+in December 2023, though to be fair to Zitron he frequently
+contradicts himself and has also admitted to limited improvement
+in mid 2026).</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘Ed Zitron’s AI Prediction Track Record’"  href="https://daringfireball.net/linked/2026/09/24/luu-zitron-claim-chowder">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Copland D11E4, Emulated in Your Browser</title>
+	<link rel="alternate" type="text/html" href="https://www.pagetable.com/300" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xlk" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/24/copland-emulator" />
+	<id>tag:daringfireball.net,2026:/linked//6.43544</id>
+	<published>2026-09-24T16:47:16Z</published>
+	<updated>2026-09-24T17:41:10Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Michael Steil:</p>
+
+<blockquote>
+  <p>Apple’s ill-fated <a href="https://www.pagetable.com/66">Copland</a> operating system is notoriously hard
+to run on real hardware, and has not previously been available in
+emulation. Here is the last build, D11E4 from June 1996, in an
+improved DingusPPC.</p>
+</blockquote>
+
+<p>Playing around with the GXSlidemaster app, I found a bug. The keyboard shortcut for File → Print One is ⌥⌘P, but the menu manager displays it as ⌘π (because Option-P is how you type a lowercase pi; add Shift to get an uppercase pi (∏)). I should file a Radar.</p>
+
+<p>Anyway, I don’t think I’ve ever used Copland before. It wasn’t just hard to run on real hardware, but hard to get. It’s fun but kind of gross to see it boot up spewing console detritus rendered in good old bitmapped Monaco 9 (inside windows — even as an early developer build Apple was still Apple). There’s really not much <em>there</em> there, though. The only work they’d accomplished was under the hood, and there’s seemingly <em>nothing</em> of actual interest in the user interface.</p>
+
+<div>
+<a  title="Permanent link to ‘Copland D11E4, Emulated in Your Browser’"  href="https://daringfireball.net/linked/2026/09/24/copland-emulator">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Changes to App Tracking Transparency in the E.U.</title>
 	<link rel="alternate" type="text/html" href="https://developer.apple.com/app-store/user-privacy-and-data-use/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xlj" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/23/changes-to-app-tracking-transparency-in-the-eu" />
 	<id>tag:daringfireball.net,2026:/linked//6.43543</id>
 	<published>2026-09-23T23:41:46Z</published>
-	<updated>2026-09-23T23:41:47Z</updated>
+	<updated>2026-09-24T17:06:08Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -48,6 +152,8 @@ their device’s Settings.</p>
 <p>The gist of this is that there are three constituent groups: Apple, users, and third-party developers. I’ve long argued that Apple prioritizes those groups in that order. What DMA/EU proponents have fooled themselves into believing is that the European Commission works to move users into, or at least closer to, the top spot. The truth is that they (and <a href="https://www.reuters.com/legal/litigation/german-antitrust-authority-tests-apples-revised-app-tracking-rules-competition-2025-12-02/">national regulatory authorities in Europe</a>) work to move third-party developers and publishers into a more privileged position, at the expense of users’ privacy and experience. Users don’t want to be tracked without permission. Apple doesn’t want users to be tracked without their permission. But an awful lot of third-party developers and publishers want to track users without their permission or knowledge.</p>
 
 <p>Just getting the term changed from “tracking” (one word, easily understood) to “linking your activity across companies” (five words, obfuscated) tells you all you need to know.</p>
+
+<p><strong>See also:</strong> <a href="https://pxlnv.com/linklog/eu-app-tracking-transparency-changes/">Nick Heer has a different take at Pixel Envy</a>.</p>
 
 <div>
 <a  title="Permanent link to ‘Changes to App Tracking Transparency in the E.U.’"  href="https://daringfireball.net/linked/2026/09/23/changes-to-app-tracking-transparency-in-the-eu">&nbsp;★&nbsp;</a>
@@ -173,7 +279,7 @@ iPhone model.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/23/app-store-scam-update-my-phone" />
 	<id>tag:daringfireball.net,2026:/linked//6.43540</id>
 	<published>2026-09-23T18:38:58Z</published>
-	<updated>2026-09-23T18:38:58Z</updated>
+	<updated>2026-09-24T16:54:52Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -196,6 +302,8 @@ iPhone model.</p>
 <p>In other words, the app does nothing that iOS doesn’t automatically do for all users. Absolutely nothing. I came across it <a href="https://aus.social/@shlee/117318918816027001">from a user on Mastodon</a> who discovered their father was paying $8/week ($416 per year) for it. It seems like the esteemed Mr. Olzhasev, savvy businessman that he is, changes the subscription price frequently.</p>
 
 <p>Olzhasev’s other two apps are <a href="https://apps.apple.com/us/app/thermal-camera-filter-effects/id6753982355">Thermal Camera Filter Effects</a> (a neat trick, given that iPhones do not have thermal cameras or heat sensors) and <a href="https://apps.apple.com/us/app/settings-app-simulator/id6753862143">Settings App: Simulator</a>, a $15 app that admittedly gives you just what it says on the tin. It’s an inaccurate mirror of the Settings app “so you can practice without changing the real system.”</p>
+
+<p><strong>Update, next day:</strong> These apps are no longer in the App Store.</p>
 
 <div>
 <a  title="Permanent link to ‘App Store Scam of the Week: ‘Update My Phone &amp; Apps: Guide’ by Tair Olzhasev’"  href="https://daringfireball.net/linked/2026/09/23/app-store-scam-update-my-phone">&nbsp;★&nbsp;</a>
@@ -1999,99 +2107,6 @@ later this month in an upcoming release of Xcode 27.1.</p>
 
 <div>
 <a  title="Permanent link to ‘Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps’"  href="https://daringfireball.net/linked/2026/09/16/xcode-27-iphone-duo">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Is That a Duo in Ternus’s Pocket or Was He Just Happy That Apple TV Shows Won 28 Emmys?</title>
-	<link rel="alternate" type="text/html" href="https://x.com/DEADLINE/status/2099645816361332775" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xkc" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/16/duo-ternus-pocket" />
-	<id>tag:daringfireball.net,2026:/linked//6.43500</id>
-	<published>2026-09-16T22:21:30Z</published>
-	<updated>2026-09-16T22:21:30Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Note the reaction from the Deadline reporter.</p>
-
-<div>
-<a  title="Permanent link to ‘Is That a Duo in Ternus’s Pocket or Was He Just Happy That Apple TV Shows Won 28 Emmys?’"  href="https://daringfireball.net/linked/2026/09/16/duo-ternus-pocket">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Woz Launches Merch Store</title>
-	<link rel="alternate" type="text/html" href="https://x.com/stevewoz/status/2100074363605397658" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xkb" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/16/woz" />
-	<id>tag:daringfireball.net,2026:/linked//6.43499</id>
-	<published>2026-09-16T21:38:27Z</published>
-	<updated>2026-09-16T22:54:15Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Steve Wozniak:</p>
-
-<blockquote>
-  <p>I’ve decided it’s time to have a little more fun on X this
-year! 😄⚡</p>
-
-<p>I get to speak at some amazing events, meet fascinating people,
-hear great stories, and occasionally find myself in places I
-never expected to be. So I figured… why not share some of those
-moments here?</p>
-</blockquote>
-
-<p>He announced this on X, you will note, not “social media”.</p>
-
-<div>
-<a  title="Permanent link to ‘Woz Launches Merch Store’"  href="https://daringfireball.net/linked/2026/09/16/woz">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple OS 27.2 Betas Are Out; Version 27.1 Is the Duo-Exclusive iOS Fork</title>
-	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2026/09/16/heres-why-apple-released-ios-27-2-beta/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xka" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/16/272-betas" />
-	<id>tag:daringfireball.net,2026:/linked//6.43498</id>
-	<published>2026-09-16T18:36:08Z</published>
-	<updated>2026-09-16T22:47:13Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Joe Rossignol, MacRumors:</p>
-
-<blockquote>
-  <p>Apple just seeded the first beta of iOS 27.2 to developers for
-testing. Yes, you read that correctly: iOS 27.2, not iOS 27.1.</p>
-
-<p>Why no iOS 27.1 beta? The answer likely relates to the iPhone Duo.</p>
-</blockquote>
-
-<p>This unusual version numbering is entirely about the Duo. The Duo is on its own branch of iOS — heretofore to keep details about its software secret / internal to Apple. When it launches October 23, Apple has already announced it will ship with iOS 27.1. Apple is thus using 27.2 as the version number for the first post-27.0 updates to all of its OSes for devices other than the Duo, to keep those version numbers aligned. The 27.2 releases, I am to understand, are scheduled to ship in October too. I bet they’ll ship <em>after</em> the iPhone Duo launches on October 23. So, putting beta releases aside, we’ll see the versions hit the public in numeric order:</p>
-
-<ul>
-<li>All OS 27.0 releases: two days ago.</li>
-<li>iOS 27.1: October 23, exclusively on the iPhone Duo.</li>
-<li>All OS 27.2.0 releases: probably in late October, after the 23rd, but with the Duo remaining on its own 27.1 branch.</li>
-</ul>
-
-<p>Then, with a subsequent 27.2.x update, the Duo will join the other devices and version numbers across all devices on all platforms will converge, in November or early December. I believe that’s the plan. Maybe Duo convergence will wait for 27.3, but I think it’ll be a 27.2.x update.</p>
-
-<p><a href="https://daringfireball.net/2010/06/marble_mystery_solved">Something similar happened back in 2010</a> with the original iPad, which launched in April 2010 running what was then still called iPhone OS, version 3.2. iPhone OS 3.2 was exclusive to the iPad — no iPhone or iPod Touch ever ran it. (Those devices remained on v3.1 after the iPad launched.) Apple renamed the OS to <a href="https://www.apple.com/newsroom/2010/06/07Apple-Presents-iPhone-4/">iOS at WWDC in June that year</a>, but iOS 4.0 <em>and</em> 4.1 remained exclusive to iPhones and iPod Touches. Convergence with the iPad didn’t happen <a href="https://www.apple.com/newsroom/2010/11/22Apples-iOS-4-2-Available-Today-for-iPad-iPhone-iPod-touch/">until iOS 4.2 in late November</a>.</p>
-
-<p>This time it should only take a month or so to converge for the Duo, not seven or eight months like it did for the iPad in 2010. But iOS 27.1 is exclusively for the Duo in a very similar way that 3.2 was exclusive to the iPad.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple OS 27.2 Betas Are Out; Version 27.1 Is the Duo-Exclusive iOS Fork’"  href="https://daringfireball.net/linked/2026/09/16/272-betas">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
