@@ -7,13 +7,60 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-09-23T22:15:06Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-09-23T23:41:47Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Changes to App Tracking Transparency in the E.U.</title>
+	<link rel="alternate" type="text/html" href="https://developer.apple.com/app-store/user-privacy-and-data-use/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xlj" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/23/changes-to-app-tracking-transparency-in-the-eu" />
+	<id>tag:daringfireball.net,2026:/linked//6.43543</id>
+	<published>2026-09-23T23:41:46Z</published>
+	<updated>2026-09-23T23:41:47Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Apple Developer:</p>
+
+<blockquote>
+  <p>As part of agreements with select European competition
+authorities, Apple is introducing changes to its App Tracking
+Transparency framework in the European Union. Beginning with iOS
+27.2 and iPadOS 27.2, developers will have the option to use an
+alternative version of the App Tracking Transparency system prompt
+in the EU. The requirements for when you must seek permission to
+track users will remain the same. Due to legal requirements, only
+the alternative version of the system prompt is available for apps
+distributed in Germany, France, Italy, Poland, and Romania.</p>
+
+<p>In addition, for users in the European Union, you can reprompt
+[<em>sic</em>] a user via the App Tracking Transparency system prompt one
+year after the user’s previous choice in your app’s App Tracking
+Transparency system prompt, regardless of whether that choice was
+to accept or reject. A user cannot be re-prompted if they have
+disabled “Allow Apps to Request to Track” (renamed to “Allow Apps
+to Request to Link Your Activity Across Companies” in the EU) in
+their device’s Settings.</p>
+</blockquote>
+
+<p><a href="https://www.threads.com/share/DYPQJUOaO/">As Benjamin Mayo notes</a>, “Allow Apps to Request to Link Your Activity Across Companies” is catchy.</p>
+
+<p>The gist of this is that there are three constituent groups: Apple, users, and third-party developers. I’ve long argued that Apple prioritizes those groups in that order. What DMA/EU proponents have fooled themselves into believing is that the European Commission works to move users into, or at least closer to, the top spot. The truth is that they (and <a href="https://www.reuters.com/legal/litigation/german-antitrust-authority-tests-apples-revised-app-tracking-rules-competition-2025-12-02/">national regulatory authorities in Europe</a>) work to move third-party developers and publishers into a more privileged position, at the expense of users’ privacy and experience. Users don’t want to be tracked without permission. Apple doesn’t want users to be tracked without their permission. But an awful lot of third-party developers and publishers want to track users without their permission or knowledge.</p>
+
+<p>Just getting the term changed from “tracking” (one word, easily understood) to “linking your activity across companies” (five words, obfuscated) tells you all you need to know.</p>
+
+<div>
+<a  title="Permanent link to ‘Changes to App Tracking Transparency in the E.U.’"  href="https://daringfireball.net/linked/2026/09/23/changes-to-app-tracking-transparency-in-the-eu">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/09/iphone_4_antennagate_q_and_a" />
 	<link rel="shorturl" href="http://df4.us/xli" />
 	<id>tag:daringfireball.net,2026://1.43542</id>
 	<published>2026-09-23T22:15:05Z</published>
-	<updated>2026-09-23T22:15:06Z</updated>
+	<updated>2026-09-23T22:36:20Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -24,7 +71,7 @@
 
 <p>The event was held in Apple’s Town Hall auditorium at the old Infinite Loop headquarters. Town Hall is a tiny venue but it wasn’t full. It opened with Jonathan Mann’s “<a href="https://www.youtube.com/watch?v=VKIcaejkpD4">The iPhone 4 Antenna Song</a>” (refrain: “If you don’t want an iPhone 4, don’t buy it; if you bought one and you don’t like it, bring it back”), then Steve Jobs took the stage for what he said would be a 15-minute presentation but which took 30 minutes. Then Jobs had COO Tim Cook and hardware chief Bob Mansfield join him on stage to answer questions from the assembled members of the media.</p>
 
-<p>Apple itself hosted video of the presentation — minus the Q&amp;A — for some time after the event. But after a few years they took their copy down. There have been copies on YouTube, but the only one that seems to be left is <a href="https://www.youtube.com/watch?v=VKIcaejkpD4">this 14-year-old copy from the YouTube account Tech Knowology</a>. It’s got Mann’s opening song and Jobs’s half-hour prepared presentation, but it cuts off right as Jobs invites Cook and Mansfield to join him on stage. To my recollection this is where Apple’s own official video cut off too — I think this version on YouTube is just a copy of Apple’s.</p>
+<p>Apple itself hosted video of the presentation — minus the Q&amp;A — for some time after the event. But after a few years they took their copy down. There have been copies on YouTube, but the only one that seems to be left is <a href="https://www.youtube.com/watch?v=i8tXyfjfnB0">this 14-year-old copy from the YouTube account Tech Knowology</a>. It’s got Mann’s opening song and Jobs’s half-hour prepared presentation, but it cuts off right as Jobs invites Cook and Mansfield to join him on stage. To my recollection this is where Apple’s own official video cut off too — I think this version on YouTube is just a copy of Apple’s.</p>
 
 <p>The Q&amp;A was on the record (which is the entire point of a Q&amp;A), and was <a href="https://allthingsd.com/20100716/apple-iphone-4-press-conference/">reported</a> <a href="https://www.engadget.com/2010-07-16-live-from-apples-iphone-4-press-conference.html">widely</a>, but I don’t think there’s ever been video of it. <a href="https://tidbits.com/2010/07/16/apple-responds-to-iphone-4-antenna-issue/">Here’s a report by Jeff Carlson at TidBITS</a>, published the day the event was held, which states, “The video omits a long and interesting Q&amp;A at the end.”</p>
 
@@ -34,7 +81,34 @@
 
 <p>My main takeaway, though, watching the whole thing for the first time since I was in the room, is how goddamn <em>thoughtful</em> Steve Jobs was. He takes a long time to think before answering many of the questions. A few minutes after my question, <a href="https://youtu.be/BiN5ERktXz0?t=1190">Jobs was asked</a> what he’s learned from this experience. Jobs takes several seconds to think and then his answer lasts five minutes. It’s a good answer.</p>
 
-<p>I seldom suggest you spend 47 minutes watching a video, but this one is worth your time. (And, given that it clearly fell off the back of a truck, you might want to put a copy on your own truck sooner rather than later.)</p>
+<p>I seldom suggest you spend 47 minutes watching a video, but this one is worth your time. (And, given that it clearly fell off the back of a truck, you might want to <a href="https://software.charliemonroe.net/downie/">put a copy</a> on your own truck sooner rather than later.) A lot of times with a long Q&amp;A the whole thing gets repetitive, with the same questions asked in rephrased ways, and the same answers (or, worse, non-answers) regurgitated from the same set of prepared talking points. Not this one. In fact, one of Jobs’s most interesting answers comes over 40 minutes into the Q&amp;A segment, when he re-articulates what Horace Dediu coined “<a href="https://asymco.com/2011/01/17/the-cook-doctrine/">The Cook Doctrine</a>”. (Which Cook deserves credit for, having expressed it a year prior while Jobs was on a medical leave of absence.) Here’s part of that answer:</p>
+
+<blockquote>
+  <p>To understand Apple, it helps to realize that one of our biggest
+insights came about eight years ago. We didn’t want to get into
+any business where we didn’t own or control the primary
+technology. Because if somebody else owns the primary technology,
+they’re going to beat you in the end. Because you’re going to
+have to buy that from them and add your stuff on top. But if
+their technology is the most important one, they’re going to beat
+you in the end. So we wanted to own or control the primary
+technology for those businesses that we’re in. And in the
+computer business, even though we didn’t make our own
+microprocessors, we thought software was the most important
+technology. And we made our own operating system.</p>
+
+<p>Our big insight about eight years ago was that for most areas of
+consumer electronics going forward, it was going to shift from big
+displays being the most important component, or electro-optical
+laser pickup heads for DVD drives being the most important
+component, or radios and cell phones being the most important
+component, to software being the most important component. And we
+realized that we were pretty good at software.</p>
+</blockquote>
+
+<p>Watch the whole thing, I implore you. I mean if you’re only going to watch a minute, sure, skip to my question. But you should watch the whole thing — if only to hear Jobs pronounce “component”.</p>
+
+<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BiN5ERktXz0?si=0ud6sCK7xUjpXK1C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
 <div class="footnotes">
 <hr />
@@ -134,7 +208,7 @@ iPhone model.</p>
 	<link rel="shorturl" href="http://df4.us/xlf" />
 	<id>tag:daringfireball.net,2026://1.43539</id>
 	<published>2026-09-23T17:31:23Z</published>
-	<updated>2026-09-23T18:55:45Z</updated>
+	<updated>2026-09-23T22:37:30Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -169,7 +243,7 @@ need a recent Mac to play with the full interactive smoke.</p>
 
 <p>But sometimes apps download <em>large</em> associated files and stash them in <em>~/Library/</em>. Those files aren’t bogging your system down but they are taking up space. Storage space has never been free of charge, and, on one side of the AI coin, <a href="https://daringfireball.net/2026/06/spensive_thoughts">it’s become a lot more expensive</a>. On the other side of the AI coin, there are <a href="https://daringfireball.net/linked/2026/06/04/the-ai-driven-resurgence-of-mac-app-development">a lot more new Mac apps coming out these days</a>. I’m trying more new apps every week than I have since the earliest days of the App Store. Sometimes I really just want to nuke all traces of them after taking a test drive.</p>
 
-<p>AppZapper 3000 does that job well, and it makes it fun as hell. You drag an app you want to uninstall to its main window, and AppZapper lists all of the app’s associated files (including, of course, the app itself). Then you shoot the ones you want to delete. Zapped files are safely moved to your Trash, and AppZapper itself supports Undo if you get trigger happy. It’s terrific fun. There’s even a “Zap All” button for the lazy. It re-launched last Monday but I’ve been testing AppZapper 300 since a few weeks before that. My Applications and Library folders haven’t been this trim in years.</p>
+<p>AppZapper 3000 does that job well, and it makes it fun as hell. You drag an app you want to uninstall to its main window, and AppZapper lists all of the app’s associated files (including, of course, the app itself). Then you shoot the ones you want to delete. Zapped files are safely moved to your Trash, and AppZapper itself supports Undo if you get trigger happy. It’s terrific fun. There’s even a “Zap All” button for the lazy. It re-launched last Monday but I’ve been testing AppZapper 3000 since a few weeks before that. My Applications and Library folders haven’t been this trim in years.</p>
 
 <p>Way, way back in the day with <a href="https://daringfireball.net/linked/2019/12/09/the-grouch">The Grouch system extension for System 6 and 7</a>, there were stories claiming that people who had the Grouch installed would let their young kids play with their Macs, and come to find that the kids had deleted gobs of important files and folders, just to make Oscar pop out of the Trash and sing his songs. (Oscar only sang when you <em>emptied</em> the Trash.) The Grouch seemed old even when the original AppZapper was new. But AppZapper 3000 brings back that sort of fun — while being genuinely useful. And the Mac has never in its history been more in need of new UI fun. Is it absolutely ridiculous and unnecessary to make an uninstall utility with an exquisitely detailed 3D laser gun as its UI? Fuckin’-A right it is.</p>
 
@@ -473,7 +547,7 @@ Store ranking, however, as it’s downloadable from the web.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/22/xcode-json-project-files" />
 	<id>tag:daringfireball.net,2026:/linked//6.43532</id>
 	<published>2026-09-22T19:25:52Z</published>
-	<updated>2026-09-22T19:25:53Z</updated>
+	<updated>2026-09-23T22:38:57Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -488,7 +562,7 @@ edit. Enable it in the file inspector. Projects using .xcproj also
 open in earlier versions of Xcode 27.</p>
 </blockquote>
 
-<p>Apple released, on GitHub, <a href="https://github.com/apple/xcode-project-format">a Swift library (and CLI tool)</a> for reading, writing, and manipulating this new project format. <a href="https://mjtsai.com/blog/2026/09/17/xcodes-new-xcproj-files-are-json/">Michael Tsai has a list of developer reactions</a>, where are universally positive. A sampling:</p>
+<p>Apple released, on GitHub, <a href="https://github.com/apple/xcode-project-format">a Swift library (and CLI tool)</a> for reading, writing, and manipulating this new project format. <a href="https://mjtsai.com/blog/2026/09/17/xcodes-new-xcproj-files-are-json/">Michael Tsai has a list of developer reactions</a>, which are universally positive. A sampling:</p>
 
 <p><a href="https://mastodon.social/@simonbs/117282260955657402">Simon B. Støvring</a>:</p>
 
@@ -2018,34 +2092,6 @@ testing. Yes, you read that correctly: iOS 27.2, not iOS 27.1.</p>
 
 <div>
 <a  title="Permanent link to ‘Apple OS 27.2 Betas Are Out; Version 27.1 Is the Duo-Exclusive iOS Fork’"  href="https://daringfireball.net/linked/2026/09/16/272-betas">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>AirPods 5 With Wireless Charging Case Works With MagSafe, But Not Magnetically</title>
-	<link rel="alternate" type="text/html" href="https://www.apple.com/airpods-5/specs/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xk9" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/16/airpods-5-magsafe" />
-	<id>tag:daringfireball.net,2026:/linked//6.43497</id>
-	<published>2026-09-16T14:35:49Z</published>
-	<updated>2026-09-17T13:42:22Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>In <a href="https://daringfireball.net/2026/09/thoughts_and_observations_on_apples_surprise_and_shine_event">my long take yesterday</a> on Apple’s event last week, I wrote that when you pay $20 extra to get the $150 AirPods 5 With Wireless Charging Case, that the case is compatible for inductive charging with “MagSafe, Qi, or Apple Watch pucks”. But the compatibility section of Apple’s tech specs page for AirPods 5 doesn’t list MagSafe:</p>
-
-<blockquote>
-  <p>Works with USB‑C connector, Apple Watch charger, or Qi‑certified chargers</p>
-</blockquote>
-
-<p>That’s because for Apple, true MagSafe compatibility means magnetic attachment. The AirPods 5 case doesn’t have MagSafe magnets (the case is seemingly too small), only magnets for the Apple Watch puck. AirPods Pro cases have magnets to attach to both pucks. So when you charge AirPods Pro with MagSafe, they snap to the puck. I can snap my AirPods Pro 3 case onto a nearly vertical MagSafe charger, like <a href="https://nomadgoods.com/products/stand-one-4th-gen-carbide">the Nomad Stand One</a> I keep next to my keyboard. (Great product — you should get one. I have two; the other is on my nightstand.) I can’t charge the AirPods 5 case on that stand because it just falls off.</p>
-
-<p>But if I lay the AirPods 5 case on a horizontal MagSafe puck, it charges just fine. That’s because MagSafe pucks are themselves Qi-compatible. I see why Apple is a stickler for this — the “Mag” in MagSafe carries an obvious meaning — but by not mentioning MagSafe, it’s reasonable to draw the conclusion that the AirPods 5 Wireless Charging Case doesn’t work with MagSafe at all.</p>
-
-<div>
-<a  title="Permanent link to ‘AirPods 5 With Wireless Charging Case Works With MagSafe, But Not Magnetically’"  href="https://daringfireball.net/linked/2026/09/16/airpods-5-magsafe">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
