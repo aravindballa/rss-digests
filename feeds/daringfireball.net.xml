@@ -7,7 +7,193 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-09-25T14:41:30Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-09-25T19:45:45Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Brent Simmons on ‘Stock’ Mac UI</title>
+	<link rel="alternate" type="text/html" href="https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xlu" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/25/brent-simmons-stock-mac-ui" />
+	<id>tag:daringfireball.net,2026:/linked//6.43554</id>
+	<published>2026-09-25T19:45:44Z</published>
+	<updated>2026-09-25T19:45:45Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Brent Simmons:</p>
+
+<blockquote>
+  <p>To recap: the reasons for using stock Mac UI are 1) user
+familiarity, which we’ve known for a while just isn’t a thing, and
+2) hoping to be able to expend less developer effort, which we’ve
+seen can work against you.</p>
+
+<p>But there’s another reason: the stock Mac UI is designed by Apple,
+the best designers in the world, and do you really think you can
+do better? Really?</p>
+
+<p>The app world is full of people who think they’re better and
+they’re really, really, really not.</p>
+
+<p>Well, I still think Apple has the best collection of UI designers
+in the world, but, for whatever reasons, the guidance from above
+on how the Mac UI should look is missing the mark. I’m not blaming
+the people doing the work — they’re doing great work with the
+direction they’re given.</p>
+
+<p>So this — bad direction — is where the secret third reason falls
+down. And we’re left with no real reason to stick with stock Mac
+UI (except for wanting approval from longtime Mac people like me,
+and you really shouldn’t care about that at all).</p>
+</blockquote>
+
+<p>I was hesitant to quote anything from Simmons’s post, because you really ought to <a href="https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html">read the whole thing</a>. (I’ve always loved the way Brent writes.) But I really like his emphasis throughout the piece on the term “stock Mac UI”. Debating the nuances of what it means for software to be “Mac-like” is one of the through lines of Daring Fireball since the very beginning. It doesn’t mean just one thing, and it doesn’t encompass just a few things. It’s a lot of things. But that makes it susceptible to picking and choosing — what one considers “Mac-like” might just be what one personally prefers.</p>
+
+<p>But using the stock Mac UI — or having your custom UI build atop (or in OOP terms, subclass) stock Mac UI controls — is so thoroughly agreed-upon as a fundamental aspect of Mac-likeness that it’s seldom even discussed. This relatively short post from Simmons bursts that bubble — or you want a grosser but perhaps more apt metaphor, lances that boil. The emperor has no clothes, and MacOS’s stock UI is bad. It’s that simple.</p>
+
+<p>At the end of the post Simmons includes two screenshots of NetNewsWire after a day of noodling where he removed the stock window chrome and toolbar (the venerable <a href="https://developer.apple.com/documentation/appkit/nstoolbar">NSToolbar</a>, perhaps the stockiest of stock UI elements) and replaced them with custom controls. If you told me 10 or 20 years ago that Brent Simmons spent a day replacing NSToolbar in NetNewsWire just to see what it looked like, I’d have called him on the phone to see if he was OK.</p>
+
+<p>But today, after the last few years of Apple losing the plot with the Mac user interface, I look at these two screenshots and my first thought isn’t that they look old-school. It’s simply that they look refreshingly Mac-like. Understated, humble, and obvious. Not nostalgic. Just ... good. And more Mac-like than the actual current version of NetNewsWire, which thoroughly embraces the stock Mac UI from Apple.</p>
+
+<div>
+<a  title="Permanent link to ‘Brent Simmons on ‘Stock’ Mac UI’"  href="https://daringfireball.net/linked/2026/09/25/brent-simmons-stock-mac-ui">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/09/ill_wait" />
+	<link rel="shorturl" href="http://df4.us/xlt" />
+	<id>tag:daringfireball.net,2026://1.43553</id>
+	<published>2026-09-25T18:16:47Z</published>
+	<updated>2026-09-25T19:14:43Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">I wouldn’t grant a stranger access to my email. So why would I grant a robot?</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>It’s Friday, and Muse is <a href="https://daringfireball.net/linked/2026/09/22/meta-muse-app-store">still</a> the #1 app in the iOS App Store — that’s a full week in the top spot. Who knows if it’s a flash in the pan or not. (Remember <a href="https://daringfireball.net/linked/2021/02/15/clubhouse-iphone-primacy">Clubhouse</a>? <a href="https://daringfireball.net/linked/2025/10/02/sora-launch">Sora</a>?) But at the moment it’s clearly a hit. It certainly helps that Meta itself is promoting Muse heavily on their own channels like Instagram and Facebook.</p>
+
+<p>The Muse iOS app is sandboxed — because it has to be. So that’s the only version I’m personally tinkering with. But the Mac app is the more powerful one, because, well, it lets Muse drive your Mac. The fact that the Muse Mac app is so powerful is why it has to be downloaded from the web. It’s not in the Mac App Store because apps that do what the Muse Mac app does aren’t permitted in the Mac App Store — or are only permitted with hard-to-get entitlements. There are a lot of good reasons why good Mac developers have <a href="https://daringfireball.net/linked/2019/04/04/bbedit-mac-app-store">long</a> been <a href="https://daringfireball.net/linked/2015/12/01/sketch-leaves-mac-app-store">frustrated</a> by those rules. (Users too.) But the upside of Apple’s restrictive Mac App Store policies is that users can blindly install apps from the Mac App Store and trust that those apps <em>cannot</em> run amok on their system.</p>
+
+<p>The way I think about running an agentic AI on my Mac is simple. I would never let an unknown person use my Mac. Not even for a minute, not even with me watching them. Let alone letting them use it nonstop, without my watching them. I’d be uncomfortable letting even a trusted friend use my Mac, logged into my user account. So why would I let an AI robot, no matter the source? It doesn’t even get to the point of my considering Meta as Muse’s creator. I wasn’t tempted an iota to try OpenClaw, and I’m not tempted to try Muse on my Mac. On <em>a</em> Mac, maybe. But not <em>my</em> Mac.</p>
+
+<p>Same thing for granting Muse — running in the cloud, not on my Mac — access to my email, or calendar, or banking. I wouldn’t grant a stranger access to my email. So why would I grant a robot? But my refusal to grant Muse access to anything like that means that it’s basically just a toy for me to poke at.</p>
+
+<p>A lot of people hire personal assistants — humans — and give them access to their email (and calendar, files, bank accounts, etc.). I’ve never done that, but I’ve long considered it. I see the appeal. But if I hired a personal assistant, I’d get to know them first. Develop some trust. My time is valuable, but not as valuable as my comfort, and I’d be excruciatingly uncomfortable giving anyone — or anything — I didn’t trust access to my life. I’m not saying I will never grant access to such things to an AI agent. In fact, I bet that sooner or later I will, to some carefully measured extent. But not now.</p>
+
+<hr />
+
+<p>One of my favorite teachers in high school was a history teacher named Gary Choyka. I had him for morning homeroom too, and I loved that he had a daily subscription to The Philadelphia Inquirer, a real newspaper, not just our Podunk suburban rag. Mr. Choyka was a great teacher, full stop. I learned a lot about the world, and a ton about our civil rights and liberties here in the U.S. from him. It was from Mr. Choyka that I learned that you do not have to allow the police to enter your home just because they’re at the door claiming that they’re going to enter the home. That came in handy at some high school parties (and made me the designated knock-at-the-door answerer).</p>
+
+<p>Part of what made Mr. Choyka a great teacher is that he had a wonderful presence, a mastery of the classroom. And he had one devastatingly effective technique. If he was giving a lecture and a bit of chatter between students grew to the point of even slight disruption, he’d just stop talking, mid-sentence, stare at the chattering students, and after waiting a few beats, say, “I’ll wait.”</p>
+
+<p>Having been the disruptive whisperer more than once, I still feel small thinking about that phrase. It was like getting zapped by Rick Moranis’s kid-shrinking machine. Thirty-some years later and I can still hear him saying it. <em>I’ll wait.</em> It worked because he meant it. He wasn’t going to compete for attention.</p>
+
+<p>It’s not really an analogous situation at all. But somehow it’s Mr. Choyka’s signature line that comes to mind when I ponder how I feel about AI agents — at least the sort of ones like Muse that want control over my personal computing, and really, personal life. I’ll wait.</p>
+
+    ]]></content>
+  <title>★ I’ll Wait</title></entry><entry>
+	<title>Regarding the Provenance of Charm Within Meta</title>
+	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-a-dedicated-palm-sized-muse-charm-device-to-use-ai-on-the-go?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIwNzg4MCwiZXhwIjoxNzkwODEyNjgwLCJhcnRpY2xlSWQiOiJUTFRUVUxUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.k7amXXn8zTVQuiTpQIE0Q_IJY9ny_TINEpSrguxIva8&amp;leadSource=article-gifting" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xls" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/25/charm-provenance" />
+	<id>tag:daringfireball.net,2026:/linked//6.43552</id>
+	<published>2026-09-25T17:07:33Z</published>
+	<updated>2026-09-25T17:08:40Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Mark Gurman, reporting for Bloomberg Wednesday, <em>after</em> Meta’s 2026 Connect keynote (gift link):</p>
+
+<blockquote>
+  <p>Meta Platforms Inc. unveiled a palm-sized, dedicated gadget for
+using Muse, the company’s popular new artificial intelligence
+assistant, pushing deeper into the AI devices market with a
+surprise announcement.</p>
+
+<p>The product, unveiled on stage by Meta Chief Executive Officer
+Mark Zuckerberg, was born out of the company’s new design lab led
+by former Apple Inc. interface design chief Alan Dye and its
+Superintelligence AI group. [...]</p>
+
+<p>Dye, the former Apple design executive, and Billy Sorrentino, one
+of his top deputies at the iPhone maker, were two of the driving
+forces behind the project and the creation of the Muse
+character-based interface, Bosworth said.</p>
+
+<p>Meta <a href="https://www.bloomberg.com/news/articles/2025-12-03/apple-design-executive-alan-dye-poached-by-meta-in-major-coup">recruited the executives at the end of 2025</a>, forcing
+Apple to shake up its own design team to fill the void left by
+their absence. Dye and Sorrentino hired a slew of other designers
+from Apple as well, and they contributed to Muse Charm as well as
+the interface of its Muse smartphone apps, Bosworth said.</p>
+</blockquote>
+
+<p>On today’s episode of <a href="https://dithering.fm/">Dithering</a> (which you should subscribe to), Ben Thompson dropped a juicy tidbit about this (starting around 5m:15s):</p>
+
+<blockquote>
+  <p><strong>Thompson:</strong> By the way, do you want to hear some gossip about this?</p>
+
+<p><strong>Gruber:</strong> Yeah, of course.</p>
+
+<p><strong>Thompson:</strong> Well, Mark Gurman has a piece crediting Alan Dye. Utter
+and complete theft of credit is what I’m hearing. Alan Dye doing Alan Dye things.</p>
+
+<p><strong>Gruber:</strong> And I wonder who his source was!</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘Regarding the Provenance of Charm Within Meta’"  href="https://daringfireball.net/linked/2026/09/25/charm-provenance">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Muse Looks Cute, but Looks Are Deceiving</title>
+	<link rel="alternate" type="text/html" href="https://www.inc.com/jason-aten/meta-keeps-apologizing-for-muse-its-explanations-miss-the-point-entirely/91409363" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xlr" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/25/aten-muse" />
+	<id>tag:daringfireball.net,2026:/linked//6.43551</id>
+	<published>2026-09-25T16:38:39Z</published>
+	<updated>2026-09-25T17:26:48Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jason Aten, in a good follow-up to his previous column at Inc. (<a href="https://daringfireball.net/linked/2026/09/22/aten-muse">the one</a> where he described how Muse, running on his Mac, read his Messages database):</p>
+
+<blockquote>
+  <p>The entire reason Muse is interesting is that it isn’t just a
+chatbot, but can actually do things for you. But that promise also
+comes with a pretty high bar of responsibility. If your goal is to
+put a powerful AI agent on millions of devices, you have to be
+incredibly clear about what’s happening, and what people are
+agreeing to.</p>
+
+<p>If your primary audience does not understand what Full Disk Access
+means, you should not surprise them with “I’m reading your text
+messages.” It’s unreasonable to expect them to learn about things
+like virtual machines, permission architectures, macOS TCC,
+Sentinel agents, or database synchronization in order to
+understand what the thing is doing or what is happening with their
+personal information.</p>
+
+<p>Having an agent installed on people’s computers that appears
+overeager to access their information or take action on their
+behalf isn’t helpful. It’s terrifying.</p>
+</blockquote>
+
+<p>Aten makes some good points about the inherent tension between Muse — especially in the context of running on your Mac desktop — being powerful cutting-edge technology yet being presented by Meta in an <em>extremely</em> consumer-friendly package. Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta’s cloud) <em>and</em> because it’s packaged in an easy-to-install easy-to-use way. It’s literally presented as <a href="https://daringfireball.net/linked/2026/09/24/song-meta-muse-cute">a cute mascot</a>. It’s the first consumer-accessible agentic AI system, and Meta has truly done an amazing job with that. But it’s a genuinely open question whether consumers have any understanding what this means. If you buy a power saw that can cut your fingers off, you are almost certainly aware that you are buying a power saw that can sever your fingers. You may or may not choose to use it with appropriate carefulness. But you know just by looking at it that a power saw (or a nail gun, or a chef’s knife, or a hammer, or any other powerful tool) is dangerous. I don’t think people realize how powerful — and thus dangerous — Muse is, especially if it’s running on your Mac.</p>
+
+<div>
+<a  title="Permanent link to ‘Muse Looks Cute, but Looks Are Deceiving’"  href="https://daringfireball.net/linked/2026/09/25/aten-muse">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>I Was Not Blown Away by Eli Tan’s ‘I Was Blown Away’ Review of Meta Muse</title>
 	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html?unlocked_article_code=1.D1E.Wram.T8Ww85vXKKYU" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xlq" />
@@ -1524,119 +1710,6 @@ claim against.</p>
 
 	]]></content>
   </entry><entry>
-	<title>Trump Says He’s Banning MS NOW, CNN, and Politico From White House</title>
-	<link rel="alternate" type="text/html" href="https://truthsocial.com/@realDonaldTrump/posts/117293599348325006" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xkk" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/18/trump-msnow-cnn-politico" />
-	<id>tag:daringfireball.net,2026:/linked//6.43508</id>
-	<published>2026-09-18T19:23:45Z</published>
-	<updated>2026-09-18T19:23:46Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Let’s check in on the president of the United States, having a normal one on his blog:</p>
-
-<blockquote>
-  <p>I am proud to announce that, effective immediately, I am banning
-Fake News CNN, MSNOW (who recently changed their name from MSNBC
-due to lack of viewership and credibility!), and Politico (The
-recipients of an illegal and ridiculous $8 Million Dollar
-subscription, an All Time Record, directly from the United States
-Government, under Crooked Joe Biden, in order to keep them
-“alive.” Seems like corruption to me!), from the White House as a
-result of their constant “reporting” FAKE NEWS! Media Outlets
-shouldn’t be able to constantly write or report FICTION and LIES
-when they’re covering the President of the United States, the
-Trump Administration, or the United States of America. Other Fake
-News Media Outlets to follow. Thank you for your attention to this
-matter! President DONALD J. TRUMP</p>
-</blockquote>
-
-<p>Republicans are the party of free speech.</p>
-
-<div>
-<a  title="Permanent link to ‘Trump Says He’s Banning MS NOW, CNN, and Politico From White House’"  href="https://daringfireball.net/linked/2026/09/18/trump-msnow-cnn-politico">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Hollywood Wants the Duo</title>
-	<link rel="alternate" type="text/html" href="https://pagesix.com/2026/09/16/hollywood/mysterious-apple-ceo-charms-hollywood-following-big-emmys-night-by-showing-off-new-iphone/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xkj" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/18/hollywood-wants-duo" />
-	<id>tag:daringfireball.net,2026:/linked//6.43507</id>
-	<published>2026-09-18T17:18:19Z</published>
-	<updated>2026-09-18T17:18:19Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Page Six Hollywood:</p>
-
-<blockquote>
-  <p>Ternus attended an intimate Apple party the night before the
-Emmys, filled with stars and powerbrokers, where some talent
-brazenly hit him up for the phone.</p>
-
-<p>“The new phone is big news,” said one top Hollywood exec, who
-added that they heard of at least one star, “asking [Ternus] to
-get him on the list” for a phone. Joked the source about who gets
-the phones: “It’s like CEOs. That’s like the ‘Eddy Cue list of
-illuminati.’” (Cue is Apple’s senior vice president of services
-and health.)</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘Hollywood Wants the Duo’"  href="https://daringfireball.net/linked/2026/09/18/hollywood-wants-duo">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Gauging Interest in the iPhone Duo</title>
-	<link rel="alternate" type="text/html" href="https://maxfrequency.net/2026/09/17/iphone-duo-mkbhd-popularity-or-curiosity/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xki" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/18/gauging-interest-in-the-iphone-duo" />
-	<id>tag:daringfireball.net,2026:/linked//6.43506</id>
-	<published>2026-09-18T16:58:25Z</published>
-	<updated>2026-09-18T16:58:26Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Max Roberts, after looking at the list of MKBHD’s all-time most popular videos, and noting that his Duo first-look is #3, and a Duo follow-up is already at #36:</p>
-
-<blockquote>
-  <p>Apple enters the category and in a week it blows past every other
-folding video.</p>
-
-<p>Now, this doesn’t translate to sales and folding phones taking
-over the entire smartphone market, but it does highlight a few
-things to me about tech and the viewers of Marques’ channel.</p>
-
-<ol>
-<li>Apple is the most popular brand Marques talks about.</li>
-<li>New products and form factors from Apple are the most popular
-Apple videos.</li>
-<li>When the iPhone comes in a new form, watch out.</li>
-</ol>
-</blockquote>
-
-<p>There’s no need to overthink it. Humans are decidedly visual animals. Our brains evolved to notice and take interest in novelties. “New” will forever be the most powerful word in marketing. If something <em>looks</em> new, it <em>feels</em> new. If something doesn’t look new (like, say, the iPhone 18 Pro), it doesn’t <em>feel</em> new.</p>
-
-<p>The Duo looks totally new.</p>
-
-<p>It doesn’t matter that Samsung and Google and a bunch of Chinese companies have made foldable Android phones for a decade. <a href="https://daringfireball.net/linked/2026/09/07/birchler-folding-iphone-predictions">Almost nobody cares</a>. The Duo is a fucking iPhone. That makes people care.</p>
-
-<div>
-<a  title="Permanent link to ‘Gauging Interest in the iPhone Duo’"  href="https://daringfireball.net/linked/2026/09/18/gauging-interest-in-the-iphone-duo">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/09/the_iphones_18_pro" />
 	<link rel="shorturl" href="http://df4.us/xkf" />
@@ -2676,32 +2749,4 @@ iPhone 17 Pro Max    78mm     163mm     8.75mm     233g
 </div>
 
     ]]></content>
-  <title>★ The iPhone Air and iPhone 17 Pro</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/09/superduper_4" />
-	<link rel="shorturl" href="http://df4.us/xjl" />
-	<id>tag:daringfireball.net,2026://1.43473</id>
-	<published>2026-09-08T14:55:20Z</published>
-	<updated>2026-09-08T14:55:22Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">SuperDuper feels like impossibly good software.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>I have mentioned and recommended <a href="https://www.shirt-pocket.com/superduper4.php">Shirt Pocket’s Mac backup app SuperDuper</a> quite <a href="https://daringfireball.net/search/super+duper">a few times</a> over the years, and for good reason: it performs very important functions very well. Version 4, which shipped just over a month ago, is an extraordinary update to an extraordinary app.</p>
-
-<p>Visually, the interface is all new. That took some getting used to, but not much. It didn’t take long for me to see how the new UI is better in every way. The style of presentation is new and modern, but the core idea remains the same: the interface of SuperDuper is self-explanatory. It explains what, exactly, is going to happen. It remains a marvel of clarity, especially when you consider the complexity of what it does.</p>
-
-<p>Functionally, SuperDuper 4 is also much improved. SuperDuper has never been slow, but now some copy operations are over 2× faster. Scheduling options are more powerful. You don’t need to worry about the details to use SuperDuper, but the details are there for your inspection.</p>
-
-<p>Shirt Pocket’s Dave Nanian designed it, implemented it, and <a href="https://www.shirt-pocket.com/guide.php">thoroughly documented</a> it. I don’t know how that’s possible. SuperDuper feels like impossibly good software. Read his post <a href="https://www.shirt-pocket.com/blog/supererduperer">announcing version 4</a> to start, then catch up on <a href="https://www.shirt-pocket.com/blog/">the rest of the blog</a> to get a feeling for how much work he’s put into SuperDuper 4. Just extraordinary.</p>
-
-<p>In the 22 years since SuperDuper first shipped, Shirt Pocket has never charged for updates and never raised the price. (This too seems impossible, at least for a company that remains in business.) Version 4 costs $44 — an astonishing value — and discounts are available for anyone who bought version 3 after July 2020. Sans license, free of charge, SuperDuper 4 still allows you to make bootable backups.</p>
-
-<p>I recommend SuperDuper 4 wholeheartedly.</p>
-
-<p><strong>See also:</strong> <a href="https://sixcolors.com/post/2026/08/review-superduper-4-gets-a-stem-to-stern-revamp-but-is-just-as-seaworthy-as-ever/">Dan Moren at Six Colors</a> and <a href="https://mjtsai.com/blog/2026/08/13/superduper-4/">Michael Tsai</a>.</p>
-
-    ]]></content>
-  <title>★ SuperDuper 4</title></entry></feed><!-- THE END -->
+  <title>★ The iPhone Air and iPhone 17 Pro</title></entry></feed><!-- THE END -->
