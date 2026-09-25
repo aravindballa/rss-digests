@@ -7,7 +7,50 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-09-25T19:45:45Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-09-25T20:54:35Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Stock UI in MacOS 27 Eschews Clarity</title>
+	<link rel="alternate" type="text/html" href="https://mastodon.design/@thibault/117320401426286497" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xlv" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/25/stock-ui-in-macos-27-eschews-clarity" />
+	<id>tag:daringfireball.net,2026:/linked//6.43555</id>
+	<published>2026-09-25T20:54:34Z</published>
+	<updated>2026-09-25T20:54:35Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>“Thibault”, in post on Mastodon responding to <a href="https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html">Brent Simmons’s “stock Mac UI” post</a> that I just <a href="https://daringfireball.net/linked/2026/09/25/brent-simmons-stock-mac-ui">linked to</a>:</p>
+
+<blockquote>
+  <p>It reminded me of my own explorations with the macOS design
+language, especially the modern title/toolbar which I believe is
+one of the most foundational design regression on the platform.</p>
+
+<p>I played with the idea of redesigning the Finder with the
+original hierarchy but keeping the current Liquid Glass styling.
+Though it’s still far from what I’d like to see on my Mac, I
+thought I’d share.</p>
+</blockquote>
+
+<p>Here’s his subtle mockup:</p>
+
+<p><a href="https://daringfireball.net/misc/2026/09/thibault-finder-mockup.png" class="noborder">
+<img
+    src = "https://daringfireball.net/misc/2026/09/thibault-finder-mockup.png"
+    alt = "Thibault’s Finder redesign, with an actual MacOS 27 Finder window on the left, and his redesign on the right. His redesign features distinctive window chrome for the title and toolbar area, and a better hierarchy in the sidebar."
+/></a></p>
+
+<p>The changes in Thibault’s redesign, if you describe them verbally, sound minor. But <em>looking</em> at the differences feels like a huge — and much needed — breath of fresh air. It relaxes my nervous system to see obvious differentiation for window chrome at the top. The hierarchy is clear: <em>this</em> area is the window, <em>this</em> area is the content of the window.</p>
+
+<p>Apple’s MacOS 27 Golden Gate stock UI deliberately does away with that differentiation, for no good reason. I crave clarity, and Apple’s current MacOS design language rejects clarity. Like: where exactly can you click to drag a window around? That ought to be obvious; instead it’s literally a guessing game. And Thibault’s simple example also shows that the problem has nothing to do with “Liquid Glass” controls.</p>
+
+<div>
+<a  title="Permanent link to ‘Stock UI in MacOS 27 Eschews Clarity’"  href="https://daringfireball.net/linked/2026/09/25/stock-ui-in-macos-27-eschews-clarity">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Brent Simmons on ‘Stock’ Mac UI</title>
 	<link rel="alternate" type="text/html" href="https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xlu" />
@@ -200,7 +243,7 @@ behalf isn’t helpful. It’s terrifying.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/25/eli-tan-meta-muse-blown-away" />
 	<id>tag:daringfireball.net,2026:/linked//6.43550</id>
 	<published>2026-09-25T14:41:29Z</published>
-	<updated>2026-09-25T14:41:30Z</updated>
+	<updated>2026-09-25T20:35:48Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -222,7 +265,7 @@ following, on Facebook Marketplace, one of my favorite pastimes.</p>
 
 <p>Reading Tan’s “blown away” review (which words only appear in the headline, but it’s his byline under it) made me feel like I was on a hidden camera show. Like I’ve been told I’m about to be served some blow-you-away good coffee and what I’m tasting sure tastes <a href="https://www.youtube.com/watch?v=6HGKJHpQkfI">like Folger’s fucking crystals</a>. I’m not saying Muse isn’t capable of blow-you-away things, but I sure didn’t read any of them in Tan’s review. And then, at the end, it steers him toward buying something from ... Meta’s own Facebook Marketplace? And the reaction isn’t a hard eye roll?</p>
 
-<p>I’m of the impression that Tan believes he’s supposed to be impressed by Muse so he wrote piece saying he was impressed even though he didn’t use it to do a single impressive thing. If Tan asked the new Siri AI for a recommendation on what to do and it suggested he go to an Apple Store and buy new AirPods, would he not think that a bit cynical? Or if Alexa suggested that he should buy more Kindle books?</p>
+<p>I get the feeling that Tan believes he’s supposed to be impressed by Muse so he wrote a piece saying he was impressed even though he didn’t use it to do a single impressive thing. If Tan asked the new Siri AI for a recommendation on what to do and it suggested he go to an Apple Store and buy new AirPods, would he not think that a bit cynical? Or if Alexa suggested that he should buy more Kindle books?</p>
 
 <p><a href="https://www.todayintabs.com/p/meta-s-new-a-i-agent-for-losers">Here’s Rusty Foster, over at Today in Tabs</a>:</p>
 
@@ -1667,45 +1710,6 @@ things,” the Duo feels like a dud.</p>
 
 <div>
 <a  title="Permanent link to ‘Apple Releases Xcode 27.1, First SDK With Support for iPhone Duo’"  href="https://daringfireball.net/linked/2026/09/18/xcode-27-1-duo">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Warren Buffett, at 96, Steps Down as Chairman at Berkshire Hathaway</title>
-	<link rel="alternate" type="text/html" href="https://www.berkshirehathaway.com/news/sep1826.pdf" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xkl" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/18/buffett-retires" />
-	<id>tag:daringfireball.net,2026:/linked//6.43509</id>
-	<published>2026-09-18T19:29:12Z</published>
-	<updated>2026-09-18T19:29:12Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Warren Buffett, in a letter to Berkshire shareholders:</p>
-
-<blockquote>
-  <p>Recently, I celebrated my 96th birthday with family and friends,
-including one of my great-grandchildren, who had just turned one.
-He’s moving a bit faster than I am these days. [...]</p>
-
-<p>So the timing is right to complete the transition. I will become
-Chairman Emeritus and remain a Director. My son, Howard, will
-succeed me as Chairman.</p>
-
-<p>Howard has been a Berkshire Director for 33 years. That is a
-longer apprenticeship than I served before taking the reins at the
-age of 34. Greg runs the company; Howard will guard its culture
-and values — both worth more than anything on our balance sheet.
-Think of Howard as a policy the shareholders own and hope never to
-claim against.</p>
-</blockquote>
-
-<p>Not many 71-year-olds rise to the position of chairman at leading corporations.</p>
-
-<div>
-<a  title="Permanent link to ‘Warren Buffett, at 96, Steps Down as Chairman at Berkshire Hathaway’"  href="https://daringfireball.net/linked/2026/09/18/buffett-retires">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
