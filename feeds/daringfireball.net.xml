@@ -7,7 +7,27 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-09-25T20:54:35Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-09-26T00:00:10Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Mr. Choyka Is Apparently Doing Well</title>
+	<link rel="alternate" type="text/html" href="https://www.usatoday.com/story/sports/golf/2020/02/02/golf-amateur-gary-choyka-sinks-two-holes-one-same-round/4639969002/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xlw" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/25/choyka-doing-well" />
+	<id>tag:daringfireball.net,2026:/linked//6.43556</id>
+	<published>2026-09-25T23:50:45Z</published>
+	<updated>2026-09-25T23:50:45Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>A reader asked if this Gary Choyka who hit two holes-in-one in the same round of golf back in 2020 is the same Gary Choyka who was my history teacher 30+ years ago. Indeed it is. He looks good. (He was a hell of a basketball player too.)</p>
+
+<div>
+<a  title="Permanent link to ‘Mr. Choyka Is Apparently Doing Well’"  href="https://daringfireball.net/linked/2026/09/25/choyka-doing-well">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Stock UI in MacOS 27 Eschews Clarity</title>
 	<link rel="alternate" type="text/html" href="https://mastodon.design/@thibault/117320401426286497" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xlv" />
@@ -57,7 +77,7 @@ thought I’d share.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/25/brent-simmons-stock-mac-ui" />
 	<id>tag:daringfireball.net,2026:/linked//6.43554</id>
 	<published>2026-09-25T19:45:44Z</published>
-	<updated>2026-09-25T19:45:45Z</updated>
+	<updated>2026-09-25T23:29:54Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -92,7 +112,7 @@ and you really shouldn’t care about that at all).</p>
 
 <p>I was hesitant to quote anything from Simmons’s post, because you really ought to <a href="https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html">read the whole thing</a>. (I’ve always loved the way Brent writes.) But I really like his emphasis throughout the piece on the term “stock Mac UI”. Debating the nuances of what it means for software to be “Mac-like” is one of the through lines of Daring Fireball since the very beginning. It doesn’t mean just one thing, and it doesn’t encompass just a few things. It’s a lot of things. But that makes it susceptible to picking and choosing — what one considers “Mac-like” might just be what one personally prefers.</p>
 
-<p>But using the stock Mac UI — or having your custom UI build atop (or in OOP terms, subclass) stock Mac UI controls — is so thoroughly agreed-upon as a fundamental aspect of Mac-likeness that it’s seldom even discussed. This relatively short post from Simmons bursts that bubble — or you want a grosser but perhaps more apt metaphor, lances that boil. The emperor has no clothes, and MacOS’s stock UI is bad. It’s that simple.</p>
+<p>But using the stock Mac UI — or building your custom UI atop (or in OOP terms, subclassing) stock Mac UI controls — is so thoroughly agreed-upon as a fundamental aspect of Mac-like-ness that it’s seldom even discussed. This relatively short post from Simmons bursts that bubble — or if you’ll permit a grosser but perhaps more apt metaphor, lances that boil. The emperor has no clothes, and MacOS’s stock UI is bad. It’s that simple.</p>
 
 <p>At the end of the post Simmons includes two screenshots of NetNewsWire after a day of noodling where he removed the stock window chrome and toolbar (the venerable <a href="https://developer.apple.com/documentation/appkit/nstoolbar">NSToolbar</a>, perhaps the stockiest of stock UI elements) and replaced them with custom controls. If you told me 10 or 20 years ago that Brent Simmons spent a day replacing NSToolbar in NetNewsWire just to see what it looked like, I’d have called him on the phone to see if he was OK.</p>
 
@@ -109,14 +129,14 @@ and you really shouldn’t care about that at all).</p>
 	<link rel="shorturl" href="http://df4.us/xlt" />
 	<id>tag:daringfireball.net,2026://1.43553</id>
 	<published>2026-09-25T18:16:47Z</published>
-	<updated>2026-09-25T19:14:43Z</updated>
+	<updated>2026-09-26T00:00:10Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<summary type="text">I wouldn’t grant a stranger access to my email. So why would I grant a robot?</summary>
 	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>It’s Friday, and Muse is <a href="https://daringfireball.net/linked/2026/09/22/meta-muse-app-store">still</a> the #1 app in the iOS App Store — that’s a full week in the top spot. Who knows if it’s a flash in the pan or not. (Remember <a href="https://daringfireball.net/linked/2021/02/15/clubhouse-iphone-primacy">Clubhouse</a>? <a href="https://daringfireball.net/linked/2025/10/02/sora-launch">Sora</a>?) But at the moment it’s clearly a hit. It certainly helps that Meta itself is promoting Muse heavily on their own channels like Instagram and Facebook.</p>
+<p>It’s Friday, and Muse is <a href="https://daringfireball.net/linked/2026/09/22/meta-muse-app-store">still</a> the #1 app in the iOS App Store — that’s a full week in the top spot. Who knows if it’s a flash in the pan or not. (Remember <a href="https://daringfireball.net/linked/2021/02/15/clubhouse-iphone-primacy">Clubhouse</a>? <a href="https://daringfireball.net/linked/2025/10/02/sora-launch">Sora</a>?) But at the moment it’s clearly a hit. It certainly helps that Meta itself is promoting Muse heavily on its own channels like Instagram and Facebook.</p>
 
 <p>The Muse iOS app is sandboxed — because it has to be. So that’s the only version I’m personally tinkering with. But the Mac app is the more powerful one, because, well, it lets Muse drive your Mac. The fact that the Muse Mac app is so powerful is why it has to be downloaded from the web. It’s not in the Mac App Store because apps that do what the Muse Mac app does aren’t permitted in the Mac App Store — or are only permitted with hard-to-get entitlements. There are a lot of good reasons why good Mac developers have <a href="https://daringfireball.net/linked/2019/04/04/bbedit-mac-app-store">long</a> been <a href="https://daringfireball.net/linked/2015/12/01/sketch-leaves-mac-app-store">frustrated</a> by those rules. (Users too.) But the upside of Apple’s restrictive Mac App Store policies is that users can blindly install apps from the Mac App Store and trust that those apps <em>cannot</em> run amok on their system.</p>
 
@@ -128,7 +148,7 @@ and you really shouldn’t care about that at all).</p>
 
 <hr />
 
-<p>One of my favorite teachers in high school was a history teacher named Gary Choyka. I had him for morning homeroom too, and I loved that he had a daily subscription to The Philadelphia Inquirer, a real newspaper, not just our Podunk suburban rag. Mr. Choyka was a great teacher, full stop. I learned a lot about the world, and a ton about our civil rights and liberties here in the U.S. from him. It was from Mr. Choyka that I learned that you do not have to allow the police to enter your home just because they’re at the door claiming that they’re going to enter the home. That came in handy at some high school parties (and made me the designated knock-at-the-door answerer).</p>
+<p>One of my favorite teachers in high school was a history teacher named Gary Choyka. I had him for morning homeroom too, and I loved that he had a daily subscription to The Philadelphia Inquirer, a real newspaper, not just our Podunk suburban rag. Mr. Choyka was a great teacher, full stop. I learned a lot about the world, and a ton about our civil rights and liberties here in the U.S., from him. It was from Mr. Choyka that I learned that you do not have to allow the police to enter your home just because they’re at the door claiming that they’re going to enter the home. That came in handy at some high school parties (and made me the designated knock-at-the-door answerer).</p>
 
 <p>Part of what made Mr. Choyka a great teacher is that he had a wonderful presence, a mastery of the classroom. And he had one devastatingly effective technique. If he was giving a lecture and a bit of chatter between students grew to the point of even slight disruption, he’d just stop talking, mid-sentence, stare at the chattering students, and after waiting a few beats, say, “I’ll wait.”</p>
 
@@ -1690,26 +1710,6 @@ things,” the Duo feels like a dud.</p>
 
 <div>
 <a  title="Permanent link to ‘Will Oremus Is a Duo Doubter’"  href="https://daringfireball.net/linked/2026/09/18/oremus-duo-doubter">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple Releases Xcode 27.1, First SDK With Support for iPhone Duo</title>
-	<link rel="alternate" type="text/html" href="https://developer.apple.com/news/?id=nyuppv9r" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xkm" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/18/xcode-27-1-duo" />
-	<id>tag:daringfireball.net,2026:/linked//6.43510</id>
-	<published>2026-09-18T19:58:22Z</published>
-	<updated>2026-09-20T00:04:38Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>In addition to the Duo-specific 27.1 SDK, which allows third-party developers to get started adapting apps to the Duo’s new screen sizes and layouts, Apple’s developer site also has Figma and Sketch design kits.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Releases Xcode 27.1, First SDK With Support for iPhone Duo’"  href="https://daringfireball.net/linked/2026/09/18/xcode-27-1-duo">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
