@@ -7,7 +7,167 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-09-29T15:26:46Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-09-30T20:17:33Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	
+	<link rel="alternate" type="text/html" href="https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026" />
+	<link rel="shorturl" href="http://df4.us/xmi" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2026/09/workos_how_sso_works_and_the_f_1" />
+	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.43578</id>
+	<author><name>Daring Fireball Department of Commerce</name></author>
+	<published>2026-09-30T20:17:32Z</published>
+	<updated>2026-09-30T20:17:33Z</updated>
+	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
+<p>SSO is table stakes for enterprise deals, but building it into your app yourself means writing SAML controllers, parsing XML assertions, and handling IdP-specific quirks for each provider.</p>
+
+<p>Learn how SAML flows work, the tradeoffs between building or buying, and best practices for security, routing, and UX. Or skip the hassle and add SSO with <a href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026">WorkOS</a>.</p>
+
+<p><a href="https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026">Read the guide →</a></p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS: How SSO Works and the Fastest Way to Add It’"  href="https://daringfireball.net/feeds/sponsors/2026/09/workos_how_sso_works_and_the_f_1">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+	<title>[Sponsor] WorkOS: How SSO Works and the Fastest Way to Add It</title></entry><entry>
+	<title>Gurman Reports Apple Is Launching New ‘Smart Home’ Products on October 13</title>
+	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2026-09-30/apple-is-finally-ready-to-enter-its-next-big-category-the-smart-home?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDc3MDk0MywiZXhwIjoxNzkxMzc1NzQzLCJhcnRpY2xlSWQiOiJUTTM0SDRUOTZPU0cwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.11wEtJfuMwCkznTkepXugZ2wuZTmxO9CdsNJLAcBd1M" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xmh" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/30/gurman-october-13-smart-home" />
+	<id>tag:daringfireball.net,2026:/linked//6.43577</id>
+	<published>2026-09-30T20:14:31Z</published>
+	<updated>2026-09-30T20:14:31Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Mark Gurman, reporting for Bloomberg (gif link):</p>
+
+<blockquote>
+  <p>Apple Inc. plans to make its long-delayed push into the smart-home
+market on Oct. 13, marking a critical product expansion for the
+company under new Chief Executive Officer John Ternus. At the
+center of the strategy is a smart-home hub code-named J490,
+according to people familiar with the matter. Apple also plans to
+announce the first update to the HomePod mini since that device’s
+2020 debut and its first new TV set-top box since 2022. [...]</p>
+
+<p>The home hub will take the form of a roughly 6-inch square
+display, with versions that can be mounted on a wall or placed on
+a countertop, according to the people, who asked not to be
+identified because the products haven’t been announced. [...]</p>
+
+<p>Because the device is intended to remain stationary, it has a
+single FaceTime camera on the front and no rear camera. The
+product has microphones and speakers in its connected base. The
+hub is about as thick as an iPhone, and its display is surrounded
+by a quarter-inch, black bezel reminiscent of older iPads. It has
+rounded corners and no sharp edges. The device lacks a battery, so
+it has to be plugged in at all times, and there are no volume or
+power buttons.</p>
+
+<p>The product comes in Apple’s standard gray aluminum finish and
+includes a USB-C port for power. The screen sits above a metal,
+round base with multiple rings of perforated speaker holes and
+connects to it through a polished metal arm. Users can manually
+tilt the display forward or backward. And the base has a
+rubberized bottom to help it stay on a table.</p>
+</blockquote>
+
+<p>If you think that sounds like the beloved but short-lived “sunflower” <a href="https://en.wikipedia.org/wiki/IMac_G4">iMac G4 from 2002</a>, that’s exactly what Gurman says it resembles. As is so often the case, Gurman seems to know many details about the device, but yet doesn’t know its name, or price. Presumably the speakers are good enough to serve by themselves, but how good are they? Can they be paired with HomePods to create stereo pairs?</p>
+
+<blockquote>
+  <p>The hub’s defining feature will be its ability to serve multiple
+members of a household. It is designed to recognize who is
+speaking to it or approaching it, and then display personalized
+content and provide answers based on that person’s data and
+accounts. When a user walks up, for example, the device will show
+that person’s contacts, messages, calendar appointments, notes and
+preferred app layout. The interface can then change automatically
+when another recognized household member approaches. It will also
+have a mode for visitors that hides personal information.</p>
+
+<p>The device identifies users by their voices or through a
+facial-recognition system, though the latter is less reliable than
+Face ID on the iPhone. Users can require secondary authentication
+through an iPhone if they don’t want to rely solely on voice or
+facial recognition. The iPhone also serves as a fallback when the
+hub cannot identify someone correctly.</p>
+</blockquote>
+
+<p>Given that Apple Watch is used as an identifier to unlock your Mac (and, says Apple, iPhone Duo), it would make sense if that worked with this device too.</p>
+
+<div>
+<a  title="Permanent link to ‘Gurman Reports Apple Is Launching New ‘Smart Home’ Products on October 13’"  href="https://daringfireball.net/linked/2026/09/30/gurman-october-13-smart-home">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Anthropic’s IPO Prospectus Is a Fucking Doozy</title>
+	<link rel="alternate" type="text/html" href="https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xmg" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus" />
+	<id>tag:daringfireball.net,2026:/linked//6.43576</id>
+	<published>2026-09-30T19:23:42Z</published>
+	<updated>2026-09-30T19:23:43Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Echo Wang, reporting for Reuters yesterday:</p>
+
+<blockquote>
+  <p>Anthropic is making a massive bet that AI will transform the
+global economy more profoundly than ​industrialization,
+electricity and the internet, according to its IPO prospectus seen
+by Reuters.</p>
+</blockquote>
+
+<p>This is a strong clear lede, but even so it falls short of expressing the true magnitude of what Anthropic represents. To wit, not that “AI” as a field will prove more profoundly transformational than industrialization, electricity, and the Internet, but that <em>Anthropic alone will</em>. This is not an IPO that makes sense if you consider Anthropic one among peers, even a short list placing them alongside just (say) OpenAI, Google, and Meta. It only makes sense if you believe Anthropic is on the cusp of winning a race to create a godlike super intelligence, and that first godlike super intelligence will take over the world.</p>
+
+<p>You know, something exactly akin to the “rapture” events that religious cultists believe are coming.</p>
+
+<blockquote>
+  <p>But the cost to get there will be staggering. Anthropic reported a
+net loss of $42 billion in 2025, and plans to spend $518 billion
+on cloud, computing and infrastructure obligations in coming
+years, according to the prospectus.</p>
+</blockquote>
+
+<p>If you believe <a href="https://www.ft.com/content/4564e6a5-69e9-40a6-bf0f-a888f2f4f002?syn-25a6b1a6=1">that they’re profitable now</a> you’re as crazy as they are. They’ll <a href="https://www.wheresyoured.at/anthropics-profitability-swindle/">seed stories to the press</a> that they’re now profitable, using accounting methods they won’t define (and wouldn’t pass muster for a public company) but won’t make such claims in writing.</p>
+
+<blockquote>
+  <p>The prospectus details how the company has grown sharply in the
+last year — while also posting wider losses. Revenue grew 12-fold
+in 2025 to nearly $4.6 billion, even as the company lost more than
+$8 billion on an operating basis, excluding writedowns of various
+liabilities mostly tied to previous fundraising, according to the
+documents, reported here for the first time. [...]</p>
+
+<p>Anthropic said nearly a quarter of its revenue came from two
+customers last year, and as part of its risk factors, warned that
+many of its largest clients were not locked into long-term
+contracts and could cut or stop spending.</p>
+</blockquote>
+
+<p>I don’t think this is complicated. Their revenue is accelerating rapidly because they’re selling compute at a loss. They spent $13 billion to make $5 billion last year. Their revenue is growing rapidly, yes, but their costs are growing even faster. They’re already on the hook for half a trillion dollars on cloud computing expansion but their revenue is precariously reliant on a few big-spending whales <em>who aren’t under contract</em>, and commodity open source models are rapidly closing the gap. If Anthropic is losing a fortune now with $13 billion in costs how are they going to break even spending $100+ billion per year? Don’t worry, their godlike AI will figure that out?</p>
+
+<p><a href="https://x.com/garymarcus/status/2104725819524612483">Gary Marcus</a>:</p>
+
+<blockquote>
+  <p>Anthropic’s proposed valuation is easily calculated, as -50 times
+2025 losses.</p>
+
+<p>The more they lose, the more they win!</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘Anthropic’s IPO Prospectus Is a Fucking Doozy’"  href="https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Follow-Up on my Spitballed Predictions for Apple’s October</title>
 	<link rel="alternate" type="text/html" href="https://daringfireball.net/2026/09/spitballing_predictions_for_apples_october" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xmf" />
@@ -1574,116 +1734,6 @@ have agreed.”</p>
 
 	]]></content>
   </entry><entry>
-	<title>Meta’s New Muse AI Agent App Overtakes ChatGPT as Top iPhone App</title>
-	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/09/18/metas-new-muse-ai-agent-app-overtakes-chatgpt-as-top-iphone-app/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xl9" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/22/meta-muse-app-store" />
-	<id>tag:daringfireball.net,2026:/linked//6.43533</id>
-	<published>2026-09-22T20:12:41Z</published>
-	<updated>2026-09-22T20:35:51Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Zac Hall, writing for 9to5 Mac on Friday:</p>
-
-<blockquote>
-  <p>Meta’s new Muse AI agent app has taken the top spot on the free
-iPhone charts for the U.S. App Store, displacing OpenAI’s ChatGPT
-from the first place.</p>
-
-<p>Muse by Meta only <a href="https://9to5mac.com/2026/09/17/meta-ai-launches-muse-personal-agent-including-a-new-mobile-app-for-iphone/">launched this month</a>, although the app
-has been around for a couple of weeks. This means new installs are
-picking up and boosting the app on the App Store’s top charts
-beyond the day-one launch.</p>
-
-<p>Just yesterday, Meta expanded Muse app availability to include the
-Mac. The desktop version of the app doesn’t contribute to the App
-Store ranking, however, as it’s downloadable from the web.</p>
-</blockquote>
-
-<p>Four days later and Muse <a href="https://apps.apple.com/us/iphone/charts/36?chart=top-free">still holds</a> the #1 spot in the U.S. iOS App Store. Here’s the top 15 today (with the full, sometimes insipid, name of each app, and my own commentary in brackets):</p>
-
-<ol>
-<li>Muse from Meta</li>
-<li>ChatGPT</li>
-<li>Vinted: Pre-loved marketplace [if this crap was loved why did they sell it?]</li>
-<li>StoryReel: Drama Shorts &amp; TV</li>
-<li>Google Gemini</li>
-<li>Polymarket: Trade Live Sports [trading, not gambling!]</li>
-<li>PineDrama — Short Dramas</li>
-<li>TikTok Pro — Events</li>
-<li>Depop — Buy &amp; Sell Clothes</li>
-<li>CapCut: Photo &amp; Video Editor</li>
-<li>Kalshi: Trade Football &amp; more [but the “more” is definitely not gambling!]</li>
-<li>Claude by Anthropic</li>
-<li>Google</li>
-<li>The White House</li>
-<li>Threads</li>
-</ol>
-
-<p>Hit apps come and go. Temu had been at or near the top for a long while, but now sits at #20. But ChatGPT has been at or very near the top for years now. Anthropic is on the cusp of a record-breaking IPO based on the strength of its enterprise success. #12 is nothing to sneeze at — clearly, Claude is a consumer hit. But it’s behind Gemini, and all of these apps are typically behind ChatGPT.</p>
-
-<p>The odds are that Muse won’t stay at the top for long. And eventually, ChatGPT will decline in popularity. But Muse is off to a big start. And ChatGPT’s persistence atop the App Store is quite remarkable.</p>
-
-<div>
-<a  title="Permanent link to ‘Meta’s New Muse AI Agent App Overtakes ChatGPT as Top iPhone App’"  href="https://daringfireball.net/linked/2026/09/22/meta-muse-app-store">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Xcode 27.2 Now Supports a New JSON Project File Format</title>
-	<link rel="alternate" type="text/html" href="https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xl8" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/22/xcode-json-project-files" />
-	<id>tag:daringfireball.net,2026:/linked//6.43532</id>
-	<published>2026-09-22T19:25:52Z</published>
-	<updated>2026-09-23T22:38:57Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Apple Developer:</p>
-
-<blockquote>
-  <p>Xcode now supports a JSON-based project format (.xcproj) that’s
-more readable, merge-friendly, and easier for coding agents to
-edit. Enable it in the file inspector. Projects using .xcproj also
-open in earlier versions of Xcode 27.</p>
-</blockquote>
-
-<p>Apple released, on GitHub, <a href="https://github.com/apple/xcode-project-format">a Swift library (and CLI tool)</a> for reading, writing, and manipulating this new project format. <a href="https://mjtsai.com/blog/2026/09/17/xcodes-new-xcproj-files-are-json/">Michael Tsai has a list of developer reactions</a>, which are universally positive. A sampling:</p>
-
-<p><a href="https://mastodon.social/@simonbs/117282260955657402">Simon B. Støvring</a>:</p>
-
-<blockquote>
-  <p>Developers have been screaming for a friendlier Xcode project format for years. I’m one of them.</p>
-</blockquote>
-
-<p><a href="https://mastodon.social/@tonyarnold/117283237592284302">Tony Arnold</a>:</p>
-
-<blockquote>
-  <p>I’ve been waiting for something like this for most of my career! 🎉</p>
-</blockquote>
-
-<p><a href="https://mastodon.social/@cocoaphony/117284198012341992">Rob Napier</a>:</p>
-
-<blockquote>
-  <p>It does feel like another case of “we’ve quickly done a thing to help AI that we’ve been unwilling to do for years to help humans.” I’m seeing that happen across the industry.</p>
-
-<p>It is very welcome and appreciated, and lots of thanks to the teams involved. It’s also frustrating that it took “it can help AI” to make it happen.</p>
-</blockquote>
-
-<p>The old .pbxproj project format was <em>not</em> XML; it was an old <a href="https://daringfireball.net/misc/2026/09/PropertyLists.pdf">NeXT-style “ASCII” property list</a> — a file format that is surprisingly JSON-like considering that it predates not only JSON, but JavaScript (JSON = <a href="https://www.json.org/json-en.html">JavaScript Object Notation</a>). The problem developers have long had with the old .pbxproj project file isn’t about the old plist format, but instead the way the object graph was represented in it. Everything was represented by opaque ID values; one small change in Xcode often resulted in multiple changes on different lines in the .pbxproj file. While technically that format is a human-readable (and thus LLM-readable) text file, it effectively needed to be treated as a binary file.</p>
-
-<div>
-<a  title="Permanent link to ‘Xcode 27.2 Now Supports a New JSON Project File Format’"  href="https://daringfireball.net/linked/2026/09/22/xcode-json-project-files">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF" />
 	<link rel="shorturl" href="http://df4.us/xl6" />
@@ -2610,25 +2660,4 @@ Station.</p>
 </div>
 
     ]]></content>
-  <title>★ Thoughts and Observations on Apple’s ‘Surprise and Shine’ Event; the Announcements of the iPhones 18 Pro, AirPods 5, Apple Watches Series 12 and Ultra 4, and the iPhone Duo; and the Dawn of the Ternus, John Ternus Era at Apple</title></entry><entry>
-	
-	<link rel="alternate" type="text/html" href="https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026" />
-	<link rel="shorturl" href="http://df4.us/xk5" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2026/09/workos_how_sso_works_and_the_f" />
-	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.43493</id>
-	<author><name>Daring Fireball Department of Commerce</name></author>
-	<published>2026-09-15T15:32:24Z</published>
-	<updated>2026-09-15T15:32:24Z</updated>
-	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
-<p>SSO is table stakes for enterprise deals, but building it into your app yourself means writing SAML controllers, parsing XML assertions, and handling IdP-specific quirks for each provider.</p>
-
-<p>Learn how SAML flows work, the tradeoffs between building or buying, and best practices for security, routing, and UX. Or skip the hassle and add SSO with <a href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026">WorkOS</a>.</p>
-
-<p><a href="https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026">Read the guide →</a></p>
-
-<div>
-<a  title="Permanent link to ‘WorkOS: How SSO Works and the Fastest Way to Add It’"  href="https://daringfireball.net/feeds/sponsors/2026/09/workos_how_sso_works_and_the_f">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-	<title>[Sponsor] WorkOS: How SSO Works and the Fastest Way to Add It</title></entry></feed><!-- THE END -->
+  <title>★ Thoughts and Observations on Apple’s ‘Surprise and Shine’ Event; the Announcements of the iPhones 18 Pro, AirPods 5, Apple Watches Series 12 and Ultra 4, and the iPhone Duo; and the Dawn of the Ternus, John Ternus Era at Apple</title></entry></feed><!-- THE END -->
