@@ -7,7 +7,29 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-09-30T23:14:52Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-10-02T00:06:57Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Yankees Sweep Boston in Two Games, by Combined Score of 18-2</title>
+	<link rel="alternate" type="text/html" href="https://www.nytimes.com/athletic/7648172/2026/09/30/yankees-beat-red-sox-mlb-wild-card-series/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xmj" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/01/yankees-sweep-sox" />
+	<id>tag:daringfireball.net,2026:/linked//6.43579</id>
+	<published>2026-10-02T00:06:56Z</published>
+	<updated>2026-10-02T00:06:57Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>In the 6th inning last night the Yankees were only ahead 2-0, and Red Sox first baseman  Willson Contreras hit a home run, closing it to 2-1. Contreras decided to <a href="https://x.com/FoulTerritoryTV/status/2105479146830770481"><em>walk</em> around the bases</a>. The baseball gods do not look kindly upon that sort of jackassery.</p>
+
+<p>In the next inning, Contreras wasn’t paying attention and his laziness allowed a Yankee to reach base after striking out on a wild pitch. That started the rally that resulted in the blowout final score.</p>
+
+<div>
+<a  title="Permanent link to ‘Yankees Sweep Boston in Two Games, by Combined Score of 18-2’"  href="https://daringfireball.net/linked/2026/10/01/yankees-sweep-sox">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026" />
 	<link rel="shorturl" href="http://df4.us/xmi" />
@@ -1688,48 +1710,6 @@ But the longer answer is probably more interesting here too.</p>
 
 <div>
 <a  title="Permanent link to ‘Why Didn’t Google Build Muse?’"  href="https://daringfireball.net/linked/2026/09/22/why-didnt-google-build-muse">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Amazon Blocks Meta’s Muse AI Assistant</title>
-	<link rel="alternate" type="text/html" href="https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xla" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/22/amazon-blocks-muse" />
-	<id>tag:daringfireball.net,2026:/linked//6.43534</id>
-	<published>2026-09-22T20:43:32Z</published>
-	<updated>2026-09-22T20:43:32Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Todd Bishop, reporting at GeekWire:</p>
-
-<blockquote>
-  <p>Amazon says it has cut off Meta’s new Muse personal AI agent from
-shopping on Amazon.com on behalf of customers, after attempting
-unsuccessfully to get the Facebook parent company to voluntarily
-exclude the e-commerce site from the experience.</p>
-
-<p>The problem, Amazon says, is that it never agreed to any of it.
-Meta didn’t tell Amazon that Muse would access its store, the
-agent doesn’t identify itself when it browses, and it appears to
-capture and store customer credentials, which the company says
-could create privacy and security risks.</p>
-
-<p>As of Sunday night, people trying to use Muse to shop on Amazon
-were seeing the popup, “Continued access by an unauthorized AI
-agent violates Amazon’s Conditions of Use, to which our customers
-have agreed.”</p>
-</blockquote>
-
-<p>On the one hand, Muse is software, and Amazon cutting off an unauthorized software client from accessing its store seems like a normal thing for Amazon to do. I suspect Meta has protections in place to prevent other agents from acting as clients for Instagram or Facebook.</p>
-
-<p>But on the other hand, an agent is an agent. If I hired a human personal assistant and told them to buy some stuff at Amazon for me, they’d just do it, and Amazon wouldn’t — and seemingly couldn’t — stop it. How is Muse different than that other than the fact it’s an AI assistant, not a human one? I’m sure Amazon’s answer is that they don’t care about the philosophical debate; they’re not going to sit back and let Meta software spider their store and aggregate purchasing data.</p>
-
-<div>
-<a  title="Permanent link to ‘Amazon Blocks Meta’s Muse AI Assistant’"  href="https://daringfireball.net/linked/2026/09/22/amazon-blocks-muse">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
