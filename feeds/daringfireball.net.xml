@@ -7,7 +7,97 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-10-03T00:49:40Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-10-03T21:23:10Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>WorkOS</title>
+	<link rel="alternate" type="text/html" href="https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xmn" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/03/workos-sso" />
+	<id>tag:daringfireball.net,2026:/linked//6.43583</id>
+	<published>2026-10-03T21:23:10Z</published>
+	<updated>2026-10-03T21:23:10Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks to WorkOS for sponsoring this last week, once again, at DF.</p>
+
+<p>SSO is table stakes for enterprise deals, but building it into your app yourself means writing SAML controllers, parsing XML assertions, and handling IdP-specific quirks for each provider. Learn how SAML flows work, the tradeoffs between building or buying, and best practices for security, routing, and UX.</p>
+
+<p>Or, skip the hassle and add SSO with <a href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026">WorkOS</a>. Read <a href="https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026">their developer’s guide to learn more</a> — everything from how SSO works to why WorkOS is the fastest way to add it.</p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS’"  href="https://daringfireball.net/linked/2026/10/03/workos-sso">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Apple Confirms iPhone 18 Pro Max AT&amp;T Cellular Issues, Affected Devices Require Hardware Replacement</title>
+	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xmm" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/03/iphone-18-pro-max-att-issues" />
+	<id>tag:daringfireball.net,2026:/linked//6.43582</id>
+	<published>2026-10-03T18:21:14Z</published>
+	<updated>2026-10-03T21:07:30Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Chance Miller, 9to5Mac:</p>
+
+<blockquote>
+  <p>In a statement to 9to5Mac, Apple said:</p>
+
+<blockquote>
+  <p>We have identified an issue affecting a small number of iPhone 18
+Pro Max users on the AT&amp;T network that may cause a device to lose
+service and be unable to make calls. We released iOS 27.0.1
+earlier this week and strongly encourage all iPhone 18 Pro Max
+users to update now, and are also issuing a carrier settings
+update today. These updates together are meant to help prevent
+this issue from occurring.</p>
+</blockquote>
+
+<p>The carrier settings update for the iPhone 18 Pro Max will
+download automatically over the next 14 days. However, users can
+manually trigger the download by going to Settings, choosing
+General, then About.</p>
+
+<p>Apple explains that the software updates will help prevent future
+issues for iPhone 18 Pro Max users on AT&amp;T. The software updates
+will not restore service on devices that have already lost it.</p>
+
+<p>Apple says that iPhone 18 Pro Max users who have already lost
+service will need a hardware replacement. Those users should
+contact Apple Support or AT&amp;T, or visit an Apple Store or AT&amp;T
+location.</p>
+
+<p>As we <a href="https://9to5mac.com/2026/10/02/att-claims-ios-27-0-1-fixes-iphone-18-pro-max-cellular-issues-but-users-disagree/">reported this morning</a>, iPhone 18 Pro Max users
+<a href="https://redirect.viglink.com/?format=go&amp;jsonp=vglnk_179097440444712&amp;key=c1c7d488bb2df8a8b659d5d41634d304&amp;libId=murfv83l010023dg000ULbaiwgr4z&amp;loc=https%3A%2F%2F9to5mac.com%2F2026%2F10%2F02%2Fatt-claims-ios-27-0-1-fixes-iphone-18-pro-max-cellular-issues-but-users-disagree%2F&amp;ccpaConsent=1---&amp;v=1&amp;out=https%3A%2F%2Fwww.reddit.com%2Fr%2FATT%2Fcomments%2F1wugizd%2F18_pro_max_cellular_issue_more_widespread_than%2F&amp;ref=https%3A%2F%2Fwww.google.com%2F&amp;title=AT%26T%20claims%20iOS%2027.0.1%20fixes%20iPhone%2018%20Pro%20Max%20cellular%20issues%2C%20but%20users%20disagree%20%5BU%5D%20-%209to5Mac&amp;txt=relatively%20widespread">affected by this</a> problem <a href="https://www.reddit.com/r/ATT/comments/1wn54ip/anyone_else_getting_sos_on_iphone_18_pro_max_this/">can’t connect</a> to <a href="https://www.reddit.com/r/iphone/comments/1wlk7st/anyone_else_getting_sos_on_iphone_18_pro_max/">AT&amp;T’s
+network</a> for calls, texts, and data. Instead, those users see
+“SOS” in their iPhone’s status bar. The connectivity issues aren’t
+impacting every iPhone 18 Pro Max user on AT&amp;T.</p>
+</blockquote>
+
+<p>I’ve heard from a handful of DF readers about this, and the readers experiencing the problem have all found each other in various forums over the last two weeks. The following all seem to be true:</p>
+
+<ul>
+<li><p>It’s only a problem for AT&amp;T customers. No such problems on Verizon or T-Mobile.</p></li>
+<li><p>It’s only the 18 Pro Max, not the regular 18 Pro. The salient fact here is that the only iPhone 18 Pro models that use Qualcomm cellular modems, rather than Apple’s own C2 modem, <a href="https://daringfireball.net/linked/2026/09/17/iphone-18-pro-c2-vs-qualcomm-modems">are 18 Pro Max devices <em>in the U.S.</em></a>. So the problem seems to be something related to the Qualcomm modem and AT&amp;T’s network.</p></li>
+<li><p>It is not a problem for <em>all</em> 18 Pro Max devices on AT&amp;T’s network. “A small number” is all Apple will say, but anecdotally it seems clear that it’s not <em>most</em> 18 Pro Max devices on AT&amp;T. But it still seems like <em>many</em>. It’s not exceedingly rare.</p></li>
+</ul>
+
+<p>Pretty unusual that once a device is affected and loses service, the device must be replaced. Yet, the 27.0.1 iOS update contains a fix (or fixes) that should help devices that haven’t yet lost service from losing service. I’d love to understand how a software update can prevent existing devices from being affected, but a software update cannot restore service to existing devices that have already been affected.</p>
+
+<p>Something else I’m curious about is whether it’s related to AT&amp;T customers, or AT&amp;T’s <em>network</em> — are iPhone 18 Pro Maxes that are connected to MVNO carriers whose backend is provided by AT&amp;T similarly affected? E.g. US Mobile customers on <a href="https://bestmvno.com/us-mobile/us-mobiles-att-dark-star/">US Mobile’s “Dark Star” service</a>? I’d <a href="https://daringfireball.net/contact/">love to hear</a> from anyone who knows.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Confirms iPhone 18 Pro Max AT&amp;T Cellular Issues, Affected Devices Require Hardware Replacement’"  href="https://daringfireball.net/linked/2026/10/03/iphone-18-pro-max-att-issues">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/10/apple_full_disk_access" />
 	<link rel="shorturl" href="http://df4.us/xml" />
@@ -1678,88 +1768,6 @@ criticism. But I digress.</p>
 
 <div>
 <a  title="Permanent link to ‘Meta’s Muse Logomark, Designed by Jessica Hische ’"  href="https://daringfireball.net/linked/2026/09/22/meta-muse-hische">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Meta’s New Muse AI Agent Read Jason Aten’s Messages Database</title>
-	<link rel="alternate" type="text/html" href="https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xlc" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/22/aten-muse" />
-	<id>tag:daringfireball.net,2026:/linked//6.43536</id>
-	<published>2026-09-22T21:26:24Z</published>
-	<updated>2026-09-22T22:34:32Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Jason Aten, writing for Inc:</p>
-
-<blockquote>
-  <p>Then, yesterday, I was having a conversation with my Primary
-Technology podcast co-host, Stephen Robles, about the new
-iPhones. Moments later, I got a push notification from Muse
-suggesting that the conversation we were having would make for a
-good column and offered to put together research for me to write
-about. It even flagged a message from my editor about having a
-column ready for Monday.</p>
-
-<p>Not only had I not asked it to do that sort of thing, I never gave
-it permission to read my messages. In fact, I remember explicitly
-choosing not to let it have access to my messages, calendar, and
-other personal information.</p>
-
-<p>Stranger still was what happened when I asked Muse how it knew.</p>
-</blockquote>
-
-<p>Like I <a href="https://www.threads.com/share/JLXMWFkcA/">told Aten on Threads</a>, Muse was right about one thing: it did give him a good idea for a column. Later on, Aten writes:</p>
-
-<blockquote>
-  <p>I also want to be clear about something else: If your response
-to this is that, of course, Meta would do this — it’s Meta — you are just letting them off the hook. You’re normalizing
-behavior that should not be normal, and you should not let them
-off the hook.</p>
-</blockquote>
-
-<p>My response to this is a little more complex than that. At the top level, this is why I don’t run any AI agents, from any source, on my production/work Macs where all my personal information and communication apps are. And if I eventually do, I’ll pay surgical attention to the permissions I grant them.</p>
-
-<p>But at a second level, I do think “Of course Meta would do this”. If I were going to run an AI agent on my personal Mac today, Meta’s would be among the last I’d choose. They’re the proverbial scorpion and <a href="https://en.wikipedia.org/wiki/The_Scorpion_and_the_Frog">we’re the frogs</a>. I’m genuinely curious about Muse, and might soon try it — but I’ll try it on a machine without most of my data on it. This isn’t “letting them off the hook” — this is keeping Meta on the hook, where they belong.</p>
-
-<div>
-<a  title="Permanent link to ‘Meta’s New Muse AI Agent Read Jason Aten’s Messages Database’"  href="https://daringfireball.net/linked/2026/09/22/aten-muse">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Why Didn’t Google Build Muse?</title>
-	<link rel="alternate" type="text/html" href="https://spyglass.org/why-didnt-google-build-muse/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xlb" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/22/why-didnt-google-build-muse" />
-	<id>tag:daringfireball.net,2026:/linked//6.43535</id>
-	<published>2026-09-22T20:51:12Z</published>
-	<updated>2026-09-22T20:55:11Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>MG Siegler, writing at Spyglass:</p>
-
-<blockquote>
-  <p>The number one response I’ve gotten to <a href="https://spyglass.org/metas-amusing-muse/">my thoughts on Meta’s Muse
-personal assistant agent</a> is some variation of “I will never
-trust Meta with my data.” But the number two response is arguably
-more interesting (and related): “Why didn’t Google build this?”</p>
-
-<p>The short answer to this is undoubtedly: they’re working on it.
-But the longer answer is probably more interesting here too.</p>
-</blockquote>
-
-<p>Siegler’s take is basically that Google lacks focus. They’ve got multiple AI agent products, none of which are hitting — which as he points out <a href="https://www.theverge.com/2021/6/21/22538240/google-chat-allo-hangouts-talk-messaging-mess-timeline">has been their decades-long problem with messaging apps</a>. Say what you want about Meta as a company and Mark Zuckerberg as a leader, but they (and he) have focus. <a href="https://daringfireball.net/linked/2025/04/28/om-malik-facebook-rename">I make fun of them</a> (and him) for going all-in on “the metaverse” only to lose all interest in it just a few years later, but to play devil’s advocate, that’s how focus works.</p>
-
-<div>
-<a  title="Permanent link to ‘Why Didn’t Google Build Muse?’"  href="https://daringfireball.net/linked/2026/09/22/why-didnt-google-build-muse">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
