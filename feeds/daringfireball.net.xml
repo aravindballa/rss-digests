@@ -7,7 +7,27 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-10-05T23:49:05Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-10-06T03:16:09Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Steve Jobs, Walking Through a Mockup for Apple Park in 2010</title>
+	<link rel="alternate" type="text/html" href="https://book.stevejobsarchive.com/#photo-37" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xmr" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/05/jobs-walking-through-mockup" />
+	<id>tag:daringfireball.net,2026:/linked//6.43587</id>
+	<published>2026-10-06T02:49:44Z</published>
+	<updated>2026-10-06T02:54:41Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>What an apt photo, <a href="https://daringfireball.net/linked/2026/10/05/ternus-cook-jobs-15th-anniversary">today</a> of all days. What a gift <em>Make Something Wonderful</em> is.</p>
+
+<div>
+<a  title="Permanent link to ‘Steve Jobs, Walking Through a Mockup for Apple Park in 2010’"  href="https://daringfireball.net/linked/2026/10/05/jobs-walking-through-mockup">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://sunnny.com/" />
 	<link rel="shorturl" href="http://df4.us/xmq" />
@@ -31,7 +51,7 @@
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/05/openai-announces-their-text-watermarking-plans" />
 	<id>tag:daringfireball.net,2026:/linked//6.43585</id>
 	<published>2026-10-05T22:59:14Z</published>
-	<updated>2026-10-05T23:01:09Z</updated>
+	<updated>2026-10-06T03:16:09Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -64,7 +84,7 @@ and improve the technology.</li>
 
 <p>First, unlike Anthropic, OpenAI is only forcing this upon users in the EU, where it’s mandated by their ill-considered 2024 regulation. Second, also unlike Anthropic, OpenAI has made this available via an API so developers should be able to actually see if this adulterates text output with real-world usage.</p>
 
-<p>Second, none of these companies have yet made their watermark detectors publicly accessible. I remain highly skeptical that they will work as advertised in the real world. I think this is all somewhat of a sham to claim compliance with the EU AI Act without actually providing anything that anyone can actually use in a practical way.</p>
+<p>Third, none of these companies have yet made their watermark detectors publicly accessible. I remain highly skeptical that they will work as advertised in the real world. I think this is all somewhat of a sham to claim compliance with the EU AI Act without actually providing anything that anyone can actually use in a practical way.</p>
 
 <blockquote>
   <p>Our text watermarking technology, textGrain, adds an invisible
@@ -1693,44 +1713,6 @@ iPhone model.</p>
 
 <div>
 <a  title="Permanent link to ‘‘Prepare to Ship’ Is a Clever Software Solution That Allows iPhone 18 Pro Max to Ship With a Battery That Would Otherwise Exceed International Shipping Regulations’"  href="https://daringfireball.net/linked/2026/09/23/prepare-to-ship">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>App Store Scam of the Week: ‘Update My Phone &amp; Apps: Guide’ by Tair Olzhasev</title>
-	<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/update-my-phone-apps-guide/id6753936837" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xlg" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/23/app-store-scam-update-my-phone" />
-	<id>tag:daringfireball.net,2026:/linked//6.43540</id>
-	<published>2026-09-23T18:38:58Z</published>
-	<updated>2026-09-24T16:54:52Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>“Update My Phone &amp; Apps: Guide” is an iOS app from developer Tair Olzhasev. By default, the only thing it does for free is give you a “Check for Updates” button that launches the system Settings app. It doesn’t even take you to the General → Software Update screen. It just takes you to the root level of Settings.</p>
-
-<p>Everything else it purports to do requires a $15/week subscription. That’s $780 per year. (It does offer a three-day free trial before weekly billing starts.) These other features, gated behind the “pro” subscription:</p>
-
-<blockquote>
-  <ul>
-<li>Clear device status: iOS version and storage usage at a glance</li>
-<li>One-tap shortcut to system update settings</li>
-<li>Tip of the Day with practical hacks and best practices</li>
-<li>Lightweight, private, and fast — no accounts or tracking</li>
-<li>Optional Premium for extra guidance and tools</li>
-</ul>
-</blockquote>
-
-<p>In other words, the app does nothing that iOS doesn’t automatically do for all users. Absolutely nothing. I came across it <a href="https://aus.social/@shlee/117318918816027001">from a user on Mastodon</a> who discovered their father was paying $8/week ($416 per year) for it. It seems like the esteemed Mr. Olzhasev, savvy businessman that he is, changes the subscription price frequently.</p>
-
-<p>Olzhasev’s other two apps are <a href="https://apps.apple.com/us/app/thermal-camera-filter-effects/id6753982355">Thermal Camera Filter Effects</a> (a neat trick, given that iPhones do not have thermal cameras or heat sensors) and <a href="https://apps.apple.com/us/app/settings-app-simulator/id6753862143">Settings App: Simulator</a>, a $15 app that admittedly gives you just what it says on the tin. It’s an inaccurate mirror of the Settings app “so you can practice without changing the real system.”</p>
-
-<p><strong>Update, next day:</strong> These apps are no longer in the App Store.</p>
-
-<div>
-<a  title="Permanent link to ‘App Store Scam of the Week: ‘Update My Phone &amp; Apps: Guide’ by Tair Olzhasev’"  href="https://daringfireball.net/linked/2026/09/23/app-store-scam-update-my-phone">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
