@@ -7,20 +7,77 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-10-06T03:16:09Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-10-06T18:17:44Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Unofficial Command-Line Tool Removes Apple Intelligence From MacOS 27</title>
+	<link rel="alternate" type="text/html" href="https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xms" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/06/cli-tool-removes-apple-intelligence-from-macos-27" />
+	<id>tag:daringfireball.net,2026:/linked//6.43588</id>
+	<published>2026-10-06T18:17:43Z</published>
+	<updated>2026-10-06T18:17:44Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Scharon Harding, Ars Technica:</p>
+
+<blockquote>
+  <p>Unlike with previous versions of macOS, <a href="https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/">macOS 27 Golden
+Gate</a> doesn’t have a toggle for turning off Apple
+Intelligence. That makes disabling AI features that you may not
+want more difficult. It also means that the AI models necessary
+for running Apple Intelligence will take up space on your
+disk<a href="https://support.apple.com/en-us/102149">,</a> <a href="https://support.apple.com/en-us/102149">even if you don’t use them</a> or if you go
+through your settings to individually find and disable AI
+capabilities.</p>
+
+<p>In response, a developer known as <a href="https://github.com/omlahore">Om Lahore</a> on GitHub
+last week created RemoveMacAI, a command-line tool that allows
+macOS 27 users to “turn off Apple Intelligence on macOS 27” in a
+way that is “fully reversible,” per <a href="https://github.com/omlahore/RemoveMacAI">the GitHub page</a>.
+They said that Apple’s Intelligence models take up “about 12GB,”
+but the models can actually take up over 30GB, <a href="https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool?">The
+Verge</a> noted.</p>
+
+<p>RemoveMacAI “turns off Siri, Writing Tools, Genmoji, Image
+Playground, the ChatGPT extension, and all the summaries, then it
+deletes the models and stops macOS from downloading them again.
+Dictation still works because it’s a separate setting,” the
+developer said in a <a href="https://www.reddit.com/r/MacOS/comments/1ww1exr/macos_27_dropped_the_apple_intelligence_off/">Reddit post</a> first spotted by
+<a href="https://www.macrumors.com/2026/10/05/apple-intelligence-removal-tool-frees-mac-storage/">MacRumors</a>.</p>
+</blockquote>
+
+<p>Sounds crazy but it’s not <code>rm</code>ing files in the <em>/System/</em> folder — it uses techniques that work with System Integrity Protection remaining enabled. I mean, I wouldn’t do it on a production machine, but, I don’t want to disable Apple Intelligence.</p>
+
+<p>I can see the reasons why some people are frustrated that MacOS 27 Golden Gate doesn’t have built-in support for disabling this and removing the local models, though. If your Mac only has 256 or even 512 GB of storage, a dozen GB (or more) is meaningful. And there are institutional groups that have rules against AI — these places aren’t allowing Golden Gate at all until and unless Apple Intelligence can be removed. And that means not buying new Mac hardware that <em>only</em> runs Golden Gate.</p>
+
+<div>
+<a  title="Permanent link to ‘Unofficial Command-Line Tool Removes Apple Intelligence From MacOS 27’"  href="https://daringfireball.net/linked/2026/10/06/cli-tool-removes-apple-intelligence-from-macos-27">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Steve Jobs, Walking Through a Mockup for Apple Park in 2010</title>
 	<link rel="alternate" type="text/html" href="https://book.stevejobsarchive.com/#photo-37" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xmr" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/05/jobs-walking-through-mockup" />
 	<id>tag:daringfireball.net,2026:/linked//6.43587</id>
 	<published>2026-10-06T02:49:44Z</published>
-	<updated>2026-10-06T02:54:41Z</updated>
+	<updated>2026-10-06T17:23:34Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
 <p>What an apt photo, <a href="https://daringfireball.net/linked/2026/10/05/ternus-cook-jobs-15th-anniversary">today</a> of all days. What a gift <em>Make Something Wonderful</em> is.</p>
+
+<p><a href="https://book.stevejobsarchive.com/#photo-37" class="noborder">
+<img
+    src = "https://daringfireball.net/misc/2026/10/steve-jobs-apple-park-mockup.webp"
+    alt = "Steve Jobs, walking through a mockup for Apple Park in 2010."
+    width = 500
+/></a></p>
 
 <div>
 <a  title="Permanent link to ‘Steve Jobs, Walking Through a Mockup for Apple Park in 2010’"  href="https://daringfireball.net/linked/2026/10/05/jobs-walking-through-mockup">&nbsp;★&nbsp;</a>
@@ -1671,52 +1728,6 @@ realized that we were pretty good at software.</p>
 
     ]]></content>
   <title>★ The iPhone 4 ‘Antennagate’ Press Conference Q&amp;A — Finally</title></entry><entry>
-	<title>‘Prepare to Ship’ Is a Clever Software Solution That Allows iPhone 18 Pro Max to Ship With a Battery That Would Otherwise Exceed International Shipping Regulations</title>
-	<link rel="alternate" type="text/html" href="https://support.apple.com/en-us/127848" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xlh" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/23/prepare-to-ship" />
-	<id>tag:daringfireball.net,2026:/linked//6.43541</id>
-	<published>2026-09-23T20:12:16Z</published>
-	<updated>2026-09-23T20:12:16Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Apple Support:</p>
-
-<blockquote>
-  <p>iPhone 18 Pro Max offers a huge increase in battery life, in part
-due to increasing the battery capacity to over 20 watt-hours (Wh).
-Devices with a single-cell battery over 20 Wh have additional
-shipping requirements in most countries and regions. To address
-these requirements, iPhone 18 Pro Max uses an innovative
-battery-firmware solution that limits battery capacity to below 20
-Wh from the time it’s manufactured through its transport from the
-factory. When you activate your iPhone, the limit is removed and
-the battery’s full charging capacity is available.</p>
-
-<p>After activation, if you need to ship your iPhone 18 Pro Max for a
-repair, trade-in, return, or as a gift for example, use the
-Prepare to Ship feature in Settings. This feature discharges your
-battery to below 20 Wh and sets a charge limit so your iPhone
-stays below this limit while shipping. This can be reversed and
-you can reset your charge limit after shipping.</p>
-
-<p>The battery in iPhone 18 Pro Max is safe, including for shipping
-and air travel. This process is needed only to meet shipping
-requirements and isn’t required while traveling or for any other
-iPhone model.</p>
-</blockquote>
-
-<p>(<a href="https://www.theverge.com/tech/998144/apple-iphone-18-pro-max-battery-firmware-limit">Via The Verge</a>.)</p>
-
-<div>
-<a  title="Permanent link to ‘‘Prepare to Ship’ Is a Clever Software Solution That Allows iPhone 18 Pro Max to Ship With a Battery That Would Otherwise Exceed International Shipping Regulations’"  href="https://daringfireball.net/linked/2026/09/23/prepare-to-ship">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/09/appzapper_3000" />
 	<link rel="shorturl" href="http://df4.us/xlf" />
