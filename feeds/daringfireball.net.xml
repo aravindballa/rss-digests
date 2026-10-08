@@ -7,7 +7,75 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-10-08T19:00:32Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-10-08T23:17:44Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Let’s Check In on Trump’s Blog</title>
+	<link rel="alternate" type="text/html" href="https://truthsocial.com/@realDonaldTrump/posts/117406176604364910" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xmx" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/08/lets-check-in-on-trumps-blog" />
+	<id>tag:daringfireball.net,2026:/linked//6.43593</id>
+	<published>2026-10-08T22:52:35Z</published>
+	<updated>2026-10-08T23:17:44Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>An actual post from the sitting president of the United States:</p>
+
+<blockquote>
+  <p>The White House considers anyone that uses the term, “Artificial
+Intelligence,” as opposed to the highly accepted new and more
+accurate term, “Super Intelligence,” THE ENEMY! President DONALD
+J. TRUMP</p>
+</blockquote>
+
+<p>His <a href="https://daringfireball.net/linked/2026/03/22/trump-glad">screws are so loose</a> you can hear them rattling around.</p>
+
+<div>
+<a  title="Permanent link to ‘Let’s Check In on Trump’s Blog’"  href="https://daringfireball.net/linked/2026/10/08/lets-check-in-on-trumps-blog">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Apple Is Slow-Rolling iOS 27 Adoption, So Far</title>
+	<link rel="alternate" type="text/html" href="https://mastodon.social/@_Davidsmith/117355154519434137" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xmw" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/08/apple-is-slow-rolling-ios-27-adoption-so-far" />
+	<id>tag:daringfireball.net,2026:/linked//6.43592</id>
+	<published>2026-10-08T19:30:36Z</published>
+	<updated>2026-10-08T20:02:40Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>David Smith, last week:</p>
+
+<blockquote>
+  <p>Been really interesting to watch the iOS 27 adoption curve
+over the first two weeks. Clearly on a different path than
+previous years. Still steadily growing, at a similar rate to
+the ‘steady growth’ phase of most years, but without the big
+surge at the start.</p>
+
+<p>Given that this rate is largely controlled by Apple’s automatic
+update logic, I suspect it’s a deliberate choice. Likely because
+it lets them manage the Siri AI waiting list and avoid a big queue
+on day one.</p>
+</blockquote>
+
+<p>Smith’s numbers are from analytics from users of Widgetsmith and Pedometer++. If you look at <a href="https://daringfireball.net/misc/2026/10/widgetsmith-ios27-adoption-two-weeks-in.png">his chart for Widgetsmith</a>, there’s really no explanation other than Apple pushing automatic updates to users more slowly than in any previous year, and I think it makes sense that this is to gate admissions to Siri AI. You can also see from his chart that Apple has been slowing down updates to initial .0 versions in recent years — the adoption rates were much faster for iOS 15 and 16 back in 2021 and 2022. Note too that every year Apple makes it more and more likely that users will opt into automatic software updates. The overwhelming majority of iOS users get OS updates when their devices update themselves.</p>
+
+<p>And <a href="https://daringfireball.net/2026/02/apple_releases_ios_26_adoption_rates">remember the whole thing with slower-than-previous-years adoption of iOS 26 last year</a> — that was all attributable to the auto-update pace set by Apple.</p>
+
+<p>(It’s purely personal anecdata, but I feel like Siri AI has gotten worse since iOS 27.0 was officially released. It feels a bit slower and I seem to get worse answers, sometimes. I asked it for a word today, using it as an interactive thesaurus, and it simply told me it couldn’t. It never did that over the summer. I started using iOS 27 full-time on my iPhone the day after the WWDC keynote and I got into the Siri AI beta the next week. While it might be some sort of placebo effect, I feel like Siri AI was better — slightly faster and more useful — in July and August than it is now. I could be wrong, or maybe just unlucky of late. But I’m also quite certain that scaling up the Private Cloud Compute side of Siri AI is a massive challenge for a platform with over a billion Siri AI-eligible users.)</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Is Slow-Rolling iOS 27 Adoption, So Far’"  href="https://daringfireball.net/linked/2026/10/08/apple-is-slow-rolling-ios-27-adoption-so-far">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Joz Announces ‘Welcome Home’ Keynote Coming Tuesday, 13 October</title>
 	<link rel="alternate" type="text/html" href="https://x.com/gregjoz/status/2108226096407994858" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xmv" />
@@ -483,7 +551,7 @@ they can make informed decisions about their own data and privacy.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/30/gurman-october-13-smart-home" />
 	<id>tag:daringfireball.net,2026:/linked//6.43577</id>
 	<published>2026-09-30T20:14:31Z</published>
-	<updated>2026-09-30T23:14:52Z</updated>
+	<updated>2026-10-08T19:32:27Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -522,7 +590,7 @@ tilt the display forward or backward. And the base has a
 rubberized bottom to help it stay on a table.</p>
 </blockquote>
 
-<p>If you think that sounds like the beloved but short-lived “sunflower” <a href="https://en.wikipedia.org/wiki/IMac_G4">iMac G4 from 2002</a>, that’s exactly what Gurman says it resembles. As is so often the case, Gurman seems to know many details about the device, but yet doesn’t know its name, or price. Presumably the speakers are good enough to serve by themselves, but how good are they? Can they be paired with HomePods to create stereo pairs?</p>
+<p>If you think that sounds like the beloved but short-lived “sunflower” <a href="https://en.wikipedia.org/wiki/IMac_G4">iMac G4 from 2002</a>, that’s exactly what Gurman says it resembles. As is so often the case, Gurman seems to know many details about the device, but yet doesn’t know its name or price. Presumably the speakers are good enough to serve by themselves, but how good are they? Can they be paired with HomePods to create stereo pairs?</p>
 
 <blockquote>
   <p>The hub’s defining feature will be its ability to serve multiple
@@ -1565,68 +1633,6 @@ than I am.</p>
 
 <div>
 <a  title="Permanent link to ‘Joanna Stern Interviews Mark Zuckerberg’"  href="https://daringfireball.net/linked/2026/09/24/stern-zuck-meta-connect">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Meta Connect Keynote 2026</title>
-	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=SdKFDIAGF24" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xln" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/24/meta-connect-keynote-2026" />
-	<id>tag:daringfireball.net,2026:/linked//6.43547</id>
-	<published>2026-09-24T20:30:01Z</published>
-	<updated>2026-09-24T20:30:01Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Meta’s annual keynote yesterday was a tight 55-minute live event held on their campus in Menlo Park. I watched the whole thing this morning, before recording tomorrow’s episode of <a href="https://dithering.fm/">Dithering</a>. (Which you should subscribe to.)</p>
-
-<p>It was a good keynote. Consumer products announced:</p>
-
-<ul>
-<li><p>Third-generation Meta Glasses with cameras.</p></li>
-<li><p>A new glasses product: <a href="https://www.meta.com/ai-glasses/shop-all/?filter_tags_match[0]=ray-ban-meta-audio">Ray-Ban Meta Audio</a>. These are audio-only smart glasses, with microphones and speakers, but no camera. Zuckerberg pitched them as being less expensive, having longer battery life, and looking much more like regular glasses. All of those things are true, but he deftly avoided the privacy backlash against glasses with cameras. They’re not that much less expensive than the camera models, starting at $350.</p></li>
-<li><p><a href="https://www.meta.com/vr-glasses/">Meta VR Glasses</a>. Slogan: “The weight is over.” Some similarities to Vision Pro: use cases include immersive movies and sports, virtual displays for computing, and gaming; the computer is a thick phone-sized puck connected to the glasses via a cable. Some significant differences from Vision Pro: Meta VR Glasses only weigh 100g; Vision Pro weighs 750–800g. It’s almost an order of magnitude difference by weight. Also: these are only going to cost $1,300. Not out yet, coming in “spring”. I used to think I’d at least use my Vision Pro when I fly, but I haven’t taken it with me on a flight in two years. It’s too big and too heavy — a small piece of carry-on luggage unto itself. By dint of their weight alone, Meta VR Glasses seem <em>far</em> more comfortable, and also <em>far</em> more portable. They look a lot more like regular sunglasses than Vision Pro (or Meta’s own Quest goggles) — but they definitely don’t look like regular sunglasses.</p></li>
-<li><p><a href="https://www.meta.com/muse-charm/">Meta Charm</a>. A pendant/stopwatch-sized thing with a screen and fingerprint reader, that serves as a dedicated device for interacting with Muse. Will supposedly have 5G cellular connectivity in addition to Wi-Fi, but it’s not a phone. Vaporware at the moment but supposedly shipping by December. No price given. My daily “World in Brief” newsletter from The Economist described Charm thus: “Imagine a tiny smartphone that can’t do 95% of the things that the one in your pocket can.”</p></li>
-</ul>
-
-<p>The star of the show wasn’t any of the hardware products but Meta Muse. Muse is the through line for Meta this year. If there’s one thing I think Zuckerberg did wrong in the keynote, it’s that he didn’t explain where Muse stands compared to Meta AI. I’m pretty sure that the answer is that Muse, as an AI agent, is a superset of Meta AI, a mere chatbot. If you use Muse, you should have no reason to use Meta AI; if you use Meta AI, Zuckerberg should have encouraged you to upgrade to Muse. I <em>think</em> that’s the gist. But it would have been good for Zuckerberg to explain it.</p>
-
-<div>
-<a  title="Permanent link to ‘Meta Connect Keynote 2026’"  href="https://daringfireball.net/linked/2026/09/24/meta-connect-keynote-2026">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘Apple Opens Apple Music Hall, a State-of-the-Art Live Music Venue in London’</title>
-	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xlm" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/24/apple-music-hall" />
-	<id>tag:daringfireball.net,2026:/linked//6.43546</id>
-	<published>2026-09-24T17:29:49Z</published>
-	<updated>2026-09-24T17:29:50Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Apple Newsroom:</p>
-
-<blockquote>
-  <p>Apple today announced the opening of Apple Music Hall, a brand-new
-state-of-the-art live music venue in London’s storied Battersea
-Power Station, designed to connect artists and fans through
-bespoke, intimate performances unlike anywhere else.</p>
-</blockquote>
-
-<p>Apple might be the most interesting architecture company in the world this century. They have a core look and feel they apply to their own facilities built from the ground up (e.g., Apple Park, <a href="https://www.apple.com/retail/michiganavenue/">certain</a> flagship retail stores), but they also have <a href="https://www.apple.com/newsroom/2018/11/apple-champs-elysees-to-open-on-famed-parisian-avenue-this-sunday/">tremendous respect</a> for <a href="https://www.apple.com/newsroom/2019/05/apple-carnegie-library-opens-saturday-in-washington-dc/">historic buildings</a> they take over.</p>
-
-<p>The balconies in Apple Music Hall are bronze, but the lighting (at least in Apple’s photos) is so warm that the balconies look a little like giant Mac Minis.</p>
-
-<div>
-<a  title="Permanent link to ‘‘Apple Opens Apple Music Hall, a State-of-the-Art Live Music Venue in London’’"  href="https://daringfireball.net/linked/2026/09/24/apple-music-hall">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
