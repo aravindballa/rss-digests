@@ -7,7 +7,84 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-10-13T14:52:25Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-10-14T21:03:43Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	
+	<link rel="alternate" type="text/html" href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026" />
+	<link rel="shorturl" href="http://df4.us/xn5" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2026/10/workos_authkit_auth_for_your_a" />
+	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.43601</id>
+	<author><name>Daring Fireball Department of Commerce</name></author>
+	<published>2026-10-14T21:03:43Z</published>
+	<updated>2026-10-14T21:03:43Z</updated>
+	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
+<p>Login looks simple until you’re building password resets, email verification, MFA, social providers, session management, and the enterprise SSO your first big customer asked for last week.</p>
+
+<p>AuthKit lets you:</p>
+
+<ul>
+<li>Offer SSO, MFA, passkeys, passwords, email codes, and social sign-in</li>
+<li>Add and remove users automatically with SCIM provisioning</li>
+<li>Track who did what with audit logs</li>
+</ul>
+
+<p><a href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026">Try AuthKit →</a></p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users’"  href="https://daringfireball.net/feeds/sponsors/2026/10/workos_authkit_auth_for_your_a">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+	<title>[Sponsor] WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users</title></entry><entry>
+	<title>The FBI Arrested a Saudi National OpenAI Employee for Planting a Recording Device in the Company’s Executive Conference Room</title>
+	<link rel="alternate" type="text/html" href="https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xn4" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/14/fbi-saudi-arrested-openai" />
+	<id>tag:daringfireball.net,2026:/linked//6.43600</id>
+	<published>2026-10-14T20:58:01Z</published>
+	<updated>2026-10-14T21:00:11Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>The Department of Justice, yesterday:</p>
+
+<blockquote>
+  <p>An employee of OpenAI has been arrested for and charged with using
+or endeavoring to use an electronic, mechanical, or other device
+to intercept oral communications. Abdulrahman Alfozan, 35, a
+national of the Kingdom of Saudi Arabia, was arrested on Oct. 9,
+and made his initial appearance in federal court today.</p>
+
+<p>“This serious situation underscores why winning the global super
+intelligence race is a national security prerogative — and why
+President Trump’s leadership in creating the Super Intelligence
+Force is so important,” said Director of National Intelligence Jay
+Clayton. “I thank Director Patel and our FBI partners for their
+diligence and swift action. The intelligence community remains
+committed to safeguarding America’s cutting-edge intellectual
+property from foreign threats.”</p>
+
+<p>“According to the complaint unsealed today, Abdulrahman Alfozan
+allegedly concealed a covert recording device inside his
+employer’s executive conference room to secretly capture sensitive
+communications about the company’s super intelligence technology,”
+said FBI Director Kash Patel. “Protecting American SI innovation
+is essential to safeguarding our nation’s economic strength and
+national security, and the FBI views that mission as one of our
+highest counterintelligence priorities.</p>
+</blockquote>
+
+<p>Four references to “super intelligence” in two paragraphs. Not weird at all.</p>
+
+<p>Alfozon, unsurprising, <a href="https://x.com/OpenAINewsroom/status/2110095403198849132">was fired</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘The FBI Arrested a Saudi National OpenAI Employee for Planting a Recording Device in the Company’s Executive Conference Room’"  href="https://daringfireball.net/linked/2026/10/14/fbi-saudi-arrested-openai">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple HomeView</title>
 	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xn3" />
@@ -206,13 +283,13 @@ smaller “Also Available” section at the bottom.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/10/proof-of-human" />
 	<id>tag:daringfireball.net,2026:/linked//6.43594</id>
 	<published>2026-10-10T16:06:17Z</published>
-	<updated>2026-10-10T16:06:17Z</updated>
+	<updated>2026-10-14T19:09:04Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Benjamin Mayo (on X, of course), commenting on Apple promoting behind-the-scenes footage showing that the cross-stitch “Welcome Home” logo for next week’s keynote/experience was stitched by hand:</p>
+<p>Benjamin Mayo (on X, of course), commenting on Apple promoting behind-the-scenes footage showing that the embroidered “Welcome Home” logo for next week’s keynote/experience was stitched by hand:</p>
 
 <blockquote>
   <p>There needs to be a name for this phenomenon where every
@@ -744,27 +821,6 @@ they can make informed decisions about their own data and privacy.</p>
 
 	]]></content>
   </entry><entry>
-	
-	<link rel="alternate" type="text/html" href="https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026" />
-	<link rel="shorturl" href="http://df4.us/xmi" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2026/09/workos_how_sso_works_and_the_f_1" />
-	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.43578</id>
-	<author><name>Daring Fireball Department of Commerce</name></author>
-	<published>2026-09-30T20:17:32Z</published>
-	<updated>2026-09-30T20:17:33Z</updated>
-	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
-<p>SSO is table stakes for enterprise deals, but building it into your app yourself means writing SAML controllers, parsing XML assertions, and handling IdP-specific quirks for each provider.</p>
-
-<p>Learn how SAML flows work, the tradeoffs between building or buying, and best practices for security, routing, and UX. Or skip the hassle and add SSO with <a href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026">WorkOS</a>.</p>
-
-<p><a href="https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026">Read the guide →</a></p>
-
-<div>
-<a  title="Permanent link to ‘WorkOS: How SSO Works and the Fastest Way to Add It’"  href="https://daringfireball.net/feeds/sponsors/2026/09/workos_how_sso_works_and_the_f_1">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-	<title>[Sponsor] WorkOS: How SSO Works and the Fastest Way to Add It</title></entry><entry>
 	<title>Gurman Reports Apple Is Launching New ‘Smart Home’ Products on October 13</title>
 	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2026-09-30/apple-is-finally-ready-to-enter-its-next-big-category-the-smart-home?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDc3MDk0MywiZXhwIjoxNzkxMzc1NzQzLCJhcnRpY2xlSWQiOiJUTTM0SDRUOTZPU0cwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.11wEtJfuMwCkznTkepXugZ2wuZTmxO9CdsNJLAcBd1M" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xmh" />
@@ -1543,59 +1599,6 @@ thought I’d share.</p>
 
 <div>
 <a  title="Permanent link to ‘Stock UI in MacOS 27 Eschews Clarity’"  href="https://daringfireball.net/linked/2026/09/25/stock-ui-in-macos-27-eschews-clarity">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Brent Simmons on ‘Stock’ Mac UI</title>
-	<link rel="alternate" type="text/html" href="https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xlu" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/25/brent-simmons-stock-mac-ui" />
-	<id>tag:daringfireball.net,2026:/linked//6.43554</id>
-	<published>2026-09-25T19:45:44Z</published>
-	<updated>2026-09-25T23:29:54Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Brent Simmons:</p>
-
-<blockquote>
-  <p>To recap: the reasons for using stock Mac UI are 1) user
-familiarity, which we’ve known for a while just isn’t a thing, and
-2) hoping to be able to expend less developer effort, which we’ve
-seen can work against you.</p>
-
-<p>But there’s another reason: the stock Mac UI is designed by Apple,
-the best designers in the world, and do you really think you can
-do better? Really?</p>
-
-<p>The app world is full of people who think they’re better and
-they’re really, really, really not.</p>
-
-<p>Well, I still think Apple has the best collection of UI designers
-in the world, but, for whatever reasons, the guidance from above
-on how the Mac UI should look is missing the mark. I’m not blaming
-the people doing the work — they’re doing great work with the
-direction they’re given.</p>
-
-<p>So this — bad direction — is where the secret third reason falls
-down. And we’re left with no real reason to stick with stock Mac
-UI (except for wanting approval from longtime Mac people like me,
-and you really shouldn’t care about that at all).</p>
-</blockquote>
-
-<p>I was hesitant to quote anything from Simmons’s post, because you really ought to <a href="https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html">read the whole thing</a>. (I’ve always loved the way Brent writes.) But I really like his emphasis throughout the piece on the term “stock Mac UI”. Debating the nuances of what it means for software to be “Mac-like” is one of the through lines of Daring Fireball since the very beginning. It doesn’t mean just one thing, and it doesn’t encompass just a few things. It’s a lot of things. But that makes it susceptible to picking and choosing — what one considers “Mac-like” might just be what one personally prefers.</p>
-
-<p>But using the stock Mac UI — or building your custom UI atop (or in OOP terms, subclassing) stock Mac UI controls — is so thoroughly agreed-upon as a fundamental aspect of Mac-like-ness that it’s seldom even discussed. This relatively short post from Simmons bursts that bubble — or if you’ll permit a grosser but perhaps more apt metaphor, lances that boil. The emperor has no clothes, and MacOS’s stock UI is bad. It’s that simple.</p>
-
-<p>At the end of the post Simmons includes two screenshots of NetNewsWire after a day of noodling where he removed the stock window chrome and toolbar (the venerable <a href="https://developer.apple.com/documentation/appkit/nstoolbar">NSToolbar</a>, perhaps the stockiest of stock UI elements) and replaced them with custom controls. If you told me 10 or 20 years ago that Brent Simmons spent a day replacing NSToolbar in NetNewsWire just to see what it looked like, I’d have called him on the phone to see if he was OK.</p>
-
-<p>But today, after the last few years of Apple losing the plot with the Mac user interface, I look at these two screenshots and my first thought isn’t that they look old-school. It’s simply that they look refreshingly Mac-like. Understated, humble, and obvious. Not nostalgic. Just ... good. And more Mac-like than the actual current version of NetNewsWire, which thoroughly embraces the stock Mac UI from Apple.</p>
-
-<div>
-<a  title="Permanent link to ‘Brent Simmons on ‘Stock’ Mac UI’"  href="https://daringfireball.net/linked/2026/09/25/brent-simmons-stock-mac-ui">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
