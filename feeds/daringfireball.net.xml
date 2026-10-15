@@ -7,7 +7,61 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-10-14T22:50:09Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-10-15T16:11:13Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Secret Documents Reveal Donors Behind $330 Million for Trump’s Ballroom — Apple and Nvidia Top the List at $25 Million Each</title>
+	<link rel="alternate" type="text/html" href="https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xn6" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/15/trump-ballroom-donor-list" />
+	<id>tag:daringfireball.net,2026:/linked//6.43602</id>
+	<published>2026-10-15T16:11:12Z</published>
+	<updated>2026-10-15T16:11:13Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Jonathan O’Connell, Sarah Blaskey, and Aaron Schaffer, reporting for The Washington Post (<a href="https://apple.news/AblrTEVS5ROWp089jXUp2oQ">News+ link</a>; <a href="https://archive.is/20261015145817/https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/">Archive.today link</a>):</p>
+
+<blockquote>
+  <p>A list obtained by The Washington Post reveals all the major
+donors to President Donald Trump’s White House ballroom project,
+including previously undisclosed contributors who have benefited
+from regulatory decisions, government contracts and, in one case,
+a pardon for a family member.</p>
+
+<p>Tech giants Nvidia and Apple each committed $25 million, the top
+contribution amount, the list shows. The Adelson family, one of
+the GOP’s largest donor dynasties, committed that sum as well, as
+did billionaire Charles Ergen, co-founder and chairman of
+telecommunications company Dish Network.</p>
+
+<p>Absent from the list is Trump himself, who has said that he is
+helping to pay for the project. “It’s being paid for a hundred
+percent by me and some friends of mine,” he <a href="https://www.presidency.ucsb.edu/documents/remarks-prior-meeting-with-secretary-general-mark-rutte-the-north-atlantic-treaty-2">said</a> last year,
+days after <a href="https://www.whitehouse.gov/briefings-statements/2025/07/the-white-house-announces-white-house-ballroom-construction-to-begin/">demolition</a> began on the old East Wing.</p>
+
+<p>The White House publicly identified 37 people, companies and
+foundations as donors last October, without revealing the amount
+of their individual gifts.</p>
+
+<p>The list obtained by The Post, an internal spreadsheet used to
+track contributions for the fundraising effort, contains the
+source, date and amount of all 67 donations above $10,000 recorded
+as of late last month. It shows a total of $333 million from
+private donors, aligning with the administration’s public
+statements. Additional records, also internal to the fundraising
+effort, provide more detail about the donations and indicate that
+at least $77 million came from donors who requested anonymity.</p>
+</blockquote>
+
+<p>In addition to being a shameful display of abject corruption, it’s also a shameful act of support for <a href="https://www.nytimes.com/interactive/2026/03/29/upshot/white-house-ballroom.html?unlocked_article_code=1.I1E.hf2j.MJyjcOInOeEA">horrendous architecture</a>. This entire edifice ought to be destroyed — I won’t vote for any Democratic candidate in the 2028 primary who doesn’t pledge to knock all this Trump cack to the ground in January 2029. That’s table stakes.</p>
+
+<div>
+<a  title="Permanent link to ‘Secret Documents Reveal Donors Behind $330 Million for Trump’s Ballroom — Apple and Nvidia Top the List at $25 Million Each’"  href="https://daringfireball.net/linked/2026/10/15/trump-ballroom-donor-list">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026" />
 	<link rel="shorturl" href="http://df4.us/xn5" />
@@ -1556,49 +1610,6 @@ agents work side by side, with a developer platform teams can build on.</li>
 
 <div>
 <a  title="Permanent link to ‘Mr. Choyka Is Apparently Doing Well’"  href="https://daringfireball.net/linked/2026/09/25/choyka-doing-well">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Stock UI in MacOS 27 Eschews Clarity</title>
-	<link rel="alternate" type="text/html" href="https://mastodon.design/@thibault/117320401426286497" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xlv" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/25/stock-ui-in-macos-27-eschews-clarity" />
-	<id>tag:daringfireball.net,2026:/linked//6.43555</id>
-	<published>2026-09-25T20:54:34Z</published>
-	<updated>2026-09-25T20:54:35Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>“Thibault”, in post on Mastodon responding to <a href="https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html">Brent Simmons’s “stock Mac UI” post</a> that I just <a href="https://daringfireball.net/linked/2026/09/25/brent-simmons-stock-mac-ui">linked to</a>:</p>
-
-<blockquote>
-  <p>It reminded me of my own explorations with the macOS design
-language, especially the modern title/toolbar which I believe is
-one of the most foundational design regression on the platform.</p>
-
-<p>I played with the idea of redesigning the Finder with the
-original hierarchy but keeping the current Liquid Glass styling.
-Though it’s still far from what I’d like to see on my Mac, I
-thought I’d share.</p>
-</blockquote>
-
-<p>Here’s his subtle mockup:</p>
-
-<p><a href="https://daringfireball.net/misc/2026/09/thibault-finder-mockup.png" class="noborder">
-<img
-    src = "https://daringfireball.net/misc/2026/09/thibault-finder-mockup.png"
-    alt = "Thibault’s Finder redesign, with an actual MacOS 27 Finder window on the left, and his redesign on the right. His redesign features distinctive window chrome for the title and toolbar area, and a better hierarchy in the sidebar."
-/></a></p>
-
-<p>The changes in Thibault’s redesign, if you describe them verbally, sound minor. But <em>looking</em> at the differences feels like a huge — and much needed — breath of fresh air. It relaxes my nervous system to see obvious differentiation for window chrome at the top. The hierarchy is clear: <em>this</em> area is the window, <em>this</em> area is the content of the window.</p>
-
-<p>Apple’s MacOS 27 Golden Gate stock UI deliberately does away with that differentiation, for no good reason. I crave clarity, and Apple’s current MacOS design language rejects clarity. Like: where exactly can you click to drag a window around? That ought to be obvious; instead it’s literally a guessing game. And Thibault’s simple example also shows that the problem has nothing to do with “Liquid Glass” controls.</p>
-
-<div>
-<a  title="Permanent link to ‘Stock UI in MacOS 27 Eschews Clarity’"  href="https://daringfireball.net/linked/2026/09/25/stock-ui-in-macos-27-eschews-clarity">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
