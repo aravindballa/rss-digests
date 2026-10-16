@@ -7,7 +7,126 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-10-16T17:01:22Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-10-16T20:55:49Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>How They Got Duo Support in NetNewsWire</title>
+	<link rel="alternate" type="text/html" href="https://netnewswire.blog/2026/10/16/how-we-got-duo-support.html" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xnb" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/16/how-they-got-duo-support-in-netnewswire" />
+	<id>tag:daringfireball.net,2026:/linked//6.43607</id>
+	<published>2026-10-16T20:53:42Z</published>
+	<updated>2026-10-16T20:55:49Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>From the NetNewsWire blog:</p>
+
+<blockquote>
+  <p>The <a href="https://netnewswire.blog/2026/10/16/netnewswire-for-ios-unread-count.html">latest version</a> of NetNewsWire for iOS supports iPhone
+Duo, which is very much a novel iPhone with toolbars running up
+the side and all kinds of behavior.</p>
+
+<p>How we did it: we didn’t do any work at all. We built the app
+using Xcode 27.1 and the default iOS SDK that comes with it, and
+that’s it.</p>
+
+<p>Here’s the thing, though: we were already using standard controls — toolbars, navigation controllers, split views, etc. — and we
+were paying attention to size classes and such (as opposed to just
+looking at device type).</p>
+</blockquote>
+
+<p>Develop your app the right way and, depending on the app, it might literally be no work at all to produce a great version for the Duo. Develop your app the wrong way and it might take months. NetNewsWire is one of my most-used apps. I keep it in my home screen dock, alongside Messages, Notes, and Safari. It would drive me nuts to use a Duo without a version of NetNewsWire that adapts to the Duo’s novel display sizes.</p>
+
+<div>
+<a  title="Permanent link to ‘How They Got Duo Support in NetNewsWire’"  href="https://daringfireball.net/linked/2026/10/16/how-they-got-duo-support-in-netnewswire">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/10/real_artists_ship_tesla_edition" />
+	<link rel="shorturl" href="http://df4.us/xna" />
+	<id>tag:daringfireball.net,2026://1.43606</id>
+	<published>2026-10-16T20:11:23Z</published>
+	<updated>2026-10-16T20:11:24Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">If you think Musk is either completely legitimate and trustworthy or an utter fraud, you are wrong. He has led his companies to extraordinary accomplishments, *and* he has made promises based on complete bullshit. He is a shameless bullshitter who *sometimes* delivers.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>Jonathan Gitlin, <a href="https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/">writing for Ars Technica</a>:</p>
+
+<blockquote>
+  <p>Nine years after <a href="https://arstechnica.com/cars/2017/11/not-just-a-semi-announcement-tesla-promises-a-new-roadster/">first trying to resurrect the Roadster</a>,
+Tesla is apparently trying again. CEO Elon Musk might have
+relocated its HQ to Texas, but yet again he has returned to
+California’s showbiz industry to hawk his wares; last time <a href="https://arstechnica.com/cars/2024/10/elon-musk-makes-bold-claims-about-tesla-robotaxi-in-hollywood-backlot/">it was
+a Hollywood back lot for the remote-controlled Cybercab
+demo</a>, last night it was <a href="https://www.caranddriver.com/features/g31978859/wildest-car-stunts-in-film-history/">decades-old stunt
+technology</a> to make a show car do tricks in the air. [...]</p>
+
+<p>Musk claims that the Roadster will go into production by 2028. But
+the CEO has a long and glorious history of overpromising and
+underdelivering; in 2017 he told attendees at the previous launch
+that “We are making it now.” Using the company’s referral program,
+some people were in line to receive two free cars. But those free
+cars never showed up, and neither did the ones that people put
+down $50,000 deposits for; last year <a href="https://arstechnica.com/cars/2025/10/sam-altman-wants-a-refund-for-his-50000-tesla-roadster-deposit/">Sam Altman discovered how
+hard it can be to get that money back</a>.</p>
+</blockquote>
+
+<p>I like a good stunt show as much as the next guy, and this looked like a cool stunt show. But people are losing their minds if they think this stunt show makes it any more or less likely that Tesla will deliver a Roadster as promised. <a href="https://www.reuters.com/business/autos-transportation/tesla-set-unveil-next-generation-roadster-sports-ev-after-years-delay-2026-10-15/">This Reuters story</a> makes it sound like they think Tesla is going to sell cars that do this stuff. Last night’s stunt show has no more bearing on actual production cars Tesla may or may not ship than George Lucas’s <em>Star Wars</em> movie had on <a href="https://www.history.com/articles/reagan-star-wars-sdi-missile-defense">Ronald Reagan’s “Star Wars” missile defense system</a>.</p>
+
+<p>The Tesla Roadster is vaporware. But Elon Musk is very good at distracting from unshipped vaporware by delivering on stunts. Two years ago <a href="https://www.theverge.com/2024/10/10/24267225/tesla-robotaxi-optimus-we-robot">it was robots that were totally faked</a>. Last night’s car stunt involved real things that actually happened but only in the way that <a href="https://www.youtube.com/watch?v=823GNH4Rczg">David Copperfield made the Statue of Liberty “disappear”</a>.</p>
+
+<p>Over at Jalopnik, <a href="https://www.jalopnik.com/2288450/tesla-roadster-rereveal-new-design-production-plans-for-flying-car/">Amber DaSilva has another good take</a>, which concludes:</p>
+
+<blockquote>
+  <p>Tesla has long made up specs for its cars, made wild claims that
+weren’t substantiated by users, and now it’s making more big
+impressive claims. The “cars” used for the demos were likely
+nothing more than shells outfitted with exactly enough equipment
+to make the tests work. The 0.81 second zero-to-60 number wasn’t
+even shown with an on-screen timer during the event, let alone
+independently verified. Tesla has yet to prove anything about the
+new Roadster works in the real world, or could even exist within
+the realm of physics that those of us not named Musk occupy.</p>
+
+<p>Roadster preorders have reopened, with the company once again
+taking $50,000 checks to reserve a car that’ll theoretically be
+made two years from now. It hasn’t yet said what will happen to
+the people who placed a reservation for the car Tesla announced
+nine years ago, which looks and functions completely differently
+to the one that bears its name today. And — arguably most
+concerning — we don’t know, if Tesla rakes in more money off the
+Roadster name, just how much will go to <a href="https://www.jalopnik.com/elon-musks-charitable-foundation-is-the-28th-richest-in-1851327942/">some malicious
+end</a>.</p>
+</blockquote>
+
+<p>And on Threads, Benedict Evans reiterates his longstanding take on <a href="https://www.threads.com/@benedictevans/post/DejVAf8DrbQ">what makes Elon Musk so confounding to so many people</a>:</p>
+
+<blockquote>
+  <p>A long time ago, I described Elon Musk as a bullshitter who
+delivers. This is the perfect expression of that. This car was
+first shown a decade ago, with another stunt, and it never
+shipped. Now there’s another stunt, and another huge wave of PR
+and admiration.</p>
+
+<p>But meanwhile, there’s the scaled car company, and the
+self-landing rockets!</p>
+
+<p>Henry Ford was a brilliant industrialist, a terrible manager and a
+racist piece of shit. Several things can be true at once.</p>
+</blockquote>
+
+<p>If you think Musk is either completely legitimate and trustworthy or an utter fraud, you are wrong. He has led his companies to extraordinary accomplishments, <em>and</em> he has made promises based on complete bullshit. He is a shameless bullshitter who <em>sometimes</em> delivers. The <em>sometimes</em> is implicit in Evans’s take, because if he always delivered, there’d be no bullshit. But I think it’s worth including the <em>sometimes</em> to make the point. And some of the things he’s delivered <a href="https://512pixels.net/2016/04/spacex-sticks-the-landing/">are so amazing</a> that they sure sounded like they might be bullshit when they were announced. “Space internet” <a href="https://www.geekwire.com/2015/photos-spacex-founder-elon-musk-unveils-new-10b-space-internet-plan-private-seattle-event/">sounded like total bullshit</a> when Musk announced it in 2015, but it <a href="https://arstechnica.com/information-technology/2021/02/spacex-starlink-now-taking-pre-orders-for-service-in-mid-to-late-2021/">started rolling out in 2020</a>, and today you can just <a href="https://www.bestbuy.com/product/starlink-standard-4-x-ax-tri-band-wi-fi-system-white/J3R8ZC25G3/sku/6571727">buy it at Best Buy for $350</a>.</p>
+
+<p>Tesla makes some tremendous vehicles. Their self-driving technology is the best in the consumer market. (Not as good as Waymo’s, but you can’t buy a Waymo.) So maybe they will ship a great Roadster in 2028. I’ll pay attention if and when they do. But I wouldn’t bet a nickel that they will. And I wouldn’t bet that they won’t, either.</p>
+
+    ]]></content>
+  <title>★ Real Artists Ship, Tesla Edition</title></entry><entry>
 	<title>Shyam Sankar, CTO of Palantir, Says AI Researchers Have Started Smoking Because They’re Convinced AI (Claude, Probably) Is Going to Cure Cancer</title>
 	<link rel="alternate" type="text/html" href="https://www.cbsnews.com/news/shyam-sankar-chief-technology-officer-palantir-face-the-nation-transcript-10-11-2026/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xn9" />
@@ -325,7 +444,7 @@ highest counterintelligence priorities.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/13/homeview" />
 	<id>tag:daringfireball.net,2026:/linked//6.43599</id>
 	<published>2026-10-13T14:52:24Z</published>
-	<updated>2026-10-13T14:52:25Z</updated>
+	<updated>2026-10-16T20:15:27Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -352,7 +471,7 @@ information across their apps, to provide more helpful,
 personalized responses.</p>
 </blockquote>
 
-<p>Your first question might be how this facial recognition to identify users works, using a Center Stage camera alone, when other products (like, notably, the iPhone Duo) don’t let you unlock using the camera alone. HomeView does not have FaceID. I asked about this and Apple reps said that first, your home is (reasonably!) presumed to be a safe space. But in order for users to be recognized — by voice or face — they must have a “registered personal device” that supports Apple Intelligence and Siri AI, that device must be present on the home’s Wi-Fi network, and it must have been recently unlocked. Per footnote 2 on the Newsroom post:</p>
+<p>Your first question might be how this facial recognition to identify users works, using a Center Stage camera alone, when other products (like, notably, the iPhone Duo) don’t let you unlock using the camera alone. HomeView does not have Face ID. I asked about this and Apple reps said that first, your home is (reasonably!) presumed to be a safe space. But in order for users to be recognized — by voice or face — they must have a “registered personal device” that supports Apple Intelligence and Siri AI, that device must be present on the home’s Wi-Fi network, and it must have been recently unlocked. Per footnote 2 on the Newsroom post:</p>
 
 <blockquote>
   <p>Personal context requests require a paired Apple
@@ -1702,44 +1821,6 @@ same width/height ratio.</p>
 
 	]]></content>
   </entry><entry>
-	<title>Microsoft Took the ‘Copilot+ PC’ Brand Out Behind the Shed</title>
-	<link rel="alternate" type="text/html" href="https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xly" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/26/copilot-plus-behind-the-shed" />
-	<id>tag:daringfireball.net,2026:/linked//6.43558</id>
-	<published>2026-09-26T16:53:14Z</published>
-	<updated>2026-09-26T16:53:32Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Zac Bowden, Windows Central:</p>
-
-<blockquote>
-  <p>In 2024, Microsoft and Qualcomm kicked off a new category
-of Windows hardware <a href="https://www.windowscentral.com/microsoft/windows/copilot-plus-pc-faq">it called “Copilot+ PCs”</a> that set the
-baseline for a new wave of AI-first computers, and launched with
-exclusive features that would not be made available on PCs that
-didn’t meet a new set of system requirements.</p>
-
-<p>The launch didn’t go smoothly. [...]</p>
-
-<p>I’ve noticed that none of the Surface PCs launched in 2026
-include the Copilot+ PC moniker in their product names, unlike
-the Surface PCs that launched in 2025 and before. Now, you have
-to go digging to find any mention of Copilot+ compatibility in
-specification sheets.</p>
-</blockquote>
-
-<p>Microsoft’s had to dig a lot of holes in the ground behind that shed over the years. The lesson here is that good devices are just good devices. A good PC is going to be a good PC for AI too. Wasting time with special branding is a distraction from the core task of just making the devices good.</p>
-
-<div>
-<a  title="Permanent link to ‘Microsoft Took the ‘Copilot+ PC’ Brand Out Behind the Shed’"  href="https://daringfireball.net/linked/2026/09/26/copilot-plus-behind-the-shed">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/09/ill_wait" />
 	<link rel="shorturl" href="http://df4.us/xlt" />
@@ -1773,70 +1854,4 @@ specification sheets.</p>
 <p>It’s not really an analogous situation at all. But somehow it’s Mr. Choyka’s signature line that comes to mind when I ponder how I feel about AI agents — at least the sort of ones like Muse that want control over my personal computing, and really, personal life. I’ll wait.</p>
 
     ]]></content>
-  <title>★ I’ll Wait</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/09/iphone_4_antennagate_q_and_a" />
-	<link rel="shorturl" href="http://df4.us/xli" />
-	<id>tag:daringfireball.net,2026://1.43542</id>
-	<published>2026-09-23T22:15:05Z</published>
-	<updated>2026-09-23T22:36:20Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">I don’t know what truck this video fell off the back of, why it took 16 years, or how it came into the hands of “Sir Mix-A-Lot Rare Music”, but I’m sure glad it did.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>The most extraordinary Apple event in the company’s modern history was the emergency press conference on Friday, 16 July 2010 to address “antennagate” — the out-of-control media narrative <a href="https://daringfireball.net/2010/07/">that the iPhone 4 had a defective antenna design</a>. The event was only scheduled one day in advance — I got invited around noon ET on July 15 and was on my way to the airport about an hour later. It remains one of the most interesting press events I’ve ever attended.</p>
-
-<p>The event was held in Apple’s Town Hall auditorium at the old Infinite Loop headquarters. Town Hall is a tiny venue but it wasn’t full. It opened with Jonathan Mann’s “<a href="https://www.youtube.com/watch?v=VKIcaejkpD4">The iPhone 4 Antenna Song</a>” (refrain: “If you don’t want an iPhone 4, don’t buy it; if you bought one and you don’t like it, bring it back”), then Steve Jobs took the stage for what he said would be a 15-minute presentation but which took 30 minutes. Then Jobs had COO Tim Cook and hardware chief Bob Mansfield join him on stage to answer questions from the assembled members of the media.</p>
-
-<p>Apple itself hosted video of the presentation — minus the Q&amp;A — for some time after the event. But after a few years they took their copy down. There have been copies on YouTube, but the only one that seems to be left is <a href="https://www.youtube.com/watch?v=i8tXyfjfnB0">this 14-year-old copy from the YouTube account Tech Knowology</a>. It’s got Mann’s opening song and Jobs’s half-hour prepared presentation, but it cuts off right as Jobs invites Cook and Mansfield to join him on stage. To my recollection this is where Apple’s own official video cut off too — I think this version on YouTube is just a copy of Apple’s.</p>
-
-<p>The Q&amp;A was on the record (which is the entire point of a Q&amp;A), and was <a href="https://allthingsd.com/20100716/apple-iphone-4-press-conference/">reported</a> <a href="https://www.engadget.com/2010-07-16-live-from-apples-iphone-4-press-conference.html">widely</a>, but I don’t think there’s ever been video of it. <a href="https://tidbits.com/2010/07/16/apple-responds-to-iphone-4-antenna-issue/">Here’s a report by Jeff Carlson at TidBITS</a>, published the day the event was held, which states, “The video omits a long and interesting Q&amp;A at the end.”</p>
-
-<p>Then, yesterday, <a href="https://www.youtube.com/watch?v=BiN5ERktXz0">video of the Q&amp;A hit YouTube</a>. I don’t know what truck it fell off the back of, why it took 16 years, or how it came into the hands of “Sir Mix-A-Lot Rare Music”,<sup id="fnr1-2026-09-23-a"><a href="#fn1-2026-09-23-a">1</a></sup> but I’m sure glad it did. There are parts of this Q&amp;A that I remembered, and parts I didn’t. Carlson was exactly right: it was long and it was interesting. </p>
-
-<p>One part I remembered was my own question, <a href="https://youtu.be/BiN5ERktXz0?t=1125">asked at the 18:45 mark</a>, which was answered — by all three executives — visually, not verbally. It really was an answer best <em>shown</em> not <em>told</em>, but heretofore I’m not sure anyone who wasn’t in the room has seen this. There were photographs (e.g. <a href="https://web.archive.org/web/20111020162310/https://allthingsd.com/20100716/apple-iphone-4-press-conference/">AllThingsD</a> and <a href="https://www.macrumors.com/2010/07/16/coverage-of-apples-iphone-4-press-conference/">MacRumors</a>), but not video. Now you can watch.</p>
-
-<p>My main takeaway, though, watching the whole thing for the first time since I was in the room, is how goddamn <em>thoughtful</em> Steve Jobs was. He takes a long time to think before answering many of the questions. A few minutes after my question, <a href="https://youtu.be/BiN5ERktXz0?t=1190">Jobs was asked</a> what he’s learned from this experience. Jobs takes several seconds to think and then his answer lasts five minutes. It’s a good answer.</p>
-
-<p>I seldom suggest you spend 47 minutes watching a video, but this one is worth your time. (And, given that it clearly fell off the back of a truck, you might want to <a href="https://software.charliemonroe.net/downie/">put a copy</a> on your own truck sooner rather than later.) A lot of times with a long Q&amp;A the whole thing gets repetitive, with the same questions asked in rephrased ways, and the same answers (or, worse, non-answers) regurgitated from the same set of prepared talking points. Not this one. In fact, one of Jobs’s most interesting answers comes over 40 minutes into the Q&amp;A segment, when he re-articulates what Horace Dediu coined “<a href="https://asymco.com/2011/01/17/the-cook-doctrine/">The Cook Doctrine</a>”. (Which Cook deserves credit for, having expressed it a year prior while Jobs was on a medical leave of absence.) Here’s part of that answer:</p>
-
-<blockquote>
-  <p>To understand Apple, it helps to realize that one of our biggest
-insights came about eight years ago. We didn’t want to get into
-any business where we didn’t own or control the primary
-technology. Because if somebody else owns the primary technology,
-they’re going to beat you in the end. Because you’re going to
-have to buy that from them and add your stuff on top. But if
-their technology is the most important one, they’re going to beat
-you in the end. So we wanted to own or control the primary
-technology for those businesses that we’re in. And in the
-computer business, even though we didn’t make our own
-microprocessors, we thought software was the most important
-technology. And we made our own operating system.</p>
-
-<p>Our big insight about eight years ago was that for most areas of
-consumer electronics going forward, it was going to shift from big
-displays being the most important component, or electro-optical
-laser pickup heads for DVD drives being the most important
-component, or radios and cell phones being the most important
-component, to software being the most important component. And we
-realized that we were pretty good at software.</p>
-</blockquote>
-
-<p>Watch the whole thing, I implore you. I mean if you’re only going to watch a minute, sure, skip to my question. But you should watch the whole thing — if only to hear Jobs pronounce “component”.</p>
-
-<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BiN5ERktXz0?si=0ud6sCK7xUjpXK1C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-
-<div class="footnotes">
-<hr />
-<ol>
-<li id="fn1-2026-09-23-a">
-<p>Channel description: “A somewhat poorly named channel which used to constantly upload Sir Mix-A-Lot’s rare videos, music. Now it’s a lot of everything else except that.” He’s got <a href="https://www.youtube.com/playlist?list=PLOkazx1P1BMsxPy_a_oho2VpxOk45TlM5">a few other</a> Steve Jobs-era bootlegs, including <a href="https://www.youtube.com/watch?v=8a5KSoOUT_U">a 1998 interview about the just-released iMac</a>, in which Jobs is wearing a blue checked button-down flannel shirt, and <a href="https://www.youtube.com/watch?v=qSUTHa7ssoc">a 2008 interview about the iPhone 3G</a> and its new features geared toward the business market.&nbsp;<a href="#fnr1-2026-09-23-a"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
-</li>
-</ol>
-</div>
-
-    ]]></content>
-  <title>★ The iPhone 4 ‘Antennagate’ Press Conference Q&amp;A — Finally</title></entry></feed><!-- THE END -->
+  <title>★ I’ll Wait</title></entry></feed><!-- THE END -->
