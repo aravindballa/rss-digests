@@ -7,7 +7,108 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-10-15T20:40:38Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-10-16T01:19:55Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/10/thoughts_on_new_apple_tv_4k_and_homepod_mini_2" />
+	<link rel="shorturl" href="http://df4.us/xn7" />
+	<id>tag:daringfireball.net,2026://1.43603</id>
+	<published>2026-10-16T01:18:29Z</published>
+	<updated>2026-10-16T01:19:55Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">At the old pre-June prices, you could buy a 128 GB Apple TV and a pair of HomePod Minis for $350 ($150 + $100 + $100). Four short months later, with today’s new models, that combination would cost $600 ($300 + $150 + $150).</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p><a href="https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/">Apple Newsroom, Tuesday morning</a>:</p>
+
+<blockquote>
+  <p>The new Apple TV 4K features three far-field microphones, letting
+users control what they’re watching and discover new shows
+completely hands-free. Advanced echo cancellation intelligently
+isolates a user’s voice from background sound to deliver
+crystal-clear “Hey Siri” or “Siri” recognition, even while audio
+is playing.</p>
+</blockquote>
+
+<p>This is nice, but I don’t think it buys me anything, because my existing Apple TV 4K is paired with 2nd-gen HomePods, and the HomePods each have a “four-microphone design for far-field Siri”.</p>
+
+<blockquote>
+  <p>The A19 chip in the new Apple TV 4K delivers up to 50 percent
+faster CPU performance and up to 2× faster GPU performance than
+the previous generation, for greater responsiveness, faster
+navigation, and smoother animations. The A19 chip also includes a
+new, dedicated AV1 decoder, enabling more efficient, high-quality
+streaming while using less bandwidth.</p>
+</blockquote>
+
+<p>The new AV1 decoder seems like it might be meaningful, but does anyone think UI navigation and animation smoothness is improved by going from the A15 to the A19 SoC? I mean navigation is going up/down/left/right. I’m sure the graphics and CPU improvements matter for gaming, but the only mention of gaming in Apple’s own Newsroom announcement is this sentence: “With Apple Fitness+, the living room becomes a workout studio, while Apple Arcade and the App Store’s library of games turn it into a home arcade.” I wish it were otherwise, but gaming is such an afterthought on Apple TV that it only garnered the second half of a sentence that started with Fitness+, a service that has only been in the news this year <a href="https://9to5mac.com/2026/09/21/apple-fitness-team-hit-by-layoffs-as-major-changes-reportedly-loom/">because Mark Gurman says Apple laid off part of the team</a>.</p>
+
+<blockquote>
+  <p>The new Siri Remote keeps its familiar design while adding Find My
+support with Precision Finding and an option to play a sound on
+the remote — making it far easier to locate.</p>
+</blockquote>
+
+<p>That’s my single favorite feature in the announcement. I hate to say it though, but the previous remote should have supported these features. The 3rd-gen Apple TV 4K came in 2022, but <a href="https://www.apple.com/newsroom/2021/04/apple-introduces-airtag/">Apple launched AirTags with Precision Finding in 2021</a>. Remote controls are right after keys on the list of things people misplace most frequently, and Apple’s remote controls, because they’re small and thin, are particularly susceptible to being snatched by couch-cushion gremlins. Speakers, so the remote can play a sound to help you find it, were invented even earlier than 2021.</p>
+
+<blockquote>
+  <p>Pairing HomePod with Apple TV 4K already offers users an immersive
+viewing experience that’s easy to set up, and the new Apple TV 4K
+takes it even further. For the first time, users can create a
+four-speaker surround sound experience with Apple TV 4K (4th
+generation) and HomePod mini 2. The four speakers work together
+with Apple TV 4K to intelligently recognize their position in the
+room so audio timing and levels are automatically calibrated to
+the space. HomePod (2nd generation) can also be used in this
+four-speaker setup for the ultimate audio experience, as long as
+the front and rear speaker pairs match.</p>
+</blockquote>
+
+<p>This is tempting to try. In other words, in addition to the two 2nd-gen HomePods I already have paired in my living room, I can add two of the new HomePod Mini 2’s behind the sofa for surround sound.</p>
+
+<p>The elephant in the room, though, is price. Before this week, Apple sold two models of the 3rd-generation Apple TV. On a percentage basis, they were hit the hardest of any products Apple sells by <a href="https://daringfireball.net/2026/06/spensive_thoughts">the company’s across-the-board price increases this summer</a>:</p>
+
+<p><table class="table-65EBF365-4DEE-4E25-8A8B-E9D8F4B95492" width=400>
+<style>
+.table-65EBF365-4DEE-4E25-8A8B-E9D8F4B95492 th:nth-child(1) { text-align: left }
+.table-65EBF365-4DEE-4E25-8A8B-E9D8F4B95492 td:nth-child(1) { text-align: left }
+.table-65EBF365-4DEE-4E25-8A8B-E9D8F4B95492 th:nth-child(2) { text-align: center }
+.table-65EBF365-4DEE-4E25-8A8B-E9D8F4B95492 td:nth-child(2) { text-align: center }
+.table-65EBF365-4DEE-4E25-8A8B-E9D8F4B95492 th:nth-child(3) { text-align: center }
+.table-65EBF365-4DEE-4E25-8A8B-E9D8F4B95492 td:nth-child(3) { text-align: center }
+.table-65EBF365-4DEE-4E25-8A8B-E9D8F4B95492 th:nth-child(4) { text-align: center }
+.table-65EBF365-4DEE-4E25-8A8B-E9D8F4B95492 td:nth-child(4) { text-align: center }
+</style>
+<thead>
+<tr>
+<th></th><th>Before</th><th>June 25</th><th>Change</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>HomePod</td><td>$300</td><td>$350</td><td>17%</td>
+</tr>
+<tr>
+<td>(Old) HomePod Mini</td><td>$100</td><td>$130</td><td>30%</td>
+</tr>
+<tr>
+<td>(Old) Apple TV 64 GB</td><td>$130</td><td>$200</td><td>54%</td>
+</tr>
+<tr>
+<td>(Old) Apple TV 128 GB</td><td>$150</td><td>$250</td><td>67%</td>
+</tr>
+</tbody>
+</table></p>
+
+<p>The new Apple TV 4K announced this week only comes in one model, and it costs $300. It’s great that there’s only one model for simplicity’s sake, but the number one complaint when the previous generation cost $130/150 was that it was too expensive compared to set-top boxes and sticks from Amazon and Roku. (Or the “free” option of using the “smart TV” software that comes with every TV set.) Now, with the new Apple TV, it’s twice as expensive — and Apple is not keeping the 3rd-gen models around as lower-priced options. I still think it’s worth it, personally, but the general consumer market thought the old prices were too high and I don’t see any of the new features making Joe or Jane Consumer think “<em>Sure, I was skeptical about the old one at $130, but this new model, which looks exactly the same, this seems worth $300.</em>”</p>
+
+<p>HomePod Mini 2 now costs $150. That’s not too much of an increase over the new-since-June-25 $130 price for the old HomePod Mini, but it’s a stiff 50 percent increase from <a href="https://www.apple.com/newsroom/2020/10/apple-introduces-homepod-mini-a-powerful-smart-speaker-with-amazing-sound/">the old HomePod Mini’s $100 price from November 2020 through June 24 this year</a>. I generally round Apple’s prices up from their “99” values, but it’s worth noting that what I’m calling $100 was actually $99, and going to just two digits <a href="https://academic.oup.com/restud/article/90/5/2612/6931812?guestAccessKey=76f2de44-e2e1-4921-a3c1-5f9447df53a8&amp;login=false">does have a psychological effect on buying behavior</a>. Again, I think $150 is a reasonable price for the HomePod Mini 2, but it doesn’t feel as much like a lark as $99 did. $99 was a bit of a “<em>Sure, let’s get another one</em>” price; $150 is more of a “<em>Do we really need another one of these?</em>” price.</p>
+
+<p>At the old pre-June prices, you could buy a 128 GB Apple TV and a pair of HomePod Minis for $350 ($150 + $100 + $100). Four short months later, with today’s new models, that combination would cost $600 ($300 + $150 + $150). That price difference is much more striking than any of the new and improved features in the products.</p>
+
+    ]]></content>
+  <title>★ Initial Thoughts on This Week’s New Apple TV 4K (4th Generation) and HomePod Mini 2</title></entry><entry>
 	<title>Secret Documents Reveal Donors Behind $330 Million for Trump’s Ballroom — Apple and Nvidia Top the List at $25 Million Each</title>
 	<link rel="alternate" type="text/html" href="https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xn6" />
@@ -1713,65 +1814,4 @@ realized that we were pretty good at software.</p>
 </div>
 
     ]]></content>
-  <title>★ The iPhone 4 ‘Antennagate’ Press Conference Q&amp;A — Finally</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/09/appzapper_3000" />
-	<link rel="shorturl" href="http://df4.us/xlf" />
-	<id>tag:daringfireball.net,2026://1.43539</id>
-	<published>2026-09-23T17:31:23Z</published>
-	<updated>2026-09-23T22:37:30Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">Is it absolutely ridiculous and unnecessary to make an uninstall utility with an exquisitely detailed 3D laser gun as its UI? Fuckin’-A right it is.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>Back in the mid-2000s there was a golden era of exuberantly designed Mac apps. Paul Kafasis coined it “<a href="https://weblog.rogueamoeba.com/2006/11/06/the-delicious-generation/">The Delicious Generation</a>”, a perfect name. The <em>delicious</em> was both a reference to Wil Shipley and Mike Matas’s <a href="https://daringfireball.net/linked/2024/11/26/delicious-library-eol">Delicious Library</a> — a personal media library management app that made something that <em>sounds</em> really boring <em>look</em> super fun — and a perfect description of the aesthetic. It clearly harks back to <a href="https://daringfireball.net/2025/06/some_brief_thoughts_and_observations_on_wwdc_2025#:~:text=you%20wanted%20to%20lick%20it">Steve Jobs’s description of the Aqua user interface</a> in 2000: “One of the design goals was when you saw it, you wanted to lick it.”</p>
-
-<p>One of the delicious generation apps was Disco, a CD/DVD disc-burning utility. When it burned a disc, it rendered smoke coming out of the app’s main window. It wasn’t a simple “poof” animation. It was fully interactive. <a href="https://web.archive.org/web/20071023091210/http://www.discoapp.com/">From their own description</a>:</p>
-
-<blockquote>
-  <p>With Disco we tried pushing the boundaries of interface,
-usability, and utter functional simplicity. Well, once you realize
-that <em>Disco is emitting real time interactive smoke</em> as you burn, we
-start redefining the boundaries. Want to push it out of the way?
-Blow into your microphone and the smoke will react accordingly.
-Or, go ahead and flick at it with your mouse. Remember, you’ll
-need a recent Mac to play with the full interactive smoke.</p>
-</blockquote>
-
-<p><a href="https://www.youtube.com/shorts/zklSrGUELjA">Here’s a video of Disco in action</a>.</p>
-
-<p>Another delicious generation peer <a href="https://www.macworld.com/article/180361/appzapper-5.html">was AppZapper</a>, from Austin Sarner and Brian Ball. AppZapper was a utility to uninstall apps along with all of the apps’ associated files and folders, and its gimmick was that, well, you zapped the apps with a Zap button and a supposedly fun sound. Totally boring premise with a fun implementation and presentation.</p>
-
-<p>Two things brought that trend to an end. The first was the launch of the iPhone App Store in 2008. Indie developer attention that had previously been single-mindedly focused on the Mac was now split between the Mac and iPhone, and given the iPhone’s novelty and larger market, it soon was more like the attention went single-mindedly to the iPhone. The delicious aesthetic was a niche novelty on the Mac. On the iPhone, in those early years, it was <em>the</em> aesthetic of the platform. Apple’s own iBooks app had page-turning animation that tracked your finger; the built-in Calendar app had a UI <a href="https://daringfireball.net/linked/2011/10/26/against-skeuomorphism">rendered in rich Corinthian leather</a>; the Notes app <a href="https://daringfireball.net/2007/09/hacking_the_iphone_notes_app">used a silly handwriting font</a>. But then iOS 7 arrived in 2013, wiping the slate clean. Deliciousness was out. Blandness was in. And the whole industry has never really recovered.<sup id="fnr1-2026-09-23"><a href="#fn1-2026-09-23">1</a></sup></p>
-
-<p>I bring very good, very fun news. After a decade-plus hiatus, AppZapper is back, <a href="https://appzapper.com/">perfectly renamed for a long future as AppZapper 3000</a>. It’s completely over-the-top and I love it. <a href="https://appzapper.com/">Just look at it</a>.</p>
-
-<p>There’s long been a whole cottage industry of Mac “app uninstallers”, a sort of subset within the larger category of system “cleaners”. Some of these apps are scams, and some are borderline scams that prey on the false notion that users <em>should</em> be worried about the detritus that deleted apps leave behind. A lot of people who come to the Mac from Windows are uncomfortable with the idea that you don’t typically run installers for apps — you just copy the .app bundle from your Downloads folder or from a disk image to your Applications folder, and that’s it. It’s installed. It’s a beautiful system, to me, because it teaches you how the system works. There ought not be any hidden magic behind “installing” an app on the Mac.</p>
-
-<p>And to uninstall an app, you just drag it to the Trash. Some users are more uncomfortable with that than they are with just-drag-to-Applications-to-install, because deleting the application’s .app bundle doesn’t delete anything else it might have left behind. Like its preferences, or any associated files it might have left behind in subfolders within your <em>~/Library/</em> folder. The simple truth is that you don’t really need to worry about that stuff. I sometimes <em>prefer</em> leaving a deleted app’s preferences behind, just in case I ever re-install the app. The Mac’s NeXT-derived <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/UserDefaults/AboutPreferenceDomains/AboutPreferenceDomains.html"><code>defaults</code></a> system for software preferences is designed such that it doesn’t get bogged down by unused preferences from long-ago deleted applications. (The Windows Registry leaves people forever scarred.)</p>
-
-<p>But sometimes apps download <em>large</em> associated files and stash them in <em>~/Library/</em>. Those files aren’t bogging your system down but they are taking up space. Storage space has never been free of charge, and, on one side of the AI coin, <a href="https://daringfireball.net/2026/06/spensive_thoughts">it’s become a lot more expensive</a>. On the other side of the AI coin, there are <a href="https://daringfireball.net/linked/2026/06/04/the-ai-driven-resurgence-of-mac-app-development">a lot more new Mac apps coming out these days</a>. I’m trying more new apps every week than I have since the earliest days of the App Store. Sometimes I really just want to nuke all traces of them after taking a test drive.</p>
-
-<p>AppZapper 3000 does that job well, and it makes it fun as hell. You drag an app you want to uninstall to its main window, and AppZapper lists all of the app’s associated files (including, of course, the app itself). Then you shoot the ones you want to delete. Zapped files are safely moved to your Trash, and AppZapper itself supports Undo if you get trigger happy. It’s terrific fun. There’s even a “Zap All” button for the lazy. It re-launched last Monday but I’ve been testing AppZapper 3000 since a few weeks before that. My Applications and Library folders haven’t been this trim in years.</p>
-
-<p>Way, way back in the day with <a href="https://daringfireball.net/linked/2019/12/09/the-grouch">The Grouch system extension for System 6 and 7</a>, there were stories claiming that people who had the Grouch installed would let their young kids play with their Macs, and come to find that the kids had deleted gobs of important files and folders, just to make Oscar pop out of the Trash and sing his songs. (Oscar only sang when you <em>emptied</em> the Trash.) The Grouch seemed old even when the original AppZapper was new. But AppZapper 3000 brings back that sort of fun — while being genuinely useful. And the Mac has never in its history been more in need of new UI fun. Is it absolutely ridiculous and unnecessary to make an uninstall utility with an exquisitely detailed 3D laser gun as its UI? Fuckin’-A right it is.</p>
-
-<p>If you’ve got a fun bone in your body you should <a href="https://appzapper.com/">check AppZapper 3000 out</a>. It’s a free download with a free trial. Licenses cost $18 for a single user, $29 for a 5-user family pack, and $99 for a 25-Mac enterprise license. One-time purchases, not subscriptions. Sarner was kind enough to create a 20 percent discount code for DF readers, good through next Monday: <strong>DARING</strong>. This is not a sponsorship. I’m sharing this code (and writing this article) simply because I’m so happy to see such a much-needed injection of pure fun on the Mac.</p>
-
-<div class="footnotes">
-<hr />
-<ol>
-
-<li id="fn1-2026-09-23">
-<p>Delicious — dare I say lickable — <em>hardware</em> never fell out of fashion at Apple. But I think that was, in a very small nut, the core problem with Jony Ive taking control of all design at the company. With a hardware designer in charge of software design, of course the aesthetic changed to one where the software look-and-feel deferred to the hardware. In the 2000s, if you asked me what was more exciting, just to look at, Apple’s hardware or software, I’d have to say “I don’t know.” They both were full of exuberance. They both continued to surprise and delight. Starting with iOS 7, and ever since, the answer is clearly “Oh, the hardware.”</p>
-
-<p>At a first approximation, the problem with Liquid Glass last year is that it just plain sucked. In the way that Donald Trump is a poor idiot’s idea of a rich genius, Liquid Glass exemplifies bad graphic designers’ idea of a good user interface. But looking deeper, the real problem with Liquid Glass is the lack of ambition. Even a good implemention of the ideas behind Liquid Glass — which we’re starting to see Apple incrementally edge toward in this year’s version 27 OS releases — is still fundamentally bland. It aspires only to see-through blandness. The whole point is for the application chrome to defer to “content”, which necessarily results in applications that look shy. They all look alike. <a href="https://daringfireball.net/2026/01/thoughts_and_observations_regarding_apple_creator_studio">Even their icons suck</a>. A good user interface is obvious, consistent, efficient, functional etc. But an insanely great user interface is one that makes you want to use the software not because of what it does but just because it looks so goddamn cool. That’s not <em>instead of</em> actually getting fundamental functionality right. It’s <em>on top</em> of it. But Apple stopped striving for insanely great UIs like that. And, alas, everyone followed.&nbsp;<a href="#fnr1-2026-09-23"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
-</li>
-
-</ol>
-</div>
-
-    ]]></content>
-  <title>★ AppZapper 3000</title></entry></feed><!-- THE END -->
+  <title>★ The iPhone 4 ‘Antennagate’ Press Conference Q&amp;A — Finally</title></entry></feed><!-- THE END -->
