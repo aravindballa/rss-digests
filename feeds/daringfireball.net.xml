@@ -7,7 +7,96 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-10-17T14:06:19Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-10-17T18:03:53Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/10/homeview_thoughts_and_observations" />
+	<link rel="shorturl" href="http://df4.us/xnh" />
+	<id>tag:daringfireball.net,2026://1.43613</id>
+	<published>2026-10-17T17:25:13Z</published>
+	<updated>2026-10-17T18:03:53Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">There’s a real “*Why do we need this?*” question here and I don’t think Apple’s video answers it, at all. You need to think you want it if you’re going to buy it. And even if you already had a HomeView set up, I’m not sure how often you’d use it instead of your phone, or instead of just talking to it like a screenless HomePod.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>I’ll start with a nomenclatural sidenote: Apple seems to be going with “Apple HomeView” as the product’s name. E.g., the URL slug for it on Apple.com is <em><a href="https://www.apple.com/apple-homeview/">apple-homeview/</a></em>, not just <em>homeview/</em>. Few people notice and no one who doesn’t work in Apple product marketing cares, but they actually do the same thing with Vision Pro — in Cupertino, it’s “Apple Vision Pro” (once again including <a href="https://www.apple.com/apple-vision-pro/">the URL slug</a>). Yet this week’s new HomePod Mini is just “<a href="https://www.apple.com/homepod-mini/">HomePod mini 2</a>” and the existing 2nd-generation HomePod is just “<a href="https://www.apple.com/homepod-2nd-generation/">HomePod (2nd generation)</a>” — not “HomePod 2” or “Apple HomePod”. I certainly intend to just call it “HomeView”.</p>
+
+<p>Apple introduced HomeView with a three-minute introductory film simulating a suburban family’s hectic before-school/work kitchen rush hour, with versions hosted <a href="https://www.apple.com/105/media/us/apple-homeview/2026/f7ce47a8-10f2-455c-b99f-bf9b85a35cb6/films/product/apple-homeview-product-tpl-us-2026_16x9.m3u8">on Apple’s site</a> and <a href="https://www.youtube.com/watch?v=hkrYiZ_g9tw">YouTube</a>. The most ridiculous aspect of it is that anyone would possibly make their kid French toast in that scenario. I’d have told my son to make his own goddamn French toast with that attitude. Or I’d have made a single serving and eaten it myself right in front of him. Bro.</p>
+
+<p>I do think the basic concept is an intriguing idea. But as an implementation of that concept, my initial impressions are threefold. First, I am unconvinced that anyone in a family would use this for anything other than playing music or podcasts, rather than just using their phones. And if that’s the case, why not just have a HomePod? Apple’s video shows family members taking turns to use the HomeView, rotating it on the kitchen island to face themselves. Why? Why does the mom check her calendar on this, rather than on her iPhone, while the dad is using it to follow a French toast recipe? There’s a real “<em>Why do we need this?</em>” question here and I don’t think Apple’s video answers it, at all. You need to think you want it if you’re going to buy it. And even if you already had a HomeView set up, I’m not sure how often you’d use it instead of your phone, or instead of just talking to it like a screenless HomePod.</p>
+
+<p>Second, all the touching and rotating — in Apple’s own demonstration — makes it seem awkward that HomeView must be tethered to a USB power cable. If you look closely in the video, they do show the USB power cable in some shots, but not many. And if you look really closely, this hypothetical family has drilled a hole in the center of their kitchen island to snake the cable through.</p>
+
+<p>The hero shot introducing the product, of course, does not show the power cable at all:</p>
+
+<p><a href="https://daringfireball.net/misc/2026/10/homeview-video-introducing.jpeg" class="noborder">
+  <img
+    src = "https://daringfireball.net/misc/2026/10/homeview-video-introducing.jpeg"
+    alt = "The “Introducing HomeView” title card shot from Apple’s video. It shows a HomeView sitting atop a kitchen island."
+    width = 600
+  /></a></p>
+
+<p>We see a wee bit of the cable when the dad reaches to touch the screen to start the French toast recipe:</p>
+
+<p><a href="https://daringfireball.net/misc/2026/10/homeview-video-cable-dad.jpeg" class="noborder">
+  <img
+    src = "https://daringfireball.net/misc/2026/10/homeview-video-cable-dad.jpeg"
+    alt = "The HomeView, centered on the kitchen island, with about 2 inches of cable visible, disappearing into the island right behind the HomeView base."
+    width = 600
+  /></a></p>
+
+<p>And then a few seconds later, after the mom rotates the HomeView to the side, so she can check her calendar (despite the fact that she knows the dad was using it to follow a recipe), we get our most honest shot of the cabling situation:</p>
+
+<p><a href="https://daringfireball.net/misc/2026/10/homeview-video-cable-mom-49s.jpeg" class="noborder">
+  <img
+    src = "https://daringfireball.net/misc/2026/10/homeview-video-cable-mom-49s.jpeg"
+    alt = "A view from behind the HomeView, which has been rotated to face the mom, showing about 4 inches of the USB cable disappearing into a convenient hole in the center of the island."
+    width = 600
+  /></a></p>
+
+<p>The above shot is at 0:49. It’s followed by two quick cuts to the dad and then the younger daughter, then at 0:52 we cut back to the mom (curious about her daughter’s new boyfriend situation), and, lo, the shot is now framed in such a way that we no longer see where the cable goes:</p>
+
+<p><a href="https://daringfireball.net/misc/2026/10/homeview-video-cable-mom-52s.jpeg" class="noborder">
+  <img
+    src = "https://daringfireball.net/misc/2026/10/homeview-video-cable-mom-52s.jpeg"
+    alt = "Same view as the previous shot, except the camera has been tilted up about an inch, such that the cable just runs off the bottom of the frame, no longer showing that it disappears into a hole in the island that no kitchen island I’ve ever seen actually has."
+    width = 600
+  /></a></p>
+
+<p>If you think that slight reframing is happenstance, you should stay away from poker tables. Most kitchen islands I’m familiar with — including my own — have power outlets on the sides of the island. I’m sure some people have power outlets on the top surface of the counter, but I can’t recall seeing one. These are kitchen counters, not office desks. But either way, there’d be a long USB-C cable cluttering the countertop. And if you do happen to have a power outlet on the top surface of your counter, there’d be an adapter sticking out of it, all the time, to duplicate this HomeView setup.</p>
+
+<p>This family’s convenient hole in the center of their island countertop is a fantasy. Where does the cable go underneath? How exactly do they have a power adapter plugged in down there? What happens when something spills on the counter? When we custom ordered our kitchen, we weren’t asked if we wanted any holes drilled in our island countertop, and I’d have found it to be a very curious question if I had. It would have made me wonder if the guy asking the question had a hole or two drilled in his head.</p>
+
+<p>I know, it’s a marketing video. Marketing videos present products in ideal settings. But the power cable is an essential aspect of the standalone HomeView. I’m not suggesting that it should be battery powered. You’d still need to plug it in every few days, which would mean most people would just leave it plugged in, which gets us back to needing to live with an always-visible cable and power adapter in one of our living spaces. The countertop hole this cable disappears into in this video is less <em>ideal</em> and more <em>dishonest</em>.</p>
+
+<p>The wall-mounted option seems more appealing to me, but now you’re talking about a home improvement project and (for most of us) calling an electrician. And that raises the question of why the wall-mounted version costs the same $300 as the one with the connected base, even though the base provides the subwoofer. And it requires a mount, and the mounts cost $60 (USB-C), $80 (AC wired), or $130 (PoE — and this one is not available yet). So the wall-mounted version, when you include a mount, costs more but sounds worse? This doesn’t make sense.</p>
+
+<p>Those points make me skeptical that there’s a place for HomeView in my home. We have a stereo pair of HomePods in our kitchen. Neither is on the center island, because that would be dumb. They’re on the counters along the outside of the kitchen, each near an outlet on the wall. In the four days since HomeView was announced, I’ve tried to imagine when I’d want to look at something on a screen on either of them. My count remains at zero.</p>
+
+<p>My third early impression is that the display is surprisingly small. I saw HomeView in person in New York on Tuesday, and I think Apple’s video conveys its size very accurately. It’s small and cute. It’s much more like a HomePod Mini with a screen than a full-size HomePod with a screen. For some reason I was expecting the latter. This size observation is not a complaint, simply an observation. I actually think that making it small and cute makes it about as unobtrusive as an ever-present screen could possibly be. That’s good. But because it’s small you need to be close to it to read anything more detailed than large glanceable widgets.</p>
+
+<p>The major difference between a device with a screen and one without is that you can watch video on a device with a screen. But HomeView clearly isn’t intended for that. It <em>can</em> play video but isn’t primarily <em>meant</em> to play video. If it were it would have a widescreen aspect ratio. But instead it has a square aspect ratio,<sup id="fnr1-2026-10-17"><a href="#fn1-2026-10-17">1</a></sup> which is decidedly unsuited to video, unless, I suppose, you want a screen that is equally unsuited for both widescreen and tallscreen video.</p>
+
+<p>So my skepticism boils down to the question of why anyone would want to add one (or more!) additional ever-present screens to our homes and lives. Phones can stay in our pockets until we need them. Watches remain on our wrists. HomePods can be tucked away unobtrusively in corners, and remain fully useful. HomeView needs to be in a prominent location for its display to serve any practical purpose. Apple’s initial pitch for it doesn’t earn that prominence for me.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1-2026-10-17">
+<p>In my <a href="https://daringfireball.net/2026/09/thoughts_and_observations_on_apples_surprise_and_shine_event">thoughts and observations column</a> after Apple’s iPhone event last month, I wrote the following regarding the iPhone Duo’s clever 1:1.4 aspect ratio:</p>
+
+<blockquote>
+  <p>Here’s the thing. If you take a 2 : 1 or even 2.2 : 1 aspect ratio phone display and turn that into a book-like foldable, the inner screen comes out square — or so close to square that we might as well just call it square. Nobody makes any device of any sort that just has a square display. Square is a terrible aspect ratio for a phone or a tablet or a laptop or a desktop display. The only square displays on the market are the inner displays for Android foldables from the last decade. Square being a shitty aspect ratio is half the reason <a href="https://daringfireball.net/linked/2026/09/07/birchler-folding-iphone-predictions">almost no one has bought those things</a>. </p>
+</blockquote>
+
+<p>I will admit that I had the as-yet-unannounced HomeView in mind as I wrote that, given that its square aspect ratio had been rumored for months. HomeView is not a phone or tablet or laptop or desktop display. It’s not a TV either. So maybe square works for this nascent product category (status boards?). But if square does prove to be correct for this purpose, it’ll be the first category I can think of where that’s true. Apple Watch is the closest device I can think of whose screen serves primarily to display status, but even Apple Watch isn’t square. (It varies slightly by model, but Apple Watch displays are around 4 : 5.)&nbsp;<a href="#fnr1-2026-10-17"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
+</li>
+</ol>
+</div>
+
+    ]]></content>
+  <title>★ HomeView Thoughts and Observations</title></entry><entry>
 	<title>Apple TV Price History, Charted</title>
 	<link rel="alternate" type="text/html" href="https://glog.glennf.com/blog/2026/10/17/apple-tv-price-history/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xng" />
@@ -1861,38 +1950,4 @@ real Walkman!</p>
 </div>
 
 	]]></content>
-  </entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/09/ill_wait" />
-	<link rel="shorturl" href="http://df4.us/xlt" />
-	<id>tag:daringfireball.net,2026://1.43553</id>
-	<published>2026-09-25T18:16:47Z</published>
-	<updated>2026-09-26T00:00:10Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">I wouldn’t grant a stranger access to my email. So why would I grant a robot?</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>It’s Friday, and Muse is <a href="https://daringfireball.net/linked/2026/09/22/meta-muse-app-store">still</a> the #1 app in the iOS App Store — that’s a full week in the top spot. Who knows if it’s a flash in the pan or not. (Remember <a href="https://daringfireball.net/linked/2021/02/15/clubhouse-iphone-primacy">Clubhouse</a>? <a href="https://daringfireball.net/linked/2025/10/02/sora-launch">Sora</a>?) But at the moment it’s clearly a hit. It certainly helps that Meta itself is promoting Muse heavily on its own channels like Instagram and Facebook.</p>
-
-<p>The Muse iOS app is sandboxed — because it has to be. So that’s the only version I’m personally tinkering with. But the Mac app is the more powerful one, because, well, it lets Muse drive your Mac. The fact that the Muse Mac app is so powerful is why it has to be downloaded from the web. It’s not in the Mac App Store because apps that do what the Muse Mac app does aren’t permitted in the Mac App Store — or are only permitted with hard-to-get entitlements. There are a lot of good reasons why good Mac developers have <a href="https://daringfireball.net/linked/2019/04/04/bbedit-mac-app-store">long</a> been <a href="https://daringfireball.net/linked/2015/12/01/sketch-leaves-mac-app-store">frustrated</a> by those rules. (Users too.) But the upside of Apple’s restrictive Mac App Store policies is that users can blindly install apps from the Mac App Store and trust that those apps <em>cannot</em> run amok on their system.</p>
-
-<p>The way I think about running an agentic AI on my Mac is simple. I would never let an unknown person use my Mac. Not even for a minute, not even with me watching them. Let alone letting them use it nonstop, without my watching them. I’d be uncomfortable letting even a trusted friend use my Mac, logged into my user account. So why would I let an AI robot, no matter the source? It doesn’t even get to the point of my considering Meta as Muse’s creator. I wasn’t tempted an iota to try OpenClaw, and I’m not tempted to try Muse on my Mac. On <em>a</em> Mac, maybe. But not <em>my</em> Mac.</p>
-
-<p>Same thing for granting Muse — running in the cloud, not on my Mac — access to my email, or calendar, or banking. I wouldn’t grant a stranger access to my email. So why would I grant a robot? But my refusal to grant Muse access to anything like that means that it’s basically just a toy for me to poke at.</p>
-
-<p>A lot of people hire personal assistants — humans — and give them access to their email (and calendar, files, bank accounts, etc.). I’ve never done that, but I’ve long considered it. I see the appeal. But if I hired a personal assistant, I’d get to know them first. Develop some trust. My time is valuable, but not as valuable as my comfort, and I’d be excruciatingly uncomfortable giving anyone — or anything — I didn’t trust access to my life. I’m not saying I will never grant access to such things to an AI agent. In fact, I bet that sooner or later I will, to some carefully measured extent. But not now.</p>
-
-<hr />
-
-<p>One of my favorite teachers in high school was a history teacher named Gary Choyka. I had him for morning homeroom too, and I loved that he had a daily subscription to The Philadelphia Inquirer, a real newspaper, not just our Podunk suburban rag. Mr. Choyka was a great teacher, full stop. I learned a lot about the world, and a ton about our civil rights and liberties here in the U.S., from him. It was from Mr. Choyka that I learned that you do not have to allow the police to enter your home just because they’re at the door claiming that they’re going to enter the home. That came in handy at some high school parties (and made me the designated knock-at-the-door answerer).</p>
-
-<p>Part of what made Mr. Choyka a great teacher is that he had a wonderful presence, a mastery of the classroom. And he had one devastatingly effective technique. If he was giving a lecture and a bit of chatter between students grew to the point of even slight disruption, he’d just stop talking, mid-sentence, stare at the chattering students, and after waiting a few beats, say, “I’ll wait.”</p>
-
-<p>Having been the disruptive whisperer more than once, I still feel small thinking about that phrase. It was like getting zapped by Rick Moranis’s kid-shrinking machine. Thirty-some years later and I can still hear him saying it. <em>I’ll wait.</em> It worked because he meant it. He wasn’t going to compete for attention.</p>
-
-<p>It’s not really an analogous situation at all. But somehow it’s Mr. Choyka’s signature line that comes to mind when I ponder how I feel about AI agents — at least the sort of ones like Muse that want control over my personal computing, and really, personal life. I’ll wait.</p>
-
-    ]]></content>
-  <title>★ I’ll Wait</title></entry></feed><!-- THE END -->
+  </entry></feed><!-- THE END -->
