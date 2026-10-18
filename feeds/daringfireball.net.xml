@@ -7,7 +7,191 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-10-18T21:04:27Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-10-18T23:16:42Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Tom the Dancing Bug’s Inner Hive, and Harvey Richards, the Greatest Lawyer in the History of Fiction</title>
+	<link rel="alternate" type="text/html" href="https://tomthedancingbug.com/the-inner-hive/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xnp" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/18/tom-the-dancing-bugs-inner-hive" />
+	<id>tag:daringfireball.net,2026:/linked//6.43621</id>
+	<published>2026-10-18T22:53:00Z</published>
+	<updated>2026-10-18T23:16:42Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Ruben Bolling’s long-running Tom the Dancing Bug is one of my favorite comic strips. I’ve been a huge fan since the early 1990s, when I started reading it in alternative newspapers. (Newspapers were sort of like websites, excepted they were printed daily or weekly. I swear.) Back in 2012 Bolling — noting that the comic was more widely read than ever yet generating less money than ever — started a subscription membership called <a href="https://tomthedancingbug.com/the-inner-hive/">The Inner Hive</a>. I love it. Not just because I’m supporting work that I adore and value, but because the extras that members get are so fun. If you’re even half as big a fan of Tom the Dancing Bug as I am, <a href="https://tomthedancingbug.com/the-inner-hive/">you should join too</a>. There are several options — Patreon, MailChimp, Substack — but IMO Patreon is the simplest and the best and it gets you everything.</p>
+
+<p>I was reminded to re-endorse The Inner Hive after I wrote <a href="https://daringfireball.net/linked/2026/10/17/whatever-you-say-bounces-off-me-and-sticks-to-you">a post last night referencing Harvey Richards</a>, lawyer for children — one of the comic’s longest running recurring characters. Tom the Dancing Bug’s entire schtick is premised on a wide array of recurring characters and premises, but Richards is probably my favorite. Here’s <a href="https://daringfireball.net/misc/2026/10/harvey-richards-smelt-it-dealt-it-1990.png">an early one regarding the doctrine of “He Who Smelt It, Dealt It”</a> that ran <a href="https://www.luckyfrogfarms.com/cook/NL/1990%27s/1991/1991_02.pdf">in National Lampoon in 1990</a>. Here’s <a href="https://boingboing.net/2012/04/18/tom-the-dancing-bug-harvey-r.html">one from 2012 at Boing Boing</a> (where Bolling is a contributor), and <a href="https://boingboing.net/2018/01/31/trumps-new-lawyer-harvey-ri.html">here’s one from 2018 where Richards joins the Trump 1.0 White House</a>, and specifically invokes the “I’m Rubber, You’re Glue, Everything You Say Bounces Off Me and Sticks to You” doctrine that I mentioned as a Richards specialty <a href="https://daringfireball.net/linked/2026/10/17/whatever-you-say-bounces-off-me-and-sticks-to-you">in my post yesterday</a>.</p>
+
+<p>But the thing is, my earliest memory of Harvey Richards was regarding the “I’m Rubber, You’re Glue” doctrine. It’s the foundation of all of children’s law, obviously. In my memory, it’s the first thing I remember about Harvey Richards in the strip. But I searched the web, and couldn’t find any old strips with it. I asked the LLM robots to search, and they came up with nothing. So I wrote to Bolling, with whom I’ve exchanged occasional correspondence for many years. Bolling not only confirmed that my memory isn’t entirely shot, but he graciously granted me permission to reproduce it here. It’s from 1993, when I know I was already a weekly reader of the strip.</p>
+
+<p><a href="https://daringfireball.net/misc/2026/10/harvey-richards-courtroom-rubber-glue-1993.png" class="noborder">
+<img
+    src = "https://daringfireball.net/misc/2026/10/harvey-richards-courtroom-rubber-glue-1993.png"
+    alt = "1993 “Tom the Dancing Bug” comic strip, featuring Harvey Richards, lawyer for children, branching out into courtroom practice."
+    width = 600
+/></a></p>
+
+<div>
+<a  title="Permanent link to ‘Tom the Dancing Bug’s Inner Hive, and Harvey Richards, the Greatest Lawyer in the History of Fiction’"  href="https://daringfireball.net/linked/2026/10/18/tom-the-dancing-bugs-inner-hive">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>WorkOS AuthKit</title>
+	<link rel="alternate" type="text/html" href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xnq" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/18/workos-authkit" />
+	<id>tag:daringfireball.net,2026:/linked//6.43622</id>
+	<published>2026-10-18T22:45:00Z</published>
+	<updated>2026-10-18T22:53:33Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks to WorkOS for sponsoring DF last week. Login looks simple until you’re building password resets, email verification, MFA, social providers, session management, and the enterprise SSO your first big customer asked for last week.</p>
+
+<p>WorkOS AuthKit lets you:</p>
+
+<ul>
+<li>Offer SSO, MFA, passkeys, passwords, email codes, and social sign-in.</li>
+<li>Add and remove users automatically with SCIM provisioning.</li>
+<li>Track who did what with audit logs.</li>
+</ul>
+
+<p><a href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026">Try AuthKit today</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS AuthKit’"  href="https://daringfireball.net/linked/2026/10/18/workos-authkit">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Verizon Is Going to Charge $10/Month for iPhone Handoff</title>
+	<link rel="alternate" type="text/html" href="https://www.verizon.com/about/news/iphone-duo-verizon-offers" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xno" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/18/verizon-handoff" />
+	<id>tag:daringfireball.net,2026:/linked//6.43620</id>
+	<published>2026-10-18T22:20:06Z</published>
+	<updated>2026-10-18T22:20:06Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Verizon, in a post headlined “Switch to Verizon and Get the New iPhone Duo Now. No Trade-In Needed.”:</p>
+
+<blockquote>
+  <p>Verizon will support iPhone Handoff, giving customers the
+flexibility to use a single Verizon phone number seamlessly
+across two compatible iPhone models. Whether using the pocketable
+iPhone Duo on the go or iPhone 18 Pro for work, customers can
+switch active status between devices at any time while keeping
+full access to Verizon’s 5G network. iPhone Handoff will be
+available from Verizon for $10/month on compatible iPhones models
+running iOS 27.</p>
+</blockquote>
+
+<p>First, the word “now” is <a href="https://daringfireball.net/linked/2026/10/18/apple-duo-shortage-statement">doing a lot of work</a> in that headline, given the current January 25 estimate for new Duo orders.</p>
+
+<p>Second, we all know Verizon is the most expensive competent carrier in the U.S. (Maybe AT&amp;T is just as expensive, but I said “competent”.) It feels like a rip <a href="https://daringfireball.net/linked/2026/09/12/tmobile-iphone-handoff-price-gauging">that T-Mobile is charging $5/month</a>. Verizon charging double is on-brand but irritating.</p>
+
+<div>
+<a  title="Permanent link to ‘Verizon Is Going to Charge $10/Month for iPhone Handoff’"  href="https://daringfireball.net/linked/2026/10/18/verizon-handoff">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Gurman on HomeView: ‘Finished Units Have Been Sitting Boxed Up in Warehouses for the Better Part of a Year’</title>
+	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjMzMjQwNiwiZXhwIjoxNzkyOTM3MjA2LCJhcnRpY2xlSWQiOiJUTjNXODFLR1pBSjQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.eu94lgz5qU35YdXhWFRwjbVBeJEKzpwFqF-pzh_GPJU&amp;leadSource=article-gifting" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xnn" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/18/gurman-homeview-better-part-of-a-year" />
+	<id>tag:daringfireball.net,2026:/linked//6.43619</id>
+	<published>2026-10-18T21:58:33Z</published>
+	<updated>2026-10-18T22:00:39Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Mark Gurman, today, in his weekly Power On column for Bloomberg (gift link):</p>
+
+<blockquote>
+  <p>Without a serviceable version of the new assistant, Apple couldn’t
+deliver the experience it had envisioned. That left the hardware
+ready to go, but the software nowhere near finished.</p>
+
+<p>So Apple postponed the HomeView repeatedly — first until spring
+2025, then summer, then fall, and then again throughout 2026
+before finally unveiling it this past week. And the hardware
+betrays its age. With thick bezels, an A18 processor and 8
+gigabytes of memory, this is clearly a product conceived years
+ago. Finished units have been sitting boxed up in warehouses for
+the better part of a year, waiting for the software to catch up.</p>
+</blockquote>
+
+<p>The A18 chip and 8 GB of RAM aren’t a sure sign of delay; <a href="https://daringfireball.net/2026/03/the_macbook_neo">this year’s MacBook Neo</a> has <a href="https://www.apple.com/macbook-neo/specs/">the 18 Pro chip and only 8 GB RAM</a>, and wasn’t delayed. And if a kick-ass MacBook can get by with A18-class chip and 8 GB RAM, surely a HomeView can too. HomeView only does a fraction of what a Mac can do, and the MacBook Neo is perhaps Apple’s best new product, full stop, in years.</p>
+
+<p>But I have no reason to doubt Gurman that this hardware was finished and production started long ago. His reporting on this product has proven out going back two years. Parts of Apple clearly — and disastrously — believed that a credible version of Siri AI would ship in early 2025. You might recall <a href="https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino">my writing about that</a>. HomeView clearly depends on having a credible version of Siri AI behind it. But Siri AI didn’t ship until last month.</p>
+
+<blockquote>
+  <p>One revealing sign of how long this thing has been in development:
+I spotted several posts on social media from former Apple
+employees proudly touting their work on the HomeView. These
+weren’t people who had just left the company, either. Some hadn’t
+worked at Apple in quite a while, yet were still able to point to
+the newly announced device as something they helped create. That
+tells you plenty about how long ago much of the work was
+completed.</p>
+</blockquote>
+
+<p>That’s juicy, but it might have been good to include some links here?</p>
+
+<div>
+<a  title="Permanent link to ‘Gurman on HomeView: ‘Finished Units Have Been Sitting Boxed Up in Warehouses for the Better Part of a Year’’"  href="https://daringfireball.net/linked/2026/10/18/gurman-homeview-better-part-of-a-year">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Claim Chowder: The Information on HomeView Having a ‘Robotic Swiveling Base’</title>
+	<link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/apple-developing-ai-wearable-pin" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xnm" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/18/claim-chowder-the-information-on-homeview" />
+	<id>tag:daringfireball.net,2026:/linked//6.43618</id>
+	<published>2026-10-18T21:26:32Z</published>
+	<updated>2026-10-18T22:56:40Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Wayne Ma and Qianer Liu, reporting, wrongly, for The Information in January this year (paywalled; <a href="https://www.macrumors.com/2026/01/21/home-hub-robotic-swivel-base/">here’s MacRumors’s summary</a>)</p>
+
+<blockquote>
+  <p>Apple’s pin joins a growing portfolio of AI-powered products the
+tech giant has under development, including AirPods equipped with
+enhanced sensors, a security camera, smart glasses and augmented
+reality glasses, according to multiple people familiar with the
+projects. Apple is also working on a home product featuring a
+small display, speakers and a robotic swiveling base, designed
+with a heavy emphasis on AI features. That device could be
+released as soon as this spring, according to two of the people.</p>
+</blockquote>
+
+<p>Wrong. So I’d say that the stupid-sounding “AI pin” that these same “people familiar with the matter” told Ma and Liu about is probably equally wrong. (That supposed “AI pin” was the main thrust of <a href="https://www.theinformation.com/articles/apple-developing-ai-wearable-pin">the article</a>.)</p>
+
+<p>I love to point out <a href="https://daringfireball.net/linked/2026/06/08/gurman-siri-ai-extensions">when Mark Gurman is wrong</a>, <a href="https://daringfireball.net/2026/04/delicious_claim_chowder_regarding_the_cook-ternus_ceo_transition">which</a> is not <a href="https://daringfireball.net/2025/03/a_postscript_on_the_singular_nature_of_mark_gurmans_reporting">infrequently</a>, but in the case of HomeView he’s seemingly been right about everything going back to 2025. He reported <a href="https://www.macrumors.com/2025/04/07/apple-might-delay-smart-home-hub/">back in April 2025</a>, with codenames, that the initial HomeView (J490) had no robotics but that a subsequent version (J595) would — or at least might. Two dinguses heard a rumor about J595 and told The Information it might ship six months ago, when in fact it’s something that won’t ship until 2027 or 2028 at the earliest. But The Information ran with it.</p>
+
+<p>The phrase “familiar with the matter” often just means “who heard something about it from someone who goes to the same gym as a guy whose wife works at Apple”. Substitute that longer phrase whenever you see “people familiar with the matter”.</p>
+
+<div>
+<a  title="Permanent link to ‘Claim Chowder: The Information on HomeView Having a ‘Robotic Swiveling Base’’"  href="https://daringfireball.net/linked/2026/10/18/claim-chowder-the-information-on-homeview">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple Issues Statement on Duo Demand Far Outstripping Supply</title>
 	<link rel="alternate" type="text/html" href="https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xnl" />
@@ -800,7 +984,7 @@ at least $77 million came from donors who requested anonymity.</p>
 	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.43601</id>
 	<author><name>Daring Fireball Department of Commerce</name></author>
 	<published>2026-10-14T21:03:43Z</published>
-	<updated>2026-10-14T21:03:43Z</updated>
+	<updated>2026-10-18T22:51:19Z</updated>
 	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
 <p>Login looks simple until you’re building password resets, email verification, MFA, social providers, session management, and the enterprise SSO your first big customer asked for last week.</p>
 
@@ -1792,127 +1976,6 @@ contracts and could cut or stop spending.</p>
 
 <div>
 <a  title="Permanent link to ‘Destroy Any Website’"  href="https://daringfireball.net/linked/2026/09/29/destroy-any-website">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Bastardica</title>
-	<link rel="alternate" type="text/html" href="https://bastardica.mitpit.com/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xmd" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/28/bastardic" />
-	<id>tag:daringfireball.net,2026:/linked//6.43573</id>
-	<published>2026-09-29T02:15:36Z</published>
-	<updated>2026-09-29T02:15:37Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>“A foundry for bastard web fonts.” The default is a version of Times New Roman but every 7th glyph is replaced with one from Arial, but you can dial up whatever bastardization you want.</p>
-
-<p>This is why I’m not at all worried about AI destroying the world. Look at the horrible things human beings have made.</p>
-
-<div>
-<a  title="Permanent link to ‘Bastardica’"  href="https://daringfireball.net/linked/2026/09/28/bastardic">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘When Did Google Get So F-Ing Weird?’</title>
-	<link rel="alternate" type="text/html" href="https://sancho.bearblog.dev/google-weird/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xmc" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/28/google-is-fing-weird" />
-	<id>tag:daringfireball.net,2026:/linked//6.43572</id>
-	<published>2026-09-29T01:51:50Z</published>
-	<updated>2026-09-29T01:51:50Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Sancho Panza:</p>
-
-<blockquote>
-  <p>I recently had an experience while doing a simple Google search
-that was so profoundly <em>weird</em> that it stopped me in my tracks.</p>
-</blockquote>
-
-<p><a href="https://kagi.com/">Kagi</a>, the search engine I’ve been using for a few years now, gave me the exact sort of results to Panza’s query that he was looking for.</p>
-
-<div>
-<a  title="Permanent link to ‘‘When Did Google Get So F-Ing Weird?’’"  href="https://daringfireball.net/linked/2026/09/28/google-is-fing-weird">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Joanna Stern Pokes the Pickle</title>
-	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=YNqYEMuoQAI" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xmb" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/28/stern-pickle-poke" />
-	<id>tag:daringfireball.net,2026:/linked//6.43571</id>
-	<published>2026-09-29T01:42:00Z</published>
-	<updated>2026-09-29T01:42:01Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>If anyone could devise a funny way to measure battery life, it’s her.</p>
-
-<div>
-<a  title="Permanent link to ‘Joanna Stern Pokes the Pickle’"  href="https://daringfireball.net/linked/2026/09/28/stern-pickle-poke">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘Donald Decodes’ Interview Craig Federighi Regarding the iPhone Duo</title>
-	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=y227RF0smAg" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xma" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/28/donald-decodes-federighi" />
-	<id>tag:daringfireball.net,2026:/linked//6.43570</id>
-	<published>2026-09-29T01:10:48Z</published>
-	<updated>2026-09-29T15:26:46Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Apple executives seemingly did <em>very</em> few interviews after the iPhone event three weeks ago. The best, perhaps by far, is this 11-minute video with Craig Federighi by “Donald Decodes”, a Chinese language creator. His YouTube account only has 1,100 followers (and only had 500 at the time of the video) and only one other video — presumably he’s got a big following in China. Very insightful questions about the Duo user interface — and Federighi gives very thoughtful answers. The question (and answer) about “back” swiping really gets to the heart of what makes iOS so much more cohesively designed than Android, spatially.</p>
-
-<div>
-<a  title="Permanent link to ‘‘Donald Decodes’ Interview Craig Federighi Regarding the iPhone Duo’"  href="https://daringfireball.net/linked/2026/09/28/donald-decodes-federighi">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Why Stolen Device Protection Makes Passwords Safer</title>
-	<link rel="alternate" type="text/html" href="https://sixcolors.com/post/2026/09/stolen-device-protection-passwords-glenn/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xm9" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/09/28/stolen-device-protection-fleishman" />
-	<id>tag:daringfireball.net,2026:/linked//6.43569</id>
-	<published>2026-09-29T00:43:51Z</published>
-	<updated>2026-09-29T00:59:02Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Glenn Fleishman:</p>
-
-<blockquote>
-  <p>Leaving Stolen Device Protection enabled does mean that you may
-have to wait an hour in some scenarios to manage aspects of your
-Apple Account, make changes to Face ID or Touch ID, change your
-device passcode, and a few other actions. But this minor
-inconvenience might assuage the kinds of concerns that Scott wrote
-in about, and make you more comfortable that your big basket of
-secret eggs won’t scramble.</p>
-</blockquote>
-
-<p>I put off enabling Stolen Device Protection for a while after it came out, because I’m stubborn and trust myself to a degree that’s probably irrational. But when it became the default I enabled it, and haven’t once regretted it.</p>
-
-<div>
-<a  title="Permanent link to ‘Why Stolen Device Protection Makes Passwords Safer’"  href="https://daringfireball.net/linked/2026/09/28/stolen-device-protection-fleishman">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
