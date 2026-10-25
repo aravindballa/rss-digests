@@ -7,14 +7,119 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-10-24T22:39:42Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-10-25T19:08:05Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Sunnny</title>
+	<link rel="alternate" type="text/html" href="https://sunnny.com/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xoe" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/25/sunnny" />
+	<id>tag:daringfireball.net,2026:/linked//6.43646</id>
+	<published>2026-10-25T19:08:05Z</published>
+	<updated>2026-10-25T19:08:05Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks to Sunnny for sponsoring last week DF. Sunnny’s pitch to B2B companies is simple: you store valuable customer information across a myriad of systems, making it hard to get a simple overview. Sunnny consolidates your customer data, cleans it, resolves identities, identifies relationships, and presents it neatly for you, your team, and your AI model.</p>
+
+<p>Early access is open now.</p>
+
+<div>
+<a  title="Permanent link to ‘Sunnny’"  href="https://daringfireball.net/linked/2026/10/25/sunnny">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>The Talk Show: ‘Lubricate the Inside of the Hinge’</title>
+	<link rel="alternate" type="text/html" href="https://daringfireball.net/thetalkshow/2026/10/25/ep-456" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xod" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/25/the-talk-show-456" />
+	<id>tag:daringfireball.net,2026:/linked//6.43645</id>
+	<published>2026-10-25T19:03:13Z</published>
+	<updated>2026-10-25T19:03:13Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Special guest: Joanna Stern. <br />
+Special topic: The iPhone Duo.</p>
+
+<p><audio
+    src = "https://traffic.libsyn.com/secure/daringfireball/thetalkshow-456-joanna-stern.mp3"
+    controls
+    preload = "none"
+/></p>
+
+<p><strong>Sponsored by:</strong></p>
+
+<ul>
+<li><a href="https://factormeals.com/talkshow50off">Factor</a>: Healthy eating, made easy. Get 50% off and one free breakfast item per box for one year, while supplies last, with code <strong>talkshow50off</strong>.</li>
+<li><a href="https://notion.com/talkshow">Notion</a>: The collaborative AI workspace where teams and agents work side by side, with a developer platform teams can build on.</li>
+</ul>
+
+<div>
+<a  title="Permanent link to ‘The Talk Show: ‘Lubricate the Inside of the Hinge’’"  href="https://daringfireball.net/linked/2026/10/25/the-talk-show-456">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>iPhone Portrait Mode, 10 Years In</title>
+	<link rel="alternate" type="text/html" href="https://x.com/johnnie/status/2114007844605612167" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xoc" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/25/manzari-iphone-portrait-mode" />
+	<id>tag:daringfireball.net,2026:/linked//6.43644</id>
+	<published>2026-10-25T18:09:19Z</published>
+	<updated>2026-10-25T18:09:19Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Speaking of Johnnie Manzari, he wrote a post yesterday marking the 10 year anniversary of Portrait Mode:</p>
+
+<blockquote>
+  <p>Initially, Portrait mode was seen as a giant math problem. You’d
+do disparity calculations on the two sensors and output a depth
+map. The problem was this approach feels and looks digital; it
+feels fake. In areas without texture, it’s impossible to do this
+calculation. In areas with ultra fine detail, a lower resolution
+depth map leads to terrible transitions and a full resolution
+depth map takes forever to compute. One solution would be to
+reduce the amount of bokeh so the issues are not as obvious. But
+then you lose the whole point of the feature, which was to make it
+look like you had a large, wide-open lens.</p>
+
+<p>The solution to this conundrum — the tradeoff between artifacts
+and the amount of blur — was quite elegant, but it took a while
+to stumble across. There’s a saying in painting that if you get
+the eyes right, nothing else matters. Inspired by this principle
+from oil painting, the idea was to make sure we never got the
+eyes wrong.</p>
+</blockquote>
+
+<p><a href="https://x.com/panzer/status/2114075510032740640">Matthew Panzarino</a>:</p>
+
+<blockquote>
+  <p>I remember getting the call to test out portrait mode before its
+release. The marriage of history, art and computational science
+that came together to make this possible is still incredible to me
+to this day.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘iPhone Portrait Mode, 10 Years In’"  href="https://daringfireball.net/linked/2026/10/25/manzari-iphone-portrait-mode">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Nicole Nguyen’s Duo Review for the WSJ</title>
 	<link rel="alternate" type="text/html" href="https://www.wsj.com/tech/personal-tech/iphone-duo-review-cafcbbe7?st=GaYVMf" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xob" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/24/nguyen-duo-review" />
 	<id>tag:daringfireball.net,2026:/linked//6.43643</id>
 	<published>2026-10-24T22:15:00Z</published>
-	<updated>2026-10-24T22:39:42Z</updated>
+	<updated>2026-10-25T17:54:19Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -45,7 +150,7 @@ me, I look forward to the day the Duo is lighter and thinner — maybe foldi
 
 <p>Interesting that she’d prefer a smaller Duo, not <a href="https://daringfireball.net/misc/2026/10/duo-inner-outer-iphone-pro-comparison-messages.png">a bigger one</a>, if Apple makes a second size. I agree that one-hand-ability is a problem with the Duo, but I also think the front screen is already too squat in terms of <a href="https://daringfireball.net/misc/2026/10/duo-inner-outer-iphone-pro-comparison-messages.png">how much content it shows</a>. I just think it’s the nature of foldables that they’re two-handed devices, even closed.</p>
 
-<p><em>Her</em>’s deck of cards foldable isn’t what I think we need to wait for. It’s <a href="https://youtu.be/qvrSUwqt6Mw?t=92"><em>Westworld</em>’s super-thin tri-folds</a>.</p>
+<p><em>Her</em>’s deck of cards foldable isn’t what I think we need to wait for. It’s <a href="https://youtu.be/qvrSUwqt6Mw?t=92"><em>Westworld</em>’s super-thin trifolds</a> — or even a bifold that’s more along those lines of thinness.</p>
 
 <div>
 <a  title="Permanent link to ‘Nicole Nguyen’s Duo Review for the WSJ’"  href="https://daringfireball.net/linked/2026/10/24/nguyen-duo-review">&nbsp;★&nbsp;</a>
@@ -2384,111 +2489,6 @@ highest counterintelligence priorities.</p>
 
 	]]></content>
   </entry><entry>
-	<title>Apple HomeView</title>
-	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xn3" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/13/homeview" />
-	<id>tag:daringfireball.net,2026:/linked//6.43599</id>
-	<published>2026-10-13T14:52:24Z</published>
-	<updated>2026-10-16T20:15:27Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Apple Newsroom:</p>
-
-<blockquote>
-  <p>Apple today introduced <a href="https://www.apple.com/apple-homeview/">Apple HomeView</a>, designed to be central to
-the home and personal to everyone in it. With a stunning 7-inch
-Liquid Retina display, HomeView brings entertainment, connection,
-and smart home management together in one place, from playing
-music and making FaceTime calls to home monitoring and hands-free
-automations with voice control — all designed with privacy and
-security at the core. HomeView recognizes users by their faces,
-adapting so they can access their personal content in Messages,
-FaceTime, Calendar, Reminders, and Find My. HomeView features Siri
-AI, an entirely new version of Siri that’s profoundly more capable
-and conversational, with broad world knowledge that powers richer
-music discovery and onscreen awareness. When paired with an Apple
-Intelligence-enabled device, it can also draw on a user’s personal
-context, such as their Calendar, Messages, and relevant
-information across their apps, to provide more helpful,
-personalized responses.</p>
-</blockquote>
-
-<p>Your first question might be how this facial recognition to identify users works, using a Center Stage camera alone, when other products (like, notably, the iPhone Duo) don’t let you unlock using the camera alone. HomeView does not have Face ID. I asked about this and Apple reps said that first, your home is (reasonably!) presumed to be a safe space. But in order for users to be recognized — by voice or face — they must have a “registered personal device” that supports Apple Intelligence and Siri AI, that device must be present on the home’s Wi-Fi network, and it must have been recently unlocked. Per footnote 2 on the Newsroom post:</p>
-
-<blockquote>
-  <p>Personal context requests require a paired Apple
-Intelligence-enabled iPhone or iPad running the latest software
-version with Siri AI turned on and set to a supported language.</p>
-</blockquote>
-
-<p>So, alas, an Apple Watch does not count as a personal device. Effectively, your iPhone or iPad serves as a second factor to securely identify you. FaceID serves as a single factor for authentication, so something like iPhone Duo cannot do what HomeView is doing here.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple HomeView’"  href="https://daringfireball.net/linked/2026/10/13/homeview">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Mark Stephens, a.k.a. Robert X. Cringely, Died at 73</title>
-	<link rel="alternate" type="text/html" href="https://www.facebook.com/story.php?story_fbid=pfbid0YbCLrAJfBirAWuPBy4a7pauaQ6gHkAPUwtbzyg2wAjeMcruFC7dWUZKQJKkNChP9l&amp;id=536506060&amp;_rdr" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xn2" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/12/cringely-rip" />
-	<id>tag:daringfireball.net,2026:/linked//6.43598</id>
-	<published>2026-10-12T16:43:46Z</published>
-	<updated>2026-10-12T21:04:20Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Mary Alyce Stephens (née Neader), posting on Cringely’s Facebook account:</p>
-
-<blockquote>
-  <p>Hello, this is Mary Alyce, Bob’s wife. I am coming to you with
-immense sadness to let you know that Bob passed away. His obituary
-follows. His family is not requesting anything, however, if you
-would like to make a donation in his honor, please consider <a href="https://www.heart.org/">The
-American Heart Association</a> or <a href="https://sids.org/">The American SIDS Institute</a>. [...]</p>
-
-<p>Writing as Robert X. Cringely, Mark became a distinctive voice in
-technology journalism. He had an unusual ability to understand not
-only technology but also the human beings behind it — the
-dreamers, inventors, entrepreneurs, eccentrics, and risk-takers
-who were changing the world. He could take a complicated subject
-and make it understandable, entertaining, funny, and deeply human.
-He was skeptical when skepticism was warranted, irreverent when
-others were overly serious, and never particularly interested in
-following conventional wisdom. That independence was not simply
-part of his writing. It was Mark.</p>
-
-<p>He followed the beat of his own drummer throughout his life. He
-was brilliant, funny, opinionated, curious, generous,
-exasperating, and unforgettable — sometimes all within the same
-conversation. He loved a good story and knew how to tell one. He
-could make you laugh, make you think, make you argue with him, and
-occasionally drive you crazy. Life with Mark was rarely dull.</p>
-
-<p>Mark’s life also included heartbreaking loss. He was preceded in
-death by his beloved sons, Chase and Cole Stephens, as well as his
-parents, Ray and Lois Stephens and father-in-law Jim Neader. I
-could also add brother-in-law Jimmy Neader and niece Ericka
-Neader, but they were a thorn in our side.</p>
-</blockquote>
-
-<p>That last dig, at her own dead brother and niece, offers a hint at why Cringely loved her. He wasn’t one to pull punches either.</p>
-
-<p>Her full obituary for Cringely/Stephens is visible without being logged into Facebook (I’ve still never created one), but <a href="https://x.com/stevesi/status/2109528428265570793">Steven Sinofsky kindly posted it</a> to his account on X. Pick your poison. <strong>Update:</strong> <a href="https://www.hillandwood.com/obituaries/Mark-Stephens?obId=49806651">Here’s a version hosted by the funeral home</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Mark Stephens, a.k.a. Robert X. Cringely, Died at 73’"  href="https://daringfireball.net/linked/2026/10/12/cringely-rip">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/10/x_once_again_marks_the_spot" />
 	<link rel="shorturl" href="http://df4.us/xn1" />
@@ -2524,35 +2524,4 @@ Neader, but they were a thorn in our side.</p>
 <p>If you returned from exile on a desert island and took a look at X today for the first time in a year, you might reasonably guess that Elon Musk got bored and sold it while you were away. I do think he got bored micromanaging it, but the rank muskiness that permeated the platform after he took over is — for now, at least — gone.</p>
 
     ]]></content>
-  <title>★ X Once Again Marks the Spot</title></entry><entry>
-	<title>Apple Only Started Suggesting iOS 26 Users Upgrade to 27 Three Days Ago</title>
-	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xn0" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/11/apple-only-started-suggesting-ios-26-users-upgrade-to-27-three-days-ago" />
-	<id>tag:daringfireball.net,2026:/linked//6.43596</id>
-	<published>2026-10-11T19:02:38Z</published>
-	<updated>2026-10-11T23:00:14Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Joe Rossignol, on Thursday:</p>
-
-<blockquote>
-  <p>Starting today, iPhone users still running iOS 26 will see iOS
-27.0.1 as the prominent software update in the Settings app under
-General → Software Update, with iOS 26.7.1 now relegated to a
-smaller “Also Available” section at the bottom.</p>
-</blockquote>
-
-<p><a href="https://daringfireball.net/linked/2026/10/08/apple-is-slow-rolling-ios-27-adoption-so-far">Just the other day</a> I posted about how most users only get OS updates when Apple pushes them through automatic updates. But even for users who update manually, until Thursday, the default suggested update for users on iOS 26.x was to remain on the latest version of iOS 26. To get iOS 27 you had to scroll down “below the fold” and most users don’t do that.</p>
-
-<p>iOS 27 adoption amongst normals is very slow, but that’s only because Apple wants it slow. That’s not because iOS 27 is buggy — it speaks to its Snow-Leopard-like focus on bug fixes and performance updates that it’s actually remarkably stable. The obvious explanation is that Apple is slow-rolling 27 updates to gate access to Siri AI.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Only Started Suggesting iOS 26 Users Upgrade to 27 Three Days Ago’"  href="https://daringfireball.net/linked/2026/10/11/apple-only-started-suggesting-ios-26-users-upgrade-to-27-three-days-ago">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry></feed><!-- THE END -->
+  <title>★ X Once Again Marks the Spot</title></entry></feed><!-- THE END -->
