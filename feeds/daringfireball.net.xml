@@ -7,7 +7,128 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-10-26T15:06:48Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-10-26T20:06:56Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Glenn Fleishman on Apple Notes and Markdown</title>
+	<link rel="alternate" type="text/html" href="https://sixcolors.com/post/2026/10/why-notes-will-never-let-us-edit-markdown/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xoj" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/26/fleishman-apple-notes-markdown" />
+	<id>tag:daringfireball.net,2026:/linked//6.43651</id>
+	<published>2026-10-26T20:03:53Z</published>
+	<updated>2026-10-26T20:06:56Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Glenn Fleishman, writing at Six Colors, “Why Notes Will Never Let Us Edit Markdown”:</p>
+
+<blockquote>
+  <p>The Notes app added Markdown import and export in the version 26
+operating system releases, and the macOS 27 Golden Gate update
+lets us copy and paste as Markdown. Why can’t we just write
+natively in that hoary, simple format?</p>
+
+<p>I use Markdown all day, every day. In fact, I’m writing these
+words in Markdown without you even knowing it. All
+content-management systems (CMSes) I’m aware of support native
+Markdown entries when posting, and many writing and
+note-taking apps integrate Markdown conventions without
+needing to trumpet them.</p>
+</blockquote>
+
+<p>Fleishman not only ably describes why Apple Notes <em>doesn’t</em> support editing in Markdown syntax, but also why it <em>shouldn’t</em>. It is correct for Notes only to natively support WYSIWYG editing. Normal users should never ever be exposed to formatting codes. Also, Markdown, as a language, can be malformed. It should be impossible for users to create a malformed note in Notes. If you could edit in Markdown in Notes, you could create malformed notes. That’s just gross. I can say that. Markdown isn’t for everyone. And even for me — <a href="https://daringfireball.net/2004/03/dive_into_markdown">Markdown’s creator</a> — I don’t want it in Notes, which is the notes app I use.</p>
+
+<p>I think Apple has done a really good job in the last few years adding import/export and copy/paste support for Markdown to Notes. That’s the right way for Notes to support Markdown. My biggest complaint with Notes’s recent Markdown support — as noted by Fleishman — is that most of these features are only on the Mac, not iOS.</p>
+
+<div>
+<a  title="Permanent link to ‘Glenn Fleishman on Apple Notes and Markdown’"  href="https://daringfireball.net/linked/2026/10/26/fleishman-apple-notes-markdown">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/10/apple_announces_new_a20_pro_ipad_mini" />
+	<link rel="shorturl" href="http://df4.us/xoi" />
+	<id>tag:daringfireball.net,2026://1.43650</id>
+	<published>2026-10-26T18:04:34Z</published>
+	<updated>2026-10-26T19:35:15Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">Pros: OLED display, nano-texture option, A20 Pro chip, thinner and lighter. Cons: no Face ID, no ProMotion.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<ul>
+<li><a href="https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/">Apple Newsroom announcement</a>.</li>
+<li><a href="https://www.apple.com/ipad-mini/">iPad Mini (A20 Pro) product page</a>.</li>
+<li><a href="https://www.apple.com/ipad-mini/specs/">Tech specs page</a> (<a href="https://daringfireball.net/misc/2026/10/ipad-mini-a20-pro-tech-specs-2026-10-26.pdf">PDF archive</a>).</li>
+<li><a href="https://www.apple.com/ipad/compare/?modelList=ipad-mini-a20pro,ipad-mini-a17pro,ipad-air-11-m4">iPad comparison page</a> showing new A20 iPad Mini, previous A17 iPad Mini, and the 11-inch M4 iPad Air <a href="https://daringfireball.net/misc/2026/10/compare-ipad-mini-a20-ipad-mini-a17-ipad-air-m4.pdf">PDF archive</a>].</li>
+<li><a href="https://www.youtube.com/watch?v=x5h1JykMcFU">One-minute commercial</a>.</li>
+</ul>
+
+<p>Available in two colors, starlight and midnight (which does not seem very dark), and three storage capacities: 128, 256, and 512 GB. Pricing, with the previous-generation A17 Pro model for reference, both before and after <a href="https://daringfireball.net/2026/06/spensive_thoughts">Apple’s June 25 price hikes</a>:</p>
+
+<pre><code>IPAD MINI                    128 GB   256 GB   512 GB
+A20 Pro (new)                 $700     $800    $1000 
+A17 Pro (Q3 2026 price hike)  $600     $700     $900 
+A17 Pro (Q4 2024–Q2 2026)     $500     $600     $800
+</code></pre>
+
+<p>Notes:</p>
+
+<ul>
+<li><p>Cellular adds $150 to any model.</p></li>
+<li><p>The $100 nano-texture display option is new for the iPad Mini, and is only available with 256 or 512 GB storage.</p></li>
+<li><p>Still stuck with Touch ID — a bummer in general, and a shit sandwich given how expensive these have gotten. Unless Apple decides to make a mini-sized iPad Pro (which I definitely do not expect), there’s no way to buy a mini-sized iPad with Face ID.</p></li>
+<li><p>The display is now OLED, with inky-deep blacks and brighter brights. Max SDR brightness goes from 500 to 600 nits and HDR content goes to 1200 nits. This is the first iPad Mini with an XDR display. But: no ProMotion.</p></li>
+<li><p>Support for Pencil Pro and Pencil USB-C. I still can’t believe the $2000 iPhone Duo doesn’t support the superior Pencil Pro.</p></li>
+<li><p>The new Mini is thinner (5.4mm vs. 6.3mm) and lighter (255g vs. 293g for Wi-Fi models). The display is slightly larger (8.5″ vs. 8.3″) while the footprint shrunk slightly, because the bezels have been reduced by 25 percent. The iPhone Duo weighs almost exactly the same (254g to be exact) but its inner display is only 7.6 inches diagonally.</p></li>
+<li><p>The front-facing camera moves from the short side to the long side. All current iPads now have the camera on the long side.</p></li>
+<li><p>The new iPad Mini introduces what Apple calls the Acoustic Display: “custom tweeters and woofers are now hidden beneath the glass and enclosure, delivering a rich, personal audio experience.” This change helped Apple achieve IP67 dust and water resistance, best-ever for any iPad model.</p></li>
+</ul>
+
+<p>One last point. The previous iPad Mini <a href="https://www.apple.com/newsroom/2024/10/apple-introduces-powerful-new-ipad-mini-built-for-apple-intelligence/">launched two years ago</a>, in October 2024, but had the now-three-year-old A17 Pro chip from the 2023 iPhone 15 Pro. Today’s new iPad Mini launches with the brand-new A20 Pro chip that debuted with last month’s iPhone 18 Pro and last week’s iPhone Duo.</p>
+
+    ]]></content>
+  <title>★ Apple Announces New A20 Pro iPad Mini</title></entry><entry>
+	<title>A Simple Two-Step Shortcuts Shortcut Lets You Lock the iPhone Duo When You Close It</title>
+	<link rel="alternate" type="text/html" href="https://x.com/viticci/status/2113888099784638932" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xoh" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/26/viticci-duo-lock-on-close-shortcut" />
+	<id>tag:daringfireball.net,2026:/linked//6.43649</id>
+	<published>2026-10-26T17:00:11Z</published>
+	<updated>2026-10-26T18:19:03Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Federico Viticci:</p>
+
+<blockquote>
+  <p>Don’t like that the iPhone Duo doesn’t auto-lock when you
+close it?</p>
+
+<p>You can fix it with this simple Shortcuts automation.</p>
+</blockquote>
+
+<p>Two steps:</p>
+
+<ol>
+<li>A conditional for when the iPhone is <code>Closed</code>.</li>
+<li>Lock the screen.</li>
+</ol>
+
+<p>I <a href="https://daringfireball.net/2026/10/the_iphone_duo#:~:text=done%20with%20a%20book">mentioned in my review</a> that I kept closing the Duo expecting it to lock, like when closing a book (or a laptop, for that matter). And it didn’t occur to me that I could simply add this feature via Shortcuts. That’s cool. But I also mentioned in my review that I wouldn’t want that to happen every time I closed it. Sometimes you do want to just switch from the wonderful inner display to the miserable little outer display, and the last thing you want when you do that is to need to re-authenticate for the hundredth time of the day with Touch ID. It was just a wrong instinct I had, and I broke myself of that instinct after about a week or so of full-time Duo use. I stopped expecting it to lock on close. So while I think this shortcut is worth pointing out — and I especially think it’s a good reminder to think about Shortcuts when you find yourself wishing for features that aren’t in Settings — I recommend trying to break yourself of this habit if you have a Duo and find yourself with the same wrong close-to-lock instinct I initially had.</p>
+
+<p><strong>Update:</strong> <a href="https://mastodon.social/@stephenrobles/117502280150643367">Stephen Robles posted a clever version</a> that only locks the Duo on close if it’s on the home screen; if any app is open, it stays unlocked. That’s much more tempting to try. (He includes that one in <a href="https://www.youtube.com/watch?v=GVt5_g4gE-o">a whole video full of Duo tips</a> on YouTube.)</p>
+
+<div>
+<a  title="Permanent link to ‘A Simple Two-Step Shortcuts Shortcut Lets You Lock the iPhone Duo When You Close It’"  href="https://daringfireball.net/linked/2026/10/26/viticci-duo-lock-on-close-shortcut">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Tiny Computers for iPhone Duo</title>
 	<link rel="alternate" type="text/html" href="https://www.fountaininteractive.com/TinyComputers/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xog" />
@@ -2237,85 +2358,6 @@ racist piece of shit. Several things can be true at once.</p>
 
     ]]></content>
   <title>★ Real Artists Ship, Tesla Edition</title></entry><entry>
-	<title>Shyam Sankar, CTO of Palantir, Says AI Researchers Have Started Smoking Because They’re Convinced AI (Claude, Probably) Is Going to Cure Cancer</title>
-	<link rel="alternate" type="text/html" href="https://www.cbsnews.com/news/shyam-sankar-chief-technology-officer-palantir-face-the-nation-transcript-10-11-2026/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xn9" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/16/sankar-ai-researchers-smoking" />
-	<id>tag:daringfireball.net,2026:/linked//6.43605</id>
-	<published>2026-10-16T17:01:22Z</published>
-	<updated>2026-10-16T17:01:22Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>From the transcript of Sunday’s Face the Nation on CBS:</p>
-
-<blockquote>
-  <p><strong>Shyam Sankar:</strong> You know, I take — I think there’s a profound
-truth to Pascal’s saying that every human has a god-shaped hole in
-their heart, and it’s important to understand that many of these
-folks in Silicon Valley who are building this technology have
-filled that hole with the machine God of AGI. And I mean, there’s
-so many interesting stories around this. Like, for example, so
-many AI researchers have started smoking as a way of signaling to
-other researchers how much they believe in AI. I believe so much — (CROSSTALK)</p>
-
-<p><strong>Margaret Brennan:</strong> What? That makes no sense. What do you
-think —</p>
-
-<p><strong>Shyam Sankar:</strong> I believe so much in AI that it’s going to cure
-cancer. So I will — I’m showing you my chips are all in. So
-there is kind of this mass psychosis, social delusion around it,
-and I think it’s getting in the way of actually what is happening
-with AI.</p>
-</blockquote>
-
-<p>Sankar doesn’t name anyone, alas, but if there’s any truth to this (and good god do I hope there is) it’s got to be Anthropic researchers specifically. They’re <a href="https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html?unlocked_article_code=1.JFE.z4Il.RF1KbRvr0fId">the religious kooks</a> who believe they’re creating an AI god and hold the psychotic belief that Claude is already conscious. Smoke ‘em if you got ‘em, you crazy fucks.</p>
-
-<p><a href="https://www.threads.com/@oneunderscore__/post/DeesIiClMWS">Via Ben Collins</a>, CEO of The Onion, who notes that the nation’s finest news source <a href="https://theonion.com/man-who-drinks-5-diet-cokes-per-day-hoping-doctors-work-1819575868/">was on this story 13 years ago</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Shyam Sankar, CTO of Palantir, Says AI Researchers Have Started Smoking Because They’re Convinced AI (Claude, Probably) Is Going to Cure Cancer’"  href="https://daringfireball.net/linked/2026/10/16/sankar-ai-researchers-smoking">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>iPhone Duo Pre-Orders Launched, and Three Hours Later It’s Sold Out Through the End of January</title>
-	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2026/10/16/iphone-duo-sold-out-for-christmas/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xn8" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/16/duo-preorders-sellout" />
-	<id>tag:daringfireball.net,2026:/linked//6.43604</id>
-	<published>2026-10-16T15:19:28Z</published>
-	<updated>2026-10-16T15:19:29Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Joe Rossignol, MacRumors:</p>
-
-<blockquote>
-  <p>If you were hoping to surprise someone with an iPhone Duo for
-Christmas, you might be out of luck, as Apple’s online store in
-the U.S. is already showing an <a href="https://www.macrumors.com/2026/10/16/iphone-duo-preorder-shipping-wait-times/">estimated shipping date of January
-25</a> for all configurations following the start of pre-orders today.</p>
-
-<p>It is possible that some Apple Stores will have the iPhone Duo
-available for walk-in customers on Friday, October 23 launch day,
-but it seems likely that inventory will be very tight.</p>
-</blockquote>
-
-<p>I suspect it’s a combination of high demand and low supply but I doubt we’ll get any insight on that from Apple itself. It’s in their interest to let people think demand is simply very high, and not draw attention to their production limits.</p>
-
-<p>I feel for the folks on the West Coast who woke up for a 5:00am start and still got stuck with December or even January ship dates. This is one of those times where it’s frustrating that, per <a href="https://daringfireball.net/2026/09/spitballing_predictions_for_apples_october">Apple’s consistent schedule</a>, pre-orders always start before reviews appear. People are left to guess whether they’re going to like it without any word from people who’ve used it.</p>
-
-<div>
-<a  title="Permanent link to ‘iPhone Duo Pre-Orders Launched, and Three Hours Later It’s Sold Out Through the End of January’"  href="https://daringfireball.net/linked/2026/10/16/duo-preorders-sellout">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/10/thoughts_on_new_apple_tv_4k_and_homepod_mini_2" />
 	<link rel="shorturl" href="http://df4.us/xn7" />
@@ -2443,40 +2485,4 @@ the front and rear speaker pairs match.</p>
 </div>
 
 	]]></content>
-	<title>[Sponsor] WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/10/x_once_again_marks_the_spot" />
-	<link rel="shorturl" href="http://df4.us/xn1" />
-	<id>tag:daringfireball.net,2026://1.43597</id>
-	<published>2026-10-11T21:05:33Z</published>
-	<updated>2026-10-12T15:09:33Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">If you returned from exile on a desert island and took a look at X today for first time in a year, you might reasonably guess that Elon Musk got bored and sold it while you were away.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p>Upon taking the CEO helm last month, John Ternus <a href="https://x.com/johnternus/">began tweeting on X</a>. He tweeted “<a href="https://x.com/johnternus/status/2094814214787633367">hello</a>”, posted an iPhone event eve <a href="https://x.com/johnternus/status/2097672038781763614">teaser</a> and then a <a href="https://x.com/johnternus/status/2097753253027221817">promo video</a> for the new products, celebrated <a href="https://x.com/johnternus/status/2099877747375907322">Apple’s plethora of wins at the Emmys</a> and <a href="https://x.com/johnternus/status/2100945522848567672">launch day on Fifth Avenue</a>, and commemorated the <a href="https://daringfireball.net/linked/2026/10/05/ternus-cook-jobs-15th-anniversary">anniversary of Steve Jobs’s death</a>.</p>
-
-<p>X is the only place these posts go. Same for <a href="https://x.com/gregjoz/status/2101732120821461359">Greg Joswiak’s account</a>. Lighthearted stuff too, like <a href="https://x.com/tim_cook/status/2093094102795759983">Cook “introducing” Ternus to Pikachu back in August</a>. You may not like it that X has re-found its footing under Elon Musk’s ownership, but it has. I’m citing Apple executives here but they’re <em>far</em> from alone. There are hundreds of interesting people and accounts I follow that post on X very regularly and do not post anywhere else at all. As a word nerd I love <a href="https://x.com/merriamwebster">Merriam-Webster’s account</a> — fun, clever, smart posts every day. That’s just one example among hundreds. <a href="https://x.com/tipofthebanana">Here’s another</a>. Fascinating new apps are <a href="https://x.com/jasonfried/status/2105403067793584590">being shown and discussed</a> on X and nowhere else.</p>
-
-<p>[<strong>Update:</strong> I stand corrected — Merriam-Webster <a href="https://bsky.app/profile/merriam-webster.com">does have an account on Bluesky</a>. It contains a subset of the items they post to X. They’ve posted 34 original new tweets on X so far in October; only 10 on Bluesky. Plus on X they’ve chimed in with 11 <a href="https://x.com/MerriamWebster/status/2108195691235307846">clever</a> and/or <a href="https://x.com/MerriamWebster/status/2106774823737450687">informative</a> retweets from other accounts, including <a href="https://x.com/MerriamWebster/status/2107525706573828417">one from those notorious fascists at Sesame Street</a>; there are zero of those on Bluesky. So while I regret the error of implying that Merriam-Webster posts exclusively on X, the 45-10 count for October to date proves my point just as well.]</p>
-
-<p>I see more interesting posts on X than I do on Threads, Bluesky, and Mastodon combined. I wish that weren’t so but it is. Most people don’t want to think about politics so they don’t. Those people, when they want to participate in a Twitter-like social network, go to X.</p>
-
-<p>And I can’t blame anyone. The only network that compares to X, size-wise, is Threads — but Threads’s algorithm is weirder than X’s now, and the content I see there is relatively boring. My Threads timeline is full of engagement bait without being engaging. And if you want to judge a platform by its owner, “<em>I’m grossed out and/or appalled by Elon Musk so I’m going to Mark Zuckerberg’s joint</em>” isn’t a way to avoid being grossed out and/or appalled by the owner. Bluesky and Mastodon are too small for most people to care about — and, worse, they are the networks where politics are, in my experience, unavoidable. You can have a discussion about cool new use cases and tools for AI on X and people just discuss the tools and use cases. On Bluesky and Mastodon it’s difficult to have such discussions <a href="https://daringfireball.net/linked/2026/08/21/bluesky-is-full-of-anti-ai-zealots">without arguments</a> from people who (a) believe all use of AI is unethical, and (b) will shove their viewpoints into your replies.</p>
-
-<p>The culture on X today is remarkably friendly and inclusive. It is a cheerful place. That cheerfulness is another differentiator. If you believe the world is falling apart and doomed only to get worse, that our obvious and real problems cannot be surmounted, X is not the platform for you. If you think the world is full of fun and amazing people and things, that humanity’s defining feature is our collective ability to solve any problem, that the only time better to be alive than today is tomorrow, it might be.</p>
-
-<p>If you have stayed away, or even just mostly away, from X for years and <a href="https://x.com/marcoarment/status/2107876065289122114">then come back</a>, people <a href="https://x.com/gruber/status/2097489536041504974">just say</a> things like “Hey, glad you’re back!” On the other networks, <a href="https://x.com/mattcassinelli/status/2090874773136179444">especially Mastodon</a>, <a href="https://mastodon.macstories.net/@viticci/117134048567780192">they tell you</a> you’re “feeding Nazis” — by going to the platform where Tim Cook posts Pikachu videos. These people have either lost their minds or <a href="https://coyotetracks.org/blog/new-people-on-x/">refuse</a> to check their prior assumptions. (Most of the ones who chime in about it publicly are the lost-their-minds types.) </p>
-
-<p>But the bigger problem is that there’s little action on Bluesky or, especially, Mastodon. There’s a lot of <em>activity</em> on Threads, but little <em>action</em>. There is action on X. I’ve said for years that Mastodon is my favorite of the bunch and in a way it still is, but really that’s because when I go there I don’t have to be diligent to avoid wasting time. I avoid wasting time on Mastodon because there’s so little of interest to see. That’s a feature — for me — but it certainly isn’t what most people are looking for in a Twitter-like posting platform. They want action. The action is on X.</p>
-
-<p>Without any fanfare — perhaps to avoid his ire — X has de-Musked its algorithm. I stopped visiting at all when the algorithm there was putting Musk’s own tweets into my timeline, every time I checked, despite the fact that I never followed him. But they don’t do that anymore. I don’t see much politics of any kind in my timeline, and <a href="https://x.com/jonathanpienews/status/2108952641133007055?s=12">what I do see</a> is from accounts I chose to follow. I see tech (including a lot of interesting breaking news), sports (including a lot of interesting <a href="https://x.com/benriceloverr/status/2108045915562918241?s=46">videos</a> and <a href="https://x.com/sharpstats17/status/2108037015388451032">stats</a>), and <a href="https://x.com/caitiedelaney/status/2106956719264010451?s=12&amp;t=MqzoMDbTTz9SD-vhv6gL8w">stupid</a> stuff that’s actually funny. My only problem with X now is that I <em>do</em> have to pay attention to avoid wasting time when I visit.</p>
-
-<p>Plus, in addition to the tweets, there are now <a href="https://x.com/patrickc/status/2109122600630952282">many</a> interesting <a href="https://x.com/satyanadella/status/2108931348857827686">people</a> using X to post entire essays and blog posts. I wish that weren’t so, for multiple reasons (e.g., no RSS). But it <em>is</em> so. </p>
-
-<p>If you returned from exile on a desert island and took a look at X today for the first time in a year, you might reasonably guess that Elon Musk got bored and sold it while you were away. I do think he got bored micromanaging it, but the rank muskiness that permeated the platform after he took over is — for now, at least — gone.</p>
-
-    ]]></content>
-  <title>★ X Once Again Marks the Spot</title></entry></feed><!-- THE END -->
+	<title>[Sponsor] WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users</title></entry></feed><!-- THE END -->
