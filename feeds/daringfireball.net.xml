@@ -7,7 +7,88 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-10-27T00:42:07Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-10-27T16:03:09Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	
+	<link rel="alternate" type="text/html" href="https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026" />
+	<link rel="shorturl" href="http://df4.us/xon" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2026/10/workos_let_agents_sign_up_for" />
+	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.43655</id>
+	<author><name>Daring Fireball Department of Commerce</name></author>
+	<published>2026-10-27T16:03:08Z</published>
+	<updated>2026-10-27T16:03:09Z</updated>
+	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
+<p>An agent can’t click through a signup page built for humans, so give it something it can read instead. Publish an auth.md file and agents register themselves without ever touching a browser login, and the user never gets pulled out of what they were doing.</p>
+
+<p>With WorkOS auth.md, enroll in the dashboard and AuthKit publishes the file. Agents read it, register, and get scoped, short-lived credentials you control.</p>
+
+<p><a href="https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026">Make your app agent-ready →</a></p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS: Let Agents Sign Up for Your App Without a Browser’"  href="https://daringfireball.net/feeds/sponsors/2026/10/workos_let_agents_sign_up_for">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+	<title>[Sponsor] WorkOS: Let Agents Sign Up for Your App Without a Browser</title></entry><entry>
+	<title>Apple Introduces New Base MacBook Pro With M6, 14-Inch-Only</title>
+	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xom" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/27/apple-introduces-new-base-macbook-pro-with-m6-14-inch-only" />
+	<id>tag:daringfireball.net,2026:/linked//6.43654</id>
+	<published>2026-10-27T16:00:46Z</published>
+	<updated>2026-10-27T16:00:47Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Apple Newsroom’s “Pro and Tell” announcement week continues:</p>
+
+<blockquote>
+  <p>Apple today announced the new <a href="https://www.apple.com/macbook-pro/">14-inch MacBook Pro with M6</a>,
+delivering even more performance, powerful on-device AI
+capabilities, and faster connectivity for college students,
+business users, creators, and more. M6 features an advanced
+12-core CPU with the world’s fastest CPU core, so everything from
+productivity tasks to more demanding pro workflows feels
+incredibly fast and responsive. The 12-core GPU delivers up to 30
+percent faster graphics and up to 25 percent faster AI workloads
+when compared to M5, making the 14-inch MacBook Pro with M6 a
+compelling value for users who need serious power. For those
+upgrading from M1, the performance gains are even more
+significant, with up to 11× faster graphics and up to 13× faster
+AI performance. With additional Neural Accelerators in the GPU and
+a Dual 16-core Neural Engine, M6 turns MacBook Pro into an even
+more powerful platform for AI — from taking advantage of Siri AI
+and Apple Intelligence features across apps and macOS to running
+LLMs locally, all while preserving user privacy. In addition, the
+14-inch MacBook Pro features Wi-Fi 7 and Bluetooth 6, while
+superfast storage makes working with large files, exporting
+projects, and running demanding AI workflows fly.</p>
+</blockquote>
+
+<p>Not sure about their decision to close up “superfast” there — that is not a cromulent adjective.</p>
+
+<p>Anyway, this is just the base MacBook Pro, the one that’s more like a MacBook Air Plus than a true professional laptop with an M-series Pro or Max chip. This tier of MacBook Pro has only ever been offered in the smaller 14-inch size. Prices seem unchanged from the post-June-price-hike M5 models:</p>
+
+<pre><code>Base price:  $2000
+
+RAM: 16 GB:     +0
+     24 GB:   +200
+     32 GB:   +400
+
+SSD:  1 TB:     +0
+      2 TB:   +500
+      4 TB:  +1500
+</code></pre>
+
+<p>Space black and silver colors, and nano-texture is available for $150 extra.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Introduces New Base MacBook Pro With M6, 14-Inch-Only’"  href="https://daringfireball.net/linked/2026/10/27/apple-introduces-new-base-macbook-pro-with-m6-14-inch-only">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>The NYT Seemingly Does Marissa Mayer Dirty</title>
 	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html?unlocked_article_code=1.L1E.xBwx.X_EjBGNsRNqr" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xol" />
@@ -230,13 +311,15 @@ close it?</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/26/tiny-computers" />
 	<id>tag:daringfireball.net,2026:/linked//6.43648</id>
 	<published>2026-10-26T15:04:10Z</published>
-	<updated>2026-10-26T15:06:48Z</updated>
+	<updated>2026-10-27T15:46:56Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
 <p>If you’ve got or get a Duo and don’t try this out, you’re not hooked up right.</p>
+
+<p><strong>Update:</strong> <a href="https://bsky.app/profile/cabel.panic.com/post/3mysovokohl2c">But as Cabel Sasser notes</a>, though incredibly fun, this was clearly made by a young Claude-aided developer who <em>never</em> used any of these actual old computers. Let’s just say there are a lot of ahistorical details.</p>
 
 <div>
 <a  title="Permanent link to ‘Tiny Computers for iPhone Duo’"  href="https://daringfireball.net/linked/2026/10/26/tiny-computers">&nbsp;★&nbsp;</a>
@@ -2237,53 +2320,6 @@ known as bait-and-switch.</p>
 
 	]]></content>
   </entry><entry>
-	<title>Apple TV Started at $69 in 2015</title>
-	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2015/03/09/tim-cook-apple-tv-now-costs-69/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xne" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/16/apple-tv-69" />
-	<id>tag:daringfireball.net,2026:/linked//6.43610</id>
-	<published>2026-10-17T00:37:01Z</published>
-	<updated>2026-10-17T02:02:55Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Joe Rossignol, reporting for MacRumors back on 9 March 2015:</p>
-
-<blockquote>
-  <p>Apple CEO Tim Cook on Monday at the “Spring Forward” media event
-in San Francisco announced that Apple TV will now cost $69,
-discounted from its regular price of $99. The new price for the
-set-top box arrives on the heels of the announcement of <a href="https://www.macrumors.com/2015/03/09/hbo-now-apple-tv/">HBO Now
-for Apple TV</a>. The new price appears to apply to the
-third-generation Apple TV, as the company did not announce a new
-set-top box on stage at the Yerba Buena Center this afternoon.</p>
-</blockquote>
-
-<p>Basic Apple Guy posted a short clip of Tim Cook, on stage, announcing the price reduction. Cook said:</p>
-
-<blockquote>
-  <p>And it’s got a very attractive entry level price of $99. But
-today, we would like to make it even more accessible for more
-people so they can take advantage of this great new content. So we
-are lowering the price today to $69.</p>
-</blockquote>
-
-<p>The audience greeted this with whoops and cheers. (This, despite it being a smaller media event — Apple always packs the front of the house with employee ringers. Whoops and cheers are one of the things Apple is missing out on with their post-COVID pre-filmed keynotes.)</p>
-
-<p>Apple continued selling the 3rd-gen Apple TV (not to be confused with “Apple TV 4K”, which <a href="https://www.apple.com/hk/en/newsroom/2017/09/apple-tv-4k-brings-home-the-magic-of-cinema-with-4k-and-hdr/">restarted</a> the generation counting in 2017 alongside the introduction of the iPhone X) for $69 <a href="https://arstechnica.com/gadgets/2016/10/apple-quietly-discontinues-the-69-third-gen-apple-tv/">until October 2016</a>.</p>
-
-<p><a href="https://www.wolframalpha.com/input?i=%2469+%282015+US+dollars%29+inflation+adjusted+for+2026">Inflation adjusted</a>, a $69 Apple TV box today would cost a little under $99. Even if we only consider the $99 price in 2015 dollars, that’s about $137 in today’s dollars. Round that up to $150 and it would still be <em>half</em> the price of the only Apple TV hardware Apple now sells: <a href="https://daringfireball.net/2026/10/thoughts_on_new_apple_tv_4k_and_homepod_mini_2">this week’s new 4th-gen Apple TV 4K</a>.</p>
-
-<p>The new Siri Remote, with precision Find My support (and a speaker), is compatible with all prior generations of Apple TV 4K. So if you just want the new remote you can just buy the new remote. <a href="https://www.apple.com/shop/product/mlfc4am/a/siri-remote">But it costs $59</a>, which is almost as much as an entire Apple TV (with remote, of course) did in 2015.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple TV Started at $69 in 2015’"  href="https://daringfireball.net/linked/2026/10/16/apple-tv-69">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/10/real_artists_ship_tesla_edition" />
 	<link rel="shorturl" href="http://df4.us/xna" />
@@ -2467,31 +2503,4 @@ the front and rear speaker pairs match.</p>
 <p>At the old pre-June prices, you could buy a 128 GB Apple TV and a pair of HomePod Minis for $350 ($150 + $100 + $100). Four short months later, with today’s new models, that combination would cost $600 ($300 + $150 + $150). That price difference is much more striking than any of the new and improved features in the products.</p>
 
     ]]></content>
-  <title>★ Initial Thoughts on This Week’s New Apple TV 4K (4th Generation) and HomePod Mini 2</title></entry><entry>
-	
-	<link rel="alternate" type="text/html" href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026" />
-	<link rel="shorturl" href="http://df4.us/xn5" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2026/10/workos_authkit_auth_for_your_a" />
-	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.43601</id>
-	<author><name>Daring Fireball Department of Commerce</name></author>
-	<published>2026-10-14T21:03:43Z</published>
-	<updated>2026-10-18T22:51:19Z</updated>
-	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
-<p>Login looks simple until you’re building password resets, email verification, MFA, social providers, session management, and the enterprise SSO your first big customer asked for last week.</p>
-
-<p>AuthKit lets you:</p>
-
-<ul>
-<li>Offer SSO, MFA, passkeys, passwords, email codes, and social sign-in</li>
-<li>Add and remove users automatically with SCIM provisioning</li>
-<li>Track who did what with audit logs</li>
-</ul>
-
-<p><a href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026">Try AuthKit →</a></p>
-
-<div>
-<a  title="Permanent link to ‘WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users’"  href="https://daringfireball.net/feeds/sponsors/2026/10/workos_authkit_auth_for_your_a">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-	<title>[Sponsor] WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users</title></entry></feed><!-- THE END -->
+  <title>★ Initial Thoughts on This Week’s New Apple TV 4K (4th Generation) and HomePod Mini 2</title></entry></feed><!-- THE END -->
