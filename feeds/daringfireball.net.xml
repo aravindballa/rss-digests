@@ -7,14 +7,158 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-10-27T18:43:38Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-10-27T23:34:50Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Siri AI Expands to More Languages in OS 27.2</title>
+	<link rel="alternate" type="text/html" href="https://nr.apple.com/Du9G9W8Nq1" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xos" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/27/siri-ai-os-27-2-languages" />
+	<id>tag:daringfireball.net,2026:/linked//6.43660</id>
+	<published>2026-10-27T22:19:39Z</published>
+	<updated>2026-10-27T22:23:19Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Apple Newsroom yesterday:</p>
+
+<blockquote>
+  <p>With the 27.2 software updates released today, Siri AI — an
+entirely new version of Siri that is profoundly more capable,
+conversational, and personal — is expanding to more people around
+the world, with availability now in the French, Japanese, Korean,
+Portuguese, and Spanish languages. [...]</p>
+
+<p>Siri AI is currently unavailable in the EU in iOS, iPadOS, and
+watchOS. Apple is working constructively with the EU in an attempt
+to find a path forward.</p>
+</blockquote>
+
+<p>Don’t hold your breath. (Or if you prefer, <em>N’y comptez pas trop.</em>)</p>
+
+<div>
+<a  title="Permanent link to ‘Siri AI Expands to More Languages in OS 27.2’"  href="https://daringfireball.net/linked/2026/10/27/siri-ai-os-27-2-languages">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Apple Creator Studio Updated With a Slew of AI Features, Along With a New Open JSON File Format for Keynote</title>
+	<link rel="alternate" type="text/html" href="https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xor" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/27/apple-creator-studio-updates" />
+	<id>tag:daringfireball.net,2026:/linked//6.43659</id>
+	<published>2026-10-27T22:00:04Z</published>
+	<updated>2026-10-27T22:14:19Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Apple Newsroom, with software news for Apple’s “Pro and Tell” week: </p>
+
+<blockquote>
+  <p>Apple today introduced transformative updates to <a href="https://www.apple.com/apple-creator-studio/">Apple Creator
+Studio</a>, the powerful collection of creative apps designed to
+put studio-grade tools into the hands of modern creators across
+Mac, iPad, and iPhone. Final Cut Pro for Mac now includes built-in
+MotionVFX — an expansive collection of visual effects, plug-ins,
+transitions, templates, and motion graphics tools — as well as
+seamless editing in Pixelmator Pro. Apple’s curated Content Hub
+now includes video assets and is available in Final Cut Pro. Music
+creators using Logic Pro for Mac gain a new intelligent assistant
+in beta, an enhanced Stem Splitter that now separates drums, and a
+redesigned Browser that incorporates all sounds, with music
+understanding and even a Splice library. Pixelmator Pro introduces
+Generate Fill, which lets creators transform selected areas of an
+image using natural language. Keynote, Pages, and Numbers
+introduce new AI features in beta, including assistants that
+understand document context and new Model Context Protocol (MCP)
+support for workflow automation. They also add stock video in the
+Content Hub and new premium themes and templates.</p>
+
+<p>Apple Creator Studio updates will be available on the App Store
+this November as a free update for existing subscribers.</p>
+</blockquote>
+
+<p>That’s a lot. But this part at the end caught my eye:</p>
+
+<blockquote>
+  <p>Across Keynote, Pages, and Numbers, the Content Hub expands to
+include Apple-curated stock video footage, giving creators dynamic
+visuals to enhance presentations, reports, and spreadsheets.
+Subscribers also gain access to a fresh collection of
+professionally designed templates and themes. Keynote introduces
+support for Keynote Interchange Format (.keyx), an open JSON-based
+bundle file format designed to be readable and accessible to
+external tools, developer workflows, and AI agents.</p>
+</blockquote>
+
+<p>Jesse Bunch, engineering manager for productivity apps at Apple, <a href="https://x.com/bunchjesse/status/2115076780285739258">on X</a> and <a href="https://www.linkedin.com/feed/update/urn:li:activity:7520909926655954944/">LinkedIn</a>:</p>
+
+<blockquote>
+  <p>Our new in-app assistants can help you get things done in record
+time. MCP allows you to bring your own agent if you want. And an
+open source format for Keynote (and Python library!) so you can
+create Keynote documents programmatically on any platform. Huge
+day for Creator Studio today.</p>
+</blockquote>
+
+<p>I don’t think the Python library for the new Keynote Interchange Format is out yet, but neither are the updates to the Creator Studio apps. Very cool news, along the same lines as <a href="https://daringfireball.net/linked/2026/09/22/xcode-json-project-files">the new JSON-based format for Xcode projects</a> that Apple announced last month.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Creator Studio Updated With a Slew of AI Features, Along With a New Open JSON File Format for Keynote’"  href="https://daringfireball.net/linked/2026/10/27/apple-creator-studio-updates">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/10/prestructured_wysiwyg" />
+	<link rel="shorturl" href="http://df4.us/xoq" />
+	<id>tag:daringfireball.net,2026://1.43658</id>
+	<published>2026-10-27T21:24:20Z</published>
+	<updated>2026-10-27T21:24:20Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">Even if you’re a decent designer (or believe yourself to be), it’s liberating not to have a say in the matter. Constraints are sometimes freeing.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>One of the many small pleasures of my job is when someone else writes a good take on a subject that I have been meaning to write myself. Occasionally this stings, because it was something I really wanted to write myself. But usually it’s just awesome, because it’s an article I wanted to exist, didn’t really want to do the work of writing myself, and now it exists and I can just link to it, perhaps with commentary. It’s like finding money on the ground or in the pocket of a jacket you haven’t worn in months.</p>
+
+<p>That’s what happened yesterday with Glenn Fleishman’s “<a href="https://sixcolors.com/post/2026/10/why-notes-will-never-let-us-edit-markdown/">Why Notes Will Never Let Us Edit Markdown</a>”, and <a href="https://daringfireball.net/linked/2026/10/26/fleishman-apple-notes-markdown">my link to it</a>. Found money!</p>
+
+<p>But one of the reasons I’d been procrastinating on writing about Apple Notes and its growing support for Markdown import/export and copy/paste is that Notes is built around a text formatting idea that, to my knowledge, doesn’t really have a name. And without a name, it’s hard to write about. I’m going to suggest calling it <em>prestructured WYSIWYG</em>.</p>
+
+<p>Apps like Apple’s Messages and especially Notes exemplify prestructured WYSIWYG, and I’m a huge fan of the idea. It’s low-key one of the best ideas and trends in software design of the last 15 years or so. Messages lets you apply WYSIWYG spans of character styles like bold and italics, but you can’t choose typefaces or define your own styles. Notes takes this further, adding inline hyperlinks and predefined block styles like title / heading / subheading, monostyled (e.g. for code), and ordered and unordered lists. But there is no Font menu or preference setting in Notes or Messages to change the default typeface. The “Aᴀ” formatting popover in Notes doesn’t have a control to change the typeface, only its preset styles, all of which are rendered in your notes using Apple’s San Francisco system font family.<sup id="fnr1-2026-10-27"><a href="#fn1-2026-10-27">1</a></sup> That would have seemed not just weird but downright wrong back in the early decades of the Mac (the era Fleishman calls the “Mac Is Not a Typewriter” era, referencing <a href="https://www.amazon.com/s?k=robin+williams+mac+is+not+a+typewriter&amp;tag=df-amzn-20">Robin Williams’s groundbreaking book</a>). In those days, text was either plain text (a string of characters, no style at all, like a typewriter) or rich text, and if it was rich text, you expected to choose any font (and size) you wanted.</p>
+
+<p>That era of anything-goes WYSIWYG presented unavoidable problems. On the technical side, the list of fonts installed on <em>my</em> computer isn’t the same as the list of fonts on <em>your</em> computer. Each operating system comes with its own set of included fonts. And the sort of people most interested in selecting their own typefaces are exactly the same people who are most likely to install third-party fonts. That’s a technical problem that can’t really be solved. There’s also an aesthetic problem. Most people, given the ability to choose their own fonts, make terrible typographic choices.</p>
+
+<p>Prestructured WYSIWYG solves both problems. You get the expressiveness of abstract semantic styles like bold, italics, and monospace, and you get larger sizes for headings. But you avoid both the “missing font” technical problems <em>and</em> the “terrible font” design choices. If you use Apple Notes or Messages, you better like Apple’s San Francisco system font family, because that’s what you’re going to get. It’s great for accessibility, because all the type sizes are relative, not absolute. And these preset styles largely map well to Markdown, which itself has no concern with font choices or specific text sizes.</p>
+
+<p>Even if you’re a decent designer (or believe yourself to be), it’s liberating not to have a say in the matter in certain contexts. Note-taking is exactly such a context. Email ought to be another, but alas, full-fledged WYSIWYG gained a foothold there long ago, and now it’s entrenched. Constraints are sometimes freeing.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1-2026-10-27">
+<p>There is a huge <em>but</em> here. Notes, on the Mac and only on the Mac, <em>does</em> allow you to pick arbitrary fonts. Format → Font → Show Fonts (⌘T) shows the standard AppKit Fonts palette, and you can use that to change the font in a note to anything you want. I think this is historical baggage from <a href="https://www.apple.com/newsroom/2012/07/25Mountain-Lion-Available-Today-From-the-Mac-App-Store/">earlier versions</a> of the Notes app for Mac. Or maybe there are some Mac Notes users inside Apple who really do use this. Font choices made in Notes on the Mac are rendered on iOS and iPadOS, if the selected font is available. It even works for third-party fonts (which are <a href="https://www.typography.com/faq/156">quite complicated to install on iOS</a>). Here’s a <a href="https://daringfireball.net/misc/2026/10/apple-notes-fonts-mac.png">screenshot of a note with custom fonts that I made on my Mac</a>, and the <a href="https://daringfireball.net/misc/2026/10/apple-notes-fonts-iphone.png">same note as it appears on iOS</a>, where only some of those fonts are installed. But you cannot change custom fonts in Notes on iOS.</p>
+
+<p>I can’t say Apple <em>dis</em>courages you from dicking around with fonts in Notes on the Mac. It’s right there in the standard AppKit Fonts panel. But most casual Mac users don’t know about the standard AppKit Fonts panel. When they pick fonts in apps like Mail, TextEdit, and Pages, they do it from toolbars in the window. So Apple doesn’t <em>en</em>courage you to dick around with fonts in Notes on the Mac either. If they wanted to encourage it, there’d be a toolbar with a Font menu on the Mac, and it would be possible to change fonts on iOS too.</p>
+
+<p>So I say it’s best to pretend that Apple Notes doesn’t support custom font choices. Let it go — even if, like me, it drives you crazy that Notes and only Notes uses that <a href="https://daringfireball.net/linked/2025/05/12/that-stupid-apple-notes-a">childish-looking alternative single-story “a” glyph</a> in San Francisco.&nbsp;<a href="#fnr1-2026-10-27"  class="footnoteBackLink"  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
+</li>
+</ol>
+</div>
+
+    ]]></content>
+  <title>★ Prestructured WYSIWYG</title></entry><entry>
 	<title>What’s Left for ‘Pro and Tell’ Week: Touch-Enabled OLED MacBooks</title>
 	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2026/10/27/macbook-pro-with-touchscreen-tomorrow/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xop" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/27/whats-left-for-pro-and-tell-week" />
 	<id>tag:daringfireball.net,2026:/linked//6.43657</id>
 	<published>2026-10-27T17:59:47Z</published>
-	<updated>2026-10-27T17:59:48Z</updated>
+	<updated>2026-10-27T20:51:17Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -53,7 +197,7 @@ its usual approach. Bloomberg News <a href="https://www.bloomberg.com/news/artic
 strategy</a> earlier this week.</p>
 </blockquote>
 
-<p>If that’s all true, it’s certainly unusual for Apple to skip the Pro and Max variants for the M6 chip generation. But there have been oddities with the higher-end Apple Silicon chips before. (There was no M4 Ultra chip, for example, and <a href="https://daringfireball.net/linked/2025/03/05/apple-announces-with-much-surprise-mac-studios-with-m4-max-and-m3-ultra-chips">the M3 Ultra didn’t appear until the March 2025 Mac Studio update</a>, 18 months after the M3 generation debuted.) But what I would find downright <em>weird</em> is that the current MacBook Pros already sport the M5 Pro and M5 Max chips. <a href="https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/">They came out in March</a>. So what’s the idea here? That Apple replaces the current higher-end MacBook Pros with versions whose only upgrades are to the chassis and display, but the performance remains the same? That’s certainly possible, I guess, but it would be weird.</p>
+<p>If that’s all true, it’s certainly unusual for Apple to skip the Pro and Max variants for the M6 chip generation. But there have been oddities with the higher-end Apple Silicon chips before. (There was no M4 Ultra chip, for example, and <a href="https://daringfireball.net/linked/2025/03/05/apple-announces-with-much-surprise-mac-studios-with-m4-max-and-m3-ultra-chips">the M3 Ultra didn’t appear until the March 2025 Mac Studio update</a>, 18 months after the M3 generation debuted.) But what I would find downright <em>weird</em> is the possibility of shipping a second generation of MacBook Pro models based on the exact same M5 Pro and M5 Max chips that the current generation offers. <a href="https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/">They only came out in March</a>. So what’s the idea here? That Apple replaces the current higher-end MacBook Pros with versions whose only upgrades are to the chassis and display, but the performance remains the same? That’s certainly possible, I guess, but it would be weird.</p>
 
 <p>So I’m just wondering if tomorrow’s new touchscreen OLED MacBooks aren’t replacements for the current MacBook Pros, but instead are the start of a new MacBook family with another name. I don’t think they’d call them MacBook “Duos”, because they’re not two-in-one devices. MacBook “Ultras”, maybe — with the same specs as the MacBook Pros but more expensive displays? But “Ultra” seems like a wrong name for a MacBook because Apple’s M-series Ultra chips are (to date at least) desktop only. It’d be weird if the M5 Ultra is exclusive to the Mac Studio while the MacBook “Ultra” maxes out with the M5 Max. So maybe they just <em>are</em> the new MacBook Pros and this first OLED/touch generation uses the same chips as the ones from March?</p>
 
@@ -976,7 +1120,7 @@ across the storefront.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/22/updates-to-my-iphone-duo-review" />
 	<id>tag:daringfireball.net,2026:/linked//6.43633</id>
 	<published>2026-10-22T18:49:38Z</published>
-	<updated>2026-10-22T18:49:38Z</updated>
+	<updated>2026-10-27T23:34:50Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -998,7 +1142,7 @@ including textures like film grain, that were <a href="https://daringfireball.ne
 iPhone 18 Pro</a>. <b>However, the Duo is not “Pro” — it does not
 get camera features like “Pro controls” (variable lens aperture, shutter
 speed, white balance, histogram), <a href="https://daringfireball.net/linked/2026/09/15/apple-reference-image">Apple Reference Image</a>, spatial
-video, ProRES (video or RAW), or Apple Log. Apple’s “shot with
+video, ProRes (video or RAW), or Apple Log. Apple’s “shot with
 iPhone” keynotes will continue to use iPhones Pro.</b></p>
 
 <p>Also, notably different from the Air, the Duo has an ultrawide 0.5×
@@ -1055,7 +1199,7 @@ up Thursday morning.]</p>
 	<link rel="shorturl" href="http://df4.us/xo0" />
 	<id>tag:daringfireball.net,2026://1.43632</id>
 	<published>2026-10-21T22:59:14Z</published>
-	<updated>2026-10-23T13:58:15Z</updated>
+	<updated>2026-10-27T23:34:38Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -1123,7 +1267,7 @@ up Thursday morning.]</p>
 
 <p>Ever since it was unveiled there’s been idle speculation that, while folded, the Duo’s design is biased against left-handed users. First, because the Touch ID side button is on the right. Second, because the Duo variant of iOS moves things like application toolbars and the home screen Dock to the right.</p>
 
-<p>I am right-handed, but I’m a little bit on the ambidextrous spectrum. For example, I switched to using my mouse with my left hand around 1995, when I developed RSI in my right wrist, and I’ve used my mouse left-handed ever since. (But I use a MacBook trackpad with my right thumb.) I can shoot a basketball from close range with my left hand. So going into my Duo review, I thought I’d try to use my Duo as a pretend lefty. Turns out I didn’t have to pretend. I never realized this, but I naturally use my iPhone left-handed quite a bit throughout the day. For example, while brushing my teeth. I keep my iPhone in my right front pants pocket, but I often pick it up off my desk or kitchen counter and use it left-handed.</p>
+<p>I am right-handed, but I’m a little bit on the ambidextrous spectrum. For example, I switched to using my mouse with my left hand around 1995, when I developed RSI in my right wrist, and I’ve used my mouse left-handed ever since. (But I use a MacBook trackpad with my right hand.) I can shoot a basketball from close range with my left hand. So going into my Duo review, I thought I’d try to use my Duo as a pretend lefty. Turns out I didn’t have to pretend. I never realized this, but I naturally use my iPhone left-handed quite a bit throughout the day. For example, while brushing my teeth. I keep my iPhone in my right front pants pocket, but I often pick it up off my desk or kitchen counter and use it left-handed.</p>
 
 <p>The Duo is not comfortable left-handed. The problem isn’t the Touch ID side button — I fixed that by registering my left index and middle fingers with the Touch ID sensor. The problem isn’t right-side bias for toolbars and the Dock in iOS Duo.<sup id="fnr1-2026-10-21"><a href="#fn1-2026-10-21">1</a></sup> That’s not great for left-handed use, but the truth is there’s a reachability problem no matter which single hand you try holding the Duo in. It’s better to hold it in your right hand than left, reachability-wise, but fundamentally it’s so wide that it’s a two-handed device even when being used folded.</p>
 
@@ -1337,7 +1481,7 @@ annoyance.</p></li>
 
 <p>Also, because the outer screen is a different aspect ratio than the camera sensor (1.44 : 1 display; 1.33 : 1 sensor), photos taken using the outer screen capture a slightly larger image than what is shown in the viewfinder. That’s because the outer screen viewfinder presents a full-screen preview, which forces all of the Camera app controls to overlay the preview image. In the screenshot above showing the Camera app on the outer display, the actual photograph from that perspective includes part of the painting frame, even though you cannot see any of the frame in the preview. <a href="https://daringfireball.net/misc/2026/10/photo-of-steadman-painting.jpeg">Here’s the photo</a> I snapped with that preview. This discrepancy between the viewfinder and the actual captured image is not a huge deal — it’s OK to capture more than the viewfinder shows — but it’s worth being aware of.</p>
 
-<p>As for the camera itself, it’s terrific. It’s clearly not of the same caliber as the iPhone 18 Pro, but it’s good. The technical specs of the Duo’s main 1×/2× camera are nearly identical to those of the year-ago iPhone Air, and <a href="https://daringfireball.net/2026/09/the_iphone_air_and_iphone_17_pro">I love the iPhone Air’s camera</a>. If anything, the Duo’s camera should be better, because it gets the year-better A20 Pro imaging pipeline. Which, notably, brings support for the same new Photographic Styles, including textures like film grain, that were <a href="https://daringfireball.net/2026/09/the_iphone_air_and_iphone_17_pro">introduced with the iPhone 18 Pro</a>. However, the Duo is not “Pro” — it does not get features like “Pro controls” (variable lens aperture, shutter speed, white balance, histogram), <a href="https://daringfireball.net/linked/2026/09/15/apple-reference-image">Apple Reference Image</a>, spatial video, ProRES (video or RAW), or Apple Log. Apple’s “shot with iPhone” keynotes will continue to use iPhones Pro.</p>
+<p>As for the camera itself, it’s terrific. It’s clearly not of the same caliber as the iPhone 18 Pro, but it’s good. The technical specs of the Duo’s main 1×/2× camera are nearly identical to those of the year-ago iPhone Air, and <a href="https://daringfireball.net/2026/09/the_iphone_air_and_iphone_17_pro">I love the iPhone Air’s camera</a>. If anything, the Duo’s camera should be better, because it gets the year-better A20 Pro imaging pipeline. Which, notably, brings support for the same new Photographic Styles, including textures like film grain, that were <a href="https://daringfireball.net/2026/09/the_iphone_air_and_iphone_17_pro">introduced with the iPhone 18 Pro</a>. However, the Duo is not “Pro” — it does not get features like “Pro controls” (variable lens aperture, shutter speed, white balance, histogram), <a href="https://daringfireball.net/linked/2026/09/15/apple-reference-image">Apple Reference Image</a>, spatial video, ProRes (video or RAW), or Apple Log. Apple’s “shot with iPhone” keynotes will continue to use iPhones Pro.</p>
 
 <p>Also, notably different from the Air, the Duo has an ultrawide 0.5× second camera lens. This brings both the ultrawide perspective <em>and</em> macro photography. Like the Air, the Duo’s main 1× camera has a minimum focus distance of 15cm. That’s closer than the 17 and 18 Pro cameras (20cm), but there are a lot of times you want to snap photos of receipts or documents closer than 15cm. With the Air, you can’t focus closer than 15cm, because it only has that one camera. With the Duo, you can focus on subjects down to just 2cm away, using the 0.5× lens or the 1× lens in “macro” mode (which switches to the ultrawide lens but sensor-crops to the 1× field of view).</p>
 
@@ -2206,46 +2350,6 @@ trouble to install.</p>
 
 	]]></content>
   </entry><entry>
-	<title>Whatever You Say Bounces Off Me and Sticks to You</title>
-	<link rel="alternate" type="text/html" href="https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xni" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/17/whatever-you-say-bounces-off-me-and-sticks-to-you" />
-	<id>tag:daringfireball.net,2026:/linked//6.43614</id>
-	<published>2026-10-18T00:55:42Z</published>
-	<updated>2026-10-19T16:23:19Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Stephen Nellis and Deepa Seetharaman, reporting Wednesday for Reuters:</p>
-
-<blockquote>
-  <p>An OpenAI employee who left the ChatGPT maker for Apple ​sent
-more than 100 files about an unreleased product to a personal
-account and later made a presentation about the unreleased product
-to senior Apple leadership, a new filing in the lawsuit between
-OpenAI and Apple alleges.</p>
-
-<p>In the filing in US federal court ​in San Jose, California, OpenAI
-alleged that the presentation happened months ago and ​that Apple
-is now making AI products of its own, citing the release of
-Apple’s HomeView product this week.</p>
-
-<p>“OpenAI is very concerned that its trade ​secret and confidential
-information is now circulating inside Apple, where Apple engineers
-can shape ​Apple’s upcoming products based on OpenAI’s
-confidential and innovative work,” OpenAI said in its filing.</p>
-</blockquote>
-
-<p>I see OpenAI has added Harvey Richards, <a href="https://daringfireball.net/linked/2026/10/18/tom-the-dancing-bugs-inner-hive">the world renowned lawyer for children</a>, to their legal team, to present the “I’m rubber, you’re glue” defense.</p>
-
-<div>
-<a  title="Permanent link to ‘Whatever You Say Bounces Off Me and Sticks to You’"  href="https://daringfireball.net/linked/2026/10/17/whatever-you-say-bounces-off-me-and-sticks-to-you">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/10/homeview_thoughts_and_observations" />
 	<link rel="shorturl" href="http://df4.us/xnh" />
@@ -2335,35 +2439,6 @@ confidential and innovative work,” OpenAI said in its filing.</p>
 
     ]]></content>
   <title>★ HomeView Thoughts and Observations</title></entry><entry>
-	<title>Apple TV Price History, Charted</title>
-	<link rel="alternate" type="text/html" href="https://glog.glennf.com/blog/2026/10/17/apple-tv-price-history/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xng" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/17/apple-tv-price-history-charted" />
-	<id>tag:daringfireball.net,2026:/linked//6.43612</id>
-	<published>2026-10-17T14:06:18Z</published>
-	<updated>2026-10-17T23:00:29Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Glenn Fleishman:</p>
-
-<blockquote>
-  <p>I wondered what the entry-level, initial price of each Apple TV
-box at introduction was, from the March 2007 original to the Apple
-TV 4K (4th generation) announced October 13, 2026, adjusted for
-inflation. So I charted it.</p>
-</blockquote>
-
-<p>I suppose this doesn’t mean Apple has given up on making Apple TV <em>content</em> accessible, but the price-accessible path is just using the Apple TV app on the crapware OS your “smart” TV runs.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple TV Price History, Charted’"  href="https://daringfireball.net/linked/2026/10/17/apple-tv-price-history-charted">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/10/real_artists_ship_tesla_edition" />
 	<link rel="shorturl" href="http://df4.us/xna" />
@@ -2446,105 +2521,4 @@ racist piece of shit. Several things can be true at once.</p>
 <p>Tesla makes some tremendous vehicles. Their self-driving technology is the best in the consumer market. (Not as good as Waymo’s, but you can’t buy a Waymo.) So maybe they will ship a great Roadster in 2028. I’ll pay attention if and when they do. But I wouldn’t bet a nickel that they will. And I wouldn’t bet that they won’t, either.</p>
 
     ]]></content>
-  <title>★ Real Artists Ship, Tesla Edition</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/10/thoughts_on_new_apple_tv_4k_and_homepod_mini_2" />
-	<link rel="shorturl" href="http://df4.us/xn7" />
-	<id>tag:daringfireball.net,2026://1.43603</id>
-	<published>2026-10-16T01:18:29Z</published>
-	<updated>2026-10-16T15:25:31Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">At the old pre-June prices, you could buy a 128 GB Apple TV and a pair of HomePod Minis for $350 ($150 + $100 + $100). Four short months later, with today’s new models, that combination would cost $600 ($300 + $150 + $150).</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<p><a href="https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/">Apple Newsroom, Tuesday morning</a>:</p>
-
-<blockquote>
-  <p>The new Apple TV 4K features three far-field microphones, letting
-users control what they’re watching and discover new shows
-completely hands-free. Advanced echo cancellation intelligently
-isolates a user’s voice from background sound to deliver
-crystal-clear “Hey Siri” or “Siri” recognition, even while audio
-is playing.</p>
-</blockquote>
-
-<p>This is nice, but I don’t think it buys me anything, because my existing Apple TV 4K is paired with 2nd-gen HomePods, and the HomePods each have a “four-microphone design for far-field Siri”.</p>
-
-<blockquote>
-  <p>The A19 chip in the new Apple TV 4K delivers up to 50 percent
-faster CPU performance and up to 2× faster GPU performance than
-the previous generation, for greater responsiveness, faster
-navigation, and smoother animations. The A19 chip also includes a
-new, dedicated AV1 decoder, enabling more efficient, high-quality
-streaming while using less bandwidth.</p>
-</blockquote>
-
-<p>The new AV1 decoder seems like it might be meaningful, but does anyone think UI navigation and animation smoothness is improved by going from the A15 to the A19 SoC? I mean navigation is going up/down/left/right. I’m sure the graphics and CPU improvements matter for gaming, but the only mention of gaming in Apple’s own Newsroom announcement is this sentence: “With Apple Fitness+, the living room becomes a workout studio, while Apple Arcade and the App Store’s library of games turn it into a home arcade.” I wish it were otherwise, but gaming is such an afterthought on Apple TV that it only garnered the second half of a sentence that started with Fitness+, a service that has only been in the news this year <a href="https://9to5mac.com/2026/09/21/apple-fitness-team-hit-by-layoffs-as-major-changes-reportedly-loom/">because Mark Gurman says Apple laid off part of the team</a>.</p>
-
-<blockquote>
-  <p>The new Siri Remote keeps its familiar design while adding Find My
-support with Precision Finding and an option to play a sound on
-the remote — making it far easier to locate.</p>
-</blockquote>
-
-<p>That’s my single favorite feature in the announcement. I hate to say it though, but the previous remote should have supported these features. The 3rd-gen Apple TV 4K came in 2022, but <a href="https://www.apple.com/newsroom/2021/04/apple-introduces-airtag/">Apple launched AirTags with Precision Finding in 2021</a>. Remote controls are right after keys on the list of things people misplace most frequently, and Apple’s remote controls, because they’re small and thin, are particularly susceptible to being snatched by couch-cushion gremlins. Speakers, so the remote can play a sound to help you find it, were invented even earlier than 2021.</p>
-
-<blockquote>
-  <p>Pairing HomePod with Apple TV 4K already offers users an immersive
-viewing experience that’s easy to set up, and the new Apple TV 4K
-takes it even further. For the first time, users can create a
-four-speaker surround sound experience with Apple TV 4K (4th
-generation) and HomePod mini 2. The four speakers work together
-with Apple TV 4K to intelligently recognize their position in the
-room so audio timing and levels are automatically calibrated to
-the space. HomePod (2nd generation) can also be used in this
-four-speaker setup for the ultimate audio experience, as long as
-the front and rear speaker pairs match.</p>
-</blockquote>
-
-<p>This is tempting to try. In other words, in addition to the two 2nd-gen HomePods I already have paired in my living room, I can add two of the new HomePod Mini 2’s behind the sofa for surround sound.</p>
-
-<p>The elephant in the room, though, is price. Before this week, Apple sold two models of the 3rd-generation Apple TV. On a percentage basis, they were hit the hardest of any products Apple sells by <a href="https://daringfireball.net/2026/06/spensive_thoughts">the company’s across-the-board price increases this summer</a>:</p>
-
-<p><table class="table-65EBF365-4DEE-4E25-8A8B-E9D8F4B95492" width=400>
-<style>
-.table-65EBF365-4DEE-4E25-8A8B-E9D8F4B95492 th:nth-child(1) { text-align: left }
-.table-65EBF365-4DEE-4E25-8A8B-E9D8F4B95492 td:nth-child(1) { text-align: left }
-.table-65EBF365-4DEE-4E25-8A8B-E9D8F4B95492 th:nth-child(2) { text-align: center }
-.table-65EBF365-4DEE-4E25-8A8B-E9D8F4B95492 td:nth-child(2) { text-align: center }
-.table-65EBF365-4DEE-4E25-8A8B-E9D8F4B95492 th:nth-child(3) { text-align: center }
-.table-65EBF365-4DEE-4E25-8A8B-E9D8F4B95492 td:nth-child(3) { text-align: center }
-.table-65EBF365-4DEE-4E25-8A8B-E9D8F4B95492 th:nth-child(4) { text-align: center }
-.table-65EBF365-4DEE-4E25-8A8B-E9D8F4B95492 td:nth-child(4) { text-align: center }
-</style>
-<thead>
-<tr>
-<th></th><th>Before</th><th>June 25</th><th>Change</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>HomePod</td><td>$300</td><td>$350</td><td>17%</td>
-</tr>
-<tr>
-<td>(Old) HomePod Mini</td><td>$100</td><td>$130</td><td>30%</td>
-</tr>
-<tr>
-<td>(Old) Apple TV 64 GB</td><td>$130</td><td>$200</td><td>54%</td>
-</tr>
-<tr>
-<td>(Old) Apple TV 128 GB</td><td>$150</td><td>$250</td><td>67%</td>
-</tr>
-</tbody>
-</table></p>
-
-<p>The new Apple TV 4K announced this week only comes in one model, and it costs $300. It’s great that there’s only one model for simplicity’s sake, but the number one complaint when the previous generation cost $130/150 was that it was too expensive compared to set-top boxes and sticks from Amazon and Roku. (Or the “free” option of using the “smart TV” software that comes with every TV set.) Now, with the new Apple TV, it’s twice as expensive — and Apple is not keeping the 3rd-gen models around as lower-priced options. I still think it’s worth it, personally, but the general consumer market thought the old prices were too high and I don’t see any of the new features making Joe or Jane Consumer think, “<em>Sure, I was skeptical about the old one at $130, but this new model — which looks exactly the same — this seems worth $300.</em>”</p>
-
-<p>HomePod Mini 2 now costs $150. That’s not too much of an increase over the new-since-June-25 $130 price for the old HomePod Mini, but it’s a stiff 50 percent increase from <a href="https://www.apple.com/newsroom/2020/10/apple-introduces-homepod-mini-a-powerful-smart-speaker-with-amazing-sound/">the old HomePod Mini’s $100 price from November 2020 through June 24 this year</a>. I generally round Apple’s prices up from their “99” values, but it’s worth noting that what I’m calling $100 was actually $99, and going to just two digits <a href="https://academic.oup.com/restud/article/90/5/2612/6931812?guestAccessKey=76f2de44-e2e1-4921-a3c1-5f9447df53a8&amp;login=false">does have a psychological effect on buying behavior</a>. Again, I think $150 is a reasonable price for the HomePod Mini 2, but it doesn’t feel as much like a lark as $99 did. $99 was a bit of a “<em>Sure, let’s get another one</em>” price; $150 is more of a “<em>Do we really need another one of these?</em>” price.</p>
-
-<p>At the old pre-June prices, you could buy a 128 GB Apple TV and a pair of HomePod Minis for $350 ($150 + $100 + $100). Four short months later, with today’s new models, that combination would cost $600 ($300 + $150 + $150). That price difference is much more striking than any of the new and improved features in the products.</p>
-
-    ]]></content>
-  <title>★ Initial Thoughts on This Week’s New Apple TV 4K (4th Generation) and HomePod Mini 2</title></entry></feed><!-- THE END -->
+  <title>★ Real Artists Ship, Tesla Edition</title></entry></feed><!-- THE END -->
