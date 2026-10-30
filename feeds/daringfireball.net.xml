@@ -7,7 +7,42 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-10-29T22:11:57Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-10-30T16:53:09Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Patrick Stewart Dies at 86</title>
+	<link rel="alternate" type="text/html" href="https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-dead-star-trek-x-men-1236742932/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xoz" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/30/patrick-stewart-rip" />
+	<id>tag:daringfireball.net,2026:/linked//6.43667</id>
+	<published>2026-10-30T16:53:09Z</published>
+	<updated>2026-10-30T16:53:09Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Aaron Couch, The Hollywood Reporter:</p>
+
+<blockquote>
+  <p>Patrick Stewart, the sophisticated actor who brought a
+Shakespearean touch to <em>Star Trek</em> and <em>X-Men</em> as he made an
+otherworldly transformation from British stage veteran to sci-fi
+icon, has died. He was 86.</p>
+
+<p>Stewart died Wednesday at his home in Los Angeles following “a
+brief and poignant journey with Alzheimer’s disease and Lewy body
+dementia,” longtime spokesperson Kelly Bush Novak announced.</p>
+</blockquote>
+
+<p>There’s an old adage that everyone’s favorite SNL cast is the one from their teenage years. It’s probably true for <em>Star Trek</em> too. My favorite is The Next Generation and it’s not even close. Stewart’s Jean-Luc Picard was just so fucking cool. Smart, wise, firm, curious, empathetic, and just fucking cool. Those same adjectives seemingly all apply to Stewart himself.</p>
+
+<p>See Kottke <a href="https://kottke.org/26/10/rest-in-peace-patrick-stewart-1940-2026">for a bunch more links</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Patrick Stewart Dies at 86’"  href="https://daringfireball.net/linked/2026/10/30/patrick-stewart-rip">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Apple Drops App Store Commission by a Whopping 4 Percentage Points in Taiwan</title>
 	<link rel="alternate" type="text/html" href="https://developer.apple.com/news/?id=w9mxlhek" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xoy" />
@@ -2313,36 +2348,6 @@ want to talk to it on Apple devices.</p>
 
 <div>
 <a  title="Permanent link to ‘Tom the Dancing Bug’s Inner Hive, and Harvey Richards, the Greatest Lawyer in the History of Fiction’"  href="https://daringfireball.net/linked/2026/10/18/tom-the-dancing-bugs-inner-hive">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>WorkOS AuthKit</title>
-	<link rel="alternate" type="text/html" href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xnq" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/18/workos-authkit" />
-	<id>tag:daringfireball.net,2026:/linked//6.43622</id>
-	<published>2026-10-18T22:45:00Z</published>
-	<updated>2026-10-18T22:53:33Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>My thanks to WorkOS for sponsoring DF last week. Login looks simple until you’re building password resets, email verification, MFA, social providers, session management, and the enterprise SSO your first big customer asked for last week.</p>
-
-<p>WorkOS AuthKit lets you:</p>
-
-<ul>
-<li>Offer SSO, MFA, passkeys, passwords, email codes, and social sign-in.</li>
-<li>Add and remove users automatically with SCIM provisioning.</li>
-<li>Track who did what with audit logs.</li>
-</ul>
-
-<p><a href="https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026">Try AuthKit today</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘WorkOS AuthKit’"  href="https://daringfireball.net/linked/2026/10/18/workos-authkit">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
