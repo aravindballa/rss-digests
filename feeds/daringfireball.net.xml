@@ -7,7 +7,31 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-10-31T18:22:44Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-11-01T20:22:56Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>WorkOS: Let Agents Sign Up for Your App Without a Browser</title>
+	<link rel="alternate" type="text/html" href="https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xp4" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/01/workos" />
+	<id>tag:daringfireball.net,2026:/linked//6.43672</id>
+	<published>2026-11-01T20:22:56Z</published>
+	<updated>2026-11-01T20:22:56Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks to WorkOS for sponsoring last week at DF. An agent can’t click through a signup page built for humans, so give it something it can read instead. Publish an auth.md file and agents register themselves without ever touching a browser login, and the user never gets pulled out of what they were doing.</p>
+
+<p>With WorkOS auth.md, enroll in the dashboard and AuthKit publishes the file. Agents read it, register, and get scoped, short-lived credentials you control.</p>
+
+<p><a href="https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026">Make your app agent-ready today</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘WorkOS: Let Agents Sign Up for Your App Without a Browser’"  href="https://daringfireball.net/linked/2026/11/01/workos">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Sponsorship Openings for Daring Fireball (Including The Talk Show)</title>
 	<link rel="alternate" type="text/html" href="https://daringfireball.net/feeds/sponsors/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xp3" />
@@ -2380,41 +2404,6 @@ feel cheap, strange and worst of all, unmemorable</p>
 
 <div>
 <a  title="Permanent link to ‘Netflix Shitcanned Film Chief Dan Lin Too’"  href="https://daringfireball.net/linked/2026/10/19/netflix-dan-line">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Ex-Apple Employee Fred Potter on HomeView</title>
-	<link rel="alternate" type="text/html" href="https://www.linkedin.com/posts/frpotter_tonight-im-looking-back-through-the-photo-share-7515791565718454272-ue-R/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xnt" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/19/potter-homeview" />
-	<id>tag:daringfireball.net,2026:/linked//6.43625</id>
-	<published>2026-10-19T18:05:38Z</published>
-	<updated>2026-10-19T22:43:33Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Fred Potter, on LinkedIn:</p>
-
-<blockquote>
-  <p>So if you ever meet someone who tells you, “At Apple, I’m the one
-who did this,” take it with a grain of salt. They were probably
-part of the team that made it happen, and that’s already something
-to be proud of.</p>
-
-<p>Sometimes, when the final product finally comes out, you can
-recognize a few of the personal touches you contributed along the
-way. And that, in itself, is immensely rewarding.</p>
-
-<p>Wishing HomeView every success!</p>
-</blockquote>
-
-<p><a href="https://www.linkedin.com/in/frpotter/">Potter’s LinkedIn bio</a> lists his time at Apple as July 2021 through June 2024, and describes it only as “Worked on HomeView”. (<a href="https://www.igen.fr/domotique/2026/10/homeview-un-modele-motorise-deja-dans-les-cartons-et-une-petite-touche-francaise-158755">Via Christophe Laporte at iGeneration</a>.)</p>
-
-<div>
-<a  title="Permanent link to ‘Ex-Apple Employee Fred Potter on HomeView’"  href="https://daringfireball.net/linked/2026/10/19/potter-homeview">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
