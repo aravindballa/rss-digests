@@ -7,7 +7,76 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-11-03T16:09:27Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-11-03T23:31:39Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>MKBHD on the New A20 Pro iPad Mini</title>
+	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=g6Die8gVFn0" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xpd" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/03/mkbhd-on-the-new-ipad-mini" />
+	<id>tag:daringfireball.net,2026:/linked//6.43681</id>
+	<published>2026-11-03T23:25:25Z</published>
+	<updated>2026-11-03T23:31:39Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Marques Brownlee describes the two color choices as “annoyingly, slightly not black and slightly not white,” which is apt. He digs the acoustic display enough that he can imagine Apple bringing it to a future high-end iPhone (like if they do a big redesign next year for the 20th anniversary), but he says you can feel the whole iPad shake if you turn the volume up high enough.</p>
+
+<p>And, of course, he dings it for not having a 120 Hz display, and wonders where Apple even sourced a high quality OLED that doesn’t support 120 Hz. I think that’s the wrong question to ask. It’s not about the display panel. It’s the display <em>driver</em>, and ProMotion requires a display driver that’s enough more expensive that adding it to the iPad Mini would either raise the price even further or cut into Apple’s profit margins. It’s the driver, though, not the panel, in my understanding.</p>
+
+<div>
+<a  title="Permanent link to ‘MKBHD on the New A20 Pro iPad Mini’"  href="https://daringfireball.net/linked/2026/11/03/mkbhd-on-the-new-ipad-mini">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode</title>
+	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2026/11/03/ios-27-3-safari/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xpc" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/03/safari-27-3-vertical-tabs" />
+	<id>tag:daringfireball.net,2026:/linked//6.43680</id>
+	<published>2026-11-03T19:26:41Z</published>
+	<updated>2026-11-03T20:44:17Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Juli Clover, MacRumors:</p>
+
+<blockquote>
+  <p>With iOS 27.3, iPadOS 27.3, and macOS Golden Gate 27.3, Apple is
+making major updates to Safari. The browser is getting a Vertical
+Tabs layout, which can be used instead of the standard horizontal
+tab bar. It’s a change that pairs well with the iPhone Duo’s
+larger display, but it is available across iPhone, iPad, and Mac.</p>
+
+<p>Vertical Tabs are located on the left side of the display and use
+icons by default to save space, but there is an option to make the
+tab bar wider to show website titles as well. Vertical Tabs work
+with both Topics and Tab Groups to keep things organized. Topics
+are created when automatic Apple Intelligence tab sorting is
+turned on in iOS 27. Pinning tabs by dragging, quickly swapping
+between Tab Groups, and other features also continue to work.</p>
+</blockquote>
+
+<p>I got an advance demo of this last week and I’m really looking forward to trying it. I’ve gotten very used to horizontal tabs over the years, but <a href="https://daringfireball.net/2004/08/omniweb_5">a long time ago</a> I was a devoted user of the Omni Group’s OmniWeb browser, of which one of my favorite features was its vertical tabs. That was so long ago, <a href="https://daringfireball.net/2004/02/omniweb_5_public_beta">the tabs went in a drawer</a>.</p>
+
+<blockquote>
+  <p>Apple is adding Adaptive Dark Mode for websites that don’t have a
+dark mode design option by default. If you use Dark Mode and then
+browse to a website with a bright background color, Safari will
+offer an option to “Try” Adaptive Dark Mode.</p>
+</blockquote>
+
+<p>There are some popular Safari extensions that offer this, but Safari 27.3 has the feature built-in, and the demo I saw looked great. It kicks in for light-background websites that don’t offer a dark mode alternative presentation, and it allows for web developers to explicitly opt out.</p>
+
+<div>
+<a  title="Permanent link to ‘Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode’"  href="https://daringfireball.net/linked/2026/11/03/safari-27-3-vertical-tabs">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>The New York Times (et al.) Sues Brave for Copyright Infringement, Selling Scraped Content to AI Companies for Model Training</title>
 	<link rel="alternate" type="text/html" href="https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xpb" />
@@ -1783,97 +1852,6 @@ onto a singular view.</p>
 
 <div>
 <a  title="Permanent link to ‘Chan Karunamuni on the Duo’s Open/Close Translucent Transition’"  href="https://daringfireball.net/linked/2026/10/24/karunamuni-duo-design">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’</title>
-	<link rel="alternate" type="text/html" href="https://www.theverge.com/tech/1015028/iphone-duo-review" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xo4" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/23/the-verge-iphone-duo-review" />
-	<id>tag:daringfireball.net,2026:/linked//6.43636</id>
-	<published>2026-10-23T17:52:56Z</published>
-	<updated>2026-10-23T18:05:55Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Nilay Patel and Allison Johnson (also: <a href="https://www.youtube.com/watch?v=g5gptFkgBlI">26-minute video review on YouTube</a>):</p>
-
-<blockquote>
-  <p>This means almost every time you open the phone you instinctively
-rotate it, and while it will work no matter how it’s rotated, it’s
-better to rotate it counterclockwise so the cameras are on top and
-the volume buttons are on the top left. Over our week of testing,
-this started feeling more natural, but it’s exactly the opposite
-of what you’d initially expect. It’s especially odd in Apple’s
-bumper case, which has a large notch to expose the Touch ID sensor
-and camera control, and it looks for all the world like it belongs
-at the bottom.</p>
-
-<p>You might think this is a little thing, but it’s strange to find
-yourself slightly unsure of how to hold a smartphone. A nontrivial
-part of the Duo experience is just reorienting yourself to where
-the volume buttons are as you flip the thing around. When closed,
-they’re on top of the phone, but if you rotate the Duo clockwise,
-they end up on the bottom right, and it’s the <em>top</em> button that
-turns the volume down because they don’t change orientation with
-the display. There’s a buried setting in iOS that makes the volume
-buttons reorient themselves as you turn the Duo around; Apple
-needs to set it so it works right by default.</p>
-</blockquote>
-
-<p>Completely agree with them on this — it seems inexplicable that with default settings, while holding the open Duo vertically, if the volume buttons are on the right, you press the up button to lower the volume and down button to raise it.</p>
-
-<blockquote>
-  <p>One other thing to get used to is simply unlocking the phone.
-Touch ID is integrated into the wake button on the side of the
-phone. There’s no Face ID at all, and it might take a minute to
-remember that when you stare at your phone for a beat and wonder
-why your notifications aren’t unfurling. Ask us how we know. But a
-week is long enough to get used to Touch ID life again, and it’s
-mostly painless once you remember you’re supposed to be using it.</p>
-</blockquote>
-
-<p>Completely disagree with them on this — unless you wear an Apple Watch all day every day.</p>
-
-<p>Re: the cameras, they make this interesting aside:</p>
-
-<blockquote>
-  <p>(It would be cool if you could switch the image preview to the
-other panel to use it halfway open like a waist-level viewfinder,
-but you can’t.)</p>
-</blockquote>
-
-<p>This is a great opportunity for third-party camera apps. Imagine using the Duo in the L-shaped laptop pose, holding it at waist level, <a href="https://daringfireball.net/misc/2026/10/hasselblad-looking-down.jpeg">looking down</a> — <a href="https://shootitwithfilm.com/hasselblad-500-cm-film-camera-review/">like a Hasselblad 500</a>.</p>
-
-<p>Overall Patel and Johnson are fair and astute, but far more positive about the iPhone Duo <a href="https://daringfireball.net/2026/10/the_iphone_duo">than me</a> or <a href="https://daringfireball.net/linked/2026/10/23/stern-iphone-duo-review">Joanna Stern</a>. <a href="https://daringfireball.net/linked/2024/04/11/the-verge-review-scale">Don’t get me started</a> on The Verge’s 10-point ratings scale, but they scored the Duo a 7/10, and <a href="https://www.theverge.com/tech/995945/iphone-18-pro-max-review-camera-aperture">only gave last month’s iPhone 18 Pro an 8/10</a>. Based on <a href="https://www.theverge.com/how-we-rate">this description of their scale</a>, I’d give the 18 Pro a 10/10 (“best of the best”) and the Duo a 4/10 (“mediocre — has multiple outstanding issues”).</p>
-
-<div>
-<a  title="Permanent link to ‘The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’’"  href="https://daringfireball.net/linked/2026/10/23/the-verge-iphone-duo-review">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Joanna Stern Reviews the Duo: ‘The Good, the Bad, and the Buggy’</title>
-	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=bxDTWuL9GxY" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xo3" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/23/stern-iphone-duo-review" />
-	<id>tag:daringfireball.net,2026:/linked//6.43635</id>
-	<published>2026-10-23T15:42:06Z</published>
-	<updated>2026-10-23T15:42:06Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Joanna Stern’s video review packs a ton into 16 minutes. She commissioned a custom robot to fold/unfold the thing over 32,000 times in a week, to see if it loosened the hinge. (I won’t spoil the answer.) She took it on a yacht on the Hudson. She took it to a dark bar to test the cameras. And she really, really missed Face ID. I don’t know how she makes these videos in just a week, along with all the actual testing. So good.</p>
-
-<p>We rank our complaints (and praise) in different order, but overall her take jibes with mine on every single point. You can <a href="https://thenewthings.com/p/iphone-duo-review-the-good-bad-and-buggy">read a version of her review</a>, too, if you’re a subscriber to The New Things, which you should be.</p>
-
-<div>
-<a  title="Permanent link to ‘Joanna Stern Reviews the Duo: ‘The Good, the Bad, and the Buggy’’"  href="https://daringfireball.net/linked/2026/10/23/stern-iphone-duo-review">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
