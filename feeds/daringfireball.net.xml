@@ -7,7 +7,120 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-11-03T23:31:39Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-11-04T00:12:31Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Apple Begins Opening Siri AI to Developers</title>
+	<link rel="alternate" type="text/html" href="https://developer.apple.com/news/?id=gdk2umrf" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xpf" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/03/apple-begins-opening-siri-ai-to-developers" />
+	<id>tag:daringfireball.net,2026:/linked//6.43683</id>
+	<published>2026-11-03T23:58:49Z</published>
+	<updated>2026-11-03T23:58:50Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Apple Developer:</p>
+
+<blockquote>
+  <p>Starting today with the iOS 27.3, iPadOS 27.3, macOS 27.3, and
+visionOS 27.3 betas, a new Developer Preview enables any developer
+to integrate their app with Siri AI, giving businesses and
+developers new ways to reach and serve their customers. [...]</p>
+
+<p>This developer beta offers a sneak peek at Siri AI app intents for
+developers. With this early Developer Preview, your app can work
+directly with Siri AI, giving you a first look at new ways to
+reach and serve your customers. This preview provides early access
+before first shipping to customers in a few months; and with
+submission to the App Store opening up in the spring, developers
+have time to explore, build, and help shape their experiences
+before launch. Try it out and share your feedback.</p>
+
+<p>As you explore early, we will follow up with more details about
+the terms and usage policies for experiences enabled through Siri
+AI. More to share soon.</p>
+</blockquote>
+
+<p><a href="https://mastodon.social/@agiletortoise/117554110669725591">Greg Pierce</a> (developer of <a href="https://getdrafts.com/">Drafts</a> and <a href="https://agiletortoise.com/">other fine apps</a>):</p>
+
+<blockquote>
+  <p>This sounds amazing, and I didn’t think we’d see App Intents
+integration into Siri AI until next WWDC.</p>
+</blockquote>
+
+<p>Siri AI is getting to the point of underpromising and overdelivering, which is where you want products to be. In 2025 things were <a href="https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino">so bad</a>, Apple had overpromised and not just underdelivered, but delivered nothing.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Begins Opening Siri AI to Developers’"  href="https://daringfireball.net/linked/2026/11/03/apple-begins-opening-siri-ai-to-developers">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>iPad Mini (A20 Pro) Review Roundup</title>
+	<link rel="alternate" type="text/html" href="https://www.techmeme.com/261103/p15#a261103p15" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xpe" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/03/ipad-mini-review-roundup" />
+	<id>tag:daringfireball.net,2026:/linked//6.43682</id>
+	<published>2026-11-03T23:45:18Z</published>
+	<updated>2026-11-03T23:46:57Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p><a href="https://www.theverge.com/tech/1025015/2026-ipad-mini-oled-review">David Pierce at The Verge</a>, on the Acoustic Display:</p>
+
+<blockquote>
+  <p>It means the sound fires out of the front panel rather than from
+speaker holes. (Some TVs currently work the same way.) It doesn’t
+sound any better than before, maybe a tiny bit bassier, but it
+also doesn’t sound worse, and if anything it’s slightly better to
+have the sound actually pointed at you instead of out the sides of
+the tablet. Mostly it’s a wash in service of the ruggedization,
+which is good enough for me.</p>
+</blockquote>
+
+<p><a href="https://www.youtube.com/watch?v=PBBjiZYylD4">Stephen Robles, on YouTube</a>, thinks it sounds muffled at high volumes and doesn’t seem to like how you can feel the whole tablet vibrate at high volumes.</p>
+
+<p><a href="https://www.tomsguide.com/computing/ipads/apple-ipad-mini-8-review">Tony Polanco at Tom’s Guide</a> liked the Acoustic Display sound quality and praised the battery life (but only had time to run the battery test once):</p>
+
+<blockquote>
+  <p>In the Tom’s Guide battery test, which involves continuous
+web-surfing over Wi-Fi with the display set to 150 nits of
+brightness, the iPad mini 8 lasted for an astonishing 14 hours and
+24 minutes! That’s nearly four hours longer than the previous
+model and Apple’s claims.</p>
+</blockquote>
+
+<p><a href="https://www.macstories.net/reviews/ipad-mini-2026-review-pushing-the-boundaries-with-apples-smallest-ipad/">John Voorhees at MacStories</a> was impressed by the Mini’s local AI performance:</p>
+
+<blockquote>
+  <p>The mini’s local AI capabilities extend beyond software optimized
+for the Neural Engine. To explore those, I ran Qwen 3.5 4B (4-bit)
+locally using a benchmark built into <a href="https://apps.apple.com/us/app/russet-openrouter-local-ai/id6754737926">Russet</a>, a local AI and
+developer tool. The 512GB iPad mini averaged a pace of 40 tokens
+per second across four sessions on both tests that output 128 or
+256 tokens with a time to first token of 0.32 seconds for the 128
+output token tests and 0.36 for the 256 output token tests.</p>
+
+<p>I couldn’t compare the new mini’s local AI performance to my 6th
+generation iPad mini because it only has 4GB of memory, which is
+too little for the models Russet offers for download. Instead, I
+downloaded the same model on my 11-inch M4 iPad Pro and ran the
+same Russet benchmark. The A20 Pro came out on top in my tests.
+The Russet tests I ran use <a href="https://github.com/ml-explore/mlx">MLX</a>, which runs on the CPU and GPU,
+so they don’t measure the benefit of the Dual 16-core Neural
+Engine. However, they do demonstrate the A20 Pro’s serious local
+AI capabilities.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘iPad Mini (A20 Pro) Review Roundup’"  href="https://daringfireball.net/linked/2026/11/03/ipad-mini-review-roundup">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>MKBHD on the New A20 Pro iPad Mini</title>
 	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=g6Die8gVFn0" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xpd" />
@@ -36,7 +149,7 @@
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/03/safari-27-3-vertical-tabs" />
 	<id>tag:daringfireball.net,2026:/linked//6.43680</id>
 	<published>2026-11-03T19:26:41Z</published>
-	<updated>2026-11-03T20:44:17Z</updated>
+	<updated>2026-11-04T00:12:31Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -69,7 +182,7 @@ browse to a website with a bright background color, Safari will
 offer an option to “Try” Adaptive Dark Mode.</p>
 </blockquote>
 
-<p>There are some popular Safari extensions that offer this, but Safari 27.3 has the feature built-in, and the demo I saw looked great. It kicks in for light-background websites that don’t offer a dark mode alternative presentation, and it allows for web developers to explicitly opt out.</p>
+<p>There are some popular Safari extensions that offer this (e.g. <a href="https://getnoir.app/">Noir</a>), but Safari 27.3 has the feature built-in, and the demo I saw looked great. It kicks in for light-background websites that don’t offer a dark mode alternative presentation, and it allows for web developers to explicitly opt out.</p>
 
 <div>
 <a  title="Permanent link to ‘Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode’"  href="https://daringfireball.net/linked/2026/11/03/safari-27-3-vertical-tabs">&nbsp;★&nbsp;</a>
@@ -1793,65 +1906,6 @@ the right side of the display.</p>
 
 <div>
 <a  title="Permanent link to ‘Tim Pan’s iPhone Duo Review’"  href="https://daringfireball.net/linked/2026/10/24/tim-pan-duo-review">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple Built a Photo-Realistic Functional Original iPod for Apple Music’s 404 Page</title>
-	<link rel="alternate" type="text/html" href="https://music.apple.com/404" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xo6" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/24/apple-music-ipod-404-page" />
-	<id>tag:daringfireball.net,2026:/linked//6.43638</id>
-	<published>2026-10-24T16:50:02Z</published>
-	<updated>2026-10-30T18:56:06Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>It <a href="https://x.com/kianworld/status/2113519872999301172">seems like</a> this amazing Easter egg only launched yesterday, to celebrate <a href="https://x.com/tfadell/status/2113708201762033691">the original iPod’s 25th anniversary</a>. Exquisitely well done. More like this, please.</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Built a Photo-Realistic Functional Original iPod for Apple Music’s 404 Page’"  href="https://daringfireball.net/linked/2026/10/24/apple-music-ipod-404-page">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Chan Karunamuni on the Duo’s Open/Close Translucent Transition</title>
-	<link rel="alternate" type="text/html" href="https://x.com/chan_k/status/2113622379050246243" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xo5" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/24/karunamuni-duo-design" />
-	<id>tag:daringfireball.net,2026:/linked//6.43637</id>
-	<published>2026-10-24T16:03:44Z</published>
-	<updated>2026-10-24T16:03:44Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Chan Karunamuni, human interface designer at Apple, on X:</p>
-
-<blockquote>
-  <p>iPhone Duo is here! Excited to have worked on the design of our
-open/close transition. It’s designed to make the two displays feel
-like one seamless experience by perceptually bending the focal
-plane, not the content, so that it feels like opening a window
-onto a singular view.</p>
-</blockquote>
-
-<p>Karunamuni thanks a few engineers by name, which is always good (and for Apple employees, far too rare) to see.</p>
-
-<p><a href="https://daringfireball.net/search/johnnie+manzari">Johnnie Manzari</a>, HI designer formerly of Apple, now at Google DeepMind, <a href="https://x.com/johnnie/status/2113643318165082486">retweeting Karunamuni</a>:</p>
-
-<blockquote>
-  <p>The second I saw that transition I thought “here’s the next
-‘change the whole industry’ design from Chan”.</p>
-</blockquote>
-
-<p>Previous such raise-the-bar designs that Karunamuni led or played a major hand in include <a href="https://x.com/chan_k/status/1570795751764295682">the Dynamic Island</a> in <a href="https://x.com/chan_k/status/1571207749677219840">2022</a>, <a href="https://x.com/chan_k/status/1703820400902431077">the “shockwave moment”</a> when you put two iPhones together to initiate AirDrop or NameDrop in 2023, and iOS 18’s <a href="https://x.com/chan_k/status/1835729051178451013">cool-ass Flashlight beam UI</a> in 2024. He also gave Steve Lemay <a href="https://x.com/chan_k/status/1996825927561658854">this full-throated public endorsement</a> upon his promotion to lead all of Apple HI design upon Alan Dye’s departure for Meta last December.</p>
-
-<div>
-<a  title="Permanent link to ‘Chan Karunamuni on the Duo’s Open/Close Translucent Transition’"  href="https://daringfireball.net/linked/2026/10/24/karunamuni-duo-design">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
