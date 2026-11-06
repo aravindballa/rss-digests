@@ -7,7 +7,85 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-11-05T21:31:04Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-11-06T15:35:49Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Apple Support: ‘About the Illuminated Apple Logo on MacBook Pro With PROLED XDR Display’</title>
+	<link rel="alternate" type="text/html" href="https://support.apple.com/en-us/149248" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xpl" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/06/apple-support-illuminated-apple-logo" />
+	<id>tag:daringfireball.net,2026:/linked//6.43689</id>
+	<published>2026-11-06T15:03:51Z</published>
+	<updated>2026-11-06T15:35:49Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Apple Support:</p>
+
+<blockquote>
+  <p>To make the Apple logo dark in all lighting conditions, you can turn off its illumination using Terminal, which is in the Utilities folder of your Applications folder. You can also use Spotlight to find and open it.</p>
+
+<p>Type or paste this command in Terminal, then press Return:</p>
+
+<p><code>sudo defaults write com.apple.CoreBrightness LEBacklightMode -int 0</code></p>
+
+<p>[...]</p>
+
+<p>To turn logo illumination on again, enter this command in Terminal:</p>
+
+<p><code>sudo defaults delete com.apple.CoreBrightness LEBacklightMode</code></p>
+</blockquote>
+
+<p>Apple might make this a GUI setting, but if I were them, I’d keep it this way. Make the people without fun in their souls use the Terminal command.</p>
+
+<p>(Keeping it as a <code>defaults</code> setting also helps emphasize that you save no meaningful battery life by turning it off. If this gets exposed as a GUI preference, I could see it spreading as a dumb-ass “pro tip” to turn it off to save battery life, like the unshakeable utterly wrongheaded belief millions hold that they should religiously force-quit apps on iOS, when in fact doing so chews up <em>more</em> energy when the apps get relaunched from a cold start.)</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Support: ‘About the Illuminated Apple Logo on MacBook Pro With PROLED XDR Display’’"  href="https://daringfireball.net/linked/2026/11/06/apple-support-illuminated-apple-logo">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>The President is Coping Well</title>
+	<link rel="alternate" type="text/html" href="https://www.wsj.com/politics/policy/trump-signs-proclamation-he-says-will-protect-oval-office-from-major-changes-93f3285b" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xpk" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/06/the-president-is-coping-well" />
+	<id>tag:daringfireball.net,2026:/linked//6.43688</id>
+	<published>2026-11-06T15:00:22Z</published>
+	<updated>2026-11-06T15:00:23Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>The WSJ, “Trump Signs Proclamation He Says Will Protect Oval Office From Major Changes”:</p>
+
+<blockquote>
+  <p>President Trump signed a proclamation Thursday that he said would
+designate the White House’s Oval Office and Cabinet Room as
+landmarks to prevent future presidents from making major changes
+to them.</p>
+
+<p>“They won’t be able to be taken down, destroyed, touched or
+anything else,” Trump told reporters. “It’s called, actually, a
+national monument. It’s a federal landmark, and when completed
+and when we get the documentation fully done, legally binding,
+it’ll make it impossible for anybody ever to destroy this
+incredible space.”</p>
+</blockquote>
+
+<p>Oh, buddy, every last bit of that pyrite cack will be pried off the walls and in a dumpster by mid-morning on 20 January 2029.</p>
+
+<p>You know <a href="https://www.youtube.com/watch?v=VO48Vr4KIc8">that scene</a> in <em>Pulp Fiction</em> where John Travolta’s Vincent Vega tells his drug dealer (Eric Stoltz) about his vintage Chevy Malibu getting keyed? “Boy I wish I could’ve caught him doing it. I’d have given anything to catch that asshole doing it. It would have been worth him doing it, just so I could’ve caught him. What’s more chickenshit than fucking with a man’s automobile?”</p>
+
+<p>I sort of feel that way about Trump and the next two years.</p>
+
+<div>
+<a  title="Permanent link to ‘The President is Coping Well’"  href="https://daringfireball.net/linked/2026/11/06/the-president-is-coping-well">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Salon Ceases Publication</title>
 	<link rel="alternate" type="text/html" href="https://www.salon.com/2026/11/05/goodbye-from-salon/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xpj" />
@@ -1856,100 +1934,6 @@ Special topic: The iPhone Duo.</p>
 
 <div>
 <a  title="Permanent link to ‘The Talk Show: ‘Lubricate the Inside of the Hinge’’"  href="https://daringfireball.net/linked/2026/10/25/the-talk-show-456">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>iPhone Portrait Mode, 10 Years In</title>
-	<link rel="alternate" type="text/html" href="https://x.com/johnnie/status/2114007844605612167" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xoc" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/25/manzari-iphone-portrait-mode" />
-	<id>tag:daringfireball.net,2026:/linked//6.43644</id>
-	<published>2026-10-25T19:09:19Z</published>
-	<updated>2026-10-25T19:09:19Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Speaking of Johnnie Manzari, he wrote a post yesterday marking the 10 year anniversary of Portrait Mode:</p>
-
-<blockquote>
-  <p>Initially, Portrait mode was seen as a giant math problem. You’d
-do disparity calculations on the two sensors and output a depth
-map. The problem was this approach feels and looks digital; it
-feels fake. In areas without texture, it’s impossible to do this
-calculation. In areas with ultra fine detail, a lower resolution
-depth map leads to terrible transitions and a full resolution
-depth map takes forever to compute. One solution would be to
-reduce the amount of bokeh so the issues are not as obvious. But
-then you lose the whole point of the feature, which was to make it
-look like you had a large, wide-open lens.</p>
-
-<p>The solution to this conundrum — the tradeoff between artifacts
-and the amount of blur — was quite elegant, but it took a while
-to stumble across. There’s a saying in painting that if you get
-the eyes right, nothing else matters. Inspired by this principle
-from oil painting, the idea was to make sure we never got the
-eyes wrong.</p>
-</blockquote>
-
-<p><a href="https://x.com/panzer/status/2114075510032740640">Matthew Panzarino</a>:</p>
-
-<blockquote>
-  <p>I remember getting the call to test out portrait mode before its
-release. The marriage of history, art and computational science
-that came together to make this possible is still incredible to me
-to this day.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘iPhone Portrait Mode, 10 Years In’"  href="https://daringfireball.net/linked/2026/10/25/manzari-iphone-portrait-mode">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Nicole Nguyen’s Duo Review for the WSJ</title>
-	<link rel="alternate" type="text/html" href="https://www.wsj.com/tech/personal-tech/iphone-duo-review-cafcbbe7?st=GaYVMf" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xob" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/24/nguyen-duo-review" />
-	<id>tag:daringfireball.net,2026:/linked//6.43643</id>
-	<published>2026-10-24T23:15:00Z</published>
-	<updated>2026-10-25T18:54:19Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Nicole Nguyen (also with <a href="https://www.youtube.com/watch?v=9A6YGb9gqJs">a 5-minute video</a>), writing for The Wall Street Journal (gift link):</p>
-
-<blockquote>
-  <p>Every time I used the Duo in phone mode, one-handed, I felt its
-heft. It’s wider and thicker than a Pro iPhone — and heavier,
-even compared with competing foldables. My hand actually hurts
-after using the Duo nonstop, straining to grip the device securely
-while trying to reach the far edge of the screen.</p>
-
-<p>An Apple spokesman pointed to the Duo’s titanium frame for
-durability. Other folding models use a lighter aluminum. The
-company also moved the dock and common controls to the right to be
-more reachable (sorry, southpaws). Still, there were plenty of
-instances where my thumb found its limits: turning off the flash
-in the camera app, or typing the letter “A.”</p>
-
-<p>There are people who can easily use two hands and won’t see this
-as a problem, including train commuters, frequent fliers or
-parents who wait around for kids to finish their activities. For
-me, I look forward to the day the Duo is lighter and thinner — maybe folding to the size of a deck of cards, like <a href="https://youtu.be/XsQqMwacZQw?t=80">in the movie
-“Her.”</a></p>
-</blockquote>
-
-<p>Interesting that she’d prefer a smaller Duo, not <a href="https://daringfireball.net/misc/2026/10/duo-inner-outer-iphone-pro-comparison-messages.png">a bigger one</a>, if Apple makes a second size. I agree that one-hand-ability is a problem with the Duo, but I also think the front screen is already too squat in terms of <a href="https://daringfireball.net/misc/2026/10/duo-inner-outer-iphone-pro-comparison-messages.png">how much content it shows</a>. I just think it’s the nature of foldables that they’re two-handed devices, even closed.</p>
-
-<p><em>Her</em>’s deck of cards foldable isn’t what I think we need to wait for. It’s <a href="https://youtu.be/qvrSUwqt6Mw?t=92"><em>Westworld</em>’s super-thin trifolds</a> — or even a bifold that’s more along those lines of thinness.</p>
-
-<div>
-<a  title="Permanent link to ‘Nicole Nguyen’s Duo Review for the WSJ’"  href="https://daringfireball.net/linked/2026/10/24/nguyen-duo-review">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
