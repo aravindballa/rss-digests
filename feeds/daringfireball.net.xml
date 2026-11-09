@@ -7,29 +7,71 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-11-08T21:56:19Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
-	<title>OurCal</title>
-	<link rel="alternate" type="text/html" href="https://ourcal.com/?utm_source=daringfireball&amp;utm_medium=sponsorship&amp;utm_content=post-thankyou" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xpp" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/08/ourcal" />
-	<id>tag:daringfireball.net,2026:/linked//6.43693</id>
-	<published>2026-11-08T21:56:18Z</published>
-	<updated>2026-11-08T21:56:19Z</updated>
+<updated>2026-11-09T00:06:21Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Jensen Huang Betrayed Nvidia, Not Just His Family</title>
+	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xpq" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/08/huang-betrayed-nvidia" />
+	<id>tag:daringfireball.net,2026:/linked//6.43694</id>
+	<published>2026-11-08T23:56:32Z</published>
+	<updated>2026-11-09T00:06:21Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>My thanks to OurCal for sponsoring last week at DF. You ever have a discussion that starts with “I didn’t see you put that on the calendar”? Could be with your colleagues, could be with your family. But the problem is familiar: Shared calendars solved scheduling, not communication.</p>
+<p>Julian E. Barnes, Tripp Mickle, Paul Mozur, and Maggie Haberman, reporting for The New York Times on Friday:</p>
 
-<p>OurCal connects any calendar, new or existing, to a group chat. Changes post there automatically, so nobody misses them. Because it’s a messenger, they made everything end-to-end encrypted, certified by France’s cybersecurity agency.</p>
+<blockquote>
+  <p>John Rizzo, an Nvidia spokesman, said that the company does not
+share classified information with its customers, and that
+customers do not ask Nvidia to press the U.S. government to change
+its policies on chip sales to China.</p>
 
-<p>OurCal is native SwiftUI across Apple’s platforms, and the App Store just featured it in “Great apps on iPhone Duo”. They’ve got an Android app too, but they’re an Apple-first company. It’s really well done. Even the app icon is <em>chef’s kiss</em>.</p>
+<p>He added that the Chinese government had “consistently promoted
+its own domestic alternatives in China, including Huawei, and
+strictly limited imports of our data center products.”</p>
 
-<p>OurCal is free to try, then a low monthly group subscription. No ads, no tracking.</p>
+<p>Mr. Rizzo has maintained that Mr. Huang’s interactions with Ms.
+Huang were “not unusual” and consistent with the kinds of meetings
+he has with any of Nvidia’s many customers.</p>
+</blockquote>
+
+<p>Turns out this was not true, unless Jensen Huang is consistently banging many of Nvidia’s customers. And it now looks especially bad that an Nvidia spokesman was effectively vouching for the Chinese government’s integrity when it comes to their interest in circumventing the ban against selling them high-end Nvidia hardware.</p>
+
+<blockquote>
+  <p>Liu Chang, a spokesman for the Chinese embassy, said The Times
+reporting was “unsubstantiated” and “nothing but smears
+against China.”</p>
+</blockquote>
+
+<p>Turns out this was completely substantiated and everything it implies about the Chinese government is true.</p>
+
+<blockquote>
+  <p>Ms. Huang has not responded to multiple attempts to reach her for
+comment in recent days.</p>
+</blockquote>
+
+<p>The Times has a photo of Ms. Huang with Mr. Huang at a Taipei party in 2024. She’s straight out of Central Casting for a Chinese honeypot.</p>
+
+<p>The New York Times, <a href="https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html?unlocked_article_code=1.O1E.hbgX.xU5KQM6hKylP">back on October 29</a>:</p>
+
+<blockquote>
+  <p>Nvidia said the company that employed Ms. Huang, Megaspeed, was
+like any other regional customer and that it had previously
+investigated and debunked claims the Singaporean company was
+smuggling chips to China. John Rizzo, a spokesman for Nvidia,
+said: “Jensen’s interactions with Ms. Huang are not unusual or
+unexpected. Meetings with customers are part of a C.E.O.’s job;
+Jensen talks with thousands of customer executives every year.”</p>
+</blockquote>
+
+<p>Jensen Huang’s personal life is his personal life. But he’s made it Nvidia business — an Nvidia spokesman has been repeatedly on the record saying the Huang/Huang relationship was “not unusual”. If you want to cheat on your spouse that’s your business, but it’s irresponsible to allow employees at your company to tell what you know to be lies on your behalf.</p>
+
+<p>Worse would be if it turns out that Megaspeed, the company Alice Huang works (worked?) at, was funneling Nvidia hardware to China in contravention of US national security law. That could make Jensen Huang’s position at Nvidia untenable.</p>
 
 <div>
-<a  title="Permanent link to ‘OurCal’"  href="https://daringfireball.net/linked/2026/11/08/ourcal">&nbsp;★&nbsp;</a>
+<a  title="Permanent link to ‘Jensen Huang Betrayed Nvidia, Not Just His Family’"  href="https://daringfireball.net/linked/2026/11/08/huang-betrayed-nvidia">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
@@ -40,7 +82,7 @@
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/08/huang-chinese-honeypot" />
 	<id>tag:daringfireball.net,2026:/linked//6.43692</id>
 	<published>2026-11-08T21:50:31Z</published>
-	<updated>2026-11-08T21:51:55Z</updated>
+	<updated>2026-11-08T23:34:42Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -73,7 +115,7 @@ available information.” It said Mr. Huang “fully supports the
 review and has committed to cooperating with it.”</p>
 </blockquote>
 
-<p>When the NYT <a href="https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html?unlocked_article_code=1.O1E.Soow.6UjrM7Ch-C8L">first broke this story</a> a little over a week ago, they simply described Jensen Huang’s relationship with the Chinese spy, an executive at a Singapore data center company named Alice Huang (no relation), as “a close relationship”. Reading between the lines, though — including the fact that Donald Trump, once briefed on the situation, decided to keep it quiet — it seemed pretty clear what the story was.</p>
+<p>When the NYT <a href="https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html?unlocked_article_code=1.O1E.hbgX.xU5KQM6hKylP">first broke this story</a> a little over a week ago, they simply described Jensen Huang’s relationship with the Chinese spy, an executive at a Singapore data center company named Alice Huang (no relation), as “a close relationship”. Reading between the lines, though — including the fact that Donald Trump, once briefed on the situation, decided to keep it quiet — it seemed pretty clear what the story was.</p>
 
 <div>
 <a  title="Permanent link to ‘Nvidia CEO Jensen Huang Was Banging a Chinese Spy, Who Was Feeding Information Back to Beijing’"  href="https://daringfireball.net/linked/2026/11/08/huang-chinese-honeypot">&nbsp;★&nbsp;</a>
