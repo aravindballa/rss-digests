@@ -7,7 +7,114 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-11-09T20:32:27Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-11-10T00:45:48Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Bloomberg Was Onto Megaspeed’s Game a Year Ago</title>
+	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/features/2025-12-22/nvidia-partner-megaspeed-draws-china-chip-smuggling-concerns-in-us" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xpu" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/09/bloomberg-megaspeed-year-ago" />
+	<id>tag:daringfireball.net,2026:/linked//6.43698</id>
+	<published>2026-11-09T23:46:17Z</published>
+	<updated>2026-11-10T00:45:48Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Mackenzie Hawkins, Andy Lin, and Kari Soo Lindberg, reporting for Bloomberg last year on December 22 (<a href="https://archive.ph/f3Id1">Archive.today link</a>):</p>
+
+<blockquote>
+  <p>In an industry run by titans, a Singapore AI firm called Megaspeed
+International Pte. is drawing an unusual amount of attention. In
+less than three years, the once-obscure spinoff of a Chinese
+gaming enterprise has evolved into the single largest Southeast
+Asian buyer of Nvidia Corp. chips — a rapid ascent that’s lifted
+hopes for a regional champion in the lucrative business of AI
+cloud computing.</p>
+
+<p>Now Megaspeed finds itself a focal point of Washington’s long-held
+fears about semiconductor smuggling into China, an issue of
+escalating concern among national security hawks despite Nvidia’s
+repeated <a href="https://www.bloomberg.com/news/articles/2025-05-17/nvidia-ceo-sees-no-evidence-of-ai-chip-diversion-into-china">assurances</a> that chip diversion doesn’t exist. [...]</p>
+
+<p>Nvidia, which conducts regular spot-checks of data centers around
+the world, told Bloomberg that it went to Megaspeed’s facilities
+multiple times to verify that there’s nothing untoward. “Our
+visits confirmed that the GPUs shipped to Megaspeed by our
+partners are where they are supposed to be,” an Nvidia
+spokesperson said in mid-November.</p>
+</blockquote>
+
+<p>It turns out these inspections were rather intimately thorough, conducted firsthand by Nvidia’s CEO Jensen Huang. Nothing untoward indeed.</p>
+
+<p>One of several questions I have: When did Jensen Huang break off the relationship with Alice Huang? I get the impression that the affair was still ongoing at least as recently as May, when <a href="https://daringfireball.net/linked/2026/11/09/rubio-huang-trump">the whole weird thing happened</a> with Huang being invited to join Trump’s envoy to Beijing mid-flight. It’s possible the affair was still ongoing until this weekend.</p>
+
+<p>But how can Jensen Huang defend continuing the affair even after Bloomberg was reporting the above last December?</p>
+
+<div>
+<a  title="Permanent link to ‘Bloomberg Was Onto Megaspeed’s Game a Year Ago’"  href="https://daringfireball.net/linked/2026/11/09/bloomberg-megaspeed-year-ago">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Short-Seller Culper Research Published Information on Jensen Huang’s Affair Back in May</title>
+	<link rel="alternate" type="text/html" href="https://culperresearch.com/wp-content/uploads/2026/05/Culper_NVDA_5-13-2026.pdf" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xpt" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/09/culper-research-huang-huang-report" />
+	<id>tag:daringfireball.net,2026:/linked//6.43697</id>
+	<published>2026-11-09T20:57:04Z</published>
+	<updated>2026-11-09T23:47:11Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Culper Research is a short-seller that published a report (<a href="https://culperresearch.com/wp-content/uploads/2026/05/Culper_NVDA_5-13-2026.pdf">PDF</a> and in <a href="https://x.com/CulperResearch/status/2054623784452120917">a thread on X</a>) in May alleging that Nvidia “had a China problem”. From the start of its report:</p>
+
+<blockquote>
+  <ul>
+<li><p>Nvidia claims that its business in China went to “zero” after
+April 2025 U.S. trade restrictions. We believe that in reality,
+over 20% of Nvidia’s FY 2026 compute revenues remained driven by
+China — supported both by illegal GPU diversion and Southeast
+Asian intermediaries.</p></li>
+<li><p>Nvidia has repeatedly vouched for Megaspeed — its single
+largest Southeast Asian chip buyer currently under investigation
+by both U.S. Commerce and Singapore authorities — as “wholly
+owned and operated by a company based and headquartered outside
+China, with no China shareholders.” Nvidia has also claimed that
+it has “repeatedly tested and sampled data centers around the
+world and found no diversion.” Documents we uncovered, however,
+suggest that Megaspeed has been secretly financed by Alibaba via
+a series of apparent shell companies. Tellingly, Nvidia’s
+lawyered phrasing — that Megaspeed holds no Chinese <em>equity</em> — doesn’t seem to preclude Chinese <em>financing</em>.</p></li>
+</ul>
+</blockquote>
+
+<p>From Culper’s report on X (replete with <a href="https://daringfireball.net/misc/2026/11/huang-huang-culper-report.png">another photo</a> of Huang and Huang alongside each other at a festive occasion):</p>
+
+<blockquote>
+  <p>$NVDA CEO Huang has walked alongside Megaspeed at every step, and
+seems to have a close relationship with Megaspeed’s Alice Huang.
+They partied together in June 2024 — same month as the
+Apex/Alibaba pledge, then dined together in May 2025 — just after
+U.S. trade restrictions.</p>
+
+<p>Per a current Megaspeed employee, “every single time” $NVDA’s CEO
+visits their facility, Alibaba reps come too. One former $NVDA
+employee told us that internally, Nvidia employees speculated as
+to the seemingly special nature of the relationship with Jensen.</p>
+</blockquote>
+
+<p>The jig was clearly up back in May. Short-sellers were hinting at the affair, and the CIA obviously knew about it. That was the time for Jensen Huang to get on top of the story. At that point it was certain that the details were going to come out. The only question was if the details would come out on Huang’s terms or someone else’s.</p>
+
+<p>Remember back in 2019 <a href="https://daringfireball.net/linked/2019/02/07/bezos-national-enquirer">when the National Enquirer tried to blackmail Jeff Bezos</a>, who at the time was having an affair with Lauren Sanchez (now his second wife), unbeknownst to MacKenzie Scott (now his ex-wife)? Huang should have done something more like that. Instead, he allowed Nvidia spokespeople to make fools of themselves lying on his behalf.</p>
+
+<div>
+<a  title="Permanent link to ‘Short-Seller Culper Research Published Information on Jensen Huang’s Affair Back in May’"  href="https://daringfireball.net/linked/2026/11/09/culper-research-huang-huang-report">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>Tesla Brain Drain</title>
 	<link rel="alternate" type="text/html" href="https://electrek.co/2026/11/09/tesla-deep-bench-gone-musk-admits-talent-shortage/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xps" />
@@ -48,13 +155,13 @@ at the time.</p>
 
 	]]></content>
   </entry><entry>
-	<title>Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy - the New York Times</title>
+	<title>Rubio Warned Officials About Jensen Huang’s Affair With a Chinese Spy</title>
 	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html?unlocked_article_code=1.PFE.dLW7.D8C1YUYhNooj" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xpr" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/09/rubio-huang-trump" />
 	<id>tag:daringfireball.net,2026:/linked//6.43695</id>
 	<published>2026-11-09T17:47:22Z</published>
-	<updated>2026-11-09T18:50:21Z</updated>
+	<updated>2026-11-10T00:43:06Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -118,7 +225,7 @@ chips into China.</p>
 <p>If true, this is politically damaging to both Nvidia and Huang personally, but the context is that Nvidia booked over $300 billion in revenue over the last year.</p>
 
 <div>
-<a  title="Permanent link to ‘Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy - the New York Times’"  href="https://daringfireball.net/linked/2026/11/09/rubio-huang-trump">&nbsp;★&nbsp;</a>
+<a  title="Permanent link to ‘Rubio Warned Officials About Jensen Huang’s Affair With a Chinese Spy’"  href="https://daringfireball.net/linked/2026/11/09/rubio-huang-trump">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
@@ -129,7 +236,7 @@ chips into China.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/08/huang-betrayed-nvidia" />
 	<id>tag:daringfireball.net,2026:/linked//6.43694</id>
 	<published>2026-11-08T23:56:32Z</published>
-	<updated>2026-11-09T00:06:21Z</updated>
+	<updated>2026-11-09T23:46:51Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -2100,89 +2207,6 @@ threads it might find.</p>
 
 <div>
 <a  title="Permanent link to ‘The NYT Seemingly Does Marissa Mayer Dirty’"  href="https://daringfireball.net/linked/2026/10/26/mayer-dazzle">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Apple Issues Statement on iPhone Duo’s Crack Problem</title>
-	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xok" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/26/apple-statement-duo-crack" />
-	<id>tag:daringfireball.net,2026:/linked//6.43652</id>
-	<published>2026-10-27T00:54:26Z</published>
-	<updated>2026-10-27T00:54:27Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Chance Miller, 9to5Mac:</p>
-
-<blockquote>
-  <p>Here is Apple’s full statement:</p>
-
-<blockquote>
-  <p>The response to iPhone Duo from early users has been incredibly
-positive, and we are seeing exciting things from developers who
-are rapidly updating their apps to take advantage of its unique
-form factor. We are aware of an issue impacting the inner display
-on a small number of iPhone Duo units. If users experience issues
-with their iPhone Duo display, they should contact AppleCare for
-a replacement.</p>
-</blockquote>
-
-<p>The company says the problem affects a very small number of iPhone
-Duo units and appears to surface relatively quickly. Most iPhone
-Duo units are not affected. You do not need AppleCare+ to have
-your iPhone Duo replaced for this problem. If you bought from a
-carrier, you should contact AppleCare directly, not your carrier,
-to get your device replaced.</p>
-</blockquote>
-
-<p>Did it cross Ternus’s mind to just say “You’re folding it wrong?”</p>
-
-<p>(History doesn’t repeat, and in this case, it actually doesn’t even rhyme. Steve Jobs never told anyone they were “holding it wrong” with the iPhone 4 — <a href="https://www.macrumors.com/2010/06/24/steve-jobs-describes-iphone-4-signal-strength-a-non-issue/">he emailed a customer</a>, “Just avoid holding it in that way.” But <a href="https://www.cnn.com/2010/TECH/mobile/06/25/iphone.problems.response/index.html">CNN went with the headline</a> “Apple on iPhone Complaints: You’re Holding It Wrong” and that’s the line everyone wrongly remembers.)</p>
-
-<div>
-<a  title="Permanent link to ‘Apple Issues Statement on iPhone Duo’s Crack Problem’"  href="https://daringfireball.net/linked/2026/10/26/apple-statement-duo-crack">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Glenn Fleishman on Apple Notes and Markdown</title>
-	<link rel="alternate" type="text/html" href="https://sixcolors.com/post/2026/10/why-notes-will-never-let-us-edit-markdown/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xoj" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/10/26/fleishman-apple-notes-markdown" />
-	<id>tag:daringfireball.net,2026:/linked//6.43651</id>
-	<published>2026-10-26T21:03:53Z</published>
-	<updated>2026-10-26T21:06:56Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Glenn Fleishman, writing at Six Colors, “Why Notes Will Never Let Us Edit Markdown”:</p>
-
-<blockquote>
-  <p>The Notes app added Markdown import and export in the version 26
-operating system releases, and the macOS 27 Golden Gate update
-lets us copy and paste as Markdown. Why can’t we just write
-natively in that hoary, simple format?</p>
-
-<p>I use Markdown all day, every day. In fact, I’m writing these
-words in Markdown without you even knowing it. All
-content-management systems (CMSes) I’m aware of support native
-Markdown entries when posting, and many writing and
-note-taking apps integrate Markdown conventions without
-needing to trumpet them.</p>
-</blockquote>
-
-<p>Fleishman not only ably describes why Apple Notes <em>doesn’t</em> support editing in Markdown syntax, but also why it <em>shouldn’t</em>. It is correct for Notes only to natively support WYSIWYG editing. Normal users should never ever be exposed to formatting codes. Also, Markdown, as a language, can be malformed. It should be impossible for users to create a malformed note in Notes. If you could edit in Markdown in Notes, you could create malformed notes. That’s just gross. I can say that. Markdown isn’t for everyone. And even for me — <a href="https://daringfireball.net/2004/03/dive_into_markdown">Markdown’s creator</a> — I don’t want it in Notes, which is the notes app I use.</p>
-
-<p>I think Apple has done a really good job in the last few years adding import/export and copy/paste support for Markdown to Notes. That’s the right way for Notes to support Markdown. My biggest complaint with Notes’s recent Markdown support — as noted by Fleishman — is that most of these features are only on the Mac, not iOS.</p>
-
-<div>
-<a  title="Permanent link to ‘Glenn Fleishman on Apple Notes and Markdown’"  href="https://daringfireball.net/linked/2026/10/26/fleishman-apple-notes-markdown">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
