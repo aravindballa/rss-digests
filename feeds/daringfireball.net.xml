@@ -7,7 +7,307 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-11-15T17:21:24Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-11-16T23:09:05Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Developers Continue to Optimize iPhone Apps for the Duo</title>
+	<link rel="alternate" type="text/html" href="https://x.com/arinwaichulis/status/2122397676767522942" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xr4" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/16/joz-duo-apps" />
+	<id>tag:daringfireball.net,2026:/linked//6.43744</id>
+	<published>2026-11-16T23:09:05Z</published>
+	<updated>2026-11-16T23:09:05Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Greg Joswiak on X:</p>
+
+<blockquote>
+  <p>Over 200,000 apps are now optimized for iPhone Duo! That number
+DOUBLED in just over a week.</p>
+</blockquote>
+
+<p>I’m back on my Duo review unit to test the new face unlock feature, and I’ve already noticed more apps are Duo optimized. Oddly enough, the first one I checked that still isn’t Duo-optimized is Apple’s own <a href="https://apps.apple.com/us/app/apple-store/id375380948">Apple Store app</a>, which was last updated 3 months ago. Weird.</p>
+
+<div>
+<a  title="Permanent link to ‘Developers Continue to Optimize iPhone Apps for the Duo’"  href="https://daringfireball.net/linked/2026/11/16/joz-duo-apps">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Irish Goodbye / French Leave / Leave the English Way</title>
+	<link rel="alternate" type="text/html" href="https://terriblemaps.co.uk/leaving-a-party-without-saying-goodbye/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xr3" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/16/irish-goodbye" />
+	<id>tag:daringfireball.net,2026:/linked//6.43743</id>
+	<published>2026-11-16T22:55:38Z</published>
+	<updated>2026-11-16T22:57:47Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Over the weekend <a href="https://daringfireball.net/linked/2026/11/15/legion-of-pcast">I speculated</a> that Apple, Microsoft, and Amazon and have “made their Irish goodbyes” from the Trump 2.0 administration (including having no representatives on the David Sacks-led <a href="https://www.whitehouse.gov/ostp/presidents-council-of-advisors-on-science-and-technology/">PCAST</a>). I <a href="https://pdx.social/@nedley/117623491685583828">learned today</a> that what we Americans call an “Irish goodbye” is called a “French leave” in the U.K., and “leaving the English way” in France. The rest of Europe is split between those two, but only Americans and Canadians call it an “Irish goodbye”. (And, somehow, the Germans call it “doing a Polish one”, which is not what I would guess that phrase means.)</p>
+
+<p>Anyway, I’ve got one friend who is an absolute master of the Irish goodbye. He never  says goodnight or goodbye from a group gathering. He always just disappears. And even when you know he’s going to do it, and you start keeping an eye on him to catch him in the act, the fucker slips away every time. I find it delightful, not rude.</p>
+
+<div>
+<a  title="Permanent link to ‘Irish Goodbye / French Leave / Leave the English Way’"  href="https://daringfireball.net/linked/2026/11/16/irish-goodbye">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>MacOS Golden Gate 27.3b2 Includes New Privacy Controls for Full Disk Access (and More)</title>
+	<link rel="alternate" type="text/html" href="https://9to5mac.com/2026/11/16/macos-27-3-includes-new-privacy-controls-for-full-disk-access-and-more/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xr2" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/16/macos-27-full-disk-access" />
+	<id>tag:daringfireball.net,2026:/linked//6.43742</id>
+	<published>2026-11-16T20:27:34Z</published>
+	<updated>2026-11-16T20:58:50Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p><a href="https://daringfireball.net/2026/10/apple_full_disk_access">Remember a month ago</a> when Apple announced, <a href="https://developer.apple.com/news/?id=p6zjojqw">without any significant detail</a>, that they would be changing the permission-granting UI for Full Disk Access to “introduce additional controls to ensure that users who genuinely wish to grant an app this extraordinary level of access can only do so with very explicit user action”? It’s launching today in developer beta 2 of MacOS 27.3. Chance Miller has a great overview at 9to5Mac:</p>
+
+<blockquote>
+  <p>In macOS 27.2, “Device Control and Data Access” is a unified
+toggle in System Settings, where Apple says that apps with that
+level of access can “view and send email, edit contacts and
+photos, monitor your keyboard, track websites, record your screen,
+control any app on your Mac, and more.”</p>
+
+<p>In macOS 27.3, Apple is splitting “Device Control and Data Access”
+into two categories:</p>
+
+<ul>
+<li><p>Accessibility: Intended specifically for assistive technologies,
+with permissions handled through an entitlement process.</p></li>
+<li><p>System and App Protection Override: A new category for apps that
+need to bypass certain macOS protections to control other apps
+or perform automated tasks.</p></li>
+</ul>
+
+<p>For the latter, users will be able to specify which apps an
+automation tool can access rather than granting it unrestricted
+control. For instance, you could give an app access to the Mail
+app, but not Messages.</p>
+
+<p>macOS 27.3 also adds an option for users to require an app to
+request permission every time it requires access, rather than
+granting it access indefinitely.</p>
+
+<p>Apple is also introducing a new menu bar indicator that will
+provide additional transparency when an app is controlling another
+app with System and App Protection Override. This is designed to
+let users know when an automation tool is interacting with apps
+and information in the background.</p>
+</blockquote>
+
+<p>I’m installing it now, but from what I’ve seen so far, these changes not only alleviate my concerns that Apple might over-tighten the screws, I actually think they add clarity and give users <em>more</em>, not less, control over their Macs.</p>
+
+<div>
+<a  title="Permanent link to ‘MacOS Golden Gate 27.3b2 Includes New Privacy Controls for Full Disk Access (and More)’"  href="https://daringfireball.net/linked/2026/11/16/macos-27-full-disk-access">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>‘Unlock With Front Camera’ — New Feature for iPhone Duo in iOS 27.3 Beta 2</title>
+	<link rel="alternate" type="text/html" href="https://www.macrumors.com/2026/11/16/iphone-duo-face-unlock/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xr1" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/16/duo-unlock-with-front-camera" />
+	<id>tag:daringfireball.net,2026:/linked//6.43741</id>
+	<published>2026-11-16T19:22:38Z</published>
+	<updated>2026-11-16T19:22:39Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Juli Clover, MacRumors:</p>
+
+<blockquote>
+  <p>Apple today added a new option for unlocking the iPhone Duo using
+the front-facing camera, giving device users multiple ways to
+access their content. The feature is available in the second iOS
+27.3 beta.</p>
+
+<p>The option to unlock with facial recognition is only available on
+the Lock Screen, and authentication via Touch ID is still needed
+for Apple Pay purchases, adding passwords and logins, and more.
+Unlocking with the camera requires a recent Touch ID or passcode
+authentication, and Touch ID is required again after about 45
+minutes of inactivity.</p>
+</blockquote>
+
+<p>This is a much-needed compromise for the lack of Face ID. Good to see Apple adapting quickly to real-world feedback.</p>
+
+<p>There’s also another new Duo feature in 27.3 beta 2: Settings → Display &amp; Brightness → Close to Lock. Turn that on and the Duo locks when you fold it — like, as I wrote <a href="https://daringfireball.net/2026/10/the_iphone_duo">in my review</a>, putting down a book.</p>
+
+<div>
+<a  title="Permanent link to ‘‘Unlock With Front Camera’ — New Feature for iPhone Duo in iOS 27.3 Beta 2’"  href="https://daringfireball.net/linked/2026/11/16/duo-unlock-with-front-camera">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Ben Thompson on Nvidia</title>
+	<link rel="alternate" type="text/html" href="https://stratechery.com/2026/obituaries/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xr0" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/16/ben-thompson-on-nvidia" />
+	<id>tag:daringfireball.net,2026:/linked//6.43740</id>
+	<published>2026-11-16T18:44:02Z</published>
+	<updated>2026-11-16T20:22:05Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Ben Thompson at Stratechery:</p>
+
+<blockquote>
+  <p>This led to what I termed <a href="https://stratechery.com/2026/nvidias-risky-business/">Nvidia’s Risky Business</a>: Nvidia
+increasingly used its cash flow and credit rating to backstop and
+fund the companies who were buying its chips. Bears called this
+circular financing; bulls called it a necessary bridge to a future
+where AI revenue paid down these companies’ debt and drove massive
+upside. What is undoubtedly true is that this was the sort of
+risky business that is uniquely possible for a multi-trillion
+dollar company that is completely controlled by one man, who has
+made an entire career of pushing the limits and making risky bets — and seeing them pay off.</p>
+
+<p>It’s also a series of bets that are unlikely to continue. The
+neoclouds should be very nervous about losing their patron, along
+with their creditors and equity holders. The other problem is
+that the revenue necessary to make all of this build-out work is
+something on the order of a trillion dollars industry-wide, and
+it needs to materialize sooner rather than later; if it falls
+short, it’s the hyperscalers who will prioritize their own
+compute first, and they will likely be seen as a safe haven for
+everyone committing to spending. In that world, Nvidia’s neocloud
+hedge — absent Huang’s willingness to shore the ecosystem up — is liable to turn into a millstone, with their assets flooding
+the market even as the supply chain ramp-up brings ever more
+supply to market.</p>
+</blockquote>
+
+<p>This Nvidia crisis has made me think a lot about an item I recently posted, purely by coincidence: <a href="https://daringfireball.net/linked/2026/10/16/munger-on-musk">Charlie Munger’s 2020 take on Elon Musk and Tesla</a>: “My thoughts are two. I would never buy it, and I would never sell it short.”</p>
+
+<p>Munger used “it” in both clauses, but I think for the second one, what he really meant was that he wouldn’t short <em>him</em>. That he wouldn’t want to own Tesla stock (which, even today, trades at an absurd P/E ratio over 400), but he wouldn’t want to bet against Elon Musk.</p>
+
+<p>I think the same thing is true for Nvidia. Nvidia in recent years made a lot of bets that investors normally wouldn’t back; but investors were willing to back Jensen Huang. Now Nvidia, the company, is left holding those risky bets and they don’t have Huang, the man, to make those bets feel like winners. I think investors are already looking at this very differently, and it’s why so many copium addicts are <a href="https://www.wsj.com/tech/the-campaign-to-bring-back-jensen-huang-as-nvidia-ceo-e91b0b2c?st=UZc78o">wailing like big babies</a> about bringing Jensen back. <a href="https://x.com/dhh/status/2121987209796452590">Denial</a> is the hardest stage of grief to move past.</p>
+
+<div>
+<a  title="Permanent link to ‘Ben Thompson on Nvidia’"  href="https://daringfireball.net/linked/2026/11/16/ben-thompson-on-nvidia">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>WSJ: ‘Nvidia’s Days as an Open Checkbook for the AI Economy Are Numbered’</title>
+	<link rel="alternate" type="text/html" href="https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xqz" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/16/nvidia-checkbook" />
+	<id>tag:daringfireball.net,2026:/linked//6.43739</id>
+	<published>2026-11-16T17:37:48Z</published>
+	<updated>2026-11-16T17:37:48Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Robbie Whelan, Anissa Gardizy, Kate Clark, reporting for The Wall Street Journal:</p>
+
+<blockquote>
+  <p>In his final months as chief executive of Nvidia, Jensen Huang
+was laying the groundwork to pull back the company’s approach to
+backstopping the AI economy.</p>
+
+<p>Now, with a finance chief at the helm who was already wary of some
+deals the ousted chief forged, the startups who had been counting
+on Nvidia’s support expect an even greater pullback.</p>
+
+<p>Just last month, the CEOs of emerging cloud companies that buy
+Nvidia chips and rent out computing power gathered in Berlin for
+Nvidia’s premier European artificial-intelligence conference. In a
+talk that surprised some, Huang’s message was clear: Nvidia’s days
+as an open checkbook were over.</p>
+</blockquote>
+
+<p>This makes sense. But how does this jibe with Nvidia moving forward on closing their preposterous $13 billion acquisition of Hugging Face, which <a href="https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/">Jensen Huang personally announced on September 3</a>? That acquisition epitomizes Nvidia’s role as the “open checkbook” for the entire AI industry. In August, just before the acquisition was announced, <a href="https://www.theinformation.com/briefings/exclusive-hugging-face-annualized-revenue-jumps-50-150-million/">The Information reported</a> that Hugging Face’s annual revenue was just $150 million. Typical SaaS companies have valuations around 10× annual revenue. Let’s say Hugging Face is so super duper special that they justify 20×. That’s $3 billion. (I do not think Hugging Face is super duper special.) $13 billion is closer to 100×, which is stupid.</p>
+
+<p>If the Huang era is over, Nvidia should unwind this deal.</p>
+
+<div>
+<a  title="Permanent link to ‘WSJ: ‘Nvidia’s Days as an Open Checkbook for the AI Economy Are Numbered’’"  href="https://daringfireball.net/linked/2026/11/16/nvidia-checkbook">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Oprah Gives Everyone in Her Audience a ‘Duo iPhone’</title>
+	<link rel="alternate" type="text/html" href="https://youtu.be/j0Rsv1U3Q7A" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xqy" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/16/oprah-duos" />
+	<id>tag:daringfireball.net,2026:/linked//6.43738</id>
+	<published>2026-11-16T16:05:18Z</published>
+	<updated>2026-11-16T16:05:19Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>The Oprah Podcast:</p>
+
+<blockquote>
+  <p>In a special holiday episode Oprah brings back one of her
+legendary traditions with a live audience: ‘Oprah’s Favorite
+Things!’ Celebrating the 30th anniversary of the iconic list,
+Oprah surprises an unsuspecting audience full of caregivers with
+her must-have gifts for the season. From nurses, hospice workers,
+EMT’s, firefighters to parents caring for a child with special
+needs Oprah honors their stories and the compassion they show to
+others every day.</p>
+</blockquote>
+
+<p>Skip to the end, <a href="https://www.youtube.com/watch?v=j0Rsv1U3Q7A&amp;list=PLxJIo31qx92CU08Zy1CW-OuCK0-v5ppJH&amp;index=1&amp;t=3720s">1h:02m</a>, for the Duos. The crowd goes bananas.</p>
+
+<div>
+<a  title="Permanent link to ‘Oprah Gives Everyone in Her Audience a ‘Duo iPhone’’"  href="https://daringfireball.net/linked/2026/11/16/oprah-duos">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Robert Pattinson Is the Next James Bond</title>
+	<link rel="alternate" type="text/html" href="https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xqx" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/16/pattinson-robert-pattinson" />
+	<id>tag:daringfireball.net,2026:/linked//6.43737</id>
+	<published>2026-11-16T15:36:52Z</published>
+	<updated>2026-11-16T15:40:42Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Variety:</p>
+
+<blockquote>
+  <p>It’s Pattinson, Robert Pattinson.</p>
+
+<p>The “Batman” and “Odyssey” star has officially been cast as the
+next James Bond, ending months of rabid speculation about which
+young actor Amazon MGM and director Denis Villeneuve would hand
+the keys to the Aston Martin.</p>
+</blockquote>
+
+<p>Solid choice. I endorse. Let’s not cock it up, Villeneuve.</p>
+
+<p><a href="https://www.bbc.com/news/live/ckg5j69ndv2vt">BBC News has full court press coverage</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘Robert Pattinson Is the Next James Bond’"  href="https://daringfireball.net/linked/2026/11/16/pattinson-robert-pattinson">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>The Legion of PCAST</title>
 	<link rel="alternate" type="text/html" href="https://www.whitehouse.gov/ostp/presidents-council-of-advisors-on-science-and-technology/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xqw" />
@@ -1276,218 +1576,6 @@ details.</p>
 
 	]]></content>
   </entry><entry>
-	<title>Steven Levy on John Ternus</title>
-	<link rel="alternate" type="text/html" href="https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xq0" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/10/levy-on-ternus" />
-	<id>tag:daringfireball.net,2026:/linked//6.43704</id>
-	<published>2026-11-10T16:32:26Z</published>
-	<updated>2026-11-10T16:33:03Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Steven Levy at Wired, in a terrific post-event follow-up to his exclusive early look at the new MacBook Pros (<a href="https://apple.news/AzfuovlZARN2bha2V8pcsNA">News+ link</a>):</p>
-
-<blockquote>
-  <p>I first met Ternus in 2015, when I spent a day with him at Apple’s
-Input Design Lab, a testing facility in Cupertino. He’d risen to
-VP for Mac, iPad, Ecosystem, and Audio Engineering, and he struck
-me as affable and knowledgeable. (He spent four years right out of
-college at a virtual reality company, but he’s been at Apple ever
-since.) The peg to my story at the time was how this unknown
-manager conducted a Javert-like investigation to fix the weird
-sound a redesigned mouse made when sliding on a table.</p>
-
-<p>That attention to detail was a legacy of Jobs’ perfectionism,
-which Tim Cook sustained as the next CEO. In the decade when
-Ternus overlapped with Jobs, he says he had only “a handful of
-interactions” with the founder. “But I’ve always felt like sort of
-a student of Steve’s teachings,” Ternus said. “And then being able
-to work very closely with Tim, I’ve been very lucky.” [...]</p>
-
-<p>The extent to which Ternus is a deep Apple insider became clear
-when I probed him on his views on being a corporate leader. I
-asked him which non-Apple CEOs he admires, and he was stumped. “I
-haven’t really thought about that,” he said. I asked whether any
-business books had an impact on him. “Not really,” he said. “Of
-course I’ve read books, but there’s so much to be learned from the
-people I get to work with.” Indeed, every time I tried to pin down
-Ternus on what mark he wants to make at Apple, he deflected the
-question and told me how he will continue Apple’s commitment to
-internal collaboration.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘Steven Levy on John Ternus’"  href="https://daringfireball.net/linked/2026/11/10/levy-on-ternus">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>OurCal</title>
-	<link rel="alternate" type="text/html" href="https://ourcal.com/?utm_source=daringfireball&amp;utm_medium=sponsorship&amp;utm_content=post-thankyou" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xpz" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/10/ourcal" />
-	<id>tag:daringfireball.net,2026:/linked//6.43703</id>
-	<published>2026-11-10T15:15:17Z</published>
-	<updated>2026-11-10T15:15:17Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>My thanks to OurCal for sponsoring last week at DF. You ever have a discussion that starts with “I didn’t see you put that on the calendar”? Could be with your colleagues, could be with your family. But the problem is familiar: Shared calendars solved scheduling, not communication.</p>
-
-<p>OurCal connects any calendar, new or existing, to a group chat. Changes post there automatically, so nobody misses them. Because it’s a messenger, they made everything end-to-end encrypted, certified by France’s cybersecurity agency.</p>
-
-<p>OurCal is native SwiftUI across Apple’s platforms, and the App Store just featured it in “Great apps on iPhone Duo”. They’ve got an Android app too, but they’re an Apple-first company. It’s really well done. Even the app icon is <em>chef’s kiss</em>.</p>
-
-<p>OurCal is free to try, then a low monthly group subscription. No ads, no tracking.</p>
-
-<div>
-<a  title="Permanent link to ‘OurCal’"  href="https://daringfireball.net/linked/2026/11/10/ourcal">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Safari 27.3 Adds Support for Global Privacy Control</title>
-	<link rel="alternate" type="text/html" href="https://pxlnv.com/linklog/safari-global-privacy-control/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xpy" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/10/safari-global-privacy-control" />
-	<id>tag:daringfireball.net,2026:/linked//6.43702</id>
-	<published>2026-11-10T14:47:10Z</published>
-	<updated>2026-11-10T14:47:10Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Nick Heer, Pixel Envy:</p>
-
-<blockquote>
-  <p>There are a whole bunch of features and fixes coming to Safari
-with Apple’s OS 27.3 update. One that is not in the <a href="https://developer.apple.com/documentation/safari-release-notes/safari-27_3-release-notes">beta release
-notes</a> but appears nevertheless is support for <a href="https://en.wikipedia.org/wiki/Global_Privacy_Control#Legal_status">Global
-Privacy Control</a>. This new standard is effectively a
-<a href="https://pxlnv.com/linklog/rip-dnt-firefox/">replacement for Do Not Track</a> with legal muscle that
-<a href="https://pxlnv.com/linklog/webxray-opt-out-audit/">should</a> permit you to indicate your tracking preference
-one time and then, theoretically, never again see a cookie
-consent banner.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘Safari 27.3 Adds Support for Global Privacy Control’"  href="https://daringfireball.net/linked/2026/11/10/safari-global-privacy-control">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>‘A Scandal at the Center of the Economy’</title>
-	<link rel="alternate" type="text/html" href="https://www.theatlantic.com/technology/2026/11/jensen-huang-chinese-spy/689357/?gift=aQyUJR7AIw1mJWdQ6Ed6yPI8n1FlV88MR9f9IZruvFA&amp;" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xpw" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/10/scandal-at-the-center-of-the-economy" />
-	<id>tag:daringfireball.net,2026:/linked//6.43700</id>
-	<published>2026-11-10T14:36:18Z</published>
-	<updated>2026-11-10T14:36:43Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Charlie Warzel, writing for The Atlantic (gift link):</p>
-
-<blockquote>
-  <p>It is curious, then, that, as news came out that the Nvidia CEO,
-Jensen Huang, had had a romantic relationship with a Chinese
-businesswoman who was also an asset of Beijing’s Ministry of State
-Security, notable factions of Silicon Valley and Washington, D.C.,
-seemed nonplussed. “Even incredible humans make mistakes,” Bill
-Ackman, the billionaire hedge-fund manager, <a href="https://x.com/BillAckman/status/2119535982999748830">posted</a> on X
-yesterday. “We should all support him and his family. Onward.” The
-venture capitalist Shaun Maguire <a href="https://x.com/shaunmmaguire/status/2119560017624158265">offered</a> a five-point
-analysis of Huang’s situation, noting that the CEO did something
-“incredibly dumb” and “bad for America,” but that “my guess is
-there was no bad intention.” He then argued, “I believe Jensen is
-irreplaceable for America’s AI leadership.” Elon Musk agreed. From
-there, the posts, written before we know all the facts of the
-scandal, got only more <a href="https://x.com/nikitabier/status/2119546515404554613?a=f64k7FpICXhH7V1BfLc&amp;s=20">absurd</a>, including
-<a href="https://x.com/techleadhd/status/2119574905159286985">defending</a> Huang’s affair on the grounds that his kids are
-adults now. [...]</p>
-
-<p>Huang’s thinking on issues such as AI doomerism (he’s anti-doom)
-and chip allocation in China (he’s for it — a position that
-warrants examining, given this weekend’s revelations) influences
-U.S. policy. This <a href="https://www.instagram.com/reel/DfhRrVWinGI/?obrf=MTI0OGtuc2V4YW1pdA==">centrality</a> is why one tech analyst on
-CNBC this morning implied that replacing Huang was a comical
-suggestion. Huang is a singular figure: the linchpin of the
-company that is arguably the linchpin of the American economy.
-Framed another way, Nvidia has much of the financial system in a
-hostage situation. Huang is too big to fail. Which may be why so
-many people seem motivated to downplay or protect him right now.</p>
-</blockquote>
-
-<p><a href="https://quoteinvestigator.com/2011/11/21/graveyards-full/">Elbert Hubbard</a>: “The graveyards are full of people the world could not do without.”</p>
-
-<div>
-<a  title="Permanent link to ‘‘A Scandal at the Center of the Economy’’"  href="https://daringfireball.net/linked/2026/11/10/scandal-at-the-center-of-the-economy">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Name-Dropped Trump Appointee</title>
-	<link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html?unlocked_article_code=1.PVE.GxBL.iBpBoc8Y4tnb" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xpx" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/10/commerce-dept-investigation" />
-	<id>tag:daringfireball.net,2026:/linked//6.43701</id>
-	<published>2026-11-10T14:35:38Z</published>
-	<updated>2026-11-10T15:55:14Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Ana Swanson and Devlin Barrett, reporting yesterday for The New York Times (gift link):</p>
-
-<blockquote>
-  <p>Investigators at the Commerce Department were deep into a
-monthslong investigation of a Singaporean company that they
-suspected of smuggling Nvidia’s artificial intelligence chips
-into China when their work came to a sudden halt late last year.
-The investigation centered on Megaspeed, a data center company
-led by an executive who U.S. officials now believe to be a
-Chinese spy who had a relationship with Nvidia’s chief executive,
-Jensen Huang.</p>
-
-<p>But the case was abruptly transferred to the Justice Department
-last year. The shift came after Commerce Department investigators
-working on the case received an email from Nvidia’s general
-counsel seeking information about the inquiry into Megaspeed.</p>
-
-<p>It is not necessarily unusual for Commerce Department agents
-working on a case to speak with a company’s representatives about
-issues involving their firm. But what was unusual was the content
-of the message. Tim Teter, Nvidia’s general counsel, said that
-Jeff Kessler, a top official at the department, had given Nvidia
-permission to reach out about the case.</p>
-
-<p>The agents were alarmed that Nvidia had invoked the name of Mr.
-Kessler, their superior, who was nominated to his role by
-President Trump. Some viewed Mr. Kessler’s interaction with Nvidia
-as violating government procedure and potentially tainting the
-case, according to current and former government officials and
-others familiar with the incident.</p>
-</blockquote>
-
-<p>“Nice job you have there. Be a shame if something happened to it.”</p>
-
-<p>If this is as abjectly corrupt as it sounds, it seems indefensible — and Congressional oversight investigations are now inevitable with both the House and Senate in Democratic hands. This isn’t just pocket-stuffing corruption — it’s a national security issue.</p>
-
-<div>
-<a  title="Permanent link to ‘U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Name-Dropped Trump Appointee’"  href="https://daringfireball.net/linked/2026/11/10/commerce-dept-investigation">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://www.workos.com/airlock?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026" />
 	<link rel="shorturl" href="http://df4.us/xpv" />
@@ -1509,153 +1597,6 @@ others familiar with the incident.</p>
 
 	]]></content>
 	<title>[Sponsor] WorkOS: Let Agents Use Your Tools Without Giving Them Free Rein</title></entry><entry>
-	<title>Bloomberg Was Onto Megaspeed’s Game a Year Ago</title>
-	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/features/2025-12-22/nvidia-partner-megaspeed-draws-china-chip-smuggling-concerns-in-us" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xpu" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/09/bloomberg-megaspeed-year-ago" />
-	<id>tag:daringfireball.net,2026:/linked//6.43698</id>
-	<published>2026-11-09T23:46:17Z</published>
-	<updated>2026-11-10T00:45:48Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Mackenzie Hawkins, Andy Lin, and Kari Soo Lindberg, reporting for Bloomberg last year on December 22 (<a href="https://archive.ph/f3Id1">Archive.today link</a>):</p>
-
-<blockquote>
-  <p>In an industry run by titans, a Singapore AI firm called Megaspeed
-International Pte. is drawing an unusual amount of attention. In
-less than three years, the once-obscure spinoff of a Chinese
-gaming enterprise has evolved into the single largest Southeast
-Asian buyer of Nvidia Corp. chips — a rapid ascent that’s lifted
-hopes for a regional champion in the lucrative business of AI
-cloud computing.</p>
-
-<p>Now Megaspeed finds itself a focal point of Washington’s long-held
-fears about semiconductor smuggling into China, an issue of
-escalating concern among national security hawks despite Nvidia’s
-repeated <a href="https://www.bloomberg.com/news/articles/2025-05-17/nvidia-ceo-sees-no-evidence-of-ai-chip-diversion-into-china">assurances</a> that chip diversion doesn’t exist. [...]</p>
-
-<p>Nvidia, which conducts regular spot-checks of data centers around
-the world, told Bloomberg that it went to Megaspeed’s facilities
-multiple times to verify that there’s nothing untoward. “Our
-visits confirmed that the GPUs shipped to Megaspeed by our
-partners are where they are supposed to be,” an Nvidia
-spokesperson said in mid-November.</p>
-</blockquote>
-
-<p>It turns out these inspections were rather intimately thorough, conducted firsthand by Nvidia’s CEO Jensen Huang. Nothing untoward indeed.</p>
-
-<p>One of several questions I have: When did Jensen Huang break off the relationship with Alice Huang? I get the impression that the affair was still ongoing at least as recently as May, when <a href="https://daringfireball.net/linked/2026/11/09/rubio-huang-trump">the whole weird thing happened</a> with Huang being invited to join Trump’s envoy to Beijing mid-flight. It’s possible the affair was still ongoing until this weekend.</p>
-
-<p>But how can Jensen Huang defend continuing the affair even after Bloomberg was reporting the above last December?</p>
-
-<div>
-<a  title="Permanent link to ‘Bloomberg Was Onto Megaspeed’s Game a Year Ago’"  href="https://daringfireball.net/linked/2026/11/09/bloomberg-megaspeed-year-ago">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Short-Seller Culper Research Published Information on Jensen Huang’s Affair Back in May</title>
-	<link rel="alternate" type="text/html" href="https://culperresearch.com/wp-content/uploads/2026/05/Culper_NVDA_5-13-2026.pdf" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xpt" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/09/culper-research-huang-huang-report" />
-	<id>tag:daringfireball.net,2026:/linked//6.43697</id>
-	<published>2026-11-09T20:57:04Z</published>
-	<updated>2026-11-10T17:29:51Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Culper Research is a short-seller that published a report (<a href="https://culperresearch.com/wp-content/uploads/2026/05/Culper_NVDA_5-13-2026.pdf">PDF</a> and in <a href="https://x.com/CulperResearch/status/2054623784452120917">a thread on X</a>) in May alleging that Nvidia “had a China problem”. From the start of its report:</p>
-
-<blockquote>
-  <ul>
-<li><p>Nvidia claims that its business in China went to “zero” after
-April 2025 U.S. trade restrictions. We believe that in reality,
-over 20% of Nvidia’s FY 2026 compute revenues remained driven by
-China — supported both by illegal GPU diversion and Southeast
-Asian intermediaries.</p></li>
-<li><p>Nvidia has repeatedly vouched for Megaspeed — its single
-largest Southeast Asian chip buyer currently under investigation
-by both U.S. Commerce and Singapore authorities — as “wholly
-owned and operated by a company based and headquartered outside
-China, with no China shareholders.” Nvidia has also claimed that
-it has “repeatedly tested and sampled data centers around the
-world and found no diversion.” Documents we uncovered, however,
-suggest that Megaspeed has been secretly financed by Alibaba via
-a series of apparent shell companies. Tellingly, Nvidia’s
-lawyered phrasing — that Megaspeed holds no Chinese <em>equity</em> — doesn’t seem to preclude Chinese <em>financing</em>.</p></li>
-</ul>
-</blockquote>
-
-<p>From Culper’s report on X (replete with <a href="https://daringfireball.net/misc/2026/11/huang-huang-culper-report.png">another photo</a> of Huang and Huang alongside each other at a festive occasion):</p>
-
-<blockquote>
-  <p>$NVDA CEO Huang has walked alongside Megaspeed at every step, and
-seems to have a close relationship with Megaspeed’s Alice Huang.
-They partied together in June 2024 — same month as the
-Apex/Alibaba pledge, then dined together in May 2025 — just after
-U.S. trade restrictions.</p>
-
-<p>Per a current Megaspeed employee, “every single time” $NVDA’s CEO
-visits their facility, Alibaba reps come too. One former $NVDA
-employee told us that internally, Nvidia employees speculated as
-to the seemingly special nature of the relationship with Jensen.</p>
-</blockquote>
-
-<p>The jig was clearly up back in May. Short-sellers were hinting at the affair, and the CIA obviously knew about it. That was the time for Jensen Huang to get on top of the story. At that point it was certain that the details were going to come out. The only question was if the details would come out on Huang’s terms or someone else’s.</p>
-
-<p>Remember back in 2019 <a href="https://daringfireball.net/linked/2019/02/07/bezos-national-enquirer">when the National Enquirer tried to blackmail Jeff Bezos</a>, who at the time was having an affair with Lauren Sanchez (now his second wife), unbeknownst to MacKenzie Scott (now his ex-wife)? Huang should have done something more like what Bezos did: which was just come clean, publicly. Instead, Huang allowed Nvidia spokespeople and legal counsel to make fools of themselves <a href="https://x.com/lulumeservey/status/2119854872019497174">lying on his behalf</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Short-Seller Culper Research Published Information on Jensen Huang’s Affair Back in May’"  href="https://daringfireball.net/linked/2026/11/09/culper-research-huang-huang-report">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Tesla Brain Drain</title>
-	<link rel="alternate" type="text/html" href="https://electrek.co/2026/11/09/tesla-deep-bench-gone-musk-admits-talent-shortage/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xps" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/09/tesla-brain-drain" />
-	<id>tag:daringfireball.net,2026:/linked//6.43696</id>
-	<published>2026-11-09T20:32:27Z</published>
-	<updated>2026-11-09T20:32:27Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Fred Lambert, writing for Electrek:</p>
-
-<blockquote>
-  <p>Tesla painted a very different picture just two years ago. At its
-<a href="https://electrek.co/2024/06/14/tesla-upcoming-3-new-evs-raise-some-questions/">2024 shareholder meeting</a>, it showed this slide of its lineup:
-the Model 3, Model Y, Model S, Model X, Cybertruck, and Semi, plus
-three vehicles under covers that Musk said were “going to be
-pretty special.” Of the five consumer vehicles on that slide,
-three are now dead or on their way out. [...]</p>
-
-<p>At Tesla’s Investor Day at Giga Texas on March 1, 2023, Musk
-mostly stayed out of the spotlight. Instead, Tesla paraded more
-than a dozen executives on stage to present its plans, a rare
-move for a company long criticized for being a one-man show.
-“We’ve obviously got significant bench strength here,” Musk said
-at the time.</p>
-
-<p>Of the 14 executives named as presenters that day, seven are gone.</p>
-</blockquote>
-
-<p>It’s kind of weird for a carmaker that’s currently the 11th-largest market cap company in the world to only have two vehicles in production.</p>
-
-<div>
-<a  title="Permanent link to ‘Tesla Brain Drain’"  href="https://daringfireball.net/linked/2026/11/09/tesla-brain-drain">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/11/touch_and_glow" />
 	<link rel="shorturl" href="http://df4.us/xpm" />
@@ -2086,7 +2027,7 @@ A17 Pro (Q4 2024–Q2 2026)     $500     $600     $800
 	<link rel="shorturl" href="http://df4.us/xo0" />
 	<id>tag:daringfireball.net,2026://1.43632</id>
 	<published>2026-10-21T23:59:14Z</published>
-	<updated>2026-10-28T00:34:38Z</updated>
+	<updated>2026-11-16T19:14:52Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -2301,7 +2242,7 @@ Apple tried to fit a Face ID sensor on the outer Duo display and
 could not make the engineering work.</p></li>
 <li><p>I’m much more concerned about convenience than security, but
 Face ID is 20× more secure than Touch ID. That’s according to
-Apple’s own <a href="https://help.apple.com/pdf/security/en_GB/apple-platform-security-guide-b.pdf">Apple Platform Security</a> whitepaper, updated
+Apple’s own <a href="https://help.apple.com/pdf/security/en_GB/apple-platform-security-guide-b.pdf">Apple Platform Security</a> white paper, updated
 just last month, which states:</p>
 
 <blockquote>
