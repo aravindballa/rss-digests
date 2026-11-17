@@ -7,7 +7,108 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-11-16T23:09:05Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-11-17T02:20:36Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Apple Support Document on the New ‘Full Disk Access’ and ‘System &amp; App Protection Override’ Settings in MacOS 27.3 Beta 2</title>
+	<link rel="alternate" type="text/html" href="https://support.apple.com/en-us/149699" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xr7" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/16/apple-support-full-disk-access" />
+	<id>tag:daringfireball.net,2026:/linked//6.43747</id>
+	<published>2026-11-17T02:00:11Z</published>
+	<updated>2026-11-17T02:20:36Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>I’m seeing some people object to these settings as being scarier “scare sheets”, and while I disagree, I think that’s a reasonable debate. But I think it’s indisputable that Apple put a lot of thought into these new settings and permissions. Again, you might disagree with their intentions and assumptions here, but given their stated intentions and assumptions — to wit: that many Mac users were granting Full Disk Access permissions to too many apps without realizing just how much access that entails — I think this is a very considered design. The previous settings for these permissions seem slapdash in comparison — like a lot of the “new” Mac System Settings panels.</p>
+
+<p>Even this new support document seems very considered. A lot of times Apple doesn’t have support documents ready to go while the software is still in beta — here they have a good support document for the first beta with the new stuff.</p>
+
+<p><em>See Also:</em>* This <a href="https://developer.apple.com/news/?id=oqng0zjk">Apple Developer News article</a>, which states:</p>
+
+<blockquote>
+  <p>Developers should be prepared to adjust how they onboard users
+and make sure their apps can gracefully handle having access to
+only a limited set of folders or apps when utilizing these APIs.
+Users will see these updates when approving new app permission
+requests. All app permissions previously granted by users will
+remain in effect.</p>
+</blockquote>
+
+<p>So if you’ve already OK’d an app in MacOS 27.2 or earlier, you shouldn’t be prompted again after upgrading to 27.3.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Support Document on the New ‘Full Disk Access’ and ‘System &amp; App Protection Override’ Settings in MacOS 27.3 Beta 2’"  href="https://daringfireball.net/linked/2026/11/16/apple-support-full-disk-access">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>‘Meet the Anthropic Researcher Behind Silicon Valley’s “Consensual Non-Consent” Orgies’</title>
+	<link rel="alternate" type="text/html" href="https://freebeacon.com/america/horrifying-meet-the-anthropic-researcher-behind-silicon-valleys-consensual-non-consent-orgies/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xr6" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/16/anthropic-red-means-no-parties" />
+	<id>tag:daringfireball.net,2026:/linked//6.43746</id>
+	<published>2026-11-16T23:51:54Z</published>
+	<updated>2026-11-16T23:51:54Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Aaron Sibarium, writing for The Free Beacon:</p>
+
+<blockquote>
+  <p>Paul Crowley, a cybersecurity researcher at Anthropic, is listed
+as a manager of Red Means No LLC, which says that its parties are
+“designed to be spaces to … ignore the ‘nos’ of others.”
+Participants can use a safe word, “red,” to end an encounter but
+give “default consent” to “spanking,” “wrestling,” and “light
+pain” by entering the orgy, according to Red Means No’s
+<a href="https://www.redmeansno.com/">website</a>. More extreme actions, including “light electricity”
+and “moderate beatings,” are “permitted with negotiation,” though
+“body-shaming and race-shaming … are disallowed entirely.”</p>
+
+<p>The orgies have been known to attract a disproportionate number of
+employees at Anthropic and OpenAI, a dynamic critics say creates
+professional pressure for women in AI to attend. The criticism
+spilled into public view last month after an independent AI
+researcher, John Wentworth, said that he “absolutely [does]
+upgrade” his assessment of AI safety experts “if I find out they
+go to [Red Means No],” adding that attendance was a “strong
+signal” of free thought.</p>
+</blockquote>
+
+<p>I’m starting to think these Anthropic and OpenAI people are a little off.</p>
+
+<div>
+<a  title="Permanent link to ‘‘Meet the Anthropic Researcher Behind Silicon Valley’s “Consensual Non-Consent” Orgies’’"  href="https://daringfireball.net/linked/2026/11/16/anthropic-red-means-no-parties">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	
+	<link rel="alternate" type="text/html" href="https://apps.apple.com/app/apple-store/id6747921058?pt=1363339&amp;ct=Daring-Fireball-Post&amp;mt=8" />
+	<link rel="shorturl" href="http://df4.us/xr5" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2026/11/ivy_the_to-do_list_that_ends" />
+	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.43745</id>
+	<author><name>Daring Fireball Department of Commerce</name></author>
+	<published>2026-11-16T23:18:35Z</published>
+	<updated>2026-11-16T23:18:36Z</updated>
+	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
+<p>Every to-do list runs forever. Ivy runs for a day. Each morning you turn ideas into a plan. Each evening, whatever’s left is an idea again. Nothing is overdue. Tomorrow starts empty.</p>
+
+<p>I’m <a href="https://www.t3rtium.net">Jürgen Schweizer</a>, founder of Semantical. I spent years building a to-do app and never expected to build another. Then I came across the Ivy Lee Method. We built a prototype and couldn’t stop using it.</p>
+
+<p>Beneath the calm: Calendar and Reminders integration, focus sessions, Screen Time shields, and a daily journal. All native: SwiftUI, UIKit, Metal.</p>
+
+<p><a href="https://apps.apple.com/app/apple-store/id6747921058?pt=1363339&amp;ct=Daring-Fireball-Post&amp;mt=8">Ivy is on iPhone</a>, with Mac to follow. <a href="mailto:hello@semantical.com">Let me know</a> what you think!</p>
+
+<div>
+<a  title="Permanent link to ‘Ivy: The To-do List That Ends’"  href="https://daringfireball.net/feeds/sponsors/2026/11/ivy_the_to-do_list_that_ends">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+	<title>[Sponsor] Ivy: The To-do List That Ends</title></entry><entry>
 	<title>Developers Continue to Optimize iPhone Apps for the Duo</title>
 	<link rel="alternate" type="text/html" href="https://x.com/arinwaichulis/status/2122397676767522942" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xr4" />
@@ -41,13 +142,13 @@ DOUBLED in just over a week.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/16/irish-goodbye" />
 	<id>tag:daringfireball.net,2026:/linked//6.43743</id>
 	<published>2026-11-16T22:55:38Z</published>
-	<updated>2026-11-16T22:57:47Z</updated>
+	<updated>2026-11-17T00:13:21Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Over the weekend <a href="https://daringfireball.net/linked/2026/11/15/legion-of-pcast">I speculated</a> that Apple, Microsoft, and Amazon and have “made their Irish goodbyes” from the Trump 2.0 administration (including having no representatives on the David Sacks-led <a href="https://www.whitehouse.gov/ostp/presidents-council-of-advisors-on-science-and-technology/">PCAST</a>). I <a href="https://pdx.social/@nedley/117623491685583828">learned today</a> that what we Americans call an “Irish goodbye” is called a “French leave” in the U.K., and “leaving the English way” in France. The rest of Europe is split between those two, but only Americans and Canadians call it an “Irish goodbye”. (And, somehow, the Germans call it “doing a Polish one”, which is not what I would guess that phrase means.)</p>
+<p>Over the weekend <a href="https://daringfireball.net/linked/2026/11/15/legion-of-pcast">I speculated</a> that Apple, Microsoft, and Amazon have “made their Irish goodbyes” from the Trump 2.0 administration (including having no representatives on the David Sacks-led <a href="https://www.whitehouse.gov/ostp/presidents-council-of-advisors-on-science-and-technology/">PCAST</a>). I <a href="https://pdx.social/@nedley/117623491685583828">learned today</a> that what we Americans call an “Irish goodbye” is called a “French leave” in the U.K., and “leaving the English way” in France. The rest of Europe is split between those two, but only Americans and Canadians call it an “Irish goodbye”. (And, somehow, the Germans call it “doing a Polish one”, which is not what I would guess that phrase means.)</p>
 
 <p>Anyway, I’ve got one friend who is an absolute master of the Irish goodbye. He never  says goodnight or goodbye from a group gathering. He always just disappears. And even when you know he’s going to do it, and you start keeping an eye on him to catch him in the act, the fucker slips away every time. I find it delightful, not rude.</p>
 
@@ -1511,71 +1612,6 @@ and didn’t make it.</p>
 
 	]]></content>
   </entry><entry>
-	<title>Bloomberg: ‘Nvidia Intervened in U.S. Probe of Megaspeed Chip Smuggling’</title>
-	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xq2" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/10/bloomberg-megaspeed-nvidia-smuggling" />
-	<id>tag:daringfireball.net,2026:/linked//6.43706</id>
-	<published>2026-11-10T17:06:01Z</published>
-	<updated>2026-11-10T17:06:02Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Mackenzie Hawkins, reporting yesterday for Bloomberg:</p>
-
-<blockquote>
-  <p>Despite that stance, in the months after Teter’s initial call with
-Kessler, Nvidia gave BIS an incomplete account of its business
-with Megaspeed. After several visits to Megaspeed’s data centers — 12 facilities owned by eight companies across three countries
-in Southeast Asia — Nvidia had sent inventory checks to the
-agency and declared to Bloomberg News in mid-November 2025 that
-everything was where it should be.</p>
-
-<p>The company also said at the time that it had asked the US
-government whether it needed to cut off business with Megaspeed,
-and was told no.</p>
-
-<p>But Nvidia’s tabulations, as relayed to the US government,
-undercounted the number of chips it had sold to Megaspeed via
-hardware partners by 50,000 units, according to trade records
-analyzed by Bloomberg. That’s worth billions of dollars. After
-being pressed about the gap, Nvidia told Bloomberg in December
-2025 that it had checked additional Megaspeed warehouses that
-contained the missing hardware, while declining to state exactly
-how many chips it found in those facilities or provide any further
-details.</p>
-</blockquote>
-
-<div>
-<a  title="Permanent link to ‘Bloomberg: ‘Nvidia Intervened in U.S. Probe of Megaspeed Chip Smuggling’’"  href="https://daringfireball.net/linked/2026/11/10/bloomberg-megaspeed-nvidia-smuggling">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Regarding Graveyards and Indispensable Men</title>
-	<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=vydmUCGQnyI" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xq1" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/10/regarding-graveyards-and-indispensable-men" />
-	<id>tag:daringfireball.net,2026:/linked//6.43705</id>
-	<published>2026-11-10T17:01:06Z</published>
-	<updated>2026-11-10T17:01:06Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Steve Jobs to 60 Minutes in 2003: “Great things in business are never done by one person. They’re done by a team of people.”</p>
-
-<p>(I linked to this <a href="https://daringfireball.net/linked/2026/04/02/60-minutes-rather-jobs">just a few months ago</a>, but thought it worth a re-link <a href="https://daringfireball.net/linked/2026/11/10/scandal-at-the-center-of-the-economy">today</a>.)</p>
-
-<div>
-<a  title="Permanent link to ‘Regarding Graveyards and Indispensable Men’"  href="https://daringfireball.net/linked/2026/11/10/regarding-graveyards-and-indispensable-men">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
 	
 	<link rel="alternate" type="text/html" href="https://www.workos.com/airlock?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026" />
 	<link rel="shorturl" href="http://df4.us/xpv" />
@@ -1794,33 +1830,6 @@ role is the same one it started with 25 years ago:</p>
 
     ]]></content>
   <title>★ Touch and Glow</title></entry><entry>
-	
-	<link rel="alternate" type="text/html" href="https://ourcal.com/?utm_source=daringfireball&amp;utm_medium=sponsorship&amp;utm_content=rssitem" />
-	<link rel="shorturl" href="http://df4.us/xp5" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/feeds/sponsors/2026/11/ourcal" />
-	<id>tag:daringfireball.net,2026:/feeds/sponsors//11.43673</id>
-	<author><name>Daring Fireball Department of Commerce</name></author>
-	<published>2026-11-02T22:43:59Z</published>
-	<updated>2026-11-02T22:43:59Z</updated>
-	<content type="html" xml:base="https://daringfireball.net/feeds/sponsors/" xml:lang="en"><![CDATA[
-<p>“I didn’t see you put that in the diary.”</p>
-
-<p>Sound familiar?</p>
-
-<p>Shared calendars solved scheduling, not communication.</p>
-
-<p>OurCal connects any calendar, new or existing, to a group chat. Changes post there automatically, so nobody misses them. Because it’s a messenger, we made everything End-to-End Encrypted, certified by France’s cybersecurity agency.</p>
-
-<p>It’s native SwiftUI across Apple’s platforms, and the App Store just featured it in “Great apps on iPhone Duo”. We’re Apple people, but we think it’s the best shared calendar on Android too.</p>
-
-<p>Free to try, then a low monthly group subscription. No ads, no tracking.</p>
-
-<div>
-<a  title="Permanent link to ‘OurCal’"  href="https://daringfireball.net/feeds/sponsors/2026/11/ourcal">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-	<title>[Sponsor] OurCal</title></entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/10/macbook_pro_pricing_and_configurations_for_m6_m5_pro_and_m5_max" />
 	<link rel="shorturl" href="http://df4.us/xp2" />
