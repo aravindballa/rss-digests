@@ -7,7 +7,7 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-11-17T22:20:39Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-11-17T22:49:42Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
 	<title>SetShot 1.0 (and a Personal Tale of Defaults System Spelunking)</title>
 	<link rel="alternate" type="text/html" href="https://tidbits.com/2026/11/13/setshot-1-0-tracks-even-more-macos-settings/" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xr9" />
@@ -210,7 +210,7 @@ signal” of free thought.</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/16/joz-duo-apps" />
 	<id>tag:daringfireball.net,2026:/linked//6.43744</id>
 	<published>2026-11-16T23:09:05Z</published>
-	<updated>2026-11-17T16:15:44Z</updated>
+	<updated>2026-11-17T22:49:42Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -224,6 +224,8 @@ DOUBLED in just over a week.</p>
 </blockquote>
 
 <p>I’m back on my Duo review unit to test the new face unlock feature, and I’ve already noticed more apps are Duo optimized. Oddly enough, the first one I checked that still isn’t Duo-optimized is Apple’s own <a href="https://apps.apple.com/us/app/apple-store/id375380948">Apple Store app</a>, which was last updated 3 months ago. Weird.</p>
+
+<p><strong>Update:</strong> The very next day, the Apple Store app was updated with full optimization for the Duo. But then the store’s <a href="https://daringfireball.net/linked/2026/11/17/apples-cloud-services-are-having-a-bad-day">back end went down for several hours</a>.</p>
 
 <div>
 <a  title="Permanent link to ‘Developers Continue to Optimize iPhone Apps for the Duo’"  href="https://daringfireball.net/linked/2026/11/16/joz-duo-apps">&nbsp;★&nbsp;</a>
