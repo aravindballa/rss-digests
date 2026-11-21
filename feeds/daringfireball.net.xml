@@ -7,7 +7,52 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-11-21T18:28:45Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-11-21T21:37:47Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+    
+    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/11/a_week_with_the_new_privacy_controls_in_macos_273" />
+	<link rel="shorturl" href="http://df4.us/xrj" />
+	<id>tag:daringfireball.net,2026://1.43759</id>
+	<published>2026-11-21T20:09:57Z</published>
+	<updated>2026-11-21T21:37:47Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<summary type="text">Apple’s new Full Disk Access and other privacy controls in MacOS 27.3 are good, with the exception of the ever-present menu bar indicator for apps that control other apps.</summary>
+	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
+<p>On Monday, when the second betas of the v27.3 OSes came out, <a href="https://daringfireball.net/linked/2026/11/16/macos-27-full-disk-access">I posted about Apple adding the new privacy controls</a> they had <a href="https://daringfireball.net/2026/10/apple_full_disk_access">promised a month prior</a>, in the wake of Meta’s Muse app <a href="https://daringfireball.net/linked/2026/09/22/aten-muse">surprising some users</a> with what information it had access to (e.g., incoming iMessages) after being granted Full Disk Access — which authorization some users just clicked right through. I also posted a link to Apple’s <a href="https://daringfireball.net/linked/2026/11/16/apple-support-full-disk-access">corresponding new support documents</a>. My initial take on Monday: </p>
+
+<blockquote>
+  <p>I’m installing it now, but from what I’ve seen so far, these
+changes not only alleviate my concerns that Apple might
+over-tighten the screws, I actually think they add clarity and
+give users <em>more</em>, not less, control over their Macs.</p>
+</blockquote>
+
+<p>After a week, I’m willing to call it: this overhaul of these settings and permissions is a win. I really like the way that, for apps asking for Full Disk Access, users can now grant access to a list of folders instead. That’s what I mean about these new settings giving users <em>more</em> control.</p>
+
+<p>Are these new dialog boxes “scarier”? Yes, and the point is, they should be. You should be slightly jolted into attention when an app prompts for any of these permissions. The question is whether they are unnecessarily scary. I would say no, not at all. The descriptions are fair and accurate. Is it unnecessarily scary to show you thumbnails of your personal photos before permitting Full Disk Access that would grant an application unfettered access to your personal photos? No! It’s a bit of a jolt to see them, but that’s just reducing the abstraction. The words “full disk access” feel different than actually <em>seeing</em> a snapshot of what full disk access entails.</p>
+
+<p>Might this discourage some Mac users from granting Full Disk Access to AI agent apps? Yes. And it should! Users who actually understand the stakes will not be dissuaded by these new permissions — when granting them is what they know they want to do. Additionally, I think these new dialog boxes represent very good UI design. <a href="https://www.macrumors.com/2026/11/16/macos-27-3-full-desk-access/">They look like a new modern take on MacOS “system chrome” design</a> — not skinny iPhone-sized alerts.</p>
+
+<p>My only gripe about the new stuff is the prominent menu bar indicator that now appears when one app is controlling another. You can’t turn it off (except via an undocumented hidden <code>defaults</code> setting), and it’s distracting on most Macs, and <em>extra</em> distracting on the new MacBook Pros with PROLED displays because on those Macs, it appears in the Dynamic Island! <a href="https://www.threads.com/@chancehmiller/post/Df0aHZQoIVJ">Chance Miller, on Threads</a> (with screenshots):</p>
+
+<blockquote>
+  <p>Most of the changes in macOS 27.3 are reasonable, but this Live
+Activity thing for system access has got to go. It’s way too
+aggressive.</p>
+
+<p>It takes over the Dynamic Island on the new MacBook Pro!</p>
+</blockquote>
+
+<p>As I write this article on a new MacBook Pro review unit, I have 8 of these indicators in my Dynamic Island: <a href="https://daringfireball.net/linked/2024/06/18/scroll-reverser">Scroll Reverser</a>, <a href="https://www.keyboardmaestro.com/main/">Keyboard Maestro Engine</a>, <a href="https://daringfireball.net/2026/03/hazeover">HazeOver</a>, <a href="https://daringfireball.net/linked/2024/05/06/hackett-logitech-mouse-driver">SteerMouse Manager</a>, <a href="https://daringfireball.net/linked/2024/10/09/moom-4-app-store">Moom</a>, <a href="https://chest.boringbar.app/">Chest</a> (a promising new utility for managing menu bar icons), <a href="https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/HowMacScriptingWorks.html">System Events</a>, and a new text snippet expansion utility I’m beta testing.</p>
+
+<p>Every one of these apps is running all of the time for me. This indicator being on, all the time, for every one of them isn’t helping me notice unusual activity. If anything, if Apple doesn’t rethink this idea, it’s going to make me <em>miss</em> the indication if an app is taking advantage of access permissions in an unwanted or unexpected way.</p>
+
+<p>Zac Hall, Miller’s colleague at 9to5Mac, published an article on Tuesday <a href="https://9to5mac.com/2026/11/17/how-to-hide-the-new-macos-27-3-menu-bar-indicator/">showing the command-line <code>defaults</code> incantation to disable this</a>. That’s better than not being able to disable it at all, but I expect Apple to revisit this based on feedback. It seems like a well-intentioned feature that was designed by people who didn’t realize how many always-on utilities “control other apps”.</p>
+
+    ]]></content>
+  <title>★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2</title></entry><entry>
 	<title>The U.S. — Utterly Predictably — Has Lost Measles Elimination Status Under Trump and RFK Jr.</title>
 	<link rel="alternate" type="text/html" href="https://www.wsj.com/health/measles-is-back-it-will-take-years-to-eliminate-it-again-9971736e?st=GKiu3E" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xri" />
@@ -2127,49 +2172,4 @@ role is the same one it started with 25 years ago:</p>
 </div>
 
     ]]></content>
-  <title>★ Prestructured WYSIWYG</title></entry><entry>
-    
-    <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/10/apple_announces_new_a20_pro_ipad_mini" />
-	<link rel="shorturl" href="http://df4.us/xoi" />
-	<id>tag:daringfireball.net,2026://1.43650</id>
-	<published>2026-10-26T19:04:34Z</published>
-	<updated>2026-10-26T22:24:46Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<summary type="text">Pros: OLED display, nano-texture option, A20 Pro chip, thinner and lighter. Cons: no Face ID, no ProMotion.</summary>
-	<content type="html" xml:base="https://daringfireball.net/" xml:lang="en"><![CDATA[
-<ul>
-<li><a href="https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/">Apple Newsroom announcement</a>.</li>
-<li><a href="https://www.apple.com/ipad-mini/">iPad Mini (A20 Pro) product page</a>.</li>
-<li><a href="https://www.apple.com/ipad-mini/specs/">Tech specs page</a> (<a href="https://daringfireball.net/misc/2026/10/ipad-mini-a20-pro-tech-specs-2026-10-26.pdf">PDF archive</a>).</li>
-<li><a href="https://www.apple.com/ipad/compare/?modelList=ipad-mini-a20pro,ipad-mini-a17pro,ipad-air-11-m4">iPad comparison page</a> showing new A20 iPad Mini, previous A17 iPad Mini, and the 11-inch M4 iPad Air <a href="https://daringfireball.net/misc/2026/10/compare-ipad-mini-a20-ipad-mini-a17-ipad-air-m4.pdf">PDF archive</a>].</li>
-<li><a href="https://www.youtube.com/watch?v=x5h1JykMcFU">One-minute commercial</a>.</li>
-</ul>
-
-<p>Available in two colors, starlight and midnight (which does not seem very dark), and three storage capacities: 128, 256, and 512 GB. Pricing, with the previous-generation A17 Pro model for reference, both before and after <a href="https://daringfireball.net/2026/06/spensive_thoughts">Apple’s June 25 price hikes</a>:</p>
-
-<pre><code>IPAD MINI                    128 GB   256 GB   512 GB
-A20 Pro (new)                 $700     $800    $1000 
-A17 Pro (Q3 2026 price hike)  $600     $700     $900 
-A17 Pro (Q4 2024–Q2 2026)     $500     $600     $800
-</code></pre>
-
-<p>Notes:</p>
-
-<ul>
-<li><p>Cellular adds $150 to any model.</p></li>
-<li><p>The $100 nano-texture display option is new for the iPad Mini, and is only available with 256 or 512 GB storage.</p></li>
-<li><p>Still stuck with Touch ID — a bummer in general, and a shit sandwich given how expensive these have gotten. Unless Apple decides to make a mini-sized iPad Pro (which I definitely do not expect), there’s no way to buy a mini-sized iPad with Face ID.</p></li>
-<li><p>The display is now OLED, with inky-deep blacks and brighter brights. Max SDR brightness goes from 500 to 600 nits and HDR content goes to 1200 nits. This is the first iPad Mini with an XDR display. But: no ProMotion.</p></li>
-<li><p>Support for Pencil Pro and Pencil USB-C. I still can’t believe the $2000 iPhone Duo doesn’t support the superior Pencil Pro.</p></li>
-<li><p>The new Mini is thinner (5.4mm vs. 6.3mm) and lighter (255g vs. 293g for Wi-Fi models). The display is slightly larger (8.5″ vs. 8.3″) while the footprint shrank slightly, because the bezels have been reduced by 25 percent. The iPhone Duo weighs almost exactly the same (254g to be exact) but its inner display is only 7.6 inches diagonally.</p></li>
-<li><p>The front-facing camera moves from the short side to the long side. All current iPads now have the camera on the long side.</p></li>
-<li><p>The new iPad Mini introduces what Apple calls the Acoustic Display: “custom tweeters and woofers are now hidden beneath the glass and enclosure, delivering a rich, personal audio experience.” This change helped Apple achieve IP67 dust and water resistance, best-ever for any iPad model.</p></li>
-</ul>
-
-<p>One last point. The previous iPad Mini <a href="https://www.apple.com/newsroom/2024/10/apple-introduces-powerful-new-ipad-mini-built-for-apple-intelligence/">launched two years ago</a>, in October 2024, but had the now-three-year-old A17 Pro chip from the 2023 iPhone 15 Pro. Today’s new iPad Mini launches with the brand-new A20 Pro chip that debuted with last month’s iPhone 18 Pro and last week’s iPhone Duo.</p>
-
-    ]]></content>
-  <title>★ Apple Announces New A20 Pro iPad Mini</title></entry></feed><!-- THE END -->
+  <title>★ Prestructured WYSIWYG</title></entry></feed><!-- THE END -->
