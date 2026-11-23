@@ -7,7 +7,31 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-11-21T21:37:47Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-11-22T23:20:19Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Ivy</title>
+	<link rel="alternate" type="text/html" href="https://semantical.com/?utm_campaign=df-2026-12" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xrk" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/22/ivy" />
+	<id>tag:daringfireball.net,2026:/linked//6.43760</id>
+	<published>2026-11-22T23:04:30Z</published>
+	<updated>2026-11-22T23:20:19Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>My thanks to Semantical for sponsoring DF last week to promote Ivy, the to-do list that ends. Typical to-do lists run forever. Ivy runs for one day. The concept is delightfully simple, but very effective. Each morning you make of list of things to do today, adding new items or pulling from a list of “ideas”. At the end of the day, whatever was left undone from your list goes back into the pool of ideas. Tomorrow starts empty.</p>
+
+<p>The concept and the app’s name are inspired by the “<a href="https://duckduckgo.com/?q=ivy+lee+method">Ivy Lee Method</a>”, a simple 100-year-old productivity system based on the idea of making a <em>short</em> prioritized list each day. You can add as many ideas as you want, and you can access your list of ideas at any time by just pulling down on the screen. Ivy never forgets anything, but the <em>current</em> list of tasks in front of you is never overwhelming. Start your day and your list of tasks for today is available as a Live Activity. Other features include focus sessions, Screen Time shields, and a daily journal.</p>
+
+<p><a href="https://apps.apple.com/app/apple-store/id6747921058?pt=1363339&amp;ct=Daring-Fireball-Post&amp;mt=8">Ivy is currently on iPhone</a> (optimized for Duo, naturally), with a native Mac app in the works. It is truly native — SwiftUI, UIKit, and Meta — and integrates with both Reminders and Calendar. It’s just a beautiful app — one of those apps that’s worth trying just to feel it.</p>
+
+<div>
+<a  title="Permanent link to ‘Ivy’"  href="https://daringfireball.net/linked/2026/11/22/ivy">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/11/a_week_with_the_new_privacy_controls_in_macos_273" />
 	<link rel="shorturl" href="http://df4.us/xrj" />
@@ -1742,59 +1766,6 @@ previously scheduled, followed by its earnings call at 2 p.m. PT.</p>
 
 <div>
 <a  title="Permanent link to ‘Jensen Huang Resigns From Nvidia’"  href="https://daringfireball.net/linked/2026/11/12/huang-resigns">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Semafor: ‘Nvidia Board Preparing to Oust CEO Jensen Huang, Name Interim CEO’</title>
-	<link rel="alternate" type="text/html" href="https://www.semafor.com/article/11/11/2026/nvidia-board-preparing-to-oust-ceo-huang-wsj" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xqc" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/11/semafor-srouji" />
-	<id>tag:daringfireball.net,2026:/linked//6.43716</id>
-	<published>2026-11-12T04:59:59Z</published>
-	<updated>2026-11-12T07:07:26Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Rohan Goswami, Reed Albergotti, and Ashley Gold, reporting for Semafor at 10:27pm ET:</p>
-
-<blockquote>
-  <p>Some members of Nvidia’s board favor appointing Chief Financial
-Officer Colette Kress as interim CEO at the beleaguered chipmaker
-if CEO and founder Jensen Huang is ousted, according to people
-familiar with the matter.</p>
-</blockquote>
-
-<p>Here’s <a href="https://www.linkedin.com/in/colette-kress-22328346/">Kress’s LinkedIn profile</a>.</p>
-
-<blockquote>
-  <p>Semafor earlier confirmed that Nvidia’s board is <a href="https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad?mod=hp_onevizplusstories_pos_1">preparing to
-oust Huang</a> as soon as Wednesday, after media reports detailed
-that he had a second extramarital affair. The Nvidia board briefed
-the White House on its planned meeting, according to a senior
-administration official.</p>
-
-<p>Nvidia has tapped an <a href="https://www.bloomberg.com/news/articles/2026-11-11/nvidia-working-with-outside-firm-to-identify-ceo-candidates">outside search firm</a> to find the
-company’s next CEO, Bloomberg reported. One person being
-considered for the top job is Apple hardware chief Johny Srouji,
-who was among the executives considered for Intel CEO in 2019,
-according to another person familiar with the matter.</p>
-</blockquote>
-
-<p>Kara Swisher <a href="https://www.threads.com/share/BAWVTkcRvX">spitballed</a> Tim Cook as an idea, but that’s nonsense. If Cook wanted to be the CEO of a Fortune 2 company, he’d still be CEO at Apple. Apple despises Nvidia and Nvidia despises Apple. Cook may well be enjoying this fiasco, but only as entertainment drizzled with fresh farm-to-table schadenfreude — not as a personal opportunity.</p>
-
-<p>Srouji, though, is an interesting name. Semafor doesn’t say whether this is just wishful thinking on the part of Nvidia’s board or if Srouji has indicated receptiveness. Srouji has been at Apple since 2008 but he’s a bit of a cipher. My spidey-sense can’t tell if he bleeds six colors or not.</p>
-
-<p>Mark Gurman — and no one else — <a href="https://www.bloomberg.com/news/articles/2025-12-06/apple-rocked-by-executive-departures-with-johny-srouji-at-risk-of-leaving-next">claimed last year</a> that Srouji went to Tim Cook and threatened to leave for another company. Srouji called bullshit on this <a href="https://daringfireball.net/linked/2025/12/08/srouji">with a memo that stated flatly</a>, “I love my job at Apple, and I don’t plan on leaving anytime soon.” Then, in April, when John Ternus was named Cook’s successor, Srouji was simultaneously promoted to the new position of Chief Hardware Officer.</p>
-
-<p>So one scenario is that Srouji feels no allegiance to Apple, and Tim Cook and John Ternus are the sort of leaders who, when faced with a threat from a subordinate, give in because they’re cowards, and give a big promotion to someone who might leave Apple for a rival just weeks after Apple’s CEO transition.</p>
-
-<p>Another scenario is that Srouji meant what he said, loves his job at Apple, and truly is John Ternus’s trusted and trustworthy hardware lieutenant. In this case, Nvidia’s board leaking that they’re considering Srouji to replace Huang is like someone in hell saying they’re considering ordering some ice water. My money is on this scenario.</p>
-
-<div>
-<a  title="Permanent link to ‘Semafor: ‘Nvidia Board Preparing to Oust CEO Jensen Huang, Name Interim CEO’’"  href="https://daringfireball.net/linked/2026/11/11/semafor-srouji">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
