@@ -7,7 +7,154 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-11-25T18:14:28Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-11-26T00:17:16Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>Electrek Speculates on Trump’s Claim He ‘Protected’ Elon Musk After a ‘Very Tough Incident’ During His First Term</title>
+	<link rel="alternate" type="text/html" href="https://electrek.co/2026/11/24/trump-protected-elon-musk-first-term-tough-incident/" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xs6" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/25/electrek-trump-musk-protection" />
+	<id>tag:daringfireball.net,2026:/linked//6.43782</id>
+	<published>2026-11-26T00:16:54Z</published>
+	<updated>2026-11-26T00:17:16Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Fred Lambert, writing for Electrek:</p>
+
+<blockquote>
+  <p>On August 7, 2018, Musk tweeted that he was “considering taking
+Tesla private at $420. Funding secured.” It wasn’t. Saudi
+Arabia’s Public Investment Fund had shown interest, but no deal
+or price had been agreed, and the take-private plan was dead
+within three weeks.</p>
+
+<p>The SEC sued Musk for securities fraud on September 27, 2018. The
+agency didn’t only ask for a fine. It asked the court to bar Musk
+from serving as an officer or director of any public company. That
+would have meant no more Elon at Tesla, which lines up with “you
+wouldn’t have Elon if it wasn’t for me” better than anything else
+on this list.</p>
+
+<p>And then it went away fast. Two days later, the SEC announced a
+settlement: Musk stayed CEO, gave up the chairman title for three
+years, and he and Tesla each paid $20 million, $40 million in
+total. Tesla added two independent directors and agreed to have a
+lawyer pre-approve Musk’s material tweets, but the SEC never fully
+enforced it. Musk didn’t admit or deny anything.</p>
+
+<p>The SEC was run at the time by Jay Clayton, a Trump appointee.</p>
+</blockquote>
+
+<p>I’ll bet that’s <a href="https://daringfireball.net/linked/2026/11/25/trump-musk-protected">what Trump was referring to</a>. Like most of Trump’s corrupt acts, it happened right in the open.</p>
+
+<div>
+<a  title="Permanent link to ‘Electrek Speculates on Trump’s Claim He ‘Protected’ Elon Musk After a ‘Very Tough Incident’ During His First Term’"  href="https://daringfireball.net/linked/2026/11/25/electrek-trump-musk-protection">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>1Password’s Backend Systems Were Compromised, Revealing Only Customer Account Metadata</title>
+	<link rel="alternate" type="text/html" href="https://1password.com/blog/update-on-nov-2026-security-incident" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xs5" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/25/1password-hacked" />
+	<id>tag:daringfireball.net,2026:/linked//6.43781</id>
+	<published>2026-11-25T22:52:37Z</published>
+	<updated>2026-11-25T22:52:37Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>1Password:</p>
+
+<blockquote>
+  <ul>
+<li><p>An attacker gained access to some of our backend systems and
+copied a limited amount of customer account information from a
+subset of our customers, including the names and email addresses
+that customers use to sign into 1Password.</p></li>
+<li><p><em>Your vault data, the items in them, and the keys that protect
+them are safe and were not affected.</em> 1Password does not have
+access to your password or secret keys.</p></li>
+<li><p>We implemented containment measures, restored clean versions of
+the affected service, and have triggered a rotation of internal
+credentials.</p></li>
+<li><p>You do not need to update anything in your 1Password account.</p></li>
+<li><p>We recommend being cautious of phishing attempts in the form of
+unexpected emails about 1Password, such as invitations or
+account recovery requests that you did not initiate.</p></li>
+<li><p>1Password apps and services are working normally.</p></li>
+</ul>
+</blockquote>
+
+<p>It seems like they dealt with this perfectly. By design, the sensitive data customers store with 1Password <em>can’t</em> be accessed without the secret keys that only customers possess. This is why end-to-end encryption is essential.</p>
+
+<p><strong>See Also:</strong> <a href="https://www.todoist.com/help/todoist/get-started/security-incident-in-november-2026-cG0EIACNU">Todoist was hacked yesterday</a>, and for a small segment of their users, <a href="https://www.reddit.com/r/todoist/comments/1y4nm78/security_incident_in_november_2026/">sensitive data <em>was</em> compromised</a>.</p>
+
+<div>
+<a  title="Permanent link to ‘1Password’s Backend Systems Were Compromised, Revealing Only Customer Account Metadata’"  href="https://daringfireball.net/linked/2026/11/25/1password-hacked">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>‘Trump Wanted Jensen Huang Back. Now, the President Is Alone in Washington’</title>
+	<link rel="alternate" type="text/html" href="https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xs4" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/25/trump-alone" />
+	<id>tag:daringfireball.net,2026:/linked//6.43780</id>
+	<published>2026-11-25T22:31:10Z</published>
+	<updated>2026-11-25T22:31:10Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>CNBC:</p>
+
+<blockquote>
+  <p>But Trump’s jubilation stands in stark contrast to the reaction
+from even his staunchest allies on Capitol Hill, who recoiled
+after the reinstatement and vowed to continue their investigations
+into Huang — whose relationship with a potential Chinese
+intelligence asset they fear may have jeopardized U.S. national
+security.</p>
+
+<p>“The risk remains that there could be information that a Chinese
+spy knows about a key individual in the supply chain, and that’s
+not worth the risk,” Sen. Kevin Cramer, R-N.D., said Tuesday on
+CNBC’s “Squawk Box.” “We might even have to put a babysitter on
+Jensen Huang for crying out loud ... just to make sure that he
+doesn’t do something that’s going to risk the United States.”</p>
+</blockquote>
+
+<p>What’s conspicuous isn’t merely that <em>some</em> congressional Republicans are denouncing Trump’s actions on behalf of Huang (whether on <a href="https://www.theatlantic.com/ideas/2026/11/trump-huang-national-security-risk/689547/">the specific national security issues</a> related to Nvidia and China, or <a href="https://daringfireball.net/linked/2026/11/24/nvidia-and-trumps-state-capitalism">the general abandonment</a> of the pre-Trump bedrock Republican principle of laissez-faire capitalism) — it’s that none, seemingly, are defending it. <a href="https://www.washingtonsun.com/congress/nvidia-jensen-huang-reinstatement-questioning">Here’s a report from The Washington Sun</a> (formerly NOTUS) on Monday quoting a host of Republicans expressing some degree of opposition to Trump’s actions.</p>
+
+<p><a href="https://talkingpointsmemo.com/edblog/day-two-isnt-looking-great-for-trump-or-nvidia/sharetoken/8799ef26-4251-47da-809c-f7bdfcc55e4d">Josh Marshall at TPM</a> (gift link):</p>
+
+<blockquote>
+  <p>Over the last 24 hours various Silicon Valley types have been
+thumping their chests over Jensen Huang’s return, lecturing
+Democrats about Huang’s irreplaceability and so forth. But the
+reality is that none of this has anything to do with Democrats.
+Trump’s move yesterday is <a href="https://x.com/davidshor/status/2125254888905224579">wildly unpopular</a>, and the tech
+oligarchs are probably the most unpopular powerful and
+non-imprisoned people in the country today. For anyone who has
+their eyes open, Trump is not only unpopular but rapidly losing
+power, even among fellow Republicans, in a way that would have
+been unimaginable even a few months ago when numerous Senate
+Republicans came out publicly yesterday attacking Trump’s effort
+to shield Huang in the ongoing chip-smuggling and spy
+investigation. They’re all clustering together as their power ebbs
+and isolation grows.</p>
+</blockquote>
+
+<div>
+<a  title="Permanent link to ‘‘Trump Wanted Jensen Huang Back. Now, the President Is Alone in Washington’’"  href="https://daringfireball.net/linked/2026/11/25/trump-alone">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
 	<title>‘The Life of a Composer’</title>
 	<link rel="alternate" type="text/html" href="https://composer.pablostanley.com/#1" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xs3" />
@@ -49,18 +196,18 @@ narrating, but I personally liked the interactive version more.</p>
 	]]></content>
   </entry><entry>
 	<title>20 Percent He Has Other Problems, Which This Margin Is Too Narrow to Contain</title>
-	<link rel="alternate" type="text/html" href="https://www.wsj.com/politics/policy/trump-says-he-protects-brilliant-ceos-like-elon-musk-and-jensen-huang-b977cfda" />
+	<link rel="alternate" type="text/html" href="https://www.wsj.com/politics/policy/trump-says-he-protects-brilliant-ceos-like-elon-musk-and-jensen-huang-b977cfda?st=7ctVgP" />
 	<link rel="shorturl" type="text/html" href="http://df4.us/xs2" />
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/25/trump-musk-protected" />
 	<id>tag:daringfireball.net,2026:/linked//6.43778</id>
 	<published>2026-11-25T16:22:27Z</published>
-	<updated>2026-11-25T16:22:28Z</updated>
+	<updated>2026-11-26T00:13:05Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
 	</author>
 	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Damian Paletta, writing for The Wall Street Journal:</p>
+<p>Damian Paletta, writing for The Wall Street Journal (gift link):</p>
 
 <blockquote>
   <p>Trump disclosed in a <a href="https://www.youtube.com/live/-KzsKuC1AUs">Monday CNBC interview</a> that he had
@@ -1700,108 +1847,6 @@ others every day.</p>
 
 <div>
 <a  title="Permanent link to ‘Oprah Gives Everyone in Her Audience a ‘Duo iPhone’’"  href="https://daringfireball.net/linked/2026/11/16/oprah-duos">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Robert Pattinson Is the Next James Bond</title>
-	<link rel="alternate" type="text/html" href="https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xqx" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/16/pattinson-robert-pattinson" />
-	<id>tag:daringfireball.net,2026:/linked//6.43737</id>
-	<published>2026-11-16T15:36:52Z</published>
-	<updated>2026-11-16T15:40:42Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Variety:</p>
-
-<blockquote>
-  <p>It’s Pattinson, Robert Pattinson.</p>
-
-<p>The “Batman” and “Odyssey” star has officially been cast as the
-next James Bond, ending months of rabid speculation about which
-young actor Amazon MGM and director Denis Villeneuve would hand
-the keys to the Aston Martin.</p>
-</blockquote>
-
-<p>Solid choice. I endorse. Let’s not cock it up, Villeneuve.</p>
-
-<p><a href="https://www.bbc.com/news/live/ckg5j69ndv2vt">BBC News has full court press coverage</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘Robert Pattinson Is the Next James Bond’"  href="https://daringfireball.net/linked/2026/11/16/pattinson-robert-pattinson">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>The Legion of PCAST</title>
-	<link rel="alternate" type="text/html" href="https://www.whitehouse.gov/ostp/presidents-council-of-advisors-on-science-and-technology/" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xqw" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/15/legion-of-pcast" />
-	<id>tag:daringfireball.net,2026:/linked//6.43736</id>
-	<published>2026-11-15T17:14:42Z</published>
-	<updated>2026-11-15T17:21:24Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p><a href="https://daringfireball.net/linked/2026/11/13/sacks">I wrote about David Sacks the other day</a>, in the context of his being one of the Trump 2.0 gang that might get left holding the bag if this Jensen Huang/Nvidia scandal blows up the AI boom/bubble. Sacks <em>was</em> the administration’s “AI czar” — <a href="https://www.cnbc.com/2026/03/26/david-sacks-trump-crypto-ai-czar.html">until March</a>, when he announced his time was up. (His position as a “special government employee” was limited to 130 days. Sacks is definitely special.)</p>
-
-<p>At the moment Sacks remains co-chair of the <a href="https://www.whitehouse.gov/ostp/presidents-council-of-advisors-on-science-and-technology/">President’s Council of Advisors on Science and Technology</a> (PCAST), a <a href="https://en.wikipedia.org/wiki/Legion_of_Doom">Legion of Doom</a>-style committee of billionaire Trump backers, whose members include, in alphabetical order after the co-chairs:</p>
-
-<ul>
-<li>David Sacks — Co-chair</li>
-<li>Michael Kratsios — Co-chair</li>
-<li>Marc Andreessen (Andreessen Horowitz)</li>
-<li>Pam Bondi (fired as Trump attorney general <a href="https://thehill.com/homenews/administration/5814055-pam-bondi-donald-trump-loyalty-firing/">for insufficient cravenness</a>, no background whatsoever in science or technology)</li>
-<li>Sergey Brin (Google)</li>
-<li>Safra Catz (Oracle)</li>
-<li>Michael Dell (Dell Technologies)</li>
-<li>Jacob DeWitte (Oklo — nuclear power startup, fission)</li>
-<li>Fred Ehrsam (Coinbase — crypto)</li>
-<li>Larry Ellison (Oracle)</li>
-<li>David Friedberg (Ohalo — biotech)</li>
-<li>Jensen Huang (Nvidia)</li>
-<li>John Martinis (Qolab — quantum computing)</li>
-<li>Bob Mumgaard (Commonwealth Fusion Systems — nuclear power, fusion)</li>
-<li>Lisa Su (AMD)</li>
-<li>Mark Zuckerberg (Meta)</li>
-</ul>
-
-<p>Not represented: anyone from Apple, Microsoft, or Amazon. There’s a game of reverse musical chairs here, and, amongst the multi-trillion-dollar tech Goliaths, it’s Nvidia, Google, and Meta who are still sitting in seats, soaking up the stench of a <a href="https://time.com/article/2026/10/29/trump-approval-rating-midterm-elections-republicans/">historically unpopular president</a> — whose unpopularity is fueled first and foremost, <a href="https://www.nbcnews.com/politics/2026-elections/exit-polls">according to election exit polls</a>, by his abject corruption. Apple, Microsoft, and Amazon have seemingly made their <a href="https://www.dictionary.com/browse/irish-goodbye">Irish goodbyes</a>. Being associated with Trump now doesn’t just put you on the wrong side of popular party politics, but on the wrong side of being perceived as crooked.</p>
-
-<p>Curiously absent from PCAST is Elon Musk, who I think got his licks in all at once with <a href="https://www.newyorker.com/magazine/2025/06/23/what-did-elon-musk-accomplish-at-doge">the DOGE fiasco in Trump 2.0’s first year</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘The Legion of PCAST’"  href="https://daringfireball.net/linked/2026/11/15/legion-of-pcast">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>WorkOS: Let Agents Use Your Tools Without Giving Them Free Rein</title>
-	<link rel="alternate" type="text/html" href="https://www.workos.com/airlock?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xqv" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/15/workos-agent-tools" />
-	<id>tag:daringfireball.net,2026:/linked//6.43735</id>
-	<published>2026-11-15T15:52:01Z</published>
-	<updated>2026-11-15T15:52:02Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>My thanks to WorkOS for sponsoring DF last week. An agent’s job isn’t known until it runs, so a role assigned in advance is always too much or too little. Give the agent a task instead, and every call it makes gets checked against that intent, whether it’s reading a Linear issue or emailing a distribution list.</p>
-
-<p>With WorkOS Airlock, you set the policies once. Each call is allowed, denied, or sent to a human for approval, and every verdict is logged.</p>
-
-<p><a href="https://www.workos.com/airlock?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026">Request early access today</a>.</p>
-
-<div>
-<a  title="Permanent link to ‘WorkOS: Let Agents Use Your Tools Without Giving Them Free Rein’"  href="https://daringfireball.net/linked/2026/11/15/workos-agent-tools">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
