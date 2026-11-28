@@ -7,7 +7,93 @@
 <id>https://daringfireball.net/feeds/main</id>
 
 
-<updated>2026-11-26T19:01:04Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+<updated>2026-11-27T23:57:12Z</updated><rights>Copyright © 2026, John Gruber</rights><entry>
+	<title>OpenAI Countersues Apple for Stealing Trade Secrets</title>
+	<link rel="alternate" type="text/html" href="https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xs9" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/27/openai-countersues-apple" />
+	<id>tag:daringfireball.net,2026:/linked//6.43785</id>
+	<published>2026-11-27T23:50:13Z</published>
+	<updated>2026-11-27T23:50:33Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Tim Bradshaw and Michael Acton, reporting for the Financial Times:</p>
+
+<blockquote>
+  <p>“Apple set quite a trap for employees,” the complaint said.
+“Bright young minds thought they would work in Cupertino. Instead
+they were joining Hotel California: you can check out any time you
+like, but you can never leave.”</p>
+
+<p>Apple said: “OpenAI’s counterclaims are a transparent attempt to
+distract from the substance of Apple’s lawsuit, in which OpenAI
+has already been ordered to stop using Apple’s confidential
+information.”</p>
+</blockquote>
+
+<p>So much has happened this year that this lawsuit — which is only in the earliest stages — feels like old news.</p>
+
+<div>
+<a  title="Permanent link to ‘OpenAI Countersues Apple for Stealing Trade Secrets’"  href="https://daringfireball.net/linked/2026/11/27/openai-countersues-apple">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
+	<title>Serial Numbers in Chinese Filings Reveal That Nvidia’s Restricted Blackwell Chips Were Installed at a Shanghai Datacenter Linked to Alice Huang and Megaspeed</title>
+	<link rel="alternate" type="text/html" href="https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTc4ODgyMywiZXhwIjoxNzk2MzkzNjIzLCJhcnRpY2xlSWQiOiJUUDFVMFJUOU5KTFMwMCIsImJjb25uZWN0SWQiOiI3QTcxRTEyQjY2RTM0RkI3ODlCQTA5NEZBQzVGMkE0OSJ9.tcyYBUyKr7A_4Qyf4S69z95uT1ZiyuOyOOZi73bhQ7Q&amp;leadSource=article-gifting" />
+	<link rel="shorturl" type="text/html" href="http://df4.us/xs8" />
+	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/27/nvidia-shanghai-alice-huang" />
+	<id>tag:daringfireball.net,2026:/linked//6.43784</id>
+	<published>2026-11-27T23:41:26Z</published>
+	<updated>2026-11-27T23:57:12Z</updated>
+	<author>
+		<name>John Gruber</name>
+		<uri>http://daringfireball.net/</uri>
+	</author>
+	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
+<p>Andy Lin, Mackenzie Hawkins, and Kari Soo Lindberg, reporting for Bloomberg:<sup>*</sup></p>
+
+<blockquote>
+  <p>A pair of Chinese firms installed Nvidia Corp.’s powerful
+Blackwell semiconductors in a Shanghai data center linked to Alice
+Huang, the woman at the heart of a controversy surrounding the US
+chipmaker.</p>
+
+<p>The gear installed at the Yangtze River Delta Project included a
+GB300 NVL72 rack, among Nvidia’s most powerful products, according
+to a serial number specified in documents submitted to Chinese
+regulators in November. Shanghai Shuoyao offered the hardware as
+collateral to obtain a 96 million yuan ($14 million) loan from
+Shanghai Innovation Bank, according to filings from the lender
+that were reviewed by Bloomberg News.</p>
+
+<p>A second firm, Shanghai Kezhan, controlled by a Tokyo-based
+parent, described a GB200 server — which also relies on Blackwell
+chips — at the facility. That description was provided in
+documents when it obtained a 90 million yuan loan in late 2025
+from a finance-leasing firm wholly owned by a local Shanghai
+government agency. [...]</p>
+
+<p>The submissions reveal for the first time that Nvidia’s Blackwell
+processors found their way into a Chinese data center that has
+ties to Alice Huang and Megaspeed. These processors were until
+recently Nvidia’s most powerful data center products, and they’ve
+always been illegal to ship to China without a US license.</p>
+</blockquote>
+
+<p>Maybe — just hear me out — the Nvidia board should have waited until its own “<a href="https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors">independent investigation</a>” had finished before they made any hasty decisions.</p>
+
+<p><small>* <a href="https://daringfireball.net/linked/2021/02/12/bloomberg-big-con">Don’t forget</a>.</small></p>
+
+<div>
+<a  title="Permanent link to ‘Serial Numbers in Chinese Filings Reveal That Nvidia’s Restricted Blackwell Chips Were Installed at a Shanghai Datacenter Linked to Alice Huang and Megaspeed’"  href="https://daringfireball.net/linked/2026/11/27/nvidia-shanghai-alice-huang">&nbsp;★&nbsp;</a>
+</div>
+
+	]]></content>
+  </entry><entry>
     
     <link rel="alternate" type="text/html" href="https://daringfireball.net/2026/11/obvious_affordances_are_due_for_a_comeback" />
 	<link rel="shorturl" href="http://df4.us/xs7" />
@@ -230,7 +316,7 @@ account recovery requests that you did not initiate.</p></li>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/25/trump-alone" />
 	<id>tag:daringfireball.net,2026:/linked//6.43780</id>
 	<published>2026-11-25T22:31:10Z</published>
-	<updated>2026-11-25T22:31:10Z</updated>
+	<updated>2026-11-27T22:53:05Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -274,6 +360,8 @@ to shield Huang in the ongoing chip-smuggling and spy
 investigation. They’re all clustering together as their power ebbs
 and isolation grows.</p>
 </blockquote>
+
+<p>The stock market <a href="https://www.techmeme.com/261125/p24#a261125p24">seems to have lost much of its enthusiasm</a> for this intervention as well.</p>
 
 <div>
 <a  title="Permanent link to ‘‘Trump Wanted Jensen Huang Back. Now, the President Is Alone in Washington’’"  href="https://daringfireball.net/linked/2026/11/25/trump-alone">&nbsp;★&nbsp;</a>
@@ -400,7 +488,7 @@ image below).</p>
 	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/24/trump-nvidia-stock" />
 	<id>tag:daringfireball.net,2026:/linked//6.43776</id>
 	<published>2026-11-24T23:07:02Z</published>
-	<updated>2026-11-24T23:10:01Z</updated>
+	<updated>2026-11-27T23:16:35Z</updated>
 	<author>
 		<name>John Gruber</name>
 		<uri>http://daringfireball.net/</uri>
@@ -423,7 +511,7 @@ to the company’s value.</p>
 
 <p>This whole preposterous saga would reek to high hell even if Donald Trump didn’t own a share of stock in any public company. It’s <a href="https://www.theatlantic.com/ideas/2026/11/trump-huang-national-security-risk/689547/?gift=aQyUJR7AIw1mJWdQ6Ed6yMZXlDJkV7MdRh9tXNaeAe4&amp;">a national security farce</a> and a full-throated embrace of “<a href="https://daringfireball.net/linked/2026/11/24/nvidia-and-trumps-state-capitalism">state capitalism</a>” (per the well-known socialist sympathizers on the WSJ Editorial Board). But given that Trump <em>does</em> own stock in Nvidia, the corruption is prima facie. Who could possibly argue that this is <em>not</em> corrupt? The only possible defense is that everyone is corrupt and if everyone is corrupt, it’s OK when it’s your guy doing it.</p>
 
-<p>This, after “corruption” was <a href="https://www.cnbc.com/2026/10/23/corruption-midterm-election-cnbc-poll-trump.html">the top issue on U.S. voters’ minds</a> in this month’s election — an election in which Trump’s Republican Party took a historical drubbing. Huang’s reinstatement was obviously popular with a certain segment of investors and with <a href="https://x.com/gruber/status/2124214714825572861">the AI-mania wing of the tech industry</a>, but this whole abjectly corrupt affair is wildly unpopular with the electorate writ large.</p>
+<p>This, after “corruption” was <a href="https://www.cnbc.com/2026/10/23/corruption-midterm-election-cnbc-poll-trump.html">the top issue on U.S. voters’ minds</a> in this month’s election — an election in which Trump’s Republican Party took a historical drubbing. Huang’s reinstatement was obviously popular with a certain segment of investors and with <a href="https://x.com/gruber/status/2124214714825572861">the AI-mania wing of the tech industry</a>, but this whole abjectly corrupt affair is wildly unpopular with the electorate at large.</p>
 
 <div>
 <a  title="Permanent link to ‘Trump Made Up to $15M on Nvidia Stock After Huang’s Return’"  href="https://daringfireball.net/linked/2026/11/24/trump-nvidia-stock">&nbsp;★&nbsp;</a>
@@ -1900,79 +1988,6 @@ supply to market.</p>
 
 <div>
 <a  title="Permanent link to ‘Ben Thompson on Nvidia’"  href="https://daringfireball.net/linked/2026/11/16/ben-thompson-on-nvidia">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>WSJ: ‘Nvidia’s Days as an Open Checkbook for the AI Economy Are Numbered’</title>
-	<link rel="alternate" type="text/html" href="https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xqz" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/16/nvidia-checkbook" />
-	<id>tag:daringfireball.net,2026:/linked//6.43739</id>
-	<published>2026-11-16T17:37:48Z</published>
-	<updated>2026-11-16T17:37:48Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>Robbie Whelan, Anissa Gardizy, Kate Clark, reporting for The Wall Street Journal:</p>
-
-<blockquote>
-  <p>In his final months as chief executive of Nvidia, Jensen Huang
-was laying the groundwork to pull back the company’s approach to
-backstopping the AI economy.</p>
-
-<p>Now, with a finance chief at the helm who was already wary of some
-deals the ousted chief forged, the startups who had been counting
-on Nvidia’s support expect an even greater pullback.</p>
-
-<p>Just last month, the CEOs of emerging cloud companies that buy
-Nvidia chips and rent out computing power gathered in Berlin for
-Nvidia’s premier European artificial-intelligence conference. In a
-talk that surprised some, Huang’s message was clear: Nvidia’s days
-as an open checkbook were over.</p>
-</blockquote>
-
-<p>This makes sense. But how does this jibe with Nvidia moving forward on closing their preposterous $13 billion acquisition of Hugging Face, which <a href="https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/">Jensen Huang personally announced on September 3</a>? That acquisition epitomizes Nvidia’s role as the “open checkbook” for the entire AI industry. In August, just before the acquisition was announced, <a href="https://www.theinformation.com/briefings/exclusive-hugging-face-annualized-revenue-jumps-50-150-million/">The Information reported</a> that Hugging Face’s annual revenue was just $150 million. Typical SaaS companies have valuations around 10× annual revenue. Let’s say Hugging Face is so super duper special that they justify 20×. That’s $3 billion. (I do not think Hugging Face is super duper special.) $13 billion is closer to 100×, which is stupid.</p>
-
-<p>If the Huang era is over, Nvidia should unwind this deal.</p>
-
-<div>
-<a  title="Permanent link to ‘WSJ: ‘Nvidia’s Days as an Open Checkbook for the AI Economy Are Numbered’’"  href="https://daringfireball.net/linked/2026/11/16/nvidia-checkbook">&nbsp;★&nbsp;</a>
-</div>
-
-	]]></content>
-  </entry><entry>
-	<title>Oprah Gives Everyone in Her Audience a ‘Duo iPhone’</title>
-	<link rel="alternate" type="text/html" href="https://youtu.be/j0Rsv1U3Q7A" />
-	<link rel="shorturl" type="text/html" href="http://df4.us/xqy" />
-	<link rel="related" type="text/html" href="https://daringfireball.net/linked/2026/11/16/oprah-duos" />
-	<id>tag:daringfireball.net,2026:/linked//6.43738</id>
-	<published>2026-11-16T16:05:18Z</published>
-	<updated>2026-11-16T16:05:19Z</updated>
-	<author>
-		<name>John Gruber</name>
-		<uri>http://daringfireball.net/</uri>
-	</author>
-	<content type="html" xml:base="https://daringfireball.net/linked/" xml:lang="en"><![CDATA[
-<p>The Oprah Podcast:</p>
-
-<blockquote>
-  <p>In a special holiday episode Oprah brings back one of her
-legendary traditions with a live audience: ‘Oprah’s Favorite
-Things!’ Celebrating the 30th anniversary of the iconic list,
-Oprah surprises an unsuspecting audience full of caregivers with
-her must-have gifts for the season. From nurses, hospice workers,
-EMT’s, firefighters to parents caring for a child with special
-needs Oprah honors their stories and the compassion they show to
-others every day.</p>
-</blockquote>
-
-<p>Skip to the end, <a href="https://www.youtube.com/watch?v=j0Rsv1U3Q7A&amp;list=PLxJIo31qx92CU08Zy1CW-OuCK0-v5ppJH&amp;index=1&amp;t=3720s">1h:02m</a>, for the Duos. The crowd goes bananas.</p>
-
-<div>
-<a  title="Permanent link to ‘Oprah Gives Everyone in Her Audience a ‘Duo iPhone’’"  href="https://daringfireball.net/linked/2026/11/16/oprah-duos">&nbsp;★&nbsp;</a>
 </div>
 
 	]]></content>
